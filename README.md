@@ -21,12 +21,14 @@ Please, just buy the game people. It's 10 bucks on Steam.
   - The official translation, and surprisingly the worst. Generally drops about 50-80% of everything from the dialogue. I get the impression that whoever was
     contracted to do this gave no fucks and did not really give a shit at keeping any humor, nuance or anything beyond the basic meaning of a sentence.
 
+- [JP] FINAL COMPLETE (2014)
+  - The most polished, intended to be complete release. Includes animations and other fancy things. For now, I just have a raw dump to check for differences.
+
 ## Planned for inclusion
 
 - [JP] Original release (2003)
 - [JP] Reprint edition (2012)
 - [JP] For all people (console release) (2014)
-- [JP] FINAL COMPLETE (2014)
 
 ## How to Use
 

@@ -6,6 +6,9 @@ raw/amaterasu/*
 raw/georgehenryshaft/*
 !raw/georgehenryshaft/scripts/
 
+raw/final-complete/*
+!raw/final-complete/scripts/
+
 # Ignore other files in raw
 raw/*.exe
 raw/*.dll 
