@@ -17,6 +17,9 @@ Please, just buy the game people. It's 10 bucks on Steam.
 - [EN] George Henry Shaft (2013)
   - Fever dream translation. Is generally higher in quality, but also more deliberately wrong. I highly recommend reading the internal notes GHS wrote throughout
     the entire script if you want to see the ramblings of a madman. It's kind of fascinating in its own way.
+- [EN] Steam Edition (Moenovel) (2018) 
+  - The official translation, and surprisingly the worst. Generally drops about 50-80% of everything from the dialogue. I get the impression that whoever was
+    contracted to do this gave no fucks and did not really give a shit at keeping any humor, nuance or anything beyond the basic meaning of a sentence.
 
 ## Planned for inclusion
 
@@ -24,12 +27,17 @@ Please, just buy the game people. It's 10 bucks on Steam.
 - [JP] Reprint edition (2012)
 - [JP] For all people (console release) (2014)
 - [JP] FINAL COMPLETE (2014)
-- [EN] Steam Edition (Moenovel) (2018) 
 
 ## How to Use
 
-Currently it's just a basic bitch extraction of the text. I'm going to have to make a separate script for moenovel's nonsense ;_;
+### Standard (dsf format)
 
 ```
-python extract_scripts.py
+python extract_scripts.py <input directory> <output directory>
+```
+
+### Moenovel binary format
+
+```
+python extract_moenovel.py raw/moenovel/scripts
 ```

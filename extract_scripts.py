@@ -1,4 +1,5 @@
 import os
+import sys
 import re
 import codecs
 from pathlib import Path
@@ -135,13 +136,18 @@ def process_translation(translation_dir, output_dir):
                             f.write(f"(TL Note: {line['tlnote']})\n")
 
 def main():
-    # Create output directories if they don't exist
-    os.makedirs('scripts/amaterasu', exist_ok=True)
-    os.makedirs('scripts/georgehenryshaft', exist_ok=True)
+    if len(sys.argv) != 3:
+        print("Usage: python extract_scripts.py <translation_directory> <output_directory>")
+        sys.exit(1)
+
+    input_path = sys.argv[1]
+    output_dir = sys.argv[2]
     
+    # Create output directories if they don't exist
+    os.makedirs(output_dir, exist_ok=True)
+
     # Process each translation
-    process_translation('raw/amaterasu/scripts', 'scripts/amaterasu')  # Fixed path
-    process_translation('raw/georgehenryshaft/scripts', 'scripts/georgehenryshaft')
+    process_translation(input_path, output_dir)
 
 if __name__ == "__main__":
     main() 
