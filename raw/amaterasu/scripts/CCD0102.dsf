@@ -1,0 +1,203 @@
+
+
+
+
+Now then,
+TP
+
+
+
+
+
+
+
+
+//Far more confusing code this time. Basically, you have five locations to choose from, each sending you down a different subroute. The Tasaki Shop subroute (obviously, Miki's) can only be selected in the previous script. The other four are here, but each one is removed from the list after you complete it, via all this code. Å`IX
+//At this point, cafetaria options lead to the roof. The other options are fine. - Raide
+
+
+:K_ON1
+IF $SB_KRI == 1 JMP T_ON1
+
+IF $SB_TKO == 0 JMP K_T_ON1
+IF $SB_MSA == 0 JMP K_M_ON1
+IF $SB_SKU == 0 JMP K_S_ON1
+
+
+$B = 1
+JMP C_END
+
+
+:K_T_ON1
+IF $SB_MSA == 0 JMP K_T_M_ON1
+IF $SB_SKU == 0 JMP K_T_S_ON1
+
+CSQ 0 1 1
+  -First year classroom
+  -Second year classroom
+
+JMP C_END
+
+
+:K_M_ON1
+IF $SB_SKU == 0 JMP K_M_S_ON1
+
+CSQ 0 1 1
+  -First year classroom
+  -Roof
+
+IF $B == 2 $B = 3
+
+JMP C_END
+
+
+:K_S_ON1
+
+CSQ 0 1 1
+  -First year classroom
+  -Cafeteria
+
+IF $B == 2 $B = 4
+
+JMP C_END
+
+
+:K_T_M_ON1
+IF $SB_SKU == 0 JMP K_T_M_S_ON1
+
+CSQ 0 1 1 1
+  -First year classroom
+  -Second year classroom
+  -Roof
+
+JMP C_END
+
+
+:K_T_S_ON1
+
+CSQ 0 1 1 1
+  -First year classroom
+  -Second year classroom
+  -Cafeteria
+
+IF $B == 3 $B = 4
+
+JMP C_END
+
+
+:K_M_S_ON1
+
+CSQ 0 1 1 1
+  -First year classroom
+  -Roof
+  -Cafeteria
+
+IF $B == 3 $B = 4
+IF $B == 2 $B = 3
+
+JMP C_END
+
+
+:K_T_M_S_ON1
+
+CSQ 0 1 1 1 1
+  -First year classroom
+  -Second year classroom
+  -Roof
+  -Cafeteria
+
+JMP C_END
+
+
+
+
+
+:T_ON1
+IF $SB_TKO == 1 JMP M_ON1
+
+IF $SB_MSA == 0 JMP T_M_ON1
+IF $SB_SKU == 0 JMP T_S_ON1
+
+
+$B = 2
+JMP C_END
+
+
+:T_M_ON1
+IF $SB_SKU == 0 JMP T_M_S_ON1
+
+CSQ 0 1 1
+  -Second year classroom
+  -Roof
+
+IF $B == 2 $B = 3
+IF $B == 1 $B = 2
+
+JMP C_END
+
+
+:T_S_ON1
+
+CSQ 0 1 1
+  -Second year classroom
+  -Cafeteria
+
+IF $B == 2 $B = 4
+IF $B == 1 $B = 2
+
+JMP C_END
+
+
+:T_M_S_ON1
+
+CSQ 0 1 1 1
+  -Second year classroom
+  -Roof
+  -Cafeteria
+
+IF $B == 3 $B = 4
+IF $B == 2 $B = 3
+IF $B == 1 $B = 2
+
+JMP C_END
+
+
+
+
+
+:M_ON1
+IF $SB_MSA == 1 JMP S_ON1
+
+IF $SB_SKU == 0 JMP M_S_ON1
+
+$B = 3
+JMP C_END
+
+
+:M_S_ON1
+
+CSQ 0 1 1
+  -Roof
+  -Cafeteria
+
+IF $B == 2 $B = 4
+IF $B == 1 $B = 3
+
+JMP C_END
+
+
+
+
+
+:S_ON1
+
+$B = 4
+JMP C_END
+
+
+
+
+
+:C_END
+
+RET

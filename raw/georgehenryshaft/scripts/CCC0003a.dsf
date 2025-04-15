@@ -1,0 +1,568 @@
+//Monday September 7, 1998 -GHS
+
+GL 0 bgcc0002
+GS 0 1
+GS 1 0
+SEF 152 0
+TWS 0
+//HACK ADV mode -GHS
+
+WVP 1 bgm002.ogg 0 0 0
+
+//学校に行ってみようと思って、家を出た。
+//HACK removed for YAY new lines! -GHS
+
+SEF 101 1
+//HACK shake screen -GHS
+
+//太一「いててててててて……」
+Taichi: "OwChChChChChChCh..."
+//I even went and counted them instead of immediately putting seven of them there. I must be getting slow. -GHS
+TP
+
+//学校に行ってみようと思って、家を出ようとした瞬間、滑って転んだ。
+The instant I left the house, thinking of maybe heading to school, I slipped and fell.
+TP
+
+//頭を打った。
+And hit my head.
+//He hits his head, three seconds later we meet Youko in ways that shouldn't be equivocal for the first time. It's almost too good to be true. -GHS
+TP
+
+//頑丈な頭蓋骨だから、ダメージはなかった。
+I have one stout cranium, therefore there was no damage.
+TP
+
+//けど……。
+However...
+TP
+
+//太一「うー、なんだこのもわっとした感覚は……」
+Taichi: "Ngggh, what's this feeling like it's all foggy..."
+// "Mowatto" seems a variant on もやもや http://okwave.jp/qa/q7341075.html "as if it my eyes had a bit of Kiri in front of it", heh, how appropriate. Seems to go nice with that "poyatto" below. This all fits so well with Miyuki's illness ("edges of the world become unfocused") it's just scary. -GHS
+TP
+
+//モノローグをもってしてもうまく説明できない。
+I can't explain this well even with a monologue.
+//Then all is doom! (See CCX0001) -GHS
+TP
+
+//なんというか……心をオブラートで包んだような。
+It's like, how to say... my heart was sugarcoated, like a bitter pill wrapped in oblaat.
+//I had it done and adapted it so well as "beat around the bush", and then, during graphics reinsertion... well, since this is the one exception it will do half-explanation, half-googleitlazybones. -GHS
+TP
+//受ける感覚が鈍くなったような。
+Like the reception of feelings and senses had grown dull.
+TP
+//さりとて、それも完全ではないような。
+And yet, that doesn't seem to be the whole of it either.
+TP
+//切れるかも知らない、バンジージャンプ用のロープ……といったあたりか。
+Like a tense bungee jumping rope that might just snap... something like that?
+//Because this needed more references to Bungie... yes, it's officially transliterated バンジー, same as bungee. And he even added a seven right at the start. If this isn't intentional it's an almost astonishing coincidence. This is of course because Taichi Is About To Snap(tm), and it's toootally not to be taken at least as ambiguous of him having bonked his head somewhere and all this thing about Youko being very much literally in his mind. -GHS
+TP
+//ともかく異常事態であり、学校に行かねばなるまい。
+Regardless, this is a weird situation, and I should perhaps just go to school.
+TP
+//HACK end new lines -GHS
+
+
+
+
+//曜子ちゃんがいた。
+Youko-chan was there.
+//Regardless of the above, I hope you've been paying attention. -GHS
+TP
+
+
+//太一「あれ？」
+Taichi: "Oh my?"
+TP
+
+GL 1 TCHY0000
+GP 1 180 0
+GI 1 1
+//See CCA0030. Odd she's in her uniform... odd that she's ALWAYS in her uniform. Far odder than it is for the rest. -GHS
+
+WVP 0 vfCCC0003you000
+//曜子「……お、おはよう」
+Youko: "...mo-, morning."
+TP
+
+
+//ちょっぴり怯えている。
+Seems to be fairly frightened.
+//See CCD5001. First time we ever see her, and she's frightened. -GHS
+TP
+
+
+//……いじめすぎたかな。
+...too much teasing perhaps.
+//And in the day before? I don't think so, buddy. This is pure Manifestation. -GHS
+TP
+
+
+//太一「なにもしないよ、こんな異常事態のさなかに」
+Taichi: "I'm not gonna do anything when we're in a situation this abnormal!"
+TP
+
+
+//手招きする。
+I beckon her with the hand,
+TP
+
+
+//微笑み。
+smiling.
+TP
+
+
+//太一「そんなトコいないで、こっちにおいでよ」
+Taichi: "Don't just stay over there, come over here."
+TP
+
+
+//曜子ちゃんは少しほっとして、近寄ってくる。
+A bit relieved, Youko-chan approaches.
+TP
+
+
+//ほっぺたをつまんだ。
+I pinch her cheeks.
+TP
+GL 4 sgcc0019
+$CGsgcc0019 = 1
+GP 4 0 0
+GS 4 1
+GS 1 0
+SEF 109 0
+
+WVP 0 vfCCC0003you001
+//曜子「…………」
+Youko: "......"
+TP
+
+
+//反射的に嫌がらせをしてしまった。
+I've ended up harassing her reflexively.
+TP
+
+
+//さすが、表情一つ変えない。
+Expectably, her expression does not change even one bit.
+//Dolls can't change their expressions much. Whether Youko is an animate one or a literal one. -GHS
+TP
+
+
+//ポーカーフェイスが、こころなしか呆れているようにも見える。
+Still, her poker faced seemed to be somewhat disgusted.
+TP
+
+
+//太一「おはよう」
+Taichi: "'Morning."
+TP
+
+
+WVP 0 vfCCC0003you002
+//曜子「……うそつき」
+Youko: "...liar."
+TP
+
+
+//太一「うん」
+Taichi: "Yes."
+TP
+
+
+//正しい。
+That's correct.
+TP
+
+
+//太一「俺はアラベスクだからね」
+Taichi: "I am Arabesque after all."
+TP
+
+
+WVP 0 vfCCC0003you003
+//曜子「……ピカレスク、って言いたいんだと思う」
+Youko: "...picaresque is the correct word, I think."
+TP
+
+
+//太一「…………」
+Taichi: "......"
+TP
+
+
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+
+//ぐいっ
+Squeeq.
+TP
+
+
+WVP 0 vfCCC0003you004
+//曜子「いたい」
+Youko: "Hurts."
+TP
+
+
+//表情を変えずに痛がる。
+Pain complaint without batting an eye.
+TP
+
+
+//太一「そんな単純なミスをした自分が許せない」
+Taichi: "A mistake this obvious should be unforgivable for oneself."
+//His instinctive pranking, her trusting him. -GHS
+TP
+
+
+WVP 0 vfCCC0003you005
+//曜子「だったら自分をいじめればいいのに……あ、それいたい、すごく……」/（★★★淡々と）
+Youko: "Then one would best torment oneself... ah, that hurts, plenty..."
+//"Flatly". If he's talking about both their mistakes, then she's talking about self-tormenting in both cases. If the mistake is made by the same person... and it works regardless, because of Alter Egos -GHS
+TP
+
+
+
+//全然痛そうな様子ではない。
+She does not appear to be in a state of pain at all.
+TP
+GS 4 0
+SEF 109 0
+//太一「で、どしたの？」
+Taichi: "So, what's it you want?"
+TP
+
+
+//太一「こんな昼から姿を見せるなんて珍しい。闇に隠れて生きてるんだと思った」
+Taichi: "Showing yourself on this side of midnight is pretty rare. I thought you lived a life hidden in the shadows."
+//Oddly, the term seems to mean "afternoon". But it's not afternoon at all, is it...? -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 1
+
+WVP 0 vfCCC0003you006
+//曜子「これ」
+Youko: "Here."
+TP
+
+
+//紙袋。
+Paper bag.
+TP
+
+
+//太一「女性用下着？」
+Taichi: "Women's underwear?"
+TP
+
+
+WVP 0 vfCCC0003you007
+//曜子「いるの？」
+Youko: "Need some?"
+TP
+
+
+//太一「いや……どうだろ？」
+Taichi: "Well... sure, why not?"
+TP
+
+
+//俺という人間は反射的すぎた。
+The human known as I was excessively reflexive.
+//Both as 'automatic' and 'self-reflecting' of course. -GHS
+TP
+
+
+WVP 0 vfCCC0003you008
+//曜子「部屋のタンスにいくらでも入っているけど」
+Youko: "But in the dresser of my room there are as many as you may want."
+TP
+
+
+//太一「いや、どうせだったら脱ぎたてでないと……」
+Taichi: "Well, it's not like they have been freshly stripped off..."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCC0003you009
+//曜子「……わかった」
+Youko: "...understood."
+TP
+
+
+//脱ぎだした。
+She went to strip hers off.
+TP
+
+
+//太一「いいって！　いらんがな！」
+Taichi: "Really now! I don'wann'em!"
+//Inenional (x2) (x2) -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCC0003you010
+//曜子「……ん」
+Youko: "...mh."
+TP
+
+
+//太一「そんなホイホイ脱がれたら、オークションで写真つきで売っちゃいそうだ」
+Taichi: "If you take them off all blithely blithe, I might just sell them on an auction with picture attached, yes I might."
+//Because "orosu", to slip down, also means to sell wholesale. ...how many did even get this one, seriously? -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCC0003you011
+//曜子「……いやかも」
+Youko: "...not nice, maybe."
+//still passive-aggressive sorta -GHS
+TP
+
+
+//太一「四枚のショーツを頭にかぶりつつ自分でも履いて腕輪がわりに両手首にも通して、下着オナニーの饗宴にふけるかもしれぬ」
+Taichi: "And mayhap wear them and in the meantime having four pairs on as hats while fitting just as many on both wrists in the place of bracelets, and thus indulge in a banquet of underwear onanism."
+//He just threatened to wear Youko's panties. Shouldn't be unexpected of a cross-dresser, really. -GHS
+TP
+
+
+WVP 0 vfCCC0003you012
+//曜子「それならいいけど」
+Youko: "But that would be fine."
+TP
+
+
+//いいのかい。
+Fine it would be?
+TP
+
+
+//しれっと言ったぞ。
+She said that all nonchalantly she did!
+//PCP CCA0003
+//Hi, Nanaka. -GHS
+TP
+
+
+//太一「あのねえ……もっとシャンとしようよ。三年生なんだろ」
+Taichi: "You know, girl... be more dignified. You're a third year are you?"
+//See CCD2002... -GHS
+TP
+
+WVP 0 vfCCC0003you013
+//曜子「してるもの」
+Youko: "I am that."
+//Both dignified and third year, I suppose. -GHS
+TP
+
+//太一「してない。なんかぐんにょりしてる」
+Taichi: "Are being not. You're still sort of a killjoy."
+//http://qarc.info/qa/show-9073-508.html seems to be a variant of ぐんにゃり. Not sure if it's an accent. -GHS
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCC0003you014
+//曜子「……心外」
+Youko: "...unthinkable."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+
+WVP 0 vfCCC0003you015
+//曜子「太一はぽやっとしてる」
+Youko: "Taichi is unfocused."
+//ぽやっと poyatto seems to be a variant of ぼやっと boyatto. doesn't seem to google to anything clearly different. 仮 kari seems to be the meaning, which isn't much different. -GHS
+TP
+
+//太一「ぽやりたい年ごろなんだ。思春期なんだよ」
+Taichi: "I'm of the age of wanting to lose focus you know. I'm adolescent remember!"
+TP
+
+//と、紙袋の中身を確認する。
+I go ascertain the contents of the paper bag.
+TP
+
+
+//太一「……サンドイッチ？」
+Taichi: "...sandwiches?"
+TP
+
+//かなり大量にあった。
+And a fairly large amount there was.
+TP
+
+
+WVP 0 vfCCC0003you016
+//曜子「生ものは可能な限り保存食にしたので、あまった分で」
+Youko: "The perishables had to be made into preserved food within the limits of the possible, these are with what was left."
+//She seems do it especially with candies and cookies and the like, the damn pedo. There's not many ways "without" electricity to preserve stuff for long AFAIK. -GHS
+TP
+
+//太一「作ったのね」
+Taichi: "They're handmade then."
+TP
+
+//太一「……そうか、人がいないと野菜や果物が」
+Taichi: "...right, with no more people then vegetables and fruits..."
+TP
+
+WVP 0 vfCCC0003you017
+//曜子「当面は。ただ畑や温室をいくつか管理しておくから……二人が生きる程度ならどうということは……」
+Youko: "For the time being. If we only tend to a limited number of fields and greenhouses... the degree of survivability for two people would then be..."
+TP
+
+//太一「八人だよ」
+Taichi: "There are eight people."
+TP
+
+//指を立てて言う。
+So I say with a raised finger.
+TP
+
+
+//太一「そーいう考え方はよくない。人間が壊れる」
+Taichi: "That way of thinking is not good. It will break your character as a human."
+//AFAIK this is the only time 'ningen' is used explicitly laterally as 'character'. -GHS
+TP
+
+
+//太一「俺たち、まっとうに生きるって決めただろ？」
+Taichi: "We decided to live respectably, right?"
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCC0003you018
+//曜子「……うん」
+Youko: "...yes."
+TP
+
+
+//素直にうなずきはするけれど。
+There is an obedient nod, however,
+TP
+
+
+//結局、俺の言うことをそのまま機械的に実行するだけなんだよな。
+in the end this is nothing more than continuing to mechanically carry out what I said, without change.
+TP
+
+//>　　　　　　しゃく
+//どうも癪だ。
+Quite the cause of offense.
+TP
+
+//太一「ありがとう。もらっておくよ。ちょっと量が多すぎる気がするけど」
+Taichi: "Thank you. I'll be graciously taking this. Sure seems that there's an awful lot of them, though."
+TP
+GL 1 TCHY0000
+
+GI 1 0
+
+//曜子「…………」
+Youko: "......"
+TP
+
+//顔面筋肉が（指の下で）少し動いた気がする。
+I notice that her facial muscles (underfinger) move just slightly.
+TP
+
+
+//太一「まるで二人分あるかのような量だね」
+Taichi: "Almost as if this amount were intended for two."
+TP
+
+//曜子「…………」
+Youko: "......"
+TP
+
+//顔面筋肉が（指の下で）少し動いた気がする。
+I notice that her facial muscles (underfinger) move just slightly.
+//CP above
+TP
+
+
+//触れていなければ、その微細な表情変化はとても読み取れない。
+If I weren't touching her, I would never catch those microscopic changes in facial expression.
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+//太一「まるで二人分あるかのような量だね」
+Taichi: "Almost as if this amount were intended for two."
+//CP above
+TP
+
+//もう一度言ってみた。
+I tried saying it one more time.
+TP
+
+
+//曜子「…………」
+Youko: "......"
+TP
+
+//顔面筋肉が（指の下で）少し動いた気がする。
+I notice that her facial muscles (underfinger) move just slightly.
+//CP above
+//fun, eh, the fixed existence. -GHS
+TP
+
+
+//ははーん。
+Ah-huh.
+TP
+
+
+//邪悪な考え。
+Wicked thoughts.
+//Both of course, her (lame) plans -GHS
+TP
+
+
+//太一「この二人分のサンドイッチ……これを俺は是非……」
+Taichi: "These sandwiches for two... most certainly, I will..."
+TP
+
+
+
+
+CSQ 0 1 1
+//　・一人で食う
+//　・誰か他の人と食う
+ - Eat them alone
+ - Eat them with anybody else
+
+
+RET

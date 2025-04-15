@@ -1,0 +1,795 @@
+
+GL 0 bgcc0009
+GS 0 1
+GS 5 0
+//HACK disable sky -GHS
+GS 1 0
+SEF 152 0
+
+WT 500 1
+
+GL 0 bgcc0010
+GS 0 1
+SEF 152 0
+
+WT 500 1
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+//誰もいない。
+There is no one.
+TP
+
+//一人で弁当を広げた。
+Alone, I unfolded and spreaded out my packed lunch.
+TP
+
+//太一「ふう」
+Taichi: "Whew."
+//CP CCA0012
+TP
+
+//あいかわらず二人分の弁当だった。
+Packed lunch was enough for two, as usual.
+TP
+
+WT 500 0
+
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 1
+//やることもなく、再び屋上に。
+With not a thing to do, I go again to the rooftop.
+TP
+
+//霧がいた。
+Kiri was there,
+TP
+
+//フェンスから外界を見渡している。
+taking in the view of the outside world from the fence.
+TP
+
+//既視感が、俺の意識を過去昔へと連れ去った。
+Paramnesia kidnapped my awareness to the distant past.
+//It's also a fancy world for Deja Vu. Also. -GHS
+TP
+
+
+WVP 3 SE001 0 0
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0007s
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+
+//GL 0 bgcc0007s
+//GS 0 1
+//SEF 10 1
+
+
+WVP 1 bgm015.ogg 0 0 0
+
+//夏も終わりかけていた。
+Summer was also in its ending,
+TP
+
+//蝉たちも一際うるさかった。
+the cicadas still conspicuously noisy.
+TP
+
+//叩きつけるような鳴き声。
+Cries loud like slaps in the face.
+TP
+
+//最後の命を振り絞っていると知れる。
+Straining their voice to make it known that they are summoning the last of their life force.
+TP
+
+//命の残滓に彩られる夏。
+It was a Summer tinged in the dregs of life.
+TP
+
+//霧は屋上にいた。
+Kiri was on the rooftop,
+TP
+
+//一人だ。
+alone,
+TP
+
+//泣いていた。
+crying.
+TP
+
+//背後からでも、肩の震えを見ればわかる。
+Even from the back, that shaking of the shoulders is unmistakable.
+TP
+
+//太一「霧……」
+Taichi: "Kiri..."
+TP
+
+GL 1 TCSK0002s
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfCCC3008kri000
+//霧「……黒須……先輩？」
+Kiri: "...Kurosu... senpai?"
+TP
+
+//涙を隠すこともなく。
+She does not hide her tears.
+TP
+
+WVP 0 vfCCC3008kri001
+//霧「豊……豊が……ここから落ちて……」
+Kiri: "Yutaka... Yutaka, he... fell from here..."
+//Notice she's not even remotely suspecting him, despite having seen him. It's only ex-post facto rationalization from what happens next. Marvelous cross-conversation. -GHS
+TP
+
+
+//太一「ああ……」
+Taichi: "Ahhh..."
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//知っていた。
+She knew.
+//This line makes literally little sense: knew what? of course she damn well knew Yutaka had died. That Yutaka had fallen from the rooftop it should be easily understood. The point here is that she knows THE EXACT SPOT. And Taichi recognizes this all the way from here. This is why he sounds so worried in CCC3023. -GHS
+TP
+
+//知らない者はいなかった。
+There was no one who didn't,
+TP
+
+//この街には。
+here in this town.
+TP
+
+//世間一般では、学生が一人飛び降り自殺をすれば、それなりに話題になる。
+In society at large, a student leaping off to his death on his own would be newsworthy, in some way.
+TP
+
+//保護者は学校を問いつめ、誰が悪いのか、白日のもとにさらそうとする。
+Guardians would press the school with questions, so as to bring to daylight who was in the wrong.
+//More than its share of sarcasm here. -GHS
+TP
+
+//学校も責任を回避しようとする。
+And the school, then, would try to avoid responsibility.
+TP
+
+//群青ではそれがない。
+But at Gunjou there is none of that.
+TP
+
+//世間の誰も問いつめてはこないし、学校も逃げない。
+No one in society would press questions, and the school would not dodge them.
+TP
+
+//何人かの人間が責任を取った。
+Some humans somewhere took responsibility.
+//For coldZ. -GHS
+TP
+
+//世間は群青の危険な少年少女たちのことなど、どうでも良かった。
+To the world, the dangerous boys and girls of Gunjou and all that is around them could do whatever they wanted with themselves.
+//Which is why Kiri repeatedly assaulting Taichi with what may be a still relatively nasty BB gun is frowned upon, but not necessarily cause her particular trouble. -GHS
+TP
+
+//悲しむ者は、わずか。
+Mourners, a mere few.
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+GL 1 TCSK0004s
+GI 1 0
+WVP 0 vfCCC3008kri002
+//霧「誰も……誰も……悲しまない……わたしたちがどういう気持ちで……生きてきたのか……誰もっ」
+Kiri: "No one... no one... is even sad... for all the feelings that we had lived with... no one!"
+//You skipped the second to last ellipses, Matsuryu-chan. -GHS
+TP
+
+//珍しく興奮していた。
+There was a rare excitement here.
+//Hers, and his sexual one due to it being the way he dodges emotional impact. -GHS
+TP
+
+//豊の死から、すでに一週間が経過していた。
+One week had already passed since Yutaka's death.
+//Obvious comment here. -GHS
+TP
+
+//霧の悲嘆は遅れてきていた。
+Kiri's grief had come behind schedule.
+//She suppresses her pain, in other words. Just like Taichi does. See CCC4006. -GHS
+TP
+
+//太一「なあ霧……豊は、幸せだったのかな」
+Taichi: "Say, Kiri, I'm wondering... was Yutaka happy?"
+TP
+
+//霧「……？」
+Kiri: "...?"
+TP
+
+//太一「あいつはあいつなりに、幸せだったのかな？」
+Taichi: "I'm wondering, was that guy happy, even in his own way?"
+TP
+
+//ありがちな問いかけ。
+An usual question to ask,
+TP
+
+//けど。
+but,
+TP
+
+//意味はまったく逆だった。
+the meaning was wholly and damnably the opposite.
+TP
+
+GL 1 TCSK0002s
+GI 1 0
+WVP 0 vfCCC3008kri004
+//霧「……ずっと、つらい思いをしてきたんです」
+Kiri: "...always, he was always feeling bitter."
+TP
+
+//太一「本当にずっとつらかった？」
+Taichi: "Truly, always, bitter?"
+TP
+
+//太一「一瞬でも、幸せな時間はなかった？」
+Taichi: "There were never times of happiness, not even one instant?"
+TP
+
+GL 1 TCSK0004s
+GI 1 0
+WVP 0 vfCCC3008kri005
+//霧「それは……」
+Kiri: "Well..."
+TP
+
+//あったに違いない。
+There were. No mistake.
+TP
+
+WVP 0 vfCCC3008kri006
+//霧「……先輩と友達になってからは……笑うように……」
+Kiri: "...since he became friends with you, Senpai... he seemed to be smiling..."
+TP
+
+GL 1 TCSK0021s
+GI 1 0
+//HACK earlier angry Kiri -GHS
+
+WVP 0 vfCCC3008kri007
+//霧「けど全然取り戻してないっ」
+Kiri: "But he did not recover in the slightest!"
+TP
+
+//語調が強まる。
+Her tone gains strength.
+TP
+
+WVP 0 vfCCC3008kri008
+//霧「受けた苦しみを、ちっとも取り戻してないっ」
+Kiri: "He didn't recover at all, not from all the anguish he had suffered!"
+//She possibly just means all that had happened at their previous school that got them sent there. But if she does have the insight that she's alleged to have, she does know, deep down, already. That's why she's easily convinced. -GHS
+TP
+
+//太一「じゃあ霧ちんは、豊の人生が取るに足らないものだったと思ってるわけか」
+Taichi: "Therefore, Kiri-chin, you think that the life Yutaka was living had no value, do you?"
+//That's a much odder question. What does he care whether she thinks Yutaka had a worthless life? Part troll, part him wanting to know if she's over him. -GHS
+TP
+
+GL 1 TCSK0004s
+GI 1 0
+WVP 0 vfCCC3008kri009
+//霧「そうじゃ……ないですけど……」
+Kiri: "No, it's... not like that..."
+TP
+
+//太一「……と言ってはみたものの、悲しいのは理屈じゃないものな」
+Taichi: "...so I might say, however, sadness is not something rational."
+TP
+
+//俺も迷っていた。
+I was puzzled, too,
+TP
+
+//霧の処遇に。
+as to how to treat Kiri.
+TP
+
+//太一「泣けばいいさ」
+Taichi: "Crying is fine you know."
+TP
+
+GL 4 BGCC0000BS
+GI 4 1
+//HACK sky -GHS
+
+//空を見あげる。
+I look up at the sky.
+TP
+
+//視界を埋めた純白が、巨大な入道雲と理解できるまでの刹那。
+An instant passed before I could understand that the pure white my vision was buried in was an enormous cluster of cumulonimbus.
+TP
+
+//太一「せめて夏が終わる前に」
+Taichi: "At least, before Summer ends."
+TP
+
+//蝉たちの最期とともに。
+Along with the last moments of the cicadas' lives.
+TP
+
+//万感こもごも含んだ意味に、霧には聞こえたのだろう。
+Kiri must have heard thousands of feelings within that meaning, one after the other.
+//See CCX0001: he's serious. And Kiri can tell, even if she can't do so rationally any more than Taichi can. He thinks he's manipulating her; he's actually asking her to cry in his stead. But he doesn't understand this yet. -GHS
+TP
+//GO 1 1
+//HACK still unneeded -GHS
+WVP 0 vfCCC3008kri010
+//霧「……うわぁぁぁぁぁぁぁぁぁぁぁぁぁ！」
+Kiri: "...bwAAAAAAAAAAAAAAH!"
+//14xA considering the one in 'wa' -GHS
+TP
+
+//目を伏せ、俺のシャツの裾を掴んで、声を張り上げた。
+Eyes downcast, grabbing the hem of my shirt, and screaming out.
+TP
+
+WVP 0 vfCCC3008kri011
+//霧「ゆたにぃが……死んじゃった……死んで……」
+Kiri: "Yuta-nii... he died... he's dead..."
+TP
+
+//嗚咽。
+A wail of tears.
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//ゆたにぃ。
+'Yuta-nii'.
+//ゆ。 -GHS
+TP
+
+//大好きな、お兄ちゃんだったわけだ。
+He was her beloved onii-chan, that's what he was.
+TP
+
+//片足でも立派に生きて。
+Living magnificently even if on one leg.
+TP
+
+//霧の両親―――
+Kiri's parents---
+TP
+
+//豊の葬式で見た二人の顔には、軽い安堵があった。
+The face I saw on those two at Yutaka's funeral was that of faint relief.
+TP
+
+//霧はそのことに気づいているのか。
+Did Kiri even notice that?
+TP
+
+//おそらく、悟っているに違いなかった。
+I believe that she did realize that, and no mistake.
+TP
+
+//いろんなつらい目に遭っても、二人で支え合ってきたんだろう。
+Whatever hardship their eyes met, the two would have supported each other.
+TP
+
+//いわば半身だ。
+As if they were halves.
+TP
+
+//霧は半分なのだ。
+Kiri is only an half, yes.
+TP
+
+//俺と同様に……。
+Just like I am...
+//Ex-bully Yutaka (who is not ex- in Taichi's eyes) is causing Kiri's suffering, if indirectly. What comes next in this pattern? -GHS
+TP
+
+//ただ霧は、望んでそうなった。
+Except Kiri seemed to have wished for that.
+//In case someone didn't see CCC0000 as rape... -GHS
+TP
+
+//今は強い感情が気力を剥奪している。
+Right now, strong emotions are depriving her of vigor.
+TP
+
+//が、いずれ悲しみが薄れれば、あるべきはずのもう半分を求めるだろう。
+But should someday the sadness grow faint, she will be searching for that half that she expects to be there, that must be there.
+//The error Taichi makes here is to think that is a good thing. It isn't. Other people can't cry your own tears any more than a human taking punishment can take away another human's sin. -GHS
+TP
+
+GL 5 zzzCCC3008yutakiri
+GI 5 1
+//HACK THEY'RE IN THE SKYYYYYYY -GHS
+
+//豊と霧。
+Yutaka and Kiri.
+//The two Kanjis don't seem to combine into a single name somehow. Maybe it's intended, maybe I'm missing something. -GHS
+TP
+
+GO 5 1
+//HACK normal sky -GHS
+
+//一心同体だった二人。
+They were alter egos.
+TP
+
+//霧に罪はない。
+Kiri has no sin,
+//See CCA0021 -GHS
+TP
+
+//けど俺は……俺の怪物は、身じろぎしてしまった。
+but I... my monster was already stirring.
+//High emotional stress, avoidance of emotivity turned into a self-defined monstrosity ("not having the qualifications to talk to people with their real face" and all that), Kiri sad because of a lack of a half, who he's seen die with his eyes. The Great Pattern begins. By the way, since seeing her on the rooftop made Taichi remember this previous event, that means the deja vu is at least two levels deep. -GHS
+TP
+
+GO 4 1
+//HACK to rooftop -GHS
+
+//太一「霧……」
+Taichi: "Kiri..."
+TP
+
+//背中に手をまわす。
+Hands move on her back.
+//Impersonal -GHS
+TP
+
+//激情が索敵を甘くして、霧は気づかない。
+Violent emotions make enemy warning mechanisms less sharp, and Kiri does not notice.
+TP
+
+WVP 0 vfCCC3008kri012
+//霧「ううう……うぁぁぁぁ……」
+Kiri: "Bwuhhh... bwhaaaa..."
+TP
+
+//少しずつ、情緒は沈静化していく。
+Little by little, her emotions were transforming into calmness.
+TP
+
+//その頃には、俺はすっかり霧を抱きしめていた。
+By then, I had completely hugged Kiri.
+TP
+
+//太一「霧……寂しい？」
+Taichi: "Kiri... lonely?'
+//There we go. -GHS
+TP
+
+//霧「……？」
+Kiri: "...?"
+TP
+
+//太一「寂しい、よな」
+Taichi: "Lonely, aren't you."
+TP
+
+GL 1 TCSK0004s
+GI 1 0
+WVP 0 vfCCC3008kri014
+//霧「……黒須先輩？」
+Kiri: "...Kurosu-senpai?"
+TP
+
+//太一「俺は虚しいんだ。とてもね」
+Taichi: "I am empty. So very much."
+TP
+
+//見下ろせば小さな面差し。
+If I look down those small features of hers,
+TP
+
+//深みをたたえた黒曜石がふたつ、表面を薄い塩水で濡らす。
+I can see a pair of obsidian stones, full with sadness to the depths, moistening her face with thin salty water.
+//黒曜石, AKA "see CCC0000 again". -GHS
+TP
+
+//太一「豊は幸せだったと思うよ。霧もいたし、イヤなことは忘れてたし」
+Taichi: "I think Yutaka was happy, you know. Because you were there too, Kiri, so he could forget about the bad things."
+TP
+
+//太一「最期まで、幸せだったって、俺は思ってる」
+Taichi: "He was happy until his last, that's what I believe."
+//IOW, he also sorts of blames Kiri for this. But given he's trying to (erroneously) make her into his Alter Ego, this resentment appears minor compared to the flurry in which he's trying to rescue Kiri from him even after he died. -GHS
+TP
+
+//顔を近づける。
+I bring her face close.
+TP
+
+WVP 0 vfCCC3008kri015
+//霧「…………ぇ」
+Kiri: "......eh?"
+TP
+
+//小さく狼狽を示す。
+A small show of consternation,
+TP
+
+//顔を交差するように重ねて。
+faces overlapping as if crossing.
+//Cymbalism. -GHS
+TP
+
+//唇を、盗みとる。
+Her lips are stolen.
+//See CCC0011C. How is this not her first kiss? Odd. -GHS
+TP
+GL 0 evcc0049a
+$CGevcc0049a = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+
+WVP 0 vfCCC3008kri016
+//霧「…………っ！？」
+Kiri: "......?!?"
+TP
+
+//四肢が暴れかける。
+Her limbs rebel.
+TP
+
+//強く抱きしめた。
+I hugged her with strength.
+TP
+
+WVP 0 vfCCC3008kri017
+//霧「……んぁ」
+Kiri: "...nHah!"
+TP
+
+//霧の息が詰まった。
+Kiri breathing grew labored.
+TP
+
+//フェンスに押しつけて、唇を吸い続ける。
+Pushing her against the fence, I continue to suck her lips.
+TP
+
+WVP 0 vfCCC3008kri018
+//霧「……ふぁ……ぃゃ……だめ……」
+Kiri: "...fhWhah... no... can't!..."
+TP
+
+//驚きが、霧の思考力を奪っていた。
+The surprise had stripped Kiri of the ability to think.
+TP
+
+//ろくな抵抗さえない。
+No resistance worth mentioning.
+TP
+
+//太一「寂しい？」
+Taichi: "Lonely?"
+TP
+
+WVP 0 vfCCC3008kri019
+//霧「……え？」
+Kiri: "...eh?"
+TP
+
+//太一「寂しいんだろ？」
+Taichi: "Lonely, aren't you?"
+TP
+
+WVP 0 vfCCC3008kri020
+//霧「……わか……らない……」
+Kiri: "...don't... get it..."
+TP
+
+//キスする。
+I kiss.
+TP
+
+//二度目。
+Second time.
+TP
+
+//今度は歯茎の内側に、侵略していく。
+This time I go invade the inside of the teethridge.
+TP
+
+//同時に手を、スカートの中に。
+And at the same time, my hands go inside her skirt.
+TP
+
+WVP 0 vfCCC3008kri021
+//霧「んっ……ん、んんんんっ！？」
+Kiri: "Nh... nh, NNNNH?!"
+TP
+
+WVS 1 1
+
+//突如として抵抗が強まる。
+Suddenly, resistance gains strength.
+//There's the inappropriateness of the moment, but... could it be that she was in her period as well, a year before? Should still be around the first week of the month or so. Considering that she obviously likes Taichi, and her thinking he killed Yutaka is ex-post facto bullshit from this scene, just like Yusa it could just be that she's rejecting him for reasons that aren't transparently Taichi's fault. -GHS
+TP
+
+//霧は俺を突き放した。
+Kiri pushed me away.
+TP
+GL 0 bgcc0007s
+GL 1 TCSK0004s
+GS 0 1
+GS 1 1
+SEF 109 0
+
+
+WVP 0 vfCCC3008kri022
+//霧「や、やめてくださいっ！！」
+Kiri: "P-, please stop this!!!"
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//俺は薄笑いを浮かべていたんだと思う。きっと。
+I think I am making a faint smile. Definitely.
+//And this is what sends her over the edge. After all, unprovoked as it was, he stopped when she asked. That's very odd rape there. -GHS
+TP
+
+GL 1 TCSK0021S
+GI 1 0
+//HACK angry Kiri -GHS
+
+WVP 0 vfCCC3008kri023
+//霧「あなたは……」
+Kiri: "You are..."
+//"A filthy rotten murderer". And yet... -GHS
+TP
+
+//衝撃が、ゆっくりと嫌悪に覆われていく様を、俺は見ていた。
+I could see how the the shock was slowing being covered up by disgust.
+//Which is odd; shouldn't it be anger? -GHS
+TP
+
+GL 1 TCSK0001s
+GI 1 0
+
+GP 1 205-15 15
+GI 1 0
+GP 1 220 30
+GI 1 0
+GP 1 235 15
+GI 1 0
+GP 1 220 0
+GI 1 0
+//HACK independent doll shake -GHS
+
+
+
+
+WVP 0 vfCCC3008kri024
+//霧「っっ！！」
+Kiri: "...!!!"
+TP
+WVP 2 se035 1 0
+GO 1 1
+//走り去る。
+She runs away.
+//No attempt to confront. No response. Not unexpectable, given the circumstances, but... not quite in character either. The response will come next script, when Kiri shows her true self to him, with similar consequences to him. -GHS
+TP
+
+//俺の脇を通り過ぎて。
+Passing right underarm.
+//And Taichi the martial arts trained multiple murderer und ebul serial rapist just lets her go. -GHS
+TP
+WVP 2 SE044 1 0
+//軋む扉。締まる扉。
+The door creaks.
+TL
+The door shuts.
+WVP 2 se036 1 0
+//HACK so the first SFX will actually play. -GHS
+TP
+
+//太一「……はは」
+Taichi: "...hahah."
+TP
+
+//顔を手で覆う。
+I cover my face with my hands.
+TP
+
+//なるほど確かにこれはマズイ。
+I see, it's certain, this is very bad.
+//See CCC3025 now. Specific wording seen in reference to Youko. -GHS
+TP
+
+//口元が酷薄そうに吊り上がっていた。
+The edges of my mouth lifted in apparent inhuman cruelty.
+//Odd way to specify it, meaning it might just well be his impression... or wish. -GHS
+TP
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+WVS 3 1
+SEF 109 1
+//HACK flashback exit whiteout into blackout -GHS
+
+
+//霧とは疎遠になった。
+I ended up estranged from Kiri.
+TP
+
+//部活にもあまり顔を出さなくなった。
+She nearly stopped showing face at club.
+TP
+
+//美希が強引に連れてくることはあったが、俺のことは避けた。
+There were times when Miki would forcibly bring her along, but she avoided me.
+//And what did Kiri tell her? Who knows. Maybe that's when she decided to be the Villain. -GHS
+TP
+
+//会話もなくなり、関係は途絶した。
+Conversations vanished, connections terminated.
+TP
+
+
+//そんなことが、あったんだ―――
+And that... was one of the things that did happen---
+//PCP CCC3007
+TP
+
+
+
+
+
+RET

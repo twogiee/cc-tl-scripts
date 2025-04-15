@@ -1,0 +1,1196 @@
+//To avoid confusion, this is how "Breakdown" ends if you choose Misato's route. I believe it's also what happens if you don't choose a route at all. Å`IX
+//Also, because this scene is so insanely awesome, you must look at the appropriate cg backgrounds for it. I'll mention them in comments. First one is bgcc0007c.
+
+
+
+GL 0 bgcc0000a
+GS 1 0
+GS 0 1
+SEF 152 0
+
+And then, Sunday.
+//CP_S cca0030
+TP
+
+The roof.
+TP
+
+All the preparations had been made.
+//CP_F
+TP
+
+......but it wasn't meant to be.
+TP
+GL 0 bgcc0007c
+GS 0 1
+SEF 152 0
+
+The antenna had been destroyed.
+TP
+
+WVP 1 bgm008.ogg 0 0 0
+
+
+
+Taichi: "......"
+TP
+
+For a moment, I doubted my own eyes.
+TP
+
+Something that Sempai had worked so hard to construct,
+TP
+
+In an instant...it...
+TP
+
+A part of my thoughts soon withdrew away from my emotions.
+TP
+
+So that my thoughts could remain calm.
+TP
+
+
+Who did this?
+TP
+
+
+There are only eight people in the world.
+TP
+
+There are only eight people, and yet...
+TP
+
+Taichi: "Sempai!"
+TP
+GL 1 TCMM0000
+GP 1 190 0
+GI 1 1
+WVP 0 vfccb0022msa000
+Misato: "............"
+TP
+
+She was at the base of the destroyed spire.
+TP
+
+Taichi: "Sempai?"
+TP
+
+WVP 0 vfccb0022mki000
+Misato: "......!"
+TP
+
+She turned around.
+TP
+
+Her behavior was poignantly nervous.
+TP
+
+My hand, which should have touched her shoulder, cut through empty air.
+TP
+
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfccb0022msa001
+Misato: "......Peke...kun."
+TP
+
+She said as if to push me away.
+TP
+
+My heart screeched.
+TP
+
+Because I caught a glimpse of her true will hidden in that intonation.
+TP
+
+WVP 0 vmccb0022yki000
+Tomoki: "Taichi!"
+TP
+
+WVP 0 vmccb0022yki001
+Tomoki: "What happened here?"
+TP
+
+Sakuraba: "......"
+TP
+
+The two of them arrived together.
+TP
+
+Taichi: "I have no idea."
+TP
+
+Our three pairs of eyes turned toward Sempai.
+TP
+
+WVP 0 vfccb0022msa002
+Misato: "......how could it have been me?"
+TP
+
+She answered with a shaky voice.
+TP
+
+WVP 0 vfccb0022msa003
+Misato: "......how could anyone destroy something they made themselves?"
+TP
+
+Taichi: "Well..."
+TP
+
+There were such people.
+TP
+
+When humanity was alive.
+TP
+
+Wait...
+TP
+
+Sempai herself destroyed it?
+TP
+
+Is that a possibility?
+TP
+GL 2 TCST0004
+GP 2 340 0
+GP 1 40 0
+GS 1 1
+GS 2 1
+SEF 109 0
+
+WVP 0 vmccb0022yki002
+Tomoki: "......Aneki, didn't you destroy it yourself?"
+TP
+
+WVP 0 vfccb0022msa004
+Misato: "Eh?"
+TP
+
+WVP 0 vmccb0022yki003
+Tomoki: "If it was finished, you'd have nowhere left to flee."
+TP
+
+WVP 0 vmccb0022yki004
+Tomoki: "So to bring yourself back to zero..."
+TP
+
+Yes.
+TP
+
+That's also a possibility.
+TP
+
+Especially since Sempai is from Gunjou.
+TP
+
+WVP 0 vmccb0022yki005
+Tomoki: "You just made a path to keeping running away on."
+TP
+GL 1 TCMM0005
+GI 1 0
+
+WVP 0 vfccb0022msa005
+Misato: "Wait a minute, that's all just too......"
+TP
+WVP 2 se044 1 0
+
+The iron door opened.
+TP
+GS 1 0
+GS 2 0
+SEF 109 0
+
+Our conversation stopped.
+TP
+GL 1 TCKT0000
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfccb0022fyu000
+Touko: "......?"
+TP
+
+It was Touko.
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfccb0022fyu001
+Touko: "......guh...the three idiots."
+//CP
+TP
+
+Taichi: "......"
+TP
+
+WVP 0 vmccb0022yki006
+Tomoki: "......"
+TP
+
+Sakuraba: "......"
+TP
+
+She must have found our neutral reactions odd, because she came toward us.
+TP
+
+Taichi: "Why are you here?"
+TP
+GL 1 TCKT0000
+GI 1 0
+
+
+WVP 0 vfccb0022fyu002
+Touko: "Hasekura-sempai......sent a yabumi, saying she had something to talk to me about......"
+IF $tlnote != 0 (TL note: "Yabumi" = "a message tied to an arrow")
+TP
+
+She looked up at the destroyed antenna.
+TP
+
+
+
+WVP 0 vfccb0022fyu003
+Touko: "It's...broken?"
+TP
+
+Taichi: "It was broken."
+TP
+
+Taichi: "......by someone."
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+
+WVP 0 vfccb0022fyu004
+Touko: "'Was broken'......by who?"
+TP
+
+WVP 0 vmccb0022yki007
+Tomoki: "Obviously,"
+TP
+
+WVP 0 vmccb0022yki008
+Tomoki: "One of us, here."
+TP
+
+Touko's eyebrows narrowed.
+TP
+
+GL 1 TCKT0003
+GI 1 0
+
+
+
+WVP 0 vfccb0022fyu005
+Touko: "That's..."
+TP
+
+Taichi: "It's not that delightful a subject."
+TP
+GO 1 1
+
+GL 1 TCMM0003
+GP 1 225 0
+GS 1 1
+SEF 109 0
+
+WVP 0 vfccb0022msa006
+Misato: "That's right, it's not delightful at all......to think I'd break it myself......that's impossible......"
+TP
+
+WVP 0 vfccb0022msa007
+Misato: "That's absolutely wrong."
+TP
+
+She muttered.
+TP
+GO 1 1
+
+Taichi: "This antenna used to be for the Broadcasting Club's activities......but we were planning on using it to send a rescue signal."
+TP
+
+GL 1 TCKT0000
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfccb0022fyu006
+Touko: "Eh? Is that true?"
+TP
+
+Taichi: "Isn't that true, Sempai?"
+TP
+GO 1 1
+
+
+GL 1 TCMM0003
+GP 1 225 0
+GI 1 1
+
+WVP 0 vfccb0022msa008
+Misato: "......eh, ah, that's right."
+TP
+
+Sempai hesitated slightly when the conversation suddenly turned in her direction.
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfccb0022msa009
+Misato: "That was our intent."
+TP
+
+Taichi: "That was meant to be Sempai's club."
+TP
+
+Taichi: "It wasn't necessarily for running away. We had a specific goal in mind."
+TP
+
+WVP 0 vmccb0022yki009
+Tomoki: "............"
+TP
+
+Taichi: "That's why I don't suspect Sempai at all."
+TP
+
+GL 1 TCMM0003
+GI 1 0
+
+
+WVP 0 vfccb0022msa010
+Misato: "Peke-kun."
+TP
+
+Taichi: "Don't take it too seriously."
+TP
+
+WVP 0 vfccb0022msa011
+Misato: "......okay."
+TP
+GO 1 1
+
+GL 1 TCKT0003
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfccb0022fyu007
+Touko: "Wait a minute, aren't you just taking advantage of our confusion!?"
+TP
+
+Taichi: "This calms her down."
+TP
+GL 1 TCKT0001
+GI 1 0
+WVP 0 vfccb0022fyu008
+Touko: "Isn't that something lovers would do!?"
+TP
+
+I shrugged my shoulders.
+TP
+
+Taichi: "Huhuhu, Sempai and I are true soulful lovers, as it were."
+//Not that it matters, but he said "soulful lovers" in Japanese and English one after the other, which I thought was cool. Å`IX
+TP
+
+Sakuraba: "......"
+TP
+
+Tomoki: "......"
+TP
+
+WVP 0 vfccb0022msa012
+Misato: "......"
+TP
+
+No one laughed, and no one retorted.
+TP
+
+Taichi: "............"
+TP
+
+Lame.
+TP
+
+I looked over to Touko.
+TP
+
+Taichi: (Touko) (Touko) (Help!)
+TP
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfccb0022fyu009
+Touko: "......eh? What? Why are you winking at me?"
+TP
+
+She's so dense...
+TP
+
+Taichi: "Never mind!"
+TP
+
+GL 1 TCKT0002
+GI 1 0
+WVP 0 vfccb0022fyu010
+Touko: "Why do you have to get mad at me......?"
+TP
+
+Taichi: "Okay, let's quit searching for the culprit! Let's get everyone hustling to repair this thing so we can have a human drama while sending our SOS!"
+TP
+GO 1 1
+
+GL 1 TCMM0003
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfccb0022msa013
+Misato: "......that's impossible."
+TP
+
+Taichi: "Why?!"
+TP
+
+WVP 0 vfccb0022msa014
+Misato: "Vital parts were burned. We can't repair it."
+TP
+
+Taichi: "They were...burned...?"
+TP
+
+She pointed to the materials at her feet.
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfccb0022msa015
+Misato: "They poured gasoline on and burned it. You can still smell the fumes."
+TP
+
+I had nothing to say.
+TP
+
+The guy was that thorough...
+TP
+
+Taichi: "Well, well...then there's no real point in chasing after the culprit..."
+TP
+WVS 1 0
+WVP 0 vfccb0022msa016
+Misato: "I..."
+TP
+
+GL 1 TCMM0003
+GI 1 0
+WVP 0 vfccb0022msa017
+Misato: "I want to know who the culprit is."
+TP
+
+Taichi: "Hi......?"
+TP
+
+WVP 0 vfccb0022msa018
+Misato: "At the very least, it wasn't me. In which case, wasn't it one of you?"
+TP
+WVP 1 bgm008.ogg 0 0 0
+
+Her words resembled bullets.
+TP
+
+Release one, and you can't take it back.
+TP
+
+Either it misses, or it wounds.
+TP
+
+But Misato-sempai's words brought understanding.
+TP
+
+
+WVP 0 vfccb0022msa019
+Misato: "One of you betrayed us."
+TP
+
+Those glasses of Sempai's were supposed to be gentle.
+TP
+
+Although she did get mad.
+TP
+
+I'd never thought she'd accuse someone.
+TP
+GO 1 1
+
+GL 2 TCST0004
+GP 2 190 0
+GI 2 1
+
+WVP 0 vmccb0022yki011
+Tomoki: "Are you......calling someone else a traitor?!"
+TP
+
+Tomoki suddenly screamed.
+TP
+
+WVP 0 vmccb0022yki012
+Tomoki: "How dare you...to talk about betrayal---"
+TP
+
+WVP 2 SE053 1 0
+SEF 101 0
+
+GO 2 1
+
+The moment Sakuraba moved, Tomoki fell.
+TP
+
+GL 1 TCSH0003
+GP 1 190 0
+GI 1 1
+
+
+Sakuraba: "......"
+TP
+
+Did he hit him?
+TP
+
+Did Sakuraba hit Tomoki?
+TP
+
+Taichi: "Hey hey hey hey."
+TP
+
+I can't let them follow up on this development.
+TP
+GL 2 TCST0002
+GP 1 20 0
+GP 2 340 0
+GS 0 1
+GS 1 1
+GS 2 1
+SEF 109 0
+
+WVP 0 vmccb0022yki013
+Tomoki: "Owwww, what are you......?"
+TP
+
+WVP 0 vmccb0022sku004
+Sakuraba: "......why...did you break it?"
+TP
+
+Those words were aimed at Tomoki.
+TP
+GL 2 TCST0004
+GI 2 0
+
+Tomoki: "......"
+TP
+
+Taichi: "Did you say he broke it?"
+TP
+
+WVP 0 vmccb0022sku005
+Sakuraba: "Why was there a need to break it?"
+TP
+
+Sakuraba said seriously.
+TP
+GL 2 TCST0005
+GI 2 0
+
+WVP 0 vmccb0022yki015
+Tomoki: "......what are you saying? I had nothing to-"
+TP
+WVS 1 0
+WVP 0 vmccb0022sku006
+Sakuraba: "I saw it."
+TP
+
+WVP 0 vmccb0022sku007
+Sakuraba: "I was watching you the moment you destroyed the antenna."
+TP
+
+GL 2 TCST0004
+GI 2 0
+
+
+WVP 0 vmccb0022yki016
+Tomoki: "......"
+TP
+
+WVP 0 vfccb0022msa020
+Misato: "Tomoki...you......"
+TP
+GL 2 TCST0006
+GI 2 0
+
+WVP 0 vmccb0022yki017
+Tomoki: "............"
+TP
+
+At that moment, when Tomoki's mouth warped unnaturally,
+TP
+WVP 2 se044 1 0
+
+
+
+Once again, the door opened.
+TP
+
+Shrill sounds formed fissures in the silence.
+TP
+
+It was Kiri and Miki.
+TP
+
+And...
+//CG change to evcc0024
+TP
+WVP 1 bgm019.ogg 0 0 0
+
+GL 0 evcc0024
+$CGevcc0024 = 1
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 109 0
+Kiri was armed.
+TP
+
+WVP 0 vfccb0022kri000
+Kiri: "Don't move!"
+TP
+
+Everyone's movements froze. They were sewn in place.
+//Yes, sewed.
+//'sewn' sounds better to me - Sheeta
+TP
+
+By the arrow held by the crossbow in Kiri's hands.
+TP
+
+WVP 0 vfccb0022kri001
+Kiri: "If you move, I'll shoot. This is no toy."
+TP
+
+She couldn't be more right.
+TP
+
+Buckmaster's Mark Point Crossbow.
+//The name appears to be fictional. Å`IX
+TP
+
+It had an optional cocking attachment.
+TP
+
+Possibly for female use.
+TP
+
+But still, it was a powerful hunting weapon. A sense of unfaltering performance. More than enough lethal force.
+TP
+
+It was probably at someone's house.
+TP
+
+A town with so many overnight millionaires was truly defenseless.
+//More dramatic. Also, it just felt like it was missing something.-Spin
+TP
+
+Taichi: "......Kiri-chin."
+TP
+
+WVP 0 vfccb0022kri002
+Kiri: "Especially Kurosu Taichi! Don't move!"
+TP
+
+WVP 0 vfccb0022kri003
+Kiri: "You're the one I would most love to kill by mistake."
+TP
+
+She's sneering.
+TP
+
+Taichi: "............hey...hang on..."
+TP
+
+WVP 0 vfccb0022fyu011
+Touko: "Wait! What's all this? I don't understand this at all!"
+TP
+
+WVP 0 vfccb0022fyu012
+Touko: "Sakura, calm down a little."
+TP
+
+When Touko took a step forward, the tip of the bow slid fifteen degrees to the left, pointing straight at her.
+TP
+
+WVP 0 vfccb0022kri004
+Kiri: "Please don't move."
+TP
+
+WVP 0 vfccb0022fyu013
+Touko: "Wait! I have nothing to do with this!"
+TP
+
+WVP 0 vfccb0022kri005
+Kiri: "Yes you do."
+TP
+
+Kiri raised her voice, speaking to everyone.
+TP
+
+WVP 0 vfccb0022kri006
+Kiri: "We are now independent."
+TP
+
+Independent?
+TP
+
+WVP 0 vmccb0022sku008
+Sakuraba: "......which means?"
+TP
+
+WVP 0 vfccb0022kri007
+Kiri: "We draw the line from the hill in Upper Misaka with the housing complex, to the city hall building......that makes this place part of our territory."
+TP
+
+Taichi: "Territoryyy?"
+TP
+
+WVP 0 vfccb0022kri008
+Kiri: "That means all of the food, water, clothing and other miscellaneous goods are now ours."
+TP
+
+WVP 0 vfccb0022fyu014
+Touko: "You're monopolizing everything!?"
+TP
+
+WVP 0 vfccb0022kri009
+Kiri: "That's not it."
+TP
+
+WVP 0 vfccb0022kri010
+Kiri: "Groceries and other stores exist on the other side of the set boundary line."
+TP
+
+WVP 0 vfccb0022kri011
+Kiri: "At least thirty percent of them."
+TP
+
+WVP 0 vfccb0022kri012
+Kiri: "It's an appropriate distribution."
+TP
+
+Taichi: "I understand it's appropriate. But why?"
+TP
+
+Kiri felt let down by that question.
+TP
+
+WVP 0 vfccb0022kri013
+Kiri: "Because we can't trust any of you."
+TP
+
+Touko: "......"
+TP
+
+WVP 0 vfccb0022kri014
+Kiri: "On the other side of Kounan Town, in the grove past the Sakai Bridge......"
+TP
+
+WVP 0 vfccb0022kri015
+Kiri: "There was a corpse."
+TP
+
+An unvoiced shock ran through us.
+TP
+
+Taichi: "A corpse......"
+TP
+
+WVP 0 vfccb0022kri016
+Kiri: "It was an old man's corpse. I couldn't confirm any details."
+TP
+
+Kiri sealed off questions with a terse explanation, then continued.
+TP
+
+WVP 0 vfccb0022kri017
+Kiri: "I think......the culprit is one of you."
+TP
+
+Taichi: "That's rather extraordinary."
+TP
+
+WVP 0 vfccb0022kri018
+Kiri: "You're the most suspicious one!"
+TP
+
+She pointed her crossbow at me.
+TP
+
+The arrow looked ready to fly off at any second.
+TP
+
+WVP 0 vfccb0022kri019
+Kiri: "Only you have previous offenses......you're the number one suspect!"
+TP
+
+WVP 0 vmccb0022sku009
+Sakuraba: "Previous offenses......?"
+TP
+
+Previous offenses, huh?
+TP
+
+That's certainly true.
+TP
+
+WVP 0 vfccb0022kri020
+Kiri: "But there is the possibility that it was someone else."
+TP
+
+Next to Kiri, Miki lowered her face.
+TP
+
+There was no impression that she'd say anything.
+TP
+
+As if she was only wishing for this to end soon.
+TP
+
+Taichi: "Aaah, I understand what you're trying to say now."
+TP
+
+Taichi: "But we're all in the same group of friends, and as the last remnants of humanity---"
+TP
+
+Kiri's words tore through mine.
+//I LOVE this line! - Sheeta
+TP
+
+WVP 0 vfccb0022kri021
+Kiri: "I never once thought of you as a friend."
+TP
+
+The roof froze in an instant.
+TP
+
+WVP 0 vmccb0022yki018
+Tomoki: "Well, isn't this a great opportunity?"
+TP
+
+Horribly calm words.
+TP
+
+WVP 0 vmccb0022yki019
+Tomoki: "Besides, whatever we did there's no way this would've gone well."
+TP
+
+WVP 0 vmccb0022yki020
+Tomoki: "I don't even want to think about being friendly with this person."
+//If 'this person' = Taichi, change to 'him' to make it more natural. Unless he's being purposefully vague. - Sheeta
+TP
+
+Taichi: "Did you break the antenna?"
+TP
+
+WVP 0 vmccb0022yki021
+Tomoki: "Well, yeah."
+TP
+
+WVP 0 vmccb0022yki022
+Tomoki: "I couldn't allow Aneki to keep running away."
+TP
+
+WVP 0 vfccb0022msa021
+Misato: "......"
+TP
+
+WVP 0 vmccb0022yki023
+Tomoki: "She felt like she could run away alone if she stole everyone else's place of refuge."
+TP
+
+WVP 0 vmccb0022yki024
+Tomoki: "But if you're going to be harsh to others, you have to be harsh to yourself."
+TP
+
+Disinterested words.
+TP
+
+But it also seemed like he was speaking intimately.
+TP
+
+WVP 0 vmccb0022yki025
+Tomoki: "Independence. Isn't that a nice thought, Sakura?"
+TP
+
+WVP 0 vfccb0022kri022
+Kiri: "......we can't trust...any of you."
+TP
+
+WVP 0 vmccb0022sku010
+Sakuraba: "Is that okay with everyone?"
+TP
+
+Misato: "......"
+TP
+
+Touko: "......"
+TP
+
+Tomoki: "......"
+TP
+
+Miki: "......"
+TP
+
+Taichi: "......"
+TP
+
+The Status Quo of Seven People.
+//PCP cca0030
+//I know it's CPed, but I think it sounds cooler like this. - Sheeta
+TP
+
+Something we should have lost.
+//CP
+TP
+
+What had once been a mere wreckage of friendships was now completely destroyed.
+TP
+
+Ruptured; now breaking off.
+TP
+
+It was there from the beginning. I just couldn't see it.
+TP
+
+If each and every one of us had only been acting like we were friends...
+//Switch to evcc0008a
+TP
+
+
+GL 5 evcc0008a
+$CGevcc0008a = 1
+GS 5 1
+SEF 10 0
+That's wrong.
+TP
+
+I'd never dreamed of something like this.
+TP
+
+What I'd faintly expected was...
+TP
+
+Wrong.
+TP
+
+This isn't it.
+TP
+
+This is no break off.
+TP
+
+A self-involved club should've been just fine.
+TP
+
+Where did we make a mistake?
+TP
+
+Right from the beginning, everything might've been just one magnificent mistake.
+TP
+
+The existence called Kurosu Taichi.
+//KK, might want to rewrite this line, bigtime! I totally was thinking "the existence called [to] me" as in drew him in, rather than "the existence with the name of Kurosu Taichi". I would've spent hours speculating on this even after seeing the next lines unless I saw them all on the same page as I just did. This is more clear. - pondrthis
+TP
+
+The school called Gunjou.
+TP
+
+The town called Upper Misaka.
+TP
+
+The grocer's called the Tasaki Shop.
+TP
+
+The omnipotence called the world.
+TP
+
+Taichi: "It's all wrong."
+//Technically, he's not using the same word for wrong here that he was up above, so I wanted to use something else, but nothing else came close to the right nuance. Å`IX
+TP
+
+I whispered softly.
+TP
+
+My field of vision was controlled by black silhouettes.
+TP
+
+The shadows fought wars of words.
+TP
+
+I want to make it end.
+TP
+
+I want to make everything end.
+TP
+
+Even though the present is nothing but dregs, it's unbearably painful.
+TP
+
+When humanity was destroyed, I thought that all friction between people would disappear with it.
+//That sounds better. Your choice though since it was a moderate sized change.-Spin
+TP
+
+But this is how things are.
+TP
+
+Eight people.
+TP
+
+Just eight people.
+TP
+
+They'll still fight and hate each other.
+//That question mark makes this whole statement look REALLY out of place.-Spin
+TP
+
+That's it.
+TP
+
+I learned the truth.
+TP
+
+I comprehended it.
+TP
+
+It's hopeless unless I'm alone.
+TP
+
+There can't be more than one.
+TP
+
+If I'm not the only one, people remain people.
+//These two lines probably sound wrong, but if you know "multiple" and "individual" are adjectives, these are actually perfectly correct usages, and in my mind the only trick in English that even comes close to the Japanese. Å`IX
+//To me, reading it for the first time, it sounded really strange and kinda messed up the flow of the scene, so I tried to think of a way to express it without it sounding awkward, and I came up with this. - Sheeta
+TP
+
+Individual.
+TP
+
+Individual.
+TP
+
+Individual.
+TP
+
+How to become individual?
+TP
+
+I became dizzy.
+TP
+
+WVP 1 bgm014.ogg 0 0 0
+
+WVP 0 vfccb0022mki002
+Miki: "......kill him, kill him!"
+TP
+
+Miki screamed. Not that it mattered anymore.
+TP
+
+WVP 0 vfccb0022kri023
+Kiri: "Miki?"
+TP
+
+WVP 0 vfccb0022mki003
+Miki: "Hurry, hurry up and kill him!"
+TP
+
+WVP 0 vfccb0022mki004
+Miki: "If you don't kill him right now-!"
+TP
+
+......it doesn't matter. I'm fine with murder-suicide.
+TP
+
+Do as you wish.
+TP
+
+What was it, I wonder?
+TP
+
+Yes, a gentle world.
+TP
+
+It's a gentle world.
+TP
+
+A world overflowing with affection, so much so that even I can live on pretending to be human.
+TP
+
+That reality.
+//Switch to bgcc0007cm
+TP
+GL 0 bgcc0007cm
+GS 0 1
+GS 5 0
+
+SEF 10 0
+
+......how do I do it?
+TP
+
+It's obvious.
+TP
+
+Against those that move...
+TP
+
+Use these eyes...
+TP
+
+The world has only motion and silence.
+TP
+
+Make motion into silence.
+TP
+
+That thought process certainly existed.
+TP
+
+I might have started walking without knowing it.
+TP
+
+WVP 0 vfccb0022kri024
+****: "**************"
+TP
+
+Someone's voice.
+TP
+
+I couldn't make it out.
+TP
+
+****: "********!"
+TP
+
+I didn't even know who it was.
+TP
+
+I turned around...
+TP
+WVP 2 SE066 1 0
+
+
+
+RET

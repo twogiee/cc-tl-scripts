@@ -1,0 +1,305 @@
+//Tuesday September 8, 1998 -GHS
+
+GL 0 bgcc0000d
+GS 1 0
+GS 0 0
+SEF 109 0
+
+WT 500 1
+
+GL 0 bgcc0003
+GS 0 1
+GS 1 0
+SEF 109 0
+
+
+WVP 1 bgm018.ogg 0 0 0
+
+
+//目を覚ます。
+I am awake.
+//CP CCC0024
+TP
+
+//陽光が窓を貫いていた。
+Sunlight was piercing through the window.
+//CP CCC0024
+TP
+
+//熟睡していたらしい。夢一つ見なかった。
+Seems I have been hard asleep. I did not have any dreams.
+//CP CCC0024
+TP
+
+//時間は……７時。
+The time is... 7AM.
+//CP CCC0024
+TP
+
+//学校に行く必要などない。
+There's no need to go to school or anything.
+//CP CCC0024
+TP
+
+//けど、体は動いた。
+Yet, the body moved.
+//CP CCC0024
+TP
+
+
+GL 0 bgcc0004
+GS 0 1
+SEF 152 0
+//朝食の用意はされていない。
+Breakfast was not served.
+//CP CCC0024
+TP
+
+//当然か。
+Of course.
+//CP CCC0024
+TP
+
+//美人でキャリアな睦美おばさんは料理もうまいが、もういない。
+Career beauty Mutsumi-obasan and her cooking so delicious are no more.
+//CP CCC0024
+TP
+
+//引き取ってくれたこと。
+She had taken custody of me,
+//CP CCC0024
+TP
+
+//曜子ちゃんとのことを、穏便に取りはからってくれたこと……。
+and she had amicably taken care of that thing with Youko-chan...
+//CP CCC0024
+TP
+
+//感謝はいくらでもできた。
+I had an indefinite amount of appreciation to give.
+//CP CCC0024
+TP
+
+//孝行する前に、消失してしまった。
+But before I could show filial piety, she had disappeared.
+//CP CCC0024
+TP
+
+//この家にまともな食い物はない。
+There's nothing decent to eat in this house.
+TP
+
+//水だけ飲んだ。
+I just drank water.
+TP
+
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+//この道で、よく遊紗ちゃんと出会った。
+I often met with Yusa-chan on this road.
+//CP CCC0025
+TP
+
+//よくなついていた。
+She took to me well.
+//CP CCC0025
+TP
+
+//こそばゆい、存在だった。
+She was this ticklish being...
+//CP CCC0025
+TP
+
+//今の俺ができるまで、俺もいろいろ苦労している。
+I too went through so much hardship to become what I am now,
+//CP CCC0025
+TP
+
+//遊紗ちゃんの存在は、よく俺を癒してくれた。
+and the presence of Yusa-chan soothed me so much.
+//CP CCC0025
+TP
+
+//そんな彼女ももういない。
+That girl is also no more.
+//CP CCC0025
+TP
+
+GL 1 TCSH0000
+GP 1 190 0
+GI 1 1
+
+WVP 0 vmCCC0025sku000
+//桜庭「よう」/*
+Sakuraba: "Yo."
+//CP CCC0025
+TP
+
+WVS 1 1
+
+//桜庭だった。
+It was Sakuraba.
+//CP CCC0025
+TP
+
+//太一「よう」
+Taichi: "Yoh."
+//CP CCC0025
+TP
+
+WVP 1 bgm010.ogg 0 0 0
+
+
+WVP 0 vmCCC0025sku001
+//桜庭「腹が減った」/*
+Sakuraba: "Hungry."
+//CP CCC0025
+TP
+
+//太一「俺もだ」
+Taichi: "Me too."
+TP
+
+GL 1 TCSH0003
+GI 1 0
+WVP 0 vmCCC4002sku000
+//桜庭「おまえもか」
+Sakuraba: "You too?"
+TP
+
+//太一「そうだ」
+Taichi: "Indeed."
+TP
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCC4002sku001
+//桜庭「切ないな」
+Sakuraba: "How trying."
+TP
+
+//太一「ああ、切ない」
+Taichi: "Yup, trying."
+TP
+
+//太一「こんな時、俺は一般家庭に突入する」
+Taichi: "Times like this, I just break into some ordinary home."
+//Oddly specific term. The irony that he'd actually do so even if there were people. -GHS
+TP
+
+GS 0 0
+GS 1 0
+SEF 109 0
+//HACK to dark -GHS
+
+//手近に民家に突っ込む。
+I plunge into some residence nearby,
+TP
+
+GS 0 1
+SEF 109 0
+//HACK back, just the BG -GHS
+
+//戻ってくる。
+and return.
+TP
+
+//太一「大漁だったぞ」
+Taichi: "Got a big catch!"
+//why not English? SUSPICIOUS. -GHS
+TP
+
+GS 1 1
+SEF 109 0
+//HACK back sack -GHS
+
+//保存食がたくさんあった。
+That place was decked with preserved food.
+//Egggggh. See CCC4003 for "payoff" -GHS
+TP
+
+//太一「見ろ、カンパンだ。しかもこんぺいとうが入ってるやつだぞ」
+Taichi: "Look at this, it's Kanpan. And it's one of those with Konpeitos in it too!"
+//It's also not impossible he just asked Yusa's mom for something to eat, and she gave him rations because she knows of his... problem. After all, the hint is that Yusa doesn't so much hate Taichi as he just stopped existing in her world. -GHS
+TP
+
+WVP 0 vmCCC4002sku002
+//桜庭「……ぐす」
+Sakuraba: "...sniff!"
+//Since it's not on Taichi, his sneeze does not create an hexagon. ...and I had another of those "what the hell am I writing" moments. -GHS
+TP
+
+//桜庭は鼻水を垂らしていた。
+Sakuraba had mucus dangling from the nose.
+TP
+
+//太一「……避難していて正解だったようだ」
+Taichi: "...looks like I was right to take refuge."
+TP
+
+GL 1 TCSH0003
+GI 1 0
+WVP 0 vmCCC4002sku003
+//桜庭「ティッシュを所望したいところだ」
+Sakuraba: "I currently desire tissue."
+TP
+
+//太一「ない」
+Taichi: "Got none."
+TP
+
+WVP 0 vmCCC4002sku004
+//桜庭「……ん。なら仕方ないな」
+Sakuraba: "...hm. Then, nothing I can do."
+TP
+
+//そのまま歩き出した。
+And he went to walk on as he was.
+TP
+
+//つらら状に垂れた鼻水が、軽妙に左右に踊る。
+The snot, hanging like an icicle, lambently dances left and right.
+//See CCA0013. Like curry bread. -GHS
+TP
+
+//太一「仕方ないで済ますな！」
+Taichi: "Don't just settle this with a 'nothing I can do'!"
+TP
+
+//ハンカチを出す。
+I take out my handkerchief.
+TP
+
+GL 1 TCSH0000
+GI 1 0
+WVP 0 vmCCC4002sku005
+//桜庭「……すまん」
+Sakuraba: "...sorry."
+TP
+
+//太一「返すなよ。絶対に返すなよ？　やるんだからな」
+Taichi: "Do not give this back! Absolutely do not give this back get it? I'll do you in if you do!"
+TP
+
+WVP 0 vmCCC4002sku006
+//桜庭「借りが出来た」
+Sakuraba: "I come into your debt."
+TP
+
+//太一「それは返せよ」
+Taichi: "That one you repay!"
+//Unfortunately the term's different... -GHS
+TP
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCC4002sku007
+//桜庭「うむ」
+Sakuraba: "Yup."
+TP
+
+WVS 1 1
+
+RET

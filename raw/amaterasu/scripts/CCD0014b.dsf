@@ -1,0 +1,391 @@
+GL 0 bgcc0007
+
+GS 0 1
+SEF 152 0
+
+Mimi-sempai had been sleeping.
+TP
+
+WVP 1 bgm005.ogg 0 0 0
+
+Taichi: "Hellooo."
+TP
+
+
+GL 1 TCMM0011
+GP 1 225 0
+GI 1 1
+WVP 0 vfCCD0001msa013
+Misato: "......nnn?"
+TP
+
+
+Taichi: "Good morning. It's morning. I'm Taichi."
+TP
+
+
+WVP 0 vfCCD0001msa014
+Misato: "Eh?......Ah, it is......"
+TP
+
+
+She idly rose to her feet.
+TP
+
+
+Uhhh, I can see your panties you know.
+TP
+
+
+I got down on one knee.
+TP
+
+
+Like a knight serving an empress (my motives aside).
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfcca0015msa002
+Misato: "Anyway, good morning."
+//CP_S ccb1004
+TP
+
+
+Taichi: "Good morning, Sempai."
+TP
+
+
+Taichi: "Won't you die from the heat if you sleep here in the middle of the day?"
+TP
+
+GL 1 TCMM0011
+GI 1 0
+
+WVP 0 vfcca0015msa003
+Misato: "Ah, right, that's true. I'll be more careful."
+TP
+
+
+Sempai wiped her glasses with the hem of her skirt.
+//CP_F
+TP
+
+
+Oooh.
+TP
+
+
+She's plump.
+TP
+
+
+She's moderately plump.
+TP
+
+
+Sempai is beautiful...
+TP
+
+
+WVP 0 vfCCD0001msa015
+Misato: "Fuaaah."
+TP
+
+
+Her skirt fell back into place.
+TP
+
+
+Sempai repositioned her glasses.
+TP
+
+
+WVP 0 vfCCD0001msa016
+Misato: "I'm sleepy."
+TP
+
+
+Taichi: "It is small summer weather."
+//No idea what he means. Å`IX
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCD0001msa017
+Misato: "I've never heard that term......"
+TP
+
+
+Taichi: "Because I made it up."
+TP
+
+GL 1 TCMM0031
+GI 1 0
+
+WVP 0 vfCCD0001msa018
+Misato: "Peke-kun seems to have a talent for making things up."
+TP
+
+
+Taichi: "......"
+TP
+
+GL 1 TCMM0021
+GI 1 0
+
+WVP 0 vfCCD0001msa019
+Misato: "Why are you crouched down?"
+TP
+
+
+Taichi: "The AA-gun of love yearns for the sky. So much so it bends backward to the navel."
+IF $tlnote != 0 (TL note: A twisted navel is another Japanese euphemism for a pervert.)
+TP
+
+GL 1 TCMM0031
+GI 1 0
+
+WVP 0 vfCCD0001msa020
+Misato: "That's awfully uncouth, but rather poetic......"
+TP
+
+
+Taichi: "I'm thankful."
+TP
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfCCD0001msa021
+Misato: "My throat's parched."
+TP
+GO 1 1
+
+Sempai searched through her belongings.
+TP
+
+
+*roll*
+TP
+
+
+Taichi: "Nn?"
+TP
+
+
+A bottle of one-cup sake.
+//If there's an English term for a bottle with only enough liquid to fill a single cup, we can use that, otherwise I'll prolly end up putting a tl note here. Å`IX
+//Not that I'm aware of, no. - Sheeta
+TP
+
+
+WVP 0 vfCCD0001msa022
+Misato: *gulp* *gulp* *gulp* *gulp*
+TP
+
+
+Taichi: "Owa, that's right!"
+TP
+
+
+I stole it from her.
+TP
+
+GL 1 TCMM0005
+GP 1 225 0
+GI 1 1
+
+WVP 0 vfCCD0001msa023
+Misato: "Ah!......What are you doing?"
+TP
+
+
+Taichi: "You mustn't drink sake at school!"
+TP
+
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfCCD0001msa024
+Misato: "My aunt's house is a tavern so it's just fine."
+TP
+
+
+Taichi: "You mustn't."
+TP
+
+GL 1 TCMM0001
+GI 1 0
+
+WVP 0 vfCCD0001msa025
+Misato: "......I know."
+TP
+
+WVP 1 bgm005.ogg 0 0 0
+
+She sulked.
+//The bgm005.ogg before this line resets the music in a weird way. I think you can remove it. - Raide
+TP
+
+
+WVP 0 vfCCD0001msa026
+Misato: "But, there's no need to follow those rules anymore, is there?"
+TP
+
+
+Taichi: "Well..."
+TP
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfCCD0001msa027
+Misato: "Isn't that true? With all the people gone, the rules have lost their meaning."
+TP
+
+WVP 1 bgm015.ogg 0 0 0
+
+WVP 0 vfCCD0001msa028
+Misato: "So, what have I been doing this for......"
+TP
+
+
+She scratched her head.
+TP
+
+
+Taichi: "......Sempai."
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCD0001msa029
+Misato: "Peke-kun, why are you here?"
+TP
+
+
+Taichi: "I came to see how you were doing."
+TP
+
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfCCD0001msa030
+Misato: "......why......now of all times?"
+TP
+
+
+Taichi: "Because I love you, Mimi-sempai."
+//Time for that Beach sex scene.-Spin
+TP
+
+
+WVP 0 vfCCD0001msa031
+Misato: "............that's......not......"
+TP
+
+
+The tip of her nose was red. Was that because of the sake?
+TP
+GL 1 TCMM0006
+GI 1 0
+
+WVP 0 vfCCD0001msa032
+Misato: "You can't say that so lightly! Words of love are a precious turning point for both men and women!"
+TP
+
+
+I was scolded.
+TP
+
+
+Taichi: "Well......but, it was Sempai that guided me out of darkness to a well-lit place."
+TP
+
+
+Unlike someone who did nothing but be next to me.
+TP
+
+
+GL 1 TCMM0003
+GI 1 0
+WVP 0 vfCCD0001msa033
+Misato: "That's......all I did was talk to you."
+TP
+
+
+Taichi: "Isn't that enough of a trigger?"
+TP
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfCCD0001msa034
+Misato: "Okay! Okay! No more talking about that."
+TP
+
+
+She flapped her hands.
+TP
+
+
+......so it's hopeless?
+TP
+
+
+Taichi: "Our relationship began with the premise of marriage---"
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCD0001msa035
+Misato: "That's right, could you please write a manuscript!"
+TP
+
+
+She fled.
+TP
+
+
+Taichi: "A manuscript?"
+TP
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfCCD0001msa036
+Misato: "Yes, I'm requesting the creation of a manuscript that's pure and just and bright and energetic for our pilot broadcast."
+TP
+
+
+Taichi: "......nnn."
+TP
+
+
+Well, that was the original objective.
+TP
+
+
+Taichi: "Sure."
+TP
+
+WVS 1 1
+
+After all, the notebooks comprehensively contain all of the patterns up until now.
+TP
+
+There's no need to go out of my way to make new ones.
+TP
+
+
+GS 1 0
+SEF 109
+
+
+
+
+RET

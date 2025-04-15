@@ -1,0 +1,134 @@
+GL 0 bgcc0019a
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+WVP 1 bgm005.ogg 0 0 0
+//そうして俺たちは、桐原のお屋敷に行った。
+And then we went to the Kirihara Mansion.
+TP
+
+WVP 0 vfccb2008fyu000
+//冬子「とりあえず、これだけ！」
+Touko: "For now, it's just these!"
+TP
+
+//これだけ。
+Just these,
+TP
+
+//きゃつはそう言った。
+the gal went and said.
+TP
+
+//リヤカーにして三台分ほどあった。
+There were about three bike trailer loads,
+//They load the stuff on the RV, so he's guesstimating I think. The question is why: the answer, they never take the RV. -GHS
+TP
+
+//そこで桐原家の大きなキャンピングカーを使うことにした。
+so we went and used the Kiriharas' huge RV.
+//Why do the Kiriharas have a huge RV when the only way they'd use it is to get it on a train, as there's no way they can fit that thing on the only path out of town? -GHS
+TP
+
+//これでも運転はできる。
+But I can drive even this,
+TP
+
+//走り屋マンガで学んだからだ。
+because I've studied racing mangas.
+//Well, see CCB2002. -GHS
+TP
+GL 0 bgcc0000b
+GS 0 1
+SEF 152 0
+
+//……見るとやるとでは大違いだった。
+...between the saying and the doing there is a vast difference in difficulty.
+//"Easier said than done" + "Needlessly pretentious overliteralization for reasons of me being too awesome for words." -GHS
+TP
+
+//いろいろあったが、とりあえず冬子はトラウマになった。
+Several things have happened, the main of which is that Touko has become traumatized.
+TP
+
+//二度と俺の車には乗らないとまで言った。
+To the point where she said she would never ride a vehicle with me driving again.
+TP
+
+//同感である。
+I am of the same opinion.
+//See CCD2002 for actual lines. -GHS
+TP
+
+//いやー、シートベルトしていて本当に良かった。
+Welll, it was a good thing we had seatbelts.
+TP
+
+GL 0 bgcc0002a
+GS 0 1
+SEF 152 0
+
+//とにかく『黒須家近所までは車を使えた』ので、あとはそこから移動すればよかった。
+Anyway, we managed to walk away from the "Let's Use a Vehicle Up to the Neighborhood of the Kurosu Residence" plan, which was good.
+TP
+
+//とはいえ距離にして数百メートルはあってだな。
+Nonetheless, there were still several hundred meters of distance.
+//...700? That's gonna be tough, since that's about the entirety of Kamisaka. -GHS
+TP
+
+//俺と冬子はリヤカーを探した。
+Me and Touko searched for a bike trailer.
+//I.e. they don't have them now. -GHS
+TP
+
+//冬子などはご令嬢であるためかリヤカーというものをフロントにカゴのついたママチャリだと勘違いしていたので、貧乏人代表として怒りの乳揉みをしてやった。
+Perhaps because Touko is so much of an young milady from a rich family, when she mistakenly claimed that a granny bike was a 'trailer' because it had a basket on the front, as a representative of the poor people I massaged her breasts in anger.
+//I think I read somewhere that even ojisans like granny bikes. That's very important information! -GHS
+TP
+
+//殴られた。いいことだ。
+I was punched. That is good.
+TP
+GL 0 bgcc0000c
+GS 0 1
+SEF 155 0
+
+//で、俺が探し出したリヤカーで三往復。
+Then, with a trailer we found, I made three round trips.
+//That's 6, plus the attempt with the RV. -GHS
+TP
+//>　　　　こんぱい
+//疲労困憊。
+Fatigue at extreme levels.
+//...but he managed to make three round trips on a bike with a trailer in these hilly roads without dying. -GHS
+TP
+
+//そんな俺をさらに叩きのめしたのは冬子の言葉だった。
+And I was furthermore struck down by Touko's words.
+TP
+
+//部屋に案内した第一声。
+The first thing that she said once I led her to her room was,
+TP
+
+WVP 0 vfccb2008fyu001
+//冬子「……なに、この物置？」
+Touko: "...what's even this storeroom?"
+//But she should know Taichi's bedroom... all too well, in fact, see CCD2002. Let's go with minor plot hole. -GHS
+TP
+WVS 1 1
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+//HACK fade to black -GHS
+
+//そこで力尽きて、崩れ落ちた。
+And there, all my strength used up, I collapsed.
+TP
+WT 500 0
+WT 500 1
+RET

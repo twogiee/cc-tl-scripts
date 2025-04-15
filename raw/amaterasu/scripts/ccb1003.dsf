@@ -1,0 +1,332 @@
+
+
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+WVP 1 bgm003.ogg 0 0 0
+
+
+GL 1 TCYM0000
+GP 1 180 0
+GI 1 1
+
+
+WVP 0 vfcca0015mki000
+Miki: "Ah, Sempaiii."
+//CP_S cca0015
+TP
+
+Taichi: "Yo."
+TP
+
+I ran into Miki as she stood by the wall with nothing to do.
+//CP_F
+TP
+
+From the looks of things, Miki isn't receiving that much of a shock.
+TP
+
+Though she might just be pretending to be fine.
+TP
+
+Taichi: "Are you eating properly?"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfccb1003mki000
+Miki: "Ha...thanks to the club, I am, somehow."
+TP
+
+Taichi: "......you mean the other club."
+TP
+
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb1003mki001
+Miki: "Yes."
+TP
+
+Proper Title: Active Life Maintenance Club.
+TP
+
+Taichi: "......Kiri-chin's participating too, I'd bet."
+TP
+
+GL 1 TCYM0011
+GI 1 0
+
+WVP 0 vfccb1003mki002
+Miki: "Yes. She's excellent."
+TP
+
+Taichi: "Yeah, excellent."
+TP
+
+
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfccb1003mki003
+Miki: "It's strange that Sempai isn't participating."
+TP
+
+Taichi: "Nnn, you there, Kiri-chin and I---"
+TP
+
+As I was talking, Kiri-chin came out of the bathroom.
+TP
+
+Taichi: "Did you flush?"
+TP
+
+
+GL 1 TCYM0041
+GI 1 0
+
+WVP 0 vfccb1003mki004
+Miki: "Th-th-th-th-the forbidden questionnnn!!?"
+//One doesn't really make a sharp "t" sound when saying the word "the", so I feel like her stuttering would be better represented with "h's". - pondrthis
+TP
+
+*grind*
+TP
+
+Kiri ground her teeth.
+TP
+GL 1 TCSK0021
+GS 1 1
+GP 1 220 0
+SEF 109 0
+
+WVP 0 vfccb1003kri000
+Kiri: "......Kurosu Taichi!"
+TP
+
+No honorific?
+TP
+
+And treating me like an archenemy?
+TP
+
+
+GL 1 TCSK0001
+GI 1 0
+
+Kiri: "............"
+TP
+
+She sent me a cold gaze.
+TP
+
+Kiri hadn't changed a bit, behaving exactly as usual.
+TP
+
+I was a bit reassured.
+TP
+
+Taichi: "Kiri, your skin is as beautiful as ever."
+//Just a bit redundant. Made the line longer than it should be.-Spin
+TP
+
+I extended my fingers.
+TP
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfccb1003kri002
+Kiri: "Please don't touch me!"
+TP
+
+I was shot down by a pliant hand.
+TP
+
+
+*shiver* *shiver*  *shiver*  *shiver!*
+//Is the "!" supposed to be inside the asterisk? It looks so weird. I guess it might look weird outside it as well...-Spin
+TP
+
+
+Taichi: "......nice."
+TP
+
+GL 1 TCSK0000
+GI 1 0
+WVP 0 vfccb1003kri003
+Kiri: "......ha?"
+TP
+
+Taichi: "Never mind."
+TP
+
+I brushed aside my bangs.
+TP
+
+GL 2 TCYM0000
+GP 2 0 0
+GP 1 340 0
+GS 1 1
+GS 2 1
+SEF 109 0
+WVP 0 vfccb1003mki005
+Miki: "Awawa, you can't fight."
+TP
+
+Taichi: "We're doing nothing as savage as fighting."
+TP
+
+Taichi: "I want this to be a graceful duel."
+TP
+
+GL 1 TCSK0001
+GI 1 0
+
+WVP 0 vfccb1003kri004
+Kiri: "......does that mean you're challenging me to a duel, Sempai?"
+TP
+
+Taichi: "Yes, if you mean a duel at night."
+TP
+GL 2 TCYM0003
+GI 2 0
+
+WVP 0 vfccb1003mki006
+Miki: "Po!"
+TP
+GL 1 TCSK0011
+GI 1 0
+WVP 0 vfccb1003kri005
+Kiri: "Let's go, Miki."
+TP
+
+Kiri pulled Miki's arm and turned her heels.
+TP
+
+Taichi: "Let's go, let's go, excuse me!"
+TP
+
+I lined up with them.
+TP
+
+The three of us are very friendly.
+TP
+
+Three gorgeous sisters like canola blossoms!
+TP
+
+This is a story about the beautiful dream of those three little girlsÅÙ
+TP
+
+......obviously not.
+TP
+
+GL 1 TCSK0001
+GI 1 0
+
+WVP 0 vfccb1003kri006
+Kiri: "Sempai......"
+TP
+
+Taichi: "Oh, you noticed meÅÙ"
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfccb1003kri007
+Kiri: "The only one who didn't notice was the Sempai here with the shallow mind."
+TP
+
+Taichi: "But my mind's gray."
+TP
+
+GL 1 TCSK0001
+GI 1 0
+WVP 0 vfccb1003kri008
+Kiri: "We won't know for sure unless we break you open."
+TP
+
+Taichi: "Wahaha."
+TP
+WVS 1 1
+
+Kiri didn't laugh.
+TP
+
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfccb1003kri009
+Kiri: "......considering the situation, you're quite carefree."
+TP
+
+Taichi: "Oh no, don't compliment me so. It's embarassing, you know?"
+TP
+
+WVP 0 vfccb1003kri010
+Kiri: "......"
+TP
+
+GL 1 TCSK0000
+GI 1 0
+WVP 0 vfccb1003kri011
+Kiri: "But I...I know. That's why..."
+TP
+
+Taichi: "Ho-eh?"
+TP
+
+GL 1 TCSK0001
+GI 1 0
+WVP 0 vfccb1003kri012
+Kiri: "I have absolutely no intention of lowering my guard around you."
+TP
+
+The two of them walked away.
+TP
+
+Taichi: "......haaa."
+TP
+
+What was that?
+TP
+
+That sweetly pressing......atmosphere.
+TP
+
+I called out to both their backs.
+//CP_S
+TP
+
+Taichi: "Aah, you two."
+TP
+
+But only Miki stopped and turned around.
+//CP_F
+TP
+
+Taichi: "Aaah......"
+TP
+
+I hesitated to say it.
+TP
+
+Taichi: "Please take good care of yourselves."
+//CP
+TP
+
+A safe spot.
+TP
+
+Now that we've been cut off from civilization, managing our health is a serious concern.
+TP
+
+Miki energetically pumped her fist, and Kiri looked away after one glance.
+//CP
+TP
+
+
+RET

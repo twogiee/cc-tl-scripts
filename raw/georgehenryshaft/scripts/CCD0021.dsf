@@ -1,0 +1,1763 @@
+
+WVS 1 1
+//HACK stop any music -GHS
+
+GL 0 bgcc0005a
+GS 0 1
+SEF 152 0
+
+WT 500 0
+
+
+
+GL 0 bgcc0003d
+GS 0 1
+SEF 152 0
+WVP 1 bgm016.ogg 0 0 0
+//Hack music "Fated" -GHS
+
+//ベッドに寝転がる。
+I throw myself on the bed.
+TP
+
+
+//明るいうちに調理は済ませたいところだが。
+I wanted to complete food preparation while it was still bright, but,
+TP
+
+
+//気力がわかない。
+my willpower lacks the fire.
+//沸かない prettier than 湧かない -GHS
+TP
+
+
+//俺の望みは簡単なのに。
+When yet my wish is a simple one.
+TP
+
+
+//攻略ノートまで頼りながら……三日かけて……結束ひとつ取り戻せない。
+And while I have been relying on the walkthrough notebooks... three days have passed... and I haven't brought back a single piece of our unity.
+//Why hide it at this point. -GHS
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//結束。
+Unity...
+TP
+
+
+//放送部全員が肩を並べて行う部活動。
+The Broadcast Club, assembled whole, moving as if one into activities.
+TP
+
+
+//明るく楽しく健全な、ラジオ放送。
+A cheerful pleasurable wholesome radio broadcast.
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+//ノートはその性質上、結論が記されない。
+Because of the nature of the notebooks, their conclusion is not recorded.
+TP
+
+
+//どの方法が、望む結末に近いのか、俺は判断できない。
+Which method approaches the ending I wish is something I cannot discern.
+TP
+
+
+//太一「木曜、金曜、土曜……」
+Taichi: "Thursday, Friday, Saturday..."
+TP
+
+
+//あと何日残っている？
+How many days are left now?
+TP
+
+
+//知らなければよかった。
+I would have preferred not knowing,
+TP
+
+
+//世界が終わるなんて。
+that this world would come to an end.
+TP
+
+
+//太一「うぅぅ……」
+Taichi: "Ngggh..."
+TP
+
+
+//低く、呻く。
+A groan, low.
+TP
+
+
+//不思議世界でありながら、もどかしい現実でもある今に対する、憤りだ。
+The resentment for this frustratingly slow reality that still exists in this inexplicable world.
+TP
+
+
+//せいぜい三日か四日。
+Three days at most, at best four.
+TP
+
+
+//太一「何ができるんだ……それっぽっちの時間で」
+Taichi: "A pittance of a time... what could I even do..."
+TP
+
+
+//拳を握って。
+Fists clenching.
+TP
+
+//グラグラと煮えたぎる感情のうねりが、怒りのそれと似て体を熱くした。
+The friction of my emotions shaking into a boiling that heats my body in ways that yet resemble anger.
+TP
+
+
+//いつまでも―――
+However long it takes---
+TP
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 155 0
+//……………………。
+............
+TP
+
+
+//…………。
+......
+TP
+
+
+//……。
+...
+TP
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+
+WT 500 0
+WT 500 1
+
+
+
+
+WVS 1 1
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+WVP 1 bgm007.ogg 0 0 0
+//HACK fade music, then "Sign of Fear" -GHS
+
+//Thursday September 10, 1998 -GHS
+
+//俺は行動した。
+I acted.
+TP
+
+
+//ノートにあった記述を参考に、その場その場で最適の行動を取った。
+Consulting the descriptions in the notebook, on the spot and on the fly I took the most suitable actions.
+TP
+
+
+//幸せのため。
+For the sake of happiness.
+TP
+
+
+//結束を築くため。
+For the sake of building unity.
+TP
+
+
+//仲間・友情・絆。
+Fellowship - friendship - bonds.
+//Still see Family Project. -GHS
+TP
+
+
+//そんな白々しいもののため。
+For the sake of these shamelessly transparent things.
+//The vague undertone of lie... -GHS
+TP
+
+
+
+GL 0 bgcc0011a
+GS 0 1
+SEF 155 1
+
+//そして無駄な一日を終えることになった。
+And then, the end of a wasted day came.
+TP
+
+
+//これっぽっちの偽善さえ、積むことはできずに―――
+Without even the gain of a trifle of hypocrisy---
+TP
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 155 0
+
+//……………………。
+............
+TP
+
+
+//…………。
+......
+TP
+
+
+//……。
+...
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+
+
+WT 500 0
+WT 500 1
+
+
+
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+//Friday September 11, 1998 -GHS
+
+//金曜日になった。
+It became Friday.
+TP
+
+
+//本来であれば、各人との関係にも変化がある頃のはず。
+By all rights, this is the time where there should be a change in the relationship with each person.
+TP
+
+
+//けど八方美人に進めてきた俺は、何も得られないまま時間を浪費してしまった。
+But having progressed to the role of all-appealing histrion, I have wasted time while obtaining nothing.
+//Damn, that nearly isn't in the dictionary. -GHS
+TP
+
+
+//みみ先輩とも、冬子とも、霧とも、美希とも……。
+Not from Mimi-senpai, not from Touko, not from Kiri, not from Miki...
+TP
+
+
+//互いの距離感は、絶望的に遠いままだ。
+Our mutual distances continue to feel hopelessly vast.
+//That's not a problem, since looking closely, that's exactly what happened in every single individual route. After all, what he wants isn't something he can't obtain because he's Ebul, it's something that cannot be period. -GHS
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+WVS 1 1
+//HACK out with music -GHS
+
+//……………………。
+............
+TP
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+
+//半日かけずり回って、成果なし。
+For half a day I bustle around, and no results.
+TP
+
+
+//太一「はあ」
+Taichi: "Sigh."
+TP
+
+
+//疲れた。
+I was tired.
+TP
+
+
+//正門前にしゃがみこみ、夕刻前一足先に途方に暮れる。
+Squatting down in front of the main gate, face through knees, stumped hopelessly just a few steps ahead of the evening hour.
+TP
+
+
+//と、肌になじみのあるざわつきが、遠方から接近してきた。
+And, the lively buzzing of a crowd so familiar to my skin approaches from the distance.
+//The term seems to specifically mean that kind of sound. Youko is said to live in the world called reality, so that distant place may well be it. This could be more hinting of the real nature of things: Youko indeed lives in 'reality', as she's just Taichi in drag, living another life. After all, she still exists after Taichi leaves. Maybe. -GHS
+TP
+
+
+//曜子ちゃんだ。
+It's Youko-chan.
+TP
+
+
+//珍しい。こんな無防備に。
+So defenseless. It's rare.
+TP
+GL 1 TCHY0000
+GP 1 180 0
+GS 1 1
+SEF 109 0
+
+WVP 1 bgm021.ogg 0 0 0
+
+WVP 0 vfCCD0001you049
+//曜子「……手伝うことはある？」
+Youko: "...something you need help with?
+TP
+
+
+//俺の前に立って、言う。
+She says that as she stands in front of me.
+TP
+
+
+//太一「いや、今のところは……」
+Taichi: "Nah, it's just that right now..."
+TP
+
+
+//流しかけたのに、つい問いかけてしまう。
+And even though I had just deflected it, I accidentally asked a question,
+TP
+
+
+//藁をも掴む心境だった。
+for in my mental state I would have even clutched at straws.
+TP
+
+
+//太一「ねえ……どうやったら、みんなでうまくできるのかな」
+Taichi: "Say... I'm wondering how can I do it, how can I make things go well with everyone I mean."
+TP
+
+
+//太一「みみ先輩がやってる部活にみんなで仲良く参加して、適度に青春して、おどけて、笑って……そういうルートって、ないのかな？」
+Taichi: "Getting everybody in good terms with each other and participating to the Mimi-senpai's club activities, living our adolescence in moderation, joking around, laughing... does that route even exist?"
+TP
+
+
+//太一「いさかいを解決できて、互いを尊重しあって、希望があって……」
+Taichi: "One where we can solve our disputes and there's reciprocal respect and where there's hope..."
+TP
+
+
+//太一「仲良くケンカして、放送用台本をみんなでチェックして、協力してトラブルに対処して……」
+Taichi: "Having friendly fights, making an air check of the broadcast scenario with everybody, coping with our troubles via collaboration...
+TP
+
+
+//太一「ないの、かな？」
+Taichi: "I want to know... isn't there?"
+TP
+
+
+//あるいは、彼女だったら知っているんじゃなかろうか。
+Her being her, couldn't she possibly know of it?
+TP
+
+
+//かすかな希望を抱いて。
+That is the faint hope I embrace.
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you050
+//曜子「ないと思う」
+Youko: "There isn't, I think."
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+//平坦な調子の声は、いつもより冷たく聞こえる。
+Her voice flat in tone I hear as colder than normal.
+TP
+
+
+WVP 0 vfCCD0001you051
+//曜子「そんな可能性は、どこにもないと思う」
+Youko: "That possibility does not exist anywhere, I think."
+TP
+
+
+WVP 0 vfCCD0001you052
+//曜子「太一が、この世界、この状況で、全員の仲を取り持って安全に部活にこぎつけるためには……もっと時間をかけるか、もっと良い状態からスタートするか、しかない」
+Youko: "In this world, with things being this way, for Taichi to reach the point where it's possible to  mediate friendship with everybody and head safely to club... what is needed is either more time, or a better situation to start from, no other possibility."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you053
+//曜子「そのどちらも、太一にはない」
+Youko: "Neither of which Taichi has."
+TP
+
+
+WVP 0 vfCCD0001you054
+//曜子「絶対的な限界があるの」
+Youko: "There are absolute limits."
+//See CCD0009 now. Taichi, to her, is only doing what's permitted and no more. -GHS
+TP
+
+
+WVP 0 vfCCD0001you055
+//曜子「だからいくら頑張っても、無駄だと思う」
+Youko: "Therefore however much effort you make it will be for nothing, I think."
+//...and therefore that doing so is pointless. -GHS
+TP
+
+
+//太一「……そう」
+Taichi: "...right."
+TP
+
+
+//ハッキリ、ないと言われてしまった。
+I was told, very clearly and thoroughly, that there isn't.
+//A route like etc. etc. -GHS
+TP
+
+
+//太一「こういうことを言うのは、フェアじゃないんだけど……冷たい方程式だよな、それって」
+Taichi: "But saying all this, it's not fair... that's a cold equation that you have there."
+//The term is specifically the title of http://en.wikipedia.org/wiki/The_Cold_Equations and the trope it popularized (http://tvtropes.org/pmwiki/pmwiki.php/Main/ColdEquation) seems to apply, at least tangentially. -GHS
+TP
+
+
+//彼女は応えない。
+The girl does not respond.
+TP
+
+
+//佇立して、俺の言葉を待っている。
+Standing still, she waits for my words.
+//"She" knows him well, for that. -GHS
+TP
+
+
+//太一「毎回、バラバラの状態からスタートしてるってことじゃないか」
+Taichi: "Every time, don't we have our start from a situation where we're broken apart and scattered around?"
+//For this particular バラバラ, see CCA0028B -GHS
+TP
+
+
+//太一「何も成し遂げられないまま終わって……ループして……最低の毎日を幾週間も……」
+Taichi: "And it ends, with nothing accomplished yet... it loops... and how many weeks of a disgusting everyday even..."
+TP
+
+
+//太一「なんの冗談なんだよ、こりゃあ」
+Taichi: "The hell of a joke is even this!"
+TP
+
+
+//頭を抱えた。
+Holding my head, at wit's end.
+TP
+
+
+//俺の心の空腹を満たすものは、何もないのだ。
+That which would fill the hunger of my heart is something that does not exist.
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you056
+//曜子「太一……ノートは、あれで全てではないの」
+Youko: "Taichi... those notebooks, they are not all of them."
+TP
+
+
+//唐突に彼女は口を開く。
+Abruptly she opens her mouth.
+TP
+
+
+//太一「なんだって？」
+Taichi: "What's that?"
+TP
+
+GL 1 TCHY0002
+GI 1 0
+
+WVP 0 vfCCD0001you057
+//曜子「もっと破滅的な歴史と可能性を示したノートもあるの」
+Youko: "There were also notebooks that show much more catastrophic histories and possibilities."
+//Records of history, indeed. -GHS
+TP
+
+
+//太一「それは？」
+Taichi: "And where are they?"
+TP
+
+
+WVP 0 vfCCD0001you058
+//曜子「……隠したから」
+Youko: "...hidden."
+TP
+
+
+WVP 0 vfCCD0001you059
+//曜子「あなたが、傷つかないように」
+Youko: "So that they would not wound you."
+TP
+
+
+WVP 0 vfCCD0001you060
+//曜子「あるいは……諦められるように」
+Youko: "Or possibly... make you give up."
+//In order not to make him give up... or viceversa. It has to be ambiguous; she wants Taichi to give up trying to make things good with others. The problem begins if he just gives up and starts doing nothing but murdering or lets himself be killed. Of course she can't imagine the idea he'd ever attempt to destroy the ring and eject the remaining people from his delusion - let alone ever manage to defeat her. -GHS
+TP
+
+
+WVP 0 vfCCD0001you061
+//曜子「……見る？」
+Youko: "...wanna see?"
+//No answer, but we see later they somehow magically appear in the hokora. And right after the world "shifts" as to make him forget he ever went to the hokora at all. As if they've been always there, and Youko somehow had the power to 'censor' them from Taichi's sight. After all, consider the alternative: that she's speedread ALL OF THEM in the time before Taichi goes to the hokora, i.e. 6-7 hours at best. But there's still more in there that Taichi can even read! -GHS
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+//破滅的な歴史……。
+A catastrophic history...
+//The history of the world. -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you062
+//曜子「どう足掻こうとも、どう闘おうとも」
+Youko: "However much you flounder for a foothold, however much you struggle,"
+TP
+
+
+WVP 0 vfCCD0001you063
+//曜子「ありとあらゆる可能性の中に、あなたを理解してくれる人は……いないの」
+Youko: "among all the possibilities that exist, a person capable of understanding you... there isn't."
+//She's approaching this from an egotistic standpoint. She's assuming Taichi's all doing this for his own selfish emo wish of being understood. She's not wrong; she simply can't comprehend the idea that one would ever want to do anything else. -GHS
+TP
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you064
+//曜子「ただ、私だけをのぞいて」
+Youko: "That is, me alone excluded."
+//This isn't a contradiction, if we continue with the idea that she does not exist. -GHS
+TP
+
+
+WVP 0 vfCCD0001you065
+//曜子「……もう、そろそろ理解してくれてもいいと思う」
+Youko: "...and now, if you would please give me your understanding on this, it would be about time I think."
+TP
+
+
+//太一「理解は、してるさ」
+Taichi: "I understand, I do."
+TP
+
+
+//太一「付け加えるなら、君だって俺を愛してるわけじゃないだろう！？」
+Taichi: "And if I can add something, you are NOT in love with me either, aren't you?!"
+//If Taichi is as worthless as he feels he is, and only Youko can understand him, then she must despise him too for being worthless. If she knows he's worthless, and still he loves him, then he's worth at least someone's love and makes him no longer worthless, meaning either he's wrong, or she doesn't understand him at all.
+//If he's not worthless, Youko can't be the only one to love him; if Youko doesn't understand him, her love is based on misapprehension. Since he can't go against this purely irrational feeling of self-worthlessness, it follows that either Youko can't love him, or he has to live with an internal contradiction that would drive him insane. The only out is leaving self-worthlessness, i.e. giving up to believing there's some kind of convenient out and living on. This is why the trigger in CCX0001 seems to be where it is. -GHS
+TP
+
+
+//叫ぶ。
+Shouting.
+TP
+
+
+//太一「何なんだよ、この世界は！」
+Taichi: "The FUCK is wrong with this world!"
+//Sometimes you just gotta drop'em. -GHS
+TP
+
+
+//深々と息を吐き出した。
+A spat out my deep, deep breath,
+TP
+
+
+//苛立ちとともに。
+and irritation with it.
+TP
+
+
+//太一「ねえ……ここは異世界なのかな」
+Taichi: "Say... is this a parallel universe or something?"
+TP
+
+
+//曜子ちゃんは俺の前に立った。
+Youko-chan stood in front of me,
+TP
+
+
+//そしてつま先で、地面に『Ｘ』の字を描いた。
+and with the tip of her toes drew an 『Ｘ』 on the ground.
+//There'll be two theories, and they're preceded by this. This is very possibly a hint that the theories can and should intersect. And since "X" is the symbol for "wrong", perhaps... regardless, I can't but be reminded of John 8:6 -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you066
+//曜子「可能性は二つ」
+Youko: "The possibilities are two."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfzzzCCD0021youko1
+//曜子「一つは、線形だった二つの世界軸が交錯し、互いに知覚できる状態になってしまった……ＳＦね」
+//曜子「一つは、線形と信じられてきた二つの世界軸が交錯し、互いに知覚できる状態になってしまった……ＳＦね」
+Youko: "First, the axes believed linear of two worlds have intermixed, a condition in which they can reciprocally perceive each other... very SF."
+//HACK line was somewhat tweaked. 軸, been a while. Still Shimura [F]enomenon/Somewhat Freaky, not necessarily sci-fi. In particular, she starts immediately talking about perception. It's a very odd thing to start from. -GHS
+TP
+
+
+//二本の世界。
+Two worlds,
+//Read Nihon no Sekai, the World of Japan. -GHS
+TP
+
+
+//ねじまがって、交差。
+twisting, overlapping... crossing.
+TP
+
+
+//太一「世界が重なって、異常が起きたってことか」
+Taichi: "Worlds are overlapping, then something abnormal has happened, right?"
+TP
+
+
+//太一「ん……その場合、俺たちの元いた世界は？　そのまま保持されてるってことじゃ―――」
+Taichi: "Hmmm... and in that case, what about our world of origin? If it has been preserved as it was then---"
+//He's already assuming that they've moved somehow. But how, since all she's talked about is perception? This is still important. -GHS
+TP
+
+//GL 1 TCHY0001
+//GI 1 0
+//HACK actually unneeded -GHS
+
+WVP 0 vfCCD0001you068
+//曜子「もう一つは、私たちのいた世界の結末がコレだった」
+Youko: "The other one, what we see is the way that the world in which we lived in has ended."
+//Both are obviously wrong in the obvious sense, and perfectly correct in another. -GHS
+TP
+
+
+//だが彼女は安易な救済を、半分だけ否定してのけた。
+But she negated the easy salvation by one half.
+//She seems to be just denying the part in which their original world being preserved is a *good* thing. -GHS
+TP
+
+
+//太一「…………」
+Taichi: "......"
+TP
+
+
+//太一「多世界同志の干渉はありえない……んだったね。量子力学だと」
+Taichi: "Reciprocal interference across Many Worlds is impossible... or was it. It's quantum mechanics."
+//Well, since there's no evidence (scientific or otherwise) of parallel universes, that's true. -GHS
+TP
+
+
+//量子力学といえばディラックだが、俺は原書を読んだことはない。
+To speak of quantum mechanics means to bring in Dirac, but I have never read the original book.
+//http://en.wikipedia.org/wiki/Principles_of_Quantum_Mechanics - Interesting he'd bring in Dirac when MWI is Everett, who goes entirely unmentioned. -GHS
+TP
+
+
+//そもそも今の状況が、量子力学的解釈にふさわしいものかどうか。
+And is a quantum mechanical interpretation even applicable to this situation to begin with?
+//This seems to mean "can we apply QM to this" more than "which explanation can we use for this". Survey says... no. -GHS
+TP
+
+
+//太一「……さっき言ってた、ＳＦの方なんだけど……あれは？」
+Taichi: "...the one you said before, the SF one... what was that?"
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you069
+//曜子「ＡとＢのどちらかを選ばないといけないとする。どっちを選ぶ？」
+Youko: "You must absolutely and necessarily choose between A and B. Which do you choose?"
+TP
+
+
+//太一「……半々だな。内容がわからないなら」
+Taichi: "...half and half I guess. I don't know which choices they are."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you070
+//曜子「そう。私たちは日々、無数の選択の上に生きている」
+Youko: "Indeed. Our lives are built over choices without number."
+TP
+
+
+WVP 0 vfCCD0001you071
+//曜子「たとえば歩き出すとき、どちらの足から前に進めるのか」
+Youko: "For example, on setting out to walk, from which foot do we move forwards?"
+//That's actually a pretty bad example given most people settle on a single one for the overwhelming majority of their lives. It's like wondering which thumb goes on top when you clasp your hands: the dominant one. -GHS
+TP
+
+
+WVP 0 vfCCD0001you072
+//曜子「ごはんのおかずを何から食べるのか」
+Youko: "Which side dish of rice will we begin eating from?"
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you073
+//曜子「もっとミクロの世界でも、選択は行われる」
+Youko: "Choices take place in a more microscopic world as well."
+TP
+
+
+WVP 0 vfCCD0001you074
+//曜子「ありとあらゆる瞬間、無数の選択が行われている」
+Youko: "Choices without number take place each and every single instant."
+TP
+
+
+WVP 0 vfCCD0001you075
+//曜子「世界は選択によって作られている」
+Youko: "And the world is shaped by these choices."
+//Taking she's not saying that choices created actual matter, because that's another can of worms. Though it does sort of have difficulties gelling with the new CCD0009, where the actions of people are merely what's allowed. Supposing the world is made by choices, but those choices are still what's permitted. -GHS
+TP
+
+
+WVP 0 vfCCD0001you076
+//曜子「それも、極めて確定的に」
+Youko: "Extremely deterministically so, as well."
+//MWI again, as it is deterministic (IOW no wavefunction collapse). -GHS
+TP
+
+
+//太一「確定的に……」
+Taichi: "Deterministically..."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you077
+//曜子「たとえば太一はＡを選ぶ。太一はＡを選んだことを自覚している」
+Youko: "For example, Taichi selects A. Taichi has the memory of choosing A."
+TP
+
+
+WVP 0 vfCCD0001you078
+//曜子「けど同時に、その同じ世界軸にはＢを選んだ太一も存在する」
+Youko: "Yet simultaneously, on that same world axis a Taichi that has selected B also exists."
+//According to MWI, the possibility exists in the same superposition, which gives apparent collapse by splitting a single decision per universe, and the "world axis" thing seems just needlessly confusing. Of course, Taichi B exists only as a pure thought experiment, not even raising to the level of hypothesis or theory; MWI is not only untested and unproven, it's currently untestable at all. There's a little more in the new material below, but this seems to be the Taichi B that the cryptic message left by Tanaka at the end of the Tower of Friends scenario on the Materials Book refers to. Except, technically, that Taichi didn't choose anything, did he? -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you079
+//曜子「並列的な世界の存在を意味するものではないけれど……」
+Youko: "It does not imply the existence of parallel universes, however..."
+//Oh yes it does! That's the whole point of MWI, that the superposition generates an infinity of universes each containing a single apparently-collapsed decision. This doesn't make any sense. It's like she's implying that the superposition stays on the same universe and it could be switched by the observer, retroactively so. This is interesting, but not MWI. -GHS
+TP
+
+
+WVP 0 vfCCD0001you080
+//曜子「ただ少なくともディラックの概念では、Ａ選択世界からＢ選択世界を知覚することは不可能。逆もまた然り」
+Youko: "Merely that in the general concept of Dirac, perception of the world of Selection B from the world of Selection A is not possible. And vice versa."
+//And here we get to heart of the troll: Dirac says nothing of the sort that I can find. In fact, he had absolutely nothing to do with the development or study of MWI that I can even find. The quote "shut up and calculate!", rejecting all interpretations of QM, is falsely attributed to him - meaning he at least had a reputation of being interpretation agnostic. Considering Taichi will mention MWI by name, and also see CCZDXC, this is troll. See CCA0015C: attributing Everett's stuff to Dirac is suspiciously similar to attributing God is Dead to Kierkegaard. This is as close to the smoking gun as can be found in Cross Channel: to take this literally is to be trolled, hard. -GHS
+TP
+
+
+WVP 0 vfCCD0001you081
+//曜子「逆に知覚できるなら、世界間の移行はありうる」
+Youko: "Conversely, if there is capability of observation, transfer between the worlds becomes possible."
+//This is a very odd switch of subjects. This should be talking about entanglement, given MWI an observer capable of more or less consciously changing entanglement could switch universes, with retroactive effects if the entanglement changed is far enough. This is a big logic leap, and theorizing this is far beyond quantum mechanics. That's why the true troll isn't that this is all bullshit; it's that this makes very very simple sense once we move from MWI to chuuni. It's false; that's why it's true. -GHS
+TP
+
+
+WVP 0 vfCCD0001you082
+//曜子「紫外線を目視できる者にとって、世界がまったく違うものであるように」
+Youko: "Similarly to how the world is a completely different thing for those who could see in the ultraviolet,"
+//This is a jump in subject that makes absolutely no sense... unless she knows this is about Taichi and his sight, which she does whether it's the Mystic Eyes of Alternate World Sight or him simply refusing to see the rest of the people. Two possibilities when it comes to seeing ultraviolet for humans: Aphakia http://en.wikipedia.org/wiki/Aphakia or tetrachromacy. http://en.wikipedia.org/wiki/Tetrachromacy#Possibility_of_human_tetrachromats Neither works the way Taichi's does. Him having just a (benign) cancerlike eye pattern/contact lenses and once in a while donning night vision goggles remains far more likely. -GHS
+TP
+
+
+WVP 0 vfCCD0001you083
+//曜子「多世界を観測しえた者は、その二つの世界に存在することができる」
+Youko: "one capable of observing many worlds is capable of existing in those two worlds."
+TP
+
+
+WVP 0 vfCCD0001you084
+//曜子「観測が成立した瞬間、その世界の者になっている……とも考えられる」
+Youko: "The instant observation comes into being, he will become an occupant of that world... or so it is thought."
+//This seems to be kind of a rash conclusion, but like how the Sakakibara diary doesn't actually conclusively support the idea of a parallel world, she still has no reason whatsoever to begin talking about *individuals* who can see parallel worlds. An "observer" needn't be human. And observation is technically incorrect; this would require the ability to arbitrarily re-entangle oneself with one of the other alternatives, which, depending on the distance between current alternative and picked alternative, would therefore change the world retroactively (or give the impression of it).
+//The ultraviolet thing is a possible interpretation of Taichi's eyes that can see in the dark, so this whole thing would refer to Taichi regardless. But why would she assume he can see multiple worlds? And what does this have to do with Dirac? -GHS
+TP
+
+
+//太一「観測……した……？」
+Taichi: "Observation... into being...?"
+TP
+
+
+//太一「世界は変わらずそこにあって、要するに見る者の違いってことかな？」
+Taichi: "No change of the world in there, or in other words, it's just a difference in the observer, then?"
+//The simplest explanation is and remains that the observer is committing a mistake, see CCA0016. Nothing has happened to the world at all. Literally him chuunin', metaphorically him refusing to see reality - all covered in a smattering of quasi-science. This works best if he understands the above refers to him. -GHS
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you085
+//曜子「そんな感じ」
+Youko: "Something of that sort."
+//Genius(!). -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you086
+//曜子「ただ多世界観測は、現行の理論ではありえない」
+Youko: "However, many worlds observation is impossible in current theories."
+TP
+
+
+WVP 0 vfCCD0001you087
+//曜子「私たち複数が一斉に移行した理由にもならないし」
+Youko: "There is also no reason for us all to have transferred in unison either."
+//The continued implication is that A Certain Observer moved himself and everyone else, which is what makes this work. No matter how smart she is, that's castles in the air. -GHS
+TP
+
+
+WVP 0 vfCCD0001you088
+//曜子「だからＳＦ」
+Youko: "Therefore, SF."
+TP
+
+
+//太一「……ふむ」
+Taichi: "...hmmm."
+TP
+
+
+//太一「二つ目の可能性については？」
+Taichi: "And with regards to the second possibility?"
+TP
+
+GL 1 TCHY0002
+GI 1 0
+
+WVP 0 vfCCD0001you089
+//曜子「私は、こちらが本命だと思う」
+Youko: "This one is the likely correct one, I think."
+//Of course not, neither is correct. -GHS
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you090
+//曜子「つまり他の世界は観測されてない」
+Youko: "In short there is no observation of another world."
+TP
+
+
+//太一「……んー、さっきのＳＦ解釈はナシってことね」
+Taichi: "...hmmm, so you say that SF interpretation of before is a no-go, right."
+TP
+
+
+//端正な顔が頷く。
+A noble face nods.
+TP
+
+
+GL 1 TCHY0002
+GI 1 0
+WVP 0 vfCCD0001you091
+//曜子「世界、時間、固有の歴史。すべて一続きのもの」
+Youko: "The world, the time, the eigenhistory: all are things of continuity and sequence."
+TP
+
+
+WVP 0 vfCCD0001you092
+//曜子「つまり……時間も巻き戻ってはいない」
+Youko: "In other words... time is not being rewound."
+//True, except it's false. -GHSoHelpfulToday
+TP
+
+
+//太一「……え？」
+Taichi: "...eh?"
+TP
+
+
+//太一「それはおかしいよ。日記には月曜から土曜あたりまで記述があって……そこからまた月曜に戻っていたりするんだけど？」
+Taichi: "But that's weird. In the diaries there are descriptions from Monday up around Saturday... and from there it returns back to Monday, doesn't it?"
+//And there's absolutely nothing odd with that in the slightest, if you actually take this sentence on its face. -GHS
+TP
+
+
+WVP 0 vfCCD0001you093
+//曜子「ループしているように見えるに過ぎない」
+Youko: "The time loop exists in no more than appearances."
+//True, except for being completely true. -GHS
+TP
+
+
+WVP 0 vfCCD0001you094
+//曜子「当然世界は、永遠の時を繰り返しているのではない」
+Youko: "The natural world is not repeating the same time over and over eternally."
+TP
+
+
+WVP 0 vfCCD0001you095
+//曜子「この結末が、世界の確定的な結末だった」
+Youko: "This end is the deterministically derived end of the world."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you096
+//曜子「世界は交差していない。異変は起きてはいない。一続き。もともと、こうなる可能性が許容されていた世界で、私たちは可能性に乗って順当に今に立った」
+Youko: "Worlds are not crossing. No unusual phenomenon is occurring. All is sequential. This possibility was permitted from the beginning of the world, and we rode down that possibility to find ourselves here, exactly where we were expected to be."
+//This is what is meant with deterministic, choice -> consequence without fail. They couldn't end up anywhere else. Religiously, it's the Wages of Sin; in simplest metaphors, Taichi chose for things to be like this (if unconsciously), and there they are. The discrepancy is only whether this is caused by sci-fi phenomenons that are never explained and clarified with borderline obvious trolls, Taichi going mad in ways similar to those seen in other characters and allowed by the setting especially in the political organizational sense, or if the entire question is a troll and it's all a religious metaphor anyway. -GHS
+TP
+
+
+GL 1 TCHY0001
+GI 1 0
+WVP 0 vfCCD0001you097
+//曜子「多世界間での知覚の交錯が起こったように見えるけれど、実際は一繋がりの道を進んでいるだけ」
+Youko: "It may be seen as if an intermixing of perceptions between many worlds has occurred, however, in reality we are only advancing on a road connected by a single thread."
+//Ohhh, so that's why this thing is so damn linear regardless. -GHS
+TP
+
+
+//太一「ループしているようにって……実際俺たち、何度もリセットかけられているわけで……」
+Taichi: "The loop is only appearances, you say... but in reality, we have been subjected to a reset many times over, so..."
+TP
+
+
+//太一「そもそも元の世界でループなんて現象、起こったこと……」
+Taichi: "For this loop phenomenon to happen in our world of origin to begin with, it would mean..."
+TP
+
+
+//気づいた。
+I realized.
+TP
+
+
+//そうか。
+Of course...
+TP
+
+
+//太一「自覚できないんだ……」
+Taichi: "We could never be aware of it..."
+//So there's no reason for the Sakakibara diary to be about a parallel world, regardless of whether what it says is correct or troll. So why is Miki so convinced? The simplest explanation is: for the same reason Youko is. They're all playing poor Taichi's chuuni game in one way or another. -GHS
+TP
+
+
+//ループが起こったことを、俺たちは本来自覚できない。
+By its nature we could never notice the occurrence of a loop.
+TP
+
+
+//祠という特殊な場所が存在してくれない限り。
+Should the unique location that is the hokora not have existed,
+TP
+
+
+//現象は決して露見しない。
+the phenomenon could by no means have been discovered.
+//This mess can't be figured out without the only edifice of remotely obvious religious significance in the entire story. It contains all of Taichi's sins, piled to the sky, as well as every thing that has ever happened and almost everything that can. It was obvious in retrospect. -GHS
+TP
+
+
+//太一「世界には、もともとループという現象が予定されていた？　人類の黄昏として？」
+Taichi: "Then was this loop phenomenon preordained in this world, from the beginning? As the twilight of mankind?"
+TP
+
+
+//長い線路の端に。
+And the end of its long track,
+TP
+
+
+//何も大地が崩壊するばかりが、滅亡じゃないんだ。
+the collapse and destruction of all land, alone, is not the Downfall.
+TP
+
+
+//時空が乱れて、先に進めなくなることが……終焉であることだって。
+Space-time falls into disarray and ceases to progress onwards... that is its demise.
+//No, if space-time is still continuous, then it is simply progressing forwards in a different shape. An advancement in shapes not understood isn't a collapse. This may be intentional, however. -GHS
+TP
+
+
+//太一「でも……でもさ……」
+Taichi: "But... but say..."
+TP
+
+GL 1 TCHY0002
+GI 1 0
+
+WVP 0 vfCCD0001you098
+//曜子「特定の条件……この場合、日曜日の規定時間に到達した時、世界は一度分解されている……としか言えない」
+Youko: "It has specific requirements... in this case, when the specified time on Sunday is reached, the world is at once dismantled... no more than this can be said."
+TP
+
+
+WVP 0 vfCCD0001you099
+//曜子「空間的に記録された情報に従って、分解された粒子が収束、月曜朝の状態に戻る」
+Youko: "Following the recorded spatial information, the disassembled particles reorganize and return to the aspect of Monday."
+//Recorded where? On the hard drive, for starters... -GHS
+TP
+
+
+//太一「でも、世界としては一続き……」
+Taichi: "But for the world it's all continuous..."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you100
+//曜子「その証拠として、例の社をあげる」
+Youko: "As evidence of that, I offer that shrine."
+//One of the few times it's not called "hokora". 社 is not necessarily Shinto as far as shrines, though it usually is. Not that it matters; Shintoism has no religious problem accepting the existence of the Christian God as one of its Kami, or that it would be enshrined somewhere. -GHS
+TP
+
+
+WVP 0 vfCCD0001you101
+//曜子「ノートの記述内容は過去の存在を示すものよ」
+Youko: "The subject of the descriptions in the notebooks is what shows the existence of a past."
+//=history. -GHS
+TP
+
+
+WVP 0 vfCCD0001you102
+//曜子「過去が観測できる以上、過去はある」
+Youko: "Since the past can be observed, the past exists."
+TP
+GL 1 TCHY0002
+GI 1 0
+
+
+WVP 0 vfCCD0001you103
+//曜子「この世界は、過去を許容しているということね」
+Youko: "This world here permits a past."
+TP
+
+
+WVP 0 vfCCD0001you104
+//曜子「そして私たちは、何度も分解され構築されてここにいる」
+Youko: "And then, here we are, one by one, having been dismantled many times and assembled many times."
+//Kokoni -GHS
+TP
+
+
+WVP 0 vfCCD0001you105
+//曜子「……厳密に言えば、私たちはもう人ではない気がする」
+Youko: "...I have the feeling that we are not, strictly speaking, people anymore."
+TP
+
+
+//太一「じゃあ何だっての？」
+Taichi: "Well then, what are we?"
+TP
+
+
+WVP 0 vfCCD0001you106
+//曜子「現象」
+Youko: "A phenomenon."
+//See CCD0009 as rewritten. -GHS
+TP
+
+
+//適切すぎる言葉が、心に染みた。
+A word too appropriate that soaked into my heart.
+TP
+
+
+//もう人じゃない―――
+People no more---
+//Then again, the point seems to be this. Separation from God, being VN actors, being partially or completely in Taichi's mind would certainly make all them people no more. -GHS
+TP
+
+
+//太一「君は一繋がり説だって言ったけど、でも俺には前者の方もそれっぽく聞こえる。どっちが正しいか、今のところは判断できないんじゃあ……」
+Taichi: "You say that it's the single thread theory, but to my ears the first one sounds more like it. We can't discern which is correct at this point in time, you know..."
+//Juuust a bit desperate. Interesting emphasis on the 'hearing'. -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you107
+//曜子「私たちにとってループしているように見えても、実際どうかは調べようがないの」
+Youko: "To us it is something that we see as a loop, but what it is in reality we can't investigate."
+TP
+
+
+WVP 0 vfCCD0001you108
+//曜子「……だったらまずは、今ある理論を適用するしかない」
+Youko: "...therefore, to start with we have no choice but to adopt one of the theories we have now."
+//"I dunno, but science says this, so it's gotta be one of these". Magnificently human. -GHS
+TP
+
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you109
+//曜子「現状、世界間の移動はありえないと思われるから、移動なしの仮定としての後者」
+Youko: "Presently, motion between worlds appears to be impossible, therefore it is the one without the assumption of movement, or the latter."
+//The irony is that, with the new CCD0009, this is even more obviously headed towards a religious explanation. Although inadequate in the grand scheme of things, it's far more reasonable that a reader could follow this explanation into that. After all, if it's a possibility permitted, and what's permitted (CCD0009) is all but stated to be not what's made by mankind, but something that's property of a very monotheistic-sounding God, then this end of the world must be caused by this God. Ergo, that's the direction to look to. -GHS
+TP
+
+
+//太一「ああ、なるほど……」
+Taichi: "Ahhh, I see..."
+TP
+
+//HACK watch out for new lines! Not much new, actually, but there's a slight clarification on the B world thing. -GHS
+
+
+//どうなんだろう。
+Or do I now.
+TP
+//俺にSF説の方がしっくりくる。
+To me, the SF theory seems more fitting.
+TP
+//太一「もしここが世界Bで、A世界がまんま残っているとしたら？」
+Taichi: "Suppose this is World B, would World A be left as-is?"
+//If the worlds have crossed, and this are the dregs of said crossing, then the Cross World would be a World C, not B. Funny how everyone just forgets the third part in their rush to see Both Sides Of Things, isn't it. -GHS
+TP
+WVP 0 vfzzzCCD0021youko2
+//曜子「その可能性は否定はできないけれど……」
+Youko: "That is not a possibility I can reject, but..."
+TP
+//太一「けれど？」
+Taichi: "But?"
+TP
+
+GL 1 TCHY0000
+GI 1 0
+//HACK Open eyes -GHS
+
+WVP 0 vfzzzCCD0021youko3
+//曜子「交差現象によって起きる何らかの事象があるとしたら？」
+Youko: "What if there is some kind of phenomenic event caused by the Crossover Phenomenon?"
+//Oddly, "crossover phenomenon" is in the dictionary as-is. Sorry about "phenomenic event", but that's what it says... -GHS
+TP
+WVP 0 vfzzzCCD0021youko4
+//曜子「A世界にも、被害が発生していることは充分考えられる」
+Youko: "There is plenty to think that damage has occurred in World A as well."
+//No, actually, there is absolutely nothing at all whatsoever. There's not even any need to think that any world has been switched or changed, or anything of the sort. She is, still, talking out of her ass. -GHS
+TP
+//太一「……人が消える、とか？」
+Taichi: "...the disappearance of mankind, for example?"
+//Noticing that this new bit is adding nothing, just mixing and jumbling the two theories? The crossing of worlds, here, would leave them in World A but with humanity disappeared. -GHS
+TP
+
+GL 1 TCHY0001
+GI 1 0
+//HACK Close eyes -GHS
+
+WVP 0 vfzzzCCD0021youko5
+//曜子「かもしれない」
+Youko: "Perhaps, maybe."
+TP
+WVP 0 vfzzzCCD0021youko6
+//曜子「別種のトラブルがおこるかもしれない」
+Youko: "Some other kind of trouble has occurred, perhaps."
+TP
+WVP 0 vfzzzCCD0021youko7
+//曜子「どこか遠い場所で、名もない星が爆発するのかもしれない」
+Youko: "Somewhere in a faraway place, a star without name may have exploded, perhaps."
+//And here we have the evidence of the troll: V861 Scorpii fits the bill just nicely; in other words, hello Nanaka. -GHS
+TP
+WVP 0 vfzzzCCD0021youko8
+//曜子「こちら側よりつらいことになっているのかも……それは誰にもわからない」
+Youko: "And it became something far more serious on this side, maybe... that is something no one could know."
+TP
+//どっちに転んでも明るい希望だけってわけにはいかないのか。
+Wherever you fall a pure bright hope you will never find, then?
+TP
+//太一「多世界……か」
+Taichi: "Many Worlds... then."
+TP
+
+
+
+
+//量子力学における多世界解釈は、並列的世界の存在を裏付けるものじゃない。
+The Many Worlds Interpretation of quantum mechanics does not substantiate the existence of parallel universes.
+//That's the precise term that translates to MWI. http://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B4%E3%82%A7%E3%83%AC%E3%83%83%E3%83%88%E3%81%AE%E5%A4%9A%E4%B8%96%E7%95%8C%E8%A7%A3%E9%87%88 although Wikipedia J calls it "Everett's Many Worlds Interpretation". Whatever the concept, we're talking about that specific theory, so bringing in Dirac is strong in troll. Wikipedia (E): "MWI's main conclusion is that the universe [...] is composed of a quantum superposition of very many [...] parallel universes". MWI however doesn't substantiate, or prove, the existence of parallel universes; as an interpretation, and not a theory or science, it can't substantiate anything at all. IOW, despite calling in MWI, refusing to consider Many Worlds is technically not a lie. -GHS
+TP
+
+
+//それは誤認であり、実際はもっと確定的な思考実験だ。
+That is a misconception; in practice it's a much more deterministic thought experiment.
+//Well, it's more deterministic than the wave function collapse of the Copenhagen interpretation, which isn't. From what I understand, if A leads to 1 2 3 and B to 4 5 6, then B can never lead to 2, for example.
+//If I picked B then 4, but then somehow could re-entangle in a world where I picked 2, then the past would change so that I've also picked A: this is what it means with determinism, and the reason for "observation" leading to world switching. This should only work in deterministic, MWI-ish interpretations, because once B is picked then 1 2 3 only exist as conjectures, not as definite events separated in discrete parallel universes as in MWI. This may be the point of Schroedinger's Cat, but I admit I'm far from sure. -GHS
+TP
+
+
+//そこでは、世界Ａと世界Ｂは同時に存在しているが行き来はできない。
+In there, a World A and a World B can exist simultaneously, but it is impossible to traverse between them,
+TP
+
+
+//なぜなら同時に存在しているからだ。
+because of that very simultaneous existence.
+//MWI doesn't seem to say anything at all about traveling - how could it, it's an interpretation that doesn't rise to the level of theory; multiple worlds are far from observed or proven, travel between something that may not even exist isn't even conjecturable at all. At best, this could be said to be true because it requires re-entanglement with a different choice picked -GHS
+TP
+
+
+//このあたり、理解が少々厄介ではある。
+Around this part, my understanding becomes a little confused.
+//Mandatory snort. -GHS
+TP
+
+
+//太一「ディラック、せめて訳書があれば読んだんだけど」
+Taichi: "I would have read Dirac if there had been a translation, but..."
+//http://www.amazon.co.jp/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6-%E5%8E%9F%E6%9B%B8%E7%AC%AC4%E7%89%88-%E3%83%87%E3%82%A3%E3%83%A9%E3%83%83%E3%82%AF/dp/4000061232/ Japanese language edition of Dirac's book, 4th edition. Published 1968. No way, no how that with the resources and the lavish at the Hasekura Mansion he couldn't procure or, at the absolute very least, not know about this. Epic research failure or smoking gun? Given everything, I'm going with the latter. -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you110
+//曜子「仮に従来の理論を逸脱していたとしても」
+Youko: "Even if we were to deviate from conventional theories,"
+TP
+
+
+WVP 0 vfCCD0001you111
+//曜子「起こりえないと思っていたことが起きた。それだけのことよ」
+Youko: "something we believed could not happen has. That and nothing more."
+//What a beautiful and detailed elucidation this is. -GHSarc
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you112
+//曜子「物理的な地平は広くて、人はまだその全てに手を広げたわけじゃない」
+Youko: "The horizon of all things physics is vast, and people are yet to lay their hands over all of it."
+//This admittedly is hard to make sense of without CCD0009, as she brings this up from nowhere in the original text. -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you113
+//曜子「そして今の私たちに、理論は些細なことでしかない」
+Youko: "And then, to us as we are right now theories are nothing but trifles."
+TP
+
+
+WVP 0 vfCCD0001you114
+//曜子「必要なのは、なに？」
+Youko: "What is necessary is... what?"
+//See CCD5001 -GHS
+TP
+
+
+//太一「わからない」
+Taichi: "I dunno."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you115
+//曜子「理解者、でしょう？」
+Youko: "Someone who understands, don't we?"
+//Supposing it's in reference to above, "the person capable of understanding you". It's very funny considering she is possibly the only person who understands Taichi even worse than he does himself. Even if it were to refer to the theories, this incoherent quasi-scientific mess of an explanation shows she's basically clueless about the situation at hand. She is the real Dumbass Comic Relief, while Sakuraba is actually Mr. Exposition. Troll Channel continues... -GHS
+TP
+
+
+//微笑む。
+Smiling.
+TP
+
+
+//太一「…………」
+Taichi: "......"
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you116
+//曜子「太一の理解者なら、ここにいる」
+Youko: "And someone who understands you, Taichi, is here with you."
+TP
+
+
+WVP 0 vfCCD0001you117
+//曜子「他の誰も、あなたのことを理解してはくれない」
+Youko: "No one else will give you understanding of what you are."
+TP
+
+
+WVP 0 vfCCD0001you118
+//曜子「擬態をすればするほど……」
+Youko: "For the more you camouflage yourself..."
+//See CCB0006, CCB2009, CCC3009, and most importantly, CCC4021. Taichi might as well be a mechanical unicorn powered by rainbows for what Youko understands of him. Literally everyone gets him better than Youko does. -GHS
+TP
+
+
+//そうだ。
+Right.
+TP
+
+
+//当然のことだ。
+It is a matter of course.
+TP
+
+
+//人のフリをすれば、フリだけが自分になってしまう。
+If I'm pretending to be a person, nothing but pretension is what my self will become.
+//That's not in contrast of the Lewisian argument (keep pretending to be human, and you'll become one). The error Taichi makes is that he keeps pretending to be a *monster* pretending to be human. That's what he's becoming: a monster. -GHS
+TP
+
+
+//隠した内面を見られたが最後、おしまいだ。
+If my concealed hidden interior is seen it's the end, all over.
+//The safe is a better metaphor for this. Outside there's decoy porn. Inside is more precious porn. -GHS
+TP
+
+
+//思い出す。
+I remember.
+TP
+
+
+//太一「わかってたさ……そんなこと」
+Taichi: "I get that... you know."
+TP
+
+
+//太一「あのときから、とうに！」
+Taichi: "Ever since that time, so long ago!"
+TP
+
+
+
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0003D
+GL 1 TCDY0000B
+GP 1 240 0
+GS 0 1
+GS 1 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. Notice it's not sepia anymore, because of the new CG I suppose. -GHS
+
+//GL 0 bgcc0003s
+//
+//GL 1 TCDY0000s
+//GP 1 240 0
+//GS 1 1
+//GS 0 1
+//SEF 10 0
+
+WVP 0 vfCCD0001ysa000
+//遊紗「いいお部屋ですね」
+Yusa: "You have a nice room."
+TP
+
+
+//堂島遊紗。
+Doujima Yusa.
+TP
+
+
+//いい子だった。
+What a nice girl she was.
+TP
+
+
+//純真で健気で。
+So naive and brave.
+TP
+
+
+//病を心に秘めていても、人を傷つけることも知らない。
+Even hiding the disease in the heart it's still possible to not know you are hurting someone.
+//Could easily refer to both: Yusa hides her illness inside, as well, and by refusing his help when she's bullied (as is unclear, but very possible, see CCA0013), she's been hurting him as well. -GHS
+TP
+
+GL 1 TCDY0003B
+GI 1 0
+
+WVP 0 vfCCD0001ysa001
+//遊紗「あの……ここの変化がわからないんですけど……」
+Yusa: "Uhm... I don't understand this change, so..."
+//Her first reaction is to say "uhm, what are you doing"? Come now; little Yusa's been compared to Misato (and later Miki) so many times that there's simply no way she's THIS stupid. -GHS
+TP
+
+
+//俺の目には、甘い水。
+In my eyes, sweet water.
+TP
+
+GL 1 TCDY0000B
+GI 1 0
+
+WVP 0 vfCCD0001ysa002
+//遊紗「……太一さん？」
+Yusa: "...Taichi-san?"
+TP
+
+GL 0 zzzCCD0021yusa
+GS 0 1
+GS 1 0
+SEF 109 0
+//HACK new CG -GHS
+
+
+//終焉は、唐突だった。
+The demise... was abrupt.
+//Since this scene is basically a pre-play of the Kiri bathroom scene, and another replay of CCC0000, it's safe to assume this takes place days at best after Yutaka's death. And both scenes are caused by the exact same sort of event. -GHS
+TP
+
+
+//不意にあらわれた俺の内面は、彼女にとって猛毒となった。
+The sudden materialization of my interior was, to her, like swallowing a deadly poison.
+TP
+//GL 1 TCDY0004s
+//GI 1 0
+//HACK no need -GHS
+
+WVP 0 vfCCD0001ysa003
+//遊紗「太一……さん……ですよね？」
+Yusa: "Are you even... Taichi... san?"
+//See CCC0009B and CCA0009B. And it twists, and it turns. -GHS
+TP
+
+
+//太一「ああ、そうだよ」
+Taichi: "Yup, I am."
+TP
+
+
+WVP 0 vfCCD0001ysa004
+//遊紗「あ、あの……わた、し……」
+Yusa: "Ah, uhm... I-, I..."
+TP
+
+
+//太一「キレイだね」
+Taichi: "So pretty, yes."
+//Ambiguous once again, since he refers to his eyes just below. He could be telling her "look at how pretty my eyes are". Also it's the 'kirei' pretty, as in also "clean". -GHS
+TP
+
+
+//俺の瞳は光っていたのだろう。
+My eyes by now must've been shining,
+TP
+
+
+//欲望で爛々と。
+blazing with appetite.
+//vs. want. Hmmm... -GHS
+TP
+
+
+//太一「キレイだから、服を脱ぐんだ」
+Taichi: "Pretty, therefore, off with the clothes."
+//Remember CCA0002, CCC3004. That's not an uncommon thing he does to try to lighten the mood. He could STILL be talking about himself! -GHS
+TP
+
+
+//遊紗「…………」
+Yusa: "......"
+TP
+
+
+//肉食の野生動物に見つめられたことがあればわかる。
+One who has ever been stared at by a wild carnivorous animal knows it,
+TP
+
+
+//ギョロッと血走った双眼が、注目してくる。
+what it is like to have the attention of two wide open, bulging, bloodshot eyes.
+//Although the term is ギョロ目, currently among the top search result for ギョロ alone: http://www.amazon.co.jp/%E3%81%86%E3%81%95%E3%82%AE%E3%83%A7%E3%83%AD-%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E3%81%BE%E3%82%81%E3%82%82%E3%82%84%E3%81%97/dp/409134786X THAT IS SCARY MAN -GHS
+TP
+
+
+//好意でも悪意でもない。
+Neither favoritism nor malice there.
+TP
+
+
+//とんでもないほど熱っぽい視線は……だが食欲だ。
+A gaze enthusiastic and feverish to absurd extent that is... nevertheless hunger.
+TP
+
+
+//人間である自分を、食べ物としか認識してない目。
+Eyes that recognize the self, the human self, as nothing but food.
+TP
+
+
+//熱烈なる食欲が、自分に注がれるのだ。
+Boiling hot hunger is poured inside the self.
+TP
+
+
+//時には吐き気さえ催すだろう。
+It's possible it could, occasionally, even induce nausea.
+TP
+
+
+//彼女のように。
+Just like in her.
+//Not even close! Youko, Taichi's trainer-mother, has taught him to do what he's doing now. He's repeating what she fed to him. Yusa's definitely gonna be overfed by her own ogre of a mother, who's likely the cause of merciless teasing at school. And she's throwing up. It's perfect sync. -GHS
+TP
+//GO 1 1
+//HACK no need -GHS
+
+WVP 0 vfCCD0001ysa006
+//遊紗「い……いやぁぁぁぁぁぁぁぁっ！！」
+Yusa: "N-... NOOOOOOOOO!!!"
+//ぁx8 nice timing. -GHS
+TP
+
+
+WVP 0 vfCCD0001ysa007
+//遊紗「……気持ち……悪い……っ」
+Yusa: "...I feel... sick...!"
+TP
+
+
+WVP 0 vfCCD0001ysa008
+//遊紗「う……うう……」
+Yusa: "Ngh... ngh..."
+TP
+
+
+//うずくまり、嘔吐にえずく少女を見下ろしながら、俺はそのくだらない結末にうんざりしていた。
+I was looking down on a squatting little girl disgustingly vomiting her guts out, a conclusion of inferior quality that I grew bored of.
+//"I AM A FEROCIOUS LION! FEAR ME LAMB, FOR I WILL DEVOUR YOU! I CANNOT STOP, FOR THESE OF MINE ARE BUT INSTINCwhat, you say no? Really really seriously no? Oh well, fine, I'm 'bored', yeah, that's what I am, you would've tasted sour anyway so harrumph." This is not the behavior of a ferocious creature, this is the behavior of a rabbit that's dressing up as a lion and doing a really bad job of it. ...or the behavior of someone who booted up Kana: Imouto thinking DURR I GET TO PORK MAI IMOUTO, and the very second scene of the story...
+//BTW, there's some odd stuff in this sentence. 嘔吐にえずく can almost be written 嘔吐に嘔吐く (there's a づ instead of a　ず, but the pronunciation is very close) -  pukingly due to puking? えずい (ezui) is Tousa-ben for "disgusting", ezuku is adverb. Emphasized puking for this. Also kudaroshi (looking down, same lateral meaning present as in English) and kudaranai (worthless) technically use the same kanji. Used look down/inferior. What odd puns, and odder placements as well. I can hardly put this down to Taichi's usual Distract With Bad Jokes behavior. -GHS
+TP
+
+
+//壊す前に壊れた少女。
+The girl broke before being broken.
+TP
+
+
+//太一「…………」
+Taichi: "......"
+TP
+
+
+//そして、彼女は俺を避けるようになった。
+And then, it came that the girl began to avoid me.
+//This is sort of similar to what she did to Kiri on the rooftop, except in Kiri there was no complete rejection for several reasons. Taichi was trying to rescue Yusa in the only way he knew: Alter Egos. -GHS
+TP
+
+
+//汚物を見るような目に、変わった。
+Her eyes changed into something that saw me as if filth.
+//What SHE saw changed as well. Not unjustifiably, but the change is more important as it's part of the recurring theme. -GHS
+TP
+
+
+//実際、俺は汚物だったのだ。
+Truth is, I was filth indeed.
+TP
+
+
+//俺は―――
+I---
+TP
+
+
+
+//……………………。
+............
+TP
+
+
+
+
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+GL 0 bgcc0011a
+GL 1 TCHY0002b
+GP 1 180 0
+GS 0 1
+GS 1 1
+SEF 109 0
+//HACK flashback exit whiteout, fade back in now -GHS
+
+
+
+WVP 0 vfCCD0001you119
+//曜子「いれば傷つけるだけ」
+Youko: "If they are here you will only wound."
+TP
+
+
+WVP 0 vfCCD0001you120
+//曜子「太一のエサでしかない」
+Youko: "They are but prey for you, Taichi."
+TP
+
+
+//太一「うるさい、だからわかってるって！」
+Taichi: "Shaddap, that's why I toldya I get it!"
+TP
+
+
+//曜子ちゃんは押し黙る。
+Youko-chan keeps silent.
+TP
+
+
+//太一「でもできたら、そんなことは……ない……そうはしたくない……」
+Taichi: "But I if I could, I would... never... I don't want to do that..."
+TP
+
+
+//太一「なんとかなるはずだ……」
+Taichi: "I should just manage somehow..."
+TP
+
+GL 1 TCHY0001b
+GI 1 0
+
+WVP 0 vfCCD0001you121
+//曜子「私だけがいればいい」
+Youko: "It would be best if only I were to be."
+//Going by CCC0021, especially, this is another possible admission that she's a split personality. This is meant very literally: if he gives in to her truly and fully, he'd disappear. He'd be nothing but a phantom, like she is. But he'd have to give up the antenna, or anything equivalent as well. -GHS
+TP
+
+
+//自分の胸元を押さえて。
+She presses her hands to her chest.
+//Doesn't seem to mean anything odd... except she may be pointing to herself. But that's not how the Japanese do it, making it extremely suspicious. And wait until she says "I'm coming" in her sex scene when the Japanese say "I'm going". -GHS
+TP
+
+
+WVP 0 vfCCD0001you122
+//曜子「私だったら、太一とうまくやれるから」
+Youko: "Because I alone can go make this go well for you, Taichi."
+//"You could get lucky mah man" + "split personality blah blah blah codfish". -GHS
+TP
+
+
+//どす黒い感情が、下腹部にたちこめた。
+Dark, sinister emotions enshrouded the lower abdomen.
+TP
+
+
+
+CSQ 0 1 1
+//　・ぶつける
+//　・我慢する
+ - Collide
+ - Endure
+//Considering the whole thing above, collide seems to be the more accurate literal meaning; he's gonna try crossing fully with her (with the result expectable). The result will be more like a car crash, a mixing that is closer to two twisted metal wrecks, so I prefer it. This is metaphorically about giving in to sin and not doing so, so "eagerly give in" would work, but... for what is the turning point of the VN, that seems flat. See the new CCD0022A for more - waaay more on this. -GHS
+
+RET

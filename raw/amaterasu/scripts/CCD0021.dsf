@@ -1,0 +1,1297 @@
+//Warning: much like ccc0007 (the first hokora scene) there are many highly abstract statements here which I've translated literally when I couldn't come up with a natural adaptation. As before, be extremely careful when editing them. Å`IX
+
+GL 0 bgcc0005a
+GS 0 1
+SEF 152 0
+
+WT 500 0
+
+
+
+
+GL 0 bgcc0003d
+GS 0 1
+SEF 152 0
+
+I rolled around in bed.
+TP
+
+
+I'd like to finish cooking while it's light outside...
+TP
+
+
+But I don't have the vigor.
+TP
+
+
+Even though my wish is simple...
+TP
+
+
+While relying on the captured notebooks......after three days......I couldn't regain a single connection.
+TP
+
+
+Connection.
+TP
+
+
+A club life where all the members of the Broadcasting Club would stand together.
+TP
+
+
+A bright, fun, healthy radio broadcast.
+TP
+
+
+The notebooks, naturally, don't record conclusions.
+TP
+
+
+I can't determine which methods are close to the conclusion I desire.
+TP
+
+
+Taichi: "Thursday, Friday, Saturday......"
+TP
+
+
+How many days are left?
+TP
+
+
+It would have been better not to know.
+TP
+
+
+That the world would end.
+TP
+
+
+Taichi: "Uuuu......"
+TP
+
+
+I moaned softly.
+TP
+
+
+That was my resentment with this mysterious world, and the present irritating reality.
+TP
+
+
+At best, three or four days.
+TP
+
+
+Taichi: "What can I do......in that little time..."
+TP
+
+
+I clenched my fist.
+TP
+
+The shaky undulation of my seething emotions heated my body, much like rage.
+TP
+
+
+How long---
+TP
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 155 0
+........................
+TP
+
+
+............
+TP
+
+
+......
+TP
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+
+WT 500 0
+WT 500 1
+
+
+
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+
+I took action.
+TP
+
+
+With the descriptions in the notebooks as reference, I took the optimal actions in each situation.
+TP
+
+
+For the sake of happiness.
+TP
+
+
+For the sake of building unity.
+TP
+
+
+Friends, friendship, bonds.
+TP
+
+
+For the sake of those transparent things.
+TP
+
+
+
+GL 0 bgcc0011a
+GS 0 1
+SEF 155 1
+
+And then a useless day came to an end.
+TP
+
+
+Even this bit of hypocrisy was unable to gain---
+TP
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 155 0
+
+........................
+TP
+
+
+............
+TP
+
+
+......
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+
+
+WT 500 0
+WT 500 1
+
+
+
+
+
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+It became Friday.
+TP
+
+
+Normally, this is when changes occur in each person's relationships.
+TP
+
+
+But since I continued on with beauties on all sides, I ended up wasting away my time without gaining anything.
+TP
+
+
+With Mimi-sempai, with Touko, with Kiri, with Miki......
+TP
+
+
+The sense of distance between us remained despairingly far.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+........................
+TP
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+
+
+
+I ran around for half a day without result.
+TP
+
+
+Taichi: "Haa."
+TP
+
+
+I was tired.
+TP
+
+
+I sat down at the front gate. It darkened as I did, so that time was only one step away from becoming evening.
+//SOS
+//My attempt - Sheeta
+TP
+
+
+Then, a familiar intimate rustling in my skin sensed approachment from a great distance.
+//Sounded like his skin was the one approaching from a distance.-Spin
+TP
+
+
+It's Youko-chan.
+TP
+
+
+That's rare, for her to be this defenseless.
+TP
+GL 1 TCHY0000
+GP 1 180 0
+GS 1 1
+SEF 109 0
+
+WVP 1 bgm021.ogg 0 0 0
+
+WVP 0 vfCCD0001you049
+Youko: "......is there something I can help with?"
+TP
+
+
+She said, standing in front of me.
+TP
+
+
+Taichi: "No, not right now......"
+TP
+
+
+Even though I brushed that off, I asked her something despite myself.
+TP
+
+
+A drowning heart will cling to even a piece of straw.
+//Variant on an idiom about a drowning person. Does this make enough sense in English? Å`IX
+//Yep - Sheeta
+TP
+
+
+Taichi: "Hey......what can I do to make things go well with everyone?"
+TP
+
+
+Taichi: "Have everyone friendly and participating in Mimi-sempai's club, be appropriately youthful, make jokes, laugh......isn't there a route like that?"
+TP
+
+
+Taichi: "Where we can resolve quarrels, respect each other and have hope......"
+TP
+
+
+Taichi: "Have friendly fights, check the broadcast script with everyone, cooperate to deal with trouble......"
+TP
+
+
+Taichi: "Isn't there one?"
+TP
+
+
+Perhaps, she might just know.
+TP
+
+
+I held a faint hope.
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you050
+Youko: "I don't think so."
+TP
+
+
+Taichi: "......"
+TP
+
+
+Her flat voice sounded colder than usual.
+TP
+
+
+WVP 0 vfCCD0001you051
+Youko: "I don't think there's such a possibility anywhere."
+TP
+
+
+WVP 0 vfCCD0001you052
+Youko: "In order for Taichi to manage to bring everyone back together to the club safely, in this situation, in this world......you'd have to have more time, or a better starting situation."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you053
+Youko: "Taichi has neither of those."
+TP
+
+
+WVP 0 vfCCD0001you054
+Youko: "There are absolute limits."
+TP
+
+
+WVP 0 vfCCD0001you055
+Youko: "That's why I think it's useless no matter how much you try."
+TP
+
+
+Taichi: "......I see."
+TP
+
+
+She'd told me flat out that there were none.
+TP
+
+
+Taichi: "It's not fair to say this sort of thing, but......that's a cold equation you have there."
+TP
+
+
+She didn't answer.
+TP
+
+
+She stood still and waited for my words.
+TP
+
+
+Taichi: "Aren't I starting from a broken situation every time?"
+TP
+
+
+Taichi: "To end without having achieved anything......to loop......to have a minimum number of days each week......"
+TP
+
+
+Taichi: "What kind of joke is this?"
+TP
+
+
+I held my head.
+TP
+
+
+There was nothing to satiate the hunger in my heart.
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you056
+Youko: "Taichi......those aren't all of the notebooks."
+TP
+
+
+She suddenly opened her mouth.
+TP
+
+
+Taichi: "What did you say?"
+TP
+
+GL 1 TCHY0002
+GI 1 0
+
+WVP 0 vfCCD0001you057
+Youko: "There are notebooks which chronicle more ruinous timelines and possibilities."
+TP
+
+
+Taichi: "And they are?"
+TP
+
+
+WVP 0 vfCCD0001you058
+Youko: "......I hid them."
+TP
+
+
+WVP 0 vfCCD0001you059
+Youko: "So that you wouldn't be hurt."
+TP
+
+
+WVP 0 vfCCD0001you060
+Youko: "Or perhaps......so you wouldn't give up."
+TP
+
+
+WVP 0 vfCCD0001you061
+Youko: "......do you want to see them?"
+TP
+
+
+Taichi: "......"
+TP
+
+
+Ruinous timelines......
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you062
+Youko: "However you struggle, however you fight,"
+TP
+
+
+WVP 0 vfCCD0001you063
+Youko: "Within the many and varied possibilities, there isn't a single person......who will understand you."
+TP
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you064
+Youko: "Except for me."
+TP
+
+
+WVP 0 vfCCD0001you065
+Youko: "......I think it's about time you understood that."
+TP
+
+
+Taichi: "I do understand that."
+TP
+
+
+Taichi: "If we're tacking that on...there's no way you'll love me either, is there!?"
+TP
+
+
+I screamed.
+TP
+
+
+Taichi: "What the hell is this world!?"
+TP
+
+
+I spat out a deep breath.
+TP
+
+
+Along with frustration.
+TP
+
+
+Taichi: "Hey......is this a different world?"
+TP
+
+
+Youko-chan stood in front of me.
+TP
+
+
+And with her fingernails, she drew an ÅwÇwÅx in the ground.
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you066
+Youko: "There are two possibilities."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you067
+Youko: "One is, the axes of two linear worlds are mingling, and have fallen into a state where they can perceive each other......like in sci-fi."
+TP
+
+
+Two worlds.
+TP
+
+
+Twisting around and crossing.
+TP
+
+
+Taichi: "So when the worlds overlap, abnormalities occur?"
+TP
+
+
+Taichi: "Nn......in that case, what about the world we used to be in? I can't imagine we're all preserved there---"
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you068
+Youko: "The other is, that this is the conclusion of the world we were in."
+TP
+
+
+But she denied only half of the easy salvation.
+TP
+
+
+Taichi: "............"
+TP
+
+
+Taichi: "Intervening with our other-world brethren is impossible......I would think, based on quantum mechanics."
+TP
+
+
+When it come to quantum mechanics, I think of Dirac, but I've never read his work.
+TP
+
+
+Besides, I don't know whether this situation is fitting for a quantum mechanical interpretation.
+TP
+
+
+Taichi: "......about the sci-fi you mentioned earlier......what did that mean?"
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you069
+Youko: "Let's say you have to choose either A or B. Which will it be?"
+TP
+
+
+Taichi: "......half of each I guess. Since I don't know what they are."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you070
+Youko: "Yes. We live upon innumerable daily choices."
+TP
+
+
+WVP 0 vfCCD0001you071
+Youko: "For example, when you start walking, with which leg will you take first step?"
+TP
+
+
+WVP 0 vfCCD0001you072
+Youko: "Which part of your lunch will you eat first?"
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you073
+Youko: "Choices occur in an even more microscopic world."
+TP
+
+
+WVP 0 vfCCD0001you074
+Youko: "At any given moment, countless choices take place."
+TP
+
+
+WVP 0 vfCCD0001you075
+Youko: "The world is made by those choices."
+TP
+
+
+WVP 0 vfCCD0001you076
+Youko: "And those choices are irreversible."
+//Good example of where, without a good tler, you might never have any idea what the line really meant. Literal was "And those are definite/final". Å`IX
+TP
+
+
+Taichi: "Irreversible......"
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you077
+Youko: "For example, if Taichi chooses A. Taichi will be aware that he chose A."
+TP
+
+
+WVP 0 vfCCD0001you078
+Youko: "But at the same time, in that same world axis there also exists a Taichi that chose B."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you079
+Youko: "That doesn't mean that parallel worlds exist, but......"
+TP
+
+
+WVP 0 vfCCD0001you080
+Youko: "But at the very least, in Dirac's theory, it's impossible to perceive Choice B World from Choice A World. And vice versa."
+TP
+
+
+WVP 0 vfCCD0001you081
+Youko: "But if one could perceive, then one could move in the space between worlds."
+TP
+
+
+WVP 0 vfCCD0001you082
+Youko: "For one who can see ultraviolet rays, it's like the world is a completely different thing."
+TP
+
+
+WVP 0 vfCCD0001you083
+Youko: "One who was able to observe multiple worlds could also exist in both of those worlds."
+TP
+
+
+WVP 0 vfCCD0001you084
+Youko: "The moment one succeeds at observing, they become part of that world......or so we think."
+TP
+
+
+Taichi: "They......observed......?"
+TP
+
+
+Taichi: "You mean the world doesn't change, it's just mistakes by those who see it?"
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you085
+Youko: "Something like that."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you086
+Youko: "But in modern theory, multiple world observation is impossible."
+TP
+
+
+WVP 0 vfCCD0001you087
+Youko: "And besides, that wouldn't be enough of a reason for the multiple us's to move as one."
+TP
+
+
+WVP 0 vfCCD0001you088
+Youko: "That's why I said sci-fi."
+TP
+
+
+Taichi: "......hmm."
+TP
+
+
+Taichi: "What about the second possibility?"
+TP
+
+GL 1 TCHY0002
+GI 1 0
+
+WVP 0 vfCCD0001you089
+Youko: "I think that that's the truth."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you090
+Youko: "Which means other worlds aren't being observed."
+TP
+
+
+Taichi: "......nnn, so that sci-fi interpretation is out."
+TP
+
+
+My upright face nodded.
+TP
+
+
+GL 1 TCHY0002
+GI 1 0
+WVP 0 vfCCD0001you091
+Youko: "The world, time and proper history. They're all continuous."
+TP
+
+
+WVP 0 vfCCD0001you092
+Youko: "Which means......time isn't rolling back."
+TP
+
+
+Taichi: "......eh?"
+TP
+
+
+Taichi: "That can't be right. The diaries record from Monday to Saturday......don't we all return to Monday from there?"
+TP
+
+
+WVP 0 vfCCD0001you093
+Youko: "It only looks as if it's looping."
+TP
+
+
+WVP 0 vfCCD0001you094
+Youko: "Of course the world isn't repeating the same time forever."
+TP
+
+
+WVP 0 vfCCD0001you095
+Youko: "This conclusion was the world's final conclusion."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you096
+Youko: "Worlds aren't crossing. No abnormalities are occurring. Continuous. Besides, if the world allowed such possibilities, then we've followed a possibility that brought us here instead."
+TP
+
+
+GL 1 TCHY0001
+GI 1 0
+WVP 0 vfCCD0001you097
+Youko: "It may look as if perceptions of multiple worlds are mingling, but it's actually just continuing along one unbroken path."
+TP
+
+
+Taichi: "It looks like it's looping......but it's actually us that are being reset over and over......"
+//This should make it more clear. I'm pretty sure this line was meant to be more straightforward compared to the others anyway.-Spin
+TP
+
+
+Taichi: "In the first place, there was never any loop-like phenomenon in our original world......"
+TP
+
+
+I realized.
+TP
+
+
+That's right.
+TP
+
+
+Taichi: "We can't be aware of it......"
+TP
+
+
+We normally can't be aware of a loop occurring.
+TP
+
+
+As long as a peculiar place like the hokora doesn't exist.
+TP
+
+
+The phenomenon definitely won't be exposed.
+TP
+
+
+Taichi: "Was the world originally planned with this loop phenomenon in mind? To go with the twilight of humanity?"
+TP
+
+
+At the end of a long road...
+TP
+
+
+An annihilation without the land breaking down.
+TP
+
+
+Spacetime is scattered, and the ability to continue forward......so that's where we go to die.
+TP
+
+
+Taichi: "But......you know......"
+TP
+
+GL 1 TCHY0002
+GI 1 0
+
+WVP 0 vfCCD0001you098
+Youko: "With the specific condition......that when one arrives at the prescribed time on Sunday, the world is disintegrated once......that's all it could be."
+TP
+
+
+WVP 0 vfCCD0001you099
+Youko: "Obeying spatially recorded information, the disintegrated particles converge and return to their state from Monday morning."
+TP
+
+
+Taichi: "But, for the world to be continuous......"
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you100
+Youko: "We have that Shinto shrine as proof."
+TP
+
+
+WVP 0 vfCCD0001you101
+Youko: "The contents recorded in the notebooks show the existence of the past."
+TP
+
+
+WVP 0 vfCCD0001you102
+Youko: "Since we can observe a past, there is a past."
+TP
+GL 1 TCHY0002
+GI 1 0
+
+
+WVP 0 vfCCD0001you103
+Youko: "That past is allowed by this world."
+TP
+
+
+WVP 0 vfCCD0001you104
+Youko: "And we are here now after being disintegrated and reconstructed over and over."
+TP
+
+
+WVP 0 vfCCD0001you105
+Youko: "......strictly speaking, I feel as if we're not people any more."
+TP
+
+
+Taichi: "Then what are we?"
+TP
+
+
+WVP 0 vfCCD0001you106
+Youko: "Phenomena."
+TP
+
+
+That overly apt word stained my heart.
+TP
+
+
+No longer people---
+TP
+
+
+Taichi: "You may support the unbroken theory, but the first one sounded better to me. Not that we can determine which is correct right now......"
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you107
+Youko: "Even if it looks to us like a loop, there's no way to investigate what's actually happening."
+TP
+
+
+WVP 0 vfCCD0001you108
+Youko: "......so for now, we can only make use of the theories we have."
+TP
+
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you109
+Youko: "At present, I think it's impossible to move between worlds, so we'll suppose the latter."
+TP
+
+
+Taichi: "Aaah, I see......"
+TP
+
+
+The multiple worlds theory found in quantum mechanics does not support the existence of parallel worlds.
+//I think technically it's referred to as the "many worlds interpretation", but Taichi already admitted to not being very familiar with the field. ~Bal
+TP
+
+
+Since that would be a mistake, what's actually happening would be a more definite thought experiment.
+TP
+
+
+In it, even if World A and World B exist at the same time, we can't come and go between them.
+TP
+
+
+The reason is that they exist at the same time.
+TP
+
+
+Around here, it becomes a little troublesome to understand.
+TP
+
+
+Taichi: "If one of Dirac's books had been translated, I would've read it, but..."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you110
+Youko: "Even if we deviate from all the theories thus far,"
+TP
+
+
+WVP 0 vfCCD0001you111
+Youko: "Something we thought couldn't occur has occurred. That's all."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you112
+Youko: "The scope is physically vast, and people have yet to spread across all of it."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you113
+Youko: "So for us now, those theories are trivial things."
+TP
+
+
+WVP 0 vfCCD0001you114
+Youko: "What do we need?"
+TP
+
+
+Taichi: "I don't know."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you115
+Youko: "Isn't it someone who understands?"
+TP
+
+
+She smiled.
+TP
+
+
+Taichi: "............"
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you116
+Youko: "There's someone who understands Taichi right here."
+TP
+
+
+WVP 0 vfCCD0001you117
+Youko: "No one else will understand you."
+TP
+
+
+WVP 0 vfCCD0001you118
+Youko: "The more you mimic, the more......"
+TP
+
+
+That's right.
+TP
+
+
+It's obvious.
+TP
+
+
+If I pretend to be human, that pretending will become myself.
+TP
+
+
+If my hidden inner side is seen, I'm finished.
+/ It makes more sense this way, and a following line says "When my inner self suddenly appeared" -Shikiller
+TP
+
+
+I remember.
+TP
+
+
+Taichi: "I already know......that much."
+TP
+
+
+Taichi: "I've known ever since then!"
+TP
+
+
+
+
+GL 0 bgcc0003s
+
+GL 1 TCDY0000s
+GP 1 240 0
+GS 1 1
+GS 0 1
+SEF 10 0
+
+WVP 0 vfCCD0001ysa000
+Yuusa: "This is a nice room."
+TP
+
+
+Doujima Yuusa.
+TP
+
+
+She was a good girl.
+TP
+
+
+Innocent and healthy,
+TP
+
+
+Even if she hides her sickness inside, she doesn't know how to hurt people.
+TP
+
+GL 1 TCDY0003s
+GI 1 0
+
+WVP 0 vfCCD0001ysa001
+Yuusa: "Umm...I don't understand this transformation......"
+TP
+
+
+In my eyes, sweet water.
+TP
+
+GL 1 TCDY0000s
+GI 1 0
+
+WVP 0 vfCCD0001ysa002
+Yuusa: "......Taichi-san?"
+TP
+
+
+The end of one's life is sudden.
+TP
+
+
+When my inner self suddenly appeared, she found it highly poisonous.
+TP
+GL 1 TCDY0004s
+GI 1 0
+
+WVP 0 vfCCD0001ysa003
+Yuusa: "Taichi......san......is that you?"
+TP
+
+
+Taichi: "Aaah, that's right."
+TP
+
+
+WVP 0 vfCCD0001ysa004
+Yuusa: "Uh, umm......I...I......"
+TP
+
+
+Taichi: "You're beautiful."
+TP
+
+
+My eyes must have been shining.
+TP
+
+
+Flashing with desire.
+TP
+
+
+Taichi: "Because you're beautiful, I'll take your clothes off."
+TP
+
+
+Yuusa: "............"
+TP
+
+
+You'd understand if you've ever been gazed at by a wild carnivorous animal.
+//Tense.  Since it's "if you have" it needs to be "you would".  ~Bal
+TP
+
+
+Bloodshot eyes paying attention to you.
+TP
+
+
+Neither goodwill nor malice.
+TP
+
+
+A shockingly hot gaze......appetite.
+TP
+
+
+Eyes looking at your human self, recognizing it only as food.
+TP
+
+
+An ardent appetite poured into you.
+TP
+
+
+At times it must make you want to puke.
+TP
+
+
+Like it did her.
+TP
+GO 1 1
+
+WVP 0 vfCCD0001ysa006
+Yuusa: "N-......nooooooooo!!!"
+TP
+
+
+WVP 0 vfCCD0001ysa007
+Yuusa: "......dis......gusting......!"
+TP
+
+
+WVP 0 vfCCD0001ysa008
+Yuusa: "Uu......uuu......"
+TP
+
+
+As I looked down at the girl crouching and vomiting, I was sick and tired of that boring conclusion.
+TP
+
+
+A girl who broke before I got to break her.
+//This is definitely what he said, but I don't get it well enough to adapt any further. Å`IX
+//My interpretation - Sheeta
+TP
+
+
+Taichi: "............"
+TP
+
+
+And then, she started to avoid me.
+TP
+
+
+She looked at me as if I was garbage.
+TP
+
+
+I actually was garbage.
+TP
+
+
+I was---
+TP
+
+
+
+........................
+TP
+
+GL 0 bgcc0011a
+GL 1 TCHY0002b
+GP 1 180 0
+GS 0 1
+GS 1 1
+SEF 10 1
+
+
+
+WVP 0 vfCCD0001you119
+Youko: "If they stay, they'll only get hurt."
+TP
+
+
+WVP 0 vfCCD0001you120
+Youko: "They're no more than Taichi's food."
+TP
+
+
+Taichi: "Shut up! I said I understand!"
+TP
+
+
+Youko-chan went quiet.
+TP
+
+
+Taichi: "But if I could, I wouldn't......do that......I don't want to do that......"
+TP
+
+
+Taichi: "It should work out somehow......"
+TP
+
+GL 1 TCHY0001b
+GI 1 0
+
+WVP 0 vfCCD0001you121
+Youko: "I'm the only one that should stay."
+TP
+
+
+She pushed on her chest.
+TP
+
+
+WVP 0 vfCCD0001you122
+Youko: "Because Taichi and I would work well together."
+//If you can think of a more natural phrasing for this, make sure you look at the top of 22a as well. Å`IX
+TP
+
+
+Black emotions hung over my lower abdomen.
+TP
+
+
+
+CSQ 0 1 1
+  -Throw myself at her
+  -Hold back
+
+RET

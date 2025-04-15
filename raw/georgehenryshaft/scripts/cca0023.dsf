@@ -1,0 +1,1368 @@
+
+GL 0 bgcc0005a
+GS 0 1
+SEF 152 0
+WT 500 1
+
+
+
+
+
+WVP 1 bgm005.ogg 0 0 0
+
+WVP 0 vfcca0023nnk000
+//七香「やっほー、たいっちゃーん！」
+Nanaka: "Yahooo, Taicchan!"
+//thisi s aparentlly NOt a refernce to yahoo -GHS
+TP
+
+
+GL 0 evcc0003a
+$CGevcc0003a = 1
+GS 0 1
+SEF 109 0
+
+
+
+//太一「あれ？」
+Taichi: "Oh my?"
+TP
+
+
+
+//謎の自転車女だ。
+The cycling woman of mystery.
+TP
+
+
+
+//太一「謎の自転車女だ」
+Taichi: "The cycling woman of mystery."
+TP
+
+
+
+//思ったまま口にしてしまった。
+Dammit, thoughts passed through the mouth!
+//Or, "thoughts passed through my mom's mouth". May be stretching it... -GHS
+TP
+
+
+
+WVP 0 vfcca0023nnk001
+//七香「思ったまま口にしないように」
+Nanaka: "I wish you wouldn't pass thoughts through the mouth."
+//...then again, this seems clear enough, really. -GHS
+TP
+
+
+
+//ばれていた。
+Discovered.
+TP
+
+
+
+//太一「あやしいんだよなー、この女。素性は不明だし。見たこと無い制服だし」
+Taichi: "Suspicious, ain't she, this female. Origins and background unknown. Uniform that I have never seen."
+TP
+
+
+
+WVP 0 vfcca0023nnk002
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　かたく
+//七香「……開き直って思考を言葉に仮託しないように」/（仮託／かたく）
+Nanaka: "...I wish you wouldn't turn defiant and use thoughts as pretext for words."
+TP
+
+
+
+//太一「七香って名前だって本当なのかどうか」
+Taichi: "Nanaka she says her name is, but is that the truth?"
+TP
+
+
+
+WVP 0 vfcca0023nnk003
+//七香「……うっさいわね。細かいことグダグダ言うんじゃないわよ」
+Nanaka: "...shaddap you. Don't just keep fussing tediously on the details."
+TP
+
+
+
+//太一「どこの学校通ってんの？」
+Taichi: "What school do you go to?"
+TP
+
+
+
+WVP 0 vfcca0023nnk004
+//七香「ひみちゅ」
+Nanaka: "Shi-kuh-ret."
+TP
+
+
+
+//太一「あ、そう」
+Taichi: "Ah, right."
+TP
+
+
+
+//無視してさっさと歩き出す。
+I ignore her and quickly walk on.
+TP
+
+
+
+WVP 0 vfcca0023nnk005
+//七香「お、ハードボイルディ～」
+Nanaka: "Oh, hard-boild'y～!"
+//See CCA0022. -GHS
+TP
+
+
+
+//太一「歩きながらでも話せるだろうに」
+Taichi: "We can talk even while walking you know."
+TP
+
+
+
+WVP 0 vfcca0023nnk006
+//七香「まぁねん」
+Nanaka: "Yah whatev'."
+//Unlistenable moe words. -GHS
+TP
+
+
+
+//太一「して、何用？」
+Taichi: "So, got business?"
+TP
+
+
+
+WVP 0 vfcca0023nnk007
+//七香「もちろん用事があるわけさ」
+Nanaka: "'Course I'm here on business!"
+TP
+
+
+
+//びっしりと指さして。
+She points close at me.
+TP
+
+
+
+WVP 0 vfcca0023nnk008
+//七香「とっととアンテナ組み立てる！」
+Nanaka: "Put that antenna together right quick!"
+//Usually she tells him to go to the hokora, but I guess the more he puts the antenna together... -GHS
+TP
+
+
+
+//太一「はあ？」
+Taichi: "Huh?"
+TP
+
+
+
+//太一「アンテナって、見里先輩のやってるやつ？」
+Taichi: "The antenna, that thing Misato-senpai's doing you mean?"
+TP
+
+
+
+WVP 0 vfcca0023nnk009
+//七香「そう、それ」
+Nanaka: "Yep, that."
+//First and pretty much last time she'll acknowledge the existence of any specific person outside Youko. -GHS
+TP
+
+
+
+WVP 0 vfcca0023nnk010
+//七香「このままじゃちょっと間に合わないよ」
+Nanaka: "At this rate you might not make it in time!"
+TP
+
+
+
+//太一「何に」
+Taichi: "To what?"
+TP
+
+
+
+WVP 0 vfcca0023nnk011
+//七香「期限に」
+Nanaka: "Time limit."
+//See CCA0030: before the heart explodes, of course. -GHS
+TP
+
+
+
+//太一「何の」
+Taichi: "Of what?"
+TP
+
+
+WVP 0 vfcca0023nnk012
+//七香「アンタねー！」
+Nanaka: "Ohhh really, youuu!"
+TP
+
+
+
+//太一「な、なんだなんだっ」
+Taichi: "Wh-, what's with that!"
+TP
+
+
+
+//いきなり怒りだしたぞ。
+She flew off the handle all of a sudden.
+//hurr hurr -GHS
+TP
+
+
+
+WVP 0 vfcca0023nnk013
+//七香「一回一回が、大事な人生でしょうが！　調子こいてるといつまでもいつまでも無駄にしちゃって、そのうち存在自体が固定行動に固着しちゃうんだからね！」
+Nanaka: "Once, just once, live like your life's precious! But you get caught in the moment and always but always waste it all, and before you know it your very existence is stuck into fixed behaviors!"
+//This is sooort of important. -GHS
+TP
+
+
+WVP 0 vfcca0023nnk013b
+//七香「可能性ってのはそーいう性質があるんだから！　ウィン○ウズだって一時キャッシュのせいでリセットしたつもりでもエラーを繰り返すことがあるでしょーに！　ことに今は―――」
+Nanaka: "Because possibilities have that as their nature! It's like when you go to reset Wi***ws because of problems in the temporary cache and then you find that it has the same error over again! Especially now it's---"
+//Nanaka's being quite inaccurate here. "一時キャッシュ" is the temporary cache... of an Internet browser. If that cache gets corrupted, then you gotta clear it, not reset the PC; then again, that's the whole point, isn't it? It works exactly like this in the time loop: he clears the RAM over and over, but the content of the hokora ain't gonna change. -GHS
+TP
+
+
+
+//ハッとして、口をつぐむ。
+Startled, she shuts her mouth.
+//Can't well spoil the time loop, at the absolute very least. Especially since Nanaka seems to know very well (given there's no doubt it's just a part of himself) that none of it is quite what it seems. But knowing doesn't mean he has to realize. -GHS
+TP
+
+
+
+//太一「……ノイローゼですか、貴様？」
+Taichi: "...neurotic are ya, little bastard?"
+//See Misato. -GHS
+TP
+
+
+
+WVP 0 vfcca0023nnk014
+//七香「こんなキューティーつかまえて貴様なんて言うなあ！」
+Nanaka: "Ya don't call this kyute catch a 'bastard' you DON'T!"
+TP
+
+
+WVS 1 0
+WVP 2 se106 1 0
+GL 2 sgcc0006
+$CGsgcc0006 = 1
+GP 2 0 0
+GI 2 0
+//SEF 101 0
+GP 2 -40 0
+GI 2 0
+GP 2 40 0
+GI 2 0
+GP 2 -10 0
+GI 2 0
+GP 2 10 0
+GI 2 0
+GP 2 0 0
+GI 2 0
+//HACK independent CG shake -GHS
+
+
+
+
+//びたーん！
+Smaaack!
+TP
+
+
+
+
+
+//太一「うぉふうっ」
+Taichi: "Uh'owfuu!"
+//No special meaning that I can find, but it's actually written うぉふぅっ. No, really. -GHS
+TP
+WVP 1 bgm006 0 0
+
+
+
+
+//ビンタされた。
+That was one in the face.
+//Typical of doctors to do so. -GHS
+TP
+
+
+
+
+//高速でスピンしつつ斜めに跳ね上がり、水平になった状態で地面に叩きつけられた。
+While spinning at highway speeds I am sprung diagonally, and as my status became horizontal I smacked into the ground.
+//Highway speeds seemed somehow weirdly appropriate. -GHS
+TP
+
+
+
+
+//太一「……お……おふ……おぶ……」
+Taichi: "...oh... ofh... obh..."
+TP
+
+
+
+
+//この娘、コミック力場を発生させることができるとは。
+This girl is capable of generating Comic Force Fields.
+//Curiously, a Comic Force Field is a contrasting definition to 'real science' in Yanagita Rikao's series of books on manga/anime physics. Unfortunately I can't source which is the origin (or if it even is either). There's relatively little in English, and no official translation I could find.
+//http://d.hatena.ne.jp/keyword/%A5%B3%A5%DF%A5%C3%A5%AF%CE%CF%BE%EC
+//http://ja.wikipedia.org/wiki/%E6%9F%B3%E7%94%B0%E7%90%86%E7%A7%91%E9%9B%84
+//http://en.wikipedia.org/wiki/K%C5%ABs%C5%8D_Kagaku_Dokuho
+//Oh, but there IS a manga of hers translated: http://mangafox.me/manga/kuusou_kagaku_edison/ though it doesn't seem quite on this subject. -GHS
+TP
+
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+
+//※コミック力場＝太一科学。スカラー電磁学やエーテル宇宙論、昇騰機関などと並ぶ超科学理論のひとつ。あらゆる物理現象を加速すると同時に緩和する。
+> 
+ 
+ 
+* Comic Force Field = Science-Taichinism.
+TL
+> 
+A hyperscientific theory on par with Scalar 
+Electromagnetics and Ether Cosmology, or 
+devices such as the Meteoric Ascent Engine. An 
+acceleration and simultaneous mitigation of all 
+physical phenomena.
+//Vs. science-fiction. Scalar Electromagnetics and Ether Cosmology are some of the few openly bullshit scientific terms in Cross Channel. I guess that's one of the few warnings readers get that when it comes to Taichi and science he's not to be trusted. Meteoric Ascent Engine seems invented, however. I'm sort-of kind-of finding it related to http://en.wikipedia.org/wiki/Vacuum_airship and also sort-of seems behind some old sci-fi Japanese stories about flying castles and the like (The Tale of Ukishiro?). 昇騰 is a rare/uncommon (/obsolete?) word meaning 'something rising up very high', and 'very fast' comes up often. -GHS
+TL
+//結果、通常物理では考えられないコミック本めいた効果を発生させる。統計的に勝ち気幼なじみ的パーソナリティに多く付随し、そのキャラ性を維持するために作用する。
+Result: the generation of a comic book-like
+effect unimaginable by the normal laws of
+physics. Statistically often associated with
+unyielding childhood friend-like personalities,
+it exists for the purpose of preserving the
+nature of the character.
+//IOW, it's what allows girls in comedy anime/manga to smack about the protagonist without actually hurting him. In more local terms, where Youko is the purveyor of apparent science, Nanaka is the magician; where Youko is a psychological disease, she's a supernatural guardian; where everyone sees science, there's your religion. -GHS
+TP
+
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+WVP 0 vfcca0023nnk015
+//七香「あっ……ごめん……」
+Nanaka: "Ah! ...sorry..."
+TP
+
+
+
+
+//太一「すごい力だ……天下狙える……」
+Taichi: "What power... enough to take over the world..."
+TP
+
+
+
+
+WVP 0 vfcca0023nnk016
+//七香「女の子にそんな皮肉言わないの！」
+Nanaka: "Don't say sarcastic stuff like that to a girl!"
+TP
+
+
+
+WVS 1 1
+//助け起こしてもらう。
+She graciously helped me to my feet.
+TP
+
+WVP 1 bgm005.ogg 0 0 0
+
+GL 0 bgcc0005a
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 109 0
+//太一「い、いたひです……」
+Taichi: "Th-, that hueeerts..."
+//Intentional -GHS
+TP
+
+
+
+GL 1 TCCN0100b
+
+GP 1 180 0
+GI 1 1
+WVP 0 vfcca0023nnk017
+//七香「……ごめんね」
+Nanaka: "...sorry."
+TP
+
+
+
+//太一「天下狙えるってのは、単に腕力とかでなくキャラ的にね」
+Taichi: "When I said you could take over the world, I didn't mean mere brawn, I meant by characterization!"
+TP
+
+
+
+WVP 0 vfcca0023nnk018
+//七香「？」
+Nanaka: "?"
+TP
+
+
+
+//太一「キミの科学力のおかげで、あれだけの打撃を受けても生きていられるのだよ」
+Taichi: "Because of your scientific powers, even getting struck that hard means I can still live!"
+//This makes more sense remembering that Zubaaan is him reliving the moment of his birth. -GHS
+TP
+GL 1 TCCN0101b
+GI 1 0
+
+
+WVP 0 vfcca0023nnk019
+//七香「よくわからない……」
+Nanaka: "I don't really get it..."
+TP
+
+
+//太一「でももうちょっとはじけても良かった。スピンしたまま大気圏とか。まあ普通から外れるためにただ極端に走るだけっていうのも貧困のあらわれだと思うから、メリハリだと思うんだけどさ。
+Taichi: "But I should've been made to blow upwards a little more. Maybe up into the atmosphere while still spinning. Well, though I think only rushing to extremes in order to deviate from the ordinary is an indication of aridity, I do think of it as a form of variety."
+TP
+//要するに王道に対して常に皮相的な立場を保つって行為は自己顕示欲に支配された瞬間に堕するってことだよね」
+Taichi: "The point is that acting in constant preservation of superficial positions is the easy way, and it's destined to degenerate into moments dominated by conspicuous exhibitionism."
+//Hooo man this barely makes any sense. Best I can tell "don't just be bland, 'cause then you'll go blandly super-extraordinary with nothing 'real' in between", i.e. no superficial twists of the kind Cross Channel is unfortunately believed to be the king of. This is where the criticism of characterization and balancing meets the Inevitability of Downfall theme. ...and there goes another sentence I thought I'd never write in my life. See CCC0045A, "don't hope to revolutionize things with little tweaks", similar(?) but clearer(???). -GHS
+TP
+
+GL 1 TCCN0102b
+GI 1 0
+WVP 0 vfcca0023nnk020
+//七香「おまいはあたしと会話する気があるのか？」
+Nanaka: "Do ya even wanna have a conversation with me?"
+//As in, he's monologuing. That's more weird than funny, considering SHE is the one who used to monologue to him when he still couldn't speak. -GHS
+TP
+
+
+
+//太一「……すいません」
+Taichi: "...apologies."
+TP
+
+
+
+//自分でも意味わかってないです。
+I have no idea what that meant myself.
+TP
+
+
+GL 1 TCCN0101b
+GI 1 0
+WVP 0 vfcca0023nnk021
+//七香「しょうがないヤツ」
+Nanaka: "There are no ways for you, really."
+//See CCX0001 -GHS
+TP
+
+
+
+//呆れ半分、ため息を落とす。
+Half-disgusted, she lets a sigh fall.
+TP
+
+
+
+GL 1 TCCN0100b
+GI 1 0
+
+WVP 0 vfcca0023nnk022
+//七香「あ、ほっぺたに血」
+Nanaka: "Ah, blood's on your cheeky."
+TP
+
+
+
+//太一「え？　ちょっとだけ力場からはみ出ちゃったのかな？」
+Taichi: "Eh? Could this mean that it was a bit out of the boundary of the force field?"
+//What was the first rule of Fight Club again...? -GHS
+TP
+
+
+GL 1 TCCN0102b
+GI 1 0
+
+
+WVP 0 vfcca0023nnk023
+//七香「まだ力場とか言うか」
+Nanaka: "Still talking 'bout force fields and that stuff!"
+TP
+
+
+
+//太一「自分の血は平気」
+Taichi: "I'm alright with my own blood."
+TP
+
+
+GL 1 TCCN0100b
+GI 1 0
+
+
+WVP 0 vfcca0023nnk024
+//七香「……え？」
+Nanaka: "...eh?"
+TP
+
+
+
+//太一「いや、血が苦手なものでして」
+Taichi: "No, it's just that blood is my weakness, 's all."
+TP
+
+
+
+//その時、七香の顔に去来した表情を、俺はうまく表現できない。
+I can't describe well those recurring expression that were on Nanaka's face at that moment.
+TP
+
+
+
+//泣きそうでもあったし、笑っているようでもあった。
+There was something of the crying, there was something of the laughing.
+TP
+
+
+
+//とはいえ、単純な泣き笑いとも取れない、根深い葛藤が混入していた。
+That said, I can't take this as simply laughing while crying, as there's a deeply ingrained discord mixed in.
+TP
+
+
+
+WVP 0 vfcca0023nnk025
+//七香「……太一」
+Nanaka: "...Taichi."
+TP
+WVS 1 1
+GS 1 0
+SEF 109 0
+
+
+//掠れるような声が、唇から流れて。
+A voice that feels roughened flows from her lips.
+TP
+
+
+
+//顔が寄ってきた。
+Her face came closer,
+TP
+
+
+
+//潤んだ瞳とともに。
+together with her damp eyes.
+TP
+WVP 1 bgm021.ogg 0 0 0
+
+
+
+//人間の意識活動というものはたいしたもので。
+This thing known as the conscious activity of the human being is really amazing.
+//This is where Taichi folds back into his weird to avoid excess emotional attachment. -GHS
+TP
+
+
+
+//普通の漫画主人公なら、
+But if I were your ordinary manga protagonist,
+TP
+
+
+
+//（え……？）
+(Eh...?)
+TP
+
+
+
+//などと起こる出来事さえ予測できず、戸惑うのがせいぜいなのに。
+I would be exclusively bewildered, unable to predict anything of what was about to happen at all.
+TP
+
+
+
+//現実人間であるところの俺の脳は『ＫＩＳＳされる！？』というシチュ的にそれしかありえない結末を容易に予測してのけて。
+Whereas this brain I have as a real human yet easily pulls off the prediction that we are in a 'chewation-like Event that has the name "I'LL BE KISSED?!" with all other conclusions impossible.
+//"Sichu" is actually technical term, ergo 'chewation-like (and I still specified with Event). This is far funnier considering he's not so much wrong, but far too right. His too human brain has confused his mother for the osananajimi. -GHS
+TP
+
+
+
+//七香の顔が五センチに迫った時にはもう、キス後に『いかにそれっぽく振る舞うか』といった体面処理について検討していたりするわけだが。
+At the moment Nanaka's face is but five centimeters away, I am yet already in the process of elaborating post-kiss face-saving responses such as "what sort of behavior is that?!"
+TP
+
+
+
+//……実際こっちのがリアルなのだが、世の物語にほとんど採用されていない理由は、リアルすぎて物語性とうまく親和しないんだということが素人の俺にもありありとわかった。
+...but while this of mine is realistic, the reason that in the tales of the world it is almost never employed is that stories with an overly realistic nature do not inspire much affinity, and that is something vividly understood even by an amateur such as I.
+//Paraphrasis: Reality is Unrealistic. The irony in this thing is subtle, considering this story is altogether too realistic in a sense. -GHS
+TP
+
+
+
+//リアリティごっこなんだよな、結局。
+In the end, it's just a game of pretend-reality.
+//The achievement of the expression, which gives (or seems to give) “the inner consistency of reality,” is indeed another thing, or aspect, needing another name: Art, the operative link between Imagination and the final result, Sub-creation. -JRR Tolkien The *consistency* of reality, not reality itself. This is what makes characters realistic even in this excessively meta otaku-fied world, and I bet, the reason for the base success of Cross Channel even if utterly ununderstood. -GHS
+TP
+
+
+
+//と内心うんうん頷いてたりして。
+And those are the innermost thoughts to which I am nodding a yes, yes of agreement.
+TP
+
+
+
+//といいますか、ＫＩＳＳまだ？
+And if I may ask, where's that kiss?
+TP
+WVS 1 1
+
+
+
+//れろーん
+Schloop.
+//nyorero~n. -GHS
+TP
+
+
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+
+//色気も味気もないＫＩＳＳだった。
+A bland kiss with no sex appeal.
+TP
+
+
+
+//舌を頬に貼りつけて舐めあげる行為を、ＫＩＳＳと称すればのことだが。
+But for the act of putting a tongue on a cheek and licking up to even take the name of K-I-S-S...
+TP
+
+GL 1 TCCN0100b
+GI 1 1
+//HACK restore Nanaka. -GHS
+
+
+WVP 0 vfcca0023nnk026
+//七香「ツバでもつけておけば治るでしょ」
+Nanaka: "I've put some saliva on it, and it'll get well now!"
+TP
+
+
+
+//太一「うわあああああ」
+Taichi: "BWAAAAAAH!!!"
+TP
+
+
+
+//拳で側頭部を打つ、打つ、打つ！！
+Fist to the side of the head and strike, strike, strike!!!
+//SEF 101 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+TP
+WVP 1 bgm010.ogg 0 0 0
+
+
+
+//太一「知った風な思索の結末が早とちりか！　こいつめ、こいつめ！　この恥さらしが！」
+Taichi: "Jumping to the wrong conclusions with those pretend-knowing thoughts! Damn you, damn you! You disgraceful...!"
+//At least he knows his problem... -GHS
+TP
+
+
+GL 1 TCCN0102b
+GI 1 0
+//HACK serious Nanaka. -GHS
+
+
+
+WVP 0 vfcca0023nnk027
+//七香「自分で自分をっ！？」
+Nanaka: "But, yourself, to yourself?!"
+//So she sounds adequately confused. Not that she doesn't know who he's talking to. -GHS
+TP
+
+
+
+//太一「なにがリアリティか！　なにが親和か！　頭良いつもりか俺様野郎が！　人以下であることを国際的に証明されている分際で！」
+Taichi: "Reality, are you kidding me! Affinity, are you kidding me! The Greatness that is I thinks he's so smart, the worthless son of a bitch! Your social standing is that of someone who has been internationally proven to be subhuman!"
+//ore-sama-yarou. He's so specific, and he forgets so easily... this is what Fixed Behaviors are. -GHS
+TP
+
+
+GL 1 TCCN0101b
+GI 1 0
+//HACK closed eyes Nanaka. -GHS
+
+WVP 0 vfcca0023nnk028
+//七香「お、おちつけー……」
+Nanaka: "Ca-, calm down..."
+TP
+
+
+
+//太一「死にたい」
+Taichi: "I want to die."
+TP
+
+GL 1 TCCN0100b
+GI 1 0
+//HACK normal Nanaka. -GHS
+
+WVP 0 vfcca0023nnk029
+//七香「こらこら」
+Nanaka: "Come now, come now!"
+TP
+
+
+
+//太一「いわゆるひとつの自分がゴミであることを自覚していなければならないのです」
+Taichi: "This one has been making too many wrong mistakes and must therefore awaken to the reality of being garbage."
+//That "iwayuru hitotsu no", which makes zero sense in that context, connects to a trope about http://en.wikipedia.org/wiki/Shigeo_Nagashima which is sort of Japan's Yogi Berra in the sense he speaks sort of weird. Here's a book of his sayings http://www.amazon.co.jp/%E3%81%84%E3%82%8F%E3%82%86%E3%82%8B%E3%81%B2%E3%81%A8%E3%81%A4%E3%81%AE%E9%95%B7%E5%B6%8B%E8%8C%82%E9%9B%84%E8%AA%9E%E9%8C%B2-%E8%97%A4%E6%9C%AC-%E7%BE%A9%E4%B8%80/dp/4898272177 titles reads "iwayuru hitotsu no Shigeo Nagashima goroku".
+//It's more baseball stuff, as it recurs for reasons I guess to be simply that Tanaka likes baseball, and it's suddenly formal, so the intended effect would be humorous, i.e. Taichi's not quite accepting of this. Of course there's no official translation, so have a Yogi-ism instead. -GHS
+TP
+
+
+
+WVP 0 vfcca0023nnk030
+//七香「……へ？」
+Nanaka: "...eh?"
+TP
+WVS 1 1
+
+
+
+//太一「有害なゴミ」
+Taichi: "Toxic garbage."
+TP
+
+
+
+//太一「群青には無識者もたくさんいるから」
+Taichi: "Because, there's many people who aren't really aware in Gunjou."
+//The Experts, see CCC4009. -GHS
+TP
+
+
+
+//太一「俺はいつもこわかったんだ。傷つけてしまわないかって」
+Taichi: "I'm always living with fear. I don't want to hurt."
+//These and the following are entirely ambiguous. It's far from clear who'd be doing the hurting here, as it should be; Taichi's a good candidate for either, given his backstory. -GHS
+TP
+
+
+
+//太一「危険があっても回避できないのが、無識ってことだからね」
+Taichi: "Even if there's danger it can't be avoided, because there's no awareness."
+TP
+
+
+
+//太一「猫が車の前に飛び出すみたいに」
+Taichi: "It's like a cat running out in front a car."
+TP
+
+
+
+//太一「……自制しないといけない。細心の注意でもって」
+Taichi: "...having no self-control is unacceptable. You have to be meticulously careful."
+TP
+
+
+
+//太一「けど」
+Taichi: "But,"
+TP
+
+
+
+//太一「毎日楽しくて、つい忘れてしまうんだ。自分が何者かってことを」
+Taichi: "every day's so fun, so I just up and forget it all. About who or what I am I mean."
+TP
+
+
+
+//太一「俺は―――」
+Taichi: "I am---"
+//This is honest, but sorta dishonest in that he doesn't quite take this honesty seriously. -GHS
+TP
+
+
+
+//七香が身じろぎした。
+Nanaka stirred just slightly.
+TP
+
+
+
+//今度は本当に虚を突かれて、予測する間もなかった。
+This time it really came out of left field, with no time for prediction either.
+TP
+
+
+WVP 1 bgm015.ogg 0 0 0
+
+
+
+
+GL 0 evcc0010a
+$CGevcc0010a = 1
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+SEF 109 0
+
+//太一「え……？」
+Taichi: "Eh...?"
+TP
+
+
+
+WVP 0 vfcca0023nnk031
+//七香「楽しいって、言えるなら、いいじゃん」
+Nanaka: "You said it's fun, and if you can say that, 's all good."
+TP
+
+
+
+//あいまいな胸の柔らかさ。
+The ambiguous softness of a breast.
+//This sentence is...... wait for it...... amb-GHS
+TP
+
+
+
+//少女の香り。
+The scent of a girl.
+TP
+
+
+
+//不思議と、猥雑なものは感じない。
+Inexplicably, I feel nothing out of order.
+TP
+
+
+
+//抱かれた時の感覚が、曜子さんとは違った。
+The feeling at the moment of embrace was so different from Youko-chan's.
+//Another honorific fixed in the console version, as well as in CCC0045A. See CCC0000. This is not random in the slightest, the two characters are being directly compared. Whether they're both nonexistent, they're related in this sense. -GHS
+TP
+
+
+
+WVP 0 vfcca0023nnk032
+//七香「その言葉は、嬉しいんだ。すごく」
+Nanaka: "Those words... they make me happy. Really."
+TP
+
+
+
+//太一「…………」
+Taichi: "......"
+TP
+
+
+
+WVP 0 vfcca0023nnk033
+//七香「強くならないと生きる資格がないわけじゃないから」
+Nanaka: "Because never becoming strong is not a disqualification from living."
+TP
+
+
+
+WVP 0 vfcca0023nnk034
+//七香「弱いままでも、いいんだよ」
+Nanaka: "Remaining weak is... still fine."
+TP
+
+
+
+//太一「弱いままでもって……」
+Taichi: "But remaining weak, really..."
+TP
+
+
+
+//知っている。
+Understanding.
+//Vague due to this part being vague. -GHS
+TP
+
+
+
+//彼女は何かを知っている？
+What does she understand?
+TP
+
+
+
+//太一「キミは」
+Taichi: "You are---"
+TP
+
+
+
+WVP 0 vfcca0023nnk035
+//七香「七香」
+Nanaka: "Nanaka."
+TP
+
+
+
+//太一「ななか……」
+//Taichi: "'Seven?'..."
+Taichi: "Nanaka..."
+TP
+
+
+
+//知らない。
+No understanding.
+TP
+
+
+
+//過去のいかなる軸にも、その名前は記録されていない。
+On absolutely no axis of the past is that name recorded.
+//And that's how much his memories are worth. -GHS
+TP
+
+
+
+//じゃあどうして彼女は俺のことを？
+Well then why does she... me...?
+TP
+
+
+
+WVP 0 vfcca0023nnk036
+//七香「落ち着いた？」
+Nanaka: "You calmed down?"
+TP
+
+
+
+//太一「……うん」
+Taichi: "...yeah."
+TP
+
+
+
+GL 0 bgcc0005a
+GS 0 1
+SEF 109 0
+
+WVS 1 1
+
+//身を離す。
+We distance from each other.
+TP
+
+
+
+GL 1 TCCN0100b
+GP 1 180 0
+GS 1 1
+SEF 109 0
+
+
+//七香はにこにこと笑っている。
+Nanaka is smiling broad and bright.
+TP
+
+
+
+//太一「……君って」
+Taichi: "...say, you."
+TP
+
+
+
+//太一「俺のこと好きなの？」
+Taichi: "Are you in love with me or something?"
+//Double meaning easier to see in English if explicit. -GHS
+TP
+
+WVP 1 bgm005.ogg 0 0 0
+
+
+GL 1 TCCN0101b
+GI 1 0
+
+WVP 0 vfcca0023nnk037
+//七香「ばかめ」
+Nanaka: "Ya dum'ass!"
+TP
+
+
+
+WVP 2 SE029 1 0
+//ぺてぃっ
+*p't't'*
+//petite. No, really. -GHS
+//SEF 101 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+TP
+
+
+
+
+//額にチョップされる。
+Chopped right on the forehead.
+TP
+
+
+GL 1 TCCN0100b
+GI 1 0
+
+
+WVP 0 vfcca0023nnk038
+//七香「そんなんじゃないって」
+Nanaka: "Told ya that ain't it!"
+TP
+
+
+//否定してから、小首を傾げて言葉の穂を継いだ。
+After the denial, she tilted her head in doubt and continued on the ear of the words she had left.
+//"Resume the talk", but literally "inherited the ear of words", which although a set phrase in Japanese (話の穂を継ぐ), has a very similar expression in Chaucher: "an ere of [any goodly] words" http://www.sacred-texts.com/neu/eng/mect/mect63.htm so I adapted it to sorta like that, but withoute Ye Olde Englishe (fore enoewe). -GHS
+TP
+
+
+
+GL 1 TCCN0101b
+GI 1 0
+
+WVP 0 vfcca0023nnk039
+//七香「……けど、そーだな。好きかもね」
+Nanaka: "...but, riiight. I might just love you!"
+TP
+
+
+
+//太一「ほんと？」
+Taichi: "Really?"
+TP
+
+
+GL 1 TCCN0100b
+GI 1 0
+WVP 0 vfcca0023nnk040
+//七香「あんたの思う好きとは、ちょっと意味が違うけどね」
+Nanaka: "But it's got a sorta different meaning from the kind of love yer thinking of."
+//See CCC4022. So is Miki's as well...? -GHS
+TP
+
+
+
+//太一「なんのこっちゃ」
+Taichi: "Dun' getcha..."
+//Unspecific Eastern Japan accent. -GHSoHelpful
+TP
+
+
+GL 1 TCCN0102b
+GI 1 0
+
+WVP 0 vfcca0023nnk041
+//七香「あんたってさ、きっと子供の頃、母親にＨな悪戯するタイプだよ」
+Nanaka: "Ya know you, I'm sure that you were the type to play perverted sexual pranks on your mother when you were a kid."
+TP
+
+
+
+//太一「いねーですもん」
+Taichi: "Thassnottrue!"
+//Prolly same accent as above. -GHS
+TP
+
+
+
+
+GL 1 TCCN0101b
+GI 1 0
+WVP 0 vfcca0023nnk042
+//七香「あたしもだ」
+Nanaka: "I was the same."
+//As she played them on her kid. You know, I'm trying, but this still sounds sort of wrong. Not to go all Zigmund Vroid here, but Tanaka's love/hate parental relationship still remains very solid even here. -GHSolidBecausePenisFnarrFnarr
+TP
+
+
+
+GL 1 TCCN0100b
+GI 1 0
+
+
+WVP 0 vfcca0023nnk043
+//七香「でもさ、そーいうのって、けっこう母親も嬉しいのかもよ？」
+Nanaka: "But yannow, all that said, surely mother's gonna be happy too, right?"
+//I'm not quite sure she's still talking in third person, and more sort-of reminding Taichi that she's more of a memory of his mother rather than her mother physically. After all, this script's been heavily meta VN focused, i.e. the idea she's merely a supernatural apparition in the To Heart/Key style is strong in this script. -GHS
+TP
+
+
+
+//太一「Ｈな悪戯がか？」
+Taichi: "Of perverted sexual pranks?"
+TP
+
+GL 1 TCCN0101b
+GI 1 0
+
+WVP 0 vfcca0023nnk044
+//七香「そう」
+Nanaka: "Yep."
+TP
+
+
+
+//太一「でも幼い息子にペッティングされたらショック……いや、むしろ萌えか？」
+Taichi: "But heavy petting from a young offspring's a bit shocking... nah, should I say maybe moe?"
+//Hugged by a young boy + hugged by her own literal son + petting by penis. Yes, 'son' means dick. It'll return. -GHS
+TP
+
+
+
+GL 1 TCCN0102b
+GI 1 0
+WVP 0 vfcca0023nnk045
+//七香「化学分解されてしまえこの有害ゴミめが」
+Nanaka: "Go chemically decompose, you damn toxic garbage!"
+TP
+
+
+
+//太一「うわーん！」
+Taichi: "Bwaaah!"
+TP
+
+
+
+GL 1 TCCN0101b
+GI 1 0
+
+WVP 0 vfcca0023nnk046
+//七香「さて、帰るか」
+Nanaka: "So then, I should go home."
+TP
+
+
+
+//太一「うちに寄ってけばいいのに。ぬるい水くらい出すぞ」
+Taichi: "But you can come inside no problem. I can at least bring out the lukewarmish water!"
+//Because he has no food, and nothing to heat the tea (troll). -GHS
+TP
+
+
+
+GL 1 TCCN0100b
+GI 1 0
+
+WVP 0 vfcca0023nnk047
+//七香「ニヒヒ、Ｈなことされたくないから帰る」
+Nanaka: "Nihihih, I don't wanna have perverted stuff done to me so going h-o-m-e."
+TP
+
+
+
+//太一「するする、来たらするさ」
+Taichi: "I will, I will, come in and I will!"
+TP
+
+
+
+WVP 0 vfcca0023nnk048
+//七香「危ない危ない」
+Nanaka: "Too dangerous, too dangerous!"
+TP
+GS 1 0
+SEF 109 0
+
+
+//彼女はさっそうと自転車にまたがる。
+She jauntily sits astride the bicycle.
+TP
+
+
+
+//背後にまわって下着を見ようとする俺。
+And turning to my back and attempting to see her underwear go I.
+TP
+
+GL 0 evcc0003a
+$CGevcc0003a = 1
+GS 0 1
+SEF 109 0
+
+//ノーコンのブルマだった。
+Buruma Out of Control*.
+> 
+ 
+ 
+* Dark blue
+//http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1259121567 (J only), basically no control means dark blue, so going with cryptic and silly because that's actually literal. -GHS
+TP
+
+
+
+//太一「ちっ」
+Taichi: "Tsk!"
+//PCP CCA0015 FWIW
+TP
+
+
+
+//……って、ブルマだって？
+...wait, they're buruma?!
+TP
+
+
+
+//女性解放運動も真っ青なセクハラ体操着としてずいぶん前に絶滅したという、ブルマ！？
+That deep blue gym sexual harassment-ish uniform hunted down to extinction a fair while ago by the women's lib movement, that is, buruma?!
+//According to Wikipedia it's a "mid-90s" thing indeed, so he's just after them. -GHS
+TP
+
+
+
+//太一「な、ななかさん……？」
+Taichi: "Na-, Nanaka-san...?"
+TP
+
+
+
+//俺はわなわなと震えた。
+I shook and trembled with fear.
+TP
+
+
+
+//噂によれば、そのヒップへの張りつき具合は絶品だと言う。
+Rumors have it that what is clinging firmly to those hips is a superlative article.
+//Hmmm, but he talks as if he didn't collect buruma... -GHS
+TP
+
+
+WVP 0 vfcca0023nnk049
+//七香「アンテナ、ちゃっちゃっと組み立てちゃいなさいよね」
+Nanaka: "And that antenna, you go put it up pretty and fast!"
+TP
+
+
+
+//太一「は、アンテナ？」
+Taichi: "Ah, the antenna?"
+TP
+
+
+
+//唐突。
+All of a sudden.
+TP
+
+
+
+WVP 0 vfcca0023nnk050
+//七香「それって、可能性だからさ」
+Nanaka: "That is... possibilities, 's what."
+TP
+WVS 1 1
+
+//GS 0 1
+//SEF 109 0
+//This just does nothing. -GHS
+
+WVP 2 se047 1 0
+//チェーンが小気味よい音をたてて、まわる。
+The chain spin, making a most delightful sound.
+TP
+
+
+
+//タイヤがアスファルトを擦り、自転車が走り出す。
+The tire graze the asphalt as the bicycle begins to ride forth.
+TP
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 109 1
+//HACK evening sky -GHS
+
+//太一「……なんなんだ」
+Taichi: "...what was with that."
+TP
+WT 500 0
+WT 500 1
+
+
+
+
+RET

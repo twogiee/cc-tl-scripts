@@ -1,0 +1,47 @@
+
+
+
+
+I set off on a journey.
+TP
+
+
+
+Taichi: "That's right, Miki."
+TP
+
+
+
+I stood still.
+TP
+
+
+
+I'd forgotten to tell her something important.
+TP
+
+
+
+WVP 0 vfcca0010mki000
+Miki: "Yes?"
+TP
+WVS 1 1
+
+
+
+Taichi: "She says that club activities are going to start up again soon."
+TP
+
+
+
+WT 500
+GL 0 bgcc0000
+GS 0 0
+GS 1 0
+SEF 152 1
+WT 1000 1
+
+WVS 2 0
+WVS 3 0
+
+RET

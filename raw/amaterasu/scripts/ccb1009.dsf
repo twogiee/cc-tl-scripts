@@ -1,0 +1,438 @@
+
+
+GL 0 bgcc0003b
+GS 0 1
+GS 1 0
+SEF 152 0
+
+WVP 1 bgm002.ogg 0 0 0
+Taichi: "......still..."
+//CP_S cca0019
+TP
+
+It's a manuscript.
+TP
+
+If that got rejected, how am I supposed to write another?
+TP
+
+My hand didn't move.
+TP
+
+My pen didn't run.
+TP
+
+Standstill.
+TP
+
+Taichi: "Uuumumumu."
+TP
+
+That's right.
+TP
+
+I pulled a kinagashi out of my dresser and changed into it.
+TP
+
+Taichi: "......a great writer is born."
+TP
+
+One's mood is important.
+TP
+
+When doing something like this.
+TP
+
+WVP 0 vmcca0019yki000
+Tomoki: "Heeey!"
+TP
+
+I heard a voice from the front door.
+TP
+
+GL 0 bgcc0013b
+GS 0 1
+SEF 152 0
+
+Taichi: "Something up?"
+TP
+
+GL 0 bgcc0013bz
+GL 1 TCST0002c
+GP 1 190 0
+GS 0 1
+GS 1 1
+SEF 109 0
+
+
+WVP 0 vmcca0019yki001
+Tomoki: "Uwa......Taichi?"
+TP
+
+Tomoki seemed to be shocked at the sudden appearance of the kimono man.
+TP
+
+WVP 0 vmcca0019yki002
+Tomoki: "What a face......"
+TP
+
+Taichi: "Leave it."
+TP
+
+GL 1 TCST0000c
+GI 1 0
+
+
+WVP 0 vmcca0019yki003
+Tomoki: "I made a mistake. But that outfit......"
+TP
+
+Taichi: "Are you sure you were mistaken?"
+TP
+
+
+GL 1 TCST0004c
+GI 1 0
+
+
+WVP 0 vmcca0019yki004
+Tomoki: "That's a Japanese kimono, isn't it?"
+TP
+
+Taichi: "It's also a Japanese priest's outfit."
+TP
+
+
+GL 1 TCST0000c
+GI 1 0
+
+
+WVP 0 vmcca0019yki005
+Tomoki: "A priest......amazing."
+TP
+
+WVP 0 vmcca0019yki006
+Tomoki: "Do you always wear that?"
+TP
+
+Taichi: "......"
+TP
+
+Taichi: "Of course."
+TP
+
+WVP 0 vmcca0019yki007
+Tomoki: "Amazing."
+TP
+
+It seems Tomoki respects me all the more now.
+TP
+
+Though this is only the second time I've worn it.
+TP
+
+Taichi: "So, what's with the late night visit?"
+TP
+
+
+GL 1 TCST0003c
+GI 1 0
+
+WVP 0 vmcca0019yki008
+Tomoki: "Well......the reason is right here......this is Taichi's share."
+TP
+
+A cardboard box.
+TP
+
+I accepted it.
+TP
+
+Taichi: "This is heavy."
+TP
+
+GL 1 TCST0000c
+GI 1 0
+
+WVP 0 vmcca0019yki009
+Tomoki: "It's been filled up."
+TP
+
+Taichi: "The inside......it's too dark to see properly."
+TP
+
+WVP 0 vmcca0019yki010
+Tomoki: "A gift from the club. Since it's summer, keeping all this in the club room will just make it rot."
+TP
+
+Taichi: "Some kind of food?"
+TP
+
+WVP 0 vmcca0019yki011
+Tomoki: "Yes."
+TP
+
+Taichi: "Thank you."
+TP
+
+WVP 0 vmcca0019yki012
+Tomoki: "No, don't mention it."
+TP
+
+GL 1 TCST0004c
+GI 1 0
+
+
+WVP 0 vmcca0019yki013
+Tomoki: "Besides, friendship asks for---"
+TP
+
+Taichi: "Nothing at all."
+TP
+
+Gu!
+TP
+
+We laughed invincibly with our thumbs up.
+TP
+
+Taichi: "Kurosu Taichi is a pure young boy supporting Shima Tomoki."
+TP
+
+
+GL 1 TCST0005c
+GI 1 0
+
+
+WVP 0 vmcca0019yki014
+Tomoki: "No, no..."
+TP
+
+
+GL 1 TCST0004c
+GI 1 0
+
+
+WVP 0 vmcca0019yki015
+Tomoki: "Ah, that's right."
+TP
+
+
+WVS 1 0
+
+
+His face tightened.
+TP
+
+WVP 0 vmcca0019yki016
+Tomoki: "Kirihara...she collapsed."
+TP
+
+
+
+WVP 1 bgm007.ogg 0 0 0
+
+
+Taichi: "......say what?"
+TP
+
+WVP 0 vmcca0019yki017
+Tomoki: "More accurately, she'd been collapsing."
+TP
+
+Taichi: "But she's a user of the Harakiri Fist...defeating even my karade should be simple."
+TP
+
+GL 1 TCST0000c
+GI 1 0
+
+WVP 0 vmcca0019yki018
+Tomoki: "Not defeated, collapsed. And I have no idea what 'karade' is."
+TP
+
+GL 1 TCST0004c
+GI 1 0
+
+WVP 0 vmcca0019yki019
+Tomoki: "About that......Sakuraba's looking after her right now, but he's obviously not that good at it, so......I was wondering if you could get Hasekura-sempai to watch over her."
+TP
+
+Taichi: "Aah, no problem."
+TP
+
+
+WVP 0 vmcca0019yki020
+Tomoki: "Can you ask her right away?"
+TP
+
+Taichi: "Yeah. In that case, I'll be heading out for a bit."
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 152 0
+
+WVS 1 1
+
+
+I put my sandals on and went to her house.
+TP
+
+
+
+GL 0 bgcc0013bz
+GL 1 TCST0000c
+GS 1 1
+GS 0 1
+SEF 152 0
+
+
+When I came back, Tomoki was still there.
+TP
+
+Taichi: "She said sure. She's already on her way."
+TP
+
+GL 1 TCST0002c
+GI 1 0
+
+WVP 0 vmcca0019yki021
+Tomoki: "......so fast..."
+TP
+
+WVP 0 vmcca0019yki022
+Tomoki: "She really listens to what you have to say, Taichi."
+TP
+
+Taichi: "Because if she didn't, a lot of errors would occur."
+TP
+
+GL 1 TCST0000c
+GI 1 0
+
+WVP 0 vmcca0019yki023
+Tomoki: "Eh?"
+TP
+
+Taichi: "Anyway, would you like to come upstairs and play some PC-98 games?"
+TP
+
+Not that I have any.
+TP
+
+Taichi: "Since you were in charge of disk swaps."
+TP
+
+WVP 0 vmcca0019yki024
+Tomoki: "What's a PC-98? Some kind of Wind**s?"
+TP
+WVP 1 bgm010.ogg 0 0 0
+
+
+Taichi: "Please say that's a lie, my friend."
+TP
+
+WVP 0 vmcca0019yki025
+Tomoki: "......I have failed to understand you."
+TP
+
+Tomoki's gags were all like this.
+TP
+
+Taichi: "You really don't know the PC-98?"
+TP
+
+Despite being a computer nerd.
+TP
+
+GL 1 TCST0004c
+GI 1 0
+
+
+WVP 0 vmcca0019yki026
+Tomoki: "At the very least, I've never heard of it before."
+TP
+
+Taichi: "......I guess that makes sense......no, I wasn't in that generation either, but......"
+TP
+
+Taichi: "Anyway, Tomoki, that comment's going to make you enemies with all the old computer nerds born since the fortieth year of Shouwa."
+TP
+
+GL 1 TCST0000c
+GI 1 0
+
+
+WVP 0 vmcca0019yki027
+Tomoki: "Well......that doesn't scare me at all......"
+TP
+
+WVP 0 vmcca0019yki028
+Tomoki: "Besides, I'm not going to watch out for each and every one of the primitive men who match one-hundred percent to the archetype of an old man born in an era as old as Shouwa."
+TP
+
+Taichi: "---!?"
+TP
+
+My fear was aroused.
+TP
+
+Taichi: "You can't say things like that---!!"
+TP
+
+
+GL 1 TCST0003c
+GI 1 0
+
+
+WVP 0 vmcca0019yki029
+Tomoki: "Why not?"
+TP
+
+Tomoki had yet to know fear.
+TP
+
+Taichi: "Th-that's what they call youth, right? Right? Hopeless youth really is scary, Tomoki."
+TP
+
+
+WVP 0 vmcca0019yki030
+Tomoki: "What I mean is......why can't we just let the old guys stick to their old guy communities spiraling into eternal conversations about Gun**m and the like?"
+TP
+
+Taichi: "Hiiiiiiiiiiiii!!?"
+TP
+
+My lifespan shrunk.
+//CP_F
+TP
+
+
+WVS 1 1
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+And then I remembered.
+TP
+
+Around this time last year,
+TP
+
+On the first day I wore this, Yuusa-chan came to visit.
+TP
+
+
+
+
+
+RET
+
+
+
+
+

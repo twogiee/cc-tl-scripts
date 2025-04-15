@@ -1,0 +1,561 @@
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+GL 0 bgcc0006
+GS 0 1
+SEF 109 1
+//HACK flashback exit whiteout, fade BG instead of pixelating in. -GHS
+
+
+//太一「その息子ってのが、豊なんだよな」
+Taichi: "That son was, of course, Yutaka."
+TP
+
+//霧「……………………」
+Kiri: "............"
+TP
+
+//霧は反応できていなかった。
+Kiri was unable to react.
+TP
+
+//手の震えは止まっていた。
+The shaking of her hands stopped.
+TP
+
+//落ち着いた……わけではなかった。
+Calming down... was not the cause.
+TP
+
+//愕然とした表情で、俺を見ている。
+Terror in her facial expression, she looks at me.
+TP
+
+//矢尻が俺からそれていることも、気づいていない。
+She hadn't noticed that the tip of the bolt had strayed from me.
+//Arrow + butt = tip of the bolt. I don't actually know if it's called an arrowhead regardless. -GHS
+TP
+
+//太一「で、読めてたかも知れないけど、Ｓってのは新川のイニシャルでもあった」
+Taichi: "And, as you maybe have guessed, 'S' is also the initial of Shinkawa."
+//...which makes it plausible there'd be plays on names (and perhaps more) where more than the kanji or the kana changes, but also Western romanizations being changed by single letters. In other words, it is perfectly valid to think a Youko/Touko association despite changes in only a letter, rather than a whole kana or kanji. -GHS
+TP
+
+
+GL 1 TCSK0003
+GP 1 220 0
+GI 1 1
+//HACK fade the doll instead of popping in -GHS
+
+WVP 0 vfCCC3026kri001
+//霧「……な、なにを言って……？」
+Kiri: "...wh-, what did you say...?"
+TP
+
+//半笑い。
+Half smile.
+TP
+
+//感情さえコントロールできていない様子。
+She is unable to keep even emotions under control.
+TP
+
+//太一「あいつも子供なのにあんなこと知っちゃってさ。もうまともな人生にはならないって思ってたよ」
+Taichi: "Guy's a child, but he's well acquainted with that stuff. I thought he'd never be able to have a proper life anymore."
+TP
+
+//太一「末は変態かジャンキーかってさ」
+//Taichi: "He'd end up learning Japanese and reading eroge and then he'd go on twitter and write entirely in Japanese and even think himself Japanese. I call it, 'going full retard'."
+Taichi: "He'd end up as a pervert or maybe a junkie."
+TP
+
+GL 1 TCSK0021
+GI 1 0
+WVP 0 vfCCC3026kri002
+//霧「嘘だっっ！！」
+Kiri: "YOU LIE!!!"
+TP
+
+//金切り声。
+Piercing loud scream.
+TP
+
+WVP 0 vfCCC3026kri003
+//霧「嘘だ、嘘だ嘘だ嘘だ！！　嘘つかないでよ！　気でも狂ったの！？　そんなでまかせ……」
+Kiri: "You lie, you lie you LIE YOU LIE!!! Don't lie to me! Did you lose your mind?! You're just spreading garbage..."
+TP
+
+//太一「事実だよ」
+Taichi: "It's the truth."
+TP
+
+//再び霧の手は震え出す。
+Once again Kiri's hands began shaking.
+TP
+
+WVP 0 vfCCC3026kri004
+//霧「そんなことあるわけない！　豊がそんなことしていたはずがない！」
+Kiri: "That simply can't be! It's simply impossible that Yutaka would ever do anything like that!"
+TP
+
+//太一「そんなことあるし、豊はそんなことをしていた」
+Taichi: "That simply is. Yutaka did all that."
+TP
+
+//太一「一番張り切ってたぞ」
+Taichi: "And he was the most enthusiastic!"
+TP
+
+//笑う。
+I laugh.
+TP
+
+//太一「まあ子供だから、大人の女を強姦するってのはきつかったんだろうな。アソコだって子供にはショックの大きな―――」
+Taichi: "Ahhh, and he was a kid, so raping adult females has gotta have been harsh. To a child, those privates would a big shock that's---"
+//強姦 -GHS
+TP
+
+WVP 0 vfCCC3026kri005
+//霧「黙って！！」
+Kiri: "SILENCE!!!"
+TP
+
+//張り裂けそうな声。
+Her voice seems to be bursting open.
+TP
+
+WVP 0 vfCCC3026kri006
+//霧「そんな話、聞いたこともない！　ずっと暮らしてきて、そんな話があったなんて。ありえない……考えられない―――」
+Kiri: "I have never heard about this anywhere! We've always lived together, and he never talked about that. Impossible... unthinkable---"
+//Already from the voice it's obvious she suspects. -GHS
+TP
+
+//太一「記憶喪失」
+Taichi: "Memory loss."
+TP
+
+GL 1 TCSK0001
+GI 1 0
+//HACK actually do it. -GHS
+
+//ぴたりと霧は口をつぐんだ。
+Kiri's lips closed tight on the spot.
+TP
+
+//名探偵になった気分だ。
+It felt she had become a detective, and a great one.
+TP
+
+//太一「謎はとけまくってんだよ、霧ちん」
+Taichi: "So you have unraveled the mystery, Kiri-chin."
+//He's still being an ass. -GHS
+TP
+
+GL 1 TCSK0004
+GI 1 0
+WVP 0 vfCCC3026kri007
+//霧「……それは……記憶がないのは……」
+Kiri: "...that is... he has no memories of it and..."
+TP
+
+//太一「あと俺、あいつがどうして脚を怪我したのか知ってる」
+Taichi: "And, I know why that guy's leg is injured."
+TP
+
+WVP 0 vfCCC3026kri008
+//霧「……え？」
+Kiri: "...eh?"
+TP
+GL 5 evcc0063
+$CGevcc0063 = 1
+GI 5 0
+GS 5 0
+SEF 109 0
+//太一「その場にいたからな」
+Taichi: "Because I was there."
+TP
+
+WVP 0 vfCCC3026kri009
+//霧「……じゃあ……先輩は……それを知ってて？」
+Kiri: "...then... Senpai... you knew he...?"
+TP
+
+//太一「いんにゃ？」
+Taichi: "Nyope."
+//Fukuoka-ben. Cats will be fine, too. -GHS
+TP
+
+//太一「俺は豊が生き延びたなんて思ってなかったし……豊って名前も忘れてたよ」
+Taichi: "I never thought that Yutaka would still be around... I forgot the very name Yutaka."
+//MEMORY HUNTER! Yutaka came to Kamisaka when Taichi was halfway through his first year, around one or two years after Taichi did. Utterly ridiculous he'd have forgotten the guy who had spearheaded his torture for weeks, perhaps months, and that he thought he had killed so ferociously. Of course, see CCA0011C: like hell he's forgotten. This is a hint that while Taichi remembers, he doesn't necessarily Remember. -GHS
+TP
+
+//太一「……あいつと出会ったのは偶然だ」
+Taichi: "...meeting him was a coincidence."
+//Of the same kind that'll be seen in Miki's route. This is pure Providence. -GHS
+TP
+
+//太一「俺も女装させられてたし……向こうもわからなかったみたいだけど」
+Taichi: "I had been put into girls' clothing so... looks like there wasn't any recognizing from him either."
+TP
+
+//だが豊は生き残った。
+For all that, Yutaka had survived.
+//Readers still don't know Yutaka should've died. -GHS
+TP
+
+//太一「でまあ、いろいろあって俺も解放されて……紆余曲折あってここに来たわけだけど」
+Taichi: "So well, lots of complications and I was set free... there were lots of twists and turns and I ended up here."
+TP
+
+//太一「考えてみれば当然だよな」
+Taichi: "Thinking back, it's just natural, isn't it."
+TP
+
+//太一「豊も俺も、あれで心が壊れないはずないんだ」
+Taichi: "There was no way that that wouldn't break our spirits, nor for me nor for Yutaka."
+TP
+
+//太一「出会うのは必然だったのかな」
+Taichi: "I wonder if us meeting was just inevitable."
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3026kri010
+//霧「……そんな……残酷な人じゃない……信じられない」
+Kiri: "...but he's... not that cruel a person... I'll never believe this!"
+//Going by how she treats in CCC3004, it's possible that she figured out exactly what kind of person he was, whether she accepted it or not. Then again, she's not the smartest or hardest to convince. -GHS
+TP
+
+//太一「豊のことに気づいたのは、親しくなったあとだよ」
+Taichi: "I recognized Yutaka after we got close."
+TP
+
+GL 1 TCSK0004
+GI 1 0
+WVP 0 vfCCC3026kri011
+//霧「……だから……殺した？」
+Kiri: "...that's why... you murdered him?"
+TP
+
+//ま、もうごまかしはきかないだろう。
+Well, seems deceptions won't work anymore.
+TP
+
+//俺も、吐き出したくなった。
+I, too, just wanted to spit it out.
+//This reads as if he wants to just state outright his hatred for him... -GHS
+TP
+
+//太一「すぐに殺意がわいたわけじゃない」
+Taichi: "It's not like I immediately fired into some murderous rage."
+//...but he doesn't. -GHS
+TP
+
+//太一「過去のことだしな」
+Taichi: "It was just a thing of the past."
+//It's both true and false. -GHS
+TP
+GL 1 TCSK0001
+GI 1 0
+WVP 0 vfCCC3026kri012
+//霧「だったら……！」
+Kiri: "But then...!"
+TP
+
+//流れが逆転しはじめていた。
+The flow began to reverse.
+//Pshaw, this requires at least seventeen more twists, none of which make any sense (though some of which are certainly awesome). -GHS
+TP
+
+//感情のうねりは打ち寄せた波、俺を湿らせて引き返していく。
+The wave of her swelling emotions had broken ashore, drenched me, and is now withdrawing.
+TP
+
+//霧。
+Kiri...
+TP
+
+//アタックしてきたのは、おまえの方なんだからな。
+She had gone on the attack because that is her way.
+TP
+
+//太一「苦しんでいるのなら、見逃してやろうと思った」
+Taichi: "I thought, if he's in pain, I'll let it go."
+//See CCC3007, it's possible he was already aware then. -GHS
+TP
+
+//太一「けど俺とつるんでいる時のあいつは、幸せそうだった」
+Taichi: "But when he was hanging around with me, he seemed to be happy."
+TP
+
+GL 1 TCSK0003
+GI 1 0
+WVP 0 vfCCC3026kri013
+//霧「……っ！！」
+Kiri: "...!!!"
+GP 1 205 15
+GI 1 0
+GP 1 220 30
+GI 1 0
+GP 1 235 15
+GI 1 0
+GP 1 220 0
+GI 1 0
+//HACK independent doll shake -GHS
+TP
+
+WVP 0 vfCCC3026kri014
+//霧「あの日……わたしに質問した……幸せかって……？」
+Kiri: "That day... you asked me... was he happy...?"
+TP
+
+//太一「よく覚えてるな」
+Taichi: "You remember that, good."
+TP
+
+//太一「そうだよ。そーいう意味だ」
+Taichi: "That's right. That was what it meant."
+TP
+
+//今再び、同じ問いを投げかける。
+And now, once again, I throw the same question at her.
+TP
+
+//太一「なあ霧……豊は、幸せだったのかな」
+Taichi: "Say, Kiri, I'm wondering... was Yutaka happy?"
+//CP CCC3008
+TP
+
+//ありがちな問いかけ。
+An usual question to ask,
+//CP CCC3008
+TP
+
+//けど。
+but,
+//CP CCC3008
+TP
+
+//意味はまったく逆だった。
+the meaning was wholly and damnably the opposite.
+//CP CCC3008
+TP
+
+GL 1 TCSK0021
+GI 1 0
+WVP 0 vfCCC3026kri015
+//霧「……つらい思いをしてきたんです！」
+Kiri: "...he was feeling bitter!"
+//PCP CCC3008
+TP
+
+WVP 0 vfCCC3026kri016
+//霧「親族に邪険にされて……荒れて……」
+Kiri: "His relatives were so cruel... so rough..."
+//Possibly referring to how they looked relieved at the funeral... possibly referring to the story in CCC3025. -GHS
+TP
+
+//太一「本当にずっとつらかった？」
+Taichi: "Truly, always, bitter?"
+//CP CCC3008
+TP
+
+//太一「一瞬でも、幸せな時間はなかった？」
+Taichi: "There were never times of happiness, not even one instant?"
+//CP CCC3008
+TP
+
+GL 1 TCSK0004
+GI 1 0
+WVP 0 vfCCC3026kri017
+//霧「それは……」
+Kiri: "Well..."
+//CP CCC3008
+TP
+
+//太一「あっただろうが」
+Taichi: "I'm sure there were."
+TP
+
+//霧は答えない。うつむく。
+Kiri doesn't answer. And hangs her head.
+TP
+
+//武器も下を向いている。
+The weapon points down as well.
+TP
+
+//敵意も殺意も萎んだ。枯れた花。
+Hostility and murderous intent too wither. A wilted flower.
+//SYMBOLISM!!! -GHS
+TP
+
+//細い体に、疑念という毒素が満ちる。
+Her thin slender body fills with a toxin named doubt.
+//What toxin, this is a well needed medicine! -GHS
+TP
+
+//太一「そりゃそうだろうさ。昔しでかしたことを綺麗さっぱり忘れれば、心もスッキリサッパリだ。いくらだって幸せになれるさ！」
+Taichi: "Sooo, well, yeah, that's that. All the stuff he's done long ago is all beautifully and spotlessly forgotten, and his heart is all clean and refreshed. How so very happy could he become after that!"
+//This is why forgetting's not removing the past, and why Taichi's attempt to have his way with the time loop can't work. -GHS
+TP
+
+//太一「だから思い出させてやった」
+Taichi: "And that is why I made him remember."
+TP
+
+GL 1 TCSK0003
+GI 1 0
+//HACK sweatdrop Kiri -GHS
+
+WVP 0 vfCCC3026kri018
+//霧「……やめて……」
+Kiri: "...stop this..."
+//See CCD5001. It's not word for word, but it might as well be. And in both cases it's something they need to hear. -GHS
+TP
+
+//霧は耳を塞ごうとする。
+Kiri goes to cover her ears.
+TP
+
+//太一「塞ぐな！」
+Taichi: "Don't cover your ears!"
+//Indeed. She can't run away from this. But see CCD3003B: she isn't. This entire thing is in Taichi's mind. -GHS
+TP
+
+GP 1 205 15
+GI 1 0
+GP 1 220 30
+GI 1 0
+GP 1 235 15
+GI 1 0
+GP 1 220 0
+GI 1 0
+//HACK independent doll shake -GHS
+
+
+
+//手は止まる。
+Hands stop.
+TP
+
+//太一「よく晴れた日だったよ」
+Taichi: "It was a nice clear sunny day."
+TP
+
+//太一「おまえが見たとおり、あの時の屋上ですべて話した」
+Taichi: "As you did see, that moment we talked about everything."
+TP
+
+WVP 0 vfCCC3026kri019
+//霧「……う……」
+Kiri: "...ngh..."
+TP
+
+//太一「あいつは言った。どうすれば許してくれるって？」
+Taichi: "And then he asked: how can I make you forgive me?"
+TP
+
+//太一「許すも許さないもない。犯した罪は永遠にそのままだ。触れることなんてできない。変質させることもだ。俺もそこを責める気はなかった」
+Taichi: "There's no forgiving nor condemning. Sins perpetrated remain like that in eternity. There's no putting your hands on them in any way. Neither there is changing them. I didn't feel like there was blame then."
+//And... -GHS
+TP
+
+//太一「……ただ、一つ疑問があってさ」
+Taichi: "...just, there was one thing unclear."
+TP
+
+//太一「問いかけたんだ」
+Taichi: "So I asked him a question:"
+TP
+
+
+//太一「なあ、ひとつ質問なんだけど……どうして今すぐにでも死なないんだ？」
+Taichi: "Say, I got one question though... why don't you just die right this very instant?"
+//PCP CCC3009
+//This is one of the cornerstones of Cross Channel. The better question is: how come Yutaka didn't have another answer? -GHS
+TP
+
+
+//太一「……って」
+Taichi: "...that was what I asked."
+//Hypertritlerasdpoxcvds e he wore incredibly varnished clothes from The Gap and a star in her hair and as she monologued for a two hours she ended up, what are your names? -GHS
+TP
+GO 1 1
+WVP 0 vfCCC3026kri020
+//霧「ああぁ……」
+Kiri: "Aaahhh..."
+TP
+
+//太一「そしたら……あいつ本当に自殺しちゃったんだ」
+Taichi: "And then... that guy killed himself for real."
+TP
+
+//霧は崩れ落ちた。
+Kiri crumbled down.
+TP
+
+//その脇にしゃがみ込む。
+She squats cradling her knees on the spot.
+TP
+
+//俺の顔には、憫笑が刻まれている。
+A smile of pity engraves on my face.
+//But is it an insincere one? -GHS
+TP
+
+//太一「いずれにせよ、真実は一つだけさ」
+Taichi: "However things may go, the truth is only one:"
+TP
+
+//あと一押しで、砕ける。
+Just one more try, one more push, and she'll shatter.
+//See CCA0026B. Since he's about to do a great big favor to her, I suspect this is intentional. Kiri's no more going to shatter than Misato is going to reject Taichi (provided he does it the way she wants it, i.e. giving her plausible deniability). -GHS
+TP
+
+//知っているのに、俺は。
+And I know that, but still,
+TP
+
+//耳元に囁く。
+I whisper in her ears,
+TP
+
+//本物の刃物を突き立てるために。
+so as to stab her with the blade of a weapon with a real edge.
+//Because of the vagaries of Kiri's knife etc., this will return in CCX0001. -GHS
+TP
+
+//太一「おまえの兄さんは薄汚い最低のレイプ猿だ」
+Taichi: "Your nii-san was a filthy, rotten, disgusting rapist fuck."
+//"Rapist monkey" or "rapist chimp" sound a tad too silly, though it connects to how Touko calls him a monkey in heat. Outside of that it's not used literally anyway, and as I can't think of an animal that wouldn't sort of blunt this (like 'dog'), I fucking need to fucking go with another fucking swearword, mother of all shitfuck. -GHShitfuck
+TP
+
+//霧「……………………」
+Kiri: "..............."
+TP
+
+//プツン、と。
+Snap.
+TP
+
+//霧の内部で糸が切れるのがわかった。
+And so I knew that a string inside Kiri had been cut,
+TP
+
+//決してもう繋がるまい。
+and may never be reconnected again.
+//The one that binds her to Yutaka. This is a GOOD THING FOR HER. -GHS
+TP
+
+WVS 1 1
+
+RET

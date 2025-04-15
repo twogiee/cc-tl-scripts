@@ -1,0 +1,120 @@
+
+
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0019mki000
+Miki: "I should get going soon."
+TP
+Taichi: "Okay."
+TP
+
+WVP 0 vfCCC0019mki001
+Miki: "Ah, that's right."
+TP
+
+As Miki walked away, she turned around.
+TP
+
+WVP 0 vfCCC0019mki002
+Miki: "Did you know Mimi-sempai said she's reopening the club?"
+TP
+
+Taichi: "Oooh."
+TP
+
+The one with the antenna.
+TP
+
+I have to pretend I don't know.
+TP
+
+Taichi: "That's different from the...not the Active Peace Maintenance......uhhh, from the Active Life Maintenance Club Tomoki's doing?"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0019mki003
+Miki: "Yeah, it's the Broadcasting Club......you know, like a radio station."
+//"On" sounded so out of place.-Spin
+TP
+
+Taichi: "Yeah......the one using some kind of community FM channel?"
+//If you agree with the change before this one then yea, I changed it because didn't make sense anymore.-Spin
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0019mki004
+Miki: "It is."
+TP
+
+Taichi: "Didn't a lot of stuff happen to cancel it?"
+TP
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC0019mki005
+Miki: "I think she's been constructing the antenna."
+TP
+
+Taichi: "Uwa, that's dangerous."
+TP
+
+Not just because it'd been left unfinished before.
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0019mki006
+Miki: "She was swaying around on her stepladder."
+TP
+
+Taichi: "Swaying......"
+TP
+
+WVP 0 vfCCC0019mki007
+Miki: "It seemed at least that dangerous."
+TP
+
+Taichi: "......aaah, so it was a joke after all."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0019mki008
+Miki: "It must be."
+TP
+
+We looked at each other and laughed weakly.
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0019mki009
+Miki: "Let's both do our best to live."
+TP
+
+Taichi: "Indeed."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0019mki010
+Miki: "I'm cute after all."
+TP
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0019mki011
+Miki: "See you."
+TP
+GO 1 1
+Miki threw up one hand as she left.
+TP
+
+Taichi: "Still, the club..."
+TP
+
+WVS 1 1
+
+
+RET

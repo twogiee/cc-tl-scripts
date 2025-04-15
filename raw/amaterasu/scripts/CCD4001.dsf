@@ -1,0 +1,443 @@
+
+
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0014
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+
+WVP 1 bgm016.ogg 0 0 0
+
+
+
+I passed the school and headed for the housing complex where Miki lives.
+TP
+
+
+Miki was jogging up the hill.
+TP
+
+
+She found me.
+TP
+
+
+She rushed.
+//CP_S ccd0006
+TP
+
+
+Toward me.
+TP
+
+
+While stumbling.
+//CP_F
+TP
+
+
+WVP 0 vfCCD0001mki000
+Miki: "Uwaaaaaaan!!!"
+//CP_S
+TP
+
+
+She cried.
+//CP_F
+TP
+
+
+She leaped into my chest.
+//CP_S
+TP
+
+
+GL 0 evcc0040
+$CGevcc0040 = 1
+GS 0 1
+SEF 155 0
+I caught her.
+TP
+
+
+WVP 0 vfCCD0001mki001
+Miki: "Sempai, Sempai-Sempai-Sempaaaaaai!!!"
+//CP_F
+TP
+
+
+WVP 0 vfCCD0001mki002
+Miki: "There's no one hereeeeeee!! Something's straaaaaaange! This absolutely isn't normaaaaaaal!!!"
+//CP
+TP
+
+
+Taichi: "......y-yeah."
+TP
+
+
+WVP 0 vfCCD0001mki003
+Miki: "No one's in any of the houses! There's hardly anyone left, they've all disappeared!!"
+//CP
+TP
+
+
+Taichi: "Yeah, that's a problem."
+TP
+
+
+I consoled her while patting her back.
+//CP
+TP
+
+
+WVP 0 vfCCD4001mki000
+Miki: "What is all this......this can't happen......"
+TP
+
+
+A small girl.
+TP
+
+
+How much happiness and coincidence and time would I need to raise an invincible Miki?
+TP
+
+
+Taichi: "Aren't I here?"
+//CP_S
+TP
+
+
+WVP 0 vfCCD0001mki005
+Miki: "......uuuuu! Yes......thank goodness......you're here......"
+TP
+
+
+WVP 0 vfCCD0001mki006
+Miki: "I woke up this morning, and mom wasn't there, and breakfast wasn't there......when I thought that everyone really had disappeared......"
+TP
+
+
+Taichi: "Were you scared?"
+TP
+
+
+She nodded as if to rub her forehead against me.
+TP
+
+
+WVP 0 vfCCD0001mki007
+Miki: "I don't like this......I...don't......"
+//CP_F
+TP
+
+
+Taichi: "It really is lonely without other people."
+//CP_S
+TP
+
+
+WVP 0 vfCCD0001mki008
+Miki: "......I want to go home......"
+//CP_F
+TP
+
+
+Taichi: "You want to go home?"
+//PCP_S
+TP
+
+
+WVP 0 vfCCD0001mki009
+Miki: "I wanna go home, I wanna go home......"
+//CP_F
+TP
+
+
+Taichi: "I see, you want to go home."
+TP
+
+
+WVP 0 vfCCD4001mki001
+Miki: "I want to see Kiri-chin......and everyone else......"
+TP
+
+
+I handed her my handkerchief.
+//Moogy agrees it should be handkerchief. - Raide
+TP
+
+
+It was quickly stained.
+TP
+
+
+Thanks to surface tension, the girl's overflowing tears were like pearls.
+TP
+
+
+Taichi: "Kiri-chin, huh?"
+TP
+
+
+One week.
+TP
+
+
+Sunday is everything.
+TP
+
+
+
+
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+GL 1 TCYM0002
+GP 1 180 0
+GI 1 0
+WVP 0 vfCCD4001mki002
+Miki: "Egu, egu, egu."
+TP
+
+
+She never stopped crying.
+TP
+
+
+We came to school holding hands.
+TP
+
+
+Taichi: "You know, I have some stuff to do, so Miki, what about you?"
+TP
+
+
+WVP 0 vfCCD4001mki003
+Miki: "I'll wait for Kiri here."
+TP
+
+
+Taichi: "......I see."
+TP
+
+
+Taichi: "Well, bye."
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCD4001mki004
+Miki: "Ah, when you're done with doing things, will you still have things to do?"
+TP
+
+
+She asked while waving her arms.
+TP
+
+
+Taichi: "I won't."
+TP
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfCCD4001mki005
+Miki: "Then, I'll be waiting here......right here......"
+TP
+
+
+Taichi: "Why not wait in the classroom?"
+TP
+
+
+WVP 0 vfCCD4001mki006
+Miki: "......I don't want to be in a building with no people......I don't think I'd be able to breathe."
+TP
+
+
+Taichi: "I understand. Then I'll finish this quickly."
+TP
+
+
+WVP 0 vfCCD4001mki007
+Miki: "Ah, your handkerchief......I'll compensate you, with something other than money."
+TP
+
+
+Why?
+TP
+
+
+My sexual harassment soul suddenly welled up.
+TP
+
+
+Taichi: "That's fine. I only had that handkerchief because I can't leave a crying girl alone."
+TP
+
+
+WVP 0 vfCCD4001mki008
+Miki: ......*sob*
+TP
+
+
+Immediate effect.
+TP
+
+WVS 1 1
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0006
+GS 0 1
+GS 1 0
+SEF 152 0
+The classroom.
+TP
+
+GL 5 evcc0027s
+$CGevcc0027s = 1
+GI 5 0
+GS 0 1
+GS 5 0
+SEF 109 0
+
+
+WVP 1 bgm021.ogg 0 0 0
+
+
+Kiri's not here.
+TP
+
+
+She's not here anymore.
+TP
+
+
+However many times I repeat, Kiri will never appear again for all eternity.
+TP
+
+
+The very word 'eternity' is nearly a contradiction, but there are no means for Kiri and I to connect to one another.
+TP
+
+
+A natural punishment to be inflicted on me for using those girls to store up provisions in my heart.
+TP
+
+
+Punishment.
+TP
+
+
+Å~
+IF $tlnote != 0 (TL note: "Batsu" can mean "punishment," but it can also refer to a cross or X used to mean "no" or "incorrect".)
+//When writing this tl note I wanted to make sure it'd be obvious that this pun overlaps heavily with the one that Misato used to come up with "Peke-kun", so it might look longer than necessary. Å`IX
+TP
+
+Cross.
+TP
+
+
+But I can no longer cross with her---
+TP
+
+
+Taichi: "But......how can I explain that?"
+TP
+
+
+To Miki.
+TP
+
+
+My head hurts.
+TP
+
+
+WVS 1 1
+
+
+
+
+
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+
+WVP 1 bgm015.ogg 0 0 0
+
+
+I returned to the front gate.
+TP
+
+
+Miki was crouched down with her head between her knees.
+//I'm pretty sure that's how it's said. not 100% though.-Spin
+TP
+
+
+Taichi: "......Miki, I'm here."
+TP
+
+GL 1 TCYM0002
+GI 1 1
+
+WVP 0 vfCCD4001mki009
+Miki: "............Sempai, Kiri won't come."
+TP
+
+
+Taichi: "Maybe she's taken the day off."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCD4001mki010
+Miki: "Then......she's at home?"
+TP
+
+
+Taichi: "Right now? I'm not sure, she might have gone out."
+TP
+
+
+WVP 0 vfCCD4001mki011
+Miki: "......I'm going."
+TP
+
+
+CSQ 0 1 1
+  -Invite her on a date
+  -Tag along to Kiri's house
+
+
+
+
+
+RET
+

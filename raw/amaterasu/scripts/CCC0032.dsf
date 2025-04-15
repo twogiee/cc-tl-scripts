@@ -1,0 +1,282 @@
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+SEF 152 0
+
+At some point, it became midday.
+TP
+
+After all, with only eight people, we don't bump into each other much.
+TP
+
+WVP 1 bgm012.ogg 0 0 0
+
+
+
+Youko-chan's sandwiches.
+TP
+
+There were a few too many.
+TP
+
+Taichi: "No helping it, I'll eat them alone......"
+TP
+
+I can eat them somehow. I'm having a growth spurt.
+TP
+
+All the hairs on my back stood up abruptly.
+TP
+
+As if I was being targeted from behind by a soldier with a machine gun.
+TP
+
+Taichi: "Yo-Youko-chan......"
+TP
+
+GL 1 TCHY0000
+GP 1 180 0
+GI 1 1
+
+Youko: "............"
+TP
+
+She stood there.
+TP
+
+She only stood there.
+TP
+
+Her usual approach.
+TP
+
+Perhaps because her presence had such a keen structure, I could never get used to it.
+TP
+
+Taichi: "Sudden as always."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+Youko: "............"
+TP
+
+I pinched her nose.
+TP
+
+Taichi: "Speak."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC0032you002
+Youko: "Du you meed anyfing frum mi?"
+//Feel free to mess with this if you know a better way to convey muffled speech. Å`IX
+TP
+
+Taichi: "Hmmm."
+TP
+
+I thought.
+TP
+
+Taichi: "Nothing in particular."
+TP
+
+Youko: "............"
+TP
+
+When I released my hand, she ran two meters away and stood there.
+TP
+
+Taichi: "Even so, it's hard to eat a double portion by myself."
+TP
+
+I opened the paper bag and put a sandwich in my mouth.
+TP
+
+Youko: "........................"
+TP
+
+Under that noh mask of a face, just what complications were developing?
+//noob TL for noh? - Sheeta
+TP
+
+After a while, her shoulders fell slightly.
+TP
+
+Dejectedly.
+TP
+
+GL 1 TCHY0002
+GI 1 0
+WVP 0 vfCCC0032you005
+Youko: "......I moved out of my apartment."
+TP
+
+Taichi: "Eh? Why?"
+TP
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC0032you006
+Youko: "I'm going back."
+TP
+
+Taichi: "To my place?"
+TP
+
+Nod.
+TP
+
+Taichi: "......no."
+TP
+
+I told her it would be useless.
+TP
+
+WVP 0 vfCCC0032you007
+Youko: "......why not?"
+TP
+
+Taichi: "I can't calm down."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC0032you008
+Youko: "There's no one here anymore......I think it's fine if we live together just as before......"
+//Sounded like it needed something.-Spin
+TP
+
+Taichi: "I think it's fine to live free and easy by myself."
+TP
+
+Our opinions split.
+TP
+
+She made a face as if chewing a bitter insect. (Youko-chan's version/largely expressionless)
+TP
+GL 1 TCHY0001
+GI 1 0
+WVP 0 vfCCC0032you009
+Youko: "......Taichi is always hard on me."
+TP
+
+Taichi: "You're too overprotective."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC0032you010
+Youko: "I think I'm only doing the obvious thing."
+TP
+
+That might be the case, but,
+TP
+
+Taichi: "Anyway, no. I enjoy living alone to the fullest extent."
+//This one also sounded like it needed something. I know that "extent" works but it just doesn't sound exactly right either. What do you think?-Spin
+TP
+
+GL 1 TCHY0001
+GI 1 0
+WVP 0 vfCCC0032you011
+Youko: "............I see."
+TP
+
+Dejected.
+TP
+
+I ate a sandwich while that girl, absorbed in a rhythm of dejection, stood in the corner of my eye.  
+TP
+
+GL 1 TCHY0000
+GI 1 0
+Youko: "......"
+TP
+
+I was being stared at.
+TP
+
+Youko: "............"
+TP
+
+I continued to be stared at.
+TP
+
+Youko: "........................"
+TP
+
+It was seen through.
+TP
+WVP 2 SE077 1 0
+The sound of Youko-chan's stomach.
+TP
+
+Taichi: "......lunch?"
+TP
+
+WVP 0 vfCCC0032you015
+Youko: "I haven't eaten."
+TP
+
+Taichi: "Must be rough."
+TP
+
+WVP 0 vfCCC0032you016
+Youko: "Not long ago, I heard you say, 'No helping it, I'll eat them alone...'"
+TP
+
+Taichi: "I said that."
+TP
+
+*munch* *munch* *munch* *munch*
+TP
+
+Taichi: "I truly am doing that right now."
+TP
+WVP 0 vfCCC0032you017
+Youko: "......even though there are two people here."
+TP
+
+Taichi: "What was that? I can't hear you very well?"
+TP
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCC0032you018
+Youko: "......Taichi immediately harasses me......"
+TP
+
+Taichi: "These are delicious."
+TP
+
+*munch* *munch* *munch* *munch*
+TP
+
+Youko: "......"
+TP
+
+Taichi: "These are really delicious."
+TP
+WVP 2 SE077 1 0
+
+*munch* *munch* *munch* *munch*
+TP
+
+Youko: "......"
+TP
+WVP 2 SE077 1 0
+
+The two of us stayed in that unpopular hallway. My chewing, Youko-chan's stomach bug and the sound of me taking sandwiches out of the plastic bag. It was all in complete harmony.
+TP
+
+An incomprehensible stress swelled up.
+TP
+CSQ 0 1 1
+  -Let her eat
+  -Eat
+
+
+RET

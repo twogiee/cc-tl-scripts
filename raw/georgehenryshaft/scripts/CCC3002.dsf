@@ -1,0 +1,839 @@
+
+//霧が赤面した。
+Kiri went red in the face.
+TP
+
+//太一「つぎはなんだよ」
+Taichi: "What is even next now."
+TP
+
+WVP 0 vfCCC3002mki000
+//美希「決まっています」
+Miki: "That is obvious."
+TP
+
+WVP 0 vfCCC3002mki001
+//美希「わたしは下を脱ぎなさいと言いました」
+Miki: "I have said to remove your belows."
+//See CCC0026 -GHS
+TP
+WVS 1 1
+
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//太一「いいのか？」
+Taichi: "You sure?"
+TP
+
+//シリアスに告げる。
+So I proclaim with seriousness.
+TP
+
+//太一「これを露出するということの意味、知ってのことか？」
+Taichi: "That means to expose 'this' to the public, do you know that?"
+TP
+WVP 1 bgm019.ogg 0 0 0
+
+GL 0 bgcc0008
+GS 0 1
+GL 1 TCYM0001
+GP 1 180 0
+GS 1 1
+GS 2 0
+SEF 109 1
+//HACK later BG, with Miki doll already in -GHS
+
+WVP 0 vfCCC3002mki002
+//美希「この期に及んでおどしですか？」
+Miki: "Making threats at this late stage, are you?"
+//Watch Miki take Taichi's crap even more seriously than HE does. If there were a metachuuni Settei working throughout, this is evidence she'd not only follow it, but be perfectly incapable of telling whether others are serious or not. -GHS
+TP
+
+//太一「馬鹿な。君はこいつの恐ろしさをわかっちゃいない」
+Taichi: "Fool! You fail to comprehend how scary this thing is!"
+TP
+
+//太一「これはそのクロスボウのように、初心者にも容易く制御できる可愛らしいものじゃないんだぞ？」
+Taichi: "You think it's like that crossbow, some sweet little thing that even a beginner can easily control?"
+//That's, of course, kinda laughable. Sure, it's easier than a bow, but it's not that trivial. -GHS
+TP
+
+//太一「世界中の膜という膜、処女という処女を無限に貪り食う……まさに魔物」
+Taichi: "All throughout the world, endlessly will it greedily devour those membranes we call hymens, those girls we call virgins... it is truly a demon."
+//The implication remains that Taichi's Monster is and has always been his sex drive. -GHS
+TP
+
+
+//太一「ひとたび解放すれば、世界から処女の輝きが消えることは確実」
+Taichi: "If it is released but once, the disappearance of the dazzling radiance of virgin girls from the world is a certainty."
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCC3002mki003
+//美希「……世迷い言を」
+Miki: "...meaningless whining."
+TP
+
+WVP 0 vfCCC3002kri000
+//霧「ねぇ……わたしも別に見たくない……」
+Kiri: "Say... I don't really want to see it either..."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC3002mki004
+//美希「霧ちんは黙ってて」
+Miki: "Kiri-chin will be silent."
+TP
+
+WVP 0 vfCCC3002kri001
+//霧「……う、うん」
+Kiri: "...oh, 'K."
+TP
+
+//しょんぼり。
+She's downhearted.
+TP
+
+//美希は本気だ。
+Miki is serious.
+TP
+
+//太一「……すべてを無に帰すつもりか？」
+Taichi: "...do you intend to return everything to nothing?"
+//See CCB0022 -GHS
+TP
+
+GL 1 TCYM0005
+GI 1 0
+WVP 0 vfCCC3002mki005
+//美希「そうだと言ったら？」
+Miki: "What if I say I do?"
+TP
+
+//太一「なっ、君は、君というヤツは……それでも科学者か！」
+Taichi: "But! You... the person you are... you are still a scientist!"
+//Doesn't seem so much a reference, as much as a masquerading of the simpler truth: Miki plays the "villain" by pushing her Dragon, Kiri, on Taichi because stories demand villains and their sidekicks. So Kiri is made to look like the villain, but she's just a manipulated puppet, and the true villain was the protagonist's pupil who turned to evil. This is all metagame within metagame. And then the true villain was coincidence, and coincidence was no villain but God. The End - Cross Channel. -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC3002mki006
+//美希「科学とは突き詰めるもの。科学とは禁忌の先を進み往くもの」
+Miki: "Science is thorough investigation to its inevitable conclusion. Science is the progress through and beyond the taboos."
+//No it isn't, and no it isn't. Miki's a mad scientist, though, certainly. -GHS
+TP
+
+WVP 0 vfCCC3002kri002
+//霧「話全然みえない……」
+Kiri: "I can't see what you're talking about at all..."
+//"Seeing" is important, of course. See Shimura Phenomenon: when Miki can't see... -GHS
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC3002mki007
+//美希「背後を見ながらの科学に、意味はないんですよ、教授」
+Miki: "Science performed while looking backwards is meaningless, Professor."
+TP
+
+//太一「くっ、悪魔に魂を売ったか」
+Taichi: "Ngh, did you sell your soul to the devil?"
+TP
+
+GL 1 TCYM0005
+GI 1 0
+WVP 0 vfCCC3002mki008
+//美希「そう、アインシュタインのようにです」
+Miki: "Indeed, just like Einstein."
+//Robert Johnson. ...I actually thought that up as a stupid joke, but see CCA0008: this is the simplest explanation for why Taichi would call Miki with the name 'Johnson'. -GHS
+TP
+
+//太一「やむをえん……」
+Taichi: "Can't avoid this..."
+TP
+
+//俺は乳首に触れた。
+I touched a nipple.
+//The second will come into play later. -GHS
+TP
+
+//太一「この爆破スイッチを使うことになろうとは」
+Taichi: "Then I will use this Self-Destruct Button!"
+//See CCA0008, same term as his sexual molestation technique. -GHS
+TP
+
+//霧「……………………」
+Kiri: "............"
+TP
+
+//霧はクロスボウをおいて、トイレに入った。
+Kiri put away the crossbow and went into the toilet.
+//Since it fits into her pocket anyway. -GHS
+TP
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC3002mki009
+//美希「爆破スイッチ？」
+Miki: "Self-Destruct Button?"
+//Wonder if she thinks he's about to assault her. -GHS
+TP
+
+//太一「そうだ。私はこいつを、この悪魔の逸物を世に解きはなつわけにはいかんのだ」
+Taichi: "Indeed. For I absolutely cannot let this... this mephistophelic masterpiece loose onto the world!"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+//美希「……」
+Miki: "..."
+TP
+
+//太一「すべての淑女に安らぎあれ。妻よ子よ、すまん……愚かな父を許せ！」
+Taichi: "Be all at peace, ladies. My wife, my son, sorry... forgive your stupid father!"
+//They're probably still lost somewhere on the mountains he stupidly mistook for a hill. -GHS
+TP
+
+WVS 1 1
+TWS 7
+WT 1000 0
+WT 500 0
+TWS 0
+//HACK stop music and wait for 1.5" -GHS
+
+//太一「……ん？」
+Taichi: "...hm?"
+TP
+
+//太一「どうしたことだ、これは？　装置が作動せんとは？」
+Taichi: "What is the meaning of this? Why doesn't the Device work?"
+TP
+
+WVP 1 bgm019.ogg 0 0 0
+//HACK restart music -GHS
+
+GL 1 TCYM0005
+GI 1 0
+WVP 0 vfCCC3002mki011
+//美希「……ふふ、あなたの行動など、とうにお見通しだったのですよ、陛下！」
+Miki: "...heheh, I have seen through all your actions and behaviors long ago, Your Highness!"
+TP
+
+WVP 0 vfCCC3002kri004
+//霧「配役変わってるし……」
+Kiri: "The cast has changed..."
+TP
+
+//トイレから戻った霧が、のろのろとクロスボウを構え直した。
+Returning from the toilet, Kiri sluggishly readjusted her crossbow posture.
+TP
+
+//太一「配線を……くそう！　なんてこった！」
+Taichi: "The wiring... dammit! The hell is this!"
+//Wiring's not his specialty after all, see CCA0006. See CCB0022 again. Combine with Tower of Friends and... -GHS
+TP
+
+WVP 0 vfCCC3002mki012
+//美希「絶体絶命ですね」
+Miki: "It is inescapable doom."
+//On random and very much likely unrelated news, the Zettai Zetsumei Toshi series is 2002 at least... damn I really thought it was older. -GHS
+TP
+
+//太一「ふ……」
+Taichi: "Heh..."
+TP
+
+//太一「忘れたか、乳首は二つあるということを！」
+Taichi: "Did you forget now, that there are TWO nipples!"
+TP
+
+GP 1 165 15
+GI 1 0
+GP 1 180 30
+GI 1 0
+GP 1 195 15
+GI 1 0
+GP 1 180 0
+GI 1 0
+//HACK independent doll shake -GHS
+
+WVP 0 vfCCC3002mki013
+//美希「っ！？」
+Miki: "?!?"
+TP
+
+//太一「科学に溺れ、人間工学を怠った……美希君、キミの負けだ！」
+Taichi: "Wallowing in your science, ergonomics caught you off-guard... Miki-kun, this is how you are beat!"
+//The subtext should be making your head spin right about here, especially considering she just goes and tries to kill him over this very comment. -GHS
+TP
+
+WVP 0 vfCCC3002mki014
+//美希「させるか！」
+Miki: "'Cause I'll let ya!"
+//PCP CCC0006A
+//Hmmm. -GHS
+TP
+GO 1 1
+//美希は霧に飛びつく。
+Miki jumped on Kiri.
+//And zero fanfictions were born. Boo! -GHS
+TP
+
+WVP 0 vfCCC3002kri005
+//霧「えっ、ちょっと……っ？」
+Kiri: "Eh!, what are...!?"
+TP
+
+//額に小さな危険信号がともる。
+On my forehead, a small warning signal goes off.
+//See CCC0006A, CCC4010 -GHS
+TP
+
+//咄嗟に霧が、切っ先をずらす。
+At once Kiri shifts the point of attack.
+TP
+
+GL 4 zzzCrossbowBolt
+GP 4 480 0
+GI 4 0
+CIN 4 480 0 0 0
+CR 0
+//HACK in the bolt. The hardcoded speed for displaying the CG coming in from the side of the screen is waaay too slow, but this nice command fits the bill. -GHS
+
+//矢が出た。
+A bolt is fired.
+TP
+
+GL 5 BGCC0000E
+GI 5 0
+WT 25 0
+GS 4 0
+GS 5 0
+SEF 100 0
+WVS 1 0
+WVP 2 SE066 1 0
+//SEF 101 0
+//HACK out bolt with a white flash. SFX is later, dunno why but it's so in all console versions. -GHS
+
+//太一「っっ！！！！」
+Taichi: "!!!!!!"
+TP
+
+//さすがに目視できても反応はできない。
+As expectable, even if seeing it is possible, reacting is not.
+TP
+
+//頬の横をかすめた。
+It grazed the side of my cheek.
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//振り返ると、廊下の壁に突き刺さっている。
+I look behind and see it stuck on the wall of the corridor.
+TP
+
+//太一「……………………」
+Taichi: "............"
+TP
+
+//太一「みみみみ……」
+Taichi: "EarMikiEar..."
+//Mimi-Mimi + Mi-Mi-Mi-Mi[-Miki] -GHS
+TP
+WVP 1 bgm011.ogg 0 0 0
+
+GL 1 TCYM0003
+GP 1 180 0
+GI 1 1
+WVP 0 vfCCC3002mki015
+//美希「すいません、教授」
+Miki: "Apologies, Professor!"
+TP
+
+//太一「教授じゃないっ！　すげー危ない！　すげえ危なかった今！」
+Taichi: "Don't 'professor' me! Super dangerous! That now was super dangerous!"
+TP
+
+WVP 0 vfCCC3002mki016
+//美希「……えはは」
+Miki: "...ehahah."
+TP
+
+//太一「えははじゃないよ君ぃ」
+Taichi: "Don't you 'ehahah' meee!"
+TP
+
+//うわ、遅れて冷や汗が出てきた。
+Whoa, cold sweat came out behind schedule!
+//see CCC4006 -GHS
+TP
+
+//太一「し、死ぬかと思った……」
+Taichi: "I-, I thought I would die..."
+TP
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCC3002mki017
+//美希「ごめんなさい……」
+Miki: "I'm sorry..."
+TP
+
+//太一「いや、生きてるからいいけど」
+Taichi: "Well, I'm still alive so I guess it's fine."
+TP
+
+//太一「なあ霧ちん？」
+Taichi: "Isn't it, Kiri-chin?"
+TP
+
+GL 2 TCSK0003
+GP 1 0 0
+GP 2 340 0
+GS 1 1
+GS 2 1
+SEF 109 0
+WVP 0 vfCCC3002kri006
+//霧「え、あ、は……」
+Kiri: "Eh, ah, huh..."
+TP
+
+//霧は呆然としていた。
+Kiri was overcome by surprise.
+TP
+
+//太一「霧ちんからも謝罪の言葉はないのかなー？」
+Taichi: "But are there nooo words of apology from Kiri-chin then?"
+TP
+
+GL 2 TCSK0000
+GI 2 0
+WVP 0 vfCCC3002kri007
+//霧「……え」
+Kiri: "...eh."
+TP
+
+//太一「命なくしかけたんだけどなー、シャレじゃすまないよなー」
+Taichi: "But I nearly lost my life didn't I, that just caaan't end with saying it was a joke can it!"
+TP
+
+WVP 0 vfCCC3002kri008
+//霧「……それは」
+Kiri: "...that is..."
+TP
+
+//太一「それは？」
+Taichi: "That is...?"
+TP
+GL 2 TCSK0002
+GI 2 0
+
+//霧「……………………」
+Kiri: "............"
+TP
+
+//Miki reacting to the next line not added. -GHS
+
+//葛藤が見て取れる。
+I can understand her conflict.
+TP
+
+//太一「ごめんなさいだろ？」
+Taichi: "An apology, right?"
+//Continuation of the "that's" -GHS
+TP
+GL 2 TCSK0004
+GI 2 0
+
+WVP 0 vfCCC3002kri010
+//霧「…………うぅ」
+Kiri: "......ngh..."
+TP
+
+//涙ぐむ。
+She's nearly crying.
+TP
+
+//そんなにイヤか。
+That's how much she doesn't want to, then.
+TP
+
+//太一「ごめんなさいは？」
+Taichi: "The apology?"
+TP
+
+WVP 0 vfCCC3002kri011
+//霧「…………ご……ごめ―――」
+Kiri" "......so-... sorr---"
+TP
+
+//言葉を押し出そうとした瞬間。
+The instant she tried to push out the words,
+TP
+
+//俺は無性にリセットをかけたくなった。
+I felt an extreme desire for a reset.
+//To save her from embarrassment... though as usual in their cross-conversation, he does so by making himself look even worse in her eyes. -GHS
+TP
+
+//太一「やっぱいーや。勝手にお詫びの印をもらう」
+Taichi: "Knew it, ain't happening. I'm getting a Seal of Apology on my own accord then."
+TP
+
+GL 1 TCYM0004
+GL 2 TCSK0003
+GI 1 0
+//HACK Miki shocked, Kiri sweatdrop -GHS
+GI 2 0
+WVP 0 vfCCC3002kri012
+//霧「え……？」
+Kiri: "Eh..."
+TP
+
+//太一「てやー」
+Taichi: "T'eyaaah!"
+TP
+GL 0 evcc0028
+GL 5 bgcc0000e
+$CGevcc0028 = 1
+//VERTICAL STRIPE SHIMAPAN NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO-GHS
+
+WVP 2 se100 1 0
+GI 5 0
+GS 5 0
+GS 1 0
+GS 0 1
+GS 2 0
+GS 3 0
+SEF 109 1
+//アケスケー！
+Outspokehhh!
+//明け透け. -GHS
+TP
+
+//そんな擬態語が聞こえた。
+That's the onomatopoeia that was audible.
+//See CCB2007. Same issue. -GHS
+TP
+
+WVP 0 vfCCC3002kri013
+//霧「っっっ？？？」
+Kiri: "!!!???"
+TP
+
+WVP 0 vfCCC3002kri014
+//霧「あ、あれ？　あれれ？」
+Kiri: "Wh-, what? Wha-what?"
+TP
+
+//太一「見たか！」
+Taichi: "Did you see it now!"
+//How Taichi is wearing pants despite him being in his underwear until moments ago? Yeah, I do. This one I think is just a plot hole. -GHS
+TP
+//太一「これぞスカートめくりの極み、パラシュート・デス・センテンス！」
+Taichi: "This is Extreme of Skirt Flipping: the Parachute Death Sentence!"
+TP
+
+//太一「スカートへアクセスする、指先が布をつまむその一瞬、全身の関節２４箇所を同時駆動させることによって、女子下半身における魅惑的閉鎖空間内に極小の乱気流を発生させる」
+Taichi: "On access to the skirt, that 1 instant in which the fingertips clench the cloth, I make 24 joints simultaneously operate so that inside the ravishing sealed space of the lower portions of a girl's body outbreaks a turbulence most minute."
+//Sealed space = recurring term. Not certain what is meant with that joints things, there's 28 joints total on the hand, so which 4 are missing? 2+4=6,+1 (the 1 instant the operation takes) =7. Forced... -GHS
+TP
+
+
+//太一「この作用により、めくりあげたスカートはパラシュート状に維持され、通常のスカートめくりの数倍の滞空時間をもって下着を衆目にさらしあげるのである！」
+Taichi: "Via this act, the flipped skirt is maintained into the state of a parachute, and via an estimated flight duration many times that of an everyday skirt flip, most assuredly exposes the underwear to the public's attention!"
+TP
+
+WVP 0 vfCCC3002mki018
+//美希「……先輩はヒトじゃないんですね、もう」
+Miki: "...Senpai's not a person, really."
+//This'll be nearly Kiri's catchphrase around Taichi. See CCA0027. -GHS
+TP
+
+//太一「だが、その長すぎる赤裸々タイムにより羞恥度は飛躍的に高まり、パラシュート効果の持続時間の終焉は、俺の命に対する死刑宣告をも意味するのである！　命と引き替えの大技、それがこのパラシュート・デス・センテンス！」
+Taichi: "However, via this endlessly long Nuditeh time the degree of bashfulness swells by leaps and bounds, that when the perduration of the Parachute Effect enters its demise, it assuredly also signifies a Sentence of Death with regards to my life!"
+//Sekirara, see CCB2007 again. Line was actually split exactly here in the console version -GHS
+TP
+Taichi: "It is a bold move that expends life, ergo its name: Parachute Death Sentence!"
+TP
+
+WVP 0 vfCCC3002mki019
+//美希「……大変なんですね、変態さんも」
+Miki: "...that's a biggie even for you, pervert-san."
+//See CCC4012. -GHS
+TP
+
+WVP 0 vfCCC3002kri015
+//霧「ど、どうして戻らな……なっなっなっ？」
+Kiri: "Wh-, why doesn't it go down... eh, eh, eh?!"
+//modoraNA...na / na na -GHS
+TP
+
+//霧はばたばたとスカートを押さえつけている。
+In a flap Kiri flaps her skirt down,
+TP
+
+//が、押さえれば反対側が、より高くふわりとめくりあがる。
+but the side opposite of her flapping flips fluffily higher.
+//I have avoided "flips fluffily further up". Be glad. -GHS
+TP
+
+//さりとて放置してもスカートはクラゲ状に、下着を露出し続ける。
+But even if she were to leave it be, the medusiform skirt would continue to expose her underwear.
+TP
+
+//まるで下方から風が吹き上げているかのように。
+Exactly as if from the lower parts a wind were blowing upwards.
+TP
+
+//太一「反間の計。今まで味方だったものが、これからも味方であるとは限らない」
+Taichi: "Have counterintelligence measures. There is no certainty that those who have been allies thus far will be allies hereafter."
+//Even though he's telling Kiri not to trust Miki, it doesn't really fit. -GHS
+TP
+
+//太一「この教訓をいかせよ、霧ちん」
+Taichi: "Make good use of this lesson, Kiri-chin!"
+TP
+
+WVP 0 vfCCC3002kri016
+//霧「す、すかぁとがっ……ふわふわ浮いてっ、ちょっと、なにコレ！？」
+Kiri: "Sk-, the skiiirt... floating all fluffy! Really, what is this?!"
+//It's FUCKING FUWA FUWA TIME it's what it is. -GHS
+TP
+
+WVP 0 vfCCC3002mki020
+//美希「スゴワザですねー……」
+Miki: "Amazing trick isn't it..."
+TP
+//太一「可憐だ。霧ちん」
+Taichi: "Lovely, innit, Kiri-chin."
+TP
+WVP 2 SE100 1 0
+
+//親指を立てた。
+I stick my thumb up.
+TP
+
+WVP 0 vfCCC3002kri017
+//霧「あぁあぁあぁぁぁあぁぁぁぁ……」
+Kiri: "AaAaAaaaAaaaah..."
+//7x2 As total -GHS
+TP
+
+//霧ちんはあたふたしていた。
+Kiri-chin was in a feverish haste.
+TP
+
+//もし公衆の面前でやったら悶死するやもしれぬ。
+If there was real public presence, she could mayhap even experience death in agony.
+TP
+
+//さすが奥義。
+So is expected from Esoterica.
+TP
+
+//曜子ちゃんとか全然動じないからなぁ。
+Youko-chan for example wouldn't be moved at all wouldn't she.
+TP
+
+//やっぱ慌てふためかれてこそのスカートめくり。
+Indeed, a skirt flip needs to send in a flap.
+//No, not planning to stop. -GHS
+TP
+
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 155 0
+//やがて、ゆっくりとスカートが戻っていく。
+Eventually, slowly, the skirt returns down.
+TP
+
+GL 1 TCSK0003
+GP 1 220 0
+GI 1 1 
+
+WVP 0 vfCCC3002kri018
+//霧「……は……はぁ……」
+Kiri: "...hah... haaah..."
+TP
+
+//とても嫌な汗をかいていた。
+She broke into some really nasty sweat.
+TP
+
+//太一「パラシュート・デス・センテンスを成立させるための時間は、わずか０．０５秒に過ぎない。ではここで、そのプロセスをもう一度見てみることに―――」
+Taichi: "To bring a Parachute Death Sentence into existence, the time taken is a mere 0.05" and no more. Therefore, let us now see the process for ourselves one more t---"
+//See CCA0006 and CCB2015 - that's 2x faster than Taichi's intercranial Ph*tosh*p and as fast as the summoning of the Harakiri Blade! Hmmm, 5+2 (the times he tries to go and do them) =7? OK, too forced. -GHS
+TP
+
+//霧ちんのスカートに手をかけた。
+I had laid my hands on Kiri-chin's skirt and,
+TP
+WVS 1 0
+GL 4 sgcc0013
+$CGsgcc0013 = 1
+GP 4 0 0
+GO 1 0
+GI 4 0
+WVP 2 SE106 1 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+//SEF 101 0
+WVP 1 bgm006.ogg 0 0 0
+
+WVP 0 vfCCC3002kri019
+//霧「ちぇやーーーーーーーーーーっ！！」
+Kiri: "CH'EYAAAAAAAAAAA!!!"
+//See CCB0006 (but not quite) -GHS
+TP
+
+WVP 0 vfCCC3002mki021
+//美希「久々に足技が出ましたぁぁぁぁ！」
+Miki: "First time in so long we've seen her foot techniiiiique!"
+TP
+
+//太一「ぎゃーーーーーーーーーーっ！！」
+Taichi: "G'hyaaaaaaaaaaa!!!"
+//Hmmm, don't see it in either of these. -GHS
+TP
+
+//踵落としが、途中で縦横無尽に軌道を変化させる。
+The dropped heel instills endlessly changing trajectories left and right as they please.
+TP
+
+//まさに蹴りの乱気流だった。
+It was definitely the turbulence of the kick.
+//Same term as PDS -GHS
+TP
+
+//太一「おおおおおおお……」
+Taichi: "Oooooooh..."
+//PCP CCA0015B
+//おx7, still -GHS
+TP
+WVP 0 vfCCC3002kri020
+//霧「あなたは異常です！！」
+Kiri: "You are abnormal!!!"
+TP
+
+//異常者扱いされた。
+Treated as one abnormal.
+TP
+
+//太一「いてて……」
+Taichi: "OwChCh..."
+TP
+GO 4 1
+WVP 0 vfCCC3002kri021
+//霧「行こう、美希！」
+Kiri: "Let's go, Miki!"
+//PCP CCA0015
+TP
+
+//プリプリ怒っている。
+She's in a real huff of a mood.
+TP
+
+//太一「……あーあ、行っちゃった」
+Taichi: "...aaah, ah, she's gone."
+TP
+
+GL 1 TCYM0001
+GP 1 180 0
+GI 1 1
+//HACK Miki doll fades in instead of popping. -GHS
+
+WVP 0 vfCCC3002mki022
+//美希「先輩のチャレンジ精神は尊敬します」
+Miki: "Your spirit of self-challenge is admirable, Senpai."
+TP
+
+//太一「うむ。人間いつ死ぬかわからないしね」
+Taichi: "Indeed. Humans don't know the moment of their death."
+TP
+
+//太一「まぁ、君らものびのびと生きなさい」
+Taichi: "Well, you guys should live at ease and carefree too."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC3002mki023
+//美希「うーす」
+Miki: "'essir."
+TP
+
+WVP 0 vfCCC3002mki024
+//美希「しかし……仲悪いですねぇ、お二人は」
+Miki: "Still... you get along bad, you two."
+TP
+
+//お互いに苦笑。
+Reciprocal bitter smiles.
+TP
+
+//太一「俺と霧とはミキミキを巡って恋のスキテキシュだからな」
+Taichi: "Because me and Kiri are Worthy Rivals of Love over you, Miki-Miki."
+//好敵手 -GHS
+TP
+
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC3002mki025
+//美希「そうですね。すごく好敵手ですよね」
+Miki: "That's right, yes. Really worthy rivals for sure."
+//She's using Kiri as the Dragon. -GHS
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//さらっと言われた。
+She said that very casually.
+TP
+
+WVP 0 vfCCC3002kri022
+//霧「美希！」
+Kiri: "Miki!"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC3002mki026
+//美希「ほーい。じゃせんぱい、またまたいつか」
+Miki: "Yeeeesh. Well, Senpai, someday someday see you again!"
+//いつか、わたし -GHS
+TP
+
+//にぎにぎと挨拶を返す。
+I return a merry greeting.
+TP
+GO 1 1
+//美希は走って、霧に並んだ。
+Miki ran over then lined up with Kiri.
+TP
+
+WVS 1 1
+
+RET

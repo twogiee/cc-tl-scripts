@@ -1,0 +1,505 @@
+
+
+
+
+
+My hand naturally stretched toward the smiling girl's skirt. 
+//CP_S cca0009b
+TP
+
+I must have penetrated a blind spot, because Miki neither budged nor lost her smile. 
+//CP_F
+TP
+
+WVP 2 SE072 1 0
+*creak*
+TP
+
+For some reason I heard a door opening.
+TP
+GL 0 evcc0021a
+$CGevcc0021a = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+
+The truth was, to the 2.5 billion (currently three) men on Earth, that was an unlocked, mystic door.
+TP
+
+A secret domain only allowed to be peeked upon by that portion of humanity kicked into the floor or ground by an unhappy destiny.
+TP
+
+But, while it was such a priceless thing, it was also the entrance that all cherry teens had to pass through in order to become sweet or sour binding young adults.
+//SOS?
+//I think he's referring to seeing her vaginial entrance - Sheeta
+TP
+
+However, that door was not a rectangular one, rather it was a triangular one (alol).
+*alol = Taichi's notation. A subtype of (lol). It refers to an American style laugh.
+TP
+
+
+
+Americans always laugh after telling a joke (no matter how bad it is!), and because they have truly bizarre habits, this laugh is also naturally used after particularly distasteful blathering with the unthinkable intent of being masochistic.
+TP
+
+
+WVP 0 vfcca0009bmki000
+Miki: "......crap." 
+//CP_S
+TP
+
+Her lips maintained a smile as they tightened.
+TP
+
+Taichi: "Sorry, my hand unconsciously-"
+TP
+
+WVP 0 vfcca0009bmki001
+Miki: "No, that was my fault for being careless."
+TP
+
+
+Taichi: "Umm, it may not be my place to say this......but that lingerie is very sexy. Onii-chan is really surprised, in a good way." 
+//PCP
+TP
+
+WVP 0 vfcca0009bmki002
+Miki: "I'm sorry to trouble you, but when might your hand come off me?" 
+//CP_F
+TP
+
+Taichi: "Th-, that, that underwear, Miki's clean, underwear!, delta, clean, body is honest, color! Tightly covering! Like this! Kitten-chan is!"
+TP
+
+My thoughts scattered into a thousand pieces.
+//Sounds better imo - Sheeta
+TP
+
+WVP 0 vfccb0008bmki000
+Miki: "Now, wouldn't any more of that be mentally dangerous?"
+TP
+
+
+
+Taichi: "No, it's impossible. This hand has fossilized as if it's no longer mine. This cannot be opened and closed as easily as a child opening his front door with copies of the house key."
+//SOS, since I don't know if we can use the term "latchkey kid" without risking even greater confusion. Å`IX
+//Latchkey is acceptable, but this works, too. - pondrthis
+TP
+
+Taichi: "Still......it's beautiful."
+TP
+
+WVP 0 vfccb0008bmki001
+Miki: "Ha, I'm grateful for those words. I'd be much obliged if you could let go of me right about now."
+TP
+
+Taichi: "No figurine will ever be able to reproduce this lifelike freshness. Not even Sakakibara Kiyoshi, who remains a professor despite being a first rate modeler whose very name sends shockwaves through the bishoujo figurine world, would be able to make one!" 
+//I can't find anything on this guy (çÂå¥Å@åâ), other than online university records confirming he's a real professor. Believe it or not, he teaches a "life skills and physical health course" (no idea how I should really tl that) at Joetsu University. If anyone can find something on his figurines, I'd be grateful. Å`IX
+TP
+
+WVP 0 vfccb0008bmki002
+Miki: "......I'll kill you."
+TP
+
+Taichi: "Hiiiiiii! Are those eyes serious!?"
+TP
+
+
+GL 0 bgcc0008
+GS 0 1
+SEF 109 0
+They were the eyes of a hunter.
+TP
+
+I let go.
+TP
+
+Taichi: "Ah, but you see, you are wearing something very adult right now."
+TP
+
+I changed to keigo.
+IF $tlnote != 0 (TL note: "Keigo" = "polite speech." This refers to specific sets of particles and verb forms nonexistent in English, so it's hard to see it in translation.)
+TP
+GL 1 TCYM0021
+GI 1 1
+
+WVP 0 vfccb0008bmki003
+Miki: "......yeah, well..."
+TP
+
+Miki blushed a little.
+TP
+
+WVP 0 vfccb0008bmki004
+Miki: "Well, there's no water, so I can't do any laundry."
+TP
+
+WVP 0 vfccb0008bmki005
+Miki: "And there are new pairs in the stores."
+TP
+
+And they're free.
+TP
+
+Taichi: "So......you came here with a sexy pair you normally couldn't buy?"
+TP
+
+WVP 0 vfccb0008bmki006
+Miki: "......yes."
+TP
+
+Hmmm.
+TP
+
+Just how should I tell her?
+TP
+
+Is it something I should just leave alone?
+TP
+
+Taichi: "Uh, you know, Miki-rin."
+IF $tlnote != 0 (TL note: "-rin" is another of those cutesy honorifics used exclusively between girls. Taichi is, in fact, breaking convention here.)
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb0008bmki007
+Miki: "I'm Miki-rin. What is it?"
+TP
+
+Taichi: "That underwear......I happen to know a little about it..."
+TP
+
+Taichi: "Uhhhh..."
+TP
+
+Taichi: "You know, it's called toy underwear. Also known as open shorts or honey shorts."
+TP
+
+
+WVP 0 vfccb0008bmki008
+Miki: "Ha?"
+TP
+
+Taichi: "Ummm, for adults, it's a toy, it's underwear..."
+TP
+
+I put my fingers together nervously.
+TP
+
+Taichi: "I mean to say......well in other words, it has a slit in a secret location so that you can have sex without taking it off."
+TP
+
+Taichi: "These could be called a kind of shortcut!"
+TP
+
+I raised my index finger and shot her a perfect smile.
+TP
+
+And,
+TP
+
+WVP 0 vfccb0008bmki009
+Miki: "........................"
+TP
+GO 1 1
+
+WVP 2 SE073 1 0
+*tap* *tap* *tap* *tap* *tap* *tap* *tap* *tap* *tap!*
+SEF 101 0
+TP
+
+
+She ran away.
+TP
+
+She disappeared into the bathroom for a minute.
+TP
+WVP 2 SE073 1 0
+She came back.
+TP
+GL 1 TCYM0004
+GI 1 1
+
+WVP 0 vfccb0008bmki010
+Miki: "Th-th-th-this-this-this-this---!?"
+TP
+
+Taichi: "I think you probably procured that underwear from Atomic Goods (the old Kimura variety store), since they sell normal and adult underwear right next to each other. Isn't it right next to the housing development? That's why their lineup is aimed at young housewives."
+TP
+
+Taichi: "I shop at that store all the time."
+//"Use" is a weird verb to use there.-Spin
+TP
+WVP 2 SE100 1 0
+
+My teeth sparkled as I gave a thumbs-up.
+TP
+
+WVP 0 vfccb0008bmki011
+Miki: "Uhiiiii!!?"
+SEF 101 0
+TP
+
+She pushed down firmly on her crotch from the front and behind.
+TP
+
+Taichi: "Calm down."
+TP
+
+Taichi: "But if you coincidentally encountered a molester while wearing that, it might be problematic."
+TP
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfccb0008bmki012
+Miki: "Fuwawawawa."
+TP
+
+Miki pushed against her crotch and shuffled her feet together.
+TP
+
+Taichi: "......now then."
+TP
+
+Taichi: "I wonder what would happen if Kiri-chin were to find out about this."
+TP
+
+I sucked on a fictional cigarette.
+TP
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfccb0008bmki012-2
+Miki: "Na! Sempai, you wouldn't?!"
+TP
+
+Taichi: "If that fastidious Kiri were to know...uhi!"
+TP
+
+Taichi: "Would The Flowers break up?"
+TP
+
+GL 1 TCYM0041
+GI 1 0
+
+WVP 0 vfccb0008bmki013
+Miki: "Nyagoo!?"
+TP
+
+She clung to my sleeve.
+TP
+
+Taichi: "......to think Miki-Miki was wearing such perverted underwear. It's simply unclean."
+TP
+
+Taichi: "There will be no trading of lunches."
+TP
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfccb0008bmki014
+Miki: "Anything but that!"
+TP
+
+Taichi: "Then will you listen to my demands!?"
+TP
+
+WVP 0 vfccb0008bmki015
+Miki: "If it's something other than giving up my virginity..."
+TP
+
+Taichi: "Very well. Then I command you."
+TP
+
+I placed my hand on her head.
+TP
+
+Miki shook slightly,
+TP
+
+But didn't resist.
+TP
+
+Taichi: "To do cleaning."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfccb0008bmki016
+Miki: "......{ae}?"
+//Yes, she used the feudal hiragana again. Same one from Taichi's diary. Å`IX
+TP
+
+Taichi: "No, I can hit two birds with one stone."
+TP
+
+Taichi: "Cleaning, or rub-rub!?"
+//Alternate adaptation suggestions are VERY welcome. Actually coming up with an English equivalent for this made me feel dirty. Å`IX
+TP
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfccb0008bmki017
+Miki: "Rub-rub is...?"
+TP
+
+Taichi: "Yes, rub-rub is......"
+TP
+WVP 2 se100 1 0
+IF $nonero == 1 GL 5 bgcc0022a
+//Finally solved the "That damned flashing hcg" issue.
+IF $nonero == 0 GL 5 i0034
+GI 5 0
+GS 5 0
+SEF 109 0
+Taichi: "This sort of conduct."
+TP
+
+Taichi: "Sticking your face between someone's legs, then rubbing, and rubbing......"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfccb0008bmki018
+Miki: "That's 'petting!'"
+IF $tlnote != 0 (TL note: Like 'play,' this word, when borrowed from English, has a strong sexual connotation.)
+TP
+
+WVP 0 vfccb0008bmki019
+Miki: "Don't call it something cute like rub-rub! It's 'petting!'"
+TP
+
+Taichi: "Oh, I so want to rub-rub you."
+TP
+
+GL 1 TCYM0041
+GI 1 0
+WVP 0 vfccb0008bmki020
+Miki: "Noooo! I don't wanna be rub-rubbedddddd!!!"
+TP
+
+Taichi: "Will you be hated by Kiri, or will you be rub-rubbed!? Will it be war, or peace!?"
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfccb0008bmki021
+Miki: "Yes, umm, you mentioned cleaning? Could I just do cleaning?"
+TP
+
+She raised her hand with teary eyes.
+TP
+
+Taichi: "Hmph. So you're going to choose cleaning?"
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb0008bmki022
+Miki: "Cleaning......you mean just normal cleaning, right?"
+TP
+
+Taichi: "No, there's no mistake that it's cleaning, but the places you'll wash......huhuhu."
+TP
+GO 1 1
+WVP 0 vfccb0008bmki023
+Miki: "End of chastity."
+TP
+
+Miki stooped forward.
+TP
+
+WVP 0 vfccb0008bmki024
+Miki: "The wind speaks to me. Short but seemingly long virgin days. Today, I take one step toward becoming an adult. The form I least wish for---"
+TP
+
+She read the narration for a fictional television program.
+TP
+
+Taichi: "I was kidding."
+TP
+
+GL 1 TCYM0002
+GI 1 1
+
+WVP 0 vfccb0008bmki025
+Miki: "Egu-egu, please, at least be gentle......"
+TP
+
+Taichi: "I said I was kidding."
+TP
+
+Taichi: "Here's your mop."
+TP
+
+I handed it over.
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb0008bmki026
+Miki: "......?"
+TP
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfccb0008bmki027
+Miki: "Mop 'play?'"
+TP
+
+Taichi: "You'd do well to avoid the erotic."
+TP
+
+Miki was still looking at me blankly.
+TP
+
+Taichi: "Weren't you cleaning?"
+//I don't know if you can "do" cleaning.-Spin
+TP
+
+She nodded.
+TP
+
+Taichi: "Well then, make haste to continue your cleaning."
+TP
+
+Taichi: "As you will."
+//Just a suggestion, the other one was okay as it was. - pondrthis
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb0008bmki028
+Miki: "Haa......"
+TP
+
+WVP 0 vfccb0008bmki029
+Miki: "Thank you."
+TP
+
+I did nothing.
+TP
+
+She only burned herself down then pulled herself back up.
+//Is this like this on purpose, or did someone just forget to add a comma before 'then'? -VDZ
+TP
+
+Taichi: "I give you permission to fall in love with I, Kurosu Taichi."
+//kk I guess I'm going to stop correcting "I" since it's in here a lot - pondrthis
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfccb0008bmki030
+Miki: "I nullify your petition."
+TP
+
+Taichi: "Goddamn!"
+//Yes, he said this in English. Å`IX
+TP
+RET

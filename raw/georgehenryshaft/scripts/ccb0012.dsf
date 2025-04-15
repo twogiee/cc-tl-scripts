@@ -1,0 +1,234 @@
+WVP 1 bgm016.ogg 0 0 0
+
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+//HACK flashback exit whiteout -GHS
+
+GL 0 bgcc0004b
+GS 1 0
+GS 0 1
+SEF 109 1
+//HACK different fade in due to above. -GHS
+
+TWS 0
+//HACK ADV mode, to restore it from the previous script (looks bad if it's done before) -GHS
+
+//太一「ふう」
+Taichi: "Whew."
+//CP CCA0012
+TP
+
+//テーブルの上に、メモが置かれていた。
+On the table was laid a memo.
+//CP CCA0012
+TP
+
+
+//『夕食あるかも』
+> 
+ 
+                 『There's dinner perhaps』
+//CP CCA0012
+TP
+
+
+//太一「わーい、行く行くー」
+Taichi: "Weeee, I'm coming I'm comiiing!"
+//CP CCA0012
+TP
+
+//自分で用意しないですんだ。
+I don't need to make it myself then.
+//CP CCA0012
+TP
+
+//三分で着替えると、いそいそと彼女の家に向かうのだった。
+I changed my clothes in three minutes then cheerfully headed towards her house.
+//CP CCA0012
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+//夕食は、おいしゅうございました。
+'Twas a most pleasingly delicious dinner.
+//CP CCA0012
+TP
+
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 109 0
+
+
+//蝋燭に火をつける。
+I ignite a candle.
+//CP CCA0012
+TP
+
+//独特の輝きが、室内を照らす。
+A very peculiar radiance illuminates the room.
+//CP CCA0012
+TP
+
+//蝋燭が好きだった。
+I loved candles.
+//CP CCA0012
+TP
+
+//生の火に、強く惹かれた。
+Their raw flame captivated me so strongly.
+//CP CCA0012
+TP
+
+//こうしてぼんやりと揺らめく炎を見ていると、心が囚われて、いつまでもいつまでもまどろんでいることができた。
+When I looked at the flickering flame swaying so absentmindedly, my heart was enraptured and I could just doze off endlessly, endlessly.
+//CP CCA0012
+TP
+
+//以前、それで前髪を焦がしたこともある。
+Once, I even singed my bangs in it because of that.
+//CP CCA0012
+TP
+
+//ぶっちゃけ三分前のことだ。
+OK, that was like three minutes ago.
+//CP CCA0012
+TP
+
+//太一「……焦げた……ちくせう」
+Taichi: "...singed... dammit."
+//CP CCA0012
+TP
+
+//泣きそう。
+It's to cry.
+//CP CCA0012
+TP
+
+//とにかく日記だ。
+Anyway, to the diary.
+//CP CCA0012
+TP
+
+//分厚い日記帳を開く。
+I open the thick diary book.
+//CP CCA0012
+//Second of three mentions of this. -GHS
+TP
+
+
+GL 1 zzzblackblend
+GP 1 0 0
+GI 1 1
+//HACK dim BG -GHS
+
+
+
+//人生の記録は、大切だよな。
+The records of life are really precious.
+//CP CCA0012
+TP
+
+//学校に行った。
+I went to school.
+TP
+
+GL 5 zzzCCA0012touko
+GI 5 1
+//HACK Touko pic. 
+
+//人がいないのにと思ったが、皆は来ていた。 授業など行われるはずもないので、ぶらぶらした。
+I believed that everyone would come, even if there were no people. Expectably, there were no classes held or anything, so I just hung out.
+TP
+
+//冬子がやけにつんけんしていた。
+Touko was extremely crabby and mean.
+//CP CCA0012
+//状況がつかめず、カリカリしているのだろう。
+She doesn't understand the situation, and seems all grumpy-grump and irritated.
+TP
+
+GL 5 zzzCCB0012misatoroof
+GI 5 1
+//HACK Misato rooftop pic -GHS
+
+
+//屋上ではみみ先輩が部活。
+On the rooftop, Mimi-senpai was having activities.
+//放棄されていたアンテナを組み立てていた。
+She was putting together the antenna that had been abandoned there.
+TP
+
+//単純に据え置きで組み上がっていくものでもない。
+That's not a simple assembly we're talking about here.
+//大変な作業だ。
+It's really hard work.
+//けどその大変さが、先輩を救う。
+But that hard work is Senpai's salvation.
+//Cough cooough. -GHS
+TP
+
+GL 5 zzzCCA0012miki
+GI 5 1
+//HACK BG with Miki pic. -GHS
+
+
+
+//廊下を歩いていると、美希が掃除をしていた。
+I was walking down the corridor to find Miki cleaning.
+//CP CCA0012
+//先輩に部活があるように、美希には掃除があるのだろうか？
+Is cleaning to Miki what club is to Senpai, I wonder?
+//See CCB0007. She has read this line. -GHS
+//わからない。
+I don't know.
+TP
+
+//人類滅亡という危機的状況が美希を覚醒させたのか。
+Has the desperate situation that is the Fall of Mankind awakened her somehow?
+//俺はとうとう美希に一本取られてしまった。
+Miki at last gained one point over me.
+//これはゆゆしき問題ですぞ、校長！
+This is a most alarming problem, Headmaster!
+//CP CCA0012
+TP
+
+//だが弟子が腕をあげたことは、素直に嬉しい。
+However, a pupil growing in skill is something to be honestly happy about.
+//CP CCA0012
+//師である俺が抜かれる日は近い。
+The day when she surpasses I, her mentor, grows near.
+//CP CCA0012
+TP
+
+
+GL 0 bgcc0000d
+GS 5 0
+//HACK disarm new stuff -GHS
+GS 0 1
+SEF 109 0
+WVS 1 1
+//HACK also move the music fadeout earlier -GHS
+
+//他にもいろいろとあったが、全体的に良い日だった。
+And lots of other stuff happened, so overall it was a good day.
+//CP CCA0012
+TP
+
+//WVS 1 1
+//HACK assuming it was copypastad from an earlier version of the script -GHS
+
+WT 500 0
+WT 500 1
+
+
+RET

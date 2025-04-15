@@ -1,0 +1,222 @@
+
+GL 0 bgcc0008a
+GS 1 0
+GS 0 1
+SEF 152 0
+
+
+
+WVP 1 bgm003.ogg 0 0 0
+
+
+As I returned from the bathroom,
+TP
+
+I bumped into Tomoki.
+TP
+
+Taichi: "Tomokiiiii."
+TP
+GL 1 TCST0000b
+GP 1 190 0
+GI 1 1
+
+
+WVP 0 vmccb2006yki000
+Tomoki: "Taichi."
+TP
+
+Taichi: "Wahaha, I ended up cutting class. These hallways feel like their own little world during class time."
+TP
+GL 1 TCST0003b
+GI 1 0
+
+WVP 0 vmccb2006yki001
+Tomoki: "Stop that, it's futile......"
+TP
+
+Tomoki seemed dejected.
+TP
+
+Taichi: "Our negotiations have truly stalled."
+TP
+
+GL 1 TCST0000b
+GI 1 0
+
+WVP 0 vmccb2006yki002
+Tomoki: "Taichi, you really are easygoing."
+TP
+
+WVP 0 vmccb2006yki003
+Tomoki: "I can't read Saikoman anymore."
+TP
+
+A dry laugh.
+TP
+
+Taichi: "......I see."
+TP
+
+I can no longer read ahead of him and tell him what happens next.
+TP
+GL 1 TCST0004b
+GI 1 0
+
+WVP 0 vmccb2006yki004
+Tomoki: "So, what'd you come to school for?"
+TP
+
+Taichi: "For one like myself who possesses an Innocence License, I am autonomically drawing out my mental void by repeating such forces of habit as going to school, for the sole purpose of acting out the subtleties of a fragile teenage heart left behind in the world."
+TP
+GL 1 TCST0005b
+GI 1 0
+
+WVP 0 vmccb2006yki005
+Tomoki: "That thought's full of radical teenage ideas."
+TP
+
+GL 1 TCST0000b
+GI 1 0
+
+WVP 0 vmccb2006yki006
+Tomoki: "There are still a lot of hot-blooded Koshieners out there."
+IF $tlnote != 0 (TL note: This is a reference to fans of the Hanshin Tigers baseball team, which plays in the Hanshin Koshien Stadium.)
+TP
+
+Taichi: "Ah, to the people calling themselves post-modern, those Koshieners would be seen as humans who aren't worth observing."
+TP
+
+I flapped my hands.
+TP
+GL 1 TCST0005b
+GI 1 0
+
+WVP 0 vmccb2006yki007
+Tomoki: "Ahahahaha, you really said that."
+TP
+
+Taichi: "Don't you mean, 'Wahahahaha?'"
+TP
+
+Dark humor.
+TP
+
+Sharp-tongued Tomoki likes that stuff.
+TP
+GL 1 TCST0000b
+GI 1 0
+WVP 0 vmccb2006yki008
+Tomoki: "Thanks Taichi, I haven't laughed in a while."
+TP
+
+Taichi: "It is a pleasure to be of service."
+TP
+
+Taichi: "How's the club?"
+TP
+GL 1 TCST0005b
+GI 1 0
+WVP 0 vmccb2006yki009
+Tomoki: "It's doing well, now that the Grand King of Snack Stealing is no longer participating."
+//Noticing how we've capitalized a lot of other similar things, might as well do this as well.-Spin
+TP
+
+Taichi: "......hahaha..."
+TP
+
+He means me.
+TP
+GL 1 TCST0004b
+GI 1 0
+WVP 0 vmccb2006yki010
+Tomoki: "Taichi's ought to be ready by tomorrow."
+//This line was so vague in Japanese I'm not actually sure if I was right in assuming he means the club. QC people will have to check if this is the day before the broadcast. Å`IX
+//In any case, this isn't good for an adaptation. Once we decide what he's actually saying (I think he means Taichi's script should be prepared for tomorrow), we can adapt accordingly. - pondrthis
+TP
+
+Taichi: "Understood. Thank you."
+TP
+GL 1 TCST0000b
+GI 1 0
+WVP 0 vmccb2006yki011
+Tomoki: "No problem."
+TP
+
+GL 1 TCST0004b
+GI 1 0
+
+WVP 0 vmccb2006yki012
+Tomoki: "Friendship asks for-"
+TP
+
+Taichi: "Nothing at all."
+//Changed for consistency, this is what was always said.
+TP
+
+We both presented sultry smiles, white teeth and raised thumbs.
+TP
+
+GL 1 TCST0000b
+GI 1 0
+
+WVP 0 vmccb2006yki013
+Tomoki: "About that......"
+TP
+
+WVP 0 vmccb2006yki014
+Tomoki: "Will you be coming to our club?"
+TP
+
+Taichi: "No, my participation was denied since I'm the Grand King of Snack Stealing......and I believe you're the one who renounced me."
+//Too many "refused."-Spin
+TP
+
+
+WVP 0 vmccb2006yki015
+Tomoki: "No, it wasn't me."
+TP
+
+For a moment, he hesitated to say it.
+TP
+GL 1 TCST0004b
+GI 1 0
+
+WVP 0 vmccb2006yki016
+Tomoki: "......it was from the roof."
+TP
+
+Taichi: "Aaah, so it was Mimimi-sempai..."
+TP
+
+Taichi: "Yeah, she doesn't come that much......a lot happened."
+//This one's also vague, in that I can't tell where she isn't going a lot. Due to the piecemeal nature of these scripts, I can't tell if it's a valid statement to make about the broadcasting club with Taichi. Again, we'll have to debate this one later. Å`IX
+TP
+
+WVP 0 vmccb2006yki017
+Tomoki: "I see......"
+TP
+
+
+WVP 0 vmccb2006yki018
+Tomoki: "Well, that might be for the best."
+TP
+GL 1 TCST0000b
+GI 1 0
+
+WVP 0 vmccb2006yki019
+Tomoki: "......yeah, for the best."
+TP
+GO 1 1
+
+Tomoki turned around and walked away.
+TP
+
+He was acting strange.
+TP
+WVS 1 1
+
+I wonder why...
+TP
+
+RET

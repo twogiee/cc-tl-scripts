@@ -1,0 +1,376 @@
+
+GL 0 bgcc0005
+GS 0 1
+GS 1 0
+SEF 152 0
+
+I met Yuusa-chan a lot on this road.
+TP
+
+She really got attached to me.
+TP
+
+She was a ticklish existence.
+TP
+
+As much as I could, I was making great efforts.
+TP
+
+Yuusa-chan's existence healed me well.
+TP
+
+But now, she's not here.
+//With the music and all, a sadder tone here makes it sound better. It really does make sense since Sakuraba appears next and the music stops but then plays a more comical sounding piece.-Spin
+TP
+
+GL 1 TCSH0000
+GP 1 190 0
+GI 1 1
+
+WVP 0 vmCCC0025sku000
+Sakuraba: "Yo."
+TP
+
+WVS 1 1
+
+It was Sakuraba.
+TP
+
+Taichi: "Yo."
+TP
+
+WVP 0 vmCCC0025sku001
+Sakuraba: "I'm hungry."
+TP
+
+Taichi: "You're not eating?"
+TP
+
+GL 1 TCSH0003
+GI 1 0
+
+WVP 0 vmCCC0025sku002
+Sakuraba: "I'm preparing for first period class."
+TP
+
+WVP 1 bgm010.ogg 0 0 0
+
+Taichi: "......is eating curry bread your class?"
+TP
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCC0025sku003
+Sakuraba: "Until the day curry bread is no more."
+TP
+
+Sakuraba decided coolly.
+TP
+
+Taichi: "Can't you just eat instant curry?"
+TP
+
+GL 1 TCSH0000
+GI 1 0
+WVP 0 vmCCC0025sku004
+Sakuraba: "I hate curry."
+TP
+
+Taichi: "........................"
+TP
+
+This guy really is......an enigma......
+TP
+
+Why did he go out of his way to come here?
+TP
+
+It's not like his adaptation coefficient forced him.
+TP
+
+He must've pressured them with his father's 'resources'......
+//That definitely sounds better with some kind of quotation mark.-Spin
+TP
+
+Taichi: "Meaningless."
+TP
+
+WVP 0 vmCCC0025sku005
+Sakuraba: "Nn?"
+TP
+
+Taichi: "I just comprehended how meaningless your existence is."
+TP
+
+GL 1 TCSH0003
+GI 1 0
+WVP 0 vmCCC0025sku006
+Sakuraba: "What?......Pops used to say that I was the world itself you know?"
+//Even with it following ellipsis it's clearly a brand new sentence.  Also, proper noun replacement.  If I'm wrong, revert. ~Balcerzak
+TP
+
+Taichi: "Your 'pops' was far too coddling!"
+TP
+
+GL 1 TCSH0000
+GI 1 0
+WVP 0 vmCCC0025sku007
+Sakuraba: "A mysterious way to put it......"
+TP
+
+Taichi: "Combat's disappearance will be mourned."
+TP
+
+WVP 0 vmCCC0025sku008
+Sakuraba: "Hu......thanks to that, I can go to school in peace."
+TP
+
+Taichi: "Put more effort into things. Buy some effort with that money of yours. Then, after making an effort, take some damage for once."
+TP
+
+WVP 0 vmCCC0025sku009
+Sakuraba: "A distressing order."
+TP
+
+Sakuraba and I walked to school.
+TP
+
+Then,
+TP
+
+WVP 0 vmCCC0025sku010
+Sakuraba: *hekkusu!!*
+GO 1 1
+TP
+
+Taichi: "A hexagon!?"
+TP
+
+WVP 0 vmCCC0025sku011
+Sakuraba: "*sniffle*......a summer cold?"
+TP
+
+It was a sneeze.
+TP
+
+WVP 0 vmCCC0025sku012
+Sakuraba: "Muu."
+TP
+
+Sakuraba's eyes filled with slight surprise over what he was gazing at.
+TP
+
+
+A bridge had been built between me and Sakuraba.
+//PCP_S
+TP
+
+
+One end on my uniform, right around the stomach.
+TP
+
+The other end was Raba's nose.
+//PCP
+TP
+
+In other words,
+//CP_F
+TP
+
+WVP 0 vmCCC0025sku013
+Sakuraba: "Hu!......"
+TP
+
+He laughed invincibly.
+TP
+
+
+A bridge of mucus.
+//CP_S
+TP
+
+
+That high viscosity fluid,
+TP
+
+
+streeeeetched
+TP
+
+
+into a suspension bridge.
+TP
+
+This is my reasoning:
+TP
+
+At the moment of the sneeze, a mucus bullet fired faster than the Shinkansen (that's true) hit my uniform.
+TP
+
+The boy who formed a bullet from that strongly adherent fluid tried to suck it back into his nostrils, and instead of snapping as one would expect, the junction was lucky enough to hold together and form a bridge.
+//Wouldn't it be 'the boy' since we're talking about Sakuraba here? - Sheeta
+// I think that as well, i'm changing it.
+TP
+
+Sakuraba: "............"
+TP
+
+He finally seems to have understood his situation.
+//PCP_F
+TP
+
+He made a refreshed face.
+TP
+
+He didn't move at all.
+TP
+
+Right now, he's probably thinking about how refreshed his nose must feel now......or something like that. I'd bet money on that.
+TP
+
+Taichi: "Hey......mucus guy."
+TP
+
+I conferred an infantile nickname upon him.
+TP
+
+WVP 0 vmCCC0025sku015
+Sakuraba: "Nnaaa?"
+TP
+
+Does this result from the utmost laxity?
+TP
+
+Sakuraba was bouncing.
+TP
+
+You-!
+TP
+
+I have to plant some new traumas on this brat.
+//PCP
+TP
+
+He needs to come a little closer to being a Gunjou kid.
+TP
+
+My Atlantean blood boiled.
+TP
+
+I calmly took out my handkerchief, faster than Sakuraba could react.
+//PCP_S
+TP
+
+First, I covered Sakuraba's nose with it.
+//PCP_F
+TP
+
+WVP 0 vmCCC0025sku016
+Sakuraba: "......uyu?"
+TP
+
+He gave off a damned disgusting moe voice.
+TP
+
+After severing the base, I alternated several times between wiping his nose and folding my handkerchief.
+//CP_S
+TP
+
+Then I retrieved the mucus bridge and lightly wiped my own uniform.
+TP
+
+Then I returned the handkerchief to my pocket. At least, I tried to, before shoving it in Sakuraba's face.
+//PCP_F
+TP
+
+GL 1 TCSH0000
+GI 1 1
+WVP 0 vmCCC0025sku017
+Sakuraba: "Oooooooooo!!?"
+TP
+
+Taichi: "Nnn?"
+TP
+
+GL 1 TCSH0003
+GI 1 0
+WVP 0 vmCCC0025sku018
+Sakuraba: "Isn't......that......a little......dirty?"
+TP
+
+Taichi: "It's fine."
+//CP_S
+TP
+
+I smiled cheerfully.
+//CP_F Anyone noticing how much I'm blowing off work this way? It's so easy. Å`IX
+TP
+
+Taichi: "Since it's you."
+TP
+
+I rubbed it into him.
+TP
+
+WVP 0 vmCCC0025sku019
+Sakuraba: "Ou-ou-ou-ou."
+TP
+
+Rub, rub, rub, rub.
+TP
+
+
+WVP 0 vmCCC0025sku020
+Sakuraba: "Ou-ou-ou-ou."
+TP
+
+You could call it a scene from hell.
+TP
+
+Taichi: "This isn't a handkerchief that someone as cute as me can use right after getting into bed crying."
+TP
+
+I informed him in a blackish tone of voice.
+TP
+
+WVP 0 vmCCC0025sku021
+Sakuraba: "......!!!!"
+TP
+
+Sakuraba's body shook.
+TP
+
+The sensation of a viscous fluid must've shorted out his brain.
+TP
+GO 1 1
+With the handkerchief stuck to his face, he fell to the ground.
+TP
+
+Taichi: "Sneezing hexagonally is fine, but you should be careful about summer colds, Sakuraba-kun."
+TP
+
+I ground his head into the pavement with my foot, then started walking again.
+TP
+
+Taichi: "Seriously......"
+TP
+
+GL 1 TCSH0000
+GI 1 1
+WVP 0 vmCCC0025sku022
+Sakuraba: "I was able to make another memory with you."
+TP
+
+He walked beside me calmly.
+TP
+
+Taichi: "Take a little damage!!"
+TP
+
+I'd won Sakuraba's friendship with a single handkerchief.
+TP
+
+WVS 1 1
+
+
+RET

@@ -1,0 +1,298 @@
+
+GL 0 bgcc0010
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+SEF 152 0
+
+
+WVP 1 bgm007.ogg 0 0 0
+
+//友貴が、廊下側に張り出したカムフラージュを直していた。
+Tomoki was mending the camouflage posted towards the corridor.
+//See CCC0011A.　Very interesting HE'S mending it now. -GHS
+TP
+
+
+//太一「おーい」
+Taichi: "Heeey."
+TP
+
+
+GL 1 TCST0001
+GP 1 190 0
+GI 1 1
+
+WVP 0 vmCCD0001yki013
+//友貴「う、太一……」
+Tomoki: "Oh, Taichi..."
+TP
+
+
+//気恥ずかしげに、窓際から離れる。
+Seeming ashamed, he distances himself from the window.
+TP
+
+
+//部室類は、廊下側にも窓がはめ込まれている。
+Our club room has windows inlaid in the wall towards the corridor,
+TP
+
+
+//外から監視できるようにだ。
+so that surveillance is possible from the outside if required.
+TP
+
+
+//理由は推して知るべし。
+The reason is easy to guess.
+//Actually, given how regulations are next to ignorable in Gunjou, no, it's not easy to guess at all. -GHS
+TP
+
+
+//太一「……直したって意味ないんじゃ？」
+Taichi: "...but fixing this's meaningless, innit?"
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmCCD0001yki014
+//友貴「気になってさ。特に意味はないよ」
+Tomoki: "It just bothered me. Doesn't have to have meaning."
+//See CCA0029. Interesting progress. The problem with this is another: this is Monday. That thing's been draping off for how long now? And it didn't matter before. The reason would be simple: the Club Room isn't being used that much anymore, and it's been a while since it has been in use serious enough to need the camouflage. And the same is simply true now. -GHS
+TP
+
+
+//意味はない、か。
+Meaningless indeed, then.
+TP
+
+
+//確かにそうだ。実質的には。
+Certainly that is true... in the practical sense.
+TP
+
+
+//けど心の上では？
+But what about in the heart?
+TP
+
+
+GL 1 TCST0003
+GI 1 0
+WVP 0 vmCCD0001yki015
+//友貴「しっかし、本当に誰もいないね」
+Tomoki: "But really, there's seriously nobody."
+TP
+
+
+//太一「ああ、本当に八人だけみたいだ」
+Taichi: "Yep, it really looks like it's just us eight."
+TP
+
+
+WVP 0 vmCCD0001yki016
+//友貴「なにがなにやら……」
+Tomoki: "Something happened who knows what..."
+//Careful on the progress: "there's no one" could be in the club room. This one could be "yeah, there's nobody here". -GHS
+TP
+
+
+//友貴は、みみ先輩を恨んでいるんだったな。
+Tomoki was bearing a grudge on Mimi-senpai,
+TP
+
+
+//実の姉弟なのに。
+despite how they're blood-related siblings.
+//Like this. Why would he talk about Misato? Because that's who isn't in the room. -GHS
+TP
+
+
+//苗字が違うのは、いろいろ事情があるらしい。
+As to why their last name is different, there seem to circumstances of all sorts.
+TP
+
+
+//家庭の事情が。
+Family circumstances.
+TP
+
+
+//太一「昨夜のアレ、本気か？」
+Taichi: "That thing last evening, you serious?"
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmCCD0001yki017
+//友貴「ん？」
+Tomoki: "Hm?"
+TP
+
+
+//太一「食料問題を友貴が仕切るって」
+Taichi: "When you said that you'll take care of the food problem."
+TP
+
+GL 1 TCST0004
+GI 1 0
+
+WVP 0 vmCCD0001yki018
+//友貴「ああ、午後から動くよ。学校にはちょっと様子見に来ただけだし」
+Tomoki: "Yeah, I'll be getting to work after noon. I just came to school to see how's things a bit."
+TP
+
+
+//太一「食料か」
+Taichi: "Food, right."
+TP
+
+
+//必要ないものだ。
+It's something unnecessary,
+TP
+
+
+//どうせ一週間で世界は公転。
+for the world will be revolving in one week regardless.
+//Well, that takes 365 days and change, but... -GHS
+TP
+
+
+//仮に死んでも、取り返しはつく。
+Even supposing there's death, there will be recovery.
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+//ざわりと。心が。
+Discomfort. In the heart.
+TP
+
+
+//いかん……。
+Cut it out...
+TP
+
+
+//気を静めないと。
+For if I can't calm myself...
+TP
+
+
+//太一「友情は見返りを」
+Taichi: "Friendship demands..."
+//PCP CCA0019
+TP
+
+GL 1 TCST0006
+GI 1 0
+//HACK smirky Tomoki. This is not associated with a happy Tomoki, however. -GHS
+
+WVP 0 vmCCD0001yki019
+//友貴「求めない」
+Tomoki: "Nothing in return."
+//PCP CCA0019
+TP
+
+
+//ぐっ
+Tahm!
+//CP CCA0019
+TP
+
+
+//俺たちは親指を立てた。
+We stuck our thumbs up.
+//PCP CCA0019
+//No laughing... -GHS
+TP
+
+GL 1 TCST0003
+GI 1 0
+
+WVP 0 vmCCD0001yki020
+//友貴「……だから唐突」
+Tomoki: "...what's that all of a sudden."
+TP
+
+
+//太一「なあ友貴」
+Tomoki: "Say, Tomoki."
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmCCD0001yki021
+//友貴「ん？」
+Tomoki: "Hm?"
+TP
+
+
+//太一「みみ先輩と……ケンカしてるよな？」
+Taichi: "You're... fighting with Mimi-senpai, right?"
+TP
+
+
+WVP 0 vmCCD0001yki022
+//友貴「ああ……」
+Tomoki: "Yeah..."
+TP
+
+
+//太一「あれって、やっぱこんなご時世でも、続くのかな？」
+Taichi: "And is that going to go on even when the times are like this?"
+//NOBODY changes in this! -GHS
+TP
+
+
+WVP 0 vmCCD0001yki023
+//友貴「……別に」
+Tomoki: "...not really."
+TP
+
+//>かげ
+//翳る。
+Darkening.
+//CP CCC4022.
+TP
+GL 1 TCST0004
+GI 1 0
+
+WVP 0 vmCCD0001yki024
+//友貴「どうだっていいよ、あの人のことは」
+Tomoki: "I don't give a damn about that person there."
+TP
+
+
+//頑なな言葉。
+Stubborn words.
+//See CCC4025. Then again his insistent behavior (unless 'fixed' by Taichi) should make this obvious enough. -GHS
+TP
+
+
+//太一「マンガとかじゃ、そーいう諍いからいろいろ崩壊したりするんだけど」
+Taichi: "With manga and the like we've had quarrels that have led to all sorts of downfalls, though."
+TP
+
+GL 1 TCST0003
+GI 1 0
+//HACK actually do it -GHS
+
+
+//友貴はひどく、渋い顔をした。
+Tomoki made a grim, sullen face.
+TP
+
+WVS 1 1
+
+RET

@@ -1,0 +1,11 @@
+// システム予約済み変数
+NUM $C 0
+NUM $P 0
+NUM $END 0
+NUM $PMOVIE 0
+NUM $SYS_MOVIE 0
+
+// 以降に変数定義
+NUM $WORK 0
+
+NUM $nonero 0

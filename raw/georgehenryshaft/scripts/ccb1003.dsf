@@ -1,0 +1,471 @@
+
+
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+WVP 1 bgm003.ogg 0 0 0
+
+
+
+
+WVP 0 vfcca0015mki000
+//美希「あ、先輩ー」/*
+Miki: "Ah, Senpaaai!"
+//CP CCA0015
+TP
+
+GL 1 TCYM0000
+GP 1 180 0
+GI 1 1
+//HACK doll later -GHS
+
+
+//太一「よっす」
+Taichi: "Howsit."
+//CP CCA0015
+TP
+
+//壁に寄りかかって所在なげにしている美希と遭遇。
+A random encounter with Miki leaning against the wall, idling.
+//CP CCA0015
+TP
+
+//美希は見た感じ、それほどショックを受けていない。
+The impression that I got from looking at Miki was that she was not particularly shocked by all this.
+TP
+
+//そう振る舞っているのだろうけど。
+But it's probably her just acting like that.
+TP
+
+//太一「ちゃんと食べてるか？」
+Taichi: "Have you been eating properly?"
+//PCP CCA0014A
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfccb1003mki000
+//美希「は、部活のおかげでなんとか」
+Miki: "Sah! Thanks to club, somehow."
+TP
+
+//太一「……もういっこの部活な」
+Taichi: "...that one more club innit."
+TP
+
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb1003mki001
+//美希「はい」
+Miki: "Yes."
+TP
+
+//正式名称・生命維持活動部だ。
+Formal name: Life Maintenance and Improvement Club.
+//vs. 生存部 = Survival Club & whatever Taichi decides to call it today. -GHS
+TP
+
+//太一「……霧ちんも参加してるんだよな」
+Taichi: "...Kiri-chin's also a member there, right."
+TP
+
+GL 1 TCYM0011
+GI 1 0
+
+WVP 0 vfccb1003mki002
+//美希「はい。立派です」
+Miki: "Yes. A splendid one."
+TP
+
+//太一「うむ、立派だ」
+Taichi: "Indeed, splendid."
+TP
+
+
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfccb1003mki003
+//美希「先輩が参加してないのが不思議ですね」
+Miki: "Very strange that you are not participating, Senpai."
+TP
+
+//太一「んー、そら君。霧ちんは俺のこと―――」
+Taichi: "Ngh, c'mon you. Kiri-chin and me, we---"
+TP
+
+//と話していると、霧ちんがトイレから出てきた。
+And on talking about her, Kiri-chin came out of the toilet.
+TP
+
+
+GL 2 TCSK0002
+GP 2 0 0
+GP 1 280 0
+GS 1 1
+GS 2 1
+SEF 109 0
+//HACK Kiri and Miki at the same time -GHS
+
+
+//太一「トイレ流したか？」
+Taichi: "Did you flush?"
+//Remember, no running water. -GHS
+TP
+
+
+GL 1 TCYM0041
+GI 1 0
+
+WVP 0 vfccb1003mki004
+//美希「きききき禁断の問いをーっ！？」
+Miki: "Th-th-th-th-that's the forbidden question!?"
+TP
+
+GL 2 TCSK0021
+GI 2 0
+//GS 1 1
+//GP 1 220 0
+//SEF 109 0
+//HACK doll here, still Miki onscreen -GHS
+
+//ギリッ
+Gryyyt.
+TP
+
+//霧は歯ぎしりした。
+Kiri seems to have a bit of bruxism.
+//Most vexing, verily. *tweaks monocle* -GHSnob
+TP
+
+WVP 0 vfccb1003kri000
+//霧「……黒須太一ッ」
+Kiri: "...KUROSU TAICHI!"
+TP
+
+GL 1 TCYM0002
+GI 1 0
+//HACK less flustered Miki -GHS
+
+//呼び捨てかい。
+No honorifics then?
+TP
+
+//そして怨敵扱いかい。
+//And sworn enemy treatmentfest as well?
+And treated like a sworn enemy as well?
+TP
+
+
+GL 2 TCSK0001
+GI 2 0
+//HACK doll position 2 -GHS
+
+//霧「…………」
+Kiri: "......"
+TP
+
+//冷たいまなざしを向けてくる。
+A frosty look was turned towards me.
+TP
+
+//霧も相変わらず、いつも通りのままだった。
+Ever unchanging Kiri, always in the same way she was.
+TP
+
+//ちょっと安心。
+Ease up a little!
+TP
+
+//太一「霧や、あいかわらず美しい肌だ」
+Taichi: "Kiri, as always such a lovely skin you have."
+//Skin very likely not meant just literally. -GHS
+TP
+
+//指をのばす。
+I extend a finger.
+TP
+GL 1 TCYM0004
+GL 2 TCSK0002
+GI 1 0
+GI 2 0
+//HACK shocked Miki (these is a rare script where these non-directly cued changes don't look like obvious bugs) -GHS
+WVP 0 vfccb1003kri002
+//霧「触らないで下さい！」
+Kiri: "Please do not touch me!"
+TP
+
+//手の甲でしなやかに撃墜された。
+The back of her hand supplely shoots me down.
+TP
+
+
+//ぞくぞくぞくぞくっ
+ShiverShiverShiverShiver!
+TP
+
+
+//太一「……いい」
+Taichi: "...nice."
+TP
+
+GL 2 TCSK0000
+GI 2 0
+//HACK Kiri doll position 2 -GHS
+WVP 0 vfccb1003kri003
+//霧「……は？」
+Kiri: "...huh?"
+TP
+
+//太一「いや」
+Taichi: "Nothin'."
+TP
+
+//前髪を払う。
+I sweep my bangs.
+TP
+
+//GL 2 TCYM0000
+//GP 2 0 0
+//GP 1 340 0
+//GS 1 1
+//GS 2 1
+//SEF 109 0
+GL 1 TCYM0002
+GI 1 0
+//HACK less happy Miki -GHS
+WVP 0 vfccb1003mki005
+//美希「あわわ、けんかしちゃだめですよ」
+Miki: "AhWahWah, quarreling is no go!"
+TP
+
+//太一「喧嘩など、そんな野蛮なことはしないさ」
+Taichi: "I would never do something as uncivilized as quarreling."
+TP
+
+//太一「もっと優美に決闘といきたいものだ」
+Taichi: "I would prefer something more refined, like a duel."
+TP
+
+GL 1 TCYM0004
+GL 2 TCSK0001
+GI 1 0
+GI 2 0
+//HACK Kiri doll position 2, shocked Miki -GHS
+
+WVP 0 vfccb1003kri004
+//霧「……それってわたしに勝負をふっかけるということですか、先輩？」
+Kiri: "...do you mean to provoke me into a game, Senpai?"
+TP
+
+//太一「ふむ。夜の決闘であれば」
+Taichi: "Indeed. It is a Duel of the Night."
+TP
+GL 1 TCYM0003
+GI 1 0
+//Poor Miki, originally stuck in this position through the scene... -GHS
+
+WVP 0 vfccb1003mki006
+//美希「ぽっ」
+Miki: "Blush."
+TP
+GL 2 TCSK0011
+GI 2 0
+//HACK Kiri doll position 2 -GHS
+WVP 0 vfccb1003kri005
+//霧「行こ、美希」
+Kiri: "Let's go, Miki!"
+//PCP CCA0015
+TP
+
+GS 1 0
+GS 2 0
+SEF 109 0
+//HACK out with them -GHS
+
+//霧は美希の腕を引いて、踵を返した。
+Kiri pulled Miki's arm and spun on her heels.
+TP
+
+//太一「行こ行こ、失礼しちゃうわ！」
+Taichi: "Go let's go, apologies for the intrusion, yes!"
+TP
+
+//並んだ。
+I line up.
+TP
+
+GL 5 zzzBlackBlend
+GI 5 1
+//HACK dim screen -GHS
+
+//三人はとっても仲良し。
+The three of them really go well together.
+//Sudden third person. -GHS
+TP
+
+//菜の花を思わせる、華やか三姉妹！
+Three gay sisters that remind of rapeseed blossoms!
+//If this wasn't intended, well, it is too good to pass up anyway. Even creepier considering Taichi's backstory. -GHS
+TP
+
+//これはそんな三人娘の、うつくしい愛の物語♪
+And this is the story of these three girls, a beautiful tale of love!♪
+TP
+
+GO 5 1
+//HACK restore screen -GHS
+
+//……なわけねぇ。
+...not even clooose.
+TP
+
+GL 1 TCSK0001
+GP 1 180 0
+GI 1 1
+//HACK Kiri returns -GHS
+
+WVP 0 vfccb1003kri006
+//霧「先輩……」
+Kiri: "Senpai..."
+TP
+
+//太一「気づかれちゃったっ♪」
+Taichi: "Aw, I was noticed!♪"
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfccb1003kri007
+//霧「気づかないのは脳みその軽い先輩だけです」
+Kiri: "The only one who has not noticed is Senpai with his lightweight brain matter."
+//See CCA0002 -GHS
+TP
+
+//太一「だが灰色だぞ」
+Taichi: "But it's gray you know."
+//??? he conflating his brain with his hair now? -GHS
+TP
+
+GL 1 TCSK0001
+GI 1 0
+//HACK Kiri doll position 2 -GHS
+WVP 0 vfccb1003kri008
+//霧「ぶちまけてみないとわからないですけどね」
+Kiri: "But unless I speak candidly you do not understand, it seems."
+TP
+
+//太一「わはは」
+Taichi: "Wahah."
+TP
+WVS 1 1
+
+//霧は笑わなかった。
+Kiri did not laugh.
+TP
+
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfccb1003kri009
+//霧「……こんな状況で、脳天気なもんですね」
+Kiri: "...thoughtlessly optimistic even in this situation I see."
+TP
+
+//太一「いやなに、そう誉めるな。照れちゃうではないか」
+Taichi: "Naaah, now, please, not all that praise. You want me to go all red in the face?"
+//As usual, he sounds like he's ridiculing her, whether he intends it or not. -GHS
+TP
+
+WVP 0 vfccb1003kri010
+//霧「……」
+Kiri: "..."
+TP
+
+GL 1 TCSK0000
+GI 1 0
+WVP 0 vfccb1003kri011
+//霧「でもわたし、知ってます。だから」
+Kiri: "But I know, and well. Therefore."
+TP
+
+//太一「ほえ？」
+Taichi: "Whaet?"
+//{}? -GHS
+TP
+
+GL 1 TCSK0001
+GI 1 0
+WVP 0 vfccb1003kri012
+//霧「絶対に気を許すつもりはありませんから」
+Kiri: "Therefore I have no intention of letting my guard down."
+TP
+
+GO 1 1
+//HACK out with Kiri -GHS
+
+//立ち去る二人。
+The two take their leave.
+TP
+
+//太一「……はー」
+Taichi: "...sigh."
+TP
+
+//なんだろう。
+Really now.
+TP
+
+//あま切迫した……雰囲気は。
+Too much... tension in this air.
+TP
+
+//両名の背中に呼びかける。
+I call out towards the backs of both.
+//CP CCA0015
+TP
+
+//太一「あー、二人とも」
+Taichi: "Heyyy, you two!"
+//CP CCA0015
+TP
+
+//立ち止まり、振り向いたのは美希だけだったが。
+Stops in her tracks and turns around, however, Miki alone.
+//CP CCA0015
+TP
+
+//太一「あー……」
+Taichi: "Ah..."
+TP
+
+//言いよどむ。
+Fumbling for the right words.
+TP
+
+//太一「くれぐれも体調には気をつけるんだぞ」
+Taichi: "Be thoroughly careful with your physical conditions!"
+//CP CCA0015
+TP
+
+//無難なところ。
+A refuge in safety.
+TP
+
+//確かに文明と切り離された今、体調管理は切実だしな。
+Certainly, as we are cut off from civilization now, managing physical condition is paramount.
+TP
+
+//美希が元気良く挙手し、霧がちらりと目線を流した。
+Miki gave a vigorous salute, Kiri shed but a peeking glance.
+//CP CCA0015
+TP
+
+
+RET

@@ -1,0 +1,1393 @@
+
+
+
+WVP 2 se041 1 0
+WT 2000
+
+Even though I'm only opening a door, I felt myself hesitate slightly.
+TP
+
+
+
+I wondered how I should behave around her.
+TP
+
+
+
+But, humans are creatures of mood, and this morning I was in the mood to come here.
+TP
+
+
+
+That's enough of an explanation for me.
+TP
+
+
+
+But what will Sempai think?
+IF $tlnote == 1 (TL note: "Sempai" is how you address your "senior" or "upperclassman" in Japanese.)
+TP 
+
+
+
+That bothered me a little.
+TP
+WVP 2 se044 1 0
+
+
+I twisted the knob and pushed the iron door outward.
+TP
+
+
+
+WVP 2 se009 1 0
+
+GL 1 efcc0000
+GL 0 bgcc0007 1 0
+GP 1 0 0
+GI 1 0
+GI 0 0
+GO 1 1
+
+
+The wind blew.
+TP
+
+WVP 3 se010 0 0
+
+
+
+It was blowing at the moment I stepped outside.
+TP
+
+
+
+But that mysteriously put me in a sunny mood.
+TP
+
+
+
+A massive water tower was on the other side of the stairs, but in the direction I was facing, a large antenna rose up, sharing the tower's foundation. 
+TP
+
+
+
+WVP 1 bgm012.ogg 0 0 0
+GL 0 evcc0004
+$CGevcc0004 = 1
+GS 0 1
+SEF 109 0
+Taichi: "......ahh."
+TP
+
+
+
+An antenna, still incomplete.
+TP
+
+
+
+Due to insufficient parts and knowledge.
+TP
+
+
+
+As she compensated for that with her optimism, it had slowly taken shape.
+TP
+
+
+
+Just one girl.
+TP
+
+
+
+And right now, that one girl was standing with the antenna, cradled in the wind.
+TP
+
+
+
+I admired her enough to feel envious.
+TP
+
+
+
+Miyasumi Misato.
+TP
+
+
+
+Misato-sempai.
+TP
+
+
+
+Taichi: "Sempaaai!"
+TP
+
+
+
+As I called out to her, her brown hair became filmy and undulated in the swirling wind.
+//Yea, she definitely has brown hair. I agree with VDZ on this one.-Spin
+TP
+
+
+
+She turned in my direction.
+TP
+
+
+
+The strong wind turned her glossy hair into rapids.
+TP
+
+
+
+Misato-sempai made an effort to part the flow of her hair with one hand, allowing me to see her face.
+TP
+
+
+
+WVP 0 vfcca0006msa000
+Misato: "......"
+TP
+
+
+
+Under the rapidly strengthening sunlight, her expression had become senile. 
+TP
+
+
+
+Just as the summer days were fading.
+TP
+
+
+
+That's why I knew that her expression would melt away in a single moment.
+TP
+
+
+
+WVP 0 vfcca0006msa001
+Misato: "............?"
+TP
+
+
+
+Her plump reddened lips bloomed as they formed words.
+TP
+
+
+
+The wind ringing in my ears drowned out her whispers. 
+TP
+
+
+
+But, by the movement of her lips, I could understand what she was saying.
+TP
+
+
+
+I smiled in response.
+TP
+
+
+
+Taichi: "Here I am~~!"
+TP
+
+
+
+WVP 0 vfcca0006msa002
+Misato: "Peke-kun......"
+TP
+
+
+
+Taichi: "Heeellooo!"
+TP
+
+
+
+I screamed while thrusting both hands in the air.
+TP
+
+
+
+The corners of Sempai's eyes fell.
+TP
+
+
+
+Like a film in slow motion, I watched her face settle into a gentle expression. 
+TP
+
+
+
+WVP 0 vfcca0006msa003
+Misato: "Heeellooo!"
+TP
+
+
+
+She answered.
+TP
+
+
+
+She was her usual self.
+TP
+
+
+
+WVP 0 vfcca0006msa004
+Misato: "How are things going, Peke-kun?"
+TP
+
+
+
+Taichi: "I can see your pantiiees!"
+TP
+
+
+
+I said that for no reason.
+TP
+
+
+
+Since she can't possibly hear me.
+TP
+
+
+
+I actually can see her panties; if I was any closer my rationality would be in jeopardy.
+TP
+
+
+
+Because I'd prepared myself for the possibility of this strong wind exposing her undergarments,
+TP
+
+
+
+I managed to remain calm despite witnessing those sinfully sensual third-year girl's thighs and experienced the inescapable passion of an upside-down triangle squeezing its talons around my male heart.
+TP
+
+
+
+
+*"the inescapable passion of an upside-down triangle" is Taichian for "the mind of a woman's underwear."
+IF $tlnote != 0 (TL note: "Upside-down triangle" is a popular, if crude euphemism for the female crotch.)
+TP
+
+
+
+
+*Taichi's range of preference is wide, but he definitely prefers younger women's panties. As the highest of the pure whites, and the lowest of the lascivious colors, it can alter his erotic standards.
+TP
+
+
+
+
+If I hadn't been ready for it, lowly bug that I am, I wouldn't have been able to hold back my lust from the girl's haunches as they induced me to commit sins of the flesh.
+TP
+
+
+
+WVP 0 vfcca0006msa005
+Misato: "Whaaat is iiit?"
+TP
+
+
+
+Taichi: "Please sell me your panties!!"
+TP
+
+
+
+WVP 0 vfcca0006msa006
+Misato: "Please make some bread?"
+IF $tlnote != 0 (TL note: The previous line was "Pantsu wo utte kudasai!!" and this one is "Pan tsukutte kudasai?")
+TP
+
+
+
+Taichi: "!!??"
+TP
+
+
+
+She can hear me!? (Mexican pronunciation)
+IF $tlnote != 0 (TL note: Since Spanish and Japanese vowels happen to have nearly identical pronunciations, this actually isn't as random as it might sound.)
+TP
+
+
+
+Taichi: "L-l-l-l-l-lunch, let's eat together!!"
+TP
+
+
+
+WVP 0 vfcca0006msa007
+Misato: "Ooh, that sounds nice!"
+TP
+
+
+
+Sempai made little circles with her raised fist.
+TP
+
+
+
+WVP 0 vfcca0006msa008
+Misato: "But I don't know how to bake bread."
+TP
+
+
+
+Taichi: "Th-, that's a shame!"
+TP
+
+
+
+WVP 0 vfcca0006msa009
+Misato: "I'm sorry!"
+TP
+
+
+
+Somehow I managed to distract her.
+TP
+
+
+
+That was a close one......
+TP
+
+
+
+I'm keeping my dirty side a secret from Sempai.
+TP
+
+
+
+Being scorned by her would be a bit painful.
+TP
+
+
+
+
+Because she was the one who......when I was all alone......invited me to the Broadcasting Club.
+TP
+
+
+
+
+WVP 0 vfcca0006msa010
+Misato: "Is that what you came here for?"
+TP
+
+
+
+Taichi: "No, but since I'm here, I'll help out with the club!"
+TP
+
+
+
+WVP 0 vfcca0006msa011
+Misato: "Since you're here?"
+TP
+
+
+
+Her face tightened.
+TP
+
+
+
+Taichi: "You're a stickler for words."
+TP
+
+
+
+WVP 0 vfcca0006msa012
+Misato: *sigh*......"Wait just a moment!"
+TP
+
+WVS 3 1 
+
+GL 0 bgcc0007
+GL 1 TCMM0002
+GP 1 225 0
+GS 0 1
+GS 1 1
+
+SEF 109 0
+
+
+
+WVP 0 vfcca0006msa013
+Misato: "So, how are you?"
+TP
+
+
+
+She folded her hands together and smiled.
+TP
+
+
+
+It seemed as if the location of her hands was just right to cover up her groiny.
+*Groiny......Taichian for "the mind of the crotch." Without a doubt, he's personifying it.
+TP
+
+
+
+
+My mental Photosh*p turned on.
+TP
+
+
+
+Up and running in 0.1 seconds. After all, it is inside my mind.
+TP
+
+
+
+On the first pass I cut out Sempai's face from the background.
+TP
+
+
+
+I searched for a nude picture of a gravure idol in a similar posture.
+IF $tlnote != 0 (TL note: "Gravure idols" are scantily-clad Japanese models who pose for photographs in magazines and photobooks.)
+TP
+
+
+
+There was one such image file.
+TP
+
+
+
+It appeared to be from an old photobook of a then-famous nude idol who'd been riding on her boyfriend's coattails. Hail Buddha. 
+TP
+
+
+
+Anyway, I merged that picture with the layer with Sempai's face.
+TP
+
+
+
+Then I did a lot of touch-up, mainly blurring and erasing parts of the overlap at the neck. 
+TP
+
+
+
+I felt that the breasts were inaccurate, so I looked for a more well-rounded pair and merged them in.
+TP
+
+
+
+While I was at it, I used the exposed skin from Sempai's real arms and legs.
+TP
+
+
+
+I looked at the whole body, then began to adjust the brightness and fill in shadows.
+TP
+
+
+
+I dealt with the difference in skin color by adding a new layer of light yellow, then using soft lines in paint mode.
+TP
+
+
+
+It was a bit lonely without a background, so I inserted an austere church hall image behind Sempai's layer.
+TP
+
+
+
+Perfect.
+TP
+
+
+
+Here was consummated an erotic collage that will last a decade.
+TP
+
+
+
+Without delay I saved it to the 『Level S』 subfolder within the 『Math Homework』 folder on my mental hard drive.
+TP
+
+
+
+The images are separated into S, A, B, C and D categories.
+TP
+
+
+
+S is the strongest. D the weakest.
+TP
+
+
+
+My real computer uses the same system.
+TP
+
+
+
+Incidentally, my final will and testament begins with this:
+TP
+
+
+
+
+『Please throw away my HD without thinking (Any inspection or use as memorabilia is strictly prohibited; if you look at it I'll haunt you with all of my ghostly power).』
+TP
+
+
+
+
+I must never allow my Math Homework folder to be seen by anyone.
+TP
+
+
+
+Because that Math Homework folder is none other than my wildest urges incarnated.
+TP
+
+
+
+Yes.
+TP
+
+
+
+The Math Homework folder is my secret and forbidden ~Holy Sanctuary~. 
+TP
+
+GL 1 TCMM0021
+GI 1 0
+
+WVP 0 vfcca0006msa014
+Misato: "What happened to your Math Homework folder?"
+TP
+
+
+
+Taichi: "---!!??"
+TP
+
+
+
+I unconsciously said it out loud!!! (Mexican again)
+TP
+
+
+
+Taichi: "Lady, might there be something with which I may assist you?"
+TP
+
+
+I respectfully took her hand.
+TP
+
+
+
+Sempai remained calm.
+TP
+
+
+GL 1 TCMM0031
+GI 1 0
+WVP 0 vfcca0006msa015
+Misato: "But, isn't it time for class?"
+TP
+
+
+
+That tilting of her head was criminal.
+TP
+
+
+
+Taichi: "Class..."
+TP
+
+
+
+I shook my head excessively and laughed off her question.
+TP
+
+
+
+Taichi: "Is there really anything I ought to prioritize, other than helping you?"
+TP
+
+
+GL 1 TCMM0005
+GI 1 0
+
+WVP 0 vfcca0006msa016
+Misato: "Eh......?"
+TP
+
+
+
+Sempai was splendid, even when puzzled.
+TP
+
+
+
+Taichi: "Would you deign to entrust me with ensuring the success of your posterity?"
+TP
+
+
+
+WVP 0 vfcca0006msa017
+Misato: "Eh!?"
+TP
+
+
+
+Taichi: "Ah? Wa?!"
+TP
+
+
+
+I shut my mouth with my hands.
+TP
+
+
+
+I need to do something about that habit of blurting out what I'm thinking.
+TP
+
+
+
+Taichi: "The antenna seems to be taking shape."
+TP
+
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfcca0006msa018
+Misato: "Yes. I've been working hard on it."
+TP
+
+
+
+Taichi: "Is it complete yet?"
+TP
+
+
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfcca0006msa019
+Misato: "......it isn't even close."
+TP
+
+
+
+The antenna should've been set up by the dealer.
+TP
+
+
+
+But they just abandoned it here after delivering it.
+TP
+
+
+
+WVP 0 vfcca0006msa020
+Misato: "I'm no specialist, so it's probably not as far along as it looks."
+TP
+
+
+
+WVP 0 vfcca0006msa021
+Misato: "The structure isn't a problem, but the wiring and tuning are still untouched."
+TP
+
+
+
+Taichi: "Ah..."
+TP
+
+
+
+Unfortunately, I had no such knowledge.
+TP
+
+
+
+Taichi: "......then I guess there's nothing for me to help with."
+TP
+
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfcca0006msa022
+Misato: "It's the thought that counts."
+TP
+
+
+
+I glanced at Sempai's hands, and saw they were covered in wounds.
+TP
+
+
+
+Aahh.
+TP
+
+
+
+She really has been slaving away at this.
+TP
+
+
+
+Even though her arms were too slender to carry even a computer monitor up here.
+TP
+
+
+
+Taichi: "Umm, Sempai?"
+TP
+
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfcca0006msa023
+Misato: "Yes?"
+TP
+
+
+
+Taichi: "Why are you trying to do this by yourself?"
+TP
+
+
+
+Taichi: "The rest of the club is still out there. Why don't we get them together?"
+TP
+
+
+GL 1 TCMM0031
+GI 1 0
+WVP 0 vfcca0006msa024
+Misato: "......mmm."
+TP
+
+
+
+WVP 0 vfcca0006msa025
+Misato: "I am the club president."
+TP
+
+
+
+WVP 0 vfcca0006msa026
+Misato: "If the prez doesn't do anything, no one's going to come join her, right?"
+TP
+
+
+
+Taichi: "Well, it's not like anyone's coming to join you right now......"
+TP
+
+
+
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfcca0006msa027
+Misato: "You came, Peke-kun."
+TP
+
+
+
+Ow, a lethal counter-argument.
+TP
+
+
+GL 1 TCMM0031
+GI 1 0
+
+WVP 0 vfcca0006msa028
+Misato: "Besides, this is something I want to do on my own."
+TP
+
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfcca0006msa029
+Misato: "I'm just doing what I love to do."
+TP
+
+
+
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfcca0006msa030
+Misato: "Same as everyone."
+TP
+
+
+
+Taichi: "Everyone......they're not all doing what they love, you know?"
+TP
+
+
+
+GL 1 TCMM0031
+GI 1 0
+WVP 0 vfcca0006msa031
+Misato: "Is that so?"
+TP
+
+
+
+Taichi: "I think so."
+TP
+
+
+
+Somehow.
+TP
+
+
+
+Taichi: "It may not seem that way, but I'm sure of it."
+TP
+
+
+
+Taichi: "Since we're in this environment."
+TP
+
+
+
+GL 1 TCMM0003
+GI 1 0
+WVP 0 vfcca0006msa032
+Misato: "That applies to me too."
+TP
+
+
+Her expression faltered for a moment.
+TP
+GL 1 TCMM0000
+GI 1 0
+
+
+
+Then, her smile bloomed once again.
+TP
+
+
+
+Taichi: "You're strong, Mimimi-sempai."
+*Mimimi-sempai = Short for 『Mi』yasu『mi』 『Mi』sato
+TP
+
+
+GL 1 TCMM0006
+GI 1 0
+WVP 0 vfcca0006msa033
+Misato: "............"
+TP
+
+
+
+Ah, it came out.
+TP
+
+
+
+Her raw countenance.
+TP
+
+
+
+An expression so colorless it seemed indifferent.
+TP
+
+
+
+This is her 『I'm very irritated』 face.
+TP
+
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfcca0006msa034
+Misato: "Is there a Sempai by that name?"
+TP
+
+
+
+Taichi: "I'm sorry, my mistake, Mimi-sempai."
+TP
+
+GL 1 TCMM0002
+GI 1 0
+
+
+*smirk*
+TP
+
+
+
+WVP 0 vfcca0006msa035
+Misato: "No problem Peke-kun, I feel calmer already."
+TP
+
+
+
+Damn she's cute.
+TP
+
+
+
+But I wonder why one extra 'mi' bugs her that much......
+TP
+
+
+
+Moreover, why is she perfectly fine with 'Mimi-sempai?'
+TP
+
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfcca0006msa036
+Misato: "So you're here to help out?"
+TP
+
+
+
+Taichi: "Well, yes."
+TP
+
+
+
+Though in reality I just wanted to tease her more.
+TP
+
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfcca0006msa037
+Misato: "Such a good boy~"
+TP
+
+
+
+She patted me on the head.
+TP
+
+
+
+Her soft fingertips ran over my hair.
+TP
+
+
+
+Ah, she's rubbing the top of my hair so delicately......my hips are itching. (I'm a horrible person)
+TP
+
+
+
+GL 1 TCMM0021
+GI 1 0
+WVP 0 vfcca0006msa038
+Misato: "Is something wrong?"
+TP
+
+
+
+Taichi: "A tent has been constructed."
+TP
+
+
+
+WVP 0 vfcca0006msa039
+Misato: "Eh, where is it?"
+TP
+
+
+
+Taichi: "Mimi-sempai, please tell me about the range of math formulas you learned last term."
+TP
+
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfcca0006msa040
+Misato: "Okay."
+TP
+
+
+
+Misato: "○×▽□○×▽□○×▽□○×▽□......"
+TP
+
+
+
+I stood straight up in inverse proportion to the incomprehensibility of her statements.
+TP
+
+
+
+Taichi: "Excuse me a moment, Mamodeiselle."
+TP
+
+
+
+WVP 0 vfcca0006msa042
+Misato: "You're suddenly speaking like a gentleman."
+TP
+
+
+
+Taichi: "Being a gentleman is my livelihood."
+TP
+
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfcca0006msa043
+Misato: "Also that's Mademoiselle, not Mamodeiselle."
+TP
+
+
+
+Taichi: "............"
+TP
+
+
+
+Taichi: "Now, what shall I help you with?"
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+
+WVP 0 vfcca0006msa044
+Misato: "But, it's already past the time for classes to start......"
+TP
+
+
+
+Both of her hands were shaking.
+TP
+
+
+
+Sempai, are you holding maracas?
+TP
+
+
+
+
+
+
+CSQ 0 1 1 1
+  -Make fun of her
+  -Knock her down
+  -Make her atone
+
+
+
+
+WVP 2 SE100 1 0
+How'm I supposed to make a joke out of that!!??
+SEF 101 0
+TP
+
+
+
+
+Taichi: "Time for class..."
+TP
+
+
+
+Since the bell hadn't rung, I didn't notice.
+TP
+
+
+
+Taichi: "You going to cut?"
+TP
+
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfcca0006msa045
+Misato: "Oh my, it seems we have a naughty child here."
+TP
+
+
+GL 1 TCMM0031
+GI 1 0
+
+WVP 0 vfcca0006msa046
+Misato: "......but yes, I will."
+TP
+
+
+
+She looked up at the sky and sighed.
+TP
+
+
+
+WVP 0 vfcca0006msa047
+Misato: "I am a naughty child..."
+TP
+
+
+
+Taichi: "What did you say?"
+TP
+
+
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfcca0006msa048
+Misato: "No, it's nothing."
+TP
+
+
+
+
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfcca0006msa049
+Misato: "Still, it's hot during the day......so I won't be working up here."
+TP
+
+
+
+WVP 0 vfcca0006msa050
+Misato: "So even if I cut, there won't be anything to do."
+TP
+
+
+
+Taichi: "Ah, I see."
+TP
+
+
+
+It would be a problem if she got sunstroke.
+TP
+
+
+
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfcca0006msa051
+Misato: "I'll start this up again in the evening."
+TP
+
+
+
+Taichi: "May I help?"
+TP
+
+
+
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfcca0006msa052
+Misato: "You are stronger than me, Peke-kun."
+TP
+
+
+
+Taichi: "Huh?"
+TP
+
+
+
+WVP 0 vfcca0006msa053
+Misato: "You can arrange your feelings and decide on what you're going to do."
+TP
+
+
+
+This topic suddenly returned.
+TP
+
+
+
+Taichi: "Aren't you that way too, Sempai?"
+TP
+
+
+
+GL 1 TCMM0003
+GI 1 0
+A hint of sorrow materialized on the outline of her oval face.
+TP
+
+
+
+She looked ready to cry, and my chest tightened.
+TP
+
+
+
+That's right.
+TP
+
+
+
+She's the only one who can make me feel this.
+TP
+
+
+
+This ordinary, natural and prideful......yearning.
+TP
+
+
+
+Regardless of my feelings toward the other sex, I feel as if......I like this person.
+TP
+
+
+
+I want her to be happy.
+TP
+
+
+
+I don't want her to hate me.
+TP
+
+
+GL 0 bgcc0007g
+GL 1 efcc0005
+GS 0 1
+GS 1 1
+GP 1 0 0
+SEF 109 0
+WVP 0 vfcca0006msa054
+Misato: "Is something wrong?"
+TP
+
+
+
+Taichi: "Dowaa!!?"
+SEF 101 0
+TP
+
+
+
+Sempai's face was within inches of mine.
+TP
+
+GL 0 bgcc0007
+GL 1 TCMM0004
+GS 0 1
+GS 1 1
+GP 1 210 0
+SEF 109 0
+
+WVP 0 vfcca0006msa055
+Misato: "Wa-?"
+TP
+
+
+
+Taichi: "I died and went to heaven."
+TP
+
+
+GL 1 TCMM0031
+GI 1 0
+
+WVP 0 vfcca0006msa056
+Misato: "Hmm, heaven......hmm."
+TP
+
+
+
+I impressed her somehow.
+TP
+
+
+
+Taichi: "It's gotten pretty hot. Should we go back inside?"
+TP
+
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfcca0006msa057
+Misato: "Let's do that."
+TP
+
+
+
+The Broadcasting Club president-san moved her eyes onto the antenna, just once.
+TP
+
+
+
+Taichi: "......"
+TP
+
+
+I don't know what she was thinking at that moment.
+TP
+
+
+
+She's not the type to show her true self that easily.
+TP
+
+
+
+That's why her amazed face a moment ago was so precious.
+TP
+GS 1 0
+SEF 109 0
+WVS 1 1
+
+
+I learned that her gentle face was nothing more than a mask.
+TP
+WT 500 0
+WT 1000 1
+
+
+RET

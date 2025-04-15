@@ -1,0 +1,390 @@
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//あっという間に昼になった。
+And in the blink of an eye it became noon.
+TP
+
+//やっぱり８人しかいないと、なかなか出くわさない。
+Naturally, with only eight people there's no readily coming across each other.
+//Today he came across Kiri, Miki and Misato. Depending on the choices, also Sakuraba, Tomoki and Touko. What the hell is he even talking about? -GHS
+TP
+
+//曜子ちゃんのサンドイッチ。
+Youko-chan's sandwiches...
+TP
+
+//ちょっと量が多い。
+There's kind of a lot of 'em.
+TP
+
+//太一「仕方ない、一人で食うか……」
+Taichi: "Nothing I can do, I'll eat them alone I guess..."
+TP
+
+//なんとか食えるだろう。成長期だし。
+I gotta eat something. It's my growth period.
+//He's just growing progressively chuunier... -GHS
+TP
+
+WVP 1 bgm012.ogg 0 0 0
+//HACK moved music here -GHS
+
+//唐突にぞわっと背筋が総毛立つ。
+Suddenly, a shiver gives me goosebumps along my spine,
+TP
+
+//機関銃を構えた兵士に背後から狙われているような。
+as if a soldier were targeting me from the back with a machine gun at the ready.
+TP
+
+//GL 1 TCHY0000
+GL 1 zzzYoukoZoom1
+GP 1 100 0
+GI 1 1
+//HACK aaaugh! -GHS
+
+//太一「よ、曜子ちゃん……」
+Taichi: "Yo-, Youko-chan..."
+TP
+
+//曜子「…………」
+Youko: "......"
+TP
+
+//立っていた。
+She stood.
+TP
+
+//立っているだけだった。
+She naught but stood.
+TP
+
+//いつものアプローチ。
+Her approach of always.
+TP
+
+//気配に鋭敏な体質のせいか、どうも慣れることがない。
+Perhaps because of a predisposition to being sensitive to presences, this is something I can't get used to.
+//...and chuunier. Wasn't he sensitive to motion, not presences? -GHS
+TP
+
+//太一「いつもながら唐突だね」
+Taichi: "Always out of a sudden innit."
+TP
+
+//GL 1 TCHY0001
+GL 1 zzzYoukoZoom2
+//HACK still big Youko -GHS
+GI 1 0
+//曜子「…………」
+Youko: "......"
+TP
+
+//鼻をつまむ。
+I pinch her nose.
+TP
+
+//太一「喋れ」
+Taichi: "Talk!"
+TP
+
+//GL 1 TCHY0000
+GL 1 zzzYoukoZoom1
+//HACK still big Youko -GHS
+GI 1 0
+WVP 0 vfCCC0032you002
+//曜子「わらしのことがひつようらろおもっれ」
+Youko: "I Dought Dat I was Deeded."
+//Clamped nose. -GHS
+TP
+
+//太一「うーん」
+Taichi: "Hmmm."
+TP
+
+//考える。
+Thinking.
+TP
+
+//太一「特に用事はないや」
+Taichi: "I don't really have anything I need you for."
+TP
+
+//曜子「…………」
+Youko: "......"
+TP
+
+GL 1 TCHY0000
+GP 1 180 0
+GI 1 1
+//HACK Normal Youko -GHS
+
+//手を離した隙に、２メートルほど逃げて立っていた。
+//手を離した隙に、２メートルほどぴょんと逃げてしまった。
+In the chance given by my hand being released, she ends up escaping to about 2 meters away with a bounce.
+TP
+//ちっ。
+Tsk.
+//HACK changed and new line. Now angrier. -GHS
+TP
+
+//太一「それにしても一人で二人分食べるのは、大変だなあ」
+Taichi: "That being said, eating a double portion alone, man what a problem."
+TP
+
+//紙袋をあけて、サンドを口に放り込む。
+I open the paper bag, and toss a 'wich in my mouth.
+//Abbrev' FTW. Somehow. Also, plastic wrap and all??? ew -GHS
+TP
+
+//曜子「……………………」
+Youko: "............"
+TP
+
+//能面めいた顔の下、どんな葛藤が展開されているのだろうか。
+What kind of conflict could even be unfolding under that noh mask of a face?
+//See CCA0018. Unrelated? Maybe... -GHS
+TP
+
+//しばし後、わずかに肩が落ちる。
+Shortly after that, her shoulders drop a little.
+TP
+
+//しょんぼりと。
+In disheartenment.
+TP
+
+GL 1 TCHY0002
+GI 1 0
+WVP 0 vfCCC0032you005
+//曜子「……私のアパート、引き払うことにしたから」
+Youko: "...I have vacated my apartment."
+//See CCE0001. Computers and all? Bookcases welded to the damn ceiling with books??? Well, maybe she just means clothes and stuff. Or maybe this is still part of the very very very subtle increase in madness that's been going on ever since Youko began materializing. -GHS
+TP
+
+//太一「え、どうして？」
+Taichi: "Eh, how come?"
+TP
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC0032you006
+//曜子「帰る」
+Youko: "Going home."
+TP
+
+//太一「うちに？」
+Taichi: "Mine?"
+TP
+
+//頷く。
+Nod.
+TP
+
+//太一「……ダメ」
+Taichi: "...not happening."
+TP
+
+//駄目だしをする。
+Begin rebuking.
+//Unsure. "I start producing da-mes" and "soup bad horse? do" are both quality machine translator results. See CCC0006B. Damn annoying mothers who keep want to live with you when they should move out of their basements full of computers and books, amirite amirite. -GHS
+TP
+
+WVP 0 vfCCC0032you007
+//曜子「……どうして？」
+Youko: "...but why?"
+TP
+
+//太一「落ち着かない」
+Taichi: "I'll be ill at ease."
+//Hmmm, see CCA0020. Maybe that's why he can't settle down in the living room... -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC0032you008
+//曜子「もう誰もいないから……元通り一緒に暮らしてもいいと思う……」
+Youko: "Because there's no one anymore... I thought it would be best to live together as before..."
+//She trying to imitate Touko in the last route? She has at least read the diaries, possibly seen it herself. -GHS
+TP
+
+//太一「一人でのびのびと暮らせばいいと思う」
+Taichi: "I think living all carefree on my own is better."
+TP
+
+//意見が別れた。
+Opinions were split.
+//It's a damn business meeting is what it is. -GHS
+TP
+
+//苦虫を噛みつぶしたような顔（の曜子版／ほぼ無表情）をする。
+She makes a sour face as if she had bit into a bitterbug (Youko Edition/Nearly Expressionless).
+//Just like Youko! I mean Youko. Er, Touko. I totally meant Youko from the start. -GHS
+TP
+GL 1 TCHY0001
+GI 1 0
+WVP 0 vfCCC0032you009
+//曜子「……太一はいつも私を邪険にする」
+Youko: "...Taichi is so cruel to me all the time."
+TP
+
+//太一「そっちが過保護すぎるの」
+Taichi: "And you're excessively overprotective."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC0032you010
+//曜子「当たり前のことをしているだけだと思う」
+Youko: "I'm only doing what is normal, I think."
+TP
+
+//そうかもしれんが。
+So she says, but is she now?
+TP
+
+//太一「とにかくダメ。俺は一人暮らしを満喫するの」
+Taichi: "Regardless, not happening. I will be having my fill of living alone."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+WVP 0 vfCCC0032you011
+//曜子「…………そう」
+Youko: "......right."
+TP
+
+//しょんぼり。
+Disheartened.
+TP
+
+//そんなションボリズムにひたる少女を横目に、俺はサンドイッチを食う。
+Giving a sidelong glance to this girl so immersed in Disheartenism, I chomp on a sandwich.
+//Uhhh... symbolism? Not a real word, of course. I don't care, of course, since the madness of the Taichi is increasing. -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 0
+//曜子「……」
+Youko: "..."
+TP
+
+//じっと見られる。
+Fixedly stared at.
+TP
+
+//曜子「…………」
+Youko: "......"
+TP
+
+//見られ続ける。
+Continuously stared at.
+TP
+
+//曜子「……………………」
+Youko: "............"
+TP
+
+//見られ抜く。
+Stared at all the way to the end.
+//See CCC0003B -GHS
+TP
+WVP 2 SE077 1 0
+//曜子ちゃんの腹の音だった。
+That was Youko-chan's belly sound.
+//How odd, no belly bug? Less odd: she has the same belly bug as Touko... -GHS
+TP
+
+//太一「……お昼は？」
+Taichi: "...lunch?"
+TP
+
+WVP 0 vfCCC0032you015
+//曜子「食べてない」
+Youko: "Did not have."
+TP
+
+//太一「たいへんだね」
+Taichi: "Oh, what a problem."
+TP
+
+WVP 0 vfCCC0032you016
+//曜子「さっき、仕方なく一人で食べる、という意味の発言を聞いたんだけど」
+Youko: "However, earlier I heard words to the meaning that there's nothing you can do, and need to eat alone."
+TP
+
+//太一「言ったよ」
+Taichi: "'Cause I said 'em."
+TP
+
+//もぐもぐもぐもぐ
+Munch, munch, munch, munch.
+TP
+
+//太一「まさに今、そうしているとこさ」
+Taichi: "And now, that is exactly what I am doing."
+TP
+WVP 0 vfCCC0032you017
+//曜子「……ここには二人の人間がいるというのに」
+Youko: "...when there are two humans here."
+TP
+
+//太一「なんだって？　よく聞こえなかった？」
+Taichi: "Whatd'ja say? Something wasn't heard right?"
+//"I didn't hear what you said" + "didn't you hear what I said dammit!" -GHS
+TP
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCC0032you018
+//曜子「……太一はすぐいじわるをする……」
+Youko: "...Taichi bullies me straight away..."
+TP
+
+//太一「おいしいなあ」
+Taichi: "Way delicious."
+TP
+
+//もぐもぐもぐもぐ
+Munch, munch, munch, munch.
+//CP shdk
+TP
+
+//曜子「……」
+Youko: "..."
+TP
+
+//太一「すごくおいしいなあ」
+Taichi: "Way really delicious."
+TP
+WVP 2 SE077 1 0
+
+//もぐもぐもぐもぐ
+Munch, munch, munch, munch.
+//CP 's
+TP
+
+//曜子「……」
+Youko: "..."
+TP
+WVP 2 SE077 1 0
+
+//人気のない廊下に佇む二人。俺の咀嚼、曜子ちゃんの腹の虫、サンドイッチを取り出す紙袋の音。渾然一体となって和音を作る。
+The two of us loiter in a low-traffic corridor. Sounds audible are my chewing, Youko-chan's belly bug and the sandwiches being taken out of a paper bag. They work harmoniously to create a chord.
+//"Impopular" corridor, not deserted, nothing else. Odd. Belly bug this time. More harmonics-oriented musical terms. -GHS
+TP
+
+//わけのわからん緊張が膨れあがっていく。
+A tension I don't understand is swelling.
+TP
+CSQ 0 1 1
+//　・食べさせる
+//　・食べる
+ - Feed her
+ - Eat
+
+
+RET

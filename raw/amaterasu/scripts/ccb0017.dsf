@@ -1,0 +1,394 @@
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 109 0
+
+WT 500 0
+
+GL 0 bgcc0005as
+GS 1 0
+GS 0 1
+SEF 10 1
+
+WVP 3 SE001 0 0
+
+
+WVP 1 bgm004.ogg 0 0 0
+
+On the way home,
+//CP_T cca0018
+TP
+
+The once-quiet cicadas slowly but steadily began to chirp once more.
+TP
+GL 1 TCSY0000s
+GP 1 180 0
+GI 1 1
+
+WVP 0 vmcca0018shi000
+Shinkawa: "Heya there."
+TP
+
+Taichi: "Nnn? ......oooh, Tanizaki!"
+TP
+GL 1 TCSY0001s
+GI 1 0
+
+WVP 0 vmcca0018shi001
+Shinkawa: "Kounosu! How've you been?"
+TP
+
+Taichi: "Aaah...I, Kounosu Taichi, have the sole merit of feeling great even if my license gets suspended."
+TP
+
+WVP 0 vmcca0018shi002
+Shinkawa: "But can't you say the same about me, Tanizaki Yutaka?"
+TP
+
+Taichi: "It's been a few days, Tanizaki."
+TP
+GL 1 TCSY0000s
+GI 1 0
+
+WVP 0 vmcca0018shi003
+Shinkawa: "Yes it has, Kounosu."
+TP
+
+Taichi: "When will Tanizaki start going to school?"
+TP
+
+WVP 0 vmcca0018shi004
+Shinkawa: "They say it'll start tomorrow, Kounosu."
+TP
+
+He waved the A4 envelope in his hand.
+TP
+
+Must be full of school documents.
+TP
+
+Taichi: "Oh, transfer into our class, Tanizaki."
+TP
+
+WVP 0 vmcca0018shi005
+Shinkawa: "Kounosu, don't ask the impossible. You know it's not my decision."
+TP
+
+Taichi: "Wahaha."
+TP
+GL 1 TCSY0001s
+GI 1 0
+
+WVP 0 vmcca0018shi006
+Shinkawa: "Wahaha."
+TP
+
+We both laughed deeply.
+TP
+
+Taichi: "But even so, Tanizaki---"
+TP
+GL 1 TCSY0000s
+GI 1 0
+
+WVP 0 vmcca0018shi007
+Shinkawa: "......okay, I give! My name is Shinkawa Yutaka. My apologies Kurosu-san."
+TP
+
+Taichi: "Aaah, you're going to stop that?"
+TP
+
+WVP 0 vmcca0018shi008
+Shinkawa: "It seemed like it'd keep going forever."
+TP
+
+Taichi: "Going home already?"
+TP
+
+WVP 0 vmcca0018shi009
+Shinkawa: "Yeah."
+TP
+
+Taichi: "Why not come by my place?"
+TP
+
+WVP 0 vmcca0018shi010
+Shinkawa: "Is it close by?"
+TP
+
+Taichi: "Ten minutes from here I'd guess."
+TP
+
+WVP 0 vmcca0018shi011
+Shinkawa: "Don't you live in a nice place. Sorry though, next time."
+TP
+GL 1 TCSY0001s
+GI 1 0
+
+WVP 0 vmcca0018shi012
+Shinkawa: "My niece...she's going to Gunjou after all, so I need to tell her a lot about it."
+TP
+
+
+My ears,
+TL
+Such information,
+TL
+It won't slip by me (grab).
+TP
+
+GL 1 TCSY0000s
+GI 1 0
+
+WVP 0 vmcca0018shi013
+Shinkawa: "What's that thumbs-up about?"
+TP
+
+Taichi: "Hey, you, the guy over there."
+TP
+GL 1 TCSY0000s
+GI 1 0
+
+WVP 0 vmcca0018shi014
+Shinkawa: "Wh-what is it?"
+TP
+
+Taichi: "I'm very sorry, but I heard you had a niece."
+TP
+
+WVP 0 vmcca0018shi015
+Shinkawa: "That is what I just said."
+TP
+
+Taichi: "Her age?"
+TP
+
+WVP 0 vmcca0018shi016
+Shinkawa: "One below mine."
+TP
+
+Taichi: "Got a picture?"
+TP
+GL 1 TCSY0002s
+GI 1 0
+
+WVP 0 vmcca0018shi017
+Shinkawa: "......Kurosu?"
+TP
+
+Taichi: "Aaah, never mind, it's nothing. Please forget it."
+TP
+
+Taichi: "However, if that one point was different, wouldn't she be cute?"
+TP
+GL 1 TCSY0000s
+GI 1 0
+
+WVP 0 vmcca0018shi018
+Shinkawa: "Mmmm, well, her looks are..."
+TP
+
+Taichi: "Aren't looks everything?"
+TP
+
+My voice naturally lowered.
+TP
+
+A certain kind of jealousy and envy......and malice.
+TP
+GL 1 TCSY0002s
+GI 1 0
+
+WVP 0 vmcca0018shi019
+Shinkawa: "Ha?"
+TP
+
+Taichi: "No, don't worry about it."
+TP
+GL 1 TCSY0000s
+GI 1 0
+
+WVP 0 vmcca0018shi020
+Shinkawa: "......still, she's kinda boyish."
+TP
+
+WVP 0 vmcca0018shi021
+Shinkawa: "I should tell you, I have no such emotions for her. Being looked at with those eyes is just kinda disgusting."
+TP
+
+Taichi: "Liessss!!"
+TP
+GL 1 TCSY0002s
+GI 1 0
+
+WVP 0 vmcca0018shi022
+Shinkawa: "Wa! What just happened?"
+TP
+
+Taichi: "That's a lie!! You're a liar! You've got a cute younger relative. There's no way you wouldn't be conscious of it! Haven't you read a single volume of French Study!? It's impossible! Incomprehensible! Thus it has been proven that you are a liar!"
+TP
+GL 1 TCSY0000s
+GI 1 0
+
+
+WVP 0 vmcca0018shi023
+Shinkawa: "Kurosu......I do pity you, but I'm being serious."
+TP
+
+Taichi: "No! I don't want to hear it!"
+TP
+
+WVP 0 vmcca0018shi024
+Shinkawa: "She's really more like a little sister, since we live together."
+TP
+
+Cohabitation!!?
+TP
+
+
+The same bed!!?
+TP
+
+
+The warmth of the other gender!!?!?
+TP
+
+
+
+Taichi: "...hey, the will of some extraordinary being is intervening in that location."
+TP
+
+WVP 0 vmcca0018shi025
+Shinkawa: "......you're making yet another convenient misinterpretation."
+TP
+
+WVP 0 vmcca0018shi026
+Shinkawa: "I was taken in by her household."
+TP
+
+WVP 0 vmcca0018shi027
+Shinkawa: "That's why we're like siblings."
+TP
+
+WVP 0 vmcca0018shi028
+Shinkawa: "So I came here and moved in together with them. My legs might be like this, but she's also a little..."
+TP
+
+Taichi: "Aaah......"
+TP
+
+So that's what it was.
+TP
+
+I agreed at once.
+TP
+
+So now they go to Gunjou...
+TP
+
+Taichi: "Oh, in that case, didn't you transfer here in order to hang out with your niece-chan?"
+TP
+
+WVP 0 vmcca0018shi029
+Shinkawa: "I guess so. Well, I'm handicapped too."
+TP
+
+WVP 0 vmcca0018shi030
+Shinkawa: "And don't call her 'niece-chan'......"
+TP
+
+Taichi: "You're a caring onii-chan."
+TP
+GL 1 TCSY0002s
+GI 1 0
+
+WVP 0 vmcca0018shi031
+Shinkawa: "Umm, we seem to have gotten caught up in discussing my niece..."
+TP
+
+Taichi: "That's the nature of concentrated envy."
+TP
+GL 1 TCSY0000s
+GI 1 0
+
+WVP 0 vmcca0018shi032
+Shinkawa: "Is that so? We've been living together forever, so I've seen her under various biological effects, and then there's that..."
+TP
+
+Taichi: "That?"
+TP
+
+WVP 0 vmcca0018shi033
+Shinkawa: "Her appearance is pretty good, but she's got this bad habit of eating with her mouth open, so it's hard to think of her as something beautiful, you know?"
+TP
+
+WVP 0 vmcca0018shi034
+Shinkawa: "You eat what you eat, and expel what---"
+TP
+
+Taichi: "Ah, you can stop there. My dreams are precious."
+TP
+GL 1 TCSY0002s
+GI 1 0
+
+WVP 0 vmcca0018shi035
+Shinkawa: "......your dreams?"
+TP
+
+Taichi: "I'd love to change places with you and get all affectionate with your niece-chan."
+TP
+GL 1 TCSY0000s
+GI 1 0
+
+WVP 0 vmcca0018shi036
+Shinkawa: "Uwaa, don't make me imagine that; it's disgusting."
+TP
+
+Taichi: "It'll never be reality......"
+TP
+
+This person really finds it disgusting.
+TP
+
+Long live erotic novels.
+TP
+
+Taichi: "Then come visit me sometime."
+TP
+
+WVP 0 vmcca0018shi037
+Shinkawa: "Oooh, I'll introduce you to her."
+TP
+
+Taichi: "Seriously?"
+TP
+
+I was fluttering.
+TP
+
+WVP 0 vmcca0018shi038a
+Shinkawa: "......it's no big deal, but......don't get your hopes up, okay?"
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 109 0
+
+WVS 3 1
+
+It's no big deal.
+TP
+
+It will later become clear that the eyes of the guy who said that were knotholes on par with the Taepodong.
+TP
+WT 500 0
+WT 500 1
+
+WVS 1 1
+WVS 3 1
+
+RET

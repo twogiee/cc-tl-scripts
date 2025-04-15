@@ -1,0 +1,207 @@
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+//HACK no Kiri doll yet -GHS
+
+
+
+//廊下に霧がいる。
+Kiri was in the corridor.
+TP
+
+
+//これもいつも通り。
+This, too, was just as always.
+TP
+
+
+//ただ効率よく行かないとな。
+It's just that things often don't go efficiently.
+TP
+
+
+//太一「霧ー」
+Taichi: "Kiriii!"
+TP
+
+GL 1 TCSK0001
+GP 1 220 0
+GI 1 1
+//HACK fade doll now -GHS
+
+WVP 1 bgm017.ogg 0 0 0
+
+WVP 0 vfCCD0001kri020
+//霧「む！」
+Kiri: "Mngh!"
+TP
+
+
+//睨まれる。
+I'm glared at.
+TP
+
+
+//太一「む！」
+Taichi: "Mngh!"
+//CP mmmh, pasta
+TP
+
+
+GL 4 zzzCCC0026electric1
+GO 1 0
+GI 4 4
+//HACK Awesome! -GHS
+
+//睨む。
+I glare
+TP
+
+SEF 2 0
+//HACK flash screen -GHS
+
+//ババババババババッ！！（心理効果）
+DrRrRrRrRrRrRrRrRill!!! (psychological effect)
+//CP CCC0026
+TP
+
+
+
+//乳首が痒くなったが我慢した。
+I just endured the itch that came in the nipple.
+//No way even that's preordained! -GHS
+TP
+
+//GL 2 TCYM0003
+//GP 2 180 0
+//GS 2 1
+//GS 1 0
+//SEF 109 0
+//HACK no need -GHS
+
+WVP 0 vfCCD0001mki028
+//美希「ふいー、スッキリしたー」
+Miki: "Wheeew, so refreeeshed!"
+TP
+
+
+//やがて美希がトイレから出てくる。
+Before long Miki comes out the toilet,
+TP
+
+
+
+
+//GL 2 TCYM0004
+//GI 2 0
+GL 4 zzzCCC0026electric2
+GI 4 1
+//HACK and awesome 2 -GHS
+
+
+WVP 0 vfCCD0001mki029
+//美希「にょーーーーっ！？」
+Miki: "Pyyyyy?!"
+//尿 (nyou - urine). Guessing it goes with CCB2011. -GHS
+TP
+
+
+//直前までしていた行為にふさわしい悲鳴が耳朶を打った。
+and a scream suitable to actions taken up until just then struck the earlobes.
+//And that's why. This can refer to Taichi and Kiri and be just a "nooo", of course, but on the other hand: !!PISS PUNS!! -GHS
+TP
+
+
+//じり、と前に出る。
+I inch one step ahead,
+TP
+
+
+//太一「俺が何の用意もなく、ここに来たとでも思ったか？」
+Taichi: "Did you really think that I would've come here without any sort of preparation?"
+TP
+
+
+//と、胸元に手を入れる。
+and bring my hand to the chest.
+TP
+
+
+//そこに必殺の武器が……あるわけではなくただのハッタリだ。
+And there, my Certain Kill Weapon... isn't because it's all a bluff.
+TP
+
+
+//かわりに乳首も掻いた。
+Instead, I scratched my nipple.
+//Seems to do so OVER the shirt, not the breast pocket. And still, he scratches the nipple. He can't resist himself, can he. But was it itchy because of predetermination or because of self-fulfilling prophecy? -GHS
+TP
+
+
+//威嚇と乳首の痛痒を解消する、一石二鳥の技。
+It is a technique capable of killing two birds with one stone, simultaneously liquidating the anguish of both threat and nipple.
+TP
+
+
+//霧も背中に手をまわす。
+Kiri also puts her hands behind her back,
+TP
+
+
+//クロスボウを、前方に構えた。
+and she takes her crossbow out front.
+//She literally pulled it out of her ass! -GHS
+TP
+
+
+GL 0 evcc0024a
+$CGevcc0024a = 1
+GS 0 1
+GS 2 0
+GS 4 0
+//HACK with the CG too -GHS
+SEF 155 0
+
+
+//太一「うわああああ」
+Taichi: "Whooooa."
+TP
+
+
+//適当に驚く。
+Adequate surprise,
+TP
+
+
+//しかし緊張するな……。
+however, don't you go getting mentally strained...
+TP
+
+
+//当たって死んでも問題ないとは言え。
+It could be said that there's no problem even if I get struck dead.
+//IOW, he is CERTAIN that he will be back at the hokora and do the same stuff as of now. Very interesting change in behavior. -GHS
+TP
+
+
+//ふーむ。
+Hmm-hm.
+TP
+
+
+//そういう選択肢もあるのだろうか？
+I wonder if that's going to be one of the choices?
+//Fourth wall/ fourth wall/ this VN/ has no fourth wall (on the Spider-Man cartoon theme because uhmmm science). -GHS
+TP
+
+
+
+CSQ 0 1 1
+//　・ためしに攻撃
+//　・降伏
+ - Try an attack
+ - Capitulate
+
+
+RET

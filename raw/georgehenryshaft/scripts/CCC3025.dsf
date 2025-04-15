@@ -1,0 +1,1130 @@
+
+
+TWS 7
+GL 0 bgcc0022
+//Compare CCA0002. Perhaps it's just the graphics artist, but it's interesting how it has the same "peek into the trees with an upper-right slant" as our first view of Kamisaka. -GHS
+GS 0 1
+GS 1 0
+//SEF 109 2
+SEF 54 4
+GL 5 zzzblackblend
+GP 0 0 0
+GP 1 0 0
+GP 2 0 0
+GP 3 0 0
+GP 4 0 0
+GP 5 0 0
+GI 5 1
+//HACK open in manners similar to flashback, NVL mode -GHS
+
+WVP 1 bgm021.ogg 0 0 0
+
+
+//彼女はいつも一人だった。
+> 
+ 
+That girl was always alone.
+TL
+//親族や使用人の誰とも、交わろうとはしなかった。
+She had no desire to mingle with anybody, neither
+the relatives nor the employees.
+TL
+//孤高の君―――
+> 
+You who stand above---
+//CP CCC0000
+TL
+//俺は、彼女を内心でそう呼んでいた。
+> 
+That is what I called her in my innermost
+thoughts.
+TL
+//言葉をかわしたことはない。
+There had never been exchange of words.
+//Specific, she DID talk to him before. -GHS
+TL
+//気にはなっていた。
+My interest had been piqued.
+TP
+
+
+//屋敷がどのような人々によって維持され、いかなる経緯をたどってこの有様になったのか、俺は知らない。
+> 
+ 
+I don't know what kind of people maintain the
+mansion or how, or even the particulars of how
+things were made to be the way they were.
+//How Eden came to be is an unknown to him. -GHS
+TL
+//ただそこは、時の流れから隔絶された楽園のごとき場所だった。
+Just that this place was like Eden, separated
+from the flow of time.
+TL
+//住むのもまた、浮世離れした人々で。
+The residents were, themselves, the people of
+a secluded faraway world.
+//See CCC0000 -GHS
+TL
+//ときおり俺は彼女らに招かれ、甘い飲み物を振る舞われた。
+On occasion I was invited by the girls, and
+treated to something sweet to drink.
+//Possibly before he was made a full-on doll. -GHS
+TL
+//着飾り、茶を楽しみ、人を招き、散策。
+Dressing up, enjoying tea, welcoming people in,
+strolling.
+//Not specifically mentioned "as a girl". Term GISes ambiguously. -GHS
+TL
+//毎月頭には大量の書物・衣類・嗜好品が届いた。
+At the beginning of each month, a huge quantity
+of books, clothes, luxury food and consumables
+were delivered.
+//The wealth is the Hasekura equivalent of the power plant in Kamisaka. This idea of "rich cutoffs from the world" keeps returning here. -GHS
+TP
+
+//広い庭。
+> 
+ 
+A huge garden...
+//Reminded of Kamisaka yet? How about now? -GHS
+TL
+//庭師という人々もいた。
+There were also people called gardeners.
+//Oddly enough, this term has been changed in the PS2 version alone, which reads "there were also people who only managed the garden". -GHS
+TL
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　こうばく
+//人里離れ、地代が安いことを差し引いても、なお広漠たるものがあった。
+Even taking into account that land rent was cheap
+and that it was distant from human populated
+areas, it was still almost boundlessly huge.
+//...wait, they still have land rent in Japan...? -GHS
+TL
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　こうだいむへん
+//小さな俺にとって、お屋敷は広大無辺な世界そのものだったのだ。
+For me, small back then, the residence was the
+whole infinitely wide world itself.
+//He doesn't use boku here like in CCC0000. Older revision in CCD3003B generally lacks pronouns. -GHS
+TL
+//実際、屋敷時代以前の記憶はない。
+In truth, I have no memories of a time before
+the mansion.
+//MEMORY HUNTER!!! It's not true, see CCX0001 (and Nanaka). -GHS
+TL
+//世界と屋敷は同じ大きさだった。
+The world and the mansion had the same huge size.
+//Not only it is the original Fall of Mankind (although including the angels of the Hasekuras and the later fallen angels of the Shinkawas is a bit mushing it with the fall of Lucifer and pre-man concepts), it's also a metaphor for Taichi's early childhood. Lots of books, distant people, treated barely as someone of his own gender, and later bullied and teased for it, sexually as well. I suspect this is going to hit close to home with regards to Tanaka's own personal history. -GHS
+TP
+
+
+
+//ある頃からか、俺はご婦人がたに気に入られるようになった。
+> 
+ 
+Ever since somewhen, I had been of interest to the
+older ladies.
+//Origins of gerontophilia? -GHS
+TL
+//女のような顔をしている、とのこと。
+For having a face like a woman's, that is.
+TL
+//また俺の白い髪と、間近で見るとわかる不思議な模様を描く瞳も、彼女たちを退屈させなかった。
+As I also had white hair, and an inexplicable
+design drawn on my pupils that could be seen
+when looked at closely, I never bored them.
+//He claims he had white hair before the killing of the Shinkawas, contradicting CCX0001 and CCC0011C, but consistent with CCA0013 where he misdreamed Sakuraba's hair. -GHS
+TL
+//少女の着るような（それもとりわけ華美な）ドレスを着させられた。
+I was made to wear a girl's (and, above all,
+pompously gaudy) dress.
+TP
+
+//そしてお茶の相手。
+> 
+ 
+And then, I was a tea companion.
+TL
+//子供にお茶の味などわからない。
+Children don't understand the flavor of tea.
+//Tea is generally taken without sugar in Japan, AFAIK, and then there's the whole Adults Can Taste Bitter While Children Stick To Sweet cliche' to keep in mind; that's what he's talking about tasting the Bitter and Sweet when he talks about becoming a Young Adult, who will therefore be between the two tastes. See CCC3004: that thing about the tea should connect here. Also, for some reason the console version changes "kodomo" to write "domo" in kana for reason I can't fathom. -GHS
+TL
+//でもつきあった。
+But I kept company.
+TL
+//砂糖菓子めいて甘やかな人々に対し、逆らうという選択肢はなかった。
+Against those people as sweet as confectionery
+a choice labeled opposition did not exist.
+//See CCC0000. The "choice" part is important, once this becomes a VN. -GHS
+TL
+//……イヤではなかったし。
+...and it wasn't something I disliked.
+//See CCC0000. He should've, perhaps, and now he gets Persecuted by Satan. -GHS
+TL
+//こうして幼い子供らに馬乗りにされ髪引かれる玩具業務から離れた俺は、新しい仕事として人形業務に就くことになった。
+And thus I was taken from the job of letting
+little children ride horseback as they pulled
+my hair, and I began a new job in the role of
+a doll.
+//Damn double meaning. Of horseplay, of course. -GHS
+TP
+
+GO 5 1
+GL 3 zzzCCC3025youko
+GP 3 0 0
+GI 3 1
+GI 5 1
+//HACK these clothes don't match either hers or Taichi's in CCC0000, for what it matters. And it doesn't because CHIBI YOUKO OMFG KAWAII DESU NYAN. -GHS
+
+//そんな俺を、彼女……孤高の君はひややかな視線で見ていた。
+> 
+And I was like that when she... you who stand
+above looked at me with cold-heartedness in her
+sight.
+TL
+//いや、見てさえいなかった。
+No, she wasn't even looking.
+TL
+//興味がないらしく、視線はいつも俺を素通りしていった。
+Her sight always passed through me as if I simply
+did not exist, as if there was no interest in me.
+//See Touko. -GHS
+TL
+//支倉曜子。
+Hasekura Youko,
+TL
+//末娘。
+youngest of the girls there.
+TL
+//ただ家族からは、それほど可愛がられている様子はない。
+There wasn't that much affection from her family.
+TL
+//むしろ疎んじられていた。
+More like, she was being shunned.
+TL
+//なるほど確かに彼女は、なかば夢幻の住人であるご婦人がたとは、違う世界に生きていた。
+I see, it's certain, she lives in a different
+world from that of the ladies that half-dwell
+in fantasy.
+//This sentence latches on to a similar one below, one in CCC3008, and one in CCC4015, so gave it a bit more distinction. -GHS
+TL
+//……現実という世界に。
+...in the world called reality.
+//Youko. In the world called reality. Sure, if we consider it in the "of this world" sense. -GHS
+TP
+
+
+GO 5 1
+GO 3 1
+GI 5 1
+//HACK and back to the outside shot. -GHS
+
+//一度、掃除の人夫として駆り出されたことがある。
+> 
+ 
+Once, it happened that I was tossed out when I
+was working as a cleaning man.
+TL
+//人形ハジメマシタ、以前のことだ。
+It was before the Time of the Doll had begun,
+//"Ningyou Hajimemashita", latter in katakana, odd way to put that. Could be a reference or a pun, in the former all I found is some adult video that seems too recent, in the latter I got nothin'. Maybe just aesthetics. -GHS
+TL
+//使用人さんたちにまじって参加した。
+when I was mingling with the servitude.
+//Another term censored in the PS2 version alone. It's such a hack job that it ended up with two -san honorifics in a row. Wonder if they just had a list of "no no" words and did a quick search and replace weeks before shipping. -GHS
+TL
+//通いの人間は使わない方針だったためか、人手の貸し借りは茶飯事だった。
+Perhaps because there was a policy to avoid
+using people who don't live in the house, lending
+and borrowing of manpower was a common thing.
+TL
+//十時と三時にお茶の休憩を一時間ずつ挟みながら、順番に部屋を掃除していく。
+I cleaned the rooms one after the other. It was
+an unhurried, well-paced job that also had
+one-hour tea breaks at ten and at three.
+//Those seem correct hours for tea breaks. In fact, given the etymology of "滅茶" mecha, literally written annihilate + tea and often translated as "pushing yourself": http://ameblo.jp/vetsubara/entry-11307356190.html (J only) this laterally means what I added above. I guess lunch is assumed. -GHS
+TL
+//夕方には彼女の部屋に辿り着いた。
+At evening's dusk I had finally reached her room.
+TP
+
+
+
+//はじめて彼女の声を聞いた。
+> 
+ 
+ 
+> 
+ 
+I heard her voice for the very first time.
+TL
+WVP 0 vfCCC3025you000
+//曜子『……ここはいいわ』
+> 
+ Youko: 『...no need here.』
+//He doesn't reply, so this is still not a conversation and there's no technical contradiction. Same fake high-pitched tone as in CCC3005... but not CCC0000. -GHS
+TL
+//短くそっけない。
+> 
+Short and brusque.
+TL
+//機能的。
+Efficient.
+TL
+//けど、蠱惑的だった。
+Yet, it was as captivating as magic.
+//Same description as Machiko-sensei, see CCA0007. -GHS
+TP
+
+
+//ちらりと見た室内は、とても乙女の部屋とは思えない。
+> 
+ 
+A fleeting glance inside her room showed me
+something that did not make me think of a
+maiden's room at all.
+TL
+
+//数台のパソコン。
+A number of computers,
+//This should be around 1990-91. Probably X68000 and PC-98. Lots of VNs and eroge on those systems. -GHS
+TL
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　うずたか
+//四方の壁を覆い隠す本棚と、そこにおさまりきらず床に堆く積まれた書物。
+walls in all four directions entirely covered
+in bookshelves, and as those were insufficient,
+tall piles of books on the floor,
+TL
+//重々しい工作台と、使い込まれた工具。
+a worktable of ponderous look, with tools that
+looked very well used.
+//See CCE0001, her apartment in Kamisaka will be near word for word identical. There's no escaping a prison you build and decide to live in yourself. -GHS
+TL
+//かなり広い私室は雑多な知識と技術で埋め尽くされていて、秘密基地を連想させた。
+Her fairly big personal room was completely 
+buried under miscellaneous knowledge and craft,
+and it was reminiscent of a secret base.
+//Same term Sakuraba uses for the nuclear plant in CCA0002. -GHS
+TL
+//なるほど確かに一人だけ異質な者が、異世界にはいたのだ。
+I see, it's certain, a heterogeneous person
+that's always alone dwells in a parallel world.
+//Latches on to above. This is the literal SF term... and of course, the closest to the literal truth of Cross Channel (in part). -GHS
+TP
+
+
+
+//綺麗な衣装を着て、女の子の言葉遣いでお茶の相手をしている時、支倉曜子について問いかけたことがある。
+> 
+In the time when I was wearing a gaudy dress, and
+was a tea party companion speaking with a girl's 
+mannerisms, I did ask about Hasekura Youko.
+TL
+//もの静かな老婦人は答えた。
+A very quiet older lady replied,
+TL
+//末の息子のそのまた娘と。
+that she is the daughter of the son of the son of
+the Head.
+TL
+//若く快活な婦人は答えた。
+A younger and cheerful adult lady replied,
+TL
+//望まれて生まれた娘ではないと。
+that she was a daughter born unwanted.
+TL
+//>　　　　　　　　　　　　　　さえず
+//姦しい三姉妹は囀った。
+Three boisterous sisters chirped,
+//姦 is used in a sentence that contains three 女 girls, astonishing! The kanji is more commonly found in the word 強姦 kyoukan, which is one of the many and varied words in Japanese that means "rape". It was, of course, replaced in the PS2 version. -GHS
+TL
+//若旦那とうら若き使用人との秘められた恋物語と、その顛末。
+that it was a secret love story between the young
+master and a young servant, and those are the
+facts.
+//Since these are half-quotes anyway. Hmmm, with Taichi that's just six people. -GHS
+TL
+//誰にもなつかず愛を知らない娘の咎と、訪れるであろう悲劇的結末。
+It was an infamy of a daughter, emotionally
+unattached to all, never knowing love, and the
+tragic fate likely to come.
+TL
+//支倉の血でありながら支倉の一員ではない、そんな汚点に対する嘆き。
+What sadness for the stain of having the blood
+of the Hasekura while being not of the Hasekuras.
+TP
+
+
+//要するに忌み子だったのだ。
+> 
+ 
+ 
+In other words, she was a shunned, taboo child.
+TL
+//誰も彼女に語りかける者はなく、彼女もまた誰にも語らなかった。
+There was no one who would come and address her,
+and she, on her own, addressed nobody.
+//See Touko again, and most importantly, Nanaka as described in CCX0001. -GHS
+TL
+//腫れ物だった。
+She was a tumor.
+//See KCOP0003: "It's not a tumor." -GHS
+TL
+//彼女の実父である若旦那なる人物は、海外に留学してしまったそうだ。
+The young master, her real father, seemed to be
+studying abroad.
+TL
+//母親の使用人は……亡くなっていた。
+The servant, her mother... had passed away.
+TL
+//何者にもなれない少女。
+A girl that could become no one,
+//See CCX0001: this is something that Taichi wants, and despises. -GHS
+TL
+//誰にも求められない少女。
+a girl desired by no one.
+TL
+//傷つく。
+Wounded.
+TP
+
+//否。傷つかない。
+> 
+ 
+ 
+> 
+Untrue. Not wounded.
+TL
+//支倉曜子は強かった。
+Hasekura Youko was strong.
+TL
+//意に介さなかった。
+She paid no heed.
+TL
+//たぶん気づいていたんだと思う。
+I think, perhaps, that she had noticed,
+TL
+//世界が箱庭であることを。
+how this world was a miniature garden.
+TP
+
+
+
+//人形生活の合間、俺は図書室に通った。
+> 
+ 
+ 
+In the spare moments of my life as a doll,
+I made my way towards the library.
+//They even censored "as a doll" here in the PS2 version. -GHS
+TL
+//影響を受けたのかも知れない。
+Maybe she had influenced me, who knows.
+TL
+//貴婦人からは作法とお茶を学んだ。
+I studied etiquette and tea ceremony in depth
+with the ladies,
+TL
+//けれど知恵と技術と真実は、そこにはなかった。
+but in those, wisdom, art and truth there weren't.
+TL
+//補うために、使う者の少ない図書室に通い詰めた。
+To supplement, I frequently visited the rarely
+populated library.
+//He searches for wisdom, art and truth in books, away from what he is taught by others. Fascinating he'd even seek these things at all... -GHS
+TP
+
+
+//曜子ちゃんとはよく出会った。
+> 
+ 
+I met Youko-chan frequently,
+TL
+//依然として会話はない。
+yet still without conversation.
+TL
+//>　　　　　　　　　　しゃく
+//なんとなく癪だったので、俺からアプローチすることもなかった。
+For some annoyance or another, there was no
+approach from me either.
+//See CCD5001: he'll say it was an unspoken agreement. But was it really? -GHS
+TL
+//好ましくは思っていたけど、仲良くなりたいと願いはしなかった。
+I thought her as desirable, but I had no wish for
+us to become good friends.
+//OTOH, he does understand that if she wanted to contact anyone, she'd have done it at this point, not when it's convenient for her. And she wouldn't have fallen in pseudo-love with him in the horror of the idea of mistreated him. -GHS
+TL
+//俺の美的傾向は、この頃から確立されたようだ。
+Seems that my aesthetic sensitivity was formed
+right around that time.
+//See CCB0004C, when he calls Touko 'art'. Actually false: it was formed back when he was being held by his mother, alone against the world, see CCX0001. As is usual, him considering Youko his muse, in this sense, is still more revealing - especially considering how motherlike Youko is. -GHS
+TL
+//なんというか……自立しているものに惹かれた。
+How to say this... I was attracted, charmed, by
+what can stand on its own.
+//Misato alone in her flight; Touko aloof in her seat; Yusa the excluded one; Kiri who fights for justice against the world; unreset Miki attempting to control everything... one of the story's themes is to break this mistaken ideal that Taichi constructed. After all, his mother, the true inspiration, was despairful, dying... and probably all as the result of a choice, that to have Taichi, that is very likely intended as debatable. -GHS
+TL
+//独力で生きるものと、力に。
+By that strength, the strength that allows living
+on one's own.
+TP
+
+
+
+//知識にしろ技術にしろ、そういう側面がある。
+> 
+ 
+ 
+> 
+ 
+Whether it's in the knowledge or whether it's in
+the craft, that side of things exists.
+TL
+//人は群れる。
+Humans flock together.
+//GUNjou. -GHS
+TL
+//群れることを渇望する。
+They crave flocking itself.
+TL
+//そして同時に、聖域を持とうとする。
+And then, simultaneously, they want to have a holy
+ground, a sanctuary.
+//See Taichi's Maths folder. -GHS
+TL
+//侵害されない自分のための場所を欲する。
+They desire a place for themselves that
+is never infringed.
+TL
+//しかし人と接すれば境界線は揺らぐ。
+Yet when people come into contact, the boundary
+lines waver.
+//See CCD1001, this is the field of hearts -GHS
+TL
+//領土は減ったり増えたりする。
+The size of this domain maybe decreases, maybe
+increases.
+//MORE than the sanctuary desired is also problematic! -GHS
+TP
+
+
+//不快。
+> 
+ 
+ 
+> 
+Discomfort.
+TL
+//矛盾。
+Contradiction.
+TL
+//一般的な価値観では、豪壮なる千の軍隊より、一人の英雄が好まれる。
+In the general sense of values it's the lone hero
+that is beloved, more than the thousand of armies
+and their splendor.
+//...but heroes always have their own nakamas... -GHS
+TL
+//単一の絶対者。英雄。
+Hero: a single solitary Absolute.
+//Try ubermensch. He totally spent too long with wasteful reads Nietzsche and postmodern "narrative" theory. -GHS
+TL
+//人の望むもの。
+That is what people wish for.
+TL
+//憧れという形をとった、願望に過ぎない。
+It's no more than what they want taking a shape
+with the name of Aspiration.
+//Aspirations suc(snip) -GHS
+TL
+//一人で生きたいのか、群れて生きたいのか。
+Do they want to leave alone, or do they want to
+live in the flock then?
+TP
+
+
+//閑話休題。
+> 
+ 
+ 
+But I digress.
+//CP CCA0002
+TL
+//図書室では、彼女の読んだ本を追って読んだ。
+> 
+In the library, I would read the books that she
+read after her.
+//It's a chase, this returns with Misato especially. -GHS
+TL
+//憧れから。
+Because of this aspiration.
+TL
+//あるいは少女の完璧さへの嫉妬から。
+Or, perhaps, because of jealousy for her
+perfection.
+//Contrast CCC3022 -GHS
+TL
+//書物の内容は高度過ぎてほとんどわからなかった。
+The subjects of the book were extremely advanced,
+and I just about didn't understand them,
+//See also CCC3013. He just likes to chase difficult stuff if he's fascinated. -GHS
+TL
+//けど読み続けた。
+yet I kept reading.
+TL
+//図書室では何百回となく出会い、すれ違った。
+We met in the library so many hundreds of times,
+just passing by each other, never meeting.
+//See CCD5001. -GHS
+TL
+//一度の会話もない空間を、俺たちは共有し続けた。
+We co-owned that air that never once we filled
+with conversation.
+//See CCA0006. SYMBOLISM. -GHS
+TL
+//そういう時代が、数年間続いた。
+And that era continued for several years.
+TP
+GO 5 1
+GL 0 bgcc0022a
+GS 0 1
+SEF 109 0
+GI 5 1
+//HACK remove dimming so it's easier to see BG change -GHS
+
+
+//で、だ。
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+                    And then.
+TP
+
+//楽園には崩壊がつきもの。
+> 
+ 
+ 
+> 
+ 
+Downfall is inherent in Eden.
+TL
+//これは人類最初の楽園からしてそうだから、避けようのない摂理と考えられる。
+It has been like this ever since the original Eden
+of mankind, therefore, I believe it to be a divine
+providence from which there is no escape.
+//This is one of the most important themes in the entire VN. Notice how he's talking about the Biblical Eden as if it was absolute fact. That's an odd thing for something that shouldn't have a mythological backstory... -GHS
+TL
+//崩壊。
+Downfall.
+//This explains the first week, too. No, not the second; the first. The first was the Eden of Cross Channel as a story: the unnecessarily high-written but simple and straightforwards eroge. And then... -GHS
+TL
+//具体的には、屋敷のご当主である支倉氏の急激なる凋落によって。
+Specifically, the sudden ruin of the head of the
+Hasekura family.
+//凋落 seems to be often found in this kind of contexts, which would tie to the concept of Downfall. He might just have lost everything in a market crash or malinvestment and been sent off in disgrace, especially since the guy's waaay obviously a Yakuza boss. -GHS
+TP
+
+
+
+//悲劇のはじまりだった。
+> 
+That was the beginning of the tragedy.
+TL
+//支倉のお上品な人々は、いなくなった。
+The refined people of the Hasekura were gone,
+TL
+//使用人たちは残された。
+and the servants were left behind.
+TL
+//支倉のかわりに入ってきたのは、新興の人物とその親類縁者だった。
+Instead of the Hasekuras, new relatives that
+were on the rise settled in.
+//Possibly just a wealth thing, but also possibly just a popularity thing. This could just be a branch family coming in after the old head is arrested/killed in the kind of badass knife fight either japanese yakuza tend to have or that I just made up on the spot. It also follows the decadence of the mafia, seen also in the West, from old/traditional families with some interest for the appearance of decorum to far openly murderous thugs.
+//This is further metaphorized in the form of a dog that only ever attacks the Triple Secret Mister Exposition. Because Cross Channel. Oh, on the rise = SHINkou, like Shinkawa. I don't know why all the foreshadowing since it's all said five minutes later, maybe the reveal of who Yutaka is was to come later? Wonder if this script had to originally be part of the beginning of the route. -GHS
+TL
+//粗暴な人々であった。
+We met wild, rude, violent people.
+//To go meta, this represents your standard true love and weird fetish eroge got gradually flanked, perhaps in a sense replaced, by dark nukige. Cross Channel could be said to be a spiritual sequel to one, or perhaps, of a bad end route. And that's why it's in truth the sequel to Classroom of Atonement: Bad End. ~fin~ -GHS
+TL
+//老若男女、揃ってやってきた。
+Men and women, young and old, all alike,
+TL
+//全員が、腐肉あさりの素質を持っていた。
+all of them to the last had the makings
+of carrion eaters.
+//This is the precise acceptation of everything goes on about with "devouring". -GHS
+TL
+//三日経たないうちに、使用人の一人が暴行された。
+Three days hadn't passed and one of the servants
+was assaulted.
+TL
+//事件である。
+A matter for investigation,
+TL
+//けれどここは箱庭だった。
+however, this was a miniature garden.
+TP
+
+
+
+//閉鎖された空間。
+> 
+This space was sealed.
+//See CCC0009, Miki doesn't mean just Tasaki. -GHS
+TL
+//独自の秩序が発生した。
+It had originated its own order.
+TL
+//広大な土地に囲まれた屋敷ともなれば、治外法権に近い。
+//When a town is surrounded by steep ridges of mountains, it is nearly extraterritorial.
+When a mansion is surrounded by a vast plot of
+land, it is nearly extraterritorial.
+TL
+//日々、どんな饗宴が繰り広げられたか。
+And what kind of feast would unfold there,
+day after day?
+TL
+//屋敷の一室は、もとは夜会に用いられていたホールだった。
+One of the room of the mansion was, originally,
+used for evening parties.
+TL
+//支倉の人たちは、ちょっとしたパーティーが大好きで、よく使用されたものだ。
+The people of the Hasekura family really loved
+their little events, so it was used quite
+frequently.
+//A Comic Party? -GHS
+TL
+//粗暴な人々は、ここを別の夜会に用いた。
+The violent people used it for a different
+sort of evening party.
+TL
+//上品な会話も上質の料理もなく。
+There was no elegant conversation nor fine food,
+TL
+//かわりに堕落と退廃が満たされた。
+and instead it was filled to the brim with
+depravity and decadence.
+//堕落 is the literal term used for the Fall of Man. http://ejje.weblio.jp/content/%E4%BA%BA%E9%96%93%E3%81%AE%E5%A0%95%E8%90%BD It's used several other times, but sparingly enough to make this the most relevant. -GHS
+TP
+
+//……きっと、何人も犠牲になったのだと思う。
+> 
+ 
+...I think that many people were made into
+sacrifices, definitely.
+//Torturers and torturees are different kinds, but they're both sacrifices to the same thing. Plus all the dead. -GHS
+TL
+//たとえば、若い使用人の夫婦がいた。
+For example, there was this young married couple,
+servants.
+TL
+//妻が輪姦された。
+The wife was gang raped.
+//Finally a get to use one of the first words I've learned in Japanese! -GHS
+TL
+//いや。
+No,
+TL
+//輪姦され続けた。
+repeatedly gang-raped.
+//Boy do I hate how thick Tanaka piles on the tragic. Oh, wait, I'm a tanakafag or stuff aren't I? -GHS
+TL
+//ありとあらゆる方法で肉体をはけ口にされ、従属させられた。
+She was made subordinate to every single possible
+method for a body to be used as an outlet for
+others.
+TL
+//夫は抵抗した。
+The husband resisted,
+TL
+//妻を助けようと警察に連絡を取った。
+he contacted the police so to rescue his wife.
+TP
+
+//警察は介入してこなかった。
+> 
+ 
+The police did not intervene.
+TL
+//たぶん面倒だったのだと思う。
+I think maybe it was just an annoyance for them.
+TL
+//別に買収されてもいなかっただろう。
+I don't even think there was much in the way of
+bribes.
+TP
+
+
+//屋敷のネットで調べてみた。
+> 
+ 
+I investigated the mansion on the 'net.
+//This should be '92-'94 at best, so it should still work. I didn't start until '94-'95 and I remember when the Geocities Look was just barely getting started... hell I remember when Yahoo looked like a good idea, when you'd get banned from IRC for daring to criticize Windows 95, and AOLamer was only about to become a thing (today the term is "GameFAQs level", not that I believe all adjectives to "Internet discussion" to be anything but completely redundant). -GHS
+TL
+//警察のこうした対応によって看過された犯罪は、数限りなくあった。
+Crimes without number were being overlooked with
+the complicity of the policy.
+TL
+//民間の権利意識が肥大化すると、おいそれと介入できなくなるのだった。
+The sense of entitlement in the population was so
+bloated that intervention at a moment's notice
+became impossible.
+//See CCA0003. Indeed it is near its end. -GHS
+TL
+//些細なミスを、親の仇のように責める人間が増えるのだ。
+An increasing number of humans would persecute
+tiny little errors as if they were offenses
+against their own family.
+//Humans is still colder. See every single online community there ever was and ever will be. This was bad in the '90s, insufferable in 2003, and is as of writing beyond what I would consider my worst predictions (and they were bad, lemme tell ya). This is only at the beginning stages, asw ell. -GHS
+TP
+
+
+
+//動かないのが一番。
+> 
+ 
+Inaction is best.
+TL
+//怠慢ではあろうが。
+Negligence will result, but,
+TL
+//不完全な人間の組織としては、この程度が限度だと俺は思う。
+for an organization of incomplete humans that is
+the limit, I think.
+TL
+//誠実さは必要だろうが。
+I've got to be sincere here:
+TL
+//自分を助けるのは、自分の有能さだ。
+what can save yourself is your own power.
+//See CCC0000. -GHS
+TL
+//……と思えば腹も立たない。
+...by thinking that, there's no getting angry.
+//Leaving it generic, as this is also a suggestion. -GHS
+TL
+//大きな実害を被らない限りにおいて、他人の不手際や浅い見識に腹を立てるということは。
+Getting angry about other people's clumsiness
+or shallow opinions, the point where there is
+no infliction of serious harm at least,
+TL
+//心の一部を、他者に委託していることになる。
+is to commit one part of one's heart to others.
+TL
+//でもそれが普通。
+But that's normal.
+TP
+
+
+
+//普通であるということは。
+> 
+ 
+To be normal, that is,
+TL
+//人の限界に起因する、理不尽で不完全なルールに身を置くことでもある。
+is also for one to invest themselves in the absurd
+and imperfect rules generated by people's
+limitations.
+TL
+//……優しいゆりかごであるはずがない。
+...there is no expectation that the cradle
+will be gentle.
+//The concept of the real world as nothing but the cradle for mankind in the next one, so very Christian. -GHS
+TL
+//ことに閉鎖空間では、正常な倫理さえかすむ。
+Above all, in a sealed space the typical ethics
+themselves grow dim and hazy.
+//Similar terms as CCA0001 -GHS
+TL
+//粗暴なことが日常と化しやすい。
+Violence is easily made into the ordinary
+of a life.
+TL
+//たちむかうには、強固な自我。
+What was needed to to fight against this were
+a firm ego,
+//Moved a bit from below -GHS
+TL
+//揺るぎない自己のシステムが必要だった。
+and a system to make the self unwavering.
+TL
+//……彼女のような。
+...like hers.
+TP
+
+
+
+//さて。
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+                     So then.
+//He really gets off the point easily. This reminds me of when I was back in 'Nam, we were going after Charlie and-GHS
+TP
+
+//妻は慰みものにさせられ、妊娠させられたり堕胎させられたりした。
+> 
+ 
+As the wife became tool of amusement, she was
+made pregnant, then to abort the child.
+TL
+//男たちを悦ばせる方法を、たくさん身につけさせられた。
+She was made to learn the many methods to give
+pleasure to men.
+TL
+//彼女は笑わなくなった。
+She stopped smiling.
+TL
+//使用人の仕事にも、参加しなくなった。
+She did not participate in the work of the
+servants anymore, either.
+TL
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　だくだく
+//衣類の着用を禁じられると、彼女は諾々と従った。
+When she was forbidden to wear clothes, she
+gave two bobs of her head and obeyed.
+//See CCC3027, Kiri's panties and Taichi. Odd place for an SFX-like word, may be a leftover of the original sarcastic tone of the script. -GHS
+TL
+//彼女は刺青を彫られていた。
+She had tattoos engraved on her,
+//See CCB2014, Touko and Youko. Both of them had the best of teachers, it seems. -GHS
+TL
+//卑猥な刺青だ。
+indecent tattoos.
+TL
+//性器を指し、その所有を夫ではないと示した。
+They pointed to the genitals, showing that they
+were no longer the husband's possession.
+TL
+//粗暴な人々は、その方面において際だって有能ではあった。
+The violent people were extraordinarily capable
+in that field.
+TP
+
+
+//徐々に心も沈む。
+> 
+ 
+ 
+And gradually hearts sink as well.
+TL
+//夫は最後の手段に出た。
+The husband fell on the last resort,
+TL
+//妻を連れて逃げ出したのだった。
+to take the wife and run away.
+TL
+//三日で連れ戻された。
+In three days they were brought back.
+TL
+//夫は殺された。
+The husband was killed,
+TL
+//妻が輪姦されている脇で。
+right next to her wife who was being gang-raped.
+TL
+//死体は庭に埋められた。
+The cadaver was buried in the garden.
+TL
+//男たちはゲラゲラ笑いながら、桜の木の根本に埋めたのだ。
+The men buried him under the roots of a cherry
+tree, guffawing throughout.
+//This seems known enough, but still http://en.wikipedia.org/wiki/Motojir%C5%8D_Kajii -GHS
+TL
+//とまあ、倫理の壊れた連中だった。
+Well, those guys had broken ethics.
+//Another slightly off-tone one. -GHS
+TP
+
+
+//ある時、一人の男が家族を連れてやってきた。
+> 
+ 
+Once, one of the men brought in his own family.
+TL
+//新キャラの登場。
+The introduction of that new character.
+//Shinkyara no toujou -> Shinkawa no toujou. Further, possibly abandoned foreshadowing. See CCA0011C for more. -GHS
+TL
+//幼児性愛者だった。両刀とサドという二つのオプションをつけていた。
+He was a pedophile. He came with the optionals
+'bisexual' and 'sadist' installed.
+//http://d.hatena.ne.jp/keyword/%CE%BE%C5%E1 also, it continues the car metaphor, so it's even more hints as to who it should be. -GHS
+TL
+//サドなのでＳと呼ぶ。
+Sadist, so let's call him 'S'.
+//The Shinkawa is a Freak explanation? See CCA0011C. -GHS
+TL
+//俺はＳに目をつけられた。
+The eyes of this S zeroed in on me.
+//Let's healthily avoiding "S'" or, worse, "S's" (ick). ...although "SS"... -GHS
+TL
+//再び女児の格好を強いられ、夜会に参加させられた。
+I was forced once again into the looks of a
+little girl and was made to participate at
+their evening parties.
+//Wherein he was never raped, and neither was Youko? The term's different than the above, and seems to imply a girl much younger than Taichi's 13-14 years. May be more inadequate editing. -GHS
+TL
+//今度はお茶ではなく、Ｓの欲望の相手をした。
+This time I was no tea ceremony companion, but
+for S and his desires.
+//Specific term -GHS
+TP
+
+
+//Ｓは人にさせるのも好きだった。
+> 
+ 
+S also liked to delegate to others.
+//Oddly "hito ni saseru" doesn't mean "be homosexually fucked" that I can find. I freely admit my research on this may be less than thorough for reasons of come on now. -GHS
+TL
+//女児のような俺を、ノンケの男に相手させた。
+I, who looked like a little girl, was made into
+his straight male partner.
+//It's possible he's just ordered around by Shinkawa's dad to hurt and humiliate others, not necessarily rape 'em. This is possibly where he learned all his sexual harassment techniques. -GHS
+TL
+//冗談半分でやる者が大半だった。
+People who liked to half-jest were more than
+the half there.
+//Visuals. ...wait, so if you half-jest twice... -GHS
+TL
+//たまに覚醒してしまう者もいたが。
+Occasionally, there were people who grew
+disillusioned, but,
+TL
+//夜会では、どんなえげつないことをするかが、目立つのポイントだった。
+at the evening parties the point was always to
+stand out via whatever dirty or disgraceful act.
+TL
+//小学校のいじめとかでも、似たようなことが起こる。
+What happened there was something similar
+to elementary school bullying.
+//Against the ones who grew disillusioned. See Yusa. And Family Project, parts of Kana, parts of Yume Miru Kusuri... boy Tanaka likes this one. That's why I'm fairly sure it hits close to home to him. -GHS
+TP
+
+//集団の中では、かなりの高確率でこういうことは発生する。
+> 
+ 
+Inside of a group, there is a fairly high chance
+that this sort of things would happen.
+//Pretty much 1:1, see once more every online community ever. And "online" is only there because in online communities it's easier to see. -GHS
+TL
+//ま、デメリットというやつだ。
+Well, let's call that a demerit then.
+//AKA Batten, see CCD1001. Borderline off-tone. -GHS
+TL
+//物事にはメリットデメリットが必ずある。
+Everything without exception has merits and
+demerits, pros and cons,
+TL
+//一義的な善し悪しを越えてだ。
+beyond the unambiguous good and bad.
+//This is laterally a criticism of this kind of Nietzscheian philosophy, as should be evident from the nearly-Nietzscheian term (though that's literally 善悪の彼岸). Taichi is currently justifying doing nothing in the face of what he sees. He is, in multiple senses, not any better than them even if, in the end, he's little more than a victim. Hence, sacrifices on both sides. -GHS
+TP
+
+
+
+//やがてＳのＳっぷりはエスカレート。
+> 
+ 
+Before long, the S-style of our S escalated.
+//Laterally hinting that not only he's a sadist, his name starts with S. -GHS
+TL
+//子供を連れてきた。
+He brought in a child,
+TL
+//Ｓの息子だ。
+the son of S.
+//...he brought his penis? -GHS
+TL
+//学校ではいじめっ子としてならしていた……らしい。
+It seemed at school he was a bully... of sorts.
+//Since this is a metaphor for a normal life, as well as the Eden, this is about elementary school bullying. Literally. -GHS
+TL
+//乱交の雰囲気に圧倒されていたのも束の間、俺を見て嘲笑った。
+In the brief moment of being overwhelmed by
+the promiscuity in the air, he looked at me
+and sneered in ridicule.
+TL
+//異常興奮からか。
+Because he was abnormally excited, maybe.
+TL
+//促されるまま、むしろ積極的に、そいつは参加した。
+This guy participated, under peer pressure
+but fairly proactively.
+TL
+//血を引いているようで、すぐ才能を発揮しはじめた。
+As if inherited in the blood, he soon began
+to display his talent.
+TL
+//早熟な精通と重なっていたせいもあるだろうか。
+Perhaps it's also the accumulation of all
+this precocious knowledge to blame.
+TL
+//じき夢中になった。
+He quickly got hooked.
+TP
+
+
+
+//俺は皆に笑われた。
+> 
+ 
+ 
+> 
+ 
+             I was ridiculed by all.
+TL
+//笑われながら、何週間も。
+             I kept being ridiculed,
+              and for so many weeks,
+//Week should be familiar at this point. This likely didn't last for more than a few months. The time from the contract to murder is said to be one week. -GHS
+TL
+//俺は攻撃を受け続けた。
+               I continued to take
+                  their attacks.
+TP
+
+
+
+
+//HACK hellooo creepy, also 2 new lines. -GHS
+GS 5 0
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+//GL 0 efcc0001
+//GI 0 0
+
+TWS 0
+
+//ザー。
+Kzzzh.
+//Oddly, I get "sound of rustling or water". Eh, SFX here are damn outlaws anyway. -GHS
+TP
+//これはノイズだ。
+This is Noise.
+//Noise must be interposed between him and bad things or he goes mad. That's possibly a hint that the story should end in blood. -GHS
+TP
+
+
+
+RET

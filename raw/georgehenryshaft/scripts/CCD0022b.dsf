@@ -1,0 +1,49 @@
+//太一「…………」
+Taichi: "......"
+TP
+
+
+//言いたいことは山ほどあった。
+The size of the amount of things I wanted to tell were a mountain,
+TP
+
+
+//けど、彼女に何を言っても意味はない。
+but whatever I say to her it will have no meaning.
+TP
+
+
+//俺はただ、するべきことをするだけだ。
+I will simply do what I ought to do, and nothing more.
+//See CCB0018. Interesting contrast, especially seeing CCD1001. -GHS
+TP
+
+
+GL 0 bgcc0000b
+GS 0 1
+GS 1 0
+SEF 109 0
+//HACK earlier to evening sky, instead of having that weird thing where it flashes the evening sky and then straight into the next script with the blue one, which makes no sense. Music stays. -GHS
+
+//……………………。
+............
+TP
+
+
+//…………。
+......
+TP
+
+
+//……。
+...
+TP
+
+WVS 1 1
+//HACK end music -GHS
+
+RET
+
+
+
+

@@ -1,0 +1,1000 @@
+GL 0 bgcc0002
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+
+//太一「はぁ」
+Taichi: "Sigh."
+TP
+
+//ロボットのように通学を開始した。
+Like a robot I began my school commute.
+//Robodian? -GHS
+TP
+
+WVP 1 bgm010.ogg 0 0 0
+
+
+//股間には違和感。
+A sense of physical discomfort in my nethers.
+//Precisely the same term used for Nanaka, Youko and non-reset Miki. Is the chastity belt only in his mind, too? -GHS
+TP
+
+
+//すれると痛い。
+Chafing and pain.
+TP
+
+
+//がに股なってしまう。
+I'll become bow-legged.
+TP
+
+
+//太一「せめて、がに股が似合う好漢……バンカラで行くか」
+Taichi: "At least being bow-legged suits a fine, honorable man (in the manga hero sense)... should I go with the scruffy roughedness of Bankara maybe."
+//Still that 漢 -GHS
+TP
+
+//今の俺にできるのは、下駄を鳴らしつつ応援団旗を地面に落とさないことだけだった。
+All I could do right now was but to make my geta resound while never dropping the Cheer Squad flag to the ground.
+//I guess it's a certain type of exaggerated walk that may or may not have a specific name in English, too, but wouldn't even know where to begin to research it. The cheering squad flags are BIG, so certainly walking with them's gotta be tough. Not letting them drop is cheer squad regulations, as far as I can find. どうしました、旗ふるクロス？ -GHS
+TP
+
+
+//坂を歩き出すと。
+As I begin to walk the hills,
+//PCP CCC0006A
+TP
+
+
+//太一「むっ？」
+Taichi: "Mnuh?"
+//CP CCC0006A
+TP
+
+//タイヤがキュッと地面を擦る音。
+The screeching sound of a tire chafing the ground.
+//CP CCC0006A
+TP
+
+
+//危険信号。
+Warning signal.
+//CP CCC0006A
+TP
+
+
+//太一「……ふ、甘い！」
+Taichi: "...hoh, naive!"
+TP
+
+//早朝からフェラチオ洗礼を浴びたこの身。
+This flesh has been baptized in the waters of an early-morning blowjob.
+TP
+
+
+//イッたばかりで全身が敏感になっていたのだ！
+This just-climaxed body has become very sensitive, assuredly!
+TP
+//すなわちそれは、危険を察知する能力も鋭くなっているということだ。
+Namely, this is a sharpening of the ability to sense danger.
+//Taichi-sense... tingling...! See CCD5001. Foooreshaaadowiiing. -GHS
+TP
+
+
+//太一「はーっ！」
+Taichi: "HAAAH!"
+TP
+
+//どんな攻撃も、事前に予測していれば回避はたやすい。
+No matter what attack it may be, if it is predicted, it becomes easy to avoid.
+TP
+GL 4 sgcc0016
+$CGsgcc0016 = 1
+GP 4 0 0
+GI 4 0
+WVP 2 se058 1 0
+//SEF 101 0
+
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+
+//ドカーン！
+Badooom!
+//CP CCC0006A
+TP
+
+
+
+
+
+//太一「せーーーーーーーーーーーっ！！」
+Taichi: "SEEEEEEEEEEEEE!!!"
+//...ven? Got nothing otherwise. -GHS
+TP
+
+//歩行の邪魔をする貞操帯さえなければなぁ！！
+If only the chastity belt wasn't in the way of walkiiing!!!
+TP
+WVP 0 vfCCC0006bnnk000
+//七香「ごめーーーんっ！」
+Nanaka: "Soooorry!"
+TP
+
+//空中でサイドチェストをアピールしながら、雑木林に放り投げられた。
+I am thrown into a grove of trees while I take an appealing side chest pose in the sky.
+//That's how the typical body builder's pose is actually called. Also, I looked at pictures of oiled naked burly men while researching something for a Japanese porn game translation and learned something that won't leave me scarred for life. This is a red letter day. -GHS
+TP
+
+
+WVP 0 vfCCC0006bnnk001
+//七香「平気ー？」
+Nanaka: "Alriiight?"
+TP
+
+//太一「……貞操帯が守ってくれたからな」
+Taichi: "...because the chastity belt protected me, yep."
+TP
+
+WVP 0 vfCCC0006bnnk002
+//七香「はあ？」
+Nanaka: "Haaah?"
+TP
+
+//太一「心ばかりの皮肉だ。気にするな」
+Taichi: "Just a token of irony. Don'tcha worry."
+TP
+GO 4 1
+//雑木林から出てきて、ホコリをはらう。
+I dust off clothes and pride as I come out of the grove,
+//See CCB0002 -GHS
+TP
+
+
+//もちろんがに股だ。
+bow-legged, naturally.
+TP
+
+GL 1 TCCN0100
+GP 1 200 0 0
+GI 1 1
+
+WVP 0 vfCCC0006bnnk003
+//七香「がにー」
+Nanaka: "Bowleggity."
+//Nani + gani + unlistenable moe words -GHS
+TP
+
+//太一「……がにーと呼ぶな」
+Taichi: "...don'tcha call it 'Bowleggity'."
+TP
+
+//反射的に口走るヤツめ。
+Damn this running mouth here.
+//Both, of course, since there's only one. -GHS
+TP
+
+
+WVP 0 vfCCC0006bnnk004
+//七香「今週も元気そうだ」
+Nanaka: "Another week in high spirits it seems."
+TP
+
+//太一「意味の通らないことを」
+Taichi: "The meaning of that doesn't convey."
+TP
+
+//太一「だが道理は通してもらうぞ、富江！」
+Taichi: "But I'll make you convey the truth, Tomie!"
+//道 は 通. http://en.wikipedia.org/wiki/Tomie "Tomie is the ultimate self-destructive entity, yet ironically she survives anything" heh. Might be a direct quote, but... -GHS
+TP
+
+GL 1 TCCN0102
+GI 1 0
+WVP 0 vfCCC0006bnnk005
+//七香「七香だよ、太一」
+Nanaka: "It's N-a-n-a-k-a, Taichi."
+TP
+
+//太一「とりあえず完璧に知らない人が俺の名前を知っているのはどういうことだろう？」
+Taichi: "First of all, what is it with someone who's a perfect stranger to me yet knowing my name?"
+TP
+
+GL 1 TCCN0100
+GI 1 0
+
+WVP 0 vfCCC0006bnnk006
+//七香「きにするな」
+Nanaka: "Don'tcha worry 'bout it."
+//See CCC4006. -GHS
+TP
+
+//太一「するわい」
+Taichi: "Worry about it I will, neh!"
+//It's totally a "real" word in English too! http://www.urbandictionary.com/define.php?term=neh -GHS
+TP
+
+
+GL 0 evcc0003
+$CGevcc0003 = 1
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+//運動神経はいいようだった。
+Her motor skills seemed pretty good.
+TP
+
+
+//こちらが徒歩でしかもがにーで低速なのに、よろけもせずに併走する。
+I am in the further low gear of bowlegged walking, yet she keeps pace without staggering.
+//PCP CCC0006A
+TP
+
+//>　　　　　　　　　　　　　　　　はつらつ
+//見るからに、元気溌剌幼なじみ美少女といった案配だ。
+From the looks of it, a flavored mix of sprightly genki childhood friend bishoujo.
+//CP CCC0006A
+TP
+
+
+//毎朝起こしにきてくれたり。
+The kind that would come to wake you up every morning.
+//CP CCC0006A
+TP
+
+
+//太一「で、ご用件は？　存在感のない人」
+Taichi: "So, you person who feels un-beinglike, do you need anything?"
+TP
+
+WVP 0 vfCCC0006bnnk007
+//七香「存在感がない？」
+Nanaka: "I don't have the feeling of a being?"
+TP
+
+//太一「ない。軽い。スカスカ」
+Taichi: "None. Lightweight. Sound of shaking a box that's not filled to size."
+//Damn those specific SFX. -GHS
+TP
+
+WVP 0 vfCCC0006bnnk008
+//七香「よくわからないけど、気配みたいなもの？」
+Nanaka: "I don't really get it, but you mean as in the presence?"
+TP
+
+//太一「そう。ぶっちゃけ、キミが人間じゃないことも俺脳内審議委員会で明らかにされている」
+Taichi: "Right. To put it bluntly, you are no human and that has been made clear by my Intercranial Deliberation Committee."
+//Any queer Outer Space Hyper Intelligent Beings called OMRUS there? -GHS
+TP
+
+WVP 0 vfCCC0006bnnk009
+//七香「は、そんなことまで……鋭すぎるよ太一」
+Nanaka: "Huh, even that you got... you're way too sharp, Taichi."
+//Funnier and funnier considering she'd be part of that committee. -GHS
+TP
+
+//太一「フッ」
+Taichi: "Hoh!"
+TP
+
+//朝フェラの思いもかけない効能がここにあった。
+Here we can see the counterintuitive effect of a morning BJ.
+TP
+
+
+//太一「この察知能力に俺のメタ推理を重ね合わせることで、キミの正体までも絞り込むことができている」
+Taichi: "Via the superimposition of my meta-reasoning on this inferential skill, I am able to wring out even your true identity!"
+//See CCC0040 -GHS
+TP
+
+WVP 0 vfCCC0006bnnk010
+//七香「うわ、ホント？」
+Nanaka: "Whoa, seriously?"
+TP
+
+//太一「キミはさそり座の女……つまりさそり座Ｖ８６１星に住む知的生命体なんじゃないかなって俺は思ってる」
+Taichi: "You are a woman of Scorpio... to be precise, I'm thinking you are an intelligent life form residing on a planet in V861 Scorpii, are you not."
+//Proper star name of the constellation. Doesn't seem to have a point besides its name being 8 and 6+1=7. See CCX0001. If she's Scorpio, then she's born between October 23 and November 22. Don't see the point of that if there's one... maybe, like the biorhythms in CCC3020, it's just a superstition that's typically non-Japanese? Although it's been used more often in recent years that I've seen, blood type is still more common than astrological signs. See CCC4025: interesting he'll name his broadcast channel after a scorpion, but definitely not coincidental. If the name of the channel is after Nanaka, then the question "seven?" is still at the heart of things here. -GHS
+TP
+
+WVP 0 vfCCC0006bnnk011
+//七香「ブラックホールじゃん、そこ」
+Nanaka: "Ain't there a black hole there."
+//Apparently not: "This effectively removes the secondary [of the binary star] as a black hole candidate:" http://www.researchgate.net/publication/23622409_Precise_positions_and_optical_search_for_the_38_second_X-ray_pulsar_near_OAO_1653-40_and_upper_limit_on_X-ray_emission_from_V861_Scorpii -GHS
+TP
+
+//太一「……」
+Taichi: "..."
+//...the stuff I research, really... -GHS
+TP
+
+WVP 0 vfCCC0006bnnk012
+//七香「適当だよね、かなり」
+Nanaka: "Unserious, aren't you, and considerably."
+TP
+
+//太一「……まあ。それが仕事だし」
+Taichi: "...bah. That's just work."
+TP
+
+WVP 0 vfCCC0006bnnk013
+//七香「毎回大変だ」
+Nanaka: "Every time it's a big mess."
+TP
+
+//太一「毎回とか今週とかさ。わかんないんだよ。初対面だろうが」
+Taichi: "And 'every time' and 'this week'. I don'getcha. This should be the first time we met."
+TP
+
+WVP 0 vfCCC0006bnnk014
+//七香「何度もぶつかってるよ？」
+Nanaka: "How many times have I bumped into you?"
+//Of course, not just literally. -GHS
+TP
+
+//太一「ない、それはない」
+Taichi: "Never, that'd be never."
+TP
+
+//記憶にないし。
+Not in my memories,
+TP
+
+
+//記憶喪失じゃないし。
+got no memory loss either.
+//A reminder that 'intentional abandonment of memories' is not memory loss, technically. -GHS
+TP
+
+
+WVP 0 vfCCC0006bnnk015
+//七香「……ま、それはいいんだけどさ」
+Nanaka: "...well, that's still fine."
+TP
+
+WVP 0 vfCCC0006bnnk016
+//七香「しかし一回くらい恋が芽生えても面白いのになー」
+Nanaka: "But if love were to sprout after just one time, that'd be interesting wouldn't iiit."
+//This, once more, is the crap that Nanaka told her infant son. WTF. -GHS
+TP
+
+//すごいことを言った。
+She has said something amazing.
+TP
+
+
+//太一「え……俺に気があるということですか？　この鷲鼻の俺に？」
+Taichi: "Eh... does that mean you have an interest towards me? This aquiline nosed me?"
+//Given the eagle talons all around. -GHS
+TP
+
+WVP 0 vfCCC0006bnnk017
+//七香「どこが鷲鼻なの？　普通に見えるけど」
+Nanaka: "Where's that aquiline? Because it looks normal."
+TP
+
+//太一「曲がってるじゃん。見てわかるでしょ」
+Taichi: "'s all crooked ain't it. Look, you'll see."
+TP
+
+WVP 0 vfCCC0006bnnk018
+//七香「ぜーんぜん」
+Nanaka: "Nooot at all."
+TP
+
+//太一「おっかしいなぁ……」
+Taichi: "Sooo weird innit..."
+//All around -GHS
+TP
+
+WVP 0 vfCCC0006bnnk019
+//七香「ちょっと曲がってるかもしれないけど……気にするほどじゃないと思うよ」
+Nanaka: "It might be a bit bent or something but... I don't think it's at the level where it's noticeable."
+TP
+
+//ぐっさり
+Szok!
+//Stab sound -GHS
+TP
+
+//太一「やっぱりそうか……曲がってるのか……」
+Taichi: "I knew I was right... it's crooked innit..."
+TP
+
+//ある頃から、鼻のねじれは気になりだした。
+Ever since a time, the twist of my nose had become bothersome.
+//Generally the term used to indicate the Hasekura slaughter event is 'mukashi', not this one, but I suspect it's still that one. -GHS
+TP
+
+
+//……成熟とともに自我を意識し、自分を嫌いになった頃と同期する。
+...I synchronize the time when self-hatred ensued with my becoming aware of myself with maturity.
+//But it is indeed possible his self-hatred originated much earlier than the slaughter. It's possible his self-hatred was actually how he rationalized his acceptance of being called by another name and looking nothing like he should.
+//Remember how Youko refuses to accept Taichi's abandonment of his gender, true form, and true name; see CCC0000, when she describes her as a punishment, of sorts, for what he was doing. If Youko is just in his mind, then her desire to escape (broken and cowardly as it may be, see her room in the Hasekura mansion and her apartment in Kamisaka) is his, which he repressed and which comes out as this self-hatred, which would otherwise be one detail that doesn't have much of an origin. -GHS
+TP
+
+
+//太一「うーーーーん」
+Taichi: "Nhhhhh."
+//Unrecognizable grunt. -GHS
+TP
+
+WVP 0 vfCCC0006bnnk020
+//七香「なんだなんだ」
+Nanaka: "What-what."
+TP
+
+//そうなのかな。
+But is that true, I wonder.
+TP
+
+
+//周囲からの様々な悪意とか害意とか。
+There were varieties of ill will and malice coming from my environment.
+TP
+
+
+//そういうものを意識するあまり、理由づけを容姿に求めてしまったのだろうか。
+Perhaps, awareness of that demanded a rationalization, which took the shape of my outward appearance.
+//These support the idea above... -GHS
+TP
+
+
+//なんかで読んだな、そういう学説。
+I must've read that theory off somewhere.
+//...but not literally. It was his reaction to his insufficient reaction to the malice that generated self-hatred, not simple rationalization of malice. This satisfies the typical criteria of Taichi telling the truth, but only unconsciously. -GHS
+TP
+
+
+//太一「ま、いいや、容姿なんて。偏向しきった物語の主人公がテキストで平凡って描写されてても絵では美形なのが変わることはないのだし」
+Taichi: "Oh, whatever, it's always with the looks. The tendency in stories to describe the hero in the text as average looking and then show them as beautiful when depicting them in images will never change."
+//Now he moves to meta, but don't forget that thing about Yutaka and the looks being "everything". Remember how RPG protagonists are generally girly (in certain cases, like Squall from FF8, girls written by someone in hopeless denial). The irony isn't that Taichi is depicted as perfectly attractive here, the irony is that he's not depicted anywhere near feminine enough. And his hair ain't white. -GHS
+TP
+
+WVP 0 vfCCC0006bnnk021
+//七香「……まあまあ、毒はそのへんにしといてさ」
+Nanaka: "...come, come, let us leave self-poison at that."
+TP
+
+//七香は政治的判断を下した秘書クラスの顔をしていた。
+Nanaka's face was in the same class as that of a secretary that had passed a political decision.
+TP
+
+
+//太一「で、キミってこの人類滅亡症候群とどう関係あるわけ」
+Taichi: "So, you are related with the Mankind's Fall Syndrome in what way?"
+TP
+
+WVP 0 vfCCC0006bnnk022
+//七香「無関係」
+Nanaka: "Unrelated."
+TP
+
+//太一「うそだよなぁ……絶対」
+Taichi: "That's a lieee... gotta be."
+TP
+
+WVP 0 vfCCC0006bnnk023
+//七香「本当だよ。人類は勝手に滅びました。理由はわかりません」
+Nanaka: "But it's true. Mankind annihilated of their own accord. Don't get the reason."
+//Specific. And technically true. -GHS
+TP
+
+//凝然と少女を見つめてしまった。
+Frozen in place I stared fixed at the girl.
+TP
+
+
+//太一「……知ってるの？」
+Taichi: "...you know?"
+//Not *understanding* isn't not *knowing*, of course. -GHS
+TP
+
+WVS 1 0
+
+WVP 0 vfCCC0006bnnk024
+//七香「見てた」
+Nanaka: "I saw it."
+//No contradiction. -GHS
+TP
+
+//太一「見てた！？」
+Nanaka: "You saw it?!"
+TP
+
+WVP 0 vfCCC0006bnnk025
+//七香「うん。見てた」
+Nanaka: "Yep. I saw it."
+TP
+
+WVP 0 vfCCC0006bnnk026
+//七香「世界はね、ゆっくりと滅びていったんだよ」
+Nanaka: "The world, well, it was destroyed pretty slowly."
+TP
+
+//太一「ゆっくり？」
+Taichi: "Slowly?"
+TP
+
+//太一「ゆっくりってどのくらい？」
+Taichi: "Slowly, but about how long?"
+TP
+
+WVP 1 bgm016.ogg 0 0 0
+
+WVP 0 vfCCC0006bnnk027
+//七香「んー、さあねぇ。時間感覚なくなっちゃって」
+Nanaka: "Hmmm, that now. The feeling of passing time went away."
+//See CCB0001, CCC0001, CCC0002, CCD5001. This isn't a non-answer; Taichi kept feeling his days were similar if not identical, which he rationalized as a time loop. As he slowly stopped interacting with people, he then shrank his world until he formed his chuuni (but is it false?) world where humanity was gone. -GHS
+TP
+
+//太一「変だ。だって、俺たちが合宿行く前は普通だったんだよ？」
+Taichi: "That's odd. Because, wasn't it all normal before us guys went to training camp?"
+//And throughout it, see Tasaki Store notes. -GHS
+TP
+
+//太一「合宿は二泊三日だったから……三日かけて滅亡したってこと？」
+Taichi: "Training Camp was two nights three days, therefore... the fall should've taken three days?"
+//Starting previous Friday... Except according to CCA0002 it was a week. Except the Tasaki Store says they went back and forth. Might be a plot hole. Might. -GHS
+TP
+
+WVP 0 vfCCC0006bnnk028
+//七香「ううん」
+Nanaka: "Uh-huh."
+TP
+
+//七香は首を振る。
+Nanaka shakes her head.
+TP
+
+
+WVP 0 vfCCC0006bnnk029
+//七香「……もっとだよ」
+Nanaka: "...it was more."
+//Indeed, whether it is meant as a literal week of literal days as we mean today is still being discussed. I'm of a more complex opinion, but admittedly Genesis 1 is only laterally relevant. -GHS
+TP
+
+//太一「そりゃおかしいな。理屈に合わない」
+Taichi: "Ain't that strange then. Theories don't merge into something that makes sense."
+TP
+
+WVP 0 vfCCC0006bnnk030
+//七香「ものの見方の問題だと思うよ」
+Nanaka: "I think it's just a question of perspective."
+//Still hinting that nothing has happened, and that's just how he's seeing it. -GHS
+TP
+
+//太一「はー？」
+Taichi: "Huh?"
+TP
+
+//意味がわからない。
+I don't get what that means.
+TP
+
+
+WVP 0 vfCCC0006bnnk031
+//七香「ま、過ぎたことをくどくど考えても仕方ないよ」
+Nanaka: "Well, tediously and repeatedly thinking over things past is just pointless."
+//That's still not a non-answer: Taichi's jumbled memories are what generates this one-week world, where he's stuck in September of 1998 even if the world keeps marching on ahead. -GHS
+TP
+
+//太一「そうだけど……人類って、こんな簡単になくなるものなんだったんだな」
+Taichi: "True, but... mankind isn't the kind of thing that would just go away that simply, that's all."
+TP
+
+WVP 0 vfCCC0006bnnk032
+//七香「どっかでなにか起こった、ってあたしは思ってる」
+Nanaka: "Something happened somewhere, so I'm thinking."
+//Well, she was helpful until now, so. -GHS
+TP
+
+WVP 0 vfCCC0006bnnk033
+//七香「なんとなく、肌の感覚でね」
+Nanaka: "Somehow, I feel it in my skin."
+TP
+
+//太一「どっか？」
+Taichi: "But what?"
+TP
+
+WVP 0 vfCCC0006bnnk034
+//七香「言葉じゃうまく説明できないんだけど……」
+Nanaka: "With just words I can't really explain it well, but..."
+//And it recurs... -GHS
+TP
+
+WVP 0 vfCCC0006bnnk035
+//七香「どこかで大きな波があって、それがバーッて広がったんだと思う」
+Nanaka: "There was this great big wave from somewhere, and I think that's what bwooom spread out."
+//Hum, context, what's been said about the spread of the disappearances in Miki's route (see CCC4025) and voice seem to imply it would be 'slowly', but it's one of those Triple Cursed Non-Joyo SFX so... -GHS
+TP
+
+WVP 0 vfCCC0006bnnk036
+//七香「あたしの知覚力じゃそれが限度」
+Nanaka: "That's the limits of my perceptive ability."
+//See CCB0005 -GHS
+TP
+
+//太一「……キミは……神様なのかな？」
+Taichi: "...are you... God by chance?"
+//Capitalized, given the 'wave' thing is talking about the Great Flood (except with Denpa instead of actual water). Just so we don't kid ourselves here. -GHS
+TP
+
+//彼女は苦笑した。
+She gave a wry smile.
+TP
+
+
+WVP 0 vfCCC0006bnnk037
+//七香「ちがうちがう。そんな偉くないって。何もできないしさ」
+Nanaka: "Wrong and wrong. I'm not that important. I can't do anything ya know."
+//At absolute best she's the Holy Spirit... although given Youko is metaphorically closer to being Taichi's physical mother, or at least the one who adopted him, Nanaka would be a spiritual mother, one closer to the Virgin Mary than her simple birth mother. -GHS
+TP
+
+WVP 0 vfCCC0006bnnk038
+//七香「……なにもわからないんだよ」
+Nanaka: "...I don't understand anything."
+//"Wakaranai" *can* mean "I don't know", but this isn't a semantics game. She knows, but like Taichi, she just doesn't understand. For reasons of transitive property more than similarity. -GHS
+TP
+
+//太一「じゃあ、どうして俺の前に」
+Taichi: "Well then, why are you in front of me?"
+//Specific as well, since he's asking "why do you, spirit/ghost/memory, appear?" -GHS
+TP
+
+WVP 0 vfCCC0006bnnk039
+//七香「……ん、それは……ちょっと言えない。言う資格がないから。ごめんね」
+Nanaka: "...hm, well, that's... I can't really say. I'm not qualified to say. Sorries."
+TP
+
+//太一「資格……か」
+Taichi: "Unqualified... then."
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//そういう感覚、よくわかる。
+That's a feeling I understand well.
+TP
+
+
+//俺が……仲間とつるんで普通に生きる資格がないのと同様。
+I am... equally unqualified to live normally, mate-ing with my peers.
+//Considering her backstory, it's not impossible she indeed had just the exact same feeling (more or less justified) of being "unqualified" for this life. Given how Taichi was likely an illegitimate child and all. -GHS
+TP
+
+
+//だから群青に送られてきた。
+That is why I was sent to Gunjou.
+TP
+
+
+//人を傷つけるものだから。
+Because I'm someone who hurts people.
+TP
+
+
+//俺は危険だから、友達を作る資格はない。
+I am dangerous, so I am unqualified to make friends.
+TP
+
+
+//そしてそれは……正しい。圧倒的に。
+And that is... correct. Overwhelmingly so.
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+//太一「じゃあ無理には訊けないな」
+Taichi: "Then I won't ask you beyond reason."
+TP
+
+WVP 0 vfCCC0006bnnk040
+//七香「……ん、悪いね」
+Nanaka: "...mh, my bad, eh."
+TP
+
+//太一「別に」
+Taichi: "No biggie."
+TP
+
+//太一「しかし、なんもわからんわけだ」
+Taichi: "Anyway, we don't get this at all and that's that."
+TP
+
+WVP 0 vfCCC0006bnnk041
+//七香「あの子が頑張れば、謎そのものは解けると思う」
+Nanaka: "If that girl does her best, she can untangle all of this enigma I think."
+//This is odder than anything of the above. Of course Taichi would think so, and Nanaka by extension, but Youko has better odds getting good with Taichi as she has of solving this. Then again, laterally, she may just be meaning Taichi himself if he stops kidding and gets using his brain. -GHS
+TP
+
+//太一「彼女？　曜子ちゃんかな？」
+Taichi: "Her? Youko-chan you mean?"
+TP
+
+WVP 0 vfCCC0006bnnk042
+//七香「……好きにはなれないけどね」
+Nanaka: "...but getting to like her is out of the question."
+TP
+
+//と唇を尖らせる。
+With lips on edge, looking displeased.
+TP
+
+
+//太一「嫌いなんだ」
+Taichi: "You hate her."
+TP
+
+WVP 0 vfCCC0006bnnk043
+//七香「そうじゃないけど……なんとなく気にくわない」
+Nanaka: "I don't but... it's that somehow I can't stand her."
+//MOMFIGHT -GHS
+TP
+
+//太一「ふーん」
+Taichi: "Hummm."
+TP
+
+WVP 0 vfCCC0006bnnk044
+//七香「掃除させたあとで窓枠を指で撫でて、不備を指摘してやる」
+Nanaka: "I'd make her to do cleaning, then I would brush just one finger on the windowsill to point out her inadequacy."
+TP
+
+//太一「姑みたいな思考だな」
+Taichi: "You're thinking like a mother-in-law."
+TP
+
+WVP 0 vfCCC0006bnnk045
+//七香「姑かぁ……悪くないよねぇ」
+Nanaka: "Mother-in-law... not bad, not at all."
+TP
+
+GL 0 BGCC0000A
+GS 0 1
+SEF 109 0
+//HACK sky. Reason? :reasons:, I u-gess. -GHS
+
+//太一「なんじゃそら」
+Taichi: "Whassatmean."
+TP
+
+WVP 0 vfCCC0006bnnk046
+//七香「太一」
+Nanaka: "Taichi."
+TP
+
+//声はずいぶん後方から聞こえた。
+The voice I heard from far in the rear.
+//PCP CCC0006A (for some reason)
+TP
+
+
+//太一「？」
+Taichi: "?"
+TP
+
+GL 0 evcc0053a
+$CGevcc0053a = 1
+GS 0 1
+SEF 152 0
+
+//ありえない距離だった。
+An impossible distance,
+//CP CCC0006A
+TP
+
+
+//三秒前まで併走していた七香だ。
+as Nanaka was traveling right beside but three seconds ago.
+//CP CCC0006A
+TP
+
+
+//二十メートル。一瞬で移動できる距離じゃない。
+Twenty meters. That is not a distance that can be traversed in an instant.
+//CP CCC0006A
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+WVP 0 vfCCC0006bnnk047
+//七香「これが一番効果的みたいだからさ」
+Nanaka: "Because this seems to be have the most success..."
+TP
+
+//太一「ちょ、キミ……」
+Taichi: "Wai-, you..."
+TP
+
+//やっぱり。
+I knew it.
+TP
+
+
+//人じゃない。
+Not a person.
+//This returns, especially in the Kiri route. And then, see CCD0021: not people but a phenomenon. -GHS
+TP
+
+
+WVP 0 vfCCC0006bnnk048
+//七香「……祠、知ってるね？」
+Nanaka: "...the hokora, you know 'bout it right?"
+TP
+
+//太一「祠って」
+Taichi: "What hokora?"
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+WVP 0 vfCCC0006byou000
+//曜子『それと祠の情報で、だいたい把握できた』/*
+Youko: 『With that and the information at the hokora I was able to understand the outline.』
+//CP CCC003B
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+//関係がある。
+It is connected.
+TP
+
+
+WVP 0 vfCCC0006bnnk049
+//七香「知りたいのなら、あっち！」
+Nanaka: "If you want to know, 's there!"
+TP
+
+//白い指先が俺をびっと指す。
+A white fingertip shot out, pointed at me.
+//CP CCA0003
+TP
+
+
+//いや、俺の背後だ。
+No, at something behind me.
+//CP CCA0003
+TP
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+
+
+//学校。
+The school.
+//CP CCC0006A
+TP
+
+
+//いや……山か。
+No... the mountain?
+//CP CCC0006A
+TP
+
+
+//合宿に行くときに使った山道がある。
+The mountain path that we used when going to the training camp is there.
+//CP CCC0006A
+TP
+
+
+//ほとんど獣道だが、山頂に出るにははやい。
+It's almost an animal trail, but it reaches the summit fast.
+//CP CCC0006A
+TP
+
+
+//その先には。
+And right before that,
+//CP CCC0006A
+TP
+
+
+//祠がある。
+there is a hokora.
+//CP CCC0006A
+TP
+
+
+//何が祀られていたのか、わからない。
+What is enshrined there I don't know.
+//CP CCC0006A
+TP
+
+
+//古く、朽ちた、小さな祠だ。
+It's an ancient, forgotten, tiny little hokora.
+//CP CCC0006A
+TP
+
+
+//かつて、まつろわぬ神を奉じていたかもしれないその場所に。
+Once, it might have been that the place was dedicated to some rogue god.
+//CP CCC0006A
+TP
+
+
+//今は近寄る者もない。
+Now, nobody approaches it.
+//CP CCC0006A
+TP
+
+
+//そこに何があるんだろう。
+There could be anything there.
+//CP CCC0006A
+TP
+
+
+//些細な疑問を返すべく、七香に視線を戻す。
+With the intent of tossing this trifling doubt her way, my sight returns to Nanaka.
+//CP CCC0006A
+TP
+
+WVS 1 1
+//HACK music goes out here. -GHS
+
+//彼女はいなくなっていた。
+She was nowhere to be seen.
+//CP CCC0006A
+TP
+
+
+//自転車とともに。
+And neither was her bike.
+//PCP CCA0003
+TP
+
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//蝉も鳴いてない、静かな新学期だった。
+It was a quiet new school term, when even the cicadas didn't cry.
+//CP CCA0003
+TP
+
+
+
+
+
+
+
+
+
+
+
+
+RET

@@ -1,0 +1,55 @@
+//I'm pretty sure this script never shows up in game, because unless I fail at reading the program code, it will always be jumped past. At least it was short... ~Bal
+
+Taichi: "......okay, let's go!"
+TP
+GL 1 TCCN0100
+GI 1 0
+
+WVP 0 vfCCD0001nnk041
+Nanaka: "Well said! Very good Taichiii..."
+TP
+
+
+Taichi: "Ah! Chupacabras!"
+//Yes, he specified plural. Å`IX
+TP
+
+GL 1 TCCN0102
+GI 1 0
+
+WVP 0 vfCCD0001nnk042
+Nanaka: "Eh? Where?"
+TP
+
+
+Dash.
+GO 1 1
+TP
+
+WVP 0 vfCCD0001nnk043
+Nanaka: "Aaah, don't ruuun!! Heeey!!"
+TP
+
+
+She's too dangerous.
+TP
+
+
+I'm not going to get possessed by a ghost.
+TP
+
+WVS 1 1
+
+WVP 0 vfCCD0001nnk044
+Nanaka: "Youuuuuuuuuuuu!!!"
+TP
+
+
+Though I did feel a bit sorry for her.
+TP
+
+
+
+
+
+RET

@@ -1,0 +1,238 @@
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+WT 500 0
+
+GL 1 evcc0011
+$CGevcc0011 = 1
+GP 1 0 0
+GS 1 1
+SEF 155 0
+
+
+
+
+
+WVP 1 bgm013.ogg 0 0 0
+//冬子は相変わらず教室でぼんやりしていた。
+Touko, ever unchanging, was sitting vacantly in the classroom.
+TP
+
+//誰と話すでもない。
+She has no one to talk to,
+TP
+
+//部活に参加するでもない。
+no club activities to join,
+//These are true for her regardless of whether there's anyone else. -GHS
+TP
+
+//目的もなく、ただそこにいる。
+no objective either, she just stays there.
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//正しい。
+It's correct.
+TP
+
+//人としてはまっとうだ。
+For a person this is proper.
+TP
+
+//突然、すべてがなくなったんだ。
+All had vanished, suddenly.
+TP
+
+//慣性をもって自らの動力とするしかない。
+There's no point denying that the only motive power left inside is inertia.
+TP
+
+//考えれば皮肉なものだった。
+Thinking about it, that was ironic.
+TP
+
+//まともな人間たちが全員そろって滅び去り、俺たちだけが生き残った。
+All normal people have perished, all hands lost, and only we have survived.
+TP
+
+//太一「桐原」
+Taichi: "Kirihara."
+//CP CCA0002
+TP
+
+//冬子「……」
+Touko: "..."
+TP
+
+//ふむん。
+Huu-hum.
+TP
+
+//太一「ダイアローグ」
+Taichi: "Dialogue."
+TP
+
+WVP 0 vfccb0010afyu001
+//冬子「？」
+Touko: "?"
+TP
+
+//一瞬怪訝な顔をするが、すぐに思索の檻に閉じこもる（フリをする）。
+Her face stood puzzled but an instant, then immediately secluded itself in the gaol of speculation (i.e. she's pretending).
+//That means she's pret--- oh. -GHS
+TP
+
+//太一「ダイアローグ！」
+Taichi: "Dialogue!"
+TP
+
+//ゾンビのように言う。
+So I say as if a zombie.
+//Because automatism, dead still alive, dragging instead of shouting, and also Christianity is life therefore engaging (remember Sakuraba is a zombie). -GHS
+TP
+
+//太一「ダイアローグ、ダイアローグ」
+Taichi: "Dialogue, dialogue."
+TP
+
+//太一「ダイアローグ！」
+Taichi: "Dialogue!"
+TP
+
+WVP 0 vfccb0010afyu002
+//冬子「なんなのよもーっ！」
+Touko: "What's it even now!"
+TP
+
+//対話の怪物。
+A monster of dialogue.
+//As in the Monster of Rationality. -GHS
+TP
+
+//いや、怪物的な対話。
+No, a monstrous dialogue.
+TP
+
+//……にゅ？
+...whyat?
+TP
+
+//まあいい。
+Ah, who cares.
+//Could be the intended reaction to the reaction the crap above, could be about the Beast that he's taken to "ignoring". -GHS
+TP
+
+//太一「会話会話。対話対話。必要必要」
+Taichi: "Conversation Conversation. Dialogue Dialogue. Needed Needed!"
+TP
+
+//身振りをまじえて力説する。
+With major gesticulation mixed in for emphasis.
+TP
+
+WVP 0 vfccb0010afyu003
+//冬子「……必要ない」
+Taichi: "...unneeded."
+TP
+
+//太一「対話なくして成立しないのだぞ」
+Taichi: "Without dialogue you don't even come to exist!"
+TP
+
+WVP 0 vfccb0010afyu004
+//冬子「……よくわかんない」
+Touko: "...I don't really get it."
+TP
+
+WVP 0 vfccb0010afyu005
+//冬子「話しかけないでよ」
+Touko: "Stay back and do not talk to me!"
+//PCP CCA0013
+TP
+
+WVP 0 vfccb0010afyu006
+//冬子「あんたは私のことなんて、どうだっていいんでしょ！」
+Touko: "Besides, you just treat me like I don't matter!"
+TP
+
+//太一「そんなことないよ」
+Taichi: "That's not true!"
+TP
+
+//太一「キレイな桐原は好きさ」
+Taichi: "I like clean purty Kirhara."
+TP
+
+WVP 0 vfccb0010afyu007
+//冬子「アレが！　好きな相手にすることっ！？」
+Touko: "There we go! You just want to be around someone you like, now?!"
+TP
+
+//太一「そう」
+Taichi: "Yep."
+TP
+
+WVP 0 vfccb0010afyu008
+//冬子「ウソ！」
+Touko: "Lies!"
+TP
+
+//太一「ホント」
+Taichi: "Truth."
+TP
+
+WVP 0 vfccb0010afyu009
+//冬子「だって、だってだって……」
+Touko: "But, but but..."
+TP
+
+//言葉に詰まる。
+At a loss for words.
+TP
+
+WVP 0 vfccb0010afyu010
+//冬子「話しかけないで」
+Touko: "Stay back and do not talk to me."
+//CP CCA0013
+TP
+
+//まくしたてるのをやめたらしい。
+Seems the volcano of words has fizzled.
+//A "stream" of words would be more English, maybe, but Touko is about fire so a river would be mixing metaphors. -GHS
+TP
+
+//不完全燃焼。
+Combustion incomplete.
+TP
+
+//話しかけないでと辛口に言われると、話しかけたくなる。
+When I'm told in harsh tones not to approach or talk, I end up wanting to get close and talk.
+//CP CCA0013
+TP
+
+//話しかけると、また、話しかけないでと辛口に言われる。
+I get close and talk to her, but once more she harshly tells me to stay away and not to talk to her.
+//CP CCA0013
+TP
+
+//太一「うーむ」
+Taichi: "Hmmm-mh."
+TP
+
+
+CSQ 0 1 1
+//　・話しかける
+//　・部活に行く
+- Get close and talk to her
+//CP CCA0013
+- Go to club activities
+//CP CCA0013
+
+RET

@@ -1,0 +1,177 @@
+GL 0 bgcc0002c
+GS 0 1
+SEF 152 0
+
+WT 500 0
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 0
+
+WVP 1 bgm021.ogg 0 0 0
+
+
+//数時間後、俺は帰宅した。
+A number of hours later, I returned home.
+TP
+
+//自宅前には、友貴からの差し入れが置いてあった。
+A supply drop from Tomoki had been left in front of the house.
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+
+
+//曜子ちゃんを火葬にした。
+> 
+ 
+ 
+> 
+I decided to cremate Youko-chan.
+//Cremating people without proper equipment is really hard. Trust me, I totally watched it on CSI and stuff and didn't try it myself. Certainly not while the stupid bas--- the "alleged victim" was alive. Plus, given Week 2, where Touko smells Taichi's roasted potatoes from the fricking other side of town, there wouldn't be one person in there who wouldn't be complaining about the really striking smell of burning flesh. (Or at least, I assume it's striking, as I don't have first-hand experience that I'd explicitly discuss without the presence of my attorney.) -GHS
+TL
+//腐敗しないのであれば、そうするしかなかった。
+If there's no decay, that's the only alternative.
+//Of course, if Youko were to be simply a doll no bigger than the Taichi Doll... notice that he's assuming Miki is correct here. -GHS
+TL
+//そして、埋めた。
+And then, I buried her.
+//Where? In his fricking backyard? This keeps hinting that if Youko is something alive, she's no more than a pet animal. -GHS
+TL
+//墓は用意しなかった。
+I did not place a gravestone,
+TL
+//死は無だからだ。
+because death was nothing.
+//In a world with a loop, of course. In a world where there's no Youko, twice so. -GHS
+TL
+//立場が逆だったら、彼女はどうしただろう。
+What would she have done, if our positions
+had been reversed?
+TL
+//俺が誰かに殺されてしまったら。
+If I had been killed by someone?
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+//犯人を捜し出して、殺害するに決まっていた。
+Search and locate the culprit, then murder, that was obvious.
+TP
+
+//皆殺しにするかも知れない。
+Perhaps even commit a massacre, what do I know.
+//No, dumbass, 皆殺し is chapter CCC3009 -GHS
+TP
+
+//けど……俺は彼女のために、そこまではしてやれない。
+However... I will not go that far for her sake.
+TP
+
+//俺が目指すものは……復讐鬼じゃないからだ。
+Because my objective is... not to be a demon possessed by revenge.
+//"Well, I have only one question... why don't you just die right this instant?" And there we go. Utter hypocrisy. -GHS
+TP
+
+//心はまだざわめいている。
+My heart was still noisily astir.
+TP
+
+//そう、日記を書こう。
+So I go write the diary.
+TP
+
+WVS 1 1
+
+
+//書面に。
+While writing,
+TP
+
+//太一「ん？」
+Taichi: "Hm?"
+//CP CCC3005
+TP
+
+//外から物音。
+Sounds from the outside.
+//CP CCC3005
+TP
+
+GL 0 BGCC0003E
+GS 0 1
+SEF 109 0
+//HACK remove the candle. -GHS
+
+//蝋燭を消す。
+I put out the candle,
+//CP CCC3005
+TP
+
+//窓際に。
+and go to the window,
+//CP CCC3005
+TP
+
+//外を見る。
+to look outside.
+//CP CCC3005
+TP
+
+GL 5 BGCC0000C
+GI 5 1
+//HACK starry sky -GHS
+
+
+//家の前、道路を誰かが歩いていた。
+Someone is walking in front of the house, in the street.
+//CP CCC3005
+TP
+
+//……霧。
+...Kiri.
+//CP CCC3005
+//Wow, not even wasted three hours has she. Given all this, it is extremely likely that in her route she is "shown" a cadaver by Miki just this very day. Maybe the "Old Guy"? -GHS
+TP
+
+//荷物を抱えている。
+Holding a bag.
+//CP CCC3005
+TP
+
+//まあ、関与すべきことじゃないな。
+Well, I ought not be involved.
+TP
+
+GO 5 1
+//HACK to room -GHS
+
+//机に戻る。
+I return to the desk,
+TP
+
+//ペンを取る。
+and pick up the pen.
+TP
+
+
+RET

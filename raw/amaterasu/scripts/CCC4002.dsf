@@ -1,0 +1,216 @@
+GL 0 bgcc0000d
+GS 1 0
+GS 0 0
+SEF 109 0
+
+WT 500 1
+
+GL 0 bgcc0003
+GS 0 1
+GS 1 0
+SEF 109 0
+
+
+WVP 1 bgm018.ogg 0 0 0
+
+
+I opened my eyes.
+//CP_S ccc0024
+TP
+
+Sunlight pierced through the window.
+TP
+
+I must have slept soundly. I didn't have a single dream.
+TP
+
+The time is......seven o'clock.
+TP
+
+There's no need to go to school.
+TP
+
+My body moved anyway.
+TP
+
+
+GL 0 bgcc0004
+GS 0 1
+SEF 152 0
+Breakfast hadn't been prepared.
+TP
+
+Obviously.
+TP
+
+Mutsumi-oba-san made being beautiful her career. She was also a great cook. But she was no longer here.
+TP
+
+She'd taken me in.
+TP
+
+And made a peaceful deal with Youko-chan......
+TP
+
+I had plenty to be thankful for.
+TP
+
+But before I could fulfill my filial duty, she'd disappeared.
+//CP_F
+TP
+
+There's no real food in the house.
+TP
+
+I just drank water.
+TP
+
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+I met Yuusa-chan a lot on this road.
+//CP_S ccc0025
+TP
+
+She really got attached to me.
+TP
+
+She was a ticklish existence.
+TP
+
+As much as I could, I was making great efforts.
+TP
+
+Yuusa-chan's existence healed me well.
+TP
+
+But now, she's not here.
+TP
+
+GL 1 TCSH0000
+GP 1 190 0
+GI 1 1
+
+WVP 0 vmCCC0025sku000
+Sakuraba: "Yo."
+TP
+
+WVS 1 1
+
+It was Sakuraba.
+TP
+
+Taichi: "Yo."
+TP
+
+WVP 1 bgm010.ogg 0 0 0
+
+
+WVP 0 vmCCC0025sku001
+Sakuraba: "I'm hungry."
+//CP_F
+TP
+
+Taichi: "So am I."
+TP
+
+GL 1 TCSH0003
+GI 1 0
+WVP 0 vmCCC4002sku000
+Sakuraba: "You are too?"
+TP
+
+Taichi: "I am."
+TP
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCC4002sku001
+Sakuraba: "That's painful."
+TP
+
+Taichi: "Yeah, painful."
+TP
+
+Taichi: "Right about now I'll rush into a normal home."
+TP
+
+I crashed into a nearby residence.
+TP
+
+I returned.
+TP
+
+Taichi: "I caught a big catch."
+//Referring to fishing. Again, dunno if it works in English. Å`IX
+TP
+
+There were lots of preservatives in it.
+TP
+
+Taichi: "Behold, canned bread. It even has kompeitou in it."
+IF $tlnote != 0 (TL note: "Kompeitou" are small Japanese sugar candies originally made in Portugal.)
+TP
+
+WVP 0 vmCCC4002sku002
+Sakuraba: ......*sniff*
+TP
+
+Sakuraba was dripping snot.
+TP
+
+Taichi: "......looks like evacuating was the right choice."
+TP
+
+GL 1 TCSH0003
+GI 1 0
+WVP 0 vmCCC4002sku003
+Sakuraba: "Now I wish for tissues."
+TP
+
+Taichi: "There aren't any."
+TP
+
+WVP 0 vmCCC4002sku004
+Sakuraba: "......mm. Then it can't be helped."
+TP
+
+We started walking.
+TP
+
+The icicle-shaped snot lightly danced from left to right.
+TP
+
+Taichi: "Don't just say, 'it can't be helped!'"
+TP
+
+I took out my handkerchief.
+TP
+
+GL 1 TCSH0000
+GI 1 0
+WVP 0 vmCCC4002sku005
+Sakuraba: "......sorry."
+TP
+
+Taichi: "Don't return it. Absolutely do not return it. I'll kill you if you do."
+TP
+
+WVP 0 vmCCC4002sku006
+Sakuraba: "I owe you a debt."
+//I think "owing a debt" is redundant but I can't think of better wording that would work well with the next line.-Spin 
+TP
+
+Taichi: "Do return that."
+TP
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCC4002sku007
+Sakuraba: "Yep."
+TP
+
+WVS 1 1
+
+RET

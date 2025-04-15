@@ -1,0 +1,1663 @@
+
+WVP 1 bgm016.ogg 0 0 0
+
+
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+SEF 152 0
+I moved to the entrance.
+TP
+
+Taichi: "Nnn."
+TP
+
+I really should go with her.
+TP
+
+Taichi: "......it's kindness."
+TP
+
+Men are kindness.
+TP
+
+Even lies are kind.
+TP
+GL 1 TCSK0000
+GP 1 190 0
+GI 1 1
+
+
+
+WVP 0 vfCCC0011ckri000
+Kiri: "......?"
+TP
+
+Kiri was there.
+TP
+
+Taichi: "Heeey!"
+TP
+
+GL 1 TCSK0001
+GI 1 0
+WVP 0 vfCCC0011ckri001
+Kiri: "-!"
+TP
+
+She was displeased.
+TP
+
+Damn prickly virgin.
+TP
+
+Kiri is just too much of a virgin.
+TP
+
+Taichi: "Where are you going?"
+TP
+
+WVP 0 vfCCC0011ckri002
+Kiri: "......it has...nothing to do with you."
+TP
+GO 1 1
+
+She left straight away.
+TP
+
+So I followed straight away.
+TP
+
+I have the longer pace.
+TP
+
+I caught up to her without toil.
+TP
+
+Taichi: "Are you meeting up with Miki?"
+TP
+
+GL 1 TCSK0002
+GI 1 0
+
+WVP 0 vfCCC0011ckri003
+Kiri: "Please don't follow me."
+TP
+
+Taichi: "I have business with you as well."
+TP
+GO 1 1
+WVP 0 vfCCC0011ckri004
+Kiri: "......!"
+TP
+
+WVS 1 1
+
+Faster walking.
+TP
+
+Taichi: "ÅÙÅÙ"
+TP
+
+I also walked faster. And hummed.
+TP
+
+WVP 0 vfCCC0011ckri005
+Kiri: "............!"
+TP
+
+Her pace went up.
+TP
+
+I gave chase.
+TP
+
+WVP 0 vfCCC0011ckri006
+Kiri: "......enough!"
+TP
+
+Kiri rushed off.
+TP
+
+My body moved reflexively.
+TP
+
+Let's play tag.
+TP
+
+WVP 1 bgm011.ogg 0 0 0
+
+GL 0 bgcc0014
+GS 0 1
+SEF 152 0
+We passed through the shopping district.
+TP
+
+Aren't the hills this way!?
+TP
+GL 1 TCSK0001
+GI 1 0
+
+WVP 0 vfCCC0011ckri007
+Kiri: "Don't come any closer!!?"
+TP
+
+Taichi: "Why are you running!?"
+TP
+
+WVP 0 vfCCC0011ckri008
+Kiri: "Because Sempai is chasing me!"
+TP
+
+Taichi: "Which is because you're running!"
+TP
+
+WVP 0 vfCCC0011ckri009
+Kiri: "Don't follow meee!!"
+TP
+
+GL 0 bgcc0005
+GS 0 1
+GS 1 0
+SEF 152 0
+Here it iiis!!!
+TP
+Taichi: "I can...endure...these...hills...but...what...
+about...you!?"
+TP
+
+WVP 0 vfCCC0011ckri010
+Kiri: "Ha! Ha! Ha!......Haa!"
+TP
+
+Huhuhu.
+TP
+
+She's already exhausted?
+TP
+
+On top of that, thanks to my hair turning white overnight from fear, I could handle the sunlight.
+//Oh, is that why it turned white? XD - Sheeta
+TP
+
+You could say it was super-favorable.
+TP
+
+I went over a hill.
+TP
+
+One.
+TP
+
+WVP 0 vfCCC0011ckri011
+Kiri: "Ha! Ha! Ha!!"
+TP
+
+Two.
+TP
+
+Taichi: "Ho! Ho! Ho!"
+TP
+
+Three.
+TP
+
+Kiri's speed fell.
+TP
+
+Now's my chance!
+TP
+Taichi: "Ora-oraaa!!"
+TP
+
+WVP 0 vfCCC0011ckri012
+Kiri: "......don't come any closeeer!!"
+TP
+
+Ku! She's surprisingly energetic.
+TP
+
+It seems this will become a long war.
+TP
+GL 0 bgcc0002
+GS 0 1
+SEF 152 0
+Taichi: "This is my house!!"
+TP
+
+WVP 0 vfCCC0011ckri013
+Kiri: "Shut up!!"
+TP
+
+She outran me.
+TP
+
+She went through an alley, turning to a course that returned to the school.
+TP
+
+Taichi: "Guoo!!"
+TP
+
+The chastity belt was chafing.
+TP
+
+It hurts!
+TP
+It may not be sexual harassment!
+TP
+
+But it is sexual harassment!
+TP
+
+Taichi: "So we're even!?"
+TP
+
+My fighting spirit boiled up.
+TP
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+
+Taichi: "Ho! Ho!"
+TP
+
+GL 0 bgcc0014
+GS 0 1
+SEF 152 0
+
+Taichi: "Ho! Ho!"
+TP
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+Taichi: "Ho! Ho!"
+TP
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+
+School, IN!
+TP
+
+Taichi: "Ho! Ho!"
+TP
+
+Shoes on, GO!
+IF $tlnote != 0 (TL note: In Japan, students have both outdoor and indoor shoes, which they're suppossed to change as they enter the school.)
+TP
+
+Keep it up to the second year classroom.
+TP
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+WVP 2 se105 1 0
+SEF 101 0
+*slide!*
+TP
+
+I opened the door Kiri had closed and jumped in.
+TP
+
+Right when she left through the back door.
+TP
+
+Taichi: "Damn!"
+TP
+
+She outran me.
+TP
+GL 0 evcc0011
+$CGevcc0011 = 1
+GS 0 1
+SEF 152 0
+WVP 0 vfCCC0011cfyu000
+Touko: "......aeeh!!?"
+TP
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+Taichi: "Ah, not here!"
+TP
+
+She disappeared to either the left or the right!
+TP
+
+Taichi: "......sniff, sniff."
+TP
+
+Taichi: "This way!"
+TP
+
+A floral scent from the right.
+TP
+
+I rushed down the stairs.
+TP
+
+The first floor hallway.
+TP
+
+I saw Kiri's back.
+TP
+
+Taichi: "Wahaha! Your mint floral will be the death of youuuuu!!"
+TP
+
+WVP 0 vfCCC0011ckri014
+Kiri: "Damn!"
+TP
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+Once more outside.
+TP
+
+By the way, we've been running for an hour already.
+TP
+
+This is! Summer!!
+TP
+
+GL 0 bgcc0014
+GS 0 1
+SEF 152 0
+Taichi: "Ho! Ho!"
+TP
+
+WVP 0 vfCCC0011cmki000
+Miki: "......ah, Sempai......"
+TP
+
+Like the white afterimages of station signs that occasionally passed across the windows of the late night express train that Michiko boarded as she set out on a journey after being hurt by lost love, Miki went straight through me.
+//Unfortunately, I don't have the time to read bios of multiple random "Michiko"s to try and figure out who he's referencing here. Å`IX
+TP
+
+WVP 0 vfCCC0011cmki001
+Miki: "Hey-you-wait."
+//It does look just this strange in Japanese, and she said it in one breath, so please don't touch it. Å`IX
+//I put hyphens in it. Don't kill me. - Sheeta
+TP
+
+A voice from behind me.
+TP
+
+Taichi: "-!!"
+TP
+SEF 101 0
+Impact.
+TP
+WVP 2 se032 1 0
+SEF 101 0
+*slip!*
+TP
+
+Facial sliding.
+TP
+
+WVP 0 vfCCC0011cmki002
+Miki: "Your knees are off balance."
+TP
+
+WVP 0 vfCCC0011cmki003
+Miki: "Ahahahahaha."
+TP
+
+Taichi: "Ahahahahaha."
+TP
+
+Taichi: "......urya."
+TP
+
+I kissed her. Like a kiss thief.
+TP
+GL 4 sgcc0021
+$CGsgcc0021 = 1
+GP 4 0 0
+GI 4 4
+WVP 0 vfCCC0011cmki004
+Miki: "Nnmuuuuuuuuuuu!!!!?"
+TP
+
+Drill.
+TP
+
+WVP 0 vfCCC0011cmki005
+Miki: "Nn! Nnbu! Nn, pua!!?"
+TP
+
+Vibrator.
+TP
+
+WVP 0 vfCCC0011cmki006
+Miki: "Nn! Nnnnnnnnn! *kiss* *kiss!* Nnbua! Nn! ----! Nn! Nn!Nn!!e......*lick!* Fua, nnnnnnnnn!!!"
+//all spacing, ellipse and capitalization inconsistency in these lines is intentional Å`IX
+TP
+
+Vacuum.
+TP
+
+WVP 0 vfCCC0011cmki007
+Miki: "Nnmumumumumu! Fua, fuaan! Nn! Nnn! yan! I...I can't...can't brea......nnnnnnnnnnnnn! ! *lick!* *lilick!* *kiss* *kiss!* ah, ah!ku, aao, fumuuuunn!!!"
+TP
+
+For the final blow, Mixer (only used on Miki).
+IF $tlnote == 1 (TL note: The word "mixer," when pronounced in Japanese, sounds like "mikisaa", which of course contains "Miki".)
+TP
+
+WVP 0 vfCCC0011cmki008a
+Miki: "Nnnn! Nnn! Nn! Uuun! Nn!Nn, nnuu......*lick!* ......Ah, no, fua......*lick* Nn! Ku!......stop, no, nnnnnnnn, nnnnnnnnnnnnnn! Nn! Nn *lick!*...fua......"
+TP
+
+WVP 0 vfCCC0011cmki008b
+Miki: "That...hurts......fworgib......fwor...... nnnnnnnnnnnnnnnnnnnnnnn!!!!!!"
+TP
+GO 4 1
+She came to a full stop, and collapsed to her knees.
+TP
+
+WVP 0 vfCCC0011cmki009
+Miki: "......fuhyuuu......afuafu......"
+TP
+
+Taichi: "Your knees are off balance."
+TP
+
+I haughtily informed her.
+TP
+
+I reopened the pursuit.
+TP
+
+Still, damn you Miki.
+TP
+
+To trip the legs of a person who's running.
+TP
+
+Today when I'm growing radically.
+//Huh? "Growing" as in height?-Spin
+TP
+
+WVP 0 vfCCC0011cmki010
+Miki: "......fua, my first kiss waaaas......"
+TP
+
+I heard such a voice behind me.
+TP
+
+She reaped what she sowed.
+TP
+
+GL 0 bgcc0014
+GS 0 1
+SEF 152 0
+Taichi: "Ho! Ho!"
+TP
+
+I sucked in energy and became livelier.
+TP
+
+A lot of distance had grown between Kiri and I now, but......
+TP
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+With these hills, I'll take it back all at once.
+TP
+
+Dash!
+TP
+
+However, as I was equipped with the chastity belt, I was invested with bowleggedness.
+TP
+
+Taichi: "Kiri, don't think this is over!"
+TP
+
+WVP 0 vfCCC0011ckri015
+Kiri: "......uu!"
+TP
+
+She was surprised, and fell forward.
+TP
+
+WVP 0 vfCCC0011ckri016
+Kiri: "Uu, uu......*sob*......*hic!*"
+TP
+
+She sniveled.
+TP
+
+WVP 0 vfCCC0011ckri017
+Kiri: "I can't...it's too much!......"
+TP
+
+She'd toiled quite a bit.
+TP
+
+She's running as if dragging her legs.
+TP
+
+To catch up to her......it shouldn't take ten seconds.
+TP
+
+What'll I do when I catch her?
+TP
+
+I hadn't thought about that.
+TP
+
+I can only leave it to the inclination of my emotions.
+TP
+
+
+Flowers, Double First Kiss Robbery---
+TP
+
+An evil thought.
+TP
+
+That's it. That's good.
+TP
+
+I will scatter the flower-chans.
+TP
+
+Taichi: "Ku! Ku! Ku!"
+TP
+
+I extended my hand to Kiri, who by now was practically walking.
+TP
+
+That moment,
+TP
+
+WVS 1 0
+
+A shadow at the edge of my vision.
+TP
+
+Instant concentration. I can see in slo-mo.
+TP
+
+What is this?
+TP
+
+A bicycle.
+TP
+
+It is a bicycle.
+TP
+
+
+GL 4 sgcc0016
+$CGsgcc0016 = 1
+GP 4 0 0
+GI 4 0
+WVP 2 se106 1 0
+SEF 101 0
+WVP 0 vfCCC0011cnnk000
+Nanaka: "Yaaaaaaa!!"
+TP
+
+Taichi: "Goaaa!!?"
+TP
+
+I was beaten into the ground.
+TP
+GO 4 1
+My consciousness grew shallow.
+TP
+
+Kiri seemed far away.
+TP
+
+WVP 0 vfCCC0011cnnk001
+Nanaka: "Geez......this kid......wasting all his strength on such things without even going to the hokora......"
+TP
+
+She was whispering to herself.
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+........................
+TP
+
+GL 0 bgcc0003
+GS 0 1
+SEF 10 1
+
+WVP 1 bgm002.ogg 0 0 0
+
+When I opened my eyes, I was in my own room.
+TP
+
+Taichi: "Uu, uuuuu......"
+TP
+
+GL 1 TCYM0000
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC0011cmki011
+Miki: "Morning."
+TP
+
+Taichi: "Ah, it's Miki-rin."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki012
+Miki: "I am Miki-rin. I will be a bother."
+TP
+
+Taichi: "Huh?"
+TP
+
+My crotch was missing something.
+//oh god...that was perfect! Å`IX
+TP
+
+I tried touching it, and found no sensation from the trustworthy yet faintly painful chastity belt.
+TP
+
+A petite loneliness.
+TP
+
+Had I become affectionate for it as it accompanied me through pleasure and pain?
+TP
+
+Taichi: "Miki......sorry for the quick question, but the thing I was wearing......"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki013
+Miki: "You really were wearing something amazing."
+TP
+
+Taichi: "Those...those were high-tech briefs."
+TP
+
+I lied.
+TP
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC0011cmki014
+Miki: "A-amazing."
+TP
+
+Taichi: "They're so high-tech they'll turn on a light automatically in dark places."
+TP
+
+Taichi: "That's why there's so much sparkle within my pants. It's Saturday Night Fever."
+TP
+
+From the position of a rather naughty boy with high-tech briefs, I tried forcing a smile.
+TP
+
+It was like the face of a top breeder taking pride in the dog he loved and which earned him money.
+//Awkwardness in the last bit of phrase there.  Tried to reword it so that 'dog' is clearly the subject of the verb rather than he. ~Bal
+TP
+
+Taichi: "But they are favorably reviewed by wives. They say it's easy to look for a son underneath the sheets! (alol)"
+TP
+
+*alol = an American-like smile. Americans possess the power to provide their own gags with self-service through smiling. 
+IF $tlnote != 0 (TL note: The kanji for "laugh" can also mean "smile," so the Japanese for "lol" refers to laughing and/or smiling.)
+//It's been a while since I had to tl a joke this complicated. Å`IX
+TP
+
+
+WVP 0 vfCCC0011cmki015
+Miki: "Uhaa, how adult..."
+TP
+
+Taichi: "Huh? Replacement underwear was put on?"
+TP
+
+I looked at Miki.
+TP
+
+She blushed and averted her eyes.
+TP
+
+Taichi: "......y-you......could you have......?"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0011cmki016
+Miki: "Ha, haa......Sempai fell down in the street, so......I picked you up......and a fragment of the chastity belt fell out of your pant leg......"
+//I don't see how a piece of it can fall out of the sleeve near his torso.-Spin
+TP
+
+She knew it was a chastity belt!!?
+TP
+
+I fell down.
+TP
+
+WVP 0 vfCCC0011cmki017
+Miki: "So I dragged Sempai to his house......"
+TP
+
+Uuoo, is that why I have abrasions all over my body!?
+TP
+
+WVP 0 vfCCC0011cmki018
+Miki: "When I took off your pants......there it was..."
+TP
+
+Why was there any need to take off my pants!?
+TP
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCC0011cmki019
+Miki: "I blanked out for thirty minutes......but the next thing I remember is being on the roof of the school......"
+//The "remembers" were too close. and the "but" was added as a better transition.-Spin
+TP
+
+Taichi: "......"
+TP
+
+Was it so unsettling it made her lose her memory and run away?
+TP
+
+GL 1 TCYM0011
+GI 1 0
+WVP 0 vfCCC0011cmki020
+Miki: "I returned, and hardened my resolve......then this Miki took the liberty of preparing the underwear I thought suited you the best!"
+TP
+
+Taichi: "......hou."
+TP
+
+I tried looking inside my pants.
+TP
+WVP 2 SE064 1 0
+Elephant underwear.
+TP
+
+Taichi: "They suit me? These suit me the best?"
+TP
+
+Isn't there a bag in the front of this that tapers to a point just like an elephant?
+TP
+
+This isn't underwear so much as a rod covering.
+TP
+
+Miki was ashamed.
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki021
+Miki: "Th-that's......I wanted to see a gentleman wearing those at least once! I'm satisfied!"
+TP
+
+I'd satisfied Miki without knowing it.
+TP
+
+Dammit......was I harassed by Miki-Miki......?
+TP
+
+I wonder why I didn't open my eyes then...
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki022
+Miki: "What's wrong?"
+TP
+
+Taichi: "......I'm fed up with myself."
+TP
+
+A Åw?Åx floated up above Miki's head.
+//He wouldn't be able to see it if it was in Miki's head - Sheeta
+TP
+
+Taichi: "Well, it's fine. More importantly, thanks. Even I would've suffered bodily harm from lying under the boiling sun."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki023
+Miki: "No, no."
+TP
+
+Taichi: "I must give you some form of thanks."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki024
+Miki: "I'm satisfied as long as Sempai lives carefree."
+TP
+
+Taichi: "Miki......you're such a good girl!"
+TP
+
+*slide!*
+TP
+
+I fondled her butt.
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0011cmki025
+Miki: "Release me, young elephant."
+TP
+
+Taichi: "Hau!!?"
+TP
+
+As a man I was visited by quite a bit of shame.
+TP
+
+Taichi: "Right, right, I have sandwiches. Let's eat."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki026
+Miki: "The resilient Sempai is also wonderful."
+TP
+
+I prepared drinks too, though they weren't that cold.
+TP
+
+Taichi: "It is right around noon after all."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki027
+Miki: "Waa, here I go!"
+TP
+
+She leaped onto it.
+TP
+
+*munch* *munch* *munch*
+TP
+
+
+
+She ate single-mindedly.
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki028
+Miki: "*munch* *munch*......you used......*munch*...... fresh vegetables, didn't you?"
+TP
+
+Taichi: "Yep."
+TP
+
+WVP 0 vfCCC0011cmki029
+Miki: "I'm sorry for using that which was handy......"
+TP
+
+Taichi: "You do need vegetables."
+TP
+
+WVP 0 vfCCC0011cmki030
+Miki: "That's true, but..."
+TP
+
+Come to think of it, Youko-chan said she'd be back by lunch, but...
+TP
+
+She's already here.
+TP
+
+It was possible.
+TP
+
+Behind me!
+TP
+
+......she's not there.
+TP
+
+Taichi: "But......what is going on with this world?"
+TP
+
+WVP 0 vfCCC0011cmki031
+Miki: "Munch?"
+TP
+
+Taichi: "Everyone's gone, but it's not like there are any corpses around."
+TP
+
+Taichi: "All the animals are gone too."
+TP
+
+Taichi: "The fact that we're living like this...means that the microorganisms inside our bodies probably haven't died off, but......this was an awfully convenient annihilation."
+TP
+WVP 0 vfCCC0011cmki032
+Miki: "............"
+TP
+
+No reaction.
+TP
+
+Taichi: "Miki? Are you listening?"
+TP
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfCCC0011cmki033
+Miki: "Ah, yes......the deliciousness made me forget myself......"
+TP
+
+Taichi: "Are you a starving child?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki034
+Miki: "Is it okay for me to have those vegetables?"
+TP
+
+Taichi: "Go ahead, go ahead."
+TP
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki035
+Miki: "It'd be so nice if I could eat vegetables and have a life that had nothing to do with constipationÅÙ"
+TP
+
+Taichi: "Feel some shame, girl......"
+TP
+
+Though it's nice that she's being so familiar with me.
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki036
+Miki: "So, what were you saying?"
+TP
+
+Taichi: "I was following the mystery of humanity's annihilation."
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC0011cmki037
+Miki: "We were too late for it."
+TP
+
+Taichi: "......I don't think so."
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC0011cmki038
+Miki: "You don't?"
+TP
+
+Taichi: "Might we be in the midst of all of humanity being abducted?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki039
+Miki: "......Sempai really is smart."
+TP
+
+Taichi: "Hahaha, don't praise me so."
+TP
+
+Taichi: "I see Miki-chin hasn't been discouraged."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki040
+Miki: "Ahaha, I'm just carefree."
+TP
+
+Taichi: "May I ask what your adaptation coefficient was?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki041
+Miki: "Just forty."
+TP
+
+Taichi: "That's right on the cutoff line."
+TP
+
+WVP 0 vfCCC0011cmki042
+Miki: "It has no effect on social life."
+TP
+
+Taichi: "Has it always been that small?"
+TP
+
+WVP 0 vfCCC0011cmki043
+Miki: "Yes, ever since I was a child."
+TP
+
+Taichi: "I see, so that's why they sent you to Gunjou."
+TP
+
+WVP 0 vfCCC0011cmki044
+Miki: "......I was hurt a bit by other people, but that was back during my loli period."
+TP
+
+Taichi: "Aaah, loliiii. Thaaat's niiice, loli. I want to meet you during that period."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki045
+Miki: "I have pictureeees."
+TP
+
+Taichi: "......how much?"
+TP
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC0011cmki046
+Miki: "Y-you're making a really serious face......"
+TP
+
+Taichi: "Because I seriously want them. How much?"
+TP
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfCCC0011cmki047
+Miki: "......I...I'll think about it."
+TP
+
+She was afraid.
+TP
+
+For an instant.
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0011cmki048
+Miki: "Come to think of it......didn't you......steal my lips?"
+TP
+
+Her voice lowered.
+TP
+
+Taichi: "Uu......yeah, about that incident. Well, the kick came with such marvelous timing...that I ended up in heat..."
+TP
+
+WVP 0 vfCCC0011cmki049
+Miki: "But it was my first kiss......"
+//"I don't wanna have a route!" is what some of her lines started sounding like to me. Å`IX
+TP
+
+Taichi: "I...did get that feeling."
+TP
+
+Taichi: "Still, because you released such a precise attack, Miki, your hit even entered my heart."
+TP
+GL 1 TCYM0041
+GI 1 0
+WVP 0 vfCCC0011cmki050
+Miki: "Uuuuuuuu..."
+TP
+
+Miki cried, "Uuu...uuu," for a while.
+TP
+
+WVP 0 vfCCC0011cmki051
+Miki: "......I have no choice but to give up and accept that I was bitten by a dog......"
+//Not an idiom, afaik. This might be a backhanded insult. Å`IX
+TP
+
+Taichi: "Th-that would be good."
+TP
+
+Her face swung back up.
+TP
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki052
+Miki: "That, or maybe I'll expose the contents of this camera."
+TP
+
+Taichi: "Th-that's a disposable camera!!?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki053
+Miki: "That's not the part to be surprised at......"
+TP
+
+Taichi: "Yes, that's true. I was mistaken."
+TP
+
+Taichi: "What did you take with it?"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0011cmki054
+Miki: "Sempai's elephant. I used all twenty four exposures."
+//is "frames" the correct English counting word? Å`IX
+//'Exposures' is what's come up for me on google, so I'll change it to that - Sheeta
+TP
+
+Taichi: "What did you sayyy!!!?"
+TP
+
+My embarrassing stalk...a stalk of shame!!
+TP
+
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki055
+Miki: "Maybe I'll post it on a bulletin board...o-r, per-haps, I'll scatter them all over the placeÅÙ"
+//not sure how to make the pauses in "or perhaps" look more natural (it's definitely split into four parts though) much less how to make this line sound more like something she could be singing, but good luck with that. Å`IX
+//Return of the hyphens! - Sheeta
+TP
+
+Taichi: "P-please stop. Anything but that..."
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC0011cmki056
+Miki: "Nnn, you did steal my first kiss...maybe I should expose it..."
+TP
+
+Taichi: "Have mercy!"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0011cmki057
+Miki: "Will you listen to what I have to say?"
+TP
+
+Taichi: "I'll listen I'll listen."
+//no comma, please Å`IX
+//HA-Spin
+TP
+
+She rubbed her hands.
+TP
+
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki058
+Miki: "Then I shall return one picture for each order you follow."
+//That's how people usually say it right?-Spin
+TP
+
+Taichi: "I, Kurosu Taichi, intend to obediently submit myself to your eroge-like demands."
+IF $tlnote == 1 (TL note: "Eroge" or "erotic game" refers to visual novels with graphic sex scenes. These scenes aren't necessarily the focus of the game, though they can be.)
+//I'm dying to rewrite that note as 'Eroge: What you're playing right now ^_^' - Sheeta
+//that last little line after the comma just felt so weird for some reason. Took me 5 minutes to come up with just that.-Spin
+TP
+
+GL 1 TCYM0011
+GI 1 0
+WVP 0 vfCCC0011cmki059
+Miki: "Hu! Hu! Huuu..."
+IF $tlnote == 1 (TL note cont: This game is itself an eroge, unless you chose to remove the sex scenes with our "all ages" feature during installation.)		
+//Hopefully this satisfies you. I also figure that anyone who makes it this far deserves to be told. Å`IX
+TP
+
+WVP 0 vfCCC0011cmki060
+Miki: "For now, harassing Kiri-chin is prohibiteeed."
+TP
+
+Taichi: "Hahaaa!"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki061
+Miki: "Including sexual harassment with love."
+TP
+
+Taichi: "Hahahahaaa!"
+TP
+
+I lowered my head.
+TP
+
+The master and servant have changed places.
+TP
+
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+SEF 152 0
+For those reasons, we came to school.
+TP
+
+I was made to carry Miki's stuff.
+TP
+
+Taichi: "Now then, we've gotten here, but what should we..."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki062
+Miki: "Ah, I'm meeting up with Kiri here."
+TP
+
+Taichi: "Got it."
+TP
+
+I handed her the book bag.
+//Still works. This way it no one misread it the first time or anything.-Spin
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki063
+Miki: "And then I'll get these developed."
+TP
+
+She took out her camera and laughed invincibly.
+TP
+
+Taichi: "......uuuu! I'm your love slave..."
+TP
+
+WVP 0 vfCCC0011cmki064
+Miki: "Now then, now then,"
+GO 1 1
+TP
+
+She left with a light gait.
+TP
+
+Now then......
+TP
+
+WVS 1 1
+
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+SEF 152 0
+
+In the end, there was nothing to do at school.
+//CP_S ccc0021
+TP
+
+Should I go home?
+TP
+
+But......is it okay to be so easygoing?
+//CP_F
+TP
+
+Even though the world is being annihilated?
+TP
+
+WVP 1 bgm016.ogg 0 0 0
+
+Taichi: "......"
+//CP_S
+TP
+
+What should I do?
+TP
+
+What can I do?
+//CP_F
+TP
+
+A grand mystery is nice, but there's no means to solve it.
+TP
+
+Taichi: "......nn?"
+TP
+
+What isn't there isn't there.
+//I'm guessing no comma here either then?
+TP
+
+The hokora---
+TP
+
+
+Nanaka and Youko-chan both spoke of it.
+TP
+
+Hokora...
+TP
+
+Since I'm bored, maybe it's worth going there.
+TP
+
+GL 1 TCYM0000
+GP 1 190 0
+GI 1 1
+
+
+WVP 0 vfCCC0011cmki065
+Miki: "Taichi-sempai."
+TP
+
+Taichi: "Nnoh? Miki?"
+TP
+
+Kiri was there too.
+TP
+
+With palpable animosity.
+TP
+
+Taichi: "Kiri, you seem tired."
+TP
+
+GL 2 TCSK0002
+GP 1 40 0
+GP 2 345 0
+GS 1 1
+GS 2 1
+SEF 109 0
+WVP 0 vfCCC0011ckri018
+Kiri: "......whose fault is......haa."
+TP
+
+She was exhausted.
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki066
+Miki: "For you two, whose relationship is far too bad for the first day of the new term, this damned Miki has a plan."
+TP
+
+Taichi: "It's not bad or anything."
+TP
+
+GL 2 TCSK0001
+GI 2 0
+WVP 0 vfCCC0011ckri019
+Kiri: "It's bad."
+TP
+
+She said clearly.
+TP
+
+Taichi: "Hmmm......then, I guess it really is bad. What should we do?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki067
+Miki: "Club activities."
+TP
+
+Taichi: "Club? The thing Tomoki's doing?"
+TP
+
+WVP 0 vfCCC0011cmki068
+Miki: "No, President-sempai's club."
+TP
+
+Taichi: "......aaah, that one."
+TP
+
+Sunday night.
+TP
+
+In a world with no trace of humanity, we made our plans.
+TP
+
+I'll go see how she's---
+TP
+
+
+People whose relationships have been cut off.
+//seems more appropriate. ~Bal
+TP
+
+Was there no other path?
+TP
+
+Within that, Tomoki planned to secure and supply food, and Mimi-sempai planned to use the antenna to send an SOS.
+//Lead in is strange. Within what? Doesn't seem to match 'other path', maybe matches 'our plans' or 'world without humanity', but that was 3 frames ago. ~Bal
+TP
+
+The conclusion of the campout had been tinged with disputes, and fatigued everyone.
+//past perfect.  Otherwise it feels like he's narrating that it has just ended, instead of it having ended last night. ~Bal
+TP
+
+Which is why no one supported those two.
+TP
+
+To be honest, Sempai seems a bit neurotic these days.
+TP
+
+The campout I forced on her became the final blow.
+TP
+
+......there was a feeling of guilt within me.
+//I really wanted to use the hyperliteral "inexcusability," but eventually decided that would be going WAY too far. Å`IX
+TP
+
+On par with the mood that made it hard to talk to her.
+TP
+
+GL 1 TCYM0011
+GI 1 0
+WVP 0 vfCCC0011cmki069
+Miki: "This is an order. Be friendly and perform club activities."
+TP
+
+Taichi: "......understood."
+TP
+
+Well, whatever. I had no objections.
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki070
+Miki: "Kiri-chin too!"
+TP
+
+She slapped her back.
+TP
+
+GL 2 TCSK0002
+GI 2 0
+WVP 0 vfCCC0011ckri020
+Kiri: "I understand......"
+//Those two words didn't need to be there. They also made it look way too weird.-Spin
+TP
+
+I wonder if her weakness is also being clenched by Miki.
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki071
+Miki: "If you don't listen to what I say......I'll hang up those pictures, right?"
+TP
+
+WVP 0 vfCCC0011ckri021
+Kiri: "Uuuuuu......anything but that......"
+TP
+
+I knew it.
+TP
+
+Taichi: "Umm, should we go to the roof and help out?"
+TP
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki072
+Miki: "That's right. Calmly, without violence."
+TP
+
+Taichi: "I'll do my best."
+TP
+WVP 0 vfCCC0011ckri022
+Kiri: "Bathroom......"
+TP
+
+
+WVP 0 vfCCC0011cmki073
+Miki: "Ah, hey."
+TP
+
+
+GO 2 1
+
+
+Kiri entered the girls' bathroom.
+TP
+
+Miki followed.
+TP
+
+I also followed.
+TP
+
+GL 1 TCYM0001
+GP 1 180 0
+GS 1 1
+SEF 109
+
+WVP 0 vfCCC0011cmki074
+Miki: "......be sure not to enter casually."
+TP
+I was pushed out.
+TP
+
+Miki and I split up at the borderline between the bathroom and the hallway.
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki075
+Miki: "You've gotten into a bad habit."
+TP
+
+WVP 0 vfCCC0011cmki076
+Miki: "Kiri-chin hides away when something she doesn't like happens."
+TP
+
+Taichi: "Those emotional teenage years..."
+TP
+
+WVP 0 vfCCC0011cmki077
+Miki: "For those reasons, please go on ahead of me."
+TP
+
+Taichi: "Yep."
+TP
+
+Taichi: "Then I'll impart this to Miki."
+TP
+
+She took it.
+TP
+
+
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfCCC0011cmki078
+Miki: "This is...?"
+TP
+
+Taichi: "A miniature screwdriver."
+TP
+
+A tool the size of a fountain pen cut in half.
+TP
+
+Taichi: "It's a lockpicking tool. It'll come in handy. It's small so it has no endurance, there's the possibility the plate will break when it aligns with the shear line. Be warned."
+//SOS
+//The "Plate" is the part that rotates so there's no way that would break. I'm guessing what was meant here was the "key pin" or the "driver pin" but really, I don't see either of those breaking.
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0011cmki079
+Miki: "......why are you giving me such a thing?"
+TP
+
+Taichi: "It's a hobby of mine. Once you're used to it, a normal lock shouldn't take thirty seconds."
+TP
+
+WVP 0 vfCCC0011cmki080
+Miki: "I see......because you have this skill......it doesn't matter where I hide......"
+TP
+
+A small voice.
+TP
+
+Taichi: "Eh? What?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCC0011cmki081
+Miki: "Nothing. I'll borrow it for now, although I don't really need it......"
+TP
+
+WVP 0 vfCCC0011cmki082
+Miki: "By the way, are you good at lockpicking?"
+TP
+
+Taichi: "I can do it unconsciously."
+TP
+
+GL 1 TCYM0041
+GI 1 0
+WVP 0 vfCCC0011cmki083
+Miki: "This person......is bad......"
+TP
+
+Taichi: "Then later will I see you."
+TP
+
+
+GO 1 1
+
+
+I headed for the roof.
+TP
+
+WVS 1 1
+
+
+RET

@@ -1,0 +1,182 @@
+
+//WVP 1 bgm012.ogg 0 0 0
+//HACK no music here
+
+WVP 0 vfcca0017bmsa000
+//見里「もう、こんなかすり傷どうでもいいです」
+Misato: "Really, these little scrapes are no issue at all."
+TP
+
+
+
+//太一「え、結構出血が？」
+Taichi: "Eh, but they're nice and bleeding?"
+TP
+
+
+
+WVP 0 vfcca0017bmsa001
+//見里「毎月もっと出血してますから」
+Misato: "But I bleed much more every month."
+//It's referring to how often she cuts her wrists in suicidal pain, of course. No, I'm kidding, but see the Kiri bathroom scene; ohhh now we have something. -GHS
+TP
+
+
+
+//太一「ぶ～～～～～っ」
+Taichi: "Bll～～～～l!"
+//Blah ～= blah u/lx7. -GHS
+TP
+
+GL 0 efcc0003
+GP 0 0 0
+GI 0 1
+//HACK fade to red -GHS
+
+
+//古典的に俺は鼻血を出した。
+My nose erupts in an old-fashioned nosebleed.
+//Menstrual blood breaks his brain. -GHS
+TP
+
+
+
+WVP 0 vfcca0017bmsa002
+//見里「きゃー！」
+Misato: "Kyaaah!"
+//This either refers to an ancient diatribe regarding chopsticks, or this sentence will end halfway thr-GHS
+TP
+
+
+
+//太一「幼なじみだった女の子が初潮を迎えたときって、ソレ系の恋愛漫画だったら生々しいイベントの一つや二つあったりなかったりしますよねっ！！」
+Taichi: "On the occasion when a childhood friend that is to say a young girl is met by her menarche, the love manga of 'that' series might or might not have a scene or two of lurid graphicness!!!"
+//Can't find what this series would be, and I'm even uncertain it's referring to any series in particular and it isn't just a trope of sorts. -GHS
+TP
+GO 0 1
+
+
+//意識が暗転する。
+I theatrically part with consciousness.
+TP
+
+
+WVP 2 se018 1 0
+//ぱたりこ
+Badump.
+SEF 101 0
+TP
+
+
+WVP 0 vfcca0017bmsa003
+//見里「あ、あれ？　ぺけくん？」
+Misato: "Eh, ehhh? Peke-kun?"
+TP
+
+
+
+WVP 0 vfcca0017bmsa004
+//見里「ちょっと、もしもーし！」
+Misato: "Hey! Helloooo!"
+TP
+WT 500 0
+WT 1000 1
+
+
+
+
+//で。
+Then,
+TP
+GL 0 bgcc0012a
+GS 0 1
+SEF 10 1
+
+
+WVP 1 bgm012.ogg 0 0 0
+//HACK Music here -GHS
+
+
+//太一「……あれ？」
+Taichi: "...wha...?"
+TP
+
+
+
+//目覚める。白い部屋。保健室だ。
+I am awake. White room. School infirmary.
+TP
+
+
+
+//寝台に寝かせられている。
+I have been laid to sleep on a bed.
+TP
+
+
+
+//太一「そうか……見里先輩の初潮イベントが起こって……」
+//※劇的に違います
+Taichi: "Ah, right... I triggered the Misato-senpai Menarche Scene."
+> 
+ 
+* Dramatical mistake.
+//Reference to Nitroplus' DRAMAtical Murder, which was released years after this, but that's no problem since Tanaka is a time traveler. -GHS
+TP
+
+
+
+//太一「うーん」
+Taichi: "Ooo-kay."
+TP
+
+
+
+//寝台に乗せてくれたらしい。
+Seems I was put to bed.
+TP
+
+
+
+//あんな細腕で。
+By those slender arms...
+TP
+
+
+
+//太一「あー、恥かいた」
+Taichi: "Bwaaah, so embarrassing!"
+//Just serve him lunch every day if he makes you nosebleed so, I'm sure he'll love those biiiig boobs of yours. You bloodmaker. -GHS
+TP
+
+
+
+//枕に顔を埋めた。
+I buried my face in the pillow.
+TP
+
+
+
+//太一「先輩のにおいがする……」
+Taichi: "This smells of Senpai..."
+TP
+
+WVS 1 1
+
+
+//すーはーすーはー
+Sniiiff, haaah, sniiiff, haaah.
+TP
+//すーはーすーはー
+Sniiiff, haaah, sniiiff, haaah.
+TP
+//すーはーすーはーすーはーはー（※スーパー駄目人間）
+//※スーパーとスーハーがかかっていますよ奥さん！！
+Sniiiff, haaah, sniiiff, haaah, sniiiff, haaah, sniiiff, haaah. (* A sniffer, what a superhopeless human.)
+* Madam, it's what I'm sniffing that is super!
+//Original sound is "suu-haa", which is easily modifiable in "suu-paa", super, and that's the entire joke. Unless this is some sort of reference, that is just weak as hell. Then again, being a dumb meanie to Misato doesn't deserve the good jokes. -GHS
+TP
+
+
+
+RET

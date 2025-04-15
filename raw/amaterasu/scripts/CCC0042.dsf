@@ -1,0 +1,44 @@
+
+
+GL 0 bgcc0006
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+
+WT 500 0
+WT 500 1
+GL 0 evcc0011a
+$CGevcc0011a = 1
+GS 0 1
+SEF 109 0
+
+
+
+WVP 1 bgm018.ogg 0 0 0
+
+
+Touko wasn't there.
+TP
+
+Not today either.
+TP
+
+There's no reason to come to school. I guess it's to be expected.
+TP
+
+It was missing a little something.
+TP
+
+I tried sitting in my seat for a little while.
+TP
+
+I tried losing myself in thought for a little while.
+TP
+
+WVS 1 1
+
+
+
+RET

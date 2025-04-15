@@ -1,0 +1,256 @@
+
+
+//太一「あー、俺も行くよ」
+Taichi: "Ah, I'll be coming too!"
+TP
+GL 1 TCYM0002
+//HACK yada yada redisplay yada -GHS
+GI 1 0
+
+WVP 0 vfCCD4001mki012
+//美希「……はい、どうも」
+Miki: "...yes, please do."
+TP
+
+
+//一人じゃ不安なのかな。
+She might get anxious if she's on her own.
+TP
+
+
+//また手を繋ぐ。
+We join hands again.
+TP
+
+
+WVP 0 vfCCD4001mki013
+//美希「……なんでこんなことに……」
+Miki: "...why is this even happening..."
+TP
+
+
+//太一「さあねえ」
+Taichi: "Dunno, dunno."
+TP
+
+
+
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCD4001mki014
+//美希「死体がないってことは、消えるんですよね？」
+Miki: "But there's no bodies, so does that mean they all just vanished?"
+TP
+
+
+
+//太一「みんなでどっか行ったのかも」
+Taichi: "They've all gone somewhere, who knows."
+TP
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfCCD4001mki015
+//美希「どっかって……」
+Miki: "But where..."
+TP
+
+
+//太一「ほら、発電所あるし。避難したとか」
+Taichi: "Look, we have a power plant here. They might have evacuated."
+//This is more like what happened with the Hasekura in CCC0000 than Chernobyl. -GHS
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCD4001mki016
+//美希「ここ危ないってことですか？」
+Miki: "Meaning that it's dangerous here?'
+TP
+
+
+//太一「さあ……わからない」
+Taichi: "Well... I dunno."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCD4001mki017
+//美希「それって……無線や電話が通じない理由にはならないと思います」
+Miki: "But then... I don't think that can be the reason for why the radio and the telephone aren't usable."
+//Lit. "aren't understandable", obvious troll is obvious now. -GHS
+TP
+
+
+//太一「ああ、そうだな」
+Taichi: "Ah, yeah, right."
+//Great lying, moron. -GHS
+TP
+
+
+
+
+GL 0 bgcc0000a
+GS 0 1
+GS 1 0
+SEF 152 0
+//で、霧の家。
+And, Kiri's house.
+//No wonder her head is so puffy, she literally lives in the clouds! -GHS
+TP
+
+
+//美希と二人で、半分ずつ家を調べた。
+We explored the house half apiece, me and Miki.
+TP
+
+
+//太一「どうだった？」
+Taichi: "Got anything?"
+TP
+
+
+WVP 0 vfCCD4001mki018
+//美希「いません？」
+Miki: "She's not there?"
+TP
+
+
+//太一「こっちはいない」
+Taichi: "Not where I looked."
+TP
+
+
+//美希の両肩が下がる。
+Miki's shoulders droop down.
+TP
+
+
+GL 0 bgcc0014
+//What the hell are they doing at Tasaki? Gunjou is between here and Kiri's house! -GHS
+GS 0 1
+SEF 152 0
+
+//太一「すれ違ったのかも。学校に戻ろうか？」
+Taichi: "Maybe we've passed by each other and didn't meet. How about we return to school?"
+TP
+
+
+GL 1 TCYM0001
+GI 1 1
+//HACK fade doll -GHS
+
+WVP 0 vfCCD4001mki019
+//美希「あの道を通ってるはずなんです！」
+Miki: "She must have passed through that road, she must!"
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfCCD4001mki020
+//美希「すれ違ってるわけない……」
+Miki: "We can't have passed by each other..."
+//There was no crossing, in other words, SYMBOLISM!!! -GHS
+TP
+
+
+//太一「先に学校に来てたのかも？」
+Taichi: "Maybe she went to school ahead of us?"
+//His lies are just getting worse by the second. Forget lacking Kiri, there's no way Miki can't tell that Taichi is being this damn dishonest. -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+
+//美希「…………」
+Miki: "......"
+TP
+
+
+WVP 0 vfCCD4001mki022
+//美希「ごめんなさい、わたし、さがしてきますっ」
+Miki: "I'm sorry, I'll be searching for her!"
+//I suspect this is Miki telling him to stop being a lying asshole. -GHS
+//GO 1 1
+//HACK not yet
+TP
+
+GO 1 1
+WVP 2 SE035 1 0
+//HACK out with the doll, footsteps SFX -GHS
+
+
+//駆けていく。
+She dashes out.
+TP
+
+
+
+WVS 1 1
+
+
+
+
+//太一「あ、おーい！」
+Taichi: "Ah, waaait!"
+TP
+
+
+//太一「行っちゃった……」
+Taichi: "And she's gone..."
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+TWS 7
+//HACK NVL mode. Damn, gloomy. -GHS
+
+//それから、美希は三日ほど霧を探し続けた。
+> 
+ 
+And after that, Miki continued to search for
+Kiri for three days.
+TL
+//一日探索するごとに、美希は外部を拒絶していった。
+In her day-long searching, Miki completely
+rejected the outside.
+//COUGH COUGH COUGH -GHS
+TL
+//そして三日目、完全に閉じこもった。
+And on the third day, the seclusion was complete.
+//This has nothing to do with her being secluded at home; she is just ignoring him and everyone else. It probably doesn't get any clearer that what they're doing is within their minds. -GHS
+TL
+//いくら説得しても、出てくる気配はない。
+However much persuasion I use, there is no
+indication that she will come out.
+TL
+//もうその心は、絶望に完全に包まれてしまった。
+By now, that heart was completely enshrouded
+by despair.
+TP
+
+
+//……失敗。
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+                  ...failure.
+TP
+
+
+
+
+
+
+RET

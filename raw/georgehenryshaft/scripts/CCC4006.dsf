@@ -1,0 +1,615 @@
+GL 0 bgcc0007
+GS 0 1
+SEF 152 0
+
+//と、一人で屋上に来たのはいいが。
+So, I came to the roof alone and that's fine, but,
+TP
+
+//どうしようかな。
+what should I do?
+TP
+
+//あ、先輩だ。
+Ah, there's Senpai.
+TP
+
+WVP 0 vfCCC4006msa000
+//見里「ぱららららららっ」
+Misato: "Budda-budda-budda-budda-budda-budda!"
+//The Buddha is an actual SFX. -GHS
+TP
+
+//WVP 1 bgm006.ogg 0 0 0
+//HACK no music now -GHS
+
+
+//サバゲーの練習してる。
+Training for a Survival Game.
+TP
+
+//ＳＭＧを腰だめに構えた先輩は素敵だ。
+Senpai is lovely when ready to shoot her SMG from the hip.
+//SMG was spelled out in Katakana in the PS2 version, another of those changes for censorship(?) that are just beyond mysterious. -GHS
+TP
+
+//ちなみにこの銃器は、毎年の合宿で使われていたものだ。
+That gun, by the way, is something used in our yearly training camp.
+//Which didn't exist until this year, see CCC0002, may be just more sarcasm. Perhaps the idea that the training camp is yearly becoming fixed, like the insufficient bread seems to be. Or maybe these people are so stuck in their behaviors that the training camp does, in fact, happen every year and this mess repeats with it. -GHS
+TP
+
+//無線、合宿ときたらあとはサバゲー。
+For radios, when it comes to training camp, it's gotta be survival games.
+//Because it lets them use a radio...? This doesn't make much sense. Unfortunately this script just seems to have gotten the shaft in editing, as it's got multiple parts that are just off. -GHS
+TP
+
+//ちゃんとＢＢ弾タイプの電動ガンも揃っている。
+We also have proper BB gun type electric guns.
+//You'll shoot your eyes out. No, seriously. http://en.wikipedia.org/wiki/Air_gun_laws#Japan More interesting that I can't figure out why he would even bother to point this out unless it was literally a Chekhov's Gun, as a very weird and lateral way to point out the true nature of Kiri's clearly implausible crossbow. -GHS
+TP
+
+GL 0 zzzrooftopzoom
+GS 0 1
+SEF 109 0
+WVP 1 bgm006.ogg 0 0 0
+//HACK music, and zoom BG. PS2 and 360 version (harder to notice) ALSO zoom to the wrong BG, with the complete antenna. -GHS
+
+
+//太一「はろー」
+Taichi: "Hullooo."
+TP
+
+GL 1 TCMM0004
+GP 1 225 0
+GI 1 1
+//HACK and FADE THE DAMN DOLL IN dammit. -GHS
+
+WVP 0 vfCCC4006msa001
+//見里「えっ？」
+Misato: "EH?"
+TP
+
+//こっちを向いた。
+She turned my way.
+TP
+
+//ＳＭＧが水を噴出した。
+The SMG bursts water.
+//She shoots on sight. Told you Misato's a libertarian... -GHS
+TP
+
+//太一「わっぷ！」
+Taichi: "WaH'ph!"
+TP
+
+//目と目の間を直撃。
+Direct hit the space between eye and eye.
+//Damn, that was a snap reaction! She's a crack shot! -GHS
+TP
+
+//電動水鉄砲だから勢いは強い。
+It's an electric water pistol so the blast power's strong.
+TP
+
+WVP 0 vfCCC4006msa002
+//見里「あっ、ごめんなさい……」
+Misato: "Ah, apologies..."
+TP
+
+//太一「いえ、夏のサバゲーはウォーターガンに限りますよね」
+Taichi: "No need, our Summer survival games are limited to water guns."
+//Seems to be in response to the question that could be asked above about BBs ("do they use them?"). The further focus continues to hint that the BB guns either had to play a part, or actually do. -GHS
+TP
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCC4006msa003
+//見里「そういえば新製品が出たんですよ、滅亡前に」
+Misato: "Which reminds me, a new line of products was released right before the Fall."
+TP
+
+//太一「寒すぎる……」
+Taichi: "Way too cold..."
+TP
+
+//太一「あのー、そういえば気になっていたんですけど」
+Taichi: "Uhm, which reminds me, it has been on my mind, but,"
+TP
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfCCC4006msa004
+//見里「はい？」
+Misato: "Yes?"
+TP
+
+//太一「アンテナ、手つけなくていいんですか？」
+Taichi: "Leaving the antenna, without even laying hand on it, is it right?"
+//So awesome to read this line with the complete antenna BG clumsily left right behind it. -GHS
+TP
+
+GL 1 TCMM0005
+GI 1 0
+WVP 0 vfCCC4006msa005
+//見里「…………そ、そうでした」
+Misato: "......w-, well, is it indeed."
+TP
+
+//太一「美希のペースにほだされましたね」
+Taichi: "We have been lovingly suckered into Miki's pace, have we."
+TP
+
+WVP 0 vfCCC4006msa006
+//見里「襲ってきたからつい応戦してしまいました……」
+Misato: "She suddenly attacked therefore I unconsciously accepted her challenge..."
+//Hmmm, 襲 also means "to succeed in the post", and the Drama CD claims that Misato wants Miki to be her successor. (And then the After Story has Touko there...) Might have that kind of subtext, as Miki de-facto is trying to wrest the club from her. -GHS
+TP
+
+//と―――
+And---
+TP
+
+
+//GL 2 TCYM0001
+//GS 1 0
+//GS 2 1
+//GP 2 180 0
+GL 0 zzzCCC4006misatoUzi
+GS 0 1
+GS 1 0
+SEF 109 0
+//HACK yes, they drew her with a different gun for no reason I care to imagine. -GHS
+
+WVP 0 vfCCC4006mki000
+//美希「ＧＩダーイ！」
+Miki: "G.I. DIE!"
+//Miki, OTOH, is an impoverished country. http://en.wikipedia.org/wiki/G.I._%28military%29 hmmm, last I heard the meaning of GI was very much lost in time. That'd make it funnier with him not knowing what Vietcong means. Regardless, the point here is more Nations of the World allegory, with Taichi as America and Miki as some poor country. Do notice that while 'Fatman' Taichi isn't exactly the hero, and Misato's Commonwealth of Panchiaralandia (...) is morally neutral, Miki's Flatnam (and the Militarized Tsundere Empire of Kiri she secretly sponsors) isn't exactly the good guy. -GHS
+TP
+
+//>とっかん
+//吶喊したきた。
+She made a battle cry.
+TP
+
+//太一「ＧＩじゃねーっての！」
+Taichi: "G.I. we ain't!"
+TP
+
+//応戦する俺。そして先輩。
+I respond to her fire. Then so does Senpai.
+//Odd that it's never hinted he grabs a gun... -GHS
+TP
+
+//水鉄砲が火を噴いた。
+//※水鉄砲が火を噴いた＝気にするな
+The water guns breathed fire.
+> 
+ 
+* "The water guns breathed fire" = don'tcha worry 'bout it.
+//See CCC0006B. -GHS
+TP
+//太一「ベトナムコンプレックスどもめが！」
+Taichi: "Damn you Vietnam Complex!"
+//See below. PS2: "you damn war-guzzling losers!" The word he uses for 'losers' also means "unmarried woman over 30 with child". Ouch. -GHS
+TP
+
+WVP 0 vfCCC4006mki001
+//美希「ＧＩダーイっ！！」
+Miki: "G.I. DIIIE!!!"
+//PCP bove
+TP
+
+//太一「俺をＧＩと呼ぶなぁー！」
+Taichi: "DON'T YOU CALL ME G.I.!"
+TP
+//GL 2 TCSK0001
+//GP 1 40 0
+//GP 2 340 0
+//GS 1 1
+//GS 2 1
+//SEF 109 0
+//HACK No need -GHS
+
+WVP 0 vfCCC4006kri000
+//霧「死ねー！」
+Kiri: "DIEEE!"
+TP
+
+//太一「おわっ」
+Taichi: "Bwah?!"
+TP
+
+//くそ、なんか半分本気だな、こっちは。
+Crap, am I half-serious or what.
+//Meaning not giving his full...? -GHS
+TP
+
+//太一「ベトナムコンシャスの猿め……死ぬのはおまえだ！」
+Taichi: "Damn you Vietnam Conscious apes... you will be ones who die!"
+//Smells of quote... PS2: "damn you gunpowder-addled apes". That's so damn weak... -GHS
+TP
+
+//俺はベトコンの正しい意味を知らなかった！
+I didn't actually know what 'Vietcong' meant!
+//And that's why he's guessing on the 'cong' even if it makes no sense. ...that's my story and I'm sticking to it. More importantly, how does he study, well, anything without learning what Vietcong means? This is more of Taichi's really half-baked knowledge. -GHS
+TP
+WVP 0 vfCCC4006kri001
+//霧「くっ、こしゃく……」
+Kiri: "Ngh, impudent..."
+TP
+
+//太一「お前がな！」
+Taichi: "And you ain't!"
+TP
+
+//水鉄砲の火線が交差する。
+//※水鉄砲の火線が交差する＝気にするな
+The lines of fire of the water guns crossed.
+> 
+ 
+* "The lines of fire of the water guns crossed" =
+  don'tcha worry 'bout it.
+//PCP a dove
+TP
+
+//GL 3 TCMM0004
+//GS 1 0
+//GS 2 0
+//GS 3 1
+//GP 3 225 0
+//SEF 109 0
+//HACK no need -GHS
+WVP 0 vfCCC4006msa007
+//見里「停学、停学っ！」
+Misato: "Suspension, suspension!"
+//See CCA0002. You fail at battle cries, Misato. -GHS
+TP
+
+//GL 1 TCYM0003
+//GP 1 180 0
+//GS 3 0
+//GS 1 1
+//SEF 109 0
+//HACK no need -GHS
+WVP 0 vfCCC4006mki002
+//美希「うりゃー！」
+Miki: "uRy'aaah!"
+TP
+
+//また部活が……。
+Again club activities, but...
+TP
+
+//と思いつつも、目の前の敵を無視することはできない。
+Despite what I may be thinking, I am unable to ignore the enemy in front of my eyes.
+//See CCB0018, very interesting in the optic of this. -GHS
+TP
+
+//太一「くっ、弾（水）切れ！？」
+Taichi: "Ngh, out of bullets (water)?!"
+TP
+
+//腰に装着したタンクから、弾薬をリロードする。
+I reload my ammunition from the tank equipped on my waist.
+TP
+
+//きっちり十秒かかる。
+Precisely ten seconds required.
+TP
+//GL 2 TCSK0001
+//GP 2 220 0
+//GS 2 1
+//GS 1 0
+//SEF 109 0
+//HACK no need -GHS
+WVP 0 vfCCC4006kri002
+//霧「……フッ」
+Kiri: "...hoh!"
+TP
+
+//霧に邪悪に微笑む。
+Kiri smiles wickedly,
+TP
+
+//正確な射撃を加えてきた。
+and complemented that with accurate marksmanship.
+//Because she's a sniper. Somehow. -GHS
+TP
+
+//身を低くして走る。
+I do a crouch run.
+//Roadie run is not the military term, didn't know that. -GHS
+TP
+
+//そう簡単には当たらない。
+She won't hit me that easily,
+TP
+
+//だが十秒は長い。
+but ten seconds are long.
+TP
+
+//霧が確実に当てるため、接近してきていた。
+Kiri comes closer, to hit me more reliably,
+//Still trouble with long-range attacks. Wonder if it's her eyesight... -GHS
+TP
+
+//ちょうどリロード完了。
+precisely as I finish reloading.
+TP
+
+//撃つ。
+Fire.
+TP
+//GO 2 1
+//HACK no need -GHS
+WVP 0 vfCCC4006kri003
+//霧「……あっ！？」
+Kiri: "...ah?!"
+TP
+
+//霧が転倒した。いいぞ！
+Kiri was fell. Nice one!
+TP
+//もう一撃。
+One more shot.
+TP
+
+//これも外れたが、霧はさらに体勢を崩した。
+That also successful, Kiri's posture collapses even more.
+TP
+
+//つんのめって、ケンケンをしながらフェンスにしがみつく。
+Falling forwards, stumbling on one foot, she grasps at the fence.
+TP
+
+//フェンスが傾いだ。
+The fence tilted.
+TP
+
+//全体重をかけていた霧は、向こう側に折れ曲がるフェンスとともに、横倒しになる。
+Her whole weight put on it, the fence bends down towards the other side, bringing her with it as it falls down.
+TP
+
+WVS 1 0
+
+GL 0 BGCC0000A
+GS 0 1
+SEF 109 0
+//HACK to sky -GHS
+
+//太一「霧！」
+Taichi: "KIRI!"
+TP
+
+//駆け出す。
+I run over.
+TP
+
+//間に合うか。
+Will I be in time?
+TP
+
+//無理だ、この距離では。
+Impossible, not at this distance.
+TP
+
+//それがわかってしまった。
+I understood that very well.
+TP
+
+WVP 0 vfCCC4006kri004
+//霧「あ……え……？」
+Kiri: "Ah... eh...?"
+TP
+
+//カラカラ、と制服の金具が音を立てる。
+The metal fixtures of her uniform go clink-clink.
+TP
+
+//フェンスの網目と擦れて、そんな音がした。
+It's the sound they make as they slide over the mesh of the fence.
+TP
+
+//滑り落ちる最中の音。
+It's the sound of something that is sliding off.
+TP
+
+//俺の目の前で、霧が、
+In front of my eyes, Kiri is,
+TP
+
+//美希が、
+Miki is,
+TP
+
+//太一「っ！？」
+Taichi: "?!"
+TP
+
+//迅速と言えた。
+extremely quick, I could say.
+//This is important in her character development: her lack of empathy is at the very least possible to overcome with time, if not entirely in her mind from the beginning. -GHS
+TP
+
+//美希は手を伸ばす。霧の手首を掴んだ。
+Miki extends her hands. She grabbed Kiri's wrist.
+TP
+
+//間一髪、霧は落下を免れた。
+By the breadth of a single hair Kiri has escaped her fall.
+TP
+
+GL 0 zzzCCC4006fence
+GS 0 1
+SEF 109 0
+//HACK another 360 exclusive. What luxury... -GHS
+
+WVP 0 vfCCC4006mki003
+//美希「……霧」
+Miki: "...Kiri."
+TP
+
+//フェンスを掴んだ腕は、針金で引き裂かれて出血していた。
+The arm that had grabbed the fence was torn up by the wiring and was bleeding.
+//Notice the lack of reaction from Taichi. -GHS
+TP
+
+//当の霧はまだぽかんとしていた。
+Kiri herself was still shell-shocked.
+//To stay with the military metaphor at this point -GHS
+TP
+
+
+//……………………。
+............
+TP
+
+GL 0 zzzrooftopzoom
+GS 0 1
+SEF 109 0
+//HACK back to rooftop... CORRECT rooftop (yes, even with the new CG the 360 version gets it wrong). -GHS
+
+
+//霧を引き上げる。
+Kiri is dragged up.
+//Unclear, but likely irrelevant, whether Miki has helped. -GHS
+TP
+
+//しばらく、呆然と自失していた。
+For a while, she stayed dazed and stupefied.
+//This seems to refer to Kiri, not Miki. -GHS
+TP
+
+GL 1 TCYM0001
+GP 1 180 0
+GS 1 1
+GS 2 0
+SEF 109 0
+WVP 0 vfCCC4006mki004
+//美希「いったたたたぁ～」
+Miki: "OwChChChCh～!"
+TP
+
+//出血がひどい。
+Her bleeding is horrible.
+//This switch to Miki is quite uneven. -GHS
+TP
+
+//太一「これは保健室に行かないと……先輩、そっちの方、お願いします」
+Taichi: "You gotta go to the infirmary for this... Senpai, if you could be so kind, please."
+//I can't quite make sense of this sequence, there may be some editing issues or some undercurrent I just can't see. Taking that he's sending Miki with Misato here. -GHS
+TP
+
+GL 2 TCMM0000
+GP 2 225 0
+GS 2 1
+GS 1 0
+SEF 109 0
+WVP 0 vfCCC4006msa008
+//見里「はい」
+Misato: "Yes."
+TP
+
+//GL 1 TCYM0000
+//GP 1 0 0
+//GP 2 340 0
+//GS 2 1
+//GS 1 1
+GL 1 TCYM0001
+GP 1 180 0
+GS 2 0
+GS 1 1
+SEF 109 0
+//HACK just Miki now. -GHS
+WVP 0 vfCCC4006mki005
+//美希「あ、保健室には先輩と行きますっ」
+Miki: "Ah, I'll go to the infirmary with Senpai!"
+//Without Misato onscreen, it's a bit clearer that she wants to go with Taichi, as "senpai" could refer to either him or her, but no that much why. Maybe because then he'd remain together with Kiri otherwise? -GHS
+TP
+
+//GL 2 TCMM0005
+//GI 2 0
+//HACK no need. -GHS
+
+WVP 0 vfCCC4006msa009
+//見里「え……だめです、私そういうの……ぺけくんお願いしますっ」
+Misato: "Eh... no good, that is what I... Peke-kun, if you would, please!"
+//Misato tries rejecting, then actually concedes? Does she figure out Taichi should not be with Kiri? -GHS
+TP
+
+//太一「へーい」
+Taichi: "Ye-es."
+TP
+
+
+GL 1 TCYM0011
+GI 1 0
+
+WVP 0 vfCCC4006mki006
+//美希「あっ、わたし自分で行けるかも」
+Miki: "Ah, should I just go to by myself then."
+//Miki wants to go alone because she can do this alone, though she just wanted Taichi with her???? -GHS
+TP
+
+//太一「手当ては無理でしょ」
+Taichi: "You can't handle this medical stuff you know."
+//See CCC4023, Miki has no problems, but other characters aren't supposed to know. -GHS
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfCCC4006mki007
+//美希「あーう」
+Miki: "Awww."
+TP
+
+//俺も血は苦手だ。
+Blood's also weak point of mine.
+//Which is why he wouldn't want to go. -GHS
+TP
+
+//太一「ま、まぁ、なんとかするって」
+Taichi: "W-, well, we'll do this, someway or another."
+//I still don't know how Kiri got out of this without a scratch. -GHS
+TP
+GL 1 TCYM0001
+GI 1 0
+
+//美希「…………」
+Miki: "......"
+TP
+
+GO 1 1
+//HACK out with the doll -GHS
+
+//美しい血。
+Beautiful blood.
+TP
+
+//友達を助けた。
+A friend was rescued.
+TP
+
+//心は疼かなかった。
+The heart did not throb.
+//I'm guessing that's the excuse he's going with. The real reason is that Youko is "dead". -GHS
+TP
+
+WVP 1 bgm022.ogg 0 0 0
+
+//これなら平気かも知れない。
+This will be alright, perhaps.
+TP
+
+//俺たちが校舎内に入る時、霧がぺたりとへたり込むのが見えた。
+The moment we entered the school building I saw Kiri flopping down, sitting hard on the floor.
+//Misato was left behind as well. -GHS
+TP
+
+//恐怖は遅れてやってくる。いつだって。
+Terror is late to come. Always, ever.
+TP
+
+RET

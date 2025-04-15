@@ -1,0 +1,1628 @@
+
+
+WVP 2 se041 1 0
+WT 2000
+//この扉をあけたら、屋上がある。
+If I open this door, the rooftop will be there.
+TP
+
+//そこにはきっと、彼女がいるだろう。
+And there I know she will be, for certain.
+TP
+
+WVP 1 bgm012.ogg 0 0 0
+
+//扉を開くのに、少しだけためらいがあった。
+On going to open the door there was just a bit of hesitation.
+//CP CCA0006
+TP
+
+//失敗するとわかっていた合宿。
+The training camp had failed, that I understood.
+TP
+
+//無理を言って先輩を駆り出した。
+I asked a big favor, roped in Senpai.
+TP
+
+//それが彼女を傷つけることさえ、予想していた。
+That is something, I expected, that would have even wounded her.
+TP
+
+//予想していたけど、考えないようにして。
+Expected, but not really thought about.
+TP
+
+//そして今また、彼女……先輩を利用しようとしている。
+And now, again, she... Senpai's going to be used.
+TP
+
+//己が心の平安のために。
+For the sake of the peace of a heart.
+TP
+
+//今さらどの面さげて、と思いもする。
+And I also thought, how could one do this after all that?
+//CP CCA0006
+TP
+
+//が、人間は気分の生き物で、今朝はそんな気分だったから。
+Yet humans are animals of mood, and this morning that was the mood.
+//CP CCA0006
+TP
+
+//自分への説明はそれで充分だ。
+For myself, that is explanation enough.
+//CP CCA0006
+TP
+
+//けど先輩は、どう思うだろう。
+But what will Senpai even think?
+//CP CCA0006
+TP
+
+//少し気になってしまった。
+That was a little bit worrying.
+//CP CCA0006
+TP
+WVP 2 se044 1 0
+
+//ノブをひねって、鉄扉を押し出す。
+Turning the handle, I push out the iron door.
+//CP CCA0006
+TP
+
+WVP 2 se009 1 0
+
+GL 1 efcc0000
+GL 0 bgcc0007 1 0
+GP 1 0 0
+GI 1 0
+GI 0 0
+GO 1 1
+//風が吹いた。
+The wind blew,
+//CP CCA0006
+TP
+WVP 3 se010 0 0
+
+//ちょうど踏み出た瞬間に。
+on the exact instant I stepped outside.
+//CP CCA0006
+TP
+
+//だが不思議と、晴れ晴れとした気分にさせてくれた。
+But, inexplicably, that made me feel all bright and cheerful.
+//CP CCA0006
+TP
+
+//目線の先、広々とした給水塔が階段とは別にあって、その土台を共有して、大きなアンテナが立っていた。
+Ahead in my line of sight, standing apart from the large water tower on the staircase with which it shares the foundation, stood a large antenna.
+//CP CCA0006
+TP
+
+//太一「……へえ」
+Taichi: "...hmmm."
+//CP CCA0006
+TP
+
+//まだ未完成のアンテナ。
+A still unfinished antenna,
+//CP CCA0006
+TP
+
+//足りない部品と知識。
+components and knowledge both insufficient.
+//CP CCA0006
+TP
+
+//彼女はそれらを前向きな気持ちでもって補いながら、少しずつ形にしてきた。
+Yet little by little it was taking shape, as that insufficiency was being supplemented by proactive feelings,
+//PCP CCA0006
+TP
+
+//いや。
+No.
+TP
+
+//後ろ向きの気持ち、なのかもしれない。
+They might just be pessimistic feelings, perhaps.
+TP
+
+//そういうことは、往々にしてあるのだから。
+Because that is is something that happens from time to time.
+TP
+
+//合宿前。
+Before the training camp,
+TP
+
+//彼女は一人だった。
+she was alone.
+TP
+
+//部活はその逃避する最後の砦だったことを、俺は知っている。
+Club activities have always been the final stronghold of her flight, this I know.
+TP
+
+//そして今また、部活は逃避の砦のままである。
+And now, again, here she is in the stronghold of her flight that are activities.
+TP
+
+//宮澄見里。
+Miyasumi Misato.
+TP
+
+//見里先輩は今、風に抱かれてアンテナと立っている。
+Misato-senpai, right now, stands with the antenna, cradled in the wind.
+//PCP CCA0006
+TP
+
+//太一「せんぱーい！」
+Taichi: "Senpaaai!"
+//CP CCA0006
+TP
+
+//呼びかけると、扇状の毛髪が大きくうねる。
+I called out to her, and the fan shape of her twisted about grandiosely.
+//PCP CCA0006
+//I'm not sure what's the proper name for this hairstyle. The one time the exhaustive traits in VNDB would've been useful... *grumble*. Notice the lack of black hair now. Hmmm. -GHS
+TP
+
+//群青色の大空を泳ぐ漆黒のケープ。
+A jet-black cape that swims in heavens tinted ultramarine.
+//*cringe* See CCX0001, CCA0013, CCC3022. This may be a design error, but given what can be deduced from those, it may also be extremely intentional. -GHS
+TP
+GL 0 evcc0004
+$CGevcc0004 = 1
+GS 0 1
+SEF 109 0
+
+WVP 0 vfccb0005msa000
+//見里「ぺけくん？」
+Misato: "Peke-kun?"
+TP
+
+//耳を澄ませば、彼女だけが呼ぶ俺の名が届く。
+If I strain my ears towards all that she is, the nickname for her only personal use is conveyed,
+//dat if. Also 耳+澄 = mimi + second character of her last name. -GHS
+TP
+
+//柔らかな紅唇の動きとともに。
+together with the movement of tender red lips.
+TP
+
+//突風の中で囁きを聞き取れたのは、実のところカクテルパーティー効果でしかないのだが、何か先輩と俺との特殊性を夢想させてやまない。
+This catching of a whisper in the midst of a squall in truth is nothing more than the Cocktail Party Effect, but still I lose myself in dreaming that some special peculiarity exists between me and Senpai.
+//http://en.wikipedia.org/wiki/Cocktail_party_effect - he's admitting he's hearing what he wants out of her. -GHS
+TP
+
+//幸せな錯覚というやつだ。
+It's something of a delusion of happiness.
+TP
+
+//そのたもとに歩み寄る。
+//I compromise with her kimono's sleeve???
+I step nearer to the infrastructure.
+TP
+
+//先輩は微笑んでいる。
+Senpai is smiling.
+TP
+
+//俺も自然、ほころぶ。
+I too, naturally, begin to discompose the edges of the lips.
+//See CCE0001, his smile and hers are equally fake. -GHS
+TP
+
+//視線が睦み合うほどに継がれる。
+The glances inherit harmoniousness.
+//Suspiciously purple... -GHS
+TP
+
+//そして俺は、もの柔らかな思索の胞衣に包まれつつ、宮澄見里という閑雅なる奇蹟によりそう切なる真実をマリアナの海淵にも増して深くふかく悟り上げるのである。
+And then I, while surrounded by the placenta of mild and gentle meditation, am enlightened by the refined miracle known as Miyasumi Misato and led to an eager truth of profundity evermore deeply deep than the Marianas Trench.
+//...and purpler. -GHS
+TP
+
+//……………………パンツ見えてる。
+........................her panties are visible.
+TP
+
+GL 5 zzzMisatoPanties
+GI 5 1
+//HACK hee hee -GHS
+
+//見えてる見えてる！
+Visible visible!
+TP
+
+//すっごく、すっごく、見えちゃってる！
+Reeeally, reeeally, totally visible!
+TP
+
+//それはもうパンチラの国ですかってくらい！
+Seems we've already gotten in sight of Panchiraland!
+TP
+
+//しかも本人気づいてない！
+And the person herself hasn't noticed it!
+TP
+
+//こういうのが一番たまらないよ！
+That is the most unbearable of all!
+TP
+WVP 2 SE070 1 0
+
+//ピーピング！　ピーピング！（警報）
+Peee-ping! Peee-ping! (alarm)
+//It's a near-literal transliteration of 'peeping'. -GHS
+TP
+
+
+TS 2
+GL 4 bgcc0000a
+GP 4 0 0
+GS 4 1
+SEF 109 0
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK sky, NVL mode. Though a good argument could be made this should be still on her panties. -GHS
+
+
+//パンチランド共和国、建国万歳！
+> 
+ 
+ 
+> 
+Banzai for the founding of the Commonwealth of 
+Panchiralandia!
+TL
+//素晴らしき国！
+> 
+ 
+A wonderful country that one!
+TL
+//いい国！
+> 
+ 
+A pleasant country!
+TL
+//永久に！
+> 
+ 
+May it be everlasting!
+TP
+GL 0 bgcc0007g
+GL 1 efcc0005
+GS 0 1
+GS 1 1
+GS 4 0
+GS 5 0
+GP 1 0 0
+SEF 109 0
+TWS 0
+//Annnd back
+
+WVP 0 vfccb0005msa001
+//見里「……………………？」
+Misato: "..................?"
+TP
+
+WVP 0 vfccb0005msa002
+//見里「…………………ん？」
+Misato: ".................n?"
+TP
+
+WVP 0 vfccb0005msa003
+//見里「…………ぺけくん？」
+Misato: "..........Peke-kun?"
+TP
+
+WVP 0 vfccb0005msa004
+//見里「ぺけくんぺけくん？」
+Misato: "Peke-kun, Peke-kun?"
+//See CCA0016. These actually translate to 1 dot = 1 letter, in the original it was one ellipses (3 dots) per kanji. FWIW. -GHS
+TP
+
+
+
+//太一「はっ？」
+Taichi: "Huh?"
+TP
+GL 0 bgcc0007
+GL 1 TCMM0000
+GS 0 1
+GS 1 1
+GP 1 220 0
+SEF 109 0
+
+WVP 0 vfccb0005msa005
+//見里「もしもし？　どうかしましたか？」
+Misato: "Hellooo? Is anything the problem?"
+TP
+
+//しまった、また意識が飛んでしまった。
+Dammit, again my awareness damnably flew away.
+//shimatta x2 -GHS
+TP
+
+//太一「ああ、いえ、異常ありません。ええ、爪先に至るまでです」
+Taichi: "Ahh, no, no abnormalities here! Indeed, down to the toenails!"
+//Should be "from head to toe", but of course... -GHS
+TP
+GL 1 TCMM0021
+GI 1 0
+WVP 0 vfccb0005msa006
+//見里「でもヨダレ垂れてますよ？」
+Misato: "But you are dripping drool...?"
+TP
+
+//太一「切腹します」
+Taichi: "Committing seppuku now."
+//Not harakiri. Supposing it's intentional. -GHS
+TP
+
+//シャツを脱ぐ。
+I strip off my shirt.
+//See CCC3004. You're doing this wrong. -GHS
+TP
+GL 1 TCMM0004
+GI 1 0
+
+WVP 0 vfccb0005msa007
+//見里「ちょっとちょっとっ」
+Misato: "Wait, waiiit!"
+TP
+
+WVP 0 vfccb0005msa008
+//見里「どうしてヨダレごときで切腹です？」
+Misato: "Why would you be killing yourself just for some drool?"
+TP
+
+//太一「先輩を汚しました」
+Taichi: "I have dirtied Senpai."
+TP
+
+GL 1 TCMM0005
+GI 1 0
+
+
+WVP 0 vfccb0005msa009
+//見里「よくわかりません……」
+Misato: "I do not really get it..."
+TP
+
+//その方がええです。
+And that is most fine.
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfccb0005msa010
+//見里「それよりどうしてここに？　授業はどうしたんです？」
+Misato: "More importantly, why are you here? What happened to classes?"
+TP
+WVS 1 0
+
+//授業だって？
+Classes...?
+TP
+
+//我に返って、先輩の目をじっと見つめる。
+Returning to my senses, I stare straight into Senpai's eyes.
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfccb0005msa011
+//見里「あ、わかりました。サボりですね」
+Misato: "Ah, I understand. Cutting are you!"
+TP
+
+//指を立てる。
+With a finger raised.
+TP
+
+//なんてこった。
+What even the hell.
+TP
+
+//いつもの彼女だった。
+That was the her of always.
+TP
+
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfccb0005msa012
+//見里「図星でしょう？」
+Misato: "Bullseye was it?"
+TP
+
+//太一「は、まあ……」
+Taichi: "Ah, well..."
+TP
+
+WVP 1 bgm007.ogg 0 0 0
+
+//正気に、常軌を。
+In the proper course of soundness of her mind,
+TP
+
+//逸していた。
+there was a derailment.
+TP
+
+//彼女は受け入れていない。
+She is not accepting this.
+TP
+
+//人の消失した、この現実を。
+This reality of the absence of people.
+//See CCA0004. And yes, she could be the one not accepting the reality; or he could be. -GHS
+TP
+
+//他はすべて正常。
+For the rest, everything is normal.
+TP
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfccb0005msa013
+//見里「サボるなんて感心しませんねー」
+Misato: "Playing hooky is not admirable you know!"
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//昨日。合宿が終わったあとの、別れ際。
+Yesterday. On parting, after the training camp had concluded,
+TP
+
+//彼女が漏らした言葉から受けた印象は、当たった。
+the impression that I got out of the words that came out of her was correct.
+TP
+
+GL 5 zzzBlackBlend
+GI 5 1
+//HACK dim screen -GHS
+
+WVP 0 vfccb0005msa014
+//見里『明日、部活がありますから』
+Misato: 『Tomorrow we do have club activities.』
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+//そんなシンプルな形で。
+In a form so simple.
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfccb0005msa015
+//見里「夏休みも終わって新学期、気が抜けたコ○コーラみたいな気持ちを引きずっていてはいけません」
+Misato: "This is a new term right after the end of Summer break, you cannot trail behind feeling like a C**a Cola with all the bubbles gone!"
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+WVP 0 vfccb0005msa016
+//見里「うまずたゆまず姿勢を正して授業にそして課外活動に励むのが、日本男児の美徳というものでありましょう」
+Misato: "Tirelessly persist in maintaining a straightened self and approach curricular and extracurricular activities with zeal, for those are the virtues of a Son of Japan!"
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//呆けた者が、傍目の印象に反して幸福であるように。
+Engrossed to the point of befuddlement, as if repelling all views from the outside made only happiness remain.
+TP
+
+//本人だけは幸福なのだ。
+Only that person has happiness.
+//Avoiding gender for noooo reeeason at aaaalll -GHS
+TP
+GL 1 TCMM0002
+GI 1 0
+
+
+WVP 0 vfccb0005msa017
+//見里「とはいえ、初日に授業があるわけでもありませんし、これくらいにしておいてあげます」
+Misato: "Having said that, as in the very first day classes are not held, I will leave the reprimand with this."
+//So now it's not half day, it's no day at all. I wonder if classes are not actually held on Monday. Not that it matters if it's like 1AM. -GHS
+TP
+
+//そうだ。
+Right.
+TP
+
+//幸せなら、それでいい。
+If there's happiness, that's enough.
+TP
+
+//誰彼にとって望む自分が、常に高潔であるとは限らない。
+The self desired by so many is not necessarily confined to someone of a consistent pure nobility.
+TP
+
+//価値観を人にを強いるほど、俺が偉いわけでもない。
+The degree of force used to impose values on other is not what makes me great.
+//See CCD1001 -GHS
+TP
+
+//むしろ俺こそが欠陥品じゃないか。
+More like, aren't I defective merchandise as well?
+TP
+
+//許容して、協力しよう。
+I shall permit it, and we shall cooperate,
+TP
+
+//彼女の逃避に。
+in her flight of escape.
+TP
+
+
+//一人だった俺を……放送部に誘ってくれた人だから。
+Because when I was alone... it was she who invited me to the Broadcast Club.
+//CP CCA0006
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfccb0005msa018
+//見里「それに、実はわたしもサボリです」
+Misato: "Still, the truth is that I am cutting too."
+TP
+
+//先輩は小さく舌を出す。
+Senpai thrust a little tongue out in a cute teh-heh fashion.
+TP
+
+WVS 1 0
+
+//俺は渾身の意志で、己に命じた。
+This is a command to the self, that I give with all the might of my volition:
+TP
+
+
+//演じろ。
+play the part.
+//See CCB0022. Whoops. -GHS
+TP
+
+
+//太一「ぎゃふんっ」
+Taichi: "Mine is the silence of agreement."
+//That's what that means. -GHS
+TP
+
+WVP 1 bgm012.ogg 0 0 0
+
+GL 1 TCMM0002
+GI 1 0
+
+//先輩は目を細くする。
+Senpai smiles 'till her eyes squint.
+TP
+
+//いつもの笑顔。
+The smile of always.
+TP
+
+WVP 0 vfccb0005msa019
+//見里「ちょっとお待ちください」
+Misato: "Please be patient some more."
+//PCP CCA0006
+//Not shouted, because, uhm, how does she stay above and still talk, and, uhm SYMBOLISM? -GHS
+TP
+
+//おりてくる。
+She descends.
+TP
+
+//彼女の爪先が床を踏む頃には、もとどおりの二人。
+By the time the tip of her toes had touched the floor, it was as normal for us both.
+//Curiously, no version has any graphical change at this point whatsoever. -GHS
+TP
+
+WVP 0 vfccb0005msa020
+//見里「ハーイ！」
+Misato: "Yeee-s!"
+TP
+
+//太一「先輩、聞いてください！」
+Taichi: "Senpai, please listen!"
+TP
+
+//究極格闘技カラデ、その正拳側中段突きの構えを取る。
+I took the Direct Horizontal Straight Punch posture of the 『Ultimate Unarmed Martial Art * Karade』.
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+//※正拳側中段突き＝真横への正拳。カラデにおいては全方位の攻撃は基本であり、特に正拳突きは背後をのぞく広範囲を制する。同様にカラデには通常格闘技では想定されない、真上ならび真下への技も存在する。
+* Direct Horizontal Straight Punch---
+TL
+A straight fist attack to horizontal areas.
+The foundation of Karade includes offensive
+strikes for every direction, in particular, a
+Straight Punch can control a wide area that
+only excludes the back.
+TL
+Similarly, in Karade there exist techniques to
+control directly above and directly below
+that could never be conjectured in ordinary
+martial arts.
+//正拳突き actually means a normal, Karate-like straight punch. -GHS
+TL
+//※そんな奇天烈な攻撃をしてくる相手が地球上の生命体でないのはまず確実だが、備えあれば憂いなし。万一そのような敵を前にしたときはカラデのみが唯一抗しうるのは確実であり、まさにある意味最強。すべて世はメタゲームなのである。
+While this most odd form of attack finds most
+certainly no opponent or rival among the life
+forms of this Earth, preparation is the key
+to success.
+TL
+Its strongest significance is in those unlikely
+events of confrontation with enemies where
+Karade becomes the sole and only form of
+resistance. For indeed the whole world is
+metagame.
+//This just barely fits. Meant in this sense: http://en.wikipedia.org/wiki/Metagame -GHS
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+//四股を踏む相撲取りみたいな格好だが気にしない。
+It has a form similar to that of a sumo wrestler ceremonially raising and then stomping his feet, but let's not worry about that.
+//Stab stab stab that mood -GHS
+TP
+GL 1 TCMM0004
+GI 1 0
+WVP 0 vfccb0005msa021
+//見里「な、なんですか？」
+Misato: "Wha-, what is it?"
+TP
+
+//先輩も何かわけのわからない構えを取る。
+Senpai also takes the stance of something with a meaning I couldn't comprehend.
+//dat also. See CCA0016, CCA0019. What a nice family portrait. -GHS
+TP
+
+//太一「今までさぼっていた部活に参加したいと思いました、オス！」
+Taichi: "I wish to participate in the club activities I have been dodging until now. Oss!"
+//Formal salutation, it's used like that even in martial arts classes not in Japanese, to my personal experience. -GHS
+TP
+
+WVP 0 vfccb0005msa022
+//見里「なんですってー！？」
+Misato: "Whaaat did you say?!"
+//tsundere??? -GHS
+TP
+
+//太一「スク水からアンスコまで、黒須太一はあなたの部活ライフをいやらしくサポートします！」
+Taichi: "From school swimsuits 'till the plain underwear worn over panties in sports (bloomers), Kurosu Taichi will offer his disgustingly lascivious support to your Club Activity Life!"
+//http://d.hatena.ne.jp/keyword/%A5%A2%A5%F3%A5%B9%A5%B3 -GHS
+TP
+GL 1 TCMM0005
+GI 1 0
+WVP 0 vfccb0005msa023
+//見里「想像するだにめまいがしますね！」
+Misato: "I am getting the giddies from imagining that!"
+//'giddies' seems so wrong -GHS
+TP
+
+//太一「恐悦！」
+Taichi: "A terrifying rejoice of delight is in I!"
+//Visuals -GHS
+TP
+GL 1 TCMM0006
+GI 1 0
+WVP 0 vfccb0005msa024
+//見里「誉めているように聞こえましたか！」
+Misato: "Did you hear that as a compliment now!"
+TP
+
+//太一「他に理解のしようがありませんでした！」
+Taichi: "There exist no possible ways for contemplating other interpretations!"
+//See CCX0001 -GHS
+TP
+
+GL 1 TCMM0005
+GI 1 0
+WVP 0 vfccb0005msa025
+//見里「すっごく頭いいです！　あまりにも良すぎたため、一回転してもはやおバカちゃんに戻ったのではないかと疑いました！」
+Misato: "You are sooo intelligent! You are so very intelligent, in fact, that I suspect you made an entire revolution back into being a complete idiot!"
+//...well, this IS Touko's route... -GHS
+TP
+
+//太一「天才と我々は紙一重だと言いますからナー！」
+Taichi: "The difference between Us and a genius is what could be called paper-thin, then!"
+TP
+
+//変なポーズのまま、変な会話に興じる二人。
+The two of us amuse ourselves in weird conversations while we pose in weird ways.
+TP
+
+//うん、これぞ部活。
+Yes, this is what club activities are.
+TP
+
+//太一「さあ、オイル塗りからバストマッサージ、野いちご狩りまで幅広くこなすこの愛肉奴隷めに、なんなりとお命じください」
+Taichi: "Indeed, from a oil-coated bust massage to wild strawberry hunting, your worthless meat-love slave has a wide range of uses, so order however you please!"
+//Misato's nipples, see CCA0016 -GHS
+TP
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfccb0005msa026
+//見里「まあ」
+Misato: "Well."
+TP
+
+//調子に乗ってついＨなことを口走る。
+Caught up in the moment, my mouth runs off unconsciously into the perverted.
+TP
+
+//先輩はＨなことに厳しいのだ（鈍いけど）。
+Senpai is very stern in regards to perversions (slow on the uptake though).
+TP
+
+//幸いなることに、先輩はにっこり微笑んだ。
+Oh joyful event then, that Senpai is just smiling broadly.
+TP
+
+//今のセクハラ発言に気づかなかったのか？
+Did she not notice that sexually harassing utterance right there?
+TP
+
+//天使の口唇が父なる神の慈愛を感じさせて告げた。
+Then, the lips of an angel that made me experience the kindness of God the Father announced:
+TP
+
+WVP 0 vfccb0005msa027
+//見里「ここからいなくなれ」
+Misato: "Be ye forever gone from this place!"
+TP
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　　　ちょうらく
+//太一「中国株に手を出したのが凋落のはじまりだったーっ！！」
+Taichi: "The moment I put my hands on that Chinese stock was the start of my life's ruiiin!!!"
+//Number one in a series that I shall name, "Taichi the Failed Speculator" -GHS
+TP
+
+//フェンスの向こうに広がる無垢なる青空に生々しいことを叫んだ。
+I make my rawly graphic shout towards that everexpanding everpure blue sky on the other side of the fence.
+TP
+
+//ま、机を食べないことで笑いを取れる中国人とか自体もういないけどな。
+Well, Chinese people that can be laughed at for being able to eat anything on four legs but desks are themselves no longer among us anyway.
+//I thought the idea of eating desks was just a funny figure of speech that meant something like 'living off a desk job', but, no. It's a Japanese sorta-racist Chinese stereotype. http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1328109658 -GHS
+TP
+
+//太一「アンテナ、だいぶ形になりましたね」
+Taichi: "The antenna seems to have mostly taken shape, has it."
+//CP CCA0006
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfcca0006msa018
+//見里「うん。頑張りました」/*
+Misato: "Yes, I gave it my all!"
+//CP CCA0006
+//Same as CCA0006: no problem changing topic. -GHS
+TP
+
+//平然と会話は続く。
+The conversation continues normally.
+TP
+
+//ことほどさように、俺と先輩の関係性はとても強固なのだった。
+As far as this goes, the nature of my relationship with Senpai is certainly strong.
+TP
+
+//世界が滅亡したくらいでは壊れません。
+Even with the Fall of the World it did not break.
+//See at the top. The end of all people is not exactly at the top of the list of reasons it would break. This is another transparent contradiction. -GHS
+TP
+
+//太一「もう完成ですか？」
+Taichi: "Is it complete already?"
+//CP CCA0006
+TP
+
+GL 1 TCMM0005
+GI 1 0
+
+WVP 0 vfcca0006msa019
+//見里「……まだ全然なんですよ、これが」/*
+Misato: "...not at all yet, it is not."
+//CP CCA0006
+TP
+
+//業者が組み立ててくれるはずだったアンテナ。
+The antenna should have been assembled by the contractors,
+//CP CCA0006
+TP
+
+//搬入だけされて、うち捨てられた。
+but it was just brought in and then abandoned.
+//CP CCA0006
+TP
+
+GL 1 TCMM0031
+GI 1 0
+//HACK thinky Misato. This isn't in the first week, but the mood's noticeably different here. -GHS
+
+WVP 0 vfcca0006msa020
+//見里「専門家じゃありませんし、だましだまし組み立ててます」/*
+Misato: "I am not a specialist, but by hook or by crook I am putting it together."
+//CP CCA0006
+TP
+
+
+
+WVP 0 vfcca0006msa021
+//見里「本体はいいとしても、配線や調整は手つかずですし」/*
+Misato: "The frame may be fine, but I have not laid hand on the wiring or the tuning."
+//CP CCA0006
+TP
+
+//太一「あらら」
+Taichi: "Oh my my."
+//CP CCA0006
+TP
+
+//残念ながら、俺にもそういう知識はない。
+Sad as it may be, I'm no expert on those things either.
+//CP CCA0006
+TP
+
+//太一「……手伝えること、いやらしいサポート以外はなさそうですね」
+Taichi: "...seems unlikely that I could help you outside of some disgustingly lascivious support then."
+//PCP CCA0006
+TP
+
+GL 1 TCMM0002
+GI 1 0
+
+
+WVP 0 vfccb0005msa028
+//見里「いやらしいサポートとかしたら停学にしますよ～」
+Misato: "Disgustingly lascivious support will entail a suspensio～n!"
+TP
+
+
+//なでっこなでっこ
+Sooooftly, sooooftly.
+TP
+
+
+//頭をなでっこされる。
+//My head is sooooftly'd.
+My head is sooooftly caressed.
+//I'm just gonna slooowly back away now. -GHS
+TP
+
+/太一「うるきゅー」
+Taichi: "Mnryukuh."
+TP
+
+//喉が鳴る。
+A note from the throat.
+TP
+
+WVP 0 vfccb0005msa029
+//見里「よしよし」
+Misato: "Good boy good."
+TP
+
+//太一「うーうー」
+Taichi: "Nnnh, nnnh..."
+TP
+
+WVP 0 vfccb0005msa030
+//見里「そういった擬声語や擬態語ティックな言葉を頻繁に口走りつつ、わかりやすく赤面したりヤキモチ焼いたり過去のトラウマを適度にあかしていってくれるだけでいいんですよー」
+Misato: "It is best if you suitably reveal your past psychological traumas as you keep blurting out this kind of mimetic and onomatopoeic words, all while you act in ways easily understood such as making an embarrassed face or burning with jealousy!"
+//FINALLY some progression towards the moege! -GHS
+TP
+
+//太一「すっごい即物的な俺になっちゃいそうです！」
+Taichi: "I shall become that so very matter-of-factly yes I will!"
+TP
+
+WVP 0 vfccb0005msa031
+//見里「大衆がそれを望むんですよー」
+Misato: "That is the expected wish of the general public!"
+//Told you it's about moege. -GHS
+TP
+
+//太一「大衆なんてっ、嫌いっ！」
+Taichi: "General public, blech!"
+TP
+
+//もういないけどな。
+Not that it's any longer among us anyway.
+//Same as the end of that Chinese Desk line. -GHS
+TP
+
+//ちらと見やった先輩の手が、傷だらけなことに気づく。
+I chanced to look closely at Senpai's hands, and they were covered with scratches.
+//CP CCA0006
+TP
+
+//太一「うわー！」
+Taichi: "WOAAAH!"
+TP
+
+//手を取る。
+I took her hand.
+TP
+
+//太一「傷だらけだ！」
+Taichi: "They're all full of scratches!"
+TP
+GL 1 TCMM0000
+GI 1 0
+
+
+WVP 0 vfccb0005msa032
+//見里「え、ああ、そうですね……」
+Misato: "Eh, ah, so they are..."
+TP
+
+//太一「一人でやるから」
+Taichi: "'cause you're doing this alone."
+TP
+//GL 1 TCMM0005
+GL 1 TCMM0001
+//HACK crass Misato instead. -GHS
+GI 1 0
+
+WVP 0 vfccb0005msa033
+//見里「…………」
+Misato: "......"
+TP
+
+//気まずそうに目をそらす。
+She averts her eyes awkwardly.
+TP
+
+//太一「みんなでやった方がよくありません？」
+Taichi: "Is the idea of doing it with everybody problematic?"
+//Well of course it is, the poor lady, group sex proposals so early... -GHS
+TP
+
+WVP 0 vfccb0005msa034
+//見里「みんなでって……」
+Misato: "With everybody you say..."
+TP
+
+//先輩は一瞬、絶句したようだ。
+Senpai, in an instant, seemed to lose all words.
+TP
+
+//太一「ホラ、部活ですし。その方が感じ出るかなって」
+Taichi: "Come on, this is club! Would that way not feel better?"
+TP
+GL 1 TCMM0004
+GI 1 0
+
+
+WVP 0 vfccb0005msa035
+//見里「で、でもですね、それはさすがにきついのではないかと」
+Misato: "B-, but, now, doing that would indeed be so very hard would it not."
+TP
+
+//太一「やりようですね。そいつを攻略するのにもっとも適切な駒を使えばいいだけのことでありましょう」
+Taichi: "There are ways. Capturing those guys merely requires making use of the most suitable pieces."
+//Very specific term for Capture. -GHS
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+
+//太一「三すくみにおけるナメクジを擁したカエルが蛇をも使役するに至ること示唆しているのと同じく、的確な人材によって急所を突くことが人間社会においては肝要であるわけでして」
+Taichi: "The same way that, in a three-way standoff, the frog that is home to a snail can then make it influence the snake into cooperation, it is of crucial importance inside human society to have the precise skills to strike at vital points."
+//http://ja.wikipedia.org/wiki/%E4%B8%89%E3%81%99%E3%81%8F%E3%81%BF "Frog is home to a snail": http://dic.nicovideo.jp/oekaki/612042.png -GHS
+TP
+
+//太一「理論的には、自分が支払える代価で手に入る駒をもっとも友好に使える局面に冷静にぶつけていけば制覇は成立しうるわけですから」
+Taichi: "Because, theoretically speaking, if the pieces one has in hand because their price can be paid are employed with calm quietness to strike at the position most exploitable for a friendship, conquest must come into being."
+//Possibly about how certain routes can unlock others? How certain friends/nonessential characters can help with reaching the capture with a certain heroine? I think it's about fixed patterns, actually, but it's filtered through so much half-understood pseudo-nihilism that it's almost impossible to understand. -GHS
+TP
+//太一「無論、チャートが進むに従って管理の煩雑さと管理者の育成・配置といった新しい要素も混入してくるわけですが」
+Taichi: "Of course, following the progress of the chart, as management grows more complex, the situation demands the addition of a new element: the rearing and stationing of a supervising administrator."
+//As the design (flow)chart gets messy, one needs a project supervisor? -GHS
+TP
+//太一「ここいらになってくるとマキャベリズムにも触れる必要が出てきます」
+Taichi: "However, as we proximate to this area, it becomes a necessity to touch upon Machiavellism."
+TP
+//太一「また、かのマインカンプで記されているようなオープンな政治詐術というか演劇・ドラマ的な高揚感を与える手段の存在について、あれが許容されるのは受け手側が幸福なる錯覚を望んでいるという側面もありますので考慮することがマイ第三帝国の結実のためには……」
+Taichi: "Itself, with regards to the means as recorded in that Mein Kampf to create that theatrically dramatic feeling, which is what open political swindling could be called..."
+TP
+
+Taichi: "...they are permissible, as one must take into consideration of the aspect of the desire of the illusion of happiness in those subjected to them. So, for the sake of bring Mein Third Reich to success..."
+//Swindling, see CCA0027, CCA0030, and pretty much every other time Touko opens her mouth outside this route really. Awesome that the Third Reich joke was censored in the PS2 version, but the Mein Kampf reference was not. Ah, Japan, you never fail me. Taichi's seemingly inane, barely comprehensible, apparently nonsensical utilitarian pseudoeducated view of eroge design only seems insane until considering that Cross Channel is probably more subversive than what the idiots who would read this garbage and seriously believe it deep think they are. -GHS
+TP
+
+GL 1 TCMM0005
+GI 1 0
+
+
+WVP 0 vfccb0005msa036
+//見里「はわわっ」
+Misato: "HaWahWah!"
+TP
+
+//先輩はがくがくと震えた。
+Senpai was shivering and clattering all over.
+TP
+
+WVP 0 vfccb0005msa037
+//見里「ぺけくんがすっごく邪悪っぽいです……」
+Misato: "Peke-kun got so very evilish..."
+//Third person, see CCA0010. The content's different, but the behavior isn't. -GHS
+TP
+
+//しもうた。
+Condemn it!
+//Weirdly formal -GHS
+TP
+
+//空疎な饒舌さが求められている昨今の僕ら事情にあわせて無駄な読書ばかりしてきたせいか、ついリコーダー的に再生がかかってしまった。
+Perhaps as the outcome of having done nothing but reading garbage in order to adapt to the circumstances that demand groundless garrulity of us young boys of today, I have stupidly and unconsciously played like a tape recorder.
+//Someone sounds less than happy about the kind of VN writing that would play straight and seriously the type of quasi-intelligible nihilistic crap as seen above. I wonder if this is what the girls at the Hasekura tea parties wanted him to "talk" about. Shudder! -GHS
+TP
+
+
+
+
+//先輩の前では、素直な僕でいいのに！
+When in front of Senpai I should be a most upfront manservant!
+//Boku wa manservanto de aru de ari-desu-nya. -GHS
+TP
+
+
+
+//ということで誤魔化すことにした。
+And for that purpose, I've decided to swindle her.
+//You just gotta love a guy that just decides to take his own words and systematically stab himself in the gut with them. -GHS
+TP
+
+//太一「ああっ、頭痛がっ！」
+Taichi: "AHH! My head...!"
+TP
+
+GL 1 TCMM0004
+GI 1 0
+
+WVP 0 vfccb0005msa038
+//見里「大丈夫ですかっ？」
+Misato: "Are you alright?!"
+TP
+
+//太一「く、苦しい……母さん！」
+Taichi: "So-, so painful... mother!"
+TP
+
+WVP 0 vfccb0005msa039
+//見里「ああ、しっかり！」
+Misato: "Ahhh, steadfast!"
+//See CCA0016 -GHS
+TP
+
+//先輩の胸に倒れ込む。
+I flop into Senpai's chest.
+TP
+
+//太一「なんか今へんな外宇宙の超知性存在オムルスがエッセネ派の叡智をもってエルゴ領域を越え並列的宇宙史観を浸食してきたんですー！」
+Taichi: "I do not know how, but right now the queer Outer Space Hyper Intelligent Being OMRUS has eroded the parallel universe history across the Ergosphere via the wisdom of the Essenese!"
+//Might be a horrible portmanteu of Omurice with Ormus, or just a weird mistransliteration of the latter. Ormus, AKA Ahura Mazda, leads back to the ol' stuff about the templars and all that Dan Brown stuff. Essenese confirmed by author. The "wisdom of the Essenese" could be the Dead Sea Scrolls, but it's difficult to tell. "Proper" term for parallel universe would be 並行宇宙. Considering how an Ergosphere messes about with spacetime, and that the diaries are de-facto history as seen from the viewpoint of parallel, simultaneous universes, this sounds suspiciously like "burning up the diaries stored in the hokora".
+//Alternative reading, but this is more conjecture than the Psychoman thing, is that this odd alien being (see CCA0002) is actually God, which is seen as a monster by Taichi's erroneous POV, the wisdom of the Essenese, although largely pseudo-theology, would be Jesus, and the whole parallel universe thing would be, well, this. IOW, God, via Jesus, is wrecking the idea of Cross Channel being about MWI and sci-fi. It works, but I admit it's more of a guess than inference. -GHS
+TP
+
+GL 1 TCMM0005
+GI 1 0
+//HACK other sweatdrop Misato -GHS
+
+WVP 0 vfccb0005msa040
+//見里「よくわからないですけど、良い子のままでいてくださいー！」
+Misato: "I do not really understand, but please keep being a good boy!"
+//Stay good, Taichi! *poing, poing* -GHS
+TP
+
+//太一「出て行けー、僕の中から出て行けー！」
+Taichi: "Get ooout, leave this poor boy and get ooout!"
+//See CCB0004C. This still works with the above: he's pushing this out because it's too hard to accept, see CCA0003. It doesn't matter, he'll live it even if he explicitly doesn't accept it. -GHS
+TP
+
+WVP 0 vfccb0005msa041
+//見里「でていけー」
+Misato: "Get ooout!"
+TP
+
+//加勢してくれた。
+I got reinforcements.
+TP
+
+//太一「うおー」
+Taichi: "uWoh!"
+TP
+
+//太一「ふう……助かったようです。ついでに大宇宙の霊的危機も解決しました」
+Taichi: "Whew... seems like I have been saved! And while I was at it, the spiritual crisis of the macroverse also got resolved!"
+//ついでに, see CCA0006. Have YOU been saved? Taichi has. And maybe his behavior also saved the world by somehow bringing the Good News to his own corner of it! -GHS
+TP
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfccb0005msa042
+//見里「すごく早い展開で助かります」
+Misato: "You were saved by some really rapid developments."
+//fucking 20 hours of nothing and then all the plot at the end amirite amirite. Slightly more seriously, of course: the bad guy was the good guy all along. -GHS
+TP
+
+//太一「いやなに。はっはっは。第七世界から感謝の念が届く思いであります」
+Taichi: "Nah, not at all. Hahahah! It feels like grateful emotions have arrived from the Seventh World."
+//7 -GHS
+TP
+
+GL 1 TCMM0031
+GI 1 0
+
+
+WVP 0 vfccb0005msa043
+//見里「すこしふしぎ……」
+Misato: "Somewhat freaky..."
+//SF, see CCC0016A. The above is therefore a valid explanation. ...but you see why I left this in the script, I hope. -GHS
+TP
+
+//太一「そんなわけでいつもの太一です」
+Taichi: "And with that, here is the Taichi of always!"
+TP
+
+//体操していつもの太一をアピール。
+Doing calisthenics to show off the Taichi of always.
+//See CCA0030, there's that 'taisou' again, no confusing kana here. -GHS
+TP
+
+GL 1 TCMM0002
+GI 1 0
+
+
+WVP 0 vfccb0005msa044
+//見里「お疲れさまです」
+Misato: "Good work then!"
+TP
+
+//太一「さあ、何をしましょう？」
+Taichi: "So, what shall we do?"
+TP
+GL 1 TCMM0031
+GI 1 0
+
+
+WVP 0 vfccb0005msa045
+//見里「そうですねぇー。じゃあ……」
+Misato: "Right, yes. Then..."
+TP
+GL 1 TCMM0002
+GI 1 0
+
+
+WVP 0 vfccb0005msa046
+//見里「冷たい飲み物でも持ってきて下さいますか？」
+Misato: "Could you then please bring me something cold to drink?"
+TP
+
+//太一「はい！　……って、それだけ？」
+Taichi: "Yes! ...wait, that's it?"
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+
+WVP 0 vfccb0005msa047
+//見里「ええ。他には特に」
+Misato: "Yes. No particular issues with the rest."
+TP
+
+//太一「んー」
+Taichi: "Hmmm."
+TP
+
+//思案。
+Pondering.
+TP
+
+//太一「もしかして、邪魔だったりします？」
+Taichi: "Could it be that I am... intruding?"
+TP
+
+GL 1 TCMM0004
+GI 1 0
+//HACK changed doll earlier -GHS
+
+//先輩は慌てた様子で、ぱたぱたと手を振った。
+Senpai, becoming flustered, flapped and waved her hands around in denial.
+TP
+
+WVP 0 vfccb0005msa048
+//見里「そんなことないですよ。ただ……わたしが個人でやっていることですし」
+Misato: "That, no, never! Just... this is something I have to do individually."
+TP
+
+GL 1 TCMM0001
+GI 1 0
+//HACK puffy Misato -GHS
+
+WVP 0 vfccb0005msa049
+//見里「他の人を巻き込む必要ないなって」
+Misato: "Dragging other people into this is not necessary."
+TP
+
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfccb0005msa050
+//見里「……」
+Misato: "..."
+TP
+
+//押し黙る。
+Continuing silence.
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//先輩の部活は、彼女だけのもの。
+Senpai's club activities are something for her alone,
+TP
+
+//そんなフレーズが脳裏をよぎる。
+that's the phrase that crosses my mind.
+TP
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfcca0006msa029
+//見里「わたしは好きなことやってるだけです」/*
+Misato: "This is just me doing something that I like."
+//CP CCA0006
+TP
+
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfcca0006msa030
+//見里「皆とおんなじに」/*
+Misato: "It is the same for everybody."
+//CP CCA0006
+TP
+
+
+//太一「みんな……好きなことやってるわけじゃないスよ？」
+Taichi: "Everybody... but they are not doing anything they like doing, you know?"
+//CP CCA0006
+TP
+
+GL 1 TCMM0021
+GI 1 0
+
+WVP 0 vfcca0006msa031
+//見里「そうですか？」/*
+Misato: "They are not?"
+//CP CCA0006
+TP
+
+
+//太一「そう思います」
+Taichi: "I do think so."
+//CP CCA0006
+TP
+
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+
+GL 4 zzzCCB0005touko
+GP 4 0 0
+GI 4 1
+
+//HACK NVL mode, Touko insert. -GHS
+
+//たとえば冬子。
+> 
+ 
+ 
+> 
+ 
+ 
+Touko, for example.
+TL
+//学校に来る必要があるのだろうか？
+Does she really have a need to come to school?
+TL
+//合宿から戻ってきたら、人がいなくなってて、文明からも切り離されて。
+When we came back from the camp and there was
+nobody anymore, we were cut off from civilization.
+TL
+//無線も電話もネットも通じなくて。
+Radio, telephones, the net, all silent.
+TL
+//水道も電気もガスも使えなくて。
+Running water, electricity, gas, all interrupted.
+TL
+//その原因さえわからない。
+We do not even know the cause of that.
+TP
+
+GO 4 1
+//HACK out with Touko -GHS
+
+//とくれば、無力なボーイミーツガールである俺たちに、できることは日常の反復しかない。
+> 
+ 
+ 
+So for us, this powerless Boy-Meets-Girl
+archetype that we are, all that is possible
+is the repetition of ordinary days.
+//Given all the above, assuming it's meant to be literally the story trope: http://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%82%A4%E3%83%BB%E3%83%9F%E3%83%BC%E3%83%84%E3%83%BB%E3%82%AC%E3%83%BC%E3%83%AB -GHS
+TL
+//冒険も探求もできない。
+Adventures or quests we can't do.
+TL
+//そうはいかない。
+Those are out of the question.
+TL
+//心は麻痺するものだからだ。
+Because our hearts are something paralyzed.
+//That's also a bit of cough-cough handwaving as to why these people won't leave, or change their behavior, in a sense. -GHS
+TL
+//群青の者は、特にそう。
+For us, the Ultramarines of Gunjou, that
+is especially true.
+//expanded, same as CCA0016. -GHS
+TL
+//現況下において、精神にダメージを受けていない人といったら……曜子ちゃんくらいのものか。
+Under present conditions, the only person not to 
+have taken some form of mental damage would be...
+TL
+GL 4 zzzCCB0005youko
+GI 4 1
+//HACK whoa, Youko's doll is seen before Week 3 now. -GHS
+Youko-chan alone, maybe.
+TP
+GO 4 1
+//HACK out Youko -GHS
+
+//あと……あの娘。
+And... that girl.
+TP
+GL 2 evcc0003
+$CGevcc0003 = 1
+GP 2 0 0
+GI 2 0
+GS 2 0
+SEF 109 0
+//This stays in dimmed mode, because tweaking back and forth makes it look like the screen's flashing. -GHS
+
+//……はて？
+> 
+ 
+ 
+...what even...?
+TL
+//わからない。
+I don't get that.
+TL
+//わかるのは。
+What I get is,
+TL
+//曜子ちゃんと似ているような、別物のような。
+she's something like Youko-chan, a special case.
+TL
+//そんな違和感だけだ。
+There's just that sense of physical discomfort.
+TL
+//『今』の俺では、それが限度だった。
+That was the limit for myself as I am right now.
+TL
+//さておき。
+> 
+All that aside.
+TL
+//曜子ちゃんが、人類が消失したくらいで動揺するはずない。
+There is no expectation that Youko-chan
+would become discomposed, not even with
+the disappearance of humanity.
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+//太一「今までの生活を、繰り返すしかできないんですよ」
+Taichi: "There's nothing else that we can do but to repeat the same life we have had until now."
+//Cough cough cooough. -GHS
+TP
+//GL 1 TCMM0005
+GL 1 TCMM0001
+GI 1 0
+//HACK uhmmm this doll instead of that doll. -GHS
+
+WVP 0 vfccb0005msa051
+//見里「……」
+Misato: "..."
+TP
+
+//先輩は深刻な顔をした。
+Senpai's face turned serious.
+TP
+
+//俺はことさら相好を崩した。
+I was letting my face deliberately fall into an especially beaming smile.
+//Visuals -GHS
+TP
+
+//太一「だから俺も通学とかしてみました！」
+Taichi: "And that is why I have given going to school a try!"
+TP
+
+//太一「あとハラキリ冬子も来てましたよ」
+Taichi: "Also, Harakiri Touko has come in as well."
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+
+WVP 0 vfccb0005msa052
+//見里「桐原さんも？」
+Misato: "Kirihara-san, too?"
+TP
+
+//太一「座ってぼんやりとしてました」
+Taichi: "She was just sitting and spacing out."
+TP
+
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfccb0005msa053
+//見里「そうですか……」
+Misato: "So she was..."
+TP
+
+//太一「まあ、桜庭とか友貴とかは、そのうち補正されていくと思いますけど」
+Taichi: "Well, Sakuraba and Tomoki will eventually swing back, I think."
+TP
+
+//太一「あいつらはなんだかんだいって健全に近いんで」
+Taichi: "Say what you like, but those guys are close to that wholesome healthiness."
+TP
+
+GL 1 TCMM0000
+GI 1 0
+//HACK smiling Misato -GHS
+
+WVP 0 vfccb0005msa054
+//見里「……そうだといいですねぇ」
+Misato: "...that would be good, yes."
+TP
+
+//少しためらって、目尻を下げる。
+With just a bit of hesitation, the corners of Senpai's eyes fall into a happier look.
+TP
+
+//無理しているとわかった。
+She was forcing herself, that I understood.
+TP
+
+//頑張って、明るく振る舞っている。
+Doing her best to keep up that bright cheerful behavior.
+TP
+
+//胸が痛んだ。
+My heart ached.
+TP
+
+//太一「……じゃあ、何か手伝えることがあったら言ってください」
+Taichi: "...then, if there is anything I can help with, please say the word."
+TP
+
+//GL 1 TCMM0000
+GL 1 TCMM0002
+GI 1 0
+//HACK beaming Misato instead -GHS
+
+
+WVP 0 vfccb0005msa055
+//見里「あ、はい、そのときは」
+Misato: "Ah, yes, if that time comes..."
+TP
+
+//GL 1 TCMM0002
+//GI 1 0
+//useless now -GHS
+
+
+WVP 0 vfccb0005msa056
+//見里「是非に」
+Misato: "Without fail!"
+TP
+
+GL 0 bgcc0000a
+GS 0 1
+GS 1 0
+SEF 109 0
+//HACK sky -GHS
+
+//夏日の下。
+Under this Summer sun,
+TP
+
+//先輩を残して、俺は去った。
+Senpai remained, while I departed,
+TP
+WVP 2 se044 1 0
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+//鉄扉をこじあけて校舎に入る。
+closing the iron door and reentering the school building.
+TP
+
+
+//振り返ると、彼女はずっと見送ってくれていた。
+I look back and I can see that she has been watching me leave all along.
+TP
+WT 500 0
+WT 500 1
+
+WVS 3 1
+WVS 1 1
+
+
+RET

@@ -1,0 +1,266 @@
+
+
+GL 0 BGCC0011
+GS 0 1
+SEF 52 0
+//HACK to school BG for this school-only script. -GHS
+
+
+
+//さて。
+So then.
+TP
+
+
+
+
+
+
+
+
+
+
+
+:K_ON1
+IF $SB_KRI == 1 JMP T_ON1
+
+IF $SB_TKO == 0 JMP K_T_ON1
+IF $SB_MSA == 0 JMP K_M_ON1
+IF $SB_SKU == 0 JMP K_S_ON1
+
+
+$B = 1
+JMP C_END
+
+
+:K_T_ON1
+IF $SB_MSA == 0 JMP K_T_M_ON1
+IF $SB_SKU == 0 JMP K_T_S_ON1
+
+CSQ 0 1 1
+//　・一年教室
+//　・二年教室
+ - First Years' classroom
+ - Second Years' classroom
+
+//CP CCC0010A
+//CP CCC0010A
+//CP CCC0010A
+//CP CCC0010A
+//CP CCC0010A
+//CP CCC0010A
+//CP CCC0010A
+//CP CCC0010A
+//CP CCD0007
+//CP CCD0007
+//CP CCD0007
+//CP CCD0007
+//CP CCD0007
+//CP CCD0007
+
+JMP C_END
+
+
+:K_M_ON1
+IF $SB_SKU == 0 JMP K_M_S_ON1
+
+CSQ 0 1 1
+//　・一年教室
+//　・屋上
+ - First Years' classroom
+ - Rooftop
+
+//CP CCD0007
+//CP CCD0007
+//CP CCD0007
+//CP CCD0007
+//CP CCD0007
+//CP CCD0007
+//CP CCD0007
+
+IF $B == 2 $B = 3
+
+JMP C_END
+
+
+:K_S_ON1
+
+CSQ 0 1 1
+//　・一年教室
+//　・学食
+ - First Years' classroom
+ - Cafeteria
+
+IF $B == 2 $B = 4
+
+JMP C_END
+
+
+:K_T_M_ON1
+IF $SB_SKU == 0 JMP K_T_M_S_ON1
+
+CSQ 0 1 1 1
+//　・一年教室
+//　・二年教室
+//　・屋上
+ - First Years' classroom
+ - Second Years' classroom
+ - Rooftop
+
+JMP C_END
+
+
+:K_T_S_ON1
+
+CSQ 0 1 1 1
+//　・一年教室
+//　・二年教室
+//　・学食
+ - First Years' classroom
+ - Second Years' classroom
+ - Cafeteria
+
+//CP above
+//CP above
+//CP above
+//CP above
+//CP above
+//CP above
+
+IF $B == 3 $B = 4
+
+JMP C_END
+
+
+:K_M_S_ON1
+
+CSQ 0 1 1 1
+//　・一年教室
+//　・屋上
+//　・学食
+ - First Years' classroom
+ - Rooftop
+ - Cafeteria
+
+IF $B == 3 $B = 4
+IF $B == 2 $B = 3
+
+JMP C_END
+
+
+:K_T_M_S_ON1
+
+CSQ 0 1 1 1 1
+//　・一年教室
+//　・二年教室
+//　・屋上
+//　・学食
+ - First Years' classroom
+ - Second Years' classroom
+ - Rooftop
+ - Cafeteria
+
+JMP C_END
+
+
+
+
+
+:T_ON1
+IF $SB_TKO == 1 JMP M_ON1
+
+IF $SB_MSA == 0 JMP T_M_ON1
+IF $SB_SKU == 0 JMP T_S_ON1
+
+
+$B = 2
+JMP C_END
+
+
+:T_M_ON1
+IF $SB_SKU == 0 JMP T_M_S_ON1
+
+CSQ 0 1 1
+//　・二年教室
+//　・屋上
+ - Second Years' classroom
+ - Rooftop
+
+IF $B == 2 $B = 3
+IF $B == 1 $B = 2
+
+JMP C_END
+
+
+:T_S_ON1
+
+CSQ 0 1 1
+//　・二年教室
+//　・学食
+ - Second Years' classroom
+ - Cafeteria
+
+IF $B == 2 $B = 4
+IF $B == 1 $B = 2
+
+JMP C_END
+
+
+:T_M_S_ON1
+
+CSQ 0 1 1 1
+//　・二年教室
+//　・屋上
+//　・学食
+ - Second Years' classroom
+ - Rooftop
+ - Cafeteria
+
+IF $B == 3 $B = 4
+IF $B == 2 $B = 3
+IF $B == 1 $B = 2
+
+JMP C_END
+
+
+
+
+
+:M_ON1
+IF $SB_MSA == 1 JMP S_ON1
+
+IF $SB_SKU == 0 JMP M_S_ON1
+
+$B = 3
+JMP C_END
+
+
+:M_S_ON1
+
+CSQ 0 1 1
+//　・屋上
+//　・学食
+ - Rooftop
+ - Cafeteria
+
+IF $B == 2 $B = 4
+IF $B == 1 $B = 3
+
+JMP C_END
+
+
+
+
+
+:S_ON1
+
+$B = 4
+JMP C_END
+
+
+
+
+
+:C_END
+
+RET

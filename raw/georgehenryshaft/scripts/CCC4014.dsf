@@ -1,0 +1,858 @@
+
+
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 0
+WT 1000 0
+//GL 0 bgcc0007
+GL 0 zzzrooftopzoom
+//HACK to black, stay there for a moment, rooftop zoom -GHS
+GS 0 1
+GS 5 0
+SEF 152 0
+
+WVP 1 bgm015.ogg 0 0 0
+
+
+//作業は続く。
+Work continues.
+TP
+
+//美希と霧はなかなか現れない。
+Miki and Kiri don't really show themselves much.
+TP
+
+//……当然か。
+...obviously.
+//CP CCC3022 for some reason
+TP
+
+//むしろ、普通に学校に来ている俺が異常なのだろう。
+It's more how I come to school like always that's abnormal.
+TP
+
+//でも、先輩はどうしたんだ。
+Still, what's the matter with Senpai?
+//She's in the infirmary hurt, which Taichi doesn't know in this route... except for the script right before this. Whoops... -GHS
+TP
+
+//昼を挟む。
+Noon interrupts me.
+TP
+
+//食い物……友貴の差し入れの中から、カップラーメンを持ってきた。
+Something to eat... I had grabbed some cup ramen from inside Tomoki's supply drop, and brought it with.
+TP
+
+//屋上で湯を沸かしながら、きゅうりを囓る。
+I boil some water on the rooftop while I gnaw on a cucumber.
+//With what? Camping equipment, I suppose, but it's not quite specified, especially how he ate that stuff raw a few scripts ago. -GHS
+TP
+
+//……なんか、想像していた部活と違う。
+...damn, these activities are different from what I imagined.
+TP
+
+//忘れていた。
+I had forgotten,
+TP
+
+//人類がもうとうになくなっていることに。
+how long ago mankind had gone.
+//Yeah, how many years has it been now? -GHS
+TP
+
+//俺たち八人だけの世界。いや、もう七人だ。
+This is a world of just us eight. No, now it's us seven.
+//Think about it: now they're actually seven. (Well, Touko's dead, but...) -GHS
+TP
+
+//風前の灯火なんだ。
+We are as a candle in front of the wind.
+TP
+
+//カップラーメンにお湯をそそぐ。
+I pour hot water in the cup ramen,
+TP
+
+
+//食う。
+and eat.
+TP
+
+
+GL 1 TCMM0003
+GP 1 225 0
+GI 1 1
+WVP 0 vfCCC4014msa000
+//見里「……ああ、ぺけくん」
+Misato: "...ahhh, Peke-kun."
+TP
+
+//先輩がやってきた。
+Senpai had come by.
+TP
+
+//太一「おはようございます。遅かったですね」
+Taichi: "Good morning. You are late you know."
+//Though it's officially afternoon. -GHS
+TP
+
+GL 1 TCMM0001
+//HACK Miffed Misato -GHS
+GI 1 0
+WVP 0 vfCCC4014msa001
+//見里「ええ……」
+Misato: "Yes..."
+TP
+
+//落ち込んでいる。
+Feeling down,
+TP
+
+//眼鏡も曇ってしまっている。
+and glasses clouded over as well.
+TP
+
+//太一「ショッキングな出来事がありましたね」
+Taichi: "There was some shocking incident then."
+TP
+
+WVP 0 vfCCC4014msa002
+//見里「ええ、とても」
+Misato: "Yes, very."
+//Her wounds... which she doesn't talk about at all. Curiously, this means Youko can't have helped her, so this was all Tomoki. Or herself. Or the actual nurse. -GHS
+TP
+
+//俺の近くにぺたりと座って、ぼんやりと空を見あげる。
+Sitting in a flop next to me, she stares at the sky, vacantly.
+//soff -GHS
+TP
+
+//太一「……話すと楽になりますよ」
+Taichi: "...talk, and happiness will come back."
+//人に話すと気が楽になる talk to people and the spirit will grow happy. -GHS
+TP
+
+GL 1 TCMM0003
+GI 1 0
+WVP 0 vfCCC4014msa003
+//見里「友貴と、喧嘩してしまいました」
+Misato: "I have been... fighting with Tomoki."
+//Her getting injured would've meant a pretty big fight with him, as it's not the first time he's rescued her from something like that. -GHS
+TP
+
+//太一「はあ、友貴とですか。俺もよくしますよ」
+Taichi: "Huh, with Tomoki have you? I also do, and often."
+TP
+
+//先輩は疲れたように微笑む。
+Senpai smiled as if looking very tired.
+TP
+
+WVP 0 vfCCC4014msa004
+//見里「ああいう喧嘩とは、また違う喧嘩ですよ」
+Misato: "That sort of fight is quite different from this kind of fight."
+//That's the Tomoki/Taichi & Tomoki/Misato hypocrisy right there. -GHS
+TP
+
+//太一「複雑な家庭事情ってやつですか。食べます？」
+Taichi: "This is about complicated household circumstances, then. Will you eat?"
+TP
+
+//先輩は弱々しく首を振る。
+Senpai gives me a weak shake of the head.
+TP
+
+WVP 0 vfCCC4014msa005
+//見里「……二人っきりの姉弟なんですけど……どうにもうまくいきません」
+Misato: "...we are siblings, the only two, and yet... there is nothing that we can do to make this work well."
+//Vs. only eight/seven friends. -GHS
+TP
+
+//太一「友貴もあれで強情ですからね」
+Taichi: "Because Tomoki has also some obstinacy himself."
+TP
+
+WVP 0 vfCCC4014msa006
+//見里「……原因はわたしにあるんです」
+Misato: "...the fault for this resides all with me."
+TP
+
+//無言で、促す。
+Wordlessly I urge her on.
+TP
+
+GL 1 TCMM0005
+GI 1 0
+WVP 0 vfCCC4014msa007
+//見里「わたし、口うるさいですから」
+Misato: "Because I... am a shrew."
+TP
+
+//太一「そーですか？」
+Taichi: "You are, now?"
+TP
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfCCC4014msa008
+//見里「……わたしが悪いんですよね」
+Misato: "...I am the one at fault!"
+TP
+
+//自嘲して、前髪をいじった。
+She ridiculed herself and played with her bangs.
+//See Taichi -GHS
+TP
+
+//太一「じゃー、俺と一緒ですね」
+Taichi: "Theeen, you are just like me!"
+TP
+
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfCCC4014msa009
+//見里「……そうなんですか？」
+Misato: "...is that how I am?"
+TP
+
+//太一「俺もすごく悪いんで。だからここにいるんですけど」
+Taichi: "I have plenty I am at fault for. That is why I am in here, after all."
+TP
+GL 1 TCMM0002
+GI 1 0
+//HACK "happy" Misato -GHS
+WVP 0 vfCCC4014msa010
+//見里「……ふふ、じゃー停学ですね」
+Misato: "...hohoh, then it is suspension, yes."
+TP
+
+//太一「先輩と一緒なら」
+Taichi: "If it is together with you, Senpai!"
+TP
+
+//GL 1 TCMM0002
+//GI 1 0
+//HACK no need -GHS
+WVP 0 vfCCC4014msa011
+//見里「じゃ二人で停学になって、悪いことしましょうか？」
+Misato: "Then if we are both suspended from school, shall we do something bad that they will find fault with?"
+//First believe yourself guilty; then seek for something to get punished for. Boy is this human behavior. -GHS
+TP
+
+//先輩は童女のようにほころぶ。
+Senpai's smile frays around the edges like little girl's.
+//Just a little bit... wrong -GHS
+TP
+
+//太一「いーですねー、わるいことー」
+Taichi: "Awesooome, yes, something baaad."
+TP
+WVP 2 se044 1 0
+//鉄扉が甲高い音を立てて開いた。
+The iron door made a shrill squeak as it opened.
+TP
+
+WVP 0 vfCCC4014kri000
+//霧「先輩、そいつから離れて！！」
+Kiri: "Senpai, get away from that person!!!"
+TP
+
+WVS 1 0
+
+GL 0 evcc0024d
+$CGevcc0024d = 1
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 109 0
+//HACK earlier CG
+
+//霧は武装していた。
+Kiri was armed.
+TP
+//断じて、水鉄砲ではない。
+Absolutely not with a water gun.
+//See CCC40006. If it's not a water gun, then it's gotta be a BB gun. -GHS
+TP
+
+WVP 1 bgm017.ogg 0 0 0
+
+WVP 0 vfCCC4014msa012
+//見里「……ぽえ？」
+Misato: "...zoom?"
+//PCP CCC0026
+//Well ain't this interesting. -GHS
+TP
+
+WVP 0 vfCCC4014kri001
+//霧「宮澄先輩、はやくそいつから離れて下さい！」
+Kiri: "Miyasumi-senpai, please hurry and get away from that person!"
+TP
+
+WVP 0 vfCCC4014msa013
+//見里「え？　そいつって……ぺけくん？　そんな、上級生をそいつ呼ばわりなんてして……休学ですよ」
+Misato: "Eh? 'That person'... Peke-kun? Really, calling an upperclassman like that... you will be put on leave from school!"
+//Almost, but not quite, suspension. Possibly because suspension is for really bad people. -GHS
+TP
+
+WVP 0 vfCCC4014kri002
+//霧「危ないんです、はやく！」
+Kiri: "You are in danger, quickly!"
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+WVP 0 vfCCC4014msa014
+//見里「そんな水鉄砲……水ボウガンですか？」
+Misato: "And that water gun... is that a water crossbow?"
+//LOL Wikipedia: "crossbows are also called 'bowguns', but that is Wasai Eigo and doesn't apply in other countries". -GHS
+TP
+
+//太一「本物ですよ、あれ」
+Taichi: "That is the real deal."
+TP
+
+WVP 0 vfCCC4014msa015
+//見里「ふぅ」
+Misato: "Pfh..."
+TP
+
+//卒倒した。
+Swooned.
+TP
+
+//太一「はや」
+Taichi: "So fast!"
+TP
+
+//太一「おまえのせいだぞ」
+Taichi: "That's your fault dammit."
+TP
+
+WVP 0 vfCCC4014kri003
+//霧「……黒須太一っ」
+Kiri: "...Kurosu Taichi!"
+TP
+
+//霧は狙いを俺に定める。
+Kiri's aim settles on me.
+TP
+
+//太一「またテンパっちゃって、どうしたんだ？」
+Taichi: "You're about to blow up again, what even happened?"
+TP
+
+WVP 0 vfCCC4014kri004
+//霧「……桐原先輩も、殺した！」
+Kiri: "...Kirihara-senpai, you killed her too!"
+//And once again she's here, waving that thing around. Of course, she's torn on him, it's not like she knows her current weapon is not a real threat. -GHS
+TP
+
+//太一「！？」
+Taichi: "?!"
+TP
+
+//冬子が。
+Touko?
+TP
+
+//太一「おい、それって……」
+Taichi: "Wait up, that one's..."
+TP
+
+WVP 0 vfCCC4014kri005
+//霧「会いに行ったら、死んでた……あなたが殺したんです！」
+Kiri: "We went to see her, and she was dead... and you killed her!"
+//No mention of the knife. Isn't it interesting? -GHS
+TP
+
+//太一「しらないって！　本気か？　本当に冬子は死んでたのか？」
+Taichi: "I said I didn't know! You serious? Touko's really dead?"
+TP
+
+WVP 0 vfCCC4014kri006
+//霧「支倉先輩、桐原先輩……次は誰なんです？」
+Kiri: "Hasekura-senpai, Kirihara-senpai... who will be next?"
+//~random~ kirihara->harakiri->hasekura -GHS
+TP
+
+//太一「どういう状況で死んでたんだ？」
+Taichi: "What happened, how did she die?"
+TP
+
+WVP 0 vfCCC4014kri007
+//霧「……知っているくせに」
+Kiri: "...you know, damn you."
+TP
+
+//太一「外傷は？　場所は？」
+Taichi: "External wounds? Where is she?"
+TP
+
+WVP 0 vfCCC4014kri008
+//霧「桐原先輩の家ですよ。ご自分の部屋で」
+Kiri: "At Hasekura-senpai's house. In her own private room."
+TP
+
+WVP 0 vfCCC4014kri009
+//霧「胸を刃物でひとつきにされて……」
+Kiri: "Her chest was pierced through with a bladed weapon..."
+//No details. -GHS
+TP
+
+WVP 0 vfCCC4014kri010
+//霧「犯人はあなたです、決まってます」
+Kiri: "You are the culprit, that is obvious."
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//なんて、短絡―――
+The hell's with that hasty conclusion---
+TP
+
+//曜子ちゃんの死、そして俺の存在が、霧を混乱させていた。
+Youko-chan's death, together with my continuing presence, had thrown Kiri into chaos.
+TP
+
+//興奮もしている。
+And into excited agitation.
+//Hum, that term often seen for sexual arousal... -GHS
+TP
+
+//説得は無意味だろう。
+Persuasion will likely be meaningless.
+TP
+
+//……クロスボウは威嚇用としては弱い。
+...a crossbow is a weak thing to use for intimidation,
+TP
+
+//連射がきかないからだ。
+because it cannot be fired rapidly.
+TP
+
+//外れたらおしまい。
+One miss and it's all done.
+TP
+
+//走っている人間に、そうそう当たるものでもない。
+A runner would be no simple easy thing to hit.
+TP
+
+//霧を取り押さえるのは簡単だが。
+Subduing Kiri would simple, but,
+//But he's King of Smarts, too. -GHS
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+//太一「やるしかないか……」
+Taichi: "I just gotta do this, do I...?"
+TP
+
+//こういう死に方は、どうもな。
+I just can't die like this.
+TP
+
+//霧の誤射を誘おうと、下肢に力をこめた。
+I put weight in the foot to lure Kiri into an accidental shot.
+//See CCC3002, CCB0022/23 -GHS
+TP
+
+WVP 0 vfCCC4014mki000
+//美希「霧ちん、だめだってば！」
+Miki: "Kiri-chin, I told you to stop!"
+TP
+
+//美希が背後から抱きついた。
+Miki clung to her from behind.
+TP
+GL 0 bgcc0007
+//No returning to the zoomed BG here. -GHS
+GS 0 1
+SEF 152 0
+WVP 0 vfCCC4014kri011
+//霧「……あ」
+Kiri: "...ah!"
+TP
+//WVP 2 SE066 1 0
+
+GL 4 zzzCrossbowBolt
+GP 4 480 0
+GI 4 0
+CIN 4 480 0 0 0
+CR 0
+//HACK in the bolt. -GHS
+
+
+
+//矢が出た。
+The bolt fired.
+TP
+
+
+GL 5 BGCC0000E
+GI 5 0
+WT 25 0
+GS 4 0
+GS 5 0
+SEF 100 0
+WVS 1 0
+WVP 2 SE066 1 0
+//SEF 101 0
+//HACK out bolt with a white flash. SFX is still later. -GHS
+
+//太一「っ！？」
+Taichi: "!?!"
+TP
+
+//三十センチほど隣を、矢はかすめていった。
+The bolt flew through about thirty centimeters next to me.
+TP
+
+//背後、用具置き場のプレハブの壁に突き刺さり、尻尾を震わせた。
+Behind me, it stuck in the utensils storehouse prefab, its tail still twitching.
+TP
+GL 1 TCYM0001
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC4014mki001
+//美希「そんなことしたらだめ」
+Miki: "That is just out of the question!"
+TP
+GL 2 TCSK0001
+GP 1 0 0
+GP 2 340 0
+GS 1 1
+GS 2 1
+SEF 109 0
+
+WVP 0 vfCCC4014kri012
+//霧「だって！」
+Kiri: "But!"
+TP
+
+//太一「……美希、助けてくれたのはありがたいが、もうちょっと慎重に……」
+Taichi: "...Miki, I'm thankful for you rescuing me, but, be a little more careful..."
+//For the bolt above, CCC3002 again. Is that what she was doing then... or the opposite? Quite uncertain. It's possible she thought Kiri would be firing on him by then. -GHS
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCC4014mki002
+//美希「あ、すいまへん」
+Miki: "Ah, soHrry."
+//Oddly lisped. "Strange Drowsiness"? Well, in Taichi's case... -GHS
+TP
+GL 2 TCSK0021
+GI 2 0
+WVP 0 vfCCC4014kri013
+//霧「来ないで！」
+Kiri: "Stay back!"
+TP
+
+//歩み寄って、霧の胸ぐらをつかむ。
+Walking closer, I grab Kiri by the collar.
+TP
+
+//太一「何もしないさ！」
+Taichi: "I won't do anything!"
+TP
+
+//太一「……殴り飛ばしてやりたいけどな」
+Taichi: "...though I'd like to toss you off somewhere, you know."
+//He totally could. Right where Yutaka fell, for example. -GHS
+TP
+
+//離す。
+I let go.
+TP
+GO 2 1
+
+//霧は尻餅をつく。
+Kiri falls on her backside.
+TP
+WVP 0 vfCCC4014kri014
+//霧「……人殺し！」
+Kiri: "...murderer!"
+TP
+
+//太一「あん？」
+Taichi: "Wha-?"
+TP
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCC4014mki003
+//美希「やめよう、ふたりとも、笑うのだ」
+Miki: "Stop it, please, both of you, let's smile!"
+//See CCB0023, CCC0002. She really sucks at this. -GHS
+TP
+
+WVP 0 vfCCC4014kri015
+//霧「人殺し！　次は誰を殺すの！？」
+Kiri: "Murderer! Who are you going to kill next?!"
+TP
+
+//太一「……霧なぁ、おまえ……よくないトコ出てるぞ。だいたい冬子が死んだってのも、今さっき知ったんだ。どうして自動的に俺がやったことになるんだよ」
+Taichi: "...really, you, Kiri... your bad parts are showing. The point is, I just barely now learned that Touko's dead. How does it automatically become something I have done!"
+//Remember 'automatic'? Also, more of what Yutaka was referring to in CCA0018B. -GHS
+TP
+
+WVP 0 vfCCC4014kri016
+//霧「……他に誰がやるのよ！」
+Kiri: "...who else would have done it!"
+TP
+
+//太一「……第一発見者のおまえとか」
+Taichi: "...first would be the one who found her, which would be you."
+TP
+
+//霧は柳眉を逆立てる。
+Kiri's beautiful eyebrows ruffle.
+TP
+
+WVP 0 vfCCC4014kri017
+//霧「わたしが殺すわけない……そんなことができるのは、気の狂ったあなただけ！」
+Kiri: "There's no way I could kill her... the only person capable of that would be someone who has lost his mind, like you!"
+TP
+
+WVP 0 vfCCC4014kri018
+//霧「死ね、死んでしまえ！　そんなに殺したかったら自分を殺せ！　狂人！　地獄に落ちろ！　たった八人しかいない……この世界で……どうかしてる！！」
+Kiri: "Die! Just make the world happy and die! If you love killing so much then kill yourself! Lunatic! Go to hell! There's just eight people... in this world... you are insane!!!"
+//Yup, totally Taichi that's lost his mind. But this is possibly the fruit of all the lies from last route. And this route the lies are only increasing. -GHS
+TP
+
+WVP 0 vfCCC4014kri019
+//霧「死ね、死んじゃえ！　人殺し！　……ひとでなし！」
+Kiri: "Die, just go die! Murderer! ...you're not a person!"
+TP
+
+GL 5 BGCC0000A
+GI 5 1
+//HACK to sky -GHS
+
+//聞くに堪えない雑音。
+A grating noise that I can't bear to hear,
+TP
+
+//落胆を誘う。
+inviting disappointed dejection.
+TP
+
+//太一「……美しくない」
+Taichi: "...not beautiful."
+TP
+
+//いつもの霧を錆びたナイフだとすれば。
+If the Kiri of always is nothing but a rusty knife,
+TP
+
+//これは……さしずめ無骨な丸太ってとこか。
+this... is nothing more than an unrefined wooden log.
+//The masochist is damn precise with the insolence he wants. 丸 round + 太 fat = wooden log !LOGIC! -GHS
+TP
+
+//精密さがない。
+It has no precision.
+TP
+
+//繊細さがない。
+It has no subtlety.
+//BTW, this means Miki's manipulations have made Kiri LESS EFFECTIVE against Taichi, not more. -GHS
+TP
+
+//霧、いつからそんな救いようのないものになったんだ。
+How long has it been since you became so hopelessly unrecoverable, Kiri?
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//興味が、失せるじゃないか。
+My interest in her is vanishing, isn't it?
+//See CCC3030. Uh-oh... -GHS
+TP
+
+WVP 0 vfCCC4014kri020
+//霧「……その目……人間の目じゃない」
+Kiri: "...your eyes... are not the eyes of a human."
+TP
+
+//目のことを言う。
+She talks about my eyes.
+TP
+
+//これは攻撃かな。
+Is this even some kind of attack?
+//He's still lying to himself. Yes, it's an attack, and a damn harsh one. This is probably among the ones she uses when she "kills" him in the routes. -GHS
+TP
+
+//攻撃だよな。
+Yeah, it's an attack.
+TP
+
+//スイッチを入れてもいいのかな。
+Should I just flip that switch, then?
+TP
+
+//いいんじゃないか。
+Shouldn't I, now?
+TP
+
+//……敵なら。
+...if she is an enemy.
+TP
+
+//霧を見る。
+I look at Kiri.
+TP
+
+
+//削除してやろうか？―――
+Should I just delete this?---
+//He intends on stopping to consider her as existing. Not that he'd be unjustified in wanting to really hurt her, given she's groundlessly accused him of being a murderer, threatened him with a weapon, AND she went and pressed his berserk buttons by being serious in her hatred AND talking about his looks (the thing about his eyes). Plus he's an unadmitted emotional wreck since he just can't bring himself to state it out loud how much Youko's death hurts him (same as with previous route and Touko). Nasty? perhaps; the overreaction of a psychotic murderer? Not even close. His reaction is borderline saintly compared to what most people'd have at this point. -GHS
+TP
+
+
+WVP 0 vfCCC4014kri021
+//霧「ひ……」
+Kiri: "Hy..."
+TP
+
+//『読』んだらしい。いい目だ。
+She has... read... me. Nice discerning eye.
+TP
+
+//瞬時に蒼白に。
+In an instant she goes pale.
+TP
+
+//人間なんて簡単に死ぬ。
+Humans die so simply.
+TP
+
+//刺す必要なんてない。
+There's no need for stabbing.
+TP
+
+//こんなか細い首なら、なおのこと―――
+just, on this thin little neck here, just a bit of---
+//see end of route. Prophetic, or is that self-fulfilling? Kiri has failed him for the last time... -GHS
+TP
+
+
+GL 1 TCYM0003
+GP 1 180 0
+GS 0 1
+GS 1 1
+GS 5 0
+SEF 109 0
+//HACK back, center doll
+WVP 0 vfCCC4014mki004
+//美希「はいはーい、そこまでー！　がばーっ！」
+Miki: "Okay okaaay, that's where it eeends! Glooomp!"
+//HOLY SHIT IT'S A STAR TREK DEEP SPACE NINE REFwait that was 'gabo'. Glomp is a real English SFX according to kawaii uguu animuh webcomacks which I totally don't read because I'm like omfg teh serious translator of Japanese loli tentacle porn. -GHS
+TP
+
+//美希が霧のスカートをめくった。
+Miki flipped Kiri's skirt.
+TP
+
+WVP 0 vfCCC4014kri022
+//霧「きゃーーーーっ！！」
+Kiri: "KYAAAAAH!!!"
+TP
+
+//太一「……お」
+Taichi: "...oh."
+TP
+
+//煩悩覚醒。
+Appetites of the flesh reawakening!
+TP
+
+//太一「ストラーイプ！」
+Taichi: "STEEE-RIPES!"
+//hate u taichi -GHS
+TP
+
+//球筋を読み切った審判の誇らしげな顔で、俺は叫んだ。
+A shout made with the proud face of an umpire that just finished reading the path of that stitched ball.
+//WTF is it with baseball again? -GHS
+TP
+
+
+//太一「バッターアウッ！！」
+Taichi: "BATTER OOOUT!!!"
+//Batter = bat = dick OF COURSE -GHS
+TP
+
+//太一「ふう、やっぱ下着はストライプだな」
+Taichi: "Whew, I knew it, your panties are striped!"
+TP
+
+WVP 0 vfCCC4014mki005
+//美希「あー、戻った戻ったー、わーい」
+Miki: "Ahhh, he's back he's back, weeee!"
+TP
+
+WVP 0 vfCCC4014kri023
+//霧「……ちょ……なに、慣れ合ってんのよ……ばか」
+Kiri: "...bu-... what's with all this overfamiliarity now... dummy!"
+//Oh, the tsundere tsundere'd. Always so rare here. -GHS
+TP
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfCCC4014mki006
+//美希「だって、先輩も怒りかけてたし、霧ちんもおかしかったし」
+Miki: "But Senpai was becoming scary, and you were also going all weird, Kiri-chin."
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCC4014mki007
+//美希「止めただけだよ？」
+Miki: "I just stopped this, OK?"
+TP
+
+//太一「は、俺もう行くわ。ちょっと調べてみるよ。その冬子の死んだ現場ってやつ」
+Taichi: "Hah, I shall go too, yes. I wanna investigate things out a bit... the Touko crime scene, I mean."
+TP
+
+GL 1 TCYM0011
+GI 1 0
+//HACK I don't care, I think this pose is inspired or at least suspiciously similar similar to that one Hanepin has in the Tsukihime-verse remake of Oblivion Recorder from Kara no Kyoukai in Kagetsu Tohya. Hmmm, fairies at school, was that... -GHS
+
+WVP 0 vfCCC4014mki008
+//美希「はい、こっちのしまパン娘はお任せを」
+Miki: "Yes, leave the shimapan gal to me!"
+//THOSE ARE NOT SHIMAPAN THEY HAVE TO BE HORIZONTAL! HORIZONTAAAAAAL!!! IT'S OBVIOUS BECAUSE[500Kb of incoherent caps lock rant removed] -GHS
+TP
+
+//太一「お任せる」
+Taichi: "I leave her to you."
+TP
+
+//屋上をあとにした。
+I leave the rooftop behind me.
+TP
+
+RET

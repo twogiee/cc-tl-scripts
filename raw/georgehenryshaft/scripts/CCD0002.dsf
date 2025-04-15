@@ -1,0 +1,1422 @@
+
+
+//TWS 0
+
+
+WVP 3 SE001 0 0
+
+//GL 0 bgcc0007s
+//GS 0 1
+//GS 1 0
+//SEF 10 1
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0007s
+//This is many months before the antenna, but I don't have any non-antenna flashback BG of the rooftop data to work from. Even the 360 version keeps it. Well, let's call it Taichi misremembering some facts as well. -GHS
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+
+
+
+//青天の霹靂だった。
+It was a bolt out of the blue.
+TP
+
+
+//桜庭と再会したのは、一年生の頃だ。
+I was a high school freshman when I was reunited with Sakuraba.
+//1,5-2 years after the theater thing. Interesting he comes after him on the rooftop. This place used to be really popular; in a sense, perhaps, the death of Yutaka was also the Downfall of this as a place of gathering. -GHS
+TP
+
+GL 1 TCSH0000s
+GP 1 190 0
+GI 1 1
+
+WVP 1 bgm005.ogg 0 0 0
+
+WVP 0 vmCCD0001sku002
+//桜庭『オレのこと、覚えてるか？』
+Sakuraba: "You remember about me?"
+//The hollow brackets were removed in all versions. Since it's just a flashback, there's no need. -GHS
+TP
+
+
+//太一『……あ？』
+Taichi: "...ah?"
+//He doesn't even remember him... -GHS
+TP
+
+
+WVP 0 vmCCD0001sku003
+//桜庭『学院祭の演劇で』
+Sakuraba: "From the school festival play."
+TP
+
+
+//太一『……おまえ』
+Taichi: "...it's you."
+TP
+
+
+WVP 0 vmCCD0001sku004
+//桜庭『オレは桜庭浩』
+Sakuraba: "I'm Sakuraba Hiroshi."
+TP
+
+
+WVP 0 vmCCD0001sku005
+//桜庭『苗字で呼ばれるのは好きじゃない。ヒロって呼んでくれ』
+Sakuraba: "I don't like being called by my last name. Please call me Hiro."
+//ヒロって hirotte = pick up/find/gather... -GHS
+TP
+
+
+//その顔には確かに見覚えがあった。
+There was certainly something familiar in that face,
+TP
+
+
+//嫌な記憶が添付されてはいたが。
+but with bad memories attached to it.
+//MEMORY HUNTER. Not impossible he's conflating Sakuraba with Yutaka already at this point, though this is before Yutaka. -GHS
+TP
+
+GS 0 0
+GS 1 0
+SEF 109 0
+//HACK to black -GHS
+
+//……………………。
+............
+TP
+
+
+GL 0 bgcc0006s
+GS 0 1
+GS 1 0
+//SEF 152 0
+SEF 54 1
+//HACK replacing these with fades like the flashback opening. -GHS
+
+//太一『触るな』
+Taichi: "Hands off."
+TP
+
+
+GL 1 TCSH0000s
+GI 1 1
+
+WVP 0 vmCCD0001sku006
+//桜庭『……気にしてるのか』
+Sakuraba: "...you mind this?"
+TP
+
+
+//太一『してないはずないだろ』
+Taichi: "I wouldn't not mind, wouldn't I?"
+TP
+
+
+WVP 0 vmCCD0001sku007
+//桜庭『すまない』
+Sakuraba: "Apologies."
+TP
+
+
+//太一『謝罪はいい。近寄るな』
+Taichi: "Forget apologizing. Don't get close."
+TP
+
+
+WVP 0 vmCCD0001sku008
+//桜庭『許せ』
+Sakuraba: "Forgive me."
+TP
+
+
+//太一『許すか。二度と話しかけるな』
+Taichi: "Forgive you? Never get close or talk to me again!"
+TP
+
+
+GL 1 TCSH0002s
+GI 1 0
+WVP 0 vmCCD0001sku009
+//桜庭『ところで昨日ネットでな―――』
+Sakuraba: "By the way, on the 'net yesterday---』
+TP
+
+
+//太一『…………』
+Taichi: "......"
+TP
+
+
+//めげない。懲りない。くじけない。
+Undeterred. Unlearning. Undiscouraged.
+TP
+
+
+//桜庭とはそんなヤツらしい。
+That's the kind of guy Sakuraba seemed to be.
+//You push this stuff away, but... well, it looks like a hill; the politicians claim it is. But it's a mountain. You go up there and there's no telling where you're going, or if you're ever coming back. -GHS
+TP
+
+GS 0 0
+GS 1 0
+SEF 109 0
+//HACK to black -GHS
+
+//……………………。
+............
+TP
+
+
+
+
+GL 0 bgcc0009s
+GS 0 1
+GS 1 0
+SEF 54 1
+//HACK different fade -GHS
+
+
+GL 1 TCSH0000s
+GI 1 1
+WVP 0 vmCCD0001sku010
+//桜庭『よう』
+Sakuraba: "Yo."
+TP
+
+
+//太一『話しかけるなっての』
+Taichi: "I told you to stay away and don't talk to me!"
+//Now he's just Touko. -GHS
+TP
+
+
+WVP 0 vmCCD0001sku011
+//桜庭『課題やってきたか？』
+Sakuraba: "Did you do the assignment?"
+//Curiously, the only homework we ever hear from Gunjou is the diary exchange. -GHS
+TP
+
+
+//太一『聞こえないのか、おまえの耳は』
+Taichi: "Can't you hear with those ears of yours or something?"
+TP
+
+GL 1 TCSH0002s
+GI 1 0
+
+WVP 0 vmCCD0001sku012
+//桜庭『ああ、聞こえない。片方だけな』
+Sakuraba: "Ah, I can't hear. Just on one side."
+TP
+
+
+//太一『……あ？』
+Taichi: "...huh?"
+TP
+
+GL 1 TCSH0000s
+GI 1 0
+
+WVP 0 vmCCD0001sku013
+//桜庭『おまえにいいのをもらったときにな』
+Sakuraba: "It's from when I got a nice thing from you."
+TP
+
+
+//確かに殴った。
+I hit him, for sure,
+TP
+
+
+//が、自分の貞操を守っただけだ。
+but it was just to defend my chastity.
+//...not that he's chaste. Or was he? Perhaps that line from CCA0013 being missing here is intentional. If Youko doesn't exist, then his first was Touko. -GHS
+TP
+
+
+//太一『……だからどうした。正当防衛だ』
+Taichi: "...and so what. It was legitimate self-defense."
+TP
+GL 1 TCSH0002s
+GI 1 0
+
+WVP 0 vmCCD0001sku014
+//桜庭『当然だ。おまえは悪くない』
+Sakuraba: "Naturally. You're not to blame."
+TP
+
+
+//太一『……』
+Taichi: "..."
+TP
+
+
+GL 1 TCSH0000s
+GI 1 0
+WVP 0 vmCCD0001sku015
+//桜庭『オレが未熟だったんだ』
+Sakuraba: "I was so immature."
+TP
+
+GL 1 TCSH0003s
+GI 1 0
+
+WVP 0 vmCCD0001sku016
+//桜庭『思えば……感動だったんだな』
+Sakuraba: "I think... that I was emotionally moved."
+TP
+
+GL 1 TCSH0002s
+GI 1 0
+
+WVP 0 vmCCD0001sku017
+//桜庭『舞台のおまえは、きれいだったからな』
+Sakuraba: "Because you were so beautiful on that stage."
+//And he never, ever, ever mentions Youko. Or ever interacts with her... throughout the ENTIRE VN. -GHS
+TP
+
+
+//太一『あーそうかい。あんがとな。嬉しくないけどな』
+Taichi: "Ohhh so it was. Thanks. Doesn't make me happy though."
+TP
+
+GL 1 TCSH0000s
+GI 1 0
+
+WVP 0 vmCCD0001sku018
+//桜庭『安心しろ。オレの中に、もう不純なものはない』
+Sakuraba: "Be at ease. There is nothing impure anymore inside of me."
+TP
+
+
+//太一『……どうだか』
+Taichi: "...nothing?"
+//He doubts and mistrusts. This further strengthens the idea that he also doubts Yutaka's recovery and fears for Kiri. -GHS
+TP
+
+
+WVP 0 vmCCD0001sku019
+//桜庭『ないんだ。もう。いろいろとショックだったんだな』
+Sakuraba: "Nothing. No more. There were all kinds of shocks."
+TP
+
+GL 1 TCSH0002s
+GI 1 0
+
+WVP 0 vmCCD0001sku020
+//桜庭『オレの中から、制御できない生々しいものが消えたような感じなんだ』
+Sakuraba: "Feels like all the incontrollable impure things have vanished from inside me."
+TP
+
+
+//太一『そりゃおまえがインポ野郎ってことだ』
+Taichi: "Sooo yer some impotent son of a bitch, right."
+TP
+
+
+WVP 0 vmCCD0001sku021
+//桜庭『ああ、そうだな』
+Sakuraba: "Yah, so I am."
+TP
+
+
+//笑いやがった。
+And he even had the guts to laugh.
+TP
+//GO 1 1
+
+GS 0 0
+GS 1 0
+SEF 109 0
+//HACK to black -GHS
+
+//……………………。
+............
+TP
+
+GL 0 bgcc0007s
+GS 0 1
+GL 1 TCSH0000s
+GS 1 1
+SEF 54 1
+//HACK different fade, doll right away -GHS
+
+
+
+WVP 0 vmCCD0001sku022
+//桜庭『よう、太一』
+Sakuraba: "Yo, Taichi."
+TP
+
+
+//太一『……おまえか……』
+Taichi: "...you again..."
+TP
+
+
+//太一『ここしばらく、いなくなってくれてせいせいしてたんだが』
+Taichi: "And I went and felt all relieved that you had gone and disappeared for a while."
+TP
+
+
+GL 1 TCSH0002s
+GI 1 0
+WVP 0 vmCCD0001sku023
+//桜庭『化石を掘りに行ってきた』
+Sakuraba: "I went to excavate fossils."
+TP
+
+
+//太一『はあ？』
+Taichi: "Huh?"
+TP
+
+
+//意味不明だった。
+That was cryptic.
+//I don't think it's a pun, but what it means strictly speaking is also unclear. -GHS
+TP
+
+GL 1 TCSH0000s
+GI 1 0
+
+WVP 0 vmCCD0001sku024
+//桜庭『アンモナイトかと思ったら、カブトの幼虫だった』
+Sakuraba: "I was thinking it was ammonite, but it was a beetle larva."
+//The obvious gag (they look sort of similar) is there, but it being Sakuraba, him looking for non-living rocks and finding something similar-looking but alive is SYMBOLISM!!!-worthy. This flows right into the Peanut Persimmon: a peanut snack can't possibly grow into a tree... can it? -GHS
+TP
+
+
+//太一『……アホか、おまえ』
+Taichi: "...you dumb or something?"
+//PCP CCC3004
+TP
+//GO 1 1
+
+
+GS 0 0
+GS 1 0
+SEF 109 0
+//HACK to black -GHS
+//……………………。
+............
+TP
+
+
+GL 0 bgcc0006s
+GS 0 1
+GS 1 0
+SEF 54 1
+//HACK different fade -GHS
+//昼飯にあぶれた日があった。
+There was one day when I failed to get lunch,
+TP
+
+
+//食券もパンも売り切れていた。
+meal tickets and bread both sold out.
+//That's possibly when he started calling pizzas in...? Maybe he wasn't rich yet. -GHS
+TP
+GL 1 TCSH0000s
+GI 1 1
+
+WVP 0 vmCCD0001sku025
+//桜庭『よう、一人か？』
+Sakuraba: "Yo, alone?"
+TP
+
+
+//太一『……』
+Taichi: "..."
+TP
+
+
+//どさどさどさっ
+Paf-paf-paf!
+//See CCC3019A -GHS
+TP
+
+
+//太一『何をする！』
+Taichi: "The hell you doing!"
+TP
+
+
+//山のような、購買のパン。
+Procured bread, and a mountain of it.
+//See CCA0002. No, I'm not overdoing this yet. -GHS
+TP
+
+GL 1 TCSH0002s
+GI 1 0
+
+WVP 0 vmCCD0001sku026
+//桜庭『全種類買ってきた』
+Sakuraba: "Bought all kinds."
+TP
+
+
+WVP 0 vmCCD0001sku027
+//桜庭『一番うまいのを探す』
+Sakuraba: "I'm looking for most delicious."
+TP
+
+
+//太一『……勝手にやってくれ』
+Taichi: "...don't just bring me stuff."
+TP
+GL 1 TCSH0000s
+GI 1 0
+
+WVP 0 vmCCD0001sku028
+//桜庭『おまえも食えよ』
+Sakuraba: "You eat too now."
+TP
+
+
+//太一『いらん』
+Taichi: "Don'wanna."
+TP
+
+GL 1 TCSH0002s
+GI 1 0
+
+
+WVP 0 vmCCD0001sku029
+//桜庭『一人だと食いきれないからな』
+Sakuraba: "There's too many to eat alone."
+//See CCA0022. -GHS
+TP
+
+GL 1 TCSH0003s
+GI 1 0
+
+WVP 0 vmCCD0001sku030
+//桜庭『おい、このカレーパン、信じられないうまさだぞ？』
+Sakuraba: "Hoy, this curry bread's so good that you wouldn't believe ya know?"
+TP
+
+
+//太一『…………』
+Taichi: "......"
+TP
+
+
+//食ってみた。
+I tried eating.
+TP
+
+
+//太一『お、おえええええっ』
+Taichi: "Bh-, bleeeeeah!"
+//Oe? -GHS
+TP
+
+
+//最悪。
+Disgusting.
+//See CCX0001. He'll eat nothing else. -GHS
+TP
+
+
+//太一『なめてんのか！』
+Taichi: "You kidding me now!"
+TP
+GL 1 TCSH0000s
+GI 1 0
+
+
+WVP 0 vmCCD0001sku031
+//桜庭『こっちのカツサンドは駄目だな。やる』
+Sakuraba: "These pork cutlet sandwiches are worthless. Have 'em."
+TP
+
+
+//食ってみた。
+I tried eating.
+//CP qwertyuiop
+TP
+
+
+//太一『……うまいぞ？』
+Taichi: "...ain't this good?"
+TP
+
+GL 1 TCSH0002s
+GI 1 0
+
+WVP 0 vmCCD0001sku032
+//桜庭『そうか？　舌がおかしいんじゃないか？』
+Sakuraba: "It is? Isn't your taste a bit strange?"
+//Get it? Because Sakuraba doesn't belong to this world anymore! Also he's a zombie. -GHS
+TP
+
+
+//おまえだよ。
+Yours is!
+TP
+//GO 1 1
+GS 0 0
+GS 1 0
+SEF 109 0
+//HACK to black -GHS
+
+//……………………。
+............
+TP
+
+
+GL 0 bgcc0011bs
+GS 0 1
+SEF 54 1
+//HACK different fade -GHS
+//群青のカリキュラムは、拘束時間が長い。
+The actual school hours are long in the curriculum of Gunjou.
+//Things would seem to end well after six PM in fact, meaning the club hours are included in the curriculum. -GHS
+TP
+
+
+//授業が終わっても三十分は正門も開かない。
+The lessons may be over, but the front gate won't open for thirty more minutes.
+TP
+
+
+//門の前で待機する三十分は、いつも退屈な時間だった。
+Those thirty minutes of wait in front of the gate were always a time of boredom.
+TP
+
+
+WVP 0 vmCCD0001sku033
+//桜庭『帰りか？』
+Sakuraba: "Going home?"
+TP
+
+
+//太一『……ああ』
+Taichi: "...yup."
+TP
+
+
+//隣に並ぶ。
+He lines up next to me.
+TP
+
+
+WVP 0 vmCCD0001sku034
+//桜庭『鳥はいい。次に生まれ変わる時は、鳥になる』
+Sakuraba: "Birds are nice. Next time I'm born again, I'll be a bird."
+//That's where Tori from Family Project comes from. ...at this point I can't even think that as a joke. Of course "born again" is lateral, so "next time I'm born again" is to be taken literally: he did so once. -GHS
+TP
+
+
+//唐突に言った。
+That's what he said, all of a sudden.
+TP
+
+
+//太一『頭はすでにどっか飛んでるみたいだけどな』
+Taichi: "Your head looks like it's already flying in the sky though."
+TP
+
+
+WVP 0 vmCCD0001sku035
+//桜庭『ははは』
+Sakuraba: "Hahahah!"
+TP
+
+
+//太一『……皮肉もわからんのか』
+Taichi: "...do you even understand sarcasm?"
+//He does. What Taichi doesn't understand is that he's responding to what he's really saying, not to what he thinks he's saying. And yeah, Sakuraba's head already in Heaven. -GHS
+TP
+
+GS 0 0
+GS 1 0
+SEF 109 0
+//HACK to black -GHS
+
+//……………………。
+............
+TP
+
+GL 0 bgcc0010s
+GS 0 1
+SEF 54 1
+//HACK different fade -GHS
+
+//放送部員になった。
+I became a member of the Broadcast Club.
+TP
+
+
+//最初に部室に顔を出した日。
+And the very first day I showed face in the club room,
+//Hum, see CCD1001. This isn't quite right. -GHS
+TP
+
+
+//太一『で、おまえがいるんだな……』
+Taichi: "What, you're here too...?"
+TP
+
+GL 1 TCSH0000s
+GI 1 1
+
+WVP 0 vmCCD0001sku036
+//桜庭『つるめるな』
+Sakuraba: "How about mate-ing."
+TP
+
+
+//太一『つるみたかねーよ』
+Taichi: "Ain't no way we're 'mating'!"
+//Explanation of this difference with lots of condescension and perhaps bad translingual punnery. -GHS
+TP
+
+
+
+//ちなみに友貴は少し遅れてやってきた。
+As for Tomoki, he came in a little bit later.
+//Actually unclear if he means "a few days/weeks" later, or just moments later in the same scene. -GHS
+TP
+
+
+//みみ先輩は、スカウトさんだったらしい。
+Mimi-senpai seemed to have been the scout.
+TP
+
+GL 2 TCST0000s
+GP 1 20 0
+GP 2 340 0
+GS 1 1
+GS 2 1
+SEF 109 0
+
+WVP 0 vmCCD0001yki001
+//友貴『島友貴っつーんだけど……よろしく』
+Tomoki: "Shima Tomoki's who I am so... nice to meet you."
+//Hard to source, but likely his usual (fake) Kansai. -GHS
+TP
+
+
+WVP 0 vmCCD0001sku037
+//桜庭『オレは桜庭浩。苗字で呼ばれるのは好きじゃない。ヒロって呼んでくれ』
+Sakuraba: "I'm Sakuraba Hiroshi. I don't like being called by my last name. Please call me Hiro."
+//CP above (2 lines combined)
+TP
+
+GL 2 TCST0005s
+GI 2 0
+
+WVP 0 vmCCD0001yki002
+//友貴『……いや……そのうちね……』
+Tomoki: "...well... eventually..."
+TP
+
+
+//見事に及び腰にさせた。
+Splendidly pushed off-balance.
+TP
+
+GS 0 0
+GS 2 0
+GS 1 0
+SEF 109 0
+//HACK to black -GHS
+
+
+//……………………。
+............
+TP
+
+GS 0 1
+SEF 54 1
+//HACK re-fade in (with the different fade) -GHS
+
+//三人は部室で、規定時間を過ごす。
+The three of us spent our prescribed hours in the club room.
+//See above, club hours are very much included and mandatory.
+TP
+
+
+//決まりだ。
+By habit.
+TP
+
+GL 1 TCSH0000s
+GL 2 TCST0004s
+GP 2 340 0
+GP 1 20 0
+GS 1 1
+GS 2 1
+SEF 109 0
+//HACK both doll simultaneously -GHS
+
+WVP 0 vmCCD0001yki003
+//友貴『だから、そうじゃないって……どうしてわざと間違えるんだ』
+Tomoki: "Told ya, it is not like that... why'd you keep making that error on purpose!"
+TP
+
+WVP 0 vmCCD0001sku038
+//桜庭『この方が面白そうだから』
+Sakuraba: "'Cause it looks more interesting this way."
+TP
+
+
+WVP 0 vmCCD0001yki004
+//友貴『将棋は勝負だよ』
+Tomoki: "Shogi is a contest you know!"
+//TL note: a contest is something you win or lose. As for what is often known as Chinese Chess, no idea because I can't use google anymore. Not since I googled... *that*... -GHS
+TP
+GL 1 TCSH0002s
+GI 1 0
+
+WVP 0 vmCCD0001sku039
+//桜庭『オレはやって面白いことをする』
+Sakuraba: "The stuff I do gotta be interesting."
+//More meta, of course. Possibly VN stuff, too, since that'd be his character. -GHS
+TP
+GL 1 TCSH0000s
+GI 1 0
+
+WVP 0 vmCCD0001sku040
+//桜庭『おい、太一もどうだ？　やろうぜ』
+Sakuraba: "Hoy, Taichi, how about it? Come play."
+TP
+
+
+//太一『……は』
+Taichi: "...huh."
+TP
+
+
+//肩をすくめてやった。
+I went and shrugged my shoulders.
+//PCP CCC0014
+TP
+
+GL 2 TCST0000s
+GI 2 0
+
+WVP 0 vmCCD0001yki005
+//友貴『……感じ悪いな、黒須って』
+Tomoki: "...he gives me the creeps, that Kurosu."
+//Or '黒須' are bad kanji, but that's obviously wrong; all kanji are bad. Which reminds me: death to feelings! -GHS
+TP
+
+GL 1 TCSH0002s
+GI 1 0
+
+WVP 0 vmCCD0001sku041
+//桜庭『そうか？　オレは好きだ』
+Sakuraba: "He does? I like him."
+TP
+
+
+//俺には、小声の会話だって聞こえる。
+Even that whispered conversation was audible to me.
+//...but he can't hear the cicadas anymore. His ears are as good as his memory. -GHS
+TP
+
+
+//やめてくれ。
+Please stop,
+TP
+
+
+//叫びたかった。
+that's what I wanted to shout.
+//craaaawling in my skiiiiiin... and later on: "please look at me". -GHS
+TP
+GS 0 0
+GS 1 0
+GS 2 0
+SEF 109 0
+//HACK to black -GHS
+
+//……………………。
+............
+TP
+
+GL 0 bgcc0010s
+GS 0 1
+GL 2 TCST0004s
+GP 2 190 0
+GS 2 1
+SEF 54 1
+//HACK different fade, doll right away -GHS
+
+
+WVP 0 vmCCD0001yki006
+//友貴『おまえの仕事だったんだ！』
+Tomoki: "But that was your job!"
+TP
+
+
+//太一『……やる義理はないと思うけどな』
+Taichi: "...I thought I didn't really have to do it though."
+//He's trying as hard as he can to be unreliable and hateable. He's just trying to avoid all contact. Misato may have forced him to be part of things, but it wasn't her who made him quite the pervert we know. -GHS
+TP
+
+
+WVP 0 vmCCD0001yki007
+//友貴『あるさ、部員なんだから』
+Tomoki: "You did have to, because you're a club member."
+TP
+
+
+//太一『離せよ、シスコン君』
+Taichi: "Get off me, Siscon-kun."
+TP
+
+
+//侮蔑を込めて言うと、島友貴は顔を瞬時に紅潮させた。
+At those words loaded with scorn, Tomoki's face for an instant turned crimson red.
+TP
+
+
+WVP 0 vmCCD0001yki008
+//友貴『……おまえっ！』
+Tomoki: "...really youuu!"
+TP
+GO 2 0
+
+GL 4 sgcc0001s
+$CGsgcc0001s = 1
+GP 4 0 0
+GP 4 -40 0
+GI 4 0
+WVP 2 se003 1 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK CG, independent CG shake, SFX -GHS
+
+
+//とっくみあいになった。
+It became a scuffle,
+TP
+
+//馬乗りになる。
+a grappling as if trying to decide who was rider and who was horse.
+//See CCD0001, but CCD1001 as well. This is sorta literal, but still has that acceptation of "trying to get along". -GHS
+TP
+
+
+//素人が！
+Why this amateur!
+TP
+
+
+//殴りつける。
+I beat him down.
+WVP 2 se003 1 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake,sfx -GHS
+TP
+
+
+//手加減はする。
+I hold back.
+//He always does this... or does he? His Supah Strength is so damn chuuni that it's very possible he's no better than most anyway. -GHS
+TP
+
+
+//怪我はしない程度に、苦痛のある方法で殴った。
+I beat him with technique, enough that there's pain, but not enough that there's injuries.
+//It's a perfect beatdown, i.e., a nasty, intentional, mean-spirited one. This isn't what this should be about. It's similar to what there is between Tomoki and Misato usually than what there is between Tomoki and Taichi usually. -GHS
+TP
+
+
+//殴りながら、俺は退屈だった。
+And while beating him, I was bored.
+WVP 2 se003 1 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake,sfx -GHS
+TP
+
+
+//くだらない三文芝居に、うんざりしていた。
+It was a worthless two-bit play, just tedious.
+//This might be a complaint on the ways so many shonen fights are written, especially considering how Taichi should, by all means, be the villain. First time the bad guy attacks means the good guy gets curb stomped. You can fast forwards through every first battle and never miss anything. Often all but the final one. And then, all that happens there is the good guy doing the exact same stuff he's done all along, but now it works Because Shut Up. -GHS
+TP
+
+
+//ふと、視線に気がつく。
+Suddenly, I notice a stare.
+TP
+
+GO 4 1
+//HACK out -GHS
+
+//太一『なに見てる』
+Taichi: "Watcha looking at."
+TP
+
+GL 1 TCSH0000s
+GP 1 190 0
+GI 1 1
+
+WVP 0 vmCCD0001sku042
+//桜庭『ただ見ている』
+Sakuraba: "Just looking."
+TP
+
+
+//太一『面白いか？』
+Taichi: "This funny to you?"
+TP
+
+GL 1 TCSH0002s
+GI 1 0
+
+WVP 0 vmCCD0001sku043
+//桜庭『青春っぽい』
+Sakuraba: "Feels so adolescent."
+TP
+
+
+//太一『…………』
+Taichi: "......"
+TP
+
+GL 1 TCSH0000s
+GI 1 0
+
+WVP 0 vmCCD0001sku044
+//桜庭『どうした、気の済むまでやったらいい。もっと青春度がアップするぞ』
+Sakuraba: "What is it now, best you do it as long as you feel like it. Make the level of adolescence increase more!"
+//He broke them up without raising a finger, in fact, by telling Taichi to beat Tomoki down even more. Stick a halo on 'im and call him Jesus, he's done. -GHS
+TP
+
+
+//太一『……』
+Taichi: "..."
+TP
+
+
+//友貴『……』
+Tomoki: "..."
+TP
+
+
+//立ち上がる。
+We get up.
+TP
+
+
+//太一『……やめだ。馬鹿馬鹿しい』
+Taichi: "...I quit. This is just ridiculous."
+TP
+
+
+GL 2 TCST0004s
+GP 2 190 0
+GS 2 1
+GS 1 0
+SEF 109 0
+
+WVP 0 vmCCD0001yki010
+//友貴『おい、仕事は！』
+Tomoki: "Hoy, and your job!"
+TP
+
+
+//うざい。
+'nnoying...
+TP
+
+
+//太一『へいへい……やるよ』
+Taichi: "Yeah, yeah... I'll do it."
+//...and that got him to participate. Sakuraba's truly a master at work. -GHS
+TP
+
+GL 2 TCST0000s
+GI 2 0
+
+WVP 0 vmCCD0001yki011
+//友貴『……そうだよ。最初からそうしてくれれば』
+Tomoki: "...right you will. Ya should've done it in the first place."
+TP
+
+
+//太一『わかんねーんだよ。こんなの。知らねーんだから』
+Taichi: "I don'get it yannow, all this stuff 'ere. I just don't know 's all."
+//first year Taichi seems to be waaay overcompensating with the male speech... -GHS
+TP
+
+GL 2 TCST0003s
+GI 2 0
+
+WVP 0 vmCCD0001yki012
+//友貴『じゃあ、訊けばいいだろ』
+Tomoki: "Then you can just ask!"
+TP
+
+
+//当然であるかのようにヤツは言う。
+So this guy said, as if it was just a matter of course.
+//It's not a matter of course to HIM. -GHS
+TP
+
+
+//切れた唇。
+His lip was split.
+TP
+
+
+//痛みに顔をしかめて、でも友貴は恨み言は言わなかった。
+His face was scrunched up with pain, yet Tomoki didn't have one word of complaint.
+//This might not be the right thing, however... -GHS
+TP
+
+GL 2 TCSH0000s
+GP 2 190 0
+GS 2 1
+GS 1 0
+SEF 109 0
+
+WVP 0 vmCCD0001sku045
+//桜庭『おい』
+Sakuraba: "Hoy."
+TP
+
+
+//太一『なんだ』
+Taichi: "What now."
+TP
+
+
+WVP 0 vmCCD0001sku046
+//桜庭『……青春はもう終わりか？』
+Sakuraba: "...did your adolescence end already?"
+TP
+
+
+//太一『……』
+Taichi: "..."
+TP
+
+
+//太一『働け』
+Taichi: "I'll get to work."
+TP
+GS 0 0
+GS 1 0
+GS 2 0
+SEF 109 0
+//HACK to black -GHS
+
+
+//……………………。
+............
+TP
+
+
+//もう手伝ったら、同じだからな……。
+I might as well help, it's all the same after all...
+TP
+
+GS 0 1
+GL 1 TCSH0000s
+GS 1 1
+SEF 54 1
+//HACK different fade, doll right away -GHS
+
+
+
+WVP 0 vmCCD0001sku047
+//桜庭『おーす』
+Sakuraba: "Oh' there."
+TP
+
+
+//太一『よーす』
+Taichi: "Yoh there."
+//See CCA0003. Oh yes. -GHS
+TP
+
+GL 1 TCSH0003s
+GI 1 0
+
+WVP 0 vmCCD0001sku048
+//桜庭『……ショックだ』
+Sakuraba: "...what a shock."
+TP
+
+
+//太一『どうした、またスクープでもされたか』
+Taichi: "What, yet another scoop on you?"
+//See CCA0002. -GHS
+TP
+
+
+WVP 0 vmCCD0001sku049
+//桜庭『猫が死んでた』
+Sakuraba: "A cat has died."
+//See CCC3022. And around and around it spins -GHS
+TP
+
+
+//太一『あ？』
+Taichi: "Eh?"
+TP
+
+
+WVP 0 vmCCD0001sku050
+//桜庭『車に轢かれて猫が死んでた。あれはよくない。よくないよな』
+Sakuraba: "A cat got struck by a car and died. That's not good. Not good at all."
+//See also CCC3003, same kanji. -GHS
+TP
+
+
+//太一『……轢かれてって……おい……どうして泣いてるんだ？』
+Taichi: "...ran over then... hoy... why are you crying?"
+TP
+
+
+WVP 0 vmCCD0001sku051
+//桜庭『……わからん。たぶん猫のせいだ』
+Sakuraba: "...I dunno. Maybe because of the cat."
+TP
+
+
+//太一『たぶんって……』
+Taichi: "Maybe you say..."
+//...and he recalled this because, in CCC3022, Taichi was trying to find a way to express his sadness for the death of Touko, and couldn't. This makes so much sense now (provided your head hasn't exploded yet, and see CCDXC for more). -GHS
+TP
+
+GL 1 TCSH0002S
+GI 1 0
+//HACK closed eyes Sack -GHS
+
+
+WVP 0 vmCCD0001sku052
+//桜庭『止まらない』
+Sakuraba: "Can't stop."
+TP
+
+
+WVP 0 vmCCD0001sku053
+//桜庭『……止まらないんだ』
+Sakuraba: "...I can't stop."
+TP
+//GO 1 1
+//HACK not yet
+
+//意外とナイーブだったりするらしい。
+Surprisingly, he seems to be sort of naive.
+TP
+
+
+//ただし桜庭独自の基準で。
+But it's still within Sakuraba's peculiar standards.
+TP
+
+
+GS 0 0
+GS 1 0
+GS 2 0
+SEF 109 0
+//HACK to black -GHS
+//……………………。
+............
+//Technically a new line. -GHS
+TP
+
+GS 0 1
+SEF 54 1
+//HACK different fade -GHS
+
+
+
+//またしばらくして。
+After a time, again,
+TP
+GL 1 TCSH0000s
+GI 1 1
+
+
+WVP 0 vmCCD0001sku054
+//桜庭『おい、ショックだ』
+Sakuraba: "Hoy, what a shock."
+TP
+
+
+//太一『今度はなんだ』
+Taichi: "What's it this time."
+TP
+
+GL 1 TCSH0003s
+GI 1 0
+
+WVP 0 vmCCD0001sku055
+//桜庭『オレは、この学校のみんなから笑いものにされているようだ』
+Sakuraba: "I seem to have been made the laughingstock of the people of this school."
+//He was being 'scooped' upon before, see above and CCA0002 again, but NOW he realizes this. -GHS
+TP
+
+
+//太一『今、気づくな』
+Taichi: "You realize that now?"
+TP
+
+
+//滑舌よく、言い含める。
+I give him a detailed explanation with flowing eloquence.
+TP
+
+
+//太一『もっとはやくわかれ』
+Taichi: "Understand that sooner, please."
+//Supposing skinmeat (sarcasm). -GHS
+TP
+
+GL 1 TCSH0002S
+GI 1 0
+//HACK closed eyes Sack -GHS
+
+WVP 0 vmCCD0001sku056
+//桜庭『……オレは、そんな滑稽な男なのか？』
+Sakuraba: "...do I even look like that humorous a man?"
+//He thinks the derision is with him, not at him. Well, he'll laugh last anyway... -GHS
+TP
+//GO 1 1
+//HACK no need -GHS
+
+//こいつはもしかして、悪意に鈍感なのかも知れない。
+This guy might just be completely unaffected by malice, I just don't know.
+TP
+
+
+//なんともまあ。
+Well well, then.
+TP
+
+
+//なにかの拍子で潰れてしまうんじゃないか？
+Some occasion or another comes and he'll just get destroyed, won't he?
+TP
+
+
+//当時はそう思った。
+I thought so at that time.
+TP
+
+
+//けど実際は……正反対だった。
+But the truth was... the exact opposite.
+//NO ONE CAN STOP X-TIANS -GHS
+TP
+
+
+//桜庭は凹むわりにはタフネスで、どんな精神的惨敗からも必ず蘇生してみせた。
+Sakuraba may cave in and become depressed, but he had toughness so that he would experience certain resuscitation out of whatever crushing emotional defeat he suffered.
+//Of course we all know what 凹 means HURR DURR DURR 精神的 mental/emotional <- once more, god kanji <=> Christianity. It's funny that this thing rates "kanji puns" on VNDB when 95% of the kanji puns are completely invisible stuff like this. -GHS
+TP
+
+
+//ひとしきり傷つくと、癒すために無茶をした。
+He'd be hurt for a while, then he'd do something nonsensical to cure himself.
+TP
+
+
+//旅立ったり、踊ったり、演奏したり。
+He'd set off on some journey, or he'd dance, or he'd do a musical performance.
+TP
+
+
+//一週間くらいで、たいがい復活した。
+Within about a week he'd be mostly revived.
+//This may well be the reason why the time loop goes on for a week. -GHS
+TP
+
+GS 0 0
+GS 1 0
+SEF 109 0
+//HACK to black -GHS
+
+//……………………
+............
+TP
+GL 0 bgcc0007s
+GS 0 1
+SEF 54 1
+//HACK different fade -GHS
+
+WVS 1 1
+
+//そして俺たちは、なんとなくつるむようになった。
+And then we, someway or another, began our mate-ing.
+TP
+
+
+//桃園の誓いは、そのしばらく後の出来事になる―――
+And our Oath of the Peach Garden happened not long after that---
+TP
+WVS 3 1
+
+//GL 0 bgcc0000d
+//GS 0 1
+//GS 1 0
+//SEF 109 0
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+//HACK flashback exit whiteout -GHS
+
+
+
+
+
+
+
+RET

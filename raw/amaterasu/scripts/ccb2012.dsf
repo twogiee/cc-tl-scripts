@@ -1,0 +1,774 @@
+GL 0 bgcc0006
+GS 1 0
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+
+WVP 1 bgm003.ogg 0 0 0
+
+
+
+GL 1 TCKT0000
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfccb2012fyu000
+Touko: "Ah, Taichi, thank goodness."
+TP
+
+She'd returned.
+//Wasn't HE in the bathroom? I'm sure there's something I'm missing here. - pondrthis
+TP
+
+Taichi: "I was in the bathroom."
+TP
+
+WVP 0 vfccb2012fyu001
+Touko: "Yeah."
+TP
+
+Taichi: "It's a bit fast, but about that..."
+TP
+
+WVP 0 vfccb2012fyu002
+Touko: "......nn? What?"
+TP
+
+She smiled gently.
+TP
+
+I hugged her.
+TP
+
+GL 1 TCKT0004
+GI 1 0
+
+WVP 0 vfccb2012fyu003
+Touko: "Kya! Wh-what's wrong?"
+TP
+
+Taichi: "......Touko has to become stronger."
+TP
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfccb2012fyu004
+Touko: "What do you mean?"
+TP
+
+Taichi: "I can be with you for the time being, but it doesn't seem like that'll last forever."
+TP
+
+WVP 0 vfccb2012fyu005
+Touko: "Eh......that's......"
+TP
+
+WVP 0 vfccb2012fyu006
+Touko: "......again?"
+TP
+
+Her voice shook.
+TP
+
+Taichi: "Uu."
+TP
+
+My conscience ached.
+TP
+
+Taichi: "H-hey, my family has a history of short lives! My dad died of radiation sickness when he was young, my uncle died from the black plague, my grandfather died from Jemand's Disease and my great grandfather had this Naturally Acquired Immunity Incompleteness Syndrome."
+TP
+
+
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfccb2012fyu007
+Touko: "......*sob*......*sob!*......Taichi, is pushing ......me away......"
+IF $tlnote != 0 (TL note: "Jemand" is German for "Somebody," so "Jemand's Disease" is entirely meaningless.)
+TP
+
+Taichi: "That's not it! Hey, I've already got mild leukemia! Touko, I want you to be the one to pick up my bones!"
+IF $tlnote != 0 (TL note: This is a euphemism for "bury me after I die.")
+TP
+
+I was weak.
+TP
+
+WVP 0 vfccb2012fyu008
+Touko: "I want you to stay with me......stay......stay forever......"
+TP
+
+Taichi: "Yes, yes, I'll be a-staying with you!"
+//NAT, he just used a compound conjugation I've never seen before which sounded very, very wrong somehow, and I felt this pseudo-prefix in English conveys the same feeling.
+TP
+
+I kissed her all over her face.
+TP
+
+Forehead, cheeks, lips.
+TP
+
+As if pecking.
+TP
+
+No matter how many times I sucked away the tears from the corners of her eyes, the drops of water continued to fall.
+TP
+
+......salty.
+TP
+
+WVP 0 vfccb2012fyu009
+Touko: "......*sob!*......then......tighter......hold me tighter......"
+TP
+
+Taichi: "Yes, yes."
+TP
+
+WVP 0 vfccb2012fyu010
+Touko: "Forever."
+TP
+
+Taichi: "......yes, yes."
+TP
+
+I put more strength into my arms, just as she said.
+TP
+
+I felt like this was a bad pattern of behavior, but I had no choice but to obey.
+TP
+
+But she's honest.
+TP
+
+It's not like the current Touko has no charm.
+TP
+
+Yes. For now at least, this is fine......
+TP
+
+Taichi: "......tomorrow, why don't we go to the beach?"
+TP
+GL 1 TCKT0001
+GI 1 0
+WVP 0 vfccb2012fyu011
+Touko: "The beach?"
+TP
+
+She mimicked me with a faulty tongue.
+TP
+
+Taichi: "We'll invite a bunch of people, just like old times."
+TP
+
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfccb2012fyu012
+Touko: "Aaah, we went last year, didn't we?"
+TP
+
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfccb2012fyu013
+Touko: "That was fun..."
+TP
+
+Taichi: "Weren't you mad at me the whole time?"
+TP
+GL 1 TCKT0002
+GI 1 0
+
+
+WVP 0 vfccb2012fyu014
+Touko: "That was because Taichi kept doing perverted things......"
+TP
+
+WVP 0 vfccb2012fyu015
+Touko: "But..."
+TP
+
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfccb2012fyu016
+Touko: "Even though I didn't like the sexual harassment, I was glad you were at least thinking about me."
+//The "but" line from before doesn't connect the two sentences in a way that really makse sense if you think about it.-Spin
+TP
+
+Taichi: "......"
+TP
+
+Taichi: "Dammit......"
+TP
+
+*squeeze*
+TP
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfccb2012fyu017
+Touko: "Kya?"
+TP
+
+Taichi: "Touko, you are so damn cute."
+//Mhmm, mhmm. - pondrthis
+TP
+
+WVP 0 vfccb2012fyu018
+Touko: "......what's that supposed to mean......you're saying it like it's wrong."
+TP
+
+Taichi: "Love is a duel. The more enamored one loses."
+TP
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfccb2012fyu019
+Touko: "Then...you have nothing to worry about."
+TP
+
+She rubbed the bridge of her nose against my chest.
+TP
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfccb2012fyu020
+Touko: "......I don't mind losing."
+TP
+
+WVS 1 1
+
+No, you can't say that!
+TP
+WVP 2 se108 1 0
+『↓』
+TP
+WVP 2 se108 1 0
+
+『→』
+TP
+WVP 2 se108 1 0
+
+『↑』
+TP
+WVP 2 se107 1 0
+Waaaoo!!
+TP
+
+WVP 1 bgm006.ogg 0 0 0
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfccb2012fyu021
+Touko: "......huh?"
+TP
+
+WVP 0 vfccb2012fyu022
+Touko: "Huh? hu-huh?"
+TP
+
+Touko was making my hips restless.
+TP
+
+Aaah, that stimulus is just going to make it worse...
+TP
+
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfccb2012fyu023
+Touko: "W-wait! Taichi, hey!"
+TP
+
+Taichi: "......impossible."
+TP
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfccb2012fyu024
+Touko: "Some kind of......protrusion......!!"
+TP
+
+Taichi: "Like I said, it's impossible."
+TP
+
+There was no way I could hold back.
+TP
+
+Taichi: "It can't be done, Touko."
+TP
+
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfccb2012fyu025
+Touko: "Co-couldn't you sense the atmosphere just now---!!?"
+//I know it's an almost total rewrite but the old line was just plain weird. I didn't understand at first what she was talking about.-Spin
+TP
+
+Taichi: "Forgive me."
+TP
+
+WVP 0 vfccb2012fyu026
+Touko: "Idiot! Pervert! Degenerate!!"
+TP
+
+Taichi: "Say whatever you want."
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfccb2012fyu027
+Touko: "How could you be thinking of such things when others are being happy or sad!?"
+TP
+
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfccb2012fyu028
+Touko: "You're horrible!!!"
+TP
+
+Taichi: "It-it's not like I was thinking......"
+//It sounded like it was cut off anyway so this makes it seem like she really did cut him off.-Spin
+TP
+
+WVP 0 vfccb2012fyu029
+Touko: "Then why are we in this situation now!?"
+TP
+
+Taichi: "That's......a man's sad nature. In deep domains separate from thought, there are irresistible impulses produced that won't lose to either wind or rain."
+//I hope I haven't just made a double negative. Can someone check? - Sheeta
+TP
+
+
+WVP 0 vfccb2012fyu030
+Touko: "Doesn't that just mean you're indecent!?"
+TP
+
+Taichi: "Objection! Girls smell too good!"
+//Taichi, goddamn you......and this isn't even an intentional Phoenix Wright reference... ～IX
+//How can you tell? Was is spelled differently than it was in the game?-Spin
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfccb2012fyu031
+Touko: "Sm-smell......"
+TP
+
+She was shocked.
+TP
+
+Taichi: "The scent of Touko's body......is bittersweet, and......it excites me."
+TP
+
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfccb2012fyu032
+Touko: "L-let go!"
+TP
+
+She shoved against my cheeks. My upper body bent backward.
+TP
+
+Taichi: "Gebu!"
+TP
+
+WVP 0 vfccb2012fyu033
+Touko: "Let...go...of...me...right...now!!"
+TP
+
+The mouth which a moment ago was saying, 'hold me' is now saying, 'let go!'
+TP
+
+Even someone as affable as myself......
+TP
+
+
+Ag-gra-vation!
+SEF 101 0
+TP
+
+
+I put more strength into the arms I had around her hips.
+TP
+
+I pulled her closer and pushed into her.
+TP
+
+My protrusion stuck into Touko's lower abdomen.
+TP
+GL 1 TCKT0002
+GI 1 0
+WVP 0 vfccb2012fyu034
+Touko: "Stop!!"
+TP
+
+Taichi: "I-it's not like this is your first time!"
+TP
+GL 1 TCKT0003
+GI 1 0
+WVP 0 vfccb2012fyu035
+Touko: "Stop! Stop!!"
+TP
+
+Taichi: "Lady, resign yourself!"
+TP
+
+WVP 0 vfccb2012fyu036
+Touko: "Stop iiitt!"
+TP
+
+Taichi: "Isn't it good? Isn't it good?"
+TP
+GL 1 TCKT0005
+GI 1 0
+WVP 0 vfccb2012fyu037
+Touko: "I absolutely, r-e-f-u-s-e!"
+TP
+GO 1 1
+Touko and I grabbed each other and formed into a 『Y』 shape.
+TP
+
+WVS 1 1
+
+GL 0 bgcc0006a
+GS 0 1
+SEF 155 2
+
+
+We spent an hour doing that.
+TP
+
+
+Taichi: "Haa, haa......"
+TP
+
+GL 1 TCKT0003b
+GI 1 1
+
+WVP 0 vfccb2012fyu038
+Touko: "Haa, haa......"
+TP
+WVP 1 bgm010.ogg 0 0 0
+
+Each step forward was met with one step back. The struggle eventually fell into a war of attrition.
+//Just "back" is what the saying, well, says. The "and" extended that sentence longer than it should have been so I just did this instead.-Spin
+TP
+
+We're both quite exhausted at this point.
+TP
+
+But her arms kept pushing on my face, obstructing both our baisers, yet giving no sign of breaking.
+IF $tlnote != 0 (TL note: "Baiser" is a French word meaning "kiss," and more informally "to fuck/screw someone.")
+TP
+
+Taichi: "......you're treating me like a rape demon."
+TP
+GL 1 TCKT0005b
+GI 1 0
+WVP 0 vfccb2012fyu039
+Touko: "What's the difference......?"
+TP
+
+Taichi: "Let me penetrate."
+TP
+GL 1 TCKT0003b
+GI 1 0
+
+WVP 0 vfccb2012fyu040
+Touko: "That's what rape is!!"
+TP
+
+She was tired, and her words were losing their oblaat.
+TP
+
+
+WVP 0 vfccb2012fyu041
+Touko: "Girls aren't just holes for men to penetrate!"
+TP
+
+Taichi: "Don't talk like Tajima ***ko!"
+IF $tlnote != 0 (TL note: Tajima Youko was a famous Japanese entertainer, English literature expert, chanson singer and, most importantly for this joke, feminist.)
+TP
+
+Taichi: "This is love!"
+//KK I've been converted to the "hate Taichi" side now. Fuckin' vampire. - pondrthis
+TP
+GL 1 TCKT0001b
+GI 1 0
+WVP 0 vfccb2012fyu042
+Touko: "Your face shows nothing but lust!"
+TP
+
+Taichi: "Do not deny lust. It's a natural thing."
+TP
+GL 1 TCKT0003b
+GI 1 0
+WVP 0 vfccb2012fyu043
+Touko: "And you're letting yourself ride that wave!"
+TP
+
+Dammit, this is a total waste of time.
+TP
+
+Taichi: "Okay, then why don't we do this?"
+TP
+
+Taichi: "I'll give up on penetration. However, you give a concession as well."
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+
+WVP 0 vfccb2012fyu044
+Touko: "......what concession?"
+TP
+
+We came out to the negotiations table.
+TP
+
+We were reasonably tired.
+TP
+
+In the first place, with all of humanity annihilated, it's abnormal to touch each other but not penetrate.
+TP
+
+Taichi: "You just have to satisfy me in some way other than being penetrated."
+TP
+
+GL 1 TCKT0003b
+GI 1 0
+WVP 0 vfccb2012fyu045
+Touko: "I do-not-un-der-stand."
+TP
+
+She stuck her nails into my face.
+TP
+
+Taichi: "Owowow, you-!"
+TP
+
+As revenge, I rubbed her butt.
+TP
+
+WVP 0 vfccb2012fyu046
+Touko: "Kyaou!?"
+TP
+
+Taichi: "You want us to topple over like this!?"
+TP
+
+
+GL 1 TCKT0002b
+GI 1 0
+WVP 0 vfccb2012fyu047
+Touko: "Ku......that was all your-"
+TP
+
+Taichi: "That's why we're negotiating. I've done my resigning, so the rest depends on you. 'A' or sumata or mouth or hand, choose any means of service you want! Choose!"
+TP
+GL 1 TCKT0005b
+GI 1 0
+WVP 0 vfccb2012fyu048
+Touko: "......uuu."
+IF $tlnote != 0 (TL note: "Sumata," literally "bare crotch," refers to rubbing the male and female sex organs against each other without any penetration.)
+//Well, if you wanted to know whether I feel dirty or not, now I do. I now know Japanese sexual terminology that afaik does not exist in English. ～IX
+TP
+
+She teared up.
+TP
+
+WVP 0 vfccb2012fyu049
+Touko: "Uwaaan! Why are you talking about service and resigning? That's not beautiful at all, it's graphic, it's unromantic---!!"
+TP
+
+Taichi: "Eei! That's the difference between the sexes! Men will never listen but they can read maps!"
+TP
+
+
+GL 1 TCKT0002b
+GI 1 0
+WVP 0 vfccb2012fyu050
+Touko: "An-and besides, what's 'A'?"
+TP
+
+Taichi: "'A' is..."
+TP
+
+I exposited fluently and accurately on the subject of anal lovemaking.
+TP
+
+
+GL 1 TCKT0003b
+GI 1 0
+WVP 0 vfccb2012fyu051
+Touko: "......over my dead bodyyyyyyyyyyyyy!!!"
+TP
+
+Her resistance strengthened.
+TP
+
+WVP 0 vfccb2012fyu052
+Touko: "Noooo, Oji-samaaaaaaaaaaaaa!!!"
+IF $tlnote != 0 (TL note: This is the honorific you use to address your grandfather.)
+TP
+
+Taichi: "Even your Oji-sama did this sort of thing to make his grandchildren!"
+//I don't think that's how it works. lol, there's a missing generation there. I'll just leave it since it sounds good like that anyway.-Spin
+TP
+GL 1 TCKT0005b
+GI 1 0
+WVP 0 vfccb2012fyu053
+Touko: "Maybe so, but that's differeeeent!!"
+TP
+
+Taichi: "Also your Oji-sama liked anal quite a bit."
+TP
+GL 1 TCKT0003b
+GI 1 0
+WVP 0 vfccb2012fyu054
+Touko: "You liaaar!!!!!"
+TP
+
+Her nails are nails are aaaah nails are...!
+TP
+
+That was definitely a lie.
+TP
+
+Taichi: "Okay, forget about 'A'."
+TP
+
+Taichi: "But then nothing's been settled. Here, I'll decide. Do it with your mouth."
+//It was just too sudden. This doesn't add too much more to it but it also cancels out that feeling you get from it going to fast.-Spin
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+WVP 0 vfccb2012fyu055
+Touko: "......my...mouth?"
+TP
+
+Her resistance weakened.
+TP
+
+WVP 0 vfccb2012fyu056
+Touko: "......my mouth......I don't want to do anything more with it than kissing."
+TP
+
+Hmph!
+TP
+
+Taichi: "Hooo......not even greedily devouring food?"
+TP
+GL 1 TCKT0002b
+GI 1 0
+WVP 0 vfccb2012fyu057
+Touko: "I hate it when Taichi trips me up."
+TP
+
+Taichi: "Then just kiss me down there."
+TP
+
+Taichi: "Is that not a form of kissing?"
+TP
+
+GL 1 TCKT0005b
+GI 1 0
+WVP 0 vfccb2012fyu058
+Touko: "Uuu, uuu, uuu."
+TP
+
+Taichi: "Aaah! You used to like being pleasured by my mouth so why are you unwilling to use your own! What a contemptible girl! You're a disgrace to all warrior gals!"
+TP
+
+*Warrior Gal = Taichian for a kind of daughter or granddaughter with a warrior-like mind.
+TP
+
+*There is only one presently on Earth, but it is thought that there was also only one prior to annihilation.
+TP
+
+*The moral here is that you shouldn't subdivide and categorize everything.
+//Did the author just tell off Taichi? ～IX
+TP
+
+
+Touko's face momentarily turned bright red.
+TP
+GL 1 TCKT0003b
+GI 1 0
+WVP 0 vfccb2012fyu059
+Touko: "Wh...wh...wh-wh-wh-wh-wh-wh-wh-?"
+TP
+
+WVP 0 vfccb2012fyu060
+Touko: "How is that the same as this!?"
+TP
+
+Taichi: "It's the same. I wonder if you think of sex organs as parts of people's bodies......I did it because I do think of them as such......but Touko didn't do it for me much......so in other words..."
+TP
+
+GL 1 TCKT0002b
+GI 1 0
+Touko: "......"
+TP
+
+Taichi: "For all your singing of love, aren't you being pretty self-righteous now? Aren't you?"
+TP
+
+Touko: "............"
+TP
+GL 1 TCKT0005b
+GI 1 0
+Hesitation.
+TP
+GL 1 TCKT0001b
+GI 1 0
+Distress.
+TP
+GL 1 TCKT0002b
+GI 1 0
+Anguish.
+TP
+
+And then,
+TP
+
+GL 1 TCKT0005b
+GI 1 0
+WVP 0 vfccb2012fyu063
+Touko: "......I understand."
+TP
+
+She said with teary eyes.
+TP
+
+WVP 0 vfccb2012fyu064
+Touko: "I understand, I just have to do it, right?"
+//Oh my god what a son-of-a-bitch. - pondrthis
+TP
+
+Taichi: "Yaaay."
+TP
+
+All this time and effort for a single fellatio.
+TP
+
+That is so like Touko.
+TP
+
+WVS 1 1
+
+RET

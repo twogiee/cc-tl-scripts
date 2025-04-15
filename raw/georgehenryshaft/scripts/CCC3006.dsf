@@ -1,0 +1,56 @@
+
+GL 0 bgcc0002c
+GS 0 1
+GS 1 0
+GS 3 0
+GS 2 0
+GS 4 0
+SEF 152 0
+
+//太一「……ん？」
+Taichi: "...hm?"
+TP
+
+//自宅に戻ると、足下にダンボール箱が置いてある。
+On return to my home, I found a cardboard box set at my feet.
+TP
+
+//中身は……食い物だった。
+Contents were... food.
+TP
+
+//太一「友貴か」
+Taichi: "Tomoki then."
+TP
+
+//本当に一人一人に配送してるんだな。
+He is really delivering them one by one.
+TP
+
+//生真面目なヤツ。
+That guy's so serious.
+//See CCA0027 -GHS
+TP
+
+//太一「……出来杉君だな、こりゃ」
+Taichi: "...really giving it all like Dek**ugi-kun, aren't you.
+//http://doraemon.wikia.com/wiki/Hidetoshi_Dekisugi There's no asterisk, but it's still censored, as it plays the pun straight: 'dekisugi' means "to do too much", but where in Doraemon it's written with other kanji, here it's written with the straightforwards kanji for "do/be able to". -GHS
+TP
+
+//それほどまでに本気だということだ。
+This is the level of seriousness this reaches,
+TP
+
+//本気の逃避。
+the level of serious escape.
+TP
+
+//友貴らしいといえば言える。
+It's so Tomokish, I must say.
+TP
+
+//リンゴをかじった。ぬるかった。
+I bit into an apple. It was lukewarm.
+TP
+
+RET

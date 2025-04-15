@@ -1,0 +1,276 @@
+
+GL 0 bgcc0014
+GS 1 0
+GS 0 1
+SEF 152 0
+
+After climbing several hills, I reached the shopping district.
+TP
+
+WVP 1 bgm016.ogg 0 0 0
+
+
+
+There was no sign of anyone.
+TP
+
+I could see the Tasaki Shop.
+TP
+
+Taichi: "......"
+TP
+
+I peeked inside the store with a certain expectation.
+TP
+
+But I couldn't feel anyone breathing in there.
+TP
+
+Taichi: "......guess they're out." 
+//CP_S cca0004
+TP
+
+Tasaki Groceries has been left empty for a while now.
+TP
+The owner of this local shop, Mr. Tasaki Goichirou (age 47, single) is an unparalleled railway maniac. 
+//PCP <-- partial copy paste, meaning some part of this line was new.
+TP
+
+He often drifted out of the store to go take pictures at some far-off railway line. 
+//CP_F
+TP
+
+He forces me to look at his pictures every once in a while, but they're not the least bit interesting.
+TP
+
+I'm a child of today who doesn't embrace any fantasies about trains.
+TP
+
+The store remains open when its owner is gone.
+TP
+
+A profligately empty store.
+TP
+
+He failed to become employed at Japan Railways in his twenties and sunk to being a Yankee from a past age (this idiocy continued until he was thirty), but after his parents' deaths, his facial features became richer. 
+//PCP
+TP
+
+Could it be said that something other than his inheritance changed that fundamentally wild, coarse railway nerd into a decent person? 
+//CP
+TP
+
+Anyway, that man with a current excess of disposable income has one of the few remaining businesses that serves as a local store for the neighboring residents. 
+//PCP
+TP
+
+That's why it wasn't rare for there to be no people here.
+TP
+
+Come to think of it, my throat's a little dry.
+TP
+
+I went to the back of the store and took out a bottle of green tea. 
+//CP
+TP
+
+I took out the notepad and scribbled on it. 
+//PCP
+TP
+
+
+『9／7, Green Tea King, 130￥......Kurosu Taichi』 
+//CP
+TP
+
+Perfectly flat. 
+//CP - These CPs are labeled individually because they're pulled from different places.
+TP
+
+I saw that several other memos had already been put up. 
+//CP
+TP
+
+
+『9／3, Vegetable Juice Healthy Gogo, 110￥......Yamanobe Miki』 
+//CP_S
+TP
+
+『9／3, Magnum Litchi, 110￥......Sakuraba Hiroshi』 『It was pretty bitter.』 
+//PCP
+TP
+
+『9／4, Natural Bottled Pet Water, 140￥......Miyasumi Misato』
+TP
+
+『9／5, Vegetable Juice Healthy Gogo, 110￥......Yamanobe Miki』
+TP
+
+『9／5, Great King Doria, 110￥......Sakuraba Hiroshi』  『It wasn't that great.』
+TP
+
+『9／6, Vegetable Juice Healthy Gogo, 110￥......Yamanobe Miki』
+TP
+
+『9／6, Pepper Captain, 110￥......Sakura Kiri』 
+//CP_F
+TP
+
+Oh yeah, we did buy an awful lot here during the campout.
+TP
+
+Taichi: "......"
+TP
+
+When we returned from the campout, all the people in the town had disappeared.
+TP
+
+Television, radio......all forms of media had gone silent just as utilities such as electricity and water had stopped.
+TP
+
+Everyone was paralyzed.
+TP
+
+Because right before us was a conflagration of emotions far too heavy to put up on a shelf.
+TP
+
+We were tired, and in no mood to talk about it.
+TP
+
+We deferred theorizing and split up.
+TP
+
+And now today.
+TP
+
+The new term.
+TP
+
+I'd been trying to attend school normally.
+TP
+WT 500 0
+WT 500 1
+
+
+WVS 1 1
+
+WVP 2 se008 1 0
+GL 0 bgcc0006
+GS 0 1
+SEF 152 1
+
+I opened the door.
+TP
+
+An isolated presence poured out, caressing my cheeks.
+TP
+
+The window seat. 
+//CP_S
+TP
+WVP 1 bgm013.ogg 0 0 0
+GL 0 evcc0011
+GS 0 1
+SEF 155
+
+
+
+The girl was resting her chin on her hand. She gave me a single glance. 
+//CP_F
+TP
+
+Beautiful long hair.
+TP
+
+Being maintained by a level of care that could be called paranoia, it was in dangerously good order.
+TP
+
+I could tell by close inspection.
+TP
+
+Controlled by an iron fist, not a single fray or split end had been allowed.
+TP
+
+It's light to the touch, and if I threaded my fingers through it, it'd flow like grains of sand.
+TP
+
+The first time I met her, she'd been wearing an invincible armor.
+TP
+
+The invisible breastplate of an unapproachable atmosphere.
+TP
+
+There must be a lot of reasons.
+TP
+
+The fact that this is the Gunjou Institute.
+TP
+
+Her shrill, noisy classmates.
+TP
+
+Her corpse-like classmates.
+TP
+
+Void boys and girls who could only see their own world.
+TP
+
+There were very few people who could materialize a respectable conversation with those kids. So few you could count them.
+TP
+
+Emotionless guards standing everywhere.
+TP
+
+A classroom world caricatured to the point of frenzy.
+TP
+
+A crafty and villainous worldview resembling the act of releasing clockwork toys upon a mountain of corpses.
+TP
+
+For Kirihara Touko, who lived therein with an adaptation coefficient of forty six, there was a need to protect the remaining fifty four percent.
+TP
+
+Self consciousness was maintained by avoiding the company of others.
+TP
+
+For that reason, her decision at the beginning of the entrance ceremony was correct.
+TP
+
+Touko still resembles who she was back then.
+TP
+
+Ostentation, bravado and vanity.
+//Was that intentional? I don't see how anyone else could have missed it.-Spin
+TP
+
+You could say that's all there was to the person known as Kirihara Touko.
+TP
+
+Taichi: "Wow, you really came."
+TP
+
+Touko: "......"
+TP
+
+Her line of sight moved back outside the window. 
+//PCP
+TP
+
+With timing that made her intent perfectly transparent.
+TP
+
+She was fully prepared to ignore me.
+TP
+
+
+
+
+
+
+CSQ 0 1 1
+  -Go to the Roof
+  -Talk to Touko
+
+
+
+RET

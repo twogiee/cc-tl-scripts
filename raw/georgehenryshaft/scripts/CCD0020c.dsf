@@ -1,0 +1,269 @@
+
+//HACK A good third of the 'pasta lines were cut from the script. But CCD0020B and that mess of 'pasta is untouched, huh... -GHS
+
+
+//そうだな。
+Right, then.
+//CP CCC0039
+TP
+
+
+//一年教室に行こう。
+Let's go to the First Years' classroom.
+//CP CCC0039
+TP
+
+
+//ミキリコンビがいるかも知れない。
+The Mikiri duo might just be around.
+//CP CCC0039
+TP
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+//誰もいない。
+There is no one.
+TP
+
+
+//見ると、二人の机に荷物は置いてあった。
+Looking closer, their bags have been laid on their desks.
+//CP CCC0039
+TP
+
+
+//来てはいる。
+They did come by.
+//CP CCC0039
+TP
+
+
+//校内のどこかにいるのだろうか？
+They should be somewhere on school grounds, right?
+//PCP CCC0039
+TP
+
+
+//考えれば、霧と美希の家の中間地点に、学校はある。
+Thinking over it, school is the midway point between Kiri and Miki's houses.
+//CP CCC0039
+TP
+
+
+//待ち合わせに、通い慣れた学校はちょうどいいのかも知れない。
+That school they're used to go back and forth from might be just right as a meeting point, perhaps.
+//CP CCC0039
+TP
+
+
+//何をするにでもだ。
+But to do what?
+//CP CCC0039
+TP
+
+
+//窓から外を見る。
+I look outside from the window.
+//CP CCC0039
+TP
+
+
+//プールが見えた。
+I could see the pool.
+//CP CCC0039
+TP
+
+GL 0 evcc0029
+$CGevcc0029 = 1
+GS 0 1
+SEF 155 0
+
+
+WVP 1 bgm021.ogg 0 0 0
+
+
+//太一「……へえ」
+Taichi: "...ehhh."
+//CP CCC0039
+TP
+
+
+//遊んでいた。
+They were playing.
+//CP CCC0039
+TP
+
+
+//楽しげに。
+Cheerfully.
+//CP CCC0039
+TP
+
+
+//かすかな声が届く。
+Faint voices reach me:
+//CP CCC0039
+TP
+
+
+WVP 0 vfCCC0039mki000
+//美希「そりゃー！」
+Miki: "S'oryaaah!"
+//CP CCC0039
+TP
+
+
+WVP 0 vfCCC0039kri003
+//霧「あー、髪がー」
+Kiri: "Ah, my haaair!"
+//CP CCC0039
+TP
+
+
+//幸せな光景を見ていた。
+I was looking at a happy scene.
+//CP CCC0039
+TP
+
+
+//不意に、心臓が跳ねた。
+Unexpectedly, my physical heart took a leap.
+//PCP CCC0039
+TP
+
+//HACK 4 new lines -GHS
+
+//胸を押さえて、そのあたたかさを確かめる。
+I pin down my chest, so as to confirm that warmth.
+TP
+//人の心。
+A person's heart,
+TP
+//俺にもある。
+is something I also have,
+TP
+//ほんの少しだけど。
+although just a little bit of.
+TP
+
+
+WVP 0 vfCCC0039kri011
+//霧「きゃあっ！」
+Kiri: "KyAaAh!"
+//CP CCC0039
+TP
+WVP 2 se081 1 0
+//HACK moved SFX
+
+
+WVP 0 vfCCC0039mki011
+//美希「あははははっ、転んだー！」
+Miki: "Ahahahahah, you feeell!"
+//CP CCC0039
+TP
+
+
+
+
+WVP 0 vfCCC0039kri016
+//霧「水浸しにしてやるっ」
+Kiri: "I'll plunge you down!"
+//CP CCC0039
+TP
+
+
+WVP 0 vfCCC0039mki016
+//美希「だめー！　濡れたら髪がワカメになるー！」
+Miki: "Nooo! If you wet my hear it'll turn into Wakame seaweed!"
+//CP CCC0039
+TP
+
+
+WVP 0 vfCCC0039kri017
+//霧「ワカメちゃんにしてやるー！」
+Kiri: "I'll make you into Wakame-chan theeen!"
+//CP CCC0039
+TP
+
+//弾ける水の音。
+Sounds of water bursts.
+//CP CCC0039
+TP
+
+
+//とめどない笑声。
+Ceaseless laughter.
+//CP CCC0039
+TP
+
+
+//やんわりと流れる時間を思わせて、優しい。
+A gentleness that reminds of the soft flowing of hours.
+//CP CCC0039
+TP
+
+
+//優しい世界の一場面。
+A scene from a gentle world.
+//CP CCC0039
+TP
+
+
+//日記に書こうと思った。
+I thought I would write this in the diary,
+//CP CCC0039
+TP
+
+
+//この気持ちを、忘れないよう。
+so that I would never forget these emotions.
+//CP CCC0039
+TP
+
+
+
+//俺はずっと、二人の少女が戯れる様子を眺めていた。
+And I, all throughout, gazed at these two girls lost in their playfulness.
+//CP CCC0039
+TP
+
+
+//そして……彼女たちと打算的に交流しようとする行為が、途端にむなしく思えてきた。
+And then... I came to think that the act of calculating self-interested interaction with these girls would become instantaneously fruitless.
+//See CCC4024. The parallels with Miki continue. -GHS
+TP
+
+
+//太一「俺はただ……見たいだけなのに」
+Taichi: "Because I just... only want to see it."
+//TAICHY LIKES TO WATCH guessing The Dream. -GHS
+TP
+
+//記憶にとどめたいだけなのに。
+Yet all I wish is to always keep this in my memories:
+//swap around -GHS
+TP
+
+
+//当たり前のように、人のそばにあるものを。
+that people who exist right next to each other, as if their presence were natural,
+TP
+
+
+//人を心地よくさせるふれあいを。
+will have with others an exchange of touches that is pleasant for their heart.
+//Either he doesn't actually believe this, or what Youko does is much different from merely being there. -GHS
+TP
+
+
+
+
+
+
+
+
+
+
+RET

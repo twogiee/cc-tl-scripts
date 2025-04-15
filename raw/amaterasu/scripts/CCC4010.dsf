@@ -1,0 +1,571 @@
+
+GL 0 bgcc0015b
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 109 0
+
+
+
+WVP 0 vfCCC4010kri000
+Kiri: "Are you okay?"
+TP
+
+WVP 0 vfCCC4010mki000
+Miki: "......nn......I'm fine......"
+TP
+
+WVP 1 bgm015.ogg 0 0 0
+
+Kiri's handkerchief wiped away Miki's tears.
+TP
+
+They drew close to one another.
+TP
+
+I couldn't get between them.
+TP
+
+I walked ahead of them with the flashlight.
+TP
+
+Why did Miki want to come here?
+TP
+
+Why all three of us?
+TP
+
+Why did she cry?
+TP
+
+......there's no doubt that there's a lot going on with Miki.
+TP
+
+Well, it's all within her own privacy.
+TP
+
+That's right, the hokora was near here.
+TP
+
+I guess I'll take a look.
+TP
+
+Taichi: "Kiri, I'm going to take a bit of a detour......"
+TP
+
+I handed her the flashlight.
+TP
+
+Taichi: "See you later."
+TP
+
+GL 1 TCSK0000c
+GL 2 TCYM0000c
+GP 2 0 0
+GP 1 340 0
+GS 1 1
+GS 2 1
+SEF 109 0
+WVP 0 vfCCC4010kri001
+Kiri: "Eh?......Ah, wait."
+TP
+
+GL 2 TCYM0001c
+GI 2 0
+
+
+WVP 0 vfCCC4010mki001
+Miki: "Ah, that way is......it's dange......"
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+And then I,
+TP
+
+GL 0 bgcc0016b
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+Taichi: "I finally came."
+TP
+
+I showed my deep emotion using a word with no "ra".
+IF $tlnote != 0 (TL note: For the verb "to come," all the forms which use the letter "ra" in Japanese would be some form of "to not come".)
+TP
+
+Taichi: "Gyaaa."
+TP
+
+My legs bent. I turned upside down.
+TP
+
+I quickly extended the Lupin wire on my belt and wrapped it around a branch......it'd look cool if I could do that, but I just fell over normally.
+TP
+
+It's best to fall right over in these situations.
+TP
+
+Passively.
+TP
+
+Taichi: "......nn?"
+TP
+
+WVS 1 1
+
+I looked closely at the ground.
+TP
+
+Footprints.
+TP
+
+There were several belts of footprints overlapping as they neared the hokora.
+TP
+
+This is what happens when you come back and forth to the same place dozens of times.
+TP
+
+I tried investigating the shoeprints themselves.
+TP
+
+The size is at least twenty-seven.
+TP
+
+The same as mine.
+TP
+
+Probably the same maker.
+TP
+
+Taichi: "............"
+TP
+
+The same shoes as me.
+TP
+
+Not Tomoki's shoes.
+TP
+
+Not Sakuraba's.
+TP
+
+There shouldn't be a girl with size twenty-sevens.
+TP
+
+I have a general grasp on everyone's bodily data, so there's no mistaking it.
+TP
+
+Either I've lost part of my memory, or someone used my shoes to make these.
+TP
+
+But, what am I supposed to do at the hokora?
+TP
+
+At the moment I tried to absorb myself in thought---
+Taichi: "......!"
+TP
+
+WVP 1 bgm014.ogg 0 0 0
+
+
+I smelled blood.
+TP
+
+A faint ferrous odor.
+TP
+
+It pulled me closer, and I parted the undergrowth.
+TP
+
+It signaled danger.
+TP
+
+I pulled out a knife from the Taichi Bag.
+TP
+
+A large Chris Reeve knife.
+TP
+
+It's nearly a short sword.
+TP
+
+Of course, possession is a crime,
+TP
+
+But the concept of crime was gone.
+TP
+
+I was also prohibited from owning one.
+TP
+
+But,
+TP
+
+Although I won't admit it, I need this in order to protect myself.
+TP
+
+Because I know the terror of being continuously attacked by people.
+TP
+
+I cleared my ears.
+TP
+
+I sharpened my senses.
+TP
+
+I walked slowly.
+TP
+
+I could only search via the feeling that something was wrong.
+TP
+
+There it was.
+TP
+
+The incongruity won't escape my eyes.
+TP
+
+I took a prudent detour and closed in on the base of the tree.
+TP
+
+......a bow trap?
+TP
+
+It used a small crossbow.
+TP
+
+It'll trigger if I try to go in deeper.
+TP
+
+It hasn't triggered yet.
+TP
+
+I could only think of one person who might do this.
+TP
+
+I severed the wire and removed the crossbow bolt.
+TP
+
+It had been concealed quite carefully.
+TP
+
+It was set up in a great location.
+TP
+
+Right in front of the pedestal, where I could barely see it.
+TP
+
+Lowering my guard here would equal death.
+TP
+
+Traps which insidiously desired certainty.
+TP
+
+Why don't we confirm what's inside, Youko-sensei?
+TP
+
+I continued a little further, and there was another wire trap set up.
+TP
+
+It was a snare. If my leg was caught, a rock would fall from above.
+TP
+
+Destruction.
+TP
+
+The danger signal weakened.
+TP
+
+Does that mean there aren't any more?
+TP
+
+Even so, I continued on cautiously.
+TP
+
+When I passed the last patch of grass, I saw Youko-chan's body, and that someone had tried to hide her.
+//.......wow. I didn't see that coming - Sheeta
+//Nanaka, you bitch. I'm getting ready for the realization that it probably wasn't her.-Spin
+TP
+GL 0 evcc0043
+$CGevcc0043 = 1
+GS 0 1
+SEF 109 0
+
+WVS 1 0
+
+Taichi: "........................"
+TP
+
+How should I describe this emotion?
+TP
+
+It's different from astonishment.
+TP
+
+It's different from rage.
+TP
+
+It's not sadness or sorrow.
+TP
+
+An indescribable torrent.
+TP
+
+Swirling around inside me.
+TP
+
+Youko-chan...died.
+TP
+
+Blood had spread out from the core of her chest.
+//Sure it's the "center?" Since the picture shows it being the side where her rib is.-Spin
+TP
+
+Old blood.
+TP
+
+It had hardened, changed color and was now black.
+TP
+
+I touched it. It was cold.
+TP
+
+A few days after her death. She'd stiffened up.
+TP
+
+But there was no sign of decomposition.
+//Since a progressive tense word wouldn't really make grammatical sense here.-Spin
+TP
+
+That's also strange, but......well, I'll leave that aside.
+TP
+
+Taichi: "......Youko-chan...did you die?"
+TP
+
+WVP 1 bgm020.ogg 0 0 0
+
+I started talking to the beautiful corpse.
+TP
+
+Even though she should have been the farthest from death.
+TP
+
+I straightened her hair.
+TP
+
+Taichi: "You were careless, weren't you?"
+TP
+
+However, there was no answer.
+TP
+
+When I talked to her, she rejoiced like a small animal.
+TP
+
+Even though I'd been hardhearted to her.
+TP
+
+Like a small rabbit.
+TP
+
+......she really could have been a lion or a wolf.
+TP
+
+Taichi: "I'm surprised."
+TP
+
+My vision became blurred.
+TP
+
+Taichi: "......nn?"
+TP
+
+When I tried touching the corner of my eye,
+TP
+
+Tears,
+TP
+
+In large quantities.
+TP
+
+It's not sadness.
+TP
+
+My facial muscles had just tightened up, squeezing out tears.
+TP
+
+Without stopping.
+TP
+
+Taichi: "Uwa, amazing......they're pouring out."
+TP
+
+It's mysterious.
+TP
+
+My physical body might be grieving.
+TP
+
+My heart......
+TP
+
+Aaah.
+TP
+
+Half of me had died.
+TP
+
+GL 0 bgcc0016b
+GS 0 1
+SEF 152 0
+WVP 2 se093a 1 0
+
+GL 1 TCSK0001c
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfCCC4010kri002
+Kiri: "......Sempai......you......"
+TP
+
+Kiri!!
+TP
+
+GL 2 TCYM0001c
+GP 2 0 0
+GP 1 340 0
+GS 2 1
+GS 1 1
+SEF 109 0
+Miki: "......"
+TP
+
+Miki too.
+TP
+
+I quickly......no, there was no point to hiding the knife now.
+TP
+
+They'd already seen it.
+TP
+
+And......probably misunderstood.
+TP
+
+GL 1 TCSK0003c
+GI 1 0
+WVP 0 vfCCC4010kri003
+Kiri: "You were......a murderer......after all......"
+TP
+
+After all.
+TP
+GL 1 TCSK0001c
+GI 1 0
+
+WVP 0 vfCCC4010kri004
+Kiri: "Did you kill her?"
+TP
+
+Taichi: "......I didn't."
+TP
+
+WVP 0 vfCCC4010kri005
+Kiri: "But, aren't you holding a knife......?"
+TP
+
+Taichi: "I was just holding it because I was entering the undergrowth."
+TP
+
+Taichi: "Come on, look at her wound. It's from an arrow."
+TP
+
+
+GL 1 TCSK0001c
+GI 1 0
+WVP 0 vfCCC4010kri006
+Kiri: "......I'm not coming......over there."
+TP
+
+They're surrounding me at a distance.
+TP
+
+Kiri had been gazing at me.
+TP
+
+It seems she doesn't want to let her guard down.
+TP
+
+WVP 0 vfCCC4010kri007
+Kiri: "......even though, not long ago......you were laughing and talking with us......you can do such things so coldly......"
+TP
+
+She spat out.
+TP
+
+GL 1 TCSK0021c
+GI 1 0
+WVP 0 vfCCC4010kri008
+Kiri: "Why is that!?"
+TP
+GL 2 TCYM0002c
+GI 2 0
+
+WVP 0 vfCCC4010mki003
+Miki: "............Sempai."
+TP
+
+Miki's also receiving a shock.
+TP
+
+The face of one who's taking something regretful to heart.
+TP
+GL 1 TCSK0011c
+GI 1 0
+
+WVP 0 vfCCC4010kri009
+Kiri: "Let's go, Miki."
+TP
+
+WVP 0 vfCCC4010mki004
+Miki: "Ah, yes......"
+TP
+GS 1 0
+GS 2 0
+SEF 109 0
+They both pulled back.
+TP
+
+Leaving me behind.
+TP
+
+Taichi: "But I didn't do it."
+TP
+
+I don't even care anymore.
+TP
+
+WVS 1 1
+
+Youko-chan died.
+TP
+
+Unexpectedly, it seems that I've received an impact.
+TP
+
+My thoughts were vague, and wouldn't regain their clarity.
+TP
+
+That was my lamentation for her.
+TP
+
+RET

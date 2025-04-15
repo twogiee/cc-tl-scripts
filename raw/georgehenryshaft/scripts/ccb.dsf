@@ -1,0 +1,257 @@
+//I've commented out the 100% dupes (all hand verified to be so) and called the scripts from week 1, to avoid having to do 3000+ lines of copypasta. Some of these "new" scripts have obvious errors and appear to be copypasta from older revisions, too. Also, messed about and made it so the FB scripts would detect post-week 1 status and change accordingly.
+//The only "problem" with this is that now the game thinks that Week 2 Misato route is still called Cross Channel and records that as the save game name, rather than Downfall. I think it just checks the letter after 'cc' in the script file name. -GHS
+
+
+
+
+CALL ccb0001
+CALL ccb0002
+CALL ccb0003
+IF $B == 1 JMP LB0004B
+IF $B == 2 JMP LB0004C
+
+:LB0004B
+//CALL ccb0004b
+CALL CCA0005B
+JMP LB0005
+
+:LB0004C
+CALL ccb0004c
+JMP LB0005
+
+:LB0005
+CALL ccb0005
+CALL ccb0006
+CALL ccb0007
+IF $B == 1 JMP LB0008A
+IF $B == 2 JMP LB0008B
+
+:LB0008A
+CALL ccb0008a
+JMP LB0009
+
+:LB0008B
+CALL ccb0008b
+JMP LB0009
+
+:LB0009
+CALL ccb0009
+IF $B == 1 JMP LB0010A
+IF $B == 2 JMP LB1001
+
+:LB0010A
+CALL ccb0010a
+IF $B == 1 JMP LB2001
+IF $B == 2 JMP LB1001
+
+:LB2001
+CALL ccb2001
+//For reasons unknown, THIS is the beginning of Purification, despite it being possible to leave the route later. -GHS
+JMP LB0011
+
+//:LB0010B
+//CALL ccb0010b
+//JMP LB1001
+//Never called by anything, not restored in the console versions either. -GHS
+
+:LB1001
+//CALL ccb1001
+CALL CCA0010
+IF $B == 1 JMP LB1002A
+IF $B == 2 JMP LB1002B
+
+:LB1002A
+//CALL ccb1002a
+CALL cca0011a
+JMP LB0011
+
+:LB1002B
+//CALL ccb1002b
+CALL cca0011b
+JMP LB0011
+
+:LB0011
+//CALL ccb0011
+CALL CCA0011C
+//WOOO the feats of programming! -GHS
+CALL ccb0012
+CALL ccb0013
+//CALL ccb0014
+CALL CCA0013B
+//Love how the true final selection of whose route to be in is in this 100% copypasta script. -GHS
+IF $B == 1 JMP LB0015AB
+//Hum, A and B together. -GHS
+IF $B == 2 JMP LB0015C
+
+:LB0015AB
+CALL ccb0015b
+JMP RB_TOUKO
+
+:LB0015C
+//CALL ccb0015c
+CALL cca0014b
+JMP RB_MISATO
+
+
+
+
+:RB_MISATO
+CALL ccb1003
+//Replay exclusive scene. -GHS
+
+
+//CALL ccb1004
+CALL cca0015B
+//CALL ccb0016
+//CALL ccb1005
+CALL cca0015C
+//why even split it that much... -GHS
+//CALL ccb1006
+CALL cca0016
+//This one's awesome - they actually forgot to switch out one of the kanjis from when Misato was written ”ü—¢ instead of Œ©—¢. See the DXC trial edition. -GHS
+IF $B == 1 JMP LB1007A
+IF $B == 2 JMP LB1007B
+
+:LB1007A
+//CALL ccb1007a
+CALL cca0017a
+JMP LB1008
+
+:LB1007B
+//CALL ccb1007b
+CALL cca0017b
+JMP LB1008
+
+:LB1008
+//CALL ccb1008
+CALL cca0018
+//CALL ccb0017
+CALL CCA0018B
+//CALL ccb1009
+CALL cca0019
+CALL ccb0018
+//CALL ccb1010
+CALL cca0021
+//CALL ccb0019
+CALL CCA0022
+//CALL ccb1011
+CALL CCA0022B
+//Split this one for no real reason, really. -GHS
+//CALL ccb1012
+CALL cca0023
+//CALL ccb1013
+//Whoa, this was actually improved from the week 1 version! But all the changes and more were already implemented, so... -GHS
+CALL cca0024
+IF $B == 1 JMP LB1014A
+IF $B == 2 JMP LB1014D
+
+:LB1014A
+//CALL ccb1014a
+CALL cca0025a
+IF $B == 1 JMP LB1014B
+IF $B == 2 JMP LB1014D
+
+:LB1014B
+//CALL ccb1014b
+CALL cca0025b
+IF $B == 1 JMP LB1101
+IF $B == 2 JMP LB1014D
+
+:LB1101
+//CALL ccb1101
+//This is likely the first revision of the Misato sex scene, which infamously(?) gave us CCZDXC. The script has multiple page feeds missing. -GHS
+CALL CCA0025C
+$MISATO = 1
+
+JMP LB0020
+
+:LB1014D
+//CALL ccb1014d
+CALL cca0025d
+//CALL ccb1015
+CALL cca0026
+JMP LB0020
+
+:LB0020
+CALL ccb0020
+CALL ccb0021
+//Replay exclusive scene. -GHS
+
+
+//CALL ccb1016
+//This one even used daytime dolls instead of nighttime ones. I can literally beat this guys on my own... -GHS
+CALL cca0028B
+CALL ccb1102
+//Replay exclusive scene (well, a very small part of it is). -GHS
+
+
+CALL ccb0022
+CALL ccb0023
+//This particular ending is only for the Misato replay route. -GHS
+
+$END = 1
+JMP RB_END
+
+
+
+
+:RB_TOUKO
+CALL ccb2002
+JMP LB2003A
+
+:LB2003A
+CALL ccb2003a
+JMP LB2005
+
+//:LB2003B
+//CALL ccb2003b
+//JMP LB2005
+//Inaccessible, the choice to reject Touko was removed. -GHS
+
+:LB2005
+
+CALL ccb2005
+CALL ccb2006
+
+CALL CCA0018B
+
+CALL ccb2007
+CALL ccb2008
+CALL ccb2009
+
+CALL ccb0018
+
+CALL ccb2010
+CALL ccb2011
+CALL ccb2012
+CALL ccb2013
+CALL ccb2014
+
+//CALL ccb0019
+//This also had weird differences. -GHS
+CALL CCA0022
+
+CALL ccb2015
+CALL ccb2016
+
+CALL ccb0020
+
+CALL ccb2017
+//2018 is never called. -GHS
+CALL ccb2101
+CALL ccb2019
+CALL ccb2102
+CALL ccb2020
+CALL ccb0022
+CALL ccb2021
+
+$TOKO = 1
+$END = 1
+JMP RB_END
+
+
+
+
+
+:RB_END
+RET

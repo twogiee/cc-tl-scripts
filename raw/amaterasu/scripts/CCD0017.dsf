@@ -1,0 +1,75 @@
+GL 0 bgcc0010
+GS 0 1
+SEF 152 0
+
+
+
+I was tired......
+TP
+
+
+Taichi: "Somehow......there have been no developments at all."
+TP
+GL 1 TCHY0001
+GP 1 180 0
+GI 1 1
+
+
+WVP 0 vfCCD0001you043
+Youko: "There wouldn't be."
+TP
+
+
+Preternatural Hasekura Youko.
+TP
+
+
+Taichi: "......did you see?"
+TP
+
+
+WVP 0 vfCCD0001you044
+Youko: "Not everything, but..."
+TP
+
+
+Taichi: "You have bad habits."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you045
+Youko: "......you're sweating."
+TP
+
+
+She wiped it off with a handkerchief.
+TP
+
+
+Taichi: "Forget about the sweat."
+TP
+
+
+I excluded her.
+TP
+
+
+But she won't stop.
+TP
+
+
+Not unless I reject her strongly.
+TP
+
+
+Taichi: "Well, I guess it's fine......"
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+RET

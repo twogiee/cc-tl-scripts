@@ -1,0 +1,2422 @@
+
+
+TWS 7
+//HACK NVL mode -GHS
+GL 0 bgcc0000a
+GS 0 1
+SEF 109 0
+
+//そして、日曜日。
+> 
+ 
+ 
+> 
+               And then, Sunday.
+//CP CCA0030
+//Tho technically these are all CCB0022. -GHS
+TL
+//屋上。
+                   Rooftop.
+//CP CCA0030
+TL
+//すべての準備が整う。
+               All preparations
+                 are in order.
+//CP CCA0030
+TL
+//……はずだった。
+> 
+ 
+             ...or so we expected.
+//CP CCB0022
+TP
+
+
+//GL 0 bgcc0007c
+GL 0 zzzrooftopbrokenzoom
+GS 0 1
+SEF 109 0
+WVP 1 bgm008.ogg 0 0 0
+TWS 0
+//HACK ADV mode, music "Fear and Suspicion" -GHS
+
+
+//アンテナは、破壊されていた。
+The antenna had been wrecked.
+//CP CCB0022
+TP
+
+
+//世界には『８人』しかいないのに。
+When in the world there is nothing but 『8 people』...
+//PCP CCB0022
+TP
+
+
+//みみ先輩は破壊された尖塔の足下にいた。
+Mimi-senpai stood underfoot the demolished spire.
+//PCP CCB0022
+TP
+
+
+//うずくまっていた。
+Cowering.
+TP
+
+
+//肩に手を置こうとすると、避けられた。
+I tried to put a hand on her shoulder, she dodged.
+//Same as CCB0022 -GHS
+TP
+
+
+//友貴と桜庭が来た。
+Tomoki and Sakuraba came,
+TP
+
+
+//冬子が来た。
+Touko came.
+//Contrast CCD0022B, where she is said to have died with no further explanation. Except for the last part where she hasn't(?). -GHS
+TP
+
+
+//桜庭が友貴を殴った。
+Sakuraba punched Tomoki.
+TP
+
+
+//殴られた友貴の口元が、不自然に歪んだ。
+Tomoki's face, punched, distorted unnaturally.
+TP
+
+//扉が凶兆をはらんで開き、霧と美希がやってきた。
+The door opened, heavy with ill omens, and Kiri with Miki came in.
+WVP 2 se044 1 0
+TP
+
+GL 0 evcc0024
+$CGevcc0024 = 1
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//殺傷力を有した霧だった。
+Kiri was endowed with offensive abilities.
+//PCP CCD0022A
+TP
+
+
+//それからはもう、転げ落ちるだけだった。
+And after that, it was no more than tumbling down.
+TP
+
+
+//あかされる真相。
+The truth revealed.
+TP
+
+
+//裏切られる絆。
+The bonds betrayed.
+//Hmmm, more Family Project-related terms... -GHS
+TP
+
+
+//幻影よりはかなく脆い結束。
+A brittle unity more ephemeral than an illusion.
+TP
+
+
+GL 5 evcc0008a
+$CGevcc0008a = 1
+GS 5 1
+SEF 10 0
+//違う。
+A mistake.
+//See CCB0022. Three routes on, and nothing at all's changed. -GHS
+TP
+
+
+//違う違う違う。
+A mistake, a mistake, a mistake.
+TP
+
+
+//俺が期待していたのは断絶じゃない。
+What I had expected wasn't severance.
+TP
+GL 0 evcc0025
+$CGevcc0025 = 1
+GL 5 bgcc0000e
+WVP 2 SE094 1 0
+GI 5 0
+GS 0 1
+GS 5 0
+SEF 109 0
+
+//冬子が死ぬ。
+Touko dies.
+TP
+
+
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+GL 0 evcc0025
+$CGevcc0025 = 1
+GI 0 0
+//雑音が高まる。
+Grating noises rise.
+TP
+
+GL 0 evcc0024
+$CGevcc0024 = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+
+//霧が敵意を俺に向けた。
+Kiri's hostility turned towards me.
+TP
+
+
+//瞬間、俺は霧を殺したくなった。
+That instant, I wanted to kill Kiri.
+TP
+
+
+GL 0 evcc0026
+$CGevcc0026 = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+
+//はい、おしまい―――
+There, all done---
+//PCP CCA0009A.
+//Also CCC4009. More interesting is, unlike either(?) CCD0022 he kills no one here. -GHS
+TP
+
+WVS 1 1
+//HACK end music -GHS
+
+
+
+
+//GL 0 bgcc0000d
+//GS 0 1
+//SEF 109 0
+//WT 1000 0
+
+WVP 3 SE001 0 0
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0000d
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+
+//Annnnnd troll: -GHS
+
+
+//GL 0 bgcc0008s
+//GS 0 1
+//SEF 10 1
+//廊下を走る。
+Running down the corridor.
+TP
+
+
+//学生たちのさざめき。
+The hubbub of students,
+TP
+
+
+//無数の靴音。
+sounds of footsteps without number,
+TP
+
+
+//ドアが開く音。
+the sound of a door opening,
+TP
+
+
+//鐘の音。
+the chimes of the bell.
+//Supposing it's the Big Ben bells that imply the end of the lesson. This oddly-placed flashback may be Taichi wanting to desperately still hear the bustle of reality, but if he's only censoring it, then this may be the only part where Taichi still sees the actual real world. This is possibly also where he forgets he ever went to the hokora. Maybe a dimension switch, maybe, like at the beginning of the route he just remembers, here he just... forgets. Or maybe he just had a panic attack, ran away after Kiri did nothing but insult him. Lots of possibilities, just not the ones that appear to happen! -GHS
+TP
+
+TWS 7
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+//HACK flashback exit whiteout -GHS
+WVS 3 0
+TWS 0
+
+
+
+GL 0 bgcc0008
+GS 0 1
+SEF 10 1
+//無音。
+Silence.
+TP
+
+
+//無音に。
+In silence,
+TP
+
+
+//なにも伝達されないはず。
+nothing should be communicable.
+//Of course, plenty is. -GHS
+TP
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+WVP 1 bgm021.ogg 0 0 0
+
+GL 1 TCHY0000a
+GP 1 180 0
+GI 1 1
+WVP 0 vfCCD0001you175
+//曜子「太一は、よく生きたと思う」
+Youko: "Taichi has lived well and long I think."
+//What the hell is he doing in the classroom now? -GHS
+TP
+
+
+WVP 0 vfCCD0001you176
+//曜子「何度も何十度も何百度も何千度も、可能性を探し続けた」
+Youko: "However many dozens, however many hundreds, however many thousands of times you have kept searching for that possibility."
+TP
+
+GL 1 TCHY0001a
+GI 1 0
+
+WVP 0 vfCCD0001you177
+//曜子「けどその中で、太一の求めるハッピーエンドは一つもなかった」
+Youko: "Yet, in there, the Happy End Taichi seeks is the one thing that did not exist."
+TP
+
+
+WVP 0 vfCCD0001you178
+//曜子「すべて、バッドエンドに近いものでしかなかった」
+Youko: "All are near the Bad End, never more."
+TP
+
+
+WVP 0 vfCCD0001you179
+//曜子「バッドエンドしかない」
+Youko: "Nothing but Bad Ends."
+TP
+
+
+WVP 0 vfCCD0001you180
+//曜子「……もう、理解できるでしょう？」
+Youko: "...and now, do you understand?"
+//See CCD0021 -GHS
+TP
+
+GO 1 1
+//HACK ...was she ever there? -GHS
+
+//太一「…………」
+Taichi: "......"
+TP
+
+
+//血の臭いとともに、彼女が追いかけてくる。
+She kept pursuing me, together with that smell of blood.
+//In CCD0022, she was dead. But she's around after dying in Tower of Friends too. Well, part of my theory is that she's around after dying ever since the start anyway, so. -GHS
+TP
+
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+
+
+
+
+
+
+
+
+
+//太一「なぜ殺したんだ？」
+Taichi: "Why the killing?"
+TP
+
+
+GL 1 TCHY0001a
+GI 1 1
+WVP 0 vfCCD0001you183
+//曜子「……あなたには、私だけ」
+Youko: "...there is only me, for you."
+//Notice: no direct answer. -GHS
+TP
+
+
+GL 1 TCHY0000a
+GI 1 1
+WVP 0 vfCCD0001you184
+//曜子「それを知って欲しかった」
+Youko: "I wanted you to know that."
+//Setting aside whether she's his Reality Censor, this may be still be replaying of the Hasekura Massacre; IOW, this is her justification for doing what she did to Taichi. -GHS
+TP
+
+
+WVP 0 vfCCD0001you185
+//曜子「もう、こんなことは終わりにして」
+Youko: "It's time to put this thing to an end."
+TP
+
+GL 1 TCHY0001a
+GI 1 0
+
+WVP 0 vfCCD0001you186
+//曜子「それで、二人で暮らしていけばいい」
+Youko: "And therefore, it would be best if the two of us lived our lives together."
+TP
+
+
+//太一「それはできないよ……」
+Taichi: "I can't do that, you know..."
+TP
+
+GL 1 TCHY0000a
+GI 1 0
+
+WVP 0 vfCCD0001you187
+//曜子「そう」
+Youko: "Indeed."
+TP
+
+
+WVP 0 vfCCD0001you188
+//曜子「じゃあ、待つ、いくらでも」
+Youko: "Then I will wait, however long it takes."
+TP
+
+WVS 1 1
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0000c
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+WVP 1 bgm020.ogg 0 0 0
+//HACK Flashback intro, music "Deep Inside" -GHS
+
+
+//GL 0 bgcc0000d
+//GS 0 1
+//GS 1 0
+//SEF 109 1
+//WT 1000 0
+//WT 2000 1
+//GL 0 bgcc0000c
+//GS 0 1
+//SEF 10 1
+
+
+//お屋敷の日々は、どす黒い不浄に浸されていた。
+The days of the mansion were immersed in darkish filth.
+TP
+
+
+//窓に映る己の姿が少女めいている。
+The figure of the self reflected on the window sort of reminds of a girl.
+//See CCA0001 -GHS
+TP
+
+
+//当然だ。
+Of course it does.
+TP
+
+
+//女装してるんだから。
+It's cross-dressed in women's clothing.
+TP
+
+
+//ルームメイトがいた。
+I had a roommate,
+//Remember CCA0001 and CCC0000. The first says it's a grandiose bedroom, the second says there was no cohabitation (or talking) before he was tossed in a crappy bedroom. This bedroom isn't described, however, look close at the flow: straight from "it was a reflected figure in woman's clothing" into "I had a roommate". As with CCA0001, where he asks who the reflection is and Youko answers Taichi, there's no contradiction here as to whether this roommate is simply Youko. Don't forget CCA0030 and how Youko is never seen in person outside of a mirror until Taichi smacks his head at the start of Kiri's route. (And an internal monologue, but that obviously doesn't count.) -GHS
+TP
+
+
+//支倉曜子。
+Hasekura Youko.
+TP
+
+
+//彼女だ。
+Her.
+TP
+
+
+//そして夜ごとに僕たちは、引き立てられた。
+And every night her, and this still innocent boy I was, were patronized.
+//I didn't manage to do much with CCD0022A, and before that new script, it had been a while since the last boku. Oddly, here it's bokutachi, while the new '22A is bokura. Slightly manlier in the latter sense. As for this, it seems to be a very nice way of saying "raped"... or is it? -GHS
+TP
+
+
+//児童虐待もいいところだ。
+At best one could call it child abuse,
+TP
+
+
+//だがそうじゃない。
+but it isn't like that.
+//Because this trends towards a denial. -GHS
+TP
+
+
+//曜子ちゃんも僕も、彼らに保護されている、という名目だ。
+Youko-chan and I, too, were in their custody: that is the pretext.
+TP
+
+
+//僕らは毎夜、人々の劣情の矛先によって傷つけられた。
+We were, every night, wounded by the brunt of the savage carnal desire of the people.
+TP
+
+
+//毎日、毎日だ。
+Every day, but every day,
+TP
+
+
+//傷つける者と傷つけられる者がいた。
+there was someone who hurt, and someone who was hurt.
+TP
+
+
+//そして僕らは、傷つけられる者の末路を見た。
+And then, we saw it: the final fate of one who was hurt.
+//And there's the 'bokura' (now) again. Well well well... -GHS
+TP
+
+
+//引き裂かれた夫婦。
+A married couple torn apart.
+//See CCC3025, I suspect. This is the first element that triggers Taichi's repeat of the CCC0000 script: death. -GHS
+TP
+
+
+//耐えるしかなかった。
+//先に破滅しかないとしても、耐えるしかなかった
+Even if ahead of us there was nothing but catastrophe, we could do nothing more than endure.
+//HACK somewhat expanded. Term 破滅 was most interestingly used to describe the histories that Youko would be keeping hidden, so not much to this change that I can see. -GHS
+TP
+
+
+//生き残ることを期待するだけだった。
+We could only aspire to be left alive.
+TP
+
+
+//心も体も、全身を傷だらけにして、僕らは生きた。
+Although systematically wounded, in mind as well as body, we lived.
+TP
+
+GL 0 evcc0001
+$CGevcc0001s = 1
+//HACK Not sepia, probably because the CG of Youko standing over the dead doesn't have a sepia version. Leaving unlock as sepia version. -GHS
+GS 0 1
+SEF 10 1
+//そして契約。
+And then, the contract.
+//Oddly, CCC0000 seems to imply this was the very first time the two spoke. But the two had to have shared the room for a while then, and had been abused (if non-sexually) together. Well, perhaps it wasn't the first time they spoke? Sorta odd. -GHS
+TP
+
+
+//心に刻まれた生存同盟。
+An alliance for survival that we engraved in our hearts.
+TP
+
+
+//誓いだけで、充分、生きる力にはなった。
+Just with this vow alone we came to have strength live, plenty of it.
+TP
+
+
+//あの男さえ来なければ―――
+If only that man had not come---
+//Yutaka. Or was it his father? Step 2: bullying/humiliation. -GHS
+TP
+
+
+
+//陵辱が過激さを増して。
+The humiliating violations grew even more extreme.
+//Now this sounds like a rape nukige title in the original. -GHS
+TP
+
+
+//僕らは、計画を練った。
+We elaborated a Project.
+//There it is, now it's an again after the new CCD0022A. -GHS
+TP
+
+
+//戦力は子供二人。
+Our battle capability was two children,
+TP
+
+
+//そして地の利。
+and the home field advantage.
+TP
+
+
+//大切なのは、一網打尽にすることだ。
+The most important thing was to catch everyone at one fell swoop.
+TP
+
+
+//各個撃破するには数が多すぎる。
+The number of our enemies is far too high to crush them one by one.
+//See CCD0022A. But they did get them one by one... maybe he means "in a single event". -GHS
+TP
+
+
+//不可能を可能にする方程式が必要だった。
+An equation was needed to make this impossible into possible.
+//See CCD0021, "cold equation". More interesting, see CCA0006. A formula tames Taichi's penis... -GHS
+TP
+
+
+//時間をかけ、道具を用意し、訓練し、観察し、変更し、検討し、保留し、購入し、改良し、調査し、決定し、撤回し、キスをした。
+We took our time, and the implements we prepared, practiced, surveyed, amended, observed, deferred, purchased, improved, investigated, determined, retracted, kissed.
+//Yes, it does sound like he did all that to the implements. Leaving it ambiguous. Interesting is that they apparently buy weapons and traps off what I suppose to be the 'net AND NO ONE NOTICES. Not even the police! That's one mother of They Just Didn't Care. Also, this may be where Taichi's interest in Wacchi comes from: studying the habits of those in the mansion. -GHS
+TP
+
+
+//僕らが彼らに与えるものは破滅であり、それまでに奪われるすべての尊厳が代価だ。
+What we shall bestow them is their ruin, and the dignity they will have taken from us until then shall be the price.
+TP
+
+
+//彼女の純潔も、彼らに奪われる前に処理をした。
+Her chastity, as well, we disposed of before they could steal away.
+//Still a virgin, which is not odd: it's absurd to the point that it's either intentionally telling or a plot hole the size of the moon. See CCC0000, she knew how to suck a dick, supernaturally well. That means she's done it at least, even assuming she's Super Ninja and therefore can learn everything perfectly immediately, as long as it doesn't involve Dirac having nothing to do with MWI I guess -GHSarc
+TP
+
+
+//僕らは一心同体で、姉弟で、繋がったものだった。
+We were one thing, connected, as siblings and as alter egos.
+TP
+
+
+//互いのやりとりは、交歓でさえなく。
+Our reciprocal give and take was not an intimate relationship.
+TP
+
+
+//まさに処理だったのだ。
+It was merely disposal.
+TP
+
+
+//計画は停滞しながらも着実に組みあがっていった。
+The Project kept stagnating, but even then we kept steadily putting it together.
+//How similar to the antenna. And all it took were seven days? -GHS
+TP
+
+
+//そして決行の日。
+And then, the day of action.
+//"And then, Sunday." -GHS
+TP
+
+GL 0 evcc0063
+$CGevcc0063 = 1
+GS 0 1
+SEF 10 1
+//死者１４名。
+14 dead.
+//Yutaka was not among them so that'd be 13. Unless the total is still correct, and therefore one of the two that should've survived hasn't. This still works if Taichi killed Youko right here. -GHS
+TP
+
+
+
+//子供は、獣となった。
+Children had become beasts.
+TP
+
+
+
+//そして僕らは……解放された。
+And then we were... set free.
+//Both of these are still literally true if both Taichi and Yutaka survive. And there's that 'bokura' that's so suspicious in CCD0022A. -GHS
+TP
+
+
+//被害者として。
+As victims.
+TP
+
+
+//そう、いたいけな少年少女として。
+Yes, as an innocent boy and an innocent girl.
+//Or as an innocent boy and boy-girl. -GHS
+TP
+
+
+//哀れな犠牲者。
+Pitiable little victims.
+TP
+
+
+//犯人は……、
+And the culprit...
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+
+SEF 109 1
+
+//太一「すごく大きくて……髪の毛のない……男の人、でした」
+Taichi: "It was a man... really big guy... no hair."
+//Interesting that he'd say "no hair", given how much Taichi hates his. Despite having probably gained his silver hair not days before. And how the hell did he manage to be sane enough to hold this interview anyway? -GHS
+TP
+
+//怪物的猟奇事件は、深く暗い迷宮に幽閉されてしまった。
+A macabre bizarre incident that ended up imprisoned inside a deep, dark labyrinth.
+//The traps purchased on the 'net by the people there, the communication lines cut, the place waaay far away from everything... they just put it down to some Yakuza vendetta, probably. -GHS
+TP
+
+
+
+WVS 1 1
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+WVP 1 bgm018.ogg 0 0 0
+//HACK flashback exit whiteout, music "Silence". Hey, wait a second... -GHS
+
+GL 0 bgcc0016
+GS 0 1
+SEF 152 0
+//社周辺はいつも一定の温度に保たれている。
+The area in the vicinity of the shrine always stays at a constant temperature.
+//And contrasting the imprisoned monsterlike thing above, the hokora, which didn't contain any imprisoned monsters at all. And how does he know it's always at a constant temperature if it's the second time (technically) that he's come here? -GHS
+TP
+
+
+//俺はなぜここに来たのか。
+Why did I even come here?
+TP
+
+
+//先週の日曜日、合宿からの帰り道からこっち、一度たりとも来たことはなかったのに。
+When I have not come here not once since last week's Sunday, on the way back from the training camp.
+//The problem is that this contradicts the entire route! The question isn't whether some strange change happened: the questions are when, and more importantly, what its exact nature is. -GHS
+TP
+
+
+//戻りたい。
+I wanna return.
+TP
+
+
+//そうだ、俺は逃げたい。
+Right, I wanna run away,
+TP
+
+
+//この誰もいない世界から。
+from this world of no one,
+TP
+
+
+//殺戮してしまった世界から。
+from this world that has been slaughtered.
+TP
+
+
+//なぜなら俺たちは、
+The reason is that we,
+TP
+
+
+//草むらをかきわける。
+we waded through the grass.
+//They were maybe chasing him after he got off the path. waitasec SYMBOLISM!!! -GHS
+TP
+
+//ここを通過したのだから。
+And we passed through here.
+TP
+
+
+//通過した、というと語弊があるだろうか。
+'Passed through' might just be a misleading way of putting it.
+//No, seriously? -GHS
+TP
+
+
+//俺は目を凝らしただけだ。
+I just strained my eyes,
+TP
+
+
+//あのとき。
+at that time...
+TP
+
+
+//強引に仕組んだ合宿が失敗に終わり、全員が寒々しい気持ちで歩いていた。
+The training camp contrived with coercion had ended in failure, and with bleak emotions all members were walking.
+TP
+
+
+//通常教育機関よりはるかに長い夏休みの、最後の数日を消費して。
+That was how we expended the last days of this Summer break far longer than that of typical educational institutes.
+//Another beautiful thing to have for the Great Gunjou Institute: long long weeks in which it's closed. -GHS
+TP
+
+
+//みんな苦々しく感じていたんだろう。
+Everybody must've felt embittered.
+TP
+
+
+//俺も、そうだった。
+I, myself, did.
+TP
+
+
+//逃げるように先頭を歩いていた。
+I walked ahead as if to run away.
+TP
+
+
+//逃げたかった。
+I wanted to run away.
+TP
+
+
+//そんな俺の目が、とらえたもの。
+And those eyes I had seized something.
+//I can't stop thinking of CCC3005, of course. -GHS
+TP
+
+
+//本能的に、向こう側の空虚な様を感じた。
+I felt, instinctively, a void on that other side.
+//It's all about his sight and his eyes, i.e. very possibly all in his mind. And what was he doing at the hokora, which is well off the beaten path? -GHS
+TP
+
+
+//いっそ一人になってしまえと、当時は刹那的に考えた。
+And at that time I thought, transiently, that I'd rather become alone.
+//Except he didn't, see CCX0001. He's not so much misremembering as simply lying to himself. -GHS
+TP
+
+
+//俺は目を凝らした。
+I strained my eyes.
+//PCP notevenIcare
+TP
+
+
+//すると世界は、だまし絵のように、入れ替わった。
+And when I did the world, like a trompe l'oeil, was replaced.
+//Scream, scream, scream the obvious. See CCZAS, which is similar but subtly different. -GHS
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+//俺は、二つの世界を観測する者だと。
+I am someone capable of observing two worlds.
+//See CCD0021. But what came first: his doing it, or her explanation? -GHS
+TP
+
+
+//そして世界が、思ったよりずっと荒唐無稽だったことを知った。
+And then I knew that the world was far more preposterous than I thought.
+TP
+//GL 0 bgcc0016
+GL 0 zzzHokoraZoom
+//HACK Zoom hokora instead of reinserting the BG. This seems to have been planned... -GHS
+GS 0 1
+SEF 109 0
+
+
+//苛立ちに見舞われ、祠を蹴った。
+Irritation going through me, I kicked the hokora.
+//Now or back then? :-) -GHS
+TP
+
+
+//衝撃で扉が開く。
+The impact opens the doors.
+TP
+
+
+//ここを開くのは、悪戯好きの俺にしても生まれてはじめてだ。
+Opening this here, even for my prankster self, was the very inaugural first time.
+//I can't seem to work 'birth' in it without sounding silly, that veeery fine detail might have to go. It's far more important, however, to notice that this continues not to match what has happened in this route in the slightest. This isn't comparable to what happened Week 2, where only the penultimate script was wonky; Youko was chatting about the hokora not a script and a half ago. -GHS
+TP
+
+
+//内側をのぞきこんだ。
+I peeked inside,
+TP
+
+WVS 1 1
+//HACK out music -GHS
+
+//ぎょっとする。
+and am startled.
+TP
+
+
+//太一「なんだよ、これ……」
+Taichi: "The hell is... this..."
+TP
+
+
+//そこに詰められていたのは、
+What was packed tightly in there was,
+TP
+
+
+
+//天井までびっしりと詰められた、ノートの束だった。
+bundle after bundle of notebooks, crammed and packed tight up to the ceiling.
+//See CCD0005A for exact contrast, but now add in CCD0021. The notebooks, then, would just... appear. Pretty much simultaneously with Taichi's apparent disappearing of memories of the hokora. Other oddity: the only other time the term 'bundle' (or bunch) is used with notebooks is in CCC0003B, when Taichi's handed over a new set of them. He is later said to have torn the package open; possibly coincidence, but man, if most of these were just brand-new shrinkwrapped notebooks, what a laugh... -GHS
+TP
+
+
+
+//太一「これは……？」
+Taichi: "What's this...?"
+TP
+
+
+//隙間がないくらい、大学ノートが押し込められている。
+College notebooks, crammed inside until there seemed to be no gap between.
+//Hard to tell given there's no real way to calculate proportions, but given Taichi barely fits I'd guesstimate at least 2000 B5 notebooks. Oddly close to that 1771 figure we'll see in CCX0001, isn't it. -GHS
+TP
+
+
+//薄ら寒いものを感じて、一冊を抜き出してみる。
+Feeling something chilling, I try to pull out one of them.
+TP
+
+
+//ぞっとした。
+I shuddered, horrified.
+TP
+
+
+//俺の字じゃないか。
+Ain't this my handwriting?
+//Second time he recognized it. -GHS
+TP
+
+
+//どれも、これも！
+And that one, and this one too!
+TP
+
+
+//太一「これも……あ、これもか……」
+Taichi: "And this one... ah, and this one too...?"
+TP
+
+
+//書いた記憶なんて、ないのに。
+Yet I lack the memories of writing them.
+TP
+
+
+//筆跡を追う。
+I follow the handwriting.
+TP
+
+
+//一冊……二冊……。
+First volume... second volume...
+//They're tagged, see CCC0007 -GHS
+TP
+
+
+//読み進めるごとに、混乱が膨れていく。
+Confusion grew alongside my continued reading.
+TP
+
+
+//七冊……八冊……。
+Seventh volume... eighth volume...
+//Oh random numbers. -GHS
+TP
+
+
+//ある一点を超えた疑問は、脳内で瞬時に有機的結合を果たした。
+Having crossed a certain point, one doubt intracerebrally achieved instantaneous organic combination:
+//Seems to be a really pretentious (AKA trollish) way of saying "a question formed in my mind". -GHS
+TP
+
+
+//太一「……繰り返されて……いる？」
+Taichi: "...are we... repeating?"
+//Wait a second here. There's NO notebooks where "this is a time loop" is written explicitly? -GHS
+TP
+
+
+//そして俺は、誰かと恋仲になったり、よりを戻したり、和解したりしながら……一定の確率で、全員が結束する幸福な結末を求めた。
+And then, while I would be having a love relationship, or a return to good terms, or a reconciliation with someone... I sought, with constant probability, the blissful result that is the unity of all of us.
+TP
+
+
+//世界は一週間で終わる。
+The world ends in a week,
+TP
+
+
+//たったそれだけの時間だ。
+there is that period of time and no more.
+TP
+
+
+//繰り返され、リセットされるとわかっていて、なお―――
+And understanding that we're repeating, that we're being reset, and still---
+TP
+
+
+//友情、絆、団結。
+Friendship, bonds, solidarity...
+//See CCD0021 -GHS
+TP
+
+
+//言葉はなんでもいい。
+The word doesn't matter,
+TP
+
+
+//『それ』を求めたんだ。
+『That』 is what I sought.
+TP
+
+
+//結果は……冷酷なものだ。
+The outcome is... a ruthlessly cruel thing.
+TP
+
+
+//あるはずのないハッピーエンド。
+The happy ending should not be expected to exist.
+TP
+
+GL 1 TCCN0102
+GP 1 180 0
+GI 1 1
+
+WVP 1 bgm023.ogg 0 0 0
+
+WVP 0 vfCCD0001nnk045
+//七香「……太一」
+Nanaka: "...Taichi."
+TP
+
+
+//太一「七香……？」
+Taichi: "Nanaka...?"
+TP
+
+
+//週頭に出会った少女。
+The girl I met at the beginning of the week.
+//Who led him to the hokora... NOT! Is this the end of the first week now? Was this always how it ended? -GHS
+TP
+
+
+//だけどノートには、その存在が示されていて。
+However, the notebooks indicated her existence.
+TP
+
+WVP 0 vfCCD0001nnk046
+//七香「太一」
+Nanaka: "Taichi."
+TP
+
+
+//太一「……なんだよ、これ……」
+Taichi: "...what's this, all this..."
+TP
+
+
+//太一「どういう事態なんだよ？」
+Taichi: "What kind of situation is even this?"
+TP
+
+
+//太一「……みんな……死んだよ……」
+Taichi: "...everybody's... dead..."
+TP
+
+
+//太一「けど、じき全部がなかったことになって、また最初からやりなおしだって？」
+Taichi: "But soon, everything will become nothing, and then we're redoing this from the start, right?"
+TP
+
+
+//太一「なんだよそりゃあ！」
+Taichi: "The hell's with that!"
+TP
+
+
+//太一「数え切れないほど挑戦してきて……」
+Taichi: "An uncountable number of attempts, and..."
+TP
+
+
+//ノートの束の数だけ、いや、記録されていない可能性を含めればこの数倍はくだるまい。
+Just by the number of bundles of notebooks... no, if we include the possibilities not recorded, it may be many times this.
+TP
+
+
+//太一「コレか？」
+Taichi: "Is this it?"
+TP
+
+
+//あの騒ぎでくすんだ血液のこびりついた、てのひらを突きつける。
+The darkened blood of that uproar still clung to the palm of the hand I thrust at her.
+TP
+
+
+//太一「こんなオチしかねぇのかよ！！」
+Taichi: "Just this fucking punchline!"
+//No triple exclamation marks for tone. -GHS
+TP
+
+
+//太一「もうちょっとさぁ……気分のいい結末って……ないのか？」
+Taichi: "It's just, ya know... a result that feels a bit pleasant... isn't there one?"
+//See CCD0021. The Ghost of Selfishness Past said no. Let's see the Sorta-Holy Spirit... -GHS
+TP
+
+
+//太一「俺は何回繰り返してきたんだ？」
+Taichi: "How many times have I repeated this?"
+TP
+
+
+//太一「何回繰り返すんだ？」
+Taichi: "How many times will I have to repeat this?"
+TP
+
+
+//太一「どれだけ間違えれば気が済むんだよ！」
+Taichi: "How long do I have to keep making mistakes before you're satisfied!"
+//An impersonal 'you'. But since he's accusing her of being the cause of this, it should work either way. -GHS
+TP
+
+
+//太一「何度、こういう破滅を過ぎれば……辿り着くんだよ」
+Taichi: "How many times do I have to cross through destruction like this one... to finally reach my destination."
+TP
+
+
+//太一「……どれだけの回数……みんなを……」
+Taichi: "...how many times will I... everyone..."
+TP
+
+
+//木の幹を叩く。
+I punch the trunk of a tree.
+//Does it leave a dent? That'd be familiar, as if it was an old dream... -GHS
+TP
+
+
+//太一「みんな、俺にとっては必要だったのに！」
+Taichi: "When everybody is so necessary to me!"
+TP
+
+
+//太一「……俺は一回でも、幸せな終わり方をしたことがあったのか？」
+Taichi: "...was there even just one time when I got a happy ending?"
+//Week 1, maybe. -GHS
+TP
+
+
+//太一「答えろよ、おまえは知ってるんだろ？　すごい力ある何者か、なんだろ？」
+Taichi: "Answer me! You know don't you? You're someone with way lots of power, aren't you?"
+TP
+
+
+//太一「この世界の、そりゃもう顔役なんだろっ！？」
+Taichi: "Because you're the boss of this world, aren't you?!"
+TP
+
+
+//ねめつける。
+I scowl at her.
+TP
+
+
+GL 1 TCCN0101
+GI 1 0
+//HACK earlier doll -GHS
+
+//少女は悲しげな顔で、俺から目線をずらした。
+The girl, sadness on her face, shifted her gaze from me.
+TP
+
+WVP 0 vfCCD0001nnk047
+//七香「太一……」
+Nanaka: "Taichi..."
+TP
+
+
+//太一「答えろよぉ」
+Taichi: "ANSWER ME!"
+TP
+
+GL 1 TCCN0100
+GI 1 0
+
+WVP 0 vfCCD0001nnk048
+//七香「ねえ、別にハッピーエンドじゃなくてもいいじゃない？」
+Nanaka: "Say, isn't it OK if there isn't really much of a Happy End?"
+TP
+
+
+WVP 0 vfCCD0001nnk049
+//七香「誰かと個別につきあって、幸せになったり」
+Nanaka: "Go be together with someone separately from the rest, and be happy."
+//This is different from Youko's, although it sounds similar: she's not saying he should remove everyone but a possible split personality from the world, but to live with some and accept not being able to live with everyone. -GHS
+TP
+
+
+WVP 0 vfCCD0001nnk050
+//七香「友達と遊んだり」
+Nanaka: "Or just go play with your friends."
+//This, however, shows why this alternative remains dangerous... -GHS
+TP
+
+GL 1 TCCN0102
+GI 1 0
+
+WVP 0 vfCCD0001nnk051
+//七香「ずっと、いつまでも、ここで遊んでいいんだよ？」
+Nanaka: "Isn't it fine if you play here, always, for all time?"
+TP
+
+
+WVP 0 vfCCD0001nnk052
+//七香「やり直しのきくこの世界で、太一はストレスなく生きていいと思うんだ」
+Nanaka: "I think you could just live without stress, Taichi, in this world of constant fresh starts."
+//Sooort of vaguely Youko-ish tho. -GHS
+TP
+
+GL 1 TCCN0100
+GI 1 0
+
+WVP 0 vfCCD0001nnk053
+//七香「気楽じゃん？」
+Nanaka: "Ain't it carefree?"
+TP
+
+
+WVP 0 vfCCD0001nnk054
+//七香「それじゃあ、だめ？」
+Nanaka: "Or is that... no good?"
+TP
+
+
+WVP 0 vfCCD0001nnk055
+//七香「あたしも、いるしさ」
+Nanaka: "There's me too, I'm here."
+//So Taichi could also play with his mother... hints that not only Youko, but everyone else is fake are strong within this part. -GHS
+TP
+
+
+WVP 0 vfCCD0001nnk056
+//七香「だめぇ？」
+Nanaka: "No good?"
+TP
+
+
+//太一「……幸せの裏側で、みんなを手にかける可能性もあるんだろ？」
+Taichi: "...but the other side of that happiness is that there's possibility I will lay hands on everyone, right?"
+//Which brings the question of why he would care. All is reset. There's nothing that remains except worthless notebooks. This is what he can't accept, and why he can't possibly be as broken as he claims to be. -GHS
+TP
+
+
+//太一「俺がやらなくたって、彼女が手を下すこともある」
+Taichi: "Could be that I won't do it, but that she'd do it herself."
+//In his name, see CCC3012A. Or would "she". -GHS
+TP
+
+
+//太一「幸せな週末と、不幸な週末が、同じにあり得る」
+Taichi: "A weekend of happiness and a weekend of unhappiness are identically probable."
+TP
+
+
+//太一「表裏一体みたいに、不幸でも幸福でもある」
+Taichi: "There's unhappiness along with happiness, like two sides of the same coin."
+//Continuing the duality theme that has endured throughout the story, all the way from splitting the world in two, separated by an impassable peak. Except of course Taichi will Take A Third Option. -GHS
+TP
+
+
+//太一「幸福はいくら積まれたっていいさ。けど罪は……」
+Taichi: "Acquiring as much happiness as you like is great, sure. But sin..."
+TP
+
+
+//ノートの束を引き倒す。
+I push down a bunch of notebooks.
+TP
+
+
+//それはドミノ状に崩れ、地面を一部覆う。
+They collapse via domino effect, covering up part of the ground.
+TP
+
+
+//太一「罪は、延々と記録されていくんだぞ？」
+Taichi: "Sins will be recorded forever and more, won't they?"
+//And this is one of the biggest points of the story. There isn't much in the way of philosophies that expressly claim that sin is eternal and can never be taken back, whether you are aware of having done something sinful or not, and still manage to have a way out of things that doesn't end in handwaving. -GHS
+TP
+
+
+//太一「そんなんで……ストレスなく生きていけるか……」
+Taichi: "How can I be able to have a life without stress... with that..."
+//It's not rejecting her idea, of course, because this isn't her idea... it never was. Her proposal was a test. -GHS
+TP
+
+
+//太一「何が気楽だ」
+Taichi: "What's to be carefree about."
+TP
+
+
+//太一「……ここは……地獄だ」
+Taichi: "...this here is... hell."
+//See CCD0005A: even bigger direct contradiction. -GHS
+TP
+
+
+GL 1 TCCN0101
+GI 1 0
+//HACK closed eyes Nanaka instead of reinserting the same doll. Say, compare CCD0021 again: note how her major expressions are eyes open and eyes closed, exactly like Youko? -GHS
+WVP 0 vfCCD0001nnk057
+//七香「……太一」
+Nanaka: "...Taichi."
+TP
+
+
+//太一「何が楽しくて、仲間を傷つけるんだよ」
+Taichi: "What can be fun when I hurt my own close friends!"
+TP
+
+
+//太一「どうしていつも、我慢しないといけないところで、弾けるんだよ！」
+Taichi: "Why is it that I always blow up right when I must put up with things instead!"
+//Except that his has been relatively rare so far. Just in a few precise locations: with Yutaka, especially. -GHS
+TP
+
+
+//太一「俺のどこが、尊いものなんだよ！」
+Taichi: "What part of me is sacred at all!"
+//Cough, cough cough coooOoOugh. -GHS
+TP
+
+
+//太一「世界がリセットされるというなら、俺が今までおかした罪がどうしてここに記録されるんだよ！！」
+Taichi: "If the world really gets reset, then why are all the sin I've committed until now recorded in here!"
+TP
+
+
+//太一「豊が俺にしたことは決して虚構にならない」
+Taichi: "What Yutaka did to me will never, ever become fiction."
+//Careful now: the loop didn't exist before Yutaka, even ignoring that it never did. And he just finished talking about HIS sins. Those are not the only one that will keep existing forever. This is a very telling line. -GHS
+TP
+
+
+//太一「罪は、ずっとそこに在り続けるんだぞ？」
+Taichi: "Sins will just keep on existing in there forever, won't they?"
+//So even Yutaka's sin towards him will be in the hokora. Again, telling. -GHS
+TP
+
+
+//太一「そして人がいる限り、俺の罪は増していくんだ」
+Taichi: "And as long as people exist, the pile of my sins will grow."
+//That doesn't exclude that HIS death must also be. -GHS
+TP
+
+
+//太一「だから合宿の帰り、俺はどっかに行っちまいたかった」
+Taichi: "And that's why, when I returned from the training camp, I just wanted to go elsewhere."
+TP
+
+
+//太一「俺一人しかいない場所に、行きたかった」
+Taichi: "I wanted to go to a place where there could be me, alone, and no one else."
+TP
+
+
+//太一「……なんで、みんなまで巻き込まれたんだ？」
+Taichi: "...why did everyone else get involved?"
+//He's not going anywhere without Youko, for starters... -GHS
+TP
+
+
+GL 1 TCCN0102
+GI 1 0
+WVP 0 vfCCD0001nnk058
+//七香「それはね、太一」
+Nanaka: "That's, well, Taichi..."
+TP
+
+
+//同情の顔が。
+Compassion on her face.
+TP
+
+
+WVP 0 vfCCD0001nnk059
+//七香「それはね……太一がみんなを見たから」
+Nanaka: "That's, well... because you looked at everyone, Taichi."
+TP
+
+
+//太一「……なんだって？」
+Taichi: "...what'd you say?"
+TP
+
+
+WVP 0 vfCCD0001nnk060
+//七香「ここに取り込まれた時、太一はみんなを見たじゃん」
+Nanaka: "The moment you were brought in here, you looked at everyone, didn'cha Taichi."
+//b w spamming  he le  er   is fun:              . -GHS
+TP
+
+
+WVP 0 vfCCD0001nnk061
+//七香「……一人になるのに怯えて、背後を見たんだよ？」
+Nanaka: "...you were terrified of becoming alone, and you looked behind you didn't you?"
+//The problem being this: how did he forget this liiittle detail here? See CCC0002: he didn't. -GHS
+TP
+
+GL 1 TCCN0101
+GI 1 0
+
+WVP 0 vfCCD0001nnk062
+//七香「太一はみんなを観測して、引っ張り込んだ」
+Nanaka: "By observing everyone, Taichi, you pulled them in."
+//Everyone is in this world because Taichi is looking at them. That's as rubbed in people's faces as it can get. And that's not even the troll: the troll is that Nanaka is also here, therefore she was pulled in as well. This explains the troll in Another Story: he sees eight presences because that includes the seven of the club outside of him plus Nanaka. -GHS
+TP
+
+
+//太一「……俺が……？」
+Taichi: "...I've...?"
+//...sound??? -GHS
+TP
+
+GL 1 TCCN0102
+GI 1 0
+
+WVP 0 vfCCD0001nnk063
+//七香「自分でも言ってたでしょ」
+Nanaka: "You've even said it yourself!"
+TP
+
+
+WVP 0 vfCCD0001nnk064
+//七香「他人が必要だって」
+Nanaka: "You said others are necessary."
+TP
+
+
+//太一「傷つけるために？」
+Taichi: "Just so I could hurt them?"
+TP
+
+GL 1 TCCN0101
+GI 1 0
+
+WVP 0 vfCCD0001nnk065
+//七香「ううん」
+Nanaka: "Nuh-uh."
+TP
+
+GL 1 TCCN0100
+GI 1 0
+
+WVP 0 vfCCD0001nnk066
+//七香「自分が自分であるために―――」
+Nanaka: "For the sake of yourself being yourself---"
+TP
+
+
+//太一「俺、自分のことは嫌いだ……」
+Taichi: "I hate myself, what I am..."
+TP
+
+GL 1 TCCN0102
+GI 1 0
+
+WVP 0 vfCCD0001nnk067
+//七香「そんなこと言うな、ばか！」
+Nanaka: "Dont'cha say that, stupid!"
+TP
+
+
+//どつかれる。
+I am struck.
+TP
+
+
+//まったく衝撃は感じなかったが、心は揺れた。わずか。
+There was no felt impact at all, but the heart swayed. Just a little.
+TP
+
+
+WVP 0 vfCCD0001nnk068
+//七香「ばか、ばか……」
+Nanaka: "Stupid, stupid..."
+TP
+
+
+//胸板を幾度となく叩かれる。
+And again and again so many times she strikes at my chest.
+TP
+
+
+//太一「……ごめん」
+Taichi: "...sorry."
+TP
+
+
+//二つの拳を胸に置いたまま、七香は言う。
+With two fists still over my breast, Nanaka says,
+TP
+
+GL 1 TCCN0101
+GI 1 0
+
+WVP 0 vfCCD0001nnk069
+//七香「確かにあんたは、心の中にこわいものを飼ってる」
+Nanaka: "Ya certainly've been raising something scary inside your heart."
+//Don't lose the plot now: she's referring to his self-hatred! This is possibly why his test score is that high: he believes it with all his might that it should be so. He is becoming the facade of a monster pretending to be human. -GHS
+TP
+
+
+WVP 0 vfCCD0001nnk070
+//七香「人間は貴くないし」
+Nanaka: "Humans aren't noble."
+TP
+
+
+WVP 0 vfCCD0001nnk071
+//七香「世界は美しくないし」
+Nanaka: "And the world's not beautiful."
+TP
+
+GL 1 TCCN0102
+GI 1 0
+
+WVP 0 vfCCD0001nnk072
+//七香「でもさ、太一はひとつだけ、きれいなものを持ってるじゃない？」
+Nanaka: "But ya know, Taichi, don't you have this just one thing that's so beautiful?"
+TP
+
+
+//太一「……何も持ってないよ。ただ黒いだけだ。人を傷つけることに特化した心が、美しいはずない」
+Taichi: "...I don't got nothing that is. Just got wickedness. A heart specialized in hurting others just can't have anything beautiful."
+//craaaaaaaaawling iiiin my skiiiiiiin -GHS
+TP
+
+GL 1 TCCN0100
+GI 1 0
+
+WVP 0 vfCCD0001nnk073
+//七香「でもその太一が、こんなにも普通に焦がれてる」
+Nanaka: "But even like that, you still have this longing for normality, Taichi."
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+WVP 0 vfCCD0001nnk074
+//七香「健全なものを夢見て、それを真似て……何も考えず、誰も傷つけず、生きていきたいと思ってる」
+Nanaka: "Dreaming of healthy wholesomeness, and imitating that... you want to live without even hurting anyone, without even a thought of doing that, that's what I think."
+//This is where the contrast with Youko is most obvious. Youko doesn't believe there's any saving Taichi. Silly little girl. Touko 'gets' him better than she does. That's because there's one more layer that may escape by thinking him "just" someone working to pretend to be a monster pretending to be a human: he still hasn't become the pretension of pretending; he's still that initial someone. -GHS
+TP
+
+
+//太一「思ってるだけだ」
+Taichi: "That's only what you think."
+TP
+
+GL 1 TCCN0101
+GI 1 0
+
+WVP 0 vfCCD0001nnk075
+//七香「でも、財産だよ」
+Nanaka: "But that's an enormous wealth!"
+TP
+
+GL 1 TCCN0100
+GI 1 0
+
+WVP 0 vfCCD0001nnk076
+//七香「ちっとは、誇れ」
+Nanaka: "Be proud of that, just a little."
+TP
+
+
+//太一「……俺は……俺は」
+Taichi: "...I'm... I'm..."
+TP
+
+
+WVP 0 vfCCD0001nnk077
+//七香「ずっとこの一週間を生き続けてもいいんだよ？」
+Nanak: "Isn't it fine if you just continue living forever in this one week?"
+TP
+
+
+//言葉は優しく、胸に響いた。
+Her words are gentle, and resounded in the heart.
+TP
+
+
+//いや、まるで。
+No, it was just like,
+TP
+
+
+//胸の内から発せられる声のようだった。
+just like the voice itself was coming from inside my heart.
+TP
+
+
+//どこか懐かしい。
+Nostalgic, somehow.
+TP
+
+
+//太一「……いや」
+Taichi: "...no."
+TP
+
+
+//首を振る。
+I shake my head to the neck.
+TP
+
+
+//太一「……送り返す」
+Taichi: "...repatriation. I'll send them back."
+//In the sense of broadcast, in the sense of returning them to the world in which they belong, and the metaphorical sending to Heaven, the true home of man. Notice that Taichi is not unsure that the real world is preserved perfectly, despite CCD0021. -GHS
+TP
+
+GL 1 TCCN0102
+GI 1 0
+
+WVP 0 vfCCD0001nnk078
+//七香「返す……って……？」
+Nanak: "Back... you say...?"
+TP
+
+
+//太一「みんなを、元の世界に戻せるん……だよな」
+Taichi: "I'll return them to the world of origin, all of them... I will."
+TP
+
+
+WVP 0 vfCCD0001nnk079
+//七香「太一……それは……」
+Nanaka: "Taichi... that's..."
+TP
+
+
+//太一「できると思う。思い出した」
+Taichi: "Possible, I think. I remembered."
+TP
+
+
+//太一「なんていうのかな……あの場所……」
+Taichi: "Because I can maybe say... that place..."
+TP
+
+
+//太一「あの場所が、もっとも観測しやすい場所なんだと思う」
+Taichi: "That place will be extremely simple to observe, I think."
+TP
+
+
+//太一「光った亀裂みたいなイメージが、残ってる」
+Taichi: "There's this image that's left there, sort of like light coming from a crack."
+//SYMBOLISM. -GHS
+TP
+
+
+//太一「俺にしか見えないんだろうけど」
+Taichi: "I don't think it can be seen by any but me, though."
+//Notice he describes something he hasn't actually seen. -GHS
+TP
+
+
+//太一「あの場所でなら、送還させることができるのかもしれないな」
+Taichi: "In that place there it might just be possible to get everyone home,"
+TP
+
+
+//太一「俺が観測することで」
+Taichi: "via the act of my observation."
+TP
+
+
+WVP 0 vfCCD0001nnk080
+//七香「ちょっと待って待って！」
+Nanaka: "Hold up, just hold up!"
+TP
+
+
+WVP 0 vfCCD0001nnk081
+//七香「……一人になるんだよっ！？」
+Nanaka: "...you'll become alone won't you?!"
+TP
+
+
+//悲痛な。
+Sorrow,
+TP
+
+
+//反面、俺はひどく落ち着いていて。
+while on the other side, I remain horrendously calm.
+TP
+
+
+//太一「それで、いいんだ」
+Taichi: "That would be... good."
+TP
+
+
+//七香は絶句したようだ。
+Nanaka appeared to be at a loss for words.
+TP
+
+
+
+
+//ノートの一冊を取り上げる。
+I take up one notebook,
+TP
+//俺の知らない俺の日々が、綴られている。
+the recounting of the days of a myself that I don't know.
+//HACK two new lines. Because... -GHS
+TP
+
+
+//太一「放送局の名前、クロスチャンネルだってさ」
+Taichi: "The name of the Broadcast Station is Cross Channel after all."
+//...he couldn't possibly know it otherwise, and since it's only ever seen shown on a Sunday, there'd be no way for the reader to know. This indeed confused me. In fact, since he just said he picked up a notebook, and it's very possible he didn't actually read this in there, it still doesn't change much. -GHS
+TP
+
+
+
+//太一「俺が黒須だから」
+Taichi: "Because I am Kurosu."
+TP
+
+
+//太一「くだらないダジャレだけど」
+Taichi: "It's just a stupid translingual pun, I know."
+//Well, it's true. -GHS
+TP
+
+
+//太一「通信って、人と繋がりたいって技術だろ？」
+Taichi: "Intercommunication is the skill, the art, the technology people use when they desire connection, isn't it?"
+//See CCA0017A. Expanded because I'm tired of saying it, either you get it already or you're too dumb to. Indeed, even the dumb NEETs with their waifus want more than solitude. We read to know we are not alone. -GHS
+TP
+
+
+//太一「電話、無線、ラジオ、テレビ、メール、携帯、会話、手紙」
+Taichi: "Telephone, CB, radio, television, mail, cellphone, conversation, letters..."
+//See CCA0017A again. Going with CB as it's easier to understand here. So if these aren't "usable" anymore, then it's not necessarily because nothing's coming through them: it's because they've lost the skill to make use of them, IOW the ability to communicate with the world. -GHS
+TP
+
+
+//太一「相手と一体にはなれない。けど一時なら、交差して感じあうことはできる」
+Taichi: "They cannot become one with who's on the other side. But for that one hour, one moment, one occasion they can feel they are crossing."
+TP
+
+
+//太一「それが人間だもんな」
+Taichi: "That's what being a human is."
+TP
+
+
+//太一「チャンネルが交差するということ。それって……」
+Taichi: "The act of crossing the channels. And in that..."
+TP
+
+
+//太一「心の交わりでもあるんだよな」
+Taichi: "There's also an intersection of hearts."
+TP
+
+
+//太一「すっげーいいセンスしてる。おかげでようやく、わかった」
+Taichi: "In sooo many ways and meanings. And because of that I, finally, understood:"
+TP
+
+
+//太一「俺は、誰とも交差できないんだ―――」
+Taichi: "I am incapable of crossing with anyone---"
+//See ending, of course. He's STILL lying to himself after all this: his crossing just takes a different form. He doesn't know or care, and in many a sense, there's no need for the reader to know or care either. Like with the autistic girl lost in her sea of numbers, what's it to anyone else that he mostly ignores the world outside of talking from his antenna, provided he's happy? -GHS
+TP
+GO 1 1
+
+//七香「……」
+Nanaka: "..."
+TP
+
+
+//抱きしめられれば、日だまりに抱かれて微睡んでいるような安心感。
+When she embraces me, she gives me this sense of security as if I was taking a nap enveloped by the warmth of the sun.
+//See the very last CG of the story, as well. He's still remembering being embraced by her when he was a baby. -GHS
+TP
+
+
+//太一「七香……？」
+Taichi: "Nanaka...?"
+TP
+
+
+WVP 0 vfCCD0001nnk083
+//七香「ごめんね……それだけしか残してあげられなくて……」
+Nanaka: "Sorry... I could leave you with nothing more than that..."
+TP
+
+
+//残す？
+Leave me with?
+TP
+
+
+//彼女は何を言ったのだろう？
+What is she even saying now?
+TP
+
+
+//太一「残すって？」
+Taichi: "Leave me with what?"
+TP
+
+
+//しかし彼女は、もういない。
+However, she was here no more.
+TP
+
+
+//太一「え……七香？」
+Taichi: "Eh... Nanaka?"
+TP
+
+
+//太一「七香ーーーっ！」
+Taichi: "NANAKAAAA!"
+TP
+
+
+//気配もない。
+No sign of her presence at all.
+TP
+
+
+//完全にいなくなってしまったらしい。
+She seems to be perfectly and completely no more.
+//Just like Youko! -GHS
+TP
+
+
+//苦笑。
+A bitter smile.
+TP
+
+
+//太一「……一人でやれってことか」
+Taichi: "...this is something I gotta do alone, then."
+TP
+
+
+//ノートを祠に戻した。
+I returned the notebooks to the hokora.
+TP
+
+
+//太一「俺が入るスペースはないか……」
+Taichi: "There is no space for me to get in then..."
+//Because his surface area increased too much, see CCC0007. SYMBOLISM...? -GHS
+TP
+
+
+//そう。
+Right.
+TP
+
+
+//過去のノートがあるということ。
+The notebooks of the past exist:
+TP
+
+
+//この祠が、時間のルールからは外れていることを示す。
+they show that this hokora is disconnected from the rules of time.
+TP
+
+
+//ゲートと祠が近い場所にあるのは、偶然ではないのだろう。
+It's very likely no coincidence that the gate is located near the hokora.
+//Boy is it ever not. -GHS
+TP
+
+
+//だったら。
+Therefore,
+TP
+
+
+//祠の裏に、座り込む。
+I sit down behind the hokora.
+//Where Youko was when she was killed, likely. Interestingly, it's only ever hinted that the INSIDE of the hokora is exempt from the loop; in fact, CCC4025 hints Miki just sits inside the hokora during the loop itself (she's smaller, she'd fit with the notebooks). The chuuni is evolving. -GHS
+TP
+
+
+//と―――
+And---
+TP
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 109 0
+
+//太一「！？」
+Taichi: "?!"
+TP
+
+
+//なんでいきなり夕暮れに？
+What's with it being sunset all of a sudden?
+TP
+
+
+//太一「なん……だ、これ？」
+Taichi: "The... hell is this?"
+TP
+
+
+//見上げる空。
+I raise my eyes to the sky.
+TP
+
+
+//緋色が濃度を増していく。
+The brilliant red scarlet is increasing in concentration.
+TP
+
+
+//凶悪な深紅色が、世界を血の色と同化させる。
+A brutally deep crimson assimilates the world into the color of blood.
+TP
+
+SEF 10 0
+//HACK pixelate and back -GHS
+
+//太一「……う……」
+Taichi: "...ngh..."
+TP
+
+
+//めまいがした。
+I had vertigo.
+//This may be the reason he starts forgetting at evening: his problem with looking at blood got so bad he couldn't look at the sunset anymore. And then the day became a week to compensate... -GHS
+TP
+
+SEF 10 0
+//HACK pixelate and back -GHS
+
+
+//ひどい、めまい、だ。
+A... horrible... vertigo...
+TP
+
+
+//目を閉じる。
+I close my eyes.
+TP
+
+
+//遊園地のコーヒーカップに乗った後のように、三半規管が揺れている。
+My semicircular canals sway as if I had just gotten off the teacups ride at an amusement part.
+TP
+
+
+//太一「あぁ…………」
+Taichi: "Aaah......"
+TP
+
+
+//そして世界は、暮れた。
+And then, the sunset of the world came.
+TP
+
+WVS 1 1
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+//……………………。
+............
+TP
+
+
+//…………。
+......
+TP
+
+
+//……。
+...
+TP
+
+WT 500 0
+WT 1000 1
+
+GL 0 bgcc0016
+GS 0 1
+SEF 109 1
+
+//目覚めると、朝特有の冷たい空気が、肌を刺した。
+When I was awake, the cold air peculiar to morning prickled my skin.
+TP
+
+
+//太一「これは……」
+Taichi: "Then this..."
+TP
+
+
+//山道をのぼっていく。
+I ascended the mountain trail,
+TP
+
+
+//展望できる位置に。
+to a spot where I can look over.
+//Probably same as CCA0002, i.e. the very very start, as well as the double date, see CCC4009. -GHS
+TP
+
+GL 0 bgcc0001
+GS 0 1
+SEF 152 0
+
+//太一「人の気配がない……」
+Taichi: "No sign of people..."
+TP
+
+
+//今日が何曜日か確認しないと。
+I must confirm what day of the week it is.
+TP
+
+
+//下山した。
+I descended the mountain.
+TP
+
+
+//……………………。
+............
+TP
+
+GL 0 bgcc0014
+GS 0 1
+SEF 152 0
+
+//太一「はっ、はっ……」
+Taichi: "Haaah, haaah..."
+TP
+
+
+//田崎商店に飛び込む。
+I fly into the Tasaki Store.
+//Odd. The school is much closer to the hokora. -GHS
+TP
+
+
+//日付の確認ができたはずだ。
+I should be able to clarify the date there.
+//See CCA0001. "That even the date was vague... -GHS
+TP
+
+
+//太一「……九月……七日」
+Taichi: "...September... seven."
+TP
+
+
+//張り出されたメモは、それが最新のものだった。
+Of all the memos posted up, that one was the newest.
+TP
+
+
+//いや、まだ証明にはならない。
+No, this still isn't proof.
+TP
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+WT 500 0
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+//教室に飛びこむ。
+I rush into the classroom,
+TP
+
+
+//同時に、言葉を失った。
+and simultaneously lost all words.
+TP
+
+GL 0 evcc0011
+$CGevcc0011 = 1
+GS 0 1
+GS 1 0
+SEF 152 0
+//窓際の席。
+In a seat in the row next to the window,
+//CP CCA0004
+TP
+
+//立て肘をついて座っている少女が、ちらと一瞥をよこす。
+here sat a girl, with her elbow on the table, sends a single peeking glance my way.
+///CP CCA0004
+TP
+
+
+WVP 0 vfcca0004fyu000
+//冬子「……」
+Touko: "..."
+//HACK forgot the voice file there -GHS
+TP
+
+
+//言葉はなく、視線を外に戻した。
+Without a word, she returns her line of sight to the outside.
+//CP CCA0004
+TP
+
+
+//かける言葉がなかった。
+There were no words directed my way.
+//Supposing it's her, given he's about to talk to her... -GHS
+TP
+
+
+//太一「生きてる……」
+Taichi: "You're alive..."
+TP
+
+
+//目を覆う。
+I cover my eyes.
+TP
+
+
+//俺の記憶では、昨日死んだはずの……少女。
+This girl... in my memories, she had died yesterday.
+//Still nothing that denies that it's his memories that are wrong. It's sure as hell proven he has trouble remembering stuff consciously, just look at his failure to remember his own damn mother despite her hanging around him. -GHS
+TP
+
+
+//太一「ああっ……」
+Taichi: Aaah..."
+TP
+
+
+//膝をついて、全身を感情から来る痺れに任せた。
+Falling to my knees, passively surrendering my body whole to the numbness that came from out of my feelings.
+TP
+
+
+//冬子が奇妙なものを見る視線を向けてきた。
+Touko cast a sight at me that said she was looking at something odd.
+//The Tasaki Store thing was odd, but here Tanaka flat-out forgets continuity. He's soaked in blood from head to toe, she should be screaming bloody murder right now! Unless, of course, he isn't at all, nothing strange happened the day before, and it's all as it should be. -GHS
+TP
+
+
+//太一「また、な」
+Taichi: "See ya, 'K."
+TP
+
+
+//奇妙に引きつった笑みで手を振り、教室を出る。
+Waving my hand with an oddly stiffened smile, I leave the classroom.
+TP
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+//...and then he comes back? Or he goes into another classroom? This is so odd, but never changed in any version. -GHS
+
+
+//太一「……月曜日だ」
+Taichi: "...it's Monday."
+TP
+
+
+//戻っている。
+I have returned.
+//No he hasn't... not to the real world. But that's not where he wants to go, after all. -GHS
+TP
+
+
+//俺が俺のまま、戻っている。
+I have returned with I staying as I.
+TP
+
+
+GL 0 bgcc0015
+GS 0 1
+SEF 152 0
+//再び山にのぼり、
+I climb the mountain once again.
+TP
+
+GL 0 bgcc0016
+GS 0 1
+SEF 152 0
+
+//例の場所をのぞくと、例の接続感覚は消失していた。
+I peek at the that peculiar spot, but that peculiar sense of connection had vanished.
+TP
+
+
+//太一「ん……ない？」
+Taichi: "Hmmm... not here?"
+TP
+
+
+//そんな馬鹿な。
+That's nonsense.
+TP
+
+
+//焦って、周囲をさがす。
+Flustered, I search the surroundings.
+TP
+
+
+//太一「……そうか」
+Taichi: "...right then."
+TP
+
+
+//理解が満ちる。
+An understanding matures.
+TP
+
+
+//太一「特定の時間しか、接続できないんだ」
+Taichi: "Outside of a specific time, the connection's impossible."
+TP
+
+
+//理屈はともかく、そう考えるしかない。
+Whatever the reason, I cannot but think so.
+//...and he got to it without any thought himself. Remember this for CCX0001. Whoops. -GHS
+TP
+
+
+//どのみち、週末には判断できる。
+At any rate, I will be able to discern in the weekend.
+TP
+
+
+//わからなかったら、またさらに一週間調べればいい。
+And if I don't understand, I'll just do one more week of further investigation.
+TP
+
+
+//祠からノートを取り出した。
+I took the notebooks out of the hokora.
+TP
+
+
+//調べてやる。
+I will investigate them,
+TP
+
+
+//この世界に起こりうる出来事を。
+all the events that can occur in this world.
+TP
+
+
+//学んでやる。
+I will learn.
+TP
+
+
+//完全無欠の幸福がないなら、それでもいいさ。
+If that perfect flawless happiness is to be nowhere, then that will still be just fine.
+TP
+
+
+//みんなで仲良くなんて、俺の願望に過ぎない。
+Getting along with everybody was never more than my own personal wish.
+TP
+
+
+//個々人との接触の中でだって、最善のものを得る手だてはある。
+Among the contacts with each individual person there are methods to attain only the very best results.
+TP
+
+
+//それが、俺の食い扶持だ。
+That will become my keep.
+//See CCC3007. -GHS
+TP
+
+
+//思い出を胸に生きていく。
+A life with memories in my heart.
+TP
+
+
+//一文で説明できてしまう。
+One sentence can explain it:
+TP
+
+
+//俺は望んだ。
+I desire,
+TP
+
+
+//誰も傷つけないですむ楽園を。
+an Eden to live in where I don't hurt anyone.
+//I'm sorry, but with a period in there that's two sentences. Is Tanaka still trolling us? Not that it matters. I can't wait to have to ridicules some illiterate imbecile who attempts to claim I put random commas in the text because I ended sentences that are not supposed to be read side-by-side with them. -GHS
+TP
+
+
+//睦美さん。俺はそれを、手に入れようと思います。
+Mutsumi-san... I think I will be able to acquire that.
+//And why would he bring her up now...? Unless she's like right around there and wondering what the hell he's doing, and he's telling her he wants to "sleep at the hokora" (AKA go to Church every Sunday). -GHS
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+//そして。
+And then,
+TP
+
+
+//そして。
+and then,
+TP
+
+
+//そして―――
+and then---
+TP
+WT 500 0
+
+CALL ndemo0002
+
+
+RET

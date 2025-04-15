@@ -1,0 +1,177 @@
+
+
+
+
+
+GL 0 bgcc0016
+GS 0 1
+GS 1 0
+SEF 109 1
+
+
+
+
+TWS 0
+
+WVP 1 bgm001.ogg 0 0 0
+
+//そして、俺は目覚めた。
+And then I was awake.
+TP
+
+//念のため、茂みの奥を確認する。
+Just to be sure, I recheck the depths of the thicket.
+TP
+
+//よし。
+Good.
+TP
+
+//位相のずれ。とでも言うのか。
+Phase shift. Should I call it that?
+//http://ja.wikipedia.org/wiki/%E4%BD%8D%E7%9B%B8%E3%81%AE%E3%81%9A%E3%82%8C - odd, because there shouldn't be anything there until the weekend... -GHS
+TP
+
+//俺の目だけが観測できるそれは、向こう側への帰還の道のり。
+That's the path that returns to the opposite side, that only my eyes are capable of observing.
+TP
+
+//観測する者だけに、真実となる。
+Only for the observer it becomes real.
+//META. -GHS
+TP
+
+//そこをくぐれば、帰れる。
+It's possible to go home through there,
+TP
+
+//人の満ちた世界に。
+back to that world full of people.
+TP
+
+//けれど。そう。
+However. Yes,
+TP
+
+
+//俺は―――
+I will---
+TP
+WVS 1 1
+
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0002
+GS 0 1
+SEF 152 0
+
+//曜子ちゃんの姿はない。
+Youko-chan is nowhere to be seen,
+//PCP CCA0015. Combined with that random callback in CCD0023... -GHS
+TP
+
+//ただ弁当だけが机に置いてあった。
+just the lunch alone is set on the table.
+TP
+
+//学校に向かう。
+I head towards school.
+//CP CCC4021
+TP
+
+
+
+
+
+WVP 1 bgm016.ogg 0 0 0
+
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+//無人の世界を歩く。
+I walk in this uninhabited world.
+TP
+
+//人だけでなく、生物そのものの気配がない。
+There is no trace not just of people, but of any and all living things.
+//BTW, did anyone tell Taichi that trees are living things? Not that they matter, the Ark didn't contain vegetables. Those survived. -GHS
+TP
+//満ちている感じがしない。
+There is no sense of it being full.
+TP
+//蝉も鳴かない。
+The cicadas are not crying.
+TP
+//不自然な、空間。
+The atmosphere is unnatural.
+TP
+//交差した世界の中核で、渦巻く矛盾。
+A contradiction that swirls into the eddy at the very core of this Crossed World.
+TP
+//わずか八人の小世界。
+A tiny world of just eight people.
+TP
+//太一「……」
+Taichi: "..."
+TP
+//七香も、出てこない。
+Nanaka does not show herself either.
+TP
+//七香「……………………」
+Nanaka: "............"
+TP
+
+WVS 1 1
+
+
+
+
+
+
+
+
+
+
+
+IF $SB_MKI == 1 JMP N_CHS001
+IF $SB_KRI == 0 JMP N_CHS001
+
+IF $SB_MSA != 1 JMP Y_CHS001
+IF $SB_TKO != 1 JMP Y_CHS001
+IF $SB_SKU != 1 JMP Y_CHS001
+JMP N_CHS002
+
+
+:Y_CHS001
+
+CSQ 0 1 1
+//　・学校に行く
+//　・田崎商店に行く
+ - Go to school
+ - Go to the Tasaki Store
+
+
+
+
+RET
+
+
+:N_CHS001
+
+$B = 1
+
+RET
+
+
+:N_CHS002
+$B = 2
+
+RET

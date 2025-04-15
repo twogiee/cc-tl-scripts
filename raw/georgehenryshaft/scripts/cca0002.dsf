@@ -1,0 +1,1795 @@
+
+
+
+
+GL 0 bgcc0001b0
+GS 0 1
+SEF 10 1
+
+WVP 1 bgm002.ogg 0 0 0
+
+
+TS 3
+SEF 109 0
+
+//世界は美しい。
+The world is beautiful.
+//Much of this opening monologue is dripping with sarcasm. Taichi's just gotten off a really harsh time, and that's why he's diving into reminiscence. This part may just be a less hysterical version of the events of Another Story. For this sentence here in particular, it has to be reminded that what Taichi likes are unmoving and unchanging things to admire from a distance... despite how he's attracted to things that move. -GHS
+TP
+
+GL 0 bgcc0001b1
+GS 0 1
+AL 8
+GL 0 bgcc0001b2
+GS 0 1
+AL 0
+GL 0 bgcc0001b3
+GS 0 1
+AL 0
+GL 0 bgcc0001b4
+GS 0 1
+AL 0
+GL 0 bgcc0001b5
+GS 0 1
+AL 0
+GL 0 bgcc0001b6
+GS 0 1
+AL 0
+GL 0 bgcc0001b7
+GS 0 1
+AL 0
+GL 0 bgcc0001b
+//This is difficult to see in the low 640x480, but fiddling with the lights in the 800x600 Reprint edition data shows the town is much more detailed than it seems here. I suspect it's a photograph. Curiously, from this vantage point, the school should be visible right below. -GHS
+GS 0 1
+AL 0
+SEF 99 1
+
+
+
+//ここから街を眺め渡すたび、なにをとち狂ったかそう思う。
+Every time I pass my gaze over the town from up here, something that must be very wrong inside makes me think so.
+//Yet, that "very wrong thing" is not necessarily his ultramarine; that he finds the world beautiful despite everything is something he can hang on to. More curious that "every time". How many times has he been here now? -GHS
+TP
+
+
+
+//でも美しいものはしょうがない。
+But when something is beautiful there are no ways to deny it.
+//Shoganai will be consistently rendered as "no ways to", see CCX0001 for reason. The Shoganais are rare compared to the Shikatanais, possibly intentionally to remind of the ending. Well, both are rare, maybe they're just too bland for the author. -GHS
+TP 
+
+
+
+//青々とした夏の大気。
+It's the lush atmosphere of Summer,
+TP
+
+
+
+//一言で形容してしまうのが惜しいほど優美で。
+so gracefully elegant that to describe it in a few words is to disappoint it.
+TP
+
+
+
+//峠からの眺望は、いつもそんな所感を抱かせる。
+Those are the feelings that the view from this ridge always arouses in me.
+TP
+
+
+
+//ひそやかに息づく木々の合間からは、山々によって外界から隔絶された白い建物群が見えた。
+From the break between the quietly breathing trees one could see a flock of white buildings, isolated from the outside world by mountains.
+//flock=gun, same 'gun' as in 'gunjou', see also CCC3025 for more. -GHS
+TP
+
+
+
+//街だ。
+It's a town.
+TP
+
+
+
+//真新しく清潔、かつ閑静な地方都市……のはずれ。
+A brand new, pure, immaculate, and quiet suburban
+city... 's rear end.
+TP
+
+
+
+//つまりはしっこだ。
+In short, this is just the appendix.
+//see what I did there -GHS
+TP
+
+
+
+//市の本体はというと、激険しい山を挟んで向こう側にある。
+If one is looking for the main body of this city, it lies on the opposite side of these incredibly steep mountains.
+TP
+
+
+
+//ちなみに向こう側にはデパートもあり、時間さえかければ都心にも出られる路線がそのつま先を置き、レンタルショップはおろかゲーセン・本屋・飲み屋・出張（ヘルス）まである。
+Speaking of this other side, there's department stores, and if one takes the time, the routes that lead to the city center will lay at one's feet rental shops of course, and game centers, and book stores, and even "health services" shops.
+//They're "massage parlors". Those are not scare quotes; they are an actual part of the name. And they will play a part, however weird, in the VN. Most famous ones are PeachLand and MateBook. -GHS
+TP
+
+
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　らんじゅく
+//飽食の極みを迎えた文明の、爛熟した果実がここにある。
+There it lies, the over-ripened fruit of a civilization that welcomes the heights of appetite.
+//Appetite, see CCA0021 -GHS
+TP
+
+
+
+//通称『都会』。
+Alias a City.
+//Capitalized, will be referred to this later. -GHS
+TP
+
+
+
+//さて、こっち側。
+So then, about this side.
+TP
+
+
+
+//民家が山のようにある。
+There's residences, and mountains of them.
+TP
+
+
+
+//山も山のようにある。
+Also mountains, and mountains of them.
+//badum-tish. -GHS
+TP
+
+
+
+//あと学校がある。これは一つしかない。
+And there's also a school. Just one, and no more.
+//Important, since all other students must necessarily go to the school on the other side of the mountains (by train), ergo Nanaka can't go to another school on this side. -GHS
+TP
+
+
+
+//他に目立ったものといえば、大自然ぐらいのものか。
+As for other things that jump to the eye, there are only the things of nature perhaps.
+TP
+
+
+
+
+//>　　　　　かしず
+//都会に傅き、そのおこぼれで日々を営み、馬車馬のように働く人民を迎え、送り出し、時には生みだし（大人のジョーク①）、夜は優しくも高らかに眠らせあげるのである。
+Those people who work like horses, carrying on their days with the leftovers of the city they manserve, are here welcomed, sent off, occasionally brought into the world (adult joke #1), and put to very sound sleep at night.
+//Curiously a hospital is never ever mentioned. -GHS
+TP
+
+
+
+
+//要するにベッドタウンだ。
+In other words, it's more of a dormitory than a proper town,
+//I'll try to only tweak terms if they don't google to something relevant. This is particularly interesting for one reason: somehow Mutsumi lives in a dormitory, leaving Taichi unattended for days at an end... but the town itself is all but a dormitory. Very odd. -GHS
+TP
+
+
+
+//同じ市なのに。
+despite being the same township.
+TP
+
+
+
+//深い政治的事情がありそうだ。
+Seems there are some deep political circumstances.
+TP
+
+
+
+//なお地図上では、二つの地を分断するこの雄峰、『丘』ということにされている。
+According to the map, the majestic mountain ridges that cleave this territory in two are labeled hills.
+//The mountains are religion, specifically Christianity, and the politicians (AKA those Of The World) call religion a small trifling little thing; a hill. And then Christianity is curry and therefore the message of Cross Channel is that politicians think mountains are curry. That doesn't seem too unlikely, by the way. -GHS
+TP
+
+
+
+//どう見てもそんな可愛らしい代物ではない。
+However you look at it, that is no sweet little affair.
+TP
+
+
+
+//地図で見て文字通り丘と勘違いし、ワイフとマイサン引き連れてハイキングになど行こうものなら、家族ぐるみで遭難することうけあいである。
+Taking the word of the map literally and mistaking them for a hill, someone who's planning a wife-and-my-son hiking trip or something will then be met with a guaranteed family-wide stranding.
+//See CCC4016, CCX0001. The father taking up religion will involve the family; son against the father, daughter against the mother, brother against brother. -GHS
+TP
+
+
+
+//都会との交通手段は、電車と未舗装の山道しかない。
+Means of transportation in and out of town are a train and an unpaved mountain trail, nothing else.
+TP
+
+
+
+//一応、反対方向の峠まで行けば、道がある。
+Technically, if you go towards the opposite ridge, there is a road.
+//Far western road, beyond the bridge. That's where Kiri'll go practice, and parts of CCZAS are there. -GHS
+TP
+
+
+
+//ただし本当に遠回りになる。
+However, in truth you'll just end up detoured.
+TP
+
+
+
+//それくらい無駄に距離がある。
+There's little more than a length of pointless distance.
+//There are two ways out of this town: the train (which doesn't run for him), and the tiiiny little road that passes by the only religious building in the whole world. The alternative is something that looks like a road, but just makes you run in circles. -GHS
+TP
+
+
+
+//田舎です。
+'Tis but countryside.
+//Randomly formal. See CCZAS, where Taichi lives on the far western side, in the wilderness, because he thinks himself an animal: there is no exit down that road. -GHS
+TP
+
+
+//>　　　　　　　　　　　　　　さくらば
+//以前、クラスの桜庭という男が、
+Some time ago, this guy Sakuraba from my class said:
+TP
+
+GL 4 zzzblackblend
+GL 5 zzzsakuser
+GS 4 1
+GS 5 1
+SEF 109 0
+//HACK superimposed Sakuraba, serious face, with screen dim -GHS
+
+WVP 0 vmcca0002sku000
+//桜庭『このＮＥＷチャリで峠を制覇してみせる。これって、今の俺には必要なことだと思うから』
+Sakuraba: 『I will prove myself by conquering the peak with this new bike. Because... I think that's what I need to do for my sake, right now.』
+//This is an extremely important line, considering that he manages to head to the outside world (heaven) with the bike. Which is a tricky vehicle to use in this place, see CCA0004, but is used by Nanaka like it's nothing, see CCA0003. See CCZAS, Mad Taichi (who uses that bike like nobody's business because it's that much of a troll) will also say this line. Notice the NEW in western Kanji(sp): Sakuraba should speak American. -GHS
+TP
+
+GS 4 0
+GS 5 0
+SEF 109 0
+//HACK vanish Sakuraba -GHS
+
+
+//と歯を輝かせながら旅だったことがある。
+And so he left for his journey, all while his teeth shined.
+TP
+
+
+
+//で。
+Then,
+TP
+
+
+
+//桜庭は丸三日帰宅せず、警察の御出動と相成った。
+it came that Sakuraba did not return home for three full days, so that the police was formally dispatched.
+//See CCC3025. Same time! -GHS
+TP
+
+
+
+
+//買ったばかりのマウンテンバイクを軽く試し乗りしようとしたらしい。
+He'd sounded like he was trying to take the mountain bike he just bought for a little test ride.
+//On the useless 'scenery' of the mountain trail of the West, above. -GHS
+TP
+
+
+
+//が、調子に乗って隣町の相原市（超遠い）へあと五キロという地点にまで到達したところで故障。
+But, getting carried out in the moment, he had a breakdown after getting to a point about five kilometers from the neighboring town of Aihara City (hyper far away).
+//Keeping 超 consistent as it seems a bit of a running gag. The bike will take you far, but not everywhere on its own. A "Aihara" seems to exist, dunno the point of it. -GHS
+TP
+
+
+
+//車通りの少ない峠の道路を敗走途中、現行犯逮捕された。
+He was midway through his rout, on a mountain road with little traffic, when he was caught in flagrante delicto and taken into custody.
+//Wonder how many will try to correct that to 'route'. -GHS
+TP
+
+
+//>　　　　　　　　　　　　　　　　　　　　　　　　きりはら
+//桜庭の家はクラスメートの桐原と同じくらい金持ちで、親も過保護だ。
+Sakuraba's family is very overprotective, like the family of the about equally rich classmate Kirihara.
+TP
+
+
+
+//西の桜庭、東の桐原と呼ばれる。
+They get called Sakurabas of the West, and Kiriharas of the East.
+TP
+
+
+
+//桐原は武士の家系で、その娘も貴族娘っぽい厳格な雰囲気。
+The Kiriharas are of warrior lineage, and their daughter also has the stern air of the aristocrat's daughter.
+//Leaving literal because Taichi is the Aristocrat of Love. -GHS
+TP
+
+
+
+//家族揃って苦虫を噛みつぶしたような顔をしていて、毒舌で、全体的に愛がない。
+Her relatives to a one have these sour faces as if they were chewing bitterbugs, the abusive language to match, and on the overall they are devoid of love.
+//Tsundere runs in the family, IOW. -GHS
+TP
+
+
+
+//通称『ハラキリ』。
+Common nickname: "Harakiri".
+TP
+
+
+
+//桜庭一族は正反対におっとりとした一族で、父親は盲腸の痛みに気づかず死の一歩手前まで旅だったという武勲の持ち主だ。
+But the Sakuraba family was the complete opposite, a household of placid gentleness. His father had even accomplished the Feat of Arms of having voyaged to the brink of death by ignoring the pain of his appendicitis.
+TP
+
+
+
+//その天然冒険魂は、確かに息子に継承されていたわけで。
+That spontaneously adventurous spirit would certainly see a worthy successor in his son.
+TP
+
+
+
+//夜中になっても帰宅しない息子を案じて『誘拐されたんです！』と警察に駆け込むあたり、桜庭一族のまろやかな天然さが垣間見えて面白い。
+It was funny to see a chink in the Sakurabas' naturally mellow nature when, in the dead of night, said son still had not returned and they anxiously stampeded off to the police shouting "he has been kidnapped!".
+TP
+
+
+
+//桜庭は関係者に滅茶苦茶叱られ、自転車は没収された。
+The authorities reprimanded Sakuraba to the fullest, and his bicycle was impounded.
+//As a Gunjou student attempting escape from the open-air prison, he was lucky. -GHS
+TP
+
+
+
+//くわえて学校中の笑い者となった。
+And what's more, he became the laughingstock of the school.
+TP
+
+
+
+//校内新聞一面の座を永らく独占し続けもした。
+He kept monopolizing the top spot of the front page of the school newspaper for a long time.
+TP
+
+
+
+//特にインタビューで奴が口走った内容が受けに受けた。
+Particularly, the specifics of what he said as he let his mouth run off during the interview made the rounds all around.
+//Interview was not necessarily on the subject of his escape. -GHS
+TP
+
+
+GL 4 zzzblackblend
+GL 5 zzzsakulaugh
+GS 4 1
+GS 5 1
+SEF 109 0
+//HACK superimposed Sakuraba, laughing face, with screen dim -GHS
+
+
+WVP 0 vmcca0002sku001
+//桜庭『緊急特報！　蓮ヶ丈奥地に謎の人工建造物を見た！』
+Sakuraba: 『Urgent newsflash! In the deep lands of Hasugatake, a mysterious man-made structure was sighted!』
+//Hasugatake ("The Lotus' Magnificence") is similar to Hasugaike http://ja.wikipedia.org/wiki/%E8%93%AE%E3%83%B6%E6%B1%A0%E9%A7%85, and nothing else returns. Place is straight in the middle of Miyazaki City in the Miyazaki prefecture, ergo it would be a... Miyazaki reference *badum-tish* -GHS
+TP
+
+
+
+
+WVP 0 vmcca0002sku002
+//桜庭『完全踏破１２時間、秘境の奥地に隠された禁断のオーバーテクノロジー！！』
+Sakuraba: 『A full 12 hours of on-foot travel away, the most secluded backwood region is concealing Forbidden Supertechnology!』
+//12 hours both ways? Unclear. -GHS
+TP
+
+
+
+WVP 0 vmcca0002sku003
+//桜庭『長い道のりの果て、ここで我々はいまだかつて想像だにしなかった衝撃の事実を見ることになる！』
+Sakuraba: 『And at end of this long voyage, we can there finally see a truth so shocking that its impact could never even be imagined!』
+//This whole thing makes waaay more sense if read metaphorically: the Supertechnology/nuclear power plant is what makes the world rich; in a sense, it's a gift/manifestation of God itself. The Alien is God, and the truth so shocking is, well, Cross Channel is a Christian story, and it has nothing to do with sci-fi. -GHS
+TP
+
+
+GS 4 0
+GS 5 0
+SEF 109 0
+//HACK vanish Sakuraba -GHS
+
+
+
+//無茶苦茶だ。
+Total nonsense.
+TP
+
+
+
+//要するに奴は、帰宅の途中、道を外れて山に入ったわけだ。
+In short, this idiot, while coming back home, drifted into a mountain that's not connected with the road.
+//Map seems to fit, he just walked home on the south side and overshot the area of his mansion, ending towards the power plant. -GHS
+TP
+
+
+
+//おそらく近道目的だったんだろう。
+He probably wanted to try a shortcut.
+TP
+
+
+
+//そして偶然、とある施設を発見して大興奮した。
+And then, he accidentally discovered a certain facility, and became all excited.
+TP
+
+
+
+//インタビューはこの後も、凄まじい展開となった。
+After this, the interview became even more absurd:
+TP
+
+
+GL 4 zzzblackblend
+GL 5 zzzsakuser
+GS 4 1
+GS 5 1
+SEF 109 0
+//HACK superimposed Sakuraba, serious face -GHS
+
+
+WVP 0 vmcca0002sku004
+//桜庭『秘密基地が』
+Sakuraba: "In the hidden base..."
+TP
+
+
+
+WVP 0 vmcca0002sku005
+//桜庭『衝撃の』
+Sakuraba: "...shocking..."
+TP
+
+
+
+WVP 0 vmcca0002sku006
+//桜庭『武装した兵隊らによって』
+Sakuraba: "...because of armed soldiers..."
+TP
+
+
+
+WVP 0 vmcca0002sku007
+//桜庭『人類の常識を覆す』
+Sakuraba: "...the defiance of the conventional wisdom of humanity!"
+//In one: 秘密基地が衝撃の武装した兵隊らによって人類の常識を覆す or "Humanity's conventional wisdom will be defied by the shocking presence of armed soldiers in the hidden base!" Still unsure if these are supposed to flow into each other. -GHS
+TP
+
+GS 4 0
+GS 5 0
+SEF 109 0
+//HACK vanish Sakuraba -GHS
+
+
+//本インタビューで使用された単語ベスト５。
+These are the top five words, by frequency, in the interview:
+//Super Memory is possibly what lets him remember this absurdly irrelevant trivia... except why would he remember irrelevant trivia about one of the more annoying guys he knows? -GHS
+TP
+
+
+
+
+
+//第一位「謎」２２回
+//第二位「衝撃」１９回
+//第三位「発見」１７回
+//
+//第四位「禁断」６回
+//第五位「戦慄」４回
+                #1 "Mystery"      (x22)
+                #2 "Impact"       (x19)
+                #3 "Discovery"    (x17)
+                #4 "Forbidden"     (x6)
+                #5 "Hair-raising"  (x4)
+//HACK reformatted + joined, since we have five lines now. I don't know what relationship all the sevens would have with the words themselves, if any. -GHS
+TP
+
+
+
+
+
+//校内新聞は、桜庭という美味なる獲物を骨の髄までしゃぶり尽くした。
+The campus newspaper suckled on the bones of the delicious game named Sakuraba until there was nothing left.
+TP
+
+
+
+
+//桜庭は報道の残酷さを思い知った。
+Sakuraba understood with his flesh the cruelty of the press.
+TP
+
+
+
+
+//その後、ストレスで腹を下して一週間ほど下痢をした（記事になった）。
+Afterwards, his bowels loosened via stress and he had diarrhea for a week (this became an article).
+TP
+
+
+
+
+//八日目の朝にはけろっとした顔で登校してきた（取材された）。
+On the morning of the eighth day, he attended school with nonchalance on his face (inquiries on this were made by the paper)...
+//7 days to recover, and on the 8 he returns... different. -GHS
+TP
+
+
+
+
+//髪を金髪に染めて（特集記事・異論反論オブジェクションのネタになった）。
+...and his hair dyed the color of gold (they became material for a special report with man on the street pros-and-cons interviews).
+//Connected to the above, the article is the same in both sentences. http://ja.wikipedia.org/wiki/%E7%AD%91%E7%B4%AB%E5%93%B2%E4%B9%9F_NEWS23#.E7.95.B0.E8.AB.96.21.E5.8F.8D.E8.AB.96.21OBJECTION seems to be what is meant -GHS
+TP
+
+
+
+
+//以来、奴はずっと金髪ライフ。
+Ever since then, the guy's lived the blond life.
+TP
+
+
+
+
+//きっと、新しい自分になる、という錯覚を己に課すことでストレスを克服したんだろう。
+He overcame the stress by imposing his self with the deluded belief that he'd become anew, definitely.
+TP
+
+
+
+
+//……これが元で金銀コンビなどと称されることになったわけだが。
+...however, that's also how we came to be known as the Gold-Silver Pair.
+//Word typically used for Miki and Kiri. -GHS
+TP
+
+
+
+
+//閑話休題。
+But I digress.
+TP
+
+
+
+
+
+//もちろん桜庭が見た外宇宙から来訪した超知的生命体が極秘裏に建築した施設というのは原子力発電所なわけだが、これは市民に豊潤なる富をもたらした。
+Of course the structure built in great secrecy on the other side of the mountains by hyper intelligent beings visiting us from deep space that Sakuraba saw was in fact a nuclear power plant, which had brought about the abundant wealth of the locals.
+//豊 = Yutaka's name. Will recur in unexpected places. Of course a significant part of the subtext. Curiously, there's also another structure built in apparent secrecy by ultraintelligent being(s) possibly visiting from off the world in this mountain... one way more important than the power plant. -GHS
+TP
+
+
+
+
+//二束三文の土地が、みるみるうちに札束に変わった。
+In the strike of the blink of an eye, this three pennies for two acres of a land was transformed into rolls of banknotes.
+//There's a two and there's a three... grrr, where's the other two? Maybe that miru-miru. -GHS
+TP
+
+
+
+
+//近代化が進み、文明が開化した。
+Modernization progressed, culture got civilized.
+//This sounds just as ridiculous in the original. -GHS
+TP
+
+
+
+
+//富豪が何人も誕生し、ビルが建ち、人が増えた。
+With everybody reborn a millionaire, buildings were constructed, and people increased.
+//I don't get it, shouldn't it be "tents were erected, and people were constructed"? -GHS
+TP
+
+
+
+
+//土地は安く、税金も安い。
+The land is cheap, the taxes just as cheap.
+TP
+
+
+
+
+//電気代はタダだ。
+Electricity is free of charge.
+TP
+
+
+
+
+//だから街には無意味な照明が無数にある。
+Therefore, there are so many useless lighting fixtures throughout town.
+//These may be what illuminate the forest where Kiri practices to day-level. -GHS
+TP
+
+
+
+
+//だからといって、ベンチにライトを仕込むことはないだろうに。
+Nevertheless, they didn't 'rearn' to build the benches 'light', didn't they.
+//grrrrroooooaaaaannnnn ライト = light + right, 仕込む = build into + teach/learn. I suppose it's harder to spot in Japanese. Perhaps a warning that even the Japanese better know enough English to spot this stuff if they want to understand some of the jokes and themes. Works backwards still: better know just a pinch of Japanese, or you'll be losing some of this stuff regardless. -GHS
+TP
+
+
+
+
+//市はそのテーマを『癒し』と定めた。
+The township decided that its theme would be 'healing'.
+//See Gunjou. -GHS
+TP
+
+
+
+
+//原子力発電所などというものを抱えている僻地が、いかにも掲げそうなお題目である。
+For a remote place with a nuclear plant nearby, that's a very empty slogan to hoist up.
+TP
+
+
+
+
+//市役所に至ってはロココ様式のそれはもう耽美的な建物で、外観から内装に至るまで『汝を癒してやろう』という厳かな気概に溢れ、来庁者を萎縮させまくっている。
+The city hall building itself was an extremely aesthetic building in Rococo style, that overflows from the exterior all the way to the interior with the stately fighting spirit of "How Thou Shall Be Healed!", so as to overwhelm anyone visiting there on official business.
+//Highly sarcastic. Town hall seems to be in this side, but it's not on the map, never seen, and only one other time ever mentioned. Supposing it's in the south side, east of the Sakuraba mansion. -GHS
+TP
+
+
+
+
+//ちぐはぐな土地。
+What an incongruous land.
+TP
+
+
+
+
+
+//だから……居心地が良いのかもしれないな。
+Therefore... living here might just be very comfortable.
+TP
+
+
+
+
+//壊れてしまった世界は、妙に親近感を抱かせる。
+A world split and broken that inspires an odd affinity in me.
+TP
+WVS 1 1
+
+
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+
+
+WVP 2 SE002 1 0
+SEF 101 0
+
+
+
+//太一「いて」
+Taichi: "Ow."
+TP
+WVP 1 bgm005.ogg 0 0 0
+
+
+
+
+
+//軽薄な音がした。
+A frivolous sound emitted,
+//Odd term. I suppose since this may actually not even happen at all... -GHS
+TP
+
+
+
+//頭がかくんと傾く。
+my head sunk forwards with a thunk,
+TP
+
+
+
+//首筋の筋がひきつって、ものすごく痛い。
+and the muscles of my nape stiffened with indescribable pain.
+TP
+
+
+
+//太一「……なんだよ」
+Taichi: "...the hell."
+TP
+
+
+
+GL 1 TCKT0000b
+GP 1 230 0
+GS 1 1
+SEF 109 0
+
+
+//振り向けば、そこに少女が一人。
+If I look over my shoulder, there stands, alone, a girl.
+//Apparent ability to stand alone is what got Taichi into Touko, important. That "if"... -GHS
+TP
+
+
+
+//太一「なんだ、女帝か」
+Taichi: "My, it is the Empress!"
+TP
+
+
+WVP 0 vfcca0002fyu000
+//少女「……」
+Girl: "..."
+TP
+
+
+
+//太一「女王陛下にはご機嫌うるわしゅう」
+Taichi: "The most pleasant wishes that this meeting finds You in good health, Your Majesty."
+//Mocking high register. -GHS
+TP
+
+
+
+//片手をあげて挨拶する。
+A greeting with one raised hand.
+//HEIL TOUKHITLER!!1 -GHS
+TP
+
+
+
+WVP 0 vfcca0002fyu001
+//少女「……」
+Girl: "..."
+TP
+
+
+
+//エスプリのきいた言葉には、ウィットに富んだ返しがあってしかるべきなのだ。
+To those words so rich in esprit, a retort wealthy in wit would be suitable.
+//Accents don't work, likely Shift-JIS. -GHS
+TP
+
+
+//そんなような。
+Like...
+//swapped around
+TP
+
+
+GL 4 zzzblackblend
+GL 5 zzzCCA0002touko
+GS 4 1
+GS 5 1
+SEF 109 0
+//HACK superimposed Touko -GHS
+
+
+WVP 0 vfcca0002fyu002
+//少女『くわ～っ、誰が女帝か～っ、馬鹿言ってんじゃないですわ、すわすわっ！！』
+Girl: "Gwaaa～h, whooo are you calling an Empreee～ss! You shan't say something so stupid, shan't shan't!!!"
+//This needs to read like it walked out of some bad overwrought moege, sort of like this route really. ～ for further cliched silliness. Shan't, see CCD0008B -GHS
+TP
+
+
+GS 4 0
+GS 5 0
+SEF 109 0
+//HACK vanish Touko superimposed -GHS
+
+//だが期待したような返答はない。
+But there's no reply of the type expected.
+//From a Tsundere. -GHS
+TP
+
+
+
+//それどころか冷然とした怒気さえ感じられた。
+On the contrary, all I could feel was her cold-hearted wrath.
+TP
+
+
+
+//太一「どうしたの、桐原。ノリ悪いよ」
+Taichi: "What's the problem, Kirihara? You're not getting into the spirit here."
+TP
+
+
+
+//太一「もしかしてアレ？　生理っぽいやつ？」
+Taichi: "Could it be that thing? That biological-ish thing?"
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+
+
+WVP 0 vfcca0002fyu003
+//少女「…………」
+Girl: "......"
+TP
+
+
+
+//空気がどんどん重くなってく。
+The mood grows steadily heaver,
+TP
+
+
+
+//でも止まらない。
+but I don't stop.
+//Minor emphasis on how he doesn't necessarily wish to go on. There'll be relatively few explicit hints of this. -GHS
+TP
+
+
+
+//太一「月桂冠」
+Taichi: "Wreath of laurel."
+TP
+
+GL 1 TCKT0011b
+GI 1 0
+
+
+WVP 0 vfcca0002fyu004
+//少女「黒須太一……」
+Girl: "Kurosu Taichi...!"
+TP
+
+
+
+//怒りの波動が膨れあがる。
+The wave of rage swells up and outwards.
+TP
+
+
+
+//太一「赤飯」
+Taichi: "Auspicious red rice."
+TP
+
+
+//>とうこ
+//冬子……桐原の下の名前、内心ではバリバリ呼び捨て……の額のあたりがひきつった。
+Touko... that's Kirihara's first name, and in my mind I vigorously strip it of honorifics... began to have a contraction in the dead center of her forehead.
+TP
+
+
+GL 1 TCKT0003b
+GI 1 0
+
+
+WVP 0 vfcca0002fyu005
+//少女「のぉっ！」
+Girl: "'llyyy!"
+TP
+
+
+
+//実際には『こんのぉっ！』と言ってる。
+In truth, she's saying "reallyyy!",
+TP
+
+
+
+//舌ったらずなのだろう。
+so that had to have been her lisp.
+TP
+
+
+
+//彼女の特徴的イントネーションだ。
+It's her characteristic intonation.
+TP
+
+
+
+//令嬢然とした冬子が、口調に未熟さを残しているのは、正直笑えた。
+It honestly made me laugh how Touko, so like a proper lady, still had immaturity in speech remaining inside her.
+//General returning concept, she still has something of the infant in her for starters - see CCB2101 for more uhmmm infantile things she does with the mouth (sucking cock while sleeping). -GHS
+TP
+
+
+
+//と。
+And,
+GL 4 bgcc0000b
+TP
+
+WVP 2 se003 1 0
+GI 4 0
+SEF 101 0
+
+//ごっ
+Smack!
+TP
+
+
+
+//太一「……ぐふっ！？」
+Taichi: "...g'fuh?!"
+TP
+
+
+
+//チンだった。
+It was on my chin.
+//or on his dick. -GHS
+TP
+
+
+
+//クリーンヒットだった。
+It was a clean hit.
+TP
+
+
+
+//避ける暇もなかった。
+It was too fast to dodge.
+TP
+
+
+
+//拳に突き上げられ、のけぞるように顎先が天をさす。
+Thrust upwards by the fist, the tip of my chin points to the heavens, the head thrown backwards.
+TP
+
+
+
+
+//HACK Kirihara Fist reimplementation. Animation runs a little fast, but it works out well all things considered. These are all PS2 screengrabs, I have no idea where the 360 edition stores the graphics for this effect. It may even be a system-generated effect, not a graphical sequence. -GHS
+
+TS 2
+
+
+GL 5 zzzCCA0002fist00
+GS 5 1
+SEF 109 9
+//fade-in is VERY slow -GHS
+
+GL 5 zzzCCA0002fist01
+GS 5 1
+AL 3
+GL 5 zzzCCA0002fist02
+GS 5 1
+AL 0
+GL 5 zzzCCA0002fist03
+GS 5 1
+AL 0
+SEF 99 9
+WVP 2 se100 1 0
+//Yes, it sounds odd, but in both the PS2 and Xbox 360 versions, this SFX plays here and the rest is in silence. -GHS
+
+WT 250 0
+
+GL 5 zzzCCA0002fist04
+GS 5 1
+AL 8
+GL 5 zzzCCA0002fist05
+GS 5 1
+AL 0
+GL 5 zzzCCA0002fist06
+GS 5 1
+AL 0
+GL 5 zzzCCA0002fist07
+GS 5 1
+AL 0
+GL 5 zzzCCA0002fist08
+GS 5 1
+AL 0
+GL 5 zzzCCA0002fist09
+GS 5 1
+AL 0
+GL 5 zzzCCA0002fist10
+GS 5 1
+AL 0
+GL 5 zzzCCA0002fist11
+GS 5 1
+AL 0
+SEF 99 0
+
+//Split because there's too many frames for AL to handle in one go. It causes a very slight pause in the animation, but it's almost impossible to notice without knowing about it. -GHS
+
+GL 5 zzzCCA0002fist12
+GS 5 1
+AL 3
+GL 5 zzzCCA0002fist13
+GS 5 1
+AL 0
+GL 5 zzzCCA0002fist14
+GS 5 1
+AL 0
+SEF 99 0
+WT 350 1
+
+GL 5 zzzCCA0002fist15
+GI 5 0
+
+TWS 0
+TS 3
+
+
+//>
+//　　　　　　桐　原　流　奥　義　積　極　直　撃
+> 
+ 
+   KIRIHARA   STYLE   HIDDEN   MOTION   DIRECT   STRIKE
+//better centered but due to 5 lines it'll just never really happen. This is omitted in the console version, since the text is on screen, but the only alternative would be graphic editing that's waaay beyond my skills. -GHS
+TP
+
+
+
+
+//ゲームっぽい架空エフェクトが、脳裏に踊る。
+A videogame-like Imaginary special effect danced in my mind.
+//It's actually "Air-" as in air-friends and air-guitars. There'll be a fair few of these, and they seem to indicate Taichi's memory leak of videogames into reality. Notice this very first one followed right after being beaten. -GHS
+TP
+
+GO 4 0
+
+GL 1 TCKT0001b
+GI 1 0
+
+GO 5 1
+//HACK to properly fade in the screen from the new image, the old sky and Touko's new dolls must be loaded before the fade. Otherwise it looks like crap. And with this, one of the most complex hacks of the game ends. -GHS
+
+
+
+
+
+
+WVP 0 vfcca0002fyu006
+//冬子「……撤収手伝いなさいよ」
+Touko: "...now come help take down the tents."
+//The death of Tentman. -GHS
+TP
+
+
+
+//低い声だ。
+It's a low voice.
+TP
+
+
+
+//これ以上ごねるなら今度は空じゃなくて地面にＫＩＳＳすることになるぜ。
+If you fuss anymore from now, next time it won't be the sky that you implement a kiss with, but the ground.
+TP
+//暗にそう申しておられた。
+That was the interwoven implication.
+TP
+
+
+
+//太一「はい、テツダイマス（ガクガク）」
+Taichi: "Yes ma'am, help I shall! (clatter, clatter)"
+//Of teeth. These odd emoticon-like things seem less odd, perhaps, if reread straight from CCX0001. They'll be gone pretty quickly, however. -GHS
+TP
+
+
+//無言で俺の耳を引いてキャンプ場に向かう。
+Without a word, my ear gets pulled as we head towards the camping ground.
+TP
+
+
+//太一「あっ、あっ、いたいですーっ」
+Taichi: "Ow, ow, that huuurts!"
+TP
+
+GL 1 TCKT0003b
+GI 1 0
+
+WVP 0 vfcca0002fyu007
+//冬子「殴った私の手も痛いわ」
+Touko: "The hand I hit you with also hurts!"
+TP
+
+
+
+//太一「それは心を鬼にして子供を叱った母親だけが言っていいセリフ」
+Taichi: "That's a good line only for a mother who hardens her heart as she goes to scold her child!"
+//Hardening the hearts, very Biblical. -GHS
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+
+
+WVP 0 vfcca0002fyu008
+//冬子「男手少ないんだから、キリキリ働きなさいよ」
+Touko: "We have so few men helping, so chop chop and get to work now!"
+//Kiri Kiri. Her name'll also pop up. -GHS
+TP
+
+
+
+//太一「働いたじゃないか、合宿中にたくさん……」
+Taichi: "But I worked, didn't I, throughout camp and lots..."
+TP
+
+
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfcca0002fyu009
+//冬子「最後まで気を抜かないの」
+Touko: "Don't relax until the last moment, you!"
+TP
+
+
+
+//太一「……ちょっとの休息も許されない」
+Taichi: "...not even allowed a short break."
+//Significantly less funny considering how horrible it is for him to be here. No wonder he shatters into Another Story. -GHS
+TP
+
+
+
+//俺は戦士か。
+What am I, a soldier?
+//See CCA0027. -GHS
+TP
+
+
+
+//太一「桐原」
+Taichi: "Kirihara."
+TP
+
+
+
+WVP 0 vfcca0002fyu010
+//冬子「……なに？」
+Touko: "...what?"
+//Oddly flat, considering. -GHS
+TP
+//太一「合宿、来てよかったろ？」
+Taichi: "You're glad you came to training camp, right?"
+TP
+WVP 0 vfcca0002fyu011
+//冬子「…………」
+Touko: "......"
+TP
+GL 1 TCKT0002b
+GI 1 0
+WVP 0 vfcca0002fyu012
+//冬子「（ぷいっ）」
+Touko: "(Pfui.)"
+//This may be the first instance of use of this term since the year 1952. Caren't. -GHS
+TP
+//無視された。
+I was ignored.
+TP
+
+
+
+//会話はずまないことけたたましい。
+A clamorously wild failure to enliven the conversation.
+TP
+
+
+
+//これでも今日は滅茶苦茶話している方だ。
+And for all this, today's the day to speak out nonsense wantonly.
+TP
+//今日みたいにかけあい漫才をすることの方が、むしろ珍しい。
+It's rather rare to have days of comedic duets like today.
+//Very odd pair. I suppose this is a warning that he's going to hallucinate the rest to avoid going insane. This next dialogue, I believe, doesn't happen at all. -GHS
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+WVP 0 vfcca0002fyu013
+//冬子「軽いあたま」
+Touko: "Empty-head."
+//So odd she'd try to play along despite it all, isn't it. -GHS
+TP
+
+
+
+//太一「はい？」
+Taichi: "What?"
+TP
+
+
+
+WVP 0 vfcca0002fyu014
+//冬子「殴ったとき、空っぽの音がしたから」
+Touko: "When I punched you, it sounded hollow."
+TP
+
+
+
+WVP 0 vfcca0002fyu015
+//冬子「そろそろ脳細胞、分裂させておかないと、大人になった時につらいわよ？」
+Touko: "If you don't let your neurons undergo division but quick, it'll be harsh when you reach adulthood, you know?"
+//Neurons do not undergo cell division. Well, there seems to be some controversial experiments hinting they do regenerate within limits, but the only way brain cells would be splitting is if Taichi were not yet born, not a moron. Touko may be making a reaaally bad joke about splitting neurons, which would still leave the issue of how to fill an empty head except with neurons undergoing mitosis, but the joke would be flatter than Miki's reset chest.
+//Most importantly, it's out of tone for her. OTOH, if taken literally, it is consistent with the absolute pile of bullcrap that'll be seen all throughout Cross Channel, most importantly in the ending - see CCX0001. This is the clue that Taichi could be hallucinating at least this part, it being his usual pretentious and ignorant verbiage, as well as the first sign that those who don't have a clue about scientific stuff are about to get creamed... and not because they won't understand it.
+//This is fairly evident as far as scientific trolls go: brain cells not undergoing mitosis is well known. -GHS
+TP
+
+
+
+//太一「失敬だな。弁護士は通っとるのか？　ああん？」
+Taichi: "Well, how rude! Do we gotta go by lawyers now? Well?"
+//This should remind of an arguing couple trying for divorce. Not the first time he'll bring up their old story in a manner this almost outrageously obnoxious, so it's intended to sound very different on second reading. This may be his answer to her 'pfui'. -GHS
+TP
+
+
+GL 1 TCKT0002b
+GI 1 0
+
+WVP 0 vfcca0002fyu016
+//冬子「ほんっと……疲れる……きみ……」
+Touko: "...you are... really... tiresome..."
+//This might be real. -GHS
+TP
+
+
+
+//盛大にため息をつかれると、こちらも萎える。
+With a lengthy, exasperated sigh, this also withers.
+TP
+
+GL 0 bgcc0015a
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//黙って連行される。
+I'm escorted in silence.
+TP
+
+
+
+//視線はついつい、高そうなワンピースをしっとりとまとわりつかせた臀部に。
+Against my better judgment, my sight runs down her of expensive-looking one-piece dress coiling down to her rear.
+//Let's go with ambiguous. -GHS
+TP
+
+
+
+//太一「水蜜桃」
+Taichi: "White peach."
+TP
+
+
+
+//聞こえないようつぶやく。
+I mutter as not to be heard.
+TP
+
+GL 1 TCKT0001b
+GI 1 1
+
+WVP 0 vfcca0002fyu017
+//冬子「触ったら沈めるから」
+Touko: "Touch it and I sink you."
+//Excellent hearing... -GHS
+TP
+
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+
+//ど、どこに？（ブルブル）
+I-into what? (shudder, shudder)
+TP
+
+
+
+
+GL 1 TCKT0002b
+GI 1 0
+WVP 0 vfcca0002fyu018
+//冬子「せっかく夏期休暇、一週間無駄にした気分よ」
+Touko: "It was my precious Summer Vacation, and now it feels like I wasted a whole week of it!"
+//This seems to make a liiittle more sense than the above. Touko would want to be away from Gunjou for Summer. So why wasn't she on the other side of the world or something...? Sakuraba I can understand, but Touko? -GHS
+TP
+
+
+
+//太一「意訳すると、楽しい合宿も終わりかにゃー、って感じだな」
+Taichi: "To paraphrase, 'this fun training camp is comeowing to an ennnd!', that's what it feels, right."
+//"Little did they know that the nyans were only the beginning..." from The Chronicles of How an Innocent-Looking Translation Destroyed the World. Slightly more relevantly, this is Taichi intentionally misunderstanding. One of the few rare moments in which this is explicit. -GHS
+TP
+
+
+GL 1 TCKT0001b
+GI 1 0
+
+WVP 0 vfcca0002fyu019
+//冬子「……脳割れてるんじゃない？」
+Touko: "Didn't your brain split?"
+TP
+
+
+
+//割れてる。
+It was split.
+//It was split + it was made to split. This could mean it's broken; this could mean it's split as in a personality. -GHS
+TP
+
+
+
+//太一「俺は楽しめたけどね」
+Taichi: "I managed to enjoy myself, though."
+TP
+
+
+
+
+GL 1 TCKT0002b
+GI 1 0
+
+WVP 0 vfcca0002fyu020
+//冬子「ふん」
+Touko: "Pah."
+TP
+
+
+
+//太一「……楽しんだくせに（ぼそっ）」
+Taichi: "...and you had fun too dammit. (whisper)"
+TP
+
+
+
+GL 1 TCKT0011b
+GI 1 0
+WVP 0 vfcca0002fyu021
+//冬子「な・に・か・言った？」
+Touko: "DID. YOU. SAY. SOMETHING?"
+TP
+
+
+
+//太一「いいえなにも、サー」
+Taichi: "No and nothing, SAH!"
+TP
+
+
+
+//一週間の合宿。
+One week of training camp.
+//Later it will be an extended weekend. Unsure if it's intentional or just a (relatively minor) inconsistency. -GHS
+TP
+
+
+
+//ほんの幾度か、彼女の笑顔を見た。
+And her smile I saw only a few times.
+TP
+
+
+
+//憮然とした顔つきがデフォルト設定の冬子だ。
+A disappointed face is in Touko's default settings.
+//The computer terminology begins! -GHS
+TP
+
+
+
+//楽しんだに違いないのだ。
+But she had fun, no mistake.
+TP
+
+
+
+//だってテント張って機材並べて。
+After all, with all the tents spread and the machine parts set up,
+//機材 is the term used for the generic "machinery" that is brought up from the Club Room to the Antenna on the rooftop. The Training Camp looks more mysterious by the minute. They had survival games from the sound of it, but what anything else involved is never seen. If only because the idea they'd actually train with equipment and everything sounds so off for people who can't even look at each other. But they did stay there for a time, didn't they. -GHS
+TP
+
+
+
+//合宿はまるで別世界みたいだったから。
+the training camp looked like an entirely different world.
+//All with me now. Come on, don't be shy! We're only getting started: *cough* annnd SYMBOLISM!!! -GHS
+TP
+GS 0 0
+GS 1 0
+SEF 109 0
+
+
+
+//太一「いてててててっ！？」
+Taichi: "OwTchTchTchTch?!"
+TP
+
+
+
+//耳を引く力が強まった。
+The Pulling Power on my ear got harsher.
+//See CCX0001. This is the only other instance of this exact term. -GHS
+TP
+GL 0 bgcc0000b
+GS 0 1
+GS 1 0
+SEF 109 0
+
+
+//林道を抜けて、広場に出る。
+Out of the forest path we come out to a wide grove.
+TP
+
+
+
+//光が満ちる。
+The light is in the rise,
+TP
+
+
+
+//輝かしい陽光。
+a resplendent sunshine.
+//These seems to be the only clue that this is dawn, or at least no later than 6-7, since it uses the evening graphics. This fits them getting down by 10-11, and therefore the loop connecting 11:31 to 18:07, since by the time they're out of the path it's apparently inexplicably evening. The problem is that this is Sunday, therefore the world should get reset to a point before they enter. But let's not go break the setting; it's all in Taichi's head in the first place, so it's pointless. -GHS
+TP
+
+
+
+WVP 0 vfcca0002fyu022
+//冬子「撤収、もうだいぶ終わっちゃってる」
+Touko: "The striking... it's mostly done by now."
+//How long has he been away? Maybe the whole of CCZAS took place right there. -GHS
+TP
+
+
+
+WVP 0 vfcca0002msa000
+//少女「こらあっ、そこのおサボなふたりーっ」
+Girl: "Come ooon, you two slackers over theeere!"
+TP
+
+
+//声がぽややーんと響いた。
+A voice resounded with boioioinnng.
+//He might be talking about some part of Misato's anatomy, but my research has brought up nothing. -GHSarcasm
+TP
+
+
+
+//独特の声質。
+It's a peculiar tone of voice.
+//Jokingly it's about boobs, less jokingly Misato is currently deeeeeep into her mask. That's why she sounds sorta happy and frisky when she's in fact distraught. -GHS
+TP
+//我らが部長だ。
+It's the President of our Club's.
+TP
+
+
+
+WVP 0 vfcca0002fyu023
+//冬子「私は違います私は！」
+Touko: "That is not what I am doing it is not!"
+//Formal, talking to a Senpai because grammar nazism requires pseudo-connectional formal linguistics in the proto-bezoidal teching tech tech techy tech. -GHS
+TP
+
+
+
+//太一「いてててっ、走るな危険！　特に俺の耳が危険……あっ、あっ、そんなに強くしたら裂けるぅ、裂ける裂ける裂ける裂ける！！　大事なトコ裂けちゃうーーーーーーーーーーーーーーっ！！」
+Taichi: "OwChChCh- don'tcha run it's dangerous! My ear especially... ah, ah, if you do it that hard you'll tear it off!, tear it tear it tear it off!!! My precious body part, you're gonna tear it ooooooooooooooff!!!"
+//Suggestive? 裂ける (tear) also "tearing lovers apart" -GHS
+TP
+
+
+
+WVP 0 vfcca0002msa001
+//部長「やぁ、なにかＨそうなことやってますっ！？」
+President: "Wah, are you doing something sexually perverted?!"
+//Then again, Misato may be forcing this joke, and poorly. -GHS
+TP
+
+
+
+WVP 0 vfcca0002msa002
+//部長「停学、停学ですよ～っ！！」
+President: "Suspension, there will be a suspensiooo~n!"
+//This was Misato's first nickname for Taichi. She seems to bring it out when flustered, see CCA0025C, also CCC4006. See also her brother's penchant for breaking out 'traitor'. -GHS
+TP
+
+
+
+//焦って震える部長の声。
+The President's voice quivered in embarrassment.
+TP
+
+
+
+//太一「わはは」
+Taichi: "Wahahah!"
+TP
+
+
+
+WVP 0 vfcca0002fyu024
+//>　　　　　　　　　　　　　　ひっぷ
+//冬子「こ、この匹夫……」
+Touko: "Y-, you sphincter..."
+//Curiously, all versions have a variation on this line. -GHS
+TP
+
+
+
+WVP 2 SE002
+SEF 101 0
+
+//太一「いたっ」
+Taichi: "Owww!"
+TP
+
+
+
+
+
+//ようやく解放された我が愛耳と、叩かれた頭を同時に撫でながら。
+At the very instant she finally released Our Beloved Ear, I stroked it together with my beaten-up head, and meanwhile,
+//She smacked him earlier, see above, but given the sound she probably hit him on release as well. See CCZAS and CCX0001: is his "madness" something physical that can be beaten out of him? (Likely no or not quite, but the question is repeatedly asked). -GHS
+TP
+
+
+
+//笑み。
+I smile.
+//AKA "force it" -GHS
+TP
+
+
+
+//太一「ニシシ、いたい」
+Taichi: "HehShehSheh, it hurts."
+TP
+
+
+
+//太一「さー、仕事仕事っと♪」
+Taichi: "Well, to work!, to work!♪"
+TP
+
+
+
+WVP 0 vfcca0002fyu025
+//冬子「この男は……」
+Touko: "Really this man..."
+TP
+
+
+
+
+//軽く走る。
+Running lightly,
+TP
+
+
+
+WVP 0 vfcca0002fyu026
+//冬子「まったく……」
+Touko: "Seriously..."
+TP
+
+
+
+//冬子のため息が追いかけてくる。
+chased by Touko's sigh.
+TP
+
+
+
+//部長の背後には、みんながいた。
+Behind the President's back, everybody was there,
+TP
+
+
+
+//二人で、みんなのもとに。
+In a duo in front of everyone.
+//It's ambiguous whether this is Taichi and Misato or Touko and Taichi. In the first case, Youko is not here; in the latter, she is. Supposing intentionality. -GHS
+TP
+
+
+
+
+//太一「おーーーーーーーーいっ！！」
+Taichi: Heeeeeeeey!!!"
+//ーx8 annnd there come the trolls. -GHS
+TP
+
+
+
+
+//わけもなく呼びかける。
+I address the crowd without a real reason.
+TP
+
+
+
+//広場で機材の後かたづけをしていた五つの顔が、一斉にこちらを向いた。
+The faces of the five who were tidying up the equipment in the grove turned my way in unison.
+TP
+
+
+
+//視線が集まると無茶したくなる。
+When sights gather on me crazy I wanna be.
+//Ugh, even rhymes? -GHS
+TP
+
+
+
+//シャツを脱いで裸になった。
+I became topless by taking off my shirt.
+//See CCC3004. He's repeating one of his most fun pattern. -GHS
+TP
+
+
+
+WVP 0 vfcca0002fyu027
+//冬子「やだっ！？」
+Touko: "BUT NO?!"
+TP
+
+
+
+//背後、お嬢が引きつるように叫んだ。
+Behind, the lady stiffened with a shout.
+TP
+
+
+
+//構わず裸で駆ける。
+Uncaring, I ran around unclothed.
+TP
+
+
+
+//乳首が風とコラボレーションする。
+My nipples enter in collaboration with the wind.
+TP
+
+
+
+//五組の視線を感じる。ますます気が高ぶる。
+I feel the sights of a group of five on me. More and more my excitement grows.
+TP
+
+
+
+
+//太一「俺を見てくれーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーっ！！」
+Taichi: "Look at me pleeeeeeeeeeeeeeeeeeeeeeeeeeeeeeease!"
+//See CCX0001, but CCB0023 might be more important. With the 'e' in 're', it's 32xE which is 4x8. There's with these a grand total of 8 8s in this script, so I can't change this. The 32nd E is the last one (sorry). -GHS
+TP
+
+
+
+
+//五つの顔が、表情ひとつ変えずに元の向きに戻った。
+Five faces return to their original direction without a single change of expression.
+TP
+
+
+
+//連携ピッタリの超上級放置プレイ。
+Perfectly Coordinated Hyper Pro-Level Leave-It-To-Chance Sketch.
+//Reading some sarcasm here... -GHS
+TP
+
+
+
+//太一「アハッ」
+Taichi: "Ha-AH!"
+//Should be unique, see CCC0006A, CCC4009, CCX0001 -GHS
+TP
+
+
+
+//馬鹿馬鹿しくも、愉快で。
+Silly and nonsensical, but pleasing:
+TP
+
+
+
+//ただ今だけが楽しくて。
+it's having fun, just for the moment.
+//He is; the others... -GHS
+TP
+
+TS 2
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+
+TWS 7
+//HACK NVL mode -GHS
+//合宿が終わる。
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+            The training camp is ending.
+TL
+//新学期がはじまる。
+          A new school term is beginning.
+TL
+//また日常がやってくる。
+           Again normal days are coming.
+TL
+WVS 1 1
+//当たり前の明日がやってくる―――
+           A perfectly ordinary tomorrow
+	                  is coming---
+//-ing ending preserved for all 4. -GHS
+TP
+
+GL 0 bgcc0000e
+GS 0 1
+TS 2
+SEF 109 1
+
+
+
+
+GL 0 TITLE1
+GS 0 1
+WVP 2 seeye001 1 0 0
+SEF 10 1
+WT 2000 0
+WT 3000 1
+
+
+RET

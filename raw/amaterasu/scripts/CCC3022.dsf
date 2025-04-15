@@ -1,0 +1,1543 @@
+
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+SEF 152 0
+I left the club behind.
+TP
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+And approached the restrooms.
+TP
+
+I naturally entered the girls' bathroom.
+TP
+
+I looked in the mirror.
+TP
+
+My own face was reflected within it.
+TP
+
+White hair.
+TP
+
+Eyes with a peculiar nature.
+TP
+
+A hook nose that makes one wonder who I was.
+TP
+
+In my own eyes, that's how I looked.
+TP
+
+There were people who said I had good features.
+TP
+
+That I had a girl's face.
+TP
+
+Well, that might be true.
+TP
+
+WVP 1 bgm007.ogg 0 0 0
+
+That's why I become Åwthat wayÅx after all.
+//Become or became? -VDZ
+TP
+
+My opinion is different.
+TP
+
+This face had some imperceptible heterogeneity that made it frightening.
+TP
+
+It was covered in adipocere. I couldn't think of it as human.
+TP
+
+......a doll's face.
+TP
+
+Hans Bellmer's spherically jointed dolls.
+TP
+
+They have a certain beauty, but they also have something unsettling within them......they contain darkness.
+TP
+
+That's the reason why they're liked by those who prefer the darkness.
+TP
+
+And now I was once again drawing near to that same darkness.
+TP
+
+But I'm......fine being normal.
+TP
+
+Within their own long histories, what sort of ethics do humans try to build up?
+TP
+
+Bright, unblemished health?
+TP
+
+......is that not mistaken?
+TP
+
+Won't the darkness condense enough to push inside?
+//In-game it appears one line lower than where it usually is. Is that intentional?-Spin
+TP
+
+That which is born from eternal darkness.
+TP
+
+At the end of the day, I'm not sure if it could be called a person.
+TP
+
+I envy people with solid black hair. I envy them so much I can't stand it.
+TP
+
+I once thought of dyeing it.
+TP
+
+But hair grows fast.
+TP
+
+White immediately infiltrated from the roots.
+TP
+
+As I saw gray through the black, I became self-conscious of it.
+TP
+
+Everything is no more than decoration.
+TP
+
+As if I, right now, am truly an ornament.
+TP
+
+A slightly off-putting face.
+TP
+
+I felt like vomiting.
+TP
+
+I must see it that way because of my self-hatred.
+TP
+
+Taichi: "......"
+TP
+
+Aaah, this is a bad state of mind.
+TP
+
+I was feeling far too good about Touko's case.
+TP
+
+I'm loving decadence and corruption.
+TP
+
+I mustn't sink too far.
+TP
+
+WVS 1 0
+
+WVP 2 se072 1 0
+A sound came from one of the stalls.
+TP
+
+Taichi: "............"
+TP
+
+Without hesitation, I turned toward it.
+TP
+
+WVP 0 vfCCC3022kri000
+Kiri: "......eh?"
+TP
+
+Kiri was in the stall.
+TP
+
+She was shocked.
+TP
+
+Her face was pale.
+TP
+
+Her health seemed unsatisfactory.
+TP
+
+I took a position in the stall entrance, as if blocking it with both hands.
+TP
+GL 0 evcc0016
+$CGevcc0016 = 1
+GS 0 1
+SEF 109 1
+
+WVP 1 bgm014.ogg 0 0 0
+
+Now, you can't run away, Kiri.
+TP
+
+
+Taichi: "What's wrong?"
+TP
+
+An untarnished voice, like another person's.
+TP
+
+My heart was rapidly calming down.
+TP
+
+I was retaking my calmness.
+TP
+
+My field of vision dulled.
+TP
+
+I could no longer discern fine detail.
+TP
+
+I'm sure my pupils were also transforming.
+TP
+
+Pupils sparkling brilliantly in the darkness.
+TP
+
+It's a little dim here, so there's no doubt Kiri can see it.
+TP
+
+Kiri's fingertips twitched.
+TP
+
+She's reacting sensitively.
+TP
+
+Taichi: "What's wrong?"
+TP
+
+WVP 0 vfCCC3022kri001
+Kiri: "Uh, umm......"
+TP
+
+An abnormal atmosphere.
+TP
+
+Kiri's also feeling it.
+TP
+
+She's upset by my calm words.
+TP
+
+WVP 0 vfCCC3022kri002
+Kiri: "......I wasn't......feeling well......"
+TP
+
+Taichi: "That's not good."
+TP
+
+Taichi: "Are you okay?"
+TP
+
+WVP 0 vfCCC3022kri003
+Kiri: "......yes......umm......I......"
+TP
+
+Taichi: "Nn?"
+TP
+
+WVP 0 vfCCC3022kri004
+Kiri: "......umm......my menstruation......is rough at the end......"
+TP
+
+Taichi: "Oooh, is that so?"
+//Tense matching previous line. ~Bal
+TP
+
+Taichi: "I didn't know that."
+TP
+
+She's fearing me.
+TP
+
+Glasswork.
+TP
+
+Beautiful, and delicate.
+TP
+
+Innocence.
+TP
+
+Taichi: "What do you mean, 'rough?'"
+TP
+
+
+WVP 0 vfCCC3022kri005
+Kiri: "Generally unstable......the cycles aren't fixed......"
+TP
+
+Taichi: "Aaah, around that age, most girls are like that."
+TP
+
+Beautiful lapis lazuli.
+TP
+
+Taichi: "It's because of an immature hormone balance in the midst of growth."
+TP
+
+My vidro.
+IF $tlnote != 0 (TL note: "Vidro" is Portuguese for "glass".)
+TP
+
+Taichi: "Kiri, since your body is especially slender, it may also be because of belated growth."
+TP
+
+If I embrace her, she'll break.
+TP
+
+WVP 0 vfCCC3022kri006
+Kiri: "......I......see......"
+TP
+
+If I don't embrace her, she'll grow up dull.
+TP
+
+From glass to a clod.
+TP
+
+Taichi: "Yes, yes."
+TP
+
+The beauty will be spoiled.
+TP
+
+WVP 0 vfCCC3022kri007
+Kiri: "I seem to have just finished it, but......but there was a lot......of blood......"
+//Don't quite get this line (originally '...seems to have just ended, but...') - Sheeta
+TP
+
+She'll become normal. She'll turn into a normal girl.
+TP
+
+Taichi: "Yeah, and?"
+TP
+
+The Kiri right now.
+TP
+
+WVP 0 vfCCC3022kri008
+Kiri: "That's why......I'm anemic right now......"
+TP
+
+Taichi: "Hmmm, so, that blood you mentioned......"
+TP
+
+She was always beautiful.
+TP
+
+When she was agonizing, and when she was healthy.
+TP
+
+Taichi: "Is it still coming out?"
+TP
+
+She still is beautiful.
+//Due to incredible Japanese implicity, these last two lines are literally identical (on top of being only two words), though I had to make them very different for the adaptations to make any sense. Hopefully, the sharing of "still" makes it immediately obvious the two lines are somehow parallel, but I'd like confirmation on that. Å`IX
+//Yep - Sheeta
+//Would not have guessed they were written identically, to be honest. I don't think I was paying enough stylistic attention to notice the connection in English either.  Sorry.  ~Bal
+TP
+
+WVP 0 vfCCC3022kri009
+Kiri: "......hi......!"
+TP
+
+Her expression. Evident terror.
+TP
+
+Hushed blackness filled the stall.
+TP
+
+Taichi: "Is it still painful?"
+TP
+
+WVP 0 vfCCC3022kri010
+Kiri: "......what are you......trying to......?"
+TP
+
+I wiped away the smirk I'd had until now.
+TP
+
+Taichi: "......you'll answer my questions."
+TP
+GL 0 evcc0016a
+$CGevcc0016a = 1
+GS 0 1
+SEF 109 0
+
+WVP 0 vfCCC3022kri011
+Kiri: "No......"
+TP
+
+I yearn for her.
+TP
+
+I yearn for, and want to touch her.
+TP
+
+Gradually heightening impulses.
+TP
+
+There were things which ought to be called complications.
+TP
+
+But the rationality to resist was lacking.
+TP
+
+It's nice, deserving a better role.
+//SOS
+//I think he's referring to his role with Kiri, like as a bad guy. I think. - Sheeta
+TP
+
+Taichi: "You will answer."
+TP
+
+WVP 0 vfCCC3022kri012
+Kiri: "......go away......anywhere else......"
+TP
+
+Why have I been neglecting this fragile art until now?
+TP
+
+Taichi: "If you answer, I'll go away."
+TP
+
+Kiri: "............"
+TP
+
+WVP 0 vfCCC3022kri014
+Kiri: "It......still......is."
+TP
+
+Because I felt that if I touched her carelessly, I'd leave fingerprints.
+TP
+
+Taichi: "Hmmm, theeen..."
+TP
+
+Taichi: "So is that what's trickling down the inside of your thighs?"
+TP
+
+WVP 0 vfCCC3022kri015
+Kiri: "......!!?"
+TP
+
+Kiri was shocked.
+TP
+
+Hadn't she noticed it?
+TP
+
+It seems her senses were paralyzed by stress.
+TP
+
+Taichi: "......that's dark blood."
+TP
+
+I looked at it.
+TP
+
+At blood.
+TP
+
+In this state of mind.
+TP
+
+But,
+TP
+
+I don't mind.
+TP
+
+I'll make Kiri eternal.
+TP
+
+A milk crown.
+IF $tlnote != 0 (TL note: This is the Japanese term for the ring of fluid often left behind by the base of a drinking glass.)
+//If English has a word for this, please tell me. Å`IX
+TP
+
+A momentary mold produces one drop.
+TP
+
+The glasswork Kiri is also excellent in the moment she shatters.
+//Odd line, in that it doesn't make sense when you first read it, but if you read it again, you realise it's beautiful. I dunno what to do with it! O.o - Sheeta
+TP
+
+Excellent---
+TP
+
+Taichi: "That's dark blood."
+TP
+
+WVP 0 vfCCC3022kri016
+Kiri: "Ah, aaah, no, nooo......"
+TP
+
+She distanced herself.
+TP
+
+WVP 0 vfCCC3022kri017
+Kiri: "No, nono......don't come, don't come any closer......"
+TP
+
+She was shaking like a kitten.
+TP
+
+Taichi: "Have you ever thought about how many kittens died in agony on this Earth?"
+TP
+
+I touched her thighs.
+TP
+
+Light skin. Fingers sinking.
+TP
+
+As if they'd pierce through her.
+TP
+
+I pushed into her body.
+TP
+
+WVP 0 vfCCC3022kri018
+Kiri: "Hiyaaaa."
+TP
+
+Pain and shuddering.
+//Unless that was NAT. ~Bal
+TP
+
+Her voice tightened.
+TP
+
+High and faint enough to fly off the audible range.
+TP
+
+Taichi: "Five cats were born, and one was adopted. It had a nice life, a happy end."
+TP
+
+My fingertips slipped inside.
+//I'm not sure about this one.-Spin
+TP
+
+Taichi: "Two died of hunger and cold. They might have gone insane by the end."
+TP
+
+I touched blood.
+TP
+
+It was thick, almost like semen.
+TP
+
+Taichi: "One walked away somewhere and got eaten alive by a stray dog. It might not have suffered much. Its purpose in life was merely a single meal for an aged stray dog whose own days were numbered."
+TP
+
+Taichi: "It might have become the vitality the dog needed to eat and kill its siblings and mother. We can't actually say for sure that that isn't what happened."
+TP
+
+I held up my fingers.
+TP
+
+Sticking them into Kiri.
+TP
+
+WVP 0 vfCCC3022kri019
+Kiri: "......ha, ha, ha!......"
+TP
+
+Rough and shallow breathing.
+TP
+
+Horrible sweat.
+TP
+
+Pitiful.
+TP
+
+Taichi: "What happened to the last one?"
+TP
+
+WVP 0 vfCCC3022kri020
+Kiri: "Ha! Ha! Ha!......"
+TP
+
+Kiri's viewpoints were tied to my fingertips.
+TP
+
+Taichi: "......it was run over by a car and died."
+TP
+
+Taichi: "A kitten becomes a pancake in an instant."
+TP
+
+Taichi: "No suffering, but no meaning."
+TP
+
+Taichi: "No meaning......"
+TP
+
+Taichi: "That's a pointless death."
+TP
+
+Taichi: "Just how many times have such things been repeated until now?"
+TP
+
+Taichi: "Open your mouth."
+TP
+
+WVP 0 vfCCC3022kri021
+Kiri: "......fua."
+TP
+
+Words don't reach her.
+TP
+
+Taichi: "Won't you open your mouth?"
+TP
+
+WVP 0 vfCCC3022kri022
+Kiri: "Don't do anything cruel."
+TP
+
+She finally said that.
+TP
+
+Taichi: "I won't do anything cruel if you open your mouth."
+TP
+
+Taichi: "Come on, say, 'aaah.'"
+TP
+
+Kiri obeyed.
+TP
+
+I stuck my fingers in.
+//....ew - Sheeta
+TP
+
+WVP 0 vfCCC3022kri023
+Kiri: "Nnnnn!!"
+TP
+
+Taichi: "......lick them. There......yes, good girl."
+TP
+
+I took out my fingers.
+TP
+
+Taichi: "The world is filled with things like pain and unhappiness......"
+TP
+
+Taichi: "It really makes one uneasy."
+TP
+
+Taichi: "That's why we want to connect. Even for an instant earlier; even for a moment longer."
+TP
+
+Taichi: "If we don't connect like that, we won't be able to understand the normal way of living in this cruel world."
+TP
+
+Taichi: "But those who are fulfilled are utterly blind."
+TP
+
+Taichi: "They say they don't fear solitude. They speak with faces saying that they are indeed established and competent on their own."
+TP
+
+Taichi: "Such people are garbage."
+TP
+
+Taichi: "They don't know true solitude, and already possess the heart for living normally."
+TP
+
+Taichi: "They're people from a far-off world."
+TP
+
+Taichi: "They're different from humans like us whose hearts weren't raised according to plan."
+TP
+
+Taichi: "That's fine while they're in their far-off world, but......won't they come closer and try to make food out of us?"
+TP
+
+Taichi: "Kiri, you should know this quite well."
+TP
+
+I moved my face closer as I spoke.
+TP
+
+WVP 0 vfCCC3022kri024
+Kiri: "......aau, ah, ha!......"
+TP
+
+She's falling apart.
+TP
+
+Though it's a momentary thing.
+TP
+
+Taichi: "Didn't you say yourself that the world is scary?"
+TP
+
+Taichi: "Justice is justice for their sake."
+TP
+
+Taichi: "There's not one good thing left for our sake."
+TP
+
+Taichi: "But, don't you want to live?......don't you?"
+//I think even though after ellipsis, since right after punctuation, capital is to be used.  Could be wrong. ~Bal
+TP
+
+Heavy menstrual flow.
+//I bet you guys are just loving this H scene! - Sheeta
+TP
+
+A reddish black.
+//I forget how to write compound color names in English. Å`IX
+//Voila. - Sheeta
+TP
+
+I touched my lips to Kiri's thigh.
+TP
+
+And my tongue.
+TP
+
+WVP 0 vfCCC3022kri025
+Kiri: "......nooooooo!"
+TP
+
+I licked it off.
+TP
+
+I held in her pitifully shaking lower limbs with both arms.
+TP
+
+WVP 0 vfCCC3022kri026
+Kiri: "Hi! Hiku! Hi!......uuaaaaa......"
+TP
+
+I followed her leg, arriving at the source.
+TP
+
+Her underwear had been worthless for a while.
+TP
+
+I stood up.
+TP
+
+Kiri looked at me.
+TP
+
+With fright, and......a small amount of animosity.
+TP
+
+That's preparation for genuinely despising me.
+TP
+
+Go ahead and despise me.
+TP
+
+We can easily redo this.
+TP
+
+After all, our proper dignity will be made nonexistent at the end of the week like everything else.
+TP
+
+Taichi: "......"
+TP
+
+I leaned onto her upper body and pushed her against the wall.
+TP
+
+I placed a hand on Kiri's underwear.
+TP
+
+And my tongue on her neck.
+TP
+
+WVP 0 vfCCC3022kri027
+Kiri: "......you......beast......"
+TP
+
+Her abusive words came through a lovely voice.
+TP
+
+I inserted my fingers from the side of her underwear, and played with her private parts.
+TP
+
+WVP 0 vfCCC3022kri028
+Kiri: "......I'll......"
+TP
+
+WVP 0 vfCCC3022kri029
+Kiri: "I'll......kill you......"
+TP
+
+WVP 0 vfCCC3022kri030
+Kiri: "Sempai, I'm going......to kill you."
+TP
+
+Taichi: "Haha!"
+TP
+
+I exposed the lower half of her body, and adhered to it.
+TP
+
+Kiri closed her eyes tightly.
+TP
+
+WVS 1 0
+
+WVP 2 SE087 1 0
+Something was thrown into the stall, making a dry noise.
+TP
+
+I looked.
+TP
+
+A can was revolving as it flew.
+TP
+
+It bounced off the wall and fell to the floor.
+TP
+
+I saw that scene in horribly slow motion.
+TP
+
+My consciousness accelerated to the limit.
+TP
+
+Cans don't fly. Someone threw it. Who? There's no need to think about it now. It was thrown. Intent. It was thrown with an intent. The objective? An effect that can be anticipated from throwing a can. The thrown can will display an effect.
+TP
+
+
+Explosion? A thrown weapon? A hand grenade. A small room. Increased destructive force. Death? Death. Death. Splash damage. Impossible to evade. Related to location. Certain death for me. I will die. Confirmed.
+//Remember all those comments I make about tling being fun? This is an awesome example of why. Å`IX
+TP
+
+
+Kiri is
+TP
+
+
+opening her mouth; closing her eyes.
+TP
+
+I held her head as if to cover her ears.
+TP
+
+A small head.
+TP
+
+Kiri is cute.
+TP
+
+I felt that without limit for a second.
+TP
+
+I felt love for Kiri for an unlimited moment.
+TP
+
+And then it burst.
+TP
+GL 5 bgcc0000e
+WVP 2 SE089 1 0
+GI 5 0
+SEF 101 0
+
+The room became white.
+TP
+
+A roaring sound. The pressure wave pushed against my back.
+TP
+
+WVP 0 vfCCC3022kri031
+Kiri: "-!!?"
+TP
+
+Kiri shrunk within my chest.
+TP
+
+I didn't get away with just shrinking.
+TP
+
+My eyes were scorched.
+TP
+
+My ears were numbed.
+TP
+
+My whole body had stiffened.
+TP
+
+I can't move.
+TP
+
+This is......death by explosion.
+TP
+
+I learned a feeling of incongruity.
+TP
+
+Various senses of mine were being peeled away.
+TP
+
+My inability to discern shows just how forlorn I am.
+TP
+
+I'm not even able to grasp the situation.
+TP
+
+I felt a tug at the base of my neck.
+TP
+
+I fell down backwards.
+TP
+
+Someone was supporting me.
+TP
+
+Aaah......
+TP
+
+A nostalgic fragrance.
+TP
+
+It hasn't changed since back then.
+TP
+
+Her......faint sweetness.
+TP
+
+Youko: "......"
+TP
+
+Hasekura Youko---
+TP
+
+She was pulling me out into the hallway.
+TP
+
+
+GL 0 bgcc0008
+GS 0 1
+GS 5 0
+SEF 152 2
+
+
+WVP 1 bgm015.ogg 0 0 0
+
+Taichi: "Ah......what was that......?"
+TP
+
+My tongue was finally able to move.
+TP
+
+Something about my body was strange.
+TP
+
+A sensation as if my limbs were stretched out.
+TP
+GL 1 TCHY0000
+GP 1 180 0
+GI 1 0
+
+WVP 0 vfCCC3022you001
+Youko: "......flashbang."
+TP
+
+Taichi: "Flash......a bomb?"
+TP
+
+GL 1 TCHY0002
+GI 1 0
+WVP 0 vfCCC3022you002
+Youko: "Also called a stun grenade. A special, flashing hand-thrown projectile."
+//I get the feeling I'm being far more literal than usual. Tell me if that's a bad thing. Å`IX
+//It's fine. We're the one's that sort it out :P - Sheeta
+TP
+
+Taichi: "Aaah."
+TP
+
+That's right.
+TP
+
+I'd thought I'd seen that can somewhere.
+TP
+
+Taichi: "......so it was that......from long ago..."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC3022you003
+Youko: "Yes."
+TP
+
+She made a cute smile.
+TP
+
+My memories with her were all this sort of thing.
+TP
+
+WVP 0 vfCCC3022you004
+Youko: "Have you regained......your rationality?"
+TP
+
+Taichi: "Yes......I'm fine."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+WVP 0 vfCCC3022you005
+Youko: "I'm sorry......for taking violent action."
+TP
+
+Taichi: "It's okay."
+TP
+
+It was a measure that couldn't be helped.
+TP
+
+Taichi: "But, why did you go out of your way to stop me?"
+TP
+
+Youko: "............"
+TP
+
+Taichi: "I wasn't exactly in danger or anything......"
+TP
+
+Then I noticed.
+TP
+
+Yes, she hadn't saved me because of a danger to me.
+TP
+
+It was because I'd been trying to connect to Kiri.
+TP
+
+Moreover......I'd tried it as the purest me.
+TP
+
+Jealousy.
+TP
+
+It was nothing more than jealousy.
+TP
+
+My feelings withered.
+TP
+
+Taichi: "Why are you......trying to degrade yourself?"
+TP
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC3022you007
+Youko: "......but-"
+TP
+
+Taichi: "Again with the 'but's?"
+TP
+
+Taichi: "Even though you can live by yourself?"
+TP
+
+Taichi: "Even though you don't need something like me?"
+TP
+GL 1 TCHY0002
+GI 1 0
+WVP 0 vfCCC3022you008
+Youko: "......I do need you."
+TP
+
+WVP 0 vfCCC3022you009
+Youko: "I can't live with only half of me."
+TP
+
+Taichi: "I'm not your other half or anything."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC3022you010
+Youko: "......Taichi."
+TP
+
+Instead of a logical answer, she just embraced my head.
+TP
+
+She kissed me.
+TP
+
+With graceful etiquette.
+TP
+
+I didn't......resist.
+TP
+
+WVP 0 vfCCC3022you011
+Youko: "Taichi, can you stand?"
+TP
+
+Taichi: "Yeah......"
+TP
+
+My five senses had largely recovered.
+TP
+
+Taichi: "Your uniform is covered in grime."
+TP
+
+WVP 0 vfCCC3022you012
+Youko: "......I was sweating a bit."
+TP
+
+Taichi: "You're wearing the same one every day."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+Youko: "............"
+TP
+
+I got sick of her expressionless face.
+TP
+
+Taichi: "Eh? Isn't that normal for you?"
+TP
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC3022you014
+Youko: "......I'm filthy."
+TP
+
+Taichi: "Then you can let go of me."
+TP
+
+Youko: "............"
+TP
+
+She became expressionless, almost sad.
+//You can't be 'sadly expressionless' - Sheeta
+TP
+
+Taichi: "After all, doesn't Touko wear the same clothes every day as well?"
+TP
+
+WVP 0 vfCCC3022you016
+Youko: "That's because she has several copies of that outfit......"
+TP
+
+Taichi: "Whaaat?"
+TP
+GL 1 TCSK0000
+GS 1 1
+
+WVP 0 vfCCC3022kri032
+Kiri: "......uu......"
+TP
+
+Kiri came out staggering.
+TP
+
+Taichi: "Kiri......"
+TP
+
+GL 1 TCSK0001
+GI 1 0
+WVP 0 vfCCC3022kri033
+Kiri: "......Kurosu......Taichi."
+TP
+
+Infuriated eyes staring at an enemy.
+TP
+
+......it's only natural.
+TP
+
+WVP 0 vfCCC3022kri034
+Kiri: "How dare you!......"
+TP
+
+GL 1 TCSK0021
+GI 1 0
+WVP 0 vfCCC3022kri035
+Kiri: "How dare you, how dare you!!"
+TP
+
+Those weren't tears of sadness.
+TP
+
+Emotions which can only be held by those who've been maltreated, deprived and toyed with.
+TP
+
+......pure and simple anger.
+TP
+
+It was righteous indignation.
+TP
+
+WVP 0 vfCCC3022kri036
+Kiri: "You were......after all......both of you......"
+TP
+
+WVP 0 vfCCC3022kri037
+Kiri: "You're both insane!"
+TP
+
+Taichi: "......"
+TP
+
+Youko: "......"
+TP
+
+Youko-chan took out a bladed weapon.
+TP
+
+A large knife.
+TP
+
+Kiri's face went pale.
+TP
+
+Taichi: "Wait."
+TP
+
+WVP 0 vfCCC3022you018
+Youko: "......being imprisoned by hatred, she's dangerous to Taichi."
+TP
+
+Taichi: "Will you break your promise?"
+TP
+
+WVP 0 vfCCC3022you019
+Youko: "But..."
+TP
+
+GL 1 TCSK0001
+GI 1 0
+WVP 0 vfCCC3022kri038
+Kiri: "Why do you even bother?"
+TP
+
+She forced her way in.
+TP
+
+WVP 0 vfCCC3022kri039
+Kiri: "......either way......even if I live, won't I just be made into food for you!?"
+TP
+
+Taichi: "I don't know how I can excuse my actions, but......"
+TP
+
+Taichi: "I'm sorry!"
+TP
+
+I praised myself, saying I'd apologized just like a cheerleading section.
+//Another of the untlables. Tell me if this actually works. Å`IX
+//No idea... - Sheeta
+TP
+
+Kiri gaped at me for a moment, but, she was soon distorted by disgrace.
+TP
+
+GL 1 TCSK0021
+GI 1 0
+WVP 0 vfCCC3022kri040
+Kiri: "......I can't......understand."
+TP
+
+WVP 0 vfCCC3022kri041
+Kiri: "What is that......just what are you?"
+TP
+
+WVP 0 vfCCC3022kri042
+Kiri: "I can't understand, I can not understand it!!"
+TP
+
+WVP 0 vfCCC3022kri043
+Kiri: "......I don't......care anymore......"
+TP
+GO 1 1
+She held her disheveled chest and walked away.
+TP
+
+Taichi: "Wait a minute."
+TP
+
+She ignored me.
+TP
+
+WVP 0 vfCCC3022you020
+Youko: "......Taichi......you're in too deep."
+TP
+
+I tried to follow her, but there was a voice behind me.
+TP
+
+Taichi: "Isn't that okay? It'll be repeated anyway."
+TP
+
+Taichi: "Our proper time is meaningless, right?"
+TP
+
+Taichi: "There's a lot I should do in order to increase the amount of information in the diaries."
+TP
+
+GL 2 TCHY0001
+GP 2 180 0
+GI 2 1
+
+WVP 0 vfCCC3022you021
+Youko: "If you're acting for just that, then you're right......but Taichi, that's wrong."
+TP
+
+WVP 0 vfCCC3022you022
+Youko: "Taichi is treating a broken toy too preciously."
+TP
+
+Taichi: "Are you telling me to live only facing you until I die?"
+TP
+
+GL 2 TCHY0002
+GI 2 0
+WVP 0 vfCCC3022you023
+Youko: "Yes, like back then."
+TP
+
+Taichi: "......without connecting to anyone else."
+TP
+
+Taichi: "Forever within a small ring......"
+TP
+
+WVP 0 vfCCC3022you024
+Youko: "Size is a subjective thing."
+TP
+
+WVP 0 vfCCC3022you025
+Youko: "There's not a big difference between living in a family of a hundred, and living with me."
+TP
+GL 2 TCHY0001
+GI 2 0
+
+WVP 0 vfCCC3022you026
+Youko: "I think Taichi's decisions are overly conscious of what is normal."
+TP
+
+GL 2 TCHY0000
+GI 2 0
+WVP 0 vfCCC3022you027
+Youko: "Even though what you need is something you come up with by analyzing yourself."
+TP
+
+Taichi: "......what's wrong with normal things?"
+TP
+
+GL 2 TCHY0001
+GI 2 0
+WVP 0 vfCCC3022you028
+Youko: "It doesn't suit Taichi."
+TP
+
+WVP 0 vfCCC3022you029
+Youko: "Even though those girls can only be momentary toys..."
+TP
+
+GL 2 TCHY0000
+GI 2 0
+WVP 0 vfCCC3022you030
+Youko: "......it won't last. It will end quickly."
+TP
+
+WVP 0 vfCCC3022you031
+Youko: "Taichi himself will start wanting to end it."
+TP
+
+Taichi: "............"
+TP
+
+That might be.
+TP
+
+Like what happened just now.
+TP
+
+I understand what she wants to say.
+TP
+
+However,
+TP
+
+Taichi: "This week you'll let me do as I please."
+TP
+
+GL 2 TCHY0001
+GI 2 0
+WVP 0 vfCCC3022you032
+Youko: "......I see."
+TP
+
+Taichi: "You can go home for today."
+TP
+
+GL 2 TCHY0000
+GI 2 0
+WVP 0 vfCCC3022you033
+Youko: "You don't have to turn me away that much......"
+TP
+
+Taichi: "I'm saying you don't have to watch over me. After all, even if I end up in danger, tomorrow's Sunday. The day of refiguring. It won't mind if I do something reckless."
+TP
+
+GL 2 TCHY0001
+GI 2 0
+WVP 0 vfCCC3022you034
+Youko: "......proper time."
+TP
+
+Taichi: "Eh?"
+TP
+
+WVP 0 vfCCC3022you035
+Youko: "Just as you are now living in your proper time, I am living in my proper time."
+TP
+
+WVP 0 vfCCC3022you036
+Youko: "Only the current me is facing the current you. It's an obvious thing, but......"
+TP
+
+WVP 0 vfCCC3022you037
+Youko: "The wishes of the proper me are different from those of next week's me."
+TP
+
+
+GL 2 TCHY0000
+GI 2 0
+WVP 0 vfCCC3022you038
+Youko: "That's why, well......"
+TP
+
+As if imploring me...
+TP
+
+GL 2 TCHY0002
+GI 2 0
+WVP 0 vfCCC3022you039
+Youko: "We are being destroyed every week."
+TP
+
+WVP 0 vfCCC3022you040
+Youko: "Individual destruction. In other words,"
+TP
+
+WVP 0 vfCCC3022you041
+Youko: "Every week, I'm a different me......"
+TP
+
+Taichi: "......!"
+TP
+
+The same thought I had.
+TP
+
+GL 2 TCHY0001
+GI 2 0
+WVP 0 vfCCC3022you042
+Youko: "I don't know what will happen to the me's of other weeks, but......"
+TP
+
+Tears.
+TP
+
+WVP 0 vfCCC3022you043
+Youko: "With so many possibilities, is there one where......Taichi will treat me kindly?"
+//One of my favorite lines in the whole novel. Hard to explain why. Å`IX
+TP
+
+Taichi: "That's......I don't know, but,"
+TP
+
+WVP 0 vfCCC3022you044
+Youko: "There was no such pattern in the notebooks."
+TP
+
+WVP 0 vfCCC3022you045
+Youko: "......you just dissipate without attaining what you wish for."
+TP
+
+Taichi: "Let's talk about that later."
+TP
+
+GL 2 TCHY0000
+GI 2 0
+WVP 0 vfCCC3022you046
+Youko: "There is no later."
+TP
+
+WVP 0 vfCCC3022you047
+Youko: "I'll just disappear while wanting for you."
+//'while wanting for you' sounds awkward, but I can't think of a replacement... - Sheeta
+//Wanting for you? -VDZ
+TP
+
+WVP 0 vfCCC3022you048
+Youko: "It'll become goodbye."
+TP
+
+Taichi: "......I see."
+TP
+
+GL 2 TCHY0001
+GI 2 0
+WVP 0 vfCCC3022you049
+Youko: "I'm sorry......I won't bother you anymore......"
+TP
+
+She turned her heels.
+TP
+
+WVP 0 vfCCC3022you050
+Youko: "But, record this at least."
+TP
+
+She spoke to me while turned away.
+//This might have changed the meaning. I'm not entirely sure since the other one was a little ambiguous. If this isn't what it meant and you don't like it, then you know what to do.-Spin
+TP
+
+WVP 0 vfCCC3022you051
+Youko: "......wherever you go, there is no one......who will understand you."
+TP
+
+Her words became heavy stones that fell into my stomach.
+TP
+
+Taichi: "........................"
+TP
+GO 2 1
+I watched her walk down the hallway until she became as small as a mustard seed, and disappeared.
+TP
+
+I definitely don't hate her.
+TP
+
+But......there are too many contradictions in her wishes.
+TP
+
+I felt as if there would be no intermingling of our two paths.
+TP
+
+RET

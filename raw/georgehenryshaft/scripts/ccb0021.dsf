@@ -1,0 +1,286 @@
+
+GL 0 bgcc0006
+GS 1 0
+GS 0 1
+SEF 155 0
+
+
+
+
+//教室に顔を出すと、冬子がいた。
+When I showed face in the classroom, Touko was there.
+TP
+GL 0 evcc0011
+$CGevcc0011 = 1
+GS 0 1
+SEF 109 0
+
+
+//俺は驚いて、佇む。
+I was surprised, and stood still.
+TP
+
+//太一「……桐原」
+Taichi: "...Kirihara."
+TP
+
+//気怠げに視線が、まるで俺の背後でも見通すかのように、虚ろに泳いだ。
+Her languid gaze was swimming vacantly, as if it were looking straight through to behind me.
+TP
+
+WVP 1 bgm007.ogg 0 0 0
+
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+
+//冬子の頬がこけていた。
+Touko's cheeks were sunken.
+TL
+//肌色も悪い。
+Her complexion looked bad too.
+TL
+//髪の毛もほつれて。
+Hair frayed as well.
+TL
+//命のともしびは、確実に小さくなっていた。
+The light of her life had become truly faint.
+TL
+//関心ない様子で机に顔を伏せる。
+She lays her face on the desk, looking
+disinterested.
+TL
+//冬子は誰にも触れないまま、朽ちていくのだろうか。
+Seems Touko has stayed like this, not touching
+nor touched by anybody, rotting away.
+TL
+//彼女はショックに耐えられなかったのか。
+She could perhaps not endure the shock,
+TL
+//人類の終わったこの世界で。
+of this world where mankind had ended.
+//Inverted.
+TL
+//誰だって最後は一人で死ぬ。
+Everybody, at the end, is alone in death.
+TL
+//けど死ぬまでは、生きていないといけないのに。
+But until death, it is out of the question
+to not be living.
+//This is the simpler sense of "stay alive". -GHS
+TL
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+//俺は近寄って、声をかけた。
+I approached and called out to her,
+TP
+
+//できるだけ優しく。
+as gently as I could.
+TP
+
+//それが偽善であったとしても……構わない。
+Though this may have been hypocritical... it didn't matter.
+TP
+
+//俺は偽善を行うために、在るのだから。
+Because I exist for the purpose of carrying out hypocrisy.
+TP
+
+//太一「気にくわないこともあるだろうけど、明日から部活、来てみないか？」
+Taichi: "I know you can't really stomach it, but couldn't you try coming to Club starting tomorrow?"
+//CP CCA0028
+TP
+
+WVP 0 vfccb0021fyu000
+//They redid the line for this script for whatever reason, more curious as this is her only line in that script. Probably forgot to tag it as dupe or something. -GHS
+//冬子「……え？」
+Touko: "...eh?"
+//CP CCA0028
+TP
+
+//困惑と戸惑いを貼りつけて、彼女は伏していた顔をあげた。
+Gluing puzzlement to bewilderment, she brought up her prostrate head.
+//CP CCA0028
+TP
+
+//憔悴したその面差しが、緋色に色づけされてどこか悲壮な印象を与えた。
+Her emaciated features turned a bright scarlet, and left me with an impression in some respects tragic.
+//CP CCA0028
+TP
+
+//太一「な？」
+Taichi: "No?"
+TP
+
+//机に水筒とサンドイッチの包みを置いた。
+I put a bundle of sandwiches and the canteen on her desk,
+TP
+
+//海水浴の残りだ。
+the leftovers of the beach outing.
+TP
+
+//一人分くらいはあった。
+There's about enough for one person.
+TP
+
+//冬子がそれをじっと凝視する。
+Touko stares at them intently.
+TP
+
+//太一「ゆっくり食べないと、胃が受けつけないからな」
+Taichi: "You gotta eat slowly, the stomach won't accept it otherwise."
+TP
+
+WVP 0 vfccb0021fyu001
+//冬子「……食欲、ないのよ」
+Touko: "...have no... appetite."
+TP
+
+//掠れた声。
+A husked voice.
+TP
+
+//太一「よしわかった、食べるんだ」
+Taichi: "Yeah I get it, so eat."
+TP
+
+//冬子「…………」
+Touko: "......"
+TP
+
+//ゆっくりと手が伸びる。
+Slowly she reaches with her hands,
+TP
+
+//包みをとき。
+unwraps the package,
+TP
+
+//小さく、囓る。
+and gives tiny gnaws.
+TP
+
+//太一「……ゆっくりな。水もあるから」
+Taichi: "...slowly now. There's also water if you need."
+TP
+
+WVP 0 vfccb0021fyu003
+//冬子「…………うっ」
+Touko: "......ngh."
+TP
+
+//口を押さえる。
+She covers her mouth.
+TP
+
+//太一「あ、平気か？」
+Taichi: "Ah, you alright?"
+TP
+
+WVP 0 vfccb0021fyu004
+//冬子「平気だから、いいから」
+Touko: "I'm alright, it's all good."
+TP
+
+//振り払われる。
+Shaken off.
+TP
+
+//挙措は弱々しかったが、拒絶の意志は確かだった。
+Her behavior is feeble, but there is also an intent of rejection, definitely.
+TP
+
+//太一「……桐原ぁ」
+Taichi: "...Kiriharaaa."
+TP
+
+//気まずい空気。
+The mood is awkward.
+TP
+
+WVP 0 vfccb0021fyu005
+//冬子「これ、もらうわ」
+Touko: "I'll... take this yes."
+TP
+
+//太一「へ？」
+Taichi: "Eh?"
+TP
+
+WVP 0 vfccb0021fyu006
+//冬子「家で食べるから」
+Touko: "So I'll eat it home."
+TP
+
+//太一「そう……なのか？」
+Taichi: "Will you... you sure?"
+TP
+
+WVP 0 vfccb0021fyu007
+//冬子「……ええ」
+Touko: "...yeah."
+TP
+
+WVP 0 vfccb0021fyu008
+//冬子「ありがとう」
+Touko: "Thank you."
+TP
+
+//すんなりと礼の言葉を口にする。
+Words of politeness flow smoothly from her mouth.
+TP
+
+//太一「俺さ……日曜、部活に出ようと思うんだけど」
+Taichi: "You know, me... I'm thinking of going to club on Sunday."
+TP
+
+//太一「よかったら、来るといいよ」
+Taichi: "If you want to, you can come too."
+TP
+
+//太一「ＳＯＳ、出すんだ」
+Taichi: "We'll send out an SOS."
+TP
+
+//太一「たいして広範囲には届かないみたいだけど」
+Taichi: "It doesn't look like the reach will be that extensive, though."
+//Worrywart, it'll reach the other side of the world. -GHS
+TP
+
+//太一「指向性と帯域の調整はいくらでもできるから」
+Taichi: "There's so many possible bandwidth and direction settings we could use after all."
+TP
+
+//太一「それが、新しい部活なんだ」
+Taichi: "Those will be new club activities, then."
+TP
+
+//太一「……悪くないだろ？」
+Taichi: "...not bad innit?"
+TP
+
+WVP 0 vfccb0021fyu009
+//冬子「……そうね」
+Touko: "...I'd say."
+TP
+
+//少しだけ、冬子との悪関係を修復できた気がした。
+It felt that my bad relationship with Touko had mended, just a tiny bit.
+TP
+WT 500 0
+WT 500 1
+
+WVS 1 1
+RET

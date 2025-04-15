@@ -1,0 +1,1613 @@
+GL 0 bgcc0019
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+
+WVP 1 bgm007.ogg 0 0 0
+
+//冬子の家。
+Touko's house.
+//Saaay, without Youko, how does he get here? Walk, maybe, but it remains odd. -GHS
+TP
+
+//いや……屋敷。
+No... mansion.
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+//中に入ると、一面の闇だった。
+I go inside, and it was nothing but darkness.
+//This seems to partially contradict CCC3021, although the term is the same. Very hummm. Consider it's unlikely Taichi ever goes to the mansion... -GHS
+TP
+
+//窓は締め切ってある。
+The windows are shut tightly.
+//See CCC3021 again. Boarded up? When? ...why? -GHS
+TP
+
+//懐中電灯を取り出し、冬子の部屋に。
+I take out the flashlight, and head to Touko's room.
+//Didn't he give it to Kiri? Oh yes he did. And what for, since he has night eyes? -GHS
+TP
+
+//昔、何度か来たことがある。
+I have come here several times in the past.
+//Contrast CCC3021. This isn't a plot hole; this is a contradiction so blatant one simply has not to have read both scripts not to notice. This has to be intentional. -GHS
+TP
+
+//父親に紹介されそうになったんだよな。
+I almost ended up being introduced to her father.
+TP
+
+//……逃げたけど。
+...but I ran away.
+TP
+
+//二階。
+Second floor.
+//No hesitation this time. -GHS
+TP
+
+//部屋を一つ一つ確認していく。
+I go check the rooms one by one.
+//CP CCC3021
+TP
+
+//たしかこのあたり……。
+I'm sure, it was around here...
+TP
+
+//無数にある扉の一つを開くと。
+I open one of the countless doors there.
+//PCP CCC3021
+TP
+
+//光がさしこんだ。
+Light was shining in.
+//CP CCC3021
+TP
+
+
+
+GL 5 bgcc0000e
+GL 0 evcc0050a
+$CGevcc0050a = 1
+GI 5 0
+GS 0 1
+GS 5 0
+SEF 109 0
+
+//太一「……………………」
+Taichi: "........."
+TP
+
+//窓は全開だった。
+The window was wide open.
+//CP CCC3021
+TP
+
+//そっと入り込んだ風が、室内を旋回してまた出ていく。
+The wind gently enters, makes the rounds of the room's interior, then leaves.
+//CP CCC3021
+TP
+
+//だからだろうか。
+This is probably why,
+//CP CCC3021
+TP
+
+//腐臭さえしない。
+there's no smell of rot.
+//CP CCC3021
+TP
+
+//太一「……冬子」
+Taichi: "...Touko."
+//CP CCC3021
+TP
+
+//胸に、刃物がひとつき。
+A bladed weapon was thrust into the chest.
+TP
+
+//なるほど確かに他殺体だ。
+I see, it's certain, it's the body of a murder victim.
+//Well now, this is odd. See CCC3025. Perhaps, given how much he must be broken over Youko, it's not strange at all... -GHS
+TP
+
+//刃物はこの屋敷のものだろうか。
+The weapon likely came from this very mansion.
+//IOW, if Kiri had seen it, she'd have to have at least one question: why use that Knife when Taichi has one of his? See CCC4010. -GHS
+TP
+
+//柄が華美に彫り込まれた、調度品めいた短剣である。
+A dagger as ornate as the furniture, with a gaudily engraved handle.
+//Wonder if this very line gave us the Seven Sisters. -GHS
+TP
+
+//出血はある。
+There's bleeding.
+TP
+
+//胸元からシーツまでを濡らして、赤黒く変色させていた。
+Soaking her from the pit of the stomach down to the sheets, it had become a discolored dark red.
+//This much bleeding hints that she was alive when she was stabbed. The answer then becomes simple: if Kiri never saw the body, and just listened to what Miki told her (I mean, why even go to the Kirihara mansion in the first place?), then the Knife is only in Taichi's mind. The bleeding doesn't exist; it just tells us that Touko is still alive, and likely sleeping in the infirmary after a collapse. -GHS
+TP
+
+//だけど。
+Yet still,
+TP
+
+//きれいな骸ではあった。
+what a pretty husk she made.
+//And even more absolute and complete total lack of any reaction whatsoever to the blood. THIS is what a wham line looks like. -GHS
+TP
+
+//冬子らしい、気高い死体だと思った。
+I though this noble corpse was so Touko-like.
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//俺はしばらく、佇んでいた。
+For a long time I stood still.
+TP
+
+//心臓とともに、時間まで射抜かれたのか。
+It's as if time itself had been pierced through along with her heart.
+TP
+
+//冬子はまるで止まっているようだった。
+Touko seemed exactly as if she had just stopped for a moment.
+TP
+
+//短剣を抜いたら、すぐにでも起きて俺の非礼をののしりそうな。
+Pull out that dagger, and she could immediately wake up, and hurl abuse at my ill manners.
+//And if my theory is correct, this is literally true and we're being trolled so hard it's impossible to tell up from down. He means his coming to her room. -GHS
+TP
+
+//そんな気がした。
+That was what it felt like.
+TP
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+//……誰が殺したのだろう。
+...someone must have killed her.
+TP
+
+//残念ながら、容疑者は数えるほどしかいない。
+But unfortunately, the suspects were quickly enumerated.
+TP
+
+TS 2
+GL 4 zzzblackblend
+GP 4 0 0
+GS 4 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+
+//霧。
+> 
+ 
+ 
+Kiri,
+TL
+//美希。
+> 
+Miki,
+TL
+//友貴
+> 
+Tomoki,
+//Seems a line feed was missing here. -GHS
+TL
+//桜庭。
+> 
+Sakuraba,
+TL
+//みみ先輩。
+> 
+Mimi-senpai.
+TL
+//他に隠れている人間がいれば別だが、これで全員。
+> 
+ 
+If there were some other human hidden somewhere
+it would be different, however, that is everyone.
+//He can absolutely positively not possibly know that at this point, at all. Although he'll get her next script, he instinctively dismisses Nanaka. -GHS
+TP
+
+GL 5 zzzCCC0021kiri
+GP 5 220 0
+GI 5 1
+//HACK faded, uncut Kiri doll. These'd be so much PITA if I didn't do them already. Whew... -GHS
+
+//まず霧。
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+First, Kiri.
+TL
+//ないように思う。
+> 
+No, I don't think so.
+TL
+//第一発見者ではあるが。
+She was the first to find her, but...
+TL
+//考えにくい。
+It's hard to imagine.
+TL
+//霧の怒りは本物で、混乱もまた真実だった。
+Kiri's anger was genuine, and her confusion
+was also very real.
+TP
+
+GO 5 1
+GL 5 zzzCCC0021miki
+GP 5 180 0
+GI 5 1
+//HACK faded, uncut Miki doll -GHS
+
+//美希。
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+Miki.
+TL
+//可能性はある。
+> 
+The possibility exists.
+TL
+//だけど動機がわからない。
+However, I don't get the motive.
+TL
+//もはやアリバイなんて意味はないわけで、美希がどこで何をしているのか、確実に知る術はない。
+We are now in a place where alibis have no
+meaning, and there are no means to ascertain
+wherever Miki could be and whatever she could
+be doing.
+TL
+//可哀相だが、容疑者①。
+Regrettable, but, she's suspect #1.
+TP
+
+GO 5 1
+GL 5 zzzCCC4015tomoki
+GP 5 190 0
+GI 5 1
+//HACK ...only one I had to do (whew) -GHS
+
+//友貴。
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+Tomoki.
+TL
+//容疑者②である。
+> 
+He's suspect #2.
+TL
+//やはり動機は不明。
+Once more, motive is unknown.
+TP
+
+GO 5 1
+GL 5 zzzCCC0021sack
+GP 5 190 0
+GI 5 1
+//HACK faded, uncut Sakuraba penis -GHS
+
+//桜庭。
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+Sakuraba.
+TL
+//容疑者③。同上。
+> 
+Suspect #3. Idem.
+TP
+
+GO 5 1
+GL 5 zzzCCC0021misato
+GP 5 225 0
+GI 5 1
+//HACK faded, uncut Misato doll -GHS
+
+//みみ先輩。
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+Mimi-senpai.
+TL
+//容疑者④。同上。
+> 
+Suspect #4. Idem.
+TP
+
+GS 4 0
+GS 5 0
+SEF 109 0
+TWS 0
+//HACK ADV mode -GHS
+
+
+//太一「うーん」
+Taichi: "Naaah."
+TP
+
+//ほとんど手がかりはない。
+Pretty much no clues on hand.
+TP
+
+//殺しそうな人間も動機も、見えていない。
+I can't see it, neither the one who'd be a killer, nor the motive.
+TP
+
+//また曜子ちゃんを殺した者と、冬子を殺した者が同一人物だとは限らない。
+Also, it's not certain that the one who killed Youko-chan and the one who killed Touko are one and the same.
+TP
+
+//……探偵って難しいな。
+...being a detective's hard, innit.
+TP
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+//正門のあたりで、容疑者②を発見した。
+Suspect #2 spotted in close proximity of the front of the main gate.
+//Going with police report. -GHS
+TP
+
+//奇襲尋問に入る。
+Commencing Surprise Interrogation Attack.
+//Also insanity. -GHS
+TP
+
+//太一「年齢は？」
+Taichi: "Your age?"
+TP
+
+GL 1 TCST0000
+GP 1 190 0
+GI 1 1
+WVP 0 vmCCC4015yki000
+//友貴「……言えません」
+Tomoki: "...cannot state it."
+//Remember that everyone is 18 or older even if the main cast is between 15 and 18. -GHS
+TP
+
+//さすが友貴。
+Expectable from Tomoki.
+TP
+
+//俺の奇襲にも動じた様子はない。
+Even my surprise attack doesn't seem to put him in a state of agitation.
+TP
+
+//太一「年齢を言えないだと？　理由は？」
+Taichi: "You cannot state your age? Reason?"
+TP
+
+GL 1 TCST0004
+GI 1 0
+WVP 0 vmCCC4015yki001
+//友貴「理由は言えません」
+Tomoki: "Cannot state the reason."
+//Censorship. -GHS
+TP
+
+//太一「理由も言えないのか？」
+Taichi: "You cannot state the reason either?"
+TP
+
+WVP 0 vmCCC4015yki002
+//友貴「はい……すいません」
+Tomoki: "Yes... sorry."
+TP
+
+//太一「質問を変えよう。二十歳より上かね、下かね？」
+Taichi: "Let's change question. Are you older or younger than twenty years old?"
+TP
+
+GL 1 TCST0000
+GI 1 0
+WVP 0 vmCCC4015yki003
+//友貴「下です」
+Tomoki: "Younger."
+//Odd, he should be 21. -GHS
+TP
+
+//太一「１８歳より下かね？」
+Taichi: "You are under the age of 18 I suppose?"
+TP
+GL 1 TCST0004
+GI 1 0
+WVP 0 vmCCC4015yki004
+//友貴「言えません」
+Tomoki: "Cannot state it."
+//PCP [zxfdg
+TP
+
+//太一「ふーむ。１７歳かね？」
+Taichi: "Uh-huh. You are 17 years old, are you?"
+TP
+
+WVP 0 vmCCC4015yki005
+//友貴「絶対に言えません」
+Tomoki: "Absolutely cannot state it."
+TP
+
+//太一「君は高校生なんじゃないのか？」
+Taichi: "Aren't you a high school student?"
+TP
+
+//GL 1 TCST0001
+//GI 1 0
+//HACK no change. -GHS
+WVP 0 vmCCC4015yki006
+//友貴「……そんなものはこの世に存在しません」
+Tomoki: "...that is something that does not exist in this life."
+//He's just playing along... or is he? この世 = "this world, this present life as contrasted to the land of the dead". Hmmm. -GHS
+TP
+
+//太一「女子高生と女子校生はどっちがダメなんだ？」
+Taichi: "Which is incorrect between: Female Hi-School Student and Female, high, School Student?"
+//Adapted via... should be obvious, but if it isn't, a hint: DRUGSDRUGS DRUGS D R U G S !!drugs!! -GHSdrugs
+TP
+//GL 1 TCST0004
+//GI 1 0
+//HACK no need. -GHS
+WVP 0 vmCCC4015yki007
+//友貴「どっちもダメって聞いたことがあります」
+Tomoki: "I have heard that both are incorrect."
+//Note that he's asking two terms both terms pronounced "joshikousei" there's no possible way he knows this unless he's reading the screen. ...though EDICT knows 女子高生, and both terms GIS to girls more or less* in high-school uniforms. -GHS
+//*=porn
+TP
+
+//太一「生徒手帳というものを知っているかも？」
+Taichi: "You know of something called a 'student identification', I assume?"
+//Doesn't seem to be the MateBook. Is this supposed to be funny like this? -GHS
+TP
+
+WVP 0 vmCCC4015yki006
+//友貴「……そんなものはこの世に存在しません」/*
+Tomoki: "...that is something that does not exist in this life."
+//CP literally
+TP
+
+//太一「年齢は？」
+Taichi: "Your age?"
+//CP ;'dfogb[pcxov pertfd
+TP
+
+GL 1 TCST0000
+GI 1 0
+WVP 0 vmCCC4015yki008
+//友貴「思春期です」
+Tomoki: "I am adolescent."
+TP
+
+//太一「……年齢確かめることもできねーのかよ」
+Taichi: "...I can't even verify your age, dammiiit!"
+TP
+GL 1 TCST0003
+GI 1 0
+WVP 0 vmCCC4015yki009
+//友貴「しかたないだろー」
+Tomoki: "Nothing you can do about it!"
+TP
+
+//HACK this whole comedy scene is weak as hell, even considering it's supposed to be as funny as 'kiri-fuda'. A few new lines help... -GHS
+
+//コイツ、やけに慎重だな。
+Wiseguy's frightfully careful, innhe.
+TP
+//太一「おいおいシスタープリンス、年齢を公言してもいいんだぜ」
+Taichi: "Come, come, Sister Prince, ain't no problem with declaring your age now."
+TP
+//たぶん。
+Maybe.
+TP
+//友貴「…………」
+Tomoki: "......"
+//They spared no expense with this addition. -GHS
+TP
+//無視してやがる。軟弱者め。
+Ignoring me, is he now. Damn softy bastard.
+TP
+//太一「ケッ、カマトトぶりやがって」
+Taichi: "Gah, playing the fake innocent, are you now."
+TP
+//太一「なら教えてやる。いいか。俺様は１７歳だ」
+Taichi: "Then I'll tell ya. No prob'. The greatness that is I is 17 years old."
+//No, he's still 22 because of Eroge Years. Extremely minor inconsistency beats the original crap joke tho. -GHS
+TP
+GL 1 TCST0002
+GI 1 0
+//友貴「……………………」
+Tomoki: "............"
+//Truly, no expense. -GHS
+TP
+//友貴は汗をかいた。
+Tomoki began sweating.
+TP
+//太一「クックックッ、どうした、びびっちまったのかい？」
+Taichi: "Kuh kuh kuh, what is it, got the jitters?"
+TP
+//太一「ならもう一度聞かせてやるぜ」
+Taichi: "Then I'll have you hear it one more time!"
+TP
+//太一「おれは１７歳だーーーーーーーーーーーーーーーーーーーーーーーーーーーっっ！！」
+Taichi: "17 is my aaaaaaaaaaaaaaaaaaaaaaaaaaage!!!"
+//x27 Yes, these were fun to count. And this sentence isn't sarcasm. -GHS
+TP
+//太一「じゅうななさいだぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁっっ！！」
+Taichi: "Seventeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeen!!!"
+//x46. -GHS
+TP
+//太一「セブンティーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーン！！」
+Taichi: "Seven plus teeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeen!!!"
+//Adapted (he says "seventeen" in English). x110(!!!) -GHS
+TP
+//太一「クククククク、ハハハハハハハハハハハハハハハハハ！！！！」
+Taichi: "Kuh kuh kuh kuh kuh kuh, HAAA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HAAAAA!!!!!!!!"
+//x6 x17 -GHS
+TP
+//友貴「…………」
+Tomoki: "......"
+//Admittedly, what else would YOU answer? -GHS
+TP
+//友貴は俺を見て、静かに泣いていた。
+Tomoki looked at me and began crying in silence.
+TP
+//太一「そんなイヤな同情すんなっ！！狂ってねーよ！！」
+Taichi: "Don'tcha be giving me that miserable pity now!!! I ain't gone insane!!!"
+TP
+//いや、だいぶ狂ってますけど。
+No, I appear to have gone plenty insane indeed.
+//Formal-ish. -GHS
+TP
+
+//尋問はダメだ。やってられん。
+//Interrogation is not happening. Just can't do it.
+//ダメだ。やってられん
+Not happening. I just can't do this.
+//Last line, which replaces a previous one. Suppose since the interrogation's too far back? Doesn't seem censorship. -GHS
+TP
+
+//太一「で、どうしたんだ？」
+Taichi: "So, what are you doing?"
+TP
+
+GL 1 TCST0000
+GI 1 0
+WVP 0 vmCCC4015yki010
+//友貴「……別に。帰ろうとしてただけだよ」
+Tomoki: "...nothin' much. Just thinking of going home, 's all."
+TP
+
+//太一「突っ立ってたじゃないか。なんか電波でも受信せんばかりに」
+Taichi: "Weren't you standing straight at attention? You trying to get Denpa reception or something?"
+//Trying to look up at the rooftop. Of course he totally means radio wave laterally, and after that mess above there's not a shred of a doubt. -GHS
+TP
+
+WVP 0 vmCCC4015yki011
+//友貴「……帰るよ。帰ろうとしてたんだ」
+Tomoki: "...going home. 'Cause I was about to go home."
+TP
+GO 1 1
+//トロトロと友貴は去っていった。
+Tomoki left, drowsily.
+TP
+
+//太一「なんだあいつ？」
+Taichi: "What's with him?"
+//Well, the answer's obvious now, genius. -GHS
+TP
+
+//ヤツが立っていた場所から、視線を追う。
+I follow his line of sight from the place where he was standing.
+TP
+
+//屋上。
+Rooftop,
+TP
+
+//アンテナ。
+the antenna,
+TP
+
+//そして。
+and also,
+TP
+
+//みみ先輩―――
+Mimi-senpai---
+TP
+
+//フェンスにしがみつくようにして、街並みを眺めていた。
+Gripping tight on the fence, she was lost in gaze of the townscape.
+TP
+
+//しばらくして、身を離してアンテナ側に消えた。
+After a while, she distanced herself and vanished on the side of the antenna.
+TP
+
+//太一「？」
+Taichi: "?"
+TP
+
+//喧嘩してるんだったな、あの二人。
+Those two have been fighting, haven't they.
+TP
+
+//とても人を殺す余裕があるとは思えなかった。
+I didn't think there was much space in there to kill someone.
+TP
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+//美希がトイレから出てきた。
+Miki was coming out of the toilet.
+//Not the closet yet. -GHS
+TP
+
+GL 1 TCYM0000
+GP 1 180 0
+GI 1 1
+WVP 0 vfCCC4015mki000
+//美希「あ、せんぱーい」
+Miki: "Ah, Senpai!"
+//PCP CCA0015, except not in Kanji. This is obviously important in some scatological exo-genesis that I don't care the slightest about. -GHS
+TP
+
+//太一「よっ、容疑者②」
+//太一「よっ、容疑者①」
+Taichi: "Yo! Suspect #1."
+//Typo corrected in the console version script. This route had less than perfect editing. -GHS
+TP
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC4015mki001
+//美希「……え゛？」
+Miki: "...eh-?"
+TP
+
+//太一「年齢は？」
+Taichi: "Your age?"
+//CP above
+TP
+
+
+
+
+GL 1 TCYM0003
+GI 1 0
+//HACK this was probably the crappiest joke of the VN, and I'm glad I wasn't the only one to think so. This one is significantly better, and extremely thematically interesting. All doll work below is also new. -GHS
+
+//美希はにんまりした。
+Miki gave a complacent smile.
+TP
+WVP 0 vfzzzCCC4015miki1
+//美希「１５歳でーす」
+Miki: "15 I aaam!"
+TP
+//太一「年齢を言えないだと？　理由は？」
+Taichi: "You cannot state your age? Reason?"
+//CP random garbled letters
+TP
+
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfzzzCCC4015miki2
+//美希「言ったじゃねーか」
+Miki: "Didn't I say it?"
+TP
+//太一「え……あ、そうか」
+Taichi: "Eh... ah, right."
+TP
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfzzzCCC4015miki3
+//美希「ちょっと後遺症があるようですな」
+Miki: "Seems there's some aftereffects."
+//Yes, like Yutaka's narcolepsy or whatever Taichi's on.
+TP
+//太一「うむ、お恥ずかしい……」
+Taichi: "Yup, so embarrassing..."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfzzzCCC4015miki4
+//美希「１５歳です」
+Miki: "15 I am."
+TP
+//お辞儀。
+Bowing.
+TP
+//太一「１７歳です」
+Taichi: "I am 17."
+TP
+//お辞儀。
+Bowing.
+//CP above
+TP
+WVP 0 vfzzzCCC4015miki5
+//美希「じゅうごさいです」
+Miki: "I am fif-teen."
+TP
+//太一「じゅうななさいです」
+Taichi: "I am se-ven-teen."
+//I'll show you love, like you've never seen -GHS
+TP
+//お辞儀。
+Bowing.
+//CP above
+TP
+//太一「セブンティーン！」
+Taichi: "Seven plus ten!"
+TP
+
+GL 1 TCYM0011
+GI 1 0
+
+WVP 0 vfzzzCCC4015miki6
+//美希「フィフティーン！」
+Miki: "Five plus ten!"
+//See above. -GHS
+TP
+//ぺこぺこ
+Bow, bow & bow.
+//Also famished. Not me, Mik-- no, the wor-- oh forget it. -GHS
+TP
+//太一「ぶっちゃけ未成年です」
+Taichi: "If I may be frank, I'm a minor."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfzzzCCC4015miki7
+//美希「あっしもです」
+Miki: "Me's too!"
+TP
+//太一「ばんざーい、ばんざーい！！」
+Taichi: "Banzaaai, banzaaai!!!"
+//PCP CCCB2023 (exclamation marks)
+TP
+WVP 0 vfzzzCCC4015miki8
+//美希「ばんざーーーい！」
+Miki: "Banzaaaai!"
+TP
+//太一「あはははははははは」
+Taichi: "Ahahahahahahahahah!"
+//hah x8 -GHS
+TP
+WVP 0 vfzzzCCC4015miki9
+//美希「あはははははははは」
+Miki: "Ahahahahahahahahah!"
+//PCP above
+TP
+//超楽しい。
+Hyper Entertaining!
+TP
+//太一「最後に教えてくれ。君は高校生で女子高生と女子校生で生徒手帳なのではないのかね？」
+Taichi: "Tell me one last thing then. Are you not the student identification of a female hi-school student and a high female school student that's a high school student, aren't you?"
+//And now, a line that was pure comedic FAIL in the original is actually good. -GHS
+TP
+
+GL 1 TCYM0011
+GI 1 0
+
+WVP 0 vfzzzCCC4015miki10
+//美希「その通りです！」
+Miki: "Precisely so!"
+TP
+//太一「そうか……では最後に年齢は？」
+Taichi: "Indeed... oh, and one last thing: your age?"
+//Screw it, now he's Columbo. -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfzzzCCC4015miki11
+//美希「十五歳です」
+Miki: "Fifteen."
+TP
+//俺は美希の瞳を見つめた。
+I fix my eyes on Miki's pupils,
+TP
+//美希は俺を見つめ返してきた。
+and Miki returned my fixed gaze at me.
+TP
+//手と手をあわせる。
+Hand and hand grasp reciprocally.
+TP
+//くるくるまわる。ダンス。
+Spin and spin in a revolving. Dancing.
+TP
+//太一「アハハ」
+Taichi: "Ahahah!"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfzzzCCC4015miki12
+//美希「フフフ」
+Miki: "Hoh hoh hoh!"
+TP
+//そこには共感があった。
+There was empathy there,
+TP
+//理解も、解放も、喜怒哀楽もあった。
+and understanding, and liberation, and the four basic emotions.
+//Meaning she's not totally broken (she'll bring up this fact later), and that she's an Expert - see CCC4009. -GHS
+TP
+//二人はいつまでも踊りあかすことができた。
+Two people who were able to dance together for all of eternity.
+TP
+//ここで霧がトイレからでてきた。
+And there, Kiri came out of the toilet.
+//NOOOOOOOOO ALL IS DOOM -GHS
+TP
+
+
+//The original, weak scene is below. The only thing of note is the mention of Kagure Kakka... but in the end, the way that Miki plays along so closely to Taichi in his madness is far more important than another tangential mention of how this is all chuuni. -GHS
+
+//WVP 0 vfCCC4015mki002
+////美希「言えません」
+//Miki: "Cannot state it."
+//太一「年齢を言えないだと？　理由は？」
+//Taichi: "You cannot state your age? Reason?"
+//GL 1 TCYM0001
+//GI 1 0
+//WVP 0 vfCCC4015mki003
+////美希「理由も言えません」
+//Miki: "Cannot state the reason either."
+////太一「ふむ。では質問を変えよう。二十歳より上かね、下かね？」
+//Taichi: "Hum. Let's change question then. Are you older or younger than twenty years old?"
+//WVP 0 vfCCC4015mki004
+////美希「下です」
+//Miki: "Younger."
+////太一「１８歳より下かね？」
+//Taichi: "You are under the age of 18 I suppose?"
+//GL 1 TCYM0003
+//GI 1 0
+//WVP 0 vfCCC4015mki005
+////美希「外見は１５歳くらいに見えるとよく言われます」
+//Miki: "It is often said my outward appearances look approximately 15 years old."
+////太一「誰が主観の話をしろと言った」
+//Taichi: "Who told you that we're talking about personal opinions?"
+//GL 1 TCYM0000
+//GI 1 0
+//WVP 0 vfCCC4015mki006
+////美希「はい、スミマセン」
+//Miki: "Yes, my apologies."
+////太一「１８歳以下なのかね？」
+//Taichi: "You are under the age of 18 I suppose?"
+//GL 1 TCYM0041
+//GI 1 0
+//WVP 0 vfCCC4015mki007
+////美希「仕方ありません。真実をお話します……うっ、突然お腹が痛みました」
+//Miki: "I can't do anything about this. I shall be speaking the truth... ugh, all of a sudden my tummy started hurting!"
+////See CCA0015 -GHS
+////太一「なんてタイミングだ。シット！」
+//Taichi: "The hell's that timing. Shit!"
+////太一「最後に教えてくれ。君は高校生で女子高生と女子校生で生徒手帳なのではないのかね？」
+//Taichi: "Tell me one last thing then. Are you not the student identification of a female hi-school student and a high female school student that's a high school student, aren't you?"
+//GL 1 TCYM0001
+//GI 1 0
+//WVP 0 vfCCC4015mki008
+////美希「その四つの単語はこの世に存在しません」
+//Miki: "Those four terms refer to things that do not exist in this life."
+////太一「そうか……では最後に年齢は？」
+//Taichi: "Indeed... oh, and one last thing: your age?"
+//GL 1 TCYM0011
+//GI 1 0
+//WVP 0 vfCCC4015mki009
+////美希「十万十五歳です」
+//Miki: "One hundred thousand fifteen years old."
+////1+0+0+1+5=7 -GHS
+////太一「木暮一族？」
+//Taichi: "You a relative of Kogure Kakka?"
+////http://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%83%A2%E3%83%B3%E9%96%A3%E4%B8%8B Kanjis are there, timeline fits (active in the 80s and 90s), age is 100K+his real age. Plus, he's basically been chuunin' it for five decades so it's thematically consistent. -GHS
+////遅れて霧がトイレから出てきた。
+//Later than Miki, Kiri came out of the toilet.
+
+
+
+GL 2 TCSK0001
+GP 1 40 0 0
+GP 2 300 0 0
+GS 1 1
+GS 2 1
+SEF 109 0
+
+WVP 0 vfCCC4015kri000
+//霧「黒須太一！」
+Kiri: "Kurosu Taichi!"
+TP
+
+//たちまち目が吊り上がる。
+All at once she stares at me from the top of her eyes.
+TP
+
+WVP 0 vfCCC4015kri001
+//霧「美希、その人と話しちゃだめだよ！」
+Kiri: "Miki, do not go speaking to that person!"
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC4015mki010
+//美希「えー？　でも？」
+Miki: "Ehhh? Why even?"
+TP
+
+//HACK you thought it was over? -GHS
+
+//太一「話してくれなくてもいいさ。こうして踊ることかできれば」
+Taichi: "No problem even if you don't allow us to talk. As long as we can dance like this!"
+//Well, after American Graffiti, Saturday Night Fever, and I Vitelloni... -GHS
+TP
+
+WVP 0 vfzzzCCC4015kiri
+//霧「踊るのもダメ！」
+Kiri: "No dancing either!"
+//;_; KIRI U FASCIST -GHS
+TP
+WVP 0 vfzzzCCC4015miki13
+//美希「どうしてー？」
+Miki: "Whyyy?"
+TP
+//Back. -GHS
+
+
+GL 2 TCSK0002
+GI 2 0
+WVP 0 vfCCC4015kri002
+//霧「危ないから」
+Kiri: "Because he's dangerous."
+TP
+
+//太一「まだそんなことを言ってるのか」
+Taichi: "You're still saying that stuff."
+TP
+
+//太一「冬子、見てきたよ。確かに死んでたな」
+Taichi: "I went to look at Touko. She's really dead."
+TP
+
+GL 1 TCYM0002
+GL 2 TCSK0001
+//GI 2 0
+GS 1 1
+GS 2 1
+SEF 100 0
+//HACK here a change of doll makes sense. -GHS
+WVP 0 vfCCC4015kri003
+//霧「……ぬけぬけと」
+Kiri: "...so impudently..."
+TP
+
+//太一「仲間が死んだんだぞ。復讐より先に抱くべき感情はないのか」
+Taichi: "One of your Companions is dead! Shouldn't another emotion be in you before thirst for revenge?"
+//Manga-ish. -GHS
+TP
+
+GL 2 TCSK0003
+GI 2 0
+WVP 0 vfCCC4015kri004
+//霧「そんなの……い、言われるまでもない……」
+Kiri: "That's... th-, that goes without saying..."
+TP
+
+//……俺が言う台詞じゃないけどな。
+...but isn't that the line I should be saying.
+//Because he "doesn't" feel anguish at all, though that's delusional. -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4015mki011
+//美希「それじゃ犯人って……」
+Miki: "So then, the culprit..."
+TP
+
+//太一「俺等全員が容疑者」
+Taichi: "All hands, me included, are suspects."
+TP
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfCCC4015mki012
+//美希「……どうしましょお？」
+Miki: "...what can we even do?"
+TP
+
+//太一「全員が一箇所にいるのがいいんじゃないかな」
+Taichi: "Wouldn't it be best if everyone was gathered in a single place, perhaps."
+TP
+
+GL 2 TCSK0021
+GI 2 0
+WVP 0 vfCCC4015kri005
+//霧「いやよ！」
+Kiri: "No and no!"
+//Oh, a nono came out. See CCB2015. -GHS
+TP
+
+//太一「……だろうな」
+Taichi: "...obvious answer."
+TP
+
+WVP 0 vfCCC4015kri006
+//霧「わたしは美希といます！　あなたは一人で勝手にいればいい。どうせ……あなたが犯人なんだから」
+Kiri: "I will be staying with Kiri! You'd best stay alone on your own as you like! Because... you are the culprit after all."
+TP
+
+//太一「……もういいよ、それで」
+Taichi: "...that's enough of that, you know."
+TP
+
+GL 2 TCSK0001
+GI 2 0
+WVP 0 vfCCC4015kri007
+//霧「美希にも近づかないでください」
+Kiri: "Please do not come close to Miki either."
+TP
+
+//太一「……んー」
+Taichi: "...hmmm?"
+TP
+
+//太一「どうしてそんなことまで、霧に約束しないといけないんだ？」
+Taichi: "Why do I even have to promise you something like that, Kiri?"
+TP
+
+GL 1 TCYM0041
+GI 1 0
+WVP 0 vfCCC4015mki013
+//美希「あー、またぁ……」
+Miki: "Ahhh, agaaain..."
+TP
+
+//太一「俺は話したい相手に話しかけるよ。相手がどう反応するかは、そいつの自由」
+Taichi: "I will talking with anyone I want to talk with. How and whether that person responds will be left to that person's free will."
+TP
+
+GL 2 TCSK0002
+GI 2 0
+WVP 0 vfCCC4015kri008
+//霧「……美希はだめです」
+Kiri: "...with Miki you cannot."
+TP
+
+//太一「それは霧が決めることじゃないだろ」
+Taichi: "That's not something for you to decide, is it Kiri."
+TP
+
+WVP 0 vfCCC4015kri009
+//霧「美希は……わたしのはじめての親友ですから」
+Kiri: "Miki is... my very first buddy, that is why."
+//Same name as Sakuraba's Sendback route. -GHS
+TP
+
+GL 2 TCSK0001
+GI 2 0
+WVP 0 vfCCC4015kri010
+//霧「……みすみす危害を加えさせるつもりはないです」
+Kiri: "...I have no intention to let you inflict her harm right under my eyes."
+TP
+
+//太一「くわえないってば」
+Taichi: "I told you I'm not gonna inflict any."
+TP
+
+GL 2 TCSK0004
+GI 2 0
+WVP 0 vfCCC4015kri011
+//霧「ずっと、いじめられて……あんな試験結果なんかで……」
+Kiri: "Always... bullied... because of those test results..."
+//Ahhh, and her true problems come out... -GHS
+TP
+
+//涙ぐむ。
+She tears up
+TP
+
+//うへぇ……。
+Whoooa...
+TP
+
+//げっそりした。
+I feel disheartened.
+TP
+
+//太一「それ俺のせいちゃうで……」
+Taichi: "Is that my fault too now..."
+//She does pin the blame of everything bad in her life on anyone she can find. It's her way of Escape. -GHS
+TP
+
+GL 2 TCSK0001
+GI 2 0
+WVP 0 vfCCC4015kri012
+//霧「だから……わたしは……わたしの友達を、守りますから！」
+Kiri: "That is why... I will... protect my friends!"
+//~chuuniverse~ -GHS
+TP
+
+//太一「……あいよ」
+Taichi: "...whatever."
+TP
+
+//もう霧はダメだ。
+Kiri has now spoiled,
+TP
+
+//いろんな意味で。
+in multiple meanings.
+//See CCC4003 -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4015mki014
+//美希「霧ちん、もうよしなよ。なにもかも先輩のせいにして、もし他の人が犯人だったらどうするの？」
+Miki: "Kiri-chin, let's drop this. You just keep going with this and that being Senpai's fault, but what are you going to do if the the culprit is some other person?"
+//That's a suspicious thing to say for someone who knows this well and wants Kiri to get along with Taichi. Of course, Chuuni and Friendship exist on different worlds to her. -GHS
+TP
+
+GL 2 TCSK0002
+GI 2 0
+WVP 0 vfCCC4015kri013
+//霧「……そんなことない」
+Kiri: "...that won't be."
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfCCC4015mki015
+//美希「そうやって決めつける」
+Miki: "You've just decided he is."
+TP
+
+//太一「ねえ？」
+Taichi: "Nay?"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4015mki016
+//美希「ねー？」
+Miki: "Naaay?"
+TP
+
+//美希とはウマが合うのにね。
+But me and Miki are on the same wavelength, aren't we.
+//Lit. "like rider and horse". I still think he's comparing her "neee" to a horse's neigh... -GHS
+TP
+
+//太一「とりあえず、桜庭か友貴犯人説で動く」
+Taichi: "For starters, let's work on the Either Sakuraba Or Tomoki Is The Culprit theory."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4015mki017
+//美希「男の友情っていいなぁ」
+Miki: "Nice male camaraderie there."
+//Sarc -GHS
+TP
+
+//太一「誉めるない、照れるじゃねぇか」
+Taichi: "Don't praise me, you want me to go all red in the face?"
+TP
+
+//太一「……け、けどもしみみ先輩が犯人だったら……つ、つ、つ、つみをつぐなわないといけないよね、あの罪つくりボディで」
+Taichi: "...bu-, but, should Mimi-senpai be the culprit, then... a-, a-, a-, atoning for that sin would necessarily be, you know, with that sinfully-built bodeh!"
+//See CCA0007 once again, as well as CCD1001. Prescient. -GHS
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4015mki018
+//美希「きゃん♪」
+Miki: "Kyan!♪"
+TP
+GL 2 TCSK0004
+GI 2 0
+WVP 0 vfCCC4015kri014
+//霧「……やめて……」
+Kiri: "...stop this..."
+TP
+
+//太一「君も気をつけたまえ。もし犯人だったら……そーとーエロいことになりますよ」
+Taichi: "You also gladden me with some wariness. If you were the culprit... sooo maaany perverted things shall happen!"
+//Seems to be talking just to Miki. -GHS
+TP
+
+//架空のハマキをふかす。
+I smoked an Imaginary cigar.
+//PCP CCB0008B
+TP
+
+GL 2 TCSK0021
+GI 2 0
+WVP 0 vfCCC4015kri015
+//霧「やめてよっ！」
+Kiri: "Stop this!"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+//太一「……え？」
+Taichi: "...eh?"
+TP
+
+WVP 0 vfCCC4015kri016
+//霧「だからっ、どうして仲良くするのっっ！？」
+Kiri: "I'm saying, why are you acting all friendly?!"
+//Now it's Kiri who can't take this in any way with the right level of seriousness. Miki and Taichi are supposed to be enemies, dammit, that's the Settei! -GHS
+TP
+
+//シーン……
+The silence grows audible...
+//...annnd, shiin! -GHS
+TP
+
+WVP 0 vfCCC4015kri017
+//霧「危険なのに！　危ないのに！！」
+Kiri: "When you're dangerous! When you're a menace!!!"
+TP
+
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCC4015mki019
+//美希「いや……霧ちん、そこまで警戒しないでも」
+Miki: "Nah... Kiri-chin, there's no need to be all that vigilant."
+TP
+
+//太一「俺も生きてちゃいけないような気がしてきた……」
+Taichi: "I've had this feeling that I really shouldn't be exactly alive too..."
+//Hum, from her speech? See CCC3009, could be just remembering that. -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4015mki020
+//美希「霧っち言い過ぎ」
+Miki: "You're way out of line, Kiricchi!"
+TP
+
+WVP 0 vfCCC4015kri018
+//霧「美希は甘すぎるよ、この人は自分のお姉さんみたいな人、殺してるんだよ？」
+Kiri: "And you're way too naive, Miki! Didn't this person here kill someone who was like a sister to him?"
+//Actually a minor plot hole, since she learns this in CCC0031b, and it's avoidable in this route. Let's say Miki told her. -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4015mki021
+//美希「あれは……どうなんですか？」
+Miki: "That was... did you do that?"
+TP
+
+//太一「俺じゃないよ。もう死んでたし」
+Taichi: "It wasn't me. She was already dead."
+TP
+
+//太一「だいたいナイフの傷じゃないでしょ、あれ」
+Taichi: "Besides, that wasn't a knife wound at all."
+TP
+
+GL 2 TCSK0001
+GI 2 0
+WVP 0 vfCCC4015kri019
+//霧「わかるもんか」
+Kiri: "And I'll believe that!"
+TP
+
+//俺は嘔吐するようにため息をついた。
+I sighed in a way that felt more like vomiting.
+TP
+
+//太一「はぁ。美希、たすけて……」
+Taichi: "Siiigh. Miki, help me..."
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC4015mki022
+//美希「霧ちんが悪い」
+Miki: "You're in the wrong, Kiri-chin."
+//Taichi's usually an idiot in Kiri's regard, but Miki just dropped a rock on her berserk button. -GHS
+TP
+
+GP 2 285 15
+GI 2 0
+GP 2 300 30
+GI 2 0
+GP 2 315 15
+GI 2 0
+GP 2 300 0
+GI 2 0
+//HACK independent doll shake -GHS
+
+
+//びしっ。
+Sternly.
+TP
+
+GL 2 TCSK0004
+GI 2 0
+WVP 0 vfCCC4015kri020
+//霧「どうして……わたし、美希のために……」
+Kiri: "Why... but I, it was for your sake, Miki..."
+//She should be sounding like Youko right about now. -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4015mki023
+//美希「まだそんなこと言ってる。ゼッコーしちゃうよ」
+Miki: "Again with saying that stuff. We'll be through, permanently."
+//In fact, Miki/Kiri is currently very much Taichi/Youko. Which is more evidence that, maybe, the Shinkawas were nowhere near as bad as Taichi says he remembers... -GHS
+TP
+
+WVP 0 vfCCC4015kri021
+//霧「美希……」
+Kiri: "Miki..."
+TP
+
+//太一「そんなゼッコーせんでも」
+Taichi: "Breaking up, really..."
+//...is he making a pun with the other zekkou, 絶好? -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4015mki024
+//美希「だって、わたし霧ちんのお人形さんじゃないです」
+Miki: "Because I'm not your little doll, Kiri-chin."
+//Interesting how pretty much until three days before Kiri had kept that Taichi doll veeery dear to her. And that doll was totally made by Youko (if she's Taichi, then no contradiction), therefore, that's how Youko views Taichi. And there they are. -GHS
+TP
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4015mki025
+//美希「……まだ先輩の方が、わたしのこと尊重してくれるじゃないですか」
+Miki: "...isn't it Senpai who's still giving me any kind of respect?"
+TP
+
+GL 2 TCSK0003
+GI 2 0
+//HACK sweatdrop Kiri -GHS
+
+WVP 0 vfCCC4015kri022
+//霧「！？」
+Kiri: "?!"
+TP
+
+//あ、今のは効いたぞ。
+Ah, that one struck and bad.
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4015mki026
+//美希「友達なら、尊重しようよ。こんなときに、どうして火種をまこうとするの？」
+Miki: "Being friends means respect! Why are you even sowing strife at times like this?"
+//Can't source the proverb, so went with a Proverb. -GHS
+TP
+
+WVP 0 vfCCC4015kri023
+//霧「だって、だってっ」
+Kiri: "But still, but still!"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4015mki027
+//美希「ほら、先輩にあやまろー」
+Miki: "Come on, apologize to Senpai this instant!"
+TP
+
+GL 2 TCSK0001
+GI 2 0
+//HACK ain't happening. -GHS
+
+//霧は歯を食いしばった。
+Kiri held her temper with gritted teeth.
+TP
+
+//相当悔しい様子。
+She's in a state of considerable frustration.
+TP
+
+//キッと俺を見あげる。
+She looks up at me sharply.
+TP
+
+GL 2 TCSK0021
+GI 2 0
+WVP 0 vfCCC4015kri024
+//霧「……誰が、あんたなんかにっ！！」
+Kiri: "...who would ever do anything of the sort to you!!!"
+//see CCC3002. She just can't forgive him. And she went and asked HIS forgiveness when she knew. -GHS
+TP
+
+WVP 0 vfCCC4015mki028
+//美希「こりゃ！！」
+Miki: "Seriously!!!"
+TP
+GO 2 1
+
+//霧は踵を切り返し、走り去った。
+Twisting her knee backwards on her heel, Kiri runs away.
+WVP 2 SE035 1 0
+//HACK SFX -GHS
+TP
+
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC4015mki029
+//美希「うわ、逃げた……」
+Miki: "Bwah, she ran away..."
+TP
+
+//太一「いい逃げ足だ」
+Taichi: "Nice getaway, that."
+TP
+
+//二人で霧の背中が消えるのを眺めていた。
+The two of us gazed at Kiri's vanishing back.
+TP
+
+//太一「……ところでさ、美希ぽん」
+Taichi: "...while we're here, Miki-pon."
+//TL Note: salad. -GHS
+TP
+
+GO 1 1
+GL 1 TCYM0000
+GP 1 180 0
+GI 1 1
+//HACK recenter -GHS
+WVP 0 vfCCC4015mki030
+//美希「美希ぽんです。何でしょう？」
+Miki: "This is Miki-pon. What do we do?"
+TP
+
+//太一「……背、伸びた？」
+Taichi: "...did you... get taller?"
+TP
+
+GL 1 TCYM0021
+GI 1 0
+//HACK doubty Miki -GHS
+
+WVP 0 vfCCC4015mki031
+//美希「そうですか？　自分では見えないんですが」
+Miki: "Did I now? I can't really see it by myself."
+//Evasive. -GHS
+TP
+
+//当然だ。
+Of course.
+TP
+
+//太一「あれあれ、よく見ると胸も……」
+Taichi: "My my my, if I look at your chest carefully..."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+//HACK serious Miki -GHS
+
+WVP 0 vfCCC4015mki032
+//美希「だめですよぉ、踊り子さんに触っちゃ」
+Miki: "Nooo way no, hands off the dancerettes!"
+//Seems like a prohibition for a strip club... or a normal family resturant in Japan. (All is porn in Japan. Don't you read about stereotypes of Japan on the Internet?). Makes waaay more sense with all the above now. -GHS
+TP
+
+//胸を両手でガードした。
+She goes in a guard on her chest with both hands.
+//See Misato. -GHS
+TP
+
+//太一「ちっ」
+Taichi: "Tsk!"
+TP
+
+//ま、いっか。
+Well, 's whatever.
+TP
+
+//太一「とかやってるうちにもう夕方だ」
+Taichi: "And while we're doing whatever, it's already evening."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+//HACK normal Miki -GHS
+
+WVP 0 vfCCC4015mki033
+//美希「……帰りますか。霧っち一人で行っちゃったし」
+Miki: "...should we just go home? Kiricchi's gone off on her own."
+TP
+
+//太一「あとでフォローしといてやってくれ。俺ではアカン……」
+Taichi: "If you could follow up on her later. It'd never work with me..."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4015mki034
+//美希「はーい」
+Miki: "Yee-es."
+TP
+
+//美希は強い。
+Miki is strong.
+TP
+
+//こんなときに平静でいられるタイプだとは思わなかった。
+I didn't think her the type that would be serene at times like these.
+TP
+
+
+//人間の真価は、危機が訪れる時に発揮されるらしい。
+Seems like the true mettle of a human is displayed when met with a crisis.
+//Sooo ironic, considering. -GHS
+TP
+
+WVS 1 1
+
+RET

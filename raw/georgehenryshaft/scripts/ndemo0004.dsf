@@ -1,0 +1,646 @@
+TWS 7
+
+WT 5000 0
+
+//This is how the trial edition ends, I ripped the graphics and translated the text. There's some nice details if you look close. -GHS
+
+WVP 1 bgm015 1 0
+GL 0 efcc0000
+GI 0 1
+
+GL 1 cut01a0
+//そして世界は繰り返される。
+//And then the world was made to repeat.
+GL 2 cut01a
+GI 2 0
+GS 2 0
+GS 1 1
+SEF 109 0
+
+WT 3000 0
+
+GL 3 cut01b0
+//何度でも。
+//Again and again.
+GL 4 cut01b
+GI 4 0
+GS 1 0
+GS 4 0
+GS 3 1
+SEF 109 0
+
+WT 1500 0
+
+GL 1 cut01c0
+//望む限り。
+//As far as we wished.
+GL 2 cut01c
+GI 2 0
+GS 2 0
+GS 1 1
+SEF 109 0
+
+
+//ノイズ
+WT 1200 0
+GL 0 efcc0000
+GS 0 1
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0000
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+SEF 0 0
+
+
+
+GL 0 efcc0000
+GI 0 0
+WT 500 0
+GL 1 cut02a
+GL 2 cut02c
+GI 1 0
+GS 1 0
+GS 3 0
+GS 2 1
+SEF 109 0
+WT 200 0
+
+GL 3 cut02d1
+GL 4 cut02d0
+//Will we always be able to be... together, I wonder...
+GI 3 0
+GS 3 0
+GS 4 1
+SEF 109 0
+WT 1000 0
+
+GL 4 cut02e0
+//冬子は依存する者だった。
+///Touko was the dependent kind of person.
+//自壊する者でもあった。
+//Also the kind of person subject to self-distintegration.
+/Seems to be the term used for her Sendback, though the original uses Western characters. -GHS
+GL 5 cut02e1
+GI 5 0
+GS 4 1
+GS 5 0
+SEF 109 0
+
+WT 500 0
+
+//ノイズ
+WT 1200 0
+GL 0 efcc0000
+GS 0 1
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0000
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+SEF 0 0
+
+
+
+GL 0 efcc0000
+GI 0 0
+WT 500 0
+GL 1 cut03a
+GL 2 cut03c
+GI 1 0
+GS 1 0
+GS 3 0
+GS 2 1
+SEF 109 0
+WT 200 0
+
+GL 3 cut03d1
+GL 4 cut03d0
+//want to apologize -misato
+GI 3 0
+GS 3 0
+GS 4 1
+SEF 109 0
+WT 500 0
+
+GL 4 cut03e0
+//規律。
+///Regulations.
+//重んじるべきもの。
+///They are something one ought respect.
+//けど徹しきるには、
+///But the girl was far far too weak
+//彼女はあまりにも弱すぎて。
+///to put her everything in that.
+GL 5 cut03e1
+GI 5 0
+GS 4 1
+GS 5 0
+SEF 109 0
+
+
+WT 1200 0
+
+//ノイズ
+GL 0 efcc0000
+GS 0 1
+AL 4
+GL 0 efcc0000
+GS 0 1
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0000
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+SEF 0 0
+
+
+
+
+GL 0 efcc0000
+GI 0 0
+WT 500 0
+GL 1 cut4a
+GL 2 cut4c
+GI 1 0
+GS 1 0
+GS 3 0
+GS 2 1
+SEF 109 0
+WT 200 0
+
+GL 3 cut4d1
+GL 4 cut4d0
+//Kiri: "You are... a filthy rotten murderer."
+GI 3 0
+GS 3 0
+GS 4 1
+SEF 109 0
+WT 500 0
+
+GL 3 cut4e0
+//敵意。
+///Animosity.
+//剥き出しのそれは短刀のようだったが、錆びついていた。
+///It was as if a short sword, so brazenly displayed, and yet it grew rusted.
+//不完全だったからだ。
+///Because of incompleteness.
+GL 5 cut4e1
+GI 5 0
+GS 3 1
+GS 5 0
+SEF 109 0
+
+
+
+
+
+
+
+//ノイズ
+WT 2500 0
+GL 0 efcc0000
+GS 0 1
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0000
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+SEF 0 0
+
+
+
+GL 0 efcc0000
+GI 0 0
+WT 500 0
+GL 1 cut5a
+GL 2 cut5c
+GI 1 0
+GS 1 0
+GS 3 0
+GS 2 1
+SEF 109 0
+WT 200 0
+
+GL 3 cut5d1
+GL 4 cut5d0
+//...all, I will forget it all.
+GI 3 0
+GS 3 0
+GS 4 1
+SEF 109 0
+WT 500 0
+
+GL 4 cut5e0
+//世界に逆らい続けて、やっと保たれる思い出もある。
+/The continuing defiance of the world, in the end, still leaves memories to protect.
+//それは苦みをともなった甘みでしかない。
+/It is a sweetness that necessarily comes with bitterness.
+//でも……そんなものでさえ尊すぎた。あまりにも。
+/Yet... even that is so holy. Excessively so.
+GL 5 cut5e1
+GI 5 0
+GS 4 1
+GS 5 0
+SEF 109 0
+
+
+
+//ノイズ
+GL 0 efcc0000
+GS 0 1
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0000
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WT 2200 0
+WVP 2 SE016 1 0
+SEF 99 1
+SEF 0 0
+
+
+
+GL 0 efcc0000
+GI 0 0
+WT 500 0
+GL 1 cut6a
+GL 2 cut6c
+GI 1 0
+GS 1 0
+GS 3 0
+GS 2 1
+SEF 109 0
+WT 200 0
+
+GL 3 cut6d1
+GL 4 cut6d0
+//I'm Sakuraba Hiroshi. I don't like being called by my last name. Please call me Hiro.
+GI 3 0
+GS 3 0
+GS 4 1
+SEF 109 0
+WT 500 0
+
+GL 4 cut6e0
+//誰もそうは呼ばなかった。
+/No one ever called him that.
+//それが桜庭という男の、幸せだったからだ。
+/And that was the blessing of the man called Sakuraba.
+///He is not "hiro", not the hero. -GHS
+GL 5 cut6e1
+GI 5 0
+GS 4 1
+GS 5 0
+SEF 109 0
+
+
+
+
+
+
+
+//ノイズ
+GL 0 efcc0000
+GS 0 1
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0000
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WT 1200 0
+WVP 2 SE016 1 0
+SEF 99 1
+SEF 0 0
+
+
+
+GL 0 efcc0000
+GI 0 0
+WT 500 0
+GL 1 cut7a
+GL 2 cut7c
+GI 1 0
+GS 1 0
+GS 3 0
+GS 2 1
+SEF 109 0
+WT 200 0
+
+GL 3 cut7d1
+GL 4 cut7d0
+//Tomoki: "This could do nothing but confirm that it's hopeless, ya know?"
+//CCA0029
+GI 3 0
+GS 3 0
+GS 4 1
+SEF 109 0
+WT 500 0
+
+GL 4 cut7e0
+//絶望を確認という希望もある。
+/There's also the hope that we can confirm that it's hopeless.
+///This is a PCP of CCA0029
+//砂漠では泥水さえ貴重であるように。
+/It is as precious as even muddy water is in the desert.
+//大切なのは……受け入れることだ。
+/All that matters... is to accept that.
+GL 5 cut7e1
+GI 5 0
+GS 4 1
+GS 5 0
+SEF 109 0
+
+
+
+
+
+
+
+
+//ノイズ
+GL 0 efcc0000
+GS 0 1
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0000
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WT 2000 0
+WVP 2 SE016 1 0
+SEF 99 1
+SEF 0 0
+
+
+
+GL 0 efcc0000
+GI 0 0
+WT 500 0
+GL 1 cut8a
+GL 2 cut8c
+GI 1 0
+GS 1 0
+GS 3 0
+GS 2 1
+SEF 109 0
+WT 200 0
+
+GL 3 cut8d1
+GL 4 cut8d0
+//Youko: "...wherever you go... a person that will understand you... you will never find."
+GI 3 0
+GS 3 0
+GS 4 1
+SEF 109 0
+WT 1200 0
+
+GL 4 cut8e0
+//人は互いを理解しようとして、痛烈に失敗する。
+/People attempt to understand each other, and fail horribly.
+//落ち込んで、遠ざけて、そしてまた。
+/They grow sad, they keep at a distance, then once again,
+//失敗を、繰り返す。
+/they repeat that failure anew.
+GL 5 cut8e1
+GI 5 0
+GS 4 1
+GS 5 0
+SEF 109 0
+
+WT 500 0
+
+
+
+
+
+//ノイズ
+WT 1800 0
+GL 0 efcc0000
+GS 0 1
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0000
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+SEF 0 0
+
+
+
+GL 0 efcc0000
+GI 0 0
+WT 500 0
+GL 1 cut9a
+GL 2 cut9c
+GI 1 0
+GS 1 0
+GS 3 0
+GS 2 1
+SEF 109 0
+WT 200 0
+
+GL 3 cut9d1
+GL 4 cut9d0
+//can't leave with anything else
+GI 3 0
+GS 3 0
+GS 4 1
+SEF 109 0
+WT 500 0
+
+GL 3 cut9e0
+//それだけしかと彼女はいった。
+/Nothing more than that, said the girl.
+//それこそが俺を俺たらしめているものなのに。
+/When yet it is the very thing that will make me the me what I ought be.
+GL 5 cut9e1
+GI 5 0
+GS 3 1
+GS 5 0
+SEF 109 0
+
+WT 2500 0
+
+//ノイズ
+WT 1200 0
+GL 0 efcc0000
+GS 0 1
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0000
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+SEF 0 0
+WT 4000 0
+GL 0 efcc0000
+GS 0 1
+SEF 109 1
+WT 2000 0
+
+GL 1 cut10a
+//無数の思い出。
+/Memories without number
+GL 2 cut10b
+//かき集めて。
+/I gather them
+GL 3 cut10c
+//宝石としよう。
+/I treat them as gems
+GL 4 cut10d
+//かき抱いて、生けていこう。
+/Keep them close as I live
+GP 1 234 233
+GP 2 234 233
+GP 3 234 233
+GP 4 234 233
+GS 1 1
+GS 2 1
+GS 3 1
+GS 4 1
+SEF 109 0
+
+CIN 1 234 233 234 185
+CIN 2 234 233 234 217
+CIN 3 234 233 234 249
+CIN 4 234 233 234 281
+CR 2
+WT 3500
+CIN 1 234 185 234 -118
+CIN 2 234 217 234 -18
+CIN 3 234 249 234 480
+CIN 4 234 281 234 580
+CR 1
+WT 500
+
+
+GL 0 efcc0000
+GS 0 1
+AL 8
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0000
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0000
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 nota
+GS 0 1
+AL 0
+GL 0 cut12
+//Taichi: "Say, I got one question though... why don't you just die right this very instant?"
+//Curiously, there's an outline version of this, cut12b, but it's not used. -GHS
+GS 0 1
+AL 0
+
+
+WVP 2 SE016 2 0
+SEF 99 1
+WVS 1 0
+WT 4000
+GL 0 cut11
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 1
+
+WT 5000
+GL 0 efcc0000
+GS 0 1
+SEF 109 1
+WT 2000 0
+GL 0 cut15
+//いつか泣ける日がくるだろうかーーー
+///Will the day I'll be able to cry ever come?---
+GS 0 1
+SEF 109 1
+WT 5000 0
+WT 5000 1
+/GL 0 staff
+/GS 0 1
+/SEF 109 1
+/WT 3000 0
+WT 7000 1
+WVS 1 1
+GL 0 0
+GL 1 0
+GL 2 0
+GL 3 0
+GL 4 0
+GL 5 0
+GP 0 0 0
+GP 1 0 0
+GP 2 0 0
+GP 3 0 0
+GP 4 0 0
+GP 5 0 0
+SEF 109 1
+
+
+WT 5000 0
+RET

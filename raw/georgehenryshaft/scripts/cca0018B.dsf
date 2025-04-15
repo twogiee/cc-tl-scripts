@@ -1,0 +1,763 @@
+//93 lines saved. -GHS
+
+IF $loop == 0 JMP NORM
+
+WVP 3 se001 0 0 1
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0005as
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+//HACK Flashback intro. -GHS
+WVP 1 bgm004.ogg 0 0 0
+WT 500 0
+JMP SCENE
+
+
+
+
+
+
+
+
+:NORM
+WVP 3 se020 0 0 1
+WVP 1 bgm004.ogg 0 0 0
+GL 0 bgcc0005a
+GS 0 1
+SEF 152 0
+WT 500 0
+JMP SCENE
+
+
+:SCENE
+
+//帰路。
+On the way home.
+TP
+
+
+
+//大人しかった蝉たちが、再びじわじわと鳴きはじめる。
+The docile cicadas once more slowly but steadily being their cry.
+//With the implication that the cicadas are not always crying. How much of this is to troll the first-time reader and how much of this is to troll further readers isn't so obvious, but I suspect it's strongly for the latter as well. -GHS
+TP
+
+
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+
+GP 1 180 0
+GI 1 1
+
+WVP 0 vmcca0018shi000
+//新川「ちょいーす」
+Shinkawa: "A'hoooy!"
+//Mercifully the speaker tags are consistent with the flashback now... -GHS
+TP
+
+
+
+//太一「ん……おお、谷崎！」
+Taichi: "Mh... oooh, Tanizaki!"
+//http://en.wikipedia.org/wiki/Jun%27ichir%C5%8D_Tanizaki "Some of his works present a rather shocking world of sexuality and destructive erotic obsessions; others, less sensational, subtly portray the dynamics of family life in the context of the rapid changes in 20th-century Japanese society." -GHS
+TP
+
+
+
+
+
+IF $loop == 0 GL 1 TCSY0001b
+IF $loop != 0 GL 1 TCSY0001s
+GI 1 0
+WVP 0 vmcca0018shi001
+//新川「鴻巣！　元気だったか」
+Shinkawa: "Kounosu! You been in good spirits?"
+//http://en.wikipedia.org/wiki/K%C5%8Dnosu,_Saitama "Kounosu earned the nickname "Doll Town" for its many "Hina Ningyou" (a type of Japanese doll) factories". -GHS
+TP
+
+
+
+//太一「ああ、この鴻巣太一、たとえ免停になっても元気だけが取り柄だ」
+Taichi: "Yup, this Kounosu Taichi here has being in spirits even in case of driving license suspension as his only redeeming feature."
+//Continuing the driving thing from Yutaka's leg being on manual drive. -GHS
+TP
+
+
+
+WVP 0 vmcca0018shi002
+//新川「それを言うならこの谷崎豊だってそうだぜ？」
+Shinkawa: "Ain't those the words that Tanizaki Yutaka here with his name written with the kanji for 'abundance' should be saying?"
+//Just a bunch of seemingly tertiary characters through which run ludicrously overcomplicated overlapping metaphors that constitute significant portion of the story and themes well beyond what the characters themselves understand, pay no attention. -GHS
+TP
+
+
+
+//太一「数日ぶりだな、谷崎」
+Taichi: "It's been some days, hasn't it, Tanizaki."
+TP
+
+
+
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+GI 1 0
+
+WVP 0 vmcca0018shi003
+//新川「ああ、鴻巣」
+Shinkawa: "Yah, Kounosu."
+TP
+
+
+
+//太一「谷崎は学校いつから来んの？」
+Taichi: "So when are you coming, Tanizaki?"
+TP
+
+
+
+WVP 0 vmcca0018shi004
+//新川「いちおー、明日になった、鴻巣」
+Shinkawa: "'s far 's I have it, it's tomorrow, Kounosu."
+TP
+
+
+
+//手にしたＡ４封筒をひらひらと振る。
+He waved back and forth the A4 envelope in his hands.
+TP
+
+
+
+//学校関係の書類だろう。
+Gotta be official school documents.
+TP
+
+
+
+//太一「お、うちのクラスに転入してこいよ谷崎」
+Taichi: "Oh, do join our class then, Tanizaki!"
+//It's not that obvious, but Yutaka is the Mysterious Transfer Student of Cross Channel. -GHS
+TP
+
+
+
+WVP 0 vmcca0018shi005
+//新川「鴻巣、無茶言うなよ。自分じゃ決められないってーの」
+Shinkawa: "Kounosu, don't talk dumb. Ya know I can't decide that myself!"
+TP
+
+
+
+//太一「わはは」
+Taichi: "Wahahah!"
+TP
+
+IF $loop == 0 GL 1 TCSY0001b
+IF $loop != 0 GL 1 TCSY0001s
+GI 1 0
+
+
+WVP 0 vmcca0018shi006
+//新川「わはは」
+Shinkawa: "Wahahah!"
+TP
+
+
+
+//二人でげはげは笑う。
+The two of us laugh heartily.
+TP
+
+
+
+//太一「だけどさ谷崎―――」
+Taichi: "So, anyway, Tanizaki---"
+TP
+
+
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+GI 1 0
+
+WVP 0 vmcca0018shi007
+//新川「……ＯＫギブアップだ！　新川豊です、すいませんでした黒須さん」
+Shinkawa: "...OK, it's a give-up! I'm Shinkawa Yutaka, my sincere apologies Kurosu-san!"
+//EIGO WA TAISETSU DESU-nya!!1 because that's something they share. Anyway he's the first to break cover; is he also the first to realize what's going on? -GHS
+TP
+
+
+
+//太一「ああ、やめとく？」
+Taichi: "Aww, that's it?"
+//Guessing lateral context from apology above. -GHS
+TP
+
+
+
+WVP 0 vmcca0018shi008
+//新川「果てしなく続きそうだったから」
+Shinkawa: "It's 'cause it looked like it'd have gone on forever."
+TP
+
+
+
+//太一「もう帰り？」
+Taichi: "Going home already?"
+TP
+
+
+
+WVP 0 vmcca0018shi009
+//新川「ああ」
+Shinkawa: "Yeah."
+TP
+
+
+
+//太一「どうする、うち寄ってくか？」
+Taichi: "How about a trip to my house?"
+//Said the spider to the fly. -GHS
+TP
+
+
+
+WVP 0 vmcca0018shi010
+//新川「近いのか？」
+Shinkawa: "Is it nearby?"
+TP
+
+
+
+//太一「こっから十分くらいかな」
+Taichi: "I'd say from here ten minutes are enough."
+//subteeext. -GHS
+TP
+
+
+
+WVP 0 vmcca0018shi011
+//新川「いいトコ住んでるなぁ。けど悪い。今度にするわ」
+Shinkawa: "Seems like you live in a nice place, don't you. But, sorry, some other time maybe."
+TP
+
+IF $loop == 0 GL 1 TCSY0001b
+IF $loop != 0 GL 1 TCSY0001s
+GI 1 0
+
+WVP 0 vmcca0018shi012
+//新川「姪がさー、やっぱ群青行くんだけどさ、いろいろ教えてやらんと」
+Shinkawa: "Got a niece, ya know, 'course she goes to Gunjou, ya know, so she's telling me lots and lots of stuff."
+TP
+
+//俺の耳、
+From my ears
+TL
+//そういう情報、
+information like that
+TL
+//逃さない（ぐっ）。
+could never run away (tahm!).
+//See CCA0019. But doesn't ぐっ look like a mouth about to eat, teeth and all? -GHS
+TP
+
+
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+GI 1 0
+
+WVP 0 vmcca0018shi013
+//新川「なに親指立ててるよ？」
+Shinkawa: "What's with that raised thumb?"
+TP
+
+
+
+
+//太一「ヘイ、そこのガイ」
+Taichi: "HEI, you GUY over there."
+TP
+
+
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+GI 1 0
+
+
+WVP 0 vmcca0018shi014
+//新川「な、なんだよ？」
+Shinkawa: "Wh, what's with that?"
+TP
+
+
+
+
+//太一「マジごめん。姪、とか聞こえちゃった」
+Taichi: "Seriously sorry. It seems I heard a word that sounded like 'niece'."
+TP
+
+
+
+
+WVP 0 vmcca0018shi015
+//新川「そう言ったっちゅーねん」
+Shinkawa: "That's what I said las' I checked."
+//Kansai for "just what I said". Nothing special. -GHS
+TP
+
+
+
+
+//太一「歳は？」
+Taichi: "Age?"
+TP
+
+
+
+
+WVP 0 vmcca0018shi016
+//新川「俺の一個下」
+Shinkawa: "One year younger than me."
+TP
+
+
+
+
+//太一「写真持ってる？」
+Taichi: "You carrying a picture?"
+//This is not meant as an innocent question. -GHS
+TP
+
+
+IF $loop == 0 GL 1 TCSY0002b
+IF $loop != 0 GL 1 TCSY0002s
+GI 1 0
+
+WVP 0 vmcca0018shi017
+//新川「……黒須？」
+Shinkawa: "...Kurosu?"
+//And he knows. -GHS
+TP
+
+
+
+
+//太一「ああ、いや、なんでもない。忘れてくれ」
+Taichi: "Ahhh, naaah, it's nothing. Forget it."
+//Recovery. -GHS
+TP
+
+
+
+
+//太一「しかしあれだ、一つ違いだと可愛いだろう」
+Taichi: "But still she's gotta be cute even if there's that one thing that's off."
+//Either because she's gotta have an ultramarine, or because of incest. -GHS
+TP
+
+
+
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+GI 1 0
+
+WVP 0 vmcca0018shi018
+//新川「んー、ま、ルックスだけはな」
+Shinkawa: "Hmmm, well, only the looks then."
+//Supposing he means that there is something seriously wrong with her. -GHS
+TP
+
+
+
+
+//太一「全てじゃねぇか」
+Taichi: "Ain't they everything?"
+//See CCC3025, CCA0030. Still not meant innocently. -GHS
+TP
+
+
+
+
+//自然と声が低くなった。
+My voice lowered spontaneously.
+TP
+
+
+
+
+//ある種のやっかみと嫉妬と……憎悪と。
+A specific envy, with jealousy... with hatred.
+//Taichi's not jealous of him. He's pissed because he thinks Yutaka's gonna do to her what he did to him. -GHS
+TP
+
+
+IF $loop == 0 GL 1 TCSY0002b
+IF $loop != 0 GL 1 TCSY0002s
+GI 1 0
+
+WVP 0 vmcca0018shi019
+//新川「は？」
+Shinkawa: "Huh?"
+TP
+
+
+
+
+//太一「いや、気にしないで」
+Taichi: "Nah, don't worry about it."
+TP
+
+
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+GI 1 0
+
+WVP 0 vmcca0018shi020
+//新川「……つうても、ちょっと男っぽいからさ」
+Shinkawa: "...if I gotta say, she looks sorta boyish I guess."
+//And the reason he's pissed is that she's a mirror image of himself. -GHS
+TP
+
+
+
+
+WVP 0 vmcca0018shi021
+//新川「最初に言っておくと、そういう感情はないぞ。なんかそういう目で見ようとしても気色悪いだけだし」
+Shinkawa: "I'm telling ya this from the start, I don't feel like that about her. Lookin' at me with those eyes you got 's just creepy."
+//And doesn't he know about his eyes. -GHS
+TP
+
+
+
+
+//太一「うそダーッ！」
+Taichi: "YOU LIEEE!"
+//Higurashi reference. Let's not even try denying this. -GHS
+TP
+
+
+
+IF $loop == 0 GL 1 TCSY0002b
+IF $loop != 0 GL 1 TCSY0002s
+GI 1 0
+WVP 0 vmcca0018shi022
+//新川「わ、どうしたいきなり」
+Shinkawa: "Wah! What's with the sudden?"
+TP
+
+
+
+
+//太一「そんなのうそだーっ！　おまえはうそつきだ！　可愛い年下の親族がいるんだぞ？　意識しないはずないじゃないか！　おまえは仏国書院の一冊も読まないのか！？　ありえねー！　解せねー！　よっておまえがうそつきだと証明された！」
+Taichi: "That is nothing but a LIEEE! You are a LIAR! You have a cute younger relative, get it? You can't be unaware of that can't you! Didn't you read even one book from that French publishing house?! Impossible! Unbelievable! You are a liar and that was the proof!"
+//Ryugu Taichi is in the house. Well, except he's not going off on him at random. also stop reading shoujo FFS. -GHS
+TP
+
+
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+GI 1 0
+WVP 0 vmcca0018shi023
+//新川「黒須……かわいそうだが、マジなんだ」
+Shinkawa: "Kurosu... maybe that's lame, but I'm serious."
+TP
+
+
+
+
+//太一「いやっ、聞きたくない！」
+Taichi: "No! I don't wanna hear it!"
+//He will LITERALLY not hear this! Hence the focus on the ears all around, especially CCA0012. See Sakuraba. -GHS
+TP
+
+
+
+
+WVP 0 vmcca0018shi024
+//新川「本気で、妹みたいなもんなんだよ。同居してるし」
+Shinkawa: "Seriously, she's kinda like a little sister, 's all. 's just cohabitation."
+TP
+
+
+
+
+//同棲っ！？
+Sharing the house?!
+TL
+
+//同じベッドッ！？
+Sharing the bed?!
+TL
+
+//異性のぬくもりっ！！？？
+The warmth of the opposite sex?!?!?!
+TP
+
+
+
+
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　とてつ
+//太一「お、おい、そのロケーションには途轍もない何者かの意志が介在しているぞ」
+Taichi: "W-, whoa, there must be the will of someone preposterous mediating in that location."
+//God, of course, although first read is intended to be read that Taichi thinks it a miracle Yutaka has an Imouto-like being to him. Instead, it's about the miracle it'd take to turn someone like Yutaka into someone who'd be able to live with Kiri without making mincemeat of her. -GHS
+TP
+
+
+
+
+WVP 0 vmcca0018shi025
+//新川「……また都合の良い勘違いをしてるんだろうなー」
+Shinkawa: "...another of yer convenient misunderstandings, ain't it."
+//And from the sound of this, he knows... he knows suspiciously, creepily, well. Taichi's wrong on Yutaka here, but what if he was wrong all along? -GHS
+TP
+
+
+
+WVP 0 vmcca0018shi026
+//新川「そいつの家族に、俺が引き取ってもらってるんだよ」
+Shinkawa: "That girl's family took me in and has been caring for me."
+//Same as Mutsumi, whom Taichi is apparently not murdering either. -GHS
+TP
+
+
+
+WVP 0 vmcca0018shi027
+//新川「だからまあ、兄妹みたいなもんだ」
+Shinkawa: "So it's, well, sorta like brother'n'sister 's all."
+TP
+
+
+
+WVP 0 vmcca0018shi028
+//新川「今回、家ぐるみで引っ越してきたんだよ。俺の足のこともあるけど、そいつもちょっとアレでさ」
+Shinkawa: "Lately, they've had to move, family and all. There's this foot of mine, 'course, and she's kinda like 'that' too."
+//Unlike the Kiriharas, I don't think they physically moved the house, however. -GHS
+TP
+
+
+
+//太一「ああ……」
+Taichi: "Ahhh..."
+TP
+
+
+
+//そういうことか。
+That's what it is then.
+TP
+
+
+
+//一発で納得だ。
+One blow and it's understood.
+TP
+
+
+
+//それで二人して群青に通う、か。
+That is why both of them attend Gunjou, then.
+//He's oddly surprised at this... -GHS
+TP
+
+
+
+//太一「あれ、そうするとチミは、姪子ちゃんのためにつきあいで転入みたいなもの？」
+Taichi: "Ehhh, so Ol' Scratch here made a sort of a move-in for the sake of socializing with niecey-chan?"
+//Ambiguous. Particularly that "chimi", which is just an odd 'kimi', but also means "mountain demon". Ol' Scratch should sound just as innocuous on first look, but... http://en.wikipedia.org/wiki/Old_Scratch -GHS
+TP
+
+
+
+WVP 0 vmcca0018shi029
+//新川「そうなるかな。いや、俺だって障害持ちですが」
+Shinkawa: "Is that it, dunno. Nah, it's 'cause I'm disabled."
+//This hints Taichi that Yutaka should be External Damage. -GHS
+TP
+
+
+
+WVP 0 vmcca0018shi030
+//新川「そして姪子ちゃんでもねぇけど……」
+Shinkawa: "And don't 'niecey-chan' her, really..."
+TP
+
+
+
+//太一「優しいお兄ちゃんだな、オイ」
+Taichi: "You are a kind-hearted onii-chan, ol' one."
+//Just an 'oi', but with "ol' scratch" up there... -GHS
+TP
+
+
+
+IF $loop == 0 GL 1 TCSY0002b
+IF $loop != 0 GL 1 TCSY0002s
+GI 1 0
+WVP 0 vmcca0018shi031
+//新川「あの、姪の話になってから絡みっぱなしなんですけど？」
+Shinkawa: "Uhm, didn't we kinda get all arguing since this turned to the niece?"
+TP
+
+
+
+//太一「羨望を集めるってのはそういうことだ」
+Taichi: "That is what a gathering of envy is about."
+TP
+
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+GI 1 0
+
+WVP 0 vmcca0018shi032
+//新川「そうかあ～？　ずっと暮らしてるとさー、生理的なこととか見えてきてけっこうアレなんだぜ？」
+Shinkawa: "Is it no～w? 'Cause we've been living together a long while now, so won't I have seen how she's very much 'that', on the physical level and all that?"
+TP
+
+
+
+//太一「アレ？」
+Taichi: "'That'?"
+TP
+
+
+
+WVP 0 vmcca0018shi033
+//新川「外見はいいとこもあるんだろうけど、欠点がバリバリ見えるから、たいしてきれいなモンにゃ思えないって感じか？」
+Shinkawa: "For the outwards she's fine for sure, but, after those weak points tear through that nice and clean, I can't really think of 'er as something pretty can I?"
+//See CCC3004. That's the majority of how we see her treat her precious onii-chan. Sure, she's tsundere, but, damn. -GHS
+TP
+
+
+
+WVP 0 vmcca0018shi034
+//新川「食うものは食うし、出すものは―――」
+Shinkawa: "What's for eating you eat, what's for expelling---"
+//This sounds less scatological and more creepy considering the whole 'devour' metaphor. -GHS
+TP
+
+
+
+//太一「あ、その先はいいや。夢は大事にしたい」
+Taichi: "Ah, that's enough with that. I wanna keep my precious dream."
+TP
+
+IF $loop == 0 GL 1 TCSY0002b
+IF $loop != 0 GL 1 TCSY0002s
+GI 1 0
+
+WVP 0 vmcca0018shi035
+//新川「……おまえの夢って」
+Shinkawa: "...your dream you say?"
+TP
+
+
+
+//太一「ぜひおまえとチェンジして姪子ちゃんとイチャイチャしたいものだ」
+Taichi: "Wanting to completely replace you and getting all kissy-kissy with your niecey-chan, of course."
+//It sounds like foreshadowing, until realizing Taichi doesn't believe Yutaka for one second. This is an accusation. -GHS
+TP
+
+
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+GI 1 0
+WVP 0 vmcca0018shi036
+//新川「うわ－、想像させるな気持ち悪い」
+Shinkawa: "Blaaargh, don't make me imagine that, how disgusting!"
+TP
+
+
+
+//太一「現実は駄目だ……」
+Taichi: "Reality is a waste..."
+//No no no, you mean 'RIAJUU is KUSOGE-desu'. -GHS
+TP
+
+
+
+//本気で気持ち悪がってるよ、この人。
+This guy's really disgusted!
+TP
+
+
+
+//エロ小説万歳。
+Ero LN banzai.
+//Damn straight! Fuck eroge! ...though I'm tempted to replace it with the console version's 二次元万歳 (2D banzai). This is Taichi not understanding that he's understood. It's self-troll, not troll. -GHS
+TP
+
+
+
+//太一「じゃまた今度にでも遊びに来てくれ」
+Taichi: "Well, maybe sometime I'll drop in to visit if you'll have me."
+TP
+
+
+
+WVP 0 vmcca0018shi037
+//新川「おー、姪のことも紹介してやるよ」
+Shinkawa: "Oh, I'll be introducing you to the niece then!"
+TP
+
+
+
+//太一「マジか？」
+Taichi: "You serious?"
+TP
+
+
+
+//俺はわなわな震えた。
+I shivered and quaked all over.
+TP
+
+
+
+WVP 0 vmcca0018shi038a
+//新川「……たいしたもんじゃないんだけどな……あんま期待すんなよ？」
+Shinkawa: "...it ain't much of a big deal so... don't expect much, will ya?"
+TP
+
+
+
+WVS 3 1
+GO 1 0
+WVS 1 1
+//Suspicious cut, isn't it. -GHS
+
+//たいしたものじゃない。
+Not much of a big deal.
+TP
+
+
+
+//そう言ったやつの目がテポドン級の節穴であることが、後に明らかになるのである。
+How the guy who said this will be shown to have Taepodong-class knothole eyes will become clear afterwards.
+//It's indeed the missile, which fits into the Nations of the World thing - "he has rockets big enough to threaten Japan", except it's not a sexual metaphor (somehow). but this refers to a type of creepy dolls called 'murder dolls' (殺人人形), who have eyes like knotholes. Chucky from Child's Play seems to be among the most popular, curiously. This ties to Taichi's backstory as a human doll, automatic behavior, Taichi's own eyes, and more. -GHS
+TP
+
+IF $loop == 0 RET
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+//HACK flashback exit whiteout -GHS
+
+
+RET

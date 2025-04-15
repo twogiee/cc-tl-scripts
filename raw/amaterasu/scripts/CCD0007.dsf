@@ -1,0 +1,50 @@
+
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+SEF 152 0
+
+I reached the school.
+TP
+
+
+What should I do......
+TP
+
+
+Anyway, I'll try wandering around somewhere.
+TP
+
+
+:SET_0001
+CSQ 0 1 1 1 1
+  -Club room
+  -First year classroom
+  -Hallway
+  -Next page of choices
+
+
+IF $B == 4 JMP SET_0002
+
+JMP SET_END
+
+
+
+
+:SET_0002
+CSQ 0 1 1 1
+  -Second year classroom
+  -Roof
+  -Previous page of choices
+
+
+IF $B == 3 JMP SET_0001
+IF $B == 2 $B = 5
+IF $B == 1 $B = 4
+
+
+
+:SET_END
+RET

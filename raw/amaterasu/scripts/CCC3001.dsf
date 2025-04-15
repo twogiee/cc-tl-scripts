@@ -1,0 +1,133 @@
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 109 1
+
+WVP 3 SE001 0 0
+
+GL 0 bgcc0005as
+GS 0 1
+GL 1 TCSY0000s
+GP 1 180 0
+GS 1 1
+SEF 10 1
+
+
+WVP 1 bgm015.ogg 0 0 0
+
+It was early summer last year,
+TP
+
+When I met Shinkawa Yutaka.
+TP
+
+A summer of noisy cicadas.
+TP
+
+We bumped into one another coincidentally.
+TP
+
+And strangely, a conversation sprung up.
+TP
+
+We just clicked.
+TP
+
+There were those in Gunjou who lived completely in their own world.
+TP
+
+There were those who hurt others easily.
+TP
+
+At some point, the world began giving birth to lunatics.
+TP
+
+Many of them hurt people.
+TP
+
+Sicknesses of the heart were no longer just one's own problem.
+TP
+
+The source was unknown.
+TP
+
+The government threw out a number of countermeasures to tackle it, but those weren't widely reported on.
+TP
+
+Youko-chan said that they were moving in secret.
+TP
+
+Details unknown.
+TP
+
+At the very least, the world was being soaked in a lax insanity......I understood that fact very well when I asked my own heart.
+//I could've sworn I used "lax insanity" a long, long time ago, but I can't find anything with text searches. Anyone else recognize that? Å`IX
+TP
+
+That's why Gunjou Institute existed.
+TP
+
+As an isolated facility.
+TP
+
+Someone being held back a year was a daily occurrence.
+TP
+
+But those who don't recover after several years get sent to yet another facility.
+TP
+
+Those people hardly need any contact with others.
+TP
+
+They're lacking in the strength to live independently, but their hearts are already separated from those of other people.
+TP
+
+That's why,
+TP
+
+It's a little hard to make friends in Gunjou.
+//In Gunjou or at Gunjou? -VDZ
+TP
+
+Because it's hard to materialize a conversation.
+TP
+
+In one class, I'd guess there are about ten people.
+TP
+
+That you could have a real conversation with.
+TP
+
+GL 1 TCSY0001s
+GI 1 0
+
+WVP 0 vmcca0011bshi033a
+Shinkawa: ÅwOkay, I get the feeling this'll work somehow.Åx
+//PCP cca0011c
+TP
+
+Taichi: "............"
+TP
+
+I wonder who was wrong.
+TP
+
+Was it me?
+TP
+
+Or was it him?
+TP
+
+I couldn't produce a conclusion.
+TP
+
+Nor could I produce any tears.
+TP
+
+WVS 1 1
+WVS 3 1
+I can't...not yet.
+TP
+
+RET

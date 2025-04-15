@@ -1,0 +1,5457 @@
+
+
+
+
+
+GL 0 bgcc0010s
+GS 0 1
+SEF 10 2
+
+WVP 1 bgm024.ogg 0 0 0
+
+GL 3 TCSH0000s
+GP 3 190 0
+GI 3 1
+
+
+
+
+TWS 0
+
+WVP 0 vmCCE0001sku000
+Sakuraba: "Hey, Taichi."
+TP
+
+
+Huh? Sakuraba?
+TP
+GL 3 TCSH0003s
+GI 3 1
+
+WVP 0 vmCCE0001sku001
+Sakuraba: "Here's the manuscript."
+TP
+
+
+What...manuscript?
+TP
+GL 3 TCSH0002s
+GS 3 1
+SEF 109 0
+
+WVP 0 vmCCE0001sku002
+Sakuraba: "......aren't you the DJ?"
+TP
+
+
+I'm...the DJ?
+TP
+
+
+I have a feeling I was.
+TP
+GL 1 TCYM0003s
+GP 1 180 0
+GS 1 1
+GS 3 0
+SEF 109 0
+
+WVP 0 vfCCE0001mki000
+Miki: "I look forward a little to seeing Sempai as a DJ."
+TP
+
+
+A little?
+TP
+
+GL 2 TCSK0002s
+GP 2 320 0
+GP 1 0 0
+GS 1 1
+GS 2 1
+SEF 109 0
+
+
+WVP 0 vfCCE0001kri000
+Kiri: "I look forward to Sempai doing something embarrassing."
+TP
+
+
+Is it a given that I will?
+TP
+GL 3 TCSH0000s
+GP 3 190 0
+GS 2 0
+GS 1 0
+GS 3 1
+SEF 109 0
+
+WVP 0 vmCCE0001sku003
+Sakuraba: "How's the manuscript?"
+TP
+
+
+'I guess it's not bad' I thought.
+TP
+
+
+The content......I don't really get it. Though I'm reading it, I can't understand it.
+TP
+
+GL 2 TCKT0000s
+GP 2 220 0
+GS 2 1
+GS 3 0
+SEF 109 0
+WVP 0 vfCCE0001fyu000
+Touko: "Hey, why are you getting cold feet? Pull yourself together."
+TP
+
+
+Touko......
+TP
+
+GL 2 TCKT0001s
+GS 2 1
+SEF 109 0
+
+WVP 0 vfCCE0001fyu001
+Touko: "What's with that face? Have you not been yelled at enough?"
+TP
+
+GL 1 TCYM0003s
+GP 1 180 0
+GS 1 1
+GS 2 0
+SEF 109 0
+
+WVP 0 vfCCE0001mki001
+Miki: "You say that, but you're lovey-dovey."
+TP
+
+GL 2 TCSK0006s
+GP 2 320 0
+GP 1 0 0
+GS 1 1
+GS 2 1
+SEF 109 0
+
+
+WVP 0 vfCCE0001kri001
+Kiri: "Lovey-doveeey."
+TP
+GL 3 TCKT0001s
+GP 2 220 0
+GS 3 1
+GS 2 0
+GS 1 0
+SEF 109 0
+
+
+WVP 0 vfCCE0001fyu002
+Touko: "Did you say something first-yearrr?"
+TP
+GL 1 TCYM0003s
+GP 1 180 0
+GS 1 1
+GS 2 0
+GS 3 0
+
+SEF 109 0
+
+
+WVP 0 vfCCE0001mki002
+Miki: "No I did nooot!"
+TP
+GL 2 TCSK0006s
+GP 2 320 0
+GP 1 0 0
+GS 1 1
+GS 2 1
+SEF 109 0
+
+
+
+WVP 0 vfCCE0001kri002
+Kiri: "I did not say lovey-dovey."
+TP
+GL 1 TCKT0005s
+GP 2 220 0
+GS 3 1
+GS 2 0
+GS 1 0
+SEF 109 0
+
+
+WVP 0 vfCCE0001fyu003
+Touko: "Shall I cut you?"
+TP
+GL 1 TCYM0003s
+GP 1 180 0
+GS 1 1
+GS 2 0
+GS 3 0
+
+SEF 109 0
+
+
+WVP 0 vfCCE0001mki003
+Miki: "Ahaha, not good. Sempai, save me, I'm going to be cut."
+TP
+GL 2 TCSK0006s
+GP 2 320 0
+GP 1 0 0
+GS 1 1
+GS 2 1
+SEF 109 0
+
+
+WVP 0 vfCCE0001kri003
+Kiri: "Please save me, Sempai."
+TP
+
+
+Hey, hey......I'm not that convenient.
+TP
+GL 1 TCKT0001s
+GP 2 220 0
+GS 3 1
+GS 2 0
+GS 1 0
+SEF 109 0
+
+
+WVP 0 vfCCE0001fyu004
+Touko: "Hey, whose side are you on, Taichi?"
+TP
+GL 4 TCST0000s
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 1
+GP 4 190 0
+SEF 109 0
+
+WVP 0 vmCCE0001yki000
+Tomoki: "Okay, got it! Haa, that was close......"
+TP
+
+GL 5 TCSH0000s
+GP 5 40 0
+GP 4 340 0
+GS 4 1
+GS 5 1
+SEF 109 0
+WVP 0 vmCCE0001sku004
+Sakuraba: "What was the cause? A bad connection?"
+TP
+GL 4 TCST0005s
+GI 4 1
+
+WVP 0 vmCCE0001yki001
+Tomoki: "No, a broken wire. That's why I said we should buy a different kind of cable, but..."
+TP
+GL 1 TCMM0001s
+GP 1 225 0
+GS 1 1
+GS 4 0
+GS 5 0
+SEF 109 0
+
+WVP 0 vfCCE0001msa000
+Misato: "If we did that, we'd lose the money for everyone's grilled meat."
+TP
+
+GL 2 TCST0003s
+GP 1 30 0
+GP 2 320 0
+GS 1 1
+GS 2 1
+SEF 109 0
+
+
+WVP 0 vmCCE0001yki002
+Tomoki: "Which are you prioritizing, Nee-san?"
+TP
+
+
+Haha, Onee-san?
+TP
+
+
+Don't you mean Onee-chan?
+TP
+
+GL 2 TCST0004s
+GI 2 1
+
+WVP 0 vmCCE0001yki003
+Tomoki: "Shut up about your 'time for independence.'"
+TP
+
+
+Warm.
+TP
+
+
+A warm...world.
+TP
+
+GL 3 TCDY0001s
+GP 3 240 0
+GS 3 1
+GS 1 0
+GS 2 0
+SEF 109 0
+
+WVP 0 vfCCE0001ysa000
+Yuusa: "Sempai, I can't do anything, but I'll support you."
+TP
+
+
+Yuusa-chan.
+TP
+
+
+Were you in the Broadcasting Club?
+TP
+GL 1 TCHY0000s
+GP 1 180 0
+GS 3 0
+GS 1 1
+SEF 109 0
+
+WVP 0 vfCCE0001you000
+Youko: "......Taichi, you're messing up your uniform."
+TP
+
+GL 1 TCHY0001s
+GS 1 1
+SEF 109 0
+
+WVP 0 vfCCE0001you001
+Youko: "Which equals messing up your heart."
+TP
+
+
+Youko-chan......
+TP
+
+GL 1 TCHY0002s
+GS 1 1
+SEF 109 0
+
+WVP 0 vfCCE0001you002
+Youko: "Come on, I'll fix it. I can't let you shame Mutsumi-san."
+TP
+
+
+This feels somehow nostalgic.
+TP
+
+
+But,
+TP
+
+
+Moderately kind.
+TP
+
+
+Moderately harsh.
+TP
+
+GL 2 TCSH0003s
+GS 1 0
+GS 2 1
+GP 2 190 0
+GS 2 1
+SEF 109 0
+
+WVP 0 vmCCE0001sku005
+Sakuraba: "I very much want to go on a journey. Will you come?"
+//Awkward wording. It's either I very much so, or I want to go on a journey very much. Alternatively, why not just be safe and say I really want to go on a journey -Neko
+TP
+
+GL 1 TCST0003s
+GS 1 1
+GS 2 1
+GP 1 20 0
+GP 2 320 0
+SEF 109 0
+
+WVP 0 vmCCE0001yki004
+Tomoki: "Don't go......"
+TP
+
+
+GL 3 TCYM0021s
+GP 3 180 0
+GS 3 1
+GS 1 0
+GS 2 0
+SEF 109 0
+
+WVP 0 vfCCE0001mki004
+Miki: "I've always wondered, but how do you pay your travel expenses?"
+TP
+GL 2 TCSH0003s
+GP 2 190 0
+GS 2 1
+GS 3 0
+SEF 109 0
+
+WVP 0 vmCCE0001sku006
+Sakuraba: "I go with whatever I have. It's the mark of a great traveler."
+//Traveller is UK - Raide
+TP
+GL 1 TCYM0021s
+GP 1 180 0
+GS 1 1
+GS 2 0
+SEF 109 0
+
+WVP 0 vfCCE0001mki005
+Miki: "I can't imagine doing something like that with my three thousand yen monthly allowance."
+TP
+GL 2 TCKT0005s
+GP 1 0 0
+GP 2 340 0
+GS 1 1
+GS 2 1
+SEF 109 0
+
+
+WVP 0 vfCCE0001fyu005
+Touko: "You mustn't be deceived. Sakuraba's family pampers him. 'Whatever I have' is probably hundreds of thousands of yen."
+TP
+GL 1 TCYM0004s
+GS 1 1
+SEF 109 0
+
+WVP 0 vfCCE0001mki006
+Miki: "Gyoe."
+TP
+GL 3 TCSK0003s
+GP 3 220 0
+GS 3 1
+GS 1 0
+GS 2 0
+SEF 109 0
+
+WVP 0 vfCCE0001kri004
+Kiri: "Hundreds of thousands?"
+TP
+
+GL 1 TCMM0006s
+GP 1 225 0
+GS 1 1
+GS 3 0
+SEF 109 0
+
+WVP 0 vfCCE0001msa001
+Misato: "Sakuraba-kun, suspension."
+TP
+
+GL 2 TCSH0003s
+GS 2 1
+GP 2 190 0
+GS 1 0
+SEF 109 0
+
+WVP 0 vmCCE0001sku007
+Sakuraba: "Why......?"
+TP
+
+GL 1 TCKT0005s
+GS 1 1
+GP 1 220 0
+GS 2 0
+GS 3 0
+SEF 109 0
+WVP 0 vfCCE0001fyu006
+Touko: "You can easily stay in a hotel at your destination."
+TP
+
+GL 2 TCMM0002s
+GS 1 0
+GS 2 1
+GP 2 225 0
+SEF 109 0
+
+WVP 0 vfCCE0001msa002
+Misato: "Ah, Peke-kun, it's time. Are you prepared?"
+TP
+
+GL 1 TCYM0001s
+GS 1 1
+GS 2 0
+GP 1 180 0
+SEF 109 0
+WVP 0 vfCCE0001mki007
+Miki: "Now, for the new DJ, will demons emerge?"
+TP
+
+GL 2 TCSK0006s
+GP 1 30 0
+GP 2 340 0
+GS 2 1
+GS 1 1
+SEF 109 0
+
+WVP 0 vfCCE0001kri005
+Kiri: "Will snakes emerge?"
+TP
+
+
+GL 3 TCST0005s
+GP 3 190 0
+GS 3 1
+GS 2 0
+GS 1 0
+SEF 109 0
+
+WVP 0 vmCCE0001yki005
+Tomoki: "You're only imagining bad outcomes."
+TP
+
+GL 1 TCKT0005s
+GS 1 1
+GS 3 0
+GP 1 220 0
+SEF 109 0
+
+WVP 0 vfCCE0001fyu007
+Touko: "Well, do your best."
+TP
+GL 2 TCSH0000s
+GP 2 190 0
+GS 2 1
+GS 1 0
+SEF 109 0
+
+WVP 0 vmCCE0001sku008
+Sakuraba: "Go for it."
+TP
+
+
+GL 2 TCDY0001s
+GP 2 240 0
+GS 2 1
+GS 1 0
+SEF 109 0
+WVP 0 vfCCE0001ysa001
+Yuusa: "I look forward to it!"
+TP
+
+GL 1 TCHY0000s
+GP 1 180 0
+GS 1 1
+GS 2 0
+SEF 109 0
+
+WVP 0 vfCCE0001you003
+Youko: "Relax your shoulders."
+TP
+GS 1 0
+SEF 109 0
+
+Yeah---
+TP
+
+
+This is good.
+TP
+
+
+I'm being fulfilled.
+TP
+
+
+This is so right, unease passes me by. However,
+TP
+
+
+Can happiness be felt this much?
+TP
+
+
+Hey, everyone,
+TP
+
+
+Let's make an idiotic commotion, okay?
+TP
+WVS 1 1
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 2
+
+
+
+TS 2
+SEF 109 0
+
+WT 1000 0
+
+
+
+GL 0 TITLE5
+GS 0 1
+WVP 1 seeye001 1 0 0
+SEF 10 1
+WT 5000 1
+TS 3
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+
+
+
+
+WVP 1 bgm016.ogg 0 0 0
+GL 0 bgcc0007
+GS 0 1
+GP 5 0 0
+
+SEF 109 2
+
+
+And when I woke up, it was already midday.
+TP
+
+
+Taichi: "Nn......"
+TP
+
+
+I stayed overnight at the school again.
+TP
+
+
+Even though I want to go back home, so my days will be like a normal person's.
+TP
+
+
+But it's pretty tough to prepare this alone.
+TP
+
+
+Sempai was great.
+TP
+
+
+Taichi: "Now then, more to do today."
+TP
+
+
+I consciously spoke.
+TP
+
+
+If I don't, I feel like I'll forget my language.
+TP
+
+
+Begin work.
+TP
+
+
+
+........................
+TP
+
+
+
+Pause work.
+TP
+
+
+Taichi: "Hungry."
+TP
+
+
+The bentous Youko-chan made were no longer here.
+TP
+
+
+I prepare everything myself now.
+TP
+
+
+In the school, other than the bad curry bread, there's croquette bread.
+TP
+
+
+If I go out into town, well I can probably eat a lot of stuff there.
+TP
+
+
+I looked at my surroundings.
+TP
+
+
+......empty bags of curry bread were scattered around.
+TP
+
+
+Though croquette bread is supposed to be good, I didn't feel like putting any of it in my mouth.
+TP
+
+
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+
+A silent hallway.
+TP
+
+
+A silent club.
+TP
+
+
+Silent days.
+TP
+
+
+I got what I wished for.
+TP
+
+
+My heart...is at ease.
+TP
+
+
+A world where I can't hurt anyone.
+TP
+
+
+A world where I won't be made aware of what a failure I am.
+TP
+
+
+A world where I can be my honest self without trying to improve.
+TP
+
+
+
+Being my honest self.
+TP
+
+
+Living through youth with friends.
+TP
+
+
+Even though these two concepts are often used as a pair, for me they're exclusive.
+TP
+
+
+Doesn't that make a distortion necessary somewhere?
+TP
+
+For example, the character I used in an MMORPG had intelligence and speed of ninety-nine.
+TP
+
+
+Everything else was one.
+TP
+
+
+But, he was strong.
+TP
+
+
+The balance is tacitly denied, and you can't know what's right.
+TP
+
+
+......like me.
+TP
+
+
+But now that I'm here,
+TP
+
+
+I can live on with a peaceful heart.
+TP
+
+
+Taichi: "......I have a lot of memories after all."
+TP
+
+
+I tried peeking into a classroom.
+TP
+
+
+I have nothing to do here.
+TP
+
+
+
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+WT 1000 0
+
+
+
+GL 1 TCYM0003
+GP 1 180 0
+GI 1 0
+GO 1 1
+
+Miki: "---"
+TP
+
+
+GL 2 TCSK0006
+GP 2 220 0
+GI 2 0
+GO 2 1
+Kiri: "---"
+TP
+GL 1 TCYM0011
+GI 1 0
+GO 1 1
+
+Miki: "---"
+TP
+
+GL 2 TCSK0011
+GI 2 0
+GO 2 1
+
+Kiri: "---"
+TP
+
+
+Their conversation.
+TP
+
+
+Two who were always together, yet not interdependent.
+TP
+
+
+One of them desired something in place of what once was.
+TP
+
+
+One of them set up the girl she'd relied on.
+TP
+
+A brutal composition.
+TP
+
+
+To the utmost,
+TP
+
+
+Those two had been touching one another, just a little.
+TP
+
+
+A fortunate discovery of a point of contact.
+TP
+
+
+However......will those two able to reach that same place after returning?
+TP
+
+
+Vast experience is needed for Miki to feel earnestly about Kiri.
+TP
+
+
+And it seems that it'll take time for Kiri to be released from the curse of guilt.
+TP
+
+
+Taichi: "......"
+TP
+
+
+I'll stop.
+TP
+
+
+Even if I think about this, there's no longer a way to contact those two.
+TP
+
+I can't cross them.
+TP
+
+
+All correspondence was closed off.
+TP
+
+
+Then,
+TP
+
+
+They both came rushing toward me.
+TP
+
+
+Taichi: "......"
+TP
+
+
+They rushed off to my left and right while making noise and disappeared.
+TP
+
+
+The girls' gentle breeze softly brushed the tip of my nose. Like a scent left behind.
+TP
+
+
+Though it's an illusion.
+TP
+
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+I don't close the gate.
+TP
+
+
+There's no longer any reason to close this place up.
+TP
+
+
+Because this world has no one who can hurt others.
+TP
+
+
+Obviously, no one will be found at fault even if they escape during class time.
+TP
+
+
+Taichi: "......"
+TP
+
+
+
+
+
+GL 0 bgcc0014
+GS 0 1
+SEF 152 0
+I came here.
+TP
+
+
+To a childhood friend's store.
+TP
+
+
+I searched for appropriate food and drink.
+TP
+
+
+For some reason the phenomenon of decomposition doesn't occur here.
+TP
+
+
+Taichi: "......"
+TP
+
+
+I decided to stick a memo on the wall.
+TP
+
+
+Like I'm doing every week.
+TP
+
+
+
+ÅwÅ~Å^Åõ Sweet Roll, 110Åè + Cup Ramen 180Åè + Green Tea King 110ÅèÅx
+//Added three Yen glyph that won't appear at notepad with ANSI encoding - Raide
+TP
+
+
+
+Meaningless conduct.
+TP
+
+
+But it's nice to perform a certain amount of labor to obtain food.
+TP
+
+
+Because if I neglect even that, it'll be like leaving my body to a lax death.
+TP
+
+
+But either way, it doesn't change the fact that I'm dreaming.
+TP
+
+
+How ironic.
+TP
+
+
+
+
+
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+I decided to eat in my own classroom.
+TP
+
+
+
+GL 0 evcc0011s
+$CGevcc0011s = 1
+GS 0 1
+SEF 109 0
+Touko had always sat here.
+TP
+
+
+Because there was nowhere else.
+TP
+
+
+Her back was straight, and her chin high.
+TP
+
+
+She was one who walked proudly.
+TP
+
+
+Once a hand is held out to her, she soon degenerates, maybe out of unfamiliarity.
+TP
+
+
+The thawed Touko was unstable.
+TP
+
+
+Just by being treated kindly, she pulled down the walls she built.
+TP
+
+
+Her clumsiness shows how hanging out with people became her weak point.
+TP
+
+
+However much you can trust someone, you should leave an appropriate distance.
+TP
+
+
+If you end up dependent, it's hard in many ways.
+TP
+
+
+Since you can bring each other down.
+TP
+
+
+The people that don't mind becoming dependent should be.
+TP
+
+
+I don't want to.
+TP
+
+
+Though there is what happened with Youko-chan,
+TP
+
+
+More than anything, I seem to like things which stay still and beautiful.
+TP
+
+
+It's like the feeling of appreciating art.
+TP
+
+GL 0 evcc0011a
+$CGevcc0011a = 1
+GS 0 1
+SEF 109 0
+
+I wonder if she's crying on the other side.
+TP
+
+
+With no one to rely on.
+TP
+
+
+In the end, I betrayed Touko twice.
+TP
+
+
+......I wonder if she can endure it.
+TP
+
+
+I heaved a heavy sigh.
+TP
+
+GL 1 TCKT0003
+GP 1 220 0
+GI 1 0
+GO 1 1
+
+Touko: "---"
+TP
+
+
+I heard those lisping, domineering words insult me.
+//I have no idea what the adjective inflection of "lisp" is, someone please check me on this. Å`IX
+//I'm not sure. For now, let's just have it as 'lisping' - Sheeta
+TP
+
+
+Only inside my ears.
+TP
+
+
+
+
+
+GL 0 bgcc0010
+GS 0 1
+SEF 152 0
+
+The club room.
+TP
+
+
+The place where we hung out in.
+TP
+
+
+Naturally, they weren't here.
+TP
+
+
+The relationships between us three...you could say they were healthy.
+TP
+
+
+Relationships you could find anywhere. Or close to that.
+TP
+
+
+Thus, they were like miracles to me.
+TP
+
+
+Taichi: "......"
+TP
+
+
+There were no words to speak.
+TP
+
+
+Just the noble dazzle of what I'd parted with, which made my heart creak and my breath stop the more I thought about it.
+TP
+
+
+I stood there staring vacantly.
+TP
+
+
+
+
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 0
+Back to club activities.
+TP
+
+
+How much will I have to work to prepare this on my own?
+TP
+
+
+I know the pace to allot myself.
+TP
+
+
+If I really gave it my all, I'd finish in three days.
+TP
+
+
+Since it's something I've repeated over and over.
+TP
+
+
+I have the knowledge.
+TP
+
+
+I've mastered the procedure.
+TP
+
+
+That's why I'm deliberately taking my time.
+TP
+
+
+While making detours.
+TP
+
+
+A different way of doing it than Sempai's.
+TP
+
+GL 5 evcc0004
+$CGevcc0004 = 1
+GP 5 0 0
+GI 5 0
+GO 5 1
+In a sense, she was also making detours.
+TP
+
+
+I thought about it occasionally.
+TP
+
+
+Ignoring efficiency, piling on meaningless procedures.
+TP
+
+
+Sempai had supported that club alone forever, there's no way she didn't know the basics.
+TP
+
+
+The ravine of family.
+TP
+
+
+And then the disappearance of people.
+TP
+
+
+There were plenty of reasons for both Sempai and Tomoki to flee with all their strength.
+TP
+
+
+Taichi: "Let's have a lengthy and energetic club."
+TP
+
+
+I spoke.
+TP
+
+
+Again today, I'll labor from sunup to sundown.
+TP
+
+
+GL 0 bgcc0007a
+GS 0 1
+SEF 155 1
+Taichi: "Evening......?"
+TP
+
+
+Evening.
+TP
+
+
+Life's activities on the Earth's surface were frozen.
+TP
+
+
+And yet the sky has been loyally repeating its occupation.
+TP
+
+
+As if it was a virtual image of summer forgotten inside the mirror.
+TP
+
+
+Behind the real image, disappearing at the speed of light.
+TP
+
+
+Now for a measure of leisure.
+TP
+
+
+One moment in the history of the universe; week X to people.
+TP
+
+
+Taichi: "......I'll go home."
+TP
+
+
+I know it won't rain, but I returned the tools and materials to the prefab structure.
+TP
+
+
+Taichi: "Good work!"
+TP
+
+
+I said a ritual phrase with no one around and left for home.
+TP
+
+
+
+
+GL 0 bgcc0011a
+GS 0 1
+SEF 152 0
+
+
+GL 0 bgcc0014a
+GS 0 1
+SEF 152 0
+
+On the way home, I passed by the shopping district and stocked up on food.
+TP
+
+
+GL 0 bgcc0002a
+GS 0 1
+SEF 152 0
+
+Taichi: "Ho......"
+TP
+
+
+I reached my home, and felt relief.
+TP
+
+
+Whether people are here or not, that doesn't change.
+TP
+
+
+GL 0 bgcc0004b
+GS 0 1
+SEF 152 0
+Absent-minded cooking.
+TP
+
+
+I baked dinner in the garden.
+TP
+
+
+I cooked simply and gathered the garbage in a plastic bag.
+TP
+
+
+There's no need to dispose of it.
+TP
+
+
+For one week, a single plastic bag is enough.
+TP
+
+
+The evening breeze had a burning scent.
+TP
+
+
+Taichi: "Crap!"
+TP
+
+
+I hurried out to the garden.
+TP
+
+
+Taichi: "......uwaaa, all black."
+TP
+
+
+I certainly can't eat this.
+TP
+
+
+I'll cook again.
+TP
+
+
+I forget when, but there was a time I burned down the house.
+TP
+
+
+That was tough.
+TP
+
+
+I couldn't calm down spending the night at someone else's house, so I stayed in the club room.
+TP
+
+
+I'll be careful this time.
+TP
+
+
+It'd be meaningless if I made a mistake and burned myself.
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+........................
+TP
+
+
+Late dinner.
+TP
+
+
+By the time I finished eating, it was well into night.
+TP
+
+
+GL 0 bgcc0003e
+GS 0 1
+SEF 109 1
+Taichi: "......nn."
+TP
+
+
+I felt something that seemed to be lurking in my heart.
+TP
+
+
+Maybe it'll come tonight.
+TP
+
+
+I can't calm down.
+TP
+
+
+I decided to put that in my diary.
+TP
+
+
+Moving my hands is an important thing.
+TP
+
+
+Especially at times when it feels like my small heart will tear apart.
+TP
+
+
+Taichi: "Uhhh, what happened today......was..."
+TP
+
+
+I recorded the club activities.
+TP
+
+
+Taichi: "And, after that,"
+TP
+
+
+There my pen stopped.
+TP
+
+
+There's nothing.
+TP
+
+
+Nothing happened.
+TP
+
+
+Not even possibilities of something happening.
+TP
+
+
+Taichi: "......that's why..."
+TP
+
+
+That's why?
+TP
+
+
+Why did I even start a diary?
+TP
+
+
+I closed it. I didn't feel like it anymore.
+TP
+
+
+I searched for something to do.
+TP
+
+
+I tried lighting a candle and reading books.
+TP
+
+
+I soon got distracted.
+TP
+
+
+There will be no opportunity to read the next volume.
+TP
+
+
+My stomach became heavy.
+TP
+
+
+Crap.
+TP
+
+
+Tomorrow I'll go to the bookstore and search for a complete series.
+TP
+
+
+Taichi: "Aaah, I'll sleep!"
+TP
+
+
+I leaped into bed.
+TP
+
+
+Taichi: "I will sleeeep!"
+TP
+
+
+I tried flailing.
+TP
+
+
+Taichi: "Gyaaasu! Gyaaasu!"
+TP
+
+
+I tried swimming.
+TP
+
+
+Taichi: "......haa, haa."
+TP
+
+
+I was tired.
+TP
+
+
+Wind blew in.
+TP
+
+
+Without insects, it was fine to leave it all the way open.
+TP
+
+
+A refreshing summer.
+TP
+
+
+I'm thankful for that.
+TP
+
+
+Taichi: "Using those labors, I'll get to sleep in a wink."
+TP
+
+
+I'll count sheep.
+TP
+
+
+Taichi: "One scapegoat, two scapegoats......"
+TP
+
+
+Sheep are ordinary, so I tried it with goats.
+TP
+
+
+It felt somehow different.
+TP
+
+
+And it seemed to be extremely accurate.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+
+
+WT 500 0
+WT 1000 0
+
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 0
+
+WT 500 1
+
+
+GL 0 bgcc0004
+GS 0 1
+SEF 152 0
+WT 500 1
+
+GL 0 bgcc0002
+GS 0 1
+SEF 152 0
+
+Taichi: "......"
+TP
+
+
+There was no one to talk to, no trifling goodwill to receive.
+TP
+
+
+But there I was anticipating a little.
+TP
+
+
+Her omnipotence.
+TP
+
+
+A subject to be ignored.
+TP
+
+
+I started energetically walking with a vigor that would shake off those futile attachments.
+TP
+
+
+To school.
+TP
+
+
+Taichi: "ÅÙÅÙ"
+TP
+
+
+My whistling this morning eventually became hoarse.
+TP
+
+
+
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 0
+Taichi: "Let's make it lengthy again today."
+TP
+
+
+I proclaimed, then got straight to work.
+TP
+
+
+I pulled out the tools inside the prefab and lined them up in their prescribed positions.
+TP
+
+
+Taichi: ......*sigh*
+TP
+
+
+Internally, I paused for a moment.
+TP
+
+
+I entered the shade under the tent.
+TP
+
+
+I didn't sleep.
+TP
+
+
+I just laid down for a bit.
+TP
+
+
+Taichi: "Guu..."
+TP
+
+
+........................
+TP
+
+
+Taichi: "......uuoh!!?"
+TP
+
+
+I was fast asleep!
+TP
+
+
+It really would be wrong to not do anything for a whole day.
+TP
+
+
+Five revolutions of agony.
+TP
+
+
+I hurried back to work.
+TP
+
+
+Taichi: "Owww!"
+TP
+
+
+I hurt my finger.
+TP
+
+
+Taichi: "I mustn't get hurt! I must not!"
+TP
+
+
+There are no doctors.
+TP
+
+
+If I caught an incurable illness......well I can't do anything about that.
+TP
+
+
+Taichi: "Uuu."
+TP
+
+
+This had gotten troublesome.
+TP
+
+
+I brought out a water gun and fired outside the fence.
+TP
+
+
+Taichi: "Byuuu."
+TP
+
+
+The bundled flow of water was immediately scattered by the wind and changed to vapor.
+TP
+
+
+Taichi: "Ah, a rainbow."
+TP
+
+
+A small seven-colored bridge.
+TP
+
+
+It gracefully adorned the dusk.
+TP
+
+
+Taichi: "Hoo."
+TP
+
+
+That took my mind off of things a little.
+TP
+
+
+
+
+GL 0 bgcc0005a
+GS 0 1
+SEF 152 0
+The school hills.
+TP
+
+
+Things I remember.
+TP
+
+
+Yutaka...and Nanaka.
+TP
+
+
+Especially.
+TP
+
+
+Taichi: "Nanaka."
+TP
+
+
+When I said her name, my heart was squeezed.
+TP
+
+
+Why did she continue to be my ally until the end?
+TP
+
+
+The end?
+TP
+
+
+It's still not certain that this is the end.
+TP
+
+
+It's just......that she won't show herself anymore.
+TP
+
+
+Given Nanaka's personality, there's no doubt she'll make everything clear when she leaves.
+TP
+
+
+If she fell in love with someone, there's no doubt she'd confess by punching the guy into the air.
+TP
+
+
+......that might be going too far.
+TP
+
+
+Taichi: "Heeey, Nanakaaa!"
+TP
+
+
+I tried predicting.
+TP
+
+
+That she'd appear unexpectedly riding her bike out of a blind spot between hills.
+TP
+
+
+I had a feeling she would.
+TP
+
+
+
+
+
+GL 0 bgcc0003e
+GS 0 1
+SEF 152 0
+Taichi: "Hahaha."
+TP
+
+
+Reading.
+TP
+
+
+It's manga, though.
+TP
+
+
+I'm passing the thoughtless time.
+TP
+
+
+Again, I have to live on carefree.
+TP
+
+
+There's no need to rush life.
+TP
+
+
+If I rush, it'll soon burst.
+TP
+
+
+Taichi: "Hahaha......"
+TP
+
+
+Manga is fun.
+TP
+
+
+If there's something unsatisfying about it, it'd be that the content is too lively.
+TP
+
+
+Lots of people show up.
+TP
+
+
+I can endure a little of that now.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+
+WT 500 0
+WT 500 1
+
+
+GL 0 bgcc0007a
+GS 0 1
+SEF 152 0
+Taichi: "In a mountainÅ` Deep in SaitamaÅ`"
+//Brackets don't appear right here. 
+TP
+
+
+Taichi: "That's rightÅ`ÅÙ"
+TP
+
+
+I continued working while composing an impromptu song.
+TP
+
+
+When I didn't know something, I looked it up.
+TP
+
+
+I killed quite a bit of time.
+TP
+
+
+The books I brought from the club room and the library immediately filled the roof.
+TP
+
+
+It was a pain to take them all back, so I just shoved them into the prefab.
+TP
+
+
+Taichi: "......still, if this really was for an SOS, there were plenty of more efficient ways to do it."
+TP
+
+
+Without EM waves, it certainly would've been faster to choose the place with a transceiver.
+TP
+
+
+Sempai had realized.
+TP
+
+
+That people no longer existed.
+TP
+
+
+So the club was effectively the right answer, and she was right to include useless things in it.
+TP
+
+
+Taichi: *sigh*
+TP
+
+
+
+
+
+GL 0 bgcc0014b
+GS 0 1
+SEF 152 0
+I noticed I'd come to the shopping district.
+TP
+
+
+Taichi: "Uuu."
+TP
+
+
+I've become a night prowler.
+TP
+
+
+And 'I noticed' wasn't accurate.
+TP
+
+
+Taichi: "I'll go home."
+TP
+
+
+I was tired of running around.
+TP
+
+
+
+
+
+GL 0 bgcc0003e
+GS 0 1
+SEF 152 0
+Taichi: "Good night."
+TP
+
+
+I said to myself.
+TP
+
+
+I rolled up into the sheets.
+TP
+
+
+Taichi: "......"
+TP
+
+
+I couldn't really get to sleep.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+WT 1000 0
+WT 1000 1
+
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 109 1
+I'm looking at the world from the roof.
+TP
+
+
+The countless and varied ordinary days crushed into this roof.
+TP
+
+
+And into the mountains. Or into the beach.
+TP
+
+
+I couldn't imagine what scenes would continue beyond those.
+TP
+
+
+The breath the ÅwcityÅx sometimes sent out.
+TP
+
+
+It's fading, and I'm beginning to forget it.
+TP
+
+
+I'm sure that's because it has no feeling for its core.
+TP
+
+
+I know that people have always been staring at my eyes.
+TP
+
+
+
+
+GL 0 bgcc0003e
+GS 0 1
+SEF 152 0
+Taichi: "Sleep, sleep, sleep."
+TP
+
+
+Taichi: "Sleep, sleep, sleep."
+TP
+
+
+Taichi: "Sleep, sleep, sleep."
+TP
+
+
+Taichi: "Sleep, sleep, sleep."
+TP
+
+
+Taichi: "Sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep......"
+//Thank you ctrl+h Å`IX
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+
+
+
+
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 1
+When I wake up, I'm alone.
+TP
+
+
+I'm solitary.
+TP
+
+
+I read somewhere that people are alone in essence.
+TP
+
+
+That all living things are like that.
+TP
+
+
+But, only people are aware of it.
+TP
+
+
+I began thinking that insects might be the more complete life forms.
+TP
+
+
+Taichi: "Nnn."
+TP
+
+
+Lack of sleep.
+TP
+
+
+Even so, I have to go to school.
+TP
+
+
+If I let myself go at this point, it'll be rough later.
+TP
+
+
+It'll add to the loneliness.
+TP
+
+
+People are always feeling pressure from others around them.
+TP
+
+
+It's comfortable to be released at times.
+TP
+
+
+Too much suppression distorts the heart.
+TP
+
+
+However, if there's nothing, one's self will diffuse infinitely.
+TP
+
+
+But there's no self with that much density.
+TP
+
+
+If diluted without end, I'm no different from nothingness.
+TP
+
+
+I can't imagine.
+TP
+
+
+A me assimilated with the world.
+TP
+
+
+Isn't that lonely?
+TP
+
+
+Now that I'm the same as the world, will I forget about the tiny physical body that my center was left in?
+TP
+
+
+Why do hearts even reside in people anyway---
+TP
+
+
+
+
+
+GL 0 bgcc0004
+GS 0 1
+SEF 152 0
+Taichi: "......"
+TP
+
+
+
+
+GL 0 bgcc0002
+GS 0 1
+SEF 152 0
+Taichi: "......"
+TP
+
+
+
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+Taichi: "......"
+TP
+
+
+
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+Trying to enter the school hurts.
+TP
+
+
+My heart hurts.
+TP
+
+
+Because it's an empty box.
+TP
+
+
+Though it was once a jack-in-the-box; a box of surprises.
+TP
+
+
+Now it no longer is.
+TP
+
+
+A box of void.
+TP
+
+
+Now it's frightening.
+TP
+
+
+That's how it felt.
+TP
+
+
+After all, before there was someone nearby I could touch and feel.
+TP
+
+
+
+
+
+
+
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+I forced myself to enter.
+TP
+
+
+Aha!!
+TP
+
+
+It was hard to talk.
+TP
+
+
+It was hard to construct words.
+TP
+
+
+Taichi: "......now......then......"
+TP
+
+
+No good, I'm getting hoarse.
+TP
+
+
+Vocalization is hard...
+TP
+
+
+Once you're conscious of it, it really is.
+TP
+
+
+That's why subjective descriptions are endlessly emotional.
+TP
+
+
+(lol)
+TP
+
+
+Like that one.
+TP
+
+
+(cry)
+TP
+
+
+And that one.
+TP
+
+
+(rage)
+TP
+
+
+And that one.
+TP
+
+
+(Åı)
+TP
+
+
+Aaah, that one, I know well.
+TP
+
+
+It's like a subtle two-tone knight.
+//SOS?
+TP
+
+
+My hair lost its color from the yelling.
+TP
+
+
+The murderer skills inside me were perfected in a week.
+//murderer skills feels wrong. Murderous, perhaps? ~Bal
+TP
+
+
+If I ask someone who's amazing with numbers that'd be ephemeral like Marie Antoinette! 
+*Using the new technique of Real Time Monologue.
+//PCP ccc3012b And still no idea what the technique is. Å`IX
+TP
+
+
+When I was a child, I thought it was Marian Twonette.
+TP
+
+
+I also thought Angkor Wat was Anko Rutwat.
+//These lines were fun, since English spellings can (and in this case should) get butchered far worse than Japanese ones. Å`IX
+TP
+
+
+And I thought turtlenecks were totalnecks.
+TP
+
+
+And how I once wrote 'the theoretical central place of the Orkney Islands during the Neolithic Period (ookunii no shin-sekiki-jidai no chuushinchi)' entirely in katakana thinking it was the name of some magician from the dragon palace. 
+//I freely admit that I have no clue what the hell I'm doing to this line. Å`IX
+TP
+
+
+
+This stuff doesn't matter at all.
+IF $tlnote != 0 (TL note: The "dragon palace" refers to the mythical undersea palace of the Japanese dragon god of the sea.)
+TP
+
+
+
+Yu.
+//It will make either more or less sense a few hundred lines from now. Å`IX
+//To make it clear that it's a kanji, why not use ÇôÇï (weaboo typing, set to UTF-8 encoding to view it in notepad) or something? - Raide
+TP
+
+
+Anyway, the hallway.
+TP
+
+
+No one's here.
+TP
+
+
+Nothing's here.
+TP
+
+
+Nothing was moving.
+//Sounds better - Raide
+//And I improved it further ^^ - Sheeta
+TP
+
+
+Aren't cats sensitive to motion?
+TP
+
+
+That's the way.
+TP
+
+
+And, it's my way.
+TP
+
+
+The phrase ÅwIt can't be helpedÅx comes from the expression ÅwThere is no way.Åx
+//This is accurate in Japanese, but not in English because while "no way" is the literal for "shiyou ga nai" it's also the standard adaptation of "wake ga nai" which is an entirely different concept. Dunno if anyone cares though. Å`IX
+TP
+
+
+Meaning that without a documented way you can't get good results.
+TP
+
+
+When I said that, Tomoki used the comeback ÅwDon't make up lies that programmers might believe.Åx
+TP
+
+
+Tomoki's a good guy.
+TP
+
+
+I love club activities.
+TP
+
+
+Again today, I'll go and be covered in an overpowering sense of omnipotence.
+TP
+
+
+I've got plenty of memories with Tomoki.
+TP
+
+
+The two of us--three counting Sakuraba--were always readying fun systems. (Åı)
+//Reading? Preparing? - Raide
+//Preparing.
+TP
+
+
+
+
+
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 0
+Taichi: "......"
+TP
+
+
+Taichi: "............"
+TP
+
+
+Taichi: "........................ah---"
+TP
+
+
+It felt like ÅwthatÅx would explode.
+TP
+
+
+ÅwThatÅx is an Åwother thatÅx, a sort of ÅwthisÅx which can only be described as Åwthat.Åx
+TP
+
+
+ÅwThatÅx is ÅwthatÅx, and ÅwthisÅx is Åwthis.Åx
+TP
+
+
+That's why I swallowed.
+TP
+
+
+I swallowed. I swallowed.
+TP
+
+
+I swallowed about seven times.
+TP
+
+
+And then I swallowed.
+TP
+
+
+Good food.
+TP
+
+
+I screamed on the inside.
+TP
+
+
+I was full.
+TP
+
+
+The things inside me fell down heavily on the bottom and didn't come out.
+TP
+
+
+Except from behind.
+TP
+
+
+Club activities are falling behind.
+TP
+
+
+It's already Friday.
+TP
+
+
+I-un-der-es-ti-ma-ted-it.
+//Four Japanese syllables to eight English ones. I'm not sure this still sounds decent. Å`IX
+TP
+
+
+There I decided to work.
+TP
+
+
+As part of my new person campaign.
+TP
+
+
+Taichi: "Uuooo."
+TP
+
+
+Five minutes later, I didn't want to keep thinking about the little things, so I stopped.
+TP
+
+
+It was the end of one part.
+TP
+
+
+Don't worry, there's a second volume.
+TP
+
+
+Even if one part ends, there's a second volume.
+TP
+
+
+Huh?
+TP
+
+
+Aren't 'one part' and 'volume two' different kinds counting words?
+TP
+
+
+There are some weird words out there.
+TP
+
+
+The spray of water shot across the spherical orange placed in the sky.
+TP
+
+
+No, it's not spherical.
+TP
+
+
+That guy might be circular.
+TP
+
+
+The flat sun theory.
+TP
+
+
+A world with nothing moving is harsh. Come out, something.
+TP
+
+
+The sun is slowly changing positions, but that's missing something.
+TP
+
+
+Because I can't get to it.
+TP
+
+
+It's a light-class heavenly body that can't even become a black hole.
+TP
+
+
+It feels like I've lost.
+TP
+
+
+Go learn a thing or two from Scorpio V861.
+//This made me lol for some reason. ~Bal
+TP
+
+
+I want some kind of big reveal.
+TP
+
+
+Also I want to see a white dwarf.
+TP
+
+
+I'm pretty sure that Sakuraba,
+TP
+
+
+Didn't he hit the target for being a convicted criminal unfit for the role?
+TP
+
+
+The thought criminal who was dissatisfied with his occupational field obtained a target used in archery.
+//This is so damn fun I don't even care if I'm understanding it or not anymore. Å`IX
+TP
+
+
+Please look at me.
+TP
+
+
+Ah, a branch, a branch!
+TP
+
+
+The braaanch! The braaanch!
+TP
+
+
+It destroyed the fence.
+TP
+
+
+The fictional branch has come!
+TP
+
+
+I can't see it!
+TP
+
+
+Amazing! Perfect!
+TP
+
+
+And then it fell!
+TP
+
+
+A power pulled the fictional branch down toward the ground......pulling power!
+TP
+
+
+It destroyed the fence with something like giant industrial pliers.
+TP
+
+
+I'll call it gravity!
+IF $tlnote != 0 (TL note: "Gravity" is written with the kanji for "pull" and "force".)
+//Awesome. ~Bal
+TP
+
+
+This is a huge discovery.
+TP
+
+
+The beginning and the end of the Age of Discovery.
+TP
+
+
+The severed portion of the fence clumsily glided down.
+TP
+
+
+Unlimited words.
+TP
+
+
+My brain swam.
+TP
+
+
+I did a synapse leap.
+TP
+
+
+
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+Yaa, yaa.
+TP
+
+
+GL 4 sgcc0017
+GP 4 0 0
+$CGsgcc0017 = 1
+GI 4 1
+Touko came and attacked.
+TP
+
+
+No room to insert the emotion of meeting, parting, and then reunion.
+TP
+
+
+I can't search for mother.
+TP
+
+
+The name I want to clear is******************.
+TP
+
+
+********......
+TP
+
+
+**************?
+TP
+
+
+****!
+TP
+
+
+********************************************************* ********************************************************* ********************************************************* ********************************************************* *********************************************************.
+//If you want to fill the screen here's with spaces between to avoid game crash - Raide
+TP
+
+
+**.
+TP
+GL 0 evcc0025
+$CGevcc0025 = 1
+GS 0 1
+GS 4 0
+SEF 155 0
+And then I collapsed.
+TP
+
+
+Sorry Touko!
+TP
+
+
+My heart itched.
+TP
+
+
+I felt blood.
+TP
+
+
+Release is needed.
+TP
+
+
+I have to shine by myself.
+TP
+
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+WT 500 0
+
+GL 0 evcc0016
+$CGevcc0016 = 1
+GS 0 1
+SEF 155 0
+
+I should restore my name by wooing Kiri.
+TP
+
+
+I should give up my honor by wooing earnestly.
+TP
+
+
+I wooed through her.
+TP
+
+
+I gave her a loud wooing.
+TP
+
+
+Imperfect pick-up lines.
+TP
+
+
+But I couldn't get a sexy answer.
+TP
+
+
+Why?
+TP
+
+
+That's because Kiri is a child.
+TP
+
+
+I lamented my actions.
+TP
+
+
+Damn it, damn it!
+TP
+
+
+Even though regretting doing is better than regretting not doing!
+TP
+
+
+I can't control this alone.
+TP
+
+
+Now Kiri, please answer my orated feelings!
+TP
+
+
+I made use of a monologue to inform her.
+TP
+
+
+A monologue is supposed to be done alone, but since the nuances of the character for ground are being used in TV game show grammar, those people who want to poke the corners of stacked boxes should attack.
+TP
+
+
+I hate the words 'speak the truth.'
+TP
+
+
+It sounds kind of half-assed.
+TP
+
+
+Gyarandu is good.
+IF $tlnote != 0 (TL note: "Gyarandu" is Hideki Saijou's 44th single. Hideki is most famous for singing the Japanese version of Y.M.C.A.)
+//I can't make it make sense, but throwing in random stuff like that (it is all true though) sorta makes it feel like a complete gag imo. Å`IX
+TP
+
+
+Yeah, I'll do that.
+TP
+
+
+Now then,
+TP
+
+
+I'll make use of a monologue to gyarandu.
+TP
+
+
+I'll make her cum.
+TP
+
+
+It's nice that the word gyarakushii or galaxy resembles a sense for language in general.
+TP
+
+
+It doesn't resemble that, yu.
+TP
+
+
+Yu.
+TP
+
+
+If you asked which, it'd be Åwyu.Åx
+TP
+
+
+Better than Åwno.Åx
+IF $tlnote != 0 (TL note: He's talking about the Japanese letters "yu" and "no," i.e. those aren't words.)
+TP
+
+
+So, Kiri, how is it?
+TP
+
+
+Kiri said seriously.
+TP
+
+
+WVP 0 vfCCC3023kri021
+Kiri: "......do you care about the gender of fried chicken when you eat it?"
+//CP ccc3023
+TP
+
+
+Yeah, I do, I do care!
+TP
+
+
+But there's no way.
+TP
+GL 5 bgcc0000e
+
+
+WVP 2 SE208 1 0
+GI 5 0
+SEF 101 0
+
+The grenade exploded.
+TP
+
+
+We died.
+TP
+
+You fought well with weapon in hand, but the scorpions were many, and it was impossible to defend against all of their thrusting stingers. At long last your consciousness faded...
+TP
+//Split this line due to length. Å`IX
+
+And when you collapsed, the scorpions buried themselves into your body while exulting their first tasty flesh in some time. Your adventure ended.
+TP
+
+In order to halt the evil plans of the Warlock Morlock, you must return to paragraph 1 and do your adventure over. We pray that your next adventure has sufficient protection from the goddesses---
+TP
+
+
+I apologize for my thoughts mixing with some book I read a long time ago.
+TP
+GL 0 bgcc0008
+GS 0 1
+GS 5 0
+SEF 109 0
+It was impossible after all. Being alone.
+TP
+
+
+Here I give a camera to special correspondent Youko!
+TP
+GL 4 sgcc0018
+$CGsgcc0018 = 1
+GP 4 0 0
+GI 4 1
+
+Whoa, she was here!
+TP
+
+
+She's totally looking at memememe!
+TP
+
+
+She did indeed receive formal Ichihara training.
+TP
+
+
+That's wrong.
+TP
+
+
+This is quite different.
+TP
+
+
+This is heterogeneous.
+TP
+
+
+Uhhh, heterogeneous in the sense that it's too excellent.
+TP
+
+
+What do you do about a person with no failures?
+TP
+
+
+A human with an exceedingly low failure rate...once you put it into words there's not much to it, but...
+TP
+
+
+She'll live two hundred times through a situation in which a normal person would die a hundred times.
+TP
+
+
+That's a true actor! The abilities of Hollywood main characters for one hour and forty-five minutes.
+TP
+
+
+Their abilities are highest before the last ten minutes.
+TP
+
+
+There I thought: Anti-movie.
+TP
+
+
+A story where the guy is oversleeping until the last ten minutes where he goes into god mode and beats the enemies right at the end.
+TP
+
+
+Then I thought of something entirely out of context.
+TP
+
+
+A story starting with humanity's annihilation.
+TP
+
+
+This is it.
+TP
+
+
+This truly feels like me.
+TP
+
+
+A self-hymn.
+TP
+
+
+Which conduct is more lowly: speaking ill of others or promoting oneself?
+TP
+
+
+What is it with those things?
+TP
+
+
+I asked her.
+TP
+
+
+WVP 0 vfCCD1001you012
+Youko: "Carry me like a bride."
+//CP ccd1001
+TP
+
+
+Amazingly philosophical. I suck. I can't win.
+TP
+
+
+Forget it! Give back the camera!
+TP
+
+
+GL 0 bgcc0007
+GS 0 1
+GS 4 0
+SEF 152 0
+Who shall I play with?
+TP
+
+
+Okay, Mimi-sempai.
+TP
+
+
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+GL 0 evcc0005b
+$CGevcc0005b = 1
+GI 0 0
+She's sleeping!
+TP
+
+
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+GL 0 evcc0004
+$CGevcc0004 = 1
+GI 0 0
+She woke up!!?
+TP
+
+
+WVP 0 vfcca0015msa022
+Misato: "Lack of morals, overextended egoistic individualism, basic rights used to allow time to be spent lazily, modern society being infected by these kinds of corruptive hazards--"
+TP 
+
+
+
+WVP 0 vfcca0015msa022-2
+Misato: "Is it something we youngsters possessing mutually constructed friendships are capable of? I think our Gunjou Institute Broadcasting Club is capable of providing a satisfactory answer to this question."
+TP 
+
+
+Uhee!
+TP
+
+
+A big one came out.
+TP
+
+
+That's my Mimi-sempai.
+TP
+
+
+This person's weakness somehow resembles the texture of boobs.
+TP
+
+
+That's why I mean it when I say I love her.
+TP
+
+
+Actually I don't love her or anything.
+TP
+
+
+Falling in love is something decided on startup.
+TP
+
+
+I'm sorry.
+TP
+
+
+GL 4 sgcc0004
+$CGsgcc0004 = 1
+GP 4 0 0
+GI 4 1
+I got harpooned!!
+TP
+
+
+Is being called ÅwMimimiÅx that unpleasant!?
+TP
+
+
+Though that is cute...
+TP
+
+
+Damn!
+TP
+
+GL 0 bgcc0008
+GS 0 1
+GS 4 0
+SEF 152 0
+
+So now it's Miki.
+TP
+
+
+I have to get her to compliment me.
+TP
+
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+GL 0 evcc0021
+$CGevcc0021 = 1
+GI 0 0
+
+hey, hey!
+//I can only assume there's reason behind the nonstandard capitalization. ~Bal
+TP
+
+
+Hey, Hey!
+TP
+
+
+I became a repeating broadcast.
+TP
+
+
+Though it's a monologue.
+TP
+
+
+Stiiill, this must be the result of an amazingly vigorous fanservice mentality.
+TP
+
+
+Is that okay?
+TP
+
+
+Will that be forgiven?
+TP
+
+
+Was that certified?
+TP
+
+
+Will this get it into the adult category?
+TP
+
+
+WVP 0 vfCCC3114mki037
+Miki: "Goro-nyaaa-goro."
+//CP ccd3003
+TP
+
+
+Catspeak!?
+TP
+
+
+This sucks, I haven't finished that course.
+TP
+
+
+I can't make myself understood.
+TP
+
+
+As if I'll become someone who can only look at underwear.
+//Ah, he made sense for a moment. Å`IX
+TP
+
+
+Well okay then.
+TP
+
+
+I stared at underwear for about fourteen hours.
+TP
+
+
+In terms of time it took about four seconds.
+TP
+
+
+Thank you, Miki.
+TP
+
+
+Goodbye.
+TP
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 155 0
+After play is recreation.
+TP
+
+
+I worked hard at club.
+TP
+
+
+This-a-way and that-a-way.
+TP
+
+
+I worked automatically.
+TP
+
+
+All people are partly automatic.
+TP
+
+
+What's so wrong about that?
+TP
+
+GP 1 0 0 0
+AL 4
+GL 1 efcc0001
+GS 1 1
+AL 0
+GL 1 evcc0054
+$CGevcc0054 = 1
+GS 1 1
+AL 0
+GL 1 efcc0001
+GS 1 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+GO 1 0
+
+WVP 0 vfCCC4021mki081
+Miki: "I'm going to go mad from boredom, you know?"
+//CP ccc4021
+TP
+
+
+Eh?
+TP
+
+
+GP 1 0 0 0
+AL 4
+GL 1 efcc0001
+GS 1 1
+AL 0
+GL 1 tcdy0005
+GP 1 240 0
+GS 1 1
+AL 0
+GL 1 efcc0001
+GP 1 0 0 0
+GS 1 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+GO 1 0
+
+
+WVP 0 vfcca0013ysa045
+Yuusa: "Ah, no, you can't!!!"
+//CP cca0013
+TP
+
+
+I can't what?
+TP
+
+
+WVS 1 0
+
+
+
+
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+GL 0 bgcc0000a
+GI 0 0
+
+
+Sky.
+TP
+
+
+And then.
+TP
+
+
+Ground. Far below.
+TP
+
+
+That moment.
+TP
+
+
+Rupture---
+TP
+
+
+Taichi: "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!!"
+TP
+
+
+From the sea of words I was able to disconnect, I extended my hand.
+TP
+
+
+I grasped no straw.
+IF $tlnote != 0 (TL note: Probably referring to the proverb "A drowning man will cling to even a piece of straw.")
+TP
+
+
+My consciousness twirled and turned over (like takoyaki) and came back to this world.
+IF $tlnote == 1 (TL note: "Takoyaki" is a kind of Japanese dumpling made with octopi.)
+TP
+
+
+My consciousness observes all but this world.
+TP
+
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 109 0
+
+WVP 1 bgm015.ogg 0 0 0
+
+
+Taichi: "Ha! Ha! Ha!......"
+TP
+
+
+I'd been trying to start out through the fence I destroyed.
+TP
+
+
+My stiffened fingers were gripping the wire mesh on both sides.
+TP
+
+
+I was probably right on the edge.
+TP
+
+
+I pushed the fence aside like a door.
+TP
+
+
+I did it. I have that memory.
+TP
+
+
+It had been partitioned into the corners of my memory and mixed in with other languages so I couldn't determine it.
+TP
+
+
+My fingertips were white like gypsum.
+TP
+
+
+Because I'd been straining them all this time?
+TP
+
+
+My center of gravity pulled back behind me.
+TP
+
+
+Now I'm safe. I won't fall.
+TP
+
+
+The fence had dug into my fingers. They'd become toiled and torn.
+TP
+
+
+Light pain.
+TP
+
+
+Also, blood forming the shape of a wire mesh.
+TP
+
+
+Taichi: "I'm......"
+TP
+
+
+I couldn't believe I just tried to commit suicide.
+TP
+
+
+I mustn't die.
+TP
+
+
+Because I killed so many to live.
+TP
+
+
+Taichi: "Isn't that right......Youko-chan?"
+TP
+
+
+Even if I call her, she won't appear.
+TP
+
+
+I held myself.
+TP
+
+
+Cold.
+TP
+
+
+I won't be able to go on like this.
+TP
+
+
+I started running.
+TP
+
+
+Into the school.
+TP
+
+
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+
+Taichi: "Uwaaaaaaaaaaaaaa!"
+TP
+
+
+I raced.
+TP
+
+
+People!
+TP
+
+
+People!
+TP
+
+
+Somewhere, people!
+TP
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+Taichi: "Miki, Kiri!"
+TP
+
+
+Not there.
+TP
+
+
+I collapsed onto the desk.
+TP
+
+
+I continued collapsing.
+TP
+
+
+Textbooks slid onto the floor.
+TP
+
+
+Neither of them are here.
+TP
+
+
+Fear.
+TP
+
+
+There's no one in this space.
+TP
+
+
+I ran away.
+TP
+
+
+
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+Long narrow space.
+TP
+
+
+A sense of danger somewhere said that I'd be done for if I was pinned down here.
+TP
+
+
+The enemy is the void.
+TP
+
+
+Those guys are everywhere.
+TP
+
+
+They're already enveloping me.
+TP
+
+
+At this rate I'll diffuse and become diluted.
+TP
+
+
+I passed by the stairs. The second year classroom.
+TP
+
+
+GL 0 evcc0011a
+$CGevcc0011a = 1
+GS 0 1
+SEF 152 0
+Touko's classroom.
+TP
+
+
+A small stronghold isolated from the surroundings.
+TP
+
+
+But its owner wasn't here.
+TP
+
+
+She'd been sent back along with her stiffened will.
+TP
+
+
+Couldn't she have stayed for just a little bit longer?
+TP
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+Taichi: "Aaaaaa! Aaaaaaaa!!!!!"
+TP
+
+
+I tumbled and ran and passed through the gate.
+TP
+
+
+GL 0 bgcc0014
+GS 0 1
+SEF 152 0
+I wandered around the town.
+TP
+
+
+Searching for survivors.
+TP
+
+
+This was never more than the dregs of crossing worlds, so there may not have ever been any to begin with.
+//I think he's referring to people in this world before Taichi's group, and not that he's going insane and forgetting his friends used to be there. Å`IX
+TP
+
+
+But I can't not search for them.
+TP
+
+
+People can't not desire.
+TP
+
+GL 0 bgcc0000a
+GS 0 1
+SEF 152 0
+
+Taichi: "Ah......haa, ha-......!"
+TP
+
+
+One by one, I checked the houses.
+TP
+
+
+Half a day of madness.
+TP
+
+
+I continued desiring.
+TP
+
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+I fell down in front of the gate.
+TP
+
+
+Taichi: "......seriously......there's not even one..."
+TP
+
+
+However much I searched,
+TP
+
+
+No one was there anymore.
+TP
+
+
+But in exchange for that effort, I'd calmed down a bit.
+TP
+
+
+Was that because of my severe exercise, or something my brain did?
+TP
+
+
+Taichi: "Ah."
+TP
+
+
+That's right.
+TP
+
+
+Something made me go to the mountain.
+TP
+
+
+
+GL 0 bgcc0016
+GS 0 1
+SEF 152 0
+I doubted my eyes.
+TP
+
+
+There's nothing?
+TP
+
+
+That faded, undefined, incomprehensible space had completely and utterly disappeared.
+//It's important for readers to apprehend Taichi's train of thought and conclusion starting this line. Please edit accordingly since there's a lot of incomprehensible lines - Raide
+TP
+
+
+Taichi: "......it can't be."
+TP
+
+
+Hasn't this thing continued existing for thousands of weeks?
+TP
+
+
+No, maybe tens of thousands of weeks.
+TP
+
+
+Taichi: "Why did it go away?"
+TP
+
+
+Atonement.
+TP
+
+
+Despair.
+TP
+
+
+Emotions beyond description.
+TP
+
+
+Pain.
+TP
+
+
+I just stood there, restrained by what was being brought about in my heart.
+TP
+
+
+Taichi: "Why......"
+TP
+
+
+I want to run.
+TP
+
+
+An obvious emotion.
+TP
+
+
+Even in my own heart, that I'd desperately raised, that was there.
+TP
+
+
+Mimi-sempai, Tomoki, Kiri, Miki, Youko-chan......
+TP
+
+
+I can't smile about them.
+TP
+
+
+But the gate is already gone.
+TP
+
+
+Even if I wanted to go home I couldn't.
+TP
+
+
+Revised: it was no longer Åwout of phase.Åx
+TP
+
+
+Alone.
+TP
+
+
+A crossed world.
+TP
+
+
+Crossing at one point.
+TP
+
+
+Each and every flow was still continuing.
+TP
+
+
+Taichi: "Aaah......that's right."
+TP
+
+
+This town of void I'm in......is already---
+TP
+
+
+Passed its crossing point.
+TP
+
+
+If I try imagining the letter ÅwÇwÅx it makes sense.
+//I didn't want to touch this, but it appears as {,w} in game with actual hollow brackets. Disrupts the pacing. -Neko
+TP
+
+
+Two sticks. Two separate flows.
+TP
+
+
+A momentary cross. But the flow won't stop.
+TP
+
+
+Am I already riding one of the flows?
+TP
+
+
+No......that's not it.
+TP
+
+
+This town is the dregs.
+TP
+
+
+The crossing point of the dregs of the two flows.
+TP
+
+
+A cross point that became ÅwvoidÅx when ÅwactualityÅx passed on.
+TP
+
+
+Taichi: "......haha."
+TP
+
+
+Taichi: "Hahaha."
+TP
+
+
+Taichi: "Hahahahahahahahahahahahaha!"
+TP
+
+
+This laugh is,
+TP
+
+
+A blessing.
+TP
+
+
+I don't know how much time passed before the gate disappeared.
+TP
+
+
+It might have been pretty fast.
+TP
+
+
+It might have been a length of time that would make me dizzy.
+TP
+
+
+Either way, I put up with it.
+TP
+
+
+I fought on as my refuge moved farther and farther away.
+TP
+
+
+I won.
+TP
+
+
+Isn't that all that's certain?
+TP
+
+
+Taichi: "If I have no refuge......then I have no choice......but to live......"
+TP
+
+
+This is fine.
+TP
+
+
+Taichi: "Now look at this."
+TP
+
+
+Look at the true me.
+TP
+
+
+You will (I will) be kept here forever.
+TP
+
+
+Taichi: "............haha."
+TP
+
+
+In my chest, countless emotions mingled and drew a cross.
+TP
+
+
+A fictional tapestry woven together.
+TP
+
+
+Those were sparkles of will and emotion without coloring.
+TP
+
+
+Taichi: "Ah, ah......"
+TP
+
+
+Taichi: "Ah---"
+TP
+
+
+Taichi: "------------"
+TP
+
+
+I screamed.
+TP
+
+
+To the limit of my voice.
+TP
+
+
+Shaking my vocal cords enough to tear apart the sky.
+TP
+
+
+That was no longer a voice.
+TP
+
+
+Sound.
+TP
+
+
+I, who am a phenomenal proper existence, couldn't become anything but a physical creaking.
+TP
+
+
+My sight was buried in visual effects.
+TP
+
+
+My consciousness was a hallucination taken form.
+TP
+
+
+It was beautiful like lace, woven up from fearsome passions.
+TP
+
+
+If shaken, one could catch a glimpse of an impure wasteland.
+TP
+
+
+This is......I am......
+TP
+
+
+My eyes are taking in the invisible.
+TP
+
+
+I thought it was an illusion, on the other hand I'd grasped that it was truth.
+TP
+
+
+Aaah, this is...
+TP
+
+
+A denatured consciousness.
+TP
+
+
+Trance. Inspiration. Comprehension. Revelation. Mysteries.
+Things which are called those.
+TP
+
+
+My mentality reached an extreme, causing a phenomenon where one's outermost layer connects to one's latent consciousness.
+TP
+
+
+I was chased into a corner.
+TP
+
+
+By stress.
+TP
+
+
+Nn---?
+TP
+
+
+I stood still after being hit by lightning, and the side of my consciousness ached.
+TP
+
+
+That which was on my side.
+TP
+
+
+That was a composed layer of knowledge left a distance away from intricate emotions.
+TP
+
+
+My profound consciousness informed me.
+TP
+
+
+"Wrong"
+TP
+
+
+Recognition was sprinkled.
+TP
+
+
+Wrong.
+TP
+
+
+I didn't fall into a state of denatured consciousness.
+TP
+
+
+
+Knowledge: Brain activities aren't that chaotic in the present situation. That which is suitable can be seen with a number of functions, and there are traces of having mastered them in the present situation.
+TP
+
+
+
+Which means?
+TP
+
+
+
+Knowledge: Denatured consciousness. Abnormal mental state. Autonomous thoughts and emotions in the inner heart functions are displayed, and various examples of strange speech and conduct can be seen. 
+TP
+//Again, line split due to length. Decided not to repeat the "Knowledge:" part for what is now the second half. Å`IX
+
+Attained an overpowering sense of omnipotence, which resulted in hallucinations close to spiritual experiences. Religious experience trip trance......etc.
+TP
+
+
+
+I exploded from understanding.
+TP
+
+
+Most of the pressure changed to a physical phenomenon and pinned me down.
+TP
+
+
+Mysteries were being organically coupled.
+//Mysterious can't be used that way (not plural, not a noun). Trying mysteries. ~Bal
+TP
+
+
+On one line.
+TP
+
+
+In a circle, with the beginning and ending connecting.
+TP
+
+
+Circular.
+TP
+
+
+A circle of understanding.
+TP
+
+
+My consciousness was...
+TP
+
+
+
+Denatured from the very beginning.
+TP
+
+WVS 1 1
+
+
+GL 0 evcc0063
+$CGevcc0063 = 1
+GS 0 1
+SEF 10 2
+That day,
+TP
+
+
+I altered.
+TP
+
+
+And have been that way until today.
+TP
+
+
+A depth bypass that might explode at any time.
+TP
+
+
+Perpetual connection.
+TP
+
+
+I can't control my heart's amplitude.
+TP
+
+
+Instincts scattered about.
+TP
+
+
+My rationality is going mad.
+TP
+
+
+Void dialogues and thoughts maintained my consciousness in place of rationality.
+TP
+
+
+So as to cover spurts of sewage with muddy water.
+TP
+
+
+So as to not be weeded out of a world of rationality spreading out around me.
+TP
+
+
+And then,
+TP
+
+
+My oldest memory...had been floating in the depths like tar.
+TP
+
+
+That was a story from even before the consciousness denaturing occurred.
+TP
+
+
+
+
+
+
+
+
+
+
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc3000
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+GL 0 bgcc0000e
+GI 0 0
+
+WVP 1 bgm021.ogg 0 0 0
+
+
+WVP 0 vfCCE0001nnk000
+Nanaka: "I'm sorry, Taichi."
+TP
+
+
+Why...is she?
+TP
+
+
+I met her at the same time the loop began.
+TP
+
+
+Why is she...in my old memories?
+TP
+
+
+After all I haven't lost my memoexplosion---
+//NAT, the Japanese makes exactly this kind of jarring transition.
+//Clever ~Bal
+TP
+
+WT 3000 0
+
+GL 0 sgcc0075
+$CGsgcc0075 = 1
+GS 0 1
+SEF 10 2
+WVP 0 vfCCE0001nnk001
+Nanaka: "'Taichi,' that's your name."
+TP
+
+
+WVP 0 vfCCE0001nnk002
+Nanaka: "I'm sorry......because...I can't plan anything."
+TP
+
+
+WVP 0 vfCCE0001nnk003
+Nanaka: "Because I fell in love with papa......"
+TP
+
+
+WVP 0 vfCCE0001nnk004
+Nanaka: "Papa was living desperately, you know."
+TP
+
+
+WVP 0 vfCCE0001nnk005
+Nanaka: "Desperately, knowing his life was short......"
+TP
+
+
+WVP 0 vfCCE0001nnk006
+Nanaka: "And so,"
+TP
+
+
+WVP 0 vfCCE0001nnk007
+Nanaka: "I'm not long for this world either."
+TP
+
+
+WVP 0 vfCCE0001nnk008
+Nanaka: "I'm sorry......"
+TP
+
+
+WVP 0 vfCCE0001nnk009
+Nanaka: "I think Taichi will toil a lot from now on."
+TP
+
+
+WVP 0 vfCCE0001nnk010
+Nanaka: "Neither I, nor your late papa can become your allies."
+TP
+
+
+WVP 0 vfCCE0001nnk011
+Nanaka: "But,"
+TP
+
+
+WVP 0 vfCCE0001nnk012
+Nanaka: "I love you, Taichi."
+TP
+
+
+WVP 0 vfCCE0001nnk013
+Nanaka: "I really, really love you. I'm glad I had you."
+TP
+
+
+WVP 0 vfCCE0001nnk014
+Nanaka: "So much so, that if I'm ever reborn, I want to give birth to you again."
+TP
+
+
+WVP 0 vfCCE0001nnk015
+Nanaka: "That's how much...I love you."
+TP
+
+
+WVP 0 vfCCE0001nnk016
+Nanaka: "I'm sorry......I can't leave you with anything but that......"
+
+WT 5000 0
+GL 0 bgcc0000e
+GS 0 1
+SEF 109 2
+
+WT 5000 0
+
+GL 0 bgcc0000a
+GS 0 1
+SEF 10 2
+
+
+TC
+
+
+Taichi: "------------"
+TP
+
+
+Crying.
+TP
+
+
+I'm...crying.
+TP
+
+
+Copiously.
+TP
+
+
+I continued rubbing my tear ducts until it hurt.
+TP
+
+
+This is,
+TP
+
+
+The memory...of when I was born.
+TP
+
+
+The memory...of when...I was...born.
+TP
+
+
+I'd remembered it.
+TP
+
+
+People can remember even that far back.
+TP
+
+
+WVP 0 vfCCE0001nnk016
+Nanaka: "I'm sorry......I can't leave you with anything but that......"
+TP
+
+
+WVP 0 vfCCE0001nnk016
+Nanaka: "I'm sorry......I can't leave you with anything but that......"
+TP
+
+
+WVP 0 vfCCE0001nnk016
+Nanaka: "I'm sorry......I can't leave you with anything but that......"
+TP
+
+
+I'd remembered it.
+TP
+
+
+Taichi: "Mom......"
+TP
+
+
+I covered my face.
+TP
+
+
+Joy, anger, sorrow, pleasure and whatever else falls under 'strong emotions.'
+TP
+
+
+A baby's...emotions.
+TP
+
+
+Taichi: "I...remembered......mom......"
+TP
+
+
+I'd thought my heart was tiny, but it had such a thing hidden away.
+TP
+
+
+Like someone who travels far and wide looking for someone until they're on the brink of death, then turns around for the first time to see that the person they were looking for had been following silently, and smiles brightly.
+TP
+
+
+It was as if everything would be unconditionally affirmed.
+TP
+
+
+Dizzy.
+TP
+
+
+There was one more memory.
+TP
+
+
+I fished out...out one memory.
+TP
+
+
+Darkness.
+TP
+
+
+My childhood...was one with darkness.
+TP
+
+
+Nanaka was......mom was holding me with her body left in darkness.
+TP
+
+
+No conversation.
+TP
+
+
+A mother and child had sunk into the darkness.
+TP
+
+
+I don't know what the reason was.
+TP
+
+
+For a long time.
+TP
+
+
+The mother grieved, as if afraid.
+TP
+
+
+I could feel that.
+TP
+
+
+Dad wasn't there.
+TP
+
+
+He probably died.
+TP
+
+
+Somehow I understand that.
+TP
+
+
+Along with the fact that words of solace weren't prepared for me.
+TP
+
+
+Mom is embracing me.
+TP
+
+
+A girl with no one to rely on.
+TP
+
+
+As if fighting with the darkness of her own fear.
+TP
+
+
+We were both there, unable even to cry.
+TP
+
+
+I realized I'd become able to see mom even within the darkness.
+TP
+
+
+A few months after birth, my nerves changed from central brain tissues to optical tissues; a period of development for peripheral nerves suitable for the outside world.
+TP
+
+
+Within the darkness, I continued silently desiring mom.
+TP
+
+
+That beckoned a physical change to my body.
+TP
+
+
+Mom was a young prisoner of fear, and had no knowledge.
+TP
+
+The rod and cone cells which should be optimizing were, at this time, recognizing their host as nocturnal.
+TP
+
+The rod-shaped cells multiplied, deciding the distribution.
+TP
+
+The unspecialized cells around my retina formed a quasi-tapetam.
+TP
+
+Was it a repeated error, or cells trying to assimilate with the vitreous humor losing their transparency?
+TP
+
+
+I don't know.
+TP
+
+
+As a result, light entering my eyes can reflect off of two overlapping constructs.
+TP
+
+
+They're structurally the same as a cat's or dog's.
+TP
+
+
+Also, these eyes are more sensitive to moving things than still things.
+TP
+
+
+Just like how a cat plays with small insects, I......
+TP
+
+
+In the darkness, mom kissed me over and over.
+TP
+
+
+What sort of influence did I receive from that?
+TP
+
+Those were all the memories I could extract from the black torrent of latent consciousness.
+TP
+
+
+That's right.
+TP
+
+
+Mom died.
+TP
+
+
+After that, she died.
+TP
+
+
+That's why...I was left with the Hasekuras.
+TP
+
+
+......I connected it to the present.
+TP
+
+
+Then......what is that Nanaka I've been seeing?
+TP
+
+
+She couldn't be---
+TP
+
+
+......stop.
+TP
+
+
+Nanaka remained my unconditional ally.
+TP
+
+
+I'm sure she's always been watching over me from the bottom of my memory.
+TP
+
+
+I'll think that.
+TP
+
+
+The world can know the truth.
+TP
+
+
+I don't need to know.
+TP
+
+
+For me, the fact that she loved me---that's more than enough.
+TP
+
+
+When I took back my tears, recognition came next.
+TP
+
+
+People just...need to be there.
+TP
+
+
+Place, nature, gender, I don't care.
+TP
+
+
+I want them to be there.
+TP
+
+
+People want people to be there.
+TP
+
+
+They want to feel them close by.
+TP
+
+
+The peace of mind of someone being there when you hold out your hand.
+TP
+
+
+They want to gain that.
+TP
+
+
+That's why people call to each other.
+TP
+
+
+By phone, by words, by letters, by attitude.
+TP
+
+
+......by wireless.
+TP
+
+
+So that someone somewhere will listen.
+TP
+
+
+I wish for that.
+TP
+
+
+Mimi-sempai was right.
+TP
+
+
+She was fleeing, but she was right.
+TP
+
+
+I'm a person.
+//"I'm a human" sounds more powerful - Raide
+//Actually, since Taichi has been using the word 'person' as a means to identify ordinary, non-Gunjou people, I think 'I'm a person' is loaded with far more power. I say we keep it as it is. Alternatively 'I'm a normal person' - Sheeta
+TP
+
+
+Yes.
+TP
+
+
+I can't believe it.
+TP
+
+
+I'm disturbed by deep consciousness and innocently destroy people.
+TP
+
+
+Because it's natural for harmony to be hindered by impulse.
+TP
+
+
+But I...was a person.
+TP
+
+
+I can live.
+TP
+
+
+I can live on with that sense of satisfaction.
+TP
+
+
+The gate may disappear, and the world may be changing.
+TP
+
+
+The crossing point is here.
+TP
+
+
+When it passes by, the afterimage is beautiful.
+TP
+
+
+A time is coming when it'll become an illusion and disappear.
+TP
+
+
+Just how much longer until then?
+TP
+
+
+Next week?
+TP
+
+
+The week after?
+TP
+
+
+Next year?
+TP
+
+
+......or will I die? Which will come sooner?
+TP
+
+
+I mustn't die.
+TP
+
+
+Because if I die this irreplaceable feeling will break apart.
+TP
+
+
+Taichi: "......I'll live."
+TP
+
+
+I'll live fighting.
+TP
+
+
+Until the last day.
+TP
+
+
+And then I'll wish.
+TP
+
+
+Somehow, before my proper lifetime ends,
+TP
+
+
+
+I'll wish for this sky to disappear.
+TP
+
+
+
+Nanaka is smiling.
+TP
+
+
+WVP 0 vfCCE0001nnk016
+Nanaka: "I'm sorry......I can't leave you with anything but that......"
+TP
+
+
+What I was left with, was the most commonplace category of single kanji words, and a lifelong thirst for common people.
+TP
+
+
+I said,
+TP
+
+
+Taichi: "Thank you. I'm fine now."
+TP
+
+
+Nanaka answered.
+TP
+
+
+WVP 0 vfCCE0001nnk017
+Nanaka: "......yes!"
+TP
+
+
+It was a blessed smile across her whole face.
+TP
+
+
+And at the same time I correctly recognized Nanaka,
+TP
+
+
+My heart acquired a tranquil transcendence.
+TP
+
+
+
+GL 0 bgcc0016
+GS 0 1
+SEF 109 0
+Taichi: "......"
+TP
+
+
+I was standing alone.
+TP
+
+
+In the forest, the existence called me, was all alone.
+//Line makes no sense :/ Maybe it's mean to lol - Sheeta
+TP
+
+
+It was silent.
+TP
+
+
+More so than I'd ever experienced.
+TP
+
+
+Taichi: "......the urges......disappeared......?"
+TP
+
+
+The movements of my intense, uncontrollable heart...were disappearing.
+TP
+
+
+It was too silent, as if I'd be able to hear the noises inside my body.
+TP
+
+
+I became anxious.
+TP
+
+
+I couldn't feel the tyrant of imagined scenery that had been my intense ego until now.
+TP
+
+
+Had peace truly come to me?
+TP
+
+
+Is this a temporary dream?
+TP
+
+
+Forlorn.
+TP
+
+
+But, this is normal.
+TP
+
+
+Here...people raise their emotions.
+TP
+
+
+I put a hand on my chest.
+TP
+
+
+*squeeze*
+TP
+
+
+I held it tight.
+TP
+
+
+I don't know what week this is.
+TP
+
+
+Whether to count it tens, or tens of thousands.
+TP
+
+
+So I'll call it memorial week X.
+TP
+
+
+It's not a short sword anymore.
+TP
+
+
+
+In this way, I became a person.
+TP
+
+
+
+Though it's probably belated and meaningless.
+TP
+
+
+But......from my eyes, tears came out.
+TP
+
+
+Sad.
+TP
+
+
+Happy.
+TP
+
+
+When those mixed, there was no longer a word to describe it.
+TP
+
+
+Taichi: "Hahaha......haha......"
+TP
+
+
+I laughed, and cried.
+TP
+
+
+Taichi: "Yaaahoooo!!"
+//Story should have just ended here. -Spin
+TP
+
+
+WVS 1 1
+
+GL 0 bgcc0000e
+GS 0 1
+SEF 109 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 109 0
+WVP 1 bgm022.ogg 0 0 0
+
+
+The next day. The roof. Club activities.
+TP
+
+
+Taichi: "Okay, let's do it!"
+TP
+
+
+Somehow it looks more like art than an antenna, but......
+TP
+
+
+If I work hard all day, it'll probably work out.
+TP
+
+
+
+
+GL 0 bgcc0007a
+GS 0 1
+SEF 109 0
+
+WT 1000 0
+
+GL 0 bgcc0007b
+GS 0 1
+SEF 109 0
+
+WT 2000 0
+WT 1000 1
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+
+
+
+WT 1000 0
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0007f
+GS 0 1
+SEF 109 2
+Sunday.
+TP
+
+
+Taichi: "......done."
+TP
+
+
+Somehow, I made it.
+TP
+
+
+The energy left me.
+TP
+
+
+In substance, Sunday isn't even a half-day, so it's tough.
+TP
+
+
+For now, completion.
+TP
+
+
+I was enveloped in a sense of accomplishment.
+TP
+
+
+Taichi: "Healthy, healthy."
+TP
+
+
+I looked at the sky.
+TP
+
+
+Taichi: "......hey, Sempai."
+TP
+
+
+Looking at the sun makes me sleepy.
+TP
+
+
+But, it'd be rough if I slept here.
+TP
+
+
+I'll get straight to broadcasting.
+TP
+
+
+I took my seat.
+TP
+GL 1 bgcc0010s
+GP 1 0 0
+GI 1 0
+GO 1 1
+
+
+I've been dreaming.
+TP
+
+
+
+GL 1 bgcc0008s
+GP 1 0 0
+GI 1 0
+GO 1 1
+
+Of this sort of casual club activity, and a daily life like that of a normal student.
+TP
+
+
+If I have memories, I'm fine with that.
+TP
+
+
+
+
+GL 1 bgcc0011s
+GP 1 0 0
+GI 1 0
+GO 1 1
+
+
+WVS 1 1
+
+I'm satisfied---
+TP
+
+
+
+I breathed in.
+TP
+
+
+The evening breeze with a scent of summer snatched that away, as if teasing me.
+TP
+GL 0 bgcc0023
+GS 0 1
+SEF 109 0
+
+Now the broadcast.
+TP
+
+
+Taichi: "This is the Gunjou Institute Broadcasting Club."
+//CP_S cca0030
+TP
+
+
+WVP 1 bgm024.ogg 0 0 0
+
+
+Even if I understand this is pointless,
+TP
+
+
+I'll live on while clinging to it.
+//PCP
+TP
+
+
+I pushed out strong words.
+//PCP_F
+TP
+
+
+Taichi: "Is anyone alive out there?"
+//I think this whole monologue is aimed for the vn readers directly. I wonder if you should put a bit more hints either before or in between this scene, or to leave it for readers to interpret by themselves - Raide
+//CP ccc3030
+TP
+
+
+Taichi: "If you are out there, please listen."
+TP
+
+
+Taichi: "I don't know what sort of situation you all are in right now."
+TP
+
+
+Taichi: "You might be in despair."
+TP
+
+
+Taichi: "You might be suffering hardship."
+TP
+
+
+Taichi: "Or perhaps......you're moments away from death."
+TP
+
+
+Taichi: "I'll say this...to all...of those people."
+TP
+
+
+Taichi: "......please live."
+//To live on: Continue to live through hardship or adversity. I don't think Taichi wanted people to stagnantly exist. Given the next few lines. This lacks the power it should have -Neko
+TP
+
+
+Taichi: "Just, please live on."
+TP
+
+
+Taichi: "Could you please keep going?"
+TP
+
+
+Taichi: "This is merely my request."
+TP
+
+
+Taichi: "Because if there are people listening to my voice, then that means I'm not alone."
+TP
+
+
+Taichi: "Because the moment listeners will exist for me, even if I'm not aware of it, that should become a connection between me and you."
+TP
+
+
+Taichi: "That's what I think."
+TP
+
+
+Taichi: "People are born alone, and they die alone."
+TP
+
+
+Taichi: "Whoever they become friendly with, they are in essence alone."
+TP
+
+
+Taichi: "Even if they plan together, not everything will be shared."
+TP
+
+
+Taichi: "Living...is a lonely thing."
+TP
+
+
+Taichi: "How to cover up the loneliness......is an important thing."
+TP
+
+
+Taichi: "Isn't that......what others are there for?"
+TP
+
+
+Taichi: "Do you have memories with someone else?"
+TP
+
+
+Taichi: "Those are precious things."
+TP
+
+
+Taichi: "Please make sure you don't forget them."
+TP
+
+
+Taichi: "Because that's the sole support of people who've come to face solitude."
+TP
+
+
+Taichi: "Ideally, someone who's near you."
+TP
+
+
+Taichi: "Right now, such an obvious thing can't be guaranteed."
+TP
+
+
+Taichi: "However......I will be here."
+TP
+
+
+Taichi: "Just as you will be there."
+TP
+
+
+I closed my eyes.
+TP
+
+
+I put a thousand emotions into it,
+TP
+
+
+Taichi: "This is the Gunjou Institute Broadcasting Club."
+//CP cca0030
+TP
+
+
+Taichi: "Is anyone alive out there?"
+//CP ccc3030
+TP
+
+
+I prayed---
+TP
+
+
+Taichi: "See you next week."
+TP
+
+
+I ended the broadcast.
+TP
+
+
+I stood up and turned off the generator.
+TP
+
+
+There's no time to put everything away.
+TP
+
+
+I have to go to the hokora.
+TP
+
+
+And repeat this again.
+TP
+
+
+It might be hollow conduct.
+TP
+
+
+But I'll continue calling out.
+TP
+
+
+Desiring for a momentary crossing, a temporary crossing in my heart.
+TP
+
+
+Spanning many weeks.
+TP
+
+
+So that I can say 'next week.'
+//Good VN. -Spin
+TP
+
+
+TS 2
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 2
+
+WVS 1 1
+
+
+WT 2000
+WT 2000 1
+
+
+
+
+RET

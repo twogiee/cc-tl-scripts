@@ -1,0 +1,380 @@
+GL 0 bgcc0003b
+GS 0 1
+GS 1 0
+SEF 152 0
+At night, while I was writing my diary,
+TP
+
+Taichi: "Nn?"
+TP
+WVP 1 bgm007.ogg 0 0 0
+
+I heard a noise outside.
+TP
+
+
+I blew out the candle,
+TP
+
+Moved to the window,
+TP
+
+And looked outside.
+TP
+
+Someone was walking down the street in front of my house.
+TP
+
+......Kiri.
+TP
+
+She was carrying something.
+TP
+
+Maybe I was just starving for things to write in my diary.
+TP
+
+My curiosity raised its head.
+TP
+
+I went downstairs.
+TP
+GL 0 bgcc0004c
+GS 0 1
+SEF 152 0
+WT 500 0
+WT 500 1
+GL 0 bgcc0004c
+GS 0 1
+SEF 152 0
+
+
+GL 0 bgcc0002c
+GS 0 1
+SEF 152 0
+
+From far away, I 『could see』 Kiri's back.
+//Not sure why 'could see' is in the brackets here. It might make sense in Japanese, but it seems really random in English - Sheeta
+TP
+
+I followed her.
+TP
+
+We left the town, and at long last, Kiri set down what she'd been carrying.
+TP
+
+I killed my presence to prevent her finding me, and approached.
+TP
+GL 0 evcc0024b
+$CGevcc0024b = 1
+GS 0 1
+SEF 155 0
+A crossbow---
+TP
+
+It definitely wasn't a toy.
+TP
+
+Out of everything you could get in this country, it was a weapon of unparalleled strength.
+TP
+
+Though it can't fire repeatedly.
+TP
+
+It excels in silence, and abounds in destructive power.
+TP
+
+Kiri pulled the trigger.
+TP
+
+An arrow pierced a rotted tree.
+TP
+
+The sound of air moving was left in my ears.
+TP
+
+Kiri readied a new arrow.
+TP
+
+She finished loading it with the cocking device.
+TP
+
+Awkward.
+TP
+
+But, I knew.
+TP
+
+This is training.
+TP
+
+To fight.
+TP
+
+But, with who?
+TP
+
+With......who......?
+TP
+
+Icicles entered my back.
+TP
+
+Taichi: "......!"
+TP
+
+WVP 0 vfCCC3005you000
+Youko: "Shh."
+TP
+
+Just as I started to jump up, my shoulder was pushed down with exquisite timing.
+TP
+
+Telling me to sit.
+TP
+
+The strength left my knees.
+TP
+
+GL 0 bgcc0000c
+GS 0 1
+SEF 155 0
+Taichi: "......yo......"
+TP
+
+WVP 0 vfCCC3005you001
+Youko: "Stay quiet."
+TP
+
+I took one deep breath, regaining my calmness.
+TP
+
+I spoke in a low voice.
+TP
+
+Taichi: "Why are you here?"
+TP
+
+WVP 0 vfCCC3005you002
+Youko: "Same as Taichi."
+TP
+
+So she'd noticed Kiri's behavior.
+TP
+
+WVP 0 vfCCC3005you003
+Youko: "She seems to be doing this every day."
+TP
+
+Taichi: "......where did she get that thing?"
+TP
+
+WVP 0 vfCCC3005you004
+Youko: "Mania."
+TP
+
+Taichi: "Yeah, that seems right......"
+TP
+
+If you have money, you can purchase anything with comparative ease.
+TP
+
+Kiri continued her training for a while.
+TP
+
+WVP 0 vfCCC3005you005
+Youko: "......do you want me to take it?"
+TP
+
+Sudden words.
+TP
+
+The space between the periodic whistling sounds sucked me into silence.
+TP
+
+Simply remaining in my ears forever.
+TP
+
+Accompanied by something which made me shudder.
+TP
+
+GL 4 bgcc0000d
+GP 4 0 0
+GS 4 0
+SEF 109 0
+
+WVP 0 vfCCC3005you006
+Youko: 『Taichi......do you want me to take it?』
+TP
+
+
+WVP 2 se082 1 0
+
+WVP 0 vfCCC3005you007
+Youko: 『I'll take it for you.』
+TP
+
+GO 4 0
+Taichi: "What you're saying......"
+TP
+
+WVP 0 vfCCC3005you008
+Youko: "If Taichi wishes me to."
+TP
+
+Taichi: "I don't."
+TP
+
+WVP 0 vfCCC3005you009
+Youko: "But......"
+TP
+
+She glared at me.
+TP
+
+Taichi: "If you're going to listen to what I say, please don't do anything."
+TP
+
+WVP 0 vfCCC3005you010
+Youko: "......I understand."
+TP
+
+I lowered my shoulders indifferently.
+TP
+
+Taichi: "Youko-chan, even you're human......the same. Human."
+TP
+
+Youko: "............"
+TP
+
+Taichi: "At the very least, as long as you're with me, you're half human."
+TP
+
+WVP 0 vfCCC3005you012
+Youko: "I..."
+TP
+
+WVP 0 vfCCC3005you013
+Youko: "I don't think of Taichi as human."
+TP
+
+WVP 0 vfCCC3005you014
+Youko: "Taichi is Taichi. That's enough for me. And I am me. The two of us are one."
+TP
+
+WVP 0 vfCCC3005you015
+Youko: "Half-children."
+TP
+
+Taichi: "......fiances, right?"
+TP
+
+She smiled.
+TP
+
+WVP 0 vfCCC3005you016
+Youko: "Yes, fiances."
+TP
+
+Even though her smiles sometimes held a maiden's innocence.
+TP
+
+Why---
+TP
+
+Before that sorrow painted over my heart, Kiri moved.
+TP
+
+She collected all the arrows she'd shot.
+TP
+
+And then shot them again.
+TP
+
+Kiri completed three rounds of this training.
+TP
+
+WVP 0 vfCCC3005you017
+Youko: "With her skill, as long as she can't aim at point blank range, I think I'll be fine."
+TP
+
+Taichi: "I don't want it to come down to that......"
+TP
+
+I unexpectedly remembered the hokora.
+TP
+
+Taichi: "Hey, Youko-chan, do you know about the hokora?"
+TP
+
+WVP 0 vfCCC3005you018
+Youko: "......I know."
+TP
+
+Taichi: "That this world is......"
+TP
+
+WVP 0 vfCCC3005you019
+Youko: "Lack of information."
+TP
+
+She cut off my words as if with a slap.
+TP
+
+WVP 0 vfCCC3005you020
+Youko: "Intellect isn't for being hasty."
+TP
+
+Taichi: "But,"
+TP
+
+WVP 0 vfCCC3005you021
+Youko: "Even if the world is repeating itself, I don't think there's any need to discuss it now."
+TP
+
+Taichi: "............"
+TP
+
+I kept silent.
+TP
+
+If she says it, then it's so.
+TP
+
+Hasekura Youko is always accurate.
+TP
+
+Kiri went away.
+TP
+
+There was no longer a need to pursue her.
+TP
+
+We walked across the plain and examined the targeted tree.
+TP
+
+WVS 1 1
+
+Taichi: "............"
+TP
+
+WVP 0 vfCCC3005you022
+Youko: "......Taichi."
+TP
+
+Taichi: "It's okay."
+TP
+GL 4 sgcc0022
+$CGsgcc0022 = 1
+GP 4 0 0
+GI 4 1
+//The mimi-cg that comes up shows the Taichi doll tied to the tree.
+//Pshh, she's a horrible shot. I can shoot better than that.-Spin
+Taichi: "It's okay......"
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 4 0
+SEF 109 0
+RET

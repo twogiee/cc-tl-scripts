@@ -1,0 +1,1557 @@
+
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 0
+
+Taichi: "......now then,"
+//CP_S ccb1017
+TP
+
+WVP 1 bgm015.ogg 0 0 0
+
+Since it's before noon, the air temperature isn't that high yet.
+TP
+
+I went to the roof alone.
+TP
+
+I looked up at the steel tower, the base and the antenna.
+//PCP
+TP
+
+This certainly isn't......a job for only one person.
+TP
+
+Since we're amateurs, the antenna looked rather distorted.
+TP
+
+Its form was like a monster of wavelength and directionality.
+TP
+
+Taichi: "Now,"
+TP
+
+I got to work.
+//CP_F
+TP
+
+......
+//CP_S
+TP
+
+............
+TP
+
+..................
+TP
+
+Taichi: "Damn, I don't get this."
+TP
+
+Kurosu Taichi is slightly unfamiliar with the conveniences of modern life.
+TP
+
+WVP 0 vmcca0029yki000
+Tomoki: "......what are you doing?"
+TP
+
+Taichi: "Oh, I figured if I did this then she'd say 'Peke-kun, you're amazing!' or 'I'm so moved!' or 'I'm getting wet' and kiss me......or something. Yo, Tomoki-sensei."
+TP
+
+GL 1 TCST0005
+GP 1 190 0
+GI 1 1
+
+WVP 0 vmcca0029yki001
+Tomoki: "She's not going to kiss you."
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+
+WVP 0 vmcca0029yki002
+Tomoki: "This for the club?"
+TP
+
+Taichi: "Yep, yep."
+TP
+
+Tomoki lazily sat down on the ground.
+TP
+
+WVP 0 vmcca0029yki003
+Tomoki: "Here."
+TP
+
+Taichi: "Oh, thanks."
+TP
+
+Canned juice.
+TP
+
+Though it wasn't all that cold.
+TP
+
+WVP 0 vmcca0029yki004
+Tomoki: "......Taichi...why are you so eager to do this?"
+TP
+
+Taichi: "Oh, a serious youth-flavored question."
+TP
+
+GL 1 TCST0003
+GI 1 0
+
+WVP 0 vmcca0029yki005
+Tomoki: "You're making no sense or seaweed."
+TP
+
+Taichi: "That joke was hilarious."
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+
+WVP 0 vmcca0029yki006
+Tomoki: "Hey, hey, don't evade a question you brought upon yourself."
+TP
+
+Tomoki pulled out a postcard.
+//It was "letter" before, but for obvious reasons I went back and changed the previous instances of this line to "postcard." ～IX
+TP
+
+Taichi: "You say I brought it on myself, but it was someone else's hands that mailed that."
+TP
+
+WVP 0 vmcca0029yki007
+Tomoki: "......why are you working for the club?"
+TP
+
+Taichi: "Can I ask something too?"
+TP
+
+With a serious face.
+TP
+
+WVP 0 vmcca0029yki008
+Tomoki: "Mm?"
+TP
+
+Taichi: "It has to do with......you and your nee-san. Are you okay with that?"
+TP
+
+GL 1 TCST0004
+GI 1 0
+
+
+WVP 0 vmcca0029yki009
+Tomoki: "............"
+TP
+
+Taichi: "It's a serious question."
+TP
+
+WVP 0 vmcca0029yki010
+Tomoki: "......okay. What?"
+TP
+
+Taichi: "Yeah..."
+TP
+
+I pushed out my question a little stiffly.
+TP
+
+Taichi: "Why do you, a person from Kantou, sometimes use 『nan?』 for 『what?』 and 『sou yan』 for 『that's true』 like part of some pseudo-Kansai dialect?"
+TP
+
+GL 1 TCST0003
+GI 1 0
+
+WVP 0 vmcca0029yki011
+Tomoki: "That question has absolutely nothing to do with Aneki!!"
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmcca0029yki012
+Tomoki: "I'm going home......"
+TP
+
+Taichi: "Woah, woah, hold up a minute. Rome wasn't built in a day."
+TP
+
+GL 1 TCST0003
+GI 1 0
+
+WVP 0 vmcca0029yki013
+Tomoki: "Thank you for depressing me, Taichi-kun."
+TP
+
+Taichi: "Yep. My conversations always take the scenic route."
+TP
+
+Taichi: "In other words...think about it, doesn't having an objective give a person something to live for?"
+TP
+
+GL 1 TCST0004
+GI 1 0
+WVP 0 vmcca0029yki014
+Tomoki: "......something to live for."
+TP
+
+WVP 0 vmcca0029yki015
+Tomoki: "Once basic needs are met, that sort of thing might be nice."
+TP
+
+Taichi: "That's why I was enamored with this."
+TP
+
+GL 1 TCST0000
+GI 1 0
+WVP 0 vmcca0029yki016
+Tomoki: "'This'?"
+TP
+
+Taichi: "Youth Group Grafitea."
+TP
+
+Taichi: "What flavor do you think this has?"
+TP
+
+GL 1 TCST0005
+GI 1 0
+WVP 0 vmcca0029yki017
+Tomoki: "No, that's not tea."
+TP
+
+Tomoki stood up and circled the antenna.
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmcca0029yki018
+Tomoki: "So......that's it?"
+TP
+
+Taichi: "It's nice to have something to do."
+TP
+
+WVP 0 vmcca0029yki019
+Tomoki: "......we do have something. Like looking for materials."
+TP
+
+Taichi: "At the very least, this club has hope."
+TP
+
+
+WVP 0 vmcca0029yki020
+Tomoki: "You might only be able to confirm your despair, you know?"
+TP
+
+Taichi: "There's the hope that we can confirm despair."
+TP
+
+GL 1 TCST0004
+GI 1 0
+WVP 0 vmcca0029yki021
+Tomoki: "......I can't understand how you think, Taichi."
+TP
+
+Taichi: "Is that so?"
+TP
+
+WVP 0 vmcca0029yki022
+Tomoki: "Why do you seem to be enjoying this so much?"
+TP
+
+Taichi: "He-he."
+TP
+
+GL 1 TCST0000
+GI 1 0
+WVP 0 vmcca0029yki023
+Tomoki: "Truly, unbelievable."
+TP
+
+Tomoki wiped his eyes with his arms.
+TP
+
+WVP 0 vmcca0029yki024
+Tomoki: "All I know......are the materials used in wiring mobiles and antennas."
+TP
+
+Taichi: "Then help out."
+TP
+
+GL 1 TCST0003
+GI 1 0
+
+
+WVP 0 vmcca0029yki025
+Tomoki: "What the? At least pretend to feel a little more gratitude than that."
+TP
+
+Taichi: "Idiot, I'm crying on the inside. My tears are even bitter."
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+
+WVP 0 vmcca0029yki026
+Tomoki: "It doesn't look that way."
+TP
+
+Taichi: "It's lame for two guys to get damp with each other's tears, so go do that with your nee-chan."
+TP
+
+GL 1 TCST0003
+GI 1 0
+
+
+WVP 0 vmcca0029yki027
+Tomoki: "You're horrible!"
+TP
+
+Taichi: "Now, if you've made that decision then hurry up and work! The planned broadcast day is tomorrow."
+TP
+
+
+
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmcca0029yki028
+Tomoki: "Yeah, yeah."
+TP
+
+WVP 0 vmcca0029yki029
+Tomoki: "Then I'll go procure some materials."
+GO 1 1
+WVP 2 SE035 1 0
+WT 1000 0
+TP
+
+WVS 2 0
+
+WVP 0 vmcca0029yki030
+Tomoki: "......Taichi?"
+TP
+
+Tomoki's feet stopped in front of the door.
+TP
+
+Taichi: "Nn?"
+TP
+
+WVP 0 vmcca0029yki031
+Tomoki: "I thought you'd tell me to make up with Aneki no matter what, but instead you tell me to help her out as a brother."
+TP
+
+Taichi: "Oh no, sibling rivalry is part of a healthy life. I wouldn't stop it."
+TP
+
+WVP 0 vmcca0029yki032
+Tomoki: "......"
+TP
+
+Taichi: "The point being, I was telling you to help me out."
+TP
+
+I stuck out my chest.
+TP
+
+WVP 0 vmcca0029yki033
+Tomoki: "......aren't you a bigshot."
+TP
+
+Taichi: "I'm the overlord of all adaptation coefficients over eighty."
+TP
+
+WVP 0 vmcca0029yki034
+Tomoki: "......even if you're an overlord, I'll still be your friend."
+TP
+
+WVP 0 vmcca0029yki035
+Tomoki: "Because I don't dislike that."
+TP
+WVP 2 SE036 1 0
+
+He disappeared inside the school building. As if running away.
+TP
+
+Taichi: "'Because I don't dislike'......huhu!"
+TP
+
+When Tomoki said that, for a moment his face was as red as the limits of humanity would allow.
+TP
+
+Taichi: "Don't say it if you're going to get embarrassed. Seriously."
+TP
+
+I looked up at the antenna.
+TP
+
+Taichi: "But, this should get it progressing a bit."
+TP
+
+An enjoyable farce of a club.
+TP
+
+This could become a precious memory.
+//CP_F
+TP
+
+WVS 1 1
+
+
+Though it won't be a memory that remains.
+TP
+
+I thought of leaving behind in the diaries that that possibility existed.
+TP
+
+
+
+
+
+WVP 1 bgm004.ogg 0 0 0
+
+GL 1 TCYM0003
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC3018mki000
+Miki: "Goood mooorniiing."
+TP
+
+Taichi: "Could you go to the club room and bring me a new pair of gloves?"
+TP
+
+
+GL 1 TCYM0002
+GI 1 0
+
+
+WVP 0 vfCCC3018mki001
+Miki: "I'm being used already......"
+TP
+GO 1 1
+She disappeared into the building.
+TP
+
+GL 1 TCMM0000
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfCCC3018msa000
+Misato: "Good morning."
+TP
+
+Taichi: "Please massage my shoulders."
+TP
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfCCC3018msa001
+Misato: "Ah, okay."
+TP
+
+WVP 0 vfCCC3018msa002
+Misato: "Squeeze, squeeze."
+TP
+
+Work while having one's shoulders massaged.
+TP
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfCCC3018msa003
+Misato: "They're not that stiff."
+TP
+
+Taichi: "It's a mental thing."
+TP
+
+WVP 0 vfCCC3018msa004
+Misato: "Squeeze, squeeze."
+TP
+
+GL 1 TCMM0006
+GI 1 0
+WVP 0 vfCCC3018msa005
+Misato: "Wait, why am I massaging your-!?"
+TP
+
+She noticed.
+TP
+
+Taichi: "It just happened."
+TP
+GL 2 TCSK0002
+GP 2 340 0 0
+GP 1 20 0 0
+GS 1 1
+GS 2 1
+SEF 109 0
+WVP 0 vfCCC3018kri000
+Kiri: "......I'm here."
+TP
+
+Taichi: "Give me a morning kiss."
+TP
+
+GL 2 TCSK0003
+GI 1 0
+WVP 0 vfCCC3018kri001
+Kiri: "Eh........................?"
+TP
+GL 4 sgcc0014
+$CGsgcc0014 = 1
+GO 1 0
+GO 2 0
+GP 4 0 0
+GI 4 0
+
+WVP 2 se106 1 0
+SEF 101 0
+
+WVP 0 vfCCC3018msa006
+Misato: "You can't forcibly demand such a thing..."
+TP
+
+Taichi: "Hagyaaa!"
+TP
+
+A heavy attack that looked light.
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+GS 4 0
+SEF 109 0
+WT 1000 0
+GL 0 bgcc0007
+GS 0 1
+SEF 10 1
+
+
+
+GL 1 TCYM0003
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC3018mki002
+Miki: "I've got the gloves."
+TP
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC3018mki003
+Miki: "Ha!? He's sleeping!?"
+TP
+
+WVP 0 vfCCC3018mki004
+Miki: "Using people while you're off taking a nap!!!"
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC3018mki005
+Miki: "......I sentence you to pants-lowering."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC3018mki006
+Miki: "Slide, slide."
+TP
+
+GL 2 TCMM0004
+GP 1 0 0
+GP 2 340 0
+GS 2 1
+GS 1 1
+SEF 109 0
+WVP 0 vfCCC3018msa007
+Misato: "Wait, Yamanobe-san, you're lowering his underwear too!"
+TP
+
+WVP 0 vfCCC3018mki007
+Miki: "Slide, slide, slide."
+TP
+
+WVP 0 vfCCC3018msa008
+Misato: "Wait, wait!!"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC3018mki008
+Miki: "But...no girl can hold back after coming this far."
+TP
+
+GL 1 TCYM0011
+GI 1 0
+WVP 0 vfCCC3018mki009
+Miki: "I have to keep going and penetrate."
+//This line, and the previous.  So funny. xD  ~Bal
+TP
+
+WVP 0 vfCCC3018msa009
+Misato: "What you're saying sounds like Peke-kun......"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC3018mki010
+Miki: "We're master and pupil after all."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC3018mki011
+Miki: "Kiri-chin, Kiri-chin, hey, hey, can you see something?"
+TP
+
+WVP 0 vfCCC3018kri002
+Kiri: "I told you I don't want to see it!"
+//"didn't" makes it sound like she wants to look now but just not before even though that's clearly not the case. Also, "see it" makes it sound more natural.-Spin
+TP
+
+WVP 0 vfCCC3018mki012
+Miki: "Theeere, theeere......"
+TP
+
+WVS 1 0
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC3018mki013
+Miki: "Uwaaa, it's ouuuut! Something bouncy came ouuut!!!"
+TP
+
+
+WVP 1 bgm011.ogg 0 0 0
+
+
+WVP 2 SE086 1
+GS 1 0
+GS 2 0
+SEF 109 0
+
+WVP 0 vfCCC3018mki014
+Miki: "It's come out!"
+TP
+
+WVP 0 vfCCC3018msa010
+Misato: "That's why I said-!"
+TP
+
+WVP 0 vfCCC3018kri003
+Kiri: "Cover it with something! That bothers me!"
+TP
+
+
+Was that a 'kyaaa?' Was that a 'kyaaa?'
+TP
+
+
+Taichi: "......uu, uuun......"
+TP
+
+The commotion woke me up.
+TP
+
+WVP 0 vfCCC3018mki015
+Miki: "Nyagooo, don't get near him!"
+TP
+
+WVP 0 vfCCC3018msa011
+Misato: "Y-you've done something that can't be taken back!"
+TP
+
+WVP 0 vfCCC3018kri004
+Kiri: "Miki, you did this, take responsibility for it!"
+TP
+
+WVP 0 vfCCC3018mki016
+Miki: "Impossible, impossible, physically impossible! I'm a virgin! This is something for President-sempai, as our elder-"
+TP
+
+WVP 0 vfCCC3018msa012
+Misato: "I-I'm a virgin too! Being older has nothing to do with it!"
+TP
+
+WVP 0 vfCCC3018mki017
+Miki: "......Sempai hasn't experienced it either?"
+TP
+
+WVP 0 vfCCC3018kri005
+Kiri: "N-neither have I......it's absolutely impossible......"
+TP
+
+WVP 0 vfCCC3018mki018
+Miki: "That object is more than a mere maiden can handle!"
+//I don't know if it was just me but it just felt like it was missing something.-Spin
+TP
+
+It's quite noisy.
+TP
+
+I stood up.
+TP
+
+Strangely refreshing.
+TP
+
+It felt as if the wind was piercing through my skin. Did I catch a cold?
+TP
+
+Taichi: "Ummmmm?"
+TP
+
+Their three pairs of eyes turned to me all at once.
+TP
+
+And then were surprised all at once.
+TP
+
+Taichi: "What's wrong, Ojou-sans? Hu!"
+TP
+
+I asked them with a gentlemanly tone.
+TP
+
+
+
+WVP 0 vfCCC3018goo000
+
+
+
+All Three: "Kyaaaaaaaaaaaaa!!?"
+TP
+
+A scream that rent my ear. X 3
+TP
+
+They ran off like rabbits.
+TP
+
+So I chased after them like a rabbit.
+//"And" sounded a little out of place in that context. Not 100% on "so" but it's the only thing I could think of.-Spin
+TP
+
+Taichi: "What's wrong, young girl-san?"
+TP
+
+GL 1 TCMM0004
+GP 1 230 0
+GI 1 0
+
+
+WVP 0 vfCCC3018msa014
+Misato: "P-please don't come any closer! Stay away, nooo, disgustiiiing!!!"
+TP
+Taichi: "Eeeeeeeeeeee!!!"
+TP
+
+Rejection.
+TP
+
+I was being rejected.
+TP
+
+Again and again I am rejected.
+TP
+
+I'm destined to be thought of as disgusting.
+TP
+
+Taichi: "Damn iiiiiiiiiiiit!!"
+TP
+
+I chased after them like crazy.
+TP
+
+I felt like crying.
+TP
+
+Taichi: "Is it that strange to have white hair!?"
+TP
+GL 2 TCYM0004
+GS 1 0
+GS 2 1
+GP 2 180 0
+SEF 109 0 
+
+
+WVP 0 vfCCC3018mki020
+Miki: "I'm not criticizing that at all! Aaah, don't come here! Kiaaaa!!"
+TP
+
+Taichi: "Am I that unsettling!!?"
+TP
+
+GL 2 TCYM0003
+GI 2 0
+
+WVP 0 vfCCC3018mki021
+Miki: "Ah! Hahahahahahahahaha!!! Kyaaa-kyaaa-kyaaa!! It's shakiiing!! It's shakiiing!!!"
+TP
+
+At least this one seems to be having fun.
+TP
+
+Taichi: "My heart is shaking in pain!!"
+TP
+
+GL 3 TCSK0004
+GS 2 0
+GS 3 1
+GP 3 220 0
+SEF 109 0
+
+
+WVP 0 vfCCC3018kri007
+Kiri: "Wait, no, nononono! Nooooooooooo!!"
+TP
+
+Taichi: "Am I that unpleasant!?"
+TP
+
+Taichi: "I can't help being hated because of my personality, but you people are the worst for showing me abhorrence based on my outward appearance!!"
+TP
+
+I changed my target.
+TP
+
+Taichi: "Dossharaaaaaaaa!!!"
+TP
+
+WVP 0 vfCCC3018kri008
+Kiri: "Noooooooooooooo!!"
+TP
+
+Taichi: "Hey, hey, I think I can reach you, Kiri-saaaan!"
+TP
+
+GL 2 TCYM0001
+GS 2 1
+GP 2 180 0
+GS 3 0
+SEF 109 0
+
+WVP 0 vfCCC3018mki022
+Miki: "Aaah, Kiri-chin's going to be raped!"
+TP
+
+GL 1 TCMM0007
+GS 1 1
+GS 2 1
+GP 1 40 0
+GP 2 340 0
+SEF 109 0
+WVP 0 vfCCC3018msa015
+Misato: "You can't go out there!"
+TP
+
+WVP 0 vfCCC3018mki023
+Miki: "But Kiri-chin......Kiri-chin's going to-!"
+TP
+
+GL 1 TCMM0003
+GI 1 0
+WVP 0 vfCCC3018msa016
+Misato: "We can't save her anymore......"
+TP
+GL 2 TCYM0002
+GI 2 0
+
+WVP 0 vfCCC3018mki024
+Miki: "That's-! At this rate Kiri-chin's chastity......"
+TP
+
+WVP 0 vfCCC3018msa017
+Misato: "To prevent Sakura-san's sacrifice from being in vain, let's run!"
+TP
+
+WVP 0 vfCCC3018mki025
+Miki: "Kiri-chin......I'm sorry......I won't forget about you!"
+TP
+GL 2 TCSK0001
+GP 2 220 0
+GS 3 0
+GS 1 0
+GS 2 1
+SEF 109 0
+
+WVP 0 vfCCC3018kri009
+Kiri: "Are you kidding!? Sempai! Mikiiii! You're inhuman!!"
+TP
+
+Taichi: "I see you're resigned to your fate Sakura Kiri......no......Love Slave Sakura Kiri!"
+TP
+
+I chased her to the fence.
+TP
+GL 2 TCSK0004
+GI 2 0
+WVP 0 vfCCC3018kri010
+Kiri: "Gu, gu, guuu."
+TP
+
+She's half crying.
+TP
+
+That arouses me.
+TP
+
+WVP 0 vfCCC3018kri011
+Kiri: "Gu, gu, gu......do-don't touch me you molesteeeeeeeeer!!!"
+TP
+GL 5 bgcc0000d
+GP 5 0 0
+WVP 2 se003 1 0
+GI 5 0
+SEF 109 0
+Taichi: "Guaaaa!!"
+TP
+
+Kiri snapped, and kicked me down.
+TP
+
+GL 0 bgcc0007
+GS 0 1
+GS 5 0
+GS 4 0
+GS 3 0
+GS 2 0
+GS 1 0
+SEF 109 1
+Taichi: "Gunuu."
+TP
+
+I got up right when the three of them were hurriedly disappearing into the building.
+TP
+
+Taichi: "......uuu......uuuuu."
+TP
+
+I cried.
+TP
+
+Tears of humiliation.
+TP
+
+Is there anything as sad as this?
+TP
+
+Is a human's value confined to their outward appearance?
+TP
+
+Even though they all normally said I was cute......was it all a lie?
+TP
+
+White hair. Eyes with peculiar irises. And my nose might be a bit crooked.
+TP
+
+I couldn't help appearing odd.
+TP
+
+But, how am I supposed to change that!?
+TP
+Am I supposed to get plastic surgery like Michael?
+TP
+
+You can't perform plastic surgery on eyes and hair to begin with.
+TP
+
+Besides......I don't like that idea because it's like admitting defeat.
+TP
+
+Aaaaaah...
+TP
+
+It really is harsh to be rejected by people......
+TP
+
+At times, I'm not sure why I keep pretending to be a clown.
+TP
+
+All I'm aiming to become is an existence loved by everyone, like the main character of some story...
+TP
+
+There are sides of me I exaggerate and caricature, but...
+TP
+
+There are......but......you know......
+TP
+
+Taichi: "Ooouuu."
+TP
+
+Sobbing.
+TP
+
+The world is endlessly cruel.
+TP
+
+I hung my head.
+TP
+
+My penis appeared.
+TP
+
+Taichi: "What the hell is that!!?"
+TP
+
+Moreover, isn't it pulsing from my mental persecution? Because I'm a masochist?
+TP
+
+My pants and underwear are...
+TP
+
+Taichi: "Uuoh!? All the way over there?"
+TP
+
+The place where I'd collapsed.
+TP
+
+I put them on.
+TP
+
+Taichi: "I see......that was all because this thing was out......"
+TP
+
+I was saved...a little.
+//Better effect.-Spin
+TP
+
+Taichi: "Even so, why did I strip the bottom half of my clothes......?"
+TP
+
+This incident had many mysteries.
+TP
+
+But that aside,
+TP
+
+Taichi: "......all three......saw it..."
+TP
+
+I wanted to die.
+TP
+
+This is a perfect time for positive thinking!
+TP
+Taichi: "Didn't the fact that I'm a Martian get discovered precisely because I was on full throttle!?"
+TP
+
+GL 1 TCSH0000
+GS 0 1
+GP 1 190 0
+SEF 109 0
+WVP 0 vmCCC3018sku000
+Sakuraba: "A pseudo-Martian?"
+TP
+
+Taichi: "Since I'm still growing."
+TP
+
+GL 2 TCST0000
+GP 1 20 0
+GP 2 340 0
+GS 2 1
+SEF 109 0
+
+WVP 0 vmCCC3018yki000
+Tomoki: "Hmmm. I didn't know that. Must be rough."
+TP
+
+Taichi: "When did you get here!?"
+TP
+
+I broke down crying.
+TP
+
+......I was overheard right after being seen......
+TP
+
+My relations with the masses are all in tatters.
+TP
+
+WVP 0 vmCCC3018yki001
+Tomoki: "Just now. Hey, you wanted these here, right?"
+TP
+
+The two of them were carrying equipment.
+TP
+
+GL 1 TCSH0003
+GI 1 0
+
+WVP 0 vmCCC3018sku001
+Sakuraba: "Worry not, Taichi."
+TP
+
+Taichi: "What about......?"
+TP
+GL 1 TCSH0002
+GI 1 0
+
+WVP 0 vmCCC3018sku002
+Sakuraba: "Regarding the size and expansion rate, I'm sure there is absolutely too much skin."
+//I don't really get the second part. Is he hinting about being uncircumsized? I'll just assume that's another of Sakuraba's weird lines for now.-Spin
+TP
+
+Taichi: "That comforting doesn't make me happy at all!"
+TP
+
+WVP 0 vmCCC3018yki002
+Tomoki: "Anyway, what should we do for now?"
+TP
+
+Taichi: "Oh, thanks. Just leave them somewhere. Then, please fulfill your responsibility by connecting them."
+TP
+GL 2 TCST0003
+GI 2 0
+
+WVP 0 vmCCC3018yki003
+Tomoki: "I'm being used......I'm being used really well......"
+TP
+
+
+GL 2 TCST0000
+GI 2 0
+WVP 0 vmCCC3018yki004
+Tomoki: "What else will you need?"
+TP
+
+Taichi: "I guess we'll need batteries. Were there any in the school?"
+TP
+
+WVP 0 vmCCC3018yki005
+Tomoki: "Do we still have the ones from the campout?"
+TP
+
+Taichi: "And we'll need a tent. Since the equipment could get hot, or get rained on."
+TP
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCC3018sku003
+Sakuraba: "But we have three tents right here."
+TP
+
+Taichi: "What say you John? Where be they?"
+TP
+
+I intentionally asked him.
+TP
+
+GL 2 TCST0004
+GI 2 0
+WVP 0 vmCCC3018yki006
+Tomoki: "Sorry, but I can see how this ends."
+TP
+
+So can I.
+TP
+
+WVP 0 vmCCC3018sku004
+Sakuraba: "They are......within our pants."
+//lol, I was not expecting that.-Spin
+TP
+
+Taichi: "Wahahahaha!"
+TP
+GL 2 TCST0005
+GI 2 0
+
+WVP 0 vmCCC3018yki007
+Tomoki: "Ahahaha!"
+TP
+
+GL 1 TCSH0000
+GI 1 0
+WVP 0 vmCCC3018sku005
+Sakuraba: "Huhuhu."
+TP
+
+But we laughed anyway.
+TP
+
+The three idiots loooove crude humor.
+TP
+
+GL 2 TCST0000
+GI 2 0
+
+WVP 0 vmCCC3018yki008
+Tomoki: "So it's that."
+TP
+
+Taichi: "Eh? What? What?"
+TP
+GL 2 TCST0005
+GI 2 0
+WVP 0 vmCCC3018yki009
+Tomoki: "Huhu!......hu, normally it's folded up."
+TP
+
+Taichi: "Wahahahahaha!"
+TP
+
+GL 1 TCSH0000
+GI 1 0
+WVP 0 vmCCC3018sku006
+Sakuraba: "Hahaha!"
+TP
+
+We laughed at the inside joke.
+TP
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCC3018sku007
+Sakuraba: "And, there are individual differences in the height."
+//Oh man, I would totally fit in with these guys.-Spin
+TP
+
+WVP 0 vmCCC3018yki010
+Tomoki: "Huhu!!"
+TP
+
+Taichi: "Also, there's a one-touch tent. A small tent that seems to simply pop up. If you stimulate it the right way it'll momentarily erect itself---"
+TP
+
+WVP 0 vmCCC3018yki011
+Tomoki: "......!......!!!"
+TP
+
+WVP 0 vmCCC3018sku008
+Sakuraba: "......kukuku!"
+TP
+
+We held our chests while beating each other's shoulders.
+TP
+
+Taichi: "Get a patent for that."
+TP
+
+WVP 0 vmCCC3018sku009
+Sakuraba: "A tent making practical applications of biotechnology."
+TP
+
+WVP 0 vmCCC3018yki012
+Tomoki: "My...my stomach hurts..."
+TP
+
+Taichi: "And, when it becomes a hit product and they interview us about where the original concept came from......we'll tell them it was a c**k!......hu!"
+TP
+
+I took it too far.
+TP
+
+WVP 0 vmCCC3018sku010
+Sakuraba: "......!!!"
+TP
+
+WVP 0 vmCCC3018yki013
+Tomoki: "Please! Stop! Stop, my stomach muscles are at their limit......"
+TP
+
+WVS 1 1
+
+The three of us took deep breaths.
+TP
+
+Taichi: "Anyway, a proper tent."
+TP
+
+We went back to the previous topic.
+TP
+
+GL 2 TCST0000
+GI 2 0
+WVP 0 vmCCC3018yki014
+Tomoki: "Aaah......that's right, we'd planned to get one last year with some of the club's money. Did we ever buy it?"
+TP
+
+Taichi: "Sorry......that got brushed aside because of me."
+TP
+
+WVP 0 vmCCC3018yki015
+Tomoki: "Eh?"
+TP
+
+
+GL 1 TCSH0003
+GI 1 0
+WVP 0 vmCCC3018sku011
+Sakuraba: "......the Shinkawa Yutaka incident."
+TP
+
+With that phrase, the air became solemn.
+TP
+GL 2 TCST0004
+GI 2 0
+WVP 0 vmCCC3018yki016
+Tomoki: "......so that's what it was."
+TP
+
+Taichi: "Well, there was a lot going on with me too..."
+TP
+
+GL 1 TCSH0000
+GI 1 0
+WVP 0 vmCCC3018sku012
+Sakuraba: "Don't worry about it."
+TP
+
+WVP 1 bgm002.ogg 0 0 0
+
+WVP 0 vmCCC3018sku013
+Sakuraba: "I trust that you are a man who can carry out a task on his own."
+TP
+
+Taichi: "You plan to make me do it on my own!?"
+TP
+
+Taichi: "Speaking of which, why do you think I sent out all those postcards!?"
+TP
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCC3018sku014
+Sakuraba: "Trust. It's a beautiful word."
+TP
+
+GL 2 TCST0003
+GI 2 0
+WVP 0 vmCCC3018yki017
+Tomoki: "That's an incredibly unfair way to use it......"
+TP
+
+Taichi: "Eeeei, it doesn't matter so just go get the tent and the batteries!"
+TP
+
+
+GL 1 TCSH0000
+GI 1 0
+
+WVP 0 vmCCC3018sku015
+Sakuraba: "Then I'll get the batteries."
+TP
+GL 2 TCST0000
+GI 2 0
+
+WVP 0 vmCCC3018yki018
+Tomoki: "So I'll get the tent......can that be carried by one person?"
+TP
+
+Taichi: "What if you use a car?"
+TP
+
+WVP 0 vmCCC3018yki019
+Tomoki: "......I don't have a license......oh, right."
+TP
+
+Taichi: "Huhuhu, there are no police here, my friend."
+TP
+
+It's already a crime to make your own broadcast channel without approval.
+TP
+
+WVP 0 vmCCC3018yki020
+Tomoki: "I'd like to try driving. Though I don't know much about cars."
+TP
+
+Taichi: "The manual cars are simpler."
+TP
+
+WVP 0 vmCCC3018yki021
+Tomoki: "Manual?"
+TP
+
+Taichi: "Yeah. The ones with three pedals."
+TP
+
+Taichi: "I think you'll find one quickly if you look in the staff parking spaces. Don't take one with two pedals. Those are dangerous for an amateur to drive."
+TP
+
+GL 2 TCST0004
+GI 2 0
+WVP 0 vmCCC3018yki022
+Tomoki: "Oookaaay."
+TP
+
+Taichi: "So Raba's got the batteries."
+TP
+GL 1 TCSH0000
+GI 1 0
+WVP 0 vmCCC3018sku016
+Sakuraba: "Yeah, leave it to me."
+TP
+
+GL 1 TCSH0003
+GI 1 0
+WVP 0 vmCCC3018sku017
+Sakuraba: "One question though..."
+TP
+
+Taichi: "Nn?"
+TP
+
+WVP 0 vmCCC3018sku018
+Sakuraba: "What do they look like?"
+TP
+
+Taichi: "Tomoki, take Sakuraba with you. Get the tent and the batteries together."
+TP
+
+GL 2 TCST0003
+GI 2 0
+WVP 0 vmCCC3018yki023
+Tomoki: "......yeah, I'll do that."
+TP
+
+Sakuraba was a salty guy who'd make you cry if you used him as a standalone anything.
+TP
+GS 2 0
+GS 1 0
+SEF 109 0
+They both left.
+TP
+
+Taichi: "Now,"
+TP
+
+It should be just about noon.
+TP
+
+I was hungry.
+TP
+
+I do have the bentou from Youko-chan......that usual double portion.
+TP
+
+Shall I eat it with someone?
+TP
+
+WVS 1 1
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+The second year classroom......she's not here.
+TP
+GL 0 evcc0011a
+$CGevcc0011a = 1
+GS 0 1
+SEF 155 0
+Seriously, what happened to Touko?
+TP
+
+Did she not see the postcard?
+TP
+
+......as an ojou-sama, she might not check the mail herself.
+TP
+
+Also, nowadays, no one would think that any mail was coming.
+TP
+I'll go see how she's doing later.
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+WT 500 0
+WT 500 1
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+
+WVP 1 bgm003.ogg 0 0 0
+
+So, the first year classroom.
+TP
+
+All the rooms are arranged and decorated in the same way, but I might bump into them.
+//I'm extremely unsure what this line meant, so if it sounds too out of place, feel free to just cut it. ～IX
+//I'd be reluctant to cut, since the first part seems to relate to some later lines on repetition - Sheeta
+TP
+
+The Flowers weren't there.
+TP
+
+I'll try looking in the other classrooms.
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+WT 500 0
+WT 500 1
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+Not here.
+TP
+
+Not this one either.
+TP
+
+Even the book ends look similar.
+TP
+
+Next one...
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+WT 500 0
+WT 500 1
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+Even the location of the erasers was the same.
+TP
+
+Don't call this some kind of mathematical identity.
+TP
+
+But, it is a coincidence. That's true.
+TP
+
+Anyway, neither Miki nor Kiri is here.
+//I was going to change this to "neither ... nor are", because I was sure 'is' was wrong, but then I looked up, and found that at times English grammar is really arbitrarily stupid. ~Bal
+TP
+
+......they seriously ran away.
+TP
+
+Where should I eat?
+TP
+
+
+
+
+
+
+IF $KIRIBAD == 0 $B = 1
+IF $KIRIBAD == 1 $B = 2
+
+
+
+RET

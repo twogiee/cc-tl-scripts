@@ -1,0 +1,389 @@
+
+
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+WT 500 0
+WT 500 1
+
+
+GL 0 evcc0011
+$CGevcc0011 = 1
+GS 0 1
+SEF 152 0
+
+WVP 1 bgm016.ogg 0 0 0
+
+//教室には冬子がいる。
+Touko was in the classroom.
+//CP CCC0029A
+TP
+
+
+//記録に忠実に。
+Faithfully as recorded.
+TP
+
+
+//きっとこいつには、他に行く場所なんてありはしないんだ。
+That this gal hasn't got any other place to go other than here, for sure.
+TP
+
+
+//自宅で一人こもっているほど、強くもない。
+She doesn't have strength enough to seclude herself alone at home.
+TP
+
+
+//太一「冬子、ちゃんとメシくってる？」
+Taichi: "Touko, are you eating meals properly?"
+//Curiously, it's different from every time he's ever asked. Just a bit, but different. -GHS
+TP
+
+
+
+//冬子「……」
+Touko: "..."
+TP
+
+
+//一瞥だけを寄こし、視線を外した。
+She sends me one lone glance, then moves her sight away.
+TP
+
+
+//ただそれだけの行動に、無数のメッセージがこもっていそうだ。
+Yet, that mere behavior seems to seclude a countless number of messages.
+//Same exact term as above, obviously intentional. -GHS
+TP
+
+
+//尻目にかけられている雰囲気は感じない。
+I don't feel the atmosphere that there would be in being looked askance,
+TP
+
+
+//ただ拗ねているだけに見える。
+she merely appears to be sulking.
+//IOW, this is nothing like CCA0004, is it. -GHS
+TP
+
+
+//太一「無視するなよ」
+Taichi: "Don'tcha ignore me!"
+TP
+
+
+//ほっぺたをつまむ。
+I pinch her cheeks.
+TP
+
+
+WVP 0 vfCCD0001fyu001
+//冬子「やめてよ！」
+Touko: "Stop it!"
+TP
+
+WVP 2 se048 1 0
+//払われる。
+Pushed off.
+TP
+
+
+//太一「だって無視するんだもん」
+Taichi: "But yer ignoring me dammit!"
+TP
+GL 0 bgcc0006
+GL 1 TCKT0003
+GP 1 230 0
+GS 1 1
+GS 0 1
+SEF 109 0
+
+
+WVP 0 vfCCD0001fyu002
+//冬子「察しなさいよ！」
+Touko: "Do guess why."
+TP
+
+
+//怒ること。
+Anger.
+TP
+
+
+//それが冬子の、交流への第一歩だと知っていた。
+That, I knew, was the very first step towards interchange for Touko.
+TP
+
+
+//太一「むにっ」
+Taichi: "Boobnyah!"
+//AKA touch on the boobs. -GHS
+TP
+
+
+GL 1 TCKT0011
+GI 1 0
+WVP 0 vfCCD0001fyu003
+//冬子「やーめーろー！」
+Touko: "STOP! THIS! NOW!"
+TP
+
+
+//太一「早いね。今日は始業式だけで授業はないよ」
+Taichi: "You're early aren't ya. Today's just the opening ceremony, so there's no lessons."
+//CCC0014 appears to confirm, perhaps CCC0020 meant "you gotta come, but there's no lessons" with "half-vacation". -GHS
+TP
+
+
+GL 1 TCKT0003
+GI 1 0
+WVP 0 vfCCD0001fyu004
+//冬子「始業式だってないでしょ！」
+Touko: "There's no opening ceremony at all!"
+//Notice she doesn't confirm the lack of lessons, and this is perfectly true if the current date and year is simply so that it's not opening day anymore. -GHS
+TP
+
+
+//太一「また私服で来るし」
+Taichi: "You came in your own clothes again."
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfCCD0001fyu005
+//冬子「この学校の制服なんて着たくないの」
+Touko: "I really don't want to wear the uniform of this school, no."
+TP
+
+
+//太一「どうして？」
+Taichi: "How come?"
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfCCD0001fyu006
+//冬子「バカに見られるでしょお！？」
+Touko: "Because I'll look stupid won't I?!"
+TP
+
+
+//太一「ひどい言いぐさ」
+Taichi: "Nasty remark that."
+TP
+
+
+//誤解だし。
+It's a misunderstanding.
+TP
+
+
+//太一「ただみんなオツムが普通でないだけだ」
+Taichi: "It's just that everybody's 'heads' are not normal, 's all."
+//Which brings another interesting thing: everybody's at the School for Abnormals. Everybody also has some sort of superpower. Hmmm. -GHS
+TP
+
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfCCD0001fyu007
+//冬子「そーゆーのを世間は馬鹿にするじゃない！」
+Touko: "And isn't that the reason why the world would see me as stupid!"
+//...but there's no one else... -GHS
+TP
+
+
+//太一「だから、闘うんだろ」
+Taichi: "Well then, struggle on!"
+//See CCC4007? -GHS
+TP
+
+GL 1 TCKT0001
+GI 1 0
+WVP 0 vfCCD0001fyu008
+//冬子「……はあ？」
+Touko: "...huh?"
+TP
+
+
+//太一「攻撃から、どうやって身を守るんだよ」
+Taichi: "When attacks come, how do you defend yourself?"
+TP
+
+
+//太一「そいつらと同じように振る舞って、普通に振る舞って、溶けこまないとダメなんだよ」
+Taichi: "You behave the same as those guys, you behave normally. Not melting in is not gonna work ya know."
+//blend into + Touko Is Snow(tm), see CCD3003 -GHS
+TP
+
+
+//太一「そういう技術がいるんだろ？」
+Taichi: "Aren't those the kind of techniques you need?"
+TP
+
+
+GL 1 TCKT0002
+GI 1 0
+WVP 0 vfCCD0001fyu009
+//冬子「……なに本気の話しちゃってるの？　朝っぱらから」
+Touko: "...what's with you talking all serious now? And this early in the morning."
+TP
+
+
+GL 1 TCKT0005
+GI 1 0
+WVP 0 vfCCD0001fyu010
+//冬子「……だいたい、他人なんてもういないじゃない。なにしたって無駄なんだから」
+Touko: "...besides there aren't any 'others' anymore. So all you're saying is all pointless anyway."
+//First and only line in the entire script that asserts this. And it's in reaction not to being seen, but to blending in. Remember that to Touko, "there is no one else" means "no one comes and talks to me". -GHS
+TP
+
+
+//太一「毎週そうやって何もしないのか？」
+Taichi: "Are you just going to do nothing like this, every week?"
+TP
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfCCD0001fyu011
+//冬子「毎週？」
+Touko: "Every week?"
+TP
+
+
+//失言だ。
+Gaffe.
+TP
+
+
+//誤魔化さないと。
+I must deceive.
+TP
+
+
+//太一「ですわ言葉のおばさん予備軍」
+Taichi: "Usage of shan't tied to likelihood of being predestined to becoming an old bag."
+//You a newspaper article now? Notice the complete and total nonsequitur. -GHS
+TP
+
+
+GL 1 TCKT0003
+GI 1 0
+WVP 0 vfccb0004cfyu008
+//冬子「ぬぁんですってーっ！？」/*
+Touko: "WHAASSS'D YOU SAAAAID?!?"
+//CP CCB004C
+TP
+
+
+//太一「それそれ」
+Taichi: "Like that, liiike that."
+TP
+
+
+//ノートにあった着火のススメに則って、冬子を活気づけるか。
+Can I revitalize Touko by igniting her, as is recommended in the notebooks?
+TP
+
+
+//太一「今の冬子のオバサン度は９２％だ。平均が２５％だから致命的だな。しかも加齢とともに１％ずつ増えていくから、おまえ三十路のずっと手前で完膚無きまでにオバサン完全体になるな」
+Taichi: "Currently your old bag level is 92%, Touko. Being that the average is 25%, it is therefore lethal. Furthermore, as with every year of age accumulated it grows by 1%, you will, before you hit age 30, become thoroughly and perfectly an old bag in body and soul."
+//92% = Touko's Conformity Coefficient (46%) times 2, see CCC3021. Difference is sixtySEVEN percent. With the progress, she'd hit 100% in 8 years, at 29 eroge years (25 real years). Interesting he'd double her CC, given how I suspect Alter Egos share CC and therefore Taichi's is double due to Youko not existing. -GHS
+TP
+
+GL 1 TCKT0005
+GI 1 0
+
+//冬子「……………………」
+Touko: "............"
+TP
+
+
+//秒読み開始。３……２……１……。
+Countdown begins. 3... 2... 1...
+TP
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfccb0004cfyu015
+//冬子「○×△□＄＃％＆○×△□＄＃％＆ッッッッッ！！」
+Touko: "○×△□＄＃％＆○×△□＄＃％＆!!!!!!!!"
+//CP CCB0004C
+TP
+
+
+//燃えた燃えた。
+She burned, she burned!
+TP
+
+
+//燃焼力が冬子の生きる力になる。
+The strength to combust will be Touko's strength to live.
+TP
+
+
+//……かどうかはともかく、頑張れ。
+...or maybe it won't, regardless, she'll do her best.
+TP
+
+
+//内心、エールを贈った。
+I gave her a shout of cheer in my heart of hearts.
+TP
+
+GL 1 TCKT0011
+GI 1 0
+
+WVP 0 vfCCD0001fyu013
+//冬子「なんとか言えぇぇぇ！」
+Touko: "SAY SOMETHIIIING!"
+//How long has he been 'out'? -GHS
+TP
+
+
+//太一「わっ！」
+Taichi: "Wah!"
+TP
+
+
+//攻撃を避けた。
+Dodged an attack.
+TP
+
+
+//潮時か。
+Seems to be the propitious time.
+TP
+
+
+//太一「じゃーねー」
+Taichi: "Byez nooow!"
+//PCP CCA0003
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 152 0
+
+WVP 0 vfCCD0001fyu014
+//冬子「あっ、ま、待ちなさいよっ！」
+Touko: "Ah, w-, wait up you!"
+TP
+
+
+WVS 1 1
+
+
+
+
+
+RET

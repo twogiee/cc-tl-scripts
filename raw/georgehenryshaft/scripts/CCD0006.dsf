@@ -1,0 +1,535 @@
+GL 0 bgcc0014
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+WVP 1 bgm016.ogg 0 0 0
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+//まわる世界、か。
+A revolving world, then.
+TP
+
+
+//この月曜を、俺は何度繰り返してきたんだろう。
+How many times have I even repeated this very Monday?
+TP
+
+
+//などと考えていると。
+And while immersed in all thoughts like that,
+TP
+
+
+//美希を発見。
+I spot Miki.
+TP
+
+
+//向こうも俺を発見。
+I'm also spotted in return.
+TP
+
+
+//太一「おーい、ミッキー・マ―――」
+Taichi: "Hoooy, Mickey Mo---"
+//ミッキーマウス  -GHS
+TP
+
+
+//版権的に超厳しいネタをかまそうとしたその瞬間。
+On that very instant I attempt to spit out that copyright-wise hyper unsparing reference,
+//This seems written a bit later than the rest, and considering that voice files aren't split by script file, possibly even cutting it relatively close to development deadline. Wonder if Tanaka was scolded for all the references, however censored... see CCZDXC for more. -GHS
+TP
+
+
+//駆け出す。
+she breaks into a run,
+TP
+
+
+//こっちに向かって。
+towards where I am,
+TP
+
+
+//蹴つまずきながら。
+despite a stumble.
+//See CCC0011C? -GHS
+TP
+
+
+//太一「わっ、ごめん！　俺が悪かった！　ソニー　ボノ法が合憲だなんて知らなかったんだ！」
+Taichi: "Wah, sorry! That was my fault! I didn't know the Sonny Bono Act was constitutional!"
+//http://en.wikipedia.org/wiki/Sonny_Bono_Copyright_Term_Extension_Act Curiously, he had died January of 1998. Even more curiously, this is a reference to the *American* constitutionality of that act... -GHS
+TP
+
+
+WVP 0 vfCCD0001mki000
+//美希「うわ～～～～～～んっ！！」
+Miki: "BWAAA～～～～～～HAAA!!!"
+TP
+
+
+//泣いてた。
+She was crying.
+TP
+
+
+//太一「どしたっ！？」
+Taichi: "What is it?!"
+TP
+
+
+//胸に飛び込んできた。
+She flew into my chest.
+TP
+GL 0 evcc0040
+//It's pretty much impossible to notice with the window there, but she has a pretty nasty-looking cut on her left knee. Is that why she's crying...? -GHS
+$CGevcc0040 = 1
+GS 0 1
+SEF 155 0
+
+//受け止める。
+I catch her.
+TP
+
+
+WVP 0 vfCCD0001mki001
+//美希「せんぱい、せんぱいせんぱいせんぱーーーーーいっ！！」
+Miki: "Senpai, SenpaiSenpaiSenpaaaaaai!!!"
+TP
+
+
+//泣きじゃくる。
+Sobbing lament.
+TP
+
+
+WVP 0 vfCCD0001mki002
+//美希「誰もいないよ～～～～～～っ！　おかしいよ～～～～～～っ、こんなの絶対おかしいよ～～～～～～っ！！」
+Miki: "There's no ooo~ne! It's weee~~ird, this is totally weee~ird!!!"
+//It looks way too weird with all the tildes. The solution is to find some way to add furigana! So, if we take ~ = nuki-GHS
+TP
+
+
+//弱っ！！
+Weak!!!
+//Meaning he remembers her strong. -GHS
+TP
+
+
+//経験値がないってことなのかな？
+Is this sort of like not having enough XP I wonder?
+//How does he remember this?! -GHS
+TP
+
+
+WVP 0 vfCCD0001mki003
+//美希「どこの家にも誰もいないです！　ほんとに誰もいないんです、いなくなっちゃってます！！」
+Miki: "There is no one inside anyone's house! There's really no one, they're all gone, all!!!"
+//Of course, they've all left to go to work by this hour. That's what 'bedtown' means. -GHS
+TP
+
+
+//太一「き、昨日の夜にわかってたことだろ？」
+Taichi: "Y-, you didn't get that part yesterday night?"
+//Indeed. That's because she's faking it, or, at least, taking the 98 game as seriously as Taichi is, meaning the difference between fake and real is borderline irrelevant. -GHS
+TP
+
+
+//背を叩いてなだめる。
+I soothe her by patting her back.
+//But that's the job for Nagusa, not Nadame! CALL THE COOOOOOOPS -GHS
+TP
+
+
+//女の子の涙には弱いのだ。
+I am weak to girls' tears.
+//...hence the "weak" above meant...? -GHS
+TP
+
+
+WVP 0 vfCCD0001mki004
+//美希「だって、だって！」
+Miki: "But, buuut!"
+TP
+
+
+//太一「俺がいるだろ」
+Taichi: "I'm still with you, you know."
+TP
+
+
+WVP 0 vfCCD0001mki005
+//美希「……うううっ、はい……よかった……いてくれて……」
+Miki: "...sob, sob, yes... so happy... that you're here..."
+TP
+
+
+//ギャグだったんだが。
+But that was a joke.
+//Well, she's kidding too. -GHS
+TP
+
+
+WVP 0 vfCCD0001mki006
+//美希「朝おきて、お母さんとかいなくて、ごはんもなくて……そんでみんなまでいなくなってたらって考えたら……」
+Miki: "I woke up this morning, and mother wasn't there, and there wasn't to eat... and that's why I started thinking, what if everybody else is gone too, and..."
+//Keeping "gohan" as breakfast, but she could literally mean that there was no rice in her breakfast. Her mother simply goes to work earlier than she goes to school, which would be normal given they have a commute, and Miki is either expected to buy something at Tasaki on the tab, cook something up herself, or has breakfast that doesn't involve rice - Taichi's never has. See CCA0004: that's another reason Miki's tab is brought up. Nothing in here that demands the end of mankind. -GHS
+TP
+
+
+//太一「恐くなっちゃったか」
+Taichi: "And you got frightened?"
+TP
+
+
+//額をすりつけるよう、こくこくと頷く。
+Bob bob, a steady nod that rubs her forehead on me.
+//PCP CCB0002
+TP
+
+
+WVP 0 vfCCD0001mki007
+//美希「いやです、こんなの……わたし、いや……」
+Miki: "I don't like it, not this... I don't like it..."
+TP
+
+GL 5 BGCC0000A
+GI 5 1
+//HACK to sky -GHS
+
+//空を見上げる。
+I look up at the sky.
+//Hmmm, see CCC3008. And it repeats. -GHS
+TP
+
+
+//太一「やっぱり人がいないと寂しいよな」
+Taichi: "Indeed it's lonely when people aren't there."
+TP
+
+
+WVP 0 vfCCD0001mki008
+//美希「……帰りたい……」
+Miki: "...wanna go home..."
+//The troll is multi layered, too: the "home" for mankind, in Christianity, is Heaven. The routes are beginning to get really religious here. -GHS
+TP
+
+
+//鋭いことを言う。
+She says something clever,
+TP
+
+
+//ここが本来の世界ではないこと。
+that this is not our original world.
+TP
+
+
+//世界’であること。
+This here is World'.
+//Whatever Miki did had nothing to do with forgetting, and this is rubbing it into readers' faces. -GHS
+TP
+
+
+//美希の言葉は偶然だろうけど。
+Miki's words may have been coincidental, but,
+TP
+
+
+//的を射ていた。
+they hit the nail on the head.
+TP
+
+GO 5 1
+
+//太一「帰りたいか……」
+Taichi: "You wanna go home then..."
+TP
+
+
+WVP 0 vfCCD0001mki009
+//美希「帰りたい、帰りたい……」
+Miki: "Wanna go home, I wanna go home..."
+TP
+
+
+//太一「困ったなぁ、どうするかなぁ」
+Taichi: "What a problem, then, what do we do!"
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//美希を慰める方法は、ある。
+There... is a method to console Miki.
+//The cops restored Nagusa back to her rightful place. They also said that Kiri vs. Kasumi thing is under investigation. They'll be letting me know how it goes provided I go with the nice men that are coming to take me to a really nice place. -GHS
+TP
+
+
+//ちょっと卑怯な方法。
+It's a somewhat cowardly method.
+TP
+
+
+//似たもの同士の俺たちだから成立する手段。
+A method that exists because the two of us are fellows, similar in many ways.
+TP
+
+
+//一週間限りだから。
+Because the limit is one week,
+TP
+
+
+//なんだってできる。
+anything and everything becomes possible.
+//He's gonna try doing what she did. He's setting up the fall with his own hands. -GHS
+TP
+
+WVS 1 1
+
+//人が一生を懸命に、後悔なく生きる様にも似て。
+People doing their absolute hardest in life live in ways that resemble having no regrets.
+TP
+
+
+//この一週間だけの固有の俺たちは、生き急がないといけない。
+For those of us peculiar to this one single week, living without hurry is impermissible.
+//Now he "remembers" that everybody's peculiar to the week. -GHS
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+
+//>　　　　　　　　　　じゃっく
+//美希を誘う惹句を、いくつか思い描いた瞬間。
+The moment I envisioned several catchphrases with which to invite Miki,
+//To a date, see Sendback. This is literally impossible without Kiri out of the way somehow. -GHS
+TP
+
+
+//蹴りが来た。
+a kick came.
+TP
+
+GL 4 sgcc0013
+$CGsgcc0013 = 1
+GP 4 0 0
+GI 4 0
+WVP 2 se106 1 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//SEF 101 0
+//HACK independent CG shake -GHS
+
+WVP 0 vfCCD0001kri000
+//霧「しゃーーーーーーーーーーっ！！」
+Kiri: "Sh'yaaaaaaaaaa!!!"
+TP
+
+
+//太一「がああっ！」
+Taichi: "Ghaaah!"
+TP
+
+
+//霧のキックが、俺を美希からむしりとった。
+Kiri's kick plucked me off Miki.
+TP
+
+GL 0 bgcc0014
+GS 0 1
+GS 4 0
+SEF 155 0
+WVP 1 bgm011.ogg 0 0 0
+//HACK Music down here. -GHS
+
+//太一「なにさらすねん！」
+Taichi: "Whass'at ya doin'!"
+//Kansai -GHS
+TP
+
+GL 1 TCSK0001
+GP 1 220 0
+GI 1 1
+//HACK fade the doll -GHS
+
+WVP 0 vfCCD0001kri001
+//霧「痴漢行為はやめてください！」
+Kiri: "Please cease these acts of molestation!"
+TP
+
+
+//太一「痴漢じゃない！」
+Taichi: "I'm not molester!"
+TP
+
+GL 1 TCSK0002
+GI 1 0
+
+WVP 0 vfCCD0001kri002
+//霧「痴漢１００％です」
+Kiri: "You are 100% a molester."
+//~random trivia~ it's impossible for a man to be less than 75% a molester. -GHS
+TP
+
+
+//太一「痴漢じゃないって！」
+Taichi: "Told you I'm not a molester!"
+TP
+
+
+GL 2 TCYM0002
+GP 2 0 0 0
+GP 1 340 0 0
+GS 2 1
+GS 1 1
+SEF 109 0
+
+WVP 0 vfCCD0001mki010
+//美希「ほああ、霧ちん……」
+Miki: "Bwahhh, Kiri-chin..."
+TP
+
+
+//美希がふんにゃりした。
+Miki was enervated,
+TP
+
+
+//そして霧に抱きつく。
+and then went to hug Kiri.
+TP
+
+
+WVP 0 vfCCD0001mki011
+//美希「ふぇぇぇぇ～～～～～～んっ！」
+Miki: "Bwheee～～～～～～h!"
+TP
+
+GL 1 TCSK0000
+GI 1 0
+
+WVP 0 vfCCD0001kri003
+//霧「平気、もう平気だから」
+Kiri: "It's alright, it's alright now."
+TP
+
+
+//あれ？
+What?
+TP
+
+
+//太一「美希や……俺の無実を証明してはくれないのかい？」
+Taichi: "So Miki... you're not going to prove my innocence at all?"
+//She's totally doing this on purpose. -GHS
+TP
+
+
+WVP 0 vfCCD0001mki012
+//美希「えぐっ、ひくっ、うっく」
+Miki: "Sob, hyKh, uHkh."
+TP
+
+
+//泣きじゃくっている。
+She was sobbing,
+TP
+
+GL 1 TCSK0001
+GI 1 0
+//HACK anticipating doll -GHS
+
+//かわりに、霧がキッと俺を睨む。
+whereas Kiri is sharply glaring at me.
+TP
+
+
+WVP 0 vfCCD0001kri004
+//霧「……許さない」
+Kiri: "...inexcusable."
+//Indeed, this scene is so dull and cliche' that it should be far below Tanaka's standards. That's also why I believe Miki's orchestrating it: because it fits the mediocre and bland tropes that would be the best Miki would be able to do after "reset" just TOO well. -GHS
+TP
+
+
+WVP 0 vfCCD0001kri005
+//霧「痴漢は絶対に許さない！」
+Kiri: "Molesting is absolutely inexcusable!"
+TP
+
+
+//太一「違うがな！」
+Taichi: "Ya got it wrong!"
+TP
+GL 1 TCSK0002
+GI 1 0
+
+
+WVP 0 vfCCD0001kri006
+//霧「美希が泣いてるのが、証拠です」
+Kiri: "Miki is crying, that is proof!"
+//Still rushing to conclusions. -GHS
+TP
+
+
+//太一「ぉぃぉぃぉぃぉぃ」
+Taichi: "(well, well, well, well.)"
+TP
+
+
+//冗談じゃないぞ。
+This ain't a joke now!
+TP
+
+
+//こうやってえん罪は形作られていくのか？
+Is this the way that false charges are created?
+TP
+
+
+//逃げるっきゃない。
+Nothing left to do but to run.
+TP
+
+
+GS 1 0
+GS 2 0
+SEF 109
+WVP 2 SE035 1 0
+//HACK SFX. -GHS
+
+//ダッシュ！
+Dassh'u!
+//CP CCC0011C
+TP
+
+
+WVP 0 vfCCD0001kri007
+//霧「あーっ、逃げた！」
+Kiri: "Ahhh! He ran away!"
+TP
+
+WVS 1 1
+
+RET

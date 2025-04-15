@@ -1,0 +1,2384 @@
+
+WVP 1 bgm016.ogg 0 0 0
+
+
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+
+//玄関に移動。
+//I move to the entrance.
+//HACK line removed. Since there was obviously a choice there to do something else that possibly got you out of the Miki route, perhaps into Another Story (it also starts with a chase), this made no sense. -GHS
+
+//太一「んー」
+Taichi: "Hmmm."
+TP
+
+//やっぱつきあってやるか。
+I should really go with her, shouldn't I.
+TP
+
+//太一「……優しさだな」
+Taichi: "...gentleness, innit."
+TP
+
+//男は優しさ。
+Men are gentle.
+//Different from CCA001A -GHS
+TP
+
+//嘘でも優しく。
+Lies are also gentle.
+TP
+GL 1 TCSK0000
+GP 1 190 0
+GI 1 1
+
+
+
+WVP 0 vfCCC0011ckri000
+//霧「……？」
+Kiri: "...?"
+TP
+
+//霧がいた。
+Kiri was among us.
+TP
+
+//太一「おーい！」
+Taichi: "Heeey!"
+TP
+
+GL 1 TCSK0001
+GI 1 0
+WVP 0 vfCCC0011ckri001
+//霧「っ！」
+Kiri: "!!!"
+TP
+
+//ムッとした。
+She's petulant.
+TP
+
+//刺々しい処女め。
+Damn crotchety virgin!
+//fnarr fnarr "crotch" -GHS
+TP
+
+//霧はあまりにも処女すぎた。
+Kiri is way too excessively virgin.
+TP
+
+//太一「どこ行くの？」
+Taichi: "Where're you going?"
+TP
+
+GL 1 TCSK0002
+GI 1 0
+//HACK closed eyes Kiri -GHS
+
+WVP 0 vfCCC0011ckri002
+//霧「……関係、ありません」
+Kiri: "...none... of your business."
+TP
+GO 1 1
+WVP 2 seSHOES 1 0
+//HACK new SFX -GHS
+
+
+//つかつかと去っていく。
+She leaves at a brisk walk.
+TP
+
+//つかつかと追いかける。
+I follow behind at a brisk walk.
+TP
+
+//歩幅はこちらが大きい。
+My stride is large,
+TP
+
+//労せず追いついた。
+so I caught up effortlessly.
+TP
+
+//太一「美希と合流するんだ？」
+Taichi: "Going to link up with Miki?"
+TP
+
+GL 1 TCSK0002
+GI 1 1
+//HACK Fade doll. -GHS
+
+WVP 0 vfCCC0011ckri003
+//霧「ついてこないでください」
+Kiri: "Please do not follow me."
+TP
+
+//太一「俺もこっちに用事が」
+Taichi: "I got something to do with her too."
+TP
+GO 1 1
+WVP 0 vfCCC0011ckri004
+//霧「……っ」
+Kiri: "...!"
+TP
+
+WVS 1 1
+
+//早足。
+Quick march.
+TP
+
+//太一「～♪」
+Taichi: "～♪"
+//I arbitrarily changed this to a reference to this unknown nukige known as Cross Channel. -GHS
+TP
+
+//俺も早足。口笛。
+Quick march for me, too. Whistling.
+TP
+
+WVP 0 vfCCC0011ckri005
+//霧「…………っ」
+Kiri: "......!"
+TP
+
+//歩調はアップしていく。
+Pace going up.
+TP
+
+//追う。
+Closing in.
+TP
+
+WVP 0 vfCCC0011ckri006
+//霧「……もうっ」
+Kiri: "...really!"
+TP
+
+//霧は駆け出す。
+Kiri bursts into a sprint.
+TP
+
+//反射的に、体が動く。
+Reflexively, my body moves.
+TP
+
+//追い駆けっこ。
+Tag chase.
+//追い駆ける (pursue)+追いかけっこ (play tag). See CCZAS, where the same is done to Misato. -GHS
+TP
+
+WVP 1 bgm011.ogg 0 0 0
+
+GL 0 bgcc0014
+GS 0 1
+SEF 152 0
+//商店街を通過。
+We pass through the shopping street.
+TP
+
+//この先は坂道じゃないか！
+Ain't the hill road just ahead!
+TP
+GL 1 TCSK0001
+GI 1 1
+//HACK Fade doll. -GHS
+
+WVP 0 vfCCC0011ckri007
+//霧「来ないでっ！」
+Kiri: "Stay away!"
+TP
+
+//太一「どうして逃げるんだ！」
+Taichi: "Why are you running away!"
+TP
+
+WVP 0 vfCCC0011ckri008
+//霧「先輩がおっかけてくるから！」
+Kiri: "Because you are chasing me, Senpai!"
+TP
+
+//太一「おまえが逃げるからだ！」
+Taichi: "Because you are running away!"
+//Should be a variant of the more usual "joke" (painfully bad even by Japanese standards of bad joke, and that's saying something) that includes mostly the first two lines. -GHS
+TP
+
+GL 1 TCSK0021
+GI 1 0
+//HACK shouty Kiri -GHS
+
+WVP 0 vfCCC0011ckri009
+//霧「ついてこないでーっ！」
+Kiri: "Do not follow meee!"
+TP
+
+GL 0 bgcc0005
+GS 0 1
+GS 1 0
+SEF 152 0
+//来たぜーっ！！
+I wiiill!!!
+TP
+
+GL 4 zzzCCC0011Cchase
+GP 4 0 0
+GI 4 1
+WVP 2 seCHASE 1 0
+//HACK Awesome! + new SFX -GHS
+
+
+//太一「俺は、この、坂で、鍛え、られて、いるが、貴様は、どうかな！」
+Taichi: "I have, been, forged by, these, hills but, how will, you survive, you bastard!"
+//See CCA0004. Hopefully a comma communist somewhere saw the screenshot of this and died. -GHS
+TP
+
+WVP 0 vfCCC0011ckri010
+//霧「はっ、はっ、はっ……はぁっ」
+Kiri: "Hah, hah, hah... haaah."
+TP
+
+//ふふふ。
+Hoh hoh hoh.
+TP
+
+//もうバテバテかい。
+Pooped already are you?
+//screw it *chug* -GHS
+TP
+
+//しかも俺は恐怖によって一夜で白くなった髪のせいで、日差しに強い。
+And then, because of how my hair turned white overnight due to terror, there's how I am very resistant to sunlight.
+//See CCX1001, CCA0012. Since his flashbacks say he had white hair throughout, this is more evidence of exactly how he remembers. The wham lines were the throwaway ones all along. -GHS
+TP
+
+//超有利と言えた。
+I would call that a Hyper Advantage.
+TP
+
+//坂を越えていく。
+We cross over the hills.
+TP
+
+//ひとつ。
+One hill,
+//hey japens if ur so cool whyyy don't hills get ther counter? -GHS
+TP
+
+WVP 0 vfCCC0011ckri011
+//霧「はっ、はっ、はッ！」
+Kiri: "Hah, hah, hah!"
+TP
+
+//ふたつ。
+two hills,
+TP
+
+//太一「ほっほっほっ」
+Taichi: "HohHohHoh."
+//Maybe laughing, maybe tired. -GHS
+TP
+
+//みっつ。
+three hills,
+TP
+
+//霧の速度が落ちた。
+and Kiri's speed fell.
+TP
+
+//チャンス！
+Chaaanche!
+TP
+//太一「おらおらーっ！」
+Taichi: "Getcha getchaaa!"
+TP
+
+GP 4 -180 0
+GI 4 0
+GP 4 -320 0
+GI 4 0
+GP 4 -500 0
+GI 4 0
+GO 4 0
+WVP 2 seCHASE 1 0
+//HACK out CG + new SFX -GHS
+
+
+
+WVP 0 vfCCC0011ckri012
+//霧「……くるなーっ！」
+Kiri: "...back oooff!"
+TP
+
+//くっ、意外と底力がある。
+Grrr, she has unexpected reserve power.
+//See CCA0026? -GHS
+TP
+
+//長期戦になりそうだった。
+It seemed this would become a drawn-out battle.
+TP
+GL 0 bgcc0002
+GS 0 1
+SEF 152 0
+
+GL 4 zzzCCC0011Cchase
+GP 4 0 0
+GI 4 1
+WVP 2 seCHASE 1 0
+//HACK Awesome! + new SFX -GHS
+
+
+//太一「ここが俺ん家ーっ！」
+Taichi: "Here we have my hooouse!"
+//tour guide? -GHS
+TP
+
+GP 4 -180 0
+GI 4 0
+GP 4 -320 0
+GI 4 0
+GP 4 -500 0
+GI 4 0
+GO 4 0
+WVP 2 seCHASE 1 0
+//HACK out CG + new SFX -GHS
+
+
+WVP 0 vfCCC0011ckri013
+//霧「うるさいっ！」
+Kiri: "SHUT UP!"
+TP
+
+//駆け抜ける。
+We run past.
+TP
+
+//裏道をぐるっとまわって学校に戻るコース。
+Our course runs in circles through the back streets and returns to the school.
+TP
+
+//太一「ぐおおっ！」
+Taichi: "Gw'ooh!"
+TP
+
+//貞操帯がすれてきた。
+The chastity belt was chafing.
+TP
+
+//痛い！
+It hurts!
+TP
+//セクハラどころではない！
+Too much to even think about sexual harassment!
+TP
+
+//だがセクハラ！
+Nevertheless sexual harassment!
+TP
+
+//太一「互角ってわけか！」
+Taichi: "You think this'll be a neck and neck!"
+TP
+
+//闘志がわいた。
+Fighting spirit was boiling.
+TP
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+
+//太一「ほっほっ」
+Taichi: "HohHoh!"
+TP
+
+GL 0 bgcc0014
+GS 0 1
+SEF 152 0
+
+//太一「ほっほっ」
+Taichi: "HohHoh!"
+//CP Merry 
+TP
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+//太一「ほっほっ」
+Taichi: "HohHoh!"
+//CP Christmas
+TP
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+
+//学校ＩＮ！
+School INNN!
+//Gakkou in <-> Gakuin (institute). -GHS
+TP
+
+//太一「ほっほっ」
+Taichi: "HohHoh!"
+//CP everybody!!!
+TP
+
+//土足でＧＯ！
+Without switching shoes GOOO!
+TP
+
+//そのまま二年教室に。
+And like that to the Second Years' classroom.
+TP
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+WVP 2 se105 1 0
+//In the console version, this is the Harakiri Wolf, see CCB0004C: it seems they didn't add the SFX, the just replaced this with that one. This is true in both PS2 and 360 version. Good job as usual! -GHS
+SEF 101 0
+//ずたーん！
+Slam!
+//Unfortunately the term is now overtaken by some music group or something that I can't be arsed to look closer at. Wondering if it's a corruption of ズダーン. -GHS
+TP
+
+//霧が締めた扉をあけて飛び込む。
+I opened the door Kiri had shut and fly inside,
+TP
+
+//後部のドアから出て行くところだった。
+just as as she was leaving out of the classroom's rear door.
+TP
+
+//太一「ちっ」
+Taichi: "Tsk!"
+//PCP CCA0015 FWIW
+TP
+
+//駆け抜ける。
+I run through.
+//Hum, too different meaning to leave it copypasta'd. Damn. -GHS
+TP
+GL 0 evcc0011
+$CGevcc0011 = 1
+GS 0 1
+SEF 152 0
+WVP 0 vfCCC0011cfyu000
+//冬子「……ぁえっ！？」
+Touko: "...wEh?!"
+TP
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+//太一「あ、いないっ」
+Taichi: "Ah, she's not here!"
+TP
+
+//左右どっちかに消えた！
+Left or right which way did she vanish!
+TP
+
+//太一「……くんくん」
+Taichi: "...sniff, sniff."
+TP
+
+//太一「こっちだ！」
+Taichi: "This way!"
+TP
+
+//右からフローラル。
+Florality from the right.
+TP
+
+//階段をかけおりる。
+I run down the stairs.
+TP
+
+//一階廊下。
+First floor corridor.
+//So the second years are on the second floor. The first and third on the third? This makes no sense. -GHS
+TP
+
+//霧の背中が見えた。
+Kiri's back came into sight.
+TP
+
+//太一「わははっ、貴様のフローラルミントが命取りぃぃぃぃっ！」
+Taichi: "Mwahaha, little one, your Floral Mint shall end your liiiiiife!"
+//Pretty sure Tanaka at least knows the other meaning of 'mint'... though see CCA0013, and the new CCB0013. Hum, mint diaries... and later on, Citrus Mint. -GHS
+TP
+
+WVP 0 vfCCC0011ckri014
+//霧「ちっ」
+Kiri: "Tsk!"
+//PCP CCA0015 FWIW
+TP
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+//再び外に。
+Once more to the outdoors.
+TP
+
+//ちなみにもう一時間くらい走ってる。
+Incidentally we've been running for around an hour now.
+//It's ~63 lines from the start of the chase. Hmmm, 1 line a minute? Interesting -GHS
+TP
+
+//これがっ、夏っ！
+For this! Is! Summer!
+TP
+
+GL 0 bgcc0014
+GS 0 1
+SEF 152 0
+//太一「ほっほっ」
+Taichi: "HohHoh!"
+//CP ahohoh
+TP
+
+WVP 0 vfCCC0011cmki000
+//美希「……あ、せんぱい……」
+Miki: "...ah, Senpai..."
+TP
+
+//失恋し傷心の旅に出た美智子が乗った深夜急行の窓を時折寸刻の残像をともなって通り過ぎる白い駅標札を思わせて、美希をスルーした。
+As if I were the mere afterimage of one of the white train station nameplates that occasionally go by the window of the midnight express that a broken-hearted Empress Michiko took while on a journey of grief, I dash by Miki.
+//http://ja.wikipedia.org/wiki/%E7%9A%87%E5%90%8E%E7%BE%8E%E6%99%BA%E5%AD%90 see CCC4022, the nickname for Empress Michiko (who has the same 'beauty' kanji as Miki) will also be used to refer to Miki in a lavish banquet of Mickey Mouse/Empress Michiko/Miki House onanism (it beats FUCKING HERMIONE FUCK). -GHS
+TP
+
+WVP 0 vfCCC0011cmki001
+//美希「ほあっちょー」
+Miki: "Hohcch'oh!"
+//暑い atsui hot？ ...no, it can't be, it's not Accio, is it? No, that's アクシオ (akushio, not hoacchoo). Whew. -GHS
+TP
+
+//後方から声と。
+A voice from the rear.
+TP
+
+//太一「っ！！」
+Taichi: "!!!"
+TP
+SEF 101 0
+
+
+//衝撃。
+And impact.
+TP
+WVP 2 se032 1 0
+SEF 101 0
+
+
+//ずさー！
+Scurrryyy!
+//In the sense of scuttle and scampering -GHSoUnhelpful
+TP
+
+//顔面スライディング。
+Faces sliding.
+TP
+
+WVP 0 vfCCC0011cmki002
+//美希「ひざかっくん」
+Miki: "Knee lap attack * Hiza Kakkun!"
+//Hey, it googles! -GHS
+TP
+
+WVP 0 vfCCC0011cmki003
+//美希「あははははは」
+Miki: "Ahahahahaha!"
+TP
+
+//太一「あははははは」
+Taichi: "Ahahahahaha!"
+TP
+
+//太一「……うりゃ」
+Taichi: "...H'ryah!"
+TP
+
+//キスした。キス泥棒のようにだ。
+I kissed, as if I were a Kiss Thief.
+//TL note: a Kiss Thief steals kisses[citation needed]. -GHS
+TP
+GL 4 sgcc0021
+$CGsgcc0021 = 1
+GP 4 0 0
+GI 4 4
+WVP 0 vfCCC0011cmki004
+//美希「んむ～～～～～～～～～～っっっ！？」
+Miki: "NMHUH～～～～～～～～～～?!?!?"
+TP
+
+//ドリル。
+Drill.
+//See CCC3010. This is revenge! -GHS
+TP
+
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+WVP 0 vfCCC0011cmki005
+//美希「んっ、んぶっ、ん、ぷぁっ！？」
+Miki: "Nh, nBh, nh, pWah?!"
+TP
+
+//バイブ。
+Vibrate.
+TP
+
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+WVP 0 vfCCC0011cmki006
+//美希「んっ、んんんんんっ、ちゅ、ちゅるっ、んぶぁっ、んっ、～～～～っ、んっ、んっんっって……れっ、ふぁ、んんーーーーーっ！！」
+Miki: "Nh, NNNNNh, pch, pchrh, nBhah, nh, ～～～～!, nh, nHnHhth... hrh, hfah, nnNNNNH!!!"
+TP
+
+//バキューム。
+Vacuum.
+TP
+
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+WVP 0 vfCCC0011cmki007
+//美希「んむむむむむっ、ふぁ、ふぁあんっ、んっ、んーっ、ゃんっ、い、息っ、息できな……んんんん～～～～～っ、っ、れるっ、れるるっ、んちゅ、ちゅるっ、ぁ、あっく、ぁぉ、ふむぅぅぅんっ！！」
+Miki: "nMhMhMhMhMh, hFah, hfAahnh, nh, nNNNh, nHo, b-, breathe, can't breathe... nnnn～～～～～h, h, hrhuh, hruhuh, npch, chphruh, ah, aGhkh, haoh, fmUUUUhnh!!!"
+TP
+
+//とどめにミキサー（美希なだけに）。
+Finishing blow is the Mik'sser (given it's Miki)
+//Miki-mixer + Miki-kisser. Curiously, Taichi here has FOUR settings, not two. So does he actually have a Violent Murderer and a Youko setting? -GHS
+TP
+
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+WVP 0 vfCCC0011cmki008a
+//美希「んんっ、んーっ、んっ、うぅんっ、んっん、んぅぅ……れろっ、……あ、いゃ、ふぁ……ぺろ、んっ、くっ……だめえ、やぁ、んんんん、んんんんんんんっ、んっ、んるっ…ふぁ……」
+Miki: "Nnh, nNNNh, nh, uhnh, nhnh, nhuuh... hrhuh, ...ah, no, hfah... tongue, nh, ghkh... caaan't, nooo, nnnnh, NNNNNNNNh, nh, hruh... fAh..."
+TP
+
+WVP 0 vfCCC0011cmki008b
+//美希「苦し、です……許ひて……ゆる……んんんんんんんんん～～～～～っっっっっっ」
+Miki: "Pain, it's just... release me... rel... nnnNNNNNN～～～～～hhhhhh!"
+TP
+GO 4 1
+//くてんと虚脱し、膝をついた。
+She collapses with a pomf and fell to her knees.
+//Assuming that's another non-joyo SFX. Curses! -GHS
+TP
+
+WVP 0 vfCCC0011cmki009
+//美希「……ふひゅ～……あふあふ……」
+Miki: "...fhWhyuuu～ ...AhfhAhfh..."
+TP
+
+//太一「ひざかっくん」
+Taichi: "Hiza kakkun."
+//See. -GHS
+TP
+
+//傲然と告げた。
+So I arrogantly proclaimed.
+TP
+
+//追跡を再開。
+Tracking pursuit resumes.
+TP
+
+//しかし、美希め。
+But really, dammit Miki.
+TP
+
+//走る人間の膝をとらえるとは。
+Grabbing the knees of runners!
+TP
+
+//急激に成長している今日この頃。
+As this time today, you have experienced rapid growth to adulthood.
+TP
+
+WVP 0 vfCCC0011cmki010
+//美希「……ふぁ、ふぁーすときすがぁぁぁ……」
+Miki: "...hfyh, fyyrst kiiiiiss..."
+TP
+
+//そんな声が背後から聞こえた。
+That is the voice I heard from the back.
+TP
+
+//自業自得である。
+Reaping the whirlwind indeed.
+TP
+
+//GL 0 bgcc0014
+//GS 0 1
+//SEF 152 0
+//HACK no change in any version, and this just reloads the BG. -GHS
+//太一「ほっほっ」
+Taichi: "HohHoh!"
+//CP asdfghjkl
+TP
+
+//エナジーを吸って元気が出た。
+Having sucked in some energy I go out all hyped.
+TP
+
+//霧に距離をつけられてしまったが……。
+Kiri still managed to get some distance but...
+TP
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+//この坂で、一気に取り戻す。
+On this one hill, I shall regain it in a single gulp.
+TP
+
+//ダッシュ！
+Dassh'u!
+//Assuming it's a Melty Blood reference, see CCD2002 for another. -GHS
+TP
+
+//ただし貞操帯を装備中ゆえ、がに股っぽさが付与されてしまう。
+However, as the situation finds me equipped with a chastity belt, I am endowed with a most thorough bowlegged stance.
+//Suddenly a bit formal. -GHs
+TP
+
+GL 4 zzzCCC0011Cchase
+GP 4 0 0
+GI 4 1
+WVP 2 seCHASE 1 0
+//HACK Awesome! + new SFX -GHS
+
+
+//太一「霧、それでまいたつもりかー！」
+Taichi: "Kiri, you think you can give me the slip with just thaaat!"
+TP
+
+WVP 0 vfCCC0011ckri015
+//霧「……うっ」
+Kiri: "...nggghhh..."
+TP
+
+//驚いてつんのめる。
+Surprisingly, she falls forwards.
+//Her Woman Running Away from Monster Timer must be up. -GHS
+TP
+
+WVP 0 vfCCC0011ckri016
+//霧「う、う……ぐす……ひくっ」
+Kiri: "Ngh, ngh... sigh... sob!"
+TP
+
+//べそをかいた。
+She was on the point of tears.
+//-de beso -GHS
+TP
+
+WVP 0 vfCCC0011ckri017
+//霧「やだ、もうっ……」
+Kiri: "Stop, enough..."
+TP
+
+GO 4 1
+WVP 2 seCHASE 1 0
+//HACK out CG (no sliding this time) + new SFX -GHS
+
+
+//だいぶ疲労している。
+Considerably fatigued,
+TP
+
+//足を引きずるようにして走る。
+she runs as if dragging her feet along, in a limp.
+TP
+
+//追いつくのに……十秒もかかるまい。
+To overtaking... perhaps ten seconds.
+TP
+
+//追いついてどうしよう。
+And once I overtake, what do I do.
+TP
+
+//考えてなかった。
+I did not think about it.
+//See CCA0020. What does a dog do after he catches a car? -GHS
+TP
+
+//感情のおもむくままに任せるしかない。
+Nothing to do but entrust it to the flow of emotions.
+TP
+
+
+//フラワーズ、ダブルファーストキッス強奪―――
+The Double Pillage of the Flowers' First Kiss---
+//See CCC3008. He already stole her first kiss. See CCD3003: interesting now. -GHS
+TP
+
+//邪悪な考え。
+Wicked thoughts.
+TP
+
+//そうだ。それがいい。
+Indeed. That one's good.
+TP
+
+//俺がお花ちゃんたちを散らすのだ。
+I shall make a bedlam of scattering the Flowers.
+//See CCA0025C. Just because I can. -GHS
+TP
+
+//太一「クックック！」
+Taichi: "Kuh kuh kuh!"
+//Evil laugh -GHS
+TP
+
+//もはやほとんど歩いている霧に、手を伸ばす。
+By now Kiri is practically walking, and I lay my hands on her.
+TP
+
+//刹那。
+That split instant,
+TP
+
+WVS 1 0
+
+//視界の端に、影が。
+a shadow at the edge of my field of vision.
+TP
+
+//瞬間の集中力。スローモーに見える。
+I concentrate on the instant. I see it in slow motion.
+//See CCC3022. The two scenes are nearly identical, but one has Youko and the other Nanaka. Very interesting comparison. -GHS
+TP
+
+//なんだこれは。
+What is this?
+TP
+
+//自転車。
+A bicycle.
+TP
+
+//自転車、だと。
+A bicycle, but,
+TP
+
+
+GL 4 sgcc0016
+$CGsgcc0016 = 1
+GP 4 0 0
+GI 4 0
+WVP 2 se106 1 0
+//SEF 101 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+WVP 0 vfCCC0011cnnk000
+//七香「やーーーーーーっ！」
+Nanaka: "YAAAAAAAH!"
+TP
+
+//太一「ごあーっ！？」
+Taichi: "Goh'aaah?!"
+//Goh'aaah Screaming Show? -GHS
+TP
+
+//地面に叩きつけられた。
+I was smacked into the ground.
+TP
+GO 4 1
+//薄まる意識。
+Awareness dilutes.
+TP
+
+//遠のく霧。
+Kiri grows distant.
+//No, no, you're confusing Kiri with Kasumi. -GHS
+TP
+
+WVP 0 vfCCC0011cnnk001
+//七香「まったく……この子は……祠にも行かず全力で無駄なことばかり……」
+Nanaka: "Seriously... this boy... just wasting all his strength, without even going to the hokora..."
+TP
+
+//ブツブツと呟いていた。
+Grumble, grumble she muttered.
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+//……………………。
+............
+TP
+
+GL 0 bgcc0003
+GS 0 1
+SEF 10 1
+
+WVP 1 bgm002.ogg 0 0 0
+
+//目を覚ますと自分の部屋だった。
+When I was awake, I was in my room.
+TP
+
+//太一「う、ううう……」
+Taichi: "Uh-, ugggh..."
+TP
+
+GL 1 TCYM0000
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC0011cmki011
+//美希「おはようです」
+Miki: "Good morning."
+//...doesn't seem to be the next day, however. -GHS
+TP
+
+//太一「あ、美希りんだ」
+Taichi: "Ah, Miki-rin."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki012
+//美希「美希りんです。お邪魔してます」
+Miki: "This is Miki-rin. Sorry for intruding."
+TP
+
+//太一「あれ？」
+Taichi: "Eh, what?"
+TP
+
+//股間が物足りない。
+My crotch leaves me unsatisfied.
+TP
+
+//触れてみると、あの頼もしくほのかに痛い貞操帯の感触がない。
+I try to touch, and that reliable faint sense of pain that was the feeling of the chastity belt is no more.
+TP
+
+//プチ寂しい。
+Petit loneliness.
+//Hey, just like Sakuraba's impotence... and if Taichi's monster is his dick... -GHS
+TP
+
+//苦楽を共にして、愛着がわきだしていたのだろうか。
+I shared sorrow and joy with it, wouldn't it obvious that I'd grow into some measure of attachment?
+TP
+
+//太一「美希……さっそくですが俺が履いていたやつ……」
+Taichi: "Miki... this is sudden, but, the thing I was wearing..."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki013
+//美希「なんかすごいの履いてましたねー」
+Miki: "And what an amaaazing thing you were wearing!"
+TP
+
+//太一「ハ、ハイテクブリーフさ」
+Taichi: "Hi-, High-Tech Briefs they were."
+TP
+
+//嘘ついた。
+I lied.
+TP
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC0011cmki014
+//美希「す、すごかー」
+Miki: "A-, assuriiin'...?"
+//It sounds like it's for "sugoi" with a "ka" for questioning, but "sugo" alone means "protection, safeguard". And this being Hermione of Words, therefore thSUGOI SUGOI - SUGOI SUGOI - SUGOI SUGOI - SUGOI SUGOI - SUGOI SUGOI - SUGOI SUGOI -GHSUGOI SUGOI
+TP
+
+//太一「暗いところではセンサーで自動的にライトがつくくらいハイテクさ」
+Taichi: "It's the kind of Hi-Tech stuff that senses when you are in the dark and automatically turns on a light, yes."
+//heeeeey like his eeeeyes -GHS
+TP
+
+//太一「だからズボンの中では輝きっぱなし。サタデーナイトフィーバーだよ」
+Taichi: "That's why it's always sparkly inside my pants. It's like Saturday Night Fever in here!"
+//You can tell by the way he uses his walk/that he's bowlegged, it's all Youko's fault... but can we look the other way, and understand the Bible's effect on man? -GHS
+TP
+
+//ハイテクブリーフのあまりのやんちゃ坊主な側面に、自ら苦笑してみせる。
+I show a wry smile myself to that side of me that is just a naughty little lad with excessively high-tech briefs.
+//That song was the bee's gees -GHSoSorry
+TP
+
+//金のかかる愛犬を自慢するトップブリーダーのような顔つきでだ。
+It was a face like the prideful face of a top breeder of expensive pet dogs.
+//Hum, 愛犬 pet dog vs. 愛刀 favored sword. -GHS
+TP
+
+//太一「だが妻には好評なんだ。シーツの中でも息子をさがしやすいってね！（米笑）」
+Taichi: "But they're popular with the housewives. Even inside the sheets, they can find their husband's 'son' all so very easily! (ULOL)"
+//Son is an euphemism for penis. ... ... ... ...well, I've have run out of material on the subject and I'm just over halfway through. Awww balls. -GHS
+TP
+
+//※米笑＝アメリカ人風スマイル。アメリカ人は自分のギャグにセルフサービスで笑う力を有する。
+> 
+ 
+* ULOL = US American-style smiley. The power that
+  Americans are endowed with enabling them to provide
+  laughs self-service to their own jokes.
+//Sorta-different from CCB0008B. Curiously, he says it's just a "smile", and though 笑 can also mean that, it's usually translated as 'lol' in this context. So it's a smiley. -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 0
+//HACK normal Miki -GHS
+
+WVP 0 vfCCC0011cmki015
+//美希「うはぁ、あだると～」
+Miki: "Whoooa, so adult'ow～!"
+//Continuing the one from above, this one would also be "so futile". -GHSUGOI SUGOI
+TP
+
+//太一「あれ、かわりの下着を履かされてる？」
+Taichi: "Ehhh, did you make me wear a new pair of underpants?"
+TP
+
+//美希を見る。
+I look at Miki.
+TP
+
+GL 1 TCYM0003
+GI 1 0
+//HACK well, I guess she could pass as embarrassed. -GHS
+
+//赤面して、目をそらす。
+She's red in the face, and averting her eyes.
+TP
+
+//太一「……き、きみ……もしかして……」
+Taichi: "...y-, you... couldn't possibly..."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0011cmki016
+//美希「は、はあ……先輩が道に落ちていたので……拾ったら……裾のトコからカラーンって貞操帯の破片が……」
+Miki: "Y-, yeah... when you fell down in the streets, Senpai... I picked you up... and from the... cuff... of the pants, tlunk-tlunk there fell fragments of the chastity belt..."
+//Nanaka destroyed Youko's chastity belt. SYMBOLISM!!! -GHS
+TP
+
+//貞操帯って知ってるんじゃねぇか！！
+Don't that mean she knows it's a chastity belt!!!
+TP
+
+//俺は突っ伏した。
+I fell on my face.
+//Lit. "I fall prostrate". On his bed... lying down... without seeing his underwear...???? Let's say it's metaphorical(tm). -GHS
+TP
+
+WVP 0 vfCCC0011cmki017
+//美希「それで先輩の家まで引きずって……」
+Miki: "And then I dragged you all the way home, Senpai..."
+TP
+
+//うお、この全身の擦り傷はそのせいか！
+Whoa, these abrasions all over my body were caused by that?!
+TP
+
+WVP 0 vfCCC0011cmki018
+//美希「ズボン脱ぎ脱ぎさせたら……ポロリって」
+Miki: "I went strippity-strip with the trousers, and... badaboom."
+//See, of course, CCC3018 -GHS
+TP
+
+//なぜズボンを脱ぎ脱ぎさせる必要があったのだ！
+Why did you even need to strippity-strip the trousers at all!
+//I don't care, nugi-nugi is strippity-strip. It is the LAURRRGGGHw. -GHS
+TP
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCC0011cmki019
+//美希「そこから三十分くらい記憶なくて……気がついたら学校の屋上にいて……」
+Miki: "And from there I have about thirty minutes of memories missing... when I was aware again, I was on the school rooftop..."
+//Thirty is written 三十 "3 10", 3-10=7. Memories gone, "when she was aware" she was elsewhere: just like Taichi. -GHS
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//記憶喪失して逃げ出すほど不気味だったのかよ。
+Was it so creepy that she had to run away and lose her memory?!
+//Though it's nearly what's going on with himself, so... -GHS
+TP
+
+GL 1 TCYM0011
+GI 1 0
+WVP 0 vfCCC0011cmki020
+//美希「戻って、覚悟を決めて……この美希が一番似合うと思った下着を着用させていただきましたのであります！」
+Miki: "I returned, and I steeled myself for the worst... for this Miki here has made you wear the underpants she thinks best suit you indeed!
+TP
+
+//太一「……ほう」
+Taichi: "...hoh."
+TP
+
+//ズボンの中を見てみる。
+I try to look inside my trousers.
+TP
+WVP 2 SE064 1 0
+//ぞうさんパンツだった。
+My underwear was an elephant.
+//And now I can't shake the idea that this is a tribute to Leisure Suit Larry 7, which had... http://kivopolis.informe.com/gallery/147-2/larry7-002-orig.jpg (more SFW than this thing is) (yes, he trumpets them later in the scene). First Lucasarts with Zak McKracken, now Sierra with Larry? -GHS
+TP
+
+//太一「似合うのか？　これが一番似合うのか？」
+Taichi: "Suit me?! These are the ones that best suit me?!"
+TP
+
+//フロント部分が袋になっていて、ぞうさんっぽさに磨きをかけているではないか。
+The front part ends in a bag, and that seems to be quite a... sharpening on its elephantism, isn't it.
+TP
+
+//パンツと言うより竿カバーだ。
+Rather than panties, this is a rod cover.
+//Google insists there's nothing naughty about the term, and it's about protectors for clotheslines or somesuch. Bad google. Bad. -GHS
+TP
+
+GL 1 TCYM0003
+GI 1 0
+//HACK earlier change. -GHS
+//美希は恥じらう。
+Miki goes shy.
+TP
+
+WVP 0 vfCCC0011cmki021
+//美希「そ、その……いっぺん殿方がそれを履いているところが見たかったのです！　満足です！」
+Miki: "I-, it's just... I just wanted to see a gentleman wear them once! I am satisfied now!"
+TP
+
+//俺は知らぬうちに美希を満足させていた。
+I had satisfied Miki while unaware.
+TP
+
+//くそう……美希美希にいじられていたのか……。
+Dammit... to be toyed with by Miki-Miki...
+TP
+
+//どうしてそこで目を覚まさないかなぁ、俺は。
+Whyyy did you not awake right then, myself!
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki022
+//美希「どうしました？」
+Miki: "What is it?"
+TP
+
+//太一「……自分に呆れて」
+Taichi: "...I am disgusted by myself."
+//This can, naturally, mean both "I wish I had woken up" and "I'm so tired to want to play sexual pranks of that sort". -GHS
+TP
+
+GL 1 TCYM0021
+GI 1 0
+//HACK Doubty Miki -GHS
+//美希の顔に『？』が浮かぶ。
+A "?" appears on Miki's face.
+TP
+
+
+
+//太一「ま、いいや。それより助かった。いかな俺でも、炎天下に倒れたままでは体調を崩してしまうところだった」
+Taichi: "Well, whatever. More importantly, you saved me. Even with how I am, falling down under the blazing sun would be a crushing blow to my physical condition."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki023
+//美希「いいえいいえ」
+Miki: "Nooothing it's nooothing."
+TP
+
+//太一「なにか礼をしなければならぬ」
+Taichi: "I feel like I absolutely must express my gratitude somehow."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki024
+//美希「先輩がのんびり暮らしてくれれば、それで満足ですから」
+Miki: "If all you would give to me, Senpai, is continuing to live your carefree life, that would be satisfying."
+TP
+
+//太一「美希……いいやつっ」
+Taichi: "Miki... nice girl!"
+TP
+
+//ひしっ
+Hug!
+//The Trapa Japonica, also ひし, has nothing to do with walking calamari. And that leaves me endlessly puzzled. -GHS
+TP
+
+//ついでに尻を揉む。
+And while I'm at it, ass rub.
+//See CCA0011A. -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0011cmki025
+//美希「離れろや子象」
+Miki: "Get off me you elephant calf!"
+TP
+
+//太一「はうっ！？」
+Taichi: "Haw?!"
+TP
+
+//男としてかなりの恥辱に見舞われた。
+Man as I am, I had been made to undergo a fair amount of shame.
+TP
+
+//太一「そうそう、サンドイッチがあるんだ。ごちそうしよう」
+Taichi: "Right right, we some sandwiches here. Let's partake of this meal!"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki026
+//美希「打たれ強い先輩も素敵です」
+Miki: "You're also amazing when you can take lots of punishment, Senpai."
+//See Sakuraba. -GHS
+TP
+
+//あまり冷たくはないが、飲み物も用意する。
+I also lay out something to drink, even if it's not really cold.
+TP
+
+//太一「ちょうど昼だしね」
+Taichi: "It's exactly noon, right."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki027
+//美希「わあ、いただきますっ」
+Miki: "Waaah, thank you for the food!"
+TP
+
+//飛びついた。
+She jumped on.
+TP
+
+//むくむくむく
+Munch, munch, munch.
+TP
+
+
+
+//ひたむきに食べる。
+Single-minded dedication to eating.
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki028
+//美希「むぐむぐ……新鮮な野菜が……むぐ……使われていますね」
+Miki: "Munch, munch... there's fresh vegetables... munch... inside!"
+//She knows he didn't make them. -GHS
+TP
+
+//太一「うむ」
+Taichi: "Mh-mmh!"
+TP
+
+WVP 0 vfCCC0011cmki029
+//美希「どうも手近なもので済ませてしまって……」
+Miki: "I would've just grabbed anything at hand and be done with it..."
+TP
+
+//太一「野菜もとらねばよ」
+Taichi: "You must eat your vegetables!"
+//See CCC3019A. -GHS
+TP
+
+WVP 0 vfCCC0011cmki030
+//美希「そーなんですけどね」
+//Miki: "Swim swim hungry. Stupid fish!"
+Miki: "Yeees I know, but, well."
+TP
+
+//そういや、曜子ちゃん昼に戻ってくるとか言っていたけど。
+Ah right, Youko-chan said she would come back by noon, but,
+TP
+
+//もう来てたりして。
+she should have already come by now.
+TP
+
+//ありえた。
+She could be,
+TP
+
+GO 1 1
+//HACK out with doll -GHS
+
+//背後！
+behind me!
+TP
+
+//……いないか。
+...she's not there?
+//She's "dead". Pretty much simultaneously with Nanaka smashing his chastity belt. Or is it the opposite, her "death" being simultaneous with Miki coming to his house and nursing him? Hmmm, shades of Alfred Hitchcock here. -GHS
+TP
+
+//太一「けど……どうなってんだろうなぁ、この世界は」
+Taichi: "But... what's even going on in this world now."
+//Normal conversation -> Youko -> parallel world talk. He totally fell asleep/began hallucinating mid-talk. -GHS
+TP
+
+WVP 0 vfCCC0011cmki031
+//美希「むぐ？」
+Miki: "Munch?"
+TP
+
+//太一「人がいなくなってるし、かといって死体があるわけではないし」
+Taichi: "On one hand people are no more, on the other hand there's simply no bodies around us."
+TP
+
+//太一「動物もいなくなってるし」
+Taichi: "Animals are no more as well."
+TP
+
+//太一「こうして生きてるってことは、体内の微生物まで死滅してるわけではないみたいだけど……都合の良い滅亡もあったものだ」
+Taichi: "But the reason we are still living is that this annihilation doesn't seem to extend to the microorganisms inside our bodies... what a convenient Fall we have here."
+//COUGH COUGH, HINT HINT. -GHS
+TP
+WVP 0 vfCCC0011cmki032
+//美希「…………」
+Miki: "......"
+//"Damn, he just won't get out of his delusion, will he." -GHS
+TP
+
+//反応がない。
+There is no response.
+TP
+
+//太一「美希？　聞いてる？」
+Taichi: "Miki? Are you listening?"
+TP
+GL 1 TCYM0003
+GI 1 1
+//HACK and fade in doll. The timing looks wrong, but is in fact merely extremely suspicious.
+
+WVP 0 vfCCC0011cmki033
+//美希「あ、はい……あまりのうまさに我を忘れてて……」
+Miki: "Ah, yes... We have lost Ourselves in this deliciousness..."
+//She's dodging the question. ...if he ever spoke, that is. Unless she gets really lost in eating, as Taichi and Yutaka in their own way. -GHS
+TP
+
+//太一「飢えっ娘かおまえは」
+Taichi: "You a starving orphan or something?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki034
+//美希「その、野菜のやつもらっていいですか？」
+Miki: "Well, may I get some of these vegetables here?"
+TP
+
+//太一「どうぞどうぞ」
+Taichi: "Go on, go on."
+TP
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki035
+//美希「野菜を食べて便秘と無縁の人生だったらよいのにー♪」
+Miki: "Eating vegetables means a life unshackled by constipation!♪"
+//Actually, if she's into the We_rd, she'd have more like diarrhea. Oh, don't look at me like that, remember how much come the Japanese eat every day. -GHS
+TP
+
+//太一「少しは恥じらえ、娘……」
+Taichi: "A bit of shame, miss..."
+TP
+
+//気心が知れているのは良いのだが。
+Making herself easily read is a good thing, though.
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki036
+//美希「で、なんでしたっけ？」
+Miki: "So, what was it?
+TP
+
+//太一「人類死滅の謎を追っていたトコ」
+Taichi: "Just chasing the Mystery of the Annihilation of Humanity, that-is-all."
+//"I was just playing in my chuuni settei." -GHS
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC0011cmki037
+//美希「遅すぎたんですよ、わたしたち」
+Miki: "We were just late, we were."
+//According to CCC4025, they indeed missed it. -GHS
+TP
+
+//太一「……俺は、そうは思わない」
+Taichi: "...I don't think so."
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC0011cmki038
+//美希「そうなので？」
+Miki: "You don't?"
+TP
+
+//太一「人類全員、アブダクションされている最中かも知れないジャン？」
+Taichi: "Couldn't it be, yannow, that mankind whole is just being abducted as we speak?"
+//"Kamikakushi" (rapture) isn't too technically incorrect. After all, what's all his chuuni delusion but mistaking God for some hyperintelligent alien? -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki039
+//美希「……先輩はやっぱり頭いいなあ」
+Miki: "...you truly got the brains, Senpai."
+//Double irony. -GHS
+TP
+
+//太一「ははは、そう誉めそやすなよ」
+Taichi: "Hahaha, don't speak so well of me now."
+TP
+
+//太一「美希ちんはくじけてないよね」
+Taichi: "Miki-chin, you're undeterred are you."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki040
+//美希「あはは、のーてんきです」
+Miki: "Ahahah, I'm just carefree."
+TP
+
+//太一「適応係数って訊いていい？」
+Taichi: "May I ask you your Conformity Coefficient?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki041
+//美希「４０くらいです」
+Miki: "Around 40."
+//Roughly half Taichi's, and near Touko's. Like Taichi, she's got an Alter Ego; hers is real, perhaps unlike Taichi. -GHS
+TP
+
+//太一「ぼちぼちだね」
+Taichi: "Not too bad, passable, yeah."
+TP
+
+WVP 0 vfCCC0011cmki042
+//美希「社会生活に影響ないですし」
+Miki: "No impact on social life at all."
+//This isn't so much a lie as it's copying stuff that's been said by someone else - and so far, by Taichi. It may be just Gunjou lingo, but the point is, it's a lie as she's probably more broken than he is. ...then again, it's never really said that conformity's a *good* thing, is it? -GHS
+TP
+
+//太一「昔からそんくらい？」
+Taichi: "Has it always been around that?"
+TP
+
+WVP 0 vfCCC0011cmki043
+//美希「はい。子供の頃から」
+Miki: "Yes. Ever since I was a kid."
+TP
+
+//太一「なるほど、それで群青送りになったか」
+Taichi: "I see, is that why you ended up being sent to Gunjou then?"
+TP
+
+WVP 0 vfCCC0011cmki044
+//美希「……人にちょっち怪我させてしまったりで。ロリ時代ですけど」
+Miki: "...I did cause a bitty of injuries to people. But that was when I was in my Loli era."
+//Hokkaido dialect. Hmmm. See CCA0003. But were they in the Touko/Misato range, or...? -GHS
+TP
+
+//太一「あーロリねー。いーなーロリ。その時代に会いたかった」
+Taichi: "Ahhh, loli innit. Niiice ain't they, lolis. I wish I had met you then!"
+//Because as we all know, Taichi reeeally hates loli. -GHS
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki045
+//美希「写真ありますよー」
+Miki: "I have pictuuures!"
+//loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli loli -GHS
+TP
+
+//太一「……いくらだ？」
+Taichi: "...how much?"
+//PCP CCC3019B
+TP
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC0011cmki046
+//美希「リ、リアルな顔になってるんですけど……」
+Miki: "B-, but you're making a pretty Real Serious face now..."
+//See CCC3019B. -GHS
+TP
+
+//太一「リアルに欲しいからな。いくらだ？」
+Taichi: "Because I want them for Real. How much?"
+TP
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfCCC0011cmki047
+//美希「……カ、カンガエトキマス」
+Miki: "...TH-, THINKING　IN PROGRESS."
+//fucking slow AI taking forever to make its move -GHS
+TP
+
+//怯えていた。
+She became frightened,
+TP
+
+//それも一瞬。
+and instantaneously as well.
+//She generally takes this stuff really too seriously, so she might be truly embarrassed; however, given she likely knows "Youko" is dead, that may be the point. Or maybe she's just reminded of the losing Kiri path. -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0011cmki048
+//美希「そういえば……唇……奪いましたね？」
+Miki: "Speaking of that... my lips... you stole them didn't you."
+TP
+
+//声が低まった。
+Her voice lowered.
+TP
+
+//太一「う……ああ、あの件ね。いや、あまりに絶妙のタイミングでキックが入ったから、ちょっとヒートしてしまって」
+Taichi: "Ngh... aaah, that thing, yes. No, it's just that the kick you gave me had with such an exquisite timing, and there was a little heat..."
+//Supposing it's the Hiza Kakkun -GHS
+TP
+
+WVP 0 vfCCC0011cmki049
+//美希「ファーストキスだったのに……」
+Miki: "And it was my first kiss too..."
+TP
+
+//太一「そ、そんな気はした」
+Taichi: "It-, it did feel like it."
+TP
+
+//太一「しかし美希があまりにも鋭い攻撃を放ったため、俺の心はホット入ったのである」
+Taichi: "Still, Miki, you burned up my heart because you unleashed an attack so very sharp, indeed!"
+//lit. "struck", but since it's "hotto", going with pun with the "heeto" above. -GHS
+TP
+GL 1 TCYM0041
+GI 1 0
+WVP 0 vfCCC0011cmki050
+//美希「うううぅー」
+Miki: "Nggghhh..."
+TP
+
+//しばらく美希はうーうー唸っていた。
+For a while, Miki just muttered all 'ngh, ngh'.
+TP
+
+WVP 0 vfCCC0011cmki051
+//美希「……犬に噛まれたものと思って諦めるしか……」
+Miki: "...I must give up and consider this as if having been bitten by a stray dog, with no owner that a law could judge..."
+//http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q125091482 -GHS
+TP
+
+//太一「そ、それがよい」
+Taichi: "Th-, that is fine."
+TP
+
+//さっと顔を上げる。
+Quickly she raises her head.
+TP
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki052
+//美希「それかこのカメラの内容を公開してウサをはらすか」
+Miki: "So, should I forget my troubles by exposing the contents of this camera to the world?"
+TP
+
+//太一「そ、それは使い捨てカメラッ！？」
+Taichi: "I-, is that a disposable camera?!"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki053
+//美希「そこは驚くところでは……」
+Miki: "Is that the part that surprises you now..."
+//Indeed the focus is odd. -GHS
+TP
+
+//太一「うん、そうだね。間違えたよ」
+Taichi: "Ah, right. My mistake."
+TP
+
+//太一「何を撮ったんだ？」
+Taichi: "What have you been photographing?"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0011cmki054
+//美希「先輩のぞうさんです。２４枚撮りきりました」
+Miki: "Senpai's elephant. I have 24 exposures."
+//She couldn't afford a 36 exposure model? 24 exposure limits means it's a film camera, further showing that the VN takes place in 1998. -GHS
+TP
+
+//太一「なんだってぇーっ！！」
+Taichi: "WHAT'D YOU SAAAY!!!
+TP
+
+//>　　　　　　　　　　　　　　　　　　ちけい
+//俺の恥ずかしい茎、恥茎をっ！
+My Embarrassing Stem is getting EmbaStem'd!"
+> 
+ 
+ 
+* EmbaStem'd = flogged.
+//Chikei. 笞刑 (flogging) has the same pronunciation. The masochist. Added it as a sort-of Taichian word since puns do not exist in English(tm). -GHS
+TP
+
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki055
+//美希「掲示板にぃ、貼りだしちゃおうかな～、そ　れ　と　も、ばらまいちゃおうかな～♪」/（★★★歌っぽく）
+Miki: "Should I stick theee～m, on a notice board, or-in-its-stead, maybe I'll scatter it arooo～und♪!"
+//"Sung-ish". See CCA0004, Taichi does the same to Touko's bill. "Notice board" since bullettin board sounds BBS-ish. Not that anyone pays any attention, but, well, *I* try to. -GHS
+TP
+
+//太一「や、やめておくれ、それだけは」
+Taichi: "S-, stop I beg, that's insane!"
+//Keeping it consistent with CCA0015, CCB000B (as it's Miki) -GHS
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC0011cmki056
+//美希「んー、ファーストキス奪われちゃったしなー。やっぱ公開かなー」
+Miki: "Hmmm, my first kiss's been stolen wasn't iiit. Indeed this has to be made public don't iiit."
+TP
+
+//太一「お慈悲！」
+Taichi: "Have mercy!"
+//Recurring -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0011cmki057
+//美希「わたしの言うことを聞きますか？」
+Miki: "Will you do what I tell you to do?"
+TP
+
+//太一「ききますききます」
+Taichi: "Willdowilldo!"
+//spacesareforwimps -GHS
+TP
+
+//揉み手で。
+She rubs her hands together.
+TP
+
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki058
+//美希「じゃあ言うことを一つきくごとに、写真を一枚ずつ返してあげましょう」
+Miki: "Then for each thing I order you to do that you actually do, I will return you one picture."
+TP
+
+//太一「そんなエロゲみたいな要求にも、この黒須太一、唯々諾々と服従いたす所存」
+Taichi: "This Kurosu Taichi here intends to acquiescently submit even to a demand so incredibly Eroge-like as that!"
+//For of course no reason whatsoever, since humanity would be gone (as if!), and Taichi should not care... like he didn't in CCA0022. Very telling. -GHS
+TP
+
+GL 1 TCYM0011
+GI 1 0
+WVP 0 vfCCC0011cmki059
+//美希「ふっふっふ～」
+Miki: "Heh heh heh～"
+TP
+
+WVP 0 vfCCC0011cmki060
+//美希「とりあえず霧ちんをいじめるの禁止ー」
+Miki: "First of all, bullying Kiri-chin is now forbiddeeen!"
+TP
+
+//太一「ははーっ」
+Taichi: "Hahaaah!"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki061
+//美希「愛あるセクハラもですよ」
+Miki: "Sexual harassment with love, as well."
+TP
+
+//太一「ははははーっ」
+Taichi: "Hahahahaaah!"
+TP
+
+//頭を下げた。
+I bow my head.
+TP
+
+//主従が逆転してしまった。
+Complete turnabout of master and servant.
+TP
+
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+SEF 152 0
+//そんなわけで、学校にやってきた。
+And with things being like that, we came to school.
+TP
+
+//美希のおつきとして荷物持ちをさせられている。
+I'm being made to carry Miki's bags as her escort.
+//...how many bags DO these guys bring to school? Maybe it's just the bag and the crossbow. -GHS
+TP
+
+//太一「さて、来たのはいいけど、どうすべー」
+Taichi: "So then, we came here and that's OK, but whaddowedoo?"
+//This comment intentionally left blank as the translator backs away slowly. -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 1
+//HACK fade doll -GHS
+WVP 0 vfCCC0011cmki062
+//美希「あ、あっしはここで霧と合流しますんで」
+Miki: "Ah, ah'm joining up with Kiri here."
+//See CCA0008. Valley girl my ass... -GHS
+TP
+
+//太一「あいよー」
+Taichi: "Aye aye!"
+//http://zokugo-dict.com/01a/aiyo.htm oh look, I learned something about Japanese that wasn't completely horrifying today again. -GHSob
+TP
+
+//鞄を渡す。
+I hand over her bag.
+//Now it's just a kaban? K. -GHS
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki063
+//美希「ついでにこれも現像します」
+Miki: "By the way, I'll be developing these as well!"
+//Developing color film by hand is an absolute PITA (and my parents have done so professionally for a while, so they know), which makes it quite suspect. Maybe she just does it B&W, but it remains somewhat odd: she's a genius loli archetype, sure, and she knows PC and stuff, sure, but there's nothing anywhere indicating that she'd know about this. In fact, CCC3016 seems to deny this, since developing photos is a specialized skill. Maybe she just lolis up some of the Photography Club members. Oh, and 'loli' as a verb is now part of the official canon of the English language, so feel free to use it in your fanfics -GHS
+TP
+
+//カメラを取り出し、不敵に笑う。
+She takes out the camera and makes the toughest of laughs.
+//Same as with the friendship demands sentence. -GHS
+TP
+
+//太一「……ううっ、俺はおまえの愛奴隷だぁ」
+Taichi: "...nghhh, I'm your love slaaave!"
+TP
+
+
+WVP 0 vfCCC0011cmki064
+//美希「ではでは」
+Miki: "Then well then!"
+//CP CCA0030
+TP
+
+GO 1 1
+WVP 2 seSHOES 1 0
+//HACK later doll exit, new SFX -GHS
+
+//軽い足取りで去っていった。
+She went leaving with light steps.
+TP
+
+//さてと……。
+And now...
+TP
+
+//Possibly another choice removed here. -GHS
+
+WVS 1 1
+
+GL 0 bgcc0008
+//This was always the corridor BG, unlike in CCC0021. -GHS
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//結局、学校に来てもやることはない。
+And in the end, I may have gone to school but there was nothing to do.
+//CP CCC0021
+TP
+
+//帰るか。
+Should I just go home?
+//CP CCC0021
+TP
+
+//けど……こんな悠長なことでいいのかな。
+But... I wonder if being this leisurely is right.
+//CP CCC0021
+TP
+
+//世界、滅亡しちゃってるのに。
+Because the world has fallen into ruin.
+TP
+
+WVP 1 bgm016.ogg 0 0 0
+
+//太一「……」
+Taichi: "..."
+TP
+
+//俺は何をすべきなんだろう。
+I wonder what I ought to do.
+TP
+
+//何ができるんだろう。
+What could I even do.
+TP
+
+//壮大な謎はいいけど、解く手がかりさえない。
+A grandiose riddle is fine to have, but clues to solve it I don't have.
+//Just make some shit up and then claim you haven't. Insulting anyone who tries to understand as dumb. Insult anyone who points out that you're contradicting yourself as mistrusting and uncaring. It'll totally work! -GHS
+TP
+
+//太一「……ん？」
+Taichi: "...hm?"
+TP
+
+//ないこともないのか。
+Not true I don't have nothing.
+TP
+
+//祠―――
+The hokora---
+TP
+
+
+//七香も、曜子ちゃんも言っていた。
+Nanaka and Youko-chan both mentioned it.
+TP
+
+//祠ねえ。
+The hokora, right.
+TP
+
+//暇見て、行ってみるのもいいかもな。
+I got spare time, maybe I should just go have a look, then.
+TP
+
+GL 1 TCYM0000
+GP 1 190 0
+GI 1 1
+
+
+WVP 0 vfCCC0011cmki065
+//美希「たいちせんぱい」
+Miki: "Taichi-senpai!"
+//A mature thing to call him. -GHS
+TP
+
+//太一「んお、美希か」
+Taichi: "Nmoh, Miki?"
+TP
+
+//霧もいた。
+And Kiri as well.
+TP
+
+//敵意むんむん。
+With steamy stuffy animosity.
+TP
+
+//太一「霧、疲れてるね」
+Taichi: "Kiri, you look so tired."
+TP
+
+GL 2 TCSK0002
+GP 1 40 0
+GP 2 345 0
+GS 1 1
+GS 2 1
+SEF 109 0
+WVP 0 vfCCC0011ckri018
+//霧「……誰のせいだと……はぁ」
+Kiri: "...whose fault is that... sigh."
+//See CCC0014. Wait a second, this should be hours after that! How is she still tired? Well, it's no more than minutes after that, of course.  -GHS
+TP
+
+//ぐったりしていた。
+She was dead tired.
+//Hur hur hur I said tired. -GHS
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki066
+//美希「新学期初日から仲悪すぎる二人のため、この美希めが一計を」
+Miki: "Dumb little Miki here has one proposal for these two people getting along so extremely bad from the very opening day of the new school term."
+TP
+
+//太一「悪くないよ、別に」
+Taichi: "It's not bad between us, not really."
+TP
+
+GL 2 TCSK0001
+GI 2 0
+WVP 0 vfCCC0011ckri019
+//霧「悪いです」
+Kiri: "It is bad."
+TP
+
+//きっぱり。
+Plainly.
+//See CCA0008 -GHS
+TP
+
+//太一「うーん……じゃ、やっぱり仲悪いということで。どうするの？」
+Taichi: "Ohhh... well, then we're getting along bad after all. What do we do?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki067
+//美希「部活です」
+Miki: "Club activities!"
+TP
+
+//太一「部活？　友貴がやってるアレ？」
+Taichi: "Club? That stuff that Tomoki's doing?"
+TP
+
+WVP 0 vfCCC0011cmki068
+//美希「いえ、部長先輩の方のです」
+Miki: "No, what President-senpai is doing!"
+TP
+
+//太一「……ああ、そっち」
+Taichi: "...ahhh, hers."
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//日曜夜。
+On Sunday night,
+//And he just keeps referring to Sunday rather than "yesterday", despite it having been actually yesterday. Same with CCA0003, where he doesn't refer to the last weekend as such. And Nanaka even asks if it is was Summer vacation. All very very very interesting details to have. -GHS
+TP
+
+//人類の形跡がなくなった世界で、俺たちは方針を決めた。
+we had decided on our course of action in this world where all traces of mankind were no more.
+TP
+
+//様子見―――
+Wait and see---
+TP
+
+
+//関係が断たれた者同士だ。
+We are people whose relationships had been severed.
+//Between each other, sure, but also with the world... perhaps. -GHS
+TP
+
+//他に道はなかったろう。
+There would never have been other ways.
+TP
+
+//その中で、友貴は食料の確保と配給、みみ先輩はアンテナを使ってＳＯＳを出す、という計画を立てた。
+Within that, plans were made: Tomoki would secure and distribute food, while Mimi-senpai would use the antenna to send an SOS.
+//WHY DONT THIS GAME HAVING MORE SEMICOLOOONS;;;;;;;;;;;;;;;;;;;;; -GHS
+TP
+
+//合宿の結末は口論に彩られ、皆疲労していた。
+The conclusion of the training camp was colored by quarrel, and everyone was weary.
+TP
+
+//だから二人に賛同する者はいなかった。
+Therefore, there was no one who agreed with them.
+//Odd. it can't be that no one agreed with them since it's stated very clearly that Miki and Kiri did in, uhm, where was it... bwaaah I don't remember. It's in Kiri's route. -GHS
+TP
+
+//正直、最近の先輩は少しノイローゼ気味だった。
+Honestly, Senpai seemed a bit neurotic of late,
+TP
+
+//俺が無理を言って強行した合宿が、そのトドメになった。
+and the training camp I unreasonably forced on her became the finishing blow to that.
+TP
+
+//……申し訳ない気持ちはあった。
+...I felt what I had done was inexcusable.
+TP
+
+//話しかけづらいという気分も等しく。
+At least as much as it seemed that it would be hard to approach and talk to her.
+TP
+
+GS 5 0
+GL 1 TCYM0011
+GS 1 1
+SEF 109 0
+//HACK back to normal, doll change. -GHS
+WVP 0 vfCCC0011cmki069
+//美希「命令です。仲良く部活をすること」
+Miki: "This is an order. Let us get along together in the club."
+//Interesting that Miki, despite being technically omniscent, still believes that the normal everyday is the answer. Then again, you can't run away from a prison of your own devise... -GHS
+TP
+
+//太一「……わかった」
+Taichi: "...got it."
+TP
+
+//まあ、いいか。異存はない。
+Ah, whatever. I don't have objections.
+//See CCC0000: he's just a spineless twerp, really. -GHS
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki070
+//美希「霧ちんもね！」
+Miki: "Kiri-chin too!"
+TP
+
+
+
+GP 2 330 15
+GI 2 0
+GP 2 345 30
+GI 2 0
+GP 2 360 15
+GI 2 0
+GP 2 345 0
+GI 2 0
+//HACK independent doll shake -GHS
+
+
+
+//ばし、と背中を叩く。
+Paf, she slaps her back.
+TP
+
+GL 2 TCSK0002
+GI 2 0
+WVP 0 vfCCC0011ckri020
+//霧「わかってるってば……」
+Kiri: "I said I get it..."
+TP
+
+//コイツも弱みを握られているのかな。
+Is her weakness also being exploited then?
+//Mizumi--- Misato style. More imitative behavior. -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki071
+//美希「言うこときかないと……あの写真を張り出しちゃうぞ？」
+Miki: "If you don't do as I say... I will be posting up those photos, ya know?"
+//See CCD0008B -GHS
+TP
+
+GL 2 TCSK0003
+GI 2 0
+//HACK sweatdrop Kiri. -GHS
+
+WVP 0 vfCCC0011ckri021
+//霧「ううう……それだけは……」
+Kiri: "Ugggh... that's insane..."
+//Still same. Very interesting she'd find this embarrassing without anyone anywhere... though the excuse would be that she fears Taichi. -GHS
+TP
+
+//やっぱり。
+I knew it.
+TP
+
+//太一「えと、屋上行って、手伝えばいいのかな？」
+Taichi: "Uhm, but is it OK if we just go to the rooftop and offer our help?"
+TP
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0011cmki072
+//美希「そーです。穏やかに、荒ぶることなく」
+Miki: "In-deed. Quietly, and without unruliness."
+TP
+
+//太一「頑張るよ」
+Taichi: "I'll do my best."
+TP
+
+GL 2 TCSK0002
+GI 2 0
+//HACK closed-eyes Kiri (here instead of above, reacting to the wrong line as usual) -GHS
+
+WVP 0 vfCCC0011ckri022
+//霧「トイレ……」
+Kiri: "Toilet..."
+//lol gurlz R always in teh toiletz. -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+//HACK displeased Miki -GHS
+
+WVP 0 vfCCC0011cmki073
+//美希「あ、こら」
+Miki: "Aw, come on!"
+//She sounds like Kiri should've gone on ahead already... -GHS
+TP
+
+
+GO 2 1
+
+
+//霧は女子トイレに入った。
+Kiri enters the girls' toilet.
+TP
+
+GO 1 1
+//HACK out with her doll -GHS
+
+//美希が追う。
+Miki follows.
+TP
+
+//俺も追う。
+I follow as well.
+TP
+
+GL 1 TCYM0001
+GP 1 180 0
+GS 1 1
+SEF 109
+
+WVP 0 vfCCC0011cmki074
+//美希「……なにげなく入らないように」
+Miki: "...don't come in all casual-like."
+TP
+//押し出される。
+I'm pushed out.
+TP
+
+//トイレと廊下の境界線で、俺と美希は分かたれた。
+I and Miki are separated by the boundary line between toilet and corridor.
+//Is it empty? Lolololololol another reference nooo ooone will get -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0011cmki075
+//美希「悪い癖が出ました」
+Miki: "Your bad habit has surfaced."
+TP
+
+WVP 0 vfCCC0011cmki076
+//美希「霧ちんは嫌なことがあると引きこもるのです」
+Miki: "When bad things happen, Kiri-chin goes hikikomori."
+//See CCB0006, CCB0007, CCC0033A. Lots of people doing that... with the added lie that it's Miki who does so of the two, see CCD3003, CCD4002A, not Kiri. -GHS
+TP
+
+//太一「さすが多感な十代」
+Taichi: "Your typical sensitive teenager."
+TP
+
+WVP 0 vfCCC0011cmki077
+//美希「そういうわけで先に行っててください」
+Miki: "And therefore, please go on ahead of us."
+TP
+
+//太一「うむ」
+Taichi: "Mh-hm."
+TP
+
+//太一「では美希にこれを授けよう」
+Taichi: "But before that, I want you to have this, Miki."
+TP
+
+//取り出す。
+I took it out.
+TP
+
+
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfCCC0011cmki078
+//美希「これは？」
+Miki: "What is this?"
+TP
+
+//太一「小型のショットドライバーだ」
+//Taichi: "This is my penis."
+Taichi: "It's a small snap gun."
+//Term googles to stuff like http://j.tokkyoj.com/data/E05B/3077078.shtml which should be http://en.wikipedia.org/wiki/Snap_gun -GHS
+TP
+
+//万年筆を半分に切ったほどのツール。
+It was a tool the size of a a fountain pen cut in half.
+//Real snap guns seem quite a bit bigger. It's very likely home made, they seem a lot smaller. -GHS
+TP
+
+//太一「ピッキングツールだ。役に立つぞ。小さいが耐久性がなくて、シアラインを揃える時にプレートが欠ける可能性がある。要注意だ」
+//Taichi: "It's lockpick. It's best if you, the Master of Unlocking, have it."
+Taichi: "It's lockpicking tool. It'll come in handy. It's small and it has no durability, so when you reach the shear line there is a possibility that the plate would get chipped. Handle with care."
+//Curiously, I'm not certain what the payoff for this much setup is supposed to be. He'll pick a lock in CCD1001, but there's no mention of a snapgun there. I suspect this is how he can get into school when it's well before dawn, but that's sort of it. So I'll make my own: henceforth "handing a girl your snapgun to help her pick locks" shall be an official euphemism for sex. http://en.wikipedia.org/wiki/Shear_line_%28locksmithing%29 -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0011cmki079
+//美希「……なぜこんなものを」
+Miki: "...why do you have this?"
+//And yes, I checked, no, it's not a reference to that Resident Evil line. It sounds perfectly normal in Japanese anyway, even if the speech is in English in every version. -GHS
+TP
+
+//太一「趣味だ。普通の鍵なら慣れれば３０秒かからない」
+Taichi: "Hobby. If you get good at it, a normal lock should take no more than 30 seconds."
+//Sure it's not 貫 pierce? This is much more interesting after knowing that he lakes Wacchi. This guy is waaay not into privacy. Remember that thing from week 1 about having 'shopped pictures of people? How unlikely's that now. -GHS
+TP
+
+WVP 0 vfCCC0011cmki080
+//美希「そうか……こんな技術があるから……どこに隠れても無駄だったのか……」
+Miki: "Right... so with a skill like this... no matter where you hide it's pointless isn't it..."
+//See CCC0009. Closest this comes to making sense is simply pointing out that there'd be no escape for Miki no matter where she hides, but this thread is very much dangling. -GHS
+TP
+
+//小声。
+In a whisper.
+TP
+
+//太一「え、なに？」
+Taichi: "Eh, what?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCC0011cmki081
+//美希「いえー。とりあえずお借りします。いらないんですけどね……」
+Miki: "Nooothing. I will be taking it for now. Not that I need it, but..."
+TP
+
+WVP 0 vfCCC0011cmki082
+//美希「ちなみにキーピックは得意なのですか？」
+Miki: "By the way, are you skilled with a lockpick?"
+//He just said that when you're used to it you can do it in 30 seconds! What the hell is this scene? -GHS
+TP
+
+//太一「無意識でもできる」
+Taichi: "I could do it unconsciously."
+//...because he can do it easily when he's Youko...? Who never ever picks a lock ever? And here's the only thing remotely within payoff: there's nothing prevent him from snap-gunning that chastity belt off seconds after Youko leaves. Yet he doesn't. -GHS
+TP
+
+GL 1 TCYM0041
+GI 1 0
+WVP 0 vfCCC0011cmki083
+//美希「アカン……この人……」
+Miki: "Hopeless... this guy's just..."
+TP
+
+//太一「じゃまたあとで」
+Taichi: "Well, see you later."
+TP
+
+
+GO 1 1
+
+
+//屋上に向かった。
+I headed towards the rooftop.
+TP
+
+WVS 1 1
+
+
+RET

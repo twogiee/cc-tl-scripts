@@ -1,0 +1,889 @@
+GL 0 bgcc0008
+GS 1 0
+GS 0 1
+SEF 152 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+WVP 1 bgm002.ogg 0 0 0
+
+
+//教室に戻る途中、処女がうずくまっていた。
+I met a crouching maiden while on my way back to the classroom.
+//PCP CCA0008
+//Actually had to change quite a bit since the two fragments don't seem to flow. -GHS
+TP
+
+//美希だ。
+It's Miki.
+TP
+
+//山辺美希。
+Yamanobe Miki.
+TP
+
+//太一「おーす」
+Taichi: "Yo there!"
+TP
+
+GL 1 TCYM0001
+GP 1 180 0 0
+GI 1 1
+
+WVP 0 vfccb0007mki000
+//美希「っ！？」
+Miki: "!!!?"
+TP
+
+//美希は立ち上がる。
+Miki stands straight up.
+//PCP CCA0008
+TP
+
+//素早い挙動。
+Very sudden behavior.
+//Very suspicious, too. -GHS
+TP
+
+//ゆっくりと振り返った。
+Slowly she turned around.
+TP
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfccb0007mki001
+//美希「あ、先輩……どぉも」
+Miki: "Ah, Senpai... hello."
+TP
+
+//顔をあげて会釈。
+She raises her head and nods in salutation.
+TP
+
+//いつもと変わる風でもない美希だ。
+Miki's style is an ever unchanging, bluff-less thing.
+//See CCA0008, more reading key for the wind (now gone). -GHS
+TP
+
+//少し違和感。
+A vague sense of physical discomfort.
+//Specific recurring term -GHS
+TP
+
+//美希は、こんな強かったのだろうか？
+Was Miki always this determined and strong?
+//Vague. -GHS
+TP
+
+//もともと素質はあったようだが、一回りも二回りもたくましくなったような。
+That quality was there from the start, yes, but it feels she has gone around the block once or twice with regards to strength of willpower.
+//Lit. "incomparably [stronger] than before", but keeping closer to the original since it hints about her not resetting. -GHS
+TP
+
+//そんな感じがする。
+That's the feeling she evokes.
+TP
+
+//太一「なにしてんの？」
+Taichi: "What'cha doing?"
+TP
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfccb0007mki002
+//美希「そーじです」
+Miki: "Cleaning."
+TP
+
+//太一「俺もやったぞ、そーじ」
+Taichi: "What a coincidence, I'm scrubbing."
+//Adaptation Hell begins! -GHS
+TP
+
+WVP 0 vfccb0007mki003
+//美希「表面的な言葉遊びで送辞と相似とか言いますか？」
+Miki: "Is that a superficial wordplay with your idea of my physical characteristics and your parentage?"
+//farewell+resemblance+cleaning -> cleaning+she's flat+he's a bastard -GHS
+TP
+
+//太一「……言いません！」
+Taichi: "...it is not!"
+//Suddenly formal -GHS
+TP
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfccb0007mki004
+//美希「なぜ怒るです」
+Miki: "Why all angry?"
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb0007mki005
+//美希「なぜ黙るです」
+Miki: "Why all silent?"
+TP
+
+//太一「そんなオチを封じた上にせかすなようっっ」
+Taichi: "Don't hurry me with that when I don't have a comebaaack!"
+TP
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfccb0007mki006
+//美希「わーい、勝ったー」
+Miki: "Weeee, I wooon!"
+TP
+
+//たくましかった。
+Stronger willpower.
+//Same as above. -GHS
+TP
+
+//太一「あ、思いついた」
+Taichi: "Ah, just thought this one:"
+TP
+
+//咳払い。
+I clear my throat.
+TP
+
+//太一「……人類を掃除した」
+Taichi: "...humanity I have scrubbed!"
+//Fits the pun and the implication that he sent humanity away. そうじ (ignoring kanji) does have several more meanings that may be applicable, but it's really really minor stuff. -GHS
+TP
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfccb0007mki007
+//美希「きさまが犯人かー！」
+Miki: "Then you're the culprit you bastaaard!"
+//Miki's quick to accuse him, inn'she. It's as if she knew. -GHS
+TP
+GO 1 1
+//太一「はー！」
+Taichi: "H'yaaa!"
+TP
+
+//たたかう二人。
+Two people in a struggle.
+TP
+
+//太一「よっ」
+Taichi: "Y'oh!"
+TP
+
+//太一「ほっ」
+Taichi: "H'oh!"
+TP
+
+//太一「……はっ？」
+Taichi: "...huh?"
+TP
+
+
+WVP 2 se003 1 0
+SEF 101 0
+//太一「おっっ！？」
+Taichi: "OH?!"
+TP
+
+//胴体に一発当たってしまった。
+Smacked with one blow to the torso.
+TP
+
+//う、なんか強い？
+Ugh, so strong, but how?
+TP
+
+//カラデをおさめたこの俺を。
+To hit I, the Master of Karade!
+TP
+
+//太一「おのれ」
+Taichi: "How dare you!"
+TP
+
+//ちょっぴり本気になる。
+It got just a smidgen serious.
+TP
+
+WVP 0 vfccb0007mki008
+//美希「しゅっ」
+Miki: "Sh'uh!"
+//It's totally "shoe" isn't it. -GHS
+TP
+
+//しなやかな脚が、腰より高くあがった。
+A flexible leg rose higher than her hips.
+TP
+
+//軸足を払ってやろうと思ったが、白パンツが垣間見えた。
+I was thinking how to sweep off the leg she uses as axle, but through the gap, I saw panties.
+//Recurring term. Unfortunately more than a bit forced here. "White" removed in the console version not for censorship (for once), but because, well, they're definitely not. -GHS
+TP
+
+//攻撃中止。
+Attack suspension.
+TP
+
+//男太一、眼前に供えられたパンツを見ないなどという惰弱な選択肢はない。
+To Taichi the Man not looking at panties sacrificed to his sight is an effeminate choice that does not exists.
+//Intended to be ironic given his gender issues. -GHS
+TP
+
+CSQ 0 1 1 1 1 1
+//　・パンツ見る
+//　・パンツ見る
+//　・パンツ見る
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+//CP 2
+//CP 3
+//CP 4
+//CP 5
+//Since we have 5 lines now. 4 are tagged copypasta so that they show correctly as such in global searches (OCD~~~~~ statistical purposes). -GHS
+
+IF $B != 4 JMP CONTINUE
+IF $CGevcc0065 == 0 JMP CONTINUE
+CALL makemwin
+JMP CONTINUE
+//If you're reading this, you've ripped open the data files. This is where the easter egg starts. This needs to have the game beaten AND to pick the correct choice. The rest of the password is entered in the extra script. -GHS
+
+
+:CONTINUE
+
+//うむ、ない。
+Indeed, it doesn't.
+TP
+
+//腰を落として視線を下げた。
+I dropped my gaze to below the hips.
+TP
+
+//蹴りが来る。
+The kick comes.
+TP
+
+//カラデによる中段受けにて備える。
+As per Karade, I steady myself to take it in the mid-section.
+TP
+
+//腕の間を、つまさきは柔らかく貫通してきた。
+In the space between the arms, the tip of the toes softly breaches through.
+TP
+
+//太一「れ？」
+Taichi: "The-?"
+TP
+
+//ありえん。
+Can't be.
+TP
+GL 5 bgcc0000d 
+GI 5 0
+WVP 2 SE071 1 0
+SEF 101 0
+//顎にヒット。
+It's a chin hit.
+//Vs. clean hit...? -GHS
+TP
+WVS 1 1
+//太一「あらら？」
+Taichi: "Oh my my?"
+//PCP CCA0006
+TP
+
+//俺は気絶した。
+I lost consciousness.
+TP
+
+
+//……。
+...
+TP
+//…………。
+......
+TP
+GS 5 0
+GS 1 0
+SEF 10 1
+//……………………。
+.........
+TP
+
+
+GL 0 bgcc0008
+GS 0 1
+SEF 10 0
+//HACK Moved FX one line below, also music below. -GHS
+
+//太一「はっ？」
+Taichi: Huh?"
+WVP 1 bgm002.ogg 0 0 0
+TP
+GL 1 TCYM0000
+GP 1 180 0 0
+GI 1 1
+
+WVP 0 vfccb0007mki009
+//美希「あ、よかった。気がつきましたか？」
+Miki: "Ah, I'm so glad! Did you recover now?"
+//That can mean 'did you come back to senses?' just as much as 'have you realized now?'. -GHS
+TP
+
+//太一「う、うー。俺ってばどれくらい気絶してた？」
+Taichi: "Uh, ugggh... how long have I been out?"
+TP
+
+WVP 0 vfccb0007mki010
+//美希「一分たってないですよ」
+Miki: "Not even a minute!"
+//That'd be up to ten minutes. -GHS
+TP
+
+//太一「あー、ついに美希に負けたかー！」
+Taichi: "Awww, and in the end Miki beat meee!"
+TP
+
+//膝を打った。
+I pound my lap.
+//...I actually think that's intended to sound dirty... -GHS
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfccb0007mki011
+//美希「たは」
+Miki: "Tahah."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfccb0007mki012
+//美希「でもすごく油断してらしたじゃないですか」
+Miki: "But you were really off-guard, weren't you?"
+TP
+
+//太一「いやー、あれは俺にとって他に選択肢がないからなー」
+Taichi: "Naaah, it was because there were no other choices for me..."
+//See CCB0002. Not so funny anymore, is it. -GHS
+TP
+
+//太一「……たぶん命がかかっていても同じだった」
+Taichi: "...perhaps, even if my life was at stake, that wouldn't have changed."
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfccb0007mki013
+//美希「パンツに命を！？」
+Miki: "Life for panties?!"
+TP
+
+//太一「チッチッチ」
+Taichi: "Tsk, tsk, tsk!"
+TP
+
+//指を振ってみせる。
+I show her a wiggling finger.
+TP
+
+//太一「ライブで見る素人娘がリアルに着用しているパンツ、だよ、君」
+Taichi: "For the live show of 'serious' panties worn by an amateur girl, that's what!"
+//Since they're sex panties... -GHS
+TP
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfccb0007mki014
+//美希「違うんだ……」
+Miki: "Not true..."
+TP
+
+//太一「違うとも。このように―――」
+Taichi: "So true. Like THIS!---"
+TP
+
+//がっし
+Snatch!
+//hee hee -GHS
+TP
+
+//愛弟子の短いスカートのはしをつまんだ愛指が。
+Loving fingers pinch the hem of my loved pupil's short skirt.
+TP
+
+//チョキで、しっかと挟まれているっ！
+And a scissor of fingers cleanly pushes them away!
+TP
+
+//太一「はっ、防がれた！？」
+Taichi: "Huh, blocked?!"
+TP
+
+GL 1 TCYM0005
+GI 1 0
+
+
+WVP 0 vfccb0007mki015
+//美希「ふふふ」
+Miki: "Hohohoh!"
+TP
+
+//ショック。
+Shock!
+TP
+
+//太一「うーん、免許皆伝」
+Taichi: "Yee-ep. It's complete mastery."
+TP
+
+//横たわって膝を抱え、エビチリみたいに丸くなった。
+I grab back my stretched-out knees, and hug them until I look as round as a fried shrimp.
+//See CCB0006 -GHS
+TP
+
+//太一「で、俺はもう引退しゆ」
+Taichi: "Then it's an oily good time for me to retire."
+//Shrimp + shiyu (fatty oil) = fried shrimp. -GHS
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfccb0007mki016
+//美希「しゆとか言うし……」
+Miki: "Oily, you sayly..."
+//And here it is. -GHS
+TP
+
+//ゆさゆさと揺すられる。
+I was shaken and quaked like a certain too yu-ng girl.
+//Yusa-yusa is actually an SFX. -GHS
+TP
+
+GL 1 tcym0021
+GI 1 0
+//HACK doubty Miki -GHS
+
+WVP 0 vfccb0007mki017
+//美希「ししょー、元気出してくださいよ」
+Miki: "Shishou, please stay strong!"
+TP
+
+
+//太一「いい。引きこもる」
+Taichi: "'s fine. Hikikomori now."
+//See CCB0006 -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb0007mki018
+//美希「またはじまったよこの人は」
+Miki: "He's started it again, this guy..."
+TP
+
+WVP 0 vfccb0007mki019
+//美希「……」
+Miki: "..."
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfccb0007mki020
+//美希「全然……なのにな」
+Miki: "Nothing at all... despite that."
+TP
+
+//太一「ウイ？」
+Taichi: "Oui?"
+TP
+
+//フランス人のように問い返す。
+I return that question like a Frenchman.
+TP
+
+WVP 0 vfccb0007mki021
+//美希「みんなに普通なのに」
+Miki: "When it's all normal with everyone."
+//These are of course very vague. Likely refers to how Taichi refuses to follow predicted patterns like everyone else. -GHS
+TP
+
+//声が震えた。にわかに。
+Her voice quivers. Suddenly.
+TP
+
+//太一「ミキミキ？」
+Taichi: "Miki-Miki?"
+TP
+
+WVP 0 vfccb0007mki022
+//美希「ほら、こんなに手が震えてます」
+Miki: "Look, my hands are shaking this much."
+TP
+
+//広げた両手が、汗ばんで、かじかむように。
+She opens out her hands, and they are sweaty as if numb with cold.
+TP
+
+//まるで怯えているかの如く。
+Exactly as if she had become frightened.
+TP
+
+//太一「……どうして？」
+Taichi: "...why?"
+TP
+
+
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfccb0007mki023
+//美希「それはもう、せんぱいのプレッシャーみたいっぽいやつに当てられて、小心者の美希はビビリまくりなわけですよ」
+Miki: "That's because, when affected by Senpai's straining at the mental pressure, cowardly little Miki just jumps all into the jitter-jitters."
+//Third person -GHS
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfccb0007mki024
+//美希「だから、元気出してください」
+Miki: "Therefore, please stay strong."
+TP
+
+//太一「んー」
+Taichi: "Hmmm."
+TP
+
+//励ましてくれているだろうか。
+Seems she's cheering me on.
+TP
+
+//様子が変なのが気になるけど。
+I do worry as things are a bit odd, though.
+TP
+
+//うーむ、ポワワとしてしまうではないか。
+Ye-ep, let's just puff those cheeks and give a good smile, won't we.
+//Although the console version seems to relate this to powaru (sexual delusions), ポワワ keeps returning as ポワワーン, which means the above. Maybe he's just trying to ignore suspicions, seems to fit. -GHS
+TP
+
+//太一「よし、免許皆伝をやろうではないか」
+Taichi: "Well, how about we formalize this mastery of yours?"
+TP
+
+//拳を打つ。
+I make a fist as if throwing rock.
+//That's what it also means. Well, she DID play scissors before... -GHS
+TP
+
+WVP 0 vfccb0007mki025
+//美希「え？」
+Miki: "Eh?"
+TP
+
+//太一「手帳を出しなさい」
+Taichi: "Out with your notebook!"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfcca0008mki012
+//美希「……あーあー……アレですか」/*
+Miki: "...ahh, yeah... that one, yes."
+//CP CCA0008
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfcca0008mki013
+//美希「なんか久々ですねえー」/*
+Miki: "Really been a long while there."
+//CP CCA0008
+TP
+
+//なんとも切なそうな顔をする。
+She makes a face that looks very pained.
+//CP CCA0008
+TP
+
+//というか（というか？）泣きそう（泣きそう？）ではないか。
+Or should I say (should I say?), isn't she as if about to cry (about to cry?).
+//PCP CCA0008
+TP
+
+//多重に思ってしまったぞ。
+I thought that in a parallel multiplex didn't I.
+//PCP CCA0008
+//It's changing to parallel universes instead of sequentiality! SYMBOLISM!!! -GHS
+TP
+
+//美希はメイトブックを取り出す。
+Miki takes out her Matebook.
+TP
+
+//当校では身分証明書をかねるこの手帳を、『都会』の駅裏にある人気ＮＯ１高級浴場『メイトブック』にちなんでそう呼ぶ。
+So is called this intrascholastic ID booklet with a second role, named after the high-class bathhouse #1 in popularity located in the popular spot behind the main City's train station, MateBook.
+//PCP CCA0008
+TP
+
+//ちなんでねぇよ、と自らに突っ込む。
+Named after my ass!, I straight-man myself.
+TP
+
+//本当は偶然です。
+In truth it's just a coincidence.
+//badum-tish -GHS
+TP
+
+WVP 0 vfccb0007mki026
+//美希「……すんっ」
+Miki: "...sob."
+TP
+
+//太一「どうしたん？」
+Taichi: "What's wrong?"
+TP
+
+//泣いている。
+She's crying.
+TP
+
+//というか（というか？）泣いてる（泣いてる？）。
+Or should I say (or should I say?), she's crying (she's crying?).
+//PCP above
+TP
+
+//多重に思ってしまったぞ。
+I thought that in a parallel multiplex didn't I.
+//CP above
+TP
+
+//太一「……やっぱり、けっこうショックだったのかな？」
+Taichi: "...as I thought, that was something quite shocking wasn't it?"
+//There's also the shock above, so staying wary on subject. -GHS
+TP
+//GL 1 TCYM0000
+GL 1 TCYM0004
+//HACK shocky Miki -GHS
+GI 1 0
+
+WVP 0 vfccb0007mki027
+//美希「え？」
+Miki: "Eh?"
+TP
+
+//太一「こんなことになって、世界が」
+Taichi: "That the world would end up like this."
+TP
+
+WVP 0 vfccb0007mki028
+//美希「ああ……」
+Miki: "Ah..."
+TP
+
+//微妙なためがあった。
+There was a subtle effect.
+//On her, I guess? Though technically there were advantages for him in a sense, it doesn't flow either way. -GHS
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfccb0007mki029
+//美希「そうですね、そうかも」
+Miki: "So it did, so it seems."
+TP
+
+//太一「だろうな」
+Taichi: "Isn't it."
+TP
+
+//太一「俺だってびっくりだ。こんなの」
+Taichi: "Gave me a scare too, this stuff."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb0007mki030
+//美希「せんぱいも？」
+Miki: "Senpai, too?"
+TP
+
+//太一「ああ」
+Taichi: "Yep."
+TP
+
+//太一「もう１３歳とか１５歳の新じゃがならぬ新処女と出会う機会はなくなったわけだよなぁ」
+Taichi: "Now, all opportunities to meet Unnew Potatoes New Virgins of 13 or 15 years of age are all gone."
+//See CCB2002 for New Potatoes. Seems to mean "new first graders of Junior and High school". Going by Wiki, he picked the earliest age where one should be out of elementary school, and the youngest for being in High. That's why it's not 12 and 15. Of course 3+5=8 and 2+5=7; he's making the usual 7 vs. 8 mistake due to him being messy about the timeline of things. Uncertain of the potato comparison, actually. -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfccb0007mki031
+//美希「そっちかい」
+Miki: "That's the point then."
+//Bit disdainful. -GHS
+TP
+
+//太一「そら」
+Taichi: "It is."
+TP
+
+//手帳を取り上げる。
+I accept the notebook.
+TP
+
+//太一「美希は手帳だいぶ使いこんでるなあ。ぼろぼろだ」
+Taichi: "You've been using this notebook thoroughly, Miki. It's all worn!"
+//CP CCA0008
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfcca0008mki021
+//美希「ぼろぼろ」/*
+Miki: "All worn."
+//CP CCA0008
+TP
+
+
+//無意味に繰り返すことで肯定する美希。
+Miki assents by meaninglessly repeating my words.
+//CP CCA0008
+TP
+
+//ページを繰ると、メモ欄にはすでに俺のサインがでかでかと書かれていた。
+Flipping the pages, I see annotation fields filled with my large-sized signature.
+//CP CCA0008
+TP
+
+//何ページにも渡っている。
+I pass by several pages.
+//CP CCA0008
+TP
+
+
+
+//俺様サイン練習帳といった有様になっている。
+This is beginning to look like a practice notebook for my signatures.
+//PCP CCA0008
+TP
+
+
+
+
+//白紙を見つけ、そこに新たなサインを書き込む。
+I find a blank page and there I fill out a fresh signature.
+//CP CCA0008
+TP
+
+//いつ頃からかはじまった、俺たちのお遊びだ。
+How long ago it was when we began to play?
+//See CCC3004. -GHS
+TP
+
+//他愛ないことだ。
+It's a silly innocent thing.
+//See CCA0030 -GHS
+TP
+
+//手帳を返す。
+I return the notebook.
+//CP CCA0008
+TP
+
+//受け取って、美希は胸元に抱える。
+Miki takes it, and hugs it to her chest,
+//PCP CCA0008
+TP
+
+//ぎゅっと。
+squeezing it tightly.
+TP
+
+//失われた日常を、かき抱くように。
+As if holding the very ordinary days now lost.
+TP
+
+//ちょっとあふれた涙を、ぬぐってやりもする。
+Copying that, I go and wipe those tears now overflowing.
+//Mosuru -GHS
+TP
+
+//わ、俺って紳士。
+Wah, me gentleman.
+//Girly? -GHS
+TP
+
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfccb0007mki032
+//美希「ども……」
+Miki: "Thank you..."
+TP
+
+//太一「なに」
+Taichi: "For what."
+TP
+
+//廊下を見渡す。
+I pass my gaze on the corridor.
+TP
+
+//太一「しかし、掃除とはね」
+Taichi: "So anyway, cleaning are you."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb0007mki033
+//美希「体動かしていた方が落ち着くかなって」
+Miki: "When the body is moving there is relaxation, it's said."
+//That quoting particle って, with Miki, is all but a nuclear weapon, see CCB0012. -GHS
+TP
+
+//太一「ふーん」
+Taichi: "Hummm..."
+TP
+
+
+
+
+CSQ 0 1 1
+//　・掃除を手伝う
+//　・スカートめくる
+ - Help with the cleaning
+//CP CCA0008
+ - Flip the skirt
+
+
+RET

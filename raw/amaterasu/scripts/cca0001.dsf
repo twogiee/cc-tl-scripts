@@ -1,0 +1,124 @@
+
+
+TS 0
+
+WVP 1 bgm015.ogg 0 0 0
+
+GL 0 bgcc0000c
+GS 0 1
+SEF 109 1
+WT 500 0
+WT 500 1
+
+
+
+TWS 0
+My oldest memory.
+TP
+
+
+Within far-off mists where even the date was vague.
+TP
+
+
+
+
+
+A luxurious private room embodying the dignity of nobles.
+TP
+
+
+
+Therein was a canopied bed and a European chair. 
+TP
+
+
+
+
+
+But I preferred to sit on the floor.
+TP
+
+
+
+
+
+Especially on these days.
+TP
+
+
+
+
+
+I could see the curtain of a black starry night through my window.
+TP
+
+
+
+
+
+My eyes were drawn to the scattered twinkles cut off by the window frame.
+TP
+
+
+
+
+
+I saw my reflection in the glass separating the outside world from the room's interior.
+TP
+
+
+
+
+
+A privileged young noblewoman---
+TP
+
+
+
+
+
+A graceful girl covered in a Western dress.
+TP
+
+
+
+TS 2
+SEF 109 0
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 10 0
+TS 3
+SEF 109 0
+
+
+
+
+Who on Earth are you?
+TP
+WVS 1 1
+WT 500 0
+WT 500 1
+
+
+
+
+
+WVP 0 vfcca0001you000
+Girl: "......Taichi."
+TP
+
+
+
+
+
+
+
+WT 500 0
+TS 2
+SEF 109 0
+WT 1000 1
+
+RET

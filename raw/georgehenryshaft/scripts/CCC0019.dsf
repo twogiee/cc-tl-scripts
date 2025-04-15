@@ -1,0 +1,158 @@
+//See CCA0009C for the whole thing. -GHS
+
+
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0019mki000
+//美希「そろそろ行きます」
+Miki: "I should be going by now."
+TP
+//太一「うむ」
+Taichi: "Uh-huh."
+TP
+
+WVP 0 vfCCC0019mki001
+//美希「あ、そうです」
+Miki: "Ah, yes."
+TP
+
+//立ち去ろうとした美希が、振り向いた。
+Departing Miki turns around.
+TP
+
+WVP 0 vfCCC0019mki002
+//美希「みみ先輩、部活再開したって、知ってます？」
+Miki: "Mimi-senpai is resuming club activities, did you know?"
+//See CCA0009C. Except instead of implying it, like h does, she is lying outright. Plus she's using a nickname she should not be using either. This Miki's been at this for a while, but not that long. -GHS
+TP
+
+//太一「へー」
+Taichi: "Huh..."
+TP
+
+//例のアンテナの件だな。
+The matter of that antenna, was it.
+TP
+
+//知らないフリしとかないとな。
+I should just feign ignorance now.
+TP
+
+//太一「平和維持活動じゃなくて……ええと、友貴がやってる生命維持部とは別に？」
+Taichi: "Is that separate from... not the Peace-keeping Operation... uhm, the Life Maintenance Club that Tomoki's doing?"
+//http://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%80%A3%E5%90%88%E5%B9%B3%E5%92%8C%E7%B6%AD%E6%8C%81%E6%B4%BB%E5%8B%95 veeery interesting he'd refer to Tomoki as the UN Peacekeeping Organization, in the Nations of the World reading. Not the full 生命維持活動部 nor the known shortening of 生存部. Miki *seems* to be in this "club" with Kiri, though it's never really clear if/what they do outside of scouting for their secession attempt, and they don't seem to work alongside Tomoki at all. -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0019mki003
+//美希「いや、放送部の……ほら、ラジオ局の」
+Miki: "Well, it's the Broadcast Club's... come on, the Radio station thing."
+TP
+
+//太一「ああ……コミュニティＦＭ局がどうたらってやつ？」
+Taichi: "Ahhh... from the Community FM station, is it that one?"
+//That was the original purpose of the antenna, see CCC0022. -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0019mki004
+//美希「です」
+Miki: "It is!"
+//PCP CCA0013
+//Oh, her Yusa is showing. -GHS
+TP
+
+//太一「いろいろあって中止になってたはずじゃあ？」
+Taichi: "All that stuff happened so it should've been suspended, right?"
+//Yutaka... but the vague implication that runs throughout several scenes is that Misato *never* stopped trying to put that thing together. And then, like Penelope in the Odyssey... -GHS
+TP
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC0019mki005
+//美希「アンテナ、組み立ててましたよ？」
+Miki: "She was still putting that antenna together you know?"
+TP
+
+//太一「うわ、あぶねー」
+Taichi: "Whoa, that's daaangerous."
+TP
+
+//途中まで組まれていたとはいえ。
+Though it needs be said it was assembled partway.
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0019mki006
+//美希「脚立使ってよちよちやってました」
+Miki: "She was toddling around, using that stepladder."
+TP
+
+//太一「よちよちって……」
+Taichi: "Toddling, you say..."
+TP
+
+WVP 0 vfCCC0019mki007
+//美希「そんくらい危なっかしかったんです」
+Miki: "She looked about that dangerously unsteady."
+TP
+
+//太一「……あー、ショックだったのかなやっぱ」
+Taichi: "...ahhh, you were trying to shock me into acting then."
+//Loyal pet dinosaur T. Hesaurus reports that 危なっかしい and よちよち are possible synonyms, so I guess that Taichi didn't understand what she meant in this context. -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0019mki008
+//美希「でしょうねぇ」
+Miki: "Wasn't I."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+//HACK smiley Miki earlier -GHS
+
+//俺たちは顔を見合わせて、力なく笑った。
+We looked at each other's faces and smiled without strength.
+TP
+
+WVP 0 vfCCC0019mki009
+//美希「お互い、頑張って生きていきましょう」
+Miki: "Let's reciprocally do our best to live."
+TP
+
+//太一「だな」
+Taichi: "Yup, let's."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0019mki010
+//美希「自分が可愛いですしねー」
+Miki: "Because you gotta think of yourself as precious!"
+//This does sound like she's saying "I'm so cute", but why this is so will become clearer in her route. -GHS
+TP
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0019mki011
+//美希「んじゃ」
+Miki: "So then."
+TP
+GO 1 1
+//すちゃ、と片手をあげて、美希は去った。
+And with a single raised hand as if snapping to attention, Miki left.
+//Best I can tell, すちゃ is this kaomoji: http://kmoji.com/kaomoji/10221 See CCA0004: that may be her promo pose. -GHS
+TP
+
+//太一「しかし、部活ねぇ」
+Taichi: "But still, club activities, huh..."
+TP
+
+WVS 1 1
+
+
+RET

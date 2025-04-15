@@ -1,0 +1,140 @@
+TS 0
+
+WVP 1 bgm015.ogg 0 0 0
+
+GL 0 bgcc0000c
+GS 0 1
+SEF 109 1
+WT 500 0
+WT 500 1
+
+//TWS 0
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+
+//最古の記憶は。
+> 
+ 
+ 
+> 
+ 
+           These are the recollections
+          of that which is so far gone.
+//最古 saiko, oldest, is also readable as Psychopath. Oldest memories, a psychopath's memories: first line of the story spoils one of the two plot twists of the simplest interpretative layer. See CCA0030 for one of the clearest tells of this. -GHS
+TL
+//日付さえおぼろげな、遠い霞のなか。
+       The date alone vague and indistinct,
+    laying at the heart of a dim distant haze.
+//See CCD0023. The day of the week is also difficult to tell. -GHS
+TL
+//貴族的な気品を抱く、豪華な私室。
+               A grandiose bedroom,
+          draped in aristocratic grace.
+//For the Aristocrat of Love? Possibly where his nickname comes from anyway. -GHS
+TL
+//>　　　　　　　　　　　　　　　　　　　　　　　　ヨーロッパ
+//そこには天蓋つきの寝台も欧羅巴製の椅子もあった。
+        Inside there were a canopied bed
+          and a chair of European make.
+TL
+//けど床に座るのが一番好きだった。
+       But sitting on the floor was always
+               what I preferred.
+TP
+
+
+
+//こんな日は特に。
+> 
+ 
+ 
+          Especially on days like this.
+//This is never really clarified. This can't be the era when he was with Youko in that crap bedroom. Not that it changes anything if she is, like this scene strongly suggests, nothing but Taichi in drag. -GHS
+TL
+//窓から見える黒の帳は星月夜。
+          The starry heavens are a dark
+         curtain visible from the window,
+//I think this sentence is what the Pink Floyd-esque piece that's playing at this point ("Starry Heavens") refers to. -GHS
+TL
+//枠に切り取られた散在する瞬きに目を奪われる。
+       a scattering of twinkles cut off by
+      the frame that absconds with my sight.
+TL
+//外界と室内を隔てる窓ガラスに、己の姿が映る。
+     In the glass that segregates the outside
+       world from the interior of the room,
+           the reflection of my shape.
+//Trying to avoid pronouns due to 乙 girl, erm, 己 self, but it just sounds off. It's easiest to see CCD2002 why it should be like that. Segregating is important; like the mountains with the Kamisaka city, Taichi's reflection is here held forever separated by a glass. 1 Corinthians 13:12 seems appropriate given the distorted reflection that the glass necessarily must give of Taichi. A distorted reflection that is just what we see throughout the story, if we only go with his very problematic eyes. -GHS
+TL
+//深窓の令嬢―――
+   A young lady kept secluded from the world---
+//He's already chuunin'. -GHS
+TL
+//洋風のドレスに身を包む、楚々とした少女。
+      A maiden with the appearance of grace,
+       the skin clothed in a Western dress.
+TP
+
+TS 2
+GS 5 0
+SEF 109 0
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 10 0
+TS 3
+SEF 109 0
+
+
+
+
+
+//きみはいったい、だれですか？
+> 
+ 
+ 
+> 
+ 
+> 
+ 
+ 
+ 
+        You... who could you possibly be?
+TP
+WVS 1 1
+WT 500 0
+WT 500 1
+
+
+
+
+TWS 0
+//HACK back to ADV mode. -GHS
+WVP 0 vfcca0001you000
+//少女「……太一」
+Girl: "...Taichi."
+//He asks the girl in the window (himself) who she is... and Youko (confirmed by voice file) answers that's Taichi. There's no need for the girl in the window and Youko to be separated, especially since their history together does not put Youko with him in this room at all. -GHS
+TP
+
+
+
+
+
+
+
+WT 500 0
+TS 2
+GS 5 0
+//HACK out with the blend -GHS
+SEF 109 0
+WT 1000 1
+
+RET

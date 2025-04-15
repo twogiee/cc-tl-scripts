@@ -1,0 +1,202 @@
+
+
+//GL 0 bgcc0007
+GL 0 BGCC0000A
+//HACK sky instead -GHS
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 152 0
+
+
+//WVP 1 bgm005.ogg 0 0 0
+//HACK no music -GHS
+
+//部活。
+Club activities.
+TP
+
+
+
+//物陰から美希が飛び出た。
+Miki flew out from under cover.
+TP
+
+//俺の目は逃さない。
+She cannot escape my eyes.
+//Focus on eyes -GHS
+TP
+
+
+GL 0 zzzCCC4004misatoAK
+GS 0 1
+SEF 109 0
+WVP 1 bgm025.ogg 0 0 0
+//HACK new CG & Music, "Airwaves". It looks nothing like a gun fight, but... look how realistic those guns are! There's no way they'd let these people play with stuff this realistic in modern day America, let alone gunphobic Japan. More interesting the music piece: I kept wondering where that piece plays. Turns out, it never actually does! It's never called anywhere in the entire original unmodified script. This is the first time it's heard in-VN at all. -GHS
+
+
+
+//手にしたウージーサブマシンガンのトリガーを絞る。
+I squeeze the trigger of the Uzi SMG in my hands,
+//Interesting he doesn't just yank it like most would erroneously do. He sounds at least a little trained. -GHS
+TP
+
+//弾丸が射出される。
+making it fire its bullets.
+//For more contrast later. -GHS
+TP
+
+//射線はそれて美希の足下を叩いた。
+Line of fire strays, striking Miki's underfoot.
+TP
+
+WVP 0 vfCCC4004mki000
+//美希「……く！？」
+Miki: "...ngh?!"
+TP
+
+//美希が気づく。
+Miki notices,
+TP
+
+//植木の影に飛び込み、応戦してくる。
+and diving behind a planter, she fights back.
+TP
+
+//まずい、釘付けだ！
+This is bad, I'm being suppressed!
+TP
+
+//側面からみみ先輩が顔を出す。
+Mimi-senpai juts out her face from the flank.
+TP
+
+//ＡＫ４７から空になった弾倉を取り外す。
+She takes out the empty magazine of her AK-47.
+TP
+
+WVP 0 vfCCC4004msa000
+//見里「佐倉さんがいません～っ」
+Misato: "Sakura-san is nowhe～re!"
+TP
+
+//太一「見失ったんですか！」
+Taichi: "Did you lose sight of her!"
+TP
+
+WVP 0 vfCCC4004msa001
+//見里「彼女、身軽で……」
+Misato: "She is so agile..."
+//As keeps returning. Except, in a while... -GHS
+TP
+
+//太一「くっ……まずいな」
+Taichi: "Tsk... this looks bad."
+TP
+
+//敵を見失うのはまずい。
+Losing sight of an enemy is always bad.
+TP
+
+//と、霧が右側からまわこんできた。
+And, Kiri sneaked around from the right side.
+//I think he forgot a り　in there. -GHS
+TP
+
+//まずい、挟み撃ちになる。
+Very bad, we'll get pincered!
+TP
+
+//霧のＭ４Ａ１カービンが火を噴いた。
+Kiri's M4-A1 Carbine breathed fire.
+TP
+
+WVP 0 vfCCC4004msa002
+//見里「あっ、やられましたー」
+Misato: "Ah, I have been killed!"
+//Since they're playing for "real" this time. -GHS
+TP
+
+//太一「シット！」
+Taichi: "Shit!"
+TP
+
+//二対一だ。
+It's two against one.
+TP
+
+//俺は応射しながら後退する。
+I fall back as I return fire.
+TP
+
+//挟まれたら終わる。
+If I get in their pincer it's over.
+TP
+
+//側面の美希も気になる。
+Miki, on the flank, also worries me.
+TP
+
+//その時、背後に銃口を突きつけられた。
+That instant, a muzzle was thrust in my back.
+TP
+
+WVP 0 vfCCC4004mki001
+//美希「ほーるどあっぷ」
+Miki: "'Holdo appu!'"
+//Badly imitative. -GHS
+TP
+
+//い、いつの間に！
+Wh-, when did she...!
+//See Youko. -GHS
+TP
+
+WVP 0 vfCCC4004mki002
+//美希「ゲームセットです」
+Miki: "Game and set!"
+TP
+
+//太一「あー、またやられたー！」
+Taichi: "Ahhh, killed agaaain!"
+TP
+
+WVP 0 vfCCC4004mki003
+//美希「やっほーい！」
+Miki: "Yahoooy!"
+TP
+
+WVP 0 vfCCC4004kri000
+//霧「かちー！」
+Miki: "Victoryyy!"
+TP
+
+//美希と霧はハイタッチをする。
+Miki and Kiri go for a high-five.
+TP
+
+//太一「これで四連敗だぞ……ちぇっ」
+Taichi: "This is the fourth defeat in a row... grrr!"
+TP
+
+//部活は順調だった。
+Club activities were going well.
+TP
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 109 0
+WVS 1 0
+//HACK to rooftop. -GHS
+
+//…………あれ。
+......wait.
+//PCP CCC3028
+//This switch is unclear and very odd. It may just be that he's realizing this is all void, as CCC4005 hints, but there's much more that's odd here. See CCC3028: he has the same reaction when he notices Miki being too mature for what she should be. It may be he's noticing the same. The simplest explanation would be to contrast this script with CCC4006, then contrast the start of CCZAS with its second part. In the first, everyone's into the joke (and I wonder if it's been toned down not to look too off tone), in the second, the game is revealed. It's similar to what goes on in Week 1 vs. Week 2, though if the parallel is to be taken that way, then there's still plenty missing that's not revealed directly. -GHS
+TP
+
+RET

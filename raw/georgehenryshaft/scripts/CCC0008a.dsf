@@ -1,0 +1,28 @@
+
+
+//まったく意味がない。
+This is completely pointless.
+TP
+
+GS 0 1
+SEF 109 1
+//HACK back to unzoomed hokora. -GHS
+
+
+//すぐに外に出た。
+I get out right then and there.
+TP
+
+
+//太一「……学校行くか」
+Taichi: "...to school, then?"
+//PCP CCB0002
+TP
+
+//あとはゆっくり考えよう。
+I can think about this later, taking my time.
+TP
+//WT 500 0
+//No point in this. -GHS
+
+RET

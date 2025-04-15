@@ -1,0 +1,257 @@
+
+
+WVP 3 SE001 0 0
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0007s
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+//GL 0 bgcc0007s
+//GS 0 1
+//GS 1 0
+//SEF 10 1
+
+
+WVP 1 bgm002.ogg 0 0 0
+
+
+
+TWS 0
+
+
+//みっつの手が重なった。
+Three hands overlapped.
+TP
+
+
+//ひとりは俺。
+One was mine,
+TP
+
+
+//ひとりは友貴。
+one was Tomoki's,
+TP
+
+
+//ひとりは桜庭。
+one was Sakuraba's.
+TP
+
+
+//それほど親しくはなかった。
+It was nothing that intimate.
+//*clicks stopwatch* 4 sentences to denial of tEh gaYz. So damn predictable. -GHS
+TP
+
+
+//桜庭とは因縁などもあった。
+Sakuraba and I had a history together.
+TP
+
+
+//友貴はウィットの足りない男だった。
+Tomoki was a man on insufficient wit.
+TP
+
+
+//俺は俺で、男の友達なんてはじめてで。
+I was being I, for the first time having men as friends.
+//This would exclude Yutaka, which is not quite true. -GHS
+TP
+
+
+//違う人間なんだから、関係なんてできないと決めつけてた。
+We are... different humans, therefore I arbitrarily decided we could never achieve anything like a connection.
+//'Different' can indeed mean 'broken', but also simply the obvious: they are separate individuals. Plus, if you'll notice, two of the three should not have trouble of any sort by the standards of the school. And yet... -GHS
+TP
+
+
+//でも、違った。
+But I was wrong.
+TP
+
+
+//違う人間だからこそ、馬が合うこともある。
+Us being different humans can also be the reason why we get on well with each other, as rider and horse fit each other.
+//See CCD0002. Because it's been used with Taichi and Yutaka, who had close to a literal master/slave relationship in the past, and still got well together up to a point, literal would be important. -GHS
+TP
+
+
+//三人を結びつけたもの。
+One thing bound us three people.
+TP
+
+
+//……それはエロスだった。
+...that was Eros.
+TP
+
+
+//部活動の怠惰なる待機時間、不意に桜庭が漏らした、
+In the hours of hurried waiting that club activities became, unexpectedly Sakuraba let out a,
+//Hurry up and wait. Seems to fit, given the random military stuff all the way from CCA0002, and how Misato runs things (by herself as much as possible). -GHS
+TP
+
+GL 5 zzzblackblend
+GL 4 zzzCCD0001SackZoom
+GS 4 1
+GS 5 1
+SEF 109 0
+//HACK Yay, more sack in your face. -GHS
+
+
+WVP 0 vmCCD0001sku000
+//桜庭『ブルマって、いいよな』
+Sakuraba: 『Buruma are nice, ain't they.』
+TP
+
+GS 4 0
+GS 5 0
+SEF 109 0
+//HACK out -GHS
+
+
+//という呟きによって友情の花は開いた。
+And with that muttering, the bud of the flower of friendship bloomed.
+//This is both subtle and extraordinarily heterosexual. -GHS
+TP
+
+
+//俺たちはブルマ世代ではない。
+We were not of the Buruma Generation.
+//Ended a few years before, '96 according to unnamed sources that demand their secrecy (Wikipedia). -GHS
+TP
+
+//だからこそ、あの素敵なフェチ衣類に、狂おしいばかりに憧れていた。
+And that was exactly why that dreamy Fetish Garment made us go mad with longing.
+TP
+
+
+//だってスパッツとかつまんないんだもん。
+'Cuz ya know, those Spats shorts're sooo boooring and stuff.
+//Peter Payne wept. Tweaked to google. -GHS
+TP
+
+
+//ということで―――
+And that is why---
+TP
+
+
+
+
+WVP 0 vmCCD0001goo000
+
+
+//三人「我ら生まれた日は違えども、（童貞と学校）卒業する時は同じ日、同じ時を願わん」
+Trio: "Although we have been born on a different day, we merely wish to graduate (from virginity and school) on the same day and the same time."
+//http://en.wikipedia.org/wiki/Oath_of_the_Peach_Garden 願わん sounds negative, but comparing translation with the original it can't be so. -GHS
+TP
+
+
+//卒業するその時まで、童貞でいようという誓いだ。
+We made a vow in which we were to remain virgins until the time of graduation.
+TP
+
+
+//抜け駆けはナシ。
+No stealing anyone's march.
+TP
+
+
+//実のところ、俺はこの時点ですでに……。
+To tell the truth, by this time I was already...
+//He had likely had sex with Touko already, so all that happened at the mansion is moot. -GHS
+TP
+
+
+//が、魂的にはチェリーだった。
+But in my soul I was still cherry.
+TP
+
+
+//無問題。
+No problems there.
+TP
+
+
+//後に桜庭はプチインポテンツ、友貴はシスコンだと判明した。
+Later, it came to light that Sakuraba had le petite impotence, and Tomoki was a siscon.
+//Seems to just be sarcastic. -GHS
+TP
+
+
+//みんな問題を抱えている。
+Everyone had their problems.
+TP
+
+
+//けど、構わなかった。
+But it didn't matter.
+TP
+
+
+//要するに俺たちは『約束』をしたかったんだ。
+The point was that we wanted to make a Promise.
+TP
+
+
+//友達ごっこを、したかった。
+That we wanted to play pretend-a-friendship.
+TP
+
+
+//記念すべき喪失式はピーチランドに決まっていた。
+The ceremony for that memorable loss was decided to be a trip to the PeachLand.
+//See CCZRooftop, a play on Peach Garden, above, and Soapland, the whorehouse of the type sometimes referenced... -GHS
+TP
+
+//メイトブックという意見もあった。
+Matebook was also proposed, too.
+//...right around this guy, see CCC0016A. The running gag is that it's supposed to be named after a whorehouse. Since the joke was eviscerated in the console versions, this was replaced with "that is a shop that exists in the City", perhaps recalling CCA0002. -GHS
+TP
+
+
+//だが、それはダメだ。
+//However, it was not to be,
+//俺の顔はすでに割れているから。
+//because my true face was already becoming known.
+//I have no idea what these lines refer to, none whatsoever. They've been removed from every version; there's nothing copyrighted I can tell or callbacks to deleted stuff: following the new versions and removing. -GHS
+
+
+//三人の手はいつまでも重なっていて、離れる気配がなかった。
+The hands of three kept on overlapping, never showing a sign of parting.
+TP
+
+WVS 1 1
+
+//こうして俺たちは、つるむようになった。
+And that was how the three of us began mate-ing.
+TP
+
+
+
+
+
+WVS 3 1
+
+
+
+
+
+RET

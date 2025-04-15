@@ -1,0 +1,263 @@
+
+
+
+WVP 1 bgm016.ogg 0 0 0
+
+
+Taichi: "Kiri."
+TP
+
+
+Her whole body tensed up.
+TP
+
+
+She slowly turned around.
+TP
+
+
+When she did, her features were grave.
+TP
+
+
+GL 0 evcc0027a
+$CGevcc0027a = 1
+GS 0 1
+SEF 155 0
+
+Taichi: "Morning."
+TP
+
+
+WVP 0 vfCCC3102bkri000
+Kiri: "......what do you want?"
+TP
+
+
+A low voice.
+TP
+
+
+Taichi: "Is Miki-kun here?"
+TP
+
+
+WVP 0 vfCCC0014kri000
+Kiri: "......she isn't."
+//CP ccc0014
+TP
+
+
+Taichi: "I see."
+TP
+
+
+I knew that.
+TP
+
+
+Taichi: "She was loitering around the shopping district. She felt emotionally unstable."
+TP
+
+
+WVP 0 vfCCC3102bkri001
+Kiri: "Miki was......?"
+TP
+
+
+Taichi: "Why not go to her?"
+TP
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+Kiri flew out of the classroom without answering.
+TP
+
+
+Taichi: "Hey, take this."
+TP
+GL 1 TCSK0000
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfCCC3102bkri002
+Kiri: "......wh-?"
+TP
+
+
+Taichi: "Lunch. I promised to give this to Miki."
+TP
+
+
+A lie.
+TP
+
+
+But if I don't say it, Kiri won't accept it.
+TP
+
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3102bkri003
+Kiri: "......why would you......?"
+TP
+
+
+Taichi: "Come on, hurry up. She was crying."
+TP
+GO 1 1
+
+Kiri shot a dubious glance and ran away.
+TP
+
+
+Okay, that should do it.
+TP
+
+
+I heaved a huge sigh.
+TP
+
+
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+I'll have to set aside time for Kiri every day.
+TP
+
+
+On Sunday, the world will roll back.
+TP
+
+
+Restoration day.
+TP
+
+
+Maybe this world is ideal for me.
+//CP_S ccc0021
+TP
+
+
+A world where mortal wounds aren't mortal.
+TP
+
+
+Back to normal in a week.
+TP
+
+
+Whoever I hurt, whoever I depend on,
+TP
+
+
+Reset.
+TP
+
+
+I'll get close to Touko, then Mimi-sempai next,
+//These lines and afterward (Touko related in CCD3003a) doesn't make sense if you do Kiri route as other than the first. Intentional in the game? - Raide
+TP
+
+
+Then Kiri,
+TP
+
+
+Then Miki,
+TP
+
+
+Then Youko-chan if I feel like it,
+TP
+
+
+Then Sakuraba,
+TP
+
+
+......not him.
+//CP_F
+TP
+
+
+However,
+TP
+
+
+There's a place avoiding the reset, where possibilities lie.
+TP
+
+
+It's not perfect opportunism.
+TP
+
+
+Which is why I---
+TP
+
+
+
+
+WVP 3 se001 0 0 1
+
+WVP 1 bgm004.ogg 0 0 0
+
+
+GL 0 bgcc0005s
+GS 0 1
+SEF 10 2
+
+It was early summer last year,
+//CP_S ccc3001
+TP
+
+
+When I met Shinkawa Yutaka.
+TP
+
+
+A summer of noisy cicadas.
+//CP_F
+TP
+GL 1 TCSY0001s
+GI 1 1
+
+
+WVP 0 vmcca0011bshi033
+Shinkawa: ÅwOkay, I get the feeling this'll work somehow.Åx
+//CP_S
+TP
+
+
+Taichi: "............"
+TP
+
+
+I wonder who was wrong.
+//CP_F
+TP
+
+I can't blame it on destiny.
+TP
+
+
+Someone was wrong. Or perhaps, no one was wrong.
+TP
+
+
+If that's admitted, then there aren't that many conclusions.
+TP
+
+
+WVS 1 1
+
+WVS 3 1
+
+
+
+RET

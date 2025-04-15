@@ -1,0 +1,1212 @@
+
+GL 0 bgcc0015a
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+//太一「いそげっ、いそげっ」
+Taichi: "Hur-ry! Hur-ry!"
+//PCP CCC4008
+TP
+
+//そして。
+And then,
+TP
+
+GL 0 bgcc0001b
+GS 0 1
+SEF 152 0
+//太一「ついたぁ」
+Taichi: "Arriiived!"
+TP
+
+GL 2 TCSK0003b
+GP 2 220 0
+GI 2 1
+WVP 0 vfCCC4009kri000
+//霧「はー、はー、ぜー、ぜー」
+Kiri: "Haaah, haaah, zeeeh, zeeeh..."
+//Haze? ...is it a translingual pun? Leaving it. -GHS
+TP
+
+//霧がバテていた。
+Kiri was worn out.
+//But oh, running for an HOUR away from Taichi, oh, no problem! None whatsoever! This route is also said to take an hour. -GHS
+TP
+
+GL 1 TCYM0003b
+GP 1 0 0
+GP 2 340 0
+GS 1 1
+GS 2 1
+SEF 109 0
+
+WVP 0 vfCCC4009mki000
+//美希「おー、いいタイミング！」
+Miki: "Oooh, nice timing!"
+TP
+
+//美希は全然平気だった。
+Miki was totally fine.
+TP
+
+//現金な娘だ。
+//What a calculating girl.
+//What a sharp boy. Pun with Genki seemed way forced... -GHS
+//元気な娘だ。
+What an energetic girl.
+//HACK ...but turns out it wasn't a pun, just a typo. A really really really inconvenient typo, given calculating/mercenary fits Miki perfectly (or at least, it should). -GHS
+TP
+
+//太一「暗くなる前につけたのはいいけど、暗くなる前に帰らないとな」
+Taichi: "It's good we got here before it got dark, but we can't get home before it's dark, so..."
+//Repeating Taichi repeats stuff? Maybe he's just tired. Or Tanaka's sloppy on editing, as he's been throughout this route. -GHS
+TP
+
+//一応、この太一袋には懐中電灯も入っているが。
+Just in case, however, I got a big flashlight in my Taichi Bag as well.
+//It's one of those, uhm, electric torches and stuff. Damn he carries around so much junk that this should be an adventure game. Maybe those WERE Zak McKracken and Leisure Suit Larry references... -GHS
+TP
+
+WVP 0 vfCCC4009mki001
+//美希「夕日が見たかったのでちょうどいいです」
+Miki: "I wanted to see the sunset, so this is just right."
+//Sunset = parallel world/time loop, don't forget now. -GHS
+TP
+GL 0 evcc0044
+$CGevcc0044 = 1
+//This is as sepia as a non-flashback looks. The twilight being the loop, the blood, and the memories are all connected. -GHS
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 109 1
+
+WVP 0 vfCCC4009mki002
+//美希「よいしょっとー！」
+Miki: "And upsy daaaisy!"
+TP
+
+//そして美希は、両手の花（片方俺）を引き寄せた。
+And then, Miki drew towards herself the flowers she had in both hands (one of them me).
+//Girly boy in one, boyish girl in the other. -GHS
+TP
+
+//太一「おっと」
+Taichi: "Whoa!"
+TP
+
+WVP 0 vfCCC4009kri001
+//霧「きゃん」
+Kiri: "Kyahn!"
+TP
+
+WVP 0 vfCCC4009mki003
+//美希「一番きれいなのは沈む直前かなー」
+Miki: "It's the prettiest just before it totally sinks I thiiink!"
+//The sun, the situation, Taichi... -GHS
+TP
+
+//もう三十分くらいだろうか。
+Seems there'll be no more than thirty minutes to go.
+//Should be right around six... of course. -GHS
+TP
+
+WVP 0 vfCCC4009kri002
+//霧「……はぁ、お腹すいたなぁ」
+Kiri: "...sigh, I'm huuungry..."
+TP
+
+WVP 0 vfCCC4009mki004
+//美希「なんか食べ物はないんですか、先輩？」
+Miki: "Got anything edible, Senpai?"
+TP
+
+//太一「あるよ」
+Taichi: "I do!"
+TP
+
+//カンパンの残りを出した。
+I took out the leftover Kanpan.
+TP
+
+WVP 0 vfCCC4009mki005
+//美希「そのうらぶれたボクサーが使ってるみたいな袋、なんでも入ってますか？」
+Miki: "That bag that looks like it's used by a boxer that's gone to the dogs, does it have everything in it or something?"
+//Curiously, top result for that sentence is the description for Stanley Kubric's Killer's Kiss. Another 1950s film reference...? -GHS
+TP
+
+//太一「太一袋だから」
+Taichi: "Yes, because it's the Taichi Bag."
+//Although the art in Cross Channel is certainly unreliable, this thing is never not once seen ever. -GHS
+TP
+
+WVP 0 vfCCC4009mki006
+//美希「のどかわいたです」
+Miki: "My throat is a bit parched."
+TP
+
+//太一「はいよ」
+Taichi: "Here ya go."
+TP
+
+//水筒。
+Canteen.
+TP
+
+WVP 0 vfCCC4009mki007
+//美希「……す、すごい」
+Miki: "...a-, amazing."
+TP
+
+//欲しそうだった。
+She seemed to really want it.
+TP
+
+//太一「ビスケット食べる？」
+Taichi: "Wanna eat a biscuit?"
+TP
+
+//曜子ちゃんが作ったやつだ。
+These were made by Youko-chan.
+TP
+
+WVP 0 vfCCC4009mki008
+//美希「もらいます！　はい、霧っち」
+Miki: "I will gladly! Here, Kiricchi."
+TP
+
+WVP 0 vfCCC4009kri003
+//霧「う、うん……」
+Kiri: "Uh-, 'k..."
+TP
+
+//二人は旺盛に食べた。
+The two ate vigorously.
+TP
+
+WVP 0 vfCCC4009mki009
+//美希「このビスケット……おいしいですねぇ」
+Miki: "These biscuits are... really delicious, aren't they!"
+TP
+
+WVP 0 vfCCC4009kri004
+//霧「本当……柔らかくて、甘くて……」
+Kiri: "True... soft and sweet..."
+TP
+
+//太一「曜子ちゃんのビスケットだから」
+Taichi: "Because they are Youko-chan's biscuits."
+//That means it's her... uhm, I actually don't know. Maybe instead of silicone, the bra he's gotta have in his bag is staffed with biscuits??? -GHS
+TP
+
+WVP 0 vfCCC4009mki010
+//美希「愛されてますねー」
+Miki: "You are really loved, wow!"
+TP
+
+//太一「偏愛されてるんだよ」
+Taichi: "I'm just being favored."
+TP
+
+//ありがたい度より迷惑度は高い。
+The level of annoyance is higher than the level of thankfulness.
+TP
+
+//太一「でも監視カメラはやめてほしいよなぁ」
+Taichi: "But I wish she stopped with the surveillance cameras at least."
+TP
+
+//俺の部屋。
+...in my room.
+//Meaning she doesn't just stalk him outside, and that she knows what he's doing at all times. -GHS
+TP
+
+//もう電源が断たれているので使用はされてないだろうけど。
+As the electricity has been cut I don't think she'll be able to employ them anymore, at least.
+//NOT that same 'use' as typical. -GHS
+TP
+
+WVP 0 vfCCC4009kri005
+//霧「……で、美希はなにを待ってるの？」
+Kiri: "...so, what are you waiting for, Miki?"
+TP
+
+WVP 0 vfCCC4009mki011
+//美希「夕日だよ？」
+Miki: "Twilight, was else?"
+//"I heard the last movie was awesome (with the reminder that good and awesome are unrelated)!" -GHS
+TP
+
+WVP 0 vfCCC4009kri006
+//霧「これって夕日でしょ？」
+Kiri: "Isn't this the twilight?"
+//No, seriously, she means it in the (echo) SYMBOLISM! (echo) way. IT IS THE TWILIGHT OF THE ROUTE, AND ALSO OF THE STORY OFMGFMVLSADZDSRP -GHS
+TP
+
+//太一「美希っちが待ってるのは、余光だよ」
+Taichi: "What Miki's waiting for is the afterglow."
+//Of sex? -GHS
+TP
+
+WVP 0 vfCCC4009kri007
+//霧「よこう？」
+Kiri: "Afterglow?"
+//yokou<->Youko? -GHS
+TP
+
+//太一「日が没したあとさ、空がものすごいオレンジ色になるだろ？　残照とも言うけど」
+Taichi: "After the sun sinks, you know, when the sky turns that amazing shade of orange? It's the crepuscular light, in other words."
+TP
+
+WVP 0 vfCCC4009mki012
+//美希「それを三人で見る。いい感じじゃないですか」
+Miki: "We'll be looking at it, all three of us. Doesn't that feel so great?"
+TP
+
+//デートというか、多感なオトモダチ同士って感じだな。
+More than a date, this feels more like bonding between emotionally sensitive friends.
+TP
+
+WVP 0 vfCCC4009mki013
+//美希「にゃんにきにゃかにゃか♪　にゃんにきにゃかにゃか♪」
+Miki: "MyeowMykimeowMeow♪ MyeowMykimeowMeow♪"
+TP
+
+WVP 0 vfCCC4009kri008
+//霧「ぉっぱいさわんないでよ」
+Kiri: "'ands OFF my boobs!"
+//Sorta-lispy -GHS
+TP
+
+//ま、楽しそうだからいいか。
+Well, we're having fun so it's good.
+TP
+
+//太一「……なあ、性欲をもてあます霧ちん」
+Taichi: "...say, Kiri-chin with the sexual desire out of control."
+TP
+
+WVP 0 vfCCC4009kri009
+//霧「ぶっ！！」
+Kiri: "PFHT!!!"
+TP
+
+//太一「水を吹くな」
+Taichi: "Don'tcha spit water."
+TP
+
+WVP 0 vfCCC4009kri010
+//霧「話したの！？　見せたの！？」
+Kiri: "Did she talk about it?! Did she show them to you?!"
+TP
+
+WVP 0 vfCCC4009mki014
+//美希「見せてないよ。平気平気」
+Miki: "I showed nothing. It's alright, it's alright!"
+TP
+
+//だいたい何があったのか想像ついてきた。
+I could imagine the general outline of what happened.
+TP
+
+//太一「二人がはじめて部活に参加した日、覚えてる？」
+Taichi: "Remember that day, when you two first participated to club?"
+TP
+
+WVP 0 vfCCC4009kri011
+//霧「……ええ、一応」
+Kiri: "...yes, let's say that."
+TP
+
+WVP 0 vfCCC4009kri012
+//霧「あんなの、忘れようとしても無理です」
+Kiri: "Even if I wanted to forget that stuff it is impossible to."
+TP
+
+WVP 0 vfCCC4009mki015
+//美希「なかなか入れてくれなかったもんね」
+Miki: "We weren't able to get in that readily, no."
+TP
+
+//太一「……んー、試験が終わるまではね。適性があるので」
+Taichi: "...hmmm, not until the end of the exams, right. Because of aptitude."
+//See CCZRooftop. They didn't join up until months later, supposing the problem is the Conformity Coefficient, same as Taichi. It's not quite as solid as it should be, but it's not particularly important. -GHS
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//自由に部活に入れるわけでもないのだった。
+Joining up clubs wasn't left to volition.
+//...except in CCC3003, the implication seems to be that at least Kiri was being told to make things work... so it's gotta be just in general, not specifically club. After all, Taichi can't be the only person she went around heel-kicking. -GHS
+TP
+
+//希望は通るが。
+Wishes are conveyed, but...
+TP
+
+//群青はその都合上、大学をのぞくエレベーター式になっている。
+For convenience of management, Gunjou was made into an elevator school with all but post-secondary education.
+//This doesn't segue at all. Unfortunately, some parts of this still read like poorly expanded outlines. Uh, not that I don't know the feeling. -GHS
+TP
+
+//霧が来たのは去年の夏。
+Kiri had come on Summer of last year,
+TP
+
+//美希はそのもう少し後だった。
+Miki was not much later.
+//Beach outing was first week of September 1997, Yutaka's death weekend of the second week. If Kiri came late May/June and Miki early July, the Club was together for like a month or two before falling apart at the absolute best. -GHS
+TP
+
+//二人とも一個下の三年生として編入された。
+The two of them were admitted as third years one school level below.
+//Middle school. -GHS
+TP
+
+//校舎自体は同じで、その頃にも多少は顔を合わせていた。
+The school building itself is the same, so even in those times there was some face-to-face.
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+WVP 0 vfCCC4009mki016
+//美希「あれは面白かった。忘れないです」
+Miki: "That was so funny. Unforgettable!"
+TP
+
+WVP 0 vfCCC4009kri013
+//霧「……面白かったかなあ」
+Kiri: "...was it funny now."
+TP
+
+//太一「二人に素敵なニックネームもつけてやったな。俺が」
+Taichi: "And you two even got a splendid nickname. From me!"
+TP
+
+WVP 0 vfCCC4009mki017
+//美希「えーと、島先輩がインモラルで、たいち先輩は愛貴族でしたっけ？」
+Miki: "Uhmmm, so Shima-senpai was Immoral, Taichi-senpai was the Aristocrat of Love, right?"
+//Another awesome segue. -GHS
+TP
+
+//よく記憶している。
+She remembers well.
+TP
+WVP 0 vfCCC4009mki018
+//美希「……愛貴族って、先輩のトークに頻繁に出てくる単語ですよね」
+Miki: "...'Aristocrat of Love' is the kind of thing that comes up frequently in your speech, Senpai."
+//There are exactly ten references to that term in the whole of the script. Admittedly, this may be one of the several things that we are told but don't really see, like Misato's sleep-inducing high-gesticulation talks, Touko's ~deswa and the like. -GHS
+TP
+
+WVP 0 vfCCC4009kri014
+//霧「愛奴隷とか愛人形とか……最低」
+Kiri: "And love slave, and love doll... disgusting!"
+TP
+
+WVP 0 vfCCC4009kri015
+//霧「いっそ最低奴隷にしたらどうですか？」
+Kiri: "How about Disgusting Slave, should it not be that instead?"
+TP
+
+//太一「ううむ……奴隷のさらに最低って、俺すごい底辺具合なんだな」
+Taichi: "Huuum... slave and furthermore disgusting, that's an awesomely low reputation I have, yes."
+TP
+
+WVP 0 vfCCC4009mki019
+//美希「霧ちん毒ー」
+Miki: "Kiri-chin, the abusive languaaage!"
+//Forget that, the LAME JOKES! Come on! -GHS
+TP
+
+//太一「あとさ、桜庭の柿の種の説法とか覚えてる？」
+Taichi: "And then, do you remember that sermon Sakuraba did on seeds of persimmon?"
+//Oh yes. Word used has explicit religious undertone. -GHS
+TP
+
+WVP 0 vfCCC4009kri016
+//霧「……ぷ―――っ！？」
+Kiri: "...pffffffht?!"
+TP
+
+//霧が吹いた。
+Kiri spat.
+TP
+
+//記憶していたらしい。
+Seems like she has the memories.
+TP
+
+WVP 0 vfCCC4009mki020
+//美希「そういえば、一つ質問があります」
+Miki: "On that topic, I have a question."
+TP
+
+WVP 0 vfCCC4009mki021
+//美希「桜庭先輩の耳って悪いんですか？」
+Miki: "Does Sakuraba-senpai have bad hearing?"
+TP
+
+//太一「ああ、鼓膜が痛んでるから」
+Taichi: "Yep, a damaged eardrum."
+//The damage, of course, should've healed long ago and easily. -GHS
+TP
+
+WVP 0 vfCCC4009mki022
+//美希「え！？」
+Miki: "Eh?!"
+TP
+
+WVP 0 vfCCC4009kri017
+//霧「……知りませんでした」
+Kiri: "...I did not know."
+TP
+
+//太一「俺がやった」
+Taichi: "I was the one who did that."
+//A damage that should not exist, caused by Taichi. -GHS
+TP
+
+//霧が眉をひそめた。
+Kiri's eyebrows knit.
+TP
+
+WVP 0 vfCCC4009kri018
+//霧「シャレになりません」
+Kiri: "Do not make this a joke."
+TP
+
+//太一「まあ聞け。原因はヤツにある」
+Taichi: "Well, listen up. The blame lies with that guy."
+TP
+
+//太一「……俺が下のガッコ時代の……んー、二年生くらいだったかな。学院祭があったのだ」
+Taichi: "...when I was in the middle school... hmmm, second year or thereabouts, there was a school festival."
+TP
+
+WVP 0 vfCCC4009mki023
+//美希「今はないですよね？」
+Miki: "There isn't one now, then?"
+TP
+
+//太一「いろいろ問題起こったからね」
+Taichi: "We had all sorts of problems, that's why."
+TP
+
+//太一「当時もそりゃこぢんまりしていたものだった。やっぱ
+//>うしき
+//有識者数が少ないからね」
+//※有識＝喜怒哀楽、情緒を有すること
+Taichi: "Back then things were quiiite a bit snug. The number of 'Experts' was really low, that's why."
+> 
+* 'Expert' = person in which the basic emotions (happiness, fear, sorrow, pleasure) are present.
+//See CCA0009B and more. Never established as Gunjou slang or used consistently, but the reactions below seem to hint at this. Expanded. Miki is described explicitly as an Expert. Curiously, the ruby text says it's "ushiki", but Youshikisha (reading of 有識者) is actually a world, while Ushiki[sha] doesn't seem to be. Could be "possibly intelligent/well informed person", making the term more sarcastic. Scare quotes to make the term scarier and terrifying. -GHS
+TP
+
+//美希「……」
+Miki: "..."
+TP
+
+//霧「……」
+Kiri: "..."
+TP
+
+//太一「で、やっぱり基本的には、周辺住民の賛同は欲しいわけだよ。こんな学校でも」
+Taichi: "So it's as you'd think, basically they wanted some approval from the residents around them. Even when the school is like this."
+TP
+
+//太一「学院祭とはいっても、知らない人がどやどや来ると不安定になったりするヤツも多いんで、有志による劇みたいなことをやったんだ」
+Taichi: "A school festival, well, because there's lots of guys who get unstable just at the bustle of footsteps of too many strangers, it was more like a play performed by volunteers."
+//See CCC3004 for more. -GHS
+TP
+
+//太一「あの年は……シェイクスピアだった。演目は―――」
+Taichi: "That year... it was Shakespeare. The play was---"
+TP
+
+WVP 0 vfCCC4009kri020
+//霧「ロミオとジュリエット」
+//Kiri: "Romio and Juliet."
+Kiri: "Romeo and Juliet."
+//And the pen name, possibly, was born. Hey, pass Rikaichan (names vocabulary) on Yamada Hajime's kanji name... -GHS
+TP
+
+//太一「……正解」
+Taichi: "...correct."
+TP
+
+//そう。
+Indeed.
+TP
+
+WVP 0 vfCCC4009mki025
+//美希「ベタですねー」
+Miki: "Waaay hackneyed."
+TP
+
+//太一「うむ。もはやベティだった」
+Taichi: "Yep. It was exceedingly Neya."
+TP
+
+WVP 0 vfCCC4009kri021
+//霧「……は？」
+Kiri: "...eh?"
+TP
+
+WVP 0 vfCCC4009mki026
+//美希「ベタってのを擬人化して……」
+Miki: "It's the anthropomorphization of 'hackneyed'..."
+//BTW, speaking of constant anthropomorphization: a certain lion and a bunch of cheap paper cutters should be coming to mind to some. -GHS
+TP
+
+WVP 0 vfCCC4009kri022
+//霧「……ああ、そういう意味……」
+Kiri: "...ahhh, that's what it means..."
+TP
+
+//太一「フフフ。美希、ナイスフォロー」
+Taichi: "Hoh hoh hoh! Excellent follow-up Miki!"
+TP
+
+WVP 0 vfCCC4009mki027
+//美希「いえ」
+Miki: "'s nothin'!"
+TP
+
+//太一「決めてンだ。自分のギャグを自分で解説するときは、死ぬ時だけだってな」
+Taichi: "I made up my mind. The only time I'll explain my own jokes by myself will be the time of my death."
+//Maybe he'll tell us what this means on his deathbed? No, I suspect this means closer to "not even dead". -GHS
+TP
+
+WVP 0 vfCCC4009kri023
+//霧「……どっかの映画のセリフみたい」
+Kiri: "...that sounds like a line from some movie."
+//If it is, it's not one I can find. -GHS
+TP
+
+//太一「ま、とにかくシェイクスピアだ。日本名にしたら……フッ、振槍さんってとこか」
+Taichi: "Well, anyway, Shakespeare. If I'd have to make the name in Japanese, let's see, kanji for shake read 'furu' and kanji for spear read 'yari', so..."
+//Little point without kanji, so replacing with a really lame overexplaining. That's the entirety joke anyway. -GHS
+TP
+
+//美希は身震いした。
+Miki winced.
+TP
+
+WVP 0 vfCCC4009mki028
+//美希「……ひねろうというこれっぽっちの意志さえ感じられないっっ！」
+Miki: "...I can't feel the even tiniest intent of wanting to twist thiiings!"
+//When you can't make a good joke, go meta I guess. -GHS
+TP
+
+//俺の実直さの虜がまた一人。
+Yet one more victim of my honesty.
+TP
+
+//太一「ノーツイスト主義」
+Taichi: "No-Twist Doctrine."
+//That's less twisting the neck and more stretching the material. See CCD1001. -GHS
+TP
+
+//俺はうらぶれたボクサーのように、茜色の空を見あげた。
+Just like a boxer that's gone to the dogs, I look up at the sky of madder red.
+//Translating taught me that no matter how much UMADBRO, there's always a madder red. -GHS
+TP
+
+WVP 0 vfCCC4009kri024
+//霧「スペル合ってるのかな？」
+Kiri: "But would that have even been spelled correctly?"
+//Seems to refer to the (cut) part about Shakespeare's name in kanji... I think she's trying to make a tsukkomi, and damn she sucks. More curiously, ノーツイスト (and no-twist, eluding all the reference to the indie rock band The Notwist) seems to be more often found in reference to a type of clamp. ...is this a CLAMP reference? -GHS
+TP
+
+WVP 0 vfCCC4009mki029
+//美希「さあ？」
+Miki: "Who cares?"
+//Usually it'd be a "dunno", but voice is obviously annoyed. -GHS
+TP
+
+//太一「配役をあててごらん！」
+Taichi: "Let us now go guess the cast!"
+TP
+
+WVP 0 vfCCC4009mki030
+//美希「……先輩がロミオ、かな？」
+Miki: "...Senpai was Romeo, I think?"
+//Pretty close. -GHS
+TP
+
+WVP 0 vfCCC4009kri025
+//霧「他の人って……当時誰がいたかわからない……」
+Kiri: "As for the rest... I dunno who was even there at that time..."
+TP
+
+//太一「曜子ちゃんが一個上だった」
+Taichi: "Youko-chan was one year above me."
+//Third year middle school, then. -GHS
+TP
+
+WVP 0 vfCCC4009mki031
+//美希「じゃ、支倉先輩がジュリエット」
+Miki: "Then, Hasekura-senpai was Juliet!"
+TP
+
+//太一「残念。その逆」
+Taichi: "Better luck next time. It was the opposite."
+TP
+
+WVP 0 vfCCC4009mki032
+//美希「……逆転劇？」
+Miki: "...a play with major twists?"
+//Term also refers to a performance with lots of twists, so it ties to the above. -GHS
+TP
+
+//太一「そう。まあ当時は体格面で同じくらいだったんで、どっちがやっても平気だった」
+Taichi: "Indeed. Well, around then our builds were sort of the same, so however we did it it'd be OK."
+//Cough, coughcoughcoughchooo chooo she rather handsome/we kinda looked the same/she was pretty/from New York City/I'm walkin' down that old fair lane/I'm in heat, I'm in love/But I just couldn't tell her so -GHS
+TP
+
+//太一「あとねー、他に劇ができるほど安定してるのいなかったから、全役俺と曜子ちゃんでやった」
+Taichi: "And theeen, because there were no other people stable enough to do a play, all roles were performed by me and Youko-chan."
+//Meaning Taichi had to do everything alone. Hey, just like he might be doing here... -GHS
+TP
+
+WVP 0 vfCCC4009kri026
+//霧「うわ……」
+Kiri: "Whoa..."
+TP
+
+WVP 0 vfCCC4009mki033
+//美希「それって……学院祭？」
+Miki: "And that... was a school festival?"
+//>         gakuin-sigh
+//More like a 学院嘆 -GHS
+TP
+
+//太一「まあ、体面上」
+Taichi: "Well, that was for appearance's sake."
+TP
+
+//太一「劇自体は大成功だった。特に迫真のキッスシーンを……あのアマ……人前で……」
+Taichi: "The play itself was a big success. Particularly the realistic kiss scene... that bitch... in front of people..."
+TP
+
+WVP 0 vfCCC4009kri027
+//霧「こ、この人泣いてる……」
+Kiri: "Th-, this guy's crying..."
+TP
+
+WVP 0 vfCCC4009mki034
+//美希「どうしたんだろう？」
+Miki: "What's the matter?"
+TP
+
+//太一「ちくしょう！　当時の俺には、まだ露出のケはなかったのに！！」
+Taichi: "Dammit all! At that time, I didn't even have my exhibitionist streak!!!"
+//Odd/uncommon term, oddly enough(?). Perhaps this is the time when Youko "re-educates" him to social interaction (AKA "he plays a ton of RPGs and VNs"). That's possibly why he streaks in CCA0002 and CCC3004, and there's that CCD0022A to consider. -GHS
+TP
+
+WVP 0 vfCCC4009mki035
+//美希「今はあるのかよ……」
+Miki: "And now you do...!"
+TP
+
+//太一「とにかく、口づけをかわす二人の口の間からだらだらとヨダレが流れていようが、
+Taichi: "Anyway, in our reciprocal kiss saliva was schlooping down in the gap between our two mouths."
+TP
+
+//太一「ヒロイン役の俺が逃れようとじたばたしているのに主人公役の方がサブミッションを決めていようが、
+Taichi: "Because I was in the role of the heroine, I was to try to escape kicking and fighting, but Miss Protagonist over there decided the scene should end in submission,"
+TP
+
+//太一「スカートの下で執拗に局部タッチをされていようが、誰一人気がつかないのが演劇の魔力だ。
+Taichi: "and she went for an insistent underskirt genital touch, but not one person noticed. That is the magic of theater."
+//See CCD0022A, again. -GHS
+TP
+
+//太一「劇は大成功だった。俺は下着を替えた」
+Taichi: "The play was a great success. I had to change my underwear."
+TP
+
+WVP 0 vfCCC4009kri028
+//霧「……ゃだ…………」
+Kiri: "...c'MON......"
+TP
+
+//太一「そこに新キャラ、桜庭登場～！」
+Taichi: "And there we meet that new character, Sakuraba～!"
+//See CCC3025. While shinkyara<->shinkawa may not make much sense given the twist is revealed immediately, this one is a big hint. -GHS
+TP
+
+WVP 0 vfCCC4009mki036
+//美希「出た」
+Miki: "He appears!"
+//Miki likely knows about Yutaka, too. How many times has she spied on Kiri being told that, anyway? -GHS
+TP
+
+//太一「ヤツは本能に忠実な男。いや、あまりにも忠実すぎる男だった」
+Taichi: "That idiot was a man loyal to his instincts. Well, he was a man extremely loyal to his instincts."
+TP
+
+//太一「桜庭は観劇に来た。そして一目惚れをした」
+Taichi: "Sakuraba came to the play. And then he was immediately smitten."
+TP
+
+WVP 0 vfCCC4009kri029
+//霧「支倉先輩に……」
+Kiri: "With Hasekura-senpai..."
+TP
+
+//太一「違う、俺に」
+Taichi: "Nope, with me."
+//He saw Taichi playing as a girl, and he was smitten with him/her. Right after Youko molested him. By rule of parallel, this strongly hints that Yutaka was also somehow smitten with him. Also, that Youko raped him. -GHS
+TP
+
+//美希「……」
+Miki: "..."
+TP
+
+//霧「……」
+Kiri: "..."
+TP
+
+
+WVP 0 vfCCC4009goo000
+//二人「えええええええええええええっ！！」
+Both: "EEEEEEEEEEEEEH!!!"
+//You missed an E. I guess the っ glottal stop counts, then. -GHS
+SEF 101 0
+//HACK shake screen -GHS
+TP
+
+//鼓膜破れかけた。
+That nearly busted an eardrum.
+//Get it? Because Sakuraba... -GHS
+TP
+
+WVP 0 vfCCC4009mki039
+//美希「えーえー、桜庭先輩が太一先輩にーっ！？」
+Miki: "Ehhh, ehhh, Sakuraba-senpai, with Taichi-senpaaai?!"
+TP
+
+WVP 0 vfCCC4009kri032
+//霧「ねえねえ、じゃあ桜庭先輩が全然女の子に興味ないって噂って？」
+Kiri: "Hey, hey, you heard the rumor that Sakuraba-senpai has no interest in women whatsoever?"
+TP
+
+WVP 0 vfCCC4009mki040
+//美希「ひゃーーー！　どーなんだろー！」
+Miki: "HYAAAA! I wondered about thaaat!"
+TP
+
+WVP 0 vfCCC4009kri033
+//霧「わっ、わあぁー」
+Kiri: "Wah, waaaah!"
+TP
+
+WVP 0 vfCCC4009mki041
+//美希「きゃーきゃー！」
+Miki: "Squeee, squeee!"
+TP
+
+//うるせぇ……。
+Oh shut it...
+TP
+
+
+
+WVP 0 vfCCC4009goo001
+//二人「で、どうなったんですか？」
+Both: "So, what happened next?"
+TP
+
+//太一「そのハモりなんかムカつく」
+Taichi: "Those harmonics kinda piss me off."
+//see CCA0015, CCA0027, CCC0031B... it may be crap but it's a running gag. And having the PS2 and PC version running parallel means I just heard a quartet. Yay. -GHS
+TP
+
+//太一「……とにかくだ。桜庭はあれで強引グマイウェイ。舞台袖にすぐあらわれた。花壇に植えてあった校長の花を勝手に摘んでな」
+Taichi: "...bah, anyway. Sakuraba, in that, is stupidly Go-My-Way. He immediately showed up in the stage wings. He had up and picked some flowers that the headmaster planted in the flowerbed."
+//グマイウェイ = go my way... グマイ gumai = stupid. Also, the headmaster must be strong. -GHS
+TP
+
+//太一「俺は驚いた。出会ってから告白まで、三秒。はやい、はやすぎた」
+Taichi: "I was shocked. From meeting to confession it was three seconds. Fast, and way too fast."
+//Notice the lack of "he was a man so no". -GHS
+TP
+
+//二人が息を詰めている。
+The two held their breath.
+TP
+
+//……なんか話したくなくなってきたぞ。
+...turns out I don't really want to talk about this.
+//He's basically confessing to the same thing as happened to Yutaka. And he knows. No wonder. -GHS
+TP
+
+//太一「不幸なことに、その場に曜子ちゃんはいなかった」
+Taichi: "What a misfortune it was that Youko-chan wasn't there."
+//Provided she exists, he would've sent her faaar away at that point. -GHS
+TP
+
+//太一「だが俺は冷静だった。だって俺は男。桜庭の愛を肉体的に受け入れるホールにも事欠く有様だった（大人のジョーク）」
+Taichi: "But I remained composed. I'm a man after all. I am found to be missing the physical hole to accept Sakuraba's love (adult joke)."
+//It's the rare #2! (scatological joke). -GHS
+TP
+
+//太一「だから俺は自らのシンボルを露出することで、男だということを証明してやった。これをシンボリズムという」
+Taichi: "Therefore, I exposed my symbol, providing evidence that I am a man. That is what is called 'symbolism'."
+//I had to reread this three times during edit to realize this wasn't the kind of stupid gag line I sometimes add. Anyway, he whips out his dick when a man attempts to jump on him; talk about cross-conversation. Unless, of course, by "his dick" he means "his knife". -GHS
+TP
+
+WVP 0 vfCCC4009mki043
+//美希「……嘘だね」
+Miki: "...totally a lie."
+TP
+
+WVP 0 vfCCC4009kri035
+//霧「うん、嘘だね」
+Kiri: "Yeah, totally a lie."
+TP
+
+WVP 0 vfCCC4009mki044
+//美希「ギャグつまらないね」
+Miki: "This joke's boring yannow."
+//Between boring meta and SYMBOLISM!!! all we need is a guy with the glasses... well, we got a gal, so where do we find a comic book g-- Tomoki. Well, damn. -GHS
+TP
+
+WVP 0 vfCCC4009kri036
+//霧「うん、でも我慢しよう。話はおもしろいもの」
+Kiri: "Yes, but let's bear with it. This story is very interesting."
+TP
+
+//太一「……泣いていいか」
+Taichi: "...can I just cry?"
+//But he doesn't deny it's a lie. So he probably did whip out a knife. -GHS
+TP
+
+//太一「だが桜庭は止まらなかった」
+Taichi: "Regardless, Sakuraba did not stop."
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+
+WVP 0 vmCCC4009sku000
+//桜庭『男でもいい』
+> 
+ 
+ 
+> 
+ 
+ 
+ 
+              『A man is fine too!』
+//CP CCA0013
+//No tags needed for this one -GHS
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+//太一「そしてヤツは襲いかかってきた。実は俺には、ヤツを受け入れかねないホールに、一つばかし心当たりがあったのだ（大人のジョーク）」
+Taichi: "And with that the guy swooped on me. Truth is, I did have an idea about what hole I could use to receive the guy (adult joke)."
+//The rare #3! So he sees Taichi as a girl, and decides to go down on him. And how the hell did someone who got raped and raped for so long not know that a dick can be stuck up his ass? Wasn't he the male partner for Yutaka's dad? -GHS
+TP
+
+WVP 0 vfCCC4009mki045
+//美希「うをーーーーーーーっ！」
+Miki: "UWOOOOOOOOH!"
+TP
+
+WVP 0 vfCCC4009kri037
+//霧「そ、それって……」
+Kiri: "Th-, that'd be..."
+TP
+
+//楽しそうだなオイ。
+Having so much fun aren't you, dammit.
+TP
+
+//太一「で、我が貞操を守るため、俺は平手を繰り出した。それがヤツの耳に当たって……まあちょっと怪我をさせてしまったのだ」
+Taichi: "Then, to protect Our Chastity, I lunged at him with the palm of the hand. And I struck right on the ears... leaving him, well, with a bit of an injury it seems."
+//...and Taichi retaliates violently, leaving him with the above (psychological) wound. And then Sakuraba pretty much relents and acts nicely, if pushily, around him. Very odd that the injury does seem to be caused by something a liiittle worse than the palm of his hand; like a large knife he *needs* to protect himself (see CCC4010). The comparison with Yutaka, here, is very interesting. How did Taichi genuinely expect Yutaka to die by just falling off the stairs? -GHS
+TP
+
+WVP 0 vfCCC4009mki046
+//美希「ああ、それでちょっと耳が……」
+Miki: "Ahhh, that's why his hearing got a bit..."
+TP
+
+//太一「あとで父親と一緒に謝罪しにきた。なにしろレイプ未遂だからな。まあこっちの責任は問われなかったよ」
+Taichi: "Later he came with his father and apologized. It was attempted rape after all. Well, my part in it was not questioned at least."
+TP
+
+//太一「もともと人の話を聞かないヤツだが、さらに磨きがかかったらしい」
+Taichi: "He'd been a guy who didn't listen to what people say from the start, and now he seems to have improved on that a bit."
+//"He can now hear less due to his hearing problem" + "his character has improved and seems to listen a bit more now". Say without saying. -GHS
+TP
+
+//太一「で、桜庭が病院に運ばれて……その場はそれですんだんだけど」
+Taichi: "Then, Sakuraba was carried to the hospital... and there, that was all this ended up as."
+//Including his problem. Did he find something in that hospital? Going by Kana: Little Sister I'd say he might. The thread that runs under Tanaka's writing is subtle but visible. -GHS
+TP
+
+//太一「進学したら、クライメイトにヤツがいた……」
+Taichi: "When I advanced to High School, there he was, all acclimated..."
+//Sounds sort of odd. -GHS
+TP
+
+WVP 0 vfCCC4009kri038
+//霧「追いかけてきた？」
+Kiri: "Was he chasing after you?"
+//The world's a stage -> Taichi on the stage (maybe Youko) -> Chosen by God goes and gets himself "fixed" by Taichi -> chases Taichi in order to help him with his mess. Well, he manages to clarify things for the readers, at least, but... -GHS
+TP
+
+//太一「たぶん……」
+Taichi: "Maybe..."
+TP
+
+WVP 0 vfCCC4009mki047
+//美希「で、二人はその後？」
+Miki: "And, what happened to you two afterwards?"
+TP
+
+//太一「何もない！　というか、ヤツも別に俺の全角アスタリスクをどうこうする気はないらしい」
+//※全角アスタリスク＝『＊』←コレ
+Taichi: "Nothing! That is to say, he didn't seem to be in the spirit to invade my full-width asterisk."
+> 
+ 
+* Full-width asterisk = 『＊』 ← this
+//Unfortunately it doesn't look that good with the font. Oh well. Sooo, when you think 'full-width asterisk' and 'curry bread', what comes to mind...? Also, if / is a flow and \ is a flow and they cross into an X, and there's a third flow, that becomes *. And so... -GHS
+TP
+
+
+WVP 0 vfCCC4009mki048
+//美希「プラトニック・ラ……」
+Miki: "Platonic lo..."
+//Vs. ICHARABU KAWAII DESU ONIICHAAAAAA[error] -GHS
+TP
+
+//太一「言うな」
+Taichi: "Don't you dare."
+TP
+
+//頭を抱える。
+I grab my head, at wits' end.
+TP
+
+//太一「正直、複雑以外のどんな感情もない」
+Taichi: "Honestly, I can't have any emotion for him except for mixed ones."
+//Which is Taichi's hypocrisy. Yutaka and Sakuraba are to be read as not having done much that's different. One he ends up still resenting, the other just being half-heartedly friendly to (at least in his intentions). -GHS
+TP
+
+WVP 0 vfCCC4009mki049
+//美希「それでイジメてるわけですね」
+Miki: "And that is the reason for all the bullying."
+TP
+
+//太一「……他にどんな反応をしろと」
+Taichi: "...what reaction should I have other than that."
+TP
+
+//太一「しかもあいつ、ほっとくと俺に異常に親切なんだ」
+Taichi: "Especially when that guy's abnormally kind to me if left alone."
+//See CCD0002. And Yutaka again, but also Youko. Sakuraba's got a clue as to what's going on, but he's still not out of the valley. -GHS
+TP
+
+//鳥肌が立ってきた。
+I got goosebumps.
+TP
+
+//太一「そんなのは一人でたくさん……というか、俺が求めてるのは普通の人間関係なんだー、と夕日に叫びたいお年頃なわけだ。はい、おしまい。おもしろかったか？」
+Taichi: "And then, on my own, there's so much I... well, better should I say, what I pursue are normal human relatiooons!, that's what I want to scream to the sunset at the time of my life I currently am at. There, all done. Was it interesting?"
+TP
+
+//二人はこくこくと頷いた。
+Bob bob steady nod in duo.
+//PCP CCB0002
+TP
+
+WVP 0 vfCCC4009mki050
+//美希「すっごく、おもしろかった、です」
+Miki: "Innncredibly... interesting... that was."
+TP
+
+//太一「……見里先輩も冬子もこの話には目の色変えてたな……女って……」
+Taichi: "...this story sent both Misato-senpai and Touko in a tizzy... females..."
+//Try 'fujoshi'. -GHS
+TP
+
+WVP 0 vfCCC4009mki051
+//美希「きゃーきゃー」
+Miki: "Squee, squee!"
+//PCP bbove
+TP
+
+WVP 0 vfCCC4009kri039
+//霧「きゃーきゃー」
+Kiri: "Squee, squee!"
+//PCP cbove
+TP
+
+//すでに二人はきゃーきゃー話し込んでいる。
+Too late, the two were already deep inside their squee of a conversation.
+TP
+
+//黄色い声。
+With shrill voices.
+TP
+
+//ため息しかつけない。
+I could do nothing but sigh.
+TP
+
+//結局、全員に話してしまった。
+And in the end, I told this to everyone in the club, dammit.
+TP
+
+//太一「……なあ美希、とか言ってるうちにそろそろみたいだぞ」
+Taichi: "...look, Miki, while talking about this and that we're just about to see what you wanted to see now."
+TP
+
+WVP 0 vfCCC4009mki052
+//美希「ぅぇ……あ」
+Miki: "Whe... ah!"
+TP
+
+//沈んだ日。その光だけが、空をよじのぼって。
+The sun had sank. Only its light, now, clambers up in the sky.
+TP
+
+//陽炎のように、空の下半分を染めていた。
+A shimmer like heat haze dyed the lower half of the sky.
+TP
+
+WVP 0 vfCCC4009mki053
+//美希「……………………」
+Miki: "............"
+TP
+
+//太一「へえ」
+Taichi: "Wooow."
+TP
+
+//すごいもんだな。
+This is amazing, isn't it.
+TP
+
+//人はいなくとも世界はまわっているわけだ。
+People are no more, but the world keeps on turning.
+TP
+
+WVP 0 vfCCC4009kri040
+//霧「……うっわぁ」
+Kiri: "...whoooa."
+TP
+
+//圧倒的だ。
+It's overwhelming.
+TP
+
+//言葉もなく、三人は光景に魅せられていた。
+The three of us are enchanted by a spectacle for which we don't even have words.
+TP
+
+//やがて。
+Before long,
+TP
+
+WVP 0 vfCCC4009mki054
+//美希「……あは」
+Miki: "...ahah."
+TP
+
+//頓狂な声は、笑っているかのようで―――
+A disarrayed voice, that is just like laughter---
+TP
+GL 0 evcc0044a
+$CGevcc0044a = 1
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 109 0
+
+WVP 0 vfCCC4009mki055
+//美希「あは、ははははははっ」
+Miki: "Ahah, hahahahahahah!"
+TP
+
+//泣いていた。
+She was crying.
+//Or laughing, except, the emotions... it's complicated, but it's similar to Taichi. Who dislikes sunset, while Miki... well, since the sunset's the loop, and is likely not happening right now (who knows what time it truly is!), this may be also a regret about what she's doing. At the very least, she's not sure what she should feel at this point. -GHS
+TP
+
+//俺たちの腕を、強く引き寄せる。
+Our arms are pulled closer.
+TP
+
+WVP 0 vfCCC4009mki056
+//美希「あはははぁ、ひくっ、アハッ……あはぁ……うっ、うっうっう……」
+Miki: "Ahahahah, hYkh, ha-AH! ...ahaaah... uUh, uhnnnn..."
+//Hmmm, see CCA0002 -GHS
+TP
+
+WVP 0 vfCCC4009kri041
+//霧「美希、どうしたの？」
+Kiri: "Miki, what is it?"
+TP
+
+WVP 0 vfCCC4009mki057
+//美希「きれいだ……ね……きれ……うわぁぁぁ……」
+Miki: "Beautiful... it's... beauti... WAAaaah..."
+TP
+
+//太一「……美希」
+Taichi: "...Miki."
+TP
+
+//俺たちは、美希が泣いている理由さえわからず。
+We had no understanding even the reason why Miki was crying,
+TP
+
+//ただ、困るだけで。
+we were just... concerned.
+TP
+
+WVP 0 vfCCC4009mki058
+//美希「きれいだよっ、きれ……ははっ、ひっく、は…………」
+Miki: "It's so beautiful, beaut... hahah, hYk, hah......"
+TP
+
+//涙声に見送られて、余光の残像は地平に消えていった。
+The afterimage of the afterglow vanished towards the horizon, a crying sob biding it farewell.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+WVP 0 vfCCC4009mki059
+//美希「うわあぁぁぁぁぁ―――」
+Miki: "BWAAAAAAH---"
+TP
+
+//しゃくり上げるばかりだった。
+All she did was convulse with sobs.
+TP
+
+WVS 1 1
+
+RET

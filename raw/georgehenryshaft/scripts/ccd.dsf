@@ -1,0 +1,278 @@
+
+
+
+
+
+
+
+:BK_CCD0001
+
+
+$loopD + 1
+IF $loopD == 1 JMP LD0001
+IF $loopD == 2 JMP LD0002
+JMP LD0003
+
+:LD0001
+CALL ccd0001
+JMP LD0003
+
+:LD0002
+CALL ccd0002
+JMP LD0003
+
+:LD0003
+CALL ccd0003
+CALL ccd0004
+
+:LD0005A
+CALL ccd0005a
+CALL ccd0005c
+CALL ccd0006
+JMP LD0007
+
+//:LD0005B
+//CALL ccd0005b
+//Inaccessible. It was once possible to reject Nanaka, except things don't really make sense afterwards. Maybe it was intended for Taichi to go back and still go with her? Or maybe that's why CCD0023 doesn't seem to make any damn sense. -GHS
+//JMP LD0007
+
+:LD0007
+CALL ccd0007
+IF $B == 1 JMP LD0008A
+IF $B == 2 JMP LD0008B
+IF $B == 3 JMP LD0008C
+IF $B == 4 JMP LD0008D
+IF $B == 5 JMP LD0008E
+
+:LD0008A
+CALL ccd0008a
+JMP LD0009
+
+:LD0008B
+CALL ccd0008b
+JMP LD0009
+
+:LD0008C
+CALL ccd0008c
+JMP LD0009
+
+:LD0008D
+CALL ccd0008d
+JMP LD0009
+
+:LD0008E
+CALL ccd0008e
+JMP LD0009
+
+:LD0009
+CALL ccd0009
+CALL ccd0010
+//CALL ccd0011
+//HACK It's just a RET command, demoted to inaccessible. -GHS
+CALL ccd0012
+CALL ccd0013
+IF $B == 1 JMP LD0014A
+IF $B == 2 JMP LD0014B
+IF $B == 3 JMP LD0014C
+
+:LD0014A
+CALL ccd0014a
+JMP LD0017
+
+:LD0014B
+CALL ccd0014b
+JMP LD0017
+
+:LD0014C
+CALL ccd0014c
+IF $B == 1 JMP LD0015A
+IF $B == 2 JMP LD0015B
+
+:LD0015A
+CALL ccd0015a
+JMP BK_CCD0001
+//Taichi, you tuna head. Still no calling for the loop video. -GHS
+
+
+
+:LD0015B
+CALL ccd0015b
+IF $B == 1 JMP LD0016A
+IF $B == 2 JMP LD0016B
+
+:LD0016A
+CALL ccd0016a
+JMP LD0017
+
+:LD0016B
+CALL ccd0016b
+JMP LD0017
+
+:LD0017
+CALL ccd0017
+CALL ccd0018
+CALL ccd0019
+IF $B == 1 JMP LD0020A
+IF $B == 2 JMP LD0020B
+IF $B == 3 JMP LD0020C
+
+:LD0020A
+CALL ccd0020a
+JMP LD0021
+
+:LD0020B
+CALL ccd0020b
+JMP LD0021
+
+:LD0020C
+CALL ccd0020c
+JMP LD0021
+
+:LD0021
+CALL ccd0021
+IF $B == 1 JMP LD0022A
+IF $B == 2 JMP LD0022B
+
+
+:LD0022A
+CALL ccd0022a
+JMP BK_CCD0001
+
+
+:LD0022B
+CALL ccd0022b
+JMP LD0023
+:LD0023
+CALL ccd0023
+
+JMP RD_SBACK
+
+
+
+
+
+
+:RD_SBACK
+
+IF $SB_MSA != 1 JMP LD0101
+IF $SB_TKO != 1 JMP LD0101
+IF $SB_KRI != 1 JMP LD0101
+IF $SB_MKI != 1 JMP LD0101
+IF $SB_SKU != 1 JMP LD0101
+JMP RD_YKO
+
+
+
+:LD0101
+CALL ccd0101
+IF $B == 1 JMP LD0102
+IF $B == 2 JMP RD_MKI
+
+:LD0102
+CALL ccd0102
+IF $B == 1 JMP RD_KRI
+IF $B == 2 JMP RD_TKO
+IF $B == 3 JMP RD_MSA
+IF $B == 4 JMP RD_SKU
+
+
+:RD_MSA
+CALL ccd1001
+CALL ccd1001B
+//Had to split the script as it was just too big and crashed the engine. -GHS
+
+$SB_MSA = 1
+JMP RD_SBACK
+
+
+:RD_TKO
+CALL ccd2001
+CALL ccd2002
+
+$SB_TKO = 1
+JMP RD_SBACK
+
+
+
+:RD_KRI
+CALL ccd3001
+IF $B == 1 JMP LD3002A
+IF $B == 2 JMP LD3002B
+
+:LD3002A
+CALL ccd3002a
+CALL ccd3099
+IF $B == 1 JMP RD_SBACK
+JMP BADEND
+
+
+
+:LD3002B
+CALL ccd3002b
+CALL ccd3003
+CALL ccd3003B
+//Had to split the script as it was just too big and crashed the engine. -GHS
+
+$SB_KRI = 1
+JMP RD_SBACK
+
+
+
+:RD_MKI
+CALL ccd4001
+IF $B == 2 JMP LD4002A
+IF $B == 1 JMP LD4002B
+
+:LD4002A
+CALL ccd4002a
+CALL ccd4099
+//I renamed the script to fit in with the Kiri route (and be less conspicuously a leftover of the ability to 'lose' routes you can't lose anymore). -GHS
+IF $B == 1 JMP RD_SBACK
+JMP BADEND
+
+
+:LD4002B
+CALL ccd4002b
+CALL ccd4003
+
+$SB_MKI = 1
+JMP RD_SBACK
+
+
+
+:RD_SKU
+CALL ccd6001
+
+$SB_SKU = 1
+JMP RD_SBACK
+
+
+
+:RD_YKO
+CALL ccd5001
+
+$SB_YKO = 1
+CALL ccx0001
+
+//CALL ccstaff
+CALL ndemo0003
+//HACK video instead of manual staff roll. -GHS
+CALL cce0001
+
+$END = 1
+CALL maketwin
+
+
+
+:BADEND
+TWS 7
+GL 0 zzzBadEnd
+//HACK If you're reading this, you are a cheat! Well, so am I, so: did you check CCB0007 yet? -GHS
+GS 0 1
+SEF 109 5
+WT 5000
+GS 0 0
+SEF 109 5
+
+$END = 1
+CALL maketwin

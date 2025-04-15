@@ -1,0 +1,1515 @@
+//That's one 178 lines saved! Nice. -GHS
+
+IF $loop == 0 JMP NORM
+
+WVP 3 SE001 0 0
+
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0009s
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+//HACK Flashback intro. -GHS
+JMP SCENE
+
+
+
+
+:NORM
+WVP 3 se001 0 0 1
+//This is the only flashback in W1 that uses the typical cicada sound. -GHS
+GL 0 bgcc0009
+GS 0 1
+SEF 152 0
+
+JMP SCENE
+
+:SCENE
+//太一「おー、すいとる」
+Taichi: "Ohhh, smell that!"
+TP
+
+
+
+//警備員の数が少ない。
+The number of guards is pretty low.
+TP
+
+
+
+//いつもは十人くらい立ってるのに、今日は二人だ。
+There are always around ten standing around, but today it's only two.
+//Which are going to be zero in case of off-hour. -GHS
+TP
+
+
+//暑くなってきて、みんな精神的にも参ってきてるせいか欠席が多い。
+It's gotten hot so, maybe because everybody's mentally cracking up, there's many not attending.
+//Should be more evident, on second reading, what exactly this means. Except, on further readings, this is even more suspect: this is a very good explanation for why there's no one around. More importantly, the guards themselves seem to be cracking up in the heat! -GHS
+TP
+
+
+
+//だから学食も、どことなく閑散としていた。
+Therefore, even the cafeteria was in many ways deserted.
+//Though it isn't totally empty. -GHS
+TP
+
+
+
+//おかげで競争率高めのメニューにも楽にありつける。
+Thanks to that, even menus with a high rate of competition can be comfortably obtained.
+TP
+
+
+
+//いや……とあるコネを使えば、簡単にありつけるのだが。
+Well... using a certain 'connection', they are always easily obtained.
+//So, would Yusa's mom have much issue being overbearing to Taichi even if her daughter isn't exactly on good terms with him anymore? From the way Yusa's grown up to be completely incapable of expecting kindness, little things like Taichi trying to push her down shouldn't be much of an obstacle. -GHS
+TP
+
+
+
+//けどアレは使ってはいけない。
+But 'that' is something not to be used.
+TP
+
+
+
+//禁断の奥義なのだ。
+It is forbidden esoterica.
+//This is how he'll describe the Parachute Death Sentence. -GHS
+TP
+
+
+
+//諸刃の剣だし。
+A double-edged sword.
+TP
+
+
+
+//あーでも、遊紗ちゃんかわいいからなぁ。
+Ahhh, but Yusa-chan's adorable ain't she.
+TP
+
+
+
+//Ｂ定食の食券を買い、カウンターに持っていく。
+I buy a B-meal ticket and bring it to the counter.
+TP
+//WVP 1 bgm006.ogg 0 0 0
+//HACK music starts later -GHS
+
+
+
+//The voice of Yusa's mom was recast for the 360 version, as there's new lines for her in the After Story. I think they're a bit better, but not enough to bring 'em over. At least they gave her a direction other than "here's a paycheck, the script and a phone number, call us whenever and leave the script recorded on the answering machinet, no hurry" like they did for console Sakuraba, all the way to the new retakes in the 360 edition. (If that's intentional, then I confess I don't get it.) -GHS
+
+WVP 0 vfcca0022mmn000
+//声「あらアンタ！　こんなトコで何してんのよ！」（９８ホーン）
+Voice: "My it's YEH! What're ya doin' 'round here?!"
+> 
+ 
+ 
+(98 phon)
+//Remembering that phon is a subjective unit of measuring: jackhammer on concrete. -GHS
+SEF 101 0
+TP
+
+IF $loop == 0 GL 5 zzzCCA0022phon098
+IF $loop != 0 GL 5 zzzCCB0019phon098
+GP 5 0 0
+GI 5 3
+WT 350 0
+GO 5 1
+//HACK phon GFX. I kept the line about phon above since it's not really clear with the graphics alone, but it was removed in the console versions. This is actually a cleaned-up screenshot, and it actually looks like complete crap. However, without the mask the actual GFX file looked even worse! It's not onscreen long enough to be noticeable except by the most eagle-eyed, I guess. -GHS
+
+
+//太一「どわあああっ！？」
+Taichi: "d'WAAAAH?!"
+TP
+
+
+
+//出た！
+She appeared!
+TP
+
+WVP 1 bgm006.ogg 0 0 0
+IF $loop == 0 GL 4 zzzCCA0022mamanNorm
+IF $loop != 0 GL 4 zzzCCB0019mamanNorm
+GP 4 0 0
+GI 4 1
+//HACK music + just run -GHS
+
+
+WVP 0 vfcca0022mmn001
+//声「ご挨拶ね、ぐふふ」
+Voice: "Whatta nice hello, guheheh!"
+TP
+
+
+
+//そう言って彼女は、ありふれたファンタジー物に出てくる洞窟奥で酒盛りに興じる異様に巨大な盗賊団のボス（時に入り口より巨躯なケースさえ散見される。ギャグか？）みたいなくぐもった声で笑った。
+The woman who said this then laughed with a muffled voice in that way typical of those somehow bizarrely giant bandit boss typically encountered merrymaking with alcoholics in the depths of some damp cave in your garden variety fantasy game.
+//Line split -GHS
+//Let's not kid ourselves, he's totally referring to Final Fantasy or Dragon Quest et similia. -GHS
+TP
+(By the way, there have even been reported cases where their body frame is physically larger than the cave entrance. That a joke?)
+//Unfortunately too long to change via font size, as the result is far too small. -GHS
+TP
+
+//恐かった。
+Frightening.
+TP
+
+//HACK added a couple of lines from the console version. -GHS
+//だが幸いなることに、俺はこの悪役レスラーばりの御仁と友好的関係にある。
+However, so luckily for me, I have an amicable relationship with this heel wrestler personage.
+//Wrestling keeps returning. -GHS
+TP
+
+//だが―――
+However---
+TP
+//End added lines. See CCB0018 on that last one. interesting. -GHS
+
+
+//太一「驚かさないでよ、おばちゃん。このひ弱な文士をさ」
+Taichi: "Don't surprise me, madam! I am but a frail man of letters!"
+//This is what Youko does. SOMEONE has a mommy problem in this VN. -GHS
+TP
+
+IF $loop == 0 GL 4 zzzCCA0022mamanSmile
+IF $loop != 0 GL 4 zzzCCB0019mamanSmile
+GP 4 0 0
+GI 4 0
+//HACK Yusa's mother smile -GHS
+
+WVP 0 vfcca0022mmn002
+//おばちゃん「アンタが文士ってタマかい。馬鹿も休み休み言いな！」（１１８ホーン）
+Madam: "Yeh, have the lettr's spirit? Even dumb asses think more about what they say!"
+> 
+ 
+(118 Phon)
+SEF 101 0
+//Borderline hearing damage possibility. Laterally "less of your nonsense!" but of course more literally is funnier. No separate doll, so no independent shake. Curiously, a 'tamakai' is a large coral reef fish. There's plenty of fish stuff because Kinoko NASUUUUUUUUUUUUU-GHS
+TP
+
+IF $loop == 0 GL 5 zzzCCA0022phon118
+IF $loop != 0 GL 5 zzzCCB0019phon118
+GP 5 0 0
+GI 5 3
+WT 350 0
+GO 5 1
+//HACK phon GFX. 
+
+//ドカン、と怒声が学食に響く。
+BOOM!, that's how those harsh words echo throughout the cafeteria.
+TP
+
+
+
+//強化ガラスがビリビリと震えた（ありえない）。
+Tremors rattled the tempered glass windows (improbable).
+TP
+
+
+
+//めっちゃ注目を浴びる俺。
+I am bathed in an excess of attention.
+TP
+
+
+
+//太一「……声が大きいよ、おばちゃん」
+Taichi: "...voice's loud, madam."
+TP
+
+IF $loop == 0 GL 4 zzzCCA0022mamanNorm
+IF $loop != 0 GL 4 zzzCCB0019mamanNorm
+GP 4 0 0
+GI 4 0
+//HACK Yusa's mother normal -GHS
+
+WVP 0 vfcca0022mmn003
+//おばちゃん「普通に話してるんだけどねぇ。ここの子たちヤワだから！」（９４ホーン）
+Madam: "But I've been talking normally ya know. Kids here're built weak!"
+> 
+ 
+(94 phon)
+//Near-jackhammer -GHS
+SEF 101 0
+TP
+
+IF $loop == 0 GL 5 zzzCCA0022phon094
+IF $loop != 0 GL 5 zzzCCB0019phon094
+GP 5 0 0
+GI 5 3
+WT 350 0
+GO 5 1
+//HACK phon GFX. -GHS
+
+WVP 0 vfcca0022mmn004
+//おばちゃん「あんたも手加減してやんなよ！」（１１５ホーン）
+Madam: "Ye too don't be holdin' back now ya hear!"
+> 
+ 
+ 
+(115 phon)
+//This is nearly on the levels of people dead-set on beating Pac-Man. -GHS
+SEF 101 0
+TP
+
+IF $loop == 0 GL 5 zzzCCA0022phon115
+IF $loop != 0 GL 5 zzzCCB0019phon115
+GP 5 0 0
+GI 5 3
+WT 350 0
+GO 5 1
+//HACK phon GFX. -GHS
+
+//太一「！？」
+Taichi: "?!"
+TP
+
+
+
+//危険を察知して、一歩下がる。
+Sensing peril, I take a step back.
+TP
+
+
+WVS 2 se104 1 0
+SEF 101 0
+
+//巨大な、異形と称していいてのひらが、ゴウッと眼前を横切った。
+The palm of an hand so gigantic one could correctly call it heteromorphic crossed right before my eyes with a 'whoff'.
+TP
+
+
+
+//太一（今の）（スキンシップ？）（直撃していたら……）（死！？）
+Taichi: (That now) (skinship?) (if that had been a direct hit...) (death?!)
+TP
+
+
+
+//ついつい筒井○隆の七瀬シリーズで使われたみたいな心理表現方法を用いてしまう。
+All fluky-fluky I made use of a Tsutsui Yasut*ka's Nanase Series-like Process of Intrapsychical Expression.
+//Can't source an official translation of what I assume to be Nanase's mind-reading power. Supposing the line above is also a reference. http://en.wikipedia.org/wiki/Yasutaka_Tsutsui "unconsciously" is also written Tsuitsui, so it's a really crap pun. Have an odd word that's still close enough in meaning instead. -GHS
+TP
+
+
+
+//なんつうか七瀬繋がりってあると思うし（ねぇよ）。
+For some reason I think there's a connection with Nana-se (seven - currents) (there ain't).
+//That's no lie, it's only a reference to the number seven. -GHS
+TP
+
+
+
+WVP 0 vfcca0022mmn005
+//おばちゃん「やっぱりはしっこいね、アンタは！　ぐふふ」
+Madam: "Yer really a quick one, ain'tcha! Guheheh!"
+TP
+
+
+
+WVP 0 vfcca0022mmn006
+//おばちゃん「メシかっくらいにきたんだろ？」
+Madam: "So ya came here for some grub or somethin', right?"
+TP
+
+
+
+//太一「は、はひ」
+Taichi: "Ye-, YESH."
+TP
+
+
+
+//ライオンに餌をやるような気持ちで、食券を差し出す。
+With the same feeling as of feeding a hungry lion, I hand over the meal ticket.
+//See CCB2002. This reminds very much of that Belly Bug scene. -GHS
+TP
+
+IF $loop == 0 GL 4 zzzCCA0022mamanSmile
+IF $loop != 0 GL 4 zzzCCB0019mamanSmile
+GP 4 0 0
+GI 4 0
+//HACK Yusa's mother smile -GHS
+
+WVP 0 vfcca0022mmn007
+//おばちゃん「遊紗が世話になってるから、サービスしてやるよ」
+Madam: "Yer always so nice to Yusa, so lemme give ya somethin' good on the house!"
+TP
+
+
+
+//太一「ははは、どぉも、ははは」
+Taichi: "HA-HA-HA, thanks, HA-HA-HA."
+TP
+
+
+
+//そう。
+Yes.
+TP
+
+
+
+//この方こそ、究極美少女・遊紗ちゃんの実母であらせられる。
+It is most assured that this milady here is the very birth mother of 『Ultimate Bishoujo * Yusa-chan』.
+//Very formal, except for 'bishoujo' of course. -GHS
+TP
+
+
+
+//つまり彼女も数十年後にはこうな―――
+Therefore, even that girl could, in a number of years, become---
+//See CCD0021. Seeing it yet? -GHS
+TP
+IF $loop == 0 GL 0 bgcc0009
+IF $loop != 0 GL 0 bgcc0009s
+
+IF $loop == 0 GL 4 zzzCCA0022mamanNorm
+IF $loop != 0 GL 4 zzzCCB0019mamanNorm
+GS 0 1
+GS 4 1
+SEF 10 0
+//HACK since this actually dissolves into the graphics, and there's a change right there. -GHS
+
+
+
+WVP 0 vfcca0022mmn008
+//ママン「どうしたい？　ふらついて」
+Yusa's mom: "Wassit now? Ya twitchin'."
+TP
+
+
+
+//太一「ソーリー、めまいが」
+Taichi: "Sooo-rry, bit of vertigo."
+TP
+
+
+
+WVP 0 vfcca0022mmn009
+//ママン「そりゃいけないね。血肉が足りないんだよ」
+Yusa's mom: "Tha'ss no good is it! Ya don't have enough blood in yer meat!"
+TP
+
+
+
+//母上様は決めつけた。
+So decided our Most Esteemed Mother.
+//Like the -gata, little point in retaining this as it's neither common nor used outside this scene. -GHS
+TP
+
+
+
+WVP 0 vfcca0022mmn010
+//ママン「はいよ、Ｓ定食」
+Yusa's mom: "Here'ya go, Meal Set S!"
+TP
+
+
+
+//太一「Ｓなんてあったんですか」
+Taichi: "Does S even exist?"
+//See Taichi's internal categorization. Interesting... -GHS
+TP
+
+
+IF $loop == 0 GL 4 zzzCCA0022mamanSmile
+IF $loop != 0 GL 4 zzzCCB0019mamanSmile
+GP 4 0 0
+GI 4 0
+//HACK Yusa's mother smile -GHS
+
+WVP 0 vfcca0022mmn011
+//ママン「アンタのために作ったのさ！」（１１８ホーン）
+Yusa's mom: "Ah' made it jus' for YEH!"
+> 
+ 
+ 
+(118 phon)
+//Back to good odds of hearing damage. -GHS
+SEF 101 0
+TP
+
+IF $loop == 0 GL 5 zzzCCA0022phon118
+IF $loop != 0 GL 5 zzzCCB0019phon118
+GP 5 0 0
+GI 5 3
+WT 350 0
+GO 5 1
+//HACK phon GFX. 
+
+
+//学食中に響き渡る、でかい声で言われた。
+So she said in a voice so gargantuan it resonated throughout the cafeteria.
+TP
+
+
+
+WVP 2 SE028 1 0
+
+//ヒソヒソ……
+Psst, psst...
+TP
+
+
+
+//ヒソヒソされる。
+I'm being psst-psst'd about.
+//And since everyone here knows Yusa's her daughter... -GHS
+TP
+WVS 2 0
+
+
+//太一「……ありがたいのですが母上様……」
+Taichi: "...this one is thankful, Most Esteemed Mother..."
+TP
+
+
+
+WVP 0 vfcca0022mmn012
+//ママン「あら母上様だなんて嬉しいねぇ！」
+Yusa's mom: "My, Most Esteemed Mother didja say, that makes me so happy!"
+TP
+
+
+
+//ご飯が倍に盛られた。
+The serving of rice doubled.
+//Specifically rice, the rest increases afterwards. -GHS
+TP
+
+IF $loop == 0 GL 4 zzzCCA0022mamanNorm
+IF $loop != 0 GL 4 zzzCCB0019mamanNorm
+GP 4 0 0
+GI 4 0
+//HACK Yusa's mother normal -GHS
+
+WVP 0 vfcca0022mmn013
+//ママン「ね、あんた、娘とはどうなのよ？」
+Yusa's Mom: "So, ye, how's it goin' with my daughter?"
+TP
+
+
+
+//太一「は、どうと申されますと？」
+Taichi: "Ah, what could one possibly answer to that?"
+//He goes hyperpolite 'round here. She's truly terrifying. -GHS
+TP
+
+
+
+WVP 0 vfcca0022mmn014
+//ママン「うまく手なずけたみたいじゃないか！」
+Yusa's Mom: "Aint'cha taming her with some skill now!"
+//The term's bad enough, but it's literally "hand" + "making emotionally attached". Sooo nasty. -GHS
+TP
+
+
+
+//太一「げふんげふん！」
+Taichi: "Cough, cough!"
+TP
+
+IF $loop == 0 GL 4 zzzCCA0022mamanSmile
+IF $loop != 0 GL 4 zzzCCB0019mamanSmile
+GP 4 0 0
+GI 4 0
+//HACK Yusa's mother smile -GHS
+
+WVP 0 vfcca0022mmn015
+//ママン「婿か。いいねぇ。ぐふふ」
+Yusa's Mom: "Son-'n-law, eh? Nice innit. Guehehehe!"
+TP
+
+
+
+//太一「ムコっ！？」
+Taichi: "In law?!?!"
+TP
+
+
+
+//マスヲっ！？
+The trout...?!
+//Trout hold, below. Or, "the increase", or... -GHS
+TP
+
+
+
+//太一「あいや、お待ち下され母上様！」
+Taichi: "Excuse me, but, do please wait, Most Esteemed Mother!"
+TP
+
+
+
+WVP 0 vfcca0022mmn016
+//ママン「大丈夫さ、心配はいらないよ！」
+Yusa's mom: "Ye'll do fine, ya don' need worry!"
+TP
+
+
+
+//トンカツが二枚になった。
+The slices of tonkatsu became two.
+TP
+
+
+
+//これは……賄賂！　Ｙ炉ですか？
+This is... bribery! An offer I can't refuse?!
+//Ｙ炉 'Y' + 'furnace'. It's pronounced wairo, like the actual word for bribery. Can't source the origin; maybe just a meme of sorts. -GHS
+TP
+
+
+
+WVP 2 se028 1 0
+//ヒソヒソ……
+Psst, psst...
+//CP above
+TP
+
+WVS 2 1
+//太一「あわわわわ」
+Taichi: "AhWahWahWahWah!"
+TP
+
+
+
+//噂されてる！
+I'm being rumor'd about!
+//I never knew rumor was a verb! You make up something every day. -GHS
+TP
+
+
+
+//俺、今すっごく噂されちゃってる！
+I am reeeally being rumor'd about right now!
+TP
+
+
+
+WVP 0 vfcca0022mmn017
+//ママン「アンタもいろいろあるんだろうから、難しいこと考えなくてもいいんだよ」
+Yusa's Mom: "Ye look like ya got a lots of stuff on yer mind, but don'tcha think about all th' hard stuff now!"
+TP
+
+
+
+WVP 0 vfcca0022mmn018
+//ママン「全部アタシに任しときな」
+Yusa's Mom: "Ya leave ever'thing to lil' me!"
+//atashi ew ew ew ew ew ew ew -GHS
+TP
+
+
+
+//具は薄いワカメしかないはずのみそ汁に、なぜかカニが丸ごとぶち込まれていた。
+In that Wakame that one'd expect to always be thin on ingredients, somehow, a crab got tossed in whole.
+//Must be that dreaded Myso Syrup, which is like miso soup but evil. Where'd she get a craKinoko NASUUUUU-GHS
+TP
+
+
+
+
+WVP 2 se028 2 0
+//ヒソヒソヒソヒソ……
+Psst, psst, psst, psst...
+//PCP above
+//That's 8 psst (excluding the ones he himself used as verb). -GHS
+TP
+
+
+
+WVP 0 vfcca0022gka000
+//声「……収賄……」
+Voice: "...taking bribes..."
+TP
+
+
+
+WVP 0 vfcca0022gkb000
+//声「天下りで……」
+Voice: "Crony capitalism..."
+//Literally "retired government officials taking lucrative jobs in the private sector", although there's something about golden parachuting it's obviously got nothing to do with this particular instance. Or, because SYMBOLISM!!!, "descent from heaven". -GHS
+TP
+
+
+
+
+WVP 0 vfcca0022gkc000
+//声「……インサイダー取引が」
+Voice: "...insider trading."
+TP
+
+
+
+
+WVP 0 vfcca0022gka001
+//声「何か非合法の……」
+Voice: "Something unlawful going on..."
+TP
+
+
+
+
+WVP 0 vfcca0022gkb001
+//声「……参拝問題の当事者……」
+Voice: "...parties related to the issue of formal visits to the shrine of..."
+//Probably just a tone-change joke. The sentences flow into each other to an extent, but not in a way that appears obvious. -GHS
+TP
+
+
+
+
+
+//太一「うぐぅ！」
+Taichi: "Uguu!"
+//It's that specific "noise" from Kanon. Except it's a couple years off from this scene... suppose it's close enough in a certain sense. -GHS
+TP
+
+
+
+
+//まずい。
+This is bad.
+TP
+
+
+
+
+//黒須太一の沽券に関わる問題。
+This is a problem that affects Kurosu Taichi's very own good name.
+TP
+
+
+
+
+//トンカツは四枚になっていた。
+The slices of tonkatsu became four.
+//PCP above
+TP
+
+
+
+
+//太一「多すぎっス！」
+Taichi: "It is way too much!"
+TP
+
+
+IF $loop == 0 GL 4 zzzCCA0022mamanNorm
+IF $loop != 0 GL 4 zzzCCB0019mamanNorm
+GP 4 0 0
+GI 4 0
+//HACK Yusa's mother normal -GHS
+
+WVP 0 vfcca0022mmn019
+//ママン「ん？　なんだい、これくらい食べられるだろうよ、男の子なんだから！」
+Yusa's mom: "Hm? Whassat, inn'this 'bout how much ya eat, yer a man after all!"
+TP
+
+
+
+WVS 2 se105 1 0
+SEF 101 0
+
+//沖縄のサンゴを貪り食うオニヒトデみたいな手で、ばちーんと肩を叩いてきた。
+A hand so like a crown-of-thorns starfish greedily devouring coral somewhere in Okinawa struck my shoulder with a loud smack.
+TP
+
+
+
+
+//自重の倍ほどの重みが、俺を床に押しつけた。
+The weight of about two unloaded freight trucks pushed me down to the floor.
+//It's about the doubling of his own weight, but the term's also used for empty vehicles (when it's not about self-care and prudence?) and this is both funnier and technically not (too) incorrect. See CCD0021 yet again. So not funny in retrospect. -GHS
+TP
+
+
+
+
+//太一「ぐわああああ！」
+Taichi: "G'waaah!!!"
+TP
+
+
+
+
+//膝をつく。
+I go to my knees.
+TP
+
+IF $loop == 0 GL 4 zzzCCA0022mamanSmile
+IF $loop != 0 GL 4 zzzCCB0019mamanSmile
+GP 4 0 0
+GI 4 0
+//HACK Yusa's mother smile -GHS
+
+
+WVP 0 vfcca0022mmn020
+//ママン「あら失敬！　ゲハハ！　やっぱり食べなきゃ。そんでもっと太らなきゃ！」
+Yusa's mom: "My, bit rude that was! AHAHAHA! Ye really need some eatin'! So ye'll get a little weight on!"
+//Assuming she means her behavior. Noticeably different laugh. -GHS
+TP
+
+
+
+
+//太一「ううう」
+Taichi: "Nggh..."
+TP
+
+
+
+//遊紗ちゃん……はやく家を出ないと、太らされてしまうよ。
+Yusa-chan... if you don't hurry and leave home, all fat you'll be made to become.
+//IOW, she's pretty much certain to be overfed. So when she's pushed, what's gonna come out of her is what's been put there by his own mother... -GHS
+TP
+
+GO 4 1
+WVS 1 1
+//HACK fade music, out with Yusa's mom (whew) -GHS
+
+
+
+
+//常人の五倍以上の食料を抱えながら、適当な場所に座る。
+With enough food for five ordinary men or more, I sit in a suitable spot.
+TP
+
+IF $loop == 0 GL 1 TCST0000
+IF $loop != 0 GL 1 TCST0000S
+GP 1 190 0
+GI 1 1
+
+WVP 0 vmcca0022yki000
+//友貴「相変わらず、強力なコネクションだなぁ」
+Tomoki: "As always, ya got some strong connections there."
+TP
+WVP 1 bgm002.ogg 0 0 0
+//HACK in music -GHS
+//GL 0 bgcc1009
+IF $loop == 0 GL 0 zzzCCA0022cafezoom
+IF $loop != 0 GL 0 zzzCCB0019cafezoomFB
+//HACK zoom this BG/CG -GHS
+GS 1 0
+GS 0 1
+SEF 109 0
+
+
+
+//Ｃランチのトレイを抱えた友貴が、隣に座る。
+C meal tray in hand, Tomoki sits next to me.
+TP
+
+
+
+
+//太一「友貴先生か」
+Taichi: "Ah, Tomoki-sensei."
+TP
+
+
+
+
+WVP 0 vmcca0022yki001
+//友貴「あやかりたいもんだ」
+Tomoki: "You sharing some of that fortune?"
+TP
+
+
+
+
+//太一「あやかってくれ」
+Taichi: "Share my fortune I do."
+TP
+
+
+
+
+WVP 0 vmcca0022yki002
+//友貴「いいの？」
+Tomoki: "You sure?"
+TP
+
+
+
+
+//太一「こんなに食えない」
+Tomoki: "I can't eat all this."
+TP
+
+
+
+
+WVP 0 vmcca0022yki003
+//友貴「じゃ遠慮なく」
+Tomoki: "Then, with your permission..."
+//See CCC0011A. Odd contradiction, isn't it? But this could just be Tomoki forgetting this part, as convenient for him. -GHS
+TP
+
+
+
+
+//トンカツを持っていった。
+He grabbed some tonkatsu.
+TP
+
+
+
+
+WVP 0 vmcca0022yki004
+//友貴「さっきまで桜庭とパン食ってたんだけど、足りなくてさ」
+Tomoki: "I was eating bread with Sakuraba 'til like now, but that's not enough."
+//This could mean he was eating bread earlier in the day, which fits the idea that the cafeteria is less than strict on that stuff. That's why Sakuraba's first hour is Curry Bread. -GHS
+TP
+
+
+
+
+//太一「元運動部だもんな」
+Taichi: "Because you're ex-sports club."
+TP
+
+
+
+
+WVP 0 vmcca0022yki005
+//友貴「筋トレとかもうやってないんだけどなぁ」
+Taichi: "But I'm not doing physical training or anything anymore."
+TP
+
+
+
+
+//太一「筋肉はあるだけで脂肪を消費してくんだよ。だから筋肉つけてるヤツは燃費が悪いんだ」
+Taichi: "If all you got is muscles, all they do is eat out fat. That's why muscleheads have poor fuel efficiency."
+//This isn't much followed upon, but it's still the Driving allegory. -GHS
+TP
+
+
+
+
+WVP 0 vmcca0022yki006
+//友貴「へえ。じゃ筋肉ない方がいいわけ？」
+Tomoki: "Ehhh? So having no muscles is better?"
+TP
+
+
+
+
+//太一「んなバカな。余分な脂肪がつかない体質になるから、適度に筋トレはしといた方がいい」
+Taichi: "Yammoron. If you got yourself a constitution that doesn't grab excess weight, it's better to only do muscle training with moderation."
+//Wouldn't want to end up with his cut tendons on manual drive? Seriously, this is kinda random. -GHS
+TP
+
+
+
+
+WVP 0 vmcca0022yki007
+//友貴「なるほど」
+Tomoki: "I get it."
+TP
+
+
+
+
+//太一「桜庭はまたカレーパン？」
+Taichi: "Sakuraba's got curry bread again?"
+TP
+
+
+
+
+WVP 0 vmcca0022yki008
+//友貴「七個くらい食ってた」
+Tomoki: "Scarfed down about seven of 'em."
+//7=7 -GHS
+TP
+
+
+
+
+//太一「うげ」
+Taichi: "Eugh."
+TP
+
+
+
+
+WVP 0 vmcca0022yki009
+//友貴「ここの学食業者のがマイフェイバリッド・カレーパンだとか言ってさ」
+Tomoki: "The curry bread that the contractor of this cafeteria makes is Mai Favorite Curry Bread, he says."
+//I wonder if Tanaka just transliterates stuff himself, as he keeps using odd uncommon spellings. More common is フェイバリット -GHS
+TP
+
+
+
+
+//太一「アホ舌だ」
+Taichi: "Dumb tongue, his."
+TP
+
+
+
+
+WVP 0 vmcca0022yki010
+//友貴「アホ舌だな」
+Taichi: "Dumb tongue, yeah."
+TP
+
+
+
+
+//食う。
+We eat.
+TP
+
+
+
+
+//太一「くそっ、食っても食っても減らん！」
+Taichi: "Dammit, I eat and I eat but it don't decrease!"
+TP
+
+
+
+
+WVP 0 vmcca0022yki011
+//友貴「……もらっとこうか？」
+Tomoki: "...need some help?"
+TP
+
+
+
+
+//太一「もらってくれ」
+Taichi: "Help I need."
+TP
+
+
+
+
+WVP 0 vmcca0022yki012
+//友貴「おい、みそ汁にカニが入ってる！」
+Tomoki: "Hey, they put a crab in the miso soup!"
+TP
+
+
+
+
+//太一「……入ってるんだ」
+Taichi: "...so they did."
+TP
+
+
+
+
+WVP 0 vmcca0022yki013
+//友貴「どういうコネだよ……」
+Tomoki: "What connection's even that, man..."
+TP
+
+
+
+
+//太一「世界最強のサブミッション、マスヲホールド（婿固め）だ」
+Taichi: "It is the World's Strongest Submission, The Trout Hold (son-in-law clampdown)."
+//Best I can do is this: http://en.wikipedia.org/wiki/Sazae-san it's long running, likely to be widely understood in Japan, written by a person with Machiko in the name (see below for more Machiko), a character named マスオ Masuo appears, his name is explicitly trout-inspired, and is a son-in-law.
+//Now, the manga's gone on for like 30 years, the anime has well over 6000 (!!!!!!!!!!!!) half-hour episodes, most of which are unavailable anywhere due to the author's wishes, and though there's at least one certain and another possible reference to same, see CCC0039 and CCD2002, this might be all completely unrelated.
+//The only alternative joke I got is a really bad fat joke ("hold the mass" with a pun for trout in there), or the "increase in mass" above, which is equally awful. Tanaka says in the Materials Book interview that in the PS2/PSP versions this would be expanded on, but I still got nothing.
+//Anyway, the term means 'son-in-law consolidation', but also has the implication of 'pledge', so she's securing him as son-in-law via corruption. As holding a trout's hard, according to such reliable sources as random googling, then adapted so it fits both. -GHS
+TP
+
+
+
+
+WVP 0 vmcca0022yki014
+//友貴「例のおばちゃんの娘ってやつ？」
+Tomoki: "You mean the daughter of that lunch lady?"
+//why are there ladies for lunch -GHS
+TP
+
+
+
+
+//太一「んだ」
+Taichi: "Yah."
+TP
+
+
+
+
+WVP 0 vmcca0022yki015
+//友貴「やっぱ、母親似なのかな」
+Tomoki: "Really, she's gonna look like her mother right."
+//= he doesn't know Yusa yet -GHS
+TP
+
+
+
+
+//太一「いや、すっげー可愛い眼鏡っ子。俺になついてんの。言うこと全部信じるし、たまらん」
+Taichi: "Nah, she's this reeeally cute meganekko. She got kinda attached to me. She believes my words to the last, it's unbearable."
+//Japanese is to fetish term what English is to tech stuff, never forget. -GHS
+TP
+
+
+
+
+WVP 0 vmcca0022yki016
+//友貴「なんだ、無問題だ」
+Tomoki: "Well then, no problem."
+TP
+
+
+
+
+//太一「いや……」
+Taichi: "Nah..."
+TP
+
+
+
+
+//太一「スイス銀行に口座を持っちゃうようなアグレッシブな固ゆでジョブに就くだろう俺は、カタギのクーニャンとニャンニャンしちゃうわけにはいかんのだ」
+Taichi: "I intend to ascend to an aggressive tough-simmered job the likes of which you need an account in a swiss bank, I can't afford to meow-meow with an honest frau."
+//That's "hard-boiled" written in kanji, which is as silly as the translation. http://vndb.org/v1 (kidding, but like 95~~~ 99.999% of the words in Japanese, nyan-nyan IS an euphemism for sex). I'm assuming he wants to be an extremely well-paid author of texts with more or less philosophical and/or pretentious overtones. Reminds me of someone, but I can't tanaka who. Original term is "[honest] kuunyan", which has nothing to do with nyan and only means "unmarried woman" (or "chinese girl"). Since there's lots of fraulein 'round here, that should work. -GHS
+TP
+
+
+
+
+WVP 0 vmcca0022yki017
+//友貴「寝言が聞こえる」
+Tomoki: "I heard gibberish."
+//You and me both. -GHS
+TP
+
+
+
+
+WVP 0 vmcca0022yki018
+//友貴「あ、太一さ、適応係数試験どうだった？」
+Tomoki: "Ah, say Taichi, how'd the Conformity Coefficient Test go?"
+//Since there's not much information on this, it's unclear if it's an annual thing or it's done just once or it's done on entering each school level. Given Kiri eventually leaves Gunjou, I suspect it's routine. -GHS
+TP
+
+
+
+
+//太一「どーもこーも」
+Taichi: "How the hell should I say."
+//Doomo koomo, should be どうもこうもならない doumo koumo naranai, meaning sorta It Can't Be Helped(tm), except... http://ja.wikipedia.org/wiki/%E3%81%A9%E3%81%86%E3%82%82%E3%81%93%E3%81%86%E3%82%82 some local legends says it's from this very monster (depicted on a scroll owned by a town containing the kanji 'eight', natch). Too awesome a coincidence not to be. Nothing similar, so there's some hell in there. -GHS
+TP
+
+
+//WVP 1 bgm002.ogg 0 0 0
+//HACK now unneeded -GHS
+
+
+//セルフサービスの麦茶をコップについでがぶがぶ飲む。
+I pour some self-service barley tea in a glass and gulp it down.
+TP
+
+
+
+
+//太一「激高。あかんです。担任もコイツやばすぎって感じで白い目してたし」
+Taichi: "Frenzily high. Most hopeless. Teacher in charge stared at me with dead eyes that just said, man this guy's way dangerous."
+//激高 the kanji are "super" and "high", but it means "frenzied". Second is formal. -GHS
+TP
+
+
+
+
+WVP 0 vmcca0022yki019
+//友貴「いくつよ？」
+Tomoki: "How much?"
+TP
+
+
+
+
+//太一「……８４％」
+Taichi: "...84%"
+//100-84=16 1+6=7 -GHS
+TP
+
+
+
+
+WVP 0 vmcca0022yki020
+//友貴「うわ、それ偏差値だったらなぁ」
+Tomoki: "Uhwah, if only those were your grades!"
+//http://en.wikipedia.org/wiki/Academic_grading_in_Japan see also CCD1001 -GHS
+TP
+
+
+
+
+//太一「そーなのよ。まっずいよなぁ。俺、やばいことになっちゃうかも」
+Taichi: "Indeeed, yeah. Sooo bad innit. Me, I might be turnin' into something real nasty I might."
+TP
+
+
+
+
+WVP 0 vmcca0022yki021
+//友貴「研究棟で解剖されるかもね」
+Tomoki: "They might even dissect you at the research building."
+//Class X might be that, so leaving specific. -GHS
+TP
+
+
+
+
+//太一「お慈悲」
+Taichi: "Have mercy!"
+//PCP CCA0012
+TP
+
+
+
+
+//すがりつく。
+I cling to him.
+//Seems sort of half-comically so? Most instances of this are. -GHS
+TP
+
+
+
+
+WVP 0 vmcca0022yki022
+//友貴「無理だ……１７％の俺とは住む世界が違う」
+Tomoki: "It's absurd... the world you live in is different from mine and my 17%."
+//What a suspiciously specific choice of words! 1+7=8. -GHS
+TP
+
+
+
+
+//太一「ってオイ！　どうしてそんな常人と同じ数値やねん！」
+Taichi: "PfWHAT?! How come you have the same score as a normal person?!"
+TP
+
+
+
+
+WVP 0 vmcca0022yki023
+//友貴「……だって、俺外障だし」
+Tomoki: "...told ya, I'm External Damage."
+//Gunjou lingo, though it's rarely recurring. -GHS
+TP
+
+
+
+
+//太一「あ、そうか……」
+Taichi: "Ah, right..."
+TP
+
+
+
+
+//太一「あまりにもバカなんで対等と思ってた」
+Taichi: "I thought that you being an incredible dolt would make us about equal."
+TP
+
+
+
+
+WVP 0 vmcca0022yki024
+//友貴「おまえが言うな」
+Tomoki: "Yer one to talk!"
+TP
+
+
+
+
+//太一「あー、ラバ（桜庭の蔑称）も低いんだろうな」
+Taichi: "Ah, Sack (disparaging nickname for Sakuraba) should also be pretty low scoring."
+//Adapted. Original was Raba, meaning mule now it's... oh fuck... sackuraba... what have I done -GHS
+TP
+
+
+
+
+WVP 0 vmcca0022yki025
+//友貴「あいつ１５だったかな」
+Tomoki: "That guy was about 15 I think."
+//Hoh, this one doesn't seem to fit. Though given Sakuraba, that'd be normal. But add all three... 116=1+1+6=8. -GHS
+TP
+
+
+
+
+//太一「あいつ、心障だろ？　どうしてその数値で群青なんだろ？」
+Taichi: "Isn't that guy Internal Damage? Why'd he even end up in Gunjou with that score?"
+//Sakuraba entered Gunjou in high school, so this is more hints that they're first years. -GHS
+TP
+
+
+
+
+WVP 0 vmcca0022yki026
+//友貴「いや、あいつ願書に群青って書いたらしいよ」
+Tomoki: "Well, seems he wrote Gunjou on his school application form."
+TP
+
+
+
+
+//俺たちは顔を見合わせた。
+//Our two faces met and a glance was exchanged.
+//
+//二人「はあああっ！？」
+//Both: "BWHAAAAAA?!"
+//
+//HACK these lines were removed. They are nonsensical, in fact, given at least Tomoki shouldn't be shocked about this. Might have something to do with how they're unvoiced, though, see CCA0030 for another odd one. -GHS
+
+
+
+//太一「……わけわかんね」
+Taichi: "...don't get it."
+TP
+
+
+
+
+WVP 0 vmcca0022yki027
+//友貴「……同感」
+Tomoki: "...iii-dem."
+//Matches voice. -GHS
+TP
+
+
+
+
+//太一「国の調査って結構いい加減なんだよな」
+Taichi: "This countrywide testing's pretty damn half-assed."
+TP
+
+
+
+
+//太一「あ、そういやおまえ、とっととお姉さんと仲直りしれ」
+Taichi: "Ah, that reminds me, you, get back and patch things up with your onee-san right quick."
+TP
+
+
+
+
+//太一「やりにくくってしょうがない」
+Taichi: "It's gonna be hard but there's no other ways."
+TP
+
+
+
+
+WVP 0 vmcca0022yki028
+//友貴「それはお姉ち……姉貴が裏切るから……」
+Tomoki: "It's just that onee-ch--- aneki betrayed me..."
+TP
+
+
+
+
+//コイツ今『お姉ちゃん』とか言いかけなかったか？
+This guy was just about to say 'onee-chan' wasn't he?
+TP
+
+
+
+
+//……まあいい。
+...well, whatever.
+TP
+
+
+
+
+//太一「宮澄先輩が？」
+Taichi: "Miyasumi-senpai? Her?"
+TP
+
+
+
+
+//友貴とみみ先輩は姉弟である。
+Tomoki and Mimi-senpai are siblings,
+//Hmmm, but CCA0027 implies he doesn't have a nickname for her yet. Maybe things were just not kept quite straight. -GHS
+TP
+
+
+
+
+//苗字は違うが。
+but last name's different.
+TP
+
+
+
+
+WVP 0 vmcca0022yki029
+//友貴「放送部に入ったのだってさ、無理矢理なんだ。帰宅部しようと思ってたのに、あなたパソコン少年でしょだったら手伝ってとか言ってさ」
+Tomoki: "I joined the Broadcast Club, but you know, I was forced. I thought I'd join the Going Home Club, but she went all, 'you are a PC boy therefore you ought come to help', and all that."
+//Quote is Misato-ish. See CCA0029, then CCD1001B: Taichi'll be tossing Misato's words at him multiple times. -GHS
+TP
+
+
+
+
+WVP 0 vmcca0022yki030
+//友貴「パソコン少年だから手伝えという論法だ。どうか？」
+Tomoki: "I'm a PC boy so come help. What kind of logic is that?"
+TP
+
+
+
+
+//太一「まいっちんぐ」
+Taichi: "Maicching."
+//And here's the cementing reference to http://en.wikipedia.org/wiki/Miss_Machiko - this is her catchphrase. It Googles(tm) therefore kept untranslated. -GHS
+TP
+
+
+
+
+//太一「いいじゃん。どうせ帰宅部みたいなもんだ」
+Taichi: "Ain't it nice anyway. This is still sorta like a Going Home Club."
+TP
+
+
+
+
+WVP 0 vmcca0022yki031
+//友貴「まあな……どっちにしろバスケ部ないしなー、ここ」
+Tomoki: "Well, now... either way, they don't have a Basketball Club here."
+TP
+
+
+
+
+//太一「っつーか走れないんだろうに」
+Taichi: "Wait, you can't run wasn't it?"
+TP
+
+
+
+
+WVP 0 vmcca0022yki032
+//友貴「まー」
+Tomoki: "Well..."
+TP
+
+
+
+
+//太一「あきらめれ。うるさい上級生とかいないから、気楽なもんだ」
+Taichi: "Give it up. Life's carefree when you don't have upperclassmen annoying you."
+TP
+
+
+
+
+WVP 0 vmcca0022yki033
+//友貴「帰宅部になったら、好きなだけ漫画読めると思ったのになぁ」
+Tomoki: "I thought if I was in the Going Home Club, I could read aaall the manga I like."
+//Hey, like Taichi at the end! -GHS
+TP
+
+
+
+
+WVP 0 vmcca0022yki034
+//友貴「なんでいまさら姉貴と仲良く部活動しなきゃなんないのよ」
+Tomoki: "Why do I even have to go and get all along with Aneki and have happy club activities after all that!"
+//Supposing he means their parents' divorce due to Misato. -GHS
+TP
+
+
+
+
+//太一「……シスコンがそらぞらしい」
+Taichi: "...our siscon's a hypocrite."
+//See his behavior in CCA0007. -GHS
+TP
+
+
+
+
+WVP 0 vmcca0022yki035
+//友貴「何か言ったか？」
+Tomoki: "Did you say something now?"
+//PCP CCA0002, curiously.
+TP
+
+
+
+
+//太一「いーえー」
+Taichi: "Nooo-thiiing."
+TP
+
+WVS 1 1
+
+WVS 3 1
+
+IF $loop == 0 RET
+//below is just for flashback exit stuff. -GHS
+
+
+TWS 7
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+//それは一年前の思い出だった。
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+               These were memories
+                from one year ago.
+TP
+
+WT 500 0
+WT 500 1
+TWS 0
+RET

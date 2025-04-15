@@ -1,0 +1,1001 @@
+IF $KAISOU == 1 JMP SCENE001
+//HACK This is one of the most rewritten scripts in the VN, ~130 new lines!, and all but lays out one of the points of my theory: by giving in to Youko, Taichi is replicating the memory of the previous time he gave in to her, and replaying the memories of the Hasekura Massacre over the Club. Basically the only parts kept are the sex scene (it was really poorly removed) and the ending post-massacre. -GHS
+
+[Taichi]
+"Go well... for me?"
+[Taichi]
+"You say... you'd make things go well for me, right."
+
+[Youko]
+"Yes."
+
+[Taichi]
+"Hahahah, ain't that so awesome!"
+[Taichi]
+"Then, will you show me how you'll make things go well?"
+
+Malice pierced through my childhood friend.
+//HACK stop music, flashback intro, music "Deep Inside" -GHS
+
+[Youko]
+"It simply must go well."
+
+I nod.
+I had just succeeded in managing to stop my shaking.
+
+[Youko]
+"Well."
+
+[Taichi]
+"Yes."
+[Taichi]
+"Failure is impossible."
+
+[Youko]
+"For we'll be killed."
+
+[Taichi]
+"Yes."
+
+[Youko]
+"Before being killed, we must kill."
+//See below, but this isn't quite the line that's being played on. -GHS
+
+That day,
+the two of us armed ourselves.
+//Compare Miki and Kiri now. -GHS
+............
+We altered the hours of our sleep, and in one night we transformed the mansion,
+//Interesting way of putting it, isn't it. -GHS
+into a trap.
+We forecast and calculated the pattern for everybody's rooms, and the route thereof.
+We completed preparations in order to terminate communications.
+//Before death, all communications must stop. This is of course important, since if he is to replicate this fall accurately in his daily life, then all telecommunication must also be unusable. -GHS
+We cared for our bladed weapons, and we repeated our preparatory meetings.
+The Project was perfect.
+//And he uses that word with the murder of Taichi's de-facto adopted family. Tanaka has a twisted sense of humor. -GHS
+
+[Youko]
+"For the sake of Taichi."
+
+[Taichi]
+"For the sake of Youko-chan."
+//He was already far and distant from her all the way back to here. -GHS
+
+Our hands come together.
+A kiss ensues.
+The fight for our life is beginning.
+
+[Youko]
+"There's no need to worry."
+[Youko]
+"...I will remove it for you, all of it."
+//Finally, the meaning of those words revealed! And later she removes absolutely nothing. In fact, she completely vanishes from this flashback right here. This all but screams that her thing with Kiri was all posturing. She could no more kill Kiri than she could kill anyone. (Oddly, 7 new lines for her, and CCD0021, 8. Well, oddly is pushing it...) -GHS
+
+I am in charge of support.
+In practice, the countless number of laid traps ought to be compensating for my insufficient killing power.
+//But the traps are never used that's described below. If neither trap nor Youko kill anyone, then there's no need for either of the latter to exist. In fact, there's no need for him to have killed anyone either. -GHS
+Well then, let's fight for our life.
+............
+//Ohhh, even a new BG! Oddly enough there's a non-sepia variant with lights and a sepia variant with same lights. They're not used in the main scenario. -GHS
+She goes on ahead,
+I come afterwards.
+//Yet she kills no one, and later will stay paralyzed. Unless she's gone on ahead as in she's already dead. -GHS
+She is strong.
+Surely she will make this go well.
+But I, how will I go?
+Well then, a murderer...
+Can I do this, and skillfully?
+I was crying.
+I must wreck.
+I must wreck, or I won't be able to murder people!
+//HACK flashback exit whiteout to blackout -GHS
+............
+......
+...
+//HACK removing this. Since the scene is brutally removed (it fades from the flashback to the infirmary), and there's all the new stuff above, this doesn't make much sense now. -GHS
+Saturday September 12, 1998 -GHS
+Saturday.
+However, from the top in my head the sense for weekdays had almost vanished.
+//And finally tossing around that 'week' with Youko pays off. -GHS
+
+[Taichi]
+"Mor'."
+//That's how he greets Misato? His respect for her is gone. Not that it matters because I bid you welcome, gentlemen, to one of the most metaphor-ridden scripts in Cross Channel! And it's a sex scene! Awesome! -GHS
+
+[Misato]
+"My, welcome. Oh, Hasekura-san."
+//She's never greeted like that before either. Then again, sex scene = low priority. -GHS
+[Misato]
+"Long time no see."
+
+Senpai plunges a mop into a bucket, then comes to greet us.
+//See CCA0008. But which came first? -GHS
+
+[Youko]
+"..."
+
+[Taichi]
+"The greeting."
+
+[Youko]
+"...g'mo."
+//Heh. See CCC4001. No complaints for the same level of awful greeting? Then again, they're same years. -GHS
+
+[Misato]
+"What happened, you are here together."
+//Harmless term, but as it is all too often the case: http://ejje.weblio.jp/content/%E3%81%8A%E6%8F%83%E3%81%84 look at 'em odd specific meanings. -GHS
+
+Youko-chan had come with me and we both arrived on the rooftop.
+//Probably Taichi just dressed in drag and is masturbating visibly as Misato pretends not to notice. Literally, it should be read as an opposite of what happened to Taichi at the theater, back with Sakuraba. -GHS
+JMP N_SCENE001
+:SCENE001
+:N_SCENE001
+
+[Taichi]
+"We are just casually hanging around."
+[Taichi]
+"Is it possible for us to observe work?"
+
+[Misato]
+"But it is not interesting at all you know?"
+//"Also, my brother's dead body is still around" -GHS
+
+She smiles with a tired face.
+
+[Taichi]
+"Er, but I also would like to talk with Senpai."
+
+[Youko]
+"...nh..."
+
+[Misato]
+"Ahhh, a most warm welcome theeen!"
+
+[Youko]
+"...y ...nh......"
+
+Youko-chan's voice leaked out.
+//By now it she already know what's going on. -GHS
+
+[Taichi]
+"It has progressed looots has it."
+
+And while I make that sort of small talk, I make my fingers squirm and wriggle.
+
+[Taichi]
+"You managed to nearly finish this antenna here, ohhh yes."
+//He's now basically a complete asshole. -GHS
+
+Senpai, for an instant, lost her facial expression.
+//And Misato isn't an idiot, so she already knows what's going on. -GHS
+
+[Youko]
+"............!"
+[Youko]
+"...yh..."
+[Youko]
+"...ah..."
+
+Even Senpai quickly understood the weirdness of this situation.
+
+[Misato]
+"Eh? What is happening?"
+
+[Youko]
+"It's... nothing..."
+
+[Taichi]
+"So, the broadcast channel, how is it coming?"
+
+[Misato]
+"Eh, ahhh, riiight... bit by bit, gradually."
+//Because flight. -GHS
+
+I make two fingers crossed over each other, and twist.
+//SYMBOLISM!!! -GHS
+
+[Youko]
+"Nh... haah... nh...... yh..."
+
+With just the middle finger inserted inside until the depth, I rub the course roughness of the surface of her walls.
+//And on the subject of SYMBOLISM!!!, Taichi literally has his fingers inside Youko, maneuvering her like a sock puppet. It's so funny when you think how blunt this actually is. -GHS
+
+[Youko]
+"...stOp...... that there's... yyh...!!!"
+
+While I coil my fingertips around her labia, I touch one different narrowed spot.
+
+[Youko]
+"...nh... nnh!"
+
+A light flip on the clitoris via fingertip.
+
+[Youko]
+"---!"
+
+Squelching.
+
+[Youko]
+"HYh!"
+
+[Misato]
+"Hy?"
+//Epic voiceover fail... this scene prolly took longer to translate than it took to write tho. -GHS
+
+I weakened the stimulus.
+
+[Taichi]
+"Are we broadcast capable already?"
+//Also there's no coverup, so... -GHS
+
+[Misato]
+"Ah, if only I could connect all of the equipment then it would not be impossible... I am thinking of doing as the blueprint says for the time being."
+
+[Taichi]
+"Since there are no any other electromagnetic waves, would portable radio not be better?"
+//See CCX0001, Taichi will think about this again. -GHS
+
+[Misato]
+"If the ocean was all around us it would, but..."
+//How convenient that they're using something that wouldn't be very influenced by other EM waves. -GHS
+[Misato]
+"In the end, with the antenna at this height, and with its 20W of output power, it will be very strong!"
+//Not so much the height of the antenna, but the height of Gunjou below it as well. 20W sounds way low for this monstrosity the size of a small cellphone tower. Maybe Misato doesn't really know either, maybe it's further evidence something is very wrong here. -GHS
+
+[Youko]
+"What do you think, Youko-chan?"
+
+I ask the question as I stop only the motion, fingers still snugly penetrating.
+
+[Youko]
+"...th-, that is right I... thin... ngh..."
+
+[Misato]
+"Ahhh, having the endorsement of Hasekura-san is so heartening."
+
+Restart.
+
+[Youko]
+"HyaUh!"
+
+In an instant she is standing on the tip of her toes.
+
+[Misato]
+"?"
+
+[Taichi]
+"As far as this neighborhood, indeed there are no electromagnetic waves detected and that means---"
+
+I draw Senpai's attention in conversation,
+all my sensitivity directed to dear loving caresses.
+//And Misato notices in .3 seconds - nice. -GHS
+Laying my fingers in her intravaginal erogenous zones, I make them vibrate with pinpoint accuracy.
+
+[Youko]
+"Aaah... can't... can't... Taichi..."
+
+Prompt effect.
+The muscles of the inner thighs contracted tight,
+causing tiny tremors throughout the body.
+The nape shuddered and got goose bumps.
+I go drive her even more into a corner.
+I cease the attacks to the weak point for the moment, and stroke the whole vagina with the belly of the fingers.
+
+[Youko]
+"Nh... nh... yh... fWah... nh......"
+
+Moisture descends from the depths, gathering on my palm.
+While enveloping the meat whole, I folded upwards one finger into a talon shape.
+//The eagles return! -GHS
+
+[Youko]
+"N---!!! NgH---!!!"
+
+She came.
+
+[Youko]
+"F-, first time..."
+
+[Misato]
+"First?"
+
+[Taichi]
+"A habit of hers. It has no meaning so there is no need to worry about this."
+
+[Misato]
+"Huh..."
+
+Youko-chan is someone who almost never shows herself in public, therefore a somewhat weird speech and conduct will likely be forgiven.
+//They're both third years, although technically we've never been told they're in the same class. More evidence for the She Doesn't Exist pile. -GHS
+Because after all, she is an ultramarine of Gunjou and there is no mistaking that.
+Really, that Test is splendidly perfect in its accuracy,
+//Youko's CC result (heheheheh) is still undisclosed, like that of Kiri and several other minor characters. Oddly attracting attention to it should make things more suspicious and nothing else. -GHS
+in the sense that not one deviant will ever escape it---
+//Him having this opinion in this losing path is pretty much a condemnation of the test, not praise, especially giving that while Sakuraba can be said to be 'fine' in every way, Tomoki would also be - and he has problems not dissimilar to Taichi's, if far less serious in many a sense. The test is worthless. -GHS
+And then,
+I take out a machine from my rear pocket,
+an Ultra Vibrator powered by four AA size batteries.
+And I insert this silver-colored item into Youko-chan's vagina.
+As she's dripping wet, it goes in without resistance.
+
+[Youko]
+"...so... col... d..."
+//WTF it's been in his ass pocket so far! And hopefully it's now not in his own ass! -GHS
+
+[Misato]
+"You look very off, Hasekura-san, are you?"
+
+[Taichi]
+"Oh, she is always like this. Fidgeting here, moaning there."
+//I wrote moeaning. ;_; -GHS
+[Taichi]
+"Please do not mind it. Well... this is her Ultramarine after all."
+//OK, I resisted so far but since this is the last explicit reference then FOR THE EMPEROOOOOOOR -GHS
+
+[Misato]
+"Ahhh, I see."
+//Literally. -GHS
+
+Easily convinced.
+Then, Switch On.
+
+[Youko]
+"...!?!?"
+
+Her legs closed with a squeeze,
+making me think, "pay some attention!"
+
+[Youko]
+"uWaaah... nh... stron'..."
+
+The motor is at its weakest setting,
+and yet there's a fair amount of vibration.
+Taking her not gently upwards to pleasure, and instead kidnapping her and forcibly taking her to the climax.
+I then adjust via pressure to hit at her weak points.
+
+[Youko]
+"Nh... yh... y〜〜〜yh!"
+
+She appears very ill at ease.
+
+[Misato]
+"Ohhh what a problem here."
+
+[Taichi]
+"Welll, I am here too, so..."
+
+A friendly smile appeared on Senpai.
+The sound of the wind growing strong, proving fortunate as the sound of the motor vanishes into it.
+//Another nice moment to remind that 'wind' can also mean 'pretense'. -GHS
+It appears the presence of the vibrator remains completely undiscovered.
+Ah, it came out.
+I push it back up and in.
+
+[Youko]
+"...kYahFhuhh... yyh!"
+
+Wham, and she goes on tiptoes.
+I push in even more.
+
+[Youko]
+"...NNN---H?!"
+
+Tiptoes even more.
+Switch to maximum.
+
+[Youko]
+"...NNNH... nh... 〜〜〜〜〜〜〜〜yyyh!!!"
+
+She came, she came!
+And instantly too.
+She peaked as if she had been chased up to a high place,
+leaving her heels still lifted, unable to return to the ground.
+
+[Youko]
+"...hYh... se-, second, time...!!!!"
+
+She is under command to report the number of times she has come.
+//And she followed. This is all so odd. Why would she want to do this? Why would HE want to do this? This makes more sense laterally than literally. -GHS
+But really, this vibrator is amazing.
+Normal vibrators use two batteries, while this uses four.
+Putting it at top speed makes it emit a thunderous roar that resembles the deep rumbling of the earth.
+//...that seems a little exaggerated... -GHS
+And that is what is inserted deep in her vagina.
+
+[Misato]
+"Your face is so red... dear me, so much sweat."
+
+[Taichi]
+"It is a thing of always. In fact, it is evidence of her being in good health."
+
+[Misato]
+"So it is..."
+
+[Taichi]
+"There are no doctors anymore if someone were to fall in bad health. I want her to be in good health!"
+
+[Misato]
+"Just us, alone, left behind... it is so distressful."
+
+[Taichi]
+"It is, oh yes."
+
+Yes yes we nod in duo.
+
+[Youko]
+"...nnnh, nnnh, nnnnh, 〜〜!"
+[Youko]
+"Thi-, third time..."
+
+Came again.
+Interval's shortening.
+Off.
+
+[Youko]
+"...haaah, haaah."
+
+On.
+I switch to the mode that alternates around and around between strongest and weakest for five seconds each.
+//往復 -GHS
+
+[Youko]
+"...uh... uUh... hah... aH... uUhhh..."
+
+[Taichi]
+"We just gotta live on in times like these, we do."
+
+[Misato]
+"So we do, yes, what trouble it will be."
+
+[Youko]
+"ah.. yAh... NH... Taichiii..."
+
+A voice as if to cry.
+It's starting to come out again,
+so I push it inside.
+
+[Youko]
+"...aOh... nh..."
+
+I intentionally come very close to removing it fully, by its attached cord,
+
+[Youko]
+"---nnh?!"
+
+and again insert it in the furthest depths.
+
+[Youko]
+"uUuh... aAaaah..."
+
+She seems amazingly wet.
+The back of her skirt rustles as I flip it to look.
+From the buttocks to the inside of the thigh she had become a nasty mess.
+On the ground as well a countless number of drops had fallen, creating a small puddle.
+And right as I'm calling it that, she seemed to give light to even more.
+//C'mon, really, the literal term for birthing used laterally for this... -GHS
+Pushing inside.
+
+[Youko]
+"......hYyyh?!"
+
+Momentary shaky convulsions. A brief shriek.
+Senpai too, as if in syncopation, displays a reaction.
+She seemed to be a little, just a little, overwhelmed.
+//Taichi, dressed in girl's clothes, fondling his own dick while trying to distract Misato. That has to be, wow, top 5 weirdest things ever. And she just saw her brother dead and impaled on a wire. It's amazing she doesn't just break down and start screaming. -GHS
+
+[Misato]
+"Wh-, what has happened?"
+
+[Taichi]
+"Just hiccuping."
+
+[Youko]
+"That was... fourth, time..."
+[Youko]
+"...haah, uUgh... harsh... can't... no more, can't..."
+
+She felt this to the end.
+Caressing her buttocks, I can feel her muscles having twitching convulsing outside of their owner's consciousness.
+//No more master of her behavior... -GHS
+
+[Youko]
+"...fifth, timeEe... nh... !!!!!!!"
+
+Juice was spouting out.
+If one were to look below now, they would certainly think incontinence.
+//And Misato's seen. -GHS
+A slimy shine that goes from the inner thigh to the ground.
+
+[Youko]
+"...nh... don't... weaken, it...! aGh..."
+
+[Misato]
+"What is it... because you are looking all flustered there... uhm?"
+
+And somehow or another Senpai goes on to feel something's obscene.
+//PTA power? -GHS
+
+[Taichi]
+"It is just something to get accustomed to. It has no important meaning."
+//Oddly, that first sentence I'm often finding in the negative... -GHS
+
+[Misato]
+"Right you are... then there is no problem."
+
+[Youko]
+"...haAhnh, nh, ugh... hAhhAhh... nh... ...ah......"
+
+Trembling convulsions.
+
+[Youko]
+"Sixth time..."
+
+Filled with cummin' ain't she.
+//I totally want to eliminate that "min", but, uhm, uhm, I had a pun with "assuMINg" but I lost it :-( -GHS
+
+[Youko]
+"...uh... uggh... seventh ti... me... noWww!!!"
+//Hmmm. -GHS
+[Youko]
+"Nh, hah, haaah... auH---!"
+
+[Misato]
+"My, what sweat."
+[Misato]
+"Use this, please."
+
+A handkerchief.
+//See CCA0012. This would be veeery much more interesting if it was from Misato to Taichi, considering how many similarities there are between Misato and Yusa. And right between the seventh and eight time... -GHS
+
+[Youko]
+"Haaah, haaah, haaah, haaah..."
+
+Youko-chan does not move.
+She stiffens, still squeezing herself tightly.
+
+[Taichi]
+"C'mon, get that will ya!"
+
+[Youko]
+"Haaah, im-, impossible... if I move just a little I... now... haUh... nNAh?!"
+[Youko]
+"...eighth, timEh..."
+//Trying and failing for the hanky gets her eight. Hmmm. -GHS
+
+[Misato]
+"What meaning could this counting possible even have...?"
+
+[Taichi]
+"The truth is that she carries a heavy psychological disorder in her heart, and if she does not do stretches, her spirit becomes unstable."
+//Compare CCA0003. Remember that all hints imply that Taichi's illness is that he sometimes thinks with his dick. Oddly, "heavy" is transliterated in a different way from the usual vaguely-snakelike thing. -GHS
+
+[Misato]
+"...huh."
+
+[Touchi]
+"When you see her standing this way, she is in truth in the act of doing stretchy-stretches."
+//They're like strippity-strips, just I want some ice cream (using new technology ~ stop caring midway through the sentence and look for food) -GHS
+
+[Misato]
+"I see, the mystery has been fully solved!"
+
+Senpai took a sigh of relief.
+
+[Misato]
+"What is making her body go oddly fidgety is a stretch exercise, the counting is the number of reps, and her face is red as a consequence of the exercise, is that how it is?"
+
+[Taichi]
+"There goes our Senpai! That is practically correct!"
+//I actually like "as expected from", but there's no way I can get away with standard adaptations. -GHS
+
+[Misato]
+"Eheheh!"
+
+What is making her body go weirdly fidgety is how good her pussy feels,
+//PCP above. Pussy not censored by Censory (personification of censoring) because that's too dumb. -GHS
+the counting is the number of orgasms,
+and her face is red from the strength she is putting in her constriction to prevent the vibrator from coming out.
+...and therefore... well she's truly close, just no cigar.
+//Was there anyone who didn't get it and needed this...? by the way who personified censor[censored] -GHS
+
+[Misato]
+"I understand. Then I will not be paying any attention to Hasekura-san's conduct whatsoever. I will respect it."
+//See CCA0017A. She's truly forgiving her; she still truly knows what they are doing; and given that script, it may well be the same thing she's doing there she's doing here - i.e. there's only one person. -GHS
+
+[Taichi]
+"Aren't we glad, Youko-chan! Ain't this one here so good and understanding!"
+//See CCD0021. Someone understands Youko... of course, Misato's so understanding of Taichi, and... -GHS
+
+Rustling about as I give her a massage on the anus.
+
+[Youko]
+"...uUUgggh...... NO!, caaan't... wo-, won't stoooop... let... go......〜〜〜〜〜!!!
+//Assuming it's 許して -GHS
+[Youko]
+"Ninth time... uUgh, so-, soon again... tenth tiiime..."
+
+In Serialita mode.
+//...I know, but... http://zokugo-dict.com/42re/rencyan.htm -GHS
+
+[Misato]
+"I will be wiping that sweat for you then."
+
+[Youko]
+"...ah, can't... if you touch me now..."
+
+With her handkerchief, Senpai wiped the nape of her neck (an erogenous zone) without hesitation.
+//Seriously? THAT's her erogenous zone...? Of course! The part juuust below the head... of a penis. -GHS
+Simultaneously, I again pushed hard against the depth of her vagina the vibrator, still switched off.
+And then --- ignition.
+//Hi Touko. -GHS
+
+[Youko]
+"...KYAH! ...ah... ...e-, eleventh time... nOh, uh... UGGGH... 〜〜〜〜〜!!!"
+//No idea on why the number, exactly, if it has meaning at all (and they usually do). Hmmm, 1+2+3+4+5+6+7+8+9+10+11=66, just one six away from 666 then? Just reaching, unfortunately. More interestingly, she seems to be extraordinarily sexually frustrated, which I guess explains why she's the first to give up in her Sendback. -GHS
+
+Clasping herself hard, reaching the peak in succession while still standing.
+//掻き抱く. Last part's both literal and lateral. -GHS
+Simultaneously, awareness abandoned her physical body.
+$SNCCD0022a = 1
+IF $KAISOU == 0 JMP N_SCENE101
+:N_SCENE101
+
+[Misato]
+"Ah, Hasekura-san!"
+
+Falling senseless.
+//Wimp. -GHS
+I caught and stopped her,
+recovering the vibrator with stealth.
+
+[Taichi]
+"Ahhh, she cramped up... it happens often when she overdoes it with the stretching."
+
+[Misato]
+"Ahhh, those stretches there are pretty harsh, they are."
+
+[Taichi]
+"I will take her to the infirmary to rest. If you will excuse us."
+
+[Misato]
+"Yes, bye!"
+
+I left that place carrying her on my back.
+I lay Youko-chan on a bed in the infirmary.
+Perhaps because of how much her brain had been jolted by coming, she had completely lost consciousness.
+//HACK new lines here. These make waaay more sense than the weirdass stuff below. -GHS
+
+[Taichi]
+"..."
+
+Yet, however much I humiliate her in front of others... I still don't feel more serene.
+//See CCC4009. Just desserts, in a sense. -GHS
+Is it not something that makes one serene, then,
+understanding people, and all that.
+
+[Taichi]
+"Don't you remember."
+
+Not what happened then.
+Not the day of the holy battle, in the holy sanctuary---
+//Holy~holy -GHS
+............
+Just before leaving the school, I casually glanced at the rooftop,
+at the moment just before Mimi-senpai's downwards flight.
+//The one who flies in her flight has......... you know, if that wasn't exactly the joke of this sentence that'd be almost too cruel. -GHS
+
+[Taichi]
+"............"
+
+I saw the instant that my fluffy tender sweet Senpai was attracted by the hard ground and shattered.
+//Pulling Power? See CCX0001. With the above this makes perfect sense: he's remembered how he's killed everyone, and here he is, starting with a replay of Yutaka's death. -GHS
+All my emotions at once flew into an area outside of my control.
+............
+//HACK this effect tries to pixelate in and then out the red screen. But it's a single sheet of red and it just looks like crap, plus the text window flickers between the in and out. Now it's a simpler thing, closer to the console version. -GHS
+
+[Taichi]
+"Ngh..."
+//HACK music "Lose Control" (appropriate) -GHS
+
+Nausea.
+On the way, it felt like my gastric juices had returned to the world so many times.
+Just, that this scene the color of red is dazzingly beautiful.
+I don't think it's like this because of some law of physics.
+Having said that, a... mental thing it doesn't seem to be either.
+//Not mental, not physical, leaves supernatural and little else... -GHS
+The scene we have here is a 'something' that permeates through even my field of vision. That is the maelstrom in which I was.
+Naturally, I hate red.
+//See CCA0017A. He hates red. Red's evening. Evening's the time loop. Time loop doesn't really exist... -GHS
+Looking at it weighs my mind with an excessive burden.
+It is next to torture.
+The nausea is something derived from that burden, something I could call a defense mechanism to protect my... personality.
+With there is no noise, no interference interposed, the pure red completely erodes my consciousness.
+//See CCA0016A. This should be the explanation for all the Noise events. Therefore, the distortions he sees are these protections. Of course, since his memory is shot to pieces, moments of high stress seem to make him recall other moments of high stress, and the more moments of stress he has, the more becoming stressed would weigh him down. -GHS
+The revulsion serves the role of filter.
+//A revulsion to blood is indeed a protection mechanism: with a revulsion to blood, perhaps a weakness to it, the probability of becoming a murderer when snapping lower significantly since that demands seeing blood. Which would then make all that happens when he sees blood to be nothing but delusional self-demeaning panic attacks he (or perhaps, just the reader) can't tell from reality. -GHS
+All senses throughout the body grow dull. Or should I say, they're gone.
+I have a feeling like I'm sleepwalking, and I'm also aware of a dull languor as if laying sprawled.
+//Translation: he's laying in a bed in the infirmary, possibly having passed out after that mess above. -GHS
+My lecture begins.
+//HACK NVL mode, with the doll (and blending to darken it) -GHS
+1) Concerning Mimi-senpai.
+Did she become aware of that shameful sexual
+playact that I have inflicted on Youko-chan?
+The aforementioned query possesses
+absolutely no meaning.
+//HACK Flashback intro. You know we're in for something now. All lines within flashbacks are new. -GHS
+For the sake of secrecy,
+//Also "to be as a spy". -GHS
+this tiny body will become a weapon.
+So as not to be seen.
+So as to be capable of approach.
+//But was the murdering necessary, or is this all she ("she"?) does? -GHS
+She made this go well.
+Nothing could be better.
+Light, just like a ninja.
+//In a SINGLE WEEK. Sure! And yes, that's literally 'ninja'. -GHS
+And the knife in my hand---
+††††††††††††
+//x12 -GHS
+In the end, was I noticed or was I not?
+The aforementioned query possesses absolutely no meaning.
+//HACK to white, black and NVL mode, doll & darkening setup. -GHS
+2) Concerning Sakuraba.
+Sakuraba did not pose resistance.
+He may just not have understood what
+was happening, perhaps.
+//HACK Flashback intro. -GHS
+7x sentences -GHS
+††††††††††††
+Took it. A life.
+Took it, right in front of my eyes.
+//Sounds oddly passive, doesn't it? -GHS
+A man with a slit neck, still asleep.
+Blood spreading on the sheets.
+//Compare CCA0016 -GHS
+The open eyes look at us, blankly.
+//As far as I can tell, they are not together; he simply snapped. Does she just "stand still" as she follows him around? Didn't she go on ahead? And the traps? Plan makes zero sense! Becomes only slightly easier if Youko is him (or Youko is *also* him). -GHS
+He may just not have understood what was happening, perhaps.
+//HACK to white, black and NVL mode, doll & darkening setup. -GHS
+3) Concerning Kiri and Miki.
+The first thing I had to be careful about
+was that Kiri had armed herself.
+Also, because they are a duo, I considered
+how Miki could in the same way possess a weapon.
+In the proper order, Kiri would be first. First
+would be the one endowed with offensive abilities.
+However, Miki's threat level is an unknown
+variable, and therefore caution was required.
+The sequence was set with that as first step:
+to investigate the degree of battle capability
+that Miki possesses.
+//Annnd Settei. And possibly remembering that Miki calls the shots... or does she. -GHS
+The actual deed... went well.
+//HACK Flashback intro. -GHS
+8x sentences -GHS
+The two were always together.
+//Isn't this all almost ludicrously coincidental? -GHS
+They're brothers, therefore it should be natural.
+Harmoniously intimate.
+Ergo, Youko-chan said, the two should be 'removed' together:
+first the older brother, then the younger.
+No need to worry.
+††††††††††††
+The actual deed... went well.
+//HACK to white, black and NVL mode, doll & darkening setup. -GHS
+4) Concerning Touko.
+She had died.
+//HACK Flashback intro. -GHS
+8x sentences -GHS
+She was probably on her way to the toilet.
+//Hey, just like Kiri! -GHS
+That woman, herself, was an accomplice.
+The lover of men, the lover of violence.
+Same offense.
+//Very creepily worded. He does sound like he's equating her having sex with people there with her being a murderer. Then again, his being oversexed and his being a murderer seems to get equated fairly often enough. -GHS
+††††††††††††
+Recollections do not remain.
+When I come to notice---
+//Hello. -GHS
+She had died.
+//HACK to white, black and NVL mode, doll & darkening setup. -GHS
+5) Concerning Tomoki.
+He had died.
+The corpse had been moved and been
+concealed in the prefab.
+The water inside the mop's bucket on the
+rooftop was a dark red.
+//The odd thing: in CCC4025 Taichi couldn't take Tomoki off the antenna. Little brittle Misato is not so frail, of course; see CCC3004 (as reminded in Nanaca Crash, she has the strongest zubaaan attack), as well as to how she can carry all that equipment up to the roof. But this is almost ridiculously strong, not to mention calculating to a point well beyond OOC. -GHS
+And that's just that.
+//15x sentences. This part looks very ambiguous on subject, so leaving it as that. -GHS
+Worthless small fry.
+Can't do anything but have fun.
+Wild excitement is so beloved.
+//See CCC3015: Taichi prefers these times. -GHS
+Nonetheless, the hell's all that, I don't know.
+Got broken.
+Ended up sharpening.
+//See CCZRooftop, CCX0001 -GHS
+There's definitely been hurting!
+Cut all the people that were touched.
+The number, at least, was large.
+//Suspecting this is the missing people from the 14 dead. -GHS
+Run, try to get away.
+Not one shall be let escape.
+Remove them all!
+†††††††††††††††
+//x15, only one that's different. -GHS
+Lots of able-bodied had become bodies.
+//Lit. wakamono "young ones" become mono "things". Which unfortunately fits the No Massacre But Ignoring interpretation. -GHS
+And that's just that.
+//HACK to white, black and NVL mode, doll & darkening setup. -GHS
+6) Concerning Youko-chan.
+She did not pose resistance.
+//HACK Flashback intro. -GHS
+33x sentences -GHS
+One special person.
+There was a special need to 'remove' him.
+Threatened him, took him with me.
+And when I showed him what I had assembled, he was horrendously astonished.
+I called it the Tower of Family.
+//Hyper Ouch. See CCZAS. Though this may be compensating for the lack of that in the main scenario, as this still puts a Tower of Babel of sorts in the main story. It also makes this a bit more ambiguous: while Youko's responsibility for wrecking Taichi is complete, it's far more understandable she'd sit shellshocked as a guy she thought barely capable of resistance ran around the residence, slaughtered people with increasing ferocity, dragged their bodies in the main hall, built them into a tower, then brought in his bully to give him the sightseeing tour. -GHS
+My handiwork.
+
+[Compoments]
+your relatives.
+
+Can't just toss all the difficulties on Youko-chan.
+//Odd change of subject. This may be where he starts switching from murdering Yutaka to killing Youko. -GHS
+Gotta assist, yes. I too gotta move, yes.
+
+[We indicted]
+
+//See CCC3023, heh. Still unknown the 'we', leaving next line subjectless. -GHS
+
+proclaimed the charges and announced the penalty.
+His smile.
+Voice.
+crimson crimson crimson crimson
+crimson crimson crimson crimson
+ BLOOD  crimson crimson crimson---
+deadbody deadbody deadbody deadbody
+deadbody deadbody deadbody deadbody
+deadbody deadbody CADAVER  deadbody---
+//Tried messing with horizontal, but it just doesn't work, given the entire sequence won't fit on a single line and looks crap when split. Going for creepier. -GHS
+I remember this well.
+His laughter most extreme, sadistic as he was.
+//HACK NVL mode -GHS
+                       Well.
+                      Right?
+                   It's alright.
+                  Open your heart.
+                    Believe us.
+                  Open your heart.
+                    Believe her.
+                  Open your heart.
+           There will be help, that's why.
+               Slash the chest open,
+      run the blade parallel to the pectoral,
+            unravel the ribcage, gently,
+//Reminds of CCC0000, actually. -GHS
+                and your heart...
+                Can I open it?
+//This one above is odd. First, it can't refer to how Yutaka dies, as he doesn't die at all; this may be something that Taichi says, but it may be something that he says to himself as he goes to depend on Youko - that's why I left the "help" vague. The slashing of the heart may be metaphorical, or it may well be the description of how Youko dies. -GHS
+HACK and back -GHS
+††††††††††††
+He did not pose resistance.
+//HACK flashback exit whiteout to blackout. -GHS
+Yes, it still flashes. -GHS
+
+[Taichi]
+"Ah..."
+
+This had also happened before---
+............
+......
+...
+//Sunday September 13, 1998 (likely) -GHS
+HACK music "Sign of Fear" -GHS
+
+[Taichi]
+"Ah..."
+//Interesting, since the above should be a very different flashback. -GHS
+
+The sun was sinking, the day growing dark.
+I was there, together with my rationality.
+//"I had regained my senses" (but written higher). -GHS
+Haven't I just been playing dumb all along?
+//Oh dear, I'm not touching this one... -GHS
+I verify the situation I was put in.
+//Odd reflexive. -GHS
+First of all, what day of the week was it?
+That's obvious:
+when I left the gate it was twilight.
+//When he saw Misato's jump. -GHS
+One whole day had ended up passing.
+And throughout one day, I---
+Ahhh, what an amazing twilight.
+//If this is Sunday, then it's not evening; this is the time loop coming. -GHS
+I can see through the crisp clear atmosphere a pale shade with vermilion at its key component.
+I accidentally look down at myself, and my shirt was stained darkly.
+It's the blood of four people.
+//Four is consistent with the above still. -GHS
+
+[Taichi]
+"...nggh... ngh, ngggh..."
+
+Opening my mouth like a beast, and from the very bottom of my lungs,
+I wring out a voiceless scream.
+And the scarlet went spreading everywhere and anywhere---
+//HACK putting a bit of pause -GHS
+Music "Crystal Clear" -GHS
+Sunday, or so it seemed.
+I was on the rooftop, alone, standing still.
+Youko-chan posed almost no resistance.
+//And now put it all with the above. Did he kill Youko first? Did she just fall into a trap right off the bat? -GHS
+I stare, motionless, at my hands.
+Wet with brilliant red, both hands.
+
+[Taichi]
+"......"
+
+Spread out at my feet is not just Youko-chan,
+everyone was there.
+How did things end like this?
+Certainly there was the antenna that had been wrecked, how everyone had gathered, and that Tomoki was the culprit, and that Kiri had aimed that crossbow.
+//This is consistent with the end of Week 2. Is this the real ending, what really happened to everyone? It's a possible theory, but unlike those who'd divert on witches in order to keep the cat box shut on the answer, I say it's too inconsistent with all other thematic interpretations to be sufficient. It's much simpler to explain this as Taichi switching dreams from "I did it bwahahahah I'm a crazyass monster" to "well, it was tense, and then it snowballed". And it's very possible "dream" is literal: neither has actually happened. -GHS
+Youko-chan ****ed Kiri.
+//And there we have the first contradiction. Youko killed no one in the Hasekura Massacre; in fact, the "remove" in the Kiri vs. Youko scene, thanks to the added scene above, is now one big troll. Youko didn't kill anyone; she may be incapable of killing, period. Here she's first killer: not happening! -GHS
+She goes to lay hands on any and all that would try to stop.
+//Seems this is volitional, not that she killed anyone outside Kiri. Who'd be so nuts to go after Youko like this - except Miki, who goes below? -GHS
+Like a ****ing machine.
+//殺戮 slaughter, adapted to just killing machine because "slaughter machine" sounds off. -GHS
+Therefore there was nothing else I could do, I ****ed Youko-chan.
+//He doesn't order her down, tell her to stop, anything? Obviously OOC, compare CCC3012A. She'd never do that unless she was the last left, she's terrified he would "wimp" her to mental breakdown. This scenario is simply not plausible. Perhaps that's precisely why it exists here. -GHS
+And then I said, "It's all right!" to all the survivors... and someone, who was it... turned one of the discarded knives towards me.
+//From below it seems Miki. Understandably so, given Kiri died. -GHS
+It felt like I was being taken for a monster.
+I am not a monster.
+//See CCC3009. Yes, he thinks himself a monster. He doesn't actually like it, but he does. -GHS
+And that is why I unconsciously ****ed.
+//This is of course contradictory, but that's obviously intentional. The real tone of this scene seems to remain firmly humoristic. -GHS
+I ****ed everybody.
+I ****ed Miki before she ****ed me.
+Wrecked.
+Wrecked in many ways. This is serious.
+//Compare above now. He killed and then he was wrecked; this is the opposite of above. See below. -GHS
+But I feel like I have ****ed one person or two more after that.
+You're xxxxed, therefore you ****?
+//Funny fact: in the PS2 version, the words aren't censored (on the 360 they are). And the kanji being replaced isn't always the one for kill! Here, for example, the original sentence is 壊してから殺したんだっけ "you're wrecked, therefore you kill". This makes way more sense than messing about with "kill before you're killed", especially given the new stuff above. I'm changing the * to x, but "luckily" wreck and kill are both 4 letters. -GHS
+Was it the opposite?
+//The opposite was the Hasekura Massacre one. -GHS
+Which of the two was the bad one?
+//Yes? -GHS
+It is not in my memory.
+//My last... flower for you. -GHS
+What was I even doing yesterday?
+I can't recall anymore now.
+//MEMORY HUNTER!!! -GHS
+It was just trifles, yes, if compared to today.
+Ahhh, I went and xxxxed everybody.
+//This is also 'wrecked'. Since that can be metaphorical, it may just mean he hurt them with his behavior. No need for it to be literal murder. -GHS
+And where's the person that's going to ****me?
+//This is 'kill', however. -GHS
+There isn't one?
+//See CCD0021. Interesting. -GHS
+I lie down.
+What a marvelously beautiful sky there was.
+//Visuals -GHS
+What a squalid filthy sky there was.
+//Time loop... again? -GHS
+
+[Taichi]
+"Red---"
+
+Even from me as I was there were tears coming out.
+//HACK stop music -GHS
+............
+......
+...
+//HACK putting some waitin'. -GHS

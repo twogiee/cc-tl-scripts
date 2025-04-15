@@ -1,0 +1,665 @@
+
+//よし、原作に忠実に。
+Good, let's stay loyal to the source material.
+//This an anime adaptation now...? -GHS
+TP
+
+//確か……。
+It went...
+TP
+
+GL 5 zzzblackblend
+GP 5 0 0
+GI 5 1
+//HACK dim screen. -GHS
+
+//廊下を歩いていると、美希が掃除をしていた。
+I was walking down the corridor to find Miki cleaning.
+//CP CCA0012
+TP
+
+//俺の指先は電光石火で美希の尻を狙ったが、かすめただけで実体をとらえることはできなかった。
+//美希はとろくて今まで触り放題だったのに。
+//これはゆゆしき問題ですぞ、校長！
+The tips of my fingers fired towards Miki's ass with the speed of lightning, but merely grazed and couldn't seize the substance.
+TP
+But Miki had been slow up until now, enough that I could touch her as much I liked.
+//CP CCA0012
+TP
+This is a most alarming problem, Headmaster!
+//CP CCA0012
+TP
+
+//だが弟子が腕をあげたことは、素直に嬉しい。
+//師である俺が抜かれる日は近い。
+However, a pupil growing in skill is something to be honestly happy about.
+The day when she surpasses I, her mentor, grows near.
+//CP CCA0012
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+WVS 1 1
+
+//ふむ、電光石火で尻か。
+I see, speed of lightning to the ass then.
+TP
+
+//といっても日記ゆえ細部はわからないのだが。
+Though I have to say that the details of the circumstances in the diary aren't clear to me.
+TP
+
+//まあきっとHなイタズラを仕掛けてお色気ウッフン（昭和的表記）なのだろう。
+Well, I'm sure it's setting off a sex prank to give me some Sex Appeal Wohohoh (Showa Era expression).
+//HACK added line (flows better). That stuff in parenthesis was added in the 360 version because the meaning of that thing is uhmmm kinda unclear. No source for this one, but this seems to be all it means. -GHS
+TP
+
+//太一「てりゃー」
+Taichi: "Teh'ryaaa."
+TP
+
+//気の抜けた気合い。
+An dispirited fighting scream,
+TP
+
+//とともに手をのばす。
+together with hands reaching out.
+TP
+WVP 1 bgm010.ogg 0 0 0
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC0016amki000
+//美希「っ！？」
+Miki: "!?!"
+TP
+
+//美希の目がキラリと光る。
+Miki's eyes gleam with a flash of light.
+TP
+
+//がっし！
+Jumble!
+TP
+//四つ手を組んでしまった。
+Four hands ended up in entangle.
+TP
+
+WVP 0 vfCCC0016amki001
+//美希「殿、殿中でござる、殿中でござるぞ……」
+Miki: "He-, he is inside the castle, he is inside the castle...!"
+//This entire scene seems to be a style reference to period pieces, though not to a specific one that I can find. -GHS
+TP
+
+//キリギリギリと力が拮抗する。
+Grindy, scrapey, grindy is our close struggle for supremacy.
+//Kiri-giri-giri. See CCA0021. Hum, can't find a way to work 'fog' in without making it sound even sillier. *badum-tish* -GHS
+TP
+
+//太一「そちの尻をこの指先がかすめねばならんのだ、わかってくだされいっ」
+Taichi: "Thine ass our fingertips just have to brush, doth give me thine understanding on this!"
+//screw it *chug* -GHS
+TP
+
+WVP 0 vfCCC0016amki002
+//美希「わかりませぬ、そのような世迷い言、この美希にはとんとわかりませぬ～！」
+Miki: "I understand not nonsensical words of that sort, Miki here can understand them nooo～t!"
+//Random pseudo-olde speech. It's almost as good as engrish. Urge... to write... "understoodn't"... rising -GHS
+TP
+
+//太一「安心めされい。かすめるだけで、実体はとらえぬのじゃ」
+Taichi: "At peace be ye. 'Tis is but a brushing graze, the substance itself I shan't grasp!"
+//This seems to be a straightforwards Three Kingdoms reference. -GHS
+TP
+
+WVP 0 vfCCC0016amki003
+//美希「わけのわからぬことを……」
+Miki: "That is the most ununderstandable..."
+TP
+
+//ギリギリギリ
+Grind, struggle, grind, c'mon already...
+//Drop in all the meanings! -GHS
+TP
+
+//太一「これはゆゆしき問題ですぞ、校長！」
+Taichi: "This is a most alarming problem, Headmaster!"
+//PCP CCA0012
+TP
+
+//埒があかないので予定をはやめた。
+Things remain progressless, so I abandon the arrangement.
+TP
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC0016amki004
+//美希「……校長？？？」
+Miki: "...headmaster???"
+TP
+
+//太一「ＯＫわかった。やめよう」
+Taichi: "OK got it. I'm stopping."
+TP
+WVS 1 1
+//手をほどく。
+I unfasten my hands.
+TP
+
+WVP 1 bgm002.ogg 0 0 0
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0016amki005
+//美希「相変わらずのご乱心ぶりで」
+Miki: "As ever, the manners of someone deranged."
+TP
+
+//微妙に警戒している。
+She's on a very subtle guard.
+TP
+
+//隙のない娘に育ったものだ。
+She has grown to be a girl without vulnerabilities.
+TP
+
+//太一「腕をあげたな」
+Taichi: "Your skill's improved din'nit."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0016amki006
+//美希「いえいえ」
+Miki: "Well now, well now."
+TP
+
+//太一「昔は、ただ揉まれるばかりだったその尻、もはや容易く触れることのできないものになりつつあるようだ」
+Taichi: "Once upon a time that arse had only ever received massages, but it seems to be already in the process of becoming something that cannot be touched so easily."
+//Another literal-only use of 揉... except he IS also belaboring on her ass (NOTICE: random British in effect in this sentence). -GHS
+TP
+
+GL 1 TCYM0011
+GI 1 0
+//HACK chest out Miki -GHS
+
+WVP 0 vfCCC0016amki007
+//美希「いえいえいえ」
+Miki: "Well now, well now, well now."
+TP
+
+//太一「だが弟子が腕をあげたことは、素直に嬉しい。師である俺が抜かれる日は近い」
+Taichi: "However, a pupil growing in skill is something to be honestly happy about. The day when she surpasses I, her mentor, grows near."
+//PCP CCA0012 (slightly off, but...)
+TP
+
+//棒読み。
+Merely reading in monotone without interpreting its meaning.
+//[Joke about translations omitted]. This continues the World is a Stage metaphor. Merely replicating what went before won't work. -GHS
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC0016amki008
+//美希「さっきからどうも妙なことを口走っておられますな」
+Miki: "You've been blurting out odd things for a while now."
+TP
+
+//太一「気にしないで。予定調和大好きっ子なんで」
+Taichi: "Don't mind it. I'm just someone who loves harmonie preetablie from the roots."
+//Adapted same as CCA0007, see CCB2010 -GHS
+TP
+GL 1 TCYM0002
+//HACK sadder Miki instead -GHS
+GI 1 0
+WVP 0 vfCCC0016amki009
+//美希「……はー」
+Miki: "...sigh."
+TP
+
+//呆れていた。
+Appalled,
+TP
+
+GL 1 TCYM0003
+GI 1 0
+//HACK laughing Miki earlier -GHS
+
+//すぐにくすりと笑う。
+but soon a laugh slips out.
+//or laughing with a drug, which also means to reminisce. Ah, that's why drugs make you dream? -GHS
+TP
+
+WVP 0 vfCCC0016amki010
+//美希「ほんと、相変わらずで」
+Miki: "Seriously, like always."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0016amki011
+//美希「こぉんなことになってるのに」
+Miki: "Even when it turned out juuust like this."
+TP
+
+//太一「つうてもねぇ」
+Taichi: "So it seems, yeah."
+TP
+
+//太一「死体とかないし、文字通り消失してるわけで」
+Taichi: "No bodies, nothing, a very literal disappearance act."
+TP
+
+//太一「どうも実感がない」
+Taichi: "It just doesn't feel real."
+TP
+
+WVP 0 vfCCC0016amki012
+//美希「ですね」
+Miki: "So true."
+TP
+
+//太一「犬とか猫とかも見ないし、蝉だって鳴いてない」
+Taichi: "Haven't seen dogs or cats, haven't heard the cries of the cicadas either."
+TP
+
+//太一「人間って体内の微生物がいなくなったら、マズイんじゃなかった？」
+Taichi: "If the microorganisms inside the human bodies were gone, wouldn't it be really bad?"
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC0016amki013
+//美希「体内のは無事なんじゃないですか？」
+Miki: "But shouldn't they be safe inside the body?"
+//She's given the Settei more thought than he did... -GHS
+TP
+
+//太一「だよねぇ」
+Taichi: "Right you are."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0016amki014
+//美希「すっごくいい加減な事態であるとか」
+Miki: "But maybe there's something just reallly off in this situation."
+TP
+
+//太一「たとえば？」
+Taichi: "For example?"
+TP
+
+GL 1 TCYM0021
+GI 1 0
+//HACK doubty Miki -GHS
+
+WVP 0 vfCCC0016amki015
+//美希「んー」
+Miki: "Hmmm."
+TP
+
+//祈るように合わせた手を顎に添えて、美希は考えている。
+Miki meets her hands at her chin as if praying, and thinks.
+//Since Buddhists tend to make their hands come together with their elbows flat at a 90* angle, this gesture is suspiciously Christian. -GHS
+TP
+
+//キュートだった。
+That was kyuuute.
+TP
+
+//太一「その仕草いいね」
+Taichi: "Nice gesture that."
+//And therefore, SYMBOLISM!!! -GHS
+TP
+//GL 1 TCYM0000
+//HACK normal Miki -GHS
+GI 1 0
+WVP 0 vfCCC0016amki016
+//美希「どうも。たとえば……夢を見ているとか」
+Miki: "Thanks. For example... we could be dreaming."
+TP
+
+//太一「夢オチかぁ」
+Taichi: "The 'it was all a dream' ending, yes."
+TP
+
+//憂鬱になるな。
+That'd be depressing.
+//Not as much as "it was truly science fiction all along". -GHS
+TP
+
+GL 1 TCYM0002
+GI 1 0
+//HACK depressed Miki instead -GHS
+
+WVP 0 vfCCC0016amki017
+//美希「憂鬱になりますね」
+Miki: "That would be depressing."
+//PCP above.
+TP
+
+//おお、同志。
+Oooh, a kindred soul!
+TP
+
+//太一「現実感のなさは確かに夢そのものなのだけど」
+Taichi: "The lack of sense of reality is indeed indicative of a dream, however,"
+//Or of a sort-of hallucination... -GHS
+TP
+
+//太一「俺の予測ではこうだ」
+Taichi: "I predict the following:"
+//See CCC0020 -GHS
+TP
+WVS 1 1
+//太一「ＦＳ現象！」
+//Taichi: "That in the future, the future will be important to people in the future! I call it the Stupid Filmquote Phenomenon!"
+Taichi: "The FS Phenomenon!"
+//See CCZDXC -GHS
+TP
+
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfCCC0016amki018
+//美希「……フライング……シ、シ……シャ……」
+Miki: "...Flying... s, sha... shi..."
+//Shine. Congratulations on changing the publisher name to Cross Channel for the Reprint which completely screws up this line, though I guess if readers got this far and haven't even guessed most of what's happened so far, it's hopeless. -GHS
+TP
+WVP 1 bgm006.ogg 0 0 0
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0016amki019
+//美希「シャーベット、ですか？」
+Miki: "Sherbet, is it?"
+TP
+
+//太一「違うな」
+Taichi: "Nope."
+TP
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfCCC0016amki020
+//美希「フライング……シャ……シャ」
+Miki: "Flying... shi... scha..."
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC0016amki021
+//美希「シャーレ」
+Miki: "Schale!"
+TP
+
+//太一「空飛ぶペトリ皿。残念、ハズレ」
+Taichi: "A petri dish flying in the sky. Unfortunately, you fail."
+//I know, but IMO it's funnier this way. -GHS
+TP
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfCCC0016amki022
+//美希「フライングぅ～……シャ……シャ……」
+Miki: "Flyin～ng... shi... she..."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0016amki023
+//美希「シャーロキアン」
+Miki: "Sherlockian!"
+TP
+
+//太一「ホームズか。ヤツが身につけた日本式レスリング・バリツは俺も認めるスゴイ格闘技」
+Taichi: "Holmes then. That guy learned the Japanese Style of Baritsu Wrestling that even I must admit to be an amazing form of unarmed combat."
+//Technically it's BarTitsu, as Holmes' Baritsu is a likely a misspelling of that (though the forms have nothing to do with each other). Except... -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCC0016amki024
+//美希「……実在してましたか、アレ」
+Miki: "...was it even real that one."
+TP
+
+//太一「カラデと双璧をなす」
+Taichi: "It forms a matchless pair together with Karade."
+//...Karade->KaraTe, Baritsu->BarTitsu. That's all. -GHS
+TP
+
+WVP 0 vfCCC0016amki025
+//美希「どちらも全然聞いたことないんですけど」
+Miki: "But I've never ever heard of either at all."
+TP
+
+//太一「メタアーツだからな」
+Taichi: "Because they're meta-arts."
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC0016amki026
+//美希「？？？」
+Miki: "???"
+TP
+
+//太一「特定の条件を満たした相手しか倒せない」
+Taichi: "They're only capable of defeating opponents that meet certain requirements."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0016amki027
+//美希「……ゴミ武道じゃないですか」
+Miki: "...they're garbage martial arts aren't they."
+TP
+
+//太一「ゲームってのは突き詰めるとメタに行きつくの！」
+Taichi: "Take the game seriously, follow it to its logical conclusion and you will end up in the meta!"
+//See, occifer? It taunted me! -GHS
+TP
+
+//興奮した。
+I started heating up.
+//See CCC3012B, CCC3019A -GHS
+TP
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0016amki028
+//美希「そんなもんですか……」
+Miki: "Is that what it is then..."
+TP
+
+//太一「特定の相手にはメチャ強ですよ」
+Taichi: "The specific adversary is one of absurdly powerful Mecha-Strength!"
+//Lateral meaning + literal term for lawls -GHS
+TP
+
+//地球上にはいない生物像も多いが。
+And there have been many sightings of biological entities that do not exist on this Earth, too.
+//Sightings/evidence of suspicious creatures, rather uncommon usage. -GHS
+TP
+
+//太一「美希のカラデもだいぶ様になってきたよ」
+Taichi: "Miki's Karade has reached grandmaster levels too!"
+TP
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC0016amki029
+//美希「ずっと叩き込まれてきたコレはカラデとかいうわけのわからん格闘技だったとですか！？」
+Miki: "You mean what you've been always drilling into me is that martial art of meaning incomprehensible you call Karade?!"
+//PCP CCA0016
+//Someone's not resetting... -GHS
+TP
+
+//太一「わけのわからんは余計です！」
+Taichi: "That 'meaning incomprehensible' was most uncalled for!"
+//No denial, though. -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0016amki030
+//美希「……ショックを受けました」
+Miki: "...I have received a shock."
+//Seems to work better stock -GHS
+TP
+
+//太一「うむ」
+Taichi: "Uh-huh."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0016amki031
+//美希「フライング　シャイ」
+Miki: "Flying Shy!"
+TP
+
+//急に戻る会話。
+Sudden return to previous conversation.
+TP
+
+//太一「空飛ぶはにかみ屋。絵にしたらすごく笑えそうだな」
+Taichi: "A particularly shy person flying in the sky. It'd be really ridiculous if someone were to draw that."
+//Paraphrasis: COUGH COUGH WHAR FANART COUGH COUGH. -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0016amki032
+//美希「で結局ＦＳ現象というのは？」
+Miki: "So, in the end, what's the FS Phenomenon?"
+TP
+
+//太一「ごめん、ＳＦ現象だった。間違い」
+Taichi: "Sorry, it was the SF Phenomenon. My mistake."
+//And that's part of why SF must be kept like this. Part. -GHS
+TP
+WVS 1 1
+
+//美希「……………………」
+Miki: "............"
+TP
+
+GL 1 TCYM0004
+GI 1 0
+//HACK shocked Miki -GHS
+
+
+//ごっそり裏をかかれたような、形容しがたい表情をした。
+She made a facial expression as if completely and thoroughly outsmarted, that is hard to attach adjectives to.
+TP
+
+//太一「すこしふしぎ現象といって……」
+Taichi: "It's a somewhat freaky phenomenon, so to say..."
+//Sukoshi Fushigi. -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+//HACK serious Miki -GHS
+
+WVP 0 vfCCC0016amki034
+//美希「あ、もういいです。その時点でわかりました」
+Miki: "Ah, whatever then. I understood it at that moment."
+//Uncertain, of course, if she's speaking of when he first spoke, of when he said Somewhat Freaky/Sukoshi Fushigi, or who knows how long ago when they had this conversation already. -GHS
+TP
+
+//太一「……あ、そう……？」
+Taichi: "...you, did...?"
+TP
+WVP 1 bgm003.ogg 0 0 0
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC0016amki035
+//美希「要するに、わからんなぁ、ということですよね」
+Miki: "In other words 'dunnooo', that's what it means."
+//Poor Miki doesn't get that it requires following the VN to get to the metaelements... it's why she can't win in the end. Or part of it. -GHS
+TP
+
+//太一「科学は無力だね」
+Taichi: "Science is powerless innit."
+TP
+
+//太一「というわけでサインの時間です」
+Taichi: "And with that said, it's signing time."
+TP
+
+//太一「愛王子スタンプサインラリー。ミキミキはいくつためたのかなー？」
+Taichi: "Love Prince Stamp Signature Collection. How many has Miki-Miki collected I wonder?"
+//Hum, not Princess Stamp? Wait a sec, this doesn't mean that it was Love Aristocrat all along and the nickname just kept changing and they forgot to change these, right? But possibly, just like the MateBook's origin, it changing name is an in-joke between them. -GHS
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0016amki036
+//美希「はい、ミキミキです。サインをもらうのは久しぶりです」
+Miki: "Yes, this is Miki-Miki. It has been a while since the last reception of a signature."
+TP
+
+//太一「夏休みだったしね」
+Taichi: "It was Summer Vacation after all."
+//しね! -GHS
+TP
+
+//手帳を受け取る。
+I was given a booklet.
+TP
+
+//メイトブックだ。
+It's the Matebook.
+TP
+
+//初代校長が名店ソープ『メイトブック』であまりの快楽によって悟りを開いたことにちなんでそう呼ばれ嘘である。
+The book taking its name from the famous Soapland "Matebook" in which the first-generation school Headmaster achieved enlightenment via excessive pleasure is nothing but a lie.
+//http://en.wikipedia.org/wiki/Soapland see also CCD0001. Uhm, the book taking its name from a soapland is a lie, not the book itself. Though the placement at the end is the joke. -GHS
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//手帳は俺の落書きで埋まっている。
+The booklet is buried in my scribbles.
+TP
+
+//白紙のページに、新たなサインを記す。
+I jot down a new signature in a fresh blank page.
+TP
+
+//太一「２０コためるとすごいサービスが」
+Taichi: "Collect 20 of them and you'll have an amazing service!"
+TP
+
+GL 1 TCYM0041
+GI 1 0
+WVP 0 vfCCC0016amki037
+//美希「……Ｈな悪戯なんだろうなぁ」
+Miki: "...it's totally a sexual prank!"
+TP
+
+//太一「ん、なんか言った？」
+Taichi: "Hm, did you say something?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0016amki038
+//美希「いいえ」
+Miki: "I did not."
+TP
+
+//太一「さて、こんなとこかな、ノルマは」
+Taichi: "Well then, with this one I met my quota."
+//AKA "script complete". Hey, look at that RET command: -GHS
+TP
+RET
+
+

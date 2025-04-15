@@ -1,0 +1,50 @@
+GL 0 bgcc0004c
+GS 0 1
+SEF 152 0
+
+
+
+WVP 1 bgm018.ogg 0 0 0
+
+//何もなく、誰もいない家に戻る。
+There is nothing and no one in the house I return to.
+TP
+
+//虫の音色も聞こえない。
+The timbre of insects I can't hear either.
+//As with the "unusable" appliances, he can't hear them. And he can't hear their TIMBRE, of all things. This is extremely suspicious. -GHS
+TP
+
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 0
+
+
+
+//蝋燭に火を灯す。
+I ignite the wick of a candle.
+//CP CCC0035A
+TP
+
+//やることはたいしてない。
+I don't really have much to do.
+TP
+
+//日記を書く。
+I write the diary.
+//CP CCC0035A
+TP
+
+//克明に書く。
+I write thoroughly, diligently.
+//CP CCC0035A
+TP
+
+//やることがあるのはいいことだ。
+Having something to do is a good thing.
+TP
+
+WVS 1 1
+
+RET

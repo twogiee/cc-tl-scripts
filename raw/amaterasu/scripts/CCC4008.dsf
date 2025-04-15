@@ -1,0 +1,190 @@
+
+GL 0 bgcc0011a
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+WVP 1 bgm004.ogg 0 0 0
+
+As I was waiting,
+TP
+
+GL 1 TCYM0003b
+GP 1 180 0
+GI 1 1
+WVP 0 vfCCC4008mki000
+Miki: "Sempaaai!"
+TP
+
+Miki came to me, dragging Kiri.
+//This sounds more plausible then just "bringing" her.-Spin
+TP
+
+Taichi: "Yo."
+TP
+
+GL 1 TCYM0000b
+GI 1 0
+WVP 0 vfCCC4008mki001
+Miki: "Did you wait?"
+TP
+
+Taichi: "I was just about to come here!"
+TP
+
+There we were exchanging stylish gags instead of greetings.
+TP
+
+GL 1 TCYM0003b
+GI 1 0
+WVP 0 vfCCC4008mki002
+Miki: "Weeell, I'm sorry it took so long to persuade her."
+TP
+GL 2 TCSK0003b
+GP 1 0 0
+GP 2 340 0
+GS 1 1
+GS 2 1
+SEF 109 0
+WVP 0 vfCCC4008kri000
+Kiri: "......persuasion?......You call that persuasion!?"
+TP
+
+Kiri had a great deal of grievances.
+TP
+
+GL 1 TCYM0001b
+GI 1 0
+WVP 0 vfCCC4008mki003
+Miki: "Unmanageable lust."
+TP
+
+She muttered.
+TP
+
+Kiri: "............"
+TP
+
+She became quiet.
+TP
+
+What sort of secret does Kiri have?
+TP
+
+Taichi: "Then where shall we go?"
+TP
+
+
+GL 1 TCYM0003b
+GI 1 0
+WVP 0 vfCCC4008mki004
+Miki: "Mountaaain!"
+TP
+
+Taichi: "......mountain?"
+TP
+
+GL 1 TCYM0000b
+GI 1 0
+WVP 0 vfCCC4008mki005
+Miki: "A three-person date looking over the town from atop the mountain!"
+TP
+
+Taichi: "Sounds tiring. I'm fine with that."
+TP
+
+GL 1 TCYM0003b
+GI 1 0
+WVP 0 vfCCC4008mki006
+Miki: "Kiri-chin's fine too, riiight?"
+TP
+
+GL 2 TCSK0002b
+GI 2 0
+
+WVP 0 vfCCC4008kri002
+Kiri: "......whether I am or not, I can't disobey."
+TP
+
+WVP 0 vfCCC4008mki007
+Miki: "Then GO!"
+TP
+
+Miki wrapped her arm around Kiri's.
+TP
+GL 1 TCYM0000b
+GI 1 0
+WVP 0 vfCCC4008mki008
+Miki: "Come on, come on, grab an arm."
+TP
+
+Taichi: "Ah, aaah......"
+TP
+
+So, I wrapped my arm around Kiri's other.
+TP
+
+WVP 0 vfCCC4008kri003
+Kiri: "......okay, okay."
+TP
+
+The three of us walked awkwardly.
+TP
+
+Uneven paces.
+TP
+
+A puzzling atmosphere.
+TP
+
+With slipping morale.
+TP
+
+It was quite like us.
+TP
+
+Taichi: "Wait, wait, aren't I supposed to be in the middle?"
+TP
+
+GL 1 TCYM0003b
+GI 1 0
+WVP 0 vfCCC4008mki009
+Miki: "This is just fiiine."
+TP
+
+I made eye contact with Kiri.
+TP
+
+Hmph.
+TP
+
+She averted hers.
+TP
+
+Taichi: "......well, whatever."
+TP
+
+The three of us walked.
+TP
+
+It was a bit cumbersome, but we did our best.
+//"Walk" was just used right before this line.-Spin
+TP
+GL 1 TCYM0000b
+GI 1 0
+WVP 0 vfCCC4008mki010
+Miki: "If we don't hurry, the sun will set."
+TP
+
+Taichi: "Hurry?"
+TP
+
+
+GL 1 TCYM0003b
+GI 1 0
+WVP 0 vfCCC4008mki011
+Miki: "Hurry up! Hurry up!"
+TP
+
+RET

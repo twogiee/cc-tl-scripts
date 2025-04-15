@@ -1,0 +1,525 @@
+GL 0 bgcc0003b
+GS 0 1
+GS 1 0
+SEF 152 0
+//夜、日記を書いていると。
+At night, while writing the diary...
+TP
+
+//太一「ん？」
+Taichi: "Hm?"
+TP
+WVP 1 bgm007.ogg 0 0 0
+
+//外から物音。
+Sounds from the outside.
+TP
+
+GL 0 BGCC0003E
+GS 0 1
+SEF 109 0
+//HACK remove the candle. Doesn't look that good, tho. -GHS
+
+
+//蝋燭を消す。
+I put out the candle,
+TP
+
+//窓際に。
+and go to the window,
+TP
+
+//外を見る。
+to look outside.
+TP
+
+GL 5 BGCC0000C
+GI 5 1
+//HACK starry sky -GHS
+
+//家の前、道路を誰かが歩いていた。
+Someone is walking in front of the house, in the street.
+TP
+
+//……霧。
+...Kiri.
+//Her house is allll the way to the east side of town, and she's going allll the way to the countryside on the west side of town. There is absolutely no reason for her to do this... is there? -GHS
+TP
+
+//荷物を抱えている。
+Holding a bag.
+TP
+
+//日記のネタに飢えていたのだろうか。
+I guess I was starving for material for the diary, then.
+//That's almost as obvious as the sex scene in Misato's route, really Tanaka... -GHS
+TP
+
+//好奇心がもたげた。
+My curiosity was piqued.
+TP
+
+//階下に。
+To the lower floor.
+TP
+GL 0 bgcc0004c
+GS 0 1
+GS 1 0
+GS 5 0
+SEF 152 0
+//WT 500 0
+//WT 500 1
+//HACK disarm changes above, remove useless waits -GHS
+GL 0 bgcc0004c
+GS 0 1
+SEF 152 0
+
+
+GL 0 bgcc0002c
+GS 0 1
+SEF 152 0
+
+//遠くに霧の背中が『見え』る。
+Far in the distance I can... see... Kiri's back.
+//Nightvision "eyes", possibly, except in CCC3012a (next time he follows her) he won't have them active at this point. -GHS
+TP
+
+//追った。
+I followed.
+TP
+
+//やがて町外れまで行くと、霧は荷物をおろした。
+Before long we reach the outskirts, and Kiri laid down the bag.
+TP
+
+//俺は見つからないよう気配を殺し、近づく。
+I kill my presence as not to be seen, and close in.
+TP
+GL 0 evcc0024b
+$CGevcc0024b = 1
+GS 0 1
+SEF 155 0
+//クロスボウ―――
+A crossbow---
+//See CCC0026, CCC3002. Why is he surprised? ...did Kiri have a crossbow in that scene at all? -GHS
+TP
+
+//断じて玩具ではなかった。
+It was absolutely not a toy.
+TP
+
+//この国で手に入る、強力無比な武器だ。
+Coming into possession of that in this country means to have a weapon of power without compare.
+TP
+
+//連射こそできないが。
+It is not capable of rapid fire, but,
+TP
+
+//静音性に優れ、破壊力に富む。
+it has its edge in quietness, and is rich in destructive power.
+//NOT abundant? That would've been... weird I suppose. -GHS
+TP
+
+//霧は引き金を引いた。
+Kiri pulls the trigger.
+//Squeeze it, idiot. -GHS
+TP
+
+//枯れ木に矢が刺さった。
+A bolt pierced a withered old tree.
+TP
+
+//風切り音が耳に残る。
+The sound of slashed air remains in the ears.
+TP
+
+//霧は新しい矢をつがえる。
+Kiri nocks a new bolt.
+TP
+
+//コッキング装置で、装填を済ませる。
+She completes the load via the crank cocking aid.
+//See CCB0022 -GHS
+TP
+
+//ぎこちない。
+Awkwardly.
+TP
+
+//が、知っていた。
+But... I knew:
+TP
+
+//これは訓練だ。
+This is practice.
+//NOT training, see CCB0018 -GHS
+TP
+
+//戦うための。
+For combat.
+TP
+
+//では、誰と。
+Well then, who with?
+TP
+
+//誰と……だろう……。
+Who with... indeed...
+TP
+
+//背筋につららがさしこまれた。
+An icicle was thrust into my spinal column.
+TP
+
+//太一「……っ」
+Taichi: "...!"
+TP
+
+WVP 0 vfCCC3005you000
+//曜子「し」
+Youko: "Shhh."
+TP
+
+//動作が跳ね上がりかけた矢先、絶妙のタイミングで肩を押さえられた。
+Just on the arrowtip of being about to leap into a rash motion, I was pushed down on the shoulder with a miraculous timing.
+//See CCC3003. Was he about to charge at Kiri... perhaps in the path of a bolt? Leaving 'arrowtip' sort of literal, given it all. -GHS
+TP
+
+//すとん、と。
+Thump, straight down.
+TP
+
+//膝から力が抜けた。
+Power was removed from the knees.
+//He's literally swinging a pipe at readers' heads with this. -GHS
+TP
+
+GL 0 bgcc0000c
+GS 0 1
+SEF 155 0
+//太一「……ょぅ……」
+Taichi: "...You..."
+//ょ Yo ぅ u. Literal English "you", or first part of "Youko". This stuff is so suspicious. -GHS
+TP
+
+WVP 0 vfCCC3005you001
+//曜子「静かに」
+Youko: "Quiet."
+TP
+
+//深呼吸一つして、冷静さを取り戻す。
+Taking a single deep breath, I regain my composure.
+TP
+
+//小声で話しかける。
+I talk to her in a low voice.
+TP
+
+//太一「どうしてここに？」
+Taichi: "Why are you here?"
+TP
+
+WVP 0 vfCCC3005you002
+//曜子「太一と同じ」
+Youko: "Same as Taichi."
+//Screaming it. Just damn screaming it. -GHS
+TP
+
+//霧の挙動に気づいたのか。
+She took notice of Kiri's behavior perhaps.
+TP
+
+WVP 0 vfCCC3005you003
+//曜子「毎日やっているみたい」
+Youko: "Seems to do this every day."
+TP
+
+//太一「……アレはどこから手に入れたの？」
+Taichi: "...how did she even come into that thing?"
+TP
+
+WVP 0 vfCCC3005you004
+//曜子「マニア」
+Youko: "Enthusiasts."
+//We're meant to read it, like in CCB0022, that she found it in some weapon otaku's house... or are we? Her parents are almost never home, remember. If they owned it, they wouldn't spot it missing. And they would totally be allowed to own it; after all, Taichi and Misato are allowed to live without supervision 99% of their free time, and Youko can pretty much order up big foreign knives and have them delivered in this tiny town where the train is the only real access. It's a colossal governmental clusterfuck. -GHS
+TP
+
+//太一「ああ、ありそう……」
+Taichi: "Ahhh, that's likely."
+TP
+
+//金さえあれば比較的容易に購入できる。
+If one has but money, it's comparatively easy to procure one.
+//And given they're like cousins of the Shinkawas, it's not impossible they got money. -GHS
+//金さえあれば比較邸容易に購入できる。
+//^??? it's there in the original script, commented out. Identical line to above. -GHS
+TP
+
+//霧はそれから、しばらく訓練を続けた。
+After that, Kiri continued practice for a while.
+TP
+
+WVP 0 vfCCC3005you005
+//曜子「……取ってほしい？」
+Youko: "...want it removed?"
+TP
+
+//唐突な言葉。
+Sudden words.
+TP
+
+//定期的な風切り音の合間、静寂に吸い取られる。
+They are absorbed into the still quietness in the intervals between the periodic sound of slashed air.
+TP
+
+//ただ耳の中には、いつまでも残った。
+But inside my ears, they linger for a long time,
+TP
+
+//ぞっとするような意味をともなって。
+together with their horrifying meaning.
+TP
+
+//GL 4 bgcc0000d
+//GP 4 0 0
+//GS 4 0
+//SEF 109 0
+GL 4 zzzblackblend
+GI 4 1
+//HACK dim screen. Originally, it'd oddly reinsert the same BG that's already onscreen, causing a weird pause. -GHS
+
+WVP 0 vfCCC3005you006
+//曜子『太一……取ってほしい？』
+Youko: 『Taichi... want it removed?』
+//Her voice is shifted high really obviously, probably intended to sound much more childish. Matches the tone she'll have in CCC3025... but not CCC0000, maybe because of Mixed Memories, maybe because FFS just listen to this crap. -GHS
+TP
+
+
+WVP 2 se082 1 0
+
+WVP 0 vfCCC3005you007
+//曜子『取ってあげるわ』
+Youko: 『I will remove it for you, yes.』
+TP
+
+GO 4 1
+//This was in the original, though it was instant. What the hell were they doing here? -GHS
+
+//太一「取るって……」
+Taichi: "Remove, you say..."
+TP
+
+WVP 0 vfCCC3005you008
+//曜子「太一が望むなら」
+Youko: "If you wish it, Taichi."
+TP
+
+//太一「望まない」
+Taichi: "I don't wish it."
+TP
+
+WVP 0 vfCCC3005you009
+//曜子「でも……」
+Youko: "But..."
+TP
+
+//睨みつける。
+I glare at her.
+TP
+
+//太一「俺の言うことをきいてくれるなら、何もしないでくれ」
+Taichi: "If you intend to do what I tell you to do, then you will do nothing."
+//Specificity important, see CCE0001 -GHS
+TP
+
+WVP 0 vfCCC3005you010
+//曜子「……わかったわ」
+Youko: "...got it, yes."
+TP
+
+//心なしか肩を落とす。
+She gives a somewhat discouraged drop of the shoulders.
+TP
+
+//太一「曜子ちゃんだって、人間だろ……同じ、人間なんだ」
+Taichi: "Youko-chan, even you are human... the same, human."
+//...that he is. -GHS
+TP
+
+//曜子「…………」
+Youko: "......"
+TP
+
+//太一「少なくとも俺と一緒なら、半分は人間だろ」
+Taichi: "At least as far as you are together with me, half of you will be human."
+//The rest will be... what? A devil? -GHS
+TP
+
+WVP 0 vfCCC3005you012
+//曜子「私は」
+Youko: "To me,"
+TP
+
+WVP 0 vfCCC3005you013
+//曜子「私は太一が人だとは思ってないもの」
+Youko: "To me Taichi is someone I cannot think of as a person."
+TP
+
+WVP 0 vfCCC3005you014
+//曜子「太一は太一。私にはそれで十分。そして私も私。二人で一人」
+Youko: "Taichi is nothing more than Taichi. To me that is adequate. And I am also no more than I am. Two that make one."
+TP
+
+WVP 0 vfCCC3005you015
+//曜子「はんぶんこ」
+Youko: "Halves."
+TP
+
+//太一「……婚約者だろ」
+Taichi: "...like fiancees, right?"
+TP
+
+//微笑む。
+She smiles.
+TP
+
+WVP 0 vfCCC3005you016
+//曜子「そう、婚約者」
+Youko: "Yes, fiancees."
+TP
+
+//たまの笑顔は童女のようにあどけないのに。
+That rare smile of hers is as cherubic as a little girl's, but,
+TP
+
+//どうして―――
+why---
+TP
+
+//悲嘆が心を塗りつぶす前に、霧が動いた。
+Before grief could paint over the heart, Kiri had moved.
+//See CCB0015B. He's probably referring to him recalling her betrayal... and possibly even rushing out to meet death. -GHS
+TP
+
+//撃ち尽くした矢を回収する。
+She recovered her exhausted supply of fired bolts,
+TP
+
+//そして再び撃つ。
+and then fired them once again.
+TP
+
+//三巡して、霧は訓練を追えた。
+Three rounds later, Kiri has finished with practice.
+TP
+
+WVP 0 vfCCC3005you017
+//曜子「あの腕ならよほど至近距離で狙われない限り、平気だと思う」
+Youko: "With that skill, as long as she is not aiming point-blank we'll be alright, I think."
+TP
+
+//太一「そういう状況になってほしくないんだけど……」
+Taichi: "But I don't want things to get to that point..."
+TP
+
+//不意に祠のことを思い出した。
+Suddenly, I remembered about the hokora.
+TP
+
+//太一「ねえ、曜子ちゃん、祠のこと知ってる？」
+Taichi: "Say, Youko-chan, you know about the hokora?"
+TP
+
+WVP 0 vfCCC3005you018
+//曜子「……知ってる」
+Youko: "...I know."
+TP
+
+//太一「この世界が……」
+Taichi: "This world's---"
+TP
+
+WVP 0 vfCCC3005you019
+//曜子「情報不足」
+Youko: "Insufficient data."
+TP
+
+//ぴしゃりと、言葉を打ち切る。
+She flatly cuts off my words.
+TP
+
+WVP 0 vfCCC3005you020
+//曜子「早計するための知恵じゃない」
+Youko: "Wisdom is to not make rash conclusions."
+TP
+
+//太一「でも」
+Taichi: "But!"
+TP
+
+WVP 0 vfCCC3005you021
+//曜子「仮に世界が繰り返されているとするなら、今論じる必要はないと思う」
+Youko: "Even if, provisionally, we take that the world is made to repeat itself, there is no need to discuss it now, I think."
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//押し黙る。
+She keeps silent.
+TP
+
+//彼女が言うのなら、そうなのだろう。
+If she says so, then it is likely so.
+TP
+
+//支倉曜子はいつだって的確だ。
+Hasekura Youko is always accurate.
+//The word, as expectable, does not have 'correct' as its main meaning. -GHS
+TP
+
+//霧が引き上げた。
+Kiri packed up and left.
+TP
+
+//もう追跡する必要はなかった。
+There is no need to pursue more.
+TP
+
+//平原に出て、的になっていた樹を調べる。
+Coming out into the open space, I examine the timber that was turned target.
+//平原, odd term. -GHS
+TP
+
+WVS 1 1
+
+//太一「…………」
+Taichi: "......"
+TP
+
+WVP 0 vfCCC3005you022
+//曜子「……太一」
+Youko: "...Taichi."
+TP
+
+//太一「いいんだ」
+Taichi: "It's OK."
+TP
+GL 4 sgcc0022
+//Look at how small the pockmarks on this thing are compared to how HUGE the bolts are! There's no way this is all the damage! Of course, as usual, Graphics Can't Be Trusted... but if they could, then this'd reinforce the idea that she's using BBs. Because those would fit the holes. -GHS
+$CGsgcc0022 = 1
+GP 4 0 0
+GI 4 1
+
+//太一「いいんだ……」
+Taichi: "It's OK..."
+//Kiri has kept it for over a year, without losing it, tossing it, misplacing it, or damaging it in any way. Compare Kana: Imouto again. Very interesting. -GHS
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 4 0
+SEF 109 2
+//HACK slower fade to black, ~ooominooous~ -GHS
+RET

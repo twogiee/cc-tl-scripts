@@ -1,0 +1,912 @@
+
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+SEF 152 0
+WT 500 1
+SEF 109 0
+
+WVP 1 bgm003.ogg 0 0 0
+
+
+WVP 0 vfcca0015mki000
+//美希「あ、先輩ー」
+Miki: "Ah, Senpaaai!"
+TP
+
+GL 1 TCYM0000
+GP 1 190 0
+GS 1 1
+GI 1 1
+//HACK doll arrives after first sentence -GHS
+
+
+//太一「よっす」
+Taichi: "Howsit."
+TP
+
+
+
+//壁に寄りかかって所在なげにしている美希と遭遇。
+A random encounter with Miki leaning against the wall, idling.
+//Yes, it's a formal version of the RPG term. -GHS
+TP
+
+
+
+//太一「どしたの？」
+Taichi: "What's up?"
+TP
+
+
+
+WVP 0 vfcca0015mki001
+//美希「はー、ま、ちょっと」
+Miki: "Ahhh, well, see..."
+//Ambiguous, but in this case, it should just be Kiri in the toilet. -GHS
+TP
+
+
+
+/太一「？」
+Taichi: "?"
+TP
+
+
+
+WVP 0 vfcca0015mki002
+//美希「どちらに？」
+Miki: "Where are you going?"
+TP
+
+
+
+//太一「屋上」
+Taichi: "Rooftop."
+TP
+
+
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfcca0015mki003
+//美希「……もしかして、部活ですか？」
+Miki: "...don't tell me, to club?"
+TP
+
+
+
+//太一「もしかしなくともそうだ」
+Taichi: "I'm not going to tell you, but that's it."
+TP
+
+
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfcca0015mki004
+//美希「はー……」
+Miki: "Ahhh...."
+TP
+
+
+
+//美希は少し唖然とした。
+Miki was a little staggered.
+TP
+
+
+
+WVP 0 vfcca0015mki005
+//美希「本気で部活、ですか」
+Miki: "Seriously, club?"
+//At this point she might not really be into his game that much yet. -GHS
+TP
+
+
+
+//太一「他にすることもないしさ」
+Taichi: "Well, there's not much else to do."
+TP
+
+
+
+//太一「ただの顔見せだけどね」
+Taichi: "But I'm only showing face, OK."
+TP
+
+
+
+WVP 0 vfcca0015mki006
+//美希「……」
+Miki: "..."
+TP
+
+
+
+//太一「一緒に行く？」
+Taichi: "Wanna come with me?"
+TP
+
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfcca0015mki007
+//美希「あー、今はちょっと……」
+Miki: "Ah, well, right now..."
+TP
+GL 2 TCSK0000
+GS 2 1
+GP 1 40 0
+GP 2 345 0
+SEF 109 0
+
+
+//と。
+And,
+TP
+
+
+
+//近くの女子トイレから、一人の女子が出てきた。
+from the girls' toilet, nearby, one girl comes out.
+//Still loneliness, despite it all. -GHS
+TP
+
+
+
+//佐倉霧だ。
+It's Sakura Kiri,
+TP
+
+
+
+//ＦＬＯＷＥＲＳのもう片方。
+the other half of the Flowers.
+TP
+
+
+
+//ショートカットのちょっと中性的な女の子。
+A short-haired and somewhat androgynous girl.
+TP
+
+
+
+WVP 0 vfcca0015kri000
+//霧「…………」
+Kiri: "......"
+TP
+
+
+
+//霧は、ちらと俺を一瞥した。
+Kiri glanced at me, just a peek,
+TP
+
+
+
+//そして無視した。
+and then ignored me.
+TP
+
+
+//GL 1 TCYM0004
+//GI 1 0
+//Miki shocked doesn't seem to fit here, despite the console version. -GHS
+GL 2 TCSK0011
+GI 2 0
+
+WVP 0 vfcca0015kri001
+//霧「お待たせ」
+Kiri: "Sorry for the wait."
+TP
+
+
+
+//太一「お　は　よ　う」
+Taichi: "H E L L O."
+TP
+
+
+
+//滑舌全開で挨拶した。霧に。
+A greeting with full throttle eloquence. To Kiri.
+TP
+
+
+GL 2 TCSK0002
+GI 2 0
+
+WVP 0 vfcca0015kri002
+//霧「……ども」
+Kiri: "...hi."
+//Practically her catchphrase. -GHS
+TP
+
+
+//心底嫌そうに、挨拶を返してくる。
+She returns the greeting as if it disgusts her from the bottom of her heart.
+TP
+
+
+
+//当然か。
+Obviously,
+TP
+
+
+
+//なぜなら、俺は霧に激嫌われているからだ。
+because Kiri hates me, extremely so.
+TP
+
+
+
+//だけど嫌われるほどに、相手が気になってたまらない。
+However, the more he is hated, the more irresistibly attracted the target will become.
+//Paraphrasis: "I'm an M". Analysis: Kiri doesn't understand how Taichi works. -GHS
+TP
+
+
+
+//太一「今日ってチョー暑いよねぇ。やっぱこれが―――」
+Taichi: "Today's waaay hot ain't it. I knew it, it's---"
+TP
+
+
+GL 2 TCSK0011
+GI 2 0
+
+WVP 0 vfcca0015kri003
+//霧「行こう、美希」
+Kiri: "Let's go, Miki."
+TP
+
+
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfcca0015mki008
+//美希「霧、きつい……」
+Miki: "Kiri, that's harsh..."
+TP
+
+
+
+//太一「うん、行こうー」
+Taichi: "Yeah, let's gooo!"
+TP
+
+//Shocked Miki here doesn't fit at all either. -GHS
+
+
+//両手をおきゃん（死語の世界）に広げながら、二人に並んで歩く。
+With both arms spread towards the urchin (nice etymology), I line up to walk with them.
+//Originally "okyan (from the Land of the Dead Words)" (AKA "old word"). It's a tomboyish girl. Adapted with the urchin, similar meaning, and it comes from hedgehog, seemed appropriate. -GHS
+TP
+
+
+
+GL 2 TCSK0001
+GI 2 0
+WVP 0 vfcca0015kri004
+//霧「……黒須先輩」
+Kiri: "...Kurosu-senpai."
+TP
+
+
+
+//太一「なに？」
+Taichi: "What?"
+//Compare Touko right around here. -GHS
+TP
+
+
+
+//立ち止まる。
+She stops.
+TP
+
+
+
+WVP 0 vfcca0015kri005
+//霧「美希と行きますから」
+Kiri: "Me and Miki are going."
+//Mascara again? -GHS
+TP
+
+
+
+
+//太一「でもＦＬＯＷＥＲＳはトリオ、一心同体だぞっ」
+Taichi: "But the Flowers are trio of one heart and one body, alter egos!"
+//First mention of Alter Egos, so put it literal as well, see CCC0000. The creep factor just goes up and up. And him trying to make a trio when Alter Egos are a duo, ouch. -GHS
+TP
+
+
+
+GL 2 TCSK0011
+GI 2 0
+WVP 0 vfcca0015kri006
+//霧「……ちっ」
+Kiri: "...tsk."
+TP
+
+
+
+//舌打ち。
+A click of the tongue.
+TP
+
+
+
+//うわあ……。
+Whoa...
+TP
+
+
+
+//なんかゾクゾクする。
+I felt a shiver there.
+TP
+
+
+
+//太一「霧、ところで今度デートしよう。おもしろい映画やってるんだよ、今」
+Taichi: "Well then Kiri, let's go on a date sometime. They're showing this interesting movie right now."
+TP
+
+GL 1 TCYM0004
+GL 2 TCSK0001
+GI 1 0
+GI 2 0
+//HACK Miki shocked seems to fit here. -GHS
+WVP 0 vfcca0015kri007
+//霧「……気でも狂ったんですか、黒須先輩」
+Kiri: "...have you gone insane, Kurosu-senpai?"
+//Conveniently denying the idea of the date, not necessarily the very presence of movies. -GHS
+TP
+
+
+
+GL 2 TCSK0002
+GI 2 0
+WVP 0 vfcca0015kri008
+//霧「からかうのはやめてください。これ以上は無視しますから」
+Kiri: "Please stop with the jokes. If they continue, they will be ignored."
+//If she DID, then she'd be relatively fine. -GHS
+TP
+
+GL 1 TCYM0002
+GI 1 0
+//HACK back to sad Miki -GHS
+
+
+//太一「あらら」
+Taichi: "Oh my my."
+//CP CCA0006
+TP
+
+
+
+//別に本気で嫌がらせをするつもりはない。
+I don't really intend to harass her seriously.
+TP
+
+
+
+//このくらいにしておくか。今日は。
+Should I leave it at this then? At least for today.
+TP
+
+
+
+//甘いものは、少しずつ舐めるから甘美なのだ。
+Sweet things are sweetest when tasted lick by lick.
+//'Lick' is also 'to tease', but the undertone is overtone here. -GHS
+TP
+
+
+
+//いっぺんに食べてしまっては興ざめだ。
+Eating them in a single gulp is the way of the killjoy.
+TP
+
+
+
+//食べるだって？
+Wait, eating?
+TP
+
+
+
+//太一「こら！　引っ込め！」
+Taichi: "Come now! Go back inside!"
+//The belly bug/madness/Youko/???/profit/wait/dev/null -GHS
+TP
+
+
+
+//自分の側頭部を殴る。
+I strike at my temporal lobe.
+//See CCX0001, CCZAS -GHS
+TP
+
+
+
+//霧が怪訝な顔で、俺を見ていた。
+Kiri watched me with a puzzled face,
+TP
+
+
+
+//それも一瞬。
+and even that for an instant.
+//Ahhh, he attracted her attention after all. -GHS
+TP
+
+
+
+GL 2 TCSK0000
+GI 2 0
+WVP 0 vfcca0015kri009
+//霧「行こう……ってどうしたの？」
+Kiri: "Let's go... wait, what is it?"
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfcca0015mki009
+//美希「……胃が」
+Miki: "...my stomach..."
+//See CCA0027. Imitative behavior. -GHS
+TP
+
+
+
+WVP 0 vfcca0015kri010
+//霧「痛いの？」
+Kiri: "Does it hurt?"
+//太一「痛いの？」
+> 
+Taichi: "Does it hurt?"
+TP
+
+GL 1 tcym0021
+GI 1 0
+//HACK doubty Miki -GHS
+
+WVP 0 vfcca0015mki010
+//美希「あ、ハモハモした……」
+Miki: "Ah, harmonics..."
+//Specific, again see CCA0027 -GHS
+TP
+
+
+GL 2 TCSK0001
+GI 2 0
+
+WVP 0 vfcca0015kri011
+//霧「……ちっ」
+Kiri: "...tsk."
+TP
+
+
+
+//霧に睨まれる。
+I'm glared by Kiri.
+TP
+
+
+
+//……なんでやねん。
+...I'm a-lovin' it.
+//http://www.osaka-info.jp/ja/model/osakaben/html/0048.html -GHS
+TP
+
+GL 1 TCYM0041
+GI 1 0
+
+WVP 0 vfcca0015mki011
+//美希「わたしが死んでも……ふたりとも、喧嘩したらだめだよ……うっ……」
+Miki: "I might die but... you two, you can't be fighting anymore... ngh..."
+TP
+
+
+
+//太一「美希ーっ！　美希、ダメだ、まだ逝くな！　おまえがいなかったら、誰が俺の子を産んでくれるんだ！」
+Taichi: "MIKIII! Miki, you can't, stay away from that light! If you're not here anymore, who will be bearing my children!"
+TP
+
+
+
+WVP 0 vfcca0015mki012
+//美希「霧ちゃんが……ばんばん産んでくれますよ……」
+Miki: "Kiri-chan will... squeeze'em out like a machine gun..."
+//Will recur somehow. -GHS
+TP
+
+
+
+//超朗報。
+Hyper good news!
+TP
+
+
+
+//太一「マジでっ！？」
+Taichi: "Seriously?!"
+TP
+
+
+
+//霧に詰め寄る。
+I press the question onto Kiri.
+//Also get near her, but, well, he just asked a question and everything. -GHS
+TP
+
+
+GL 2 TCSK0002
+GI 2 0
+
+WVP 0 vfcca0015kri012
+//霧「……美希、ふざけるのやめて」
+Kiri: "...Miki, stop messing around."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+
+WVP 0 vfcca0015mki013
+//美希「いやん、本気で怒ってる？」
+Miki: "Meown, you seriously mad?"
+//Catlike -GHS
+TP
+
+
+
+WVP 0 vfcca0015kri013
+//霧「もうお弁当のおかずとりかえるのしてあげないよ」
+Kiri: "I'm not trading side dishes with you at lunch anymore."
+//Funny when it'll be Miki who'll threaten her with permanent separation (by some definition of funny). -GHS
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfcca0015mki014
+//美希「それだけはーっ！！」
+Miki: "But that's insaaane!!!"
+//She's so poor she likely doesn't have side dishes... -GHS
+TP
+
+
+
+//すがりつくし。
+She clings on to her.
+TP
+
+
+
+//太一「……結局仮病ですか」
+Taichi: "...so it was a faked illness after all."
+//*Nod* -GHS
+TP
+
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfcca0015mki015
+//美希「いや、胃が痛いというのは……だからつまり……精神的なひゆで」
+Miki: "Nah, the pain in the stomach was... because, I mean... it's a psychological metaphor..."
+//Nod, nod, noood. -GHS
+TP
+
+
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfcca0015mki016
+//美希「っつーか、仲良くしろおまえらー」
+Miki: "Oh whatever, you two get along already!"
+//Significantly harsher. -GHS
+TP
+
+
+
+//泣いた。
+She cried.
+TP
+
+
+
+//太一「え、俺？　俺が原因？」
+Taichi: "Eh, me? I caused this?"
+//Hum, she explicitly used a plural. -GHS
+TP
+
+
+
+WVP 0 vfcca0015mki017
+//美希「サンドイッチの具の気持ちになってくださいよ」
+Miki: "Please understand the feelings of sandwich filling."
+//"Please understand what it's like to be squished between you two". This is about as bad as Misato's mirror thing, and of course ties to Youko via alter egos and the production of sandwiches as well as to hint to readers that what seems like two is too often three, which is distinguished from how eight is actually seven. And rereading what I wrote, I must say Tanaka's a bad influence sandwich. -GHS
+TP
+
+
+
+
+
+//太一「３……両手に花？」
+Taichi: "Bread slices and filling... a flower in both hands?"
+//Adapted since both sentences start with "san". Not as obvious in English. -GHS
+TP
+
+
+
+//さすがに３Ｐとは言えなかった。
+All the same, it can't be said to be a proper 3P of a threesome.
+//See below -GHS
+TP
+
+
+
+//太一「あふ、ちがうか……パンが男なわけだから、これはいわゆるひとつの二穴責めてやつぅー？　ＡＶとかでもほとんど見たことないゾー！」
+Taichi: "Bwh, waity there... the bread is the male part, could this be what is known as double penetratiooon? Even in porn you don't really see that stuff often, nooo!"
+//It's slightly less odd a thing to say for someone who's spent his youth at sex orgies when read as silly and girly, as it is. Also: slice+filling+slice+3P+double penetration = 7. And if he doesn't see DP often in porn, he should effing improve his porn. -GHS
+TP
+
+
+
+
+//嬲。
+//男(man) + 女(woman) + 男(man) = 嬲
+[Kanji with two men surrounding one woman that somehow only means "to tease" (3P-style).]
+//Visual pun replaced with silly run-on sentence. This will also be referenced later, should be a callback about as tricky as the average anyway. -GHS
+TP
+
+
+
+
+//鼻血出そう。
+That's to nosebleed!
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfcca0015mki018
+//美希「だめだ、この素敵星人」
+Miki: "Just hopeless, this Wonderfulian."
+//Now the Alien called him alien. -GHS
+TP
+
+
+GL 2 TCSK0000
+GI 2 0
+
+WVP 0 vfcca0015kri014
+//霧「……みーき」
+Kiri: "...Miiiki!"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+
+WVP 0 vfcca0015mki019
+//美希「はいはい。じゃ先輩、ごめんなさいです」
+Miki: "Yes, yes. Bye Senpai! My apologies!"
+TP
+
+
+
+//太一「うん、俺もちょっと顔出してこないと」
+Taichi: "Yeah, me too, I gotta show face a little."
+TP
+
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfcca0015mki020
+//美希「ではわたしどもはこれにて」
+Miki: "Well then, the both of us take our leave."
+TP
+
+//俺はフェンシングの構えを取る。
+I took a fencing stance.
+//No karade? -GHS
+TP
+
+
+
+//太一「霧、今はまだ美希を預けておくが……いずれは小生がいただくカラナ」
+Taichi: "Kiri, for now I leave Miki in your care still... but there will come a day when her humble servant takes her for himself!"
+//Adventure hero style, not too purple. -GHS
+TP
+
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfcca0015mki021
+//美希「きゃーい、三角関係のひろいん～♪」
+Miki: "Kyaaay, it's a love triangle and I'm the heroine～♪!"
+//With Taichi the girlish boy and Kiri the boyish girl vying for her. The point isn't played much beyond this scene, sadly. Say now, who's Harry and who's R-GHS
+TP
+
+
+GS 2 0
+SEF 109 0
+
+WVP 0 vfcca0015kri015
+//霧「……」
+Kiri: "..."
+TP
+
+
+
+//無視。
+Ignored.
+TP
+
+//そのまますたすたと歩み去る。
+And like that she walks away at a brisk pace.
+TP
+
+
+
+//GL 1 TCYM0000
+GL 1 zzzMikiZoom1
+GP 1 90 0
+GI 1 1
+//HACK Miki's IN YO FACE MAN -GHS
+//美希が居残って、そっと俺に耳打ちを残す。
+Miki stays behind, and with a whisper in my ear she left the words,
+TP
+
+
+WVP 0 vfcca0015mki022
+//美希「……霧っちも悪者ではないんですけど……すんません……」
+Miki: "...Kiricchi's not a bad person despite this... sorry..."
+TP
+
+
+
+//太一「いいさ」
+Taichi: "It's OK."
+TP
+
+
+
+//GL 1 TCYM0003
+GL 1 zzzMikiZoom2
+//HACK Happy Miki zoom -GHS
+GI 1 0
+WVP 0 vfcca0015mki023
+//美希「その分、美希は先輩のこと好きですから」
+Miki: "And that is why Miki really likes you, Senpai."
+//Sudden third person affectation. -GHS
+TP
+
+
+
+//太一「お？」
+Taichi: "Oh?"
+TP
+
+
+
+//GL 1 TCYM0000
+GL 1 zzzMikiZoom1
+//Back to normal zoomed Miki -GHS
+GI 1 0
+WVP 0 vfcca0015mki024
+//美希「いつか霧ちんと和解してセクハラできる日が来るといいです―――」
+Miki: "I'd be nice if someday you would succeed in properly reconciling with Kiri-chin and be able to sexually harass---"
+TP
+
+
+
+WVP 0 vfcca0015kri016
+//霧「美希、はやくっ！」
+Kiri: "Miki, hurry!"
+TP
+
+
+GP 1 50 0
+GI 1 0
+GP 1 130 0
+GI 1 0
+GP 1 80 0
+GI 1 0
+GP 1 100 0
+GI 1 0
+GP 1 90 0
+GI 1 0
+//HACK independent doll shake. I'm using a left-right shake is it works better for these zoomed dolls. -GHS
+//美希はびくっとした。
+Miki jolted.
+TP
+
+
+
+WVP 0 vfcca0015mki025
+//美希「うひー、ではでは」
+Miki: "Uhyyy, then well then!"
+//Recurringly hers. -GHS
+//GS 1 0
+//SEF 109 0
+GL 1 zzzMikiZoom3
+GI 1 0
+//HACK Sad Miki Zoom
+TP
+
+GS 1 0
+SEF 109 0
+//HACK bye Miki -GHS
+
+
+//太一「ばいばい」
+Taichi: "Bai bai."
+TP
+
+
+
+//小走りに霧と合流し、遠ざかっていく二人。
+At a half-run she flows in with Kiri, and the two fade into the distance.
+TP
+
+
+
+//今のは、フォローのつもりなんだろうな。
+That right there was intended to cover for Kiri, wasn't it.
+TP
+
+
+
+//微笑ましい。
+So charming.
+TP
+
+
+
+//両名の背中に呼びかける。
+I call out towards the backs of both.
+TP
+
+
+
+//太一「あー、二人とも」
+Taichi: "Heyyy, you two!"
+TP
+
+
+
+//立ち止まり、振り向いたのは美希だけだったが。
+Stops in her tracks and turns around, however, Miki alone.
+TP
+
+
+
+//太一「くれぐれも体調には気をつけるんだぞ」
+Taichi: "Be thoroughly careful with your physical conditions!"
+TP
+WVS 1 1
+
+
+
+//美希が元気良く挙手し、霧がちらりと目線を流した。
+Miki gave a vigorous salute, Kiri shed but a peeking glance.
+TP
+
+
+
+WT 500 0
+RET

@@ -1,0 +1,44 @@
+
+GL 0 bgcc0010
+GS 0 1
+GS 1 0
+
+SEF 152 0
+
+
+WVP 1 bgm016.ogg 0 0 0
+
+
+//部室。
+The club room.
+TP
+
+//友貴がいるかと思ったが、無人だった。
+I was wondering whether Tomoki was here, but it was deserted.
+TP
+
+//きっと『部活』に精を出しているのだろう。
+He's working hard at his 'club', I'm sure.
+TP
+
+//となれば、今頃は町中か。
+And if he is, right now he'd be downtown.
+TP
+
+//ノートによれば、この世界は一週間しか続かないのだから、ヤツの努力は無駄なものになる。
+According to the notebooks, this world will last for just one week, therefore, all the efforts that guy makes will go to waste.
+//He's dancing around the truth. So will Misato's, for starters... and his, most importantly. -GHS
+TP
+
+//けど、それを教える気にはなれなかった。
+But I could not bring myself to tell him that.
+TP
+
+//友貴の部活が、先輩にとっての部活と、意味を違えるとは思えなかったからだ。
+Because it didn't seem that Tomoki's club had a different meaning for him than Senpai's had for hers.
+//At least he understands that the apparent goal is irrelevant. But like with the above, this also applies to him. -GHS
+TP
+
+WVS 1 1
+
+RET

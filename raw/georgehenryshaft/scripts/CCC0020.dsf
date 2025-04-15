@@ -1,0 +1,225 @@
+GL 0 bgcc0009
+GS 0 1
+GS 1 0
+GS 5 0
+//HACK disable sky -GHS
+SEF 152 0
+
+//昼飯はやっぱりここで食べたいところだ。
+In the end I wanted to eat lunch here.
+TP
+
+WVP 1 bgm018.ogg 0 0 0
+
+GL 1 TCSH0000
+GP 1 190 0
+GI 1 1
+WVP 0 vmCCC0020sku000
+//桜庭「よう、太一」
+Sakuraba: "Hoy, Taichi."
+TP
+
+//カレーパン桜庭だった。
+It was "Curry Bread" Sakuraba.
+TP
+
+//超辛いここのカレーパンが大好きだ。
+He really loves the hyper spicy curry bread they served here.
+TP
+
+//太一「人類滅亡してもカレーパン」
+Taichi: "Curry bread even with the fall of mankind."
+TP
+GL 1 TCSH0003
+GI 1 0
+WVP 0 vmCCC0020sku001
+//桜庭「……やらんぞ」
+Sakuraba: "...have some."
+TP
+
+//太一「いらんわい」
+Taichi: "Don't want it."
+TP
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCC0020sku002
+//桜庭「これを食い尽くしたら、もう食い納めだしな」
+Sakuraba: "If I eat this up, then I'll be eating the last ones."
+TP
+
+//表情が曇った。
+His face clouded.
+TP
+
+//その背後に、パンの詰まったケースがタワー状に積んである。
+And behind it, cases packed with bread where piled up into a tower.
+TP
+
+//太一「……これいつ搬入されたやつだ？」
+Taichi: "...when did they bring these in?"
+TP
+
+GL 1 TCSH0000
+GI 1 0
+WVP 0 vmCCC0020sku003
+//桜庭「昨日じゃないか？」
+Sakuraba: "Yesterday didn't they?"
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+//昨日。
+Yesterday.
+TP
+
+//確かに半日でもパンの販売はある。
+Certainly today's a half-day but bread's still on sale.
+//Opening ceremony. -GHS
+TP
+
+//基本的に休日以外は食堂として機能しているのだ。
+Fundamentally, holidays excluded, this cafeteria is always in operation.
+TP
+
+//始業式であってもパンは搬入されている。
+There was the opening ceremony, yet still bread was brought in.
+TP
+
+//そう。
+Indeed.
+TP
+
+//つまり昨日まで、ちゃんと世界は維持されていたわけだ。
+Therefore, until yesterday, the world was being properly maintained.
+TP
+
+GO 5 1
+//HACK return screen -GHS
+
+//太一「にしても数が少ない」
+Taichi: "Still, the number seems insufficient."
+TP
+
+//ケースの数は、いつもの十分の一もない。
+The number of cases seems not one-tenth of the normal.
+//It's apparently because Sakakibara-sensei brought stuff in, see CCC4025; except, of course, see CCB2010 - Sakuraba tossed almost all of the non-curry stuff. This discrepancy is simply explained: Taichi thinks this is the number total of cases of bread, while Sakuraba thinks he's talking about the number of cases of curry bread alone. -GHS
+TP
+
+WVP 0 vmCCC0020sku004
+//桜庭「始業式で半ドンだからだろ」
+Sakuraba: "Because the opening ceremony day is half vacation perhaps."
+TP
+
+//太一「にしても……少ない」
+Taichi: "Still... insufficient."
+TP
+
+GL 1 TCSH0002
+GI 1 0
+
+WVP 0 vmCCC0020sku005
+//桜庭「それにオレは、人類が滅亡したとは思っていない」
+Sakuraba: "Besides, me, I don't think humanity has fallen."
+TP
+
+//太一「なんだって？」
+Taichi: "Come again?"
+TP
+
+WVP 0 vmCCC0020sku006
+//桜庭「恐らく、市民全員で隠れんぼをしているんじゃないか、というのがオレの予測だ」
+Sakuraba: "I dare say: couldn't this be but a city-wide game of hide-and-seek? And that is what I predict."
+//See CCC0016A. I think he's playing Taichi's game as well. Not that it matters, the guy lives in a literal another world. -GHS
+TP
+
+//太一「妄想だそれは」
+Taichi: "That's delusional."
+TP
+
+//太一「予測なんて言葉は使うな。おまえが考えて結論を出したみたいじゃないか」
+Taichi: "And those weren't the words of a prediction. You sounded like you gave it thought and made a conclusion, didn't you."
+//Of course. He's also perfectly correct. -GHS
+TP
+
+GL 1 TCSH0000
+GI 1 0
+WVP 0 vmCCC0020sku007
+//桜庭「フッ……手厳しいヤツめ」
+Sakuraba: "Hu! ...fastidious this guy."
+//The 'hu' laugh, see CCB2010. For something that should be just a simple writing error there's lots of pointing this out, isn't there. -GHS
+TP
+
+//太一「満足そうに微笑むな」
+Taichi: "Don'tcha smile all satisfied now."
+TP
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCC0020sku008
+//桜庭「だが気にすることはない」
+Sakuraba: "But there is nothing to worry about."
+TP
+
+WVP 0 vmCCC0020sku009
+//桜庭「時間が経てば、みんな戻ってくるはずだ。オレの計算によるとな」
+Sakuraba: "With the passing of time, I expect everyone to come back. That's according to my calculations."
+//Wonder if they involve 0,108. -GHS
+TP
+
+//太一「…………オレも脳天気だが、おまえは細胞レベルで脳天気だな」
+Taichi: "......me's optimistic, but you are optimistic at a cellular level ain't ye."
+//That katakana ore... is he being infected? -GHS
+TP
+
+WVP 0 vmCCC0020sku010
+//桜庭「フ」
+Sakuraba: "Hu."
+TP
+
+//どうして傷ついた少年少女たちの中にコイツがいるんだろう。
+Why this guy is even around wounded boys and girls I don't know.
+//Did he forgot CCA0022 now? Very interesting. -GHS
+TP
+
+//本気で悩んでしまった。
+That seriously worried me.
+TP
+
+//桜庭がそんな俺にカレーパンを差し出す。
+And Sakuraba presented this worried me with some curry bread.
+TP
+GL 1 TCSH0000
+GI 1 0
+
+WVP 0 vmCCC0020sku011
+//桜庭「食え」
+Sakuraba: "Eat."
+TP
+
+//太一「いらん！」
+Taichi: "Don't wanna!"
+WVP 2 SE003 1 0
+//SEF 101 0
+GP 1 175 15
+GI 1 0
+GP 1 190 30
+GI 1 0
+GP 1 205 15
+GI 1 0
+GP 1 190 0
+GI 1 0
+//HACK independent doll shake -GHS
+TP
+GO 1 1
+WVP 2 SE038 1 0
+//撃墜。
+Shot down.
+TP
+
+WVS 1 1
+
+
+RET

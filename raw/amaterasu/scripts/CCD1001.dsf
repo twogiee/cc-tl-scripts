@@ -1,0 +1,11625 @@
+
+TWS 0
+
+
+IF $KAISOU == 0 JMP N_START001
+IF $CIA == 101 JMP SCENE001
+IF $CIA == 102 JMP SCENE002
+//These need to be looked at, perhaps fixed for replay mode? ~Bal
+:N_START001
+
+
+
+
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+
+SEF 109 0
+WT 500 0
+
+
+
+I pushed the door open.
+//CP_S ccc0022
+TP
+
+
+There was resistance.
+TP
+
+
+It was being pushed from the other side.
+TP
+WVP 2 se044 1 0
+
+
+Pushed strongly.
+TP
+
+
+On the far side of the door there was a little turbulence.
+TP
+
+
+It was the wind.
+TP
+
+GL 1 efcc0000
+GL 0 bgcc0007 1 0
+GP 1 0 0
+GI 1 0
+GI 0 0
+GO 1 1
+WVP 2 se009 1 0
+
+
+
+
+WVP 1 bgm015.ogg 0 0 0
+
+The antenna.
+TP
+WVP 3 se010 0 0
+
+
+It was taking shape.
+TP
+
+
+A lot of tuning was needed, for directionality and wavelength and so on.
+TP
+
+
+But, I don't have that knowledge.
+TP
+
+
+Sempai wasn't an expert, but I think she'd studied it.
+TP
+
+
+That Sempai......wasn't here.
+TP
+
+
+Tools.
+TP
+
+
+Stepladder.
+TP
+
+
+Books.
+TP
+
+
+An empty bag of bread blown around by the wind.
+TP
+
+
+Only traces of her work were left.
+TP
+
+
+So I guess she's not working twenty four hours a day.
+TP
+
+
+I looked up at the antenna.
+TP
+
+
+A tall structure, open to its surroundings.
+TP
+
+
+Apparently you need just the right environment to send out EM waves.
+TP
+
+
+It's a strictly local radio broadcast called Community FM.
+//Proper name, proper noun. ~Bal
+TP
+
+
+That's not a low enough goal for a school club to aim for.
+TP
+
+
+But,
+TP
+
+
+The favorable location, the history of Gunjou Institute, and the goodwill of interested local people.
+TP
+
+
+Those things tied together into this.
+TP
+
+
+The preparations still continued, but due to a certain incident with loose ends, it had become rather indefinite.
+TP
+
+
+The antenna was delivered, but then left alone for a year.
+TP
+
+
+Those were the circumstances.
+TP
+
+
+Most likely, the items requested for Gunjou FM were filled with hopes and dreams for healthy young boys and girls.
+TP
+
+
+Sorry, but Gunjou is no such thing.
+//Major confusion here. Gunjou itself at no point of time in the last two lines was described. The way I read this is: Gunjou has no such things, or: Gunjou isn't something for that. Mild flaw in subject -Neko
+TP
+
+
+You could say the result was all right.
+TP
+
+
+Misato-sempai plans to send an SOS.
+TP
+
+
+She said so on Sunday night.
+TP
+
+
+After we split up and confirmed that humanity had disappeared.
+TP
+
+
+Since the antenna has some altitude, we'll attempt to complete it so we can send a dispatch...... it was certainly lacking in a sense of realism.
+TP
+
+
+Honestly, I thought Sempai was falling apart.
+TP
+
+
+Fleeing makes people weaker.
+TP
+
+
+And Sempai was weak enough to begin with.
+TP
+
+
+WVP 0 vfCCC0022msa000
+Misato: "Peke-kun?"
+TP
+
+
+Behind me.
+TP
+
+
+I turned to face her.
+TP
+
+
+Taichi: "Hello there, Sempai."
+TP
+
+GL 1 TCMM0021
+GP 1 225 0
+GI 1 1
+
+
+WVP 0 vfCCC0022msa001
+Misato: "Hello there......ummm, what's going on?"
+TP
+
+
+Taichi: "I came to see how things were going."
+TP
+
+
+Sempai smiled softly.
+TP
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfCCC0022msa002
+Misato: "Is that so?"
+TP
+
+
+Taichi: "I haven't come here for a while, but it's quite a ways along."
+TP
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCC0022msa003
+Misato: "I've been doing bits and pieces of it for a long time."
+TP
+
+
+Yes,
+TP
+
+
+After the Broadcasting Club broke down naturally,
+TP
+
+
+Sempai's done everything on her own.
+TP
+
+
+The lunch break DJ.
+TP
+
+
+Various broadcasts.
+TP
+
+
+Everything.
+TP
+
+
+No one helps her anymore.
+TP
+
+
+Kiri started being hostile toward me,
+TP
+
+
+Tomoki started avoiding his sister,
+TP
+
+
+Miki started smiling nervously,
+TP
+
+
+Touko started ignoring me,
+TP
+
+
+Splendid rubble.
+TP
+
+
+Only Sakuraba didn't change.
+TP
+
+
+As always, he never showed up.
+TP
+
+
+Although I hung around Sempai despite all that,
+TP
+
+
+She refused my help.
+TP
+
+
+Taichi: "......is that so?"
+TP
+
+GL 1 TCMM0005
+GI 1 0
+
+WVP 0 vfCCC0022msa004
+Misato: "Even so, I was really surprised."
+TP
+
+
+Taichi: "I'd bet."
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCC0022msa005
+Misato: "For all the people to go away at once..."
+TP
+
+
+Taichi: "It's quiet."
+TP
+
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfCCC0022msa006
+Misato: "Very very quiet."
+TP
+
+
+Taichi: "Where were you?"
+TP
+GL 1 TCMM0000
+GI 1 0
+
+
+WVP 0 vfCCC0022msa007
+Misato: "I was just......a bit hungry."
+TP
+
+
+Taichi: "It's midday. Were you able to find any good food?"
+TP
+
+
+WVP 0 vfCCC0022msa008
+Misato: "Yeah, I went back to my house. Getting food isn't especially inconvenient."
+TP
+
+
+Taichi: "Aaah, you cut school, the prez was cutting."
+TP
+
+GL 1 TCMM0005
+GI 1 0
+
+WVP 0 vfCCC0022msa009
+Misato: "Th-that's not it! That's not cutting!"
+TP
+
+
+She became worried.
+TP
+
+
+Sempai values the rules highly.
+TP
+
+
+Taichi: "Suspension, that's suspension."
+TP
+
+
+WVP 0 vfCCC0022msa010
+Misato: "I don't want suspension, there'll be a mark on my record..."
+TP
+
+
+Taichi: "Suspension! Suspension!"
+TP
+
+
+WVP 0 vfCCC0022msa011
+Misato: "I can't be suspended..."
+TP
+
+
+We frolicked together.
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+This was the shortest distance between any of us right now.
+//I believe that's CP_F *is looking at ccc0022*- Sheeta
+TP
+WT 500 0
+WT 1000 1
+
+
+
+
+WVS 3 1
+
+WVS 1 1
+
+
+
+
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 1
+
+
+
+What sort of development would occur if I touched Sempai?
+TP
+
+
+I was well aware,
+TP
+
+
+From my own experience, and their records.
+TP
+
+
+There's a need to proceed cautiously.
+TP
+
+
+I'll approach Sempai,
+TP
+
+
+Slightly touch Sempai,
+TP
+
+
+And then---
+TP
+
+
+
+GL 0 evcc0005b
+$CGevcc0005b = 1
+GS 0 1
+SEF 152 0
+
+
+WVP 1 bgm015.ogg 0 0 0
+
+
+She's sleeping.
+//CP ccb1001
+TP
+
+
+I'd known this.
+TP
+
+
+WVP 0 vfcca0010msa000
+Misato: "......"
+//CP_S
+TP
+
+
+Soft, regular breathing.
+//CP_F
+TP
+
+
+I gazed at her for a while.
+TP
+
+
+At long last, her eyes opened slightly.
+TP
+
+WVP 0 vfcca0010msa001
+Misato: "Ah......what......?"
+//CP
+TP
+
+
+Taichi: "Good morning."
+//CP_S
+TP
+
+
+WVP 0 vfcca0010msa002
+Misato: "......Kurosu......kun?"
+TP
+
+
+Taichi: "I'm Peke."
+TP
+
+
+WVP 0 vfcca0010msa003
+Misato: "Peke-kun......"
+TP
+
+
+That nickname she just recited is reserved only for Sempai's use.
+//CP_F
+TP
+
+
+WVP 0 vfCCD1001msa000
+Misato: "How long have you been there?......That's embarrassing."
+TP
+
+
+She covered her face.
+TP
+
+
+Taichi: "Just now."
+//CP
+TP
+
+
+Taichi: "Anyway, it's dangerous to nod off in the middle of the day."
+//CP
+TP
+GL 0 evcc0005b
+$CGevcc0005b = 1
+GS 0 1
+SEF 109 0
+
+
+WVP 0 vfCCD1001msa001
+Misato: "Aaah, yes, I'm fine, guu..."
+TP
+
+GL 0 bgcc0007
+GS 0 1
+SEF 109 0
+
+I pulled her up.
+TP
+
+
+Taichi: "You mustn't sleep."
+TP
+
+
+I repositioned her glasses.
+//PCP
+TP
+
+
+GL 1 TCMM0000
+GP 1 225 0
+GI 1 1
+
+
+WVP 0 vfCCD1001msa002
+Misato: "Hafu."
+TP
+
+
+Taichi: "Now Sempai's back to normal."
+//CP
+TP
+
+
+Just on the outside.
+TP
+
+
+Taichi: "Are you awake now?"
+TP
+
+GL 1 TCMM0011
+GI 1 0
+
+WVP 0 vfCCD1001msa003
+Misato: "Nooo......I'm sleeeepy......"
+TP
+
+
+Taichi: "That's okay, but I can see your panties."
+TP
+
+GL 1 TCMM0004
+GI 1 0
+
+WVP 0 vfCCD1001msa004
+Misato: "......!......!!!"
+TP
+
+
+She woke up.
+TP
+
+
+She is a lady, after all.
+TP
+
+
+Taichi: "Good morning."
+TP
+
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfCCD1001msa005
+Misato: "Go...od morning......aaah, my head huuurts......"
+TP
+
+
+Taichi: "That's because you slept in the sun. You'll die if you do that."
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCD1001msa006
+Misato: "No, I'll survive."
+//To contrast with the next line, stating that she has a drive to live. That is, survive. -Neko
+TP
+
+
+Taichi: "Your resolve is excellent."
+TP
+
+
+Taichi: "But that's dangerous, so from now on, I'll be conducting surveillance on you."
+TP
+
+
+GL 1 TCMM0005
+GI 1 0
+
+WVP 0 vfCCD1001msa007
+Misato: "......huuuh?"
+TP
+
+
+Taichi: "That means this Kurosu Taichi will participate in your flight, I mean club activities."
+TP
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfcca0011amsa009
+Misato: "Club iiis oveeer!!"
+//CP ccb1002a
+TP
+
+
+Taichi: "Club is starting!!"
+TP
+
+GL 1 TCMM0005
+GI 1 0
+
+WVP 0 vfCCD1001msa008
+Misato: "But it just ended......"
+TP
+
+
+Taichi: "Just kidding. But I'll be coming to visit sometimes."
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCD1001msa009
+Misato: "Oh, is that all?"
+TP
+
+
+Taichi: "Then, see you tomorrow."
+TP
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfCCD1001msa010
+Misato: "Yes, see you tomorrow."
+TP
+
+
+GL 0 bgcc0011a
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+As I left the school building, I looked up at the roof.
+//CP_S
+TP
+
+
+The antenna was standing there.
+TP
+
+
+Beside it,
+TP
+
+
+Sempai still remained.
+TP
+
+
+She'd been working.
+TP
+
+
+Even though it's almost night.
+TP
+
+
+By herself.
+//CP_F
+TP
+
+
+
+
+WVP 3 SE001 0 0
+
+GL 0 bgcc0011s
+GS 0 1
+SEF 10 1
+
+Back when I believed that not touching people was the one and only path---
+//Really, using touch so much is starting to get unnecessarily repetitive. I think "reaching/reach out" would be better in some instances, such as the above -Neko
+TP
+
+
+I met Sempai.
+TP
+
+GL 1 TCMM0002s
+GP 1 225 0
+GI 1 1
+
+WVP 0 vfCCD1001msa011
+Misato: "Good afternoon!"
+TP
+
+
+Taichi: "......?"
+TP
+
+GL 1 TCMM0021s
+GI 1 0
+
+WVP 0 vfCCD1001msa012
+Misato: "You're always alone, aren't you?"
+TP
+
+
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa013
+Misato: "My name is Miyasumi Misato."
+TP
+
+GL 1 TCMM0002s
+GI 1 0
+
+WVP 0 vfCCD1001msa014
+Misato: "Why don't we start a club together?"
+//CP cca0016
+TP
+
+
+Those words cannot be forgotten.
+//Would suggest making this can not for stronger phonetic emphasis -Neko
+TP
+
+
+My first other.
+TP
+
+
+My first someone.
+TP
+
+
+
+
+WVS 1 1
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 1
+
+WVS 3 1
+
+
+WT 500 0
+WT 1000 1
+
+
+
+
+
+
+
+
+WVP 1 bgm018.ogg 0 0 0
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 155 1
+
+I woke up.
+TP
+
+
+Sunlight was penetrating through the window.
+TP
+
+
+I must have been sleeping soundly. I didn't have a single dream.
+TP
+
+
+The time......7 A.M.
+//there are adverb ("let's meet at 11 A.M.") and adjective (a.m.). I'm confused which one to use since there's no consistency in the entire script - Raide
+//Remove "it's", as it's unnecessary, since 7 a.m. after "the time" implies it is. -Neko
+TP
+
+
+I have to go to school.
+TP
+
+
+
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+
+I used to walk to school with that girl.
+TP
+
+
+
+
+
+WVP 3 se001 0 0 1
+
+
+GL 0 bgcc0005s
+GS 0 1
+GL 1 TCDY0000s
+GP 1 240 0
+GS 1 1
+SEF 10 0
+
+
+WVP 0 vfcca0013ysa000
+Yuusa: "Huh? Taichi-san?"
+//CP_S ccb0013
+TP
+
+
+
+
+
+Taichi: "Morning."
+TP
+
+GL 1 TCDY0001s
+GI 1 0
+
+WVP 0 vfcca0013ysa001
+Yuusa: "Ah, good morning."
+//CP_F
+TP
+
+
+Yuusa-chan---
+TP
+
+
+At that time, we were friends.
+TP
+
+WVS 3 1
+
+
+
+
+
+GL 0 bgcc0007
+GS 0 1
+GS 1 0
+SEF 10 1
+
+WT 500 0
+WT 500 1
+
+GL 0 evcc0005b
+$CGevcc0005b = 1
+GS 0 1
+SEF 152 0
+
+
+She was asleep.
+TP
+//Taichi is talking about Misato in these lines. $CGevcc0005b = 1 is displaying, Misato sleeping.
+//The change in who "she" is is implied in game due to the swith between colorless flash back and present time. Swapping She for Misaro here isn't really necessary, but it wouldn't be unproductive to do so.
+
+
+I picked up her alarm clock.
+TP
+
+
+It was set for 12.
+TP
+
+
+Had she been doing this into the night?
+TP
+
+
+Had she been moving around until I fell asleep?
+TP
+
+
+Was it that tough?
+TP
+
+
+I changed the time on the alarm clock.
+TP
+WVP 2 SE054 1 0
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 109 0
+WVP 0 vfCCD1001msa015
+Misato: "Nnah, nnah!"
+TP
+
+
+She leaped awake.
+TP
+
+
+Taichi: "What are you doing sleeping in this late?"
+TP
+
+GL 1 TCMM0011
+GP 1 225 0
+GI 1 1
+
+
+WVP 0 vfCCD1001msa016
+Misato: "I'm not sleeping."
+TP
+
+
+Taichi: "You're sleeping."
+TP
+
+
+WVP 0 vfCCD1001msa017
+Misato: "Guu..."
+TP
+
+
+Taichi: "I told you you're sleeping."
+TP
+
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfCCD1001msa018
+Misato: "Aaa......uuu..."
+TP
+
+
+She staggered to her feet.
+//CP_S ccb1004
+TP
+
+GL 1 TCMM0011
+GI 1 0
+
+WVP 0 vfcca0015msa002
+Misato: "Anyway, good morning."
+TP
+
+
+Taichi: "Good morning, Sempai."
+TP
+
+
+Taichi: "Won't you die from the heat if you sleep here in the middle of the day?"
+//Might consider using what others have for this. "Heat stroke" -Neko
+TP
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfcca0015msa003
+Misato: "Ah, right, that's true. I'll be more careful."
+TP
+
+
+Sempai wiped her glasses with the hem of her skirt.
+//CP_F
+TP
+
+
+I averted my eyes.
+TP
+
+
+I'm a gentleman, a gentleman.
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfcca0015msa004
+Misato: "Nyamu......"
+//CP_S
+TP
+
+
+She held back a yawn while wiping her glasses.
+//CP_F
+TP
+
+
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfCCD1001msa019
+Misato: "Fuuu, my body feels heavy."
+TP
+
+
+Taichi: "I bet it does."
+//Can't bet in the present on something past tense. -Neko
+TP
+
+
+WVP 0 vfCCD1001msa020
+Misato: "What time is it?"
+TP
+
+
+Taichi: "About eight."
+TP
+GO 1 1
+
+She lay down without a word.
+//Lay is the past tense of lie. Lied only applies to telling falsehoods. Seriously: http://englishplus.com/grammar/00000233.htm http://grammar.quickanddirtytips.com/lay-versus-lie.aspx ~Bal
+TP
+
+
+And put her hands together for a pillow.
+//"She" redundancy here, since who she is as a subject has already been established. I'd recommend chaning the above to "Misato"
+TP
+
+
+Taichi: "Even though you'll die doing that."
+TP
+
+
+There were bottles of sake rolling around in her belongings.
+TP
+
+
+Drink, flee, drink, flee.
+TP
+
+
+Sempai must have it rough.
+TP
+
+
+Taichi: "Well, I'll let you do as you please."
+//Do as you please sounds more fluid and compassionate -Neko
+TP
+
+
+WVP 0 vfcca0015msa032
+Misato: "ZZZ......"
+//CP_S
+TP
+
+
+I carried Sempai on my back.
+TP
+
+
+She didn't show the slightest sign of waking.
+TP
+
+GL 0 bgcc0012
+GS 0 1
+SEF 152 0
+
+An uninhabited health room.
+TP
+
+
+I laid Sempai down on an empty bed.
+//CP_S
+TP
+
+
+Taichi: "Good night, Sempai. Sweet dreams."
+//Vocative comma. ~Bal
+//CP_F
+TP
+
+
+WVS 1 1
+
+
+
+
+
+
+
+WVP 1 bgm021.ogg 0 0 0
+
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 0
+I continued the work.
+TP
+
+
+After living through a long proper time, I'd gathered the skills and the knowledge.
+//I don't understand the 'long proper time' part. What's 'proper' about it? - Sheeta
+//I don't really get it either.-Spin
+//Fixed lol -Neko
+//No, "proper time" is a compound phrase, borrowed from the sort of terminology used in the theory of relativity.  The adjective 'proper' indicates that it is time in one's own reference frame, not relative to an observer.  When a comma seperates the adjectives it implies the order is reversable, which is not the case here. The phrases "proper time", "proper us", etc. have been used here to distinguish the effect of the time loop, at least as I've been reading it. Reverted. ~Bal
+TP
+
+
+I'll construct the system far more efficiently than Sempai.
+//Why system instead of antenna? System makes this sentence unnecessarily complex. He's trying to construct a single object. -Neko
+TP
+
+
+I don't mind working until I'm dripping in sweat. It's comfortable.
+//There's a centralizaed adaptation to this. But I can't remember -Neko
+TP
+
+
+My body changed automatically, and one of my old memories floated up.
+//What kind of change? I didn't get the implication.
+TP
+
+
+With the roof as my stage, my heart traced out the past and tried to reproduce those impulses once more.
+TP
+
+
+
+GL 0 bgcc0007s
+GS 0 1
+SEF 10 1
+
+Avoiding the guards' eyes was a daily routine for me.
+TP
+
+
+That day I went to the roof again during lunch break.
+TP
+
+
+Even though I had no doubt that I'd be discovered right away, I'd unexpectedly found a blind spot.
+TP
+
+
+I gazed mindlessly up at the sky until the end of lunch break.
+TP
+
+
+A repose with no possibility of hurting anyone.
+//A repose is a place free from worry and anxiety, it doesn't have possibility. Need's rewording, someone may be able to vocalize this concern better than I.
+TP
+
+
+From a different perspective, it means not being able to connect with anyone.
+TP
+
+
+I'd thought I didn't care.
+TP
+
+
+Since my primary objective was to live among people, I didn't put much consideration into having fun.
+TP
+
+
+I was aware that I was holding a bomb.
+TP
+
+
+Hanging out with people was a high-priced commodity for me.
+TP
+
+
+What I could afford was this continuous stressful environment.
+TP
+
+
+What I got out of it was an excessive union. Without a happy end.
+TP
+
+
+Of course, it became troublesome.
+TP
+
+
+If I did it this time, there's no doubt that I'd be done for.
+TP
+
+
+Solitude became my daily life.
+TP
+
+
+What other means was there except for desensitizing my own heart?
+TP
+
+
+GL 1 TCMM0002s
+GP 1 225 0
+GI 1 1
+WVP 0 vfCCD1001msa021
+Misato: "Here we meet again, Kurosu-kun."
+TP
+
+
+She was the one who started talking.
+TP
+
+
+Taichi: "......"
+TP
+
+
+I think I was puzzled.
+TP
+
+
+I'd never been contacted that way.
+TP
+
+
+A girl with huge breasts.
+TP
+
+
+It wasn't that I had no animal passions.
+TP
+
+
+It wasn't that real world girls were a fundamental and hated weakness of mine.
+TP
+
+
+The girl smiled, and waited for my reaction.
+TP
+
+
+She didn't seem to want to leave.
+TP
+
+
+I gave off a Åwleave me aloneÅx aura.
+TP
+
+
+GL 1 TCMM0021s
+GI 1 0
+WVP 0 vfcca0016msa031
+Misato: "?"
+TP
+
+
+The girl didn't notice.
+TP
+
+
+Taichi: "......how do you know my name?"
+TP
+
+
+I had no choice but to answer. Defeat.
+TP
+
+
+GL 1 TCMM0002s
+GI 1 0
+WVP 0 vfCCD1001msa022
+Misato: "Aaah, so that's what your voice sounds like."
+TP
+
+
+She clapped her hands and smiled some more.
+TP
+
+
+Taichi: "How...do you know...my name?"
+TP
+
+
+I cut her off to ask.
+TP
+
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa023
+Misato: "From the student records."
+TP
+
+
+The student records?
+TP
+
+
+Was that something you could look at that easily?
+TP
+
+
+Actually, is it okay for the school to show you that?
+TP
+
+
+I drew out my sarcasm.
+TP
+
+
+Taichi: "......you act like a detective. Are you a criminal?"
+TP
+
+
+Taichi: "Do they teach you how to do that in high school?"
+TP
+
+
+I had quite a bit of confidence in my sarcasm.
+//"Ability to be sarcastic" or something to that effect. The way it's read is "The above two lines were my 'sarcasm'" and this statement says I have confidence in my 'above two lines', as opposed to one's ability to be sarcastic.
+TP
+
+GL 1 TCMM0005s
+GI 1 0
+
+WVP 0 vfCCD1001msa024
+Misato: "Aau, you're strict."
+TP
+
+
+GL 1 TCMM0002s
+GI 1 0
+WVP 0 vfCCD1001msa025
+Misato: "But you're right, I'm sorry."
+TP
+
+
+My sarcasm flew right over her.
+//Unless it has to be "flowed," I suggest this.-Spin
+TP
+
+
+Taichi: "......"
+TP
+
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa026
+Misato: "As for what I'm doing here...I'm recruiting."
+TP
+
+GL 1 TCMM0021s
+GI 1 0
+
+WVP 0 vfCCD1001msa027
+Misato: "I'm from the Broadcasting Club......"
+TP
+
+
+Taichi: "I know."
+TP
+
+
+Taichi: "I often listen to the lunch broadcasts."
+TP
+
+
+Even if I don't want to.
+TP
+
+
+GL 1 TCMM0002s
+GI 1 0
+
+WVP 0 vfCCD1001msa028
+Misato: "Aaah, then this should go quickly. Yes, that's me, the DJ during lunch."
+TP
+
+
+Taichi: "I don't think I'm that good at flattery."
+TP
+
+GL 1 TCMM0005s
+GI 1 0
+
+WVP 0 vfCCD1001msa029
+Misato: "......that sort of thing......isn't my strong suit......"
+//She's acknowledging Taichi was correct when he indirectly said she sucks as a DJ with his 'flattery' comment?  I had to reread this a couple times to make sense of it. ~Bal
+TP
+
+
+She drooped.
+TP
+
+
+Taichi: "If you know you're not good, you should stop."
+TP
+
+
+Since I wasn't used to conversation, I was using some strange formal particles in my speech.
+//I figure my only hope for this line is to assume the reader understands that Japanese has far more ways to convey formality than English and that most of them are invisible after tling. Though I'm sure there are still better ways to rephrase this. Å`IX
+//I fiddled with the line a bit. I think the player can work it out even without knowing about Japanese formality, from the way Taichi is responding to Misato. Since it's not exacly conventional. I don't know if I'm making sense ^^; but the point is, I think it's fine. - Sheeta
+//You guys and your super long comments.-Spin
+//This wording is fine. It read fluidly in game. -Neko
+TP
+
+GL 1 TCMM0003s
+GI 1 0
+
+WVP 0 vfCCD1001msa030
+Misato: "We perpetually lack people."
+TP
+
+
+Then, she held out one of her hands with the palm facing upward.
+TP
+
+
+GL 1 TCMM0000s
+GI 1 0
+WVP 0 vfCCD1001msa031
+Misato: "That's why I wanted to tempt Kurosu-kun."
+TP
+
+
+Taichi: "......"
+TP
+
+
+Taichi: "............hu."
+TP
+
+
+I tried to laugh coldly, but failed as my facial muscles convulsed, as if an electric current was being passed through them.
+TP
+
+
+......this was the worst.
+TP
+
+
+I equipped an expressionless face as I informed her,
+TP
+
+
+Taichi: "I'm sorry. Please ask someone else."
+TP
+
+
+I stood up and walked away.
+//Wasn't he standing all this time?-Spin
+TP
+
+GL 1 TCMM0004s
+GI 1 0
+
+WVP 0 vfCCD1001msa032
+Misato: "Aaah, wait, wait!!"
+TP
+
+
+........................
+TP
+
+
+
+
+GL 0 bgcc0007
+GS 0 1
+GS 1 0
+SEF 10 0
+Hers was the first club I'd ever been invited to.
+//"Her's" (I think) or "Her club was the first I'd", would be the solution. Needs fix -Neko
+TP
+
+
+Now,
+TP
+
+
+She's rejecting me.
+TP
+
+
+
+
+WVS 1 1
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+WT 500 0
+WT 1000 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+Wednesday.
+TP
+
+
+To school.
+TP
+
+
+
+
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+
+A gate to prevent running away.
+TP
+
+
+It didn't seem to be protecting the students so much as protecting the outside world from us.
+TP
+
+
+That's the impression it held.
+TP
+
+
+
+
+
+
+WVP 1 bgm010.ogg 0 0 0
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 0
+
+GL 1 TCMM0000
+GP 1 225 0
+GI 1 1
+WVP 0 vfcca0016msa000
+Misato: "Peke-kun."
+//CP_S cca0016
+TP
+
+
+She met me with a suspicious gaze.
+TP
+
+
+Taichi: "Oya, president."
+//CP_F
+TP
+
+
+Taichi: "Do you have a hangover?"
+//You're kidding right? It's a 'hang over', therefore a noun. Fixed. (Nobody says "Hung over" irl, nubs) -Neko
+//One word.  Also.  "Are you hung over?" is also perfectly acceptable, and not uncommon in my experience.  ~Bal
+TP
+
+
+GL 1 TCMM0011
+GI 1 1
+WVP 0 vfCCD1001msa033
+Misato: "......I do. Owowowow."
+//Fixed to match the above -Neko
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCD1001msa034
+Misato: "It's not that, while I was sleeping in the health room, the work continued on its own......some mysterious phenomenon is occurring."
+TP
+
+
+Taichi: "That was me."
+//Suggestion: My doing. Indicates he's the source of the phenomenon
+TP
+
+GL 1 TCMM0004
+GI 1 0
+
+WVP 0 vfCCD1001msa035
+Misato: "You did...?"
+TP
+
+
+Taichi: "Because Sempai told me to."
+TP
+
+
+WVP 0 vfCCD1001msa036
+Misato: "Eh!? Did I say that?"
+TP
+
+
+Taichi: "Yes. Maybe because you were drunk, you don't remember it?"
+TP
+
+
+GL 1 TCMM0005
+GI 1 0
+WVP 0 vfCCD1001msa037
+Misato: "No......"
+TP
+
+
+She looks worried.
+TP
+
+
+Now she's indebted to me.
+TP
+
+
+Taichi: "After that, I was wondering what to do, since it was the first time Sempai suddenly danced naked."
+TP
+
+
+GL 1 TCMM0007
+GI 1 0
+
+WVP 0 vfcca0016msa016
+Misato: "-!?"
+//CP_S
+TP
+
+
+Sempai's eyes became a ÅwÅ~Åx stretched horizontally.
+//CP_F
+TP
+
+
+WVP 0 vfcca0016msa017
+Misato: "Aaaah!!"
+//CP
+TP
+
+
+WVP 0 vfCCD1001msa038
+Misato: "To think I'd do such a......I can't believe that!"
+TP
+
+
+Taichi: "It was like this......"
+TP
+
+
+
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+SEF 10 1
+
+WVP 0 vfCCD1001msa039
+Misato: "Hot...it's hooot......I can't weaaar this..."
+TP
+
+
+Sempai undid her necktie with her left hand, and held out her right hand three seconds later at a forty-five degree downward angle, with her index finger buried up to the second joint inside the knot for 0.62 seconds.
+//I can't picture this either. He's probably not making sense. Å`IX
+TP
+
+
+The strength of both hands conflicted, increasing the friction, and pulling out the part around her neck with a length of around thirty-two centimeters.
+TP
+
+
+Next, her right hand undid her first and second buttons, each in about two seconds, exposing her chest.
+TP
+
+WVP 0 vfCCD1001msa040
+Misato: "Thaaat's...pa-! Pa-! Paaa-!"
+TP
+
+
+She lowered her shoulder straps with both hands, and her right hand once again went for her blouse buttons, and her left hand began to undo the fastener on the side hook of her skirt.
+//And, and. Run-on sentence. -Neko
+TP
+
+
+Her blouse in 4.28 seconds, her skirt in 7.34 seconds.
+TP
+
+
+She was in her underwear.
+TP
+
+
+WVP 0 vfCCD1001msa041
+Misato: "I'll strip my panties tooo..."
+TP
+
+
+At about ÅwmyÅx, they fell to her ankles.
+//my? - Sheeta
+//No, hers. She was the one wearing them. Å`IX
+//It still doesn't make sense. "At about my, they fell to her ankles."-Spin
+//It does, When she got to "I'll strip my" her panties dropped to her ankles. It's clever, doesn't need to be fixed. However, could use "Around" instead of "At about" -Neko
+TP
+
+
+She stepped out of them, and as her shameful hair blew in the wind, she undid her bra hook.
+TP
+
+
+Her tight breasts pushed off their cups, and the cloth danced softly in the air. Unable to attain enough bouyancy to glide, it tumbled and fell to the ground.
+TP
+
+
+By now, Sempai's wardrobe consisted of only glasses, socks and shoes.
+TP
+
+
+The glasses were part of her face, so she's actually naked except for her feet.
+TP
+
+
+WVP 0 vfCCD1001msa042
+Misato: "Someone please look at my unclothed form, someoneeee..."
+TP
+
+
+She stretched both arms out horizontally, and while turning to the left at one revolution per second she moved 6.53 meters.
+TP
+
+
+WVP 0 vfCCD1001msa043
+Misato: "My true mosaic-less form..."
+//Thank god I know what a "mosaic" is this time. Å`IX
+TP
+
+
+Unfortunately, there was a mosaic.
+TP
+
+
+WVP 0 vfCCD1001msa044
+Misato: "Laaa-lalalala-laaa-laa-la-laaÅÙ"
+//I like the comment left in here for the voice actor, which basically meant "Do this however it seems apporpriate." ie "Just do whatever."
+//Ooo, there's comments for the voice actors on the script? How interesting... - Sheeta
+//There are a few. I think Touko's gibberish lines had comments saying "don't do this one", ie they just had a machine generate some squeaking. Å`IX
+TP
+
+
+As there was nothing I could do, I gazed at that beautiful form of Sempai's.
+TP
+
+
+
+
+Å`ENDÅ`
+TP
+
+
+GL 0 bgcc0007
+GL 1 TCMM0003
+GS 0 1
+GS 1 1
+SEF 10 1
+
+WVP 0 vfCCD1001msa045
+Misato: "......*sob* *sob* *sob*......even though I said you can't look, you did..."
+//Since I don't remember her saying this, I made a wild guess about the intent. Å`IX
+TP
+
+
+She sat down crookedly and cried like a true Japanese woman.
+//I think true would be better here. And more hilarious -Neko
+TP
+
+
+Taichi: "That's a crane's repayment."
+//SOS?
+//maybe something to do with Japanese mythology? - Sheeta
+//That's what I assumed so I guess readers will also.-Spin
+//Recompense is pro here. -Neko
+TP
+
+
+GL 1 TCMM0005
+GI 1 0
+
+WVP 0 vfCCD1001msa046
+Misato: "What you just depicted so accurately is the truth, isn't it!!?"
+TP
+
+
+Taichi: "Yes."
+TP
+
+
+She fell down in tears.
+TP
+//she fell down in tears, after Taichi "confirmed" what she had done.
+//She fell into tears? What? "Dropped to her knees, sobbing." Even just changing "in tears" to sobbing wound be better, she fell down in the action of sobbing -Neko
+
+
+Taichi: "But fear not. I dealt with it in such a manner that no one saw a thing."
+//CP_S ccb1006
+TP
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfcca0016msa018
+Misato: "......aah, so that's what happened......thank you very much."
+//CP_F
+TP
+
+
+Taichi: "Don't mention it."
+TP
+
+
+Taichi: "Also, I wrote a manuscript."
+TP
+
+
+
+
+WVS 1 1
+
+
+
+
+GL 1 TCMM0004
+GI 1 0
+
+WVP 0 vfCCD1001msa047
+Misato: "Eh? Did I ask you for that as well?"
+TP
+
+
+Taichi: "Yes, please look at it."
+TP
+
+
+I had transcribed the past manuscript to the letter.
+//Rhyming nuance here leads to awkwardness. Broke I'd -Neko
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCD1001msa048
+Misato: "Hmmm......this is good..."
+TP
+
+
+She raised her head and showed me a smile.
+TP
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfCCD1001msa049
+Misato: "It's just like us."
+TP
+
+
+Taichi: "So it's not rejected?"
+TP
+
+
+We both laughed loudly. A little.
+TP
+
+
+Sempai's face became gloomy.
+//I'd recommend gloomy here, for more common word usage.
+TP
+
+
+
+
+WVP 1 bgm013.ogg 0 0 0
+
+
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfCCD1001msa050
+Misato: "......in the end, I can't do anything myself."
+TP
+
+
+Taichi: "You were forcing yourself, weren't you?"
+TP
+
+
+Taichi: "You can't pull all-nighters, then act reckless during the day. That's prohibited."
+TP
+
+
+WVP 0 vfCCD1001msa051
+Misato: "Uuu......a club president being lectured by her kouhai......"
+TP
+
+
+Sempai stood up at the same time the precarious building materials began to move.
+//The building materials were moving prior to standing up, or did they start to move after she stood up. Discrepancy here -Neko
+TP
+
+
+I pulled her toward me.
+TP
+
+
+Taichi: "Watch out."
+TP
+
+GL 1 TCMM0004
+GI 1 0
+
+WVP 0 vfcca0016msa045
+Misato: "Eh?"
+//CP ccb1006
+TP
+
+
+Stepladder, needles, tools......all of those things,
+//CP
+//Needles? She sounds like a heroin addict-Spin
+//Fucking vampires -Neko
+TP
+WVP 2 SE017 1 0
+
+While playing dissonant chords, scattered across the ground.
+//Dissonant pertains to sounds, so I matched the next word to the prior. I assumed intention -Neko
+TP
+GL 0 evcc0036
+$CGevcc0036 = 1
+GS 0 1
+GS 1 0
+
+SEF 155 0
+
+
+WVP 0 vfCCD1001msa052
+Misato: "Ah......"
+TP
+
+
+Taichi: "That was close."
+TP
+
+
+WVP 0 vfCCD1001msa053
+Misato: "Ah......th-thanks......"
+TP
+
+
+Taichi: "A little longer."
+TP
+
+
+WVP 0 vfCCD1001msa054
+Misato: "Ah, b-but......"
+TP
+
+
+Taichi: "It's dangerous not to do this a little longer."
+TP
+
+
+WVP 0 vfCCD1001msa055
+Misato: "......are you sure......?"
+TP
+
+
+Sempai's smell.
+TP
+
+
+The memories that boiled up had a realistic atmosphere of early summer as they entered my nose.
+TP
+
+
+
+
+WVP 3 se001 0 0 1
+
+
+GL 0 bgcc0007s
+GS 0 1
+SEF 10 1
+
+
+GL 1 TCMM0002s
+GP 1 225 0
+GI 1 1
+
+WVP 0 vfCCD1001msa056
+Misato: "Good evening."
+TP
+
+
+As I was dozing off, there was a cold sensation on my neck.
+TP
+
+
+Taichi: "......uwa, what are-?"
+TP
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa057
+Misato: "It's time for some cold juice."
+TP
+
+
+Sempai was holding two cans.
+TP
+
+
+Taichi: "......"
+TP
+
+GL 1 TCMM0002s
+GI 1 0
+
+
+
+WVP 0 vfCCD1001msa058
+Misato: "My treat."
+TP
+
+
+Taichi: "............"
+TP
+
+
+She made me take it.
+TP
+
+
+Taichi: "......Sempai's also a persistent person."
+TP
+
+
+Taichi: "I think it's best not to get too involved with me."
+TP
+
+GL 1 TCMM0021s
+GI 1 0
+
+WVP 0 vfCCD1001msa059
+Misato: "Why is that?"
+TP
+
+
+She sat down next to me.
+TP
+
+
+Taichi: "Because I'm a worthless guy."
+TP
+
+
+Taichi: "When I'm not careful, I start wanting to hurt people."
+//I'd like to see desire used over "want" here. Indicated maliciousness
+TP
+
+
+Taichi: "......I'm a dangerous person."
+TP
+
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa060
+Misato: "Aaah......that sounds heavy......"
+TP
+
+
+If she looked at my records, she should have figured that out.
+TP
+
+
+When she saw my name framed in red.
+TP
+
+
+Taichi: "And now a club? I don't think my participation would be allowed."
+TP
+
+
+Taichi: "You're one of the people here as well......you should understand that."
+TP
+GL 1 TCMM0002s
+GI 1 0
+
+
+
+WVP 0 vfCCD1001msa061
+Misato: "Yes. That's why I wanted to try talking to you like this."
+TP
+
+
+Taichi: "......there are many things you can't understand through talking."
+TP
+
+GL 1 TCMM0000s
+GI 1 0
+
+
+WVP 0 vfCCD1001msa062
+Misato: "There's one thing I do understand."
+TP
+
+
+She raised a finger. Her face was serious.
+TP
+
+
+Taichi: "......which would be?"
+TP
+
+
+WVP 0 vfCCD1001msa063
+Misato: "You have......a normalcy complex."
+//Probably the best example in the game of a line that's really, really, really easy to misinterpret, since "You have a normal complex." is the hyperliteral. Å`IX
+TP
+
+
+Taichi: "......!"
+TP
+
+
+She's right. Such insight into a human...is this the wisdom of age?
+TP
+
+
+How could someone pile on thought so as to say something that accurate?
+TP
+
+
+I shuddered.
+TP
+
+GL 1 TCMM0002s
+GI 1 0
+
+WVP 0 vfCCD1001msa064
+Misato: "That's the sort of face you're making."
+TP
+
+
+From my face?
+TP
+
+
+I relaxed.
+TP
+
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa065
+Misato: "In other words, you're yearning to be healthy."
+TP
+
+
+GL 1 TCMM0003s
+GI 1 0
+WVP 0 vfCCD1001msa066
+Misato: "......just like me."
+TP
+
+
+She showed me the wounds on her wrists.
+TP
+
+
+They were faint, as they'd begun to disappear, so they must be pretty old.
+TP
+
+
+Taichi: "......these are...?"
+TP
+
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa067
+Misato: "Self-injury."
+TP
+
+
+WVP 0 vfCCD1001msa068
+Misato: "Even if I cut my wrist, without a lot of preparation, I won't die."
+TP
+
+
+WVP 0 vfCCD1001msa069
+Misato: "But when stress builds up, I hurt myself."
+TP
+
+GL 1 TCMM0031s
+GI 1 0
+
+WVP 0 vfCCD1001msa070
+Misato: "To me, 'stress' is......I can't explain it well, but it's something improper."
+TP
+//changed to something, because improper things like rules that aren't followed is what stress is to her.
+
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa071
+Misato: "A disorganized room, or rules that aren't followed."
+TP
+
+
+Taichi: "That's tough."
+TP
+
+
+Taichi: "Aren't most of the mouths in the world like that?"
+TP
+
+GL 1 TCMM0003s
+GI 1 0
+
+WVP 0 vfCCD1001msa072
+Misato: "That is true......so many of them are sources of stress..."
+TP
+
+
+WVP 0 vfCCD1001msa073
+Misato: "I stop doing this and that, and hurt myself......"
+TP
+
+
+WVP 0 vfCCD1001msa074
+Misato: "Sometimes, I hurt others as well."
+TP
+
+
+WVP 0 vfCCD1001msa075
+Misato: "That's the dilemma I have."
+TP
+
+
+Taichi: "It's different from mine."
+TP
+
+
+Taichi: "Mine......"
+TP
+
+
+I was softly embraced.
+TP
+
+
+Taichi: "Wa-"
+TP
+
+GL 1 TCMM0002s
+GI 1 0
+
+WVP 0 vfCCD1001msa076
+Misato: "It's okay, if it's painful, you don't have to talk about it."
+TP
+
+
+WVP 0 vfCCD1001msa077
+Misato: "......anyway, I'm hopeless."
+TP
+
+
+WVP 0 vfCCD1001msa078
+Misato: "But still, I'm struggling toward normalcy."
+TP
+
+
+Taichi: "Sempai......you're......"
+TP
+
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa079
+Misato: "Flying EM waves, blazing friendship, various events and reconciliation......you too aim for mediocrity, why don't we both work toward that together?"
+TP
+
+
+Taichi: "............"
+TP
+
+GL 1 TCMM0002s
+GI 1 0
+
+WVP 0 vfCCD1001msa080
+Misato: "The Gunjou Institute Broadcasting Club is currently recruiting sensitive, unconfident boys."
+TP
+
+
+Taichi: "......just like a cult solicitation."
+TP
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa081
+Misato: "What's wrong with a cult?"
+TP
+
+
+Taichi: "Weird girl."
+TP
+
+GL 1 TCMM0006s
+GI 1 0
+
+WVP 0 vfCCD1001msa082
+Misato: "Hey!"
+TP
+
+
+Taichi: "......ow."
+TP
+
+
+*bump*
+TP
+
+
+A hit to the head.
+TP
+
+
+WVP 0 vfCCD1001msa083
+Misato: "Address your seniors as 'Sempai.'"
+TP
+
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa084
+Misato: "Also, the price of the juice you drank came out of club funds."
+TP
+
+
+Taichi: "......not bad."
+TP
+
+GL 1 TCMM0002s
+GI 1 0
+
+WVP 0 vfCCD1001msa085
+Misato: "You have a duty to at least observe the club now. Yes, you do."
+TP
+
+
+Taichi: "......that's an adult trick."
+TP
+
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa086
+Misato: "I'm just a petty ojou-chan who has to work laboriously even though I'm a first year because I have so few club members."
+//Did a quick grep for 'ojou' in the old scripts.  It only came up with shoujo and related.  TL note of some sort here? ~Bal
+TP
+
+
+Taichi: "Your huge breasts are touching me. Are you okay with that posture?"
+TP
+
+GL 1 TCMM0002s
+GI 1 0
+
+
+WVP 0 vfCCD1001msa087
+Misato: "Ah, you also have interest in that sort of thing?"
+TP
+
+
+Taichi: "I am a boy after all."
+TP
+
+
+WVP 0 vfCCD1001msa088
+Misato: "My little brother is still an utter child."
+TP
+
+
+Defenseless.
+TP
+
+
+She's way too defenseless.
+TP
+
+
+Taichi: "......haha."
+TP
+
+
+I laughed.
+TP
+
+
+Taichi: "I'll join."
+TP
+
+
+GL 1 TCMM0021s
+GI 1 0
+WVP 0 vfCCD1001msa089
+Misato: "What?"
+TP
+
+
+Taichi: "......I'll join your club."
+TP
+
+GL 1 TCMM0004s
+GI 1 0
+
+
+
+WVP 0 vfCCD1001msa090
+Misato: "Eh? Really really?"
+TP
+
+
+Taichi: "Since that's better than being forever solicited by having your breasts pushed against me."
+TP
+
+GL 1 TCMM0002s
+GI 1 0
+
+
+WVP 0 vfCCD1001msa091
+Misato: "Waa! I did it! I'm amazing!"
+TP
+
+
+You are just......
+TP
+
+
+WVS 3 1
+
+
+GL 0 bgcc0007
+GS 0 1
+GS 1 0
+
+SEF 10 1
+
+Taichi: "It's the opposite."
+TP
+
+
+Taichi: "It's the opposite of that time."
+TP
+
+GL 1 TCMM0021
+GI 1 1
+
+WVP 0 vfCCD1001msa092
+Misato: "......that time......?"
+TP
+
+
+Taichi: "Have you forgotten already?"
+TP
+
+
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfCCD1001msa093
+Misato: "Aaah......you mean that time."
+TP
+
+
+The Sempai who willingly pushed her breasts against me.
+TP
+
+
+She no longer has that innocence.
+TP
+
+
+If I held her, she'd twitch and panic.
+TP
+
+
+That'd be Sempai being conscious of me as a member of the opposite gender.
+TP
+
+
+Her breasts bounced a little.
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCD1001msa094
+Misato: "......I think...something like that happened."
+TP
+
+
+Taichi: "Payback for suddenly hugging me."
+TP
+
+GL 1 TCMM0005
+GI 1 0
+
+WVP 0 vfCCD1001msa095
+Misato: "That was......but, I'd thought you were a child."
+TP
+
+
+Taichi: "If you don't become more wary, you're going to get hurt."
+TP
+
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfCCD1001msa096
+Misato: "......I'm fine with getting hurt."
+TP
+// changed to have some more coherency with previous line.
+
+
+WVP 0 vfCCD1001msa097
+Misato: "It's better than hurting others."
+TP
+
+
+Taichi: "How could a person like Sempai hurt people?"
+TP
+
+
+GL 1 TCMM0001
+GI 1 0
+WVP 0 vfCCD1001msa098
+Misato: "............I can hurt them......"
+TP
+
+
+With a hoarse voice, she rubbed her forehead.
+TP
+
+
+This Sempai,
+TP
+
+
+Now,
+TP
+
+
+Was like an innocent girl.
+TP
+
+
+
+
+
+WVS 1 1
+
+
+
+
+
+GL 0 bgcc0012a
+GS 0 1
+GS 1 0
+
+SEF 152 0
+
+WT 500 0
+
+GL 0 evcc0006a
+$CGevcc0006a = 1
+GS 0 1
+SEF 152 0
+
+
+
+WVP 1 bgm003.ogg 0 0 0
+
+
+
+WVP 0 vfCCD1001msa099
+Misato: "Umm......"
+TP
+
+
+Taichi: "Why?"
+IF $tlnote != 0 (TL note: Misused English again.)
+TP
+
+
+WVP 0 vfCCD1001msa100
+Misato: "Why am I being nursed when I have no injuries?"
+TP
+
+
+Taichi: "Isn't there a chance you could have some abrasions?"
+TP
+
+
+WVP 0 vfCCD1001msa101
+Misato: "Did I scratch anything......?"
+TP
+
+
+Taichi: "Well, anyway, you seem tired, so you should rest a little."
+TP
+
+
+WVP 0 vfCCD1001msa102
+Misato: "Haa......"
+TP
+
+
+Taichi: "Here, Sempai's cell phone."
+TP
+
+
+WVP 0 vfCCD1001msa103
+Misato: "Ah, thank you."
+TP
+
+
+Taichi: "You're carrying it around even though you can't use it?"
+TP
+
+
+WVP 0 vfCCD1001msa104
+Misato: "......I feel anxious without it."
+TP
+
+
+WVP 0 vfCCD1001msa105
+Misato: "I need to be there if a call comes."
+TP
+
+
+Taichi: "......a call?"
+TP
+
+
+WVP 0 vfCCD1001msa106
+Misato: "From my family."
+TP
+
+
+Taichi: "Sempai's family...aren't they......?"
+TP
+
+
+WVP 0 vfCCD1001msa107
+Misato: "In prison......"
+TP
+
+
+Taichi: "EH?"
+TP
+
+
+WVP 0 vfCCD1001msa108
+Misato: "......their livelihood is crime."
+TP
+
+
+Taichi: "I-I never knew that."
+TP
+
+
+WVP 0 vfCCD1001msa109
+Misato: "Huge embezzlements and tax evasions."
+TP
+
+
+It seems like a lot happened to her.
+TP
+
+
+Taichi: "I'll have to be careful not to become a sexual offender myself."
+TP
+
+
+WVP 0 vfCCD1001msa110
+Misato: "......I can't laugh at that."
+TP
+
+
+Taichi: "Now then,"
+TP
+
+
+WVP 0 vfCCD1001msa111
+Misato: "?"
+TP
+
+
+Taichi: "Please get some sleep soon."
+TP
+
+
+WVP 0 vfCCD1001msa112
+Misato: "I-I-I-I-I-I-I feel like you're going to do something perverted."
+TP
+
+
+Taichi: "How rude. I wouldn't do such a thing."
+TP
+
+
+Not now.
+TP
+
+
+Taichi: "It's fine for Sempai to live easy."
+//Carefree may be a more situational alternative
+TP
+GL 0 evcc0006
+$CGevcc0006 = 1
+GS 0 1
+SEF 109 0
+
+With my palm, I closed her eyes.
+TP
+
+
+
+
+GL 0 bgcc0008a
+GS 0 1
+SEF 152
+
+I entered the hallway.
+TP
+
+
+I searched for Tomoki.
+TP
+
+
+And I was able to find him right away.
+TP
+
+
+I called out to him.
+TP
+
+GL 1 TCST0000b
+GP 1 190 0
+GI 1 1
+
+WVP 0 vmCCD1001yki000
+Tomoki: "Taichi......"
+TP
+
+
+Taichi: "Worried about your Nee-san?"
+TP
+GL 1 TCST0002b
+GI 1 0
+
+WVP 0 vmCCD1001yki001
+Tomoki: "......eh? No, that's not it, but......I wondered if something happened."
+TP
+
+
+GL 1 TCST0004b
+GI 1 0
+WVP 0 vmCCD1001yki002
+Tomoki: "Besides, we have nothing to do with each other. Our parents are divorced."
+TP
+
+GL 1 TCST0000b
+GI 1 0
+
+WVP 0 vmCCD1001yki003
+Tomoki: "We're both living with a different one."
+TP
+
+
+Different parents?
+TP
+
+
+So their four person family was split in half?
+TP
+
+
+Taichi: "So that's what happened. Who do you live with, Tomoki?"
+TP
+
+GL 1 TCST0004b
+GI 1 0
+
+WVP 0 vmCCD1001yki004
+Tomoki: "......my mother."
+TP
+
+
+Taichi: "So Sempai's with your father?"
+TP
+
+GL 1 TCST0000b
+GI 1 0
+
+WVP 0 vmCCD1001yki005
+Tomoki: "Pretty much......"
+TP
+
+
+WVP 0 vmCCD1001yki006
+Tomoki: "But, aren't the two of you doing something together?"
+TP
+
+
+Taichi: "Yeah, I'm helping with Sempai's club."
+TP
+
+
+GL 1 TCST0000b
+GI 1 0
+
+WVP 0 vmcca0018yki002
+Tomoki: "......why this again?"
+//CP_S cca0018
+TP
+
+
+Taichi: "Well, isn't it nice to have goals?"
+TP
+
+
+WVP 0 vmcca0018yki003
+Tomoki: "By 'club,' you meant 'that' nonsense?"
+//Meant here suggests aggressive sarcasm, mean would be better if he was sincerely asking for verification -Neko
+TP
+
+
+Taichi: "That's not nonsense."
+//PCP
+TP
+
+GL 1 TCST0004b
+GI 1 0
+
+WVP 0 vmcca0018yki004
+Tomoki: "If Taichi's doing such a thing......well, there must be some kind of reason."
+TP
+GL 1 TCST0000b
+GI 1 0
+
+WVP 0 vmcca0018yki005
+Tomoki: "Who else is participating?"
+TP
+
+
+Taichi: "The prez."
+TP
+
+GL 1 TCST0001b
+GI 1 0
+
+WVP 0 vmcca0018yki006
+Tomoki: "......that's it?"
+TP
+
+
+Taichi: "Yes."
+TP
+
+GL 1 TCST0003b
+GI 1 0
+
+WVP 0 vmcca0018yki007
+Tomoki: "That's not a club......"
+TP
+
+
+Taichi: "We call it a club to pleasure ourselves."
+//Please would be better -Neko
+TP
+
+GL 1 TCST0000b
+GI 1 0
+
+WVP 0 vmcca0018yki008
+Tomoki: "......lately, I knew she'd been pushing a lot of things forward...so that was for the club..."
+//Knew suggests he still knows, I had known means that he had known in the past. -Neko
+TP
+
+
+I shrugged my shoulders.
+//CP_F
+TP
+
+
+Taichi: "What about you, Tomoki? Behaving poisonously toward your sibling..."
+TP
+GL 1 TCST0004b
+GI 1 0
+
+
+WVP 0 vmCCD1001yki007
+Tomoki: "You mean 'privately.'"
+TP
+
+GL 1 TCST0000b
+GI 1 0
+
+WVP 0 vmCCD1001yki008
+Tomoki: "......I'm sorry."
+TP
+
+
+Taichi: "I see."
+TP
+
+GL 1 TCST0004b
+GI 1 0
+
+
+WVP 0 vmcca0018yki012
+Tomoki: "......you'll be betrayed."
+//CP_S
+TP
+
+
+He spat out.
+//CP_F
+TP
+
+
+Taichi: "Fine by me."
+TP
+
+GL 1 TCST0000b
+GI 1 0
+
+WVP 0 vmCCD1001yki009
+Tomoki: "Nn......"
+TP
+
+
+Taichi: "Is not being betrayed a precondition for trust?"
+//Pretense to = Alternate wording -Neko
+//Unless it was meant to sound odd and awkward. (Not every trust ends up betrayed, but if the inclusion of 'possibility' is undesired, revert away.) ~Bal
+TP
+
+GL 1 TCST0001b
+GI 1 0
+
+WVP 0 vmCCD1001yki010
+Tomoki: "That's......"
+TP
+
+
+Taichi: "Then aren't I worthless too?"
+TP
+
+GL 1 TCST0000b
+GI 1 0
+
+
+WVP 0 vmCCD1001yki011
+Tomoki: "Taichi won't betray me, right?"
+TP
+
+
+Taichi: "No, no, I've betrayed many things, and I'll betray many more things."
+TP
+
+GL 1 TCST0003b
+GI 1 0
+
+WVP 0 vmCCD1001yki012
+Tomoki: "......I can't think of that as one of those high-level gags you usually say."
+TP
+
+
+That's not what I'm saying.
+TP
+
+
+Taichi: "Those precious gems you call gags don't just fall from the sky you know."
+TP
+
+
+Do you prefer quantity to quality?
+TP
+
+GL 1 TCST0004b
+GI 1 0
+
+WVP 0 vmCCD1001yki013
+Tomoki: "Anyway, it's best not to get that close to her. For Taichi's sake."
+TP
+
+
+Taichi: "Nooo, I'll get close to her. I'm going to go where this is going."
+//The Japanese is this vague. Å`IX
+TP
+
+
+Tomoki went pale.
+TP
+
+GL 1 TCST0001b
+GI 1 0
+
+WVP 0 vmCCD1001yki014
+Tomoki: "Wh-what......do you mean 'where this is going'......?"
+TP
+
+
+Taichi: "The goal."
+TP
+
+
+WVP 0 vmCCD1001yki015
+Tomoki: "What 'goal'......?"
+TP
+
+
+Taichi: "Penetration."
+TP
+
+
+WVP 0 vmCCD1001yki016
+Tomoki: "Gu......"
+TP
+
+
+He'd received a shock.
+TP
+GL 1 TCST0004b
+GI 1 0
+
+WVP 0 vmCCD1001yki017
+Tomoki: "That's......but......"
+TP
+
+
+Taichi: "You're thinking too much, Immoral."
+//Stating Tomoki's name to be Immoral aaaaaand....
+TP
+
+
+I slapped his shoulder.
+TP
+GL 1 TCST0000b
+GI 1 0
+
+
+WVP 0 vmCCD1001yki018
+Tomoki: "I'm Tomoki!"
+TP
+
+
+Taichi: "Be a purer Immoral. It's for your sake."
+//Then turning immoral into a noun, vs. Proper noun -Neko
+TP
+
+GL 1 TCST0003b
+GI 1 0
+
+WVP 0 vmCCD1001yki019
+Tomoki: "I don't understand 95% of that."
+TP
+
+
+Taichi: "Flying EM waves, blazing friendship, various events and reconciliation......you too aim for mediocrity, why don't we both work toward that together?"
+//CP ccd1001a Since this will be a separate script when I upload it.
+TP
+
+
+Tomoki: "............"
+TP
+
+
+Taichi: "The Gunjou Institute Broadcasting Club is currently recruiting boys with unmanageable lust for older sisters."
+//PCP, by memory for once O_o
+TP
+
+
+Words borrowed from Sempai.
+TP
+
+
+I thought I'd tell Tomoki that as well.
+TP
+
+GL 1 TCST0000b
+GI 1 0
+
+WVP 0 vmCCD1001yki021
+Tomoki: "......you know..."
+TP
+
+
+
+WVS 1 1
+
+
+
+
+
+GL 0 bgcc0003e
+GS 0 1
+GS 1 0
+SEF 152 0
+
+Tomoki's coming soon.
+TP
+
+GL 0 bgcc0013b
+GS 0 1
+SEF 152 0
+Standby at the entrance.
+TP
+
+
+WVP 1 bgm004.ogg 0 0 0
+
+
+GL 0 bgcc0013bz
+GL 1 TCST0000c
+GP 1 190 0
+GS 0 1
+GS 1 1
+SEF 109 0
+WVP 0 vmCCD1001yki022
+Tomoki: "Taiiii-"
+TP
+
+
+Taichi: "You came. Thanks for the food."
+//Did come = Came -Neko
+TP
+
+GL 1 TCST0001c
+GI 1 0
+
+
+
+WVP 0 vmCCD1001yki023
+Tomoki: "Uwa! That's a surprise......you're wearing a kimono."
+TP
+
+
+Taichi: "Isn't it great-writer-esque?"
+TP
+
+GL 1 TCST0000c
+GI 1 0
+
+WVP 0 vmcca0019yki006
+Tomoki: "Do you always wear that?"
+//CP cca0019
+TP
+
+
+Taichi: "Of course."
+//CP_S
+TP
+
+GL 1 TCST0004c
+GI 1 0
+
+WVP 0 vmcca0019yki007
+Tomoki: "Amazing."
+TP
+
+
+It seems Tomoki respects me all the more now.
+//CP_F
+TP
+
+
+Taichi: "Flying EM waves, blazing friendship, various events and reconciliation......you too aim for mediocrity, why don't we both work toward that together?"
+TP
+
+
+GL 1 TCST0003c
+GI 1 0
+Tomoki: "............"
+TP
+
+
+Taichi: "The Gunjou Institute Broadcasting Club is currently recruiting boys that are honest about their siscon syndromes."
+TP
+
+GL 1 TCST0005c
+GI 1 0
+
+WVP 0 vmCCD1001yki025
+Tomoki: "......about that line......the 'flying EM waves' part...that seems bad somehow..."
+TP
+
+
+Taichi: "Does it?"
+TP
+GL 1 TCST0003c
+GI 1 0
+
+
+
+WVP 0 vmCCD1001yki026
+Tomoki: "At Gunjou, that'd be......"
+TP
+
+
+Taichi: "On average, ten people in any given class are giving out EM waves......"
+IF $tlnote != 0 (TL note: "EM waves" is also a slang term in Japanese that's best defined as "incoherent or incomprehensible thought and/or speech".)
+//I can't shake the feeling that there might be a better way to adapt or explain this one. Å`IX
+//Perhaps just say 'best defined as 'incomprehensible'' - Sheeta
+TP
+GL 1 TCST0000c
+GI 1 0
+
+WVP 0 vmCCD1001yki027
+Tomoki: "Yeah......"
+TP
+
+
+Taichi: "Though they aren't here anymore......"
+TP
+
+
+WVP 0 vmCCD1001yki028
+Tomoki: "Yeah......"
+TP
+
+
+Taichi: "Well, anyway, thank you for the food."
+TP
+
+GL 1 TCST0004c
+GI 1 0
+
+WVP 0 vmCCD1001yki029
+Tomoki: "Friendship desires---"
+TP
+
+
+Taichi: "Nothing."
+TP
+
+
+Gu!
+TP
+
+
+We laughed invincibly and raised our thumbs.
+//CP from...could be anywhere
+TP
+
+
+He's nearly normal now.
+TP
+
+GL 1 TCST0000c
+GI 1 0
+
+WVP 0 vmCCD1001yki030
+Tomoki: "See you."
+TP
+
+
+Taichi: "If you ever settle things, will you come to the club?"
+TP
+
+
+At that moment, his expression hardened.
+TP
+
+GL 1 TCST0004c
+GI 1 0
+
+
+WVS 1 0
+
+
+WVP 0 vmCCD1001yki031
+Tomoki: "......I don't want to be in the same club as a traitor."
+TP
+
+
+
+
+
+
+
+
+WVP 3 SE001 0 0
+
+
+
+GL 0 bgcc0003s
+GS 0 1
+GS 1 0
+SEF 10 0
+
+WVP 2 SE021 1 0
+
+Taichi: "Yes-yeees."
+//CP_S ccb0018
+TP
+
+
+Taichi: "Who might you be?"
+TP
+GL 0 bgcc0013as
+GS 0 1
+SEF 152 0
+
+
+WVP 0 vfcca0020ysa000
+Yuusa: "Uh, umm, I'm Doujima."
+TP
+
+WVP 1 bgm003.ogg 0 0 0
+
+Taichi: "That cute voice hiding underneath a gangster-like surname......Yuusa-chan? It's open, come in."
+TP
+
+
+The door opened timidly, and a pretty girl was standing there.
+TP
+GL 0 bgcc0013azs
+GS 0 1
+GL 1 TCDY0004s
+GP 1 240 0
+SEF 109 0
+
+
+WVP 0 vfcca0020ysa001
+Yuusa: "Good eveni......ng."
+TP
+
+
+
+
+GL 0 bgcc0004s
+GS 0 1
+GS 1 0
+SEF 152 0
+I sat her down and served her wheat tea.
+TP
+
+
+We conversed about many things.
+TP
+
+GL 1 TCDY0000s
+GI 1 1
+
+
+WVP 0 vfcca0020ysa019
+Yuusa: "Umm, today's my birthday."
+TP
+
+
+Taichi: "Oooh? It was today?"
+//This should be it's, since today is present tense. But if it conflicts with previous scripts, it's legible and easily understood, therefore, not worth the effort. -Neko
+TP
+
+GL 1 TCDY0001s
+GI 1 0
+
+WVP 0 vfcca0020ysa020
+Yuusa: "About that, this is......my birthday present."
+TP
+
+
+Taichi: "Ummm......anyway, thanks. But, why?"
+TP
+
+GL 1 TCDY0000s
+GI 1 0
+
+WVP 0 vfcca0020ysa022
+Yuusa: "Also, I thought the exchange diary was due tomorrow, so......"
+TP
+
+
+GL 0 bgcc0004s
+GS 0 1
+GS 1 0
+SEF 155 0
+
+Taichi: "So here's your exchange diary, and on top of that, a birthday present from me."
+TP
+
+
+GL 1 TCDY0004s
+GI 1 1
+WVP 0 vfcca0020ysa027
+Yuusa: "............"
+TP
+
+
+This girl is always at a loss for words when she's surprised.
+TP
+
+
+Taichi: "Now then, why don't I walk you back home?"
+TP
+
+
+WVP 0 vfcca0020ysa028
+Yuusa: "........................!!!?"
+TP
+
+
+She was at an even worse loss for words than before.
+TP
+
+
+Taichi: "It's already nighttime, so there are quite a few dangerous people out there."
+TP
+
+
+Especially in this town.
+TP
+
+
+Taichi: "Shall we go?"
+TP
+
+GL 1 TCDY0001s
+GI 1 0
+
+WVP 0 vfcca0020ysa029
+Yuusa: "Y-yes!"
+TP
+
+
+
+GL 0 bgcc0005s
+GS 0 1
+SEF 152 0
+
+Then, I walked her home.
+TP
+
+GL 1 TCDY0001s
+GI 1 1
+
+WVP 0 vfcca0020ysa032
+Yuusa: "You always ask that question, don't you, Taichi-san?"
+TP
+
+GL 1 TCDY0003s
+GI 1 0
+
+
+WVP 0 vfcca0020ysa037
+Yuusa: "That's too hard for me to really understand, but......okay."
+TP
+
+GL 1 TCDY0001s
+GI 1 0
+
+WVP 0 vfcca0020ysa040
+Yuusa: "It's training."
+TP
+
+
+It's training.
+TP
+
+
+Training...
+TP
+
+
+Homesickness?
+//Any need to repeat the tl notes here? Å`IX
+//Might be an idea, since the original scene was a long time ago - Sheeta
+TP
+
+
+No.
+TP
+
+
+Assault.
+TP
+
+
+
+WVS 1 0
+
+
+
+Assault.
+TP
+
+
+Yes, assault.
+TP
+
+
+To attack intensely.
+TP
+
+
+Yeah.
+TP
+
+
+I like that word.
+TP
+
+
+I laughed in my dreams.
+TP
+
+
+Without stopping.
+TP
+
+
+Ridicule.
+TP
+
+
+Sunken emotions are soon consumed by the abyss.
+TP
+
+
+The gilding which reminds me of the void of cynicism melts, and the now-bare fragments......mix into an enormous nucleus and jest.
+TP
+
+
+One thought.
+TP
+
+
+Enemies are enemies.
+TP
+
+
+I'll kill them if I must.
+//CP_F
+TP
+
+
+
+
+
+WVS 3 1
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+
+SEF 109 0
+
+But even that thought...is something I want to kill---
+TP
+
+
+
+
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0007
+GS 0 1
+GS 1 0
+SEF 152 0
+
+*ding* *dong* *dang* *dong*
+//CP_S ccb1010
+TP
+
+WVP 2 SE023 1 0
+
+*ding* *dong* *dang* *dong*
+TP
+
+
+
+
+WVP 1 bgm012.ogg 0 0 0
+
+This morning, club activities are proceeding vigorously on the roof.
+//CP_F
+TP
+
+
+
+WVP 3 SE001 0 0
+
+GL 0 bgcc0007s
+GS 0 1
+SEF 10 1
+
+
+WVP 1 bgm018.ogg 0 0 0
+
+
+I'd resolved to join the club, but permission wasn't granted.
+TP
+
+
+Sempai pulled a lot of strings for me.
+TP
+
+
+So that I wouldn't notice.
+TP
+
+
+......although I caught on quickly.
+//Caught on quickly would eliminate 'noticed' redundancy. 
+//Definitely sounds better.-Spin
+TP
+
+
+Even if I wasn't a club member, I was fine participating in club activities.
+TP
+
+
+I was swept up in a temporary mood when I'd ran my mouth off and proclaimed I'd join the club.
+TP
+
+
+I soon regretted it, and tried to take it back.
+TP
+
+
+But......I was naive.
+TP
+
+
+I was dragged,
+TP
+
+
+GL 0 bgcc0006s
+GS 0 1
+SEF 10 0
+
+GL 1 TCMM0002s
+GP 1 225 0
+GI 1 1
+
+WVP 0 vfCCD1001msa113
+Misato: "Kurosu-kuuun!"
+TP
+
+
+Dragged,
+TP
+
+
+
+GL 0 bgcc0008s
+GS 0 1
+GS 1 0
+SEF 10 0
+
+
+GL 1 TCMM0000s
+GI 1 1
+
+
+WVP 0 vfCCD1001msa114
+Misato: "Good afternoon!"
+TP
+
+
+Pulled and dragged along.
+TP
+
+
+GL 0 bgcc0010s
+GS 0 1
+GS 1 0
+SEF 10 0
+
+Eventually, I was in the club room more often than not.
+TP
+
+GL 1 TCMM0000s
+GI 1 1
+
+
+WVP 0 vfCCD1001msa115
+Misato: "Uhhh..."
+TP
+
+
+WVP 0 vfCCD1001msa116
+Misato: "Put the cable......in the motherboard......slot ......okay, there!"
+TP
+
+
+Sempai was effectively the core of the club activities.
+TP
+
+
+Because she was a human who could take proper action.
+TP
+
+
+Just the two of us.
+TP
+
+
+GL 1 TCMM0005s
+GI 1 0
+WVP 0 vfCCD1001msa116a
+Misato: "The bay......drive bay......hard disk......uu! The cable still won't go in......"
+TP
+
+
+Taichi: "......haa."
+TP
+
+
+I couldn't watch this.
+TP
+
+
+Taichi: "No. It's this one."
+TP
+
+GL 1 TCMM0002s
+GI 1 0
+
+
+WVP 0 vfCCD1001msa117
+Misato: "Ah, you know it?"
+TP
+
+
+Taichi: "......this part at least."
+TP
+
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa118
+Misato: "Then, ummm...what about this one?"
+TP
+
+
+Taichi: "That one......why not buy one ready-made?"
+TP
+
+
+Taichi: "Since we don't have any of the knowledge for this, let's go and buy one off the shelf."
+//"Know anything about this stuff" would be more condensed than knowledge of these things. -Neko
+TP
+
+GL 1 TCMM0002s
+GI 1 0
+
+WVP 0 vfCCD1001msa119
+Misato: "I was thinking that this could be another part of our club activities."
+TP
+
+
+Taichi: "......nnn."
+TP
+
+GL 1 TCMM0005s
+GI 1 0
+
+WVP 0 vfCCD1001msa120
+Misato: "Ah, a creaking noise......"
+TP
+
+
+Taichi: "Wait, wait! Please get out of the way."
+TP
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa121
+Misato: "Eh?"
+TP
+
+
+Taichi: "If you do that, you'll just break all the expensive parts you bought."
+TP
+
+GL 1 TCMM0002s
+GI 1 0
+
+WVP 0 vfCCD1001msa122
+Misato: "Aaah, thank you."
+TP
+
+
+The school must be rich, since the parts I think she purchased with club funds were all high quality.
+TP
+
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa123
+Misato: "Whoa. You're skilled."
+TP
+
+
+Taichi: "Well, as much as anyone else."
+TP
+
+
+Sarcasm.
+TP
+
+GL 1 TCMM0002s
+GI 1 0
+
+WVP 0 vfCCD1001msa124
+Misato: "Eh-heh-heeeh, my little brother is good with computers too."
+TP
+
+
+I wasn't acquainted with him.
+TP
+
+
+Taichi: "......is that so?"
+TP
+
+WVP 0 vfCCD1001msa125
+Misato: "He's a boy after all."
+TP
+
+
+Taichi: "You really like those younger than you."
+TP
+GL 1 TCMM0000s
+GI 1 0
+
+
+WVP 0 vfCCD1001msa126
+Misato: "Yes, I find young boys cute."
+//Insert appropriate cheap shot here. Å`IX
+//Misato's a shotacon! Woo - Sheeta
+TP
+
+
+Taichi: "......"
+TP
+
+
+Taichi: "I like older women."
+TP
+
+
+Sarcasm 2.
+TP
+GL 1 TCMM0031s
+GI 1 0
+
+WVP 0 vfCCD1001msa127
+Misato: "I don't dislike them either, but old women really can't become objects of love."
+TP
+
+
+Taichi: "That's obvious!"
+TP
+
+
+I was over-excited.
+//Getting ahead of myself? That's how it was read -Neko
+TP
+
+
+
+
+WVS 3 1
+
+GL 0 bgcc0007
+GS 0 1
+GS 1 0
+SEF 10 2
+
+
+Taichi: "Good morning."
+TP
+
+
+WVP 0 vfCCD1001msa128
+Misato: "Aaah......Peke-kun......kyaa."
+TP
+
+
+From the top of the stepladder, Sempai...
+//PCP_S ccb1010
+TP
+
+WVP 2 se024 1 0
+
+*fump*
+SEF 101 0
+TP
+
+
+...fell off.
+//CP_F
+TP
+
+
+I caught her in my arms.
+TP
+
+
+WVP 0 vfCCD1001msa129
+Misato: "Uwa......wawawa!!?"
+TP
+
+
+Taichi: "A lifesaver's emolument."
+TP
+
+
+I let her down right away.
+TP
+
+GL 1 TCMM0005
+GP 1 225 0
+GI 1 0
+
+
+WVP 0 vfCCD1001msa130
+Misato: "......th-thank you!"
+TP
+
+
+Taichi: "Sempai, that way of falling was just like a fattened caterpillar."
+//You fell like a... (Condensed version) -Neko
+TP
+
+GL 1 TCMM0001
+GI 1 0
+
+WVP 0 vfCCD1001msa131
+Misato: "......please don't make me imagine such a thing."
+TP
+
+
+Grimace + Blush
+TP
+
+
+Taichi: "That's right, there aren't any bugs here."
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCD1001msa132
+Misato: "Yes, that's one good thing at least......"
+TP
+
+
+Taichi: "It's nice that the cicadas are quiet for once."
+TP
+
+
+WVP 0 vfCCD1001msa133
+Misato: "Yes......"
+TP
+
+
+Taichi: "Come to think of it---"
+TP
+
+
+In this naturally enclosed town, many cicadas come every year.
+TP
+
+
+And many other bugs as well.
+TP
+
+
+Fat round beetles and the like sometimes cling painfully to the walls of our houses.
+TP
+
+
+After living in a town where I can see such things, I naturally have dreams about the moment of release for larva--which resemble white shrimp chili--buried in the mountains.
+TP
+
+
+Taichi: "If I talked about that while eating shrimp chili in the cafeteria, I'd end up fighting against Touko, equipped only with a broken spoon."
+//Comma suggests Taichi is the person with the broken spoon, without it, it says Touko is the one with it. -Neko
+TP
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfCCD1001msa134
+Misato: "......hu!"
+TP
+
+
+WVP 0 vfCCD1001msa135
+Misato: "Ahahahahahaha!"
+TP
+
+
+Even with only two people, club was fun.
+TP
+
+
+WVS 1 1
+
+
+
+Taichi: "......nn?"
+TP
+
+
+A presence.
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCD1001msa136
+Misato: "What's wrong?"
+TP
+
+
+Taichi: "No, that was just a bit impure."
+TP
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfCCD1001msa137
+Misato: "How antiquated."
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 152 0
+
+The door to the school interior.
+TP
+
+
+When I opened it, I heard footsteps rushing down.
+TP
+
+
+Taichi: "So it wasn't Youko-chan......"
+TP
+
+
+This person's way of concealing their presence was childish.
+TP
+
+
+Which means,
+TP
+
+
+Taichi: "Tomoki......perhaps?"
+TP
+
+
+That system component guy just won't be honest with himself.
+TP
+
+
+Well, I'll go to the bathroom for now.
+TP
+
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+
+*whshhhh* (running water)
+//CP_S ccb2011
+TP
+
+
+Taichi: *sigh*
+//CP_F
+TP
+
+
+WVP 0 vfCCD1001you000
+Youko: "......I saw that."
+TP
+
+GL 0 evcc0009
+$CGevcc0009 = 1
+GS 0 1
+SEF 155 0
+Taichi: "Owa! You're here!"
+TP
+
+
+WVP 1 bgm011.ogg 0 0 0
+
+
+
+The real thing.
+TP
+
+
+WVP 0 vfCCD1001you001
+Youko: "Carry me."
+TP
+
+
+Taichi: "......eh?"
+TP
+
+
+WVP 0 vfCCD1001you002
+Youko: "On your back."
+TP
+
+
+WVP 0 vfCCD1001you003
+Youko: "In your arms."
+TP
+
+
+Taichi: "......what?"
+TP
+
+
+WVP 0 vfCCD1001you004
+Youko: "The way you carried that glasses girl."
+TP
+
+
+Taichi: "Glasses girl......"
+TP
+
+
+WVP 0 vfCCD1001you005
+Youko: "You've held her in all sorts of ways."
+TP
+
+
+Taichi: "......you saw them all?"
+TP
+
+
+WVP 0 vfCCD1001you006
+Youko: "In your arms."
+TP
+
+
+WVP 0 vfCCD1001you007
+Youko: "In your arms."
+TP
+
+
+WVP 0 vfCCD1001you008
+Youko: "In your arms."
+TP
+
+
+It seems she did.
+TP
+
+
+Taichi: "I understand what you're trying to say......"
+TP
+
+
+WVP 0 vfCCD1001you009
+Youko: "In your arms."
+TP
+
+
+Taichi: "......you want me to do that......at your age?"
+TP
+
+
+WVP 0 vfCCD1001you010
+Youko: "Age doesn't matter."
+TP
+
+
+Taichi: "......you can live on without being carried in someone's arms."
+TP
+
+
+Youko-chan was expressionlessly disappointed.
+TP
+
+
+Taichi: "More importantly, there's something I'd like a bit of help with......Youko-chan, you know a lot about that sort of thing, right?"
+TP
+
+
+WVP 0 vfCCD1001you011
+Youko: "In your arms."
+TP
+
+
+Hmmm.
+TP
+
+
+Taichi: "......are we negotiating?"
+TP
+
+
+She nodded.
+TP
+
+
+Taichi: "I understand. I'll do it. Then you'll help, right?"
+TP
+
+
+WVP 0 vfCCD1001you012
+Youko: "Carry me like a bride."
+TP
+
+
+Taichi: "I can't do something that doesn't make sense."
+TP
+
+
+WVP 0 vfCCD1001you013
+Youko: "Normally is fine......"
+TP
+
+
+Taichi: "Then come here."
+TP
+
+
+Youko: "............"
+TP
+
+
+She seemed happy.
+TP
+
+
+......I'm being tricked.
+TP
+GL 0 bgcc0008
+GS 0 1
+SEF 155 0
+
+
+Snug and cozy.
+TP
+
+
+Youko: "............"
+TP
+
+
+Taichi: "......how's this?"
+TP
+
+
+WVP 0 vfCCD1001you016
+Youko: "......good."
+TP
+
+
+Taichi: "Then I'll let you down."
+TP
+
+
+WVP 0 vfCCD1001you017
+Youko: "No, no......"
+TP
+
+
+She was upset.
+TP
+
+
+Taichi: "More?"
+TP
+
+
+WVP 0 vfCCD1001you018
+Youko: "More."
+//I LOVE this scene. Å`IX
+//It is a great scene. Ah, Youko... ~Bal
+TP
+
+
+WVP 0 vfCCD1001you019
+Youko: "I'm still not satisfied......"
+TP
+
+
+Taichi: "Nnn."
+TP
+
+
+That's pretty tough, since she's quite weighty.
+TP
+
+
+Her muscles were heavier than her fat.
+TP
+
+
+A fearsome measure of the next generation of children.
+TP
+
+
+......'next generation' is a weird phrase.
+TP
+
+
+WVP 0 vfCCD1001you020
+Youko: "Walk."
+TP
+
+
+Taichi: "You wanna go for a walk......?"
+TP
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+WT 500 0
+
+GL 0 bgcc0009
+GS 0 1
+SEF 152 0
+
+
+GL 0 bgcc0010
+GS 0 1
+SEF 152 0
+
+
+
+
+
+
+WVP 0 vfCCD1001you021
+Youko: "Nn......"
+TP
+
+
+She seemed satisfied.
+TP
+
+
+If she'd always been like this, I could have honestly fallen in love with her.
+TP
+
+
+WVP 0 vfCCD1001you022
+Youko: "......that's good."
+TP
+
+
+Taichi: "Ah, I see."
+TP
+
+
+No matter what, I end up seeing her stratagems.
+TP
+
+
+WVP 0 vfCCD1001you023
+Youko: "Very...good."
+TP
+
+
+Taichi: "Okay..."
+TP
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+
+I moved.
+TP
+
+
+She was getting heavy.
+TP
+
+
+Taichi: "......is that enough?"
+TP
+
+
+WVP 0 vfCCD1001you024
+Youko: "No."
+TP
+
+
+Taichi: "......muu."
+TP
+
+
+She made me walk around the school for nearly another ten minutes.
+TP
+
+
+Taichi: "S-still?"
+TP
+
+
+WVP 0 vfCCD1001you025
+Youko: "A little longer."
+TP
+
+
+Taichi: "Uu, uuu!"
+TP
+
+
+My arms...
+TP
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+WT 500 0
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+GL 0 bgcc0012
+GS 0 1
+SEF 152 0
+
+
+
+Yet another lap.
+TP
+
+
+Taichi: "It's getting painful."
+TP
+
+
+WVP 0 vfCCD1001you026
+Youko: "A little more......"
+TP
+
+
+Taichi: "Give me a number. How long until you'll be satisfied?"
+TP
+
+
+WVP 0 vfCCD1001you027
+Youko: "Just under an hour."
+TP
+
+
+Taichi: "My arms'll rip off."
+TP
+
+
+Forced abdication.
+TP
+
+
+Taichi: "That's it."
+TP
+GL 1 TCHY0001
+GP 1 180 0
+GI 1 1
+
+
+
+WVP 0 vfCCD1001you028
+Youko: "......haa."
+TP
+
+
+She was disappointed.
+TP
+
+
+No choice. I'll sexually harass her with love.
+TP
+
+
+Taichi: "Then I'll do something else instead."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD1001you029
+Youko: "Do what?"
+TP
+
+
+Taichi: "There's something I've wanted to try doing at least once."
+TP
+
+
+WVP 0 vfCCD1001you030
+Youko: "Which is?"
+TP
+
+
+Taichi: "Reverse piggyback."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD1001you031
+Youko: "I don't understand."
+TP
+
+
+Taichi: "Please imagine a normal piggyback."
+TP
+
+
+WVP 0 vfCCD1001you032
+Youko: "Okay."
+TP
+
+
+Taichi: "Generally, the knees of the person on top point forward and to the face of the person on the bottom, but......"
+TP
+
+
+Taichi: "Now turn that around so he's facing backward."
+TP
+
+
+Taichi: "And the person on the bottom stays put."
+TP
+
+
+Taichi: "Reverse piggyback."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+Youko: "........................"
+TP
+
+
+WVP 0 vfCCD1001you034
+Youko: "......Taichi's ero power is something beyond measure."
+TP
+
+
+Taichi: "Thank you. Now, let's do it."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD1001you035
+Youko: "......I think...that would be......incredibly ......embarrassing..."
+TP
+
+
+It's rare for her to hesitate.
+TP
+
+
+Taichi: "Okay, then I'll go ask Mimi-sempai."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD1001you036
+Youko: "Crouch, and......"
+TP
+
+
+Easy.
+TP
+
+
+Even though there's no way Mimi-sempai would consent.
+TP
+
+
+Taichi: "Yaaay."
+TP
+GO 1 1
+
+Youko-chan stood right in front of me.
+TP
+
+
+
+WVP 0 vfCCD1001you037
+Youko: "......then......"
+TP
+
+
+I mounted her thighs on my shoulders.
+TP
+
+
+One at a time.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+
+SEF 109 0
+
+And then, the reverse piggyback was complete---
+TP
+
+
+Taichi: "Ooooo......"
+TP
+
+
+Taichi: "Oooooooo......"
+TP
+
+
+Taichi: "Uuoooooooooooo......"
+TP
+
+
+No regrets!!!
+TP
+
+
+WVS 1 1
+
+
+
+
+
+
+WVP 3 SE001 0 0
+
+
+GL 0 bgcc1009s
+GS 0 1
+SEF 10 1
+
+
+Last year, I'm pretty sure Tomoki and Mimi-sempai had been fighting.
+TP
+
+
+WVP 0 vmcca0022yki028
+Tomoki: "That's because Onee-cha......Aneki would betray me......"
+//CP cca0022
+TP
+
+
+WVP 0 vmcca0022yki029
+Tomoki: "I was forced into the Broadcasting Club in the first place. I'd wanted to be in the 'Going Home' Club, but she just had to say, 'Aren't you a computer nerd? Come help out.'"
+//CP
+TP
+
+
+WVP 0 vmcca0022yki034
+Tomoki: "Why do I have to get into a sports club and make up with aneki after all this time?"
+//CP
+TP
+
+
+Last year, and now.
+TP
+
+
+Two falling outs.
+TP
+
+
+There was a big difference between the two fights.
+TP
+
+
+WVS 3 1
+
+
+
+
+
+WVP 1 bgm002.ogg 0 0 0
+
+
+GL 0 bgcc0009
+GS 0 1
+SEF 10 1
+
+And then, today, a year later.
+TP
+
+
+Tomoki was eating bread alone.
+TP
+
+
+Taichi: "......yo."
+TP
+
+GL 1 TCST0000
+GP 1 190 0
+GI 1 1
+WVP 0 vmCCD1001yki032
+Tomoki: "Aaah......if you want bread, there's more over there."
+TP
+
+GL 1 TCST0005
+GI 1 0
+
+WVP 0 vmCCD1001yki033
+Tomoki: "Though it might have gone bad."
+TP
+
+
+Taichi: "Yeah."
+TP
+
+
+It probably hasn't gone bad.
+TP
+
+
+But it's all curry bread.
+TP
+
+
+I'm pretty sure that, near the center......
+TP
+
+
+There, croquette bread.
+TP
+
+GL 1 TCST0001
+GI 1 0
+
+WVP 0 vmCCD1001yki034
+Tomoki: "Huh? There was one of those in there?"
+TP
+
+
+Taichi: "Your search was naive."
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmCCD1001yki035
+Tomoki: "......swap for this?"
+TP
+
+
+Taichi: "Here."
+TP
+
+GL 1 TCST0005
+GI 1 0
+
+WVP 0 vmCCD1001yki036
+Tomoki: "Thanks."
+TP
+
+
+Tomoki ate the croquette bread.
+TP
+
+
+Taichi: "......that bread comes out of the Broadcasting Club's budget."
+TP
+
+
+GL 1 TCST0001
+GI 1 0
+
+WVP 0 vmCCD1001yki037
+Tomoki: "Pu! Don't lie about that!"
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmCCD1001yki038
+Tomoki: "It's the cafeteria's bread anyway."
+TP
+
+
+Taichi: "Now you have a duty to help the club."
+TP
+
+
+Sempai's strategy.
+TP
+GL 1 TCST0001
+GI 1 0
+
+WVP 0 vmCCD1001yki039
+Tomoki: "No I don't!"
+TP
+
+
+Taichi: "......stubborn guy."
+TP
+
+GL 1 TCST0004
+GI 1 0
+
+WVP 0 vmCCD1001yki040
+Tomoki: "Is there even a reason for me to help?"
+TP
+
+
+Taichi: "Because she's family?"
+TP
+GL 1 TCST0003
+GI 1 0
+
+WVP 0 vmCCD1001yki041
+Tomoki: "......well, I mean......"
+TP
+
+
+He immediately looked fatigued.
+TP
+
+
+Though I knew it when I said that.
+TP
+
+
+Because of the many and varied human relationships,
+TP
+
+
+A light attack can become pleasure.
+TP
+
+
+Though if it's too strong, it'll do damage.
+TP
+
+
+Fundamentally, there are no means for people to touch people other than through attacks.
+TP
+
+
+I think of friendship as nothing more than the skill of holding back.
+//Not too sure if this changed the meaning a little more than it should but I was trying to make it flow better.-Spin
+TP
+
+
+Taichi: "Why not once in a while?"
+TP
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmCCD1001yki042
+Tomoki: "......you're persistent today, Taichi. That's not like you at all."
+TP
+
+
+Yes, it's not like me.
+TP
+
+
+WVP 0 vmCCD1001yki043
+Tomoki: "Wasn't loving things the way they are one of your good points?"
+TP
+
+
+Taichi: "The way they are......"
+TP
+
+
+Taichi: "Y-you......want me to love you?"
+//Yes - Sheeta
+//Ew, No.-Spin
+TP
+
+GL 1 TCST0002
+GI 1 0
+
+WVP 0 vmCCD1001yki044
+Tomoki: "That's just twisting my words!"
+TP
+
+
+Making jokes or self-destructing doesn't constitute an attack.
+TP
+
+
+I know. Everything.
+TP
+
+
+I was like a street performer being noisy in front of his house.
+TP
+
+
+Since I suck at stepping inside, I can only affirm everything about someone.
+TP
+
+
+I have no other means. Normally.
+TP
+
+
+Taichi: "Well, yeah, it hurts to have that pointed out, but..."
+TP
+
+
+But now---
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmCCD1001yki045
+Tomoki: "......Taichi, really, it's best you be careful."
+TP
+
+
+Taichi: "Why?"
+TP
+
+GL 1 TCST0004
+GI 1 0
+
+WVP 0 vmCCD1001yki046
+Tomoki: "You'll just be betrayed."
+TP
+
+
+Taichi: "I won't understand unless you show me an example."
+TP
+
+
+WVP 0 vmCCD1001yki047
+Tomoki: "......you'll just get sold."
+TP
+
+
+Taichi: "For how much?"
+TP
+
+GL 1 TCST0003
+GI 1 0
+
+WVP 0 vmCCD1001yki048
+Tomoki: "I guess you don't want to listen seriously......"
+TP
+
+
+Taichi: "......sorry......I find a serial atmosphere ticklish......"
+TP
+
+GL 1 TCST0004
+GI 1 0
+
+WVP 0 vmCCD1001yki049
+Tomoki: "A serious atmosphere!"
+//I'm assuming he's correcting Taichi - Sheeta
+TP
+
+WVP 2 se006 1 0
+He hit the table.
+TP
+
+
+Taichi: "Don't snap like that. It reminds me of biology."
+TP
+
+
+WVP 0 vmCCD1001yki050
+Tomoki: "I'm a man! You pea-brained idiot!"
+TP
+
+
+Taichi: "Ah, speak not of pea-brains!!"
+TP
+GO 1 1
+
+Eternal trauma.
+TP
+
+GL 4 sgcc0001
+$CGsgcc0001 = 1
+WVP 2 SE003 1 0
+GI 4 0
+SEF 101 0
+
+
+WVP 0 vmCCD1001yki051
+Tomoki: "Youuu!"
+TP
+
+
+Taichi: "Annoy meee!"
+//Huh, those lines aren't meant to flow into each other. A gag actually got added in translation. Wow. Å`IX
+TP
+
+WVP 2 SE003 1 0
+SEF 101 0
+
+WVP 0 vmCCD1001yki052
+Tomoki: "Iieeyaaa!"
+TP
+
+
+Taichi: "Cheisaaa!"
+TP
+
+
+Lacerations made by the like-minded enrich the heart.
+TP
+
+
+That's why I'm being fulfilled.
+TP
+
+
+
+
+
+GL 0 bgcc0007
+GS 0 1
+GS 1 0
+GS 4 0
+SEF 152 0
+
+
+
+And that's why I'm doing club activities.
+TP
+
+
+Hmmm.
+TP
+
+
+Here?
+TP
+
+
+Or maybe here?
+TP
+
+
+What's this hole for? Do I feed the cable through it?
+TP
+
+
+Taichi: "......"
+TP
+
+
+I'll put it here for now. This feels like the right spot.
+//CP_S ccb1011
+TP
+
+
+WVP 0 vfcca0022msa000
+Misato: "You can tell where it goes?"
+TP
+
+
+Taichi: "Well, somehow."
+TP
+
+
+Sempai was holding the stepladder below me.
+TP
+
+
+WVP 0 vfcca0022msa001
+Misato: "It's encouraging to have a boy here."
+TP
+
+
+Taichi: "Is that so?"
+TP
+
+
+Taichi: "Anytime you are in need, I shall......"
+TP
+
+
+Come to think of it,
+TP
+
+
+Doesn't she have a brother?
+TP
+
+
+Taichi: "......umm, are you fighting with Tomoki?"
+TP
+
+
+Sempai's face became overcast.
+TP
+
+WVP 1 bgm013.ogg 0 0 0
+
+
+WVP 0 vfcca0022msa002
+Misato: "Aaah, well......"
+TP
+
+
+WVP 0 vfcca0022msa003
+Misato: "There's a bit of a cold war."
+TP
+
+
+Taichi: "So even Tomoki gets in fights."
+TP
+
+
+WVP 0 vfcca0022msa004
+Misato: "Eh?"
+TP
+
+
+Taichi: "That guy doesn't get seriously mad all that often."
+TP
+
+
+It seemed Sempai received a shock from those words.
+TP
+
+
+WVP 0 vfcca0022msa005
+Misato: "......it might be perfectly natural."
+TP
+
+
+Taichi: "What?"
+TP
+
+
+WVP 0 vfcca0022msa006
+Misato: "He's got this, 'Dammit, life is hard!' kind of feeling."
+TP
+
+
+I didn't understand that.
+TP
+
+
+
+WVP 0 vmcca0022yki037
+Tomoki: Åw......you'll be betrayed.Åx
+TP
+
+
+
+Taichi: "Umm, was there some kind of betrayal?"
+//CP_F
+TP
+
+
+WVP 0 vfcca0030msa011
+Misato: "......"
+TP
+
+
+Her eyebrows narrowed.
+//CP_S
+TP
+
+
+WVP 0 vfcca0022msa007
+Misato: "Did Tomoki say that?"
+TP
+
+
+Taichi: "Yeah."
+TP
+
+
+WVP 0 vfcca0022msa008
+Misato: "......"
+TP
+
+
+Taichi: "Sempai?"
+TP
+
+
+WVP 0 vfcca0022msa009
+Misato: "......nooo, nooo."
+TP
+
+
+Sempai looked like she was about to cry, and she was moaning 'nooo, nooo.'
+TP
+
+
+Taichi: "Ummmm?"
+TP
+
+
+WVP 0 vfcca0022msa010
+Misato: "What did you say!!?"
+TP
+
+GL 0 bgcc0000a
+GI 0 0
+
+She jostled the stepladder back and forth.
+SEF 101 0
+TP
+
+
+Taichi: "Wawawa!!?"
+SEF 101 0
+TP
+
+
+WVP 0 vfcca0022msa011
+Misato: "Nothing will come of that!!!"
+SEF 101 0
+TP
+
+
+Taichi: "I'm going to fall!!!"
+SEF 101 0
+TP
+
+
+It was a harsh club.
+//CP_F
+TP
+
+WVS 1 1
+
+
+
+
+
+
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 0
+WVP 0 vfcca0024msa000
+Misato: "......Keiii-kuuunnn......"
+//PCP cca0024
+TP
+
+
+Sempai came.
+TP
+
+
+An error of about five minutes.
+TP
+
+
+I'd been thinking of checking up on her if she was more than ten minutes late.
+TP
+
+GL 0 bgcc0000c
+GS 0 1
+SEF 152 0
+
+Taichi: "Yeees."
+TP
+
+
+
+WVP 1 bgm012.ogg 0 0 0
+
+
+
+WVP 0 vfcca0024msa001
+Misato: "Good eveniiing."
+//CP
+TP
+
+
+She stood under the window holding something.
+TP
+
+
+
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 0
+
+And as predicted, I ate her bentou.
+TP
+
+
+Taichi: "Delicious."
+//CP_S
+TP
+
+
+Taichi: "Sempai's good at this."
+TP
+
+GL 1 TCMM0000c
+GP 1 235 0
+GI 1 1
+
+
+WVP 0 vfcca0024msa015
+Misato: "Am I now? I only just started cooking recently......"
+//CP_F
+TP
+
+
+A bit of small talk.
+TP
+
+
+And then,
+TP
+
+
+
+WVS 1 1
+
+
+
+GL 0 evcc0012
+$CGevcc0012 = 1
+GS 0 1
+GS 1 0
+SEF 155 1
+WVP 0 vfCCB1101msa020
+Misato: "Nn......nnnn......n......"
+TP
+
+
+Intercourse.
+TP
+
+GL 0 evcc0013
+$CGevcc0013 = 1
+GS 0 1
+GS 1 0
+SEF 109 1
+I faithfully retraced conduct that I'd experienced several times before.
+TP
+
+
+Since I'm used to it more than she is, I should be making it less painful.
+TP
+GL 0 bgcc0003e
+
+Taichi: "Why don't we go to the beach tomorrow?"
+//CP
+TP
+
+
+An invitation.
+TP
+
+
+WVP 0 vfCCB1101msa181
+Misato: "......you're right."
+//CP
+TP
+
+
+She was being shy.
+//CP
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+A domain existed that I couldn't reach just by combining our bodies.
+TP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 1
+Taichi: "Friday, huh?"
+//CP_S ccc3013
+TP
+
+
+Three days left until the world swings back.
+//CP_F
+TP
+
+
+Today as well, I'll do what I should do.
+TP
+
+
+
+
+
+
+WVP 1 bgm005.ogg 0 0 0
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 0
+Taichi: "Sempai, I've been waiting."
+TP
+
+
+GL 1 TCMM0000
+GP 1 235 0
+GI 1 1
+
+WVP 0 vfCCD1001msa138
+Misato: "......Peke-kun."
+TP
+
+
+Taichi: "You haven't forgotten our promise to go to the beach, right?"
+TP
+
+GL 1 TCMM0031
+GI 1 0
+
+WVP 0 vfCCD1001msa139
+Misato: "The beach......but I'm not ready."
+TP
+
+
+Taichi: "I've prepared everything for you. Come on, let's go."
+TP
+
+GL 1 TCMM0005
+GI 1 0
+
+WVP 0 vfCCD1001msa140
+Misato: "But......I have to get the broadcast channel ready for Sunday......"
+TP
+
+
+Taichi: "I've called a helper in for that."
+TP
+
+
+
+
+GL 0 bgcc0008
+
+GL 1 TCHY0000
+GS 0 1
+GS 1 1
+GP 1 180 0
+SEF 10 0
+
+Taichi: "So we'll be going to the beach, and I need you to keep things under control."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD1001you038
+Youko: "......I've never gone to the beach with Taichi."
+TP
+
+
+Taichi: "Some other time."
+TP
+
+
+Taichi: "Youko-chan, for now, while it's this hot, keep the broadcast preparations going without me. Ah, and coming to the beach for surveillance is prohibited."
+TP
+
+
+WVP 0 vfCCD1001you039
+Youko: "......I'm being used at your convenience......"
+TP
+
+
+
+
+
+
+GL 0 bgcc0000a
+GS 0 1
+GS 1 0
+SEF 10 1
+
+
+WT 500 0
+
+
+Taichi: "It suits you."
+TP
+GL 0 bgcc0017
+GS 0 1
+SEF 109 0
+Sempai shook her head without any force.
+TP
+
+
+WVP 0 vfCCD1001msa141
+Misato: "......I don't think it does......"
+TP
+
+
+Taichi: "If you hide it with a towel you'll just waste the charm."
+TP
+
+GL 1 TCMM0005d
+GP 1 225 0
+GI 1 1
+
+
+WVP 0 vfCCD1001msa142
+Misato: "I look like a slut......"
+TP
+
+
+Taichi: "That's not true at all."
+TP
+
+
+Taichi: "I find Sempai's chaste image incredibly stimulating."
+TP
+
+
+GL 1 TCMM0004d
+GI 1 0
+
+
+WVP 0 vfCCD1001msa143
+Misato: "You are getting stimulated!"
+TP
+
+
+Taichi: "But, if you ask whether it suits you or not, I'd say it's the best possible match."
+TP
+
+
+Taichi: "If I asked a hundred erotic men, they would all say it suits you."
+TP
+
+GL 1 TCMM0001d
+GI 1 0
+
+WVP 0 vfCCD1001msa144
+Misato: "Please ask some non-erotic men too!"
+TP
+
+
+Taichi: "There is no such thing as a non-erotic man!"
+//He's got a point... >_> Å`IX
+//I'm sure you crushed all of Sheetas dreams when she read your comment.-Spin
+TP
+
+
+I swung my arms out to both sides and screamed.
+TP
+GL 1 TCMM0003d
+GI 1 0
+
+WVP 0 vfCCD1001msa145
+Misato: "Unromantic......"
+TP
+
+
+WVP 0 vfCCD1001msa146
+Misato: "Aaah, I'm a slut......how embarrassing......"
+TP
+
+
+Sempai repeatedly cried 'I'm a slut, I'm a slut.'
+TP
+
+
+Taichi: "Don't be embarrassed. You're nothing like a slut."
+TP
+
+
+Taichi: "I'm just abnormally stimulated since this is the first time Sempai's worn an erotic swimsuit."
+TP
+
+
+WVP 0 vfCCD1001msa147
+Misato: "That's what a slut is, and you're a moron."
+//If you haven't figured it out yet, I'm using the colloquial def of "slut" to mean a woman who behaves as if they're highly promiscuous and proud of it. Tell me if that isn't quite clear. Å`IX
+//It's fine - Sheeta
+TP
+
+
+Hmph.
+TP
+
+
+Taichi: "Sempai's a slut, and I'm a moron. The two of us fit together nicely."
+TP
+
+GL 1 TCMM0005d
+GI 1 0
+
+WVP 0 vfCCD1001msa148
+Misato: "But I don't want to be a slut......"
+TP
+
+
+Taichi: "In memory of last year, let's play some beach volleyball."
+TP
+
+
+This year they'll shake as much as possible.
+TP
+
+
+Breasts = Beach Volleyball.
+TP
+
+
+This theorem has not the slightest hint of being mistaken.
+TP
+
+
+Taichi: "There."
+TP
+
+GL 1 TCMM0005d
+GI 1 0
+
+WVP 0 vfCCD1001msa149
+Misato: "Uuuuu......"
+TP
+
+
+Taichi: "Seyaaa."
+TP
+
+
+WVP 0 vfCCD1001msa150
+Misato: "Ah! Uua......"
+TP
+
+
+Taichi: "Sempai, why are you receiving with only one hand?"
+TP
+
+GL 1 TCMM0001d
+GI 1 0
+
+WVP 0 vfCCD1001msa151
+Misato: "Because I can feel your eyes."
+TP
+
+
+Taichi: "Even though there's only two of us here?"
+TP
+
+GL 1 TCMM0001d
+GI 1 0
+
+WVP 0 vfCCD1001msa152
+Misato: "You're still here!"
+TP
+
+
+Okay, I'll give you a ball you can't receive without using both hands.
+TP
+
+
+Taichi: "Ei! Splitting Magic Ball!"
+TP
+
+GL 1 TCMM0005d
+GI 1 0
+
+WVP 0 vfCCD1001msa153
+Misato: "Wh-why!!?"
+TP
+
+
+WVP 0 vfCCD1001msa154
+Misato: "......ah, ah, stop!"
+TP
+
+
+Sempai used both hands.
+TP
+
+
+*boing*
+//For once I didn't have to put any thought into what the English equivalent sound effect would be. Å`IX
+TP
+
+
+Taichi: "Oooh..."
+TP
+
+
+Supremely balanced beautiful breasts moving vertically and non-simultaneously.
+TP
+
+GL 1 TCMM0001d
+GI 1 0
+
+
+WVP 0 vfCCD1001msa155
+Misato: "I have a feeling I'm being violated by someone's eyes......"
+TP
+
+
+A sharp person.
+TP
+
+
+Taichi: "Magic Ball That Suddenly Feels Like Attacking!"
+TP
+
+GL 1 TCMM0004d
+GI 1 0
+
+WVP 0 vfCCD1001msa156
+Misato: "Aaah! Good Ball That Attacks With Moderation!"
+TP
+
+
+WVP 0 vfCCD1001msa157
+Misato: "Enough, eei!!"
+WVP 2 SE031 1 0
+SEF 101 0
+TP
+
+
+*roll!*
+TP
+
+
+Perfect beautiful breasts magical rolling.
+TP
+
+
+That just became a quite highly-ranked memory.
+TP
+
+
+Taichi: "Next is......"
+TP
+
+GL 1 TCMM0005d
+GI 1 0
+
+WVP 0 vfCCD1001msa158
+Misato: "Stop it already!! I'd like it to be normal!!"
+TP
+
+
+......I'll leave it at that.
+TP
+
+
+
+........................
+TP
+
+
+
+A gentle rally.
+TP
+
+
+Taichi: "It's fun to do something with someone else."
+TP
+GL 1 TCMM0001d
+GI 1 0
+
+WVP 0 vfCCD1001msa159
+Misato: "Well, that may be fun for you, but......"
+TP
+
+
+Taichi: "I'm talking about the club."
+TP
+
+GL 1 TCMM0000d
+GI 1 0
+
+WVP 0 vfCCD1001msa160
+Misato: "......the club?"
+TP
+
+
+Taichi: "People disappeared, it got quiet, and hardly anything was left anymore."
+TP
+
+
+Taichi: "But, it's been fun."
+TP
+
+
+Taichi: "Doing something with someone has been fun."
+TP
+
+
+Taichi: "If I was alone, I wouldn't be able to breathe."
+TP
+
+
+WVP 0 vfCCD1001msa161
+Misato: "......yes."
+TP
+
+
+Taichi: "Sempai, do you think it's boring?"
+TP
+
+
+GL 1 TCMM0003d
+GI 1 0
+
+WVP 0 vfCCD1001msa162
+Misato: "......it's not boring."
+TP
+
+
+WVP 0 vfCCD1001msa163
+Misato: "But......I......"
+TP
+
+
+Taichi: "You?"
+TP
+
+
+WVP 0 vfCCD1001msa164
+Misato: "I don't want to think about anything."
+TP
+
+
+Toss.
+TP
+
+
+The ball rose high, and drew a narrow parabola.
+TP
+
+
+Taichi: "......why not?"
+TP
+
+
+The ball fell back down.
+TP
+
+
+WVP 0 vfCCD1001msa165
+Misato: "It'd be nice if I could become someone that just did something."
+TP
+
+
+Taichi: "Like a robot?"
+TP
+
+
+GL 1 TCMM0000d
+GI 1 0
+WVP 0 vfCCD1001msa166
+Misato: "That's right."
+TP
+
+
+Taichi: "That's lonely."
+TP
+
+
+GL 1 TCMM0001d
+GI 1 0
+WVP 0 vfCCD1001msa167
+Misato: "......I appreciate the thought, but..."
+TP
+
+
+Taichi: "Humans can't become robots, right?"
+TP
+
+
+Misato: "............"
+TP
+
+
+Taichi: "We have to enjoy the fun times."
+TP
+
+
+I launched it particularly high.
+TP
+
+
+GL 1 TCMM0003d
+GI 1 0
+
+WVP 0 vfCCD1001msa169
+Misato: "I'm not...able to do that......"
+TP
+
+
+My shoulders fell.
+TP
+
+
+The ball fell, and bounced.
+TP
+
+
+WVS 1 1
+
+
+Taichi: "Sempai?"
+TP
+
+
+She made a face as if she'd just aged ten years.
+TP
+
+
+WVP 0 vfCCD1001msa170
+Misato: "This might be retribution."
+TP
+
+
+WVP 0 vfCCD1001msa171
+Misato: "For...what I've done."
+TP
+
+
+Taichi: "......"
+TP
+
+
+
+
+WVP 1 bgm024.ogg 0 0 0
+
+
+
+WVP 0 vfCCD1001msa172
+Misato: "I really...have no right...to be young and playful."
+TP
+
+
+Taichi: "......Sempai, you have a sin that heavy?"
+TP
+
+
+WVP 0 vfCCD1001msa173
+Misato: "That's right......"
+TP
+
+
+Taichi: "I can't imagine that."
+TP
+
+GL 1 TCMM0000d
+GI 1 0
+
+WVP 0 vfCCD1001msa174
+Misato: "Eh......?"
+TP
+
+
+Taichi: "I said I can't imagine that a person like Mimi-sempai would be able to commit a sin."
+TP
+
+
+
+GL 1 TCMM0001d
+GI 1 0
+WVP 0 vfCCD1001msa175
+Misato: "Peke-kun......you don't know what you're talking about......you shouldn't be saying that. Just because I let you have my body once......"
+TP
+
+
+Taichi: "But, Sempai, haven't you wanted to flee?"
+TP
+
+
+I walked over and picked up the ball.
+TP
+
+GL 1 TCMM0003d
+GI 1 0
+
+WVP 0 vfCCD1001msa176
+Misato: "What are you-......!!?"
+TP
+
+
+Taichi: "That club is for you to flee to, right?"
+TP
+
+
+Taichi: "But isn't that strange? The world has already become such a diluted place."
+TP
+
+
+Taichi: "The sins you committed, your regret, your agony......all of them disappeared along with all the people."
+TP
+
+
+Taichi: "The formations and arrangements of sins no longer exist."
+TP
+
+
+Taichi: "That which we call 'morals' has become infinitely close to zero."
+TP
+
+
+Taichi: "Sempai is clinging obstinately to that."
+TP
+
+
+Though I am too.
+TP
+
+
+WVP 0 vfCCD1001msa177
+Misato: "......that way of thinking......I'm not sure how I feel about it."
+TP
+
+
+WVP 0 vfCCD1001msa178
+Misato: "Mental wounds remain, don't they?"
+TP
+
+
+WVP 0 vfCCD1001msa179
+Misato: "......because, I did something horrible......"
+TP
+
+
+Taichi: "And you regret it?"
+TP
+
+
+Misato: "............"
+TP
+
+
+Taichi: "If, you could return to that time......Sempai, would you make a better choice?"
+TP
+
+
+Misato: "............"
+TP
+
+
+Taichi: "That's why I'm saying that there's no meaning in reflection."
+TP
+
+
+Taichi: "That's just repeating the same thing over and over."
+TP
+
+
+Taichi: "And Sempai's doing exactly that."
+TP
+
+
+Taichi: "......I can tell."
+TP
+
+
+Misato: "............"
+TP
+
+
+Taichi: "I don't know what happened, but..."
+TP
+
+
+Taichi: "......to me, it just looks like Sempai is fleeing."
+TP
+
+
+Taichi: "I'm sure you don't have to do club activities."
+TP
+
+
+Taichi: "But will you stagnate there forever?"
+TP
+
+
+Taichi: "I'm sure you feel some resistance to how I'm saying this, but in order for you to accept your sinful self, don't you have to take some kind of action?"
+TP
+
+GL 1 TCMM0001d
+GI 1 0
+WVP 0 vfCCD1001msa183
+Misato: "That's......impossible."
+TP
+
+GL 1 TCMM0003d
+GI 1 0
+
+WVP 0 vfCCD1001msa184
+Misato: "Now...it's absolutely impossible."
+TP
+
+
+Taichi: "Why?"
+TP
+
+
+WVP 0 vfCCD1001msa185
+Misato: "Because......there are no people."
+//Dramatic effect.-Spin
+TP
+
+
+Taichi: "Then what will you do?"
+TP
+
+
+WVP 0 vfCCD1001msa186
+Misato: "......I don't......know that."
+TP
+
+
+WVP 0 vfCCD1001msa187
+Misato: "I'd like to ask that myself......"
+TP
+
+
+Her expression sank deeply, then disappeared.
+TP
+
+
+As if to allow the clear salt water to remain expressionless.
+//Finally figured out this was the intent. Still hyperliteral, so if this doesn't make sense in English, just go at it again. Å`IX
+//Ahh, so her expression has sunk, and now the surface of the sea is undisturbed once more? Makes sense, after thinking it over a bit. ~Bal
+TP
+
+
+At the bottom there's anguish.
+TP
+
+
+Taichi: "Sempai wants to be hurt."
+TP
+
+GL 1 TCMM0004d
+GI 1 0
+
+
+WVP 0 vfCCD1001msa188
+Misato: "Eh......?"
+TP
+
+
+Taichi: "Don't you want your sinful self to receive some sort of punishment?"
+TP
+
+
+WVP 0 vfCCD1001msa189
+Misato: "That......I......"
+TP
+
+
+I took one step toward her.
+TP
+
+
+I was right next to her.
+TP
+
+
+Taichi: "Why don't I do that for you?"
+TP
+
+
+I switched to autopilot.
+TP
+
+GL 1 TCMM0000d
+GI 1 0
+
+Misato: "......"
+TP
+
+
+Taichi: "That might make things a little easier for you."
+TP
+
+
+GL 1 TCMM0003d
+GI 1 0
+
+WVP 0 vfCCD1001msa191
+Misato: "That's......strange......"
+TP
+
+
+Sempai was puzzled.
+TP
+
+
+Taichi: "Please come this way."
+TP
+GO 1 1
+
+I took her hand and brought her along.
+TP
+
+
+Without inserting a process to deal with rejection.
+TP
+
+
+Sempai did scream slightly, but she showed no resistance.
+TP
+GL 0 bgcc0020
+GS 0 1
+SEF 152 0
+
+I sat down on the porch of the beach house.
+//Google want it Beach House - Raide
+TP
+
+GL 1 TCMM0001d
+GI 1 1
+
+
+WVP 0 vfCCD1001msa192
+Misato: "......what are you going to do......?"
+TP
+
+
+Taichi: "What else would I do by exposing my true form?"
+TP
+
+
+I took it out.
+TP
+
+
+Taichi: "Please lick it."
+TP
+
+GL 1 TCMM0005d
+GI 1 0
+
+WVP 0 vfCCD1001msa193
+Misato: "Hii......"
+TP
+
+
+Taichi: "It looks different in the sunlight, doesn't it?"
+TP
+
+
+WVP 0 vfCCD1001msa194
+Misato: "............lick it......"
+TP
+
+
+Taichi: "It's called fellatio."
+TP
+
+
+Taichi: "Now, hurry up."
+TP
+
+
+WVP 0 vfCCD1001msa195
+Misato: "To lick......a boy's............but...I don't know......how......"
+TP
+
+
+Taichi: "Just do it as if you're licking a popsicle."
+TP
+
+
+Taichi: "Now, put it in your mouth."
+TP
+
+
+I pushed into her.
+TP
+
+
+
+
+IF $nonero == 1 JMP mimiHend3
+
+
+
+
+
+JMP N_SCENE001
+:SCENE001
+WVP 1 bgm024.ogg 0 0 0
+
+
+:N_SCENE001
+
+
+
+
+GL 0 evcc0034
+$CGevcc0034 = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+
+WVP 0 vfCCD1001msa196
+Misato: "......!"
+TP
+
+
+Her occlusion was weak, and her hold fragile.
+TP
+
+
+I continued invading.
+TP
+
+
+WVP 0 vfCCD1001msa197
+Misato: "Nn......nnmua......nn......"
+TP
+
+
+Only my tip was inside, being licked.
+TP
+
+
+The impulse to chase after that tongue.
+TP
+
+
+But, I held back.
+TP
+
+
+WVP 0 vfCCD1001msa198
+Misato: "Nnu, nnn......nnnnn......it's salty......"
+TP
+
+
+She said as if to push back half of the round tip.
+TP
+
+
+Taichi: "Maybe it has some salt water on it? Or..."
+TP
+
+
+Taichi: "Continue. Lick it well until that flavor is gone."
+TP
+
+
+WVP 0 vfCCD1001msa199
+Misato: "......nn!......Nn......*lick*......nn, nn, nnnnn......"
+TP
+
+
+The word 'popsicle' must have made her do that.
+TP
+
+
+Her movements were still dull, but she was placing her tongue well.
+TP
+
+
+I was being licked roughly.
+TP
+
+
+A huge stimulus ran through me, and I felt my blood vessels dilate.
+TP
+
+
+WVP 0 vfCCD1001msa200
+Misato: "Fua, please don't get that big......"
+TP
+
+
+Taichi: "That's impossible."
+TP
+
+
+Taichi: "Now, continue."
+TP
+
+
+I lightly pushed my hips into her.
+TP
+
+
+With her cheek being pushed from the inside, Sempai was at a loss for what to do.
+TP
+
+
+WVP 0 vfCCD1001msa201
+Misato: "Nn, nnnnn! Nnmu......nn......"
+TP
+
+
+Taichi: "How does it feel?"
+TP
+
+
+WVP 0 vfCCD1001msa202
+Misato: "Aan......ha!......It's big......filling my throat......it...hur-......"
+TP
+
+
+Taichi: "Then please use your tongue more."
+TP
+
+
+I said that in a way that ignored the meaning of her conjunction, and her service became ever stronger.
+//I assume this means that the transition I tled as "Then" in the previous line is implying that she should lick more because it hurts, and he's ignoring that implication. Or something. Å`IX
+TP
+
+
+WVP 0 vfCCD1001msa203
+Misato: "L-like this? ......Nn! *lick!* *lick*......"
+TP
+
+
+Taichi: "You have to do it with more passion."
+TP
+
+
+When I explained it more concretely, Sempai went red to her ears, and obeyed.
+TP
+
+
+WVP 0 vfCCD1001msa204
+Misato: "Nn! Nnmu......nn! *lick*......*kiss*......*lick* ......*kiss* nn! Nnnn!"
+TP
+
+
+I rubbed her head.
+TP
+
+
+And asked something cruel.
+TP
+
+
+Taichi: "How does it feel to lick it?"
+TP
+
+
+WVP 0 vfCCD1001msa205
+Misato: "Nnku!......Nnmu! Nn! Nn! Nn!......Nnfu, i-it's, getting hotter......my mind is going blank."
+TP
+
+
+Her thought process must be streamlining, as there was no hesitation in her statement.
+//I actually ran into a word that none of my dictionaries knew. Ouch. Å`IX
+TP
+
+
+Taichi: "Please be sure to suck it too."
+TP
+
+
+WVP 0 vfCCD1001msa206
+Misato: "Nn, nnnnn! *kiss* *kiss* *kiiiiiiiss*......"
+TP
+
+
+Her cheeks narrowed.
+TP
+
+
+The membranes inside her mouth stuck to my rod.
+TP
+
+
+She's just sucking.
+TP
+
+
+I guided her head until right before it would come out.
+TP
+
+
+And then put it back until she was swallowing it.
+TP
+
+
+Sempai soon understood.
+TP
+
+
+Taichi: "Nn......that's right."
+TP
+
+
+WVP 0 vfCCD1001msa207
+Misato: "Nn! Nnmu! *kiss* *lick!*......"
+TP
+
+
+Her tongue twisted at times.
+TP
+
+
+Taichi: "Yes, mix in a lot of that......you're good."
+TP
+
+
+WVP 0 vfCCD1001msa208
+Misato: "Fua, nn! Nnmu! *lick*......*kisssssss!* Ah, it's getting bigger again......amazing...it's stretching......"
+TP
+
+
+WVP 0 vfCCD1001msa209
+Misato: "My cheeks can't stretch that far......nnmu! ......*kiss* *kiss*......haa, haa."
+TP
+
+
+Taichi: "Then, why not use those boobs?"
+TP
+
+
+WVP 0 vfCCD1001msa210
+Misato: "My breasts?"
+TP
+
+
+She didn't seem to understand.
+TP
+
+
+Taichi: "Stick it between them and lick the tip."
+TP
+
+
+Taichi: "Yours are big enough to do that, aren't they?"
+TP
+
+
+WVP 0 vfCCD1001msa211
+Misato: "That's...embarrassing......"
+TP
+
+
+Taichi: "You're going to do it, Mimi-sempai."
+TP
+
+
+I said strongly.
+TP
+
+
+Taichi: "Whose breasts are those?"
+TP
+
+
+WVP 0 vfCCD1001msa212
+Misato: "Ah, yes......they're Peke-kun's......"
+//Since it's conceivable that no one's going to bother remembering details from the last hscene, this is in fact something they explicitly "agreed" on back then. Å`IX
+TP
+
+
+Taichi: "So it's up to me how to use them."
+TP
+
+
+WVP 0 vfCCD1001msa213
+Misato: "But using them to......nn......*lick!* Ahan, nn ......nnnnnnn......nnnn......"
+TP
+
+
+To seal off unnecessary statements, I plugged her mouth.
+TP
+
+
+Taichi: "Come on, stick it in there."
+TP
+
+
+WVP 0 vfCCD1001msa214
+Misato: "Ah, yes......hot!......Like...this?"
+TP
+
+
+Taichi: "Stronger."
+TP
+
+
+WVP 0 vfCCD1001msa215
+Misato: "Okay......nn!......Ah, the tip is......*kiss* *kiss*......"
+TP
+
+
+Taichi: "Make sure to drool heavily on it. Make it slimy, please."
+TP
+
+
+WVP 0 vfCCD1001msa216
+Misato: "O-okay......nn, *lick*......*lick*......*kiss* *kiss*......nnn, nn! Fuan......"
+TP
+
+
+WVP 0 vfCCD1001msa217
+Misato: "*lick!* Nn, nnnnnnn! Nn, *lick*......fua, haa, haa......something bitter......is coming out......"
+TP
+
+
+Taichi: "That means it feels good."
+TP
+
+
+WVP 0 vfCCD1001msa218
+Misato: "......aaa......nnmu......*lick!* *kiss* *kiss* ......*kiss!* *lick* *lick*......*kiiiiiiiiiiss!!*"
+TP
+
+
+Why's she so active?
+TP
+
+
+Is this what it means for a person to want punishment?
+TP
+
+
+Saliva boiled as it was scorched by satisfaction.
+TP
+
+
+Enough dribbled down to wet her breasts.
+TP
+
+
+WVP 0 vfCCD1001msa219
+Misato: "No......my spit is......making my breasts...... sticky......"
+TP
+
+
+Taichi: "Those aren't Sempai's boobs, are they?"
+TP
+
+
+WVP 0 vfCCD1001msa220
+Misato: "They're......yours......"
+TP
+
+
+Taichi: "Please make my boobs stickier."
+TP
+
+
+WVP 0 vfCCD1001msa221
+Misato: "Ah, aaa......nnuuuu, nnfu! Nn......nnnnnn......"
+TP
+
+
+She used all her passion at once.
+TP
+
+
+Between her breasts hid satisfactory heat.
+TP
+
+
+Taichi: "You're starting to sweat. Your cleavage feels good."
+TP
+
+
+WVP 0 vfCCD1001msa222
+Misato: "That's......to say it feels good......that's embarrassing......"
+TP
+
+
+Taichi: "Be sure to rub, slide and squeeze. I like that."
+TP
+
+
+WVP 0 vfCCD1001msa223
+Misato: "Nn, *kiss*......*kiss* Nn! Ah! Haa, haa, nnmumu......"
+TP
+
+
+The moment I said ÅwI like that.Åx, she sprung on it.
+TP
+
+
+She's practically chewing on me.
+TP
+
+
+Taichi: "Nn......men feel it most at the tip."
+TP
+
+
+WVP 0 vfCCD1001msa224
+Misato: "......ah, then......*lick!*......nnnnnnnnnnnnn..."
+TP
+
+
+Her tongue pried open her thin mouth.
+TP
+
+
+And poked into the tip.
+TP
+
+
+WVP 0 vfCCD1001msa225
+Misato: "......nn, my spit got in here too......"
+TP
+
+
+Taichi: "I'm going to cum pretty soon......"
+TP
+
+
+WVP 0 vfCCD1001msa226
+Misato: "Nn, *kiss* ......nnn......nnnnnnnnnn, nn! Aan! Fuun......"
+TP
+
+
+WVP 0 vfCCD1001msa227
+Misato: "Haaa......this feels amazing......like I'm going to melt."
+TP
+
+
+Taichi: "You're all sticky with spit and sweat."
+TP
+
+
+Taichi: "Just like genitalia."
+TP
+
+
+The shame Sempai had started to forget was brought back to the surface, and her voice shook.
+TP
+
+
+WVP 0 vfCCD1001msa228
+Misato: "Wh-......that's cruel......nnn, *kiss*......"
+TP
+
+
+WVP 0 vfCCD1001msa229
+Misato: "Nn! Nn! Nn! Nnn, *kiss* Afu!......Nnmu!...... Nnnnn, nnnnnnn."
+TP
+
+
+But she was soon reabsorbed in it.
+TP
+
+
+Taichi: "Sempai's nipples are getting hard."
+TP
+
+
+I pulled her back to that.
+TP
+
+
+WVP 0 vfCCD1001msa230
+Misato: "Y-yes......my nipples are hard......"
+TP
+
+
+Taichi: "Why is that?"
+TP
+
+
+WVP 0 vfCCD1001msa231
+Misato: "......that's......this is......"
+TP
+
+
+Taichi: "It's called a boob job."
+//boob job = breast enhancement, so maybe we should us a different slang term? - Sheeta
+//The only other slang that comes to mind is "titty fuck", but that's quite a bit derogatory/obscene... ~Bal
+TP
+
+
+WVP 0 vfCCD1001msa232
+Misato: "B-because......this boob job feels good......*kiss* *kiss*......aan......it's jumping inside my mouth......amazing......"
+TP
+
+
+Taichi: "You're feeling it that strongly?"
+TP
+
+
+WVP 0 vfCCD1001msa233
+Misato: "Also......Peke-kun's......di*k...is hard and hot......nn!......"
+TP
+
+
+Taichi: "Then, please make me cum."
+TP
+
+
+WVP 0 vfCCD1001msa234
+Misato: "......ah......in my chest......?"
+TP
+
+
+Taichi: "Suck strongly while rubbing it."
+TP
+
+
+WVP 0 vfCCD1001msa235
+Misato: "......ah......I understand......nn, nnnnn...... *kiss* *kiss* Nn! Nn! Nn!......*kisssss*......"
+TP
+
+
+Honest.
+TP
+
+
+Taichi: "Yes, I'm going to cum soon, so continue sucking."
+TP
+
+
+WVP 0 vfCCD1001msa236
+Misato: "Ah! Nnmu nnmu......aan......nn!......Nn, fuu ......nnmu!"
+TP
+
+
+WVP 0 vfCCD1001msa237
+Misato: "*kiss* *kiss!*......*lick* *lick*......nn! Ah!......Nnnnnnnnnnnnnnnn!!"
+TP
+
+
+WVP 0 vfCCD1001msa238
+Misato: "Fua, aan......nn! Nn! Nn! Nn! Nnn, nnnnnnn! *kiss* *kiss!!*......Nnnn, nnnnnnnnnnnnnnnnn!!!!"
+TP
+
+
+I rose up.
+TP
+
+
+I ejaculated.
+TP
+GL 0 evcc0034a
+$CGevcc0034a = 1
+
+GL 5 bgcc0000e
+GI 5 0
+GS 0 1
+GS 5 0
+SEF 109 0
+
+WVP 0 vfCCD1001msa239
+Misato: "Nnnnnnnnnnn!!?"
+TP
+
+
+On top of the physical pleasure, my muscles shook from the sheer truth that I was cumming into Sempai's mouth.
+TP
+
+
+The semen passing through my urethra gushed out in globs.
+TP
+
+
+Into Sempai's mouth, into Sempai's mouth...
+TP
+
+
+The origin of her sweet voice.
+TP
+
+
+Defiled with my semen.
+TP
+
+
+WVP 0 vfCCD1001msa240
+Misato: "......nn......aafua......aa......nnku ............nn!......Ah!?"
+TP
+
+
+I pulled out in mid-ejaculation.
+TP
+
+
+I want to defile other places.
+TP
+
+
+More semen was pushed out onto her face and breasts like jelly.
+TP
+
+
+Taichi: "Ha......"
+TP
+
+
+A beautiful and appropriately defiled Sempai.
+TP
+
+
+A Sempai that reeks of semen.
+TP
+
+
+......good.
+TP
+
+
+Taichi: "Is there still semen in your mouth?"
+TP
+
+
+WVP 0 vfCCD1001msa241
+Misato: "Nn......nnn......"
+TP
+
+
+She nodded.
+TP
+
+
+Taichi: "Stir it with your tongue to get the flavor."
+TP
+
+
+WVP 0 vfCCD1001msa242
+Misato: "............nn......nn......nnnnn......"
+TP
+
+
+Taichi: "Drink."
+TP
+
+
+WVP 0 vfCCD1001msa243
+Misato: "......nnku......*gulp*......"
+TP
+
+
+She finished drinking, and heaved a big sigh.
+TP
+
+
+WVP 0 vfCCD1001msa244
+Misato: "Ah......there's so much......on my breasts......"
+TP
+
+
+Taichi: "Yes, because a lot came out."
+TP
+
+
+It's even twisting around her nipples.
+TP
+
+
+Taichi: "How did it feel on your face?"
+TP
+
+
+WVP 0 vfCCD1001msa245
+Misato: "............it...smelled...really strong......"
+TP
+
+
+Taichi: "Ah, there's a little left."
+TP
+
+
+WVP 0 vfCCD1001msa246
+Misato: "Eh!?"
+TP
+
+
+I tightened my sphincter and the last drop flew out.
+TP
+
+
+WVP 0 vfCCD1001msa247
+Misato: "Kya!?"
+TP
+
+
+And it stuck to the tip of Sempai's nose.
+TP
+
+
+WVP 0 vfCCD1001msa248
+Misato: "......aan, my face......it's all sticky......"
+TP
+
+
+
+
+
+
+
+$SNCCD1001_1 = 1
+
+IF $KAISOU == 0 JMP N_SCENE101
+RET
+
+
+:N_SCENE101
+
+
+
+
+
+
+
+
+
+
+
+
+I wanted to remain that way forever.
+TP
+
+
+I regretted having been too lazy to prepare a camera.
+TP
+
+
+Taichi: "......now, wash your face......and let's continue."
+TP
+
+
+WVP 0 vfCCD1001msa249
+Misato: "You......can keep doing......this?"
+TP
+
+
+WVP 0 vfCCD1001msa250
+Misato: "Back then......you only came once......"
+TP
+
+
+Taichi: "It was your first time, so I was gentle."
+TP
+
+
+Taichi: "But today I'll be a bit more reckless."
+TP
+
+
+Taichi: "......after all, don't you want me to?"
+TP
+
+
+I whispered in her ear.
+TP
+
+
+WVP 0 vfCCD1001msa251
+Misato: "Ah......that's......"
+TP
+
+
+She washed the semen off her with water from a bottle.
+TP
+
+
+Taichi: "Please stand and spread out your legs."
+TP
+
+
+Sempai stood up slowly.
+TP
+
+
+
+
+
+
+
+
+
+JMP N_SCENE002
+:SCENE002
+WVP 1 bgm024.ogg 0 0 0
+
+:N_SCENE002
+
+
+GL 0 evcc0035
+$CGevcc0035 = 1
+GS 0 1
+SEF 109 1
+
+The moment when I started, when I penetrated, we both stopped breathing.
+TP
+
+
+It slid right in.
+TP
+
+
+At the same time we exhaled.
+TP
+
+
+The moment we connected, an indescribable sense of conquest roasted my body.
+TP
+
+
+I'm having sex with a person I know.
+TP
+
+
+With a particularly close friend and comrade.
+TP
+
+
+A sweet, beautiful and intoxicating experience.
+TP
+
+
+By connecting to all of the favorable people around me, I'll gain immense provisions.
+TP
+
+
+Taichi: "I'm in."
+TP
+
+
+While licking her ear, I told her in a low voice.
+TP
+
+
+WVP 0 vfCCD1001msa252
+Misato: "......ah......y-yes......all the way......amazingly......"
+TP
+
+
+Taichi: "Amazingly what?"
+TP
+
+
+WVP 0 vfCCD1001msa253
+Misato: "Ha......I get the feeling, that I can feel......us...deep inside......"
+TP
+
+
+Taichi: "Whoa, you've got excellent sensitivity. That means Sempai has an incredibly perverted body."
+TP
+
+
+WVP 0 vfCCD1001msa254
+Misato: "Wh-......!?"
+TP
+
+
+Taichi: "Since you can feel it so well, you'll climax really well. That's your capacity for sex."
+TP
+
+
+WVP 0 vfCCD1001msa255
+Misato: "......I wouldn't know......"
+TP
+
+
+Taichi: "You'll find out very soon."
+TP
+
+
+WVP 0 vfCCD1001msa256
+Misato: "Eh?......Kyaa!!?"
+TP
+
+
+I thrust upward.
+TP
+//past tense of thrust is also thrust.
+
+
+WVP 0 vfCCD1001msa257
+Misato: "Nnnnn! Nn! Ah......so...suddeeen......"
+TP
+
+
+I can't move the way I'd thought.
+TP
+
+
+I forcefully shook her with my arms.
+TP
+
+
+WVP 0 vfCCD1001msa258
+Misato: "Ah, ah! Aaun, haa, ah......"
+TP
+
+
+WVP 0 vfCCD1001msa259
+Misato: "Th-this is......deep......too deep......it...hurts......haan, hia!"
+TP
+
+
+Taichi: "Theeen, let's keep doing this all day. "
+TP
+
+
+My tongue entered her ear.
+TP
+
+
+WVP 0 vfCCD1001msa260
+Misato: "Haaa!......Th-that's......ah! Aaah, hia!...... Aaun, aaa......"
+TP
+
+
+Taichi: "Your chest feels great as a cushion."
+TP
+
+
+As I thrust into her, her breasts pushed into my chest.
+TP
+
+
+WVP 0 vfCCD1001msa261
+Misato: "Ah......aau, oh! Nn! Aaaaa, nn! Ah! D-don't shake meee!!"
+TP
+
+
+Taichi: "If I don't shake you, it won't feel good."
+TP
+
+
+WVP 0 vfCCD1001msa262
+Misato: "Haaa......ha......ah......aaah, hi!! Hifun!......Th-at's......if we kept doing this......it'd...hurt......"
+TP
+
+
+Because I was entering all the way inside, Sempai seemed to be in pain.
+TP
+
+
+Taichi: "Let's try changing this a bit."
+TP
+
+
+I tried twisting her butt around so that I'd rub against one side of her.
+TP
+
+
+WVP 0 vfCCD1001msa263
+Misato: "Nnnnnnnnn!!......hi, hya, hyafu!......My insides......it huuuurts......"
+TP
+
+
+Taichi: "Haha......"
+TP
+
+
+This feels good.
+TP
+
+
+There wasn't much of a rubbing sensation, so there was no direct stimulus, but...
+TP
+
+
+The weight of Sempai's body clinging to me.
+TP
+
+
+Her pliant upper body adhering to me. Her breasts.
+TP
+
+
+Making a continuous and harmonious sense of conquest.
+TP
+
+
+WVP 0 vfCCD1001msa264
+Misato: "Nn, nnnnn, ah! Ooun, oaa......hyaa, no!......I can't...hold it in......nn......p-please......a little......"
+TP
+
+
+Taichi: "Eh?"
+TP
+
+
+WVP 0 vfCCD1001msa265
+Misato: "P-please......let me go to the bathroom......"
+TP
+
+
+Taichi: "The bathroom? Do you need to pee?"
+TP
+
+
+WVP 0 vfCCD1001msa266
+Misato: "......y-yes......when you stirred me around......I suddenly..."
+TP
+
+
+Did I overstimulate her bladder?
+TP
+
+
+Taichi: "I understand."
+TP
+
+
+WVP 0 vfCCD1001msa267
+Misato: "I-I'm sorry......"
+TP
+
+
+Sempai put her hands on my shoulders, and tried to lift up her body.
+TP
+
+
+Tried to pull out.
+TP
+
+
+Tried to flee.
+TP
+
+
+I suddenly changed my mind.
+TP
+
+
+Taichi: "Actually, no."
+TP
+
+
+WVP 0 vfCCD1001msa268
+Misato: "Eh?......Kyaa!!"
+TP
+
+
+I pushed away Sempai's hands, and she fell.
+TP
+
+
+A loud watery sound.
+TP
+
+
+WVP 0 vfCCD1001msa269
+Misato: "Higi, giii......!......Ah!......Angu......"
+TP
+
+
+She lost her support, and skewered herself.
+TP
+
+
+She looked at me with a face asking why.
+TP
+
+
+With that single attack, her eyes had turned to water.
+TP
+
+
+Taichi: "I really don't want to stop now......"
+TP
+
+
+Taichi: "Please leak right here."
+TP
+
+
+For a moment, Sempai didn't understand.
+TP
+
+
+She froze in place.
+TP
+
+
+WVP 0 vfCCD1001msa270
+Misato: "Ah, aaaaa......no, you can't......that's...... please, don't......let me go......"
+TP
+
+
+She struggled in vain.
+TP
+
+
+Taichi: "We're at the beach after all, why not?"
+TP
+
+
+I held her, and enjoyed the sensation of her going berserk in my arms.
+TP
+
+
+WVP 0 vfCCD1001msa271
+Misato: "To do it here......impossible, I can't!"
+TP
+
+
+Taichi: "Then, if you can shake me off you can go."
+TP
+
+
+I squeezed her.
+TP
+
+
+WVP 0 vfCCD1001msa272
+Misato: "That's......harassment......I can't do that......"
+TP
+
+
+Taichi: "Then, will you leak here?"
+TP
+
+
+WVP 0 vfCCD1001msa273
+Misato: "......ah, aaa......"
+TP
+
+
+Hesitation.
+TP
+
+
+WVP 0 vfCCD1001msa274
+Misato: "Nn!......Nnn......ha, haa......get out......let me go......"
+TP
+
+
+She started flailing again. But she was weak.
+TP
+
+
+She didn't really want to throw me off, but it looked like she was trying to persuade me with her attitude.
+TP
+
+
+Of course I didn't change my mind.
+TP
+
+
+Taichi: "......five seconds then."
+TP
+
+
+I loosened my arms.
+TP
+
+
+Sempai moved timidly.
+TP
+
+
+I grabbed her butt and pulled her closer to my hips.
+TP
+
+
+Our union deepened.
+TP
+
+
+WVP 0 vfCCD1001msa275
+Misato: "Nnnnnnnnnnn!!"
+TP
+
+
+Taichi: "Okay, go ahead."
+TP
+
+
+I loosed my hold again.
+TP
+
+
+WVP 0 vfCCB1101msa076
+Misato: "......"
+TP
+
+
+When she started moving, I pinched and twisted her nipples.
+TP
+
+
+I repeated that several times.
+TP
+
+
+Pinching her clitoris, poking her anus, tickling her stomach.
+TP
+
+
+I got in her way.
+TP
+
+
+WVP 0 vfCCD1001msa276
+Misato: "......han! Ah, aaa......aan......a-again!? Nngi!"
+TP
+
+
+When she tried to bring out the last of her strength to stand up, I brought her down with a W-twist to the nipples, and Sempai collapsed, exhausted and immobile.
+//"W-twist?" I can't imagine that.-Spin
+TP
+
+
+I twisted her hips and granted her pleasure.
+TP
+
+
+WVP 0 vfCCD1001msa277
+Misato: "Ah......aaa......nooo, don't twist me around ......you're going to make me pee!!"
+TP
+
+
+I won't stop.
+TP
+
+
+I chased her into a corner.
+TP
+
+
+Taichi: "There's no way a person with such a perverted body would leak."
+TP
+
+
+Sempai sobbed when I said that.
+TP
+
+
+While crying, she held up her head and moaned.
+TP
+
+
+WVP 0 vfCCD1001msa278
+Misato: "Fuaaaann! Aan! Ah! Nn......no! N-......nnn......nn."
+TP
+
+
+She twisted her body and tried to pull away.
+TP
+
+
+I grabbed her hips and pulled her back. Adherence.
+TP
+
+
+WVP 0 vfCCD1001msa279
+Misato: "Ha, haaaaaaa!!! Nn......nnn......stop...... really......I......"
+TP
+
+
+Her body was shaking.
+TP
+
+
+WVP 0 vfCCD1001msa280
+Misato: "......s-save me......let me go......I don't wanna leak......"
+TP
+
+
+Taichi: "I'm telling you it's fine."
+TP
+
+
+I don't know what's fine about it.
+TP
+
+
+I just became lost in twisting her body.
+TP
+
+
+I played around with Sempai like a tree leaf. 
+TP
+
+
+WVP 0 vfCCD1001msa281
+Misato: "That......I can't......I...mustn't, nn!......Nnnnn! Aaun!......"
+TP
+
+
+WVP 0 vfCCD1001msa282
+Misato: "Uuu! Uua! Nnku!......Nn! No! Nooo......hot......I'm loosening......if you keep this up......I won't be able to hold it in!!"
+TP
+
+
+Taichi: "ÅÙÅÙ"
+TP
+
+
+WVP 0 vfCCD1001msa283
+Misato: "Nnnnn......nnah! I'm sorry, forgive me, I really can't do it......no! Aaaah!!"
+TP
+
+
+Her reaction changed.
+TP
+
+
+Her limbs tightened with abnormal convulsions.
+TP
+
+
+WVP 0 vfCCD1001msa284
+Misato: "Ah, aan, aan, aan! Nna, kuu......noo, don't move so delicately......I'll go numb......oh! Oh!......Ooah! Aaa......aaaaaa!......"
+TP
+
+
+It could be a scream or a cry for help.
+TP
+//guessing...
+
+She incessantly formed more words with that lovely voice.
+TP
+
+
+WVP 0 vfCCD1001msa285
+Misato: "Th-is......is...it! Ah......aaa!......Ga!......Hifu!!"
+TP
+
+
+Taichi: "Sempai."
+TP
+
+
+Miyasumi Misato loosened.
+TP
+
+
+Her breakdown rushed me onward.
+TP
+
+
+WVP 0 vfCCD1001msa286
+Misato: "Higi! Aau......ahi, hya......fua, hi! Ah! Hia! Ah! Aau!!"
+TP
+
+
+Small motions.
+TP
+
+
+And then a deep jab.
+TP
+
+
+WVP 0 vfCCD1001msa287
+Misato: "Ku!......"
+TP
+
+
+In an emergency, she can let out her voice unrestrained.
+TP
+
+
+I stuck my fingers into her butthole.
+TP
+
+
+WVP 0 vfCCD1001msa288
+Misato: "Nngi! Ah......aaa......nnnnnnnnnnnnnn!!!!?"
+TP
+
+
+Her vagina twisted, giving the sensation that I was being squeezed upward at an angle.
+TP
+
+
+She contracted.
+TP
+
+
+At the same time,
+TP
+
+
+
+WVP 0 vfCCD1001msa289
+Misato: "Ha, aaaaaaaaaa......aaaaa......aaaaaa......noooooooooo......"
+TP
+
+
+Sempai's bladder loosened.
+TP
+
+
+While making that blunder, she developed slightly.
+//"developed?" What developed?-Spin
+TP
+
+
+Taichi: "Haha, your lower body is hot. And sticky."
+TP
+
+
+WVP 0 vfCCD1001msa290
+Misato: "Nooo......nooo......"
+TP
+
+
+Taichi: "Don't cry, Sempai."
+TP
+
+
+I licked her tears.
+TP
+
+
+Salty.
+TP
+
+
+Taichi: "I'm going to keep doing this."
+TP
+
+
+WVP 0 vfCCD1001msa291
+Misato: "......fua......eah?"
+TP
+
+
+I loved her absent-minded face.
+TP
+
+
+I slowly restarted the rhythm of my hips.
+TP
+
+
+WVP 0 vfCCD1001msa292
+Misato: "AH!......Nngu!......No, don't!......"
+TP
+
+
+WVP 0 vfCCD1001msa293
+Misato: "Uaa! Ha! Han!......Don't, don't don't......you can't do that!!"
+TP
+
+
+Taichi: "Then I'll move slowly."
+TP
+
+
+Taichi: "Here we go, slowly, slowly..."
+TP
+
+
+WVP 0 vfCCD1001msa294
+Misato: "Uuuu......ooo!......"
+TP
+
+
+My back pulled.
+TP
+
+
+I didn't worry about it.
+TP
+
+
+WVP 0 vfCCD1001msa295
+Misato: "Ha! Ha! Ha!......Nn!......Aaa......aan! Nn......aaaa......"
+TP
+
+
+As I continued moving slowly, her faced looked like it was about to melt.
+TP
+
+
+WVP 0 vfCCD1001msa296
+Misato: "Uuu, nn! An, aaan......stooop......hiuu......this! This is......"
+TP
+
+
+Taichi: "Do you know what's being done to you?"
+TP
+
+
+WVP 0 vfCCD1001msa297
+Misato: "Yes, ha!......My insides are...being thoroughly!...Rubbed."
+TP
+
+
+Taichi: "Yes, yes."
+TP
+
+
+Taichi: "And, I found Sempai's weak point."
+TP
+
+
+With my tip, I scraped where she'd developed.
+TP
+
+
+WVP 0 vfCCD1001msa298
+Misato: "......hya!!!!!"
+TP
+
+
+Her cries stopped.
+TP
+
+
+I continued scraping the same place.
+TP
+
+
+WVP 0 vfCCD1001msa299
+Misato: "Oooh!......Ofu!......Kya, nn! --------!!!"
+TP
+
+
+Sempai climaxed plainly.
+TP
+
+
+Taichi: "Ahaha, cute."
+TP
+
+
+Taichi: "I'll keep going."
+TP
+
+
+WVP 0 vfCCD1001msa300
+Misato: "Nngi!...Oou!......Oh!......Nnnnn......nnn......I-I'm sorry!"
+//To avoid bad wordwrapping ~Bal
+TP
+
+
+She apologized.
+TP
+
+
+For what, was a mystery.
+TP
+
+
+Taichi: "I won't forgive you."
+TP
+
+
+I continued reproaching the same place.
+TP
+
+
+WVP 0 vfCCD1001msa301
+Misato: "I'm sorry, I'm sorry! I'm sorry I'm sorry!......Agu!......I'm sor-!......NN!!!"
+TP
+
+
+The legs twisted around my hips began flapping wildly.
+TP
+
+
+Taichi: "That's no good. Come on, I'm going to scrape you even more. One, two, one, two."
+TP
+
+
+WVP 0 vfCCD1001msa302
+Misato: "......nnnnnnnnnnnnn!!! Stooop!! For, give, meeee!......"
+TP
+
+
+A successive climax.
+TP
+
+
+......the moment before she reached it, I stopped reproaching.
+TP
+
+
+Love needs teasing.
+TP
+
+
+WVP 0 vfCCD1001msa303
+Misato: "Ah?......Haa......ha!......Nnku!......"
+TP
+
+
+She still clung to me, and her breathing was rough.
+TP
+
+
+Even if I kissed her face or neck, there was no reaction.
+TP
+
+
+Taichi: "How was it?"
+TP
+
+
+WVP 0 vfCCD1001msa304
+Misato: "Aan, nn, nn, nn!......Aaaa......I don't know anything anymore......"
+TP
+
+
+Taichi: "Sempai......"
+TP
+
+
+Taichi: "It's okay to feel even more of this."
+TP
+
+
+I rubbed her weak point again.
+TP
+
+
+WVP 0 vfCCD1001msa305
+Misato: "Uaaaa! That's!......My!......I'm...being...!......Nnnnn!!?"
+//The game crashes due to line starting from <That's> to <nn!?"> is too long. Either break it or remove most of the last <n> like this to make it work - Raide
+TP
+
+
+I was also getting near the end.
+TP
+
+
+Gradually building heat was lurking in my hips.
+TP
+
+
+WVP 0 vfCCD1001msa306
+Misato: "Nngi! Ah! Hi, hyaa!!......Fuaaa, ah! Aauu, aan, aan, aan!......Haaan!!!"
+TP
+
+
+WVP 0 vfCCD1001msa307
+Misato: "Noo, this is amazing, amazing! Hya, ah! Amazing......it, oooooooooh!!!"
+TP
+
+
+WVP 0 vfCCD1001msa308
+Misato: "Nnn! Aan! No, no, no stop! No............"
+TP
+
+
+Irregular breathing.
+TP
+
+
+Her bodily reactions, namely her limb movements, were also becoming inconsistent.
+TP
+
+
+WVP 0 vfCCD1001msa309
+Misato: "......ah............no......"
+TP
+
+
+WVP 0 vfCCD1001msa310
+Misato: "Nn......ah......no, don't...something's coming..."
+TP
+
+
+Taichi: "That's called 'cumming.'"
+TP
+
+
+
+
+
+
+I brought my lips to her ear, and gave her that order.
+TP
+
+
+WVP 0 vfCCD1001msa312
+Misato: "I-I'm! Cumming! I......m......cu......kya ......kyaa!"
+TP
+
+
+I ground up her insides to my heart's content.
+TP
+
+
+Only that weak part.
+TP
+
+WVP 0 vfCCD1001msa313
+Misato: "Nooo, stoooop!! Ah! I'm cummiiiiiiiiiiiiiing!!!!!"
+TP
+
+
+Fleshy sensations leaped in my arms.
+TP
+
+
+I held her, and tasted her skin.
+TP
+
+
+A little later, I also climaxed.
+TP
+
+
+Even as Sempai's hoarse voice disappeared, I continued gushing semen.
+TP
+
+
+
+
+
+
+$SNCCD1001_2 = 1
+
+IF $KAISOU == 0 JMP N_SCENE102
+RET
+
+
+:N_SCENE102
+IF $nonero != 1 JMP mimiHend4
+:mimiHend3
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 1
+
+......
+TP
+
+............
+TP
+
+........................
+TP
+//I didn't feel there was any need to add an explanatory sentence or two here. Å`IX
+
+:mimiHend4
+
+
+
+
+WVS 1 1
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+
+........................
+TP
+WVP 1 bgm020.ogg 0 0 0
+
+
+GL 0 bgcc0017
+GS 0 1
+SEF 109 1
+
+
+WVP 0 vfCCD1001msa314
+Misato: "......with that......will I be forgiven?"
+TP
+
+
+Sempai asked while buttoning her blouse.
+TP
+
+
+She was horribly sunken.
+TP
+
+
+The cause......probably isn't that I've harassed her.
+TP
+
+
+Something only she knows.
+TP
+
+
+A sin won't be resolved by receiving unsuitable punishment.
+TP
+
+
+Wait, in the first place---
+TP
+
+
+WVP 0 vfCCD1001msa315
+Misato: "With this......will I......be forgiven......?"
+TP
+
+
+Taichi: "No sins are ever forgiven."
+TP
+
+
+While gazing at the sea, I kicked the sand.
+TP
+
+
+The clear grains flew in a fan shape.
+TP
+
+
+WVP 0 vfCCD1001msa316
+Misato: "Then......there's nothing I can do......"
+TP
+
+
+After a long silence, a gloomy voice.
+TP
+
+
+Taichi: "......"
+TP
+
+
+If I was a slightly better person, I would've been able to comfort her.
+TP
+
+
+To go against my own thinking by throwing out an argument with no honesty.
+TP
+
+
+But I can't do that.
+TP
+
+
+I can't do anything about it.
+TP
+
+
+Because I'd confirmed that this was indeed the truth.
+TP
+
+
+Silence conveyed her intent.
+TP
+
+
+WVP 0 vfCCD1001msa317
+Misato: "......uuu......uuuuuuuuu......"
+TP
+
+
+I had no means of comforting her.
+TP
+
+
+I'd gone a little overboard.
+TP
+
+
+I had harassed Sempai.
+TP
+
+
+In my happy end.
+TP
+
+
+Even though this should have been a beautiful trauma counseling.
+TP
+
+
+Taichi: "......this is hard."
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+I covered my face.
+TP
+
+
+I comprehended the fact that I'd failed.
+TP
+
+
+
+WVS 1 1
+
+
+
+WT 500 0
+WT 500 1
+
+
+
+
+
+WVP 3 SE001 0 0
+
+
+
+WVP 1 bgm018.ogg 0 0 0
+//The first time I got here, it seemed to be playing brokenly, like looping only the first second or something? However, I can't seem to reproduce this at any other time. Probably just a fluke, but thought I'd mention it. ~Bal
+
+
+GL 0 bgcc0007s
+GS 0 1
+SEF 10 2
+
+GL 1 TCMM0002s
+GP 1 225 0
+GI 1 1
+
+WVP 0 vfCCD1001msa318
+Misato: "Close friends should have nicknames for each other."
+TP
+
+
+Taichi: "Haa......"
+TP
+
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa319
+Misato: "Come on, pick a nickname for me."
+TP
+
+
+I had a feeling that 'pet name' was the correct nuance.
+TP
+
+
+There's no doubt that she likes me as a pet.
+TP
+
+
+But either way,
+TP
+
+
+I don't know whether or not there's affection underneath her smile.
+TP
+
+
+I'm still wary of her.
+TP
+
+
+Taichi: "Then......Sempai."
+TP
+
+
+The idea that resulted from some thought was that honorific.
+TP
+
+GL 1 TCMM0021s
+GI 1 0
+
+
+WVP 0 vfCCD1001msa320
+Misato: "You can't tell it's me just by saying 'Sempai.'"
+TP
+
+
+Taichi: "......isn't it reasonable? Miyasumi-sempai should be just fine."
+TP
+
+GL 1 TCMM0031s
+GI 1 0
+
+
+WVP 0 vfCCD1001msa321
+Misato: "Hmmm, Kurosu Taichi......that would be..."
+TP
+
+
+She wasn't listening to me.
+TP
+
+
+WVP 0 vfCCD1001msa322
+Misato: "Taichi-kun...that's pretty boring."
+TP
+
+
+Taichi: "Boring?......Don't mess around with my name......"
+TP
+
+
+Her words seemed somehow poignant.
+TP
+
+
+WVP 0 vfCCD1001msa323
+Misato: "......Kurosu......cross......a black mark...... I know, demerit!"
+IF $tlnote != 0 (TL note: "black mark", "demerit" and "cross out" are all the same word. Also, the "Kuro" in "Kurosu" means black.)
+//This entire scene has meanings that are hard to preserve without making the dialogue sound unnatural. Suggestions for improvement would be most welcome. Å`IX
+//My feeble attempt - Sheeta
+TP
+
+
+Taichi: "......I beg that you please reject that."
+TP
+
+
+I lowered my head.
+TP
+
+GL 1 TCMM0005s
+GI 1 0
+
+WVP 0 vfCCD1001msa324
+Misato: "Eeeh!?"
+TP
+
+
+Taichi: "I'd rather not be called something that sounds like it's from another dialect."
+TP
+
+GL 1 TCMM0031s
+GI 1 0
+
+WVP 0 vfCCD1001msa325
+Misato: "Then......batsu......peke......"
+IF $tlnote != 0 (TL note: In the Kantou dialect, "batsu" refers to a cross or X used to mean "no" or "incorrect", usually as opposed to a circle or a check mark for "yes".)
+TP
+
+
+GL 1 TCMM0000s
+GI 1 0
+WVP 0 vfCCD1001msa326
+Misato: "......Peke-kun?"
+IF $tlnote != 0 (TL note cont: In the Kansai dialect, "peke" means exactly the same thing.)
+TP
+
+
+Taichi: "You've given me another ridiculous sounding name."
+TP
+
+GL 1 TCMM0002s
+GI 1 0
+
+
+WVP 0 vfCCD1001msa327
+Misato: "Ah, but it sounds good. I like it."
+TP
+
+
+You like Peke?
+TP
+
+
+Some basic thought turned up a ÅwÅ~Åx.
+TP
+
+
+Taichi: "Now that I think about it......doesn't 'peke' mean 'useless?'"
+//This reminds me that I think we forgot to check for ? in our "single quotes with punctuation" ordering previously. I went back throught the old scripts for ? and ! in addition to . and , (which were already done) ~Bal
+TP
+
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa328
+Misato: "It can also mean 'X'."
+TP
+
+GL 1 TCMM0002s
+GI 1 0
+
+WVP 0 vfCCD1001msa329
+Misato: "You can think of 'peke' as two lines 'crossing.'"
+TP
+
+
+Taichi: "......but not supporting each other."
+TP
+
+
+That was a bad joke.
+TP
+
+
+Taichi: "I can't take any meaning from that other than 'passing by'......"
+TP
+
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa330
+Misato: "It also contains the wish that we, who've been thrown out of society, will someday cross paths with someone else."
+TP
+
+
+Taichi: "......that's hypocritical."
+TP
+
+
+And rather forced.
+TP
+
+GL 1 TCMM0002s
+GI 1 0
+
+WVP 0 vfCCD1001msa331
+Misato: "Okay, I've decided. It's your turn now."
+TP
+
+
+She decided on it...
+TP
+
+
+Taichi: "Haa."
+TP
+
+
+In this case, I have no choice but to play along.
+TP
+
+
+I haven't known her that long, but I understood that much.
+TP
+
+
+Taichi: "Then......slavewoman."
+TP
+
+GL 1 TCMM0031s
+GI 1 0
+
+WVP 0 vfCCD1001msa332
+Misato: "There's no such thing as a slave in this constitutional state of Japan."
+TP
+
+
+Taichi: "Love slave."
+TP
+
+GL 1 TCMM0005s
+GI 1 0
+
+WVP 0 vfCCD1001msa333
+Misato: "How's that different!?"
+TP
+
+
+Taichi: "Sow-sempai?"
+TP
+GL 1 TCMM0001s
+GI 1 0
+
+WVP 0 vfCCD1001msa334
+Misato: "......are you okay with being a sow's kouhai?"
+TP
+
+
+Taichi: "Boobs-san."
+TP
+
+GL 1 TCMM0005s
+GI 1 0
+
+WVP 0 vfCCD1001msa335
+Misato: "D-don't look at my chest that way......"
+TP
+
+
+Taichi: "Milk slave."
+//This is fun. Totally makes up for the difficulty of adapting "peke." Å`IX
+TP
+GL 1 TCMM0001s
+GI 1 0
+
+WVP 0 vfCCD1001msa336
+Misato: "I don't understand what you mean by that......"
+TP
+
+GL 1 TCMM0021s
+GI 1 0
+
+WVP 0 vfCCD1001msa337
+Misato: "Is that related to 'boobs?'"
+TP
+
+
+She's asking a lot.
+TP
+
+
+Taichi: "......ero-glasses-san."
+//Is it safe to assume everyone knows "ero" by now? Or should I write this out as "erotic"? Å`IX
+//I'm pretty sure everyone knows - Sheeta
+//Even nubs know that. -Neko
+TP
+
+GL 1 TCMM0006s
+GI 1 0
+
+WVP 0 vfCCD1001msa338
+Misato: "Veto."
+TP
+
+
+Taichi: "Aren't you rejecting all of them!?"
+TP
+
+
+I screamed.
+TP
+
+
+I may be cool-headed, but I can't take this.
+TP
+
+
+WVP 0 vfCCD1001msa339
+Misato: "Because all of your ideas are weird!"
+TP
+
+
+Taichi: "Then glasses girl!"
+TP
+GL 1 TCMM0031s
+GI 1 0
+
+WVP 0 vfCCD1001msa340
+Misato: "That's just what I look like. Are you going to use something that simple?"
+TP
+
+
+For a person who just tried to call me 'black mark,' that line is just too perfect.
+TP
+
+
+Taichi: "......Mimi."
+TP
+
+GL 1 TCMM0021s
+GI 1 0
+
+WVP 0 vfCCD1001msa341
+Misato: "What's that?"
+TP
+
+
+Taichi: "Mimi from Miyasumi Misato."
+TP
+GL 1 TCMM0002s
+GI 1 0
+
+WVP 0 vfCCD1001msa342
+Misato: "Aaah, that sounds good."
+TP
+
+
+She smiled softly.
+TP
+
+
+A loose, stupid-looking smile.
+TP
+
+
+But,
+TP
+
+
+......I was strangely bashful.
+TP
+
+
+Taichi: "There are three 'mi's, aren't there? 'Mimimi'?"
+TP
+
+
+Taichi: "Written with the kanji for 'beautiful' three times?"
+TP
+GL 1 TCMM0005s
+GI 1 0
+
+
+WVP 0 vfCCD1001msa343
+Misato: "That sounds like some moronic heroine......"
+TP
+
+
+Someone here was enough of a moron to talk to a dangerous person like myself.
+TP
+
+
+Far too moronic......somehow it made me want to be kind to her.
+TP
+
+
+Taichi: "......Mimi-sempai."
+TP
+GL 1 TCMM0002s
+GI 1 0
+
+WVP 0 vfCCD1001msa344
+Misato: "Ah, that's it, that's good."
+TP
+
+
+Taichi: "It is?"
+TP
+
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa345
+Misato: "Now we're a kouhai and sempai."
+TP
+
+
+She held out her pinky finger.
+TP
+
+
+It didn't seem right, but I did the same. A pinky promise.
+TP
+
+
+Taichi: "So we'll be throwing those intimate names around from now on. How's that different from a slave system?"
+TP
+
+GL 1 TCMM0002s
+GI 1 0
+
+WVP 0 vfCCD1001msa346
+Misato: "It's a forced labor of love."
+TP
+
+GL 1 TCMM0000s
+GI 1 0
+
+WVP 0 vfCCD1001msa347
+Misato: "Ah, I mean the love between friends, of course."
+TP
+
+
+Taichi: "I see..."
+TP
+
+
+I shrugged.
+TP
+
+
+WVS 3 1
+
+
+
+
+
+GL 0 bgcc0007a
+GS 0 1
+GS 1 0
+SEF 10 2
+
+Evening.
+TP
+
+
+There was the Sempai I'd parted from.
+TP
+
+
+Youko-chan wasn't here.
+TP
+
+
+Mimi-sempai returned, and she left as if being replaced.
+TP
+
+
+Taichi: "......"
+TP
+
+
+GL 1 TCMM0003b
+GP 1 225 0
+GI 1 1
+Misato: "......"
+TP
+
+
+Our lines of sight mingled.
+TP
+
+
+They didn't tie together.
+TP
+
+
+We'd only overlapped paths for a mere hour.
+TP
+
+
+I stood still, and Sempai moved around slowly.
+TP
+
+
+We were both silent.
+TP
+
+
+Again, it doesn't seem like I'll be able to tear her away from the antenna.
+TP
+
+
+Even though I have to step into her heart.
+TP
+
+
+......I'm afraid......to do that myself.
+TP
+
+
+WVS 1 1
+
+
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+
+SEF 109 1
+
+
+
+
+
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 0
+Saturday.
+TP
+
+
+......one day left.
+TP
+
+
+There's one day left.
+TP
+
+
+
+
+
+
+WVP 1 bgm007.ogg 0 0 0
+
+
+GL 0 bgcc0007f
+GS 0 1
+SEF 152 0
+I arrived quickly.
+TP
+
+
+I looked, and found that the work was mostly finished.
+TP
+
+
+Investing in Youko-chan had made a huge difference.
+TP
+
+
+All that's left is to wait.
+TP
+
+
+Saturday.
+TP
+
+
+She has a high probability of coming.
+TP
+
+
+However,
+TP
+
+
+Taichi: "......where is she?"
+TP
+
+
+However long I waited, the door never seemed to open.
+TP
+
+
+Finally, noon passed, and Sempai came.
+TP
+GL 1 TCMM0000
+GP 1 225 0
+GI 1 1
+
+
+WVP 0 vfCCD1001msa349
+Misato: "Ah......Peke...kun......"
+TP
+
+
+Taichi: "Mimi-sempai......"
+TP
+
+GL 1 TCMM0005
+GI 1 0
+
+WVP 0 vfCCD1001msa350
+Misato: "......umm! Actually......"
+TP
+
+
+Taichi: "Wh-what?"
+TP
+
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfCCD1001msa351
+Misato: "Ah......nothing......it's...nothing."
+TP
+GO 1 1
+
+Taichi: "Ah, wait."
+TP
+
+
+I extended a hand. It descended powerlessly.
+TP
+
+
+She'd gone.
+TP
+
+
+Well, the work is nearly complete, so that's fine.
+TP
+
+
+Taichi: "......have I failed?"
+TP
+
+
+Stalemate.
+TP
+
+
+I could bring her to the hokora by force---
+TP
+
+
+Taichi: "No good."
+TP
+
+
+We won't attain anything that way.
+TP
+
+
+Any development in which only I'm satisfied is no good. The same goes for one in which only Sempai is satisfied.
+TP
+
+
+It might just be arrogant of me,
+TP
+
+
+But we have to exchange.
+TP
+
+
+If there's a sensation of our hearts touching each other...
+TP
+
+
+But even so, how could I make this end well?
+TP
+
+
+I don't know.
+TP
+
+
+WVS 1 1
+
+
+
+
+
+
+
+GL 0 bgcc0007a
+GS 0 1
+SEF 155 1
+
+I was waiting forever.
+TP
+
+
+Neither Sempai nor Tomoki would appear.
+TP
+
+
+Taichi: "......"
+TP
+
+
+Time passed on uselessly.
+TP
+
+
+I thought.
+TP
+
+
+The fact that Tomoki didn't come here means that he didn't feel like helping.
+TP
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+In other words---
+TP
+
+
+
+WT 500 0
+WT 1000 1
+
+
+
+WVP 2 SE098 1 0
+I heard a strange sound.
+TP
+
+WVP 2 SE098 1 0
+
+Intermittently.
+TP
+
+
+......an unsettling noise.
+TP
+
+
+The sound of destruction.
+TP
+
+
+Taichi: "!?"
+TP
+
+
+I leaped up.
+TP
+
+
+
+
+
+WVP 1 bgm019.ogg 0 0 0
+
+
+GL 0 bgcc0007b
+GS 0 1
+SEF 152 0
+
+
+He came out of the prefab structure.
+TP
+
+
+It was Tomoki.
+TP
+
+Tomoki: "......"
+TP
+
+
+He was carrying a pair of huge industrial pliers.
+TP
+
+
+That thing could sever a bicycle chain.
+TP
+
+
+The antenna was being destroyed.
+TP
+
+
+Taichi: "............"
+TP
+
+
+Especially the wiring and machinery.
+TP
+
+
+He was thorough.
+TP
+
+
+He wasn't demolishing out of rage.
+TP
+
+
+He was accurately killing its functionality with rational thought and tools.
+TP
+
+
+Calm destruction.
+TP
+
+
+Taichi: "......"
+TP
+
+
+He hadn't realized my existence.
+TP
+
+
+His model construct of zeal dulled his awareness of his surroundings.
+TP
+
+
+I approached him silently and hit him.
+TP
+
+GL 1 TCST0001c
+GP 1 190 0
+GI 1 1
+
+
+WVP 0 vmCCD1001yki054
+Tomoki: "......!!?"
+TP
+
+
+When his eyes recognized me, his shock disappeared in a moment.
+TP
+
+
+I looked at the unhealthy Tomoki.
+TP
+
+Taichi: "............"
+TP
+
+GL 2 bgcc0000c
+GP 2 0 0 0
+WVP 2 SE003 1 0
+GI 2 0
+SEF 101 0
+
+We hit each other without words.
+TP
+
+
+A calm fight......more like a grapple.
+TP
+
+
+Five minutes later.
+TP
+
+
+I was the one who won.
+TP
+
+
+With Tomoki's sensitive tendons, he never stood a chance.
+TP
+
+
+WVP 0 vmCCD1001yki055
+Tomoki: "Haa, haa, haa......"
+TP
+
+
+Tomoki appeared to have resigned himself, as he didn't resist when I sat on him and began talking.
+TP
+
+
+Taichi: "Do you remember Yuusa-chan?"
+TP
+
+
+WVP 0 vmCCD1001yki056
+Tomoki: "......eh?"
+TP
+
+
+Taichi: "Yuusa-chan, she lived near us. She grew fond of me. She came with us to the beach."
+TP
+
+
+WVP 0 vmCCD1001yki057
+Tomoki: "Aaah......that girl......"
+TP
+
+
+Taichi: "I always dressed myself up when I contacted that girl."
+TP
+
+
+WVP 0 vmCCD1001yki058
+Tomoki: "?"
+TP
+
+
+Taichi: "I only showed her my good side, I acted, I was sociable."
+TP
+
+
+Taichi: "As a result, Yuusa-chan grew fond of me. I liked her too."
+TP
+
+
+WVP 0 vmCCD1001yki059
+Tomoki: "......what......about that?"
+TP
+
+
+Taichi: "Isn't this a betrayal?"
+TP
+
+
+WVP 0 vmCCD1001yki060
+Tomoki: "......!?"
+TP
+
+
+The act of knowing one's true self and trying to hide it.
+TP
+
+
+The act of trying to deceive.
+TP
+
+
+It conflicts with the generally good deed of showing your honest self.
+TP
+
+
+That's why it mustn't be done.
+TP
+
+
+Taichi: "In the end, I was found out."
+TP
+
+
+Taichi: "That girl started hating me."
+TP
+
+
+Our relationship broke off bitterly and my experiment ended.
+TP
+
+
+Taichi: "It couldn't be helped. I'd been deceiving her."
+TP
+
+
+Taichi: "......are you also someone who despises betrayal?"
+TP
+
+
+Taichi: "Are you the type that can't forgive betrayal?"
+TP
+
+
+WVP 0 vmCCD1001yki061
+Tomoki: "......but, Aneki......"
+//There's an instance early in CCD1001c where Aneki isn't capitalized. If it's been determined that it should be so, fix it or this.
+TP
+
+
+He said as if gasping.
+TP
+
+
+His words didn't continue.
+TP
+
+
+He seemed unable to calm down as he looked back at me.
+TP
+
+
+Taichi: "I betrayed Yuusa-chan and then we broke off."
+TP
+
+
+Taichi: "But the reason that girl hated me wasn't because I'd been hiding my ugliness."
+TP
+
+
+Taichi: "That ugliness was rejected by her very biology."
+TP
+
+
+Taichi: "Is it really betrayal that you can't forgive?"
+TP
+
+
+Tomoki: "......"
+TP
+
+
+Taichi: "To me, what you're doing looks just like what she did."
+TP
+
+
+Taichi: "You made a club and devoted yourself to it."
+TP
+
+
+Taichi: "All the people have disappeared, you know?"
+TP
+
+
+Taichi: "The world of hearts has disappeared, you know?"
+TP
+
+
+It'd become sparse.
+TP
+
+
+Taichi: "Tomoki, do you understand......what that means?"
+TP
+
+
+Taichi: "Not everything about humans is correct."
+TP
+
+
+Taichi: "Will you accept them or not? That's all."
+TP
+
+
+Taichi: "If you're going to accept someone, don't tack reasons onto your feelings."
+TP
+
+
+Taichi: "If you do, you won't be able to get away with saying that your love was a lie......"
+TP
+
+
+GL 0 bgcc0007b
+GL 1 TCST0004c
+GS 0 1
+GS 1 1
+GS 2 0
+SEF 109 0
+
+WVP 0 vmCCD1001yki063
+Tomoki: "......that's what I wanted to say......"
+TP
+
+
+Taichi: "Eh?"
+TP
+
+
+WVP 0 vmCCD1001yki064
+Tomoki: "I wanted to tell Aneki that 'not everything about humans is correct!'"
+TP
+
+
+WVS 1 0
+
+
+Taichi: "......I don't know what happened."
+TP
+
+
+WVP 0 vmCCD1001yki065
+Tomoki: "Aneki sold her own family!"
+TP
+
+
+WVP 0 vmCCD1001yki066
+Tomoki: "Her father, to the police!"
+TP
+
+
+Taichi: "......the police?"
+TP
+
+
+GL 1 TCST0000c
+GI 1 0
+WVP 0 vmCCD1001yki067
+Tomoki: "Aneki went with her father after the divorce."
+TP
+
+
+WVP 0 vmCCD1001yki068
+Tomoki: "And I with my mother."
+TP
+
+
+WVP 0 vmCCD1001yki069
+Tomoki: "Dad told us to do that."
+TP
+
+
+
+WVP 1 bgm009.ogg 0 0 0
+
+
+GL 1 TCST0004c
+GI 1 0
+WVP 0 vmCCD1001yki070
+Tomoki: "......it was so hard on dad!"
+TP
+
+
+WVP 0 vmCCD1001yki071
+Tomoki: "Child support and school expenses......"
+TP
+
+
+WVP 0 vmCCD1001yki072
+Tomoki: "He didn't have a choice!"
+TP
+
+
+It hit me.
+TP
+
+
+Taichi: "......but to commit crime? To get money?"
+TP
+GL 1 TCST0000c
+GI 1 0
+
+WVP 0 vmCCD1001yki073
+Tomoki: "It wasn't about money! He just......in order to live, he needed......"
+TP
+
+GL 1 TCST0004c
+GI 1 0
+
+WVP 0 vmCCD1001yki074
+Tomoki: "But Aneki wouldn't forgive that."
+TP
+
+
+WVP 0 vmCCD1001yki075
+Tomoki: "Aneki reported him!"
+TP
+
+
+Sempai.
+TP
+
+
+Regulations.
+TP
+
+
+Rules.
+TP
+
+
+That people mutually exchanged.
+TP
+
+
+WVP 0 vmCCD1001yki076
+Tomoki: "......Aneki will sell out......her own family......"
+//Ah, now I'm on his side. This whole time I was thinking, "whatever she did couldn't have been that bad..." but now...."She's almost as bad as Kiri."-Spin
+TP
+
+
+GL 1 TCST0000c
+GI 1 0 
+WVP 0 vmCCD1001yki077
+Tomoki: "That person......she wants to push her own values onto other people......"
+TP
+
+
+WVP 0 vmCCD1001yki078
+Tomoki: "If you don't accept that, she'll quickly become strange."
+TP
+
+
+WVP 0 vmCCD1001yki079
+Tomoki: "She'll try hurting you......or stalking you......"
+TP
+
+
+Taichi: "What about self-injury?"
+//Infliction would be accurate and more powerful. Just a thought -Neko
+TP
+
+
+GL 1 TCST0004c
+GI 1 0
+WVP 0 vmCCD1001yki080
+Tomoki: "That's Aneki's attack!"
+TP
+
+
+WVP 0 vmCCD1001yki081
+Tomoki: "By attacking herself, she attacks others!"
+TP
+
+
+WVP 0 vmCCD1001yki082
+Tomoki: "This club is the same. She's doing this alone, and becoming devoted......that's an attack against me."
+TP
+
+
+They coincided.
+TP
+
+
+Club = Attack.
+TP
+
+
+Aaah, so that's what it was.
+TP
+
+GL 1 TCST0006c
+GI 1 0
+WVP 0 vmCCD1001yki083
+Tomoki: "She'll soon......turn strange......and get hurt."
+TP
+
+
+WVP 0 vmCCD1001yki084
+Tomoki: "Get hurt on purpose."
+TP
+
+
+Dark fire in Tomoki's eyes.
+TP
+
+
+A bonfire of animosity.
+TP
+
+
+Tomoki's laughing.
+TP
+
+
+Despising people is comfortable.
+TP
+
+
+WVP 0 vmCCD1001yki085
+Tomoki: "She pretends to get hurt easily."
+TP
+
+GL 1 TCST0000c
+GI 1 0
+WVP 0 vmCCD1001yki086
+Tomoki: "......why do you think I had to quit basketball?"
+TP
+
+
+Taichi: "What...?"
+TP
+
+
+GL 1 TCST0004c
+GI 1 0
+WVP 0 vmCCD1001yki087
+Tomoki: "That was the aftereffect of defending Aneki."
+TP
+
+
+He spat that out hatefully.
+TP
+
+
+GL 1 TCST0006c
+GI 1 0
+WVP 0 vmCCD1001yki088
+Tomoki: "......those values of Aneki's......you know she likes rules, right?"
+TP
+
+
+WVP 0 vmCCD1001yki089
+Tomoki: "That person......she just wants to make people accept her......she just wants to be somewhere where she feels good......"
+TP
+
+
+Taichi: "Do you really hate her?"
+TP
+
+
+WVP 0 vmCCD1001yki090
+Tomoki: "......I do hate her."
+TP
+
+
+GL 2 TCMM0000c
+GP 2 225 0
+GS 1 0
+GS 2 1
+SEF 109 0
+WVP 0 vfCCD1001msa352
+Misato: "Tomoki......"
+TP
+
+
+Sempai had been standing behind me.
+TP
+
+
+Tomoki noticed too.
+TP
+
+
+His words didn't stop.
+TP
+
+
+He wanted to throw out everything.
+TP
+
+
+GL 1 TCST0004c
+GS 1 1
+GS 2 0
+SEF 109 0
+WVP 0 vmCCD1001yki091
+Tomoki: "......it's useless Taichi, no matter how intimate you get with her."
+TP
+
+
+WVP 0 vmCCD1001yki092
+Tomoki: "If you ever stray from Aneki's rules, it's over."
+TP
+
+
+WVP 0 vmCCD1001yki093
+Tomoki: "......Aneki doesn't need bonds."
+TP
+
+
+WVP 0 vfCCD1001msa353
+Misato: "Tomoki......I......"
+TP
+
+
+GL 1 TCST0000c
+GI 1 0
+WVP 0 vmCCD1001yki094
+Tomoki: "Now that all the people have disappeared, the rules she needs to protect no longer exist anywhere."
+TP
+GL 1 TCST0006c
+GI 1 0
+
+WVP 0 vmCCD1001yki095
+Tomoki: "That's why......Aneki can no longer do anything but destroy herself."
+TP
+
+
+The world is a patchwork of hearts.
+TP
+
+
+Rules were their wreckage.
+TP
+
+
+WVP 0 vfCCD1001msa354
+Misato: "......hey......Tomoki......you know......"
+TP
+
+
+Her teary voice passed through me, toward Tomoki.
+TP
+
+
+WVP 0 vmCCD1001yki096
+Tomoki: "Shut up!"
+TP
+
+
+Tomoki screamed toward me.
+TP
+
+
+I was a convenient wall.
+TP
+
+
+WVP 0 vmCCD1001yki097
+Tomoki: "Nee-san is a traitor!"
+//He's talking to Misato directly here. Might be wise to replace Nee-san with You are to indicate subject shift.
+TP
+
+
+WVP 0 vmCCD1001yki098
+Tomoki: "Didn't dad defend you?"
+TP
+
+
+WVP 0 vmCCD1001yki099
+Tomoki: "Didn't he defend you when mom tried to abandon you!?"
+TP
+
+
+WVP 0 vmCCD1001yki100
+Tomoki: "And you betrayed your father......why? I don't get it at all......it doesn't make any sense."
+TP
+
+
+He's crying.
+TP
+
+
+Look.
+TP
+
+
+Don't you love Tomoki from the bottom of your heart?
+TP
+
+
+But Sempai showed no sign of crying.
+TP
+
+GL 1 TCST0000c
+GI 1 0
+
+WVP 0 vmCCD1001yki101
+Tomoki: "Now dad will have to spend so long atoning......"
+TP
+
+
+WVP 0 vmCCD1001yki102
+Tomoki: "If you......value yourself that highly......"
+TP
+
+
+WVP 0 vmCCD1001yki103
+Tomoki: "You should just live by yourself."
+TP
+
+
+Taichi: "......"
+TP
+
+
+Those last words made a deep impression.
+TP
+
+
+That's right.
+TP
+
+
+The heart is ego.
+TP
+
+
+Ego is the power to blot out the heart's boundary lines.
+TP
+
+
+Innumerable hexagons buried into the world. Each and every one of them was a heart.
+//He probably means hexes as in hexagonal spaces on a board game. As usual, if you can think of a way to make that clearer, go ahead. Å`IX
+//changed 'hexes' to 'hexagons'
+TP
+
+
+They have to be the same size.
+TP
+
+
+They have to be the same shape.
+TP
+
+
+If they aren't......they'll receive too much pressure.
+TP
+
+
+Most of them can't endure it.
+TP
+
+
+When one can endure it,
+TP
+
+
+It becomes a monster that hurts, destroys and devours everything around it from dawn to dusk.
+TP
+
+
+While crushing the area its neighbors occupy.
+//This one felt the hardest to me, since I'm trying to get you to imagine one of those hexagonal spaces enlarging and crushing the spaces around it. Å`IX
+TP
+GL 2 TCMM0000c
+GS 1 0
+GS 2 1
+GP 2 225 0
+SEF 109 0
+
+WVP 0 vfCCD1001msa355
+Misato: "Ah......Tomoki......that's why......"
+TP
+
+
+She tried to smile mildly. A half-smile.
+TP
+
+
+WVP 0 vfCCD1001msa356
+Misato: "I......"
+TP
+
+
+A half-smile.
+TP
+
+
+WVP 0 vfCCD1001msa357
+Misato: "Ah......!"
+TP
+GO 2 1
+
+She couldn't do it, and her mouth tightened.
+TP
+
+WVP 2 SE035 1 0
+The sound of Sempai kicking the ground came at the same time that I pulled back to consciousness.
+TP
+
+
+She fled.
+TP
+
+
+I stood up.
+TP
+
+
+I extended a hand to Tomoki.
+TP
+
+
+Taichi: "So, Sempai gave her father up to the authorities."
+TP
+
+GL 1 TCST0000c
+GS 1 1
+GP 1 190 0
+GI 1 1
+
+WVP 0 vmCCD1001yki104
+Tomoki: "Yes, that's right."
+TP
+
+
+WVP 0 vmCCD1001yki105
+Tomoki: "She broke us down twice."
+TP
+
+
+A flat tone of voice.
+TP
+
+
+A denouncing attitude, meant to appear unconcerned.
+TP
+
+GL 1 TCST0004c
+GI 1 0
+
+WVP 0 vmCCD1001yki106
+Tomoki: "The first time......she hurt me. That......made my mother unpleasant."
+TP
+
+
+Because she's the same gender, maybe she saw her daughter as hers and hers alone?
+TP
+
+
+WVP 0 vmCCD1001yki107
+Tomoki: "Dad defended her to the bitter end."
+TP
+
+
+WVP 0 vmCCD1001yki108
+Tomoki: "Then we split into two pairs."
+TP
+
+
+He left a gap of a few seconds.
+TP
+
+GL 1 TCST0000c
+GI 1 0
+
+WVP 0 vmCCD1001yki109
+Tomoki: "That wasn't so bad. Mom was starting to get neurotic anyway......"
+TP
+
+
+It was better to be apart.
+TP
+
+GL 1 TCST0004c
+GI 1 0
+
+WVP 0 vmCCD1001yki110
+Tomoki: "But......that person...her father too......"
+TP
+
+
+Taichi: "Yeah......that's right."
+TP
+
+
+GL 1 TCST0000c
+GI 1 0
+WVP 0 vmCCD1001yki111
+Tomoki: "Taichi?"
+TP
+
+
+Taichi: "I understand Sempai's feelings."
+TP
+
+
+WVP 0 vmCCD1001yki112
+Tomoki: "......eh?"
+TP
+
+
+Taichi: "You're quite healthy......so I doubt you would."
+TP
+
+
+Taichi: "It's not related to her will."
+TP
+
+
+Taichi: "We behave automatically."
+TP
+
+GL 1 TCST0000c
+GI 1 0
+
+WVP 0 vmCCD1001yki113
+Tomoki: "Automatically......but......what does that......"
+TP
+
+
+Taichi: "When that sort of situation arrives, we can only react in a certain way."
+TP
+
+
+Taichi: "It's preset."
+TP
+
+
+Taichi: "Whatever love might happen, or bonds there might be, it doesn't matter."
+//Love that comes to be? Makes it sound like love is situational, dilutes emotional effect -Neko
+TP
+
+
+Taichi: "Something that's right in the middle of our brains makes us do that."
+TP
+
+
+Taichi: "We can't control it with rationality."
+TP
+
+
+Taichi: "That's why......even though she loves someone......she can destroy them."
+TP
+
+
+If anything, the more she cares, the easier it is.
+TP
+
+
+She'd want to touch them with fingertips turned to blades.
+TP
+
+
+Taichi: "And then we tend to hate her for that."
+TP
+
+
+Tomoki was silent. For just one minute.
+TP
+
+GL 1 TCST0001c
+GI 1 0
+WVP 0 vmCCD1001yki114
+Tomoki: "............Taichi......too?"
+//At this point I remembered that Tomoki was one of the "normal" people and that Taichi wasn't.-Spin
+TP
+
+
+Taichi: "What did you think I was?"
+//I'm starting to lose respect for Taichi from all of this.-Spin
+TP
+
+
+Taichi: "I'm a guy over the eightieth percentile, you know?"
+TP
+
+
+I smiled slightly.
+TP
+
+GL 1 TCST0005c
+GI 1 0
+
+WVP 0 vmCCD1001yki115
+Tomoki: "But Taichi's fine......aren't you doing well......?"
+TP
+
+
+Taichi: "An act."
+TP
+
+
+Taichi: "That's all an act."
+TP
+
+
+Taichi: "I loved Yuusa-chan."
+TP
+
+
+Taichi: "But......I...that girl...she'd been harassed forever......after I learned that......there was a time I pushed her down."
+TP
+
+GL 1 TCST0001c
+GI 1 0
+
+WVP 0 vmCCD1001yki116
+Tomoki: "!"
+TP
+
+
+Taichi: "I understood rationally that I shouldn't do that. But I couldn't hold back."
+TP
+
+
+Taichi: "I really can't control it."
+TP
+
+
+Taichi: "Don't forget that, Tomoki."
+TP
+
+
+Taichi: "Everyone in Gunjou is like that. They're hurt and hurting someone else."
+TP
+
+
+GL 1 TCST0004c
+GI 1 0
+Tomoki: "........................"
+TP
+
+
+Wind passed between the two of us.
+TP
+
+
+Dry air rushing through the wastelands.
+TP
+
+
+It made my skin feel cold.
+TP
+
+
+The Tomoki I saw appeared to be freezing.
+TP
+
+
+Taichi: "There's nothing to be done if you really do hate Sempai, but..."
+TP
+
+
+Taichi: "That dad of yours would probably forgive Mimi-sempai."
+TP
+
+
+GL 1 TCST0000c
+GI 1 0
+WVP 0 vmCCD1001yki118
+Tomoki: "......!"
+TP
+
+
+Taichi: "Because they respect one another......but if you can't do it, then there's nothing to be done."
+TP
+
+
+Taichi: "Merging human relationships and interests would just become strange."
+TP
+
+
+Taichi: "Just do as you like. Am I wrong?"
+TP
+
+
+Taichi: "......a one-way trip is fine. Just like your dad's."
+TP
+
+
+WVP 0 vmCCD1001yki119
+Tomoki: "I......"
+TP
+
+
+Taichi: "Take your time thinking about it."
+TP
+
+
+Taichi: "You're the only one who can find the answer."
+TP
+
+
+Taichi: "If you find it......tomorrow morning, come to the Shinto shrine in the mountains."
+TP
+
+
+GL 1 TCST0004c
+GI 1 0
+WVP 0 vmCCD1001yki120
+Tomoki: "The shrine......?"
+TP
+
+
+Taichi: "Around midday. Sempai and I will be there then."
+TP
+
+
+Taichi: "By the way, I had sex with Sempai."
+TP
+
+
+Tomoki was amazed.
+TP
+
+
+Taichi: "......"
+TP
+
+
+I waited for a minute, but he didn't come and hit me.
+TP
+
+
+His shaking lips whispered something.
+TP
+
+
+I read them as ÅwI see.Åx
+TP
+
+
+I hardly heard anything.
+TP
+
+
+Taichi: "......if there's something you want to say, come to the shrine at midday tomorrow."
+TP
+
+
+No answer.
+TP
+
+
+I left Tomoki there with his complicated face and chased after Sempai.
+TP
+
+
+WVS 1 1
+
+
+
+
+
+GL 0 bgcc0008b
+GS 0 1
+GS 1 0
+
+SEF 152 0
+Where would she go besides the roof?
+TP
+
+
+This pattern hasn't happened before.
+TP
+
+
+......I have to persuade her.
+TP
+
+
+Even if that means showing her my own wound---
+TP
+
+
+
+GL 0 bgcc0011c
+GS 0 1
+SEF 152 0
+
+WT 500 1
+WT 500 0
+
+
+GL 0 bgcc0000c
+GS 0 1
+SEF 152 0
+Sempai's house was closed.
+TP
+
+
+Taichi: "......helloooo."
+TP
+
+
+The door was locked.
+TP
+
+
+I can unlock it, but...
+TP
+
+
+I sharpened my senses.
+TP
+
+
+Within this shell of a house, I could feel Sempai's faint presence.
+TP
+
+
+I was aware of heat lurking in my lower abdomen.
+TP
+
+
+If it sprung up I'd be unable to control it.
+TP
+
+
+I hesitated.
+TP
+
+
+I thought.
+TP
+
+
+In the end, I returned home.
+TP
+
+
+This was when the night got cold.
+TP
+
+
+Wounded bodies sink and heal in the darkness.
+TP
+
+
+
+
+GL 0 bgcc0003e
+GS 0 1
+SEF 152 0
+Taichi: "It's quiet......"
+TP
+
+
+Someone called me from outside the window.
+TP
+
+
+If I failed at conquering Sempai,
+TP
+
+
+......I'll do it over.
+TP
+
+
+I'll increase the opportunities for us to touch one another.
+TP
+
+
+I was aware of that weakness.
+TP
+
+
+I slapped my cheeks.
+TP
+
+
+Taichi: "Keep it together."
+TP
+
+
+Swiftly,
+TP
+
+
+Before I end up making memories that would become mortal wounds.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+I got into bed and slowly calmed myself down.
+TP
+
+
+In order to quiet my heart that had become arrogant during the fight.
+TP
+
+
+In order to cool down my low-capacity rationality.
+TP
+
+
+
+
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 0
+
+Taichi: "Okay."
+TP
+
+
+After one evening, I was calm.
+TP
+
+
+Taichi: "Time to go."
+TP
+
+
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 109 0
+
+I came here just in case.
+TP
+
+
+......she doesn't seem to be here.
+TP
+
+
+She's still cooped up at home.
+TP
+
+
+
+GL 0 bgcc0005
+GS 0 1
+SEF 109 0
+In front of Sempai's house.
+TP
+
+
+The garden had run wild with weeds.
+TP
+
+
+This doesn't happen in a week.
+TP
+
+
+After her father became absent, Sempai hadn't taken care of them.
+TP
+
+
+Why not?
+TP
+
+
+Because it was painful.
+TP
+
+GL 0 bgcc0000a
+GS 0 1
+SEF 109 0
+I went to the back door.
+TP
+
+
+This one was locked too, but it was an old disk cylinder type.
+//I'm pretty sure disc = disk in American English - Sheeta
+TP
+
+
+I inserted my tools into the keyhole and moved the tumblers.
+TP
+
+
+Not long after I heard it open:
+TP
+
+
+Taichi: "Here I come."
+//It's always fun to think up yet another way to adapt "ojamashimasu". I'm not sure if I've ever used the same one twice. Å`IX
+TP
+
+
+Since my objective wasn't to scare her, I announced my intrusion in a loud voice.
+TP
+
+
+I took off my shoes and entered.
+TP
+
+
+None of the rooms on the first floor seemed right.
+TP
+
+
+The second floor.
+TP
+
+
+Only two rooms.
+TP
+
+
+One was empty.
+TP
+
+
+Just a bed and empty bookshelves.
+TP
+
+
+Which means...
+TP
+
+WVP 2 se051 1 0
+Taichi: "......I'm here."
+TP
+
+
+I spoke up.
+TP
+
+
+The location has changed, but what I'm doing is the same.
+TP
+
+
+I'm following Sempai around.
+TP
+
+
+That's all I want to do.
+TP
+
+GL 0 evcc0033
+$CGevcc0033 = 1
+GS 0 1
+SEF 109 1
+
+WVP 0 vfCCD1001msa358
+Misato: "......what do you want?"
+TP
+
+
+She answered.
+TP
+
+
+Taichi: "I wanted to talk."
+TP
+
+
+WVP 0 vfCCD1001msa359
+Misato: "I want you to leave."
+TP
+
+
+Taichi: "Well now..."
+TP
+
+
+WVP 0 vfCCD1001msa360
+Misato: "......Kurosu-kun."
+TP
+
+
+My surname.
+TP
+
+
+Taichi: "Yes?"
+TP
+
+
+WVP 0 vfCCD1001msa361
+Misato: "The club is over."
+TP
+
+
+WVP 0 vfCCD1001msa362
+Misato: "Please live in whatever way you want."
+//Wording here is awkward, it's more like a passive send off "Do what you will" "Please live however you please". That is to say 'I don't have anything to do with you anymore' -Neko
+TP
+
+
+
+
+
+She said faintly.
+TP
+
+
+Taichi: "......I am living how I want."
+TP
+
+
+Taichi: "To a certain degree."
+TP
+
+
+Taichi: "I like talking to Sempai."
+TP
+
+
+Taichi: "So may I talk for a while?"
+TP
+
+
+Misato: "............"
+TP
+
+
+Taichi: "I heard about your dad, Sempai."
+TP
+
+
+Taichi: "How to put it......well, I'd generally think of that as rather lurid."
+TP
+
+
+Taichi: "It seems Tomoki was thinking that too."
+TP
+
+
+Taichi: "I'm sorry for making that mistake."
+TP
+
+
+Taichi: "......But Sempai, don't you love your dad to pieces?"
+TP
+
+
+I sensed her breath stopping.
+TP
+
+
+WVP 0 vfCCD1001msa365
+Misato: "......why......do you think that?"
+TP
+
+
+And then a response.
+TP
+
+
+A dialogue was beginning to form.
+TP
+
+
+Taichi: "Because Sempai is a person of regulations."
+TP
+
+
+Taichi: "Especially with people close to you, that you care about, you desire them to be within certain standards."
+TP
+
+
+Taichi: "Wasn't that why you spoke to me?"
+TP
+
+
+Misato: "......"
+TP
+
+
+
+
+
+Taichi: "If that person deviates from the rules......"
+TP
+
+
+Taichi: "Then you expose them. We would do that."
+TP
+
+
+
+
+WVP 1 bgm021.ogg 0 0 0
+
+
+Misato: "............"
+TP
+
+
+Taichi: "I guess it's like the psychology of harassing someone because you like them."
+TP
+
+
+Taichi: "I think that humans either do or don't care about the essence of other humans, and that's it."
+TP
+
+
+Taichi: "Everything else is just reasons tacked on afterward."
+TP
+
+
+WVP 0 vfCCD1001msa368
+Misato: "......I don't understand."
+TP
+
+
+Taichi: "It's the distinction between liking and wanting to take part in."
+TP
+
+
+Taichi: "If you have no interest in someone, you won't contact them."
+TP
+
+
+Taichi: "Normally, if you like someone you'll interact with them from an appropriate distance."
+TP
+
+
+Taichi: "But, we're just a little bit broken."
+TP
+
+
+Taichi: "......so even though we don't want to, we break and hurt them."
+TP
+
+
+Taichi: "That isn't a denial of that feeling of love."
+TP
+
+
+Taichi: "In fact, it's because you love them......because you want them to look at you."
+TP
+
+
+Taichi: "Sempai wants to be hurt, by her dad."
+TP
+
+
+Taichi: "That's why you do things to hurt yourself."
+TP
+
+
+Taichi: "And that was how Sempai contacted her dad."
+TP
+
+
+Taichi: "How was that reasoning?"
+TP
+
+
+WVP 0 vfCCD1001msa369
+Misato: "......it's completely off."
+TP
+
+
+WVP 0 vfCCD1001msa370
+Misato: "You should give up on being a detective."
+TP
+
+
+Taichi: "All lies."
+TP
+
+
+Taichi: "Why are you carrying that cell phone?"
+TP
+
+
+WVP 0 vfCCD1001msa371
+Misato: "......it's a habit."
+TP
+
+
+Taichi: "Aren't you waiting for a call?"
+TP
+
+
+Taichi: "From your father?"
+TP
+
+
+WVP 0 vfCCD1001msa372
+Misato: "......yeah."
+TP
+
+
+Taichi: "If that actually happened, what would you talk about?"
+TP
+
+
+Taichi: "......would you say embezzlement is bad?"
+TP
+
+
+WVP 0 vfCCD1001msa373
+Misato: "That's wrong!"
+TP
+
+
+I know.
+TP
+
+
+WVP 0 vfCCD1001msa374
+Misato: "I......I just......!"
+TP
+
+
+Taichi: "Just?"
+TP
+
+
+WVP 0 vfCCD1001msa375
+Misato: "Want to apologize......I just want to apologize......"
+TP
+
+
+Taichi: "To say you're sorry?"
+TP
+
+
+WVP 0 vfCCD1001msa376
+Misato: "To say I'm sorry......"
+TP
+
+
+Taichi: "Crimes mustn't be committed. What Sempai did was right. So why do you want to apologize?"
+TP
+
+
+WVP 0 vfCCD1001msa377
+Misato: "......but......but, but......!!"
+TP
+
+
+WVP 0 vfCCD1001msa378
+Misato: "If only I didn't know......if I just didn't notice......then, we could have been happy forever......!!"
+TP
+
+
+WVP 0 vfCCD1001msa379
+Misato: "Yes, I loved him! Dad, who defended me, and mom, and Tomoki......everyone......!!"
+TP
+
+
+WVP 0 vfCCD1001msa380
+Misato: "......but, I can't apologize anymore......"
+TP
+
+
+WVP 0 vfCCD1001msa381
+Misato: "They disappeared......still broken apart......!"
+TP
+
+
+WVP 0 vfCCD1001msa382
+Misato: "I didn't want to do anything. Or think anything. Because I can't do anything about it."
+TP
+
+
+WVP 0 vfCCD1001msa383
+Misato: "But......I'm at my limit."
+TP
+
+
+WVP 0 vfCCD1001msa384
+Misato: "I want to die......right now......I want to break myself so badly......but..."
+TP
+
+
+WVP 0 vfCCD1001msa385
+Misato: "I'm scared...of death......"
+TP
+
+
+WVP 0 vfCCD1001msa386
+Misato: "I don't want to die alone......"
+TP
+
+
+WVP 0 vfCCD1001msa387
+Misato: "That's why......somehow......"
+TP
+
+
+WVP 0 vfCCD1001msa388
+Misato: "Living on......is disgusting......and driving me insane."
+TP
+
+
+Taichi: "......why don't I make it all better?"
+TP
+
+
+WVP 0 vfCCD1001msa389
+Misato: "Eh......?"
+TP
+
+
+Taichi: "I can make it better for Sempai."
+TP
+
+
+WVP 0 vfCCD1001msa390
+Misato: "......what are you saying......?"
+TP
+
+
+Taichi: "I have things which Sempai would call rules."
+TP
+
+
+Taichi: "I've been wondering whether you realized that."
+TP
+
+
+WVP 0 vfCCD1001msa391
+Misato: "......Peke-kun......you......"
+TP
+
+
+Taichi: "Yes."
+TP
+
+
+With an innocent urge, like playing with a cat.
+TP
+
+
+WVP 0 vfCCD1001msa392
+Misato: "......you would...for me......?"
+TP
+
+
+Taichi: "Gently."
+TP
+
+
+Hesitation behind the door.
+TP
+
+
+That door didn't even convey body heat, but I felt it anyway.
+TP
+
+
+WVP 0 vfCCD1001msa393
+Misato: "......really?"
+TP
+
+
+Taichi: "Yes."
+TP
+
+
+WVP 0 vfCCD1001msa394
+Misato: "......if you really mean that......"
+TP
+
+
+WVP 0 vfCCD1001msa395
+Misato: "Then......I......"
+TP
+
+
+WVP 0 vfCCD1001msa396
+Misato: "I'll......"
+TP
+WVP 2 SE072 1 0
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+The door opened quietly.
+TP
+
+
+
+WVS 1 1
+
+
+
+
+WT 500 0
+WT 500 1
+
+
+GL 0 bgcc0015
+GS 0 1
+SEF 152 0
+We were silent on the path.
+TP
+
+
+There was no need to converse.
+TP
+
+
+Taichi: "It's this way."
+TP
+
+
+WVP 0 vfCCD1001msa397
+Misato: "Okay......"
+TP
+
+
+Once in a while I'd confirm she was there by speaking up.
+TP
+
+
+Sempai followed me without a word.
+TP
+
+
+I looked at my watch.
+TP
+
+
+Just about the right time.
+TP
+
+
+GL 0 bgcc0016
+GS 0 1
+SEF 152 0
+Arrival.
+The crossing point continued to exist there unchanged.
+TP
+
+
+It resembled veiled mist.
+TP
+
+
+Taichi: "Come to think of it---"
+TP
+
+
+I spoke of unrelated things.
+TP
+
+
+Small talk began suddenly.
+TP
+
+
+Sempai's eyes widened a little, and she chimed in vaguely.
+TP
+
+
+We're just waiting for the arrival of scarlet.
+TP
+
+
+We wasted about another few minutes with such unsubstantial dialogue.
+TP
+
+
+Taichi: "Oh......I think it's about to start."
+TP
+
+
+Taichi: "Come this way."
+TP
+
+
+I took her soft hand and led her.
+TP
+
+
+Her fingertips were cold.
+TP
+
+
+Is she afraid?
+TP
+
+
+I stood her in an appropriate place.
+TP
+
+Taichi: "Please stand here."
+TP
+GL 0 evcc0061
+$CGevcc0061 = 1
+GS 0 1
+GS 1 0
+SEF 109 1
+WVP 0 vfCCD1001msa398
+Misato: "Umm......"
+TP
+
+
+Taichi: "Nn?"
+TP
+
+
+WVP 0 vfCCD1001msa399
+Misato: "This might be something......I shouldn't say, but..."
+TP
+
+
+WVP 0 vfCCD1001msa400
+Misato: "I'm afraid......"
+TP
+
+
+Taichi: "I guess you would be."
+TP
+
+
+After that, Sempai couldn't produce words.
+TP
+
+
+She was confused by the abnormal situation.
+TP
+
+
+Taichi: "Because you have to hold your heart and live in a world with people."
+TP
+
+
+WVP 0 vfCCD1001msa401
+Misato: "......with people?"
+TP
+
+
+WVP 0 vfCCD1001msa402
+Misato: "But people......are......"
+TP
+
+
+Taichi: "Shh!"
+TP
+
+
+I held a finger to her mouth.
+TP
+
+
+Someone was coming this way.
+TP
+
+
+Parting the grass, and slamming feet into the ground.
+TP
+
+
+......running.
+TP
+
+
+That guy shouldn't be running, but he is.
+TP
+
+
+So there's no time to talk slowly.
+TP
+
+
+In the end, I gazed long and hard at Sempai.
+TP
+
+
+In order to paint her into my memory.
+TP
+GL 5 bgcc0000e
+GI 5 0
+GO 5 0
+The world began to disintegrate.
+TP
+GL 0 evcc0061a
+$CGevcc0061a = 1
+GS 0 1
+GS 1 0
+SEF 109 1
+
+
+The atmospheric density modified, and the sky darkened.
+TP
+
+
+WVP 1 bgm023.ogg 0 0 0
+
+
+
+WVP 0 vfCCD1001msa403
+Misato: "......evening?"
+TP
+
+
+I stepped back.
+TP
+
+
+Taichi: "Thank you for inviting me to your club, Sempai."
+TP
+
+
+Her body suddenly hardened.
+TP
+
+
+Taichi: "Even if that was just you pushing your values onto me......I was happy."
+TP
+
+
+Taichi: "Thank you for showing an interest in me."
+TP
+
+
+Taichi: "I'll never forget. You, your words, or your memory."
+TP
+
+
+WVP 0 vfCCD1001msa404
+Misato: "......please don't make this painful."
+TP
+
+
+Shaking shoulders. A shaking voice.
+TP
+
+
+I wanted to embrace her.
+TP
+
+
+I turned my heels and distanced myself from Sempai.
+TP
+
+
+WVP 0 vfCCB1101msa001
+Misato: "......eh?"
+TP
+
+
+
+Taichi: "Sorry......when I said I'd make things easier, that was a lie."
+TP
+
+
+Taichi: "Sempai, you're going to live on while suffering."
+TP
+
+
+Taichi: "I won't be there with you, but......"
+TP
+
+
+In front of her shoulders, her small hands shook.
+TP
+
+
+Taichi: "Goodbye Sempai, it's been fun."
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+The moment Sempai tried to say something, I closed my eyes.
+TP
+GL 0 bgcc0016c
+GS 0 1
+SEF 109 0
+
+And when I opened them, she was no longer there.
+TP
+
+
+I felt total fatigue.
+TP
+
+
+As if my chest had been gouged out.
+TP
+
+
+Taichi: "That hurt......"
+TP
+
+
+However, tears wouldn't come out.
+TP
+
+
+This was an unfinished feeling.
+TP
+
+
+Even I disliked it.
+TP
+
+
+Tomoki came.
+TP
+//Interestingly enough, there are comments here in Japanese stating Tomoki's expression right before each sprite change. I'm guessing that means this scene was written before Tomoki had been drawn. I went ahead and deleted them out of paranoia. Å`IX
+GL 1 TCST0004b
+GP 1 190 0
+GI 1 1
+
+
+WVP 0 vmCCD1001yki121
+Tomoki: "Aneki......where is she?"
+TP
+
+
+It was sudden.
+TP
+
+
+He was rushing.
+TP
+
+
+He'd come running, and was sweating.
+TP
+
+
+Taichi: "That way, over there."
+TP
+
+GL 1 TCST0004b
+GI 1 0
+
+WVP 0 vmCCD1001yki122
+Tomoki: "......what were you two doing here?"
+TP
+
+
+Taichi: "We were gathering edible plants."
+TP
+
+GL 1 TCST0000b
+GI 1 0
+
+WVP 0 vmCCD1001yki123
+Tomoki: "......Taichi brought her out here, right?"
+TP
+
+
+Taichi: "That's right. Hurry."
+TP
+
+
+Taichi: "She's in trouble. Go save her."
+TP
+
+
+He turned pale.
+TP
+
+GL 1 TCST0004b
+GI 1 0
+
+WVP 0 vmCCD1001yki124
+Tomoki: "Which way?"
+TP
+
+
+Taichi: "That way, that way!"
+TP
+
+GL 1 TCST0001b
+GI 1 0
+WVP 0 vmCCD1001yki125
+Tomoki: "But I don't see her......?"
+TP
+
+
+The coordinates...overlapped.
+TP
+
+
+Taichi: "Please tell Yuusa-chan I'm sorry."
+TP
+
+
+WVP 0 vmCCD1001yki126
+Tomoki: "Ha......?"
+TP
+
+
+Taichi: "Goodbye, Siscon."
+TP
+
+
+Taichi: "......strive to be Immoral."
+TP
+
+WVS 1 0
+
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 109 1
+Tomoki was sent back.
+//The use of the colon made it look like a line of speech - Sheeta
+TP
+
+WT 2000 0
+WT 2000 1
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 109 1
+WVP 0 vfCCD1001msa405
+Misato: "......eh......Peke-kun?"
+TP
+
+
+WVP 0 vfcca0028msa015
+Misato: "............"
+TP
+
+
+WVP 0 vfCCD1001msa406
+Misato: "Ummm?"
+TP
+
+
+WVP 0 vmCCD1001yki127
+Tomoki: "Nee-san......"
+TP
+
+
+WVP 0 vfCCD1001msa407
+Misato: "Tomoki? Why are you here......?"
+TP
+
+
+WVP 0 vmCCD1001yki128
+Tomoki: "Let's talk."
+TP
+
+
+
+WVP 1 bgm001.ogg 0 0 0
+
+
+
+WVP 0 vmCCD1001yki129
+Tomoki: "There's something I want to talk about......"
+TP
+
+
+WVP 0 vfCCD1001msa408
+Misato: "Tomoki......you..."
+TP
+
+
+WVP 3 SE099 0 0
+
+WVP 0 vmCCD1001yki130
+Tomoki: "H-huh?"
+TP
+
+
+WVP 0 vmCCD1001yki131
+Tomoki: "The radio......"
+TP
+
+
+WVP 0 vfCCD1001msa409
+Misato: "It's......receiving......EM waves?"
+TP
+
+WVP 2 se200 0 0
+
+WVP 0 vfCCD1001msa410
+Misato: "Ah......"
+TP
+
+
+WVP 0 vmCCD1001yki132
+Tomoki: "Nee-san's phone?"
+TP
+
+
+WVP 0 vfCCD1001msa411
+Misato: "......it's ringing......someone's calling......"
+TP
+
+
+WVP 0 vmCCD1001yki133
+Tomoki: "Who?"
+TP
+
+
+WVP 0 vfCCD1001msa412
+Misato: "......the number......it's dad's......"
+TP
+
+
+WVP 0 vmCCD1001yki134
+Tomoki: "What does that......?"
+TP
+
+
+WVP 0 vfCCD1001msa413
+Misato: "I don't know, but..."
+TP
+
+
+WVP 0 vfCCD1001msa414
+Misato: "It's almost like......a very long dream---"
+TP
+
+WVS 2 0
+WVP 2 se201 1 0
+
+
+WVP 0 vfCCD1001msa415
+Misato: "......hello?"
+TP
+
+
+WVS 1 1
+
+
+
+WVS 3 0
+
+
+
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+GL 0 bgcc0000d
+GI 0 0
+
+WT 3000 0
+WT 2000 1
+
+
+GL 0 bgcc0016
+GS 0 1
+SEF 109 2
+
+Taichi: "......hahaha."
+TP
+
+
+I went through with it.
+TP
+
+
+Sempai and Tomoki are no longer here.
+TP
+
+
+I'll never see them again.
+TP
+
+
+That hurts.
+TP
+
+
+I can only remember them.
+TP
+
+
+So fast.
+TP
+
+
+I leaned against the hokora and closed my eyes.
+TP
+
+
+I was enveloped in a strange, indescribable dizziness.
+TP
+
+
+I got a feeling like the world was shaking and my semicircular canals were producing illusions.
+TP
+
+
+I'd been continually thinking only about those two.
+TP
+
+
+My consciousness faded.
+TP
+
+
+My body ceased all major functions.
+TP
+
+
+With only a human's perceptive abilities, I can't observe myself being disintegrated and reconstructed.
+TP
+
+
+The world was easily disintegrated.
+TP
+
+
+I can't know when it will end.
+TP
+
+
+In that place, I'm living.
+TP
+
+
+The battle continues.
+TP
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+
+Next week---
+TP
+
+
+
+WT 1500
+WT 1500 1
+
+
+
+RET

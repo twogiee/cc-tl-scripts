@@ -1,0 +1,377 @@
+
+GL 0 bgcc0010
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+
+WVP 1 bgm018.ogg 0 0 0
+
+//部室には誰もいない。
+There is nobody in the club room.
+TP
+
+//遊んでいる時は手狭な部屋も、無人だと閑散として見える。
+A room that feels cramped in times of playfulness has the dullness of an off-season when deserted.
+TP
+
+//廊下側の窓一面に張り出してあるカムフラージュが、ぺろりとはがれていた。
+On one surface of the corridor-side window, the camouflage was peeling off, leaning inward like a sticked-out tongue.
+TP
+
+//これは無人の室内写真を、横長に印刷して丹念に貼り合わたものだ。
+Photographs of the room interior, deserted, printed landscape and affixed with diligence.
+//It's actually never specified how many there are, but since I doubt they have a big enough printer, supposing there's more than one. -GHS
+TP
+
+//ガラス一枚隔てると、意外とわからないものである。
+It's something unexpectedly impossible to understand what can be segregated by a single pane of glass.
+//Hmmm, see CCA0001 -GHS
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//いつもここでたむろってた。
+We were always gathering here.
+TP
+
+//友貴がよく座って漫画を読んで。
+Tomoki always sitting reading a manga.
+TP
+
+//桜庭もいた。
+Sakuraba was here too,
+TP
+
+//先輩も。
+and Senpai as well.
+TP
+
+//ここは美希と霧の定位置。
+This was a fixed home spot for Miki and Kiri.
+//Focusing on the fixed, of course. -GHS
+TP
+
+//みゆきは……あのあとすぐにＸ組に移動になってしまったんだっけ。
+Miyuki... as I recall, she ended up being transferred to Class X quickly after that.
+//The "that" appears to be CCB0006, the incident is never seen (it'd probably be too spoilerish since she and Taichi have the same problem). Class X might be "the" Research Building of CCA0022... might not. See CCC3004 -GHS
+TP
+
+//容態が悪化して。
+Her conditions had deteriorated.
+TP
+
+//Ｘ組は他のクラスとは違う。
+Class X is different from the other classes.
+TP
+
+//群青の終着駅だ。
+It is the final destination for an ultramarine of Gunjou.
+TP
+
+//もっとも幸福なクラスでもあるわけだが。
+But it is yet the happiest of all classes.
+//It may be that it implies lobotomy, though since Taichi is likely Class X, it might just be the ones too lost to chuuni. Taichi is very likely there. -GHS
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//人の心は、まるで予測もできない。
+The human heart, the human mind, they seem impossible to completely predict.
+TP
+
+//まったく普通だったのに、ある日突然……。
+It's all so damnably normal, but then one day, all of a sudden...
+TP
+
+//人類の種としての限界だという者もいた。
+There are those who are said to exist at the limits of the human species.
+TP
+
+//俺はそうは思わない。
+I do not believe that.
+//A denial that the problem is merely genetic. -GHS
+TP
+
+//……病だ。
+...it's a disease.
+//LOLICON CAUSES EVERYTHING -GHS
+TP
+
+//人は人と接さなくなり、メディアによって心の渇きを癒す。
+When direct contact with people vanishes, people heal the thirst of their hearts via the media.
+//See Touko, but also compare & contrast YMK, where the media also never helps, and the instruments of indirect communication nearly lead at least one character to death. Though this is not simplistic media criticism: it's just about the way it's used, that's why the end Taichi still spreads the message via a media (and why this is a Visual Novel, as well). -GHS
+TP
+
+//まともな食事をとらず有害な化学物質ばかりを口にするようなものだったのだ。
+It's as if they never have a proper meal, and instead put nothing in their mouth but harmful chemical substances.
+//Especially that kawaii uguu shit that comes from Japan. -GHS
+TP
+
+//……歪んでしまった。
+...a complete distortion.
+TP
+
+//その結果が……これだ。
+And the result is... this thing here.
+TP
+
+//重度不適合者隔離施設・群青学院―――
+                     Gunjou Institute
+> 
+                    Isolation Facility
+              for the Severely Non-compliant
+//PC OD. -GHS
+TP
+
+
+//幸せな学生たちと、屈強な警備員と、セラピストや精神科医の常駐する……原発による過当利益緩和政策の一環として導入された特殊教育施設。
+Happy students, and burly guards, and permanently stationed therapists and psychiatrists... it was one point of the Policy for the Mitigation of Excessive Profits from the Nuclear Plant to introduce this special education facility.
+//The Japanese government stuck these guys with Psychopath High for daring to have too much profit. This is far more controversial than the stuff above about the media. -GHS
+TP
+
+//自然の中で心を癒す。
+"To Heal the Heart in the Heart of Nature."
+//See CCA0002. This is what he meant with 'healing as its theme'. It's a bit clumsy like this, but since it's PC-riddled ad copy, it should be sort of snort-worthy anyway. -GHS
+TP
+
+//表向きのキャッチコピーだ。
+That's the official slogan pasted large-font on the advertisement.
+TP
+
+//けど誰もが知っている。
+But, and everybody knows,
+TP
+
+//適応係数の低い者を癒す手段はただ一つ。
+//to heal someone whose Conformity Coefficient is low there is but one way:
+//規定値以上の適応係数を持つ者を癒す手段はただ一つ。
+that to heal someone who has a Conformity Coefficient above control value there is but one way:
+//This made no damn sense since the CC gets worse as it gets higher. The sentence was rewritten to this in the console versions. -GHS
+TP
+
+//人との有益な接触。
+beneficial contact with people.
+TP
+
+//すなわち。
+In other words,
+TP
+
+//触れあいでしかないのである。
+there is nothing to be had but reciprocal touches.
+TP
+
+//けれど怯える教師や警備員がその相手になりえるだろうか。
+Would frightened teachers and guards become partners in that, however?
+TP
+
+//なるわけがない。
+There's no way they would.
+TP
+
+//傷ついた少年少女同士で、心をわけあうしかないのだった。
+There is no choice but for the wounded boys and girls to share hearts and minds with each other.
+TP
+
+GL 1 TCST0000
+GP 1 190 0
+GI 1 1
+WVP 0 vmCCC0011ayki000
+//友貴「太一？」
+Tomoki: "Taichi?"
+TP
+
+//友貴がやってきた。
+Tomoki had come about.
+TP
+
+//太一「よ、シスコン」
+Taichi: "Hoy, Siscon."
+TP
+GL 1 TCST0004
+GI 1 0
+
+//むっとする。
+He gets in a huff.
+TP
+
+WVP 0 vmCCC0011ayki001
+//友貴「……今はもう違う」
+Tomoki: "...not anymore now."
+TP
+
+//太一「だっけ？」
+Taichi: "Seriously?"
+TP
+
+//不適合者は、傾向として他者に敵意や恐怖を抱きやすい。
+The non-compliant have a tendency to easily embrace hostility or terror for other people.
+TP
+
+//前者なら危険人物、後者であれば可哀相な子。
+The former are dangerous characters, the latter pitiable children.
+TP
+
+GL 1 TCST0000
+GI 1 0
+WVP 0 vmCCC0011ayki002
+//友貴「……太一も来てたんだな」
+Tomoki: "...so you came 'round too, Taichi."
+TP
+
+//太一「んー、まあな。状況知りたかったし」
+Taichi: "Hmmm, seems so. Wanted to know how things were going."
+TP
+
+//太一「そっちは？」
+Taichi: "You?"
+TP
+
+GL 1 TCST0004
+GI 1 0
+
+WVP 0 vmCCC0011ayki003
+/友貴「同じ」
+Tomoki: "Same."
+TP
+
+WVP 0 vmCCC0011ayki004
+//友貴「授業がないからさ、すぐやることなくなった」
+Tomoki: "There's no classes, 'course, so I got nothing urgent to do."
+TP
+
+//太一「例の新しい部活は？　食料調達部だっけ？」
+Taichi: "And that new club you talked about before? The Food Procurement club was it?"
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmCCC0011ayki005
+//友貴「生命維持活動部」
+Tomoki: "Life Maintenance and Improvement Club."
+TP
+
+//太一「変な名前」
+Taichi: "Weird name."
+//Oddly PC. -GHS
+TP
+
+WVP 0 vmCCC0011ayki006
+//友貴「名前なんてどうでもいいよ」
+Tomoki: "The name's just whatever, ya know."
+TP
+
+//日曜の夜、状況を確認した俺たちは、まず食料のことを考えた。
+On Sunday night, on ascertaining the situation, we first of all thought about food.
+TP
+
+//そこで友貴が、市内に残ってる食料を回収して健全にわけようということを提案した。
+There, Tomoki suggested gathering the food remaining in the city, and distributing it level-headedly.
+//Contrast CCB0022 -GHS
+TP
+
+//俺も名のりをあげたが、拒否された。
+I submitted myself for it, but I was rejected,
+//See CCB2006 -GHS
+TP
+
+//つまみ食いは御法度らしいからだ。
+as foodsnatching seems to be strictly forbidden.
+TP
+
+WVP 0 vmCCC0011ayki007
+//友貴「常人の数倍も食べるヤツに任せられる仕事じゃないよ」
+Tomoki: "Not a job that can be left to a guy that eats several times what normal people do!"
+TP
+
+//太一「食っとらんと言うのに」
+Taichi: "But I donn'do that, I told you."
+//In'en'ional -GHS
+TP
+
+//あれは遊紗ママが勝手に……。
+That was a liberty Yusa's mom took...
+//See CCA0022. Odd Tomoki'd believe the rumors, but then again, see CCB0006. Then again, what's less stable, that Tomoki'd believe the rumors, or that he'd do so intentionally as a revenge against what Taichi did at a moment so tense and delicate? -GHS
+TP
+WVP 0 vmCCC0011ayki008
+//友貴「とりあえず、ここが落ち着くんだよね」
+Tomoki: "For now, here seems it's all calm."
+TP
+GO 1 1
+//HACK moved doll removal to here -GHS
+
+//定位置に座って、地図を広げる。
+Sitting in his home position, he spreads a map.
+//Fixed point theme again -GHS
+TP
+
+//町内地図。
+It's a map of the town.
+TP
+
+//赤ペンで、印をつけていく。
+He goes to draw marks with a red pen.
+//Odd, shouldn't he have done this as he went around? Maybe he's consolidating things. -GHS
+TP
+
+WVP 0 vmCCC0011ayki009
+//友貴「ここは乾物ばかりだから保留と……ここの生ものは……」
+Tomoki: "Here there's only dried foods, so it's on the back burner... here there's perishables so..."
+TP
+
+//ぶつぶつ呟きつつ、地図とにらみ合う。
+Mumbling and muttering while he stares sharp at the map.
+TP
+GL 5 bgcc1010s
+GI 5 0
+GS 5 0
+SEF 109 0
+
+//その姿が一瞬、漫画を読んでいた友貴と重なった。
+And his shape, for an instant, overlapped with that of the Tomoki that read manga.
+TP
+
+//太一「……はは」
+Taichi: "...hahah."
+TP
+
+WVP 0 vmCCC0011ayki010
+//友貴「ん？　なに？」
+Tomoki: "Hm? What?"
+TP
+
+//太一「いや」
+Taichi: "Nah."
+TP
+
+//太一「なんでもないよ」
+Taichi: "It's nothing."
+TP
+
+WVP 0 vmCCC0011ayki011
+//友貴「？」
+Tomoki: "?"
+TP
+
+//俺はゴムテープを取って、カムフラージュを元通りに直した。
+I took some adhesive tape and went to restore the camouflage to order.
+TP
+
+//意味のない行動。
+An action without meaning,
+TP
+
+//けど友貴は何も言わなかった。
+yet Tomoki did not say anything.
+TP
+
+WVS 1 1
+
+RET

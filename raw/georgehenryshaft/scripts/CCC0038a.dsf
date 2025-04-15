@@ -1,0 +1,66 @@
+
+GL 0 bgcc0006
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+//荷物を置きに教室に。
+I drop off my bags in the classroom.
+//Not the kaban, I suppose the Taichi Bag and/or more. -GHS
+TP
+
+//太一「おや？」
+Taichi: "Well?"
+TP
+
+//冬子の姿がない。
+Touko's nowhere to be seen.
+TP
+
+//来ていると思ったのに。
+But I thought she was coming.
+TP
+
+//いつもの窓際。
+That window seat of always.
+TP
+GL 0 evcc0011a
+$CGevcc0011a = 1
+GS 0 1
+SEF 152 0
+//そこにお嬢様の姿はない。
+Ojou-sama's figure was not there.
+TP
+
+//胸騒ぎがした。
+I felt vaguely at unease.
+TP
+
+
+//いつもと違う行動を取らないでくれ。
+Never take actions different from the always.
+TP
+
+
+//願いにも似た思い。
+A thought that resembled a wish.
+TP
+//>　　　　　　　　　　　　　　　　　　　　　　さまよ
+//ズタ袋を置いて、学校を彷徨う。
+Having laid the carryall bag, I go roam about the school.
+//Different name for it again. -GHS
+TP
+
+//はじまって三日目の『いつも』。
+The beginning of the third day of The Always.
+TP
+
+//けど実際は、幾度めなのだろう。
+//だけどそれは、がらんどうで満たされていて。
+IF $loop == 2 But in truth, I must have done this so many times.
+IF $loop != 2 And yet, what is that but being fulfilled by the hollow.
+//HACK they went to such a mess to have separate scripts... what for, even?! 11 lines saved. -GHS
+TP
+
+RET

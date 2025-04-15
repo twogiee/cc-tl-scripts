@@ -1,0 +1,277 @@
+
+GL 0 bgcc0010
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+
+WVP 1 bgm018.ogg 0 0 0
+
+There was no one in the club room.
+TP
+
+The room feels small when we're playing around, but now that it's empty it looks peaceful.
+TP
+
+The camouflage stuck on the hallway's side of the window was peeling off.
+TP
+
+Those were pictures of an empty room printed out sideways and carefully lined up together.
+//Hmm, for some reason "these" sounded really wrong in that line. I think it's because he said they were stuck on the "hallway's side" but he was inside the clubroom.-Spin
+TP
+
+It's surprising what can be kept from you by a simple pane of glass.
+TP
+
+Taichi: "............"
+TP
+
+We were always hanging out around here.
+TP
+
+Tomoki would sit down and read manga.
+TP
+
+Sakuraba would be here too.
+TP
+
+And Sempai.
+TP
+
+Here was Miki and Kiri's standard location.
+TP
+
+Miyuki......after that, I think she moved into class X right away.
+TP
+
+Her condition had worsened.
+TP
+
+Class X is different from the others.
+TP
+
+At Gunjou, it was the end of the line.
+TP
+
+Though it happens to be the happiest class...
+TP
+
+Taichi: "............"
+TP
+
+It's as if people's hearts can't be predicted at all.
+TP
+
+Even though she was perfectly normal, one day, right out of the blue......
+TP
+
+There were people said to be at the limit of the human species.
+TP
+
+But I don't believe that.
+TP
+
+......disease.
+TP
+
+People become unable to contact, and quench their hearts' thirst through various media.
+TP
+
+It was like putting hazardous chemicals into your mouth instead of real food.
+TP
+
+......it was all so twisted.
+TP
+
+That result was......this.
+TP
+
+'Seriously Unadaptable Person Isolation Facility'
+               Gunjou Institute
+TP
+
+
+Happy students, sturdy guards, therapists and psychiatrists are stationed here......a unique educational facility introduced as a part of policies mitigating excessive benefits from the atomic power plant.
+TP
+
+Heal your hearts naturally.
+TP
+
+An optimistic catch phrase.
+TP
+
+But everyone knows.
+TP
+
+There's only one way to heal those with low adaptation coefficients.
+TP
+
+Beneficial contact with people.
+TP
+
+That is to say,
+TP
+
+We have to touch each other.
+TP
+
+But how can the frightened teachers and guards fulfill that role?
+TP
+
+There's no way they could.
+TP
+
+They have to make wounded boys and girls open up their hearts to one another.
+TP
+
+GL 1 TCST0000
+GP 1 190 0
+GI 1 1
+WVP 0 vmCCC0011ayki000
+Tomoki: "Taichi?"
+TP
+
+Tomoki came over to me.
+TP
+
+Taichi: "Yo, siscon."
+TP
+GL 1 TCST0004
+GI 1 0
+
+He was displeased.
+TP
+
+WVP 0 vmCCC0011ayki001
+Tomoki: "......that's not true anymore."
+TP
+
+Taichi: "Say what?"
+TP
+
+Unadaptive people tend to hold antagonism or terror toward others easily.
+TP
+
+In the former case, they're dangerous people, and in the latter, they're pitiful children.
+TP
+
+GL 1 TCST0000
+GI 1 0
+WVP 0 vmCCC0011ayki002
+Tomoki: "......so Taichi came here too."
+TP
+
+Taichi: "Nnn, well yeah. I wanted to know the situation."
+TP
+
+Taichi: "How is it?"
+TP
+
+GL 1 TCST0004
+GI 1 0
+
+WVP 0 vmCCC0011ayki003
+Tomoki: "The same."
+TP
+
+WVP 0 vmCCC0011ayki004
+Tomoki: "Since there are no classes, we quickly ran out of things to do."
+TP
+
+Taichi: "What about those new club activities? The Provision Procurement Club or something?"
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmCCC0011ayki005
+Tomoki: "Active Life Maintenance Club."
+//These club names are surprisingly annoying to adapt. Å`IX
+TP
+
+Taichi: "Weird name."
+TP
+
+WVP 0 vmCCC0011ayki006
+Tomoki: "The name doesn't matter at all."
+TP
+
+When we all confirmed the situation on Sunday night, the first thing we thought about was food.
+TP
+
+Then Tomoki proposed that he would collect all the food remaining in the town and divide it up fairly.
+TP
+
+I offered to help, but he refused.
+TP
+
+Since snack stealing appears to be taboo.
+TP
+
+WVP 0 vmCCC0011ayki007
+Tomoki: "It's no job to be assigned to someone who eats several times more than a normal person."
+TP
+
+Taichi: "I told you, I don't eat that much."
+TP
+
+That was Yuusa's mama acting on her own......
+TP
+GO 1 1
+WVP 0 vmCCC0011ayki008
+Tomoki: "Anyway, this calms me down."
+TP
+
+He sat down in his standard location and unfolded a map.
+TP
+
+A map of the town.
+TP
+
+He'd drawn symbols on it with a red pen.
+TP
+
+WVP 0 vmCCC0011ayki009
+Tomoki: "That was all dried foods, so I'll put it in storage......as for the perishables here......"
+TP
+
+He muttered as he glared at the map.
+TP
+GL 5 bgcc1010s
+GI 5 0
+GS 5 0
+SEF 109 0
+
+That form of him overlapped for an instant with the manga-reading Tomoki.
+TP
+
+Taichi: "......haha."
+TP
+
+WVP 0 vmCCC0011ayki010
+Tomoki: "Nn? What?"
+TP
+
+Taichi: "Oh no,"
+TP
+
+Taichi: "It's nothing."
+TP
+
+WVP 0 vmCCC0011ayki011
+Tomoki: "?"
+TP
+
+I took out some rubber tape and repaired the camouflage.
+TP
+
+A meaningless act.
+TP
+
+But Tomoki said nothing.
+TP
+
+WVS 1 1
+
+RET

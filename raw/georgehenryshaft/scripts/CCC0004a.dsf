@@ -1,0 +1,46 @@
+
+
+//太一「一人で食うよ。ありがとう」
+Taichi: "I'll eat them alone. Thanks."
+TP
+
+WVP 0 vfCCC0004ayou000
+//曜子「……………………」
+Youko: "............"
+TP
+
+
+//顔面筋肉が弛緩した。
+Her facial muscles relaxed.
+TP
+
+
+//太一「やー、うまそうだ」
+Taichi: "Myyy, they look so tasty."
+TP
+
+
+//さっそく一つパクついた。
+I immediately wolfed one down.
+TP
+
+
+//うむ、うまい。
+Yes, tasty.
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCC0004ayou001
+//曜子「……ぃじわる」
+Youko: "...bully."
+TP
+
+
+//小さくため息をついた。
+A small heaved sigh.
+TP
+
+
+RET

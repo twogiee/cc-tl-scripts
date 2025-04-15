@@ -1,0 +1,78 @@
+
+
+Taichi: "Now then,"
+TP
+
+I swept my bangs aside.
+TP
+
+Taichi: "I've been a nuisance."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfccb0009mki000
+Miki: "Thank you for all your hard work."
+TP
+
+Taichi: "That's right, Miki." 
+//CP_S cca0009c
+TP
+
+I stood still.
+TP
+
+I'd forgotten to tell her something important.
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb0009mki001
+Miki: "Yes?"
+TP
+
+Taichi: "She says that club activities are going to start up again soon." 
+//CP_F
+TP
+
+WVP 0 vfccb0009mki002
+Miki: "The club?"
+//Seems better without the 'is' to me... - Sheeta
+TP
+
+Taichi: "If your ever feel tightness within your heart, you should give it a go sometime."
+TP
+
+Taichi: "Since that's what the club is there for."
+TP
+
+A glimpse of understanding slowly began to show on Miki's face.
+//someone help me with 'look of understanding'? I changed it, but it still doesn't seem right - Sheeta
+//This sounds better but I liked "look" as well.-Spin
+TP
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfccb0009mki003
+Miki: "......okay."
+TP
+GO 1 1
+Delight was mixed in there, along with other emotions as well.
+TP
+
+
+
+WVS 1 1
+
+
+
+
+
+
+CSQ 0 1 1
+  -Go to the classroom
+  -Go to the roof
+
+RET
+

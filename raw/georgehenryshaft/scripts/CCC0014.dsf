@@ -1,0 +1,471 @@
+//肩をすくめる。
+I shrug my shoulders.
+//And one. See CCC3004. -GHS
+TP
+
+//太一「やっぱりあったよ。要件」
+Taichi: "But of course there is. Business, I mean."
+//Same word as CCC0013B, but since it's possible to get here from CCC0013A, flattening. -GHS
+TP
+
+//霧の目がせばめられる。忌々しげに。
+Kiri's eyes narrowed. With resentful bitterness.
+TP
+
+//太一「美希君はいないのかな？」
+Taichi: "Miki-kun's not around I guess?"
+TP
+
+WVP 0 vfCCC0014kri000
+//霧「……いません」
+Taichi: "...she is not here."
+TP
+
+//太一「来てないの？」
+Taichi: "Is she coming?"
+TP
+
+WVP 0 vfCCC0014kri001
+//霧「……いません」
+Taichi: "...she is not here."
+//CP above -GHS
+TP
+
+//対話を細かに噛み合わせる気はないらしい。
+Her dialogue appears from clenched teeth that say all about her willingness to go over the details.
+//Visuals. -GHS
+TP
+
+//俺はまた肩をすくめた。
+I shrugged my shoulders again.
+//And two. -GHS
+TP
+
+//太一「とりつく島もないな」
+Taichi: "No port in this storm then."
+TP
+
+WVP 0 vfCCC0014kri002
+//霧「はい、ありません」
+Kiri: "True, there is none."
+//No one for her to rely on, but also no one to stop her... -GHS
+TP
+
+//手近なイスに座る。
+I sit in a chair at hand.
+TP
+
+//太一「いやー、生理が重くてね。まったく憂鬱な時期だよ。ほら、人類滅亡してるし」
+Taichi: "Reeeally, menses that harsh, mh. Damn if this isn't a depressing period of time! But come on, humanity has fallen."
+//Meaning is "stop being crabby just because you're on your period, we're in a bad situation here", see Touko (except Touko doesn't seem to be on her period, unlike Kiri). Also, although Taichi's being an increasingly colossal dickwad, he has a point and this is the first hint of Kiri's hypocrisy on the subject of remaining unchanged after the end of the world. Made "period of time" explicit because seriously have you been reading this? -GHS
+TP
+
+WVP 0 vfCCC0014kri003
+//霧「……」
+Kiri: "..."
+TP
+
+//じっと見ている。
+A fixed stare towards me,
+TP
+
+//俺の一挙一動を警戒している感じだ。
+with the impression that she is being vigilant about every single action of mine.
+TP
+
+//太一「ミス・イノセンスはさー」
+Taichi: "Saaay, Miss Innocence."
+//We can spare the Engrish... THIS TIME! -GHS
+TP
+
+WVP 0 vfCCC0014kri004
+//霧「人をそんな名前で呼ばないでください」
+Kiri: "Please do not call people by that name."
+TP
+
+//太一「霧ちんはさー」
+Taichi: "Saaay, Kiri-chin."
+TP
+
+WVP 0 vfCCC0014kri005
+//霧「馴れ馴れしく名前で呼ばないでください」
+Kiri: "Please do not call me in overly familiar ways."
+TP
+
+//太一「ふぅ」
+Taichi: "Bofff."
+TP
+
+//肩をすくめた。三度目だ。
+I shrugged my shoulders. Third time.
+//And three. -GHS
+TP
+
+//太一「俺、すっごくいじめられちゃってるなぁ」
+Taichi: "Me, I'm reaaally being teased a lot aren't I."
+//He's taking her replies as teasing, coherently with his being an ass throughout the scene. -GHS
+TP
+
+WVP 0 vfCCC0014kri006
+//霧「……」
+Kiri: "..."
+TP
+
+//席を立つ。
+I stand from the seat.
+TP
+
+WVP 0 vfCCC0014kri007
+//霧「……っ」
+Kiri: "...!"
+TP
+
+//警戒が強まる。
+Vigilance gains strength.
+TP
+
+//ぞくっとした。
+She had goose bumps.
+TP
+
+//すげー可愛い。
+How sooo cute.
+//~SUPAH trying to avoid SUPAH~ -GHS
+TP
+
+//サディスティックなマゾッホである俺は、こんなキャラにサティスファクション。
+The sadistic Masoch that I am finds satisfaction in this character.
+//Leopold Ritter von Sacher Masoch, who is actually known for Sachertorte and toootally not masochism at all. Taichi's definitely masochistic, but this conflation-ish juxtaposition is not out of character at all. -GHS
+TP
+
+//太一「ふふ……」
+Taichi: "Heheh..."
+TP
+
+WVP 0 vfCCC0014kri008
+//霧「……？」
+Kiri: "...?"
+TP
+
+//不敵に笑う俺。戸惑う霧。
+I laugh fearlessly. Kiri becomes perplexed.
+//Same as with the Friendship Demands line. -GHS
+TP
+
+//腰を落とし、いつでも逃げ出せる体勢だ。
+With a lowered waist, hers is a posture that allows running away at all times.
+//Like a small animal, especially a cat. -GHS
+TP
+
+//俺はそのままわずかに移動し、とある席の前に立った。
+I just moved a bit like that, no sudden motions, and stood in front of a specific seat.
+TP
+
+//太一「ここだっけ、霧の席」
+Taichi: "If I remember right, this is your seat, Kiri."
+TP
+
+WVP 0 vfCCC0014kri009
+//霧「呼び捨てにしないでください……」
+Kiri: "Please do not call me without honorific..."
+TP
+
+WVP 0 vfCCC0014kri010
+//霧「……あなたの分際で」
+Kiri: "...remember your place in society."
+//That of monster, see CCC3009 -GHS
+TP
+
+//ナイフだった。
+It was a knife.
+//Her words. This likely explains the crossbow metaphor, at least until it turns to catspeak. -GHS
+TP
+
+//ぐさぐさと突き刺さる。
+Piercing with slashes and thrusts.
+//Visuals. -GHS
+TP
+
+//太一「佐倉の席」
+Taichi: "Your seat, Sakura."
+//Mirrors the above. -GHS
+TP
+
+//ゆっくりとした動作で、座ろうとする。
+With ponderated motions I go to sit.
+TP
+
+WVP 0 vfCCC0014kri011
+//霧「やめて！」
+Kiri: "STOP!"
+TP
+
+//切羽詰まった叫び。
+She shouts at the end of her wits.
+TP
+
+//ぴたりと止める。
+I stop on the dot.
+TP
+
+//太一「なぜだい？」
+Taichi: "Why should I?"
+//Shouldn't have any special meaning, but... -GHS
+TP
+
+WVP 0 vfCCC0014kri012
+//霧「……汚れますから」//（★★★汚れ／けがれ）
+Kiri: "...it will be filthied."
+//See CCC0000. Oddly, right side is the reading key. I think Tanaka did complain about some actresses not knowing lots of words in an interview... -GHS
+TP
+
+//取り乱したのを恥じるような、ことさら低まった声。
+Her voice lowers deliberately, seemingly from the embarrassment at having lost composure.
+TP
+
+//太一「ふーん。じゃ仕方ない」
+Taichi: "Uh-huh. No helping it then."
+TP
+
+//座った。
+I sat.
+TP
+
+WVP 0 vfCCC0014kri013
+//霧「あ―――」
+Kiri: "AAAH!"
+TP
+
+//太一「いやー、あつはなついねぇ。のだおぶながだねぇ」
+Taichi: "C'moon, Uranus is showing! I'll give you some dead batteries, free of charge!"
+//Lame (old people's) gags. First is a terribad pun on "natsu wa atsui" (Summer's hot), unsure about the second but it should be a bad pun on Oda Nobunaga. Unsure because results are mostly squatted by an anime character of same name (Noda Obunaga), which itself should be a reference to the same lame pun. Does not seem like the two together are a specific reference to anything else. Replaced with suitably horrible ones (thanks Twitter @ThoseLameJokes and the Bad Pun Coon). The c'MOON/URANUS thing wasn't intentional before editing, but it is now. -GHS
+TP
+
+//霧「……」
+Kiri: "..."
+TP
+
+//太一「だんまり？」
+Taichi: "Taciturn?"
+TP
+
+//霧の肩が震えていた。
+Kiri's shoulders were trembling.
+TP
+
+//そんなに悔しかったのか。
+Was it mortifying to that extent?
+//Should possibly be visible that he's truly not realizing how much of an asshole he's being. -GHS
+TP
+
+//ひどい嫌がりようだ。
+Hers seems like heartless hatred.
+TP
+
+WVP 0 vfCCC0014kri015
+//霧「何しに来たんですか」
+Kiri: "What did you come here for."
+//Let's not pretend there's an actual question mark in this sentence. -GHS
+TP
+
+//俺はにっこり微笑む。
+I smile brightly.
+TP
+
+//太一「ミス　イノセンスのイノセントな純潔だ」
+Taichi: "For Miss Innocence's INOSENTO chastity."
+//Desu♪. -GHS-desu♪
+TP
+
+WVP 0 vfCCC0014kri016
+//霧「……帰ってください」
+Kiri: "...please go away."
+TP
+
+//太一「まだ何もしてないのに」
+Taichi: "But I still haven't done anything."
+TP
+
+WVP 0 vfCCC0014kri017
+//霧「この上なにかする気なんですか？」
+Kiri: "Do you have a mind of doing even more then?"
+TP
+
+//太一「どーしようかなー」
+Taichi: "Whaaa～t should I dooo～."
+TP
+
+//悩む。
+I worry.
+TP
+
+//ガラス細工に触れると指紋がついちゃう。
+Touching the glasswork would leave fingerprints.
+TP
+
+//そんな逡巡。
+That makes me hesitate.
+TP
+
+//太一「うん、やめた」
+Taichi: "Fine, I'll stop."
+TP
+
+//霧「…………」
+Kiri: "......"
+TP
+
+//無視だった。
+I was ignored.
+TP
+
+//無視かナイフかだ。
+Ignored maybe, a knife maybe.
+TP
+
+//太一「世間話だけにしよう」
+Taichi: "Let's just chat a bit."
+TP
+
+WVP 0 vfCCC0014kri019
+//霧「帰ってください」
+Kiri: "Please go away."
+//PCP above
+TP
+
+//肩をすくめた。四度目。
+I shrugged my shoulders. Fourth time.
+//And four. -GHS
+TP
+
+//太一「あ、授業道具持ってきてる」
+Taichi: "Ah, you brought the classroom stuff with."
+TP
+
+//霧の鞄の中身を勝手にあさる。
+I check the contents of Kiri's bag without permission.
+TP
+
+//太一「今日は始業式だけだったの。ははーん、さては初日に持ってきた教科書を全部置きっぱなしにするタイプだな？」
+Taichi: "Today was nothing but opening ceremony though. Ah-ha, of course, you're the type that brings all the textbooks on the first day and leaves them here, aren't you?"
+//This is further telling: she isn't changing that part of herself either. She's even worse than Touko. -GHS
+TP
+
+WVP 0 vfCCC0014kri020
+//霧「勝手に見ないでください。鞄に触れないでください」
+Kiri: "Please do not look inside without permission. Please do not touch my bag."
+TP
+
+//肩をすくめた。五回目。
+I shrugged my shoulders. Fifth time.
+//And five. -GHS
+TP
+
+//肩すくませられっぱなしだ。
+Don't I just keep being made to shrug my shoulders.
+TP
+
+//さすが佐倉霧。
+That's our Sakura Kiri for sure.
+TP
+
+//ミス　イノセンスの異名を持つ娘。
+The girl nicknamed Miss Innocence.
+//Likely her actual Club nickname, see CCC3004 -GHS
+TP
+
+//太一「俺が何をしてもキミは傷つくんだな」
+Taichi: "Whatever I do you just get hurt."
+//Glasswork -GHS
+TP
+
+//霧「……」
+Kiri: "..."
+TP
+
+//太一「疲れない？」
+Taichi: "Aren't you tired?"
+TP
+
+WVP 0 vfCCC0014kri022
+//霧「誰の……せいだと……」
+Kiri: "Whose fault... would that be..."
+TP
+
+//声が震えた。怒りのため。
+Her voice was shaking. Because of anger.
+TP
+
+//いつもはもっと素っ気ないのに、さすが人類滅亡。
+Her Always is much more curt, indeed it's gotta be the Fall of Mankind.
+//My ass, she's always like this. -GHS
+TP
+
+//霧もかなり動揺して、心の壁が揺らいでいるようだ。
+Kiri herself is trembling considerably, as if the wall around her heart was growing unstable.
+//心の壁 seems to refer to the barrier around one's heart that keeps distance from others. Hum, does this count as an Evangelion reference...? -GHS
+TP
+
+//太一「俺のせいかもね」
+Taichi: "That'd be my fault, right."
+TP
+
+//くすくす笑う。
+I giggle.
+//Girly. Except Kiri has no way of knowing his backstory, so this would sound fairly evil. -GHS
+TP
+
+//肩をすくめる。
+I shrug my shoulders.
+//CP above (in present like first line)
+//And six. -GHS
+TP
+
+//カクカクと高速ですくめては弛緩しすくめては弛緩し、コミカルな動き。
+I wobbled as I relaxed by shrugging at high speed, then relax from that with a shrug, a comical motion.
+//This sentence sounds off without realizing the first part refers to the shrug just above, and therefore the shrug he cancels into(?) is the seventh. -GHS
+TP
+
+WVP 0 vfCCC0014kri023
+//霧「……出ていって……くれますか」
+Kiri: "...won't you please... leave now."
+TP
+
+//激昂したいのを必死でこらえていた。
+She's frantically trying to bear her own exasperation.
+TP
+
+//太一「……ハヒ」
+Taichi: "...YESH."
+//Intentional -GHS
+TP
+
+//怒らせすぎた。
+I made her too angry,
+TP
+
+//立ち去るとしよう。
+it's time to depart.
+TP
+
+//太一「あ、ねえ、昼ご飯一緒に食べない？」
+Taichi: "Ah, say, can't we eat lunch together?
+//And of course, the words in excess. Wouldn't be Taichi if there weren't. -GHS
+TP
+
+//霧はきょとんとした。
+Kiri stares in blank amazement.
+TP
+
+//太一「……ダメか。じゃあね。霧ちんによろしく」
+Taichi: "...not happening then. Bye then. Sends my best regards to Miki-chin."
+//Original said Kiri-chin. Typo fixed in the console version. -GHS
+TP
+
+//教室を出たのだった。
+And that's when I left the classroom.
+TP
+
+WVS 1 1
+
+RET

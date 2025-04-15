@@ -1,0 +1,158 @@
+
+GL 0 bgcc0008
+GL 1 TCSK0000
+GP 1 220 0
+GS 0 1
+GS 1 1
+SEF 152 0
+
+
+
+Kiri was in the hallway.
+TP
+
+
+That's also the same as usual.
+TP
+
+
+It just doesn't happen with a high probability.
+TP
+
+
+Taichi: "Kiriii."
+TP
+
+GL 1 TCSK0001
+GI 1 0
+
+WVP 1 bgm017.ogg 0 0 0
+
+WVP 0 vfCCD0001kri020
+Kiri: "Mu!"
+TP
+
+
+I was glared at.
+TP
+
+
+Taichi: "Mu!"
+TP
+
+
+I glared.
+TP
+
+
+*bam* *bam* *bam* *bam* *bam* *bam* *bam* *bam!!!* (Psychological Effect)
+//CP ccc0026
+TP
+
+
+
+My nipple was getting itchy, but I bore with it.
+TP
+
+GL 2 TCYM0003
+GP 2 180 0
+GS 2 1
+GS 1 0
+SEF 109 0
+
+WVP 0 vfCCD0001mki028
+Miki: "Fuiii, I feel refreshed."
+TP
+
+
+At long last Miki came out of the bathroom.
+TP
+
+
+
+
+GL 2 TCYM0004
+GI 2 0
+
+WVP 0 vfCCD0001mki029
+Miki: "Nyooooo!!?"
+TP
+
+
+An appropriate scream given that her conduct only a moment earlier had just hit my ears.
+// I will suggest "An appropriate scream given her conduct only a moment earlier hits my ears." right now it looks like her conduct earlier hit Taichi's ears.
+
+TP
+
+
+Then, I stepped forward.
+TP
+
+
+Taichi: "Did you think I came here for no reason?"
+TP
+
+
+And, I put my hand in my chest pocket.
+TP
+
+
+There, a secret weapon......obviously didn't exist, this was just a bluff.
+TP
+
+
+Instead I scratched my nipple.
+TP
+
+
+I eliminated the threat and my nipple itch. Two birds with one stone.
+TP
+
+
+Kiri moved her hand behind her back,
+TP
+
+
+Pulled out a crossbow, and pointed it forward.
+TP
+
+
+GL 0 evcc0024a
+$CGevcc0024a = 1
+GS 0 1
+GS 2 0
+SEF 155 0
+
+
+Taichi: "Uwaaaaa."
+TP
+
+
+I was appropriately surprised.
+TP
+
+
+But I didn't become stressed......
+TP
+
+
+Aside from the fact that getting shot and dying is no problem...
+TP
+
+
+Hmmm.
+TP
+
+
+Isn't there this decision as well?
+//Uhm, I would offer to fix this line but I don't understand it at all.-Spin
+TP
+
+
+
+CSQ 0 1 1
+  -Try attacking
+  -Surrender
+
+
+RET

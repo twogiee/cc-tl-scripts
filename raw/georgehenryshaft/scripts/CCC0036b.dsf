@@ -1,0 +1,75 @@
+//Wednesday September 9, 1998 -GHS
+
+WVP 1 bgm007.ogg 0 0 0
+
+GL 0 bgcc0005
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//水曜日。
+Wednesday.
+//CP CCC0007
+TP
+
+//ニュートンも失笑、惰性の法則に従って学校に行く。
+Even Newton would end up laughing at how I am going to school in obedience to the Law of Inertia.
+//CP CCC0036A
+TP
+
+//坂を歩く。
+I walk the hills.
+//CP CCC0036A
+TP
+
+//いつもながら勾配がきつい。
+The inclines are severe, as always.
+//CP CCC0036A
+TP
+
+//歩みは遅くなる。
+Pace grows slower.
+//CP CCC0036A
+TP
+
+//ようやっと平らな場所に出る。
+At last I come out into a flat place.
+//CP CCC0036A
+TP
+GL 5 bgcc0000e
+GI 5 0
+WT 30 0
+GO 5 1
+//HACK stay on the white longer -GHS
+//太一「……！」
+Taichi: "...!"
+//CP CCC0036A
+TP
+//>　　　　　　あぶ
+//予感に焙られて、意識が加熱した。
+Broiled by a premonition, awareness heats up.
+//CP CCC0036A
+TP
+
+//理性よりはやく体は動く。
+The body moves faster than rationality.
+//CP CCC0036A
+TP
+
+//振り返った！
+I turned around!
+//CP CCC0036A
+TP
+//太一「…………いないか」
+Taichi: "......not there?"
+//CP CCC0036A
+TP
+
+//人の気配を感じたのに。
+But I felt the presence of a person.
+//CP CCC0036A
+TP
+
+WVS 1 1
+
+RET

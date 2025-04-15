@@ -1,0 +1,29 @@
+JMP START
+//...you never know... -GHS
+:EXTRA
+JMP START
+:START
+//Final image of the VN -GHS
+CSQ 1 1 1 1 1
+Select scenario
+ - Cross†Channel
+ - Another Story - Cross†'Channel
+ - A Drink on the Rooftop
+ - Deus Ex Chaos
+//Clears off everything before handling the choice. -GHS
+IF $B == 1 RET
+//Just returns to main script file. -GHS
+IF $B == 2 JMP ANOTHERSTORY
+IF $B == 3 JMP ROOFTOP
+IF $B == 4 JMP DXC
+:ANOTHERSTORY
+CALL CCZAS
+JMP EXTRA
+//Merged all scripts and removed the extra menu from the fanmade version. -GHS
+:ROOFTOP
+CALL CCZRooftop
+JMP EXTRA
+:DXC
+CALL CCZDXC
+JMP EXTRA
+//All the side scenarios will return to the scenario menu instead of quitting to the main menu. -GHS

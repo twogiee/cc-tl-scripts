@@ -1,0 +1,1021 @@
+
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+SEF 152 0
+Now then,
+TP
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 0
+
+WVP 1 bgm001.ogg 0 0 0
+
+I went to the roof and took care of Tomoki's body.
+TP
+
+I'll get that antenna out of him......well, I tried to, but it was fixed in place.
+//He was supposed to have hard wires in him or something it said.-Spin
+TP
+
+Taichi: "Damn uptight guy."
+TP
+
+Literally.
+IF $tlnote != 0 (TL note: The Japanese word for "uptight person" is written with the kanji for "hard/rigid person/thing".)
+TP
+
+I tried to sit him in a chair, but he was fixed in place.
+TP
+
+Taichi: "......hmmm."
+TP
+
+With no other choice, I grabbed his ankles and stomped on his shoulders, forcing him horizontal.
+TP
+
+I heard a cracking noise.
+//Haven't seen the sound effect for bones breaking since MOON. Å`IX
+//Eeeekkk - Sheeta
+TP
+
+Sorry, Tomoki's corpse.
+TP
+
+By now, would this be a soulless Tomoki?
+TP
+
+I stood the horizontal Tomoki up by the fence.
+TP
+
+Taichi: "Okay, Tomoki. Now you're part of the club too. We'll do it with just the two of us!"
+TP
+
+Tomoki's Corpse: "............"
+TP
+
+No reaction. Like a dead body.
+TP
+
+Well, he is a dead body......
+TP
+
+The antenna had been breaking apart.
+TP
+
+Yes, now I can tell.
+TP
+
+Tomoki had tried to destroy the antenna.
+TP
+
+He had quite a grudge for Misato-sempai......for Aneki.
+TP
+
+He interfered with her.
+TP
+
+And then the broken antenna......Tomoki......
+TP
+
+Sempai came to the roof and saw her brother's corpse.
+TP
+
+And then......she fell.
+TP
+
+Tomoki was killed by coincidence.
+TP
+
+Taichi: "It's totally your fault that the antenna got so short."
+TP
+
+Tomoki's Corpse: "............"
+TP
+
+Taichi: "Not talking? Are you the sullen type?"
+TP
+
+Now then,
+TP
+
+Now that I've enjoyed talking to Tomoki's corpse, I'll start the club.
+TP
+
+I adjusted the height of the mike.
+TP
+
+Power on.
+TP
+
+The frequency......maybe it's best not to touch it.
+TP
+
+Well, it should be fine.
+TP
+
+I'm pretty sure......if I do this......there we go.
+TP
+
+Begin broadcast.
+TP
+
+Taichi: "Ummm......"
+TP
+
+Taichi: "Nnn, what should I do..."
+TP
+
+I thought.
+TP
+
+I'm apolitical, without any particular opinions.
+//Not too sure about that since I suck with semicolons but that second line there is practically the same as just the "apolitical" thing.-Spin
+TP
+
+Nnn.
+TP
+
+Okay!
+TP
+Taichi: "Eeeh, this is......the Gunjou Institute Broadcast Channel......the channel name is......eeeh......Red Scorpio, let's go with that. I would like to prick you repeatedly."
+TP
+
+Taichi: "Today, we have Dead Tomoki-san as a guest from the land of the dead."
+TP
+
+Tomoki's Corpse: "............"
+TP
+
+Taichi: "He's a cool, shy boy."
+TP
+
+Taichi: "Eeeh..."
+TP
+
+Taichi: "Anyway, is anyone alive out there?"
+TP
+
+Taichi: "......if you are, how should I put this, please live."
+TP
+
+Taichi: "Please live until you die."
+TP
+
+Taichi: "There really are many valuable things that are only possible when one is living, right Dead Tomoki-san?"
+TP
+
+Tomoki's Corpse: "............"
+TP
+
+Taichi: "He's an attractive, taciturn guy."
+TP
+
+Taichi: "Well, it's okay if you die, but......"
+TP
+
+Taichi: "I think human relationships might be more precious than any of us realize."
+TP
+
+Taichi: "We make ourselves with influence from others."
+TP
+
+Taichi: "I've felt that firsthand, but what about you?"
+TP
+
+Taichi: "It's okay if you can live on by yourself......if you have that kind of strength."
+TP
+
+Taichi: "But I think most people are weak."
+TP
+
+Taichi: "If I really became alone, I'm sure I'd break."
+TP
+
+Taichi: "Even though the world's full of malice,"
+TP
+
+Taichi: "There may not be much else, but,"
+TP
+
+Taichi: "......even so, someone's here."
+TP
+
+Taichi: "Someone other than yourself."
+TP
+
+Taichi: "That's---"
+TP
+
+WVS 1 0
+
+WVP 0 vfCCC4025mki000
+Miki: "Humans are okay as long as they have themselves. Right, Sempai?"
+TP
+
+I stopped.
+TP
+
+I looked.
+TP
+GL 1 TCYM0000
+GP 1 180 0
+GI 1 1
+
+Miki.
+TP
+
+Taichi: "Miki......?"
+TP
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4025mki001
+Miki: "I went and secured the notebook."
+TP
+
+Taichi: "But, wait......?"
+TP
+
+Taichi: "Do you have enough time?"
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC4025mki002
+Miki: "It's coming pretty soon."
+TP
+
+Taichi: "Isn't that bad? You need to hurry back-"
+TP
+
+She was drenched in sweat.
+TP
+
+Had she come back here running?
+TP
+
+For what purpose?
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4025mki003
+Miki: "......aah, I don't think I'd make it if I went back now."
+TP
+
+Taichi: "What are you doing? Hurry up and go!"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4025mki004
+Miki: "I will go once I'm done here. I'm the type to care really deeply about myself."
+TP
+
+Taichi: "Done with what?"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+Her expression neatly braced itself.
+TP
+
+WVP 1 bgm015.ogg 0 0 0
+
+WVP 0 vfCCC4025mki005
+Miki: "Sempai, this world......it's not the world we were in."
+TP
+
+Taichi: "What?"
+TP
+
+WVP 0 vfCCC4025mki006
+Miki: "Please read this. It's the easiest way for you to understand."
+TP
+
+Miki took out a bulky diary notebook.
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4025mki007
+Miki: "From page fifty-two."
+TP
+
+I tried reading.
+TP
+
+
+Date: --/--
+It's been about a month since the large-scale 'spiriting away' was confirmed.
+//tl note for "spiriting away"? or does someone have a good idea for adapting it? Å`IX
+//also, suggestions for better adaptations of censored dates would be welcome. Å`IX
+//Added dashes and quotation marks ^^ - Sheeta
+TP
+
+Those people disappeared in a flash.
+TP
+
+When did they disappear?
+TP
+
+How did they disappear?
+TP
+
+No one saw the moment when they disappeared.
+TP
+
+Humanity didn't have the time to clarify the cause.
+TP
+
+The population of Upper Misaka City is now less than half of what it was.
+TP
+
+The number of students has decreased.
+TP
+
+The student called Kurosu is the same as ever.
+TP
+
+He's living as noisily as always in this crisis of a situation.
+TP
+
+He was one of the more serious ones, but he looked perfectly healthy. It's truly ironic.
+
+When will I disappear?
+TP
+
+Date: --/--
+Classes can now be joined at will.
+TP
+
+Nothing can be done about there being only a tenth of the students that there used to be.
+TP
+
+I just play with figurines at my house.
+TP
+
+However, they can't see, nor can they love.
+TP
+
+It's no more than self-satisfaction.
+TP
+
+Good thing my family's gone.
+TP
+
+It doesn't seem like I'll be able to endure my family's disappearance.
+TP
+
+
+The power plant was brought to a halt after all. It's only natural.
+TP
+
+Date: --/--
+I disposed of the figurines.
+TP
+
+Just because people are gone, hobbies have become meaningless.
+TP
+
+I can't get in the mood to do anything.
+TP
+
+'The world is stable.'
+TP
+
+That fact was connected to the enjoyment of hobbies.
+TP
+
+Even I, who hated people, was connected to the world.
+TP
+
+Through ventilation I was still barely living.
+TP
+
+Food can be provided somehow, since the number of mouths to feed has decreased.
+TP
+
+Cases of barter increased.
+TP
+
+I want to eat steak so badly.
+TP
+
+Date: --/--
+Even when I head into town, I don't see many people.
+TP
+
+Is anyone still alive?
+TP
+
+I started wandering around.
+TP
+
+The television no longer functioned.
+TP
+
+The radio only has static, so I can't hear a thing.
+TP
+
+It's quiet. I feel like I'll go crazy.
+TP
+
+Date: --/--
+I didn't see anyone today.
+TP
+
+Date: --/--
+A delivery truck came.
+TP
+
+But it had no driver.
+TP
+
+I searched all around, but there was no one.
+TP
+
+Only the truck with its engine running was left.
+TP
+
+Scary. I'm scared.
+TP
+
+Date: --/--
+I borrowed the resources in the truck.
+TP
+
+Tons of bread.
+TP
+
+But I don't need curry bread.
+TP
+
+I brought what I wanted to my house in several trips.
+TP
+
+I brought the case of curry bread to the school cafeteria.
+TP
+
+If anyone's left alive, they'll eat it.
+TP
+
+Date: --/--
+I didn't meet anyone today.
+TP
+
+Date: --/--
+Is there anyone here......?
+TP
+
+
+Date: --/--
+I met Yamanobe Miki.
+TP
+
+I was jubilant.
+TP
+
+But Yamanobe was afraid. She wouldn't have anything to do with me.
+TP
+
+She was saying something about Kurosu.
+TP
+
+Kurosu is dangerous? I don't understand.
+TP
+
+Yamanobe ran away.
+TP
+
+I searched for her through the night, but I couldn't find her.
+TP
+
+Date: --/--
+Yamanobe died. What a thing to happen...
+TP
+
+She was killed. By someone.
+TP
+
+Kurosu? Is this what she meant when she said Kurosu was dangerous?
+TP
+
+It's true that Kurosu was a seriously unadaptive person, but...
+TP
+
+There was some kind of cause.
+TP
+
+I want to meet someone.
+TP
+
+I think I'll try searching for Kurosu tomorrow.
+TP
+
+Anyone's fine.
+TP
+
+The diary cut off here.
+TP
+
+
+Taichi: "......this...is Sakakibara's diary?"
+TP
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4025mki008
+Miki: "When I investigated various things a while back......I found this."
+TP
+
+WVP 0 vfCCC4025mki009
+Miki: "This is a different world."
+TP
+
+WVP 0 vfCCC4025mki010
+Miki: "It's a similar, but different world."
+TP
+
+WVP 0 vfCCC4025mki011
+Miki: "......an empty world without the original residents."
+TP
+
+WVP 0 vfCCC4025mki012
+Miki: "We were thrown into it. Probably, on the way home from that campout......"
+TP
+
+My heart jumped.
+TP
+
+On the way home from the campout.
+TP
+
+Then...then---
+TP
+
+These eyes have---
+TP
+
+Taichi: "......where was it?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4025mki013
+Miki: "They're in most people's houses. But that one's the easiest to understand."
+TP
+
+WVP 0 vfCCC4025mki014
+Miki: "This means there are other Sempais and other mes besides those in this world."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4025mki015
+Miki: "So, Sakakibara-sensei was probably killed."
+//Sounds almost like Sakakibara, but I'm not positive.  Here's a save right at the line for anyone else who wants to take a listen. (#40 from http://www.mediafire.com/download.php?oknhnzzdzxz)
+TP
+
+WVP 0 vfCCC4025mki016
+Miki: "Because a hallway in the Institute was covered in blood."
+TP
+
+Taichi: "......I...did it?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4025mki017
+Miki: "The Sempai of this world."
+TP
+
+Taichi: "I......"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4025mki018
+Miki: "Of this world!"
+TP
+
+Taichi: "But, it was me."
+TP
+
+I dropped the diary.
+TP
+
+Taichi: "I'm so worthless---"
+TP
+GL 0 evcc0041
+$CGevcc0041 = 1
+GS 0 1
+GS 1 0
+SEF 109 1
+WVP 0 vfCCC4025mki019
+Miki: "You're fine."
+TP
+
+I was embraced.
+TP
+
+WVP 0 vfCCC4025mki020
+Miki: "So, calm down."
+TP
+
+I held her too.
+TP
+
+The small Miki gave me a huge relief.
+TP
+
+Taichi: "......the worlds...are crossing, aren't they?"
+TP
+
+That crossing point was this one-week world.
+TP
+
+Such absurdity......like sci-fi.
+TP
+
+But,
+TP
+
+Taichi: "......did you come back here just to tell me that?"
+TP
+
+WVP 0 vfCCC4025mki021
+Miki: "Yes......"
+TP
+
+Taichi: "Isn't it meaningless?"
+TP
+
+WVP 0 vfCCC4025mki022
+Miki: "That's true. I just noticed."
+TP
+
+Taichi: "......that's a lie."
+TP
+
+WVP 0 vfCCC4025mki023
+Miki: "Yes."
+TP
+
+Taichi: "Are you an idiot?"
+TP
+
+WVP 0 vfCCC4025mki024
+Miki: "But......"
+TP
+
+WVP 0 vfCCC4025mki025
+Miki: "I loved you."
+TP
+
+Taichi: "......"
+TP
+
+WVP 0 vfCCC4025mki026
+Miki: "I love Sempai......and had sex with him......"
+TP
+
+WVP 0 vfCCC4025mki027
+Miki: "I fell in love with this Sempai!"
+TP
+
+She clung to me. Tightly.
+TP
+
+WVP 0 vfCCC4025mki028
+Miki: "With...this Sempai."
+TP
+
+WVP 0 vfCCC4025mki029
+Miki: "I didn't know......that falling in love with someone......"
+TP
+
+WVP 0 vfCCC4025mki030
+Miki: "I didn't think...it would hurt this much!"
+TP
+
+WVP 0 vfCCC4025mki031
+Miki: "My chest......it's tightening..."
+TP
+
+WVP 0 vfCCC4025mki032
+Miki: "Tears are coming out."
+TP
+
+WVP 0 vfCCC4025mki033
+Miki: "I'm sniffling."
+TP
+
+WVP 0 vfCCC4025mki034
+Miki: "I'm making an unsightly face, and my heart is beyond control."
+TP
+
+WVP 0 vfCCC4025mki035
+Miki: "It's not logical."
+TP
+
+WVP 0 vfCCC4025mki036
+Miki: "......you're warm."
+TP
+
+Taichi: "I'm glad to hear that......but didn't you like Kiri-chin?"
+TP
+
+WVP 0 vfCCC4025mki037
+Miki: "I think......I like her."
+TP
+
+WVP 0 vfCCC4025mki038
+Miki: "But, she broke......"
+TP
+
+WVP 0 vfCCC4025mki039
+Miki: "I killed Kiri-chin several times."
+TP
+
+WVP 0 vfCCC4025mki040
+Miki: "In order for me to live......Kiri was the only one who could pull away the scary Sempai's awareness."
+TP
+
+So she could catch me by surprise.
+TP
+
+WVP 0 vfCCC4025mki041
+Miki: "Hasekura-sempai and Taichi-sempai. I had to live on desperately despite those two monsters."
+TP
+
+Taichi: "I'm sorry."
+TP
+
+
+WVP 0 vfCCC4025mki042
+Miki: "......I'm tired."
+TP
+
+WVP 0 vfCCC4025mki043
+Miki: "I don't...want to......kill anymore."
+TP
+
+WVP 0 vfCCC4025mki044
+Miki: "That's......not an easy thing......"
+TP
+
+WVP 0 vfCCC4025mki045
+Miki: "Each time I kill Kiri-chin, my entire heart cracks."
+TP
+
+WVP 0 vfCCC4025mki046
+Miki: "......that memory has recurred several times...... I've held it......and lived on......that's......that is..."
+TP
+
+She spat it out.
+TP
+
+WVP 0 vfCCC4025mki047
+Miki: "Hell."
+TP
+
+WVP 0 vfCCC4025mki048
+Miki: "That's why......I've......decided."
+TP
+
+WVP 0 vfCCC4025mki049
+Miki: "......I'll forget...everything."
+TP
+
+She echoed proudly.
+TP
+
+Her resolve made her words noble.
+TP
+
+Taichi: "......Miki's a good girl."
+TP
+
+WVP 0 vfCCC4025mki050
+Miki: "I'm broken......and I didn't think of people as people......"
+TP
+
+Taichi: "You're better than me."
+TP
+
+Taichi: "Miki's got a long way to go before becoming a worthless monster like me."
+TP
+
+WVP 0 vfCCC4025mki051
+Miki: "......"
+TP
+
+With words,
+TP
+
+I tried beating on Miki's heart.
+TP
+
+As if knocking.
+TP
+
+Softly.
+TP
+
+Taichi: "Miki has no skill."
+TP
+
+WVP 0 vfCCC4025mki052
+Miki: "Ahaha......hahaha......"
+TP
+
+WVP 0 vfCCC4025mki053
+Miki: "That's...right......hahaha......ha......uua......"
+TP
+
+She smiled with a teary voice.
+TP
+
+Taichi: "......that three-person date was fun, wasn't it?"
+TP
+
+WVP 0 vfCCC4025mki054
+Miki: "Yes......"
+TP
+
+Taichi: "Living by yourself got lonely, didn't it?"
+TP
+
+WVP 0 vfCCC4025mki055
+Miki: "......that's not true at all. I care about myself the most."
+TP
+
+Taichi: "That's also a lie."
+TP
+
+Taichi: "Even though......I finally understand that."
+TP
+
+It would never have happened.
+TP
+
+In order to become a more noble version of myself, what sort of sacrifices would I make?
+TP
+
+Miki did nothing more than that.
+TP
+
+I suddenly started wanting to continue existing with Miki.
+TP
+
+Taichi: "......let's go to the hokora. If we use a car---"
+TP
+
+WVP 0 vfCCC4025mki056
+Miki: "It's too late."
+TP
+
+Then, suddenly,
+TP
+GL 5 bgcc0000e
+GL 0 evcc0041a
+$CGevcc0041a = 1
+GI 5 0
+GS 5 0
+GS 0 1
+SEF 109 0
+The sky grew dark.
+TP
+
+
+Taichi: "!?"
+TP
+
+WVP 0 vfCCC4025mki057
+Miki: "It's started......"
+TP
+
+The Miki that had been maintained until now,
+TP
+
+The Miki that had been built up,
+TP
+
+Would be reset.
+TP
+
+Really.
+TP
+
+The world really is being rolled back.
+TP
+
+That's......an excerpt of Miki's subjective time. In other words,
+TP
+
+This means a partial disappearance.
+TP
+
+Miki was shaking.
+TP
+
+In my arms.
+TP
+
+Terror.
+TP
+
+That's right.
+TP
+
+Miki's terror should be heavier than mine.
+TP
+
+It's natural for her to be afraid.
+TP
+
+I pushed her head into my chest.
+TP
+
+WVP 0 vfCCC4025mki058
+Miki: "I'm scared...would you please keep holding me?"
+TP
+
+Taichi: "Relax. I'm pretty scared too."
+TP
+
+WVP 0 vfCCC4025mki059
+Miki: "The memory of this conversation...will disappear with everything else......"
+TP
+
+I patted her back with the hands I held her with.
+TP
+
+Taichi: "Don't think about that so much."
+TP
+
+WVP 0 vfCCC4025mki060
+Miki: "Eeuua......"
+TP
+
+Taichi: "How will we disappear?"
+TP
+
+WVP 0 vfCCC4025mki061
+Miki: "Only those who've experienced it would know."
+TP
+
+Taichi: "That's true."
+TP
+
+WVP 0 vfCCC4025mki062
+Miki: "What do you think happened to Sakuraba-sempai?"
+TP
+
+Taichi: "Inside me, he's already set as dead."
+TP
+
+WVP 0 vfCCC4025mki063
+Miki: "Another loveless thing to say......"
+TP
+
+Taichi: "Don't you say that!"
+TP
+
+WVP 0 vfCCC4025mki064
+Miki: "Ahahahaha."
+TP
+
+It was just like an everyday conversation.
+TP
+
+Taichi: "Seriously...damn this world for doing it so thoughtlessly."
+TP
+
+WVP 0 vfCCC4025mki065
+Miki: "Hey, Taichi-sempai."
+TP
+
+Taichi: "What is it, my girl?"
+TP
+
+WVP 0 vfCCC4025mki066
+Miki: "I love you."
+TP
+GL 0 bgcc0000e
+GS 0 1
+SEF 109 1
+
+Those became the last words I heard.
+TP
+
+WVS 1 1
+
+WT 3000 0
+WT 2000 1
+
+
+CALL ndemo0001
+RET

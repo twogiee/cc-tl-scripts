@@ -1,0 +1,213 @@
+
+GL 0 bgcc0006
+GS 1 0
+GS 0 1
+SEF 155 0
+
+
+
+
+I poked my head into the classroom, and Touko was there.
+TP
+GL 0 evcc0011
+$CGevcc0011 = 1
+GS 0 1
+SEF 109 0
+
+
+I stood still, surprised.
+TP
+
+Taichi: "......Kirihara."
+TP
+
+Her gaze lazily swam past me, almost as if she could see right through me.
+TP
+
+WVP 1 bgm007.ogg 0 0 0
+
+
+
+Touko's cheeks were sunken.
+TP
+
+Her skin was pale.
+TP
+
+Her hair was falling apart.
+TP
+
+The lamplight of her life was dimming.
+TP
+
+She was resting her head indifferently on the desk.
+TP
+
+Was Touko rotting away, untouched by anyone?
+TP
+
+In this world where humanity has met its end.
+TP
+
+Was she unable to endure the shock?
+TP
+
+Everyone dies alone in the end.
+TP
+
+But until they die, they have to keep living.
+TP
+
+I approached her, and spoke to her.
+TP
+
+As gently as I could.
+TP
+
+Even if that's hypocrisy......I don't care.
+TP
+
+Because I exist in order to commit hypocrisy.
+TP
+
+Taichi: "I know you don't like it, but would you try coming to the club tomorrow?"
+//CP_S cca0028
+TP
+
+WVP 0 vfccb0021fyu000
+Touko: "......eh?"
+TP
+
+She raised her gaze with an expression of perplexity and indecision.
+TP
+
+Those haggard features took on a shade of scarlet, giving an impression both brave and tragic.
+//CP_F
+TP
+
+Taichi: "Okay?"
+TP
+
+I left a water bottle and a wrapped sandwich on the table.
+TP
+
+Leftovers from our sea bath.
+TP
+
+There was just enough for one.
+TP
+
+Touko gazed intently upon it.
+TP
+
+Taichi: "If you don't eat up, you're going to get sick."
+TP
+
+WVP 0 vfccb0021fyu001
+Touko: "......I have no appetite."
+TP
+
+A hoarse voice.
+TP
+
+Taichi: "Okay, I get it. Now you eat."
+TP
+
+Touko: "............"
+TP
+
+Her hand slowly extended.
+TP
+
+Taking off the plastic.
+TP
+
+Biting small pieces.
+TP
+
+Taichi: "......take your time. There's water too."
+TP
+
+WVP 0 vfccb0021fyu003
+Touko: "............uu!"
+TP
+
+She covered her mouth.
+TP
+
+Taichi: "Ah, are you okay?"
+TP
+
+WVP 0 vfccb0021fyu004
+Touko: "I'm okay, don't worry about it."
+TP
+
+She shook me off.
+TP
+
+Her conduct was weak, but her will to reject was certain.
+TP
+
+Taichi: "......Kiriharaaa..."
+TP
+
+An awkward silence.
+TP
+
+WVP 0 vfccb0021fyu005
+Touko: "I'll take this."
+TP
+
+Taichi: "Eh?"
+TP
+
+WVP 0 vfccb0021fyu006
+Touko: "I'll eat it at home."
+TP
+
+Taichi: "Oh......are you sure?"
+TP
+
+WVP 0 vfccb0021fyu007
+Touko: "......yes."
+TP
+
+WVP 0 vfccb0021fyu008
+Touko: "Thank you."
+TP
+
+She smoothly produced words of thanks.
+TP
+
+Taichi: "......I plan to help out with the club on Sunday."
+TP
+
+Taichi: "You should come if you feel up to it."
+TP
+
+Taichi: "We'll put out an SOS."
+TP
+
+Taichi: "Though we probably won't have a very wide range,"
+TP
+
+Taichi: "We can do all kinds of directions and frequency bands and tuning."
+TP
+
+Taichi: "Those are our new club activities."
+TP
+
+Taichi: "......not bad, right?"
+TP
+
+WVP 0 vfccb0021fyu009
+Touko: "......you're right."
+TP
+
+I felt that I'd renovated just a little of my horrible relationship with Touko.
+TP
+WT 500 0
+WT 500 1
+
+WVS 1 1
+RET

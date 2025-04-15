@@ -1,0 +1,182 @@
+//太一「わかりましたよ、先輩……じゃあですね、かわりに」
+Taichi: "Understood, Senpai. Then, instead of that..."
+TP
+
+
+GL 1 TCMM0000c
+GI 1 0
+
+WVP 0 vfcca0025bmsa000
+//見里「なぁに？」
+Misato: "Wha-at?"
+//CP CCA0025A
+TP
+
+
+
+//太一「エッチなことって、したことあります？」
+Taichi: "Sexual things, so to say, have you ever done any?"
+TP
+
+
+GL 1 TCMM0004c
+GI 1 0
+
+WVP 0 vfcca0025bmsa001
+//見里「文脈違うじゃないですか！」
+Misato: "Is this not the wrong context now!"
+TP
+
+
+
+//太一「先輩っていいなって思ってたんです」
+Taichi: "Because I thought, with Senpai it would be fine."
+TP
+
+
+
+//太一「あの……桜舞う入学式の日、弟が死んで目的を見失った俺を救い出してくれた先輩の思い出の一言が」
+Taichi: "Well... I still remember the few words with which you saved me, Senpai, on that school opening ceremony day of the fluttering cherry blossoms, when I had lost sight of all purpose over the death of my little brother..."
+//I suspect this is why the Entrance Ceremony got Fixed. Of course, this is all correct except the death of the brother, which would then become the Hasekura Massacre. Is he calling Yutaka his brother...? -GHS
+TP
+
+
+
+//GL 1 TCMM0000c
+GL 1 TCMM0006c
+//HACK foggy glasses Misato instead -GHS
+GI 1 0
+
+WVP 0 vfcca0025bmsa002
+//見里「だまされません、そんな最大瞬間風速的恋愛オーラにはだまされません！」
+Misato: "It shall not deceive me! That Passionate Aura at maximum momentary wind velocity shall not deceive me!"
+//Technical term. Although the wind, in this case, is very explicitly the facade. -GHS
+TP
+
+GL 1 TCMM0001c
+GI 1 0
+
+WVP 0 vfcca0025bmsa003
+//見里「だいたい弟なんていないでしょ！」
+Misato: "Besides, you do not have a younger brother!"
+//...she does, of course, but still. -GHS
+TP
+
+
+
+//太一「白球にかけた一夏、俺はアイツから逃げるために、野球をやめたつもりでした」
+Taichi: "That one Summer staked on the stitched ball, when for the sake of finally escaping 'him', I intended to give up baseball..."
+//And there we go with the baseball. That thing at the beginning sounds like a reference to one of the novels of this guy: http://ja.wikipedia.org/wiki/%E5%A4%A7%E9%9A%88%E7%A7%80%E5%A4%AB can't source an official translation of his novel ("a youth staked on the stitched ball"), so, close enough. Curiously, 一夏 ichige is also "a three month period from the middle of the fourth to the middle of the seventh lunar month, during which Buddhist priests perform asceticisms, called 'ichige' in Japan" (CP EDR) -GHS
+TP
+
+GL 1 TCMM0006c
+GI 1 0
+
+WVP 0 vfcca0025bmsa004
+//見里「違う違う、野球は違う」
+Misato: "Wrong, wrong! Baseball is wrong!"
+TP
+
+
+
+GL 1 TCMM0001c
+GI 1 0
+WVP 0 vfcca0025bmsa005
+//見里「といいますか、すごくＨなこと考えてませんか？」
+Misato: "But more like, are you really thinking of perverted things, are you?"
+TP
+
+
+
+//太一「いやー」
+Taichi: "Welll..."
+TP
+
+
+
+//太一「食欲が満たされたから、あとは性欲かなって」
+Taichi: "After the physical hunger is satisfied, there remains the libido, I think."
+//See CCB2010 -GHS
+TP
+
+GO 1 1
+
+WVP 0 vfcca0025bmsa006
+//見里「らりほー！」
+Misato: "Rarihooo!"
+//See CCA0025A -GHS
+TP
+
+
+
+//先輩は窓から叫んだ。
+A shout out from the window by Senpai.
+//PCP CCA0025A
+TP
+
+
+GL 1 TCMM0001c
+GI 1 1
+//HACK don't just pop the doll in FFS -GHS
+WVP 0 vfcca0025bmsa007
+//見里「それ以上近寄ったら……舌を噛んで死にます」
+Misato: "If you approach me any more... I will swallow my tongue and die!"
+//Adapted. It doesn't make any sense in either language. You can't swallow your tongue and you won't die by biting it off either. -GHS
+TP
+
+
+
+//太一「そ、そんなにイヤなのですかー！？」
+Taichi: "You-, dislike this that muuuch?!"
+TP
+
+
+
+//泣きそう。
+It's to cry.
+TP
+
+
+
+//やっぱ人間容姿だ。
+I knew it, humans are their looks.
+//Annnd back he goes. -GHS
+TP
+
+
+
+//白髪の醜悪ボーイには、人並みの恋愛など許されないのだ。
+ordinary things like love are not allowed to this boy with the ugly white hair.
+TP
+
+
+
+//でも土下座したらＨさせてくれないかな先輩。
+But maybe, Senpai will concede me my perversions, if I genuflect.
+//YESSSSSS -GHS
+TP
+
+
+
+//もう一押しの気がする。
+I feel like one more try.
+TP
+
+
+
+
+
+CSQ 0 1 1
+//　・迫る
+//　・ボケる
+ - Pursue
+//mimimi -GHS
+ - Play the fool
+
+
+
+
+
+
+
+RET

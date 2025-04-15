@@ -1,0 +1,375 @@
+GL 0 bgcc0008a
+GS 0 1
+GS 1 0
+SEF 152 0
+
+WVP 1 bgm002.ogg 0 0 0
+
+
+//友貴がいた。
+Tomoki was there.
+TP
+
+//保健室の中をうかがっている。
+He's peeping covertly into the infirmary.
+TP
+
+//太一「友貴ー」
+Taichi: "Tomokiii."
+TP
+
+//声をかけると、背中がびくりと跳ねた。
+I call out to him and his back sprung up with a start.
+TP
+GL 1 TCST0001b
+GP 1 190 0
+GI 1 1
+
+WVP 0 vmCCC0040yki000
+//友貴「た、太一か……」
+Tomoki: "Ta-, it's Taichi...?"
+TP
+
+//太一「学校にいたんだな」
+Taichi: "You were at school then."
+TP
+
+GL 1 TCST0000b
+GI 1 0
+WVP 0 vmCCC0040yki001
+//友貴「ああ、ちょっと様子見に……ちょっとこっち」
+Tomoki: "Ahhh, I came to see at how things are things a bit... c'mere a bit."
+//It sort of sounds like he wants to tell him something, but he's just leading him away from the infirmary so their talking won't wake her up. Siscon. -GHS
+TP
+
+//太一「お？」
+Taichi: "Oh?"
+TP
+
+//連れて行かれる。
+I go with him.
+TP
+
+WVP 0 vmCCC0040yki002
+//友貴「ここならいいかな」
+Tomoki: "Should be fine here I guess."
+TP
+
+//太一「どうしてこんなはしっこに」
+Taichi: "Why here in this corner?"
+TP
+
+WVP 0 vmCCC0040yki003
+//友貴「……いや」
+TomokI: "...well."
+TP
+
+//口ごもる。
+He hesitates to say.
+TP
+
+//太一「で、平和維持活動部はどう？」
+Taichi: "So, how's the Peace-Keeping Club going?"
+//See CCC0019 -GHS
+TP
+
+GL 1 TCST0004b
+GI 1 0
+WVP 0 vmCCC0040yki004
+//友貴「生命維持活動部。そっちはなんとか」
+Tomoki: "Life Maintenance and Improvement Club! That's going somehow."
+TP
+GL 1 TCST0000b
+GI 1 0
+WVP 0 vmCCC0040yki005
+//友貴「太一は、食べ物とかは平気なんだよね？」
+Tomoki: "Taichi, you been alright as far as food and that stuff, right?"
+TP
+
+//太一「まあな。今のところ困ってない」
+Taichi: "Eh, well. Got no worries in the immediate."
+TP
+
+//太一「一週間もてばいいし」
+Taichi: "I should be fine if I can get through the one week."
+//Slightly specified. -GHS
+TP
+
+GL 1 TCST0003b
+GI 1 0
+//HACK perplexed Tomoki -GHS
+
+WVP 0 vmCCC0040yki006
+//友貴「は？」
+Tomoki: "Huh?"
+TP
+
+//太一「こっちの話だよ、キミィ」
+Taichi: "Just talking to myself, reallyyy!"
+//Tsundere -GHS
+TP
+
+//太一「保健室に用事か？」
+Taichi: "Got something to do in the infirmary?"
+TP
+
+GL 1 TCST0001b
+GI 1 0
+//HACK earlier doll change -GHS
+
+//友貴の顔がひきつった。
+Tomoki's face twitched.
+TP
+
+WVP 0 vmCCC0040yki007
+//友貴「ノ、ノー」
+Tomoki: "NO-, NOO (No)."
+//TL Note: "no" means "no". See CCC0041 for why it's a must. As usual, I wish I could use kana and furmintmentgana... -GHS
+TP
+
+//なんで英語やねん。
+What's up with the English.
+//This is funnier in Engl--- oh. Has a Kansai -nen. -GHS
+TP
+
+//太一「隠し事があると見た」
+Taichi: "Then what I saw is a secret."
+//WE JUST DIDN'T WANT TO TELL YOU ABOUT DEMONIC RAPTURE KEICHI -GHS
+TP
+
+GL 1 TCST0000b
+GI 1 0
+
+WVP 0 vmCCC0040yki008
+//友貴「ないと見た」
+Tomoki: "You saw nothing."
+TP
+
+//太一「……保健室、友貴、放課後、童貞……この四つのキーワードから導きだれる結論とは……」
+Taichi: "...infirmary, Tomoki, afterschool, virginity... and the conclusion that these four keywords lead to is..."
+TP
+
+//推理の時だった。
+It was time for inference.
+TP
+
+WVP 0 vmCCC0040yki009
+//友貴「いや、童貞関係ないから」
+Taichi: "No, virginity's unrelated."
+TP
+
+//太一「難問だな。こんな時はメタ推理だ」
+Taichi: "A difficult question this. When things are like that, it's time for Meta-Inference."
+TP
+GL 1 TCST0003b
+GI 1 0 
+
+WVP 0 vmCCC0040yki010
+//友貴「また変なこと言いだした」
+Tomoki: "You're blurting out weird stuff again."
+TP
+
+//>　　　　　　　　　　　　ふえん
+//太一「多世界敷衍推理！」
+Taichi: "Many Worlds Belabored Inference!"
+//It just means he's gonna ramble, really. Love that he's just tossing out MWI long before it should be applicable. Not that it matters since it's no less troll here than elsewhere. -GHS
+TP
+
+//太一「これは各要素から派生する無数の可能性の全てを並列して思考し、それら無限の選択肢の中からもっともそれっぽいものを任意に抽出する……量子コンピュータっぽい推理法だ」
+Taichi: "That is, arranging parallel all the myriad possibilities derived from each element, elucubrating on them, then extracting arbitrarily from the midst of those limitless alternatives the one most likely... a principle of inference in the style of a quantum computer!"
+//Can't believe that fit. I'd complain, but that's pretty much how I figured out the 0.108 ratio for the time loop. -GHS
+TP
+
+GL 1 TCST0005b
+GI 1 0
+WVP 0 vmCCC0040yki011
+//友貴「あてずっぽう、と言わないかな、それ」
+Tomoki: "Can't you just call that guesswork now."
+//Well, yes, but coincidence is also a good choice. -GHS
+TP
+
+//太一「そのためには思考を活性化させる糖分が必要だ。おかしください」
+Taichi: "And for that purpose, an amount of sugar for thought revitalization is required. The odd candy, please."
+//Along with I, candy in Japanese is weird; but in this case, it's pretty much adverbially so. -GHS
+TP
+
+//友貴「…………」
+Tomoki: "......"
+TP
+
+//太一「ギブミーガム、キブミーチョコレート」
+Taichi: "GIB MII GUM, GIB MII CHOCOLEETO."
+//i should transl- trey- tra-nscri-be tehn and furigana teh englis bt the nays guys at the hospital said i had to dial back teh weird so tis shldbe nderstandable? If not, I think it's a reference to this: http://www.peterpayne.net/2013/07/japanese-people-i-have-met.html -GHS
+TP
+
+GL 1 TCST0000b
+GI 1 0
+WVP 0 vmCCC0040yki013
+//友貴「……太一、いつもあめ玉とか持ってるのに……」
+Tomoki: "...but you always carry candy around, Taichi..."
+//The pedo. See CCA0030, CCC0029A, too many to count really. -GHS
+TP
+
+//太一「あれは血糖値が下がったときの緊急用」
+Taichi: "That is for emergency cases of dropping blood sugar level only."
+TP
+
+GL 1 TCST0003b
+GI 1 0
+WVP 0 vmCCC0040yki014
+//友貴「糖尿病か」
+Tomoki: "You got diabetes or something?"
+//That's a good question, actually. That'd possibly be what makes him blind. -GHS
+TP
+
+//友貴はポケットをごそごそと漁る。
+Tomoki fishes in his pocket, rustling.
+TP
+
+//今や食い物だったら友貴である。
+At present, if it's about food then it's about Tomoki.
+TP
+
+//>　　　　　　　　　　　　　　Ｔｏｍｏｋｉ　ｉｓ　ｆｏｏｄ
+//いや、もはや、友貴が、食い物なのである！
+>                                                     Tomoki ga, kuimono nano de aru!
+No... by now... Tomoki...  Tomoki is food!
+//I know what you're thinking, but I have a good explanation for this: Japan. -GHS
+TP
+//……んなバカな。
+...dumm'ass I am.
+//BTW, the joke is gone from at least the Reprint and PS2 edition. And since the 360 engine is anti-furries(tm) and prints the English right *next* to the Japanese text, the joke bombs flat right then and there. -GHS
+TP
+GL 1 TCST0000b
+GI 1 0
+WVP 0 vmCCC0040yki015
+//友貴「ほら」
+Tomoki: "Here."
+TP
+
+//本当にガムとチョコレートが出てきた。
+He seriously produced some chewing gum and chocolate.
+TP
+
+//太一「おまえ、すごいヤツだな」
+Taichi: "You're an amazing fella ain'tcha."
+//Tomoki is an American soldier, and that's why Taichi keeps saying his club is the Peacekeeping Corps -GHS
+TP
+
+GL 1 TCST0003b
+GI 1 0
+//HACK perplexed Tomoki -GHS
+
+WVP 0 vmCCC0040yki016
+//友貴「え……何が？　つうか、自分で欲しいって言ったんじゃないか」
+Tomoki: "Eh... what? Really, you said yourself you wanted them didn't you."
+TP
+
+//太一「これで俺の特殊な脳みそも安泰だ」
+Taichi: "With these, my peculiar brain matter is also at peace."
+TP
+
+WVP 0 vmCCC0040yki017
+//友貴「？？？」
+Tomoki: "???"
+TP
+
+//ガムとチョコレート。
+Chewing Gum and chocolate:
+TP
+
+//同時に口に放り込む。
+they are both simultaneously tossed into the mouth.
+TP
+
+GL 1 TCST0001b
+GI 1 0
+WVP 0 vmCCC0040yki018
+//友貴「うげっ」
+Tomoki: "Ughyack!"
+//You can say that again. *chomps on popcorn and chocolate cookies alternatively* -GHS
+TP
+
+//太一「同時に味わうとうまい」
+Taichi: "Their simultaneous flavor is delicious."
+TP
+
+GL 1 TCST0003b
+GI 1 0
+WVP 0 vmCCC0040yki019
+//友貴「そ……」
+Tomoki: "Right..."
+TP
+
+//呆れていた。
+Disgusted.
+TP
+
+//太一「推理の続きなんだけどさ」
+Taichi: "But the inference continues nonetheless."
+TP
+
+//太一「怪我でもしたのか？」
+Taichi: "Are there injuries anywhere?"
+TP
+
+GL 1 TCST0002b
+GI 1 0
+//HACK shocked Tomoki -GHS
+
+//少し驚く友貴。
+Tomoki is somewhat surprised.
+TP
+
+//すぐ皮肉げな表情に、取ってかわられる。
+It is immediately replaced by a face that feels sarcastic.
+TP
+
+GL 1 TCST0004b
+GI 1 0
+WVP 0 vmCCC0040yki020
+//友貴「そう……怪我、したんだ」
+Tomoki: "Yeah... injury, there's that."
+//Of course it's referring to Misato... or is it? She got injured in her flight; see CCD1001 - Tomoki also got injured by helping her avoid a similar injury. -GHS
+TP
+
+WVP 0 vmCCC0040yki021
+//友貴「……いい気味だよ」
+Tomoki: "...serves 'er right."
+TP
+
+//太一「はい？」
+Taichi: "What?"
+TP
+
+WVP 0 vmCCC0040yki022
+//友貴「……なんでもないから。じゃあね」
+Tomoki: "...'s nothing. See ya."
+TP
+GO 1 1
+//去っていく。
+He leaves.
+TP
+
+//太一「ふーむ」
+Taichi: "Uh-huh."
+TP
+
+//ガムごと、チョコを嚥下する。
+I swallow the chewing gum together with the chocolate.
+TP
+
+//俺はガム食う属性の人だ。
+I'm a person with the Swallows Chewing Gum Character Attribute.
+//creep -GHS
+TP
+
+//太一「……怪我というより、心の病気の方だったか」
+Taichi: "...perhaps, rather than injury, I should have called it a disease of the heart."
+TP
+
+WVS 1 1
+
+
+
+RET

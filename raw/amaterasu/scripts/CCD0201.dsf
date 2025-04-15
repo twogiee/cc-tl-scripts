@@ -1,0 +1,127 @@
+//I believe this is what happens if you get the bad end on any subroute. Å`IX
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 1
+
+
+Time flowed on leisurely.
+TP
+
+
+I spent the remaining time I had left reading books.
+TP
+
+
+I recently realized that I could read things that I couldn't understand before.
+//Deleted "'d", redundancy since realiz-ed establishes past tense -Neko
+TP
+
+
+From now on I'll waste a lot of time and obtain tiny things.
+TP
+
+
+I just added a week to my repayment time.
+//Has to be better word for debt -Neko
+TP
+
+
+I turned the pages.
+TP
+
+
+While inputting the rows of text into my brain, I simply wasted time.
+TP
+
+
+The ÅwconquestÅx was a failure.
+TP
+
+
+Therefore, there was a need to do it over.
+TP
+
+
+The convenient reset only occurs on the weekend.
+TP
+
+
+Passing these days will be a rehearsal for living in my eventual paradise.
+TP
+
+
+I have to instill time-consuming living habits.
+TP
+
+
+I looked out the window.
+TP
+
+
+Though no cicadas cry in this world, there's someone out there somewhere.
+TP
+
+
+I can't feel them, but that's the truth.
+TP
+
+
+Someone is out there somewhere.
+TP
+
+
+That's a blessing.
+TP
+
+
+My heart, healthily and warmly, tightened up just a little bit.
+TP
+
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 109 1
+
+And then---
+TP
+
+
+
+
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 2
+
+
+WT 1500
+WT 1500 1
+
+
+
+
+
+
+$B = 1
+IF $SB_FALSE < 151 JMP L_INC
+JMP L_DODGE
+
+
+
+:L_INC
+
+$SB_FALSE + 1
+
+:L_DODGE
+IF $SB_FALSE > 149 $B = 2
+
+
+
+
+
+
+
+RET

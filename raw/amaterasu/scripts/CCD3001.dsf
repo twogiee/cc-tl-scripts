@@ -1,0 +1,47 @@
+
+
+
+
+
+
+GL 0 bgcc0006
+GS 0 1
+GS 1 0
+SEF 152 0
+
+The fourth floor. The first year classroom.
+TP
+
+
+Kiri was there.
+TP
+
+
+
+GL 0 evcc0027
+$CGevcc0027 = 1
+GS 0 1
+SEF 109 0
+
+A delicate girl.
+TP
+
+
+So that she won't break, so that she can't break...
+TP
+
+
+......at least, let me have the memories.
+TP
+
+
+
+
+CSQ 0 1 1
+  -Draw near to her
+  -Call out to her
+//CP ccc0011b
+
+
+
+RET

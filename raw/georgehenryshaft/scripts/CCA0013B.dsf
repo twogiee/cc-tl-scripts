@@ -1,0 +1,223 @@
+
+
+
+
+
+
+GL 0 bgcc0006
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+SEF 152 1
+WT 500 1
+
+GL 0 evcc0011
+$CGevcc0011 = 1
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 1
+//Tuesday September 8, 1998 -GHS
+
+
+//冬子がいた。
+Touko was here.
+TP
+
+WVP 1 bgm013.ogg 0 0 0
+
+
+//というか、いっつも一等賞じゃないか、こいつ。
+Or should I say, alllways shooting for first place, ain't she.
+TP
+
+
+
+//太一「おはよ」
+Taichi: "'morning."
+TP
+
+
+
+
+WVP 0 vfcca0013fyu000
+//冬子「……（ぷいり）」
+Touko: "...(pfuiri)"
+TP
+
+
+
+//シカト？
+Ostracism?
+TP
+
+
+
+//シカトですか。
+Is this ostracism I see?
+TP
+
+
+
+//太一「パンツ……」
+Taichi: "Wear..."
+TP
+
+
+
+WVP 0 vfcca0013fyu001
+//冬子「くどい」
+Touko: "Be succint."
+//Re: that monster above. -GHS
+TP
+
+
+
+//太一「パンツ買ってくんない？」
+Taichi: "Please buy what I wear?"
+//See CCA0006 -GHS
+TP
+WVP 2 se006 1 0
+//SEF 101 0
+
+GL 0 bgcc0006
+GL 1 TCKT0003
+GP 1 230 0
+GS 0 1
+GS 1 1
+SEF 109 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+
+WVP 0 vfcca0013fyu002
+//冬子「どーして私があなたのパンツを買わないといけないのっ！」
+Touko: "Whyyy would I ever need to buy what you wear?!"
+//Overreaction, he asks 'please', she uses a stronger 'ought' -GHS
+TP
+
+
+
+//机をどついて立ちあがる冬子。
+Touko stands, slamming fists on the desk.
+TP
+
+
+
+//太一「朝からホットだね」
+Taichi: "All hott' from morning ain'tcha."
+TP
+
+
+
+//親指を立てる。
+I give her a thumbs up.
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfcca0013fyu003
+//冬子「……」
+Touko: "..."
+TP
+
+
+
+//冬子は親指をぐっとつかんで、ごきっと横に折った。
+Youko grabs my thumb tightly, and harshly twists it along with my wrist.
+//"goki~!" is http://www.aadayo.com/aa/asciiart5115.html, harsh movement to the side. -GHS
+TP
+
+
+
+//太一「ぎえええええええっ！！」
+Taichi: "GhyEEEEEEEH!!!"
+//えx7 -GHS
+TP
+
+
+
+//太一「あほーっ、折れたらどうするのだーっ！　自慰もままならないではないかーっ！」
+Taichi: "Morooon, what if you'd broken iiit! I would never manage to console myself agaaain!"
+//"Console myself" means masturbation, word and all but the euphemism works better in every instance (no really), so it's a running gag somehow. -GHS
+TP
+
+
+
+//危うく手首を返したからよかったものの。
+Very fortunately, she only barely managed to twist my wrist.
+//Should make sense, she IS getting weaker. -GHS
+TP
+
+
+
+GL 1 TCKT0002
+GI 1 0
+WVP 0 vfcca0013fyu004
+//冬子「話しかけないで」
+Touko: "Stay back and do not talk to me."
+//Don't talk to me + don't approach me. It's thematically important so I'll keep it at least around here, see CCD2002 for the most obvious explanations. -GHS
+TP
+
+
+
+//太一「昨日のテレビ見たぁ？」
+Taichi: "Did you watch TV last night?"
+//See CCZAS -GHS
+TP
+
+
+
+GL 1 TCKT0003
+GI 1 0
+WVP 0 vfcca0013fyu005
+//冬子「話しかけないで！」
+Touko: "Stay back and do not talk to me!"
+//PCP above
+//No denial of the existence of TV. Well, how damn convenient. -GHS
+TP
+
+
+
+//太一「……むぅ」
+Taichi: "...mngh."
+TP
+
+
+
+//話しかけないでと辛口に言われると、話しかけたくなる。
+When I'm told in harsh tones not to approach or talk, I end up wanting to get close and talk.
+//Frickin' contrarian. Remember that Touko subsists on a diet of bitterbugs. -GHS
+TP
+
+
+
+//話しかけると、また、話しかけないでと辛口に言われる。
+I get close and talk to her, but once more she harshly tells me to stay away and not to talk to her.
+//Mirrors strongly above. -GHS
+TP
+
+
+CSQ 0 1 1
+//　・話しかける
+//　・部活に行く
+- Get close and talk to her
+- Go to club activities
+
+
+
+
+
+
+
+RET

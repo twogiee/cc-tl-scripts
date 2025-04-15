@@ -1,0 +1,134 @@
+
+
+//太一「降伏します」
+Taichi: "I capitulate."
+TP
+
+WVS 1 0
+
+WVP 0 vfCCD0001kri022
+//霧「動かないで下さい。撃ちますよ……って、え？」
+Kiri: "Please do not move. I will shoot... wait, eh?"
+TP
+
+
+//太一「降参です」
+Taichi: "I surrender."
+TP
+
+
+//壁に手をついて足を開けと言われる前に壁に手をついて足を開いた。
+I put my hands on the wall and spread my legs before I was told to put my hands on the wall and spread my legs.
+//He lost the chance to do it in a putmyhandsonthewallandspreadmyleggishly way. -GHS
+TP
+
+
+//降伏の姿勢だ。
+The posture of surrender.
+TP
+
+
+WVP 0 vfCCD0001mki030
+//美希「よわぁ……」
+Miki: "Weeeak..."
+//See CCD0006, heh. -GHS
+TP
+
+WVP 1 bgm010.ogg 0 0 0
+
+WVP 0 vfCCD0001kri023
+//霧「……どうしよう、美希？」
+Kiri: "...what do we do, Miki?"
+TP
+
+
+WVP 0 vfCCD0001mki031
+//美希「えっと……どうしようって言われても……可哀相だよ」
+Miki: "Uhmmm... what do we do you ask... but he's so pitiful!"
+TP
+
+
+WVP 0 vfCCD0001kri024
+//霧「全然可哀相じゃないよ、こんな人」
+Kiri: "This guy here isn't pitiful, not at all."
+TP
+
+
+WVP 0 vfCCD0001mki032
+//美希「だって、霧ちん武器もって一方的すぎるよ。人に向けたらよくない……」
+Miki: "But Kiri-chin, arming yourself when he didn't is just going too far! Pointing that at people isn't nice..."
+//As with CCC3010, Miki may be lying, though it doesn't seem so; it does really seem that it was Kiri that moved towards this secession business first. Of course, Miki could've been pushing her against Taichi even earlier since she was growing in her role as the Villain in the Settei. -GHS
+TP
+
+
+WVP 0 vfCCD0001kri025
+//霧「……だって」
+Kiri: "...but."
+TP
+
+
+WVP 0 vfCCD0001mki033
+//美希「やめよ、ね？」
+Miki: "Let's stop, OK?"
+TP
+
+
+WVP 0 vfCCD0001kri026
+//霧「……わかった」
+Kiri: "...I get it."
+TP
+
+
+//不承不承ではあったが。
+Albeit grudgingly and reluctantly.
+TP
+
+
+//太一「手おろしていい？」
+Taichi: "Can I lower my hands?"
+TP
+
+
+WVP 0 vfCCD0001kri027
+//霧「……どうぞ」
+Kiri: "...go on."
+TP
+
+
+//太一「ふー、助かった、美希」
+Taichi: "Wheeew, you saved me, Miki."
+TP
+
+
+WVP 0 vfCCD0001mki034
+//美希「あ、いえ」
+Miki: "Ah, it's nothing."
+TP
+
+
+//ええ子だ。
+Nyce gal she.
+//Yntentyonal. -GHS
+TP
+
+
+//さて、どっちかをうまくアレしないとな。
+So then, shouldn't I just do a deliciously ambiguous "That" to one of these two.
+//Sometimes you just gotta tell Japanese what to do with itself. -GHS
+TP
+
+
+
+
+
+
+
+CSQ 0 1 1
+//　・霧
+//　・美希
+ - Kiri
+ - Miki
+
+
+
+RET

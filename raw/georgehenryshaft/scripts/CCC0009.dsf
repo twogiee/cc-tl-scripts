@@ -1,0 +1,547 @@
+
+GL 0 bgcc0014
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+//……寄っていくか。
+...should I drop by, then?
+TP
+//太一「む」
+Taichi: "Mngh."
+TP
+
+//殺気。
+Thirst for blood.
+TP
+
+//店の入り口に張りつく。
+It clings to the entrance of the store.
+TP
+
+//中をうかがう。
+I peep inside.
+TP
+
+//敵か味方か。
+Friend or foe?
+TP
+
+//太一「……やま？」
+Taichi: "...yama?" (mountain)
+TP
+
+WVP 0 vfCCC0009mki000
+//美希「……かわ」
+Miki: "...kawa." (river)
+//YAMAnobe shinKAWA. These terms are obviously unimportant. -GHSarcasmBeatsBoredomIfNotMuch
+TP
+
+WVP 0 vfCCC0009mki001
+//美希「天上天下？」
+Miki: "Throughout Heaven and Earth?"
+TP
+
+//太一「ワキガ独走」
+Taichi: "Body odor stands alone."
+//Doesn't seem to be a reference, just a twist on a relatively common phrase. Most common seems to be 天上天下唯我独尊, roughly translatable as "I alone am sacred throughout the Heavens and Earth", which certainly applies to Miki (or at least, it should). -GHS
+TP
+
+WVP 0 vfCCC0009mki002
+//美希「……どうぞ」
+Miki: "...come in."
+TP
+
+//店の中に入る。
+I enter inside the shop.
+TP
+
+WVP 1 bgm016.ogg 0 0 0
+
+GL 1 TCYM0001
+GP 1 180 0
+GI 1 1
+
+
+
+//太一「美希か……誰かと思ったぞ」
+Taichi: "Miki then... who did you think it was."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+
+WVP 0 vfCCC0009mki003
+//美希「おはようございます、先輩」
+Miki: "Good morning, Senpai."
+TP
+
+
+
+//太一「殺気などを出しているから」
+Taichi: "Because, you've been emitting what seems like thirst for blood."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfCCC0009mki004
+//美希「閉鎖空間でなにかあると逃げ場なくてイヤじゃないですか」
+Miki: "If there's something in a sealed space, isn't it bad not to have a place to escape to?"
+//Not just the shop, but also Kamisaka... and possibly the parallel world (for trollZ). Then again, her hiding place may be Taichi's chuuni. By the way, since she robs Tasaki and writes down vegetable juice, it's extremely appropriate she'd meet Taichi here. She's about to steal his chuuni and write down 'parallel universe'. But it'll be the way to save him, in a sense. -GHS
+TP
+
+
+
+//太一「もっともだ」
+Taichi: "Extremely so."
+TP
+
+
+
+//古い記憶に思いを馳せる。
+My thoughts run to old memories.
+//So what was his hiding place in the Hasekura mansion? Youko seems a definite possibility, regardless of her existence. -GHS
+TP
+
+
+
+//太一「制服着てるってことは、学校に行くつもりなのかな？」
+Taichi: "You're wearing the uniform, you wanna go to school then?"
+TP
+
+
+WVP 0 vfCCC0009mki005
+//美希「そーです。他にすることないですし」
+Miki: "Indeed. There's nothing else to do after all."
+TP
+
+
+
+//太一「同じか」
+Taichi: "You too?"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+
+WVP 0 vfCCC0009mki006
+//美希「ですねー」
+Miki: "Seems so."
+TP
+
+
+
+//無邪気だった。
+What simple-minded innocence we had.
+TP
+
+
+
+//太一「俺にも飲み物を」
+Taichi: "A drink for me, too."
+TP
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfCCC0009mki007
+//美希「これなど」
+Miki: "Something like this!"
+TP
+
+
+
+//太一「相変わらずのレアリティの高いドリンクチョイス、ありがとう」
+Taichi: "As always a Drink Choice of high rarity, thank you."
+//Wanted pun (raritea), but it's not tea. :-( -GHS
+TP
+
+
+
+//知る人ぞ知るネー○ンだった。
+Those in the know know it well, it was Nee**n.
+//See CCC3003. Annoyingly, it's a different censoring. -GHS
+TP
+
+
+
+//飲み干す！　一気にだ！
+Chug it! One gulp!
+//Not an actual slogan for Neepon (or anything) that I can find. -GHS
+TP
+GL 1 TCYM0003
+GI 1 0
+
+
+WVP 0 vfCCC0009mki008
+//美希「賞味期限とか見ない方がいいです」
+Miki: "Best drunk before looking at the expiration date."
+//The joke seems to be, given CCC3003, that the guy doesn't procure Showa Era beverages, i.e. beverages that got famous during Showa; he procures beverages that were literally produced during Showa. -GHS
+TP
+
+
+
+//太一「ゲハァっ！」
+Taichi: "G'blagh!"
+TP
+
+
+
+//気管に入った。
+It had entered the trachea.
+//I have it that humans die when that happens, but I demand scientific evidence and the license to experimentally review it. Many many times. -GHS
+TP
+
+
+
+//太一「げほっ、がほっ！」
+Taichi: "G'khoff, g'khaff!"
+//Do note that he's spitting it out in response to her line, he never says the drink tastes obviously spoiled... maybe she just got a minor vendetta against the Tasaki store owner and his damnable Christianity. -GHS
+TP
+GL 1 TCYM0011
+GI 1 0
+
+
+WVP 0 vfCCC0009mki009
+//美希「スマッシュヒット」
+Miki: "Smash hit!"
+TP
+
+
+
+//ポージング。
+And posing.
+//Unsure of the reference if any. -GHS
+TP
+
+
+
+//太一「……人をはめるな！」
+Taichi: "...don't read-icule people!"
+//Seems to mean "to outsmart". Read (anticipate) + ridicule seems to work. -GHS
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+
+WVP 0 vfCCC0009mki010
+//美希「すいませーん」
+Miki: "Sorryyy."
+TP
+
+
+
+//にへらっとふやける。
+She drenches herself with a flippant smirk.
+//Seems to be ニヤニヤ+ヘラヘラ http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1243010082 -GHS
+TP
+
+
+
+//太一「ケッ、このおぼこがっ」
+Taichi: "Tch, this oboko here!"
+//See CCA0003. Curiously, I'm seeing ケッ as 'autograph collection'... but I can't really source it. -GHS
+TP
+
+
+
+//吐き捨てる。
+I spat her way.
+//See CCA0007 et al. Been a while. -GHS
+TP
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfCCC0009mki011
+//美希「二十歳までには捨てようと思います」
+Miki: "I think I'll want to discard that before I turn twenty."
+//Implying she's been through less than 261 loops. 108 looks nice, in fact: she'd be just around legal. The loli is older than the rest of the cast, and there's your superficial antithesis.　Also, she knows what an oboko is, unlike Nanaka. -GHS
+TP
+
+
+
+//太一「そもそも二十歳になるな」
+Taichi: "Don't become twenty years old in the first place!"
+TP
+
+GL 1 TCYM0004
+GI 1 0
+
+
+WVP 0 vfCCC0009mki012
+//美希「え？」
+Miki: "Eh?"
+TP
+
+
+
+//太一「永遠の今でいろ」
+Taichi: "Live like now for all eternity."
+//SOMEONE has a Peter Pan syndrome. -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfCCC0009mki013
+//美希「……できそうな気もしますが無理です」
+Miki: "...I feel like I could, but that's impossible."
+//Translator's note that explains this. -GHSoMetaWoooh
+TP
+
+
+
+//だろうな。
+Isn't it now.
+TP
+
+
+
+//いやそれよりも。
+No, wait, more importantly,
+TP
+
+
+
+//太一「で、誰にあげるの？」
+Taichi: "So, who're you giving it to?"
+TP
+
+GL 1 TCYM0021
+GI 1 0
+
+
+WVP 0 vfCCC0009mki014
+//美希「……え？　うーん……ファルコン加藤」
+Miki: "...eh? Hummm... Falcon Katou."
+//http://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E9%B7%B9 -GHS
+TP
+
+
+
+//太一「テクニック重視かよ！」
+Taichi: "So much emphasis on the technique!"
+TP
+
+
+
+//嘆いた。
+I sighed.
+TP
+
+
+
+//日本有数のテクニシャンじゃねぇか。
+Ain't he Japan's foremost Technician now.
+TP
+
+
+
+//……勝てない。
+...I'd never beat him.
+TP
+
+
+
+//太一「ファルコンには及ばないが、俺も技術には自身がある」
+Taichi: "I may not be at the levels of Falcon, but I have quite confidence in my techniques, indeed."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+
+
+WVP 0 vfCCC0009mki015
+//美希「先輩の技術はセクハラばかりで、本番で役に立つのかたいへん不安な面もございますので、申し訳ありませんがお断りだ」
+Miki: "Senpai, your techniques are exclusively for sexual harassment, so whether they are of use in principal photography is an aspect I am significantly uncertain about, and therefore, my deepest and most sincere apologies, but it ain't happening."
+//Running gag works even here as Miki likes to take pictures. -GHS
+TP
+
+
+
+//語尾がタメ口になるほどのますらおぶり。
+She's so warrior-like when she ends all that on something that casual.
+//Original sentence sounds hyperformal but ends on an informal verb conjugation, which by rules of the language means the entire sentence is paradoxically informal. -GHS
+TP
+
+
+
+//その断りっぷりに、俺の心はブロークンがちだ。
+That style of rejection just makes my heart more and more Broken.
+TP
+
+
+
+//太一「ちっ、そんなこと言って、本当は霧ちんに捧げようとしてるんじゃないか？　この淫乱処女が」
+Taichi: "Tch, you say all that, but the truth is that you will offer it to Kiri-chin, won't you? You debauched virgin...!"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfCCC0009mki016
+//美希「むしろ霧ちんの処女を奪います」
+Miki: "More like I'll be snatching Kiri-chin's virginity away."
+//This is endfully amusing. -GHS
+TP
+
+
+
+//太一「あっ、ソレ参加したいっ」
+Taichi: "Awww, I wanna join in to that!"
+//See CCA0015. And remember that Miki's seen that. -GHS
+TP
+
+
+
+//欲望が多重化している俺の、ミーハー度は８２％と高めだ。
+The desires that are multiplexing in me raise my Fad Chaser levels to 82%.
+//Vs. want. 3181 in kanji: 三一八一. -GHS
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+
+WVP 0 vfCCC0009mki017
+//美希「そんなわけで一緒に通学しましょー」
+Miki: "And with that, let's go to school togetheeer!"
+TP
+
+
+
+//太一「うん、行こう」
+Taichi: "Yeah, let's go."
+TP
+
+GL 0 bgcc0005
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+//手を繋いで二人で学校に。
+The two of us go to school with linked hands.
+TP
+
+
+
+//太一「あおぞらのしたで～♪」
+Taichi: "Oh, under this blue sky～♪"
+TP
+
+GL 1 TCYM0003
+GI 1 1
+
+
+WVP 0 vfCCC0009mki018
+//美希「なかよくふたり～♪」
+Miki: "How well together we go～♪"
+//Sooo wanna change this with lyrics from the Family Project theme song... some other time. -GHS
+TP
+
+
+
+//のんきにデュエットしながら、のんびり登校した。
+A carefree duet while we leisurely went to school.
+TP
+
+GL 1 TCYM0002
+GI 1 0
+//HACK sad Miki. Uh-oh... -GHS
+WVP 0 vfCCC0009mki019
+//美希「…………」
+Miki: "......"
+TP
+
+
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+GL 1 TCYM0021
+GI 1 1
+
+WVP 0 vfCCC0009mki020
+//美希「あ、いけね。霧ちーの飲み物忘れました」
+Miki: "Ah, silly me. I totally forgot about Kirichy's drink."
+//Lit. "Kirichii". -GHS
+TP
+
+
+
+//学校にまで到着して、そんなことを言う。
+We had come all the way to school when she said that.
+TP
+
+
+
+//太一「愚か者め。修行が足りぬ」
+Taichi: "Damnable fool. Your discipline is inadequate!"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfCCC0009mki021
+//美希「戻ります」
+Miki: "Going back."
+TP
+
+
+
+//太一「好きなだけ坂をのぼりおりするんだよ」
+Taichi: "Go up and down those slopes as much as you like!"
+//Assuming sexual undertones. It's what I always do anyway. -GHS
+TP
+
+
+WVP 0 vfCCC0009mki022
+//美希「へーい」
+Miki: "Heeey!"
+TP
+
+GO 1 1
+//HACK doll out here -GHS
+
+//軽快に駆けていく。
+A nimble gallop.
+TP
+
+
+
+//うい奴。
+Gay gal.
+//Old meaning. -GHS
+TP
+
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+WVS 1 1
+
+
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+SEF 152 0
+WT 500 1
+//HACK wait for a short while, or the change is too sudden. -GHS
+
+RET
+//...I can't believe I held back laughing until now. Snooort "old meaning". -GHS

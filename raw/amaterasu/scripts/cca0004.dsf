@@ -1,0 +1,840 @@
+
+
+WVP 2 SE004 0 0
+WT 2000 1
+
+
+
+Taichi: "It's morning......?"
+TP
+GL 0 bgcc0003
+GS 0 1
+SEF 109 1
+
+
+
+I lifted my body.
+TP
+
+
+
+This was my unchanging room.
+TP
+
+
+WVS 2 0
+WVP 2 SE019 1 0
+I switched off the irritating alarm clock. 
+TP
+
+
+
+Taichi: *yawn*......
+TP
+
+
+
+Summer break starts at the beginning of the ninth month.
+TP
+
+
+
+The heat of summer permeated the room.
+TP
+
+
+
+I wriggled my body into fresh clothes, and my hand through the strap on my book bag.
+TP
+
+
+WVP 1 bgm002.ogg 0 0 0
+GL 0 bgcc0004
+GS 0 1
+SEF 152 0
+There was a sandwich wrapped in plastic left on the dining table.
+TP
+
+
+An egg, vegetable and potato sandwich.
+TP
+
+
+I shall take it with gratitude. 
+TP
+
+
+Taichi: *munch*
+TP
+
+
+Truly tasty.
+TP
+
+
+To me, without any basic life skills, this gift was a blessing.
+TP
+
+
+Now I wouldn't have to assault the convenience store on the way to school.
+TP
+
+
+Taichi: "Thank you for all the delicious meals." 
+TP
+
+
+I pointed my hands east and bowed my head.
+TP
+
+
+Now, to school.
+TP
+
+
+
+GL 0 bgcc0005
+GS 0 1
+SEF 153 0
+
+
+
+Today looks like it'll be another hot day.
+TP
+
+
+
+Upper Misaka Town had many hills, as the name implies.
+IF $tlnote != 0 (TL note: The kanji for "Misaka" mean "see" and "hill.")
+TP
+
+
+
+There were a number of slanted surfaces one had to make their way through in order to reach the school. 
+TP
+
+
+
+Just to make it there included rising, and falling, and rising, and falling again.
+TP
+
+
+
+It made me think of the vicissitudes of life, while making my soul and my feet feel quite unnerved. 
+TP
+
+
+
+Taichi: "Heavy."
+TP
+
+
+
+Even though I was used to it, I felt heavy.
+TP
+
+
+
+Although, walking is still good.
+TP
+
+
+
+Climbing these hills on a bicycle would be much worse.
+TP
+
+
+
+Bikes are intended for use on flat ground.
+TP
+
+
+
+On a bike, the climbs get even harsher than they are on foot, but the descents are supreme bliss.
+TP
+
+
+
+It gave me the feeling that only times of distress could continue on forever.
+TP
+GL 0 bgcc0014
+GS 0 1
+SEF 152 0
+
+
+At the hill's summit, I arrived at the intersection which connected to the shopping district.
+TP
+
+
+
+Yamanobe Miki, one of the two "Flowers," lived in a housing complex not far in that direction.
+TP
+
+GL 1 efcc0000
+GL 2 TBYM0000
+GP 1 0 0
+GP 2 0 0
+GS 1 1
+GS 2 1
+GS 3 0
+SEF 10 0
+
+Miki was my kouhai by one year.
+IF $tlnote == 2 (TL note: Kouhai is the opposite of sempai; it means "junior" or "underclassman.")
+IF $tlnote == 1 (TL note: "Kouhai" is how you address your "junior" or "underclassman" in Japanese.)
+TP
+
+
+
+Her hairstyle made her look like a witch from some world-famous fantasy series.
+TP
+
+
+
+Her looks were, well, a lot like that.
+TP
+
+
+
+She can't use real magic, but she could be called a magician of words.
+TP
+
+
+
+Once she starts talking, she won't stop, and even before she's about to start talking, it's hard to stop her.
+TP
+
+
+Despite being a young girl, she has a rich vocabulary, and I never get sick of talking to her.
+TP
+GL 3 TBSK0000
+GP 3 340 0
+GS 1 1
+GS 2 0
+GS 3 1
+SEF 10 0
+
+Miki often hung out with another first year student: Sakura Kiri.
+TP
+
+
+
+Opposite to Miki's long wavy hair was Kiri's short androgynous hair.
+TP
+GL 2 TCYM0000x
+GL 3 TCSK0000x
+GP 2 296 0
+GP 3 144 0
+GS 1 1
+GS 2 1
+GS 3 1
+SEF 10 0
+
+Together they could brighten a place up like a field of flowers.
+TP
+
+
+So they were called The Flowers.
+TP
+
+
+
+A mascot-like existence in our club.
+TP
+
+
+Besides, Miki loved mini skirts. She always wore one.
+TP
+
+
+
+She's also seriously cute. And she can play off of my jokes.
+TP
+
+
+
+
+Setting aside the fact that I also love mini skirts, there's no reason for me not to like her.
+TP
+
+
+
+I'm holding her to the promise that she will give me her uniform after she graduates.
+TP
+
+
+
+Although in exchange for that, the suggestion that I'd give her my second button was courteously rejected.
+IF $tlnote != 0 (TL note: It's customary to give the second button of your uniform to the girl you like when graduating.)
+TP
+GL 0 bgcc0014
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+SEF 10 0
+
+
+
+Taichi: "Heya."
+TP
+
+
+
+I entered the store on the edge of the shopping district.
+TP
+
+
+
+
+『Tasaki Groceries』
+TP
+
+
+
+
+Taichi: "Hellooooo."
+TP
+
+
+
+
+I spoke toward the back of the store.
+TP
+
+
+
+
+No answer.
+TP
+
+
+
+
+Taichi: "......guess they're out."
+TP
+
+
+
+Tasaki Groceries has been left empty for a while now.
+TP
+
+
+
+The owner, Mr. Tasaki Goichirou (age 47, single) is an unparalleled railway maniac. 
+TP
+
+
+
+He often drifted out of the store to go take pictures at some far-off railway line. 
+TP
+
+
+
+As a result, during that time, the store was left open.
+TP
+
+
+
+An uninhabited shop.
+TP
+
+
+
+He's a profligate to the core.
+TP
+
+
+
+He happens to have a face so evil it was said he killed crying kids in his thirties, but after his parents' deaths, his facial features became richer. 
+TP
+
+
+
+Could it be said that something other than his inheritance changed that fundamentally wild, coarse railway nerd into a decent person? 
+TP
+
+
+
+Anyway, that lucky man's business remains one of the few local stores for the neighboring residents.
+TP
+
+
+
+I picked up the notepad and scribbled on it as I walked.
+TP
+
+
+
+
+『9／7, Green Tea King, 130￥......Kurosu Taichi』
+TP
+
+
+
+
+With the tape that had been left out, I stuck that note to the wall.
+TP
+
+
+
+I saw that several other memos had already been put up.
+TP
+
+
+
+Taichi: "Ah, Miki...she already left."
+TP
+
+
+
+
+『9／3, Vegetable Juice Healthy Gogo, 110￥......Yamanobe Miki』
+TP
+
+
+
+『9／3, Magnum Litchi, 110￥......Sakuraba Hiroshi』
+TP
+
+
+
+『9／4, Natural Bottled Pet Water, 140￥......Miyasumi Misato』
+TP
+
+
+
+『9／5, Vegetable Juice Healthy Gogo, 110￥......Yamanobe Miki』
+TP
+
+
+
+『9／5, Great King Doria, 110￥......Sakuraba Hiroshi』  『It wasn't that great.』
+IF $tlnote != 0 (TL note: Doria is something like a seafood and rice casserole.)
+TP
+
+
+
+『9／6, Vegetable Juice Healthy Gogo, 110￥......Yamanobe Miki』
+TP
+
+
+
+『9／6, Pepper Captain, 110￥......Sakura Kiri』
+TP
+
+
+
+『9／7, Vegetable Juice Healthy Gogo, 110￥......Yamanobe Miki』
+TP
+
+
+
+
+Miki, you're stretching your credit.
+TP
+
+
+
+This'll be bad when the time comes for accounting.
+TP
+
+
+
+And Sakuraba, we don't need your opinion.
+TP
+
+
+
+Taichi: "Mm?"
+TP
+
+
+
+Underneath Sakuraba's idiocy there was another memo.
+TP
+
+
+
+Someone hid theirs?
+TP
+
+
+
+It caught my interest, so I tore off the top note.
+TP
+
+
+
+
+『9／6, Natural Bottled Pet Water x 3, 420￥......Kirihara』
+TP
+
+
+
+
+What's this now?
+TP
+
+
+
+Ojou-sama's greedy enough to buy three at once!
+IF $tlnote == 1 (TL note: Ojou is a neutral way to address a young girl, especially a rich or well-mannered one.)
+TP
+
+
+
+She's rich, yet this embarrassed her, ahh, how lonely... 
+TP
+
+
+
+I restuck her note in the most obvious spot.
+TP
+
+
+
+Perfectly flat.
+TP
+
+
+
+Taichi: "That should do it."
+TP
+
+
+
+I went to the back of the store and took out a bottle of green tea.
+TP
+
+
+
+Taichi: "And, put that on credit." 
+TP
+
+
+
+I left the store.
+TP
+
+
+
+As the green tea flowed down my throat, I headed for school.
+TP
+WVS 1 1
+
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 1
+
+
+
+Taichi: "What's this?"
+TP
+WVP 1 bgm013.ogg 0 0 0
+
+
+
+Someone was already in the classroom.
+TP
+
+
+
+A window seat.
+TP
+
+
+
+The girl was resting her chin on her hand. She gave me a single glance.
+TP
+
+GL 1 evcc0011
+$CGevcc0011 = 1
+GP 1 0 0
+GS 1 1
+SEF 109 0
+
+
+WVP 0 vfcca0004fyu000
+Touko: "......"
+TP
+
+
+
+With no words, her line of sight moved back outside.
+TP
+
+
+
+Taichi: "You got here fast."
+TP
+
+
+
+WVP 0 vfcca0004fyu001
+Touko: "......"
+TP
+
+
+
+Taichi: "And yet you're in casual wear again?"
+TP
+
+
+
+
+
+
+
+
+
+Taichi: "I'm impressed you can wear something so warm."
+TP
+
+
+
+WVP 0 vfcca0004fyu002
+Touko: "......"
+TP
+
+
+
+Ignore.
+TP
+
+
+
+Taichi: "Hey, hey."
+TP
+
+
+I shrugged my shoulders and sat down in my seat......right next to Touko's.
+TP
+
+
+
+Just like a hedgehog.
+IF $tlnote != 0 (TL note: This may be a reference to the Hedgehog's Dilemma, which states that "human intimacy cannot occur without mutual harm.")
+TP
+
+
+
+Recently, I'd been sharpening my quills.
+TP
+
+
+
+But I've done the same for everyone else, so it's nothing to worry about.
+TP
+
+
+
+The quills she has for me, though...... might have a bit of poison on them.
+TP
+
+
+
+Maybe it's just me.
+TP
+
+
+
+I might just be overly self-conscious.
+TP
+WVS 1 0
+
+
+
+But,
+TP
+
+
+WVP 2 se101 1 0
+But...
+TP
+
+GL 2 efcc0011z
+GP 2 0 0
+GI 2 0
+GS 2 0
+SEF 109 0
+
+Just by thinking that,
+TP
+
+
+
+I had a spasm.
+TP
+WVS 2 0
+
+
+
+Taichi: "No, I can't let that happen."
+TP
+
+
+
+The blessed spasm was small, and there was no danger of it blowing away my rationality.
+TP
+
+
+
+In exchange for the discomfort of holding down my rising stomach acid, I pushed that spasm's head into the abyss.
+TP
+
+
+
+Its grotesque tongue cut into the Earth's surface. 
+TP
+
+
+WVP 1 bgm013.ogg 0 0 0
+
+Taichi: "Hey."
+TP
+
+
+WVP 0 vfcca0004fyu003
+Touko: "......what?"
+TP
+
+
+
+Touko sounded thoroughly fed up.
+TP
+
+
+
+Taichi: "The bottom of your dress has a tear. I can see your panties."
+TP
+
+
+WVP 2 se006 1 0
+
+GL 0 bgcc0006
+GL 1 TCKT0004
+GP 1 230 0
+GS 0 1
+GS 1 1
+SEF 109 0
+
+WVP 0 vfcca0004fyu004
+Touko: "............!! ............!!"
+TP
+
+
+
+She hurriedly stood up and grabbed her butt with both hands.
+TP
+
+
+
+Taichi: "Why're you standing up?"
+TP
+
+GL 1 TCKT0011
+GI 1 0
+
+WVP 2 se005 1 0
+*smack!!*
+SEF 101 0
+TP
+
+
+Taichi: "gufu!"
+TP
+
+
+
+An unexpected palm slap.
+TP
+
+
+GS 1 0
+SEF 109 0
+
+Slipdown.
+TP
+WVP 2 se038 1 0
+SEF 101 0
+
+
+I fell over spectacularly.
+TP
+
+
+
+Taichi: "Owwwww."
+TP
+GL 0 evcc0011
+$CGevcc0011 = 1
+GS 1 0
+GS 0 1
+SEF 109 0
+
+
+Touko had already sat back down in the same posture as before.
+TP
+
+
+
+Taichi: "It was just a joke."
+TP
+
+
+WVP 0 vfcca0004fyu005
+Touko: "......"
+TP
+
+
+
+She seems unwilling to interact with me.
+TP
+
+
+
+With clear exclusivity.
+TP
+
+
+
+But her armor had a lot of chinks.
+TP
+
+
+
+Dropping my book bag on my desk, I gazed around the mostly empty classroom.
+TP
+
+
+
+There's still time before class commences. 
+TP
+
+
+
+What should I do?
+TP
+
+
+
+
+
+
+CSQ 0 1 1
+  -Go to the Roof
+  -Talk to Touko
+
+
+
+
+
+
+
+
+
+
+RET

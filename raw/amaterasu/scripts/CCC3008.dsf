@@ -1,0 +1,535 @@
+
+GL 0 bgcc0009
+GS 0 1
+GS 1 0
+SEF 152 0
+
+WT 500 1
+
+GL 0 bgcc0010
+GS 0 1
+SEF 152 0
+
+WT 500 1
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+No one's here.
+TP
+
+I opened up my bentou by myself.
+TP
+
+Taichi: *sigh*
+TP
+
+As usual, a double portion.
+TP
+
+WT 500 0
+
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 1
+With nothing else to do, I went to the roof again.
+TP
+
+Kiri was there.
+TP
+
+She looked around the outside world through the fence.
+TP
+
+Deja vu pulled my consciousness away to the distant past.
+TP
+
+
+WVP 3 SE001 0 0
+
+GL 0 bgcc0007s
+GS 0 1
+SEF 10 1
+
+WVP 1 bgm015.ogg 0 0 0
+
+Summer was starting to end.
+TP
+
+The cicadas were remarkably noisy.
+TP
+
+Crying voices that seemed to be beating me.
+TP
+
+I could tell they were at the end of their lives.
+TP
+
+A summer dyed with the dregs of life.
+TP
+
+Kiri was on the roof.
+TP
+
+Alone.
+TP
+
+She'd been crying.
+TP
+
+Even from behind, I could tell by the shaking of her shoulders.
+TP
+
+Taichi: "Kiri......"
+TP
+
+GL 1 TCSK0002s
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfCCC3008kri000
+Kiri: "......Kurosu......sempai?"
+TP
+
+She didn't hide her tears.
+TP
+
+WVP 0 vfCCC3008kri001
+Kiri: "Yutaka......Yutaka, he......fell from here......"
+TP
+
+Taichi: "Yeah......"
+TP
+
+I knew.
+TP
+
+There was no one who didn't know.
+TP
+
+Not in this city.
+TP
+
+In normal society, a student jumping to his death is a rather big topic.
+TP
+
+His or her guardians ask the school questions about who was at fault, and try to bring them to light.
+TP
+
+The school tries to evade responsibility.
+TP
+
+That's not the case at Gunjou.
+TP
+
+No one in society will come asking questions, and the school won't run away.
+TP
+
+A number of people took responsibility.
+TP
+
+Society couldn't care less about the dangerous boys and girls at Gunjou.
+TP
+
+Very few were saddened by it.
+TP
+
+GL 1 TCSK0004s
+GI 1 0
+WVP 0 vfCCC3008kri002
+Kiri: "No one......no one......feels sad......no one cares......how any of us feel......how any of us lived!"
+TP
+
+She was unusually excitable.
+TP
+
+A week had already passed since Yutaka's death.
+TP
+
+Kiri's sorrow was belated.
+TP
+
+Taichi: "Hey, Kiri......was Yutaka happy?"
+TP
+
+Kiri: "......?"
+TP
+
+Taichi: "Was he as happy as he could have been?"
+TP
+
+An ordinary question.
+TP
+
+But,
+TP
+
+The meaning was exactly the opposite.
+TP
+
+GL 1 TCSK0002s
+GI 1 0
+WVP 0 vfCCC3008kri004
+Kiri: "......he's always been in pain."
+TP
+
+Taichi: "Always? Are you sure?"
+TP
+
+Taichi: "There wasn't even a moment of happiness?"
+TP
+
+GL 1 TCSK0004s
+GI 1 0
+WVP 0 vfCCC3008kri005
+Kiri: "That's......"
+TP
+
+Undoubtedly, there was.
+TP
+
+WVP 0 vfCCC3008kri006
+Kiri: "......after becoming friends with Sempai......he started smiling......"
+TP
+
+WVP 0 vfCCC3008kri007
+Kiri: "But he wasn't recovering at all!"
+TP
+
+Her tone strengthened.
+TP
+
+GL 1 TCSK0021s
+GI 1 0
+WVP 0 vfCCC3008kri008
+Kiri: "He hadn't recovered from even a tiny bit of the pain he received!"
+TP
+
+Taichi: "Then Kiri-chin thinks there was something lacking in Yutaka's life?"
+TP
+
+GL 1 TCSK0004s
+GI 1 0
+WVP 0 vfCCC3008kri009
+Kiri: "That's not......what I meant......"
+TP
+
+Taichi: "......I may say that, but sadness isn't a logical thing."
+TP
+
+I'd been in doubt too.
+TP
+
+About how to deal with Kiri.
+TP
+
+Taichi: "It's okay to cry."
+TP
+
+I looked up at the sky.
+TP
+
+The pure white buried my field of vision in the moment before I came to understand that it was a huge cloud.
+TP
+
+Taichi: "At least before summer ends."
+TP
+
+Along with the last moments of the cicadas.
+TP
+
+Did Kiri hear in that a meaning which included a thousand emotions?
+TP
+GO 1 1
+WVP 0 vfCCC3008kri010
+Kiri: "......uwaaaaaaaaaaaaaa!"
+TP
+
+She shut her eyes, grabbed my shirt sleeve and raised her voice.
+TP
+
+WVP 0 vfCCC3008kri011
+Kiri: "Yuta-nii......he died......he's dead......"
+TP
+
+Sobbing.
+TP
+
+Taichi: "............"
+TP
+
+Yuta-nii.
+TP
+
+That was her beloved onii-chan.
+TP
+
+He lived well, even with only one leg.
+TP
+
+Kiri's parents---
+TP
+
+On their faces, which I saw at Yutaka's funeral, there was light relief.
+TP
+
+Was Kiri aware of that?
+TP
+
+Most likely, she knew all about it.
+TP
+
+Even after meeting so many cruel fates, those two continued to support one another.
+TP
+
+In a sense, two halves of one body.
+TP
+
+Kiri was only a half.
+TP
+
+Just like me......
+TP
+
+Except, Kiri wished to be that way.
+TP
+
+Now, strong emotions deprived her of spirit.
+TP
+
+But someday, her sadness will lessen, and she'll search for her other half.
+TP
+
+Yutaka and Kiri.
+TP
+
+Two people who were of one body and mind.
+TP
+
+Kiri had no sins.
+TP
+
+But I......my monster...stirred.
+TP
+
+Taichi: "Kiri......"
+TP
+
+I wrapped my hands around her back.
+TP
+
+Violent passions made Kiri unable to sense approaching enemies, so she didn't notice.
+TP
+
+WVP 0 vfCCC3008kri012
+Kiri: "Uuuuu......uaaaa......"
+TP
+
+Little by little, her emotions subsided.
+TP
+
+By then, I was completely embracing Kiri.
+TP
+
+Taichi: "Kiri......are you lonely?"
+TP
+
+Kiri: "......?"
+TP
+
+Taichi: "You are lonely."
+TP
+
+GL 1 TCSK0004s
+GI 1 0
+WVP 0 vfCCC3008kri014
+Kiri: "......Kurosu-sempai?"
+TP
+
+Taichi: "I'm very empty."
+TP
+
+I looked down at her small features.
+TP
+
+Two deep obsidian stones leaked salt water on her face.
+TP
+
+Taichi: "I think Yutaka was happy. Kiri was there, so he forgot all the bad things."
+TP
+
+Taichi: "I think he was happy up until his final moments."
+TP
+
+I moved my face closer.
+TP
+
+WVP 0 vfCCC3008kri015
+Kiri: "............eh?"
+TP
+
+She became a little confused.
+TP
+
+Our faces crossed paths.
+TP
+
+I stole her lips.
+TP
+GL 0 evcc0049a
+$CGevcc0049a = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+
+WVP 0 vfCCC3008kri016
+Kiri: "............!!?"
+TP
+
+Her four limbs went berserk.
+TP
+
+I held her tight.
+TP
+
+WVP 0 vfCCC3008kri017
+Kiri: "......nna."
+TP
+
+Kiri choked.
+TP
+
+I pushed her against the fence, and continued sucking her lips.
+TP
+
+WVP 0 vfCCC3008kri018
+Kiri: "......fua......no......stop......"
+TP
+
+Surprise robbed Kiri of the ability to think.
+TP
+
+She couldn't resist well.
+TP
+
+Taichi: "Are you lonely?"
+TP
+
+WVP 0 vfCCC3008kri019
+Kiri: "......eh?"
+TP
+
+Taichi: "Aren't you lonely?"
+TP
+
+WVP 0 vfCCC3008kri020
+Kiri: "......I don't......know......"
+TP
+
+I kissed her.
+TP
+
+The second time.
+TP
+
+This time I invaded as far as the inside of the gums.
+TP
+
+At the same time, I moved one hand inside her skirt.
+TP
+
+WVP 0 vfCCC3008kri021
+Kiri: "Nn!......Nn, nnnnnnn!!?"
+TP
+
+WVS 1 1
+
+Her resistance suddenly strengthened.
+TP
+
+Kiri pushed me away.
+TP
+GL 0 bgcc0007s
+GL 1 TCSK0004s
+GS 0 1
+GS 1 1
+SEF 109 0
+
+
+WVP 0 vfCCC3008kri022
+Kiri: "P-please stop!!!"
+TP
+
+Taichi: "............"
+TP
+
+I think I had a slight smile. I'm sure of it.
+TP
+
+WVP 0 vfCCC3008kri023
+Kiri: "You are......"
+TP
+
+I saw her shock slowly become covered in abhorrence.
+TP
+
+GL 1 TCSK0001s
+GI 1 0
+WVP 0 vfCCC3008kri024
+Kiri: "--!!"
+TP
+WVP 2 se035 1 0
+GO 1 1
+She ran away.
+TP
+
+Passing right by me.
+TP
+WVP 2 SE044 1 0
+A creaking door. A closing door.
+WVP 2 se036 1 0
+TP
+
+Taichi: "......haha."
+TP
+
+I covered my face with my hands.
+TP
+
+I see, this certainly is bad.
+TP
+
+The corners of my mouth rose brutally.
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+WVS 3 1
+
+SEF 109 1
+
+
+Kiri and I became estranged.
+TP
+
+She seldom showed up to club after that.
+TP
+
+There were times Miki brought her along by force, but she avoided me.
+TP
+
+We no longer conversed, and our relationship stopped.
+TP
+
+
+That sort of thing happened---
+TP
+
+
+
+
+
+RET

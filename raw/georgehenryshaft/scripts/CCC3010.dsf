@@ -1,0 +1,1136 @@
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 10 1
+WT 1000 0
+WT 1500 1
+
+//意識浮上。
+Consciousness rises to surface.
+TP
+
+//肉体感覚の潜望鏡をあげる。
+I raise the periscope of bodily sensation.
+//he a submarine now? *nightmare memories of Codename Iceman* -GHS
+TP
+
+//腹具合から、三時間ってとこか。
+From the stomach's condition, this is three o'clock.
+//Ah, yes, Three O'Clock, that damn Irishman who manned the conn on the Los Angeles (pronounced "los angles") class nuclear submarine USS what was its name-GHS
+TP
+
+//眠っていたのは。
+I had been asleep,
+TP
+
+//フリーズしてしまったようだ。
+as if I had completely frozen up.
+//Computer term references continue. -GHS
+TP
+
+//……キャパが少なくてどうも。
+...thank you, my low capacity.
+//There's http://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%BA hmmm, but if it's more like it's http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1111321236 - which, given CCD1001, means it can be left unspecified. It means his rationality. -GHS
+TP
+
+//目を開けた。
+I opened my eyes.
+TP
+GL 5 bgcc0000e
+GP 5 0 0 0
+GL 0 evcc0054
+$CGevcc0054 = 1
+GI 5 1
+WT 250 0
+//HACK Stay more on white. -GHS
+GS 5 0
+GS 0 1
+SEF 109 1
+//太一「…………美希？」
+Taichi: "......Miki?"
+TP
+
+WVP 1 bgm016.ogg 0 0 0
+//WHY does this scene play with this music... -GHS
+
+WVP 0 vfCCC3010mki000
+//美希「はい」
+Miki: "Yes."
+TP
+
+//にっこりと。
+With a smile.
+TP
+
+WVP 0 vfCCC3010mki001
+//美希「美希です」
+//Miki: "Miki-desu."
+Miki: "This is Miki."
+TP
+
+//太一「俺……」
+Taichi: "I..."
+TP
+
+WVP 0 vfCCC3010mki002
+//美希「あ、寝ててください」
+Miki: "Ah, please keep sleeping."
+TP
+
+//太一「……膝枕のままでいいの？」
+Taichi: "...on a lap pillow, you sure?"
+TP
+
+WVP 0 vfCCC3010mki003
+//美希「えっちなことしないでくれるなら」
+Miki: "Provided you don't do any pervy things."
+TP
+
+//太一「したら？」
+Taichi: "And if I do?"
+TP
+
+WVP 0 vfCCC3010mki004
+//美希「セクハラの度合いにもよりますが」
+Miki: "Depends on the degree of sexual harassment."
+TP
+
+WVP 0 vfCCC3010mki005
+//美希「スカート潜行とかしたら、射殺です」
+Miki: "If you attempt underwater navigation in my skirt, for example, I will shoot to kill."
+//Shooting to death continues... as well as the nautical metaphor. -GHS
+TP
+
+//太一「……シマセン」
+Taichi: "...SHAN'T."
+TP
+
+WVP 0 vfCCC3010mki006
+//美希「じゃあどうぞ、膝をお楽しみ下さい～」
+Miki: "Then go ahead, please enjoy my la～p."
+TP
+
+//太一「うむ」
+Taichi: "OK!"
+TP
+
+//ほんのりあたたかくて、柔らかい。
+It's soft, and just a bit warm.
+TP
+
+//いい香りがする。
+There's a nice scent.
+TP
+
+//制服の感触と、その下にある瑞々しい太ももの弾力。
+The texture of the uniform, and the elasticity of young and tender thighs thereunder.
+//He can't rub it, then he'll critique it (揉). -GHS
+TP
+
+//至福。
+Beatitude.
+TP
+
+//太一「また寝そう」
+Taichi: "I'm feeling sleepy again."
+TP
+
+WVP 0 vfCCC3010mki007
+//美希「寝てもいいですよ」
+Miki: "Do sleep."
+TP
+
+//太一「そしたら楽しめなくなる」
+Taichi: "But then I won't be able to enjoy this."
+TP
+
+WVP 0 vfCCC3010mki008
+//美希「ふふふ」
+Miki: "Heh heh heh."
+TP
+
+WVP 0 vfCCC3010mki009
+//美希「……びっくりしましたよ。倒れてたから」
+Miki: "...I was surprised. I found you knocked unconscious."
+TP
+
+//太一「寝てた」
+Taichi: "I was sleeping."
+TP
+
+WVP 0 vfCCC3010mki010
+//美希「またそんなトンデモ日常を……」
+Miki: "Again with that ridiculous everyday life..."
+TP
+
+WVP 0 vfCCC3010mki011
+//美希「でも、そういう時の先輩が、一番いいですね」
+Miki: "But when you're like that, Senpai, you're at the best."
+TP
+
+//太一「……そお？」
+Taichi: "...am I?"
+TP
+
+WVP 0 vfCCC3010mki012
+//美希「面白おかしく、毎日がお祭り騒ぎみたいで」
+Miki: "When you're hilarious and funny, when you're like the revelry of a festival every day."
+//See CCC3004. -GHS
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+WVP 0 vfCCC3010mki013
+//美希「ちょっとばかり、寂しくなりすぎですよね」
+Miki: "This became just a little too lonely, didn't it."
+TP
+
+//太一「まったくだ」
+Taichi: "Damn if it didn't."
+TP
+
+//太一「いくらなんでも６０億から８人はないだろう」
+Taichi: "Whatever you do, you can't go from six billion to eight people."
+//6[+0 the time loop]+8=14=7x2. -GHS
+TP
+
+WVP 0 vfCCC3010mki014
+//美希「種の存続に影響ありですね」
+Miki: "It has effects on the survival of the species doesn't it."
+TP
+
+//太一「いや、それはないのだ」
+Taichi: "Naaah, that it doesn't."
+TP
+
+WVP 0 vfCCC3010mki015
+//美希「なぜです、なぜなのです？」
+Miki: "Why? Why is that?"
+TP
+
+//太一「ハハハ、わかっているくせに」
+Taichi: "Hah hah hah, but you know what I mean."
+TP
+
+//尻に手を伸ばす。
+I extend my hands towards her butt.
+TP
+
+WVP 0 vfCCC3010mki016
+//美希「ぷす」
+Miki: "Psk."
+TP
+
+//刺された。
+Stabbed.
+TP
+
+//太一「い、いてえっ！　何だ？」
+Taichi: "O-, oww! What's that?"
+TP
+
+WVP 0 vfCCC3010mki017
+//美希「ナイフです」
+Miki: "A knife."
+TP
+
+//コンバットナイフだった。
+It was a combat knife.
+TP
+
+//太一「あぶねー！　なんでそんなもの持ってるです！」
+Taichi: "Whoa, that looks dangerous! Why are you carrying that thing around!"
+TP
+
+WVP 0 vfCCC3010mki018
+//美希「霧ちんが持ってろって」
+Miki: "Kiri-chin told me to keep it."
+//See CCC3016, it's a lie. But wait for it... -GHS
+TP
+
+WVP 0 vfCCC3010mki019
+//美希「あ、今さしたのはナイフじゃなくて小指の爪です。ふぇいくふぇいく～」
+Miki: "Ah, that stab right now was not the knife, just my pinky's fingernail. Faaake, faaake～"
+//HER knife is a lie as well! -GHS
+TP
+
+WVP 0 vfCCC3010mki020
+//美希「血は出てないのでご安心」
+Miki: "There's no blood coming out so ease up."
+TP
+
+//太一「あ、そう……」
+Taichi: "Ah, right..."
+TP
+
+//ほっとした。
+I felt relieved.
+TP
+
+//血はなるべく見たくない。
+Wherever possible I don't want to see blood.
+TP
+
+//スイッチが変わりやすくなっていかん。
+It's very bad how easily that switch is toggled.
+TP
+
+//太一「霧ちん、専守防衛なのに軍備拡張しすぎなんじゃないかなあ？」
+Taichi: "Kiri-chin might have a policy of non-aggressive defense, but aren't you wondering if she's going too far in the expansion of armaments?"
+//See CCB2015 -GHS
+TP
+
+WVP 0 vfCCC3010mki021
+//美希「ミキもそう思うデス」
+Miki: "Miki thinks that too..."
+TP
+
+//太一「ＦＬＯＷＥＲ’Ｓは平和の象徴なのですよ」
+Taichi: "Flowers are a symbol of peace!"
+//I so wish that was an intentional typo, but I can't be certain. -GHS
+TP
+
+//位置はそのまでうつぶせになる。
+//位置はそのままでうつぶせになる。
+I turn my head to the side without moving from her lap.
+//HACK Typo fixed in the console version. -GHS
+TP
+
+//ミキの下腹部側に顔をうずめる。
+I bury my head near Miki's lower abdomen.
+TP
+
+//衣服数枚隔てて、キューティーデルタゾーンだぞ。
+The Kyute Delta Zone was there, separated by several layers of clothes.
+TP
+
+WVP 0 vfCCC3010mki022
+//美希「あっ、あっ！」
+Miki: "Waah, ah!"
+TP
+
+//太一「このくらいはグレーゾーンでしょ」
+Taichi: "I'd say around this is a Grey Area."
+TP
+
+WVP 0 vfCCC3010mki023
+//美希「そんなことするとー、こっちもそれなりの対外政策を実施しますよ」
+Miki: "If you're going to do that, then we shall enforce our Moderate foreign policy!"
+TP
+
+//太一「俺は美しきデルタに魅入られし愛貴族に過ぎないのだよ」
+Taichi: "I am naught more than a Love Aristocrat, entranced by a beautiful delta you know!"
+TP
+
+WVP 0 vfCCC3010mki024
+//美希「詭弁を弄されるか。ならば」/（★★★詭弁／きべん）
+Miki: "Quibbling via sophistry are we. Well then!"
+TP
+
+//棒を取り出す。
+She produces a pole.
+TP
+
+WVP 0 vfCCC3010mki025
+//美希「耳かき」
+Miki: "Earpick!"
+//Who better than for Miki, Master of Unlocking? -GHS
+TP
+
+//いいじゃん。
+Ain't it nice.
+TP
+
+//ホームラン級のシチュだぞ。
+A home-run level 'chewation, yeah.
+TP
+
+//太一「頼む。いや、イヤと言ってもやってくれ！」
+Taichi: "Please. No, even if I say no, do it anyway!"
+TP
+
+WVP 0 vfCCC3010mki026
+//美希「……いいんですか？」
+Miki: "...are you sure?"
+TP
+
+//太一「俺の耳ヴァージンを奪ってくれ」
+Taichi: "Please rob me of my ear's virgin-ness."
+TP
+
+WVP 0 vfCCC3010mki027
+//美希「……いやぁんなイメェジを」
+Miki: "...ewww, that image!"
+TP
+
+//太一「ドキドキしますな」
+Taichi: "Makes the heart go boom boom, indeed."
+TP
+
+WVP 0 vfCCC3010mki028
+//美希「ま、そんなにお望みとあらば」
+Miki: "Well, if that is your desire..."
+TP
+
+//太一「優しくしてね……」
+Taichi: "Be gentle, 'K..."
+TP
+
+WVP 0 vfCCC3010mki029
+//美希「善処します」
+Miki: "I will use my discretion!"
+TP
+
+WVP 0 vfCCC3010mki030
+//美希「結果はともなわないと思いますけど」
+Miki: "But I don't think that will be accompanied by good results."
+TP
+
+//……え。
+...eh.
+TP
+
+//耳に棒が突っ込まれた。
+A rod is thrust into the ear.
+TP
+
+WVP 2 se103 1 0
+SEF 101 0
+//HACK SFX, shake screen -GHS
+
+//ごりっ
+!SCrAPE!
+//'Tis the time to adapt SFX! The time of prophecy is at hand! ALL WILL BE DOOM!!! The 'r' is lowered for nooo reeeasooon whaaatsoooeeeveeerape -GHS
+TP
+
+
+//太一「！！！！」
+Taichi: "!!!!"
+TP
+
+WVP 0 vfCCC3010mki031
+//美希「いきなり大物発見」
+Miki: "And I immediately discover a Big Game!"
+//Videogame-like commentary. -GHS
+TP
+
+WVP 2 se103 3 0
+//HACK SFX -GHS
+
+//ごりゅっ、がりっ、ごりりっ
+Scryaaape, scrunch, scah-rape!
+SEF 101 0
+TP
+
+
+//太一「オーノーッッッ！？」
+Taichi: "OOO NOOhhh?!" (oh nooo?!)
+//English. -GHS
+TP
+
+//太一「ペイン！　ペイン！」
+Taichi: "PEIN! PEIN!" (pain! pain!)
+//should i just use furrygana -GHS
+TP
+
+//しかし美希はやめなかった。
+And yet Miki did not stop.
+TP
+
+WVP 0 vfCCC3010mki032
+//美希「ふふふふふふ、楽しい～、久しぶり～」
+Miki: "Hoh hoh hoh hoh hoh hoh, so fuuu～n, been so looo～ng!"
+//May refer to it having been the first time she's had this fun... or that this isn't the first time she's done this. Leaving ambiguous, and another line further below too. -GHS
+TP
+
+//耳かきに餓えし者！
+She hungers for earpicking!
+//Still think it's a Sinistar reference, see CCA0010 -GHS
+TP
+
+WVP 0 vfCCC3010mki033
+//美希「そーれそれそれ」
+Miki: "Liiike this like this."
+TP
+
+WVP 2 se103 4 0
+//HACK SFX -GHS
+//ごるっ、がりりっ、ごっごっ、ざりざりざりざりーーっ
+Scrope, scruScrunch, wha-whack, swivel swivel swivel swiiivel!
+SEF 101 0
+//No idea about ごるっ or ざり... you know what, I don't think that's important. -GHS
+TP
+
+
+//太一「ぎえぇぇぇぇぇぇぇぇぇっっっ」
+Taichi: "GHYEEEeeeeee!!!"
+TP
+
+//痛いなんてもんじゃない。
+This is not just pain:
+TP
+
+//これは耳拷問、無意味に略せばみみごーではないか。
+//this is Ear Torture, or if one wants to nonsensically abbreviate it, Jpop.
+this is Ear Torture, or if one wants to nonsensically abbreviate it, ExtraTerrestrial.
+//Because ET get it get it get it well here's the explanation anyway. Original: 耳拷問 mimigoumon, ear torture vs. みみご mimigo, which is Fukuoka-ben (I guess?) for 'earwax'. Fits perhaps TOO well thematically now, given CCZAS. -GHS
+TP
+
+
+WVP 2 se103 3 0
+//HACK SFX -GHS
+
+//ごりゅっ、がりっ、ぞりいっ
+Scryaaape, scrunch, swiiivel!
+//PCP OCD
+SEF 101 0
+TP
+
+
+//太一「ミミガー！！」
+Taichi: "MIMIGAAA!!!"
+TP
+
+//沖縄料理風の悲鳴を発し、俺は実をよじる。
+Emitting the name of the pig's ear dish in Okinawan cuisine in a literally ear-piercing scream, I make pun of the truth in ways untranslatable.
+//hee hee -GHS
+TP
+
+WVP 0 vfCCC3010mki034
+//美希「あ、動いたら危ないっす」
+Miki: "Ah, if you move this will be dangerous."
+TP
+
+//美希は正座を崩した。
+Miki collapsed her seiza.
+TP
+
+//一瞬パンツが見えた。
+Panties visible for an instant,
+//Hey, remember when she greeted Taichi like Nanaka in CCC3004? Now see CCB0002. Interesting. -GHS
+TP
+
+//多幸感が満ちるのも束の間。
+filling me with transient euphoria.
+TP
+
+//太一「へ？」
+Taichi: "What?"
+//"Eh" + "to where" seems to work. -GHS
+TP
+
+//首に脚が巻きつく。
+Legs wrap around my neck.
+TP
+
+//太ももが顔を挟んだ。
+Thighs squeeze across my face.
+TP
+
+//太一「なにをっ！？」
+Taichi: "What the?!"
+TP
+
+//この体勢は……。
+This posture...
+TP
+
+//俺は宇宙（コスモ）を感じていた。
+I was feeling the space (as in cosmos).
+TP
+
+//少女の太ももに包まれて。
+I am engulfed by a girl's loins.
+TP
+
+WVP 0 vfCCC3010mki035
+//美希「これでよし。にしし」
+Miki: "Better like this. HehShehSheh."
+TP
+
+//耳に拷問器具（耳かき）が突っ込まれた。
+The torture implement (earpick) was inserted in the ear.
+//Aren't these meant to be ruby text? -GHS
+TP
+
+WVP 2 se103 1 0
+SEF 101 0
+//HACK SFX, shake screen -GHS
+
+/ざりゅっ
+Swuyvel!
+//We might have passed the Point of No Onomatopetic Return already... -GHS
+TP
+
+
+//太一「やおうっ！？」
+Taichi: "YAOU?!" (yow?!)
+//Not this http://ja.wikipedia.org/wiki/%E5%A4%9C%E7%8E%8B and this looks out of place: http://dictionary.goo.ne.jp/leaf/jn2/23961/m0u/ ergo, going with the English scream onomatopoeia. -GHS
+TP
+
+//しかし頭は固定されている。
+However, my head was held fixed in place.
+TP
+
+//気持ちいいが逃げられない。逃げたくないが逃げたい。
+It feels good, but it is inescapable. I do not want to escape, but escape I want.
+//Hips and earpick respectively in both sentences. -GHS
+TP
+
+//天国と地獄。
+Heaven and Hell,
+TP
+
+//同時！！
+simultaneously!!!
+TP
+
+
+GL 5 bgcc0000e
+GI 5 0
+GS 5 0
+SEF 109 1
+WVP 2 se100 1 0
+//HACK white flash, SFX -GHS
+
+//太一「ふやゆうぉひのまうえゃをゃゅょゑゃえゆぇゃやうぺよわわ！？」
+Taichi: "I and I'm Bae cormorant slightly example you y{ae} you we yeah you yah who just above the monument Warwickshire ridicule shake?!"
+//I've looked at this in every way I could think of, and got nothing more than 8x'small' kana and 7x2=14 unique non-repeated 'large' kana. The presence of a 'no' and 'wo' do sound like it should be a sentence with more sense, but I can't figure out anything. Using the kana<->romaji conversion code of the Kana keyboard (see CCZAS, CCX0001), all I got was 2784^VKJ45&_&*(_5&58%&74[=900 (with the _ being kana missing from the keyboard AFAIK). I tried converting the letters to number, simple alphabetic order, and ignoring caps to get the number keys. Assuming the pure numbers are actual numbers, the rest are to be kept as separate:
+//2784 6 22 11 10 45 7 = 2885
+//7 8 9                = 24
+//5 7 58 5 7 74 [=     = 156
+//900                  = 900
+//Nice 2885, with a 7 and two 8 (which is 16 and another 7), but I don't see much on the rest. [= got nothing, maybe it's supposed to be an operation? This seems to be excessive overthinking.
+//Therefore, as this may be genuinely no more than a visual gag, to do this sort-of literally it'd need way more vowels than English, but including e.g. German, French, Russian (especially) special accented letters would work. But I can't display those with this engine/font combo. Flatly transliterated it's boring and unfunny; so as a compromise, I fed it through Google Translate and edited it up. Yes, I machine translated Cross Channel.
+//BTW, GT has changed since I translated this line and it now returns something totally different and IMO not as funny. -GHS
+TP
+
+//苦痛と悦楽。
+Agony and ecstasy.
+TP
+
+//交互に舞い降りて、俺を翻弄。
+They dance in succession through me, and toss me about.
+TP
+
+WVP 0 vfCCC3010mki036
+//美希「あ、ボスクラス発見！」
+Miki: "Ah! Boss Class Discovered!"
+//Still videogame-like commentary. -GHS
+TP
+
+WVP 0 vfCCC3010mki037
+//美希「これより攻撃にうつります」
+//Miki: "Take off every "ZIG"! For great justice!"
+Miki: "Moving ever onwards to the attack!"
+TP
+
+WVP 0 vfCCC3010mki038
+//美希「行けー、行けー、スクランブルだー、耳かきだ～♪」
+Miki: "Go～, let's go～, it's a scra～mble, to our earpi～cks♪"
+//According to http://www6.ocn.ne.jp/~rejina/cc/motoneta.html it's the opening to this http://en.wikipedia.org/wiki/Grendizer but I honestly don't hear it. Though, damn, that doesn't sound like the actress is faking that tone deafness... -GHS
+TP
+
+//歌い出す。
+Out she sings.
+TP
+
+
+WVP 2 SE083 1 0
+//太一「＃＄％＆％ッッッ？？」
+Taichi: "@!#?@!???"
+SEF 101 0
+//34575, hmmm, 6? 7-5-7-5, 12+12, 8x3? Mikaka gives ぁぅぇゃぇ, I don't really see it. Replaced with a classic arcade quote. -GHS
+TP
+
+//太一「ゴーーーーーヤーーーーーーーーーっ！！！！」
+Taichi: "GOOOOOOYAAAAAAAAAA!!!!!!!!"
+//http://ja.wikipedia.org/wiki/%E3%83%84%E3%83%AB%E3%83%AC%E3%82%A4%E3%82%B7 ーx14 -GHS
+TP
+
+//沖縄料理風の悲鳴が、再度口からもれた。
+The scream of an Okinawan cuisine delicacy (bitter melon this time) once again escapes my mouth.
+TP
+
+WVP 0 vfCCC3010mki039
+//美希「くっ、手強い……よーし、反対側から」
+Miki: "Guh, stubborn... weeell then, we go from the opposite side!"
+TP
+
+
+WVP 2 SE083 1 0
+//太一「ぎゃぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁっ」
+Taichi: "GhyaAaAaAaAaAaAaAaAAAAAAAAAAAAAAAh!"
+SEF 101 0
+//ぁx29, hmmm, don't see it. Maybe 7x4 and the 1 is for that odd 6 above? Forced... -GHS
+TP
+
+//その瞬間、苦痛が快楽を越えた。
+That instant, agony had exceeded pleasure.
+TP
+
+//太一「そ、それは耳垢じゃなくて脳ではないのかだーーーーーーーーーーっ！？」
+Taichi: "Th-, that isn't earwax that is just my braaaaaaaaaaain!?!"
+TP
+
+//そんなわけない。
+That's not true,
+TP
+
+//だが、こんなにもかたく張りついているのだから、大切な器官に違いない。
+but since it's clinging inside so very hard, it's a fundamental organ and no mistake.
+//BTW earwax cleaning's not a good thing to do for your ears. -GHS
+TP
+
+//おお美希よ、どうかその子をはがさないでおくれ。
+Oh great Miki you are, somehow find it in you to not peel off that poor thing, please!
+TP
+
+//太一「ま、まってくれ！　それはきっと人体に必要な器官なんだ！　人間の身体は、無意味に思えるものにも意味があるものなのだ！　たとえばキミも持ってるキュートなお豆ちゃんだってちゃんと性的な意味が―――」
+Taichi: "Wa-, please wait! That is surely a necessary organ for the the human body, yes! Inside the human body even things that give thought of meaninglessness most certainly have meaning still!"
+//See CCZAS again. Is she trying to remove the part of his brain responsible for his automatism? -GHS
+TP
+//Line split -GHS
+Taichi: "For example, the kyute Beany-chan that you possess has assuredly a proper gender-related meaning and---"
+//It's referring to a part of the female anatomy that none of you virgins has ever seen firsthand. None of you are women either so stop protesting. Not that it matters since women are a legend of the time of the Black Ships. The PS2 version corrects this to a Double Switch(???) -GHS
+TP
+
+WVP 0 vfCCC3010mki040
+//美希「ドリル攻撃～、すぱいらる～♪」
+Miki: "Drill atta～ck, spirali～ng♪"
+//Still "singing" -GHS
+TP
+
+WVP 2 SE083 1 0
+//太一「イヤーーーーーーッッッ！！」
+Taichi: "EAAAAAAA!!!"
+SEF 101 0
+TP
+
+//耳を意味する悲鳴を（略）。
+A scream that means 'nooo' in Japanese but in English sounds lik(snip).
+//...ear. Expanded. -GHS
+TP
+
+//俺の耳脳が！！
+My ear braaain!!!
+TP
+//めりめりと音を立ててはがれていく！！
+It's being flayed off with a scrubscrub-like sound!!!
+TP
+//太一「ロボトミー反対っ！！」
+Taichi: "Lobotomies ostracized!!!"
+TP
+
+//そして。
+And then,
+TP
+
+
+//べりいっ
+~veryh~
+//I think this one shortened the lifespan of the universe by a few billion years -GHS
+TP
+
+WVP 2 se100 1 0
+GL 5 bgcc0000e
+GI 5 1
+//HACK to white, SFX -GHS
+
+
+//太一「ッッッッッ！！！！」
+Taichi: "KHHHH!!!!"
+SEF 101 0
+TP
+
+//俺はオルガスムスを迎えた誘惑熟女のように、びくっと痙攣した。
+I convulsed spastically in manners similar to a seductive cougar meeting orgasm.
+//Possible reference, naturally, remains unknown. Possibly porn videos? -GHS
+TP
+
+//頭が固定されているので、四肢がミミズのように波打つ。
+Being that my head is fixed in place, my limbs undulate about like earthworms.
+TP
+
+WVP 0 vfCCC3010mki041
+//美希「やった、取れたぁ……うわー、でかー、すごー、勝ったぁ」
+Miki: "Done, got it ooout... whoooa, huuuge, 'maaazing, I WON!"
+TP
+
+//死んだぁ……。
+I diiied...
+//Mirrors above -GHS
+TP
+
+//だがこれで解放される。
+But I was released from this.
+TP
+
+GO 5 1
+//HACK back from white -GHS
+
+//太一「ひ、膝枕と太ももも堪能したし、こ、このあたりで」
+Taichi: "La-, lap pillow and thighs I have had my fill off, s-, so from this onwards..."
+TP
+
+//しかし美希は言った。
+However, Miki said,
+TP
+
+WVP 0 vfCCC3010mki042
+//美希「さ。じゃあ反対側の耳も制圧しますか」
+Miki: "Well. Then, let's subjugate the ear on the opposite side, shall we."
+//Back to the military conquest metaphor -GHS
+TP
+
+//太一「……………………え？」
+Taichi: "............eh?"
+TP
+
+WVP 0 vfCCC3010mki043
+//美希「さーて、さて、こっちのエリアにはどんな強敵がいますでしょうか」
+Miki: "Sooo then, so then, what formidable enemy do we have in the area on this side?"
+TP
+
+//太ももがよじれる。
+//太ももの内側でよじれる俺の顔。
+My face is twisted around in the gap of her thighs.
+//HACK Line was changed in the console version to clarify -GHS
+TP
+
+//幸せ！
+Happiness!
+TP
+//幸せの隙を突かれて、ひっくり返された。
+In a gap of happiness I was thrust, then overturned.
+//The gap, and himself. -GHS
+TP
+
+//耳かき棒が突っ込まれる。
+The pole of the earpick is thrust inside.
+TP
+
+WVP 2 SE083 1 0
+//太一「ぎにゃーーーーーーーーーー！？」
+Taichi: "G'hNYAAAAAAAAAAA?!"
+SEF 101 0
+//HACK SFX, shake screen -GHS
+TP
+
+GO 0 1
+//HACK fade to black -GHS
+
+//それなりの対外政策……恐るべし！
+The moderate foreign policy... is frightening!
+TP
+GL 0 bgcc0000a
+GS 0 1
+SEF 155 0
+//で。
+Then,
+TP
+
+GL 0 bgcc0007
+GS 0 1
+SEF 155 0
+//太一「……ふぉぉぉぉ……」
+Taichi: "...fwhaaaa..."
+TP
+
+//処女貫通悶絶二穴責めから解放されたのは、十分後だった。
+I was freed from the swooningly agonizing Dual Hole Virginity Piercing torture an adequate ten minutes later.
+//悶絶 fainting-level agony/lesbian couples? I don't think that's what 'lesbian bed death' means. -GHS
+TP
+
+//人生で最も長い十分だったと言えよう。
+The most extremely long ten minutes of my life, I could say.
+//They'd be about 90 minutes. -GHS
+TP
+
+GL 1 TCYM0003
+GP 1 180 0
+GI 1 1
+WVP 0 vfCCC3010mki044
+//美希「まんぞくまんぞく♪」
+Miki: "Satisfaction, satisfaction!♪"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC3010mki045
+//美希「見ます？　戦果？」
+Miki: "Want to see them? The spoils of war?"
+TP
+
+//太一「いいっす……」
+Taichi: "Ah'm fine..."
+TP
+
+//太一「おお、よく聞こえる」
+Taichi: "Ohhh, I can hear so well!"
+//She hasn't gotten his Pseudonietzschieian Bullshit Generator out, but given Sakuraba can hear better when he can't hear better, is this a good thing? He still can't hear the cicadas, for starters. -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC3010mki046
+//美希「すごく詰まってましたよ」
+Miki: "It was really completely clogged!"
+TP
+
+//太一「別世界のようだ」
+Taichi: "It's like another world."
+//SY--- no. Not this line. This line gets booed. Therefore: boo! -GHS
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC3010mki047
+//美希「わたしの耳かきで喜んでくれたのは、せんぱいがはじめてです」
+Miki: "You are the very first to be delighted by my earpick, Senpai!"
+//Earpick, not her earpicking: above she says it's "been so long". That may well refer to her having done it to him before; if so, she also knows that Kiri's about to get it pretty much in the same way, so this would be her pre-venge. -GHS
+TP
+
+//だろうな……。
+Indeed...
+TP
+
+//いや、決して喜んではいないが。
+No, this is in no way delighting!
+TP
+
+//太一「むしろ俺の強力な煩悩力があったおかげで、耐えられたと言うべきか」
+Taichi: "Rather should I say, that it is thanks to the powerful strength of my worldly desires that I withstood this."
+//Given the meta above, I can only conclude that he managed to stick to his 'problem' because, well, it's not literally on his brain. -GHS
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC3010mki048
+//美希「ふお？」
+Miki: "Fwoh?"
+//Fu=2, O=6 -> 8. As I've only figured this out like 15 months in, I probably missed a hell of a lot more... -GHS
+TP
+
+//太一「ふぉふぉふぉ」
+Taichi: "Fwoooh hooh hooh!"
+//2+^ x3 ???? -GHS
+TP
+
+//笑い飛ばした。
+I laughed at her.
+TP
+
+//太一「ところで君は霧ちんを捜しているのではないかな？」
+Taichi: "By the way, weren't you looking for Kiri-chin or something?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC3010mki049
+//美希「ああ、ご存じですか？　なんか見つからなくて」
+Miki: "Ahhh, she was around? I didn't really find her."
+TP
+
+//太一「三時間前までここにいたんだけど」
+Taichi: "But she was here until about three hours ago."
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC3010mki050
+//美希「なんか今日はなかなか遭遇できませんで」
+Miki: "Today I just can't really run into her at all."
+TP
+
+//太一「ふーん」
+Taichi: "Hmmm."
+TP
+
+//情緒不安定だからかな。
+Because of emotional instability perhaps.
+TP
+
+//太一「一人になりたかったのかも」
+Taichi: "Maybe she just wanted to be alone."
+TP
+
+//そういえば豊が死んだ日か。今日は。
+Which reminds me, the anniversary of the day that Yutaka died... is today.
+//September 10th 1997 would've been a Wednesday. -GHS
+TP
+
+//ああ、そうか……それで。
+Ahhh, that's it... that's why.
+TP
+
+//太一「……ま、今日はそっとしておいてあげたら？」
+Taichi: "...well, how about leaving it at that for today?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC3010mki051
+//美希「はあ」
+Miki: "Huh."
+TP
+
+WVP 0 vfCCC3010mki052
+//美希「……なにか言われましたか？」
+Miki: "...did she tell you something?"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC3010mki053
+//美希「というか霧っちになにかエロいことしましたね？」
+Miki: "Or should I say, did you do something pervy to Kiricchi?"
+//I still can't wrap my head around the idea that 'ero' is an i adjectives. IT DOES NOT MAKE SEEEEE-GHS
+TP
+
+//太一「してんよ」
+Taichi: "Di'n't!"
+TP
+
+//方言で否定する。
+Denial in dialect.
+//Unsure of which. I know, technically accent, but he's actually speaking Valley Girl so it's just you people not having a complete picture and totally not poetic license. Uhm, http://www.merriam-webster.com/dictionary/dialect meaning 2. Ner with a further double ner. ...uhm, Valley Girl's a dialect right? Right. Worried it might, like, be a proper language and all. -GHS
+TP
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC3010mki054
+//美希「本当ですかぁ？」
+Miki: "Iiis thaaat truuue?"
+TP
+
+//しようとしたことは確かだが。
+Well, it's true that I was going to do it.
+TP
+
+//太一「俺は愛紳士だぞ」
+Taichi: "I am a Love Gentleman I am!"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC3010mki055
+//美希「しようとしたけど、きついこと言われて引き下がった」
+Miki: "You were going to, but you were told something harsh and were stopped."
+//Meaning she knows he'd stop when asked. -GHS
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC3010mki056
+//美希「なるほど」
+Miki: "I see."
+TP
+
+//弟子に見抜かれる師匠の図。
+A master being seen through by his pupil (artist's impression).
+//That's Miki's arc in a nutshell. -GHS
+TP
+
+//太一「まあ……俺がクレイジーだということを、言葉巧みに説明された」
+Taichi: "Well... it was explained to me with skillful words how I am cray-zee."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCC3010mki057
+//美希「それは……」
+Miki: "That's..."
+TP
+
+//太一「まあ事実だしねぇ」
+Taichi: "Well, the truth isn't it."
+TP
+
+//美希「…………」
+Miki: "......"
+//
+TP
+
+//正直、ちょっと落ち込んだ。
+Honestly, I was a bit depressed.
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC3010mki059
+//美希「先輩は……優しいモードの時は、好きですよ？」
+Miki: "Senpai... when you're in Nice Guy mode, I love you, you know?"
+//See CCA0009A. Still no hint that she's aware of a "crazy ass murderer mode". -GHS
+TP
+
+//太一「誉め殺しのつもりか。百戦錬磨のこの俺、たやすくはだまされないぞ！」
+Taichi: "Do you want to kill me with faint praise? I am a veteran of a hundred battles, it is no easy thing to deceive me!"
+//Rather than 'damning' with. More literal for more purple. And of course, he's being perfectly deceived. -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC3010mki060
+//美希「めっちゃニヤけてるんですけど」
+Miki: "But you're totally an effeminate fop with a catty grin."
+//Grinning like a cat + to be girly. Because cats are girls? Ah, that'd explain women, as well as cat ladies, and if we add nekomimi-desu, we have catgirls as well. It's all clear now! -GHS-nyan
+TP
+
+//ああ、俺の正直者！
+Ahhh, my real identity!
+//Meaning the above should be the pun. -GHS
+TP
+//太一「じゃあ俺と結婚するか！！」
+Taichi: "Then won't you marry me!!!"
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC3010mki061
+//美希「なぜ怒られながら求婚されるのだろう……」
+Miki: "Why a marriage proposal in the middle of being angry even..."
+//...but does Miki actually 'get' Taichi? -GHS
+TP
+
+WVP 0 vfCCC3010mki062
+//美希「んー、まー、いいですよ」
+Miki: "Hmmm, well, sure!"
+TP
+
+//太一「え、マジ？」
+Taichi: "Eh, for real?"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC3010mki063
+//美希「霧ちんがいいって言ったら」
+Miki: "If Kiri-chin says it's OK."
+TP
+
+//太一「チョムズー！」
+Taichi: "HYPERHAAAARD!"
+//超難しい -GHS
+TP
+
+//太一「でも一応、今の一筆したためてくれる？」
+Taichi: "But, for the time being, could I perhaps have that in writing?"
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCC3010mki064
+//美希「……そういうところがダメなんですってば」
+Miki: "...that part of you is completely rotten I keep telling you."
+TP
+
+WVS 1 1
+
+
+RET

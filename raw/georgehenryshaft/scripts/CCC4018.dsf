@@ -1,0 +1,55 @@
+GL 0 bgcc0009
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+
+
+WVP 1 bgm018.ogg 0 0 0
+
+//昼。
+Noon.
+TP
+
+//友貴と別れて、一人で昼飯。
+I part with Tomoki and lunch alone,
+//Some words just need to be verbs. Glad this is one of them. -GHS
+TP
+
+//人気のない食堂。
+in a cafeteria deserted of people.
+//Going by the 0.108 formula, this would be around 2 PM. No wonder, then. -GHS
+TP
+
+//持ってきた食パンにジャムを塗って、機械的に胃袋に放り込んだ。
+I spread jam on the Pain de Mie that I had brought with, and mechanically toss it into the stomach.
+//Turns out it's a really specific kind of bread. It's sweet, so it should go with law. Er, jam. -GHS
+TP
+
+//太一「……貧しい食生活だ」
+Taichi: "...a poor man's eating habits these."
+TP
+
+//太一「ん？」
+Taichi: "Hm?"
+TP
+
+//背後に視線を向ける。
+I turn my sight towards my back.
+TP
+
+//誰もいない。
+There is no one.
+TP
+
+//気のせいか。
+Just my imagination?
+TP
+
+//見られている気がしたが。
+But I had the feeling that I was being watched.
+//This would be a bit creepier with Tower of Friends inserted back in. Not unless someone finds psycho Kiri scary? -GHS
+TP
+
+RET

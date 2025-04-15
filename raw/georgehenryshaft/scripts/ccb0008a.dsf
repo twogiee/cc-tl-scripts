@@ -1,0 +1,176 @@
+
+
+//太一「掃除、手伝おうか？」
+Taichi: "So, cleaning, can I help you?"
+//CP CCA0009A
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+//美希はにっこり笑う。
+Miki gives a broad smile.
+TP
+
+WVP 0 vfccb0008amki000
+//美希「ことわる」
+Miki: "I decline."
+TP
+
+//太一「うわーーーーーーーーーーんっ」
+Taichi: "BWAAAAAAAAAAAH!"
+//total 7x2 letters. -GHS
+TP
+
+//拒絶されたっ。
+Rejected!
+TP
+
+//手ひどく、容赦なく、一片の同情さえなく。
+No technique, no pity, not one slice of sympathy.
+TP
+
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfccb0008amki001
+//美希「先輩、血とか苦手ですよね？」
+Miki: "Senpai, blood and those things are your weakness, right?"
+//Requires adapting the 'to ka' because it's also the sunset, and the red paint, and... -GHS
+TP
+
+//太一「え、まあ確かにそうだけど」
+Taichi: "Eh, well, I guess it is, sure..."
+TP
+
+GL 5 zzzBlackBlend
+GP 5 0 0
+GI 5 1
+//HACK dim screen -GHS
+
+//どうして知ってる？
+How does she know?
+TP
+
+//黒い疑惑が表出した。
+A dark suspicion presented itself.
+TP
+
+GO 5 1
+//HACK normal screen -GHS
+
+//０．５秒で奈落に叩き戻した。
+In 0.5" it was beaten back to the hell it came from.
+//Or the theater basement, apparently there's no difference. ...man, the Japanese must really hate lesb--thespians. -GHS
+TP
+
+//美希だぞ。
+This is Miki dammit.
+TP
+
+//俺の大切な、たいせつな……お花ちゃんなのだ。
+My most cherished, valued... Flower, yes.
+TP
+
+WVP 0 vfccb0008amki002
+//美希「せんぱい？」
+Miki: "Senpai?"
+TP
+
+//太一「そうなのだ。血は苦手なのだ」
+Taichi: "True, indeed. Blood's my weakness, indeed."
+TP
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfccb0008amki003
+//美希「血ではないんですけど絵の具が散らばってしまっているですのだ」
+Miki: "It's not blood, but there's paint that got scattered all around, I would say."
+//See below. -GHS
+TP
+
+WVP 0 vfccb0008amki004
+//美希「だから掃除も大変なのですのだ」
+Miki: "That is why cleaning's already a bother right now, I would say."
+//See below. -GHS
+TP
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfccb0008amki005
+//美希「さらにこの短いスカートはかがむとパンツが見えてしまいますので、興奮した先輩に対処しながら掃除するのはとても大変ですのだ」
+Miki: "Furthermore, with this short skirt my panties are visible when I bend over, so I would have to deal with an aroused Senpai which would make it an even bigger bother, I would say."
+//See below. -GHS
+TP
+
+//太一「ごもっともですのだ」
+Taichi: "Quite plausible, I would say."
+//See below. -GHS
+TP
+
+//実にストレートな物言い。
+A very straightforward manner of speaking.
+TP
+
+//気に入った。
+I like it.
+TP
+
+//太一「それは確かに苦労ですのだ」
+Taichi: "This certainly looks like some work, I would say."
+//See below. -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfccb0008amki006
+//美希「伝染してますよ」
+Miki: "I've infected you!"
+//There you go. -GHS
+TP
+
+//太一「それは確かに苦労だろうな、ごほん」
+Taichi: "This certainly looks like some work, innit. Cough."
+//PCP above -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfccb0008amki007
+//美希「さー」
+Miki: "Sah!"
+TP
+
+//敬礼した。
+Saluted.
+TP
+
+//太一「ごはんはもぐもぐしているかね？」
+Taichi: "Are you going nom-nom on those meals?"
+TP
+
+WVP 0 vfccb0008amki008
+//美希「は、しているであります」
+Miki: "Sah, most certainly I am."
+//See CCA0021 -GHS
+TP
+
+//太一「では大人である俺はあえて身を引き、かげながら見守ることで弟子の成長を間接的に応援していこうではないか」
+Taichi: "Therefore in a most mature manner I bow out, and from now on provide indirect support to my pupil by watching over her in great secret!"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+//HACK beaming Miki -GHS
+
+WVP 0 vfccb0008amki009
+//美希「さー、恐縮です」
+Miki: "Sah, I am very thankful for that!"
+TP
+
+
+RET
+＊合流へ
+//"To confluence", AKA CCB0009 -GHS

@@ -1,0 +1,948 @@
+
+
+
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+SEF 152 1
+WT 400 0
+WT 400 1
+
+WVP 1 bgm002.ogg 0 0 0
+
+//適当に部室で暇を潰して、教室に戻る途中。
+After suitably passing time in the club room, I'm on my way back to the classroom.
+TP
+
+//人気のない廊下で、処女がうずくまっていた。
+A maiden was crouching in a corridor devoid of human presence.
+//Pun not as obvious in English I'm afraid. -GHS
+TP
+
+
+
+//太一「大丈夫ですか、お嬢さん？」
+Taichi: "Is everything well, ojou-san?"
+//Formal. -GHS
+TP
+
+
+
+//尻に手を伸ばす。
+I extended my hand towards her behind.
+TP
+
+
+
+WVP 0 vfcca0008mki000
+//少女「おっとぉ！」
+Girl: "Woh'tt'ooo!"
+SEF 101 0
+TP
+GL 1 TCYM0001
+GP 1 180 0
+GS 1 1
+SEF 109 0
+
+
+
+//瞬発力を発揮して、少女は立ち上がった。
+In a display of explosive force, the girl stood straight up,
+TP
+//すり足で距離を取る。
+and gained distance with a suri-ashi.
+//Specific judo technique, that is the correct English term. This is pretty clever for Miki, but still not Unreset clever. -GHS
+TP
+
+
+
+//臨戦態勢に移行するのが早い。
+She's quick to transition into combat readiness.
+TP
+
+
+
+//しかも跳ね起きると同時に、俺に一撃を加えてきた。
+And, simultaneously with her springing up, she inflicted an attack on me.
+//Rag below. Still sharp enough to mask some of her later behavior. -GHS
+TP
+
+
+
+//太一「……なかなかやるな」
+Taichi: "...nice one there, very nice."
+TP
+
+
+
+WVP 0 vfcca0008mki001
+//少女「せんぱいこそ」
+Girl: "Same to you, Senpai."
+TP
+
+
+
+//片手で受け止めた、顔面を狙って放たれた雑巾を、静かに床に落とす。
+The rag that she threw towards my face fell from the one hand I had caught it with to the floor, in silence.
+//See CCD5001. This is a move he learned from Taichi. -GHS
+TP
+
+
+
+//太一「なんか久しぶりに会ったという気がするな」
+//Taichi: "But there's this feeling around like we have meet in a long while."
+//太一「久しぶりだな。９時間、いや、１０時間ぶりくらいか」
+Taichi: "Been a while, hasn't it. 9, no, almost 10 hours now?"
+//HACK this was changed in the console version to make it less as if Taichi is remembering the loop, also specifying current hour and time since last meeting, which should've been around midnight since the "loop" begins at that time. -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfcca0008mki002
+//少女「そですね」
+Girl: "It has."
+TP
+
+
+
+//映画化された某有名ファンタジー小説のヒロインみたいな少女が、立っている。
+This girl so like the heroine of that famous fantasy novel adapted to the big screen stands up.
+//I sooo wanted this not to be Hermione from Harry Potter, if only because first film is from 2001 and would mess up the dating in a way that would force me to consider that Taichi would only have read the book, despite it having been released in the US the damn same month the VN takes place in and the translation to Japanese being Dec 1999, which admittedly is one of the earliest translations... but CCZDXC confirms it. Personality-wise, it does fit in many ways, especially that part near the end of book 3. If it helps, Wikipedia reports that Hermione was named from Shakespeare, further cementing things. What Johnson has to do, however, I still only have the vaguest idea. -GHS
+TP
+
+
+
+//安心していい。外見だけだ。
+Be at ease. That's just her looks.
+//Actually, Hermione does fit the Genius Loli archetype nearly to a tee. Or she would if she weren't surrounded by people the same age. -GHS
+TP
+
+
+
+//太一「しばらく会ってないからって名前とか忘れてへんで？」
+Taichi: "Would it be strange if I said that we haven't met in a long enough while that I forgot your name and the like?"
+TP
+
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfcca0008mki003
+//少女「やー」
+Girl: "Naaah."
+//Think about it for a second: Miki'd have no problem with Taichi forgetting even her name. -GHS
+TP
+
+
+
+//太一「だから安心してくれ……」
+Taichi: "Ah, but be at ease..."
+TP
+
+
+GL 1 TCYM0001
+GI 1 0
+
+//太一「ジョンソン」
+Taichi: "Johnson."
+> 
+WVP 0 vfcca0008mki004
+//少女「せめて女性の名前で」
+Girl: "At least use a girl's name."
+//The first thing to notice is that she's complaining he's not using a girl's name when making up a name for her, not that he's doing so in the first place. Miki knows that forgetting even important stuff is normal for Taichi.
+//As for the reference itself, no one in the Harry Potter cast is named "Johnson", so that looks like a dead end; maybe the Johnson & Johnson baby shampoo, with its iconic yellow color - see CCA0027 for Coppertone, so it's not alone. This *may* be a reference to Robert Johnson, see CCC3002. This would fit as an early-bird spoiler. The only other I can think of is http://en.wikipedia.org/wiki/Adrienne_Johnson_Kiriakis (notice the KIRIakis, so very Japanese-sounding though it isn't), given the Adrian/Adrienne vs. Alien, see CCZAS. But that's really really reaching. -GHS
+TP
+
+
+
+//外人なのはもういい、という顔をしていた。
+A face one could say had had enough of being thought foreign.
+//Ah, there we get deep into the Nations of the World metaphor. -GHS
+TP
+
+
+
+//太一「腕をあげたな、美希」
+Taichi: "You've improved your skills, Miki."
+//More ambiguity: Miki already seems better than she should be. At this point it should just be trickery, but since there's no certainty that this is the very first week, it's not impossible that with the above lack of surprise at the memory loss, that Miki already knows Taichi has "reset", and therefore is not quite aware of all that he taught her in the weeks before. -GHS
+TP
+
+
+GL 1 TCYM0011
+GI 1 0
+
+
+WVP 0 vfcca0008mki005
+//美希「ええ」
+Miki: "Yep."
+TP
+
+
+
+//山辺美希は涙を誘うほど乏しい胸を張った。
+Yamanobe Miki stuck out a chest so unplentiful it invites tears.
+//See CCA0009B: she DOES have boobs that he doesn't expect. This loli flatness vanishes around Kiri's route, never to return. -GHS
+TP
+
+
+
+WVP 0 vfcca0008mki006
+//美希「わたしのお尻は高いですから」
+Miki: "Because my behind is valuable."
+//Not yet "because I hold myself precious", but suspiciously close. -GHS
+TP
+
+
+
+//太一「ちょっと触れたけどね」
+Taichi: "Although I managed just to graze it."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfcca0008mki007
+//美希「サービスです」
+Miki: "Fanservice."
+//Going with technical term due to imitative behavior. -GHS
+TP
+
+
+
+//動じない。
+Unperturbed.
+TP
+
+
+
+//太一「だがそのスカートのめくれまでは……」
+Taichi: "But until I flip that skirt..."
+TP
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfcca0008mki008
+//美希「めくれてません（きっぱり）」
+Miki: "You shan't flip. (Decisevely)"
+//... (silence) -GHS
+TP
+
+
+
+//やるな。
+Not bad.
+TP
+
+
+
+//ハッタリもきかなくなったか。
+Bluffs are no longer effective, then?
+//See Mi(yu)ki. Those were largely threats. -GHS
+TP
+
+
+
+//太一「いいだろう。今回は花を持たせておく」
+Taichi: "But it's fine. For this once, I'll let you carry the flowers so that you can take credit for this."
+//Literal and lateral due to overlap with the nickname. -GHS
+TP
+
+
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfcca0008mki009
+//美希「えへ」
+Miki: "Eheh!"
+TP
+
+
+
+//にっこりと笑った。
+She smiled brightly.
+TP
+
+
+
+//うわー、抱きしめてぇ。
+Waaah, hug meee!
+//Supposing he wants to be held back. -GHS
+TP
+
+
+
+//太一「なにしてたんだ？　掃除ごっこか？」
+Taichi: "Watcha doing? Playing cleaning lady?"
+TP
+
+
+
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfcca0008mki010
+//美希「あ、はい、なんかここんとこ汚れてて」
+Miki: "Ah, yes, things are a bit dirty lately."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+
+
+WVP 0 vfcca0008mki011
+//美希「あっし、きれい好き」
+Miki: "Me, ah' like 'em clean."
+//Dagnabbit. Supposing the dirty words and dirty thoughts, not so much the dirty corridor. Though if it IS Kiri's blood due to her period... -GHS
+TP
+
+
+
+//架空の力こぶを作る。
+She flexes an Imaginary bicep.
+//NOT the bicep polishing gesture, as far as GIS claims. -GHS
+TP
+
+
+
+//太一「自発的にかい、そいつはクールだネ！」
+Taichi: "All of your own initiative, that is very cool yes!"
+TP
+
+
+
+//太一「……あー、わかったわかった、皆まで言うなよマイスウィート。しょうがないな、サインだろ？　この伊集院太一のサインが欲しいと。我が進路で良俗に従事することで遠回しに催促していたわけだ」
+Taichi: "...ahhh, I get it, I get it, say nothing further my sweet! There's no way, it's about my autograph, right? You desire the autograph of this Ijuin Taichi here. You've merely engaged in the good manners typical of our chosen career path and made a demand in ways roundabout."
+//Should be a reference to the typical Japanese way to neeever ask (or say) anything directly. "Our" career path would be them being teacher and pupil. Still going with this as shouganai due to CCX0001. http://ja.wikipedia.org/wiki/%E4%BC%8A%E9%9B%86%E9%99%A2%E5%85%89 wait he has twitters too? K. http://twitter.com/HikaruIjuin See CCC3004 for possible origins of this. -GHS
+TP
+
+
+
+WVP 0 vfcca0008mki012
+//美希「……あーあー……アレですか」
+Miki: "...ahh, yeah... that one, yes."
+//Ah, this scene is unclear. -GHSoHelpful
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfcca0008mki013
+//美希「なんか久々ですねえー」
+Miki: "Really been a long while there."
+TP
+
+
+
+//なんとも切なそうな顔をする。
+She makes a face that looks very pained.
+TP
+
+
+
+//というか泣きそうではないか。
+Or should I say, isn't she as if about to cry?
+TP
+
+
+
+//というか泣きそうではないか。
+Or should I say, isn't she as if about to cry?
+//CP above. This is copypasted from the above one, as the next line says. Furthermore, you just wasted a few seconds reading another completely useless comment. Ner ner ner got you and all that stuff. -GHS
+TP
+
+
+
+//二回も思ってしまったぞ。
+I even thought that twice dammit.
+TP
+
+
+
+//焦ってはいかん、冷静に対処するのだ。
+Getting flustered is a no go, cope with this with composure.
+TP
+
+
+
+//酸いも甘いも噛みわけたエリートヤングアダルト候補生として！
+Like an elite cadet of young adulthood who is experienced in the ways of the world, having tasted both its bitter and its sweet!
+//Boy this will return. Literal and lateral because uhmmm science. -GHScience
+TP
+
+
+
+//太一「どどどどどどうしたことだ、山辺君！　そんなに嫌であれば無理に余白を潰そうなんて思わないぞ！　正直に申告するのダっ！？」
+Taichi: "Wh-wh-wh-wh-wh-what is wrong, Yamanobe-kun?! If that is so disagreeable, than I shall not even think to wast that blank space! I proclaim this with honesty, see?!"
+//Blank space of the notebook I guess. -GHS
+TP
+
+
+
+//声震えまくり。
+My voice just shakes.
+TP
+
+
+
+//太一「おお、泣いてる、あわわ」
+Taichi: "Ohhh, she's crying, ahWahWah!"
+//It may be because she's annoyed at how many damn times she's done this in previous weeks outside the loop; but it may be that she is, genuinely, sad that this hasn't happened in a while and simply doesn't understand how to correctly express this emotion. In this sense, she's just like Taichi. -GHS
+TP
+
+
+
+//目尻をぬぐう。
+She wipes the corners of her eyes,
+TP
+
+
+
+//俺もつられて泣きそう。
+which carries me to tearfulness as well.
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfcca0008mki014
+//美希「あ、いえ、なんでもありません、サー」
+Miki: "Ah, no, it's nothing, SAH!"
+TP
+
+
+
+
+WVP 0 vfcca0008mki015
+//美希「涙腺からちょっと、青春汁が、漏れて……」
+Miki: "It's just that my lachrymal glands leaked some adolescent juice..."
+//汁 juice, it's a crying cross. -GHS
+TP
+
+
+
+//太一「なんだ……」
+Taichi: "Whoa..."
+TP
+
+
+
+//青春汁か。
+Adolescent juice then.
+TP
+
+
+
+//太一「驚かすない」
+Taichi: "Don't scare me then."
+//He's absolutely unfazed by the nonsense that is "eyes leaking adolescent juice". He doesn't seem to understand the point of tears at all. -GHS
+TP
+
+
+
+//冷や汗をぬぐった。
+I wiped off cold sweat.
+TP
+
+
+
+//太一「じゃあ今回は王子（俺）のサインはおあずけだな」
+Taichi: "Well then, this time the Autograph of the Prince (me) is postponed."
+TP
+
+
+GL 1 TCYM0001
+GI 1 0
+
+
+WVP 0 vfcca0008mki016
+//美希「いえ！」
+Miki: "NO!"
+TP
+
+
+
+//喉のかすれるような悲鳴。
+A shriek as if her throat was hoarse.
+TP
+
+
+
+WVP 0 vfcca0008mki017
+//美希「いります！　してください！」
+Miki: "I need you in this! Do this please!"
+//"I need it" + "put it in" & "please do it" + "please do me". This is another overreaction; Miki just doesn't seem capable of taking things in proper measure, which is why he takes Taichi's Settei so damn seriously. -GHS
+TP
+
+
+
+//太一「そ、そんなにしてほしいのかね？」
+Taichi: "Y, you want this done to you that badly?"
+//Still puns. -GHS
+TP
+
+
+
+//こっちがたじろぐ。
+Faltering from my direction.
+TP
+
+
+
+WVP 0 vfcca0008mki018
+//美希「してください、してください」
+Miki: "Do this please! Do this please!"
+//Same as above. -GHS
+TP
+
+
+
+//甲高い声で『してください』と連呼される。
+I'm repeatedly called to "do this please" with a shrill voice.
+TP
+
+
+
+//下腹部が熱くなってきた。
+The lower abdomen grew hotter.
+//See CCD0021, it's probably the clearest. -GHS
+TP
+
+
+
+
+//どうしてだろう？
+But why, really?
+TP
+
+
+
+//どうしてなんだろう？
+For what reason, even?
+TP
+
+
+
+//かいめんたいはいつもぼくの意志をむしして、あばれるんだ―――
+Why must the erectile tissue of this innocent young boy ignore my volition and just rage---
+//Adapted boku again, see CCD4003 for more (you know you want). -GHS
+TP
+
+
+
+
+//童話調に思考しても生々しさは消えなかった。
+I may have thought this in the tone of a fairy-tale, but the graphicness didn't go away.
+//see CCA0007. Break out that On Fairy-Tales essay! -GHS
+TP
+
+
+
+//太一「わ、わかった、ではアレを」
+Taichi: "I-, I got that, well then 'that' I'll do."
+//Break out that "On 'that' I'll do" essay! -GHS
+TP
+
+
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfcca0008mki019
+//美希「はい」
+Miki: "Here!"
+//Break out that "On Here" essay! -GHS
+TP
+
+
+
+//美希は垂直な胸元をまさぐって、メイトブックを出した。
+Miki groped about her perpendicular chest, then produced her MateBook.
+//CURSED YE SHALL BE WITH THE CLIFFENING!!! -AkihaTohno -GHS
+TP
+
+
+
+//当校では身分証明書をかねるこの手帳を、そう呼ぶ。
+So it is called at this school, this ID booklet with a second role.
+TP
+
+
+
+//そう。
+Yes.
+TP
+
+
+
+//どうも本校のお歴々は、『都会』の駅裏にある人気ＮＯ１高級浴場『メイトブック』の存在を知らないようなのだ。
+No dignitary of this school would be unaware of the existence of MateBook, the high-class bathhouse #1 in popularity located in the popular spot behind the main City's train station.
+//This will be one of the weirdest running gags in the VN. The MateBook will be repeatedly said to be named (or not) after a possible whorehouse, SoapLand or public bathhouse. The origin will change pretty much every time. The point, of course, is that this is part of Taichi's Settei and its origin changing constantly and without warning is the reading key to watch out for other things to. Clarified as it's not necessarily obvious in English that being behind the train station is a popular spot, not a seedy one. -GHS
+TP
+
+
+
+//会員になると手帳を渡され、一回ご利用するごとに姫のスタンプがもらえる。
+A notebook is given on gaining membership, and for every use a Princess Stamp is received.
+//Can't source the euphemism, if it even is one. See CCC0000: Ichiko would of course leave a princess stamp... -GHS
+TP
+
+
+
+//スタンプを集めることによって、Ｗやトリプルなどのサービスが格安で楽しめるという寸法だ。
+The accumulation of stamps is the measure of how cheaply one can enjoy services such as the Double or the Triple.
+TP
+
+
+
+//……トリプルだなんて。
+...what's even a triple now.
+//See CCC4007, though there's another in CCD3003B. -GHS
+TP
+
+
+
+//それはいかなる世界なのか。
+What kind of world would be that?
+TP
+
+
+
+//桃源郷なのか。
+Would it be Shangri-la?
+//"A permanently happy land, isolated from the outside world", reminds Wikipedia. IOW, endless sex with Miki and Kiri in this Cross World. Remember that extra scene in Kagetsu Tohya, Flower of Thanatos? That's all that needs to be said then. -GHS
+TP
+
+
+
+//太陽は黄色いのか。
+And is the sun yellow?
+//This was an odd mystery in Cross Channel: sun miswritten as 大陽 instead of 太陽. This was used nearly systematically with only two exceptions in the original script; all the ones that still appear in the all-ages version (ie not this one) have been fixed, so it was just a strange typo. -GHS
+TP
+
+
+
+//勃ってきました……。
+I have erected...
+TP
+
+
+
+//いかん。
+This is bad!
+TP
+
+
+
+//ここで安易に前傾シフトをとれば、美希にばれる。
+If I take a gentle forwards Shift here, Miki will notice.
+TP
+
+
+
+//美希は処女だが、男の生理には精通している。
+Miki might be a literal maiden, but she is acquainted with male physiology,
+TP
+
+
+
+//俺が教えたから。
+because I explained it to her.
+TP
+
+
+
+//前傾しなくともばれるだろうが、堂々としていれば、格好だけはつく。
+Even if I don't lean I'll likely be spotted, but if I stay confident, I should at least look cool.
+//No, that's never cool you damn unrepentant beta. -GHS
+TP
+
+
+
+WVP 0 vfcca0008mki020
+//美希「……」
+Miki: "..."
+TP
+
+
+
+//あ、今ちらっと見た。
+Ah, she glimpsed right then.
+TP
+
+
+
+//美希、やや赤面。
+Miki's face goes fairly red.
+TP
+
+//なにも言わない。
+She says nothing.
+TP
+
+
+
+//視線を窓の外に向けて、わずかにもじもじする。
+She turns her gaze towards the outside via the window, and fidgets slightly.
+//Is she embarrassed or horny? -GHS
+TP
+
+
+
+//うわ、かえって恥ずかしい。なにか言えや。
+Wah, this is even more embarrassing! Say something!
+//The damn M. -GHS
+TP
+
+
+//>　　　　　　　　　　　　　　　　がんろう
+//いっそ言葉で俺を玩弄してくれ。
+Please make sport of me with words instead!
+TP
+
+
+
+//羞恥のあまり、荒ぶる破壊神は鎮まっていく。
+But the embarrasment is so great that this savage god of destruction grows subdued.
+//Of course there's a god in here. -GHS
+TP
+//実戦経験がないためか、直で面すると弱いんだな。
+As a consequence of a lack of combat experience, perhaps, direct confrontation is a weakness.
+//His dick and Miki both. Remember, she's a Witch of Words. -GHS
+TP
+
+
+
+//直ハラ禁止だ。
+Directassment prohibited.
+//I know. But mine has the word "ass" in it, so it's automatically better. -GHS
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+
+//※直ハラ＝太一語。直接行う性的いやがらせ。主に性器を露出し異性に接触させるなどの小児的猥褻行為。ちょんまげ、爆破スイッチ、一本釣り、等。状況によっては痴漢行為と見なされることもある。
+> 
+ 
+ 
+> 
+* Directassment = Taichian for the Direct
+  Performance of Sex-related Harassment.
+TL
+> 
+  Mainly, infantile acts of obscenity such as 
+  exposing one's genitalia and making a person
+  of the opposite gender touch it.
+TL
+> 
+  Imitation chonmage, self-destruct button, 
+  fishing with a pole, et cetera. Depending on 
+  the situation, these could end up being 
+  considered molestation.
+//1) http://en.wikipedia.org/wiki/File:Portrait_of_a_man_of_noble_birth_with_a_book.jpg if you can't see it instantly, you shouldn't be reading eroge.
+//2) Totally thought it was http://lh4.ggpht.com/_QP0MSjDs-Lc/TU7nEnHHeZI/AAAAAAABo0Y/qOlIENGVun8/l4285.png (except with his dick), but turns out it's... see CCC0016B or, better, CCD0008C
+//3) See CCB0007. -GHSekuhara
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+//というか全部、完璧に、申し分のない、痴漢行為である。
+Or should I say that they all are flawlessly unquestionably molestation.
+TP
+
+
+
+
+//太一「美希は手帳だいぶ使いこんでるなあ。ぼろぼろだ」
+Taichi: "You've been using this notebook thoroughly, Miki. It's all worn!"
+TP
+
+
+GL 1 TCMM0000
+WVP 0 vfcca0008mki021
+//美希「ぼろぼろ」
+Miki: "All worn."
+//Will return. -GHS
+TP
+
+
+
+//無意味に繰り返すことで肯定する美希。
+Miki assents by meaninglessly repeating my words.
+//See CCD4002B -GHS
+TP
+
+
+
+//ページを繰ると、メモ欄にはすでに俺のサインがでかでかと書かれていた。
+Flipping the pages, I see annotation fields filled with my large-sized signature.
+//No one else's, meaning it's their game. -GHS
+TP
+
+
+
+//何ページにも渡っている。
+I pass by several pages.
+TP
+
+
+
+//俺のサインをコレクトしているかのようだ。
+It's as if she were collecting my signatures.
+TP
+
+
+
+//正確には、俺がコレクトさせているわけですが。
+Or, to be precise, this is me making her collect them.
+//Possibly either. It's their game. -GHS
+TP
+
+
+
+//白紙を見つけ、そこに新たなサインを書き込む。
+I find a blank page and there I fill out a fresh signature.
+TP
+
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+
+//太一「あのさ、今回は俺がサインしたくて美希の胸を借りたってことで……全然いじわるしようとか思ってないからね？」
+Taichi: "You know, this little game of ours here was just because I wanted to put my autograph on your chest padding... not because of mean intent, OK?"
+//Oh dear. Word itself means "practice with a sparring partner of higher skill", with the implication of imitative behavior; this form means "to have a contest with you"/"challenge you"; and literally it's "borrowed your chest". All necessary. Left vague, because it is after all. -GHS
+TP
+
+
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfcca0008mki022
+//美希「嫌がってないですってば」
+Miki: "I'm telling you I didn't dislike it."
+TP
+
+
+
+//太一「そ、そう？」
+Taichi: "You-, don't?"
+TP
+
+
+
+//サインを書き終える。
+I finished writing my signature.
+//fucking kanji amirite amirite -GHS
+TP
+//美希はおだやかな顔をしていた。
+Miki was making a tranquil face.
+TP
+
+
+
+//確かに嫌がっている風ではない。
+There's certainly not a whiff of pretense of having disliked it.
+//This is basically screaming the reading key for the Misato scenes, that 'wind' needs to be read 'pretense'. -GHS
+TP
+
+
+
+//他のページをざっと調べる。
+I quickly check out the rest of the pages.
+TP
+
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfcca0008mki023
+//美希「あー、別にデートの約束とか書いてないんで」
+Miki: "Ah, I don't really write my dating plans or anything there."
+//It's not her World Domination plans, either. -GHS
+TP
+
+
+
+//太一「あっそ」
+//Taichi: "Ach so!"
+Taichi: "Ah well."
+TP
+
+
+
+//手帳を返す。
+I return the notebook.
+TP
+
+
+
+//スリッパの底みたいな胸元に抱きかかえて、
+She holds it against a chest so like the bottom of a slipper.
+TP
+
+GL 1 TCYM0011
+GI 1 0
+
+WVP 0 vfcca0008mki024
+//美希「ご安心ください。美希は処女でございます～」
+Miki: "Please be at ease. Miki most certainly is still a virgi～n!"
+//This is so funnier in the console version where we are reassured that Miki is a girl. Wow, she's not a trap? -GHS
+TP
+
+
+
+//太一「べ、別にそんなことで安心したりしないもん」
+Taichi: "It-, it's not like you need to reassure me of such things!"
+//Intentional -GHS
+TP
+
+
+
+//うろたえると俺、小児化。
+Flustered, I regress to childhood.
+//He just wrote the blandest tsundere line ever and then called it childish, I just love this stuff. I'm adapting those blatantly badly written lines as parodies of generic bad VN translations, if it's not clear. -GHS
+TP
+
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfcca0008mki025
+//美希「はいはい、わかっております」
+Miki: "Yes, yes, I do understand."
+TP
+
+
+
+
+
+
+
+
+
+CSQ 0 1 1
+//　・掃除を手伝う
+//　・胸を揉む
+ - Help with the cleaning
+ - Concern with the chest
+//That 揉 -GHS
+
+
+
+
+RET

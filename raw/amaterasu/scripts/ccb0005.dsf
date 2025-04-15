@@ -1,0 +1,1160 @@
+
+
+WVP 2 se041 1 0
+WT 2000
+If I open this door, I'll be on the roof.
+TP
+
+She'll definitely be there.
+TP
+
+WVP 1 bgm012.ogg 0 0 0
+
+Even though I'm only opening a door, I felt myself hesitate slightly. 
+//CP cca0006
+TP
+
+The campout I knew all too well had failed.
+TP
+
+I'd forced Sempai to rush out into it.
+TP
+
+I'd anticipated that it would hurt her.
+TP
+
+I'd anticipated it, but I didn't think about it.
+TP
+
+And now, here I am again......trying to use Sempai.
+TP
+
+For the sake of bringing peace to my heart.
+TP
+
+I wondered how I should behave around her. 
+//CP_S
+TP
+
+But, humans are creatures of mood, and this morning I was in the mood to come here.
+TP
+
+That's enough of an explanation for me.
+TP
+
+But what will Sempai think?
+TP
+
+That bothered me a little.
+TP
+WVP 2 se044 1 0
+
+I twisted the knob and pushed the iron door outward.
+TP
+
+WVP 2 se009 1 0
+
+GL 1 efcc0000
+GL 0 bgcc0007 1 0
+GP 1 0 0
+GI 1 0
+GI 0 0
+GO 1 1
+The wind blew.
+TP
+WVP 3 se010 0 0
+
+It was blowing at the moment I stepped outside.
+TP
+
+But that mysteriously put me in a sunny mood.
+TP
+
+A massive water tower was on the other side of the stairs, but in the direction I was facing, a large antenna rose up, sharing the tower's foundation.
+TP
+
+Taichi: "......ahh."
+TP
+
+An antenna, still incomplete.
+TP
+
+Due to insufficient parts and knowledge.
+TP
+
+Compensating for that with her optimism, it had slowly taken shape. 
+//PCP_F
+TP
+
+No.
+TP
+
+It might've been her pessimism.
+TP
+
+That sort of thing happens now and then.
+TP
+
+Before the campout.
+TP
+
+She was all alone.
+TP
+
+I knew that this club was her final bastion to flee to.
+TP
+
+And yet again, even now, she's fleeing to that bastion.
+TP
+
+Miyasumi Misato. 
+//CP
+TP
+
+And right now, Misato-sempai is standing with the antenna, cradled in the wind. 
+//PCP
+TP
+
+Taichi: "Sempaaai!" 
+//CP
+TP
+
+As I called out to her, her fan-shaped hair undulated in the wind. 
+//PCP
+TP
+
+A brown cape swimming in the ultramarine sky.
+//The Japanese said "jet-black," but I'll follow the past decision and say "brown" again instead. Å`IX
+TP
+GL 0 evcc0004
+$CGevcc0004 = 1
+GS 0 1
+SEF 109 0
+
+WVP 0 vfccb0005msa000
+Misato: "Peke-kun?"
+TP
+
+If I cleared my ears, I could hear her voice call my name.
+TP
+
+Along with the movement of her soft crimson lips.
+TP
+
+I may have only been able to hear her whispering in that sudden gust of wind because of the cocktail party effect, but something wouldn't stop giving me visions that I share a peculiarity with Sempai.
+TP
+
+A happy hallucination.
+TP
+
+I walked up to her.
+TP
+
+Sempai was smiling.
+TP
+
+My face bloomed naturally.
+TP
+
+Our lines of sight followed each other with mutual affection.
+TP
+
+And then, as I was enveloped in a womb of soft contemplation, the truth which was made yet more painful by the miraculous and refined nature of Miyasumi Misato became understood even within the deepest reaches of the Mariana Trench.
+TP
+
+........................I could see her panties.
+TP
+
+I can see them! I can see them!
+TP
+
+All of them, all of them, I'm seeing all of her panties!
+//Huh, this makes it sound like "panties" is actually plural somehow. Weird. Å`IX
+//Changed so it doesn't sound so plural :P - Sheeta
+TP
+
+I must ask someone if I've suddenly traveled to the country of panty-flashes!
+//This just felt right.-Spin
+TP
+
+She hasn't even noticed!
+//Reading it in game and the "and" just stuck out
+TP
+
+I can't stand this!
+TP
+WVP 2 SE070 1 0
+
+Piiiping! Piiiping! (Alarm)
+TP
+
+Long live the Republic of Pantyland!
+TP
+
+Our wonderful country!
+TP
+
+A great country!
+//Just sounded weird.-Spin
+TP
+
+Eternally!
+TP
+GL 0 bgcc0007g
+GL 1 efcc0005
+GS 0 1
+GS 1 1
+GP 1 0 0
+SEF 109 0
+
+WVP 0 vfccb0005msa001
+Misato: "........................?"
+TP
+
+WVP 0 vfccb0005msa002
+Misato: ".....................n?"
+TP
+
+WVP 0 vfccb0005msa003
+Misato: "............Peke-kun?"
+TP
+
+WVP 0 vfccb0005msa004
+Misato: "Peke-kun? Peke-kun?"
+TP
+
+
+
+Taichi: "Ha!?"
+TP
+GL 0 bgcc0007
+GL 1 TCMM0000
+GS 0 1
+GS 1 1
+GP 1 220 0
+SEF 109 0
+
+WVP 0 vfccb0005msa005
+Misato: "Hello? What's wrong?"
+TP
+
+Crap, my consciousness flew away again.
+TP
+
+Taichi: "Aaah, no, there's nothing abnormal. Yes, perfectly normal all the way down to my nails."
+TP
+GL 1 TCMM0021
+GI 1 0
+WVP 0 vfccb0005msa006
+Misato: "But you were drooling."
+TP
+
+Taichi: "I'll go commit seppuku."
+TP
+
+I took off my shirt.
+TP
+GL 1 TCMM0004
+GI 1 0
+
+WVP 0 vfccb0005msa007
+Misato: "Wait, wait!"
+TP
+
+WVP 0 vfccb0005msa008
+Misato: "Why are you committing seppuku over drooling?"
+TP
+
+Taichi: "I've stained Sempai."
+TP
+
+GL 1 TCMM0005
+GI 1 0
+
+
+WVP 0 vfccb0005msa009
+Misato: "I don't really understand......"
+TP
+
+It's better that way.
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfccb0005msa010
+Misato: "Anyway, why are you here? Don't you have classes?"
+TP
+WVS 1 0
+
+Classes?
+TP
+
+I returned to my senses and looked into Sempai's eyes.
+TP
+
+Taichi: "............"
+TP
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfccb0005msa011
+Misato: "Ah, I know. You're cutting."
+TP
+
+She raised her index finger.
+TP
+
+What a girl.
+TP
+
+She's the same as always.
+TP
+
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfccb0005msa012
+Misato: "Am I right?"
+TP
+
+Taichi: "Haa...well......"
+TP
+
+WVP 1 bgm007.ogg 0 0 0
+
+Her usual thoughts and actions...
+//It made it seem like this is what Taichi was trying to tell himself to do instead of describing her.-Spin
+TP
+
+She's derailed.
+TP
+
+She's not accepting it.
+TP
+
+This reality of humanity's disappearance.
+//Yeah, I know I'm behind... "people's disappearance" sounded a little cramped somehow - pondrthis
+TP
+
+Everything else is normal.
+TP
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfccb0005msa013
+Misato: "I can't condone your actions."
+TP
+
+Taichi: "............"
+TP
+
+Yesterday, when we had split up after the campout...
+TP
+
+The impression I'd gotten from her words then was correct.
+TP
+
+
+WVP 0 vfccb0005msa014
+Misato: ÅwI'll see you at club tomorrow.Åx
+//Particular reason we're using the double asian quotes that I missed in the forum? - pondrthis
+TP
+
+
+Such a simple form.
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfccb0005msa015
+Misato: "Summer break is over and it's a new term now, so we can't have you feeling like a Co** Cola can without the bubbles."
+TP
+
+Taichi: "............"
+TP
+
+WVP 0 vfccb0005msa016
+Misato: "It's a virtue of Japanese boys that they attend class with an attitude neither dulling nor slackening on top of pursuing extracurricular activities."
+TP
+
+Taichi: "............"
+TP
+
+It was as if she could bring herself good fortune by rejecting the opinions of her observers.
+TP
+
+She's the only fortunate one.
+TP
+GL 1 TCMM0002
+GI 1 0
+
+
+WVP 0 vfccb0005msa017
+Misato: "That aside, it's not like there are any classes on the first day anyway, so I'll let it go."
+TP
+
+That's right.
+TP
+
+If she's happy, that's all that matters.
+TP
+
+The person everyone wishes to become isn't always noble or virtuous.
+//This could still use some work, but before it sounded like he was saying "the person everyone wishes to be [happy] isn't always noble or virtuous." - pondrthis
+TP
+
+It's not like I'm measured by how much I force my standards on others.
+//just "standards" is fine. "Of value" was pretty redundant. If it said that in Japanese though then revert it back as you wish.-Spin
+TP
+
+Rather, am I not defective merchandise?
+//Imagine the I emphasized.-Spin
+TP
+
+I'll permit it, and cooperate with it.
+//Depending on the meaning, I would suggest "cooperate with" if helping her run or "partake in" if running with her. "Cooperate in" is a little awkward IMO - pondrthis
+TP
+
+Her fleeing.
+TP
+
+
+Because she was the one who......when I was all alone......invited me to the Broadcasting Club.
+TP 
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfccb0005msa018
+Misato: "Actually, I'm cutting class myself."
+//Way too long since her last line for her to say "also."-Spin
+TP
+
+Sempai stuck out her tongue a little.
+TP
+
+WVS 1 0
+
+I ordered myself with the full will of my body.
+TP
+
+
+Play the part.
+TP
+
+
+Taichi: "Gyafun!"
+TP
+
+WVP 1 bgm012.ogg 0 0 0
+
+GL 1 TCMM0002
+GI 1 0
+
+Sempai's eyes shrunk.
+TP
+
+Her usual smile.
+TP
+
+WVP 0 vfccb0005msa019
+Misato: "Please wait just a moment."
+TP
+
+She stepped down.
+TP
+
+When her toes touched the ground, we were back to our past selves.
+TP
+
+WVP 0 vfccb0005msa020
+Misato: "Hiiii!"
+TP
+
+Taichi: "Sempai, listen to this!"
+TP
+
+With my ultimate martial art of karade, I took the stance for a mid-level straight punch.
+TP
+
+*Mid-level straight punch = A horizontal punch. Omni-directional attacks are key to karade, and the straight punches are especially good at controlling all regions other than the back. Likewise, there exist up and down karade moves unimaginable in common martial arts.
+TP
+
+*Although it's certain that there is no life form on Earth who could compete with such heaven-rending attacks, the prepared have no laments. In the unlikely event such an enemy appeared, karade would be the one and only means of resistance. All the world is a metagame.
+//I don't get what "metagame" has to do with "word" so I changed it to "world" thinking it would sound ominous.-Spin
+//Woah, IX is such a badass, yo. - pondrthis
+TP
+
+Don't worry about the fact that my being on all fours makes this look like a sumo stance.
+TP
+GL 1 TCMM0004
+GI 1 0
+WVP 0 vfccb0005msa021
+Misato: "Wh-what is it?"
+TP
+
+Sempai also took some incomprehensible stance.
+TP
+
+Taichi: "I wanted to start participating in the club I've been skipping all the way up until now!"
+TP
+
+WVP 0 vfccb0005msa022
+Misato: "What did you say!?"
+TP
+
+Taichi: "From school swimsuits to Ansco cameras, Kurosu Taichi will support the life of your club!"
+TP
+GL 1 TCMM0005
+GI 1 0
+WVP 0 vfccb0005msa023
+Misato: "Just imagining it makes me dizzy!"
+TP
+
+Taichi: "Delightful!"
+TP
+GL 1 TCMM0006
+GI 1 0
+WVP 0 vfccb0005msa024
+Misato: "Did you think I was complimenting you!?"
+TP
+
+Taichi: "I made no effort to understand it any other way!"
+TP
+
+GL 1 TCMM0005
+GI 1 0
+WVP 0 vfccb0005msa025
+Misato: "You're brilliant! In fact you're so smart, I think I might just knock you around until you're back to the usual idiot-chan I know!"
+TP
+
+Taichi: "Geniuses and I are merely a paper's width apart!"
+TP
+
+We both amused ourselves with this weird conversation and these weird poses.
+//And it's just about the cutest thing I've ever read here. - pondrthis
+TP
+
+Yes, now this is a club.
+TP
+
+Taichi: "Now, please give an order to me, your love slave, such as rubbing oil on you then giving you a bust massage, or harvesting a field of wild strawberries."
+//Or did he use a pronoun in the wrong case/context? - pondrthis
+TP
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfccb0005msa026
+Misato: "Well,"
+TP
+
+I got full of myself and ran my mouth off into something perverted.
+TP
+
+Sempai is strict about perversion (not that she knows much about it).
+TP
+
+Then Sempai smiled wide, as if she was happy.
+TP
+
+Did she not notice my sexual harassment just now?
+TP
+
+The angel's lips told me, I had felt the mercy of the Holy Father.
+TP
+
+WVP 0 vfccb0005msa027
+Misato: "Be gone from this place."
+TP
+
+Taichi: "Laying my hands on Chinese stock was the start of my decline!!!"
+TP
+
+I screamed something raw and fresh to the expansive and innocent blue sky on the other side of the fence.
+TP
+
+Well, it's not like there are any Chinese folk who can crack a smile because they aren't starving to the point where they need to eat desks.
+TP
+
+Taichi: "The antenna seems to be taking shape." 
+//CP_S
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfcca0006msa018
+Misato: "Yes. I've been working hard on it." 
+//CP_F
+TP
+
+Our conversation naturally continued.
+TP
+
+That's how firm the relationship was between myself and Sempai.
+TP
+
+It won't break from something like world annihilation.
+TP
+
+Taichi: "Is it complete yet?" 
+//CP_S
+TP
+
+GL 1 TCMM0005
+GI 1 0
+
+WVP 0 vfcca0006msa019
+Misato: "......it isn't even close."
+TP
+
+The antenna should've been set up by the dealer.
+TP
+
+But they just abandoned it here after delivering it.
+TP
+
+
+WVP 0 vfcca0006msa020
+Misato: "I'm no specialist, so it's probably not as far along as it looks."
+TP
+
+
+
+WVP 0 vfcca0006msa021
+Misato: "The structure isn't a problem, but the wiring and tuning are still untouched."
+TP
+
+Taichi: "Ah..."
+TP
+
+Unfortunately, I had no such knowledge.
+TP
+
+Taichi: "......then I guess there's nothing for me to help with other than indecency." 
+//PCP_F
+TP
+
+GL 1 TCMM0002
+GI 1 0
+
+
+WVP 0 vfccb0005msa028
+Misato: "If you help with any indecent things, you'll get suspended."
+TP
+
+
+*rub* *rub*
+TP
+
+
+My head was being petted.
+TP
+
+Taichi: "Urukyuuu."
+TP
+
+I purred.
+TP
+
+WVP 0 vfccb0005msa029
+Misato: "There, there."
+TP
+
+Taichi: "Uuuu, uuuu."
+TP
+
+WVP 0 vfccb0005msa030
+Misato: "All you need to do is keep using those onomatopoeias and mimicries, blush and get jealous so you're easy to understand, and confess your past traumas whenever appropriate, okay?"
+//I don't know if I love Misato, Tanaka, or Ixrec more right now, but I'm getting hot. - pondrthis
+TP
+
+Taichi: "I'm going to become incredibly materialistic!"
+TP
+
+WVP 0 vfccb0005msa031
+Misato: "The masses all wish for that."
+TP
+
+Taichi: "I hate the masses!!"
+TP
+
+Not that they exist anymore.
+TP
+
+I snuck a peek at Sempai's hand, and noticed that it was covered in small wounds.
+TP
+
+Taichi: "Uwaaa!"
+TP
+
+I took her hand.
+TP
+
+Taichi: "You're covered in wounds!"
+TP
+GL 1 TCMM0000
+GI 1 0
+
+
+WVP 0 vfccb0005msa032
+Misato: "Eh, aaah, that's true......"
+TP
+
+Taichi: "This is because you're doing it all alone."
+TP
+GL 1 TCMM0005
+GI 1 0
+
+WVP 0 vfccb0005msa033
+Misato: "............"
+TP
+
+She looked away as if upset.
+TP
+
+Taichi: "Wouldn't it be better to have everyone work on this?"
+TP
+
+WVP 0 vfccb0005msa034
+Misato: "Everyone......"
+TP
+
+Sempai lost her words for a moment.
+TP
+
+Taichi: "Come on, it's a club. Won't that make you feel better?"
+TP
+GL 1 TCMM0004
+GI 1 0
+
+
+WVP 0 vfccb0005msa035
+Misato: "B-but won't it be hard to get everyone together-"
+TP
+
+Taichi: "We can do it. We just have to use the appropriate pawns to capture them."
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+
+Taichi: "Just as the frog takes the slug while suggesting the snake obtain employment to avoid being eaten by it, it is of vital importance to form human society with precise human resources that can strike at the vital points of the task."
+//Is it just me, or is Taichi talking more than he did during the first week? Å`IX
+TP
+
+Taichi: "Theoretically, you can achieve dominance by placing on the stage pieces you can use via friendship, as long as you're willing to pay their prices."
+TP
+
+
+
+Taichi: "Of course, there are new requisites mixed in, such as promotion and arrangement of the manager along with the complications of managing obedience to the continuing chart."
+//????????????????????????SOS?
+//Some sort of management speak? Like organising an office? - Sheeta
+//Doesn't matter what it means right since these 6 lines is just Taichi rambling on about stuff again.-Spin
+TP
+
+Taichi: "If you go that far then there will come a need to touch on Machiavellism at some point."
+TP
+
+Taichi: "Again, regarding the existence of methods which grant uplift, drama and theatrics through open political deception as recorded in Mein Kampf...
+TP
+
+
+
+"I would like to refrain from touching on the view that they desired such fortunate hallucinations to be there for them to accept, but for the sake of bringing to fruition my Third Reich..."
+//Didn't you argue about adding an " to the front of a continuing statement?-Spin
+//After just talking about Mein Kampf, I believe Third Reich should be used rather than "third empire" due to its commonality in everyday English history books/programs/lectures. - pondrthis
+TP
+
+
+
+GL 1 TCMM0005
+GI 1 0
+
+
+WVP 0 vfccb0005msa036
+Misato: "Hawawa!"
+TP
+
+Sempai's body was quivering.
+TP
+
+WVP 0 vfccb0005msa037
+Misato: "Peke-kun seems incredibly malicious......"
+TP
+
+Indeed.
+TP
+
+Due to recent times desiring unsubstantial loquacity and adapting to our circumstances in order to make us read time-wasting books, I'd already begun playing back like a recording.
+TP
+
+
+
+
+Even though I should just be honest in front of Sempai!
+TP
+
+
+
+At that point I began to trick her.
+TP
+
+Taichi: "Aaah! My head!!"
+TP
+
+GL 1 TCMM0004
+GI 1 0
+
+WVP 0 vfccb0005msa038
+Misato: "Are you okay!?"
+TP
+
+Taichi: "It, hurts......okaa-san!"
+TP
+
+WVP 0 vfccb0005msa039
+Misato: "Aaah, hang in there!"
+TP
+
+I fell over, into Sempai's chest.
+//Added comma to emphasise the last bit - Sheeta
+TP
+
+Taichi: "Somehow a super intelligent outer space being called Omrus has just come to eat away at parallelist space history by overcoming the Ergosphere using the wisdom of the Essenes!"
+TP
+
+WVP 0 vfccb0005msa040
+Misato: "I don't really understand, but please remain a good boy!"
+TP
+
+Taichi: "Get out! Get out of me!"
+TP
+
+WVP 0 vfccb0005msa041
+Misato: "Get out..."
+TP
+
+She joined forces with me.
+TP
+
+Taichi: "Uooo."
+TP
+
+Taichi: "Huu......you saved me. That resolved the spiritual threat to the universe."
+TP
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfccb0005msa042
+Misato: "That sudden development is very convenient."
+TP
+
+Taichi: "Oh no, ha ha ha. Feelings of thanks reach us from the seventh world."
+TP
+
+GL 1 TCMM0031
+GI 1 0
+
+
+WVP 0 vfccb0005msa043
+Misato: "A little mysterious......"
+TP
+
+Taichi: "And that makes me the usual Taichi."
+TP
+
+Taichi exercised to increase Taichi's appeal.
+TP
+
+GL 1 TCMM0002
+GI 1 0
+
+
+WVP 0 vfccb0005msa044
+Misato: "Good work."
+TP
+
+Taichi: "Now, what shall we do?"
+TP
+GL 1 TCMM0031
+GI 1 0
+
+
+WVP 0 vfccb0005msa045
+Misato: "Good question...well......"
+TP
+GL 1 TCMM0002
+GI 1 0
+
+
+WVP 0 vfccb0005msa046
+Misato: "Would you mind getting me something cold to drink?"
+TP
+
+Taichi: "Okay!......wait, that's it?"
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+
+WVP 0 vfccb0005msa047
+Misato: "Yes. There's nothing else in particular."
+TP
+
+Taichi: "Nnn."
+TP
+
+Thinking.
+TP
+
+Taichi: "Am I...in your way, by any chance?"
+TP
+
+Sempai waved her hands frantically.
+TP
+
+GL 1 TCMM0004
+GI 1 0
+
+WVP 0 vfccb0005msa048
+Misato: "That's not true at all. It's just......it's something I'm doing by myself."
+TP
+
+WVP 0 vfccb0005msa049
+Misato: "There's no need to involve anyone else."
+TP
+
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfccb0005msa050
+Misato: "......"
+TP
+
+She was silent.
+TP
+
+Taichi: "......"
+TP
+
+Sempai's club is something only for her.
+TP
+
+That sentence passed through the back of my mind.
+TP
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfcca0006msa029
+Misato: "I'm just doing what I love to do." 
+//CP_S
+TP
+
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfcca0006msa030
+Misato: "Same as everyone."
+TP
+
+
+Taichi: "Everyone......they're not all doing what they love, you know?"
+TP
+
+GL 1 TCMM0021
+GI 1 0
+
+WVP 0 vfcca0006msa031
+Misato: "Is that so?"
+TP
+
+
+Taichi: "I think so." 
+//CP_F
+TP
+
+Touko for instance.
+TP
+
+Is there really a need for her to come to school?
+TP
+
+When we came back from the campout, and all people had disappeared, we were cut off from civilization,
+TP
+
+Without radios or phones or internet,
+TP
+
+Unable to use water or electricity or gas,
+TP
+
+We don't even know the cause of all this.
+TP
+
+We're just a bunch of powerless "boy-meets-girl"s. All we can do is repeat our daily lives.
+//Not sure why that apostraphe was there so I changed it to this.-Spin
+//Not sure what that apostrophe is doing there either. It looks weird. Explanation please? -VDZ
+TP
+
+We can't have adventures or investigations.
+TP
+
+Those shouldn't be done.
+TP
+
+They'd only paralyze our hearts.
+TP
+
+Especially for us, as people of Gunjou.
+TP
+
+Under the current situation, the only people who haven't received mental damage......would have to be Youko-chan,
+//The comma needs to be there so that the verb isn't disagreeable lol - pondrthis
+TP
+
+Also......that girl.
+TP
+GL 2 evcc0003
+$CGevcc0003 = 1
+GP 2 0 0
+GI 2 0
+GS 2 0
+SEF 109 0
+......huh?
+TP
+
+I don't know.
+TP
+
+What I know is,
+TP
+
+She's something else, in the same way as Youko-chan.
+TP
+
+Just that feeling of something being wrong.
+TP
+
+For the ÅwcurrentÅx me, that's the limit.
+TP
+
+That aside,
+TP
+
+Youko-chan shouldn't be disturbed by something like humanity disappearing.
+TP
+
+Taichi: "There's nothing to do besides repeat how we were living up to now."
+TP
+GL 1 TCMM0005
+GI 1 0
+
+WVP 0 vfccb0005msa051
+Misato: "......"
+TP
+
+Sempai's face was grave.
+TP
+
+I beamed with even greater joy.
+TP
+
+Taichi: "That's why I tried coming to school!"
+TP
+
+Taichi: "And Harakiri Touko came too."
+//NAT
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+
+WVP 0 vfccb0005msa052
+Misato: "Kirihara-san too?"
+TP
+
+Taichi: "She was sitting in her seat, looking around aimlessly."
+TP
+
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfccb0005msa053
+Misato: "Is that so......?"
+TP
+
+Taichi: "Well, Sakuraba and Tomoki will probably show up sooner or later."
+TP
+
+Taichi: "Those guys are very nearly healthy though."
+//Is it just me or does this sentence just not work? I'm not sure what you're trying to say with this sentence, but it doesn't really work out. -VDZ
+TP
+
+WVP 0 vfccb0005msa054
+Misato: "......that would be nice."
+TP
+
+She hesitated a bit, then lowered her eyes.
+TP
+
+I could tell she was pushing herself.
+TP
+
+She was doing her best to look bright and cheerful.
+TP
+
+My heart hurt.
+TP
+
+Taichi: "......then, if there's something I can help with, please say so."
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+
+WVP 0 vfccb0005msa055
+Misato: "Ah, yes, I will."
+TP
+
+GL 1 TCMM0002
+GI 1 0
+
+
+WVP 0 vfccb0005msa056
+Misato: "Gladly."
+TP
+
+Below the summer sun,
+TP
+
+I left, leaving Sempai.
+TP
+WVP 2 se044 1 0
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+I opened the iron door and entered the building.
+TP
+
+
+I turned around to see her watching me go.
+TP
+WT 500 0
+WT 500 1
+
+WVS 3 1
+WVS 1 1
+
+
+RET

@@ -1,0 +1,160 @@
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 1
+TWS 0
+WVP 1 bgm020.ogg 0 0 0
+//HACK ADV mode, music "Deep Inside" 
+
+//つれづれと、時は流れた。
+Hours flowed by in dull tedium.
+TP
+
+
+//残った時間を、俺は読書をして過ごした。
+I have been spending the remaining time in reading.
+TP
+
+
+//以前は理解できなかったものが、最近は読めることに気づいた。
+I realized that things that I could not understand before I could now manage to read.
+//This has nothing to do with magical knowledge, and everything with emotional maturity. This is possible where he fixes the errors he kept making e.g. in CCA0015C, and finally reading for its own goal rather than cutting corners to chase a possibly literal phantom. aslo he's totally zomfgsxcvoewf reading teh byble's -GHSpellingIsForWinnerZ
+TP
+
+
+//これから俺は、多くの時間を浪費し、わずかなものを得ることになるだろう。
+From here onwards I will be wasting a lot of time, and all I will obtain will be tiny little things.
+//Getting ready to follow a religious calling, which is comparable to eremitism and priesthood due to his mental difficulties with accepting the existence of the outside. -GHS
+TP
+
+
+//支払いがほんの一週間、増えただけのことだ。
+This is just an increase in its price, an increase of a mere single week.
+//Matthew 5:25-26. Works even better considering the Youko Sendback. -GHS
+TP
+
+
+//ページを繰る。
+I flip back and forth through the pages.
+//I'm sure using the same term as for the loop is in no way SYMBOLISM. -GHS
+TP
+
+
+//文字列を脳にインプットしながら、ただ時間を消費した。
+A mere expenditure of time while inputting character strings into the brain.
+TP
+
+
+/『攻略』は失敗だ。
+The Capture, the route, has failed.
+//Obvious comment. -GHS
+TP
+
+
+//故に、やり直す必要があった。
+Ergo, it is necessary to do all over again.
+TP
+
+
+//便利なリセットは、週末にしかない仕様だ。
+The specifications of our convenient reset put it outside of choice at the weekend.
+TP
+
+
+//またこうした日々は、いずれやってくる楽園での、生きる予習にもなる。
+And these days themselves will also become a lesson, a preparation for life in the Eden that will one day come.
+//I suspect Tanaka has a very specific conception of what awaits in Heaven. If so, I agree with him. It's probably part of the reason why Cross Channel's meaning is so obvious to me. -GHS
+TP
+
+
+//時間をかけて生きる癖をつけないといけない。
+It is indispensable to grow into the habit, however bad, of living while expending time.
+//This has nothing to do with wasting it, best seen in the ending. -GHS
+TP
+
+GL 0 BGCC0000A
+GS 0 1
+SEF 109 0
+//HACK to sky -GHS
+
+//ふと窓の外を見る。
+Casually, I look out of the window.
+TP
+
+
+//蝉も鳴かない世界だが、どこかに誰かがいる。
+Even in this world where not even the cicadas cry somewhere, someone, must be among us.
+//Renewing the idea that his messages also don't literally cross the barrier between worlds. -GHS
+TP
+
+
+//感じることはできないが、そういう事実がある。
+That is something I cannot sense, yet, this is the truth:
+TP
+
+
+//どこかに誰かがいるということ。
+somewhere, someone, must be there.
+TP
+
+
+//それは幸福だ。
+That is happiness,
+TP
+
+
+//あまりにも健全で、あたたかくて、胸がほんの少しだけ締めつけられたのだった。
+so excessively wholesome in its warmth the what is inside the chest tightened, only just a little.
+TP
+
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 109 1
+
+//そして―――
+And then---
+//Hahahah, now it looks like
+TP
+
+
+
+
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 2
+WVS 1 1
+//HACK end music -GHS
+
+WT 1500
+WT 1500 1
+
+
+
+
+
+
+$B = 1
+IF $SB_FALSE < 19 JMP L_INC
+JMP L_DODGE
+//HACK I've tweaked it. Watch out now. -GHS
+
+
+:L_INC
+
+$SB_FALSE + 1
+
+:L_DODGE
+IF $SB_FALSE > 17 $B = 2
+
+
+
+
+
+
+
+RET

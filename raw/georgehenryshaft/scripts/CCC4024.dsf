@@ -1,0 +1,401 @@
+
+GL 0 bgcc0002
+GS 0 1
+GS 1 0
+
+SEF 152 0
+
+//太一「途中までは一緒だな」
+Taichi: "We're together part of the way."
+TP
+
+GL 1 TCYM0003
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC4024mki000
+//美希「はい」
+Miki: "Yes."
+TP
+
+//歩く。
+Walking.
+//Copyp--- whoa, it isn't? -GHS
+TP
+GL 0 bgcc0005
+GS 0 1
+GS 1 0
+
+SEF 152 0
+//途中、美希が手を繋いできた。
+On the way, Miki linked hands.
+TP
+
+//太一「……ん？」
+Taichi: "...hm?"
+TP
+
+GL 1 TCYM0003
+GI 1 1
+WVP 0 vfCCC4024mki001
+//美希「お借りします！」
+Miki: "I'll be borrowing this!"
+TP
+
+//太一「うむ」
+Taichi: "Indeed."
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//神妙な。
+So meek.
+//OMFGLOL THERES A GOD KANJI THIS MEANS RELIGIAN -GHS
+TP
+
+//美希の手は小さく、細かった。
+Miki's hand was so tiny and so slender.
+TP
+
+//こんな手で、八人だけの世界の調停役として、生き延びてきたのだ。
+It's with these hands that she has acted as arbitrator in this world of only eight people, and lived on.
+TP
+
+//走る俺にキックを入れたタイミングもそうだが。
+The timing with which she kicked me as I ran, of course,
+TP
+
+//屋上で霧を助けた時の動き。
+but also in her movements when she rescued Miki on the rooftop.
+TP
+
+//あれはただごとではなかった。
+Those were not trivial things.
+//The latter, more importantly, is an act that gainsays her solipsism. -GHS
+TP
+
+//刹那の硬直を弾いて動く者。
+She's someone who leaps off of the rigidification of the moment and into the act.
+//The rigidification of the moment is an interesting concept to bring up in a world that's become still in action and time, even if just metaphorically. -GHS
+TP
+
+//ここに凡と非凡の差がある。
+That is the difference between the mediocre and the prodigious.
+TP
+
+//生きぬいて、自らをそこまで鍛えた美希。
+That's the extent to which Miki has disciplined herself to survive until the last.
+//More reminders of Youko and parallels with the ways she is wrong. -GHS
+TP
+
+//感心の一語に尽きる。
+It all comes down to one word: admiration.
+TP
+
+
+GL 0 bgcc0014
+GS 0 1
+GS 1 0
+GS 5 0
+//HACK disable darkening -GHS
+SEF 152 0
+
+//太一「じゃ、ここでお別れだな」
+Taichi: "So, here we have our parting."
+TP
+
+GL 1 TCYM0002
+GP 1 180 0
+GI 1 1
+//美希「…………」
+Miki: "......"
+TP
+
+//手を離さない。
+She does not release the hand.
+TP
+
+//太一「美希？」
+Taichi: "Miki?"
+TP
+
+WVP 0 vfCCC4024mki003
+//美希「あ、あのー、えーと」
+Miki: "Ah, uhmmm, welll."
+TP
+
+//太一「まだ話したりない？」
+Taichi: "Still want to talk some more or something?"
+TP
+
+
+GL 1 TCYM0000
+//HACK less ecstatic Miki -GHS
+GI 1 0
+WVP 0 vfCCC4024mki004
+//美希「はい、実は……」
+Miki: "Yes, the truth is..."
+TP
+
+//太一「実は？」
+Taichi: "The truth is?"
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC4024mki005
+//美希「ええと、そのー、あー、確か……」
+Miki: "Welll, it's, ah, really..."
+TP
+
+//停滞。
+Stagnation.
+//CP CCA0019
+TP
+
+//助け船を出す。
+I launch a lifeboat.
+TP
+
+//太一「そういえば」
+Taichi: "Come to think of it,"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4024mki006
+//美希「はいっ」
+Miki: "Yes?!"
+TP
+
+//顔が輝く。
+Her face lights up.
+TP
+
+//強くなっても無邪気だった。
+She became strong, but still she was innocent.
+//Strength does not mean losing innocence... -GHS
+TP
+
+//太一「屋上で霧を助けたろ？」
+Taichi: "You saved Kiri on the rooftop, right?"
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCC4024mki007
+//美希「ええ」
+Miki: "Yah."
+TP
+
+//太一「俺は目だけはいいからわかるんだけどね」
+Taichi: "All that's good of me are my eyes, so I understood this."
+//Interesting he'd praise his eyes now, of all things... -GHS
+TP
+
+GL 1 TCYM0002
+GI 1 0
+//HACK sadder Miki -GHS
+
+WVP 0 vfCCC4024mki008
+//美希「……はあ？」
+Miki: "...huh?"
+TP
+
+//太一「あれは打算する者の動きではなかった」
+Taichi: "Those where not the motions of a calculating self-interested person."
+//She outgrew her problem, IOW. The problem is, without someone else rubbing her face in it, she doesn't know. This is the same thing with Taichi and HIS problem! -GHS
+TP
+
+GL 1 TCYM0004
+GI 1 0
+//HACK actually do it. -GHS
+
+
+//瞳が見開く。
+Her eyes open wide.
+TP
+
+//太一「とだけ言っておこう」
+Taichi: "I'll just leave it with that said."
+TP
+
+//GL 1 TCYM0002
+//GI 1 0
+//HACK no need -GHS
+//美希「……………………」
+Miki: "............"
+//This is proof of how badly she is lying to herself about herself. Miki thinks she's a reflexive egotist who doesn't care for anyone, and an insect clothed up as a person, but when push comes to shove, she helps whoever's in danger. Compare Miki saving Kiri with CCC3003, when Taichi saved Yutaka (not that he really needed saving, but...). Miki is lying to herself about herself as badly as Taichi is! That's why he's not reliable when he discusses his status as monster: because after all, it's not that Miki's all that ruthless herself. -GHS
+TP
+
+//天啓に打たれたように、立ち尽くす。
+She stood stock still as if she was struck by divine revelation.
+//See CCA0021. Hello. -GHS
+TP
+
+//太一「……今の美希のまま、生きろよ。せっかくそこまで今の自分を保ったんだ」
+Taichi: "...live on, Miki, as you are now. You've gone to great lengths to protect yourself as you are after all."
+//Don't let Cross Talks escape just because they're not net negatives for all involved: although Taichi is stupidly sincere with this, she can't but be hearing it as a complete indictment of her behavior. -GHS
+TP
+
+//太一「ずっと先を生きる別の俺を、すっげー大人のいい女になった美希がおちょくるなんて、楽しそうだ」
+Taichi: "I'm so looking forwards to you teasing a different me that lives waaay on ahead, Miki, as you become an aaawesome adult and an amazing woman."
+TP
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfCCC4024mki010
+//美希「……え、ええ……わたし、すっげーいい女になりますから……」
+Miki: "...eh, yes... because I'll become an aaawesome amazing woman..."
+TP
+
+//掠れた声。
+Her voice had become husky.
+TP
+
+//太一「よし、そんなとこだ」
+Taichi: "Good, just like that."
+TP
+
+//太一「あとこれ、日記。しっかり祠におさめておいてくれよ」
+Taichi: "And then, here, the diary. Be sure to offer it to the inside of that hokora."
+TP
+
+//受けとる手が弱々しい。
+A slender, frail, feminine hands receives it.
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4024mki011
+//美希「…………はい」
+Miki: "......yes."
+TP
+
+GO 1 1
+//HACK out doll -GHS
+
+//身をかがめて、最後のキス。
+I bend over, and one last kiss.
+TP
+
+//すぐ離れる。
+Quickly distancing.
+TP
+GL 1 TCYM0002
+GI 1 1
+//HACK fade doll now. -GHS
+//美希「……」
+Miki: "..."
+TP
+
+//太一「ではでは、また来週」
+Taichi: "Then well then, see you next week!"
+//First part's been typically used by Miki. -GHS
+TP
+
+//この挨拶は気に入った。
+That farewell I found suitable.
+//Hapchew! Did I get a cold? -GHS
+TP
+
+//クールに決めるぞ。
+I decided, I'm gonna be cool.
+TP
+GO 1 1
+//折り目正しく踵を返す。
+With good manners I turn on my heels,
+//See CCA0009C. And it loops... -GHS
+TP
+
+//紳士的に歩いていく。
+and gentlemanly set on walking.
+TP
+
+//GL 1 TCYM0001
+//GI 1 1
+//HACK no doll now. -GHS
+WVP 0 vfCCC4024mki013
+//美希「……先輩！」
+Miki: "...Senpai!"
+TP
+
+//止まる。
+Stop.
+TP
+GL 1 TCYM0000
+GI 1 1
+//HACK doll now, with the fade -GHS
+
+WVP 0 vfCCC4024mki014
+//美希「今週もー！　お世話に！　なりましたっ！」
+Miki: "Thank you again! For all you have done! This week tooo!"
+TP
+
+//応援団風の挨拶に、口元がゆるむ。
+A farewell shouted like she were in a cheer squad, that makes my lips curl into a smile.
+TP
+
+//太一「……おう」
+Taichi: "...right."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4024mki015
+//美希「また、来週！」
+Miki: "See you! Next week!"
+TP
+
+//手をぶんぶん振る。
+Hands shaking swiftly.
+TP
+
+//そうそう。
+Yeppy yep.
+//Nanaka now. -GHS
+TP
+
+//一人で生きようとする者は、気張ってな。
+People who intend to live alone really gotta go all out.
+TP
+
+//自分を大切にするのは、時としてつらい道だけど。
+But the way of holding oneself so precious is, at times, painful.
+TP
+
+//極論ではあるが。
+It's something of an extreme argument, but,
+TP
+
+//自己犠牲は、ひるがえせば全て自分のための行いとも言えるのだから。
+it's because if one tries to take their self-sacrifices back, they'll all become acts that can be said to have been merely performed for the sake of the self.
+//Except, even with the loop, the past can't be taken back. The only way to make this work is for some future event to make these nothing but the expectable stumbling of an infant trying to learn to walk. This would still require Christian philosophy to really work. -GHS
+TP
+
+//美希はメチャ正しい。
+Miki is unreasonably correct.
+//...as long as he sticks to his erroneous assumption that the past can be changed. This is why he's wrong even when technically he's right. -GHS
+TP
+
+//太一「おーう」
+Taichi: "Oooh-huh."
+TP
+
+//こうして、俺たちは別れた。
+And that was how we parted.
+TP
+
+WVS 1 1
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 1
+
+RET

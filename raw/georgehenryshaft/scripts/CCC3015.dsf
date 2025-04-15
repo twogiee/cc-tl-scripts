@@ -1,0 +1,477 @@
+WVP 1 bgm002.ogg 0 0 0
+
+GL 0 bgcc0007
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 152 1
+
+
+//でも部活があるしな。
+But I have club don't I.
+TP
+
+//先輩の図面。
+With Senpai's blueprints.
+TP
+
+//この泣き言リストが問題点だとして、これを解決すれば発信できる体制になると信じよう。
+This sob-filled list of complaints is the problem at hand, and I want to believe that if these points are resolved, the system will become capable of signal transmission.
+TP
+
+//先輩を信じるのだ。
+Senpai believes it.
+TP
+
+//信じる。美しい言葉である。
+Believe. What a beautiful word that is.
+//Signal transmission: 発+信 "send out" + "believe". Naturally, as random as a reference to a 1975 Turkish movie about leprechauns in Cross Channel. -GHS
+TP
+
+//乾きを潤してあまりある。
+There is so much there to dampen the dryness, to quench a thirst.
+TP
+
+GL 0 zzzrooftopzoom
+GI 0 1
+//HACK zoom -GHS
+
+//作業開始。
+Beginning work.
+//See CCX0001 -GHS
+TP
+
+//炎天下での作業が続く。
+Fatigue duty continues under the scorching sun.
+TP
+
+//俺は日射には滅法強い。
+I am extraordinarily resistant to sunstroke,
+TP
+
+//髪が白いからだ。
+because my hair is white.
+//He can drive: he has studied racing mangas. -GHS
+TP
+
+//これだけでかなり違ってくる。
+That alone makes quite the difference.
+TP
+
+//そんなわけで真夏日だが、作業は進む。
+Today may be a Manatsubi, with its temperature likely above 30 Celsius, but work continues.
+//THIS IS EDUTAINMENT BITCHES AND YOU! WILL! LEEEEEARRRRRNNNN!!!asdsafdfdaskldies -GHS
+TP
+
+//ほどなくして。
+Soon afterwards,
+TP
+
+//太一「……ん？」
+Taichi: "...hm?"
+TP
+
+//霧じゃないか。
+Isn't that Kiri?
+TP
+
+//フェンスの際に立って、景色を眺めている。
+Standing at the edge of the fence, gazing at the landscape.
+TP
+
+//俺に気づいてないのか。
+Did she not notice me?
+TP
+
+//そんなはずはない。大きな音を立てて作業しているのだから。
+That can't be. I'm making very loud noises working here.
+//Or Kiri also pretends not to hear... or see. -GHS
+TP
+
+//太一「おーい、霧ー！」
+Taichi: "Heeey, Kiriii!"
+TP
+
+//呼ぶと。
+I call to her.
+TP
+
+//霧はゆったりとした歩調で歩いてきた。
+Kiri walked to me at a loose, easy pace.
+//She noticed him, she was just... sort of there. -GHS
+TP
+
+GL 1 TCSK0000
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfCCC3015kri000
+//霧「なんですか」
+Kiri: "What is it?"
+TP
+
+//太一「いや……特に用事ってわけじゃ……」
+Taichi: "Well... it's not like I have anything in particular in mind..."
+TP
+
+//霧はちらと興味なさげにアンテナを見あげた。
+Kiri glanced, seemingly disinterested, up at the antenna.
+TP
+
+GL 1 TCSK0002
+GI 1 0
+
+WVP 0 vfCCC3015kri001
+//霧「……部活、本当にやってるんですね」
+Kiri: "...you are really doing this club thing then."
+TP
+
+//太一「まあな」
+Taichi: "Ehhh well."
+TP
+
+//太一「こう暑いと、海にでも行きたくなるけど」
+Taichi: "But with this heat I actually wanted to go to the beach."
+TP
+
+//太一「去年は行ったよな。覚えてるか？」
+Taichi: "We went last year. Remember that?"
+TP
+
+GL 1 TCSK0000
+GI 1 0
+
+WVP 0 vfCCC3015kri002
+//霧「……はい」
+Kiri: "...yes."
+TP
+
+//太一「楽しかったな。美希には悪いけど」
+Taichi: "That was so fun! Too bad about Miki, though."
+TP
+
+WVP 0 vfCCC3015kri003
+//霧「……はい」
+Kiri: "...yes."
+//CP above
+TP
+
+//やけに素直だな。
+Frightfully docile, isn't she.
+TP
+
+//というか様子が変だ。
+Or should I say, things are weird.
+TP
+
+//太一「……どした？」
+Taichi: "...what is it?"
+TP
+
+GL 1 TCSK0002
+GI 1 0
+
+WVP 0 vfCCC3015kri004
+//霧「その……支倉先輩が……」
+Kiri: "It's... Hasekura-senpai, she..."
+TP
+
+//太一「曜子ちゃんが……監視してる？」
+Taichi: "Youko-chan... she's monitoring you?"
+TP
+
+
+GL 1 TCSK0000
+GI 1 0
+WVP 0 vfCCC3015kri005
+//霧「は、はい……」
+Kiri: "Y-, yes..."
+TP
+
+//霧の手が震えている。
+Kiri's hands are trembling,
+TP
+
+//あんなに気丈な娘だったのに。
+despite her being so stout-hearted a girl.
+TP
+
+//怯えて。
+She's frightened.
+TP
+
+//見る影もなく、萎縮していた。
+She had withered beyond recognition.
+TP
+
+GL 1 TCSK0004
+GI 1 0
+//HACK raised eyebrow Kiri -GHS
+
+WVP 0 vfCCC3015kri006
+//霧「それで」
+Kiri: "And that,"
+TP
+
+GL 1 TCSK0004
+GI 1 0
+WVP 0 vfCCC3015kri007
+//霧「それで……」
+Kiri: "And that..."
+TP
+
+//声が震える。
+Voice shakes.
+TP
+
+//見ていられなかった。
+I couldn't look at her.
+//Here's the next step that pushes him to go try be Alter Egos with her later: she's being bullied... by Youko. The irony is so very deep. -GHS
+TP
+
+//未成熟ながら、美しいガラス細工みたいな女の子だったのに。
+Because she was immature an immature girl, and yet so like a beautiful glass sculpture.
+TP
+
+//触れれば汚れ、掴めば壊れてしまいそうな脆さがあったのに。
+Because she had this fragility, that to touch was to make her filthy, and to grip was to shatter her.
+TP
+
+//こんな……中途半端な有様は、どういうことだ。
+But what to do with something this... half-baked.
+//"I know! Let's give 'er another half!" -GHS
+TP
+
+//曜子ちゃんを恨む気持ちがある。
+I feel resentment towards Youko-chan.
+TP
+
+//ああ、俺はまた沈んでいるなと思う。
+Ahhh, don't sink down again, you.
+TP
+
+//テンション高めに保っていられる時はいい。
+I prefer times where the tension can be kept high.
+TP
+
+//そうでない時、俺の心は沈んでいく。
+In times where it can't, my heart sinks.
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//深い部分。
+To somewhere deep.
+TP
+
+//日が届かない深淵。
+An abyss that sunlight doesn't reach.
+//The Marianas Trench. ...uhm wait -GHS
+TP
+
+//光のあたたかさを忘れさせ、ただ個体で生きるものにする場所。
+A place that makes you forget all the light, that swallows whole all that desires but to live as an Individual.
+//Sounds like the Nietzscheian abyss, the one that stares back. -GHS
+TP
+
+//心というものが必要ない場所。
+A place where this thing called a heart is unnecessary.
+//The difference between "living alone as Individual" and "accepting there is no permanence in Crossing" is so very fine... -GHS
+TP
+
+//長くいれば、凍った心もやがて退化し、純粋な生きる意志。
+Being there for long eventually makes this frozen heart degenerate into a pure volition to live.
+//Will to Power. -GHS
+TP
+
+//自分が深海に生きる存在であるように錯覚する。
+There's this hallucination that I am as if something that lives deep beneath the seas.
+//Water metaphor... continues! Also see CCA0030 ("full starboard"). -GHS
+TP
+
+//それもいいと思うのだ。
+That, I think, would also be good.
+TP
+
+//たとえば世界に、自分一人だけならば。
+For example, if I were to be by myself in this world alone,
+TP
+
+//傷つけないで済むから。
+I would have no need to hurt anyone.
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+//太一「……霧、部活手伝え」
+Taichi: "...Kiri, help with club."
+TP
+
+//唐突な提案は、霧の瞳を円形にした。
+The sudden proposal made Kiri's pupils turn circular.
+//She Mickey Mouse now or som--- Mickey, right. -GHS
+TP
+
+GL 1 TCSK0003
+GI 1 0
+//HACK flustered Kiri instead -GHS
+WVP 0 vfCCC3015kri008
+//霧「ぶかつ？」
+Kiri: "Activities?"
+TP
+
+//太一「そうだ」
+Taichi: "Yes."
+TP
+
+//太一「……一人では……終わらんのだ……助けてくれ……」
+Taichi: "...alone I... can't finish this and... help me please..."
+//Sorta broken -GHS
+TP
+
+//先輩から引き継いだ泣き言を、下級生にそのままぶつけた。
+I thrust, unaltered, the complaints I inherited from a Senpai onto an underclassman.
+TP
+
+//霧に脚立の上で作業させることによって、パンチランド建国という幸運も期待している自分がいた。
+Because there also exist the expectation within myself that via making Kiri work on top of the stepladder the blessed event that is the Foundation of Panchiraland will occur.
+//See CCB0005 -GHS
+TP
+
+//太一「パンチラはいい……」
+Taichi: "Panchira's nice..."
+TP
+
+GL 1 TCSK0000
+GI 1 0
+//HACK normal Kiri -GHS
+
+WVP 0 vfCCC3015kri009
+//霧「今、なんて言いました？」
+Kiri: "What... did you just say right then?"
+TP
+
+//太一「アンテナがＥ型という機種でな」
+Taichi: "The antenna is an E-plane type, you know."
+//Uncertain as it's less than trivial to find the technical stuff in either language. Should be the correct term, however, meaning it's omnidirectional. -GHS
+TP
+
+GL 1 TCSK0001
+GI 1 0
+WVP 0 vfCCC3015kri010
+//霧「パンチラと聞こえたのですけど」
+Kiri: "I heard 'panchira' however."
+TP
+
+//太一「言ってないよそんなこと」
+Taichi: "I haven't said such things."
+//Intentional -GHS
+TP
+
+//口笛を吹く。
+I whistle.
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3015kri011
+//霧「……何、したらいいんですか？」
+Kiri: "...what... should I do here?"
+TP
+
+//太一「手伝ってくれるの？」
+Taichi: "You will help, then?"
+TP
+
+GL 1 TCSK0000
+GI 1 0
+WVP 0 vfCCC3015kri012
+//霧「命令なんですよね？」
+Kiri: "Is this not an order?"
+TP
+
+//太一「……あー、まー、そーねー」
+Taichi: "...ahh, wellll, that iiis..."
+TP
+
+WVP 0 vfCCC3015kri013
+//霧「借りは返しきっておきたいですし、手伝います」
+Kiri: "As I want to return what I borrowed in full, I will help."
+//Like with the end of Touko's route, this makes zero sense if one hasn't gone to help her. Flat-out plot hole in this case. OTOH... she doesn't believe her debt cleared; of course, she doesn't understand the concept of 'repayment' any more than she understands forgiveness. -GHS
+TP
+
+//太一「わーい」
+Taichi: "Weeee."
+TP
+
+GL 1 TCSK0001
+GI 1 0
+WVP 0 vfCCC3015kri014
+//霧「ただし！」
+Kiri: "That said!"
+TP
+
+//俺の言動を遮って、強い語調で。
+She intercepts my speech and conduct with strong tone.
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3015kri015
+//霧「和解するつもりは、まったくありませんから」
+Kiri: "I have absolutely not a shred of intention to reconciliate."
+//This is where readers should laugh. Deeere dere dere (that's the laugh for when tsunderes go deredere) -GHS
+TP
+
+//太一「いいよいいよ」
+Taichi: "'s fine 's fine."
+TP
+
+//太一「それもまた人生よ」
+Taichi: "That is life as well!"
+TP
+
+GL 1 TCSK0000
+GI 1 0
+//HACK normal Kiri -GHS
+
+WVP 0 vfCCC3015kri016
+//霧「指示を下さい」
+Kiri: "Instructions, please."
+//Similar, but not quite, to CCA0015 -GHS
+TP
+
+//太一「んじゃー、まずこれを見てくれ」
+Taichi: "So well, first have a look at this."
+TP
+
+//図面を渡した。
+I handed over the blueprint.
+TP
+
+//キッと引き締められた顔。
+Her face tightened, severely.
+TP
+
+//一分後には、渋面になった―――
+And after a minute, it had become a grimace---
+//See CCA0016. Heh. -GHS
+TP
+
+WVS 1 1
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+WT 500 0
+WT 1000 1
+RET

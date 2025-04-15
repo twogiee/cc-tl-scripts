@@ -1,0 +1,526 @@
+............
+//The original video is here: http://www.nicovideo.jp/watch/sm203920 although it's missing part of the opening that I've implemented from http://www.nicovideo.jp/watch/sm6652645 - which is the same scenario (typos and all), but with a still early version of dolls, cut higher. I've called it the Deus Ex Chaos scenario since that's what it's called in those videos, but whether this is its actual name (or if it even has any) is not quite clear. Well, it's unique enough. -GHS
+Opening up with the scene from CCA0025B to set the proper mood.. -GHS
+......
+...
+Good.
+Let's go.
+To the Heavenly Paradise! (Tiiiny bit of inconsistency inside of that.)
+//That's redundant, not contradictory, Taichi. Though I suppose the kanji and the kana don't quite mean the same thing, religiously speaking. -GHS
+IKU!
+
+[Taichi]
+"..."
+[Taichi]
+"...how am I in the school corridor, I was about to meow-meow with Senpai at my house!"
+//See CCA0022, this is another Yusa-Misato cross reference. -GHS
+[Taichi]
+"HEEEEY! SENPAAAI!"
+[Taichi]
+"..."
+[Taichi]
+"Anyooone? Tomokiii, Sakurabaaa, Youko-chaaan!"
+[Taichi]
+"..."
+[Taichi]
+"KeN-oniiisan! Nanase-chaaan! Arakawa-kuuun! Minmei-chaaan!"
+//KeN is the head of FlyingShine. Nanase, see CCA0022, it's kanji by kanji. Supposing 荒川工 Arakawa Takumi, another scenario writer and supervisor mostly for Propeller, a child company of Will which works very close with FlyingShine (and see the Classroom of Atonement stuff). Minmei could be anyone, but if the pattern isn't "all people Tanaka works with" but "person Tanaka works with/reference/PTWW/reference", then this could be a Macross reference. Because we had a Yamato reference, I guess. And because she's based on Vera Lynn who had the song at the end of Doctor Strangelove which is a Kubrick joint. OK, the grasping at straws ends here. -GHS
+[Taichi]
+"There's nobody? The hell."
+[Taichi]
+"Then the world has Fallen!"
+//The trial only contains the first week, and it was released months before the final version, meaning at this point the only hint anyone would get that humanity is gone would be the very last screen before ending. -GHS
+[Taichi]
+"...yeah, what're you, the antiBhesis to the '90s now. You dumbass. Ner-nernerner!"
+//He actually misspells Antithesis, but later on it's correct. Hard to tell whether it was intentional, since Taichi is a moron. As the updated P-Mate Edition keeps it, going with intentional, and emphasizing the typo. See CCB2009, still no idea what that joke's supposed to be. -GHS
+[Taichi]
+"It's so empty..."
+//I decided to just use the normal dolls, instead of the beta dolls in the end; oddly enough, those beta dolls all exist in the final data files, they're used for the original credits (here replaced by a video). The dollwork here is poor, but more interestingly, there's dolls cut below the knee in the trial that don't exist in the final version. Even in that demo dolls were mostly preliminary, I guess. -GHS
+I went and ripped them from the video... and then found out that ALL DATA but the script file still exists in the final trial version... and then guess what? And I mean, guess what? The voices are still in the final voice file. This stuff shipped with the game, it's not something I added. Sigh. -GHS
+
+[Miki]
+"Senpai!"
+
+[Taichi]
+"Miki-rin! Love you!"
+//...IMO she looks way too sad, but... -GHS
+
+[Miki]
+"AaAah, don't hug meee, don't just grope my ass because I don't have boOobs!"
+
+[Taichi]
+"I'm sooo glad, I don'get all this!"
+
+[Miki]
+"Heh heh heh, seems like an explanation from Little Moe Miki-chan is necessary!"
+//Incoming troll... -GHS
+
+[Taichi]
+"So you know something about this Phenomenon, right?"
+
+[Miki]
+"Heh heh heh heh, indeed as you say!"
+[Miki]
+"The truth is that this part is simply unfinished."
+//See CCA0025C: this would actually explain why the Misato sex scene has audio files that trace it to Week 2 audio recordings, and perhaps why it segues so badly from Taichi trying to give head into actual sex, as the scene was cut. Maybe because of budget, maybe because there was no time to finish it. He WAS going mad with boredom at writing those scenes, wasn't he. -GHS
+
+[Taichi]
+"'Unfinished'? What's that mean?"
+
+[Miki]
+"...hmmm, do you have some knowy knowy on the Everett Interpretation?"
+//Ick. -GHS
+
+[Taichi]
+"Dunno. Is that a friend of the Copenhagen Interpretation?"
+//See CCD0021. And this is why I wanted this thing translated. Tanaka knew exactly what he was doing there. -GHS
+
+[Miki]
+"Not quite, but it's not important."
+//Stuff Tanaka hacked together in probably an afternoon is so damn crystal clear. -GHS
+[Miki]
+"Well, in short, this is one of the possibilities originally permitted within the visual materialization via observation that descended from the provisional definition of the core of the trial version at the instant that its production was decided."
+//"It's the first thing that came to mind when they decided this trial needed to be out and needed to be out NOW." -GHS
+
+[Taichi]
+"I get it, this is text that won't be recorded in the retail edition then."
+//The voices, however, will. I'm not even sure if it's fail or win anymore. -GHS
+
+[Miki]
+"How do you understand that?"
+
+[Taichi]
+"Dunno?"
+
+[Miki]
+"You even said 'text' in English and all. You a Definition'n'Fundamentalist?"
+//Should just mean Definition Fundamentalist. Because this isn't words, or a speech, or a part, or a situation; it's [a] Text(tm), and that camera needs to explore the Text, examine the situation, crawl over every inch of the Text, examine, study, move, but not get close to death. Deconstructiooon! That, or he fell into meta. See CCA0015C? -GHS
+
+[Taichi]
+"See, me, I'm the swellest of 21st Century Darbs, so I'll say text'n all that stuff. And with that phraseology I shall burst out in a chuckle by myself and also reap in some Ultramarine Repartee (bad joke)."
+//Mobo: "modern boy (1920s slang)". http://local.aaca.org/bntc/slang/slang.htm these should be copacetic. I think there's a pun with text here, and one that goes beyond "a pun with text". The other pun should be アンダーな娯楽性 (lit. Entertainment Material of Under) and 下ネタ (lit. pretty much the same), both meaning "blue joke". Since I've already used blue joke in CCC3018, a bad pun with ultramarine should work adequately and still serve as sort of pre-post-fore-post-shad-I dunno. -GHS
+
+[Miki]
+"You'd ever only find one person who would affect himself as 'Darb' in the 21st Century, wouldn't you."
+[Miki]
+"But that is still wonderful!♪"
+
+[Taichi]
+"Wahahah, right, it should be, most definitely."
+//Formal -GHS
+[Taichi]
+"...hmmm, that is to say, this place here is a so-called Lawless Space, perhaps?"
+//See CCC3007, CCA0021, CCA0007. It still means "I can do whatever I want and no one'll notice". Sort of like the whole of the VN. -GHS
+
+[Miki]
+"Indeed yes."
+
+[Taichi]
+"Because this won't be in the final version?"
+//TL Note: an unofficial translation patch accompanying an analysis is not 'the final version'. -GHS
+
+[Miki]
+"We can have free reign with Parody Plagiarism!"
+
+[Taichi]
+"Wah, awesooome! That'll be sooo fun!"
+
+[Miki]
+"Wanna give it one good try?"
+//いっちょ is Osaka-ben that sort of means "do it once". -GHS
+
+[Taichi]
+"Goood, well then, Miki-Miki. Then let's go have some Practice and Research on the Symbolic Characterization Mold Theory."
+//"Let's rip off some characters". See CCC0045A/B -GHS
+
+[Miki]
+"Yess'uh!"
+
+[Taichi]
+"Using this mop, gladden me with putting those gallant feelings into cleaning!"
+//Oh man, even here? -GHS
+
+[Miki]
+"Yes!"
+[Miki]
+"...uhmmm, what feeling were those, again?"
+
+[Taichi]
+"Hum! Indeed reproducing it from memory alone's gonna make for a poor rendition, so... hmmm, I'm sure you just sweep while saying stuff like "gyuuun" or "kiiin", that's it."
+//Seems to be http://en.wikipedia.org/wiki/Multi_%28To_Heart%29 Leaving the SFX literal since To Heart was never translated and anime subbers generally don't do SFX. And all I found about Multi's shtick is that she runs back and forth through the corridor (as she was taught). -GHS
+
+[Miki]
+"Gyuuuuuuuun!"
+//ーx8 -GHS
+
+[Taichi]
+"Right, right, use a ton of repeated vowels, the kind that in Japanese would be written with a single vowel and extended with dashes!"
+//... -GHS
+
+[Miki]
+"GyuuuuuuuuuuuuuuUuuuuuuuuuuuuuUuuuuuun!"
+//-x35, 3+5=8 but 35=5x7. It's all the way here. -GHS
+
+[Taichi]
+"And then, swoon while you use that line!"
+
+[Miki]
+"HawAwAaaah, Hiroyuki-saaan!"
+//Should still be To Heart, but can't find it in the anime (not that I looked *too* hard). Hiroyuki is the protagonist. -GHS
+
+[Taichi]
+"Ah, yes, peeerfect! Flawless down to the angle of rotation with which you fall down! Look! Even with an oscilloscope one can still measure the moe!"
+//Sounds like it should be a parody of a line, but no idea. -GHS
+
+[Miki]
+"Weeee!"
+
+[Taichi]
+"No breathers now, it's Taiyaki Time!"
+
+[Miki]
+"Uguu!"
+//This one I heard of... -GHS
+
+[Taichi]
+"Hoh hoh, response on the spot, nice one Miki-Miki... do you prefer an Anman instead?"
+//Is this still Kanon? Wonder where that came from... see CCA0014A and more. -GHS
+
+[Miki]
+"Thinking over it, they're both Anko."
+//Anko is both bean paste and a fish, supposing it can be both and Anman (filled with bean paste) and the Taiyaki (fish-shaped). -GHS
+
+[Taichi]
+"That may also have a philosophical meaning (as if!)."
+//See CCA0015B, CCX0001. -GHS
+
+[Miki]
+"Delicious!"
+
+[Taichi]
+"And then, immediately make return to the car! And then, many years later, awaken to pleasant feelings in my regards due to me having gotten a new girlfriend!"
+//Probably a mix of other characters from Key and other VNs. I'd read Clannad but those hairstyles scare me. -GHS
+
+[Miki]
+"Wah! Balance, mister, balance!"
+//Too many characters compounded onto her... who's already altogether too important in the VN - remember Tower of Friends had to be an alternate Miki route. But it's typical Taichi. -GHS
+[Miki]
+"So, which will you choose?"
+//Between Miki and the new GF he had "gotten"...? -GHS
+
+[Taichi]
+"Hmmm, difficult!"
+[Taichi]
+"Difficult and therefore... I'll decide after I impregnate BoBoBoBoth of Yuuu!!!"
+//ゆ/8, see below -GHS
+
+[Miki]
+"That's sooo dark nukige!!!"
+//Lit. Brute Rape/humilation, but going with uhmmmm technical term due to how this is still Taichi's backstory: fetish moe that gives way to dark rape. That is why the "yu" above seems suspect, see CCX0001. Notice this is the exact same flow. -GHS
+
+[Taichi]
+"Chivalry is this 'stem' that lays at its rooot!!!"
+//"Chivalry is the stem that lays at its root; the flower that on it must bloom is by others admired and respected", from Nitroplus' Vampirdzhija Vjedogonia, which I haven't read and is untranslated so I don't even know what the context is. Oh well, Taichi here naturally means his own dick. -GHS
+
+[Miki]
+"Pagyuuu!!!"
+//See CCB2015, with a reminder that To Heart and Comic Party are from the same company. -GHS
+
+[Taichi]
+"Whew, we did a good deal of research didn't we."
+//I sure as hell did you damn [4Mb of swearwords removed]. -GHS
+
+[Miki]
+"Didn't we now."
+
+[Taichi]
+"And now, let's give one good try to gangraping, how about?"
+//All class. -GHS
+
+[Miki]
+"......what?"
+
+[Taichi]
+"Don't we have that familiar army of silhouettes of men, maybe?"
+//I tried ripping the music just as a joke, and - I still can't believe this - it's from Shokuzai no Kyoushitsu: Bad End! And then, later on, I tried ripping the (later) trial apart, and the music STILL exists! I had to use ArcConv to get it off SnK: BE, which converts it to WAV, but the original file in the trial (here used) has tags: creepily enough, the piece is called "Shinkawa". -GHS
+...odd as it may sound at this point, the original BG was NOT from SnK: BE. As with the music, this was still available in the trial, so here it is. -GHS
+This effect wasn't used in the main story at all. -GHS
+
+[Miki]
+"Uhm, Sensei."
+
+[Taichi]
+"What is it?"
+
+[Miki]
+"Is this progressing in ways that will demand worthless little me to perform Atonement?"
+//Unfortunately that 2001 piece of crap won't run on my PC - when the 2000 prequel does. And I can't even open the script files so I can't even read it that way, Crass doesn't like its files (BSOD level doesn't), and Arc_conv got me only the video and audio. There's anime for the two if you want more, there's some deceptions but how much of the original story is left I have no idea. Anyway, Taichi's backstory fits the idea of "bad end nukige sequel", while "atonement via sex" will return e.g. CCD1001, and of course it doesn't work. -GHS
+
+[Taichi]
+"With a 3P or 4P, obviously!"
+//See, uhm, Shokuzai no Kyoushitsu. No, really, most of those are gang rapes. -GHS
+
+[Miki]
+"......"
+[Miki]
+"...e'hy."
+//Imitative behavior even here! -GHS
+
+Thunk!
+//It's a documented SFX??? WHAT IS THIS MADNESS -GHS
+
+[Taichi]
+"Alooo~n..."
+//It literally means "alone", so it's too weak to find a reference. -GHS
+
+Thud!
+
+[Miki]
+"Apologies, Senpai... I hold myself as so very precious."
+//See CCC4022, CCC0019. Hot damn, Miki was unreset even here??? -GHS
+
+[Taichi]
+"Well then now."
+
+[Miki]
+"Resurrected so fast!"
+//Of course, he's immortal too. -GHS
+
+[Taichi]
+"Where is here, who am I?"
+
+[Miki]
+"Ahhh, speaking of staples, that's a popular one too!"
+//Too popular to trace. Same term as in CCC0007. -GHS
+[Miki]
+"As expected from Senpai, even losing your memories you just keep on playing around..."
+//And speaking of staples, have a generic translation to complement the Heroes Have Memory Loss trope that plays throughout, as well as a very strong hint about the truth in Cross Channel. -GHS
+
+[Taichi]
+"I must reach the Mayohiga."
+//Odd romanization so it googles to http://touhou.wikia.com/wiki/Mayohiga NOT a Touhou reference as should be understandable from the article, but it's one of the few bits in English on the subject I can find. Japanese Wikipedia (J only): http://ja.wikipedia.org/wiki/%E8%BF%B7%E3%81%84%E5%AE%B6 -GHS
+
+[Miki]
+"Aw, he's saying stuff I donn'get."
+[Miki]
+"Second time reset!"
+//Gainax-proof troll meter's heading towards the red. -GHS
+
+Thunk!
+
+[Taichi]
+"Wafuunh..."
+//Still too generic to source. -GHS
+
+Thud!
+
+[Taichi]
+"OwChChChCh!"
+
+[Miki]
+"Senpai?"
+
+[Taichi]
+"Eh, who's you?"
+
+[Miki]
+"(Perfect.)"
+
+[Taichi]
+"Also, who's I?"
+
+[Miki]
+"You are someone who has the possibility of becoming all possible Protagonists with a Memory Loss Character Attribute via Quantum Theory, Senpai."
+//!!!SHE HYPNOTIZED HIM BEFORE THE START OF THE REAL GAME!!! !!!It was Miki's fault all along!!! -GHS
+
+[Taichi]
+"Wow."
+
+[Miki]
+"Incidentally, in this situation, the specifics of the past are refined on the instant of recall. 'Course there's no change in total mass of possibilities originally permitted even including that past. In short, it's how all eroge are siblings!"
+//Plus, if all eroge are siblings, so are their authors... or maybe it just means that everybody in eroge is an older brother with an imouto, see CCZAS. -GHS
+
+[Taichi]
+"I see."
+
+[Miki]
+"However, it's seen as an antithesis-like stance, and oddly superficial explanations are frequent... the Trial Version's only the prologue but some parts are unimplemented... does this even look finished, meow?!"
+//The first part applies to readers who would take too much from this trial, especially considering the errors that would be made if one were to judge CC just from the first week, but it could apply as well as to readers that see this as nothing more than a vaguely Nietzscheian work filled with OMFG HARD KANJI's where the big draw is the superficial deconstruction of character stereotypes. That isn't so much prescient as it is outright prophetic. -GHS
+[Miki]
+"So what should we do about that?"
+
+[Touko]
+"That's simple!"
+//This one, however, I had to take from the video. -GHS
+
+[Marie]
+"Meow!"
+//Given all the fuss on Marie Antoinette, going with this. -GHS
+
+[Miki]
+"Ah, Marie!"
+
+[Touko]
+"We put this kitten in the box... there."
+
+[Miki]
+"Sort of sudden but kinda predictable."
+//This further strengthens the "Cats Belong In Boxes" interpretation. -GHS
+
+[Touko]
+"You have no problem confining Chinese people in rooms after giving them dictionaries, however."
+//I'm unsure if it's some really racist joke, a VN reference, or just some real world thing. Can't source it... -GHS
+
+[Miki]
+"That seems a very different thing..."
+
+[Touko]
+"And put it on the ground... there."
+
+[Miki]
+"Marie is either alive or dead... well well."
+//Is that supposed to be a pun between 'marii' and '(shinde)tarii'? You can tell this was slapped together in three hours, can't you. "Benben" should be 'lazy', unless it's Uodzu-ben then it's "blood". Still sounds off. -GHS
+[Miki]
+"And?"
+
+[Touko]
+"Normally, where do you think Marie lives?"
+
+[Miki]
+"At the FlyingShine Headquarters."
+//...so Marie Antoinette is/was the FlyingShine cat...? I guess that explains something. -GHS
+
+[Touko]
+"Right. In short, the FS Headquarters is, as it were, the box!"
+//See CCC0016A, this is still the FS Explanation (though I prefer to call it MetaVN Interpretation). -GHS
+
+[Miki]
+"Whassat you said?!"
+//Reminds of CCB0004C. What's even so surprising about this... -GHS
+
+[Touko]
+"And therefore Marie is, as it were, Cross†Channel!"
+//Of course, they forgot to put the poison in the box, so the cat isn't in a dead and alive superstate. More importantly, Cross Channel is a cat plausibly named after Marie Antoinette; even basic maths is starting to look invalid. -GHS
+[Touko]
+"In other words until we look in on release day it is indefinite whether this is complete or not yet should this not be completed then depending on the slit that is the subjectivity of the observer it may perhaps be completed and therefore we're sinless,
+//"The final product may be unfinished, but people might still think it's finished so don't pick on me". Well, after messing in its guts with a more edited version as a reference for nigh on 10 months, damn straight it was unfinished. Some parts were only just started! PS: The slit is on the box. PPS: fnarrrr. -GHS
+
+sinless, sinleeeeess... (echo)"
+//Because CC is teh bible gamez -GHS
+
+[Miki]
+"Awww, she ran away halfway through a somewhat off-the-point explanation! Meanieee!"
+[Miki]
+"I could hear the echoing of her voice... is that the Doppler Effect? openparenthesis Nope! closeparenthesis."
+//She actually says the whole thing in the voice. Someone probably forgot to tell them it's not to be pronounced... or it's part of the charm. See CCD4003, that's why I kept it the same. Early hints that sci-fi and MWI and science in general here is bull, although given the rest of the story, the mention of Copenhagen and Everett are far more telling of intentionality. -GHS
+
+[Taichi]
+"And what do we do now?"
+
+[Miki]
+"...right-desu-nya. What do we do?"
+//Screw it, I'm keeping at least ONE desu-nya here. -GHS-desu-nya
+
+[Taichi]
+"This little boy here is hungry, H*rm*o*e."
+//And because I want you people to understand the sacrifices I make for this art, having searched Amazon Japan for Harry Potter, now my recommendations will include it. Along with physics textbooks in Japanese. Why, just as of writing I got recommendations for A-Train HX for Xbox 360 in the mail. I've bought nothing but eroge from there! Why am I even getting that recommendation! And, HX? Wasn't it like yesterday that A-Train IV was released as A-IV Network$ yes with a dollar instead of the S? It had FMV (???) and all! No, wait, I did see A-Train VI, so where did[further irrelevant tangent snip] -GHS
+
+[Miki]
+"If that'd had come out of your mouth in the full version, you'd have been vanished you know."
+//Only two times that term's used in CC are CCA0007 (near the thrice-damned CCA0008) and CCC4025... with regards to Miki's incoming reset. -GHS
+
+[Taichi]
+"...y-, yes, I'll be careful! That's so scary."
+
+[Miki]
+"It's not a question of making people angry or anything. It's just that there are exist beings that one ought not make enemies of."
+//And now Tower of Friends... or maybe just the Nihil, see CCX0001. -GHS
+
+[Taichi]
+"That's why I used three asterisks."
+//Original = O. They're totally the three main orifices of women are they. #sexyst well now they're full-width asterisks because Miki being Hermione is Too Bad It's Trainwreck Shit, to write it in a way that most on the Internet can understand. -GHS
+
+[Miki]
+"Yes, but still..."
+//I wonder if this was at the point when the studio told him to tone it down, which is likely when the Youko route had that joke about the Sonny Bono law added... -GHS
+[Miki]
+"Now, well, let's just go."
+
+[Taichi]
+"Eh, to where-y?"
+
+[Miki]
+"Wherever we want!"
+[Miki]
+"As long as it's incomplete, us two should be fixing ourselves to a different game now."
+//"We can be anything we want as long as we're not in the final version" + "go play something else until this releases" + fixing of possibilities and stuff also meta-relates to the linearity of VNs and all that. -GHS
+
+...
+......
+............
+
+[Taichi]
+"............"
+[Taichi]
+"Ehhh?
+
+[Mizato]
+"What is it?"
+//Misato is written 見里 in the final version, but there's even leftovers in some less-edited scripts that her name was originally written 美里, thus sharing a kanji with Miki. Changed romanization to underline this. -GHS
+
+[Taichi]
+"Where's Marie? And Miki?"
+
+[Mizato]
+"Heh heh heh, they are not here!"
+
+[Taichi]
+"Somehow... feels like I floated into a damn shallow faux-contemplative world."
+
+[Mizato]
+"Heh heh heh, that is your normal everyday self, is it not?"
+//And blurt out another spoiler while you're there! -GHS
+
+[Taichi]
+"............"
+
+Is this person here truly the real Senpai?
+
+[Mizato]
+"What is it?"
+//...but it's a separate take. -GHS
+
+[Taichi]
+"Nothing..."
+
+Well, whatever.
+However it goes, this ain't gonna be in the final version.
+Still, whatever one can think, the person here who thought he had picked a sex scene and found himself made to read some mediocre meme-riddled crap's gotta be really really angry, I guess.
+Sowrry!
+//-nyan. -GHS
+The number of sex scenes will be low, I think, but they'll be as rich in content as possible, so please be patient.
+So I swear on the name, Kurosu Taichi! (sha-KIN!)
+//See CCB2019, only other time it's used (around Misato). -GHS
+             Translator's notes
+This scenario was originally included in older
+releases of the Trial Edition of Cross Channel,
+published in Tech Gian and P-Mate magazines.
+This scene takes the place of the Misato sex
+scene, which was not complete at the time.
+Although that specific trial edition was
+impossible to procure, the data files outside of
+the actual script were left over in the trial
+version still available around the Internet, while
+the voices mysteriously shipped with the final
+version. The script itself was rebuilt from
+available videos of the scene.
+The extra music cue comes from Shokuzai no
+
+[Kyoushitsu]
+Bad End, which is the same VN by
+
+ruf and FlyingShine from which the CG used
+during the "Mof Mof" explanation comes from.
+Although a similar one exists in both that VN and
+its predecessor SnK, the new BG does not.
+//Explained because I need to explain so much that I added a note explaining why I need to explain the explan--- damn my ATM machine broke down again. Oh well, we're done now. Thanks for reading! Oh, did you find the easter egg? -GHS

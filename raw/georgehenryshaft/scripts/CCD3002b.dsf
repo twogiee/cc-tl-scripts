@@ -1,0 +1,360 @@
+
+
+
+
+
+//太一「霧」
+Taichi: "Kiri."
+TP
+
+
+//全身が強ばる。
+Her entire body stiffens.
+//CP CCC0013B
+TP
+
+
+//ゆっくりと振り向く。
+Slowly she turns to face.
+//CP CCC0013B
+TP
+
+
+GL 0 evcc0027a
+$CGevcc0027a = 1
+GS 0 1
+SEF 155 0
+WVP 1 bgm016.ogg 0 0 0
+//HACK earlier CG, later music -GHS
+
+//振り返れば、厳めしい面差し
+What looks back at me are unsparing features.
+//CP CCC0013B
+TP
+
+
+
+//太一「おはよう」
+Taichi: "'Morning."
+TP
+
+
+WVP 0 vfCCC3102bkri000
+//霧「……何の用です？」
+Kiri: "...what is your business?"
+TP
+
+
+//低い声。
+A low voice.
+TP
+
+
+//太一「美希君はいないのかな？」
+Taichi: "Miki-kun's not around I guess?"
+//CP CCC0014
+TP
+
+
+WVP 0 vfCCC0014kri000
+//霧「……いません」/*
+Taichi: "...she is not here."
+//CP CCC0013B
+TP
+
+
+//太一「そうか」
+Taichi: "Right."
+TP
+
+
+//知っている。
+I knew it.
+TP
+
+
+//太一「商店街の方でうろうろしてた。情緒不安定な感じだったよ」
+Taichi: "She was wandering aimlessly about the shopping district. It felt like she was emotionally unstable."
+TP
+
+
+WVP 0 vfCCC3102bkri001
+//霧「美希が……？」
+Kiri: "Miki's...?
+TP
+
+
+//太一「行ってあげたら？」
+Taichi: "Could you go?"
+TP
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+//霧は応じることもなく、教室を飛び出した。
+Kiri flies out of the classroom without any other response.
+TP
+
+
+//太一「おい、これ」
+Taichi: "Heeey, have this!"
+TP
+GL 1 TCSK0000
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfCCC3102bkri002
+//霧「……な？」
+Kiri: "...wha-?"
+TP
+
+
+//太一「昼飯。美希にあげる約束してたやつ」
+Taichi: "Lunch. It's what I promised Miki I'd give her."
+TP
+
+
+//嘘。
+Lies.
+TP
+
+
+//でもこう言わないと霧は受け取らない。
+But without telling her that, Kiri would never accept it.
+TP
+
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3102bkri003
+//霧「……どうして、あなたが……」
+Kiri: "...why are you..."
+TP
+
+
+//太一「ほら、急げよ。泣いてたぞ」
+Taichi: "Come on, hurry it up! She was crying you know."
+TP
+GO 1 1
+WVP 2 SE035 1 0
+//HACK SFX -GHS
+
+//訝しげに俺を一瞥し、霧は走り去った。
+Kiri gave one single quizzical look at me, then ran away.
+TP
+
+
+//よし、これでいい。
+Good, we're fine this is fine.
+TP
+
+
+//大きく息をついた。
+I let out a big sigh.
+TP
+
+
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+//霧とのこと、一日は時間を置かねばならないだろう。
+I expect that I will have to allot time for Kiri every single day.
+TP
+
+
+//日曜、世界は巻き戻される。
+On Sunday, the world will be rewound.
+//PCP CCC0021
+TP
+
+
+//ご破算の日。
+The day of the fresh start.
+TP
+
+
+//今の世界は理想郷かも知れない。
+The world as it is now could be my Utopia, perhaps.
+//PCP CCC0021
+TP
+
+
+//致命傷が、致命とならない世界。
+A world where a mortal wound is not fatal.
+//CP CCC0021
+TP
+
+
+//一週間で元通り。
+All back to what it was after one week.
+//CP CCC0021
+TP
+
+
+//誰を傷つけても、誰と共依存しても。
+Whoever I might wound, whoever I might co-depend on.
+//CP CCC0021
+TP
+
+
+//リセット。
+Reset.
+//CP CCC0021
+TP
+
+
+//冬子と仲良くしたら次はみみ先輩と。
+If I get on good terms with Touko, next will be with Mimi-senpai.
+//CP CCC0021
+//Someone just went too happy with copypasta methinks, as this makes little sense here. -GHS
+TP
+
+
+//霧と。
+And Kiri.
+//CP CCC0021
+TP
+
+
+//美希と。
+And Miki.
+//CP CCC0021
+TP
+
+
+//気が向いたら曜子ちゃんと。
+And Youko-chan, if I feel inclined to.
+//CP CCC0021
+TP
+
+
+//桜庭と。
+And Sakuraba.
+//CP CCC0021
+TP
+
+
+//……それはない。
+...that's not gonna happen.
+//CP CCC0021
+TP
+
+
+//だけど。
+However,
+TP
+
+
+//可能性がそこにあり、リセットから免れている場所がある。
+there are possibilities there, for there is a place that is exempt from the reset.
+TP
+
+
+//完璧なご都合主義ではない。
+This isn't complete opportunism.
+//See Kiri, Youko routes -GHS
+TP
+
+
+//だから俺は―――
+Therefore I---
+TP
+
+
+
+
+WVP 3 se001 0 0 1
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0005s
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+WVP 1 bgm004.ogg 0 0 0
+
+
+//GL 0 bgcc0005s
+//GS 0 1
+//SEF 10 2
+
+//去年の初夏だった。
+It was last year, early Summer,
+//CP CCC3001
+TP
+
+
+//新川豊と出会ったのは。
+when I had my meeting with Shinkawa Yutaka.
+//CP CCC3001
+TP
+
+
+//蝉のうるさい夏だった。
+It was a Summer of loud cicadas.
+//CP CCC3001
+TP
+GL 1 TCSY0001s
+GI 1 1
+
+
+WVP 0 vmcca0011bshi033
+//新川『ＯＫ、なんとかやっていけそうな気がしてきた』/*
+Shinkawa: 『Okieh, I got the feeling I can work with this somehow.』
+//CP CCC3001
+TP
+
+
+//太一「…………」
+Taichi: "......"
+TP
+
+
+//悪かったのは誰か。
+Who was at fault?
+//PCP CCC3001
+TP
+
+//運命や巡り合わせのせいには、できない。
+I cannot blame fate nor coincidence.
+//There is one alternative left still. -GHS
+TP
+
+
+//誰かが悪い。あるいは、誰もが悪い。
+Either was at fault. Or possibly, we all were at fault.
+TP
+
+
+//それを認められれば、結論はそう多くない。
+Once that is conceded, the conclusions aren't that many.
+TP
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+//HACK flashback exit whiteout -GHS
+WVS 1 1
+WVS 3 1
+
+
+
+RET

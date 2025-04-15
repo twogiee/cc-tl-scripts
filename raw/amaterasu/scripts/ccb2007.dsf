@@ -1,0 +1,474 @@
+
+
+
+GL 0 bgcc0005a
+GS 0 1
+SEF 152 0
+
+
+WVP 1 bgm005.ogg 0 0 0
+WVP 0 vfccb2007fyu000
+Touko: "......-you!!"
+TP
+
+The screaming in my ears returned me to my senses.
+TP
+
+Taichi: "Wh-what?"
+TP
+
+GL 1 TCKT0003b
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfccb2007fyu001
+Touko: "You were spacing out. Ignoring me. Now I'm hurt."
+//Why does this line remind me of Neko? Å`IX
+//I WAS JUST THINKING THAT! Holy crap. Add a ";_;" and we have a direct quote. - pondrthis
+TP
+
+Taichi: "Seriously..."
+TP
+
+Taichi: "Don't I have the right to space out?"
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+
+WVP 0 vfccb2007fyu002
+Touko: "......maybe you were thinking about Miyasumi-sempai."
+TP
+
+Taichi: "I was thinking about a guy."
+//I love this part. Å`IX
+//Dammit Romeo, I want a Taichi/Tomoki route! - A fujo-, er, Sheeta
+TP
+
+GL 1 TCKT0004b
+GI 1 0
+
+WVP 0 vfccb2007fyu003
+Touko: "!!??"
+TP
+
+Touko was enveloped in shock (or so it looked).
+TP
+
+GL 1 TCKT0006b
+GI 1 0
+WVP 0 vfccb2007fyu004
+Touko: "A guy......no......that's......(blush)"
+TP
+
+Taichi: "As if."
+TP
+
+That would be the worst.
+TP
+
+Although it's not necessarily wrong.
+//Looks like we have a Liberal here. WOO-Spin
+TP
+
+Taichi: "Girls who dream should be careful of those dreams."
+TP
+
+GL 1 TCKT0005b
+GI 1 0
+WVP 0 vfccb2007fyu005
+Touko: "......you three idiots are always so close, I really did see a dream or two like that."
+//That gets the message across better. Unless it was left ambiguous...I don't see a point in that though since it's clear what she means.Spin
+TP
+
+Taichi: "STOP!"
+TP
+
+Disgusting.
+TP
+
+A pure love story with one of those two...
+TP
+
+
+WVS 1 1
+GO 1 1
+Taichi: Åw......Åx
+TP
+
+CSQ 0 1 1
+  -Invite Sakuraba
+  -Invite Tomoki
+
+IF $B == 1 JMP LSAKU
+IF $B == 2 JMP LTOMO
+
+
+
+:LSAKU
+
+GL 1 TCSH0001
+GP 1 190 0
+GI 1 1
+
+WVP 0 vmccb2007sku000
+Sakuraba: ÅwTaichi, don't make me get serious.Åx
+TP
+
+JMP LBOB
+
+:LTOMO
+
+
+GL 1 TCST0000b
+GP 1 200 0
+GI 1 1
+
+WVP 0 vmccb2007yki000
+Tomoki: ÅwI don't dislike that part of you.Åx
+TP
+
+JMP LBOB
+
+:LBOB
+
+GO 1 1
+*shudder!*
+SEF 101 0
+TP
+WVP 1 bgm005.ogg 0 0 0
+
+Taichi: "Why am I thinking such disgusting things!? It's a perfectly normal friendship! Friendship!"
+TP
+
+GL 1 TCKT0000b
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfccb2007fyu006
+Touko: "How's it disgusting? At least you three idiots aren't too bad to look at."
+TP
+
+Taichi: "......don't include me in that."
+TP
+
+GL 1 TCKT0006b
+GI 1 0
+
+WVP 0 vfccb2007fyu007
+Touko: "No! You're still acting like the ugly duckling!?"
+TP
+
+Taichi: "Shut up!"
+TP
+
+That's a serious issue.
+TP
+
+I'm staving it off with self-deprecating gags.
+TP
+
+But it's true......there might not be anything wrong with my looks......
+TP
+
+But even if I know that, a reformation of my awareness can't be done that easily.
+TP
+
+Besides,
+TP
+
+Besides......
+TP
+
+Taichi: "Anyway,"
+TP
+
+Taichi: "Punishment for thinking disgusting things!"
+TP
+
+
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfccb2007fyu008
+Touko: "Eh!?"
+TP
+GL 0 evcc0023
+GL 5 bgcc0000e
+$CGevcc0023 = 1
+GS 1 0
+GP 5 0 0
+WVP 2 se100 1 0
+GI 5 0
+GO 1 0
+GI 0 1
+GO 5 1
+SEF 101 0
+*whoosh-flutter!*
+TP
+
+
+I heard that onomatopoeia.
+TP
+
+WVP 0 vfccb2007fyu009
+Touko: "......---!!"
+TP
+
+Taichi: "Heave-ho!"
+TP
+
+I grasped the hem of her skirt and held it at the top of her head.
+TP
+
+The disgrace this must bring to Touko is extraordinary!
+TP
+
+And on a public road.
+TP
+
+Now, Touko, what will you do!?
+TP
+
+What will you do!!!? Serious samurai girl!!!!? 
+(Spoken like a next episode preview)
+TP
+
+
+
+In actuality,
+TP
+
+I prepared to be beaten, I even expected it.
+TP
+
+But instead...
+TP
+GL 0 evcc0023a
+$CGevcc0023a = 1
+GS 0 1
+SEF 109 0
+Touko: "........................"
+TP
+
+She just stared at me.
+TP
+
+Her face got a little scarlet.
+TP
+
+Her apologetically held hands made no serious effort to guard her scantiness.
+TP
+
+Yet I can see everything.
+TP
+
+Taichi: "Why......aren't......you......m-?"
+TP
+
+WVP 0 vfccb2007fyu011
+Touko: "......but, no one's looking......"
+TP
+
+Taichi: "Tha-!"
+TP
+
+My lips shook.
+TP
+
+Taichi: "That's not true!"
+TP
+
+WVP 0 vfccb2007fyu012
+Touko: "Why would I get mad about a skirt flip?"
+TP
+
+Taichi: "You're supposed to go *blam* at this part!"
+TP
+
+Taichi: "Now, show me your moves."
+TP
+
+WVP 0 vfccb2007fyu013
+Touko: "......let go, I can't walk."
+TP
+
+WVP 0 vfccb2007fyu014
+Touko: "Besides......it's embarrassing."
+TP
+
+*blush*
+TP
+
+Taichi: "Blushing......"
+TP
+
+Taichi: "That's it?"
+TP
+
+The girl nodded.
+TP
+
+A cry.
+TP
+
+Nietzsche once said:
+TP
+
+"Touko is dead."
+//Yet another intentional misquote. No one try to 'correct' it. Å`IX
+TP
+
+Nay.
+TP
+
+The individual known as Touko has not died.
+TP
+
+Touko and the quick-handed competitive girl once thought to be Touko have been stripped of their greatest common factor.
+//SOS?
+//Gave a try, don't know if it's much better, and is a little farther away. - pondrthis
+TP
+
+It means that a part of Touko's individuality has died.
+TP
+
+Touko has become real once again.
+TP
+
+But I liked the Touko that was always scratching me...
+TP
+
+After all, that gives me the greatest sense of stability.
+TP
+
+Okay, if that's what it's come down to---
+TP
+
+Taichi: "Forbidden technique."
+TP
+
+WVP 0 vfccb2007fyu015
+Touko: "Let go of me already......I can't calm down with this breeze."
+TP
+
+Taichi: "I'll make the breeze even stronger. I'll make you unable to strip panties or even push napkins."
+//SOS!?
+//Umm... dunno about rewriting the line... but is "push napkins" a way to write "wipe yourself" as in after using the restroom? - pondrthis
+//Yea, "push napkins"?-Spin
+TP
+
+WVP 0 vfccb2007fyu016
+Touko: "......wait, you're not going to pull harder while I'm like this, are you---?"
+TP
+
+Taichi: "And..."
+TP
+
+Then I...
+TP
+
+Released the forbidden hand,
+TP
+GL 0 evcc0023b
+$CGevcc0023b = 1
+GS 0 1
+SEF 109 0
+And lowered her underwear,
+TP
+
+Down to her ankles.
+TP
+
+Get a mosaic, quickly! Quickly! Quickly!
+TP
+
+Oh, it's already there? That was some fast work!
+//Again, SOS......this script is mocking me, I know it is. Å`IX
+//The mosaic is the censorship. You did that one great! Just a little rewording for awkwardness- pondrthis
+//lol, with these lines, this game would never have been translated to English commercially.(Fact that they remove mosaics.)-Spin
+TP
+
+This is a matter of life and death!
+TP
+
+Taichi: "Oooh, Touko! C'est si bon! (It's so good!) C'est si bon! (It's so good!)"
+TP
+
+I made use of my strong suit, French, to praise Touko's private parts.
+TP
+
+Touko: "......"
+TP
+
+Touko: "........................"
+TP
+
+WVP 0 vfccb2007fyu019
+Touko: "-ooouuuuuu!!!"
+TP
+
+She's saying ÅwYooouuuÅx.
+TP
+
+Her tongue doesn't work right.
+TP
+
+It's obvious when you kiss her.
+TP
+
+Suck her tongue a little and it goes straight up.
+TP
+
+On the other hand, her oral cavity is as hot as a furnace.
+TP
+
+However, her tongue's as soft as cream, so tasting it simply intoxicates me.
+//That's kinda hot... rare to actually be turned on by an eroge :blush: - pondrthis
+//The "and" would imply this is the first time he's mentioned her tongue.-Spin
+TP
+
+My thoughts ran through the days of my lovelatios with Touko.
+*Lovelatio = Taichian for general fondling of the lips and mouth......maybe. Origin unknown. It appears to come from love + fellatio.
+TP
+
+Then,
+TP
+
+WVP 0 vfccb2007fyu020
+Touko: "Intolerableeeeeeeeeee!!!!!"
+TP
+WVS 1 0
+GL 4 sgcc0012
+$CGsgcc0012 = 1
+GP 4 0 0
+GI 4 0
+WVP 2 se106 1 0
+SEF 101 0
+
+
+*ka-blam!*
+TP
+
+Taichi: "Come on nowwwwwww!!!"
+TP
+
+As I danced in the air, I had this thought:
+TP
+
+
+
+The man called Shinkawa Yutaka is no longer with us.
+TP
+GL 0 bgcc0000d
+GS 1 0
+GS 0 1
+GS 4 0
+SEF 109 1
+
+WT 500 0
+WT 500 1
+
+
+
+RET

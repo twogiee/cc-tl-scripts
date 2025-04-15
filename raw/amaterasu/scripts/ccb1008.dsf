@@ -1,0 +1,189 @@
+
+
+
+
+GL 0 bgcc0008a
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+WVP 1 bgm007.ogg 0 0 0
+
+WVP 0 vmcca0018yki000
+Tomoki: "Taichiii."
+//CP_T cca0018
+TP
+
+As I walked down the hallway, my name was called.
+TP
+
+Taichi: "Oh, you're still here?"
+TP
+
+GL 1 TCST0000b
+GP 1 190 0
+GS 1 1
+SEF 109 0
+WVP 0 vmcca0018yki001
+Tomoki: "Same to you."
+TP
+
+Tomoki's face was like a noh mask.
+TP
+
+We left a subtle distance between us.
+TP
+
+Taichi: "I was at club."
+TP
+
+Taichi: "I've been showing up there lately."
+TP
+
+GL 1 TCST0004b
+GI 1 0
+
+WVP 0 vmcca0018yki002
+Tomoki: "......why this again?"
+TP
+
+Taichi: "Well, isn't it nice to have goals?"
+TP
+
+
+WVP 0 vmcca0018yki003
+Tomoki: "By 'club,' you meant 'that' nonsense?"
+TP
+
+The opening of the Gunjou Institute Broadcasting Club channel.
+TP
+
+Taichi: "That's not nonsense, probably."
+TP
+
+
+GL 1 TCST0005b
+GI 1 0
+
+
+WVP 0 vmcca0018yki004
+Tomoki: "If Taichi's doing such a thing......well, there must be some kind of reason."
+TP
+
+
+GL 1 TCST0000b
+GI 1 0
+
+WVP 0 vmcca0018yki005
+Tomoki: "Who else is participating?"
+TP
+
+Taichi: "The prez."
+TP
+
+
+
+WVP 0 vmcca0018yki006
+Tomoki: "......that's it?"
+TP
+
+Taichi: "Yes."
+TP
+
+GL 1 TCST0000b
+GI 1 0
+
+
+
+WVP 0 vmcca0018yki007
+Tomoki: "That's not a club......"
+TP
+
+Taichi: "We call it a club to pleasure ourselves."
+TP
+
+
+GL 1 TCST0005b
+GI 1 0
+
+WVP 0 vmcca0018yki008
+Tomoki: "......lately, I'd known she'd been pushing a lot of things forward...so that was for the club..."
+TP
+
+I shrugged my shoulders.
+TP
+
+Taichi: "Same goes for you. What're you doing now?"
+TP
+
+GL 1 TCST0004b
+GI 1 0
+WVP 0 vmcca0018yki009
+Tomoki: "A club."
+TP
+
+Taichi: "Wahaha."
+TP
+
+Taichi: "......eh? I don't get you."
+TP
+
+
+GL 1 TCST0003b
+GI 1 0
+
+
+WVP 0 vmcca0018yki010
+Tomoki: "A real club."
+TP
+
+GL 1 TCST0000b
+GI 1 0
+
+
+WVP 0 vmcca0018yki011
+Tomoki: "Come participate if you're free."
+TP
+WVS 1 1
+
+Taichi: "That'd be nice, but......"
+TP
+
+GL 1 TCST0004b
+GI 1 0
+
+WVP 0 vmcca0018yki012
+Tomoki: "......you'll be betrayed."
+TP
+
+He spat out.
+TP
+
+Taichi: "By who?"
+TP
+
+WVP 0 vmcca0018yki013
+Tomoki: "By the prez."
+TP
+WVP 1 bgm007.ogg 0 0 0
+
+Taichi: "Why?"
+TP
+
+WVP 0 vmcca0018yki014
+Tomoki: "That's why it's best not to get too close to her."
+TP
+GO 1 1
+
+Tomoki turned his back to me and walked away.
+TP
+
+He was acting weird.
+TP
+
+But why?
+
+WVS 1 1
+
+RET

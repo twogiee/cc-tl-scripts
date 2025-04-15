@@ -1,0 +1,1376 @@
+
+
+
+
+GL 0 bgcc0009
+GS 0 1
+GS 1 0
+SEF 152 0
+
+WVP 1 bgm002.ogg 0 0 0
+
+
+
+I went to the cafeteria.
+TP
+
+
+Sakuraba had been eating curry bread.
+TP
+
+
+This guy's simple. Piece of cake.
+TP
+
+
+I'll just have to push his body over there on Sunday.
+//This sentence is way awkward. Either "I'll have to" or "I'll probably have to" -Neko
+//I changed it anyway :P - Sheeta
+TP
+
+
+Taichi: "Sakurabaaa."
+TP
+GL 1 TCSH0000
+GP 1 190 0
+GI 1 1
+WVP 0 vmCCD6001sku000
+Sakuraba: "Nnn?"
+TP
+
+
+Taichi: "Come to my house on Sunday morning."
+TP
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCD6001sku001
+Sakuraba: "Understood. I'll be there."
+TP
+
+
+Although I can't just trust him, of course.
+//Just take his word for it, alternate take and the local equivalent -Neko
+//Tried "trust him"
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 1
+
+WVS 1 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 0
+WVP 1 bgm018.ogg 0 0 0
+
+
+
+I woke up.
+//CP_S ccd1001
+TP
+
+
+Sunlight was penetrating through the window.
+TP
+
+
+I must have been sleeping soundly. I didn't have a single dream.
+TP
+
+
+The time......7 A.M.
+TP
+
+
+I have to go to school.
+//CP_F from the edited file this time, since I think we've reached equilibrium with these lines.
+TP
+
+
+
+
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+WVP 1 bgm010.ogg 0 0 0
+
+
+GL 1 TCSH0000
+GI 1 1
+
+WVP 0 vmCCC0025sku000
+Sakuraba: "Yo."
+//CP_S ccd0012
+TP
+
+
+Taichi: "Here."
+TP
+
+
+I handed him a surgical mask.
+TP
+GL 1 TCSH0002a
+GI 1 0
+
+
+WVP 0 vmCCD6002sku000
+Sakuraba: "Okay."
+TP
+
+
+He put it on without any questions.
+TP
+
+GL 1 TCSH0003a
+GI 1 0
+
+WVP 0 vmCCC0025sku001
+Sakuraba: "I'm hungry."
+TP
+
+
+Taichi: "You're not eating?"
+TP
+
+GL 1 TCSH0002a
+GI 1 0
+
+WVP 0 vmCCC0025sku002
+Sakuraba: "I'm preparing for first period class."
+TP
+
+
+Taichi: "......is eating curry bread your class?"
+TP
+GL 1 TCSH0000a
+GI 1 0
+
+WVP 0 vmCCC0025sku003
+Sakuraba: "Until the day curry bread is no more."
+TP
+
+
+He decided coolly.
+TP
+
+
+Just like the records said.
+TP
+
+
+Taichi: "Can't you just eat instant curry?"
+TP
+
+
+WVP 0 vmCCC0025sku004
+Sakuraba: "I hate curry."
+TP
+
+
+Just like the records said.
+TP
+
+
+The records are accomplishing a lot.
+//PCP
+TP
+
+GL 1 TCSH0002a
+GI 1 0
+WVP 0 vmCCC0025sku010
+Sakuraba: *hekkusu!!*
+SEF 101 0
+TP
+
+
+Taichi: "......hu, there's the hexagonal tragedy."
+//PCP
+TP
+
+
+This was also in the records.
+TP
+
+
+From what I've confirmed so far, its occurrence rate was above fifteen percent.
+TP
+
+
+Which calculates to being hit with a snot bridge one out of every seven times.
+TP
+
+
+But a great person in the past (me) devised a means of evasion through equipping him with a mask.
+TP
+
+GL 1 TCSH0003a
+GI 1 0
+WVP 0 vmCCD6002sku001
+Sakuraba: "......can I take the mask off?"
+TP
+
+
+Taichi: "I cannot allow that."
+TP
+GL 1 TCSH0002a
+GI 1 0
+
+
+WVP 0 vmCCD6002sku002
+Sakuraba: "Life......is a harsh thing."
+//CP_F
+TP
+
+
+Taichi: "That's exactly right."
+TP
+
+
+Taichi: "I'll go home now."
+TP
+
+
+WVP 0 vmCCD6002sku003
+Sakuraba: "......I see."
+TP
+
+
+Taichi: "Make sure you come to my house on Sunday morning."
+TP
+GL 1 TCSH0000a
+GI 1 0
+
+WVP 0 vmCCD6002sku004
+Sakuraba: "Understood. Not a problem."
+TP
+
+
+Can I trust him?
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+
+SEF 109 0
+
+WVS 1 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 1
+Wednesday.
+//CP_S ccd1001
+TP
+
+
+To school.
+TP
+
+
+
+
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+A gate to prevent running away.
+//Seems like this should be either "escaping", or the implied object, people, needs to be identified -Neko
+TP
+
+
+It didn't seem to be protecting the students so much as protecting the outside world from us.
+TP
+
+
+That's the impression it held.
+//CP_F
+TP
+
+
+
+
+
+GL 0 bgcc0009
+GS 0 1
+SEF 152 0
+WVP 1 bgm010.ogg 0 0 0
+
+
+Taichi: "Here again?"
+TP
+
+
+GL 1 TCSH0000
+GI 1 1
+WVP 0 vmCCD6003sku000
+Sakuraba: "......I've become bored."
+TP
+
+
+Taichi: "Indeed."
+TP
+
+
+Taichi: "I have one thing to say to you. You, who is covered in a sense of negligence,"
+TP
+
+
+Taichi: "Don't go off on a journey."
+TP
+
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCD6003sku001
+Sakuraba: "Understood."
+TP
+
+
+Taichi: "Get my permission first."
+TP
+
+
+WVP 0 vmCCD6003sku002
+Sakuraba: "Understood."
+TP
+
+
+WVP 2 SE003 1 0
+SEF 101 0
+GO 1 1
+
+Taichi: "That instantaneous compliance of yours is what's worrying me! Are you listening!?"
+TP
+
+
+GL 1 TCSH0002
+GI 1 1
+WVP 0 vmCCD6003sku003
+Sakuraba: "It's fine. I'll get your permission first."
+TP
+
+
+Taichi: "So you do understand."
+TP
+
+
+GL 1 TCSH0000
+GI 1 0
+WVP 0 vmCCD6003sku004
+Sakuraba: "Does that go for adventures as well?"
+TP
+
+
+Taichi: "It goes for everything!"
+TP
+
+
+GL 1 TCSH0003
+GI 1 0
+WVP 0 vmCCD6003sku005
+Sakuraba: "Everything......so expeditions too..."
+TP
+
+
+Taichi: "All conduct that involves leaving the town is out."
+TP
+
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCD6003sku006
+Sakuraba: "Aaah, that makes sense."
+TP
+
+
+Really?
+TP
+
+
+GL 1 TCSH0003
+GI 1 0
+WVP 0 vmCCD6003sku007
+Sakuraba: "Hey, I have one question."
+TP
+
+
+Taichi: "Aan?"
+TP
+
+
+WVP 0 vmCCD6003sku008
+Sakuraba: "You know the kanji written with two men and one woman?"
+TP
+
+
+Taichi: "Yeah."
+TP
+
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCD6003sku009
+Sakuraba: "Isn't it stimulating?"
+TP
+
+
+Taichi: "......aren't you impotent?"
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+WVS 1 1
+
+
+
+
+
+WT 500
+WT 500 1
+
+
+
+
+
+
+
+WVP 0 vmCCD6004sku000
+Sakuraba: "Taichiii!"
+TP
+
+
+GL 0 bgcc0003e
+GS 0 1
+SEF 109 1
+
+WVP 1 bgm005.ogg 0 0 0
+
+
+
+WVP 0 vmCCD6004sku001
+Sakuraba: "Heeey, Taichiii!"
+TP
+
+
+Taichi: "What? What?"
+TP
+
+GL 0 bgcc0013bz
+
+GL 1 TCSH0000c
+GS 0 1
+GS 1 1
+SEF 152 0
+
+WVP 0 vmCCD6004sku002
+Sakuraba: "I've decided to go on a journey!"
+TP
+
+
+Taichi: "......"
+TP
+WVP 2 SE003 1 0
+SEF 101 0
+Karade chop to the neck.
+//Technically, the word he used here refers to using your hand like a sword, but I figured "karate chop" was the best English adaptation of that, but if I use that I have to keep the "karade" gag going, so yeah. Å`IX
+TP
+GO 1 1
+
+Sakuraba collapsed.
+TP
+GL 1 TCSH0000c
+GI 1 1
+
+WVP 0 vmCCD6004sku003
+Sakuraba: "......uuu, on a journey......"
+TP
+
+
+Taichi: "You're still saying that?"
+TP
+
+
+Taichi: "Journeys are prohibited."
+TP
+
+
+WVP 0 vmCCD6004sku004
+Sakuraba: "That's pretty harsh......"
+TP
+
+
+Taichi: "Prohibited until next week."
+TP
+
+GL 1 TCSH0003c
+GI 1 0
+
+
+WVP 0 vmCCD6004sku005
+Sakuraba: "They'll be fine next week?"
+TP
+
+
+Taichi: "Yeah, they're okay from next week on. Just a few more days of perseverance."
+TP
+GL 1 TCSH0002c
+GI 1 0
+
+
+WVP 0 vmCCD6004sku006
+Sakuraba: "I see......okay, understood."
+TP
+
+
+Taichi: "You're a spontaneous guy. You said nothing about this yesterday."
+TP
+GL 1 TCSH0003c
+GI 1 0
+
+WVP 0 vmCCC3012bsku001
+Sakuraba: "Please listen."
+//CP_S ccc3012b
+TP
+
+
+Taichi: "What is it?"
+TP
+
+
+WVP 0 vmCCC3012bsku002
+Sakuraba: "I've grown bored of curry bread."
+TP
+
+
+Taichi: "......you know..."
+//CP_F
+TP
+
+GL 1 TCSH0002c
+GI 1 0
+
+WVP 0 vmCCD6004sku007
+Sakuraba: "They no longer stimulate me enough. I'm going to go and search for something more interesting."
+TP
+
+
+Taichi: "I have a feeling that the blood of fairies runs in your veins."
+TP
+GL 1 TCSH0000c
+GI 1 0
+
+WVP 0 vmCCC4016sku010
+Sakuraba: "Besides, I might find some people out there."
+//CP_S ccc4016
+TP
+
+
+Taichi: "......hmmm."
+TP
+
+
+So it's not that he isn't thinking about it.
+//CP_F
+TP
+
+
+WVP 0 vmCCD6004sku008
+Sakuraba: "Right, right, I was thinking I'd give back the money I borrowed from you."
+TP
+
+
+Taichi: "Yeah, it does feel like you borrowed some......"
+TP
+
+GL 1 TCSH0003c
+GI 1 0
+
+WVP 0 vmCCC4016sku022
+Sakuraba: "How much was it?"
+//CP_S
+TP
+
+
+Even though there's no longer any meaning in money.
+TP
+
+
+Strange guy.
+TP
+
+
+Taichi: "Well...I don't remember the amount..."
+TP
+GL 1 TCSH0000c
+GI 1 0
+
+WVP 0 vmCCC4016sku023
+Sakuraba: "For now, I'll hand you my pocket change."
+TP
+
+
+He took out his wallet.
+//CP_F
+TP
+
+
+Taichi: "......hmmm."
+TP
+
+GL 1 TCSH0002c
+GI 1 0
+
+WVP 0 vmCCC4016sku025
+Sakuraba: "Please use that to pay off whatever was left."
+//CP_S
+TP
+
+
+He took a wooden box out of his baggage.
+//CP_F
+TP
+
+
+Taichi: "Ah, that's okay......please bring that back with you."
+TP
+GL 1 TCSH0000c
+GI 1 0
+
+
+WVP 0 vmCCD6004sku009
+Sakuraba: "Are you sure? I think it's worth some money."
+TP
+
+
+Taichi: "You can't do that. You need to donate it to a history museum somewhere."
+TP
+
+
+WVP 0 vmCCD6004sku010
+Sakuraba: "......?"
+TP
+GL 1 TCSH0003c
+GI 1 0
+
+
+WVP 0 vmCCD6004sku011
+Sakuraba: "Hey, about my journey next week,"
+TP
+
+
+Taichi: "Yeah, what is it?"
+TP
+
+
+WVP 0 vmCCD6004sku012
+Sakuraba: "Would you come with me?"
+TP
+
+
+Taichi: "......me? On a journey?"
+TP
+
+
+
+
+
+
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC4016sku033
+Sakuraba: "What'll it be?"
+//CP
+TP
+
+
+Taichi: "......it sounds fun."
+//PCP
+TP
+
+
+Next week.
+TP
+
+
+Taichi: "Sure, I'll go with you."
+TP
+GL 1 TCSH0001c
+GI 1 0
+
+WVP 0 vmCCD6004sku013
+Sakuraba: "Okay, we'll both become hawks."
+TP
+
+
+Taichi: "Well, please make it a sparrow or a kite."
+TP
+
+GL 1 TCSH0002c
+GI 1 0
+
+
+WVP 0 vmCCD6004sku014
+Sakuraba: "Then, I'll be going on my journey soon."
+TP
+
+
+Taichi: "Wait up!"
+TP
+
+
+Taichi: "Didn't I just tell you to stay here until Sunday!?"
+//Consider adding just. Tell you instead of say since it was a command -Neko
+TP
+
+GL 1 TCSH0000c
+GI 1 0
+
+WVP 0 vmCCD6004sku015
+Sakuraba: "Yeah, sorry, I forgot."
+TP
+
+
+Too dangerous.
+TP
+
+
+Taichi: "Sakuraba, you're under arrest."
+TP
+GL 1 TCSH0003c
+GI 1 0
+
+
+WVP 0 vmCCD6004sku016
+Sakuraba: "......what?"
+TP
+
+
+Taichi: "An immediate arrest, with no warrant."
+//There MAY be an english term for immediate arrest, or an arrest that is effective immediately, but it's slipping my mind. -Neko
+TP
+
+
+WVP 0 vmCCD6004sku017
+Sakuraba: "Immediate!?"
+TP
+
+
+Taichi: "That's right. So live here until Sunday."
+TP
+
+
+GL 1 TCSH0002c
+GI 1 0
+
+WVP 0 vmCCD6004sku018
+Sakuraba: "Muu......"
+TP
+
+
+Taichi: "And now I shall give you the pitiful second name of Sakuraba."
+//Second Name: What? Is this a japanese thing, or a title being given? Wakarimasen lol -Neko
+TP
+
+GL 1 TCSH0001c
+GI 1 0
+
+WVP 0 vmCCD6004sku019
+Sakuraba: "Seriously? Isn't that too cool? It's decided."
+TP
+
+
+Too pitiful.
+TP
+
+
+I subdued Sakuraba.
+//Cornered? Subdued? How could he, as one person, surround Sakuraba -Neko
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+
+SEF 109 1
+
+WVS 1 1
+
+
+
+
+
+
+
+
+
+
+
+
+WT 500 0
+WT 1000 1
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 1
+And then, morning---
+TP
+
+
+I woke up.
+TP
+
+
+Taichi: "......"
+TP
+
+
+
+GL 0 bgcc0004
+GS 0 1
+SEF 109 0
+
+WVP 1 bgm004.ogg 0 0 0
+
+
+Taichi: "Sakuraba, we're going."
+//leaving*. Standard obscure localization.
+TP
+
+GL 1 TCSH0000
+GI 1 1
+WVP 0 vmCCD6005sku000
+Sakuraba: "Aaah......what about breakfast?"
+TP
+
+
+Taichi: "We'll eat when we get there."
+TP
+
+
+WVP 0 vmCCD6005sku001
+Sakuraba: "Understood......"
+TP
+
+
+Taichi: "Let's go."
+TP
+
+
+
+GL 0 bgcc0015
+GS 0 1
+GS 1 0
+
+SEF 152 0
+GL 1 TCSH0000
+GI 1 1
+WVP 0 vmCCD6005sku002
+Sakuraba: "......where are we heading to?"
+TP
+
+
+Taichi: "To a picnic."
+TP
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCD6005sku003
+Sakuraba: "This is quite an incompetent picnic."
+TP
+
+
+Taichi: "Yep. That is the true concept."
+TP
+
+GL 1 TCSH0003
+GI 1 0
+
+WVP 0 vmCCD6005sku004
+Sakuraba: "I'll go on a journey next week."
+TP
+
+
+Taichi: "Please go, please go."
+TP
+
+
+GL 0 bgcc0016
+GS 0 1
+GS 1 0
+
+SEF 152 0
+Okay.
+TP
+
+
+I brought Sakuraba to that place.
+TP
+
+
+Taichi: "Hold this."
+TP
+GL 1 TCSH0000
+GI 1 1
+
+WVP 0 vmCCD6005sku005
+Sakuraba: "What's this? A radio?"
+TP
+
+
+Taichi: "I figure it'll be a good indicator."
+TP
+
+
+Taichi: "......so, walk straight ahead here."
+TP
+
+
+WVP 0 vmCCD6005sku006
+Sakuraba: "Okay."
+TP
+
+
+Taichi: "Slowly!"
+TP
+
+
+WVP 0 vmCCD6005sku007
+Sakuraba: "Here?"
+TP
+
+
+Taichi: "Yeah, that's good. Straight ahead......stop there."
+TP
+
+
+Right in my line of fire.
+//The actual line was "Snipe OK", in case anyone has a better idea of what to do with that. Å`IX
+//Line of sight would be a comparative expression, but might be too vague -Neko
+//Changed it to 'line of fire' - Sheeta
+TP
+
+
+Now there should only be a few minutes left.
+TP
+
+
+This one came down to the wire.
+TP
+
+
+WVP 0 vmCCD6005sku008
+Sakuraba: "......hey, Taichi."
+TP
+
+
+Taichi: "Nn?"
+TP
+
+
+WVP 0 vmCCD6005sku009
+Sakuraba: "Why are we doing this?"
+TP
+
+
+
+WVS 1 1
+
+
+
+Taichi: "......"
+TP
+
+
+Taichi: "Why...well, there isn't any real meaning to it."
+//"There's no reason, really." English equivalent. There's nothing wrong with this, it's just something to consider -Neko
+TP
+GL 1 TCSH0002
+GI 1 0
+
+WVP 0 vmCCD6005sku010
+Sakuraba: "......there probably is a meaning."
+TP
+
+
+WVP 0 vmCCD6005sku011
+Sakuraba: "Because you've got those eyes."
+TP
+
+
+Taichi: "......you...?"
+TP
+
+GL 1 TCSH0003
+GI 1 0
+
+WVP 0 vmCCD6005sku012
+Sakuraba: "Aren't we friends?"
+TP
+
+
+Taichi: "Fr-......!!?"
+TP
+
+
+
+WVP 1 bgm023.ogg 0 0 0
+
+
+
+What was this guy saying!?
+TP
+
+
+I lost any words I had left.
+//my voice, or my words. Needs to be possessive -Neko
+TP
+
+
+This is the 21st century, you know.
+TP
+
+
+WVP 0 vmCCD6005sku013
+Sakuraba: "Is this the end of our 'hanging out?'"
+TP
+
+
+Taichi: "Sakuraba......you..."
+TP
+
+
+WVP 0 vmCCD6005sku014
+Sakuraba: "That's a lonely thing."
+TP
+
+
+WVP 0 vmCCD6005sku015
+Sakuraba: "If you don't like me, then it can't be helped."
+TP
+
+
+Taichi: "......no, Sakuraba, that's not it."
+TP
+GL 1 TCSH0002
+GI 1 0
+
+
+WVP 0 vmCCD6005sku016
+Sakuraba: "A lot of strange things have been happening lately."
+TP
+
+
+WVP 0 vmCCD6005sku017
+Sakuraba: "The people disappeared......"
+TP
+
+
+The sky darkened.
+TP
+
+GL 0 bgcc0016c
+GL 1 TCSH0002b
+GS 0 1
+GS 1 1
+SEF 109 0
+
+WVP 0 vmCCD6005sku018
+Sakuraba: "......evening comes suddenly."
+TP
+
+
+There's no time.
+TP
+
+
+I have to send him back.
+TP
+
+
+But...
+TP
+
+
+
+I can't look at this stupid face again---
+TP
+
+
+
+Even though that's all there is to it...
+TP
+
+
+Taichi: "Sakuraba......"
+TP
+GL 1 TCSH0002b
+GI 1 0
+
+WVP 0 vmCCD6005sku019
+Sakuraba: "But the most shocking thing is, that even though you're being chased into a corner, you can't do anything."
+TP
+
+
+Taichi: "You idiot."
+TP
+
+
+Taichi: "Think only about yourself. It's a hundred years too early for you to worry about anyone else. Sakuraba's in no position to say anything serious."
+TP
+GL 1 TCSH0003b
+GI 1 0
+
+WVP 0 vmCCD6005sku020
+Sakuraba: "......this is what you were like back then."
+TP
+
+
+Taichi: "Wh---"
+TP
+
+
+WVP 0 vmCCD6005sku021
+Sakuraba: "It seems like you've been pushing yourself a lot lately."
+TP
+
+GL 1 TCSH0002b
+GI 1 0
+
+WVP 0 vmCCD6005sku022
+Sakuraba: "That takes me back."
+TP
+
+
+Taichi: "......!"
+TP
+
+
+Who I was a long time ago.
+TP
+
+
+Making me remember that at this time...
+TP
+
+
+Taichi: "......just go, you idiot."
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+WVS 1 0
+
+
+*click*---
+TP
+
+
+I ÅwobservedÅx.
+TP
+
+
+I closed my eyes, and opened them---
+TP
+
+WT 1000
+WT 3000 1
+
+
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 109 2
+WVP 0 vmCCD6005sku023
+Sakuraba: "......Taichi?"
+TP
+
+WVP 3 SE099 0 0
+
+
+WVP 0 vmCCD6005sku024
+Sakuraba: "......nn......a broadcast?"
+TP
+
+
+WVP 0 vmCCD6005sku025
+Sakuraba: "Taichi? The radio's......"
+TP
+
+
+Sakuraba: "........................"
+TP
+
+
+
+WVS 3 1
+
+
+
+
+WVP 1 bgm001.ogg 0 0 0
+GL 0 bgcc0001b
+GS 0 1
+SEF 152 0
+
+WVP 0 vmCCD6005sku027
+Sakuraba: "......I see."
+TP
+
+
+WVP 0 vmCCD6005sku028
+Sakuraba: "So that's it."
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+WT 1000 0
+WT 1000 1
+
+GL 0 bgcc0015
+GS 0 1
+SEF 109 1
+I returned the ÅwdiscrepancyÅx called Sakuraba to normal.
+TP
+
+
+Taichi: "Seriously..."
+TP
+
+
+My friend?
+TP
+
+
+Who would say such a thing at a time like this?
+TP
+
+
+Who I ask......
+TP
+
+
+Taichi: "Hahaha."
+TP
+
+
+Comically,
+TP
+
+
+Taichi: "Hahaha, haha."
+TP
+
+
+I couldn't stop laughing.
+TP
+
+
+But,
+TP
+
+
+However much I laughed,
+TP
+
+
+My vision didn't blur---
+TP
+
+
+That's why, Sakuraba.
+TP
+
+
+This was for the best.
+TP
+
+
+I won't see that guy again.
+TP
+
+
+The memories I'd stored up were all that Sakuraba was to me.
+//Is it just me or does this come across awkwardly? ~Bal
+TP
+
+
+Taichi: "......iiidiot."
+TP
+
+
+I became strangely afraid and held my shaking knees.
+TP
+
+
+I looked down and closed my eyes.
+TP
+
+
+Red invaded through my eyelids.
+TP
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+
+And then, the world revolved again---
+TP
+
+
+WVS 1 1
+
+WT 1500
+WT 1500 1
+
+
+RET

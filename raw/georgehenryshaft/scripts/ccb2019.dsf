@@ -1,0 +1,974 @@
+//Saturday September 12, 1998 -GHS
+GL 0 bgcc0007f
+GS 0 1
+GS 1 0
+SEF 152 0
+//屋上。
+Rooftop.
+TP
+
+WVP 1 bgm003.ogg 0 0 0
+
+//来て見て驚く。
+We came and we saw and we were astonished.
+//Ah, speaking of the eRoman empire... original is 来た、見た、勝った, the difference is minor. -GHS
+TP
+
+//太一「……なんか……」
+Taichi: "...what the..."
+TP
+
+GL 1 TCKT0000
+GP 1 235 0
+GI 1 1
+
+WVP 0 vfccb2019fyu000
+//冬子「できてる……」
+Touko: "She did it..."
+TP
+
+//アンテナ。
+The antenna,
+TP
+
+//配線。
+the wiring,
+TP
+
+//ライブ用の放送席とテントまで用意されてる。
+even the seat for a live broadcast and the tent were ready.
+TP
+
+//太一「先輩が一人で？」
+Taichi: "Senpai did this, alone?"
+TP
+
+//けど当の先輩はいない。
+But the Senpai in question isn't here.
+TP
+
+//冬子「…………」
+Touko: "......"
+TP
+//>　　　　　　　　　　　　　　　　　　　　　　　　たんでき
+//太一「おまえがセックスに耽溺していた頃、一人先輩は健全かつまっすぐに部活動をしていたわけだな冬子よ」
+Taichi: "While you were indulging in sex, Senpai was wholesomely and also straightforwardly proceeding with club activities, Touko!"
+//LET'S, HEALTHILY GOING TO THIS WONDERFUL WORLD -> Enter -GHS
+TP
+
+GL 1 TCKT0002
+GI 1 0
+WVP 0 vfccb2019fyu002
+//冬子「ど、どうして私だけ悪者に……」
+Touko: "Wh-, why am I the only villain..."
+TP
+
+//太一「うーん、しかしこりゃびっくりだ」
+Taichi: "Naaah, but still, surprising innit."
+TP
+GL 1 TCKT0000
+GI 1 0
+WVP 0 vfccb2019fyu003
+//冬子「……宮澄先輩は、いらっしゃらないのかしら？」
+Touko: "...has Miyasumi-senpai not arrived yet, I wonder?"
+//Ohhh, surprisingly girly/formal. Must be the Senpai respect. -GHS
+TP
+
+//太一「姿見えないなあ」
+Taichi: "Don't see 'er anywhere."
+TP
+
+GO 1 1
+//HACK out with Touko, better mixing with below. -GHS
+
+//土曜だから休んでるのかな？
+Maybe she's resting because it's Saturday?
+TP
+
+
+//でも確か、群青コミュニティＦＭ局の開局予定日って明日だったような？
+But if I'm not mistaken, the scheduled date of broadcast beginning for the Gunjou Community FM Channel was tomorrow, wasn't it?
+TP
+
+//と。
+Then,
+TP
+
+//遠くから、冬子が手招きしていた。
+Touko beckoned me over from a distance.
+TP
+
+//太一「なにー？」
+Taichi: "Whassit?"
+TP
+
+GL 0 zzzrooftopantennazoom
+GS 0 1
+SEF 109 0
+//HACK to zoomed rooftop. -GHS
+
+//接近。
+I approach.
+TP
+
+GI 1 1
+//HACK back with Touko -GHS
+
+WVP 0 vfccb2019fyu004
+//冬子「これこれ」
+Touko: "Here, here."
+TP
+
+//太一「あ……」
+Taichi: "Ah..."
+TP
+GL 0 evcc0005b
+$CGevcc0005b = 1
+GS 0 1
+GS 1 0
+SEF 155 1
+WVP 0 vfccb2019msa000
+//見里「……すや～」
+Misato: "...Zzznyah～"
+TP
+
+//寝てる。
+Sleeping.
+TP
+
+//太一「ずっと一人でやってたんだな」
+Taichi: "Always doing things alone."
+TP
+
+//そのためか、先輩はちょっとボロっちかった。
+And it's for that reason, maybe, that Senpai got a little run-down:
+TP
+
+//眼鏡ずれてるし。
+the glasses are slipped off,
+TP
+
+//制服ほつれたりしてるし。
+the uniform is disheveled.
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+GL 5 zzzCCB2019msleepzoom
+GS 5 1
+SEF 109 0
+//HACK zoom'er in... -GHS
+
+//鼻を近づけてスメルを確かめる。
+I bring in the nose to ascertain the smell.
+TP
+
+//太一「ちょっと甘酸っぱい感じの汗の臭いがす―――」
+Taichi: "A faint smell of sweat that feels bittersweet and---"
+//See CCB0002, CCA0015B/C -GHS
+TP
+
+WVP 0 vfccb2019fyu005
+//冬子「ヤメナサイ」
+Touko: "Cease this."
+TP
+
+
+WVP 2 SE053 1 0
+//SEF 101 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+
+
+//ごっ
+Thock!
+//HACK new line (makes more sense with a verbalized SFX) -GHS
+TP
+
+//リアルな音だった。
+That was a very realistic sound.
+//See CCA0002 -GHS
+TP
+
+//太一「ぉぅ」
+Taichi: "(ow)"
+TP
+
+//脳震盪を起こしそうになる。
+It very nearly causes a cerebral concussion.
+//Sooo, is the next scene a smack-induced hallucination? Because that'd explain the Youko public sex scene in CCD0022A, which is nearly identical in structure. -GHS
+TP
+
+GO 5 1
+//HACK back to unzoomed -GHS
+
+WVP 0 vfccb2019fyu006
+//冬子「女の子のいろいろな匂いに興味持ったらだめよ」
+Touko: "It's bad to hold interests in the many and varied scents of girls!"
+//See CCB2009 -GHS
+TP
+
+//女の子のいろいろな匂い、という単語だけでもうとても駄目である。
+The words 'many and varied scents of girls' themselves are fairly bad.
+TP
+
+//太一「質問」
+Taichi: "Question."
+TP
+
+//挙手。
+Raised hand.
+TP
+
+WVP 0 vfccb2019fyu007
+//冬子「はい、太一」
+Touko: "Go on, Taichi."
+TP
+
+//太一「冬子は僕の前でおならをしたことないんですけど、どこでしてるんですか？　またその時、どの程度それを意識して避けているんですか？」
+Taichi: "Touko has never released a fart in front of this harmless young boy, therefore, where does she go do them? Furthermore, in those occasions, how far does she go to avoid being aware of the said?"
+//Formal, boku, and third person (science demands it). -GHS
+TP
+
+WVP 0 vfccb2019fyu008
+//冬子「おならって何かしら？」
+Touko: "What is even a fart I wonder?"
+//Answer is "all of it". -GHS
+TP
+
+//言い切った。
+Clearly asserted.
+TP
+
+//太一「……強くなったね」
+Taichi: "...grown strong ain't you."
+TP
+
+WVP 0 vfccb2019fyu009
+//冬子「変なこと言うのね」
+Touko: "You say weird things."
+TP
+
+//おお、冬子がせくはらを受け流している……。
+Ohhh, Touko is diverting off my sexual harassment...
+TP
+
+//感動。
+Impressive.
+//Darth Vader voice. -GHS
+TP
+
+//太一「フフフ」
+Taichi: "Hoh hoh hoh."
+TP
+
+WVP 0 vfccb2019fyu010
+//冬子「フフフ」
+Touko: "Heh heh heh."
+TP
+
+//ライバル同士のように不敵に笑いあう。
+We laugh fearlessly, as if rivals bonding.
+//Same as the "friendship demands" one. -GHS
+TP
+
+WVP 0 vfccb2019msa001
+//見里「……にゃむ……」
+Misato: "...nyahmh..."
+//PCP CCA0015B yes I just 'pastad a yawn
+TP
+
+//太一「あ、起きた」
+Taichi: "Ah, she woke up."
+TP
+
+//上空で怪しい対決をしていれば起きるか。
+She wakes up in case of suspicious confrontations in the space above her perhaps.
+//Unsure of reference, if any. It fits with CCA0027, and she'll do the same in CCC0041. -GHS
+TP
+
+//太一「ハロー、先輩。太一です」
+Taichi: "Hullooo, Senpai. This is Taichi."
+TP
+
+WVP 0 vfccb2019msa002
+//見里「……あえ……ぺけくん？」
+Misato: "...w'at... Peke-kun?"
+//'あれ' -GHS
+TP
+
+//太一「あなただけの太一です」
+Taichi: "The Taichi that is yours and yours alone I am."
+TP
+
+//冬子が凄い目で睨んできたけど気にしない。
+Touko gives me a terrifying glare that I however ignore.
+TP
+
+//太一「しゃぶれと言うならしゃぶります。さ、どうぞしゃぶれとお命じを」
+Taichi: "Tell me to suck and I shall suck. So, order me to suck at your pleasure!"
+//It may be "to chew", but... I'm actually suspecting this is intentional. -GHS
+TP
+
+WVP 0 vfccb2019fyu011
+//冬子「たーいーちー！」
+Touko: "TA! I! CHI!"
+TP
+
+//太一「うおおおお」
+Taichi: "G'wooooh!"
+TP
+WVP 2 se103
+SEF 101 0
+
+
+//後頭部アイアンクローが今すごく痛い。
+Her Iron Claw at the back of my head is right now quite painful.
+TP
+
+//だが耐える！
+But I shall endure!
+TP
+//GL 0 bgcc0007f
+GL 0 zzzrooftopantennazoom
+//HACK zoomed rooftop. -GHS
+GL 1 TCMM0011
+GP 1 225 0
+GS 1 1
+GS 0 1
+SEF 109 0
+
+WVP 0 vfccb2019msa003
+//見里「あの……どうしてここに？」
+Misato: "Uhm... why are you here?"
+TP
+//太一「……ええ、先輩の美しい寝顔を見に」
+Taichi: "...ehhh, to see Senpai's beautiful sleepy face."
+TP
+
+WVP 0 vfccb2019fyu012
+//冬子「おぼえてなさいよ」
+Touko: "Recall it."
+//...what they came to do. -GHS
+TP
+
+//冬子が背後でつぶやいた。
+Touko whispers behind my back.
+TP
+
+//太一「というのは冗談で、様子を見に来ました」
+Taichi: "That was just a joke, and we only came to see how things are."
+TP
+
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfccb2019msa004
+//見里「ようすを」
+Misato: "The things..."
+//Yeah, not you. Ner. -GHS
+TP
+
+//太一「だいぶ準備できたみたいですね」
+Taichi: "Seems the majority of the preparations have been completed."
+TP
+
+WVP 0 vfccb2019msa005
+//見里「え、ええ」
+Misato: "Eh, yes."
+TP
+
+WVP 0 vfccb2019fyu013
+//冬子「……あの、宮澄先輩、おひとりでこれを？」
+Touko: "...uhm, Miyasumi-senpai, did you do all this by yourself alone?"
+TP
+GL 1 TCMM0003
+GI 1 0
+WVP 0 vfccb2019msa006
+//見里「ええ……だって」
+Misato: "Yes... because..."
+TP
+
+//続く言葉を、先輩は呑み込んだ。
+Senpai swallowed the rest of the words.
+TP
+
+//戸惑いそのものは、しばらく顔に張りついていた。
+Hesitation itself clung to her face for a time.
+TP
+
+//だから彼女がどう言いたかったのか、わかった。
+And therefore I understood how she wanted to say this.
+TP
+
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfccb2019msa007
+//見里「だって、わたしの仕事でしたから」
+Misato: "Because this is my job after all."
+TP
+
+//太一「あなたの仕事。つまり私の仕事でもあるということです」
+Taichi: "Your job. It is therefore this one's job as well."
+//Formal -GHS
+TP
+
+//手を取る。
+I take her hand,
+TP
+
+//甲にキスもする。
+and kiss its back.
+TP
+
+WVS 1 1
+
+
+GL 1 TCMM0004
+GI 1 0
+WVP 0 vfccb2019msa008
+//見里「あの……」
+Misato: "Uhm..."
+TP
+
+//冬子「…………」
+Touko: "......"
+TP
+
+WVP 2 SE074 1 0
+//はっ？
+Huh?
+TP
+
+//太一「こら、ハラキリ丸はいかん！」
+Taichi: "Come on, stop it with the Harakiri Blade!"
+TP
+WVP 1 bgm011.ogg 0 0 0
+
+GL 4 sgcc0017a
+$CGsgcc0017a = 1
+GS 1 0
+GS 4 1
+WVP 2 SE076 1 0
+SEF 109 0
+
+//嵐になったー！？
+A thunderstooorm?!
+TP
+
+
+
+WVP 0 vfccb2019msa009
+//見里「きゃっ、どうして突然？」
+Misato: "Kyah, but how, so suddenly?"
+//She may be referring to Touko's anger. -GHS
+TP
+
+//太一「妖刀の……幾百年と人の血を吸ってきた、禍々しい怨念のせいです！」
+Taichi: "That Demon Sword... it has been feasting on people's blood for so many centuries, all because of that malevolent Grudge!"
+//Of course, it's the history between the two and the pseudo-time loop and all that. -GHS
+TP
+
+WVP 0 vfccb2019fyu015
+//冬子「……アブトル、ダムラル、オムニス、ノムニス」
+Touko: "...Abtall, Domroll, Omnis, Nomnis..."
+//...Belles, Hollymac http://en.wikipedia.org/wiki/The_Three-Eyed_One -GHS
+TP
+
+//な、なんか不吉な呪文唱えてるマス！！
+Oh my trout, wha-, what sort of sinister spell is she chanting!!!
+//See CCA0013... for what good it does. テルマス is a pretty big onsen in Kitahama. FWIW. -GHS
+TP
+
+//太一「ストーップ！　ストーップ！」
+Taichi: "STOOOPPU! STOOOPPU!"
+//He's turning American temporarily to remonstrate. -GHS
+TP
+
+WVP 0 vfccb2019fyu016
+//冬子「我と共に滅ぶべし……」
+Touko: "...perish alongside Us..."
+//我と共に来たり我と共に滅ぶべし same as above -GHS
+TP
+
+//太一「ノーモア心中っ！！」
+Taichi: "Double suicide NO MORE!!!"
+TP
+
+//太一「ＯＫＯＫ、落ち着くんだ。俺たちの仲だろう？」
+Taichi: "Okieh, okieh, calm down. It's just how we get along, see?"
+//"This is just me and Misato getting along normally" seems to make more sense. Plus, well, it's true. -GHS
+TP
+
+WVP 0 vfccb2019fyu017
+//冬子「……そうね……」
+Touko: "...seems so..."
+TP
+
+//わかってくれたか。
+Did she actually get it?
+TP
+
+WVP 0 vfccb2019fyu018
+//冬子「私がいてもお構いなしに女を口説けると思ってしまうくらいの仲よね……」
+Touko: "I think it is the kind of 'getting along' where you can make advances to that female without the smallest bit of care for me..."
+TP
+
+//太一「ほわわっ」
+Taichi: "OhWahWah!"
+TP
+
+WVP 0 vfccb2019fyu019
+//冬子「大丈夫。安心して」
+Touko: "It is all right. Be at ease."
+TP
+
+//ニタリと笑う。
+She gives me a three-yen-coin smile.
+//Barges are apparently fake in Japan. I KNEW it those things were suspicious... -GHS
+TP
+
+WVP 0 vfccb2019fyu020
+//冬子「この刀はとても良く斬れるから、あなたの煩悩だけを斬ってくれるはずよ」
+Touko: "This sword can slice quite well, so only your worldly desires shall be lopped off."
+TP
+
+//太一「そ、そんなのは菊池○行の小説の中だけの話ですよね！」
+Taichi: "Tha-, that's only the kind of things you read in a Kikuchi Hi**yuki novel, eh!"
+//Vampire Hunter D author http://ja.wikipedia.org/wiki/%E8%8F%8A%E5%9C%B0%E7%A7%80%E8%A1%8C hmmm "alien" series... -GHS
+TP
+
+WVP 0 vfccb2019fyu021
+//冬子「……うわきもの……すけこまし……たねうま……えろがっぱ……へんたい……しきま……こうしょく……しきじょうきょう……」
+Touko: "...two-timer... philanderer... breeding horse... perverted kappa... hentai... libertine... sex offender... nymphomaniac...!"
+//Seems to be the accepted translation of "erogappa". Hentai because, well, it's an insult in the end innit? -GHS
+TP
+
+//太一「あ、あああぁぁ」
+Taichi: "Ah, aaAaah..."
+TP
+
+//すべてのエロ罪が我に！
+All my Erosins back at me!
+//They're 8. -GHS
+TP
+
+WVP 0 vfccb2019msa010
+//見里「メガネ、メガネ……」
+Misato: "Glasses, glasses..."
+TP
+
+//俺がまばゆいばかりに命の危機に見舞われているその頃、先輩はのんきにメガネイベントを発生させていた。
+On the very while that I had been undergoing a blindingly radiant life crisis, Senpai all carefree triggered a Where Are My Glasses scene.
+//It's typical of people with glasses, it seems. Hmmm, the screen seems blurry, why is it... hey, where are my glasses??? -GHSearchedHisForeheadFirstAndFoundThemImmediately
+TP
+
+//うわー、一部始終撮影してぇ！
+Bwaaah, I have to record every last detaaail!
+TP
+
+//けど死ぬー！
+But I'm gonna diiie!
+TP
+
+//撮影欲と生存本能がせめぎあう。
+Cinematographer's greed and will to survive clash and fight.
+//See how well "principal photography" as an euphemism for sex works? -GHS
+TP
+
+//……撮りたい！
+...I want records!
+TP
+
+//撮影欲が勝った。
+Cinematographer's greed won.
+TP
+
+//そっちが勝ってどうする。
+And now that it's won, what do we do?
+TP
+
+//太一「くっ、死ぬわけには！」
+Taichi: "Guh, if I'm going to die...!"
+TP
+
+GS 4 0
+SEF 109 0
+//冬子の肩を抱く。
+I hug Touko's shoulders.
+TP
+
+//苦肉の策。いや、肉欲の策か。
+This is the last resort. No, the carnal resort?
+TP
+
+//太一「冬子、アイアイアイアイアイラビュー」
+Taichi: "Touko, ai-ai-ai-ai-Ai Rabyuu!"
+//Compressed -GHS
+TP
+
+GL 1 TCKT0004
+GI 1 1
+
+
+WVP 0 vfccb2019fyu022
+//冬子「えっ？」
+Touko: "Eh?"
+TP
+GO 1 1
+
+//ぶちゅー
+Prz'kiss!
+//It's prezy-kissy. How damn appropriate is it at this point? -GHS
+TP
+
+
+WVP 0 vfccb2019fyu023
+//冬子「んんっ、んっ、んむぅ……んっ……あふっ……ぁん…………ん……んんん……ゃん、舌入れないで……あぅん……うっ、れろ……やぅ、かんじゃイヤ……いやぁぁぁ……」
+Touko: "Nnh, nh, nmh... nh... ahfh... aNh...... nh... nnnh... no, not the tongue inside... aHnh... uhhh, hlh... no-, no biting, no... NOOOooo..."
+//See CCD0022A. Oh yes. -GHS
+TP
+
+//超ディープキス。
+Hyper Deep Kiss.
+//Console: "A Marianas Trench-like kiss", see CCA0011A, CCB0005, so those connect to Misato as well. -GHS
+TP
+
+//というか口腔セックス。
+Or should I say oral sex.
+TP
+
+WVP 0 vfccb2019msa011
+//見里「はわはわ。メガネ、メガネ」
+Misato: "AhWahAhWah. Glasses! Glasses!"
+TP
+
+//撮影してぇー！
+Have to record thiiis!
+TP
+
+//だが今はマイタン（俺の舌）に集中だ。
+But right now I am concentrating on MAITAN (My Tongue).
+//It's basically a literal translation if you stop thinking about it and just let your head explode already. -GHS
+TP
+
+WVP 0 vfccb2019fyu024
+//冬子「あむっ……んっ……んんん、んぅ……んー……っ……あぅ、あ、ゃむん……べろ、抜けちゃう、からぁ……ん……んちゅ……れるっ……」
+Touko: "Ahmh... nh... nnnh, nh... nnnh... !... ah, Ah, NOnh... gonna take off... tongue... nh... nh... npch... hrhlh..."
+TP
+
+WVP 0 vfccb2019msa012
+//見里「はわはわはわ。見えません見えません」
+Misato: "AhWahWaaahWaaah. Cannot see, cannot see!"
+TP
+
+//チュウとメガネ。
+Glasses & Kiss.
+//Now sounds like a reeeally bad anime. -GHS
+TP
+
+WVP 0 vfccb2019fyu025
+//冬子「んゅ……ぢゅる……あむん、んっ、んん……たいひぃ……あん、つば、ながしこまないで……あん、のむ、のむから、くすぐらないで……んっんっ、こく、んく、んんんん……ふぁ、のみきれ、ない……ぁん……」
+Touko: "Nh... pchrh... ahMnh, nh, nnnh... TaiHiii... aHn, saliva, no putting inside... ahn, drink, gonna drink it, don't tickle me... nhnh, GLP!, nhkh, nnnnh... hFh, can't, drink all... aHn..."
+TP
+
+WVP 0 vfccb2019msa013
+//見里「ひん、見つからないですー」
+Misato: "Bwah, cannot find theeem!"
+TP
+
+//続・チュウとメガネ。
+Glasses & Kiss Returns.
+//second season???????? why the hell did you renew this garbage? must be the fanservice. -GHS
+TP
+
+WVP 0 vfccb2019fyu026
+//冬子「えるん、んっ、ちゅ、ちゅるっ……らめぇ、わたしも、すうの……たいちの舌、すう……ん、ちゅ、ちゅるん……んんんん……」
+Touko: "EhRhnh, nh, pch, pchRh... nhOOO, sucking, mine... Taichi tongue, suck... nh, pch... pchrhnh... nnnnh..."
+TP
+
+WVP 0 vfccb2019msa014
+//見里「あっ……と、これは宴会用の鼻眼鏡じゃないですか……これじゃなくて……」
+Misato: "FOUN... not, these are nose glasses with mustaches for party use only are they... not the right ones..."
+//As for why she would have those, my speculations connects the subtext here about aliens and a certain humorous conspiracy-themed adventure game from the 1980s I coincidentally happened to have played to death (or close) when I was a teen. That is all. -GHS
+TP
+
+//続々・チュウとメガネ。
+Glasses & Kiss RETURNS Second ~II~ Season
+//The II is silent. -GHS
+TP
+
+WVP 0 vfccb2019fyu027
+//冬子「あんっ、ゆび入れて……こらぁ……あっ、ふぁん、んぁ……んっ、わかった、しゃぶるから……あむ……んっ、ちゅ、ちゅ、んっんっんっ」
+Touko: "Anh, fingers in... come ooon... ah, fwhAhnh, nAh... nh, I get it, gotta suck... aHmh... nh, pch, pch, nHnHnH."
+TP
+
+WVP 0 vfccb2019msa015
+//見里「むう。これは何ですか？　あ、夜間作業用の暗視ゴーグル……」
+Misato: "Ngggh. What are these? Ah, the night-vision goggles for night-time work..."
+TP
+
+//またまた・チュウとメガネ。
+New * Glasses & Kiss ~the Moon and That Sky~
+//Specific capitalization. This is hopefully getting ridiculous. -GHS
+TP
+
+WVP 0 vfccb2019fyu028
+//冬子「……や……んん、んむっ……んぁ……ちゅ、ぢゅるるっ……、ふぁんっ、そんな吸われたら、すわれたらぁぁ……んっ、んむむっ」
+Touko: "...no... nnnh, nmh... nh... pch, pchRhRh... hFwahnh, sucking like this, like thiiiis... nh, nMhMh."
+TP
+
+WVP 0 vfccb2019fyu029
+//冬子「んーっ、んーっ、ん……んぅぅぅぅぅっ、んっ…………んんんんん～～～～～～っっっ！！」
+Touko: "Nhh!, nhhh!, nh... nHHHHHh, nh...... NNNNN～～～～～～!!!!!!"
+TP
+
+//くてり
+Went.
+//Screw it, tying with the next one instead. -GHS
+TP
+
+//イッたか。
+Came?
+TP
+
+//俺の腕の中で、ぐったりとする冬子。
+Touko goes completely limp in my arms.
+TP
+
+WVP 0 vfccb2019msa016
+//見里「あ、あったぁ！」
+Misato: "Ah, found theeem!"
+TP
+
+WVP 0 vfccb2019msa017
+//見里「装着です」
+Misato: "Equipped!"
+//The entire series was 7 lines despite 4 seasons. Must've been a British anime. -GHS
+TP
+GL 1 TCMM0002
+GP 1 225 0
+WVP 2 se100 1 0
+GI 1 1
+//しゃきーん
+sha-KIN!
+TP
+
+//みみみ先輩の復活だ。
+Mimimi-senpai has resurrected.
+TP
+
+GL 1 TCMM0021
+GI 1 0
+WVP 0 vfccb2019msa018
+//見里「……桐原さん、どうしました？」
+Misato: "...Kirihara-san, what happened?"
+TP
+
+//太一「風邪みたいです」
+Taichi: "It looks like a cold."
+TP
+
+
+WVP 0 vfccb2019msa019
+//見里「顔、赤いですね。それに汗もかいてますし」
+Misato: "Her face is red is it. And she is all sweaty as well."
+TP
+
+GL 1 TCMM0004
+GI 1 0
+WVP 0 vfccb2019msa020
+//見里「大変、体がピクピク震えてますっ」
+Misato: "Oh dear me, her body's shaking and quivering!"
+//Now compare all this with CCD0022A. Very very very interesting. -GHS
+TP
+
+//太一「ああ、これはアク……うぉっほん……アクシオン反応ですね」
+Taichi: "Ah, this is act... whoooa... Axion Reaction, yes."
+//Not certain what he meant to say before he stopped. "うぉっほん" doesn't seem to have a special meaning. "Axion", see below. -GHS
+TP
+GL 1 TCMM0031
+GI 1 0
+
+WVP 0 vfccb2019msa021
+//見里「……アクシオン反応？」
+Misato: "...Axion Reaction?"
+TP
+
+WVP 0 vfccb2019msa022
+//見里「それは重篤な病気なのではありませぬか？」
+Misato: "Is that not a very serious disease, is it not?"
+//Seems to be intended as a positive, but giving Misato likely knows very well what just happened and is just pretending, it might be intended as intentionally confusing as to which negative is rhetorical and which is double. -GHS
+TP
+
+
+//太一「たいしたものじゃありません」
+Taichi: "It is no big issue."
+TP
+
+//太一「いやー、見つかるといいですねぇ、暗黒物質」
+Taichi: "Welll, it'd be a nice if we found some of that dark matter."
+//http://en.wikipedia.org/wiki/Axion_Dark_Matter_Experiment core of it was 1995. -GHS
+TP
+
+GL 1 TCMM0021
+GI 1 0
+//HACK doll change moved a line earlier -GHS
+
+WVP 0 vfccb2019msa023
+//見里「……？」
+Misato: "...?"
+TP
+
+
+WVP 0 vfccb2019msa024
+//見里「はやく支倉さんに診てもらっては？」
+Misato: "Will you please bring her quickly to Hasekura-san for an examination?"
+//Still oddly off-tone. -GHS
+TP
+
+//太一「そうですね。連れて帰ります」
+Taichi: "Indeed. I will bring her with me and go."
+TP
+GO 1 1
+//背負う。
+Burden carried on shoulders.
+//Multiple meanings, see CCA0015B -GHS
+TP
+
+WVP 0 vfccb2019fyu030
+//冬子「……んっ……たい、ち……」
+Touko: "...nh... Tai, chi..."
+TP
+
+//耳元に熱い吐息がかかってたまらない。
+Her hot breath next to my ears is absolutely intolerable.
+TP
+
+//家に帰ったが最後……ノンストップフィーバーが予想された。
+No sooner than we are back home... I forecasted "nonstop fever".
+TP
+
+WVS 1 1
+GL 0 bgcc0007f
+GS 0 1
+SEF 109 0
+//HACK back to normal rooftop -GHS
+
+
+//階下におりる前に、振り返る。
+Before descending to the lower floors I turn around.
+TP
+
+//先輩がぽつねんと立ち尽くしていた。
+Senpai was standing, by herself, stock-still.
+TP
+
+//太一「あ、あのー？」
+Taichi: "Ah, uhmmm?"
+TP
+WVP 1 bgm012.ogg 0 0 0
+
+GL 1 TCMM0000
+GI 1 1
+
+WVP 0 vfccb2019msa025
+//見里「は、はい？」
+Misato: "Ye-, yes?"
+TP
+
+//太一「……明日、部活に参加してもいいですか？」
+Taichi: "...may we participate to club tomorrow?"
+TP
+
+//先輩の瞳が、かすかに拡大する。
+Senpai's pupils dilated slightly.
+TP
+
+//太一「コレも連れてきます」
+Taichi: "I'll be also bringing this here."
+TP
+
+//顎で背中の冬子をさす。
+I point at Touko on my back with my chin.
+TP
+
+WVP 0 vfccb2019msa026
+//見里「あ……はい、どうぞ……」
+Misato: "Ah... yes, go ahead..."
+TP
+
+//太一「じゃー、来ます」
+Taichi: "Bye then, we'll be by."
+TP
+
+//扉の向こうに。
+I turn back towards the door.
+TP
+
+
+GL 1 TCMM0005
+GI 1 0
+WVP 0 vfccb2019msa027
+//見里「あっ、あの」
+Misato: "Ah, uhm..."
+//PCP above
+TP
+
+//呼び止められた。
+Called to a halt.
+TP
+
+//太一「うい？」
+Taichi: "Ma'am?"
+TP
+
+//すると彼女は我に返ったように必死な顔で。
+And there, with a desperate face as if she had returned to her senses,
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfccb2019msa028
+//見里「ど、どうぞっ……」
+Misato: "Go-, go ahead..."
+//Same as above -GHS
+TP
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfccb2019msa029
+//見里「どうぞ！」
+Misato: "Go ahead!"
+TP
+
+//言い直す。
+She corrects but restates.
+//Both, I guess. -GHS
+TP
+
+//大きな声。
+In a loud voice.
+TP
+
+//こちらも、声を返した。
+A voice returns from my side as well,
+TP
+
+//太一「らじゃっす！」
+Taichi: "'s a rojah!"
+//[it]'s -GHS
+TP
+
+RET

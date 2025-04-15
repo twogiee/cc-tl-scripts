@@ -1,0 +1,118 @@
+//太一「先輩……」
+Taichi: "Senpai..."
+TP
+
+GL 1 TCMM0000c
+GI 1 0
+//HACK normal Misato -GHS
+
+
+WVP 0 vfcca0025amsa000
+//見里「なぁに？」
+Misato: "Wha-at?"
+TP
+
+
+
+//太一「俺のためにこれからずっと、みそ汁を作ってくれませんか？」
+Taichi: "Could you, from now on, make Miso soup for me... always?"
+//Fairly standard indirect marriage proposal. -GHS
+TP
+
+
+
+//なぜか俺はプロポーズしてしまった。
+For some reason I popped the question.
+TP
+
+
+GL 1 TCMM0004c
+GI 1 0
+WVP 0 vfcca0025amsa001
+//見里「えっ」
+Misato: "Eh?!"
+TP
+
+
+
+//先輩はうろたえる。
+Senpai grows flustered.
+TP
+
+
+
+//体が傾いで、視線がそれる。
+She leans forwards to avert her gaze.
+TP
+
+
+
+//小さな拳が口元に添えられ、額に思案の皺が刻まれた。
+A tiny clenched fist accompanies itself to the mouth, and the wrinkles of thought chiseled her forehead.
+TP
+
+
+GL 1 TCMM0005c
+GI 1 0
+WVP 0 vfcca0025amsa002
+//見里「ぺけくん……わたし……」
+Misato: "Peke-kun... I..."
+TP
+
+
+
+//太一「はい」
+Taichi: "Yes?"
+TP
+
+
+
+WVP 0 vfcca0025amsa003
+//見里「みそ汁、作れないんです」
+Misato: "I cannot make Miso soup... I just cannot."
+//Recalling CCA0006. Maybe she physically can't and is mistaking things, maybe she's trying to delicately reject him. In the latter case, she's actually saying she'd make a poor wife. Which is actually what she implies in CCA0026. It's purely self-eviscerating on her part. -GHS
+TP
+
+
+
+//太一「らりほー！」
+>                       snooze
+Taichi: "Rarihooo!"
+//Dragon Quest reference most likely. The official translation wasALL HAIL LORD FURRYGANA FOR IT IS FURRY FURRINhttp://dragon-quest.org/wiki/Rarihoo -GHS
+TP
+
+
+
+//窓から叫んだ。
+A shout out from the window.
+//hee hee see what I did there -GHS
+TP
+
+
+
+//古式ゆかしいナイスボケだった。
+A traditional fool's play that was.
+//Hers, I think?` -GHS
+TP
+
+
+
+
+
+
+CSQ 0 1 1
+//　・さらに迫る
+//　・ボケる
+ - Pursue once more
+//mimi -GHS
+ - Play the fool
+
+
+
+
+
+
+
+
+
+RET

@@ -1,0 +1,14 @@
+I arrived at school.
+What to do...
+Whatever, let's wander around a bit.
+:SET_0001
+//HACK because we have five lines now, I combined the two pages. -GHS
+CSQ 0 1 1 1 1 1
+ - Club room
+ - First Years' classroom
+ - Corridor
+ - Second Years' classroom
+ - Rooftop
+JMP SET_END
+//Because choices only set $B to 1...n, these would set $B correctly for CCD.DSF to manage. Deprecated. -GHS
+:SET_END

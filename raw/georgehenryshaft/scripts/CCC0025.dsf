@@ -1,0 +1,554 @@
+GL 0 bgcc0005
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//この道で、よく遊紗ちゃんと出会った。
+I often met with Yusa-chan on this road.
+TP
+
+//よくなついていた。
+She took to me well.
+TP
+
+//こそばゆい、存在だった。
+She was this ticklish being...
+TP
+
+//今の俺ができるまで、俺もいろいろ苦労している。
+I too went through so much hardship to become what I am now,
+TP
+
+//遊紗ちゃんの存在は、よく俺を癒してくれた。
+and the presence of Yusa-chan soothed me so much.
+TP
+
+//そんな彼女ももういない。
+That girl is also no more.
+TP
+
+GL 1 TCSH0000
+GP 1 190 0
+GI 1 1
+
+WVP 0 vmCCC0025sku000
+//桜庭「よう」
+Sakuraba: "Yo."
+//Yusa is no more and is replaced with Sakuraba and his hexagons. Hmmm. -GHS
+TP
+
+WVS 1 1
+
+//桜庭だった。
+It was Sakuraba.
+TP
+
+//太一「よう」
+Taichi: "Yoh."
+TP
+
+WVP 0 vmCCC0025sku001
+//桜庭「腹が減った」
+Sakuraba: "Hungry."
+TP
+
+//太一「食ってないのか？」
+Taichi: "Haven't eaten then?"
+TP
+
+GL 1 TCSH0003
+GI 1 0
+
+WVP 0 vmCCC0025sku002
+//桜庭「一時間目の授業に備えている」
+Sakuraba: "Readying for first period class."
+TP
+
+WVP 1 bgm010.ogg 0 0 0
+
+//太一「……カレーパンを食うのが授業なのか」
+Taichi: "...is the subject curry bread perhaps?"
+//See CCB2009, CCX0001. -GHS
+TP
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCC0025sku003
+//桜庭「カレーパンがなくなるその日まで」
+Sakuraba: "Until that day when curry bread itself has finally passed."
+//See CCD5001, CCX0001, T1. Curry is Christianity; unlike the sky, it will never pass. That's why there's always curry bread left over in the cafeteria. Yeah, I wish I were kidding, but the reason no one likes it there is that, metaphorically, few Japanese are Christians. -GHS
+TP
+
+//桜庭はクールに決めた。
+So Sakuraba resolved, all cool.
+TP
+
+//太一「レトルトのカレーでも食ってればいいじゃないか」
+Taichi: "Wouldn't you like to eat some retort pouch curry too?"
+TP
+
+GL 1 TCSH0000
+GI 1 0
+WVP 0 vmCCC0025sku004
+//桜庭「カレーは嫌いだ」
+Sakuraba: "I hate curry."
+//This is actually Sakuraba's problem; he likes curry only as long as it's stuffed in a thick lengthy loaf that he likes to offer to Taichi. -GHS
+TP
+
+//太一「……………………」
+Taichi: "............"
+TP
+
+//謎だ……こいつだけは本当に……。
+An enigma... at the very least, this guy, really...
+//In the end, Taichi will have to still guide him out of the Valley... or he'd just get lost, since he doesn't quite get this all himself, nor does he need to. -GHS
+TP
+
+//なんでわざわざ来たんだろう。
+What'd he even intentionally come here for?
+TP
+
+//適応係数で弾かれたわけでもないだろうし。
+It's very unlikely that with his Conformity Coefficient he'd just snap.
+//He's on a Mission from God. -GHS
+TP
+
+//やっぱ親の財力で圧力をかけて……。
+I knew it, it's just the pressure of his parents' assets...
+TP
+
+//太一「意味ねー」
+Taichi: "Meaningleeess."
+TP
+
+WVP 0 vmCCC0025sku005
+//桜庭「ん？」
+Sakuraba: "Hm?"
+TP
+
+//太一「今おまえの存在の無意味さを悟ったところだ」
+Taichi: "I was just enlightened as to the meaninglessness of your presence right now."
+//Yusa->Sakuraba->Sakuraba's useless (of course not, he's among the most important characters). -GHS
+TP
+
+GL 1 TCSH0003
+GI 1 0
+WVP 0 vmCCC0025sku006
+//桜庭「なに……オヤジはオレこそ世界そのものだと言っていたんだぞ？」
+Sakuraba: "What... don't you know my old man said I am the world itself?
+//Well, Tanaka does imply he is. -GHS
+TP
+
+//太一「おまえのオヤジは生暖かすぎるんだよ！」
+Taichi: "Your old man is way too tepid with you!"
+TP
+
+GL 1 TCSH0000
+GI 1 0
+WVP 0 vmCCC0025sku007
+//桜庭「不思議な言われ方だ……」
+Sakuraba: "The way you put that is inexplicable..."
+//Hum, "your father should've told you to go to hell"? -GHS
+TP
+
+//太一「コンバットがいなくなったのは悔やまれる」
+Taichi: "Combat not being around is to be mourned."
+//He might just not be around now. -GHS
+TP
+
+WVP 0 vmCCC0025sku008
+//桜庭「ふ……おかげでオレは楽々通学」
+Sakuraba: "Hu... thanks to that I can go to school all carefree."
+//Hu laugh. -GHS
+TP
+
+//太一「おまえはもっと苦労しろ。得意の金で苦労を買え。あと苦労したらもっとダメージを受けろ」
+Taichi: "Go get yourself more hardships. Money's your strong point, so buy some hardships with it. And then with all those hardships you can get a lot more damaged!"
+TP
+
+WVP 0 vmCCC0025sku009
+//桜庭「難儀な注文を」
+Sakuraba: "Ordering difficulties."
+//Seems to be the joke. -GHS
+TP
+
+//桜庭とつらつら通学する。
+A careful and attentive school commute with Sakuraba.
+//No, seriously. -GHS
+TP
+
+//と。
+And,
+TP
+
+WVP 0 vmCCC0025sku010
+//桜庭「ヘックスッ！」
+Sakuraba: "Heh-cks!"
+GP 1 175 15
+GI 1 0
+GP 1 190 30
+GI 1 0
+GP 1 205 15
+GI 1 0
+GP 1 190 0
+GI 1 0
+//HACK shake doll before vanishing -GHS
+GO 1 1
+TP
+
+//太一「六角形！？」
+Taichi: "Hexagon?!"
+//Full of hearts. Told you sneezes were important too. Yusa is replaced by Sakuraba, ergo this is the reading key to go look at her sneeze in CCA0013 again. -GHS
+TP
+
+WVP 0 vmCCC0025sku011
+//桜庭「ぐし……夏風邪か」
+Sakuraba: "Sniff... summer cold?"
+TP
+
+//くしゃみだった。
+It was a sneeze.
+//PCP CCA00013
+TP
+
+WVP 0 vmCCC0025sku012
+//桜庭「むぅ」
+Sakuraba: "Mnuh!"
+TP
+
+//桜庭の目が、あるものを注視したためにこぼれた、小さな驚きだった。
+It was a tiny exclamation of surprise caused by the subject of Sakuraba's fixed gaze.
+//PCP CCA0013
+TP
+
+
+//俺と桜庭との間に、橋がかかっている。
+The gap between me and Sakuraba was spanned by a bridge.
+//PCP CCA00013
+TP
+
+
+//片方は俺の制服の、ちょうど腹部あたり。
+One side was on my uniform, in the precise middle of my abdomen,
+//CP CCA00013
+TP
+
+//もう片方は、ラバの鼻。
+The other side was on Sack's nose.
+//PCP CCA00013
+TP
+
+//つまり。
+In short,
+//CP CCA00013
+TP
+
+WVP 0 vmCCC0025sku013
+//桜庭「フッ……」
+Sakuraba: "Hu...!"
+TP
+
+//不敵に笑う。
+He laughs invincibly.
+//Same as the Friendship Demands. -GHS
+TP
+
+
+//鼻汁橋できた。
+it was a snot bridge.
+//CP CCA00013
+//This connects two lines above now. -GHS
+TP
+
+
+//粘度の高い液体が、
+This high-viscosity fluid had, with a
+//CP CCA00013
+TP
+
+
+//のびろーん
+-streeeeiaaatch-
+//CP CCA00013
+TP
+
+
+//と吊り橋をかけていたのだ。
+dangled a suspension bridge between us.
+//CP CCA00013
+TP
+
+//俺の推理はこうだ。
+This is my inference.
+//CP CCA00013
+TP
+
+//くしゃみをした拍子に、打ち出された鼻汁弾は新幹線よりも速い初速で（本当）こちらの制服に打ち込まれた。
+On the very downbeat of the sneeze, the launched glob of mucus fired onto to my uniform with a nuzzle velocity superior to even that of the Shinkansen (no, seriously).
+//CP CCA00013
+TP
+
+//粘着力の強い液体は、弾丸に引っ張られてむさ苦しい桜庭の鼻腔から引きずり出され、普通なら切れてしまう接続部を主人のしぶとさを彷彿とさせる粘度で保持し、橋の完成と相成った。
+This mightily adhesive fluid was drawn by the fired bullet and dragged from Sakuraba's nasal cavity, and this connection that normally would break had a viscosity strongly reminiscent of the stubbornness of the head of a house that made it hold, thus completing the bridge.
+//PCP CCA0013
+//See CCA0002. -GHS
+TP
+
+//桜庭「…………」
+Sakuraba: "......"
+//PCP CCA00013 (yes, he has the same reaction as Yusa)
+TP
+
+//その事態が、ようやくヤツにも理解できたようだ。
+And it seems that, at last, this guy has also understood the event.
+//PCP CCA00013
+TP
+
+//スッキリした顔をしている。
+His face fills with a feeling of refreshness.
+TP
+
+//身動き一つ取らない。
+He does not make one movement.
+//PCP CCA00013
+TP
+
+//たぶん今、コイツが考えているのは、鼻水を放出して鼻がスッキリした……というようなことだろう。賭けてもいい。
+Perhaps, right now, this guy's thinking, oh how refreshing my nose feels after a discharge of mucus... and all things of that sort. Do bet on it.
+TP
+
+//太一「おい……はなぢる野郎」
+Taichi: "Hey... Dung-headed Cumnose."
+//Still see CCA00013. Also, this is the most obvious representation of Taichi's true ultramarine, which has nothing to do with murder. -GHS
+TP
+
+//小児性に満ちた称号を授与してやった。
+I bestowed him with a title full of infantile spirit.
+TP
+
+WVP 0 vmCCC0025sku015
+//桜庭「んあー？」
+Sakuraba: "Hnha?"
+TP
+
+//極度の弛緩によるものか。
+I wouldn't know if it's because of the extreme mental strain,
+//CP CCA00013
+TP
+
+//桜庭はぽややんとしていた。
+but Sakuraba looked really satisfied.
+TP
+
+//この！
+Why you...!
+TP
+
+//このガキに新たなトラウマを植えつけなくてはならない。
+Not planting new psychological traumas in this brat is out of the question.
+//PCP CCA00013
+TP
+
+//少しでも群青っ子に近づけねばならない。
+I must make this guy even just a little closer to a proper ultramarine of Gunjou.
+TP
+
+//アトランティス帝国の血が沸騰した。
+The blood of the Empire of Atlantis was boiling.
+//IOW ultramarines are for the emper-GHS
+TP
+
+//桜庭が反応するよりはやく、冷静にハンカチを取り出す。
+Faster than the Sakuraba could react, I calmly produce a handkerchief.
+//PCP CCA0013
+//Interesting change, isn't it. -GHS
+TP
+
+//それでまず、桜庭の鼻先を包んだ。
+With it I first cover Sakuraba's nose.
+//PCP CCA0013
+TP
+
+WVP 0 vmCCC0025sku016
+//桜庭「……うゅ？」
+Sakuraba: "...nmyu?"
+//PCP CCA0013
+TP
+
+//クソ気持ちの悪い萌え声をあげる。
+He makes a fucking creepy moe voice.
+//PCP CCA0013
+//Sometimes ya just gotta drop 'em. -GHS
+TP
+
+//根本を断ち切ってから、幾度か折り返して鼻下をぬぐう。
+I tear apart the root then, alternating the clean spots on the hanky, wipe the subnasal so many times.
+//CP CCA0013
+TP
+
+//それから鼻汁橋を回収しつつ、自分の制服を軽く拭いた。
+After that comes the collection of the snot bridge while very carefully wiping down my own uniform.
+//CP CCA0013
+TP
+
+//ハンカチをポケットに戻……さず、桜庭の顔面に押しつけた。
+I return the hanky to pocket... not, and press it into Sakuraba's face.
+//PCP CCA0013
+TP
+
+GL 1 TCSH0003
+//HACK less happy Sakuraba (oddly enough) -GHS
+GI 1 1
+WVP 0 vmCCC0025sku017
+//桜庭「おおおおおおおおおっ！？」
+Sakuraba: "ooooOOOOOOOO?!"
+//9???? -GHS
+TP
+
+//太一「んー？」
+Taichi: "Hm?"
+TP
+
+GL 1 TCSH0003
+GI 1 0
+WVP 0 vmCCC0025sku018
+//桜庭「それは……少々……汚く……ないか？」
+Sakuraba: "That's... just a bit... filthy... isn't it?"
+TP
+
+//太一「いいんだよ」
+Taichi: "It's fine."
+//CP CCA0013
+TP
+
+//朗らかに笑って。
+So I say with a bright smile.
+//CP CCA0013
+TP
+
+//太一「おまえだから」
+Taichi: "It's you after all."
+TP
+
+//ぐりぐりと押しつけた。
+Grind grind I push it on him.
+TP
+
+WVP 0 vmCCC0025sku019
+//桜庭「おうおうおうおう」
+Sakuraba: "oUUoUUoUUoUU."
+//PCP CCA0027
+//???????????????????????? total = 12 -GHS
+GP 1 175 15
+GI 1 0
+GP 1 190 30
+GI 1 0
+GP 1 205 15
+GI 1 0
+GP 1 190 0
+GI 1 0
+//HACK independent doll shake -GHS
+TP
+
+//ぐりぐりぐりぐり
+Grind grind grind grind.
+TP
+
+
+WVP 0 vmCCC0025sku020
+//桜庭「おうおうおうおう」
+Sakuraba: "oUUoUUoUUoUU."
+//CP above
+//???????????????????????? and wait until CCD5001! -GHS
+GP 1 175 15
+GI 1 0
+GP 1 190 30
+GI 1 0
+GP 1 205 15
+GI 1 0
+GP 1 190 0
+GI 1 0
+//HACK independent doll shake -GHS
+TP
+
+//地獄絵図といえた。
+It was the depiction of a scene of Hell.
+//Ah, wait, OUx8 + GRINDx6 = 14 = 7x2 -GHS
+TP
+
+//太一「可愛い俺様を、泣き寝入りさせたままにしておくようなハンカチじゃないんだよ」
+Taichi: "Leaving the most adorable Greatness That Is I crying himself to sleep is not worth a handkerchief."
+//PCP CCA0013
+TP
+
+//どす黒い声色で告げる。
+So I proclaim in a dusky tone of voice.
+TP
+
+WVP 0 vmCCC0025sku021
+//桜庭「……っっっ！」
+Sakuraba: "...nnn!"
+GP 1 175 15
+GI 1 0
+GP 1 190 30
+GI 1 0
+GP 1 205 15
+GI 1 0
+GP 1 190 0
+GI 1 0
+//HACK independent doll shake -GHS
+TP
+
+//桜庭の体がびくんと震えた。
+Sakuraba's body shook as if tipsy.
+//微醺... if only because the next sentence would then imply he's drunk on snot. -GHS
+TP
+
+//粘液の感触に、精神がショートしたのだろう。
+The tactile feeling of mucus likely shorted out his mind.
+TP
+GO 1 1
+//ハンカチを付着させたまま、地面に倒れ伏す。
+With the handkerchief still stuck to him he falls down on the ground.
+TP
+
+//太一「六角形にふけるのもいいが、夏風邪には気をつけた方がいいな、桜庭君」
+Taichi: "Indulge in hexagons if you want, but you'd better watch out for summer colds, Sakuraba-kun."
+//PCP CCA0013
+TP
+
+//ごす、と頭を踏みにじって、歩き出す。
+Stomp, and after trampling over his head I begin to walk.
+//Mystery of CCA0027 solved? -GHS
+TP
+
+//太一「まったく……」
+Taichi: "Seriously."
+TP
+
+GL 1 TCSH0000
+GI 1 1
+WVP 0 vmCCC0025sku022
+//桜庭「また、おまえとの思い出が一つできたな」
+Sakuraba: "Once more I managed to make a memory with you."
+TP
+
+//平然と隣を歩いていた。
+He walks next to me, calmly.
+//As if absolutely nothing of the above had happened at all. -GHS
+TP
+
+//太一「少しはダメージ受けろよ！！」
+Taichi: "At least take a bit of damage!!!"
+//Besides the reading key that puts in doubt whether Yusa really rejected Taichi, there's another important thing: when Yusa, the cute girl, does something, Taichi's all velvet gloves; when Sakuraba, the annoying ass, does the same thing, Taichi's pissed. This is a hint that Taichi's being a hypocrite by hating Yutaka but tolerating Sakuraba, both of which did functionally equivalent things to him. -GHS
+TP
+
+//ハンカチ一枚で桜庭の友情を射止めてしまった。
+A single handkerchief and I made Sakuraba's friendship all mine, dammit.
+//PCP CCA0013
+TP
+
+WVS 1 1
+
+
+RET

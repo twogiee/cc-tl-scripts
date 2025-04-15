@@ -1,0 +1,705 @@
+
+//太一「あ、そうだ」
+Taichi: "Ah, right!"
+TP
+
+
+
+//太一「先輩、ちょっとここで待っててくださいよ」
+Taichi: "Senpai, wait here just a moment, please."
+TP
+
+
+
+WVP 0 vfcca0026msa000
+//見里「はい？」
+Misato: "Yes?"
+TP
+WVP 1 bgm012.ogg 0 0 0
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//行って。
+I go,
+TP
+
+
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 0
+//戻ってくる。
+and come back.
+TP
+
+
+
+//両手に持ったそれを掲げる。
+I hold up what I was grasping in both hands.
+//-.-' -GHS
+TP
+
+
+
+//太一「手作りアイスバー！」
+Taichi: "Handmade popsicles!"
+TP
+
+GL 1 TCMM0002c
+GS 1 1
+SEF 109 0
+
+
+WVP 0 vfcca0026msa001
+//見里「あっ、すごいです！」
+Misato: "Wah, that is amazing!"
+TP
+
+
+
+//一本を渡す。
+I hand one over.
+TP
+
+
+
+GL 1 TCMM0000c
+GI 1 0
+
+
+WVP 0 vfcca0026msa002
+//見里「人類の底力って感じですね」
+Misato: "This tastes like the ultimate resourcefulness of mankind!"
+//Or their latent power, but... -GHS
+TP
+
+
+
+//太一「フフフ、僭越にも言いかえますならば、この黒須太一個人の、です」
+Taichi: "Heh heh heh, to put it in yet insolent other words, it is that of this Kurosu Taichi here, indeed!"
+//...can you read this as anything but "it tastes like my sperm"? -GHS
+TP
+
+
+
+GL 1 TCMM0002c
+GI 1 0
+
+WVP 0 vfcca0026msa003
+//見里「つめたーい、おいしーい♪」
+Misato: "So cooold, deliciooous!♪"
+//PCP CCA0025C
+//Though it's 99.9% the opposite. -GHS
+TP
+
+
+
+//太一「人類バンザーイ」
+Taichi: "Mankind banzaaai!"
+TP
+
+
+
+WVP 0 vfcca0026msa004
+//見里「ばんざーい」
+Misato: "Banzaaai!"
+TP
+
+
+
+//アイスバー大騒ぎ。
+Super Popsicle Uproar.
+//Only on Kyuppachi, though soon to be ported to the 100 Mega Shock! -GHS
+TP
+
+
+
+WVP 0 vfcca0026msa005
+//見里「これは材料はなんなんです？」
+Misato: "What did you use as ingredients?"
+TP
+
+
+
+//太一「レモンと砂糖と卵白と」
+Taichi: "Lemon, sugar, white of eggs."
+TP
+
+
+
+//太一「……僕の可愛い二億匹の小さなワンダフルライフたち」
+Taichi: "...and this harmless young boy's adorable two hundred million little Wonderful Lives."
+TP
+
+
+WVS 1 0
+
+
+//先輩は停止した。
+Senpai comes to a halt.
+TP
+
+
+GL 4 sgcc0007
+$CGsgcc0007 = 1
+GP 4 0 0
+GS 4 1
+GS 1 0
+GS 2 0
+SEF 109 1
+//なぜか眼鏡がさっと曇る。
+For unknown reasons, her glasses suddenly fog up.
+TP
+
+
+
+WVP 0 vfcca0026msa006
+//見里「…………」
+Misato: "......"
+TP
+
+
+
+//やばい雰囲気だった。
+//W-what's with this dangerous atmosphere.
+The very ambiance broadcast danger.
+TP
+
+
+
+//太一「あの、さすがに冗談です」
+Taichi: "Uhm, of course that was a joke."
+TP
+
+
+
+WVP 0 vfcca0026msa007
+//見里「……そっちのと交換してください」
+Misato: "...please exchange this with yours."
+TP
+
+
+
+//太一「あ、はい」
+Taichi: "Ah, yes."
+TP
+
+
+
+WVP 0 vfcca0026msa008
+//見里「あんまりつまらないこと言うようならおしおきしなくちゃいけなくなりますね」
+Misato: "If you keep saying tiresome stuff of this kind I will have no alternative but to give you a good punishment."
+//That word includes spanking. See CCA0013, I guess. -GHS
+TP
+
+
+
+//抑揚をまったくつけずにそう言う。
+So she says without the most damnable hint of emotive inflection.
+TP
+
+
+
+//すごくこわい。
+Incredibly scary.
+TP
+
+
+
+//太一「い、以後気をつけるでありますっ」
+Taichi: "I-, I shall pay most thorough attention from now on!"
+TP
+
+
+
+WVP 0 vfcca0026msa009
+//見里「……まったく」
+Misato: "...seriously."
+TP
+GS 4 0
+SEF 109 0
+
+
+//眼鏡の曇りがさっと晴れた。
+Her fogged-up glasses suddenly clear out.
+//Mirrors above. -GHS
+TP
+
+
+
+//任意？
+Is it voluntary?
+TP
+
+
+
+//どういう仕組みなんだろう？
+But by what mechanism even?
+TP
+
+
+
+//こわかった。
+Frightening.
+//Hello Misato's superpower... -GHS
+TP
+
+//WVP 1 bgm012.ogg 0 0 0
+//HACK music starts just a sentence later -GHS
+
+
+//しかし、リスクに見合った成果はある。
+However, in counterbalance to the risk there is a result:
+TP
+
+WVP 1 bgm012.ogg 0 0 0
+
+
+
+//間接ＫＩＳＳ！
+!!INDIRECT KISS!!
+//ONLY CAPS CAN CONTAIN IT -GHS
+TP
+
+
+
+
+//しかもアイスバーだからねっとりディープ間接キス。
+And furthermore, because it's a popsicle, it's a sticky wet, deep indirect kiss.
+TP
+
+
+
+//じっくりたっぷり、堪能してやったわ。
+Carefully and deliberately I enjoyed myself with this, yes.
+//Girly. See CCA0015 -GHS
+TP
+GL 1 TCMM0000c
+GP 1 200 0
+GS 1 1
+SEF 109 0
+
+WVP 0 vfcca0026msa010
+//見里「なにやらお礼に来て、逆にいいものをごちそうになっちゃいました」
+Misato: "I came here for some offer of gratitude, but I received a tasty treat in return!"
+//Cough cough cooough. Someone had impure intentions. -GHS
+TP
+
+
+
+//太一「ふ、いやなに。そう簡単に惚れないでくださいよ」
+Taichi: "Uh, naaah, what you mean! Please do not fall in love with me so easily!"
+TP
+
+
+GL 1 TCMM0002c
+GI 1 0
+
+WVP 0 vfcca0026msa011
+//見里「ごちそうさまでした、ぺけくん。惚れません」
+Misato: "Thank you for the food, Peke-kun. I have not fallen in love with you."
+//Of course. She was in love with him long ago. -GHS
+TP
+
+
+
+//脈無しだ。
+Hopeless.
+TP
+
+
+GL 1 TCMM0000c
+GI 1 0
+
+WVP 0 vfcca0026msa012
+//見里「おかげで涼しくなりました」
+Misato: "That made me feel all cool and refreshed."
+TP
+
+
+
+//太一「毎日、暑いですからねぇ」
+Taichi: "Because every day is so hot, right."
+TP
+
+
+
+WVP 0 vfcca0026msa013
+//見里「暑いですねぇ」
+Misato: "Hot indeed."
+TP
+
+
+
+//太一「夏だからしょうがないとはいえ」
+Taichi: "Well, it is Summer, what ways are there, none."
+TP
+
+
+GL 0 bgcc0000c
+GS 0 1
+GS 1 0
+SEF 109 0
+WVP 0 vfcca0026msa014
+//見里「……海、行きたいですね」
+Misato: "...but I do want to go the beach."
+TP
+
+
+
+//先輩は窓の外を見た。
+Senpai looked outside of the window.
+TP
+
+
+
+//その先にあるはずの、海は暗くて見えない。
+That sea that should be farther ahead is, in the darkness, invisible.
+//It should be possible to see the sea, or a bit of it, from Taichi's house. His room's window should be towards the front of the house, and the front of the house is north towards the sea. IMO the wipes make it look like he moves right, rather than left, towards the school but that's the map. -GHS
+TP
+
+
+
+//太一「じゃあ行きましょう」
+Taichi: "Well then, let's go!"
+TP
+
+GL 0 bgcc0003b
+GL 1 TCMM0000c
+GP 1 200 0
+GS 0 1
+GS 1 1
+SEF 109 0
+
+WVP 0 vfcca0026msa015
+//見里「え？」
+Misato: "Eh?"
+TP
+
+
+
+//太一「明日の昼に学校の前に集合」
+Taichi: "Let's meet up tomorrow, in front of the school, at noon."
+TP
+
+
+GL 1 TCMM0004c
+GI 1 0
+
+WVP 0 vfcca0026msa016
+//見里「えは？」
+Misato: "Ehhh?"
+TP
+
+
+
+//太一「みんなも呼びますよ、もちろん」
+Taichi: "I will call everyone, of course."
+TP
+
+
+
+GL 1 TCMM0005c
+GI 1 0
+WVP 0 vfcca0026msa017
+//見里「き、今日の明日なんですけど……」
+Misato: "B-, but today is already tomorrow..."
+//Here's a random discussion whether it's 今日の明日 "today's tomorrow" or 明日の今日 "tomorrow's today" instead (in Japanese): http://oshiete.goo.ne.jp/qa/3345596.html -GHS
+TP
+
+
+
+//太一「なんとかなるっしょ！」
+Taichi: "I shall make do somehow!"
+TP
+
+
+
+//親指を立てた。
+Thumbs up.
+TP
+
+
+
+WVP 0 vfcca0026msa018
+//見里「でも……霧さんとか、支倉さんとか、来てくれますか？」
+Misato: "But say... Kiri-san, or Hasekura-san, will they come?"
+TP
+
+
+
+//太一「んー、そいつは工夫次第で」
+Taichi: "Hmmm, those guys demand ingenuity."
+//Begin Walls of Nietzscheianisms... why would Youko demand clever scheme? -GHS
+TP
+
+
+
+//太一「凡俗どもを動かすのに誠意はいらんのです。弱みを突いていけばいいのです。わはは」
+Taichi: "The mediocre masses require no good faith to get into motion. Striking at their weaknesses is enough. Wahahah."
+TP
+
+
+
+WVP 0 vfcca0026msa019
+//見里「……爽やかな顔してそーいうひどいことを言わないで欲しいです」
+Misato: "...I would like for you not to say things that horrible with a face that invigorated."
+//See CCB0005. This is another thing that seems to get Fixed. -GHS
+TP
+
+
+GL 1 TCMM0031c
+GI 1 0
+
+WVP 0 vfcca0026msa020
+//見里「あ、でも去年の水着、もう入らないかも」
+Misato: "Ah, but I might not fit into last year's swimsuit anymore."
+TP
+
+
+
+//太一「え゛？」
+Taichi: "EH?!"
+TP
+
+
+
+GL 1 TCMM0006c
+GI 1 0
+WVP 0 vfcca0026msa021
+//見里「ふ、太ったんじゃないですからねっ」
+Misato: "It-, it is not because I got fatter!"
+TP
+
+
+
+//太一「ええ、つまりご成長なされた、ということですね？」
+Taichi: "Eeeh, in other words you grew as in towards adulthood, is that what you mean?"
+TP
+
+
+
+GL 1 TCMM0000c
+GI 1 0
+WVP 0 vfcca0026msa022
+//見里「そうです」
+Misato: "It is."
+TP
+
+
+
+GL 1 TCMM0006c
+GI 1 0
+WVP 0 vfcca0026msa023
+//見里「本当にそうですよ？」
+Misato: "It really is, OK?"
+TP
+
+
+
+//太一「いや、そこは別に疑ってませんから」
+Taichi: "Nah, there are no real doubts about those parts."
+//Ambiguous. -GHS
+TP
+
+
+
+//まだ胸は大きくなっていってるんだなあ～。
+So her boobies are still getting big~ger.
+TP
+
+
+
+//先輩のバストに思いを馳せてポワる。
+My thoughts boioioing into a gallop towards wild delusions about Senpai's bust.
+//Powaru = http://ts.revinx.net/project/dic/crossc.htm "to have wild delusions" but given powa-powa, putting it like this. What, you are actually asking me what in the sentence allows me to double the 'powa'? Do I have to draw it for you... (.)(.) there you go. -GHS
+TP
+
+
+
+GL 1 TCMM0004c
+GI 1 0
+WVP 0 vfcca0026msa024
+//見里「……っ」
+Misato: "...!"
+TP
+
+
+
+//なんとなく邪気を感じたのか、胸のあたりを両腕で隠す。
+As if sensing some kind of maliciousness, she hides the midriff with both hands.
+TP
+
+
+
+GL 1 TCMM0000c
+GI 1 0
+WVP 0 vfcca0026msa025
+//見里「そーいうわけで水着が……」
+Misato: "Sooo that is why a swimsuit would be..."
+//"...impossible to procure because that would be stealing (mankind's nonexistence regardless)"? Except, she doesn't have a problem with stealing, see CCC3016. More likely that she doesn't want to go buy one at Atomic Goods, or maybe they don't have her measures. -GHS
+TP
+
+WVP 1 bgm011.ogg 0 0 0
+
+
+GL 4 sgcc0008
+$CGsgcc0008 = 1
+GS 4 1
+GS 1 0
+GP 4 0 0
+SEF 109 0
+//太一「どれにします？」
+Taichi: "One of these?"
+TP
+
+
+
+WVP 0 vfcca0026msa026
+//見里「持ってるーーーーっ！？」
+Misato: "You have all theeeeese?!"
+TP
+
+
+
+//太一「スタンダードに紐ビキニかなあ」
+Taichi: "The standard string bikini perhaps?"
+//#3 from the left -GHS
+TP
+
+
+
+WVP 0 vfcca0026msa027
+//見里「どうして持ってるのーーーーーーーーっ！？」
+Misato: "Whyyyyyyyyy do you have all these?!?"
+//Counting the letters in the last word (rU, nO), that's 14 held letters so far. -GHS
+TP
+
+
+
+//太一「サイズは８６のＣカップだから、このあたりか」
+Taichi: "With size 86 C cup, this should be right."
+//8+6= 7x2. But if C=3, 17 1+7=8 -GHS
+TP
+
+
+
+WVP 0 vfcca0026msa028
+//見里「ひきっ！？」
+Misato: "Hyh?!"
+TP
+
+
+
+//太一「この紐と貝の破廉恥オーシャンパラダイスなんてどうです？」
+Taichi: "String and Seashells of Shameless Ocean Paradise, how about it?"
+//#2 from the left -GHS
+TP
+
+
+
+WVP 0 vfcca0026msa029
+//見里「そんなのいやですっ！！」
+Misato: "That gets a no!!!"
+TP
+
+
+
+//太一「じゃあコレだ！　パールホワイト悩殺ビキニ」
+Taichi: "Ah, then this! Pearl White Bombshell Bikini!"
+//#4 from the left. Similar, but not quite the same one she'll wear in CCD1001. Suspecting a design inconsistency, though. -GHS
+TP
+
+
+
+WVP 0 vfcca0026msa030
+//見里「コレ、濡れる前から透けてるんですけど……」
+Misato: "This? But this is transparent even before you get it wet..."
+TP
+
+
+
+//太一「変わり種だとロープレスワッペン水着ってのが」
+Taichi: "Here's an odd one, Ropeless Crest Swimsuit, yes!"
+//#1 from the left. Is that from Resident Evil? -GHS
+TP
+
+
+
+WVP 0 vfcca0026msa031
+//見里「ただの前ばりと絆創膏じゃないですかっ！！　アホですかっ！！」
+Misato: "These are just pasties only on the front side are they not!!! Are you stupid!!!"
+TP
+
+
+
+//太一「おもいきってこんなのどうです？　胸のトコが透明ビニールになっててトップレスを演出しちゃうという……」
+Taichi: "How about this most daring one? The part around the chest is transparent vinyl as to lead to a performance equivalent to toplessness..."
+TP
+
+
+
+WVP 0 vfcca0026msa032
+//見里「お、犯されるっ」
+Misato: "I-, I will be defiled!"
+//This recurs. Obviously. -GHS
+TP
+
+
+
+//先輩は顔を覆った。
+Senpai covered her face.
+TP
+
+
+
+//太一「あと女性用ふんどしとか」
+Taichi: "Next we have a Women's Fundoshi."
+TP
+
+
+
+WVP 0 vfcca0026msa033
+//見里「どーしてそんなのしかないんですかっ！！」
+Misato: "Whyyy would I wear that and nothing else!!!"
+TP
+
+
+
+//太一「イチオシはこれ。人の知性が試される、馬鹿には見えない水着、裸の女王サマー」
+Taichi: "This comes most recommended! A test of human intellect: Naked Summer Queen, a swimsuits that idiots cannot see!"
+TP
+
+
+
+WVP 0 vfcca0026msa034
+//見里「全裸ってことじゃないですか！」
+Misato: "That is just going nudist is it not!"
+TP
+
+
+
+WVP 0 vfcca0026msa035
+//見里「却下です！　却下却下却下却下ーーーーっ！！」
+Misato: "That is vetoed! Veto veto veto vetooo!!!"
+TP
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+SEF 109 0
+
+
+WVS 1 1
+
+WT 500 0
+
+WT 1500 0
+
+
+
+RET

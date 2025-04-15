@@ -1,0 +1,599 @@
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 0
+
+WVP 1 bgm015.ogg 0 0 0
+
+
+The work continued.
+TP
+
+Miki and Kiri don't appear much.
+TP
+
+......I guess that's natural.
+TP
+
+In fact, I'm abnormal for coming to school regularly.
+//Unless that was supposed to be some kind of word play, I think this works better.-Spin
+TP
+
+But, what happened to Sempai?
+TP
+
+It was lunchtime.
+TP
+
+For food......I'd brought cup ramen from Tomoki's delivery.
+TP
+
+I boiled water on the roof and opened the cup.
+TP
+
+......somehow, this was different from the club activities I'd imagined.
+TP
+
+I'd forgotten.
+TP
+
+Humanity was already long gone.
+TP
+
+A world of just us eight. No, now only seven.
+TP
+
+A lamplight before the wind.
+IF $tlnote != 0 (TL note: A Japanese idiom similar to "hanging by a thread".)
+TP
+
+I poured the hot water into the cup ramen.
+TP
+
+I ate.
+TP
+
+
+GL 1 TCMM0003
+GP 1 225 0
+GI 1 1
+WVP 0 vfCCC4014msa000
+Misato: "......aaah, Peke-kun."
+TP
+
+Sempai had come.
+TP
+
+Taichi: "Good morning. You're late."
+TP
+
+GL 1 TCMM0005
+GI 1 0
+WVP 0 vfCCC4014msa001
+Misato: "Yes......"
+TP
+
+She's depressed.
+TP
+
+Her glasses were hazy.
+TP
+
+Taichi: "There was a shocking occurrence."
+TP
+
+WVP 0 vfCCC4014msa002
+Misato: "Yes, very."
+TP
+
+She sat down near me and looked up absent-mindedly at the sky.
+TP
+
+Taichi: "......you'll feel better if you talk about it."
+TP
+
+GL 1 TCMM0003
+GI 1 0
+WVP 0 vfCCC4014msa003
+Misato: "I...had a fight with Tomoki."
+TP
+
+Taichi: "Haa, with Tomoki? I do that a lot."
+TP
+
+Sempai smiled as if tired.
+TP
+
+WVP 0 vfCCC4014msa004
+Misato: "Not that kind of fighting. Something different."
+TP
+
+Taichi: "Is that what they call 'complex family circumstances?' Do you want a bite of this?"
+TP
+
+Sempai shook her head weakly.
+TP
+
+WVP 0 vfCCC4014msa005
+Misato: "......we have no other siblings, but......we just can't get along well."
+TP
+
+Taichi: "Tomoki is also quite obstinate."
+TP
+
+WVP 0 vfCCC4014msa006
+Misato: "The cause......lies with me."
+//With the voices, you can hear her start it before the pause. Sounds more dramatic this way anyway.-Spin
+TP
+
+She silently urged.
+TP
+
+GL 1 TCMM0005
+GI 1 0
+WVP 0 vfCCC4014msa007
+Misato: "Because I'm such a chatterbox."
+TP
+
+Taichi: "Are you now?"
+TP
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfCCC4014msa008
+Misato: "......I was wrong."
+TP
+
+She scorned herself, and played with her hair.
+TP
+
+Taichi: "Then, you're the same as me."
+TP
+
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfCCC4014msa009
+Misato: "......is that so?"
+TP
+
+Taichi: "I'm also very bad. That's why I'm here."
+TP
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfCCC4014msa010
+Misato: "......huhu, then you'll be suspended."
+TP
+
+Taichi: "Together with Sempai."
+TP
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfCCC4014msa011
+Misato: "Then why don't we both get suspended and go do bad things?"
+TP
+
+Sempai smiled like a baby.
+TP
+
+Taichi: "Thaaat sounds niiice, baaad thiiings."
+TP
+WVP 2 se044 1 0
+The iron door opened with a shrill noise.
+TP
+
+WVP 0 vfCCC4014kri000
+Kiri: "Sempai, stay away from him!!"
+TP
+
+WVS 1 0
+
+Kiri was armed.
+TP
+GL 0 evcc0024d
+$CGevcc0024d = 1
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 109 0
+
+That's definitely no water pistol.
+//would "water pistol" be better? Å`IX
+//Yeah, I think it would *changes* - Sheeta
+TP
+
+WVP 1 bgm017.ogg 0 0 0
+
+WVP 0 vfCCC4014msa012
+Misato: "......poeh?"
+TP
+
+WVP 0 vfCCC4014kri001
+Kiri: "Miyasumi-sempai, please get away from that guy right now!"
+//Geez, she's still a bitch.-Spin
+TP
+
+WVP 0 vfCCC4014msa013
+Misato: "Eh? That guy?......Peke-kun? You can't...address an upperclassman that way......you'll be suspended."
+TP
+
+WVP 0 vfCCC4014kri002
+Kiri: "He's dangerous, hurry up!"
+TP
+
+Taichi: "............"
+TP
+
+WVP 0 vfCCC4014msa014
+Misato: "That water gun......is that a water bow gun?"
+//lol, no way someone is that stupid.-Spin
+TP
+
+Taichi: "That's the real thing."
+TP
+
+WVP 0 vfCCC4014msa015
+Misato: *sigh*
+TP
+
+She swooned.
+TP
+
+Taichi: "Fast."
+TP
+
+Taichi: "It's your fault you know."
+TP
+
+WVP 0 vfCCC4014kri003
+Kiri: "......Kurosu Taichi!"
+TP
+
+Kiri set her sights on me.
+TP
+
+Taichi: "What's wrong? You're being spontaneous again."
+TP
+
+WVP 0 vfCCC4014kri004
+Kiri: "......you killed Kirihara-sempai too!"
+TP
+
+Taichi: "!?"
+TP
+
+Touko...?
+TP
+
+Taichi: "Hey, that's......"
+TP
+
+WVP 0 vfCCC4014kri005
+Kiri: "I went to see her, and she'd died......you killed her!"
+TP
+
+Taichi: "I know nothing about that! Are you serious? Did Touko really die?"
+TP
+
+WVP 0 vfCCC4014kri006
+Kiri: "Hasekura-sempai, Kirihara-sempai......who's next?"
+TP
+
+Taichi: "What were the circumstances of her death?"
+TP
+
+WVP 0 vfCCC4014kri007
+Kiri: "......you already know that."
+TP
+
+Taichi: "What wounds? What place?"
+TP
+
+WVP 0 vfCCC4014kri008
+Kiri: "In Kirihara-sempai's home. In her own room."
+TP
+
+WVP 0 vfCCC4014kri009
+Kiri: "There was one blade sticking out of her chest......"
+TP
+
+WVP 0 vfCCC4014kri010
+Kiri: "You are obviously the culprit."
+TP
+
+What a simpleton---
+TP
+
+Youko-chan's death and my existence had confused Kiri.
+TP
+
+She was too excitable.
+TP
+
+Persuasion would be meaningless.
+TP
+
+......crossbows are weak as threats.
+TP
+
+Because they can't fire more than once.
+TP
+
+If you miss, it's over.
+TP
+
+It's not that easy to hit a running person.
+TP
+
+It would be simple to seize Kiri, but...
+TP
+
+Taichi: "There's no other choice......"
+TP
+
+This is no way to die.
+TP
+
+I concentrated on my lower limbs, intending to invite a misfire from Kiri.
+TP
+
+WVP 0 vfCCC4014mki000
+Miki: "Kiri-chin, don't do this!"
+TP
+
+Miki grabbed her from behind.
+TP
+GL 0 bgcc0007
+GS 0 1
+SEF 152 0
+WVP 0 vfCCC4014kri011
+Kiri: "......ah."
+TP
+WVP 2 SE066 1 0
+The arrow flew.
+TP
+
+Taichi: "-!?"
+TP
+
+The arrow grazed by, thirty centimeters to my side.
+TP
+
+Behind me, it stuck into the wall of the prefab tool shed, its tail shaking.
+TP
+GL 1 TCYM0001
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC4014mki001
+Miki: "You mustn't do that."
+TP
+GL 2 TCSK0001
+GP 1 0 0
+GP 2 340 0
+GS 1 1
+GS 2 1
+SEF 109 0
+
+WVP 0 vfCCC4014kri012
+Kiri: "But!"
+TP
+
+Taichi: "......Miki, thank you for saving me, but you could have been a bit more cautious......"
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCC4014mki002
+Miki: "Ah, I'm sorry."
+TP
+GL 2 TCSK0021
+GI 2 0
+WVP 0 vfCCC4014kri013
+Kiri: "Don't come any closer!"
+TP
+
+I walked up and grabbed Kiri's shirt at the chest.
+TP
+
+Taichi: "I won't do anything!"
+TP
+
+Taichi: "......though I do want to send you flying."
+TP
+
+I threw her back.
+//Since I would assume he's at lesat a little mad, this wouldn't be too much of a stretch. Especially since the next line says she fell on her rear.-Spin
+TP
+GO 2 1
+
+Kiri fell down on her rear.
+TP
+WVP 0 vfCCC4014kri014
+Kiri: "......murderer!"
+TP
+
+Taichi: "Aan?"
+TP
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCC4014mki003
+Miki: "Stop this, both of you, smile."
+TP
+
+WVP 0 vfCCC4014kri015
+Kiri: "Murderer! Who are you going to kill next!?"
+TP
+
+Taichi: "......hey, Kiri, you......you come out at bad times. In the first place, I only just learned that Touko died. Why am I automatically the one that did it?"
+TP
+
+WVP 0 vfCCC4014kri016
+Kiri: "......who else would do it!?"
+TP
+
+Taichi: "......you're the one who found her, so...?"
+TP
+
+Kiri raised her eyebrows in anger.
+TP
+
+WVP 0 vfCCC4014kri017
+Kiri: "There's no way I'd kill her......the only one who could do that is a lunatic like you!"
+TP
+
+WVP 0 vfCCC4014kri018
+Kiri: "Die, just die! If you want to kill that badly then kill yourself! Lunatic! Go to hell! There's only eight people......in this world......what are you doing!!?"
+TP
+
+WVP 0 vfCCC4014kri019
+Kiri: "Die, die already! Murderer! ......inhuman!"
+TP
+
+Noises I couldn't stand to hear.
+TP
+
+They invite discouragement.
+TP
+
+Taichi: "......not beautiful."
+TP
+
+If the usual Kiri was a rusted knife,
+TP
+
+This is......right now, an uncouth log.
+TP
+
+No precision.
+TP
+
+No delicacy.
+TP
+
+Kiri, since when were you such an unsalvageable person?
+TP
+
+Taichi: "............"
+TP
+
+Doesn't it make you lose interest?
+TP
+
+WVP 0 vfCCC4014kri020
+Kiri: "......those eyes......those aren't the eyes of a human."
+TP
+
+She's talking about my eyes.
+TP
+
+Is this an attack?
+TP
+
+It's an attack.
+TP
+
+Is it okay for me to flip the switch?
+TP
+
+Isn't it okay?
+TP
+
+......for an enemy.
+TP
+
+I looked at Kiri.
+TP
+
+
+Why don't I eliminate you?---
+TP
+
+
+WVP 0 vfCCC4014kri021
+Kiri: "Hii......"
+TP
+
+It seems she ÅwreadÅx me. She has good eyes.
+TP
+
+She turned pale in an instant.
+TP
+
+Humans die so easily.
+TP
+
+There's no need to stab them.
+TP
+
+Especially when they have such slender necks---
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4014mki004
+Miki: "Okay, okaaay, that's enouuugh! Graaab!!"
+TP
+
+Miki flipped Kiri's skirt.
+TP
+
+WVP 0 vfCCC4014kri022
+Kiri: "Kyaaaaa!!!"
+TP
+
+Taichi: "......oh."
+TP
+
+Passions awakening.
+TP
+
+Taichi: "Stripes!"
+TP
+
+With the proud face of having just predicted the path of the ball, I screamed.
+TP
+
+Taichi: "Batter Ou-!!!"
+TP
+
+Taichi: "Fuu, your underwear was striped after all."
+TP
+
+WVP 0 vfCCC4014mki005
+Miki: "Aaah, he's back, he's back, yaaay."
+TP
+
+WVP 0 vfCCC4014kri023
+Kiri: "......wait......what...don't do that so shamelessly......idiot."
+TP
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfCCC4014mki006
+Miki: "But...Sempai had started to get angry, and Kiri-chin was being strange."
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCC4014mki007
+Miki: "All I did was stop you."
+TP
+
+Taichi: "Ha, I'll be going. I'll try investigating a little at the scene of Touko's death."
+TP
+
+WVP 0 vfCCC4014mki008
+Miki: "Okay, I'll take care of the striped-panty girl."
+TP
+
+Taichi: "I leave her in your hands."
+TP
+
+I left the roof.
+TP
+
+RET

@@ -1,0 +1,116 @@
+GL 0 bgcc0012
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+WVP 1 bgm010.ogg 0 0 0
+
+
+Sakuraba was there.
+TP
+
+He'd been sleeping in one of the beds.
+TP
+
+He was fast asleep, with his stomach sticking out.
+TP
+
+WVP 0 vmCCC0031csku000
+Sakuraba: "......guooo."
+TP
+
+He's snoring.
+TP
+
+Taichi: "Sakuraba?"
+TP
+
+WVP 0 vmCCC0031csku001
+Sakuraba: "What is it?"
+TP
+
+Now he's back to normal.
+TP
+
+Taichi: "Are you not feeling well?"
+TP
+
+WVP 0 vmCCC0031csku002
+Sakuraba: "I ate too much curry bread."
+//I sincerely apologize for depriving the staff of this file until now. Å`IX
+//Epic - Sheeta
+TP
+
+So......he's awake?
+//Don't know how many dots you would use there but I went with the usual 6.-Spin
+TP
+
+But his eyes are closed...
+TP
+
+WVP 0 vmCCC0031csku003
+Sakuraba: "I ate four portions of curry bread."
+TP
+
+Taichi: "Are you a moron?"
+TP
+
+WVP 0 vmCCC0031csku004
+Sakuraba: "I should have earned most of the points."
+TP
+
+Taichi: "No, this place doesn't have a point system."
+TP
+
+WVP 0 vmCCC0031csku005
+Sakuraba: "That's trivial. It doesn't bother me."
+//Not too sure what he meant by "small thing." If it was supposed to be obscure then you know what to do.-Spin
+TP
+
+Taichi: "Be bothered by it."
+TP
+
+WVP 0 vmCCC0031csku006
+Sakuraba: "I can't eat anything else."
+TP
+
+Taichi: "So I would think......"
+TP
+
+Taichi: "Although I have these sandwiches."
+TP
+
+WVP 0 vmCCC0031csku000
+Sakuraba: "Guooo."
+TP
+
+He'd been sleeping.
+TP
+
+Maybe everything he said was just sleeptalking?
+TP
+
+Taichi: "Friendship desires-"
+TP
+
+WVP 0 vmCCC0031csku007
+Sakuraba: "Nothing."
+TP
+
+He gave a thumbs up.
+TP
+
+WVP 0 vmCCC0031csku000
+Sakuraba: "Guooo."
+TP
+
+Taichi: "Does this guy have no worries at all......?"
+TP
+
+He is to be feared.
+TP
+
+WVS 1 1
+
+RET

@@ -1,0 +1,393 @@
+
+
+GL 0 bgcc0002
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+WVP 1 bgm002.ogg 0 0 0
+
+I thought I'd try going to school, so I left the house.
+TP
+
+
+Youko-chan was there.
+TP
+
+
+Taichi: "Huh?"
+TP
+
+GL 1 TCHY0000
+GP 1 200 0
+GI 1 1
+
+
+WVP 0 vfCCC0003you000
+Youko: "......good...morning."
+TP
+
+
+She was a little frightened.
+//For some reason those two words while in that sentence made it sound really...not weird but there's another word I can't think of...Also, I changed it to "frightened" which sounds better if you leave it this way.-Spin
+TP
+
+
+......maybe I teased her too much.
+TP
+
+
+Taichi: "I won't do anything in the midst of this extraordinary situation."
+TP
+
+
+I gestured for her to come over.
+TP
+
+
+A smile.
+TP
+
+
+Taichi: "Don't stay over there, come over here."
+TP
+
+
+Youko-chan was reassured a little, and came closer.
+TP
+
+
+I pinched her cheek.
+TP
+GL 4 sgcc0019
+$CGsgcc0019 = 1
+GP 4 0 0
+GS 4 1
+GS 1 0
+SEF 109 0
+
+WVP 0 vfCCC0003you001
+Youko: "............"
+TP
+
+
+I'd reflexively done something disagreeable.
+TP
+
+
+But as expected, her expression hadn't changed.
+TP
+
+
+Her poker face seemed almost fed up, maybe because it had no heart in it.
+TP
+
+
+Taichi: "Morning."
+TP
+
+
+WVP 0 vfCCC0003you002
+Youko: "......liar."
+TP
+
+
+Taichi: "Yep."
+TP
+
+
+She's right.
+TP
+
+
+Taichi: "Because I'm arabesque."
+TP
+
+
+WVP 0 vfCCC0003you003
+Youko: "......I think you wanted to say picaresque."
+//No idea whether either or neither of these words needs tl notes. You can wiki both easily. Å`IX
+TP
+
+
+Taichi: "............"
+TP
+
+
+*pinch*
+TP
+
+
+WVP 0 vfCCC0003you004
+Youko: "Ow."
+TP
+
+
+She felt pain without changing her expression.
+TP
+
+
+Taichi: "I can't forgive myself for making such a simple mistake."
+TP
+
+
+WVP 0 vfCCC0003you005
+Youko: "Then you should be harassing yourself......ah, that hurts, a lot......"
+TP
+
+
+
+She wasn't acting like it hurt.
+TP
+GS 4 0
+SEF 109 0
+Taichi: "So, what's wrong?"
+TP
+
+
+Taichi: "It's rare for you to show yourself in the daytime like this. I thought you lived hidden away in the darkness."
+TP
+
+GL 1 TCHY0000
+GI 1 1
+
+WVP 0 vfCCC0003you006
+Youko: "This."
+TP
+
+
+A paper bag.
+TP
+
+
+Taichi: "Women's underwear?"
+TP
+
+
+WVP 0 vfCCC0003you007
+Youko: "Do you need them?"
+//Since "Women's" is plural, "it" shouldn't be there. Wonder how Sheeta missed it.-Spin
+TP
+
+
+Taichi: "Well......do I?"
+TP
+
+
+The human I am is too impulsive.
+TP
+
+
+WVP 0 vfCCC0003you008
+Youko: "You've got plenty in the dresser drawers in your house."
+TP
+
+
+Taichi: "No, since they aren't freshly stripped......"
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCC0003you009
+Youko: "......I understand."
+TP
+
+
+She took hers off.
+TP
+
+
+Taichi: "It's okay! I don't need it!"
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCC0003you010
+Youko: "......nn."
+TP
+
+
+Taichi: "If you just yank it off like that, it'll be sold at auction with an attached picture."
+//Don't you mean, at AN auction? -VDZ
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCC0003you011
+Youko: "......I might not like that."
+TP
+
+
+Taichi: "You might have to indulge in masturbation with four pairs of shorts on your head until you have bracelets of soiled underwear on both wrists."
+//I'm not all that confident about this tl as he used some rather strange and out of place verbs, but I'm thinking it probably won't matter. Å`IX
+TP
+
+
+WVP 0 vfCCC0003you012
+Youko: "I wouldn't mind that."
+TP
+
+
+Are you sure?
+TP
+
+
+She said it like it was nothing.
+TP
+
+
+Taichi: "Come on now......aren't you a third-year high schooler? Pull yourself together. "
+TP
+
+WVP 0 vfCCC0003you013
+Youko: "I am."
+TP
+
+Taichi: "No you aren't. You're missing something."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCC0003you014
+Youko: "......unexpected."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+
+WVP 0 vfCCC0003you015
+Youko: "Taichi's losing it."
+TP
+
+Taichi: "This is the age when I want to do that. Puberty and all."
+TP
+
+Then, I confirmed the contents of the paper bag.
+TP
+
+
+Taichi: "......sandwiches?"
+//I was so focused on not putting in the extra h again that I almost missed the d this time. Truly sad. Å`IX
+TP
+
+There were a lot of them.
+TP
+
+
+WVP 0 vfCCC0003you016
+Youko: "This is what's left over from the raw foods that could still be preserved."
+TP
+
+Taichi: "You made them."
+TP
+
+Taichi: "......that's right, without people, fruits and vegetables are just-"
+TP
+
+WVP 0 vfCCC0003you017
+Youko: "For the time being. I only surveyed some fields and greenhouses......it should be enough for two people to live on......"
+TP
+
+Taichi: "There are eight."
+TP
+
+I spoke with a raised finger.
+TP
+
+
+Taichi: "That's not a good way to think. Your humanity will break."
+TP
+
+
+Taichi: "Didn't we decide to preserve life?"
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCC0003you018
+Youko: "......yes."
+TP
+
+
+She nods honestly, but...
+TP
+
+
+In the end she'll only mechanically carry out what I say.
+TP
+
+
+It provoked me quite a bit.
+TP
+
+Taichi: "Thank you. I'll take these. There might be a bit too much though."
+TP
+GL 1 TCHY0000
+
+GI 1 0
+
+Youko: "............"
+TP
+
+I had a feeling that her facial muscles moved (under my fingers).
+TP
+
+
+Taichi: "So much, it's like a double portion."
+TP
+
+Youko: "............"
+TP
+
+I had a feeling that her facial muscles moved (under my fingers).
+TP
+
+
+If I'm not touching her, I can hardly read any of her subtle changes in expression.
+TP
+
+
+Taichi: "......"
+TP
+
+Taichi: "So much, it's like a double portion."
+TP
+
+I tried saying it again.
+TP
+
+
+Youko: "............"
+TP
+
+I had a feeling that her facial muscles moved (under my fingers).
+TP
+
+
+Ha-haaan.
+TP
+
+
+A vicious thought.
+TP
+
+
+Taichi: "This double portion of sandwiches......I will surely......"
+TP
+
+
+
+
+CSQ 0 1 1
+  -Eat them by myself
+  -Eat them with someone else
+
+
+RET

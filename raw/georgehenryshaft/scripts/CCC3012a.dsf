@@ -1,0 +1,2353 @@
+//追いかけよう。
+Let's follow.
+TP
+
+//嫌な予感がする。
+I have a bad feeling about this.
+//CP Star Wars
+//...or so I wrote as a joke, but then I looked it up and that's seriously how the line was rendered in Japanese. Now, whether it's coincidental, that I don't know. -GHS
+TP
+
+//とても嫌な予感だ。
+A very bad feeling.
+//...though this is nearly the exact line Han Solo uses in A New Hope... -GHS
+TP
+
+GL 0 bgcc0002c
+GS 0 1
+SEF 152 0
+//こっちだな。
+It's here, isn't it.
+TP
+
+//さっきの……あの気配。
+That... presence from before.
+TP
+
+//知っている。
+I know it.
+TP
+
+//俺はアレを知っている。
+I know... what that is.
+TP
+
+//とと……自転車発見。
+Then, then... bicycle discovery.
+//Also "father" and "anglefish", but, uhm not seeing it. More importantly, bad feeling -> Youko's presence? -> bicycle use. Notice he can use a bike, unlike a car. This is, of course, extremely thematically important. -GHS
+TP
+
+//鍵はかかってない。
+There is no lock.
+//...that he can't pick. -GHS
+TP
+
+//拝借。
+I borrow it.
+//No stealing! -GHS
+TP
+
+//昨日の場所に―――
+On to yesterday's place---
+TP
+GL 0 bgcc0000c
+GS 0 1
+SEF 152 0
+
+
+
+
+//草むらに出る。
+I come out of the thicket.
+TP
+
+//霧は……いない。
+Kiri... isn't there.
+TP
+
+//ここに来たのではなかったのか。
+Did she not come here then?
+TP
+
+//昨日、霧が立っていた辺りを探ってみる。
+I try to search the area near where Kiri was standing yesterday.
+TP
+
+//荷物を発見。来ている。
+I found the bag. She had come.
+TP
+
+//移動したか。
+Did she go somewhere?
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//深呼吸する。
+Take a deep breath,
+TP
+
+//目を閉じて、ぐっと目蓋で眼球を圧迫する。
+close the eyes, and impose strong pressure on the eyeballs with the eyelids.
+TP
+
+//水晶体の奥で、スイッチが切り替わったようなイメージが湧く。
+In the depth of the crystalline lens of the eye, an image like a switch toggling its state surges out.
+//Magic circuit... ENGAGE! F/SN was released a few months after this, but the F/SN trial was right eight months before Cross Channel. It's not impossible it's a straight reference. -GHS
+TP
+
+//なんてことはない。
+The thing itself doesn't happen.
+//Is he wearing night vision goggles? He totally is, is he. -GHS
+TP
+
+//明度が急激に変化した際、目がゆっくりとオートでやることを、意図的に加速しているだけだ。
+I am just intentionally accelerating what the eyes would, slowly, normally do at the moment of a sudden change in brightness.
+//...which is absolutely a normal thing to happen. And later on, he'll claim he can change at will between Normal and Night Vision, see CCD3003. This'll all be made bunk in CCX0001. -GHS
+TP
+
+//開く。
+Open.
+TP
+
+//夜が明るくなった。
+The night became bright.
+TP
+
+//草木の微々たる動きが、クリアに視界に表示されている。
+The most insignificant motions of the vegetation are displayed clearly in my field of vision.
+TP
+
+//猫の目―――
+The fickleness of cat's eyes---
+//Whoops, non-literal meaning ga aru... or should I say gairu. -GHS
+TP
+
+//感覚が鋭敏になっていた。
+Senses had become sharp.
+TP
+
+//太一「イヤだな……まったく」
+Taichi: "This is bad... dammit."
+TP
+
+//自分が別の者になりそうな感覚でもある。
+There is also the sensation of having become someone else.
+//And that's exactly all the hints you get, really. -GHS
+TP
+
+//さて。
+So then,
+TP
+
+//雑木林の奥。
+into the depths of the grove.
+//See CCC3003. Igi ari! -GHS
+TP
+
+//そこからかすかな気配を感じた。
+I felt a faint presence coming from there.
+TP
+
+WVS 1 0
+
+WVP 0 vfCCC3012akri000
+//霧「……ひゃっ」
+Kiri: "...hyah!"
+TP
+
+//悲鳴が聞こえた。
+I could hear a shriek.
+TP
+
+//太一「！」
+Taichi: "!"
+TP
+
+//走る。
+I run.
+TP
+
+
+
+//視界を埋めた光景は。
+And the scene that filled my sight,
+TP
+
+WVP 1 bgm019.ogg 0 0 0
+
+GL 0 evcc0052
+$CGevcc0052 = 1
+GS 0 1
+SEF 155 0
+//戦慄と記憶を、同時に呼び覚ました。
+awakened horror and recollection simultaneously.
+TP
+GL 5 evcc0063
+$CGevcc0063 = 1
+GI 5 0
+GO 5 1
+//くそっ！
+Dammit!
+//Interesting he'd be reminded of that scene... considering back then she didn't do anything at all! This is another hint that what's happening here is nothing of what it looks like. -GHS
+TP
+//曜子ちゃんの目、本気だ。
+Youko-chan has seriousness in her eyes.
+TP
+
+//太一「やめろ！」
+Taichi: "STOP!"
+TP
+
+WVP 0 vfCCC3012ayou000
+//曜子「……太一」
+Youko: "...Taichi."
+TP
+
+//驚く様子はなかった。
+There was no semblance of surprise.
+TP
+
+//たぶん、俺の接近に気づいていたのだろう。
+Perhaps she had noticed my approach.
+//Or maybe there's a reason why in CCC3012B she doesn't come to kill Kiri, despite the only decision made here was Taichi not to come here. -GHS
+TP
+
+WVP 0 vfCCC3012akri001
+//霧「……っ」
+Kiri: "...!"
+TP
+
+//隙と見て霧が動く。
+Seeing a chance, Kiri moves.
+TP
+
+//だが曜子ちゃんは視線を外していたりはしない。
+But Youko-chan had not averted her line of sight.
+TP
+
+//手首を返して、ぶら下げたベルトを回転させる。
+Twisting with the wrist, she makes the belt she was suspending rotate.
+//Rocks are easily found, and Taichi wears a belt. -GHS
+TP
+
+//一回転。
+One revolution.
+TP
+
+//握られていた両端の片方だけをはなすと、挟まれていた石つぶてが遠心力をまとってリリースされた。
+When one of the two ends now held in one hand is released, the stone laid between them is released, clad in centrifugal force,
+//It's technically not real, but http://en.wikipedia.org/wiki/Centrifugal_force is close enough. Plus this is all an intentional ascientific troll anyway. -GHS
+TP
+
+WVP 0 vfCCC3012akri002
+//霧「っっ！」
+Kiri: "!!!"
+TP
+
+//どうすることもできないタイミングだった。
+and with a timing that made it impossible for me to do anything about it.
+TP
+
+//行動の起こり、意識が向いた瞬間を突かれると、人は瞬時に対処できない。
+When their consciousness actively focuses even for an instant on the originating action, a person cannot react instantaneously.
+//Reflexes are faster than rational thought I guess. -GHS
+TP
+
+//石は霧のふくらはぎをしたたかに打った。
+The stone strikes Kiri's calf hard.
+TP
+
+WVP 0 vfCCC3012akri003
+//霧「ぐっ！」
+Kiri: "Gh!"
+TP
+
+//すとんとうずくまる霧。
+Thump, and Kiri squats down.
+TP
+
+//足を抱えて、歯を食いしばる。激痛が走っているはずだ。
+Grasping her leg, grinding her teeth. She must be feeling intense pain.
+TP
+
+//背筋が冷えた。
+The spine grew cold.
+TP
+
+//これは投石だ。
+This is Stone Throwing.
+//Technique. -GHS
+TP
+
+
+TWS 7
+GL 5 zzzblackblend
+GP 5 0 0
+GI 5 1
+//HACK NVL mode -GHS
+
+
+//古くは羊飼いたちが、羊の番に用いた技術。
+> 
+ 
+In olden times, shepherds used that technique
+to guard sheep.
+//Translation: "look at our wannabe King David here". Is she planning on jumping on Kiri, grabbing her crossbow, shooting her with it, and be anointed King of the Jews? -GHS
+TL
+//霧の手にするクロスボウに対して、あまりにも原始的な武装。
+In contrast with the crossbow Kiri possesses,
+it is an excessively primitive weapon.
+TL
+//いや、武装でさえない。
+No, it's not even a weapon.
+TL
+//ないのだが……その威力、絶大。
+It's not and yet... it is powerful, and
+immensely so.
+TL
+//紐に挟んだ石を振り回して投げつける。
+//It's throwing a stone held between a pimp at someone.
+It's throwing a stone held with a belt at someone.
+TL
+//それだけのことだ。
+//It's stupid, but it's AWESOME.
+That and nothing more.
+TP
+
+
+//圧搾空気も火薬もガスも使わない推進力は、紐の長さと回転数でしかない。
+A propulsive power that use neither compressed
+air nor gunpowder nor gas, but exclusively
+length of string and speed of revolution.
+//Compressed air, interesting he'd mention those. They have CA guns in the Club... -GHS
+TL
+//空気摩擦さえ考慮された銃弾。
+The bullet only takes air friction into account,
+TL
+//微細な数字の極地にある砲身。
+its gun barrel exists at the extremes of
+detailed numbers.
+//Assuming because it's the calculations required to account for friction and trajectory. According to a changed line in CCC3002 from the console version (not kept due to censorship metareferences), this should be what it means. It's an odd way of putting it, the term literally means "polar region". It's also there in the interview in the Materials Book: maybe it was in popular use in those years. -GHS
+TL
+//悪条件下で長時間使用し続けるための信頼性。
+Its reliability permits continued utilization
+for long periods of time under adverse
+conditions.
+TL
+//人を殺すため続けられた研鑽。
+Hers is a continued diligent research in how
+to kill people.
+TL
+//その末にある銃器には、もちろん及ぶものではない。
+In the end, of course, it can never reach
+the level of a firearm.
+//Which she knows how to use, see CCD3003. So why this big fancy spectacle? It seems it's all built for Taichi and the reader, and little more... -GHS
+TP
+
+
+//だけど彼女のソレは……違った。
+But there's that thing of hers that
+was... different.
+TL
+//生まれながらにして祝福を受けた遺伝子に導かれた、見た目はいたいけな少女に過ぎない彼女の内部筋肉は、成人男子さえ凌駕する。
+Under her figure that never transcends that of a
+helpless girl lie internal muscles that surpass
+even those of an adult man, descended from genes
+blessed from birth.
+//A 17 (18) year old girl with the speed and strength of an adult male. Totally plausible. Why, it's almost as believable as bullet-train-speed sneezes, brain cell mitosis, Kierkegaard writing Wittgenstein's Tractatus, ridiculously cute marmosets having 'fearsome' and "crafty" (are they brains???) muscles, the generation of Comic Force Fields, cat's eyes in humans, magically fogging-up glasses, the summoning of a sword from beyond time and space, martial arts masters providing random commentary, and boooy we haven't even started. Super Ninja! -GHS
+TL
+//単純な腕力ではない。
+It isn't just in physical strength:
+TL
+//俊敏さ、バネ、機動力。
+it's in sharpness, in springiness and in mobility.
+//All-surpassing Hyper Super, Mega Future... -GHS
+TL
+//そういった面で、女であることをまるでハンデとしない。
+On all of those terms her being a woman
+cannot be taken as a handicap at all.
+//This is just as scientifically ridiculous. As people who've actually went and sparred with women will tell you, if there's one thing they're inferior to men it isn't even strength: it's agility. "Girls are fast" is a pure videogame myth. -GHS
+TL
+//いつだって支倉曜子は素早く無音で動く。
+Hasekura Youko moves quickly and silently,
+all the time.
+TL
+//会得の難しい投石を、手足の延長線上として使いこなす。
+The slingshot of stone throwing, so hard to
+master, she manages as if it were an extension
+of her limbs.
+//She's literally tossing stones at someone who is glass, and can't even shatter her... -GHS
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+
+//霧が持つクロスボウに、矢はセットされていない。
+No bolt is nocked in Kiri's crossbow.
+TP
+
+//……反撃し、外したのだろう。
+...she must've returned fire and missed.
+TP
+
+//これも恐ろしい武器のはず。
+That is also supposedly a fearsome weapon,
+TP
+
+//だか今、霧にとって楯のかわりにもならない。
+but now, it isn't even good enough to be a shield for Kiri.
+TP
+
+//矢をセットする暇さえ与えられず、石つぶてによって追い立てられた。
+She is pressed on by the throwing stones, without the respite to load a bolt.
+TP
+
+//いや。
+Well,
+TP
+
+//よく生き延びた。
+she managed to survive pretty well.
+TP
+
+//曜子ちゃんの最初の一撃からは無警戒だったはずなのに、よく命を守り通したと。
+Though Youko-chan's first attack must have caught her unaware, she managed to preserve her life through it.
+//More like, Youko couldn't kill Kiri despite being an invisible ghost. In other words, Youko's completely incompetent and/or likely is no more capable of killing someone than she was at the Mansion. -GHS
+TP
+
+//曜子「…………」
+Youko: "......"
+TP
+
+//二つ目の石を、ベルトに挟む。
+She sets a second stone in the belt.
+TP
+
+//手首のバネをきかせて、残像の円盤を作る。瞬時。
+Utilizing the springiness in her wrist, she creates the afterimage of a disk. Instantly.
+TP
+
+WVP 0 vfCCC3012akri004
+//霧「ちょ……っと……」
+Kiri: "Wa... wait..."
+TP
+
+//霧の顔が青ざめる。
+Kiri's face turns pale.
+TP
+
+WVP 0 vfCCC3012akri005
+//霧「ど、どうして……あなたが……？」
+Kiri: "Wh-, why... are you...?"
+TP
+
+WVP 0 vfCCC3012ayou002
+//曜子「太一を、殺そうとしたから」
+Youko: "Because you want to kill Taichi."
+TP
+
+WVP 0 vfCCC3012akri006
+//霧「！？」
+Kiri: "?!"
+//HACK curiously the voice file for this was missing, but it's still there in the Sendback. Not always easy to tell what's intended to be removed, unfortunately. Let's keep it. -GHS
+TP
+
+WVP 0 vfCCC3012ayou003
+//曜子「太一を殺す練習をしていたから」
+Youko: "Because you are practicing to kill Taichi."
+TP
+
+WVP 0 vfCCC3012akri007
+//霧「……だ、だから……わたしを殺すんですか……？」
+Kiri: "...th-, that's why... you are going to kill me...?"
+//It's sort of oddly phrased. Why would she be surprised that her behavior would cause Youko to do this? It's possible that it's just Kiri being a moron... but it's possible that what she heard "Youko" say is nothing of what we hear. The curse of Babel strikes hard here. -GHS
+TP
+
+//曜子「……」
+Youko: "..."
+TP
+
+//もう会話には応じない。
+There is no response to her words anymore.
+TP
+
+//ああ、あれは『取る』目だ。
+Ahhh, those are her "remove" eyes.
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+//曜子『なにがこわいの？　こわいの、取ってあげようか？』
+Youko: 『What are you afraid of, then? Want me to remove what you're afraid of?』
+//No voice. -GHS
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+//俺のいやなものを全て『取って』くれた。彼女は。いつも。
+All the things I dislike get 'removed'. By her. Always.
+TP
+
+//この世からなくしてしまった。
+They simply and completely vanish from the world.
+//Like all of humanity...? See the new CCD0022A: this line comes right before she fails to kill anyone at the Mansion. Or anyone here: she didn't remove Sakuraba when he annoyed Taichi, nor Misato when she did the same, nor Touko when she became too sticky. And while he might've forgotten, there's no way no how that Youko forgot about Yutaka! This makes little sense outside the Youko Is Taichi's Censor Filter, and even then... -GHS
+TP
+
+//献身的どころの話じゃない。
+I'm absolutely not talking about devotion,
+TP
+
+//ほとんど利己的なまでの、好意。
+this is favoritism, and very nearly self-conveniently so.
+//利己 = convenient - self. 己 <-> 乙. -GHS
+TP
+
+WVP 0 vfCCC3012akri008
+//霧「ああ……」
+Kiri: "Ahhh..."
+TP
+
+WVP 3 SE085 0 0
+//回転数が増す。
+The number of revolution grows.
+TP
+
+//鋭い風切音。
+The sharp sound of wind cutting the air.
+TP
+
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　いすく
+//眼前で膨れあがる破壊力、霧は恐怖に射竦められる。
+As the destructive force swells out in front of her eyes, Kiri is bound down by fear.
+//See CCB0006, same thing Kiri did to Taichi. -GHS
+TP
+
+//死の確定。
+The certainty of death.
+TP
+
+//それが霧には信じられない。
+That is something that Kiri cannot believe.
+TP
+
+//回転力は、もう十分な運動エネルギーを石に内在させていた。
+The rotational force was imposing more than sufficient kinetic energy to the stone.
+TP
+
+//本来彼女の技量なら、一回転からリリースできる。
+With her natural abilities, she could release it after one rotation.
+//As she did above. -GHS
+TP
+
+//威力は若干落ちる。
+Her might has decreased somewhat.
+TP
+
+//おかげで霧の足も、深刻な傷を受けずに済んだ。
+Consequently, Kiri's leg did not take a serious wound.
+//This reads as if Youko's strength has decreased in general, not that she's doing lots of spins because she can't kill Kiri with one spin. -GHS
+TP
+
+//だが頭部に当てれば、時には死に至る。
+But a precise hit on the head can, occasionally, bring about death.
+TP
+
+//確実に仕留めるつもりなのか。
+Does she intend to take her out then?
+//She's going to kill one bird with 2-3 stones! Uhm, badum-tish? -GHS
+TP
+
+//回転数は高く鋭く保持されて。
+The number of revolutions is maintained sharp and high.
+TP
+
+//今度は痛いでは済まないように。
+This time it will not end simply with pain.
+TP
+
+WVP 0 vfCCC3012akri009
+//霧「や、やめてぇ……」
+Kiri: "S-, stooop..."
+TP
+
+//クロスボウを顔の前に構えて、すすり泣いた。
+Setting her crossbow in front of her face, she sobbed.
+//Kiri is not looking at what's happening. It's not certain she was even seeing anyone but Taichi. -GHS
+TP
+
+//これが霧の限界か。
+Is this the limit for Kiri, then?
+TP
+
+GL 5 zzzCCC3012Azoom
+GI 5 1
+//HACK zoom even this? K... -GHS
+
+//太一「そこまでだよ」
+Taichi: "That's far enough."
+TP
+
+//霧の前に立つ。
+I stand in front of Kiri.
+//Who has her crossbow in front of her eyes, and couldn't see, say... Taichi moving from what should be Youko's position to in front of her. And now Kiri can't see Youko at all, only Taichi's back. -GHS
+TP
+
+WVP 0 vfCCC3012akri010
+//霧「え……？」
+Kiri: "Eh...?"
+TP
+WVS 3 1
+//回転が落ちた。
+The number of revolutions falls.
+TP
+
+WVP 0 vfCCC3012ayou005
+//曜子「それは、生かしておくと太一に危害を加える」
+Youko: "If that is kept alive then Taichi will be harmed."
+//Impersonal. -GHS
+TP
+
+//太一「いいじゃないか、別に」
+Taichi: "Nah, I don't think so, not really."
+TP
+
+//太一「どうせ、リセットなんだ」
+Taichi: "There's the reset anyhow."
+TP
+
+
+//曜子「…………」
+Youko: "......"
+TP
+
+//太一「好きにさせよう」
+Taichi: "Lemme do what I wanna do."
+TP
+
+WVP 0 vfCCC3012ayou007
+//曜子「……だめ」
+Youko: "...can't."
+TP
+
+//太一「曜子ちゃん」
+Taichi: "Youko-chan!"
+TP
+
+//強く名を呼ぶ。
+I call her name with strength,
+TP
+
+//けど引き下がる様子はない。
+but it doesn't seem she's backing down.
+TP
+
+WVP 0 vfCCC3012ayou008
+//曜子「取るの」
+Youko: "Removing."
+TP
+
+//太一「取らなくていい」
+Taichi: "I'm fine without removing."
+TP
+
+WVP 0 vfCCC3012ayou009
+//曜子「どいて」
+Youko: "Move."
+TP
+
+//太一「どかないよーだ」
+Taichi: "Nooot going to move."
+TP
+
+//背後で、霧が息を詰めて見守っている。
+Behind me, Kiri is holding her breath and watching attentively.
+TP
+
+//命が助かった安堵と、俺に仲裁されたことへの違和。
+A physical discomfort towards the combination between the relief of her life being saved and the idea of my intercession.
+//違和<->違和感, which is the exact specific word that is used by Taichi to define Nanaka and Youko. Very odd she would feel that herself, isn't it? Now look closely at CCC3019A. -GHS
+TP
+
+WVP 0 vfCCC3012ayou010
+//曜子「でも……」
+Youko: "But..."
+TP
+
+//迷いがさす。
+Visible perplexity.
+TP
+
+//太一「俺を理由にして、人殺しなんてしてもらいたくないね」
+Taichi: "I don't want you to be a murderer using me as the reason."
+TP
+
+//太一「殺したいなら自分の理由でやってくれ」
+Taichi: "If you wanna kill, come up with a reason of your own."
+TP
+
+//彼女は怯む。
+She falters.
+TP
+
+WVP 0 vfCCC3012ayou011
+//曜子「…………だって、太一のために……私は……」
+Youko: "......but, for the sake of Taichi... I..."
+//See CCD0022A as redone. -GHS
+TP
+
+//俺のため。
+My sake.
+TP
+
+//俺の名前を出して霧を殺す。
+Killing Kiri with my name on her lips.
+TP
+
+//そのことが、結果として俺を傷つけるとも考えず。
+And she'll do that without ever thinking if the result would hurt me.
+TP
+
+//太一「……いつだってそうだ。自分の気持ちだけを押しつけて」
+Taichi: "...always, always like that. Always pushing onto others what are just your feelings."
+TP
+
+//太一「迷惑なときだって―――」
+Taichi: "Even when it's unwelcome---"
+TP
+
+//曜子ちゃんが手首をひねった。
+Youko-chan twisted her wrist.
+//So she CAN do this with a single revolution? Or rather, none at all. -GHS
+TP
+
+//太一「！！」
+Taichi: "!!!"
+TP
+
+//横から首を出して会話をうかがっていた霧。
+From the side, Kiri's head had poked out to peek into our conversation.
+//And juuust as she's about to incontrovertibly see both of them... -GHS
+TP
+
+//その顔面の前にてのひらを置く。
+I cover that face with the palm of my hand.
+//...he blocks her view. -GHS
+TP
+
+
+WVP 2 se079 1 0
+SEF 101 0
+//HACK uhm, shake screen instead of doing nothing -GHS
+//次の瞬間、激痛とともに石がおさまった。
+The next instant, a stone was delivered together with intense pain.
+//He could just smack his own hand with the slingshot. That's why she would just twist her wrist, not spin the slingshot. -GHS
+TP
+
+WVP 0 vfCCC3012akri011
+//霧「きゃっ！？」
+Kiri: "Kyah?!"
+TP
+
+//太一「……痛ぅ」
+Taichi: "...owww."
+TP
+
+//曜子ちゃんが青ざめる。
+Youko-chan turns pale.
+TP
+
+WVP 0 vfCCC3012ayou012
+//曜子「あ……ごめん……許して……」
+Youko: "Ah... sorry... forgive me..."
+TP
+
+//太一「裏切ったな」
+Taichi: "You betrayed me, didn't you."
+//With that rock... is what readers are meant to think on first pass. -GHS
+TP
+
+WVP 0 vfCCC3012ayou013
+//曜子「……え……あの……だから……」
+Youko: "...eh... uhm... but it's..."
+TP
+
+//太一「会話中に俺の隙を突こうとしたな」
+Taichi: "You took advantage of me being distracted by conversation, didn't you."
+TP
+
+//不快だった。
+That was unpleasant.
+TP
+
+//こればかりは、本気で。
+She's only ever serious about this kind of stuff.
+//Since he's all but using her betrayal as leverage... -GHS
+TP
+
+//太一「……またか」
+Taichi: "...again?"
+TP
+
+//びくっと、彼女の肩が震えた。
+Her shoulders shook with a start.
+//She knows he remembers. More importantly, it's incontrovertible that this scene needs to be read in the light of Youko being unable to kill. Whether this is a show for Taichi or Youko simply being unable to work up the courage, this isn't a scene meant to be read straight. -GHS
+TP
+
+//太一「大切だと言う。愛してると言う。好意を押しつける」
+Taichi: "You're precious, you tell me. I love you, you tell me. You keep pushing your favoritism on me."
+TP
+
+//太一「……なのに、ここぞという時に裏切る」
+Taichi: "...and despite all that, in those very critical moments, you betray me."
+TP
+
+//太一「またか」
+Taichi: "Again?"
+TP
+
+WVP 0 vfCCC3012ayou014
+//曜子「違う、それはつまり……太一の身の安全が……」
+Youko: "Wrong, that was, I meant... to preserve Taichi's personal safety..."
+TP
+
+//しどろもどろ。
+Disoriented.
+TP
+
+//太一「その話はもういい！」
+Taichi: "That's enough TALK!"
+TP
+
+//一喝された幼女の如く、すくみあがった。
+She cowers in fright, like a little girl being shouted at.
+//This is foreshadowing of her Sendback, see CCD5001. Youko was never anything more than this. Never. -GHS
+TP
+
+WVP 0 vfCCC3012ayou015
+//曜子「……ご、ごめんなさい……」
+Youko: "...I-, I am sorry..."
+TP
+
+//消え入りそうな声。
+A voice that seems to vanish.
+TP
+
+//太一「とにかく霧は殺さないでくれ」
+Taichi: "Regardless, please don't kill Kiri."
+TP
+
+//曜子「…………」
+Youko: "......"
+TP
+
+WVP 0 vfCCC3012ayou017
+//曜子「……でも、太一を殺させるわけにはいかない」
+Youko: "...but Taichi being killed is out of the question."
+//Not just being murdered, also suicide. -GHS
+TP
+
+WVP 0 vfCCC3012ayou018
+//曜子「それだけは、絶対に認められないよ」
+Youko: "That, alone, I will never ever accept."
+TP
+
+//太一「……むざむざ殺されないよ」
+Kiri: "...I won't just let myself get killed easily ya know."
+TP
+
+//太一「霧と俺とじゃ、デキが違いすぎる」
+Taichi: "The skills gap between me and Kiri's just way too large."
+TP
+
+WVP 0 vfCCC3012ayou019
+//曜子「けど……太一はたまに……」
+Youko: "But... once in a while, Taichi..."
+TP
+
+//太一「たまに？」
+Taichi: "Once in a while what?"
+TP
+
+WVP 0 vfCCC3012ayou020
+//曜子「死への抵抗感を、忘れるから」
+Youko: "There's this forgetting the reluctance to die."
+//There's no way she can know this outside of being unreset... whether at the hokora or being a ghost like Nanaka. -GHS
+TP
+
+//太一「ま、こんな状況だとね」
+Taichi: "Well, in these circumstances, yeah."
+TP
+
+//確かに、そういう面が俺にはある。
+That's also that aspect of me, certainly.
+TP
+
+//自慢じゃないが情緒は不安定だ。
+I'm not proud of that, but my emotions are unstable.
+//See CCA0003. Contradiction? -GHS
+TP
+
+//太一「じゃあ約束する。今週については、死なないようにする」
+Taichi: "Well then I promise. As far as this week, I'll try not to die."
+//Not more specific given that, well, he can just choose to die. But from this promise he can at least TRY not to die, whereas with the other one he can't BUT die. -GHS
+TP
+
+//太一「全力で身を守る。そのかわり、君も手を引け」
+Taichi: "I shall defend my body with all my strength. In exchange, you will withdraw and your hands will be tied."
+//Figurative and literal seem to work both -GHS
+TP
+
+//曜子「……………………」
+Youko: "............"
+TP
+
+//太一「納得できないなら、縁切りすることになるよ？」
+Taichi: "If you can't give me your agreement, then this is where we part ways, OK?"
+TP
+
+WVP 0 vfCCC3012ayou022
+//曜子「いやだ……それは、いやだ……」
+Youko: "Not that... that's... not that..."
+TP
+
+//即答だった。
+Immediate response.
+TP
+
+WVP 0 vfCCC3012ayou023
+//曜子「わかった……引く」
+Youko: "Understood... withdrawing."
+TP
+
+WVP 0 vfCCC3012ayou024
+//曜子「でも、監視はするから」
+Youko: "But there will be monitoring."
+TP
+
+//太一「ご自由に」
+Taichi: "As you wish."
+TP
+
+WVP 0 vfCCC3012ayou025
+//曜子「佐倉霧の武器を渡して」
+Youko: "Hand me over Sakura Kiri's weapons."
+//She seems to ask that of him... -GHS
+TP
+
+//太一「だとさ。出せ」
+Taichi: "Do it. Out with them."
+TP
+
+WVP 0 vfCCC3012akri012
+//霧「え……？」
+Kiri: "Eh...?"
+TP
+
+//太一「クロスボウと、ナイフかなにか持ってるだろ」
+Taichi: "The crossbow, and that knife or whatever it is you have."
+//See CCC3010 -GHS
+TP
+
+//太一「出すんだ、そうじゃないと殺されちゃうぞ」
+Taichi: "Take 'em out, if you don't you'll be stone cold killed."
+TP
+
+//霧「…………」
+Kiri: "......"
+TP
+
+//無言で、霧はそれを前方に放り投げた。
+Wordlessly, Kiri tosses all in front of her.
+TP
+
+//曜子ちゃんが拾う。
+Youko-chan picks them up.
+//But Taichi's in front of her... and has a convenient big bag that'd totally fit a crossbow (or whatever the thing actually is) inside. -GHS
+TP
+
+WVP 0 vfCCC3012ayou026
+//曜子「武装は禁止。もし武器を保有したら敵意があると見なすから」
+Youko: "Weapons are forbidden. Should you posses or retain any weapon, it shall be seen as hostile intent."
+TP
+
+//霧「…………」
+Kiri: "......"
+TP
+
+//霧は背中から出てこない。
+Kiri does not move from behind me.
+TP
+
+//太一「あとさ……来週からも、ちゃんと穏便に頼むよ」
+Taichi: "And by the way... you be a bit more amicable if you please, starting next week."
+//...it's almost as if he knew she wouldn't forget... -GHS
+TP
+
+WVP 0 vfCCC3012ayou027
+//曜子「うー」
+Youko: "Ngggh..."
+TP
+
+//不本意そうだった。
+She seemed quite unwilling.
+TP
+
+//太一「お願いだから」
+Taichi: "I'm asking you, please."
+TP
+
+WVP 0 vfCCC3012ayou028
+//曜子「……う、うん、わかった」
+Youko: "...y-, yeah, got it."
+TP
+
+//……ちょろい。
+...easy peasy.
+TP
+
+WVS 1 1
+
+GL 0 bgcc0000d
+GS 0 1
+GS 5 0
+SEF 109 0
+//そして彼女は、闇に身を沈めていく。
+And then her body sinks into the darkness.
+TP
+
+//気配がすっと消える。
+Her presence is immediately erased.
+TP
+
+//太一「ほっ」
+Taichi: "Whew."
+TP
+
+//霧「……」
+Kiri: "..."
+TP
+
+GL 0 bgcc0024
+GS 0 1
+SEF 152 0
+//緊張の段階が、一つ下がる。
+The level of tension decreases by one,
+TP
+
+//だがまだ０ではない。
+but it's not zero yet.
+TP
+
+//太一「……………………」
+Taichi: "............"
+TP
+
+//背後、緊張の発生源がまだオーラを放出し続けている。
+From behind, the source of tension continues to emit its aura.
+TP
+
+WVP 1 bgm020.ogg 0 0 0
+
+//ゆっくりと怒りに転化していくそれを意識しつつ、
+And while aware that it was slowly being converted into anger,
+TP
+
+//太一「……怪我は？」
+Taichi: "...how's the injury?"
+TP
+
+GL 1 TCSK0002c
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfCCC3012akri016
+//霧「どうして」
+Kiri: "What reason."
+//See CCD3003, to better contrast with a 'naze' -GHS
+TP
+
+//俺に助けられたことへの戸惑いや怒り。
+Angry and confused at having been saved by me.
+TP
+
+//感情がもつれて、怒鳴りつけたいのを必死で抑えている。
+Emotions growing complicated, that she's holding back a desperate desire to scream.
+TP
+
+//そんなくぐもった声だった。
+And with that mumbling voice,
+TP
+
+GL 1 TCSK0001c
+GI 1 0
+
+WVP 0 vfCCC3012akri017
+//霧「どうして……助けたんです……」
+Kiri: "For what reason... did you save me..."
+TP
+
+//太一「どうしてって……言われてもなぁ」
+Taichi: "The reason you ask... don't got one."
+TP
+
+//太一「助けたかったからそうした、じゃダメかな」
+Taichi: "I wanted to save you, that's it, is that a problem?"
+TP
+
+WVP 0 vfCCC3012akri018
+//霧「ふざけないでください……」
+Kiri: "Please do not jest..."
+TP
+
+//太一「……ふざけてはないけど」
+Taichi: "...but I'm not jesting."
+TP
+
+//太一「ま、そうだよな。納得はいかんわな」
+Taichi: "Well, that's how it goes. You're not gonna accept this anyway."
+TP
+
+//太一「嫌っていた相手に助けられるというのは」
+Taichi: "It's what being rescued by someone you don't like is about."
+TP
+
+GL 1 TCSK0000c
+GI 1 0
+//霧「……」
+Kiri: "..."
+TP
+
+//太一「本気で俺のこと、殺す気だったの？」
+Taichi: "You wanted to kill me, seriously?"
+TP
+
+GL 1 TCSK0001c
+GI 1 0
+//霧「…………」
+Kiri: "......"
+TP
+
+//太一「まいったな、どーも」
+Taichi: "Aw shucks, thank ye."
+TP
+
+WVP 0 vfCCC3012akri021
+//霧「あなたは危険すぎます」
+Kiri: "You are far too dangerous."
+TP
+
+//太一「危険？」
+Taichi: "Dangerous?"
+TP
+
+WVP 0 vfCCC3012akri022
+//霧「自分が楽しむために人を弄ぶあなたは」
+Kiri: "You mess around with people for your own enjoyment, that is why."
+TP
+
+GL 1 TCSK0021C
+GI 1 0
+//HACK shouty Kiri -GHS
+
+WVP 0 vfCCC3012akri023
+//霧「こんな状況で、何も変わらないあなたはっ」
+Kiri: "Even when things are like this, you did not change at ALL!"
+TP
+
+//突如として、声を荒げかける。
+All of a sudden, her voice raises.
+TP
+
+//すぐにトーンを落とす。
+Soon, her tone lowers.
+TP
+
+GL 1 TCSK0002c
+GI 1 0
+WVP 0 vfCCC3012akri024
+//霧「……面白半分で、人を殺します」
+Kiri: "...you would kill a man just for the fun of it."
+TP
+
+//空気が澱む。
+Mood stagnates.
+TP
+
+//憎悪が混入しているのだ。
+Hatred is being mixed in it,
+TP
+
+//霧の吐き出す憎しみを。
+the hatred that Kiri is spewing out.
+TP
+
+//太一「ほんと、よく見てるよな」
+Taichi: "Seriously, you see too well."
+//See Misato. Remember that Kiri doesn't believe a word he's saying. -GHS
+TP
+
+//嘆息してしまう。
+I let out a sigh.
+TP
+
+GL 1 TCSK0000c
+GI 1 0
+//霧「……？」
+Kiri: "...?"
+TP
+
+//太一「君は人を見る目だけはある」
+Taichi: "You got a good eye for people, that's all."
+TP
+
+GL 1 TCSK0001c
+GI 1 0
+WVP 0 vfCCC3012akri026
+//霧「なにを……？」
+Kiri: "What...?"
+TP
+
+//太一「俺が一番危険だと思ったんだろ？」
+Taichi: "You think I'm the number one most dangerous, right?"
+TP
+
+WVP 0 vfCCC3012akri027
+//霧「……そうです……けど、危険なのはあなただけじゃなかった」
+Kiri: "...indeed... but, you were not the only dangerous one."
+TP
+
+//太一「曜子ちゃんか」
+Taichi: "Youko-chan, right?"
+TP
+
+GL 1 TCSK0003c
+GI 1 0
+WVP 0 vfCCC3012akri028
+//霧「……何もしてないのに……殺そうと……」
+Kiri: "...I wasn't doing anything but... she wanted to kill me..."
+//Indeed, what is Kiri wasn't, in fact, doing anything at all here? -GHS
+TP
+
+WVP 0 vfCCC3012akri029
+//霧「あ、あなたたちは同類です……だから一緒で」
+Kiri: "Y-, you two are of the same kind... therefore, you are as each other."
+//Let's just keep piling on the suspicions, shall we. -GHS
+TP
+
+//同類ではない。
+We are not of the same kind,
+TP
+
+//否定したかったが、霧には理解さえできないことだ。
+but what I wanted to deny was something that Kiri could never even understand.
+TP
+
+//黙っていると、
+I stay silent.
+TP
+
+GL 1 TCSK0000c
+GI 1 0
+WVP 0 vfCCC3012akri030
+//霧「なぜわたしを助けたんです？」
+Kiri: "Why did you save me?"
+//This is CP'd in CCD3003 so it still fits 'why' -GHS
+TP
+
+//再度問いかけて来た。
+The question came again.
+TP
+
+GL 1 TCSK0001C
+GI 1 0
+//HACK furrowbrowing-ly Kiri -GHS
+
+WVP 0 vfCCC3012akri031
+//霧「見殺しにすればよかった」
+Kiri: "You should have watched me die without helping."
+//That's the absolute most she could conclude from what she saw with Yutaka. -GHS
+TP
+
+WVP 0 vfCCC3012akri032
+//霧「わたしがあなたのことを敵視していたのは……知ってるはずなのに……」
+Kiri: "I see you as an enemy... and I believe you know that, but..."
+TP
+
+GL 1 TCSK0002C
+GI 1 0
+//HACK closed eyes Kiri -GHS
+
+WVP 0 vfCCC3012akri033
+//霧「わたしを助けても何の得にもならない」
+Kiri: "There is nothing you can possibly obtain by rescuing me."
+TP
+
+//太一「いやいや、漫画とかだとこうやって仲間を増やしていくんですよ」
+Taichi: "Now, now, in a manga for example this is how you'd expand your Nakama!"
+//Manga term for manga mentions. -GHS
+TP
+
+//怒気が膨張した。
+Anger swelled.
+TP
+
+//GL 1 TCSK0001c
+GL 1 TCSK0021C
+//HACK shouty Kiri instead -GHS
+GI 1 0
+WVP 0 vfCCC3012akri034
+//霧「わたしはあなたの仲間になんかなりませんっ！」
+Kiri: "I will never become a true companion to you!"
+//See CCD3003, explanation + contrast. -GHS
+TP
+
+//感情的になったら負け。
+You lose if you become emotional.
+TP
+
+//そういうルールを自分に課していたらしい霧が、自ら怒声を発した。
+Having yet seemingly self-imposed this rule, Kiri still fired off these harsh words.
+//Wow, Kiri's a forum troll too? She already has the blue hair, now she only needs clothes at least a century off date and to be someone's obvious mary sue... -GHS
+TP
+
+//太一「俺のピンチに……」
+Taichi: "If I'm ever in a pinch..."
+TP
+
+GL 1 TCSK0002C
+GI 1 0
+//HACK closed eyes Kiri -GHS
+
+WVP 0 vfCCC3012akri035
+//霧「駆けつけません！」
+Kiri: "I will not run to you!"
+//Typical manga writing ("not" excluded) -GHS
+TP
+
+//太一「うむ、いい返しだ」
+Taichi: "Hm, nice twist on it."
+//See CCC3004. -GHS
+TP
+
+//GL 1 TCSK0000c
+GL 1 TCSK0003C
+//HACK more reloading the doll that's already on screen. -GHS
+GI 1 0
+WVP 0 vfCCC3012akri036
+//霧「う……」
+Kiri: "Ngh..."
+TP
+
+//唇を噛んだ。
+She bit her lips.
+TP
+
+//太一「助けた理由、思いついた」
+Taichi: "Well, I came up with the reason I helped you."
+TP
+//GL 1 TCSK0003c
+//GI 1 0
+//HACK no need now -GHS
+WVP 0 vfCCC3012akri037
+//霧「思いついたからって……」
+Kiri: "You came up with it you say..."
+TP
+
+//構わず言う。
+Uncaring, I said,
+TP
+
+//太一「霧が死んだら、美希が悲しむ」
+Taichi: "If you were to die, Kiri, Miki would be sad."
+TP
+
+GL 1 TCSK0004c
+GI 1 0
+//霧「…………」
+Taichi: "......"
+TP
+
+//霧の泣き所だ。
+Kiri's Achilles' heel.
+TP
+
+//太一「ってことで、そこいらにしておこうか」
+Taichi: "And that said, should we leave it at that?"
+TP
+
+GL 1 TCSK0001c
+GI 1 0
+WVP 0 vfCCC3012akri039
+//霧「ばかにして……いつも」
+Kiri: "Making people look stupid... always."
+TP
+
+//太一「これが俺のアイデンティティなんだよ。他の接し方はない」
+Taichi: "This is my eye-dentity indeed. Other ways to deal with things I haven't."
+//It's all about the eyes. OK, it's probably more about love (ai), but that doesn't exist, much like women. -GHS
+TP
+
+//太一「でだ、霧ちん」
+Taichi: "Ann'now, Kiri-chin."
+TP
+
+//とりあえず、だ。
+First thing, this.
+TP
+
+//太一「この怪我、ちょっと手当してくれないかな」
+Taichi: "Shouldn't you give me some treatment for this injury now."
+TP
+
+GL 1 TCSK0002c
+GI 1 0
+WVP 0 vfCCC3012akri040
+//霧「どうしてわたしがそんなことを」
+Kiri: "Why would I even do that!"
+TP
+
+//太一「血が出てるだろ？」
+Taichi: "There's blood coming out right?"
+TP
+
+//さっきから、指先をしたたる血を意識していた。
+I've been aware for a while now of the blood trickling down my fingertips.
+TP
+
+//太一「俺は血が苦手なの」
+Taichi: "I'm bad with blood."
+TP
+
+//太一「それにこの怪我、君を助けてできたものだし」
+Taichi: "Besides this injury was what allowed me to save you."
+TP
+
+GL 1 TCSK0003c
+GI 1 0
+WVP 0 vfCCC3012akri041
+//霧「だって、それは黒須先輩が勝手に……」
+Kiri: "But that's just what you decided to do all on your own, Kurosu-senpai..."
+//Watch that honorific, someone'll think that you actually like the guy. -GHS
+TP
+
+//太一「命を助けられたんだから手当てくらいしてくれ」
+Taichi: "I saved your life, therefore you'll be doing this for me as compensation."
+TP
+
+//キッパリと。
+Flat and clear.
+TP
+GL 1 TCSK0002c
+GI 1 0
+WVP 0 vfCCC3012akri042
+//霧「……わかりました」
+Kiri: "...I understand."
+TP
+
+//素直。
+Amenable.
+TP
+
+GL 1 TCSK0000c
+GI 1 0
+WVP 0 vfCCC3012akri043
+//霧「借りは作りたくないですから」
+Kiri: "Because I do not want to come into debt."
+//Payback seems foundation. -GHS
+TP
+
+//太一「さいで」
+Taichi: "Indeed."
+TP
+
+WVP 0 vfCCC3012akri044
+//霧「けど……手当するようなものなんて……」
+Kiri: "But... this medical help thing, really..."
+TP
+
+//ハンカチを取り出して、傷口を拭く。
+She takes out her handkerchief and wipes the cut.
+TP
+
+//太一「いてて、それはちょっと痛いぞ」
+Taichi: "OwChCh, that kind of hurts!"
+TP
+GL 1 TCSK0004c
+GI 1 0
+
+WVP 0 vfCCC3012akri045
+//霧「あ……すいません……」
+Kiri: "Ah... sorry..."
+TP
+
+//反射的にあやまる霧。
+Kiri reflexively fired off an apology.
+TP
+
+GL 1 TCSK0000c
+GI 1 0
+WVP 0 vfCCC3012akri046
+//霧「でも……他に」
+Kiri: "But... there's more."
+TP
+
+//太一「う、いてて、ジンジンする、出血多量で死にそうだ」
+Taichi: "Ugh, owChCh, it's all tingly tingly, I feel on the verge of death due to extreme blood loss!"
+//See CCA0027, CCA0009A. Taichi's just being an ass here... or is he? -GHS
+TP
+
+GL 1 TCSK0003C
+GI 1 0
+//HACK sweatdrop Kiri -GHS
+
+WVP 0 vfCCC3012akri047
+//霧「え、えっと……」
+Kiri: "Ah, uhm..."
+//See CCA0027 again. Similar reaction. And speaking of back then: was Miki even capable of being honest on the extent of her injury...? -GHS
+TP
+
+//太一「優しく癒してくれ」
+Taichi: "Please heal me gently!"
+TP
+
+//GL 1 TCSK0003c
+//GI 1 0
+//HACK unneeded now -GHS
+WVP 0 vfCCC3012akri048
+//霧「あ……っと……？？？」
+Kiri: "Ah... wha-...???"
+TP
+
+//逡巡。
+Indecision.
+TP
+
+//太一「こんなとき美希ちんだったら、ぺろぺろと舐めて癒してくれるのに」
+Taichi: "If it was Miki-chan in this situation, you'll be healing her by going all licky-licky with your tongue wouldn't you!"
+TP
+
+WVP 0 vfCCC3012akri049
+//霧「なめ……っ？」
+Kiri: "Lick...?!"
+TP
+
+//太一「傷口がいたむ……いたた、こりゃきついな」
+Taichi: "Wound gape painy... owChCh, this hurrrts!"
+//Now he's just ridiculing her. -GHS
+TP
+
+GL 1 TCSK0000c
+GI 1 0
+WVP 0 vfCCC3012akri050
+//霧「こ……こんなこと……したくないのに……」
+Kiri: "Th-... that's something... I don't want to do but..."
+TP
+
+//太一「はやく頼む」
+Taichi: "Please, hurry!"
+TP
+
+WVP 0 vfCCC3012akri051
+//霧「わかり、ました」
+Kiri: "I... understand."
+TP
+
+GL 1 TCSK0002c
+GI 1 0
+WVP 0 vfCCC3012akri052
+//霧「あなたに借りは作りたくないですから」
+Kiri: "Because I do not want to come into debt with you."
+TP
+
+GO 1 1
+//HACK out with the doll -GHS
+
+//おずおずと、舌先が傷口に触れた。
+With the nervousness of diffidence, the tip of her tongue touches the gash.
+//See CCC3022. Spoilers spoilers! -GHS
+TP
+//GI 1 1
+//HACK this would slow fade in the doll for no reason whatsoever. -GHS
+
+WVP 0 vfCCC3012akri053
+//霧「ん……む……」
+Kiri: "Nh... mnuh..."
+TP
+
+//熱い。
+Hot.
+TP
+
+//それにねっとりとしている。
+And furthermore, soggy.
+TP
+
+//ローションでも塗りたくられているかのようだ。
+It's as if I'm being bedaubed with lotion.
+//Japanese fog's one mean bitch. Must be where Silent Hill came from. -GHS
+TP
+
+//かすかな苦痛があるが、それがいい。
+There's a faint pain, but that's fine.
+TP
+
+WVP 0 vfCCC3012akri054
+//霧「れる……んっ……ちゅ、れ……あむ……んぅ」
+Kiri: "Hrhrh... nh... pch, hrh... aHuh... nh."
+//Again, why isn't this counted as a sex sc--- oh, it was cut in the console versions, so it does. -GHS
+TP
+
+//優しく傷口をなぞる。
+She gently traces the gash of the wound.
+TP
+
+//てのひらから、じんわりと甘い痺れが走る。
+From the palm of the hand crawls, gradually, a sweet numbness.
+TP
+
+//肩から脊髄に入り、背骨をくだって尾てい骨まで伝わる。
+It enters the spinal cord from the shoulder, and travels down the spine until it is delivered to the coccyx.
+TP
+
+//下腹部が熱っぽくなる。
+The lower abdomen grows feverishly hot.
+TP
+
+//太一「いいよ、霧」
+Taichi: "Very good, Kiri."
+TP
+
+WVP 0 vfCCC3012akri055
+//霧「んるっ……んん、ん、くちゅ、んふ……はぁぁ」
+Kiri: "Nhrh... nnh, nh, cHph, nfhuh... haaah."
+TP
+
+//時折、舌を離して熱いため息をつく。
+On occasion, she distances her tongue and breathes a hot sigh.
+TP
+
+//太一「指先の方も、キレイにして」
+Taichi: "The fingertips, too, make them clean."
+TP
+
+WVP 0 vfCCC3012akri056
+//霧「ん……んんん……んふぅ、れろ……ん、ん、ん……は、んふぁ」
+Kiri: "Nh... nnnh... nfhuh, hrhruh... nh, nh, nh... hah, nfuhah."
+TP
+
+//ねろねろと舌が蛇行し、てのひらをおりていく。
+With salivation noises her tongue crawls serpentine, descending on the palm of the hand.
+TP
+
+//指先に舌がまとわりつく。
+The tongue then coils about the fingertips.
+TP
+
+//その舌を指二本で挟む。
+And that tongue I now pinch between two fingers.
+TP
+
+WVP 0 vfCCC3012akri057
+//霧「んんっ？　い、いやっ……あぅん……やめ……」
+Kiri: "nnh? N-, noo... ahnh... sto..."
+TP
+
+//霧は指を吐き出してしまう。
+Kiri spat out the fingers.
+TP
+
+//太一「ごめん、ちょっとむずがゆくなって」
+Taichi: "Sorry, had a creepy little itch about there."
+//I was itchy + I made it creepy. -GHS
+TP
+
+WVP 0 vfCCC3012akri058
+//霧「……そう……ですか……」
+Kiri: "...did you... now..."
+TP
+
+//赤面して、横を向く。
+Blushing, then looking away.
+TP
+
+//太一「血は取れた？」
+Taichi: "Did you remove the blood?
+TP
+
+WVP 0 vfCCC3012akri059
+//霧「……まだ、少し」
+Kiri: "...still... a bit."
+TP
+
+//太一「じゃあ頼むよ」
+Taichi: "Then if you please!"
+TP
+
+//指先を出すと、霧はこわごわと唇を這わせた。
+Kiri timidly, nervously makes her lips crawl on the offered fingertips.
+TP
+
+WVP 0 vfCCC3012akri060
+//霧「ちゅ、ちゅ……んん、ふぁ、ん……あふ……」
+Kiri: "Pch, pch... nnh, fWhah, nh... aHfh..."
+TP
+
+//鼻息を止めているせいか、息苦しげな手当だ。
+The treatment seems tense, perhaps because she's containing her nasal breathing.
+//...he's totally using 鼻息 as in "sexual excitement", is he... -GHS
+TP
+
+//立っている俺。
+I am standing.
+TP
+
+//跪く姿勢で、指をしゃぶる霧。
+Kiri is sucking my fingers, kneeling.
+TP
+
+//あの霧がだ。
+That very Kiri.
+TP
+
+//水位があがっていく。
+My water level rises.
+TP
+
+//黒い水がたくわえられる。
+Wicked black water is being accumulated.
+//That, or it's growing a beard. I know, I know, but I can actually argue why that makes sense: Japan. See CCC3009. Though he's really only referring to his dick. Once you realize this is intended to be funny, it's actually kind of sweet. -GHS
+TP
+
+//いけない、な。
+That... it ought not be.
+//He wants to stick his duck inside her. Why a duck? Because you must eat it, that's why! Don't you know Panese? That's the language of people who eat too much pan. Duck pan. -GHS
+TP
+
+//Curiously, there's still a few added lines of Kiri being made to choke on Taichi's "fingers" in the console version. Not worth bringing over, they don't fit at all with the next of Kiri's line and are almost entirely redundant. -GHS
+
+
+//やがて霧は舌を離す。
+Before long Kiri distances her tongue.
+TP
+
+WVP 0 vfCCC3012akri061
+//霧「……終わりました」
+Kiri: "...it is done."
+TP
+
+//太一「さんきゅう」
+Taichi: "Thank ye."
+TP
+
+//血も止まっていた。
+The blood had been stopped as well.
+TP
+
+//太一「……曜子ちゃんの言ったこと、本気だと思う」
+Taichi: "...what Youko-chan said, I think she's serious."
+TP
+
+GL 1 TCSK0000c
+GI 1 1
+//霧「？」
+Kiri: "?"
+TP
+
+//口元をぬぐいながら、霧は眉をひそめた。
+Kiri's eyebrows knitted as she wiped the corners of her mouth.
+TP
+
+//太一「もう武器はなしだ。持たない方がいい」
+Taichi: "You're weaponless now. And staying weaponless would be best."
+TP
+
+//太一「破ったら、たぶん本気で襲ってくると思うよ」
+Taichi: "If you violate that agreement, I think she might seriously assault you."
+TP
+
+
+GP 1 205 15
+GI 1 0
+GP 1 220 30
+GI 1 0
+GP 1 235 15
+GI 1 0
+GP 1 220 0
+GI 1 0
+//HACK independent doll shake -GHS
+
+
+//霧「…………」
+Kiri: "......"
+TP
+
+//肩が小さく震える。
+//Her entire body shakes conspicuously.
+Her shoulders tremble, slightly.
+TP
+
+//恐怖で。
+In terror.
+TP
+
+//太一「俺だって、みんなをどうこうしようなんて思ってない」
+Taichi: "Me, I don't really think want to do much to anyone."
+TP
+
+//太一「霧が言うように、ろくでなしではあるけど……仲間を傷つけるつもりはないよ」
+Taichi: "As you said, Kiri, although I might be a ne'er-do-well... I have no intention of hurting my Nakama... my friends."
+TP
+
+GL 1 TCSK0001c
+GI 1 0
+WVP 0 vfCCC3012akri064
+//霧「本当、ですか」
+Kiri: "You... are serious?"
+TP
+
+//太一「ああ」
+Taichi: "Yep."
+TP
+
+//太一「それどころか、怪我したみみ先輩にかわってアンテナを組み立てているところだ」
+Taichi: "On the contrary, I'm assembling the antenna in place of Mimi-senpai, who got hurt."
+TP
+
+WVP 0 vfCCC3012akri065
+//霧「アンテナ……部活用の……」
+Kiri: "Antenna... the club's..."
+TP
+
+//太一「あれでＳＯＳを出す。知ってるよな」
+Taichi: "That's for sending out an SOS. You know that, 'course."
+TP
+
+GL 1 TCSK0002c
+GI 1 0
+WVP 0 vfCCC3012akri066
+//霧「……人なんて、もういない」
+Kiri: "...but people... there's none anymore."
+TP
+
+WVP 0 vfCCC3012akri067
+//霧「テレビも映らない。ラジオも。ネットも。電話も」
+Kiri: "Television doesn't work. Nor radio. Nor the 'net. Nor telephones."
+//Nothing excessively weird in the terms... -GHS
+TP
+
+GL 1 TCSK0000c
+GI 1 0
+WVP 0 vfCCC3012akri068
+//霧「何もかも通じなくなって……誰が生きているって言うんですか」
+Kiri: "Nothing but nothing seems to be conveyed... are you saying someone is still alive?"
+//...but she could still mean "I can't find anything good about the people around me", i.e. that everybody is metaphorically gone, not literally so. Regardless, it's only these two lines, as the first can well be metaphorical. -GHS
+TP
+
+//それだけじゃない。
+It's not just that.
+TP
+
+//世界は前に進むことさえ、放棄している。
+This is a world that has abandoned even moving ahead.
+TP
+
+//永遠の一週間。
+An eternity of one week.
+TP
+
+//俺には、甘美な響きさえともなう。
+To me, that comes with nothing but a distinctively sweet sound.
+TP
+
+//太一「……合宿……つまらなかったな」
+Taichi: "...that training camp... wasn't that pointless."
+//Odd change of topic. -GHS
+TP
+
+//太一「無理矢理セッティングして、苦労して７人集めて、なだめすかしたり嘘ついたりして……」
+Taichi: "Forcing the setting against will, gathering seven people with so much hardship, with soothing and coaxing, with blatant lies..."
+TP
+
+//太一「あっという間にボロが出て」
+Taichi: "Not even the time to blink the eyes and out came the faults in that attempt."
+TP
+
+//笑ってしまう。
+Still I smile.
+TP
+
+//霧は異質なものでも見る目つきを、俺に投げかけている。
+Kiri threw a look at me that said she was yet discerning something heterogeneous.
+TP
+
+//太一「最悪の気分で撤収したよな」
+Taichi: "We took down the tents in the worst of moods, didn't we."
+TP
+
+GL 1 TCSK0001c
+GI 1 0
+WVP 0 vfCCC3012akri069
+//霧「……あなたが仕組んだことじゃないですか」
+Kiri: "...were you not the one to arrange it?"
+TP
+
+//太一「そう、俺が仕組んだ」
+Taichi: "Indeed, I arranged that."
+TP
+
+WVP 0 vfCCC3012akri070
+//霧「皆の傷口を広げるために」
+Kiri: "In order to widen the size of everyone's wounds."
+//Come on, girl, that's just mad. -GHS
+TP
+
+//太一「違う」
+Taichi: "You're mistaken."
+TP
+
+//太一「皆に仲直りしてほしかった」
+Taichi: "I wanted everyone to get along again."
+TP
+
+//太一「昔みたいな関係に戻したかったんだよ」
+Taichi: "I wanted our relationships to return like they were in the good old days!"
+//IOW, formatting... see CCD2002, but it's a theme throughout the story. -GHS
+TP
+
+GL 1 TCSK0000c
+GI 1 0
+WVP 0 vfCCC3012akri071
+//霧「……嘘です」
+Kiri: "...that is a lie."
+TP
+
+//太一「本当だ」
+Taichi: "It's the truth."
+TP
+
+//GL 1 TCSK0003c
+//GI 1 0
+//HACK no doll change here -GHS
+WVP 0 vfCCC3012akri072
+//霧「仲直りさせる機会を作るため、合宿に人を集めたって言うんですか？」
+Kiri: "Are you saying that you intended to create a chance for reconciliation by assembling the people at the training camp?"
+TP
+
+//太一「そうだ」
+Taichi: "I am."
+TP
+
+//瞳をしばたく。
+Pupils twinkle.
+TP
+
+//水面がふるふる揺れる。
+The water surface shakes as if shivering.
+TP
+
+//GL 1 TCSK0004c
+//GI 1 0
+//HACK and no need to change back -GHS
+WVP 0 vfCCC3012akri073
+//霧「信じたくない……そんなこと」
+Kiri: "That... I don't want to believe."
+TP
+
+//太一「まあ、いいよ」
+Taichi: "Well, that's fine."
+TP
+
+//太一「要するに、結束するということが大切なんだ」
+Taichi: "The point is, creating unity is what's important."
+TP
+
+//太一「なんだっていい。部活でも合宿でも」
+Taichi: "Doesn't matter how. Be it club activities, be it the training camp."
+TP
+
+//太一「限られた機材で、みんなでアンテナを立てて、ＳＯＳを出す」
+Taichi: "Putting the antenna together with everybody, using limited parts, then sending an SOS..."
+TP
+
+//太一「そういう希望があってもいいだろ？」
+Taichi: "Isn't that an aspiration worth having?"
+TP
+
+GL 1 TCSK0002c
+GI 1 0
+WVP 0 vfCCC3012akri074
+//霧「……あなたが……そんな立派な人のわけない」
+Kiri: "...you are... not that upstanding a person."
+TP
+
+//太一「うん、ぜんぜん立派じゃない」
+Taichi: "Yep, not upstanding at all."
+TP
+
+//太一「だが、それはそれ、これはこれ」
+Taichi: "However, that is that, this is this."
+TP
+
+//一文内に指示代名詞を四回も使うという、近代日本語表現の目指す美学にてらしあわせるとすこぶる不格好な慣用語を用いて、俺は話をそらす。
+By inserting demonstrative pronouns four times in a sentence I construct an idiom that is extremely unshapely and clumsy when contrasted with the aesthetic sense that is the goal of modern Japanese expression, and with it I change subject.
+//Something is very wrong here. What has Japanese got to do with anything when this is in English??? HELP! -GHS
+TP
+
+//太一「立派じゃないけど、仲良きことは美しきかな、だ」
+Taichi: "I'm not upstanding, but I can still think about what a beautiful thing it is to get along well, can't I."
+//The problem is that he doesn't like good relationships to change... or relationships to change at all. -GHS
+TP
+
+GL 1 TCSK0000c
+GI 1 0
+//霧「……」
+Kiri: "..."
+TP
+
+//太一「と、すっかり忘れていたけど、そっちの怪我は？」
+Taichi: "Tsk, I totally forgot, but, how're your injuries?"
+TP
+
+GL 1 TCSK0001c
+GI 1 0
+WVP 0 vfCCC3012akri076
+//霧「あ、平気です……さわらないでっ」
+Kiri: "Ah, I am alright... do not touch me!"
+TP
+
+//太一「さわらにゃわからん、と」
+Taichi: "If I donn'touch I can't know, duh."
+TP
+
+//ふくらはぎ。
+The calf...
+TP
+
+//腫れている。
+It's become swollen.
+TP
+
+//太一「……内出血だな。いい場所に当たった」
+Taichi: "...internal bleeding, isn't it. She got you in a nice precise spot."
+TP
+
+//太一「歩くと痛むけど、別状はなし」
+Taichi: "It'll hurt to walk, but it isn't serious."
+//Internal bleeding doesn't sound unserious... I'm no doctor either, but she wouldn't be walking anywhere for a few weeks if that were the case. Then again, he's clueless, so it's probably just overstating a bruise. A stone thrown at that speed from that close should not do this little damage, once more. -GHS
+TP
+
+//太一「他には？」
+Taichi: "The other?"
+TP
+
+GL 1 TCSK0000c
+GI 1 0
+WVP 0 vfCCC3012akri077
+//霧「肩を……」
+Kiri: "Shoulder..."
+TP
+
+//太一「はだけて」
+Taichi: "Strip."
+TP
+
+WVP 0 vfCCC3012akri078
+//霧「！？」
+Kiri: "?!"
+GP 1 205 15
+GI 1 0
+GP 1 220 30
+GI 1 0
+GP 1 235 15
+GI 1 0
+GP 1 220 0
+GI 1 0
+//HACK independent doll shake, voice was missing again. -GHS
+TP
+
+//GL 1 TCSK0001c
+GL 1 TCSK0003C
+GI 1 0
+//HACK wrong doll again. -GHS
+WVP 0 vfCCC3012akri079
+//霧「や、やっぱりケダモノ……」
+Kiri: "I-, I knew it, you animal..."
+TP
+
+//肩を抱いて、後ずさる。
+Covering her shoulders, she steps back.
+TP
+
+//太一「おいおい、冗談だよ。本気にするな」
+Taichi: "Come now come now, that was a joke. Don't take it so seriously."
+//That's very good advice... except it's obvious she keeps doing so, therefore it's Taichi that should be more careful with jokes. This explains the subtle but important differences between this and her Sendback route. (So subtle that nearly half of Kiri sendback isn't even new material!) -GHS
+TP
+
+GL 1 TCSK0001C
+GI 1 0
+//HACK This Kiri. -GHS
+
+WVP 0 vfCCC3012akri080
+//霧「そうやって美希や他に人にもセクハラを……してるじゃないですか」
+Kiri: "Isn't that... just what you say before doing sexual harassment to Miki and to others anyway?"
+TP
+
+//太一「美希はなー、本気でイヤってことはちゃんと拒否するぞ？」
+Taichi: "Miki, you say now? But when she seriously doesn't want something done to her she refuses straight and clear, you know?"
+TP
+
+//太一「それはだめー、なんてけたけた笑いながらぶん殴ってくるんだからな？」
+Taichi: "She goes all, you can't do THAAAT!, cackling mad while she wallops me hard, didn't you see?"
+TP
+GL 1 TCSK0000c
+GI 1 0
+WVP 0 vfCCC3012akri081
+//霧「……美希が？」
+Kiri: "...Miki does that?"
+TP
+
+//太一「そしたら俺も、無理強いはしない」
+Taichi: "And when she does, I don't push the matter, either."
+//Yeah, but the point would be to stop BEFORE you got to that. Otherwise, if he met someone like Kiri, who goes straight from tolerating to killing people with a crossbow... well. -GHS
+TP
+
+//太一「いろんな接触をして境界線を調整していくのが、人付き合いってやつだろ？　違うのか？」
+Taichi: "I'm adapting the boundary lines as I perform all kinds of contacts. Isn't that what with socializing is? Am I wrong?"
+TP
+GL 1 TCSK0001c
+GI 1 0
+WVP 0 vfCCC3012akri082
+//霧「……キレイな物言いでまとめるんですね……セクハラなのに……」
+Kiri: "...you summarize it as if it was so clean... but it's sexual harassment..."
+//See CCA0007 -GHS
+TP
+
+//太一「霧ちんは生真面目に受け取りすぎだ」
+Taichi: "Kiri-chin, you just take things just way, way too seriously."
+//In short. But so does Miki. -GHS
+TP
+
+//太一「肩に触るぞ」
+Taichi: "I'll be touching your shoulder now."
+TP
+
+GL 1 TCSK0003c
+GI 1 0
+WVP 0 vfCCC3012akri083
+//霧「え……きゃっ」
+Kiri: "Eh... kyah!"
+TP
+
+//軽く揉んだら、痛がった。
+There was pain even when I went over it lightly.
+//揉 -GHS
+TP
+
+//太一「……こっちはまずい箇所に当たったな」
+Taichi: "...I touched the bad spot have I."
+TP
+
+//太一「どのくらい痛い？」
+Taichi: "How much pain?"
+TP
+GL 1 TCSK0000c
+GI 1 0
+WVP 0 vfCCC3012akri084
+//霧「……ほとんど……腕も動きます……」
+Kiri: "...I can just about... still move the arm..."
+TP
+
+//太一「頭上に持ち上げなさい」
+Taichi: "Please raise it above the head."
+TP
+
+//従う。
+Obeyed.
+TP
+
+//太一「骨に異常はないな」
+Taichi: "So there's nothing wrong with the bone."
+//Again, far from expert, but I suspect the problems would be far more apparent if it were. One thing remains certain: she couldn't do significant damage to Kiri with stone throwing. Kiri's repeatedly compared to glass. Youko couldn't shatter her... at all. Either she's holding back way further than she story says she should, or Youko's skills are absolute garbage. Either can be very telling. -GHS
+TP
+
+GL 1 TCSK0002c
+GI 1 0
+WVP 0 vfCCC3012akri085
+//霧「……先輩が、力を入れすぎるんです」
+Kiri: "...you just put too much strength into it, Senpai."
+TP
+
+//太一「そんな入れてないよ」
+Taichi: "I didn't put any of the sort."
+TP
+
+GL 1 TCSK0000c
+GI 1 0
+WVP 0 vfCCC3012akri086
+//霧「……男の人は、みんな力強いじゃないですか……島先輩とかだって、あんな細いのに一人でモニター持ち上げるし」
+Kiri: "...men are all so strong aren't they... Shima-senpai, for example, he's so slender yet he can lift one of those monitors on his own."
+//Says the girl who can fire a crossbow WITH ONE HAND. And once again, Super Ninja with her supra-male muscles can't take this thing? -GHS
+TP
+
+//太一「……あいつは元バスケ部で……走れないだけで筋力はそのままだから」
+Taichi: "...that guy's ex-basketball club, that's why... he can't run, that's it, his physical strength remains."
+TP
+
+//ああ、この子はＣＲＴモニターひとつ自力で持ち上げられないのか。
+Ahhh, but this girl can't even lift one of those CRT monitors on her own power then.
+//First time the term 'monitor' is specified as a CRT. Still assuming the stuff brought to the rooftop are transceivers, and they're referring to the CRT of the Broadcast Ready Room PC(s), not ones that will be used to ineptly ruin a major reading key the author rewrote a major episode to exposit. -GHS
+TP
+
+//すごく力が弱いな。
+She's really lacking in strength.
+TP
+
+//部室にあるのは、確かに大型だけど。
+Certainly the ones in the Club Room are pretty big.
+//Still nothing in the Club Room BG except the TV that would fit the bill... -GHS
+TP
+
+//肩に触れた時もやけに華奢で驚かされた。
+When I touched her shoulder I was surprised by how awfully delicate it was.
+TP
+
+//薄い皿みたいで、すぐに砕けてしまいそうで。
+It feels like it would shatter immediately, like a brittle thin plate.
+TP
+
+//放送部で腕相撲したら、最下位になるんじゃないか。
+If the Broadcast Club had an arm wrestling competition, wouldn't she fall dead last rank?
+//...despite surviving two direct stone strikes by an allegedly trained killer without an issue, having a nearly superhumanly powerful kick, and later in Miki's route she'll keep toe-to-toe with Taichi repeatedly. -GHS
+TP
+
+//太一「……はぁ」
+Taichi: "...sigh."
+TP
+
+//いたいけな少女だ。
+She's a helpless girl.
+//Hum, who was just described with this term, at least externally? -GHS
+TP
+
+//太一「湿布は貼っておくんだぞ」
+Taichi: "Put a compress on that now."
+TP
+
+GL 1 TCSK0000c
+GI 1 0
+WVP 0 vfCCC3012akri087
+//霧「……言われるまでも、ないです」
+Kiri: "...you do not need... to tell me that."
+TP
+
+//悪態に力がない。
+Her abusive language has no strength.
+TP
+
+//太一「よし、じゃ帰るか」
+Taichi: "Good, so, shall we go home?"
+TP
+
+//立ち上がる。
+I start going.
+//Lit. "I stand up", but in the water level thing above, Taichi was standing, Kiri was kneeling, and he is not even hinted to have kneeled when he checked her wound. Going with a lateral meaning, but I suspect error. -GHS
+TP
+
+//太一「ほれ、行こう」
+Taichi: "Come now, let's go!"
+TP
+
+//不承不承、ついてくる。
+Unwillingly and grudgingly she comes with.
+TP
+
+GL 1 TCSK0002C
+GI 1 0
+//HACK eyes closed Kiri -GHS
+
+WVP 0 vfCCC3012akri088
+//霧「痛っ」
+Kiri: "OW-!"
+TP
+
+//太一「やっぱ痛むか。おんぶしてやろうか？」
+Taichi: "I knew it, it hurts, right? Wanna piggyback?"
+TP
+
+//わきわきと十指を蠢かせる。
+Ten fingers wriggle and squirm while making a grabbing gesture.
+//Piggyback = assrub -GHS
+TP
+//GL 1 TCSK0001c
+GL 1 TCSK0004C
+//HACK so this is her frightened...? -GHS
+GI 1 0
+WVP 0 vfCCC3012akri089
+//霧「……やめて、来ないでっ」
+//Kiri: "Don't come! Don't come! You'll suffer like G did?"
+Kiri: "...stop, stay back!"
+TP
+
+//本気で怯える。
+She's seriously frightened.
+TP
+
+//太一「冗談だというのに」
+Taichi: "But it's just a joke..."
+TP
+
+GL 1 TCSK0002c
+GI 1 0
+WVP 0 vfCCC3012akri090
+//霧「一人で、帰りますから」
+Kiri: "Then I will go home... on my own."
+TP
+
+//太一「一人になったら曜子ちゃんに襲われるかもよ？」
+Taichi: "I think Youko-chan'll attack if you're on your own, don't you?"
+TP
+
+//霧「……………………」
+Kiri: "............"
+TP
+
+//無言になった。
+She became silent.
+TP
+
+//太一「さ、行こう」
+Taichi: "So, let's go."
+TP
+
+GO 1 1
+//HACK out with the doll -GHS
+
+//背後に、とぼとぼとついてくる軽い足音。
+Behind my back, the sound of light footsteps trudging along.
+TP
+
+//自転車は捨て置き、徒歩で帰る。
+I leave the bicycle and we walk the way back.
+//Poor whoever he stole the bike from. -GHS
+TP
+
+//太一「……いい夜だねぇ」
+Taichi: "...nice night, innit."
+TP
+
+//会話はなかった。
+There was no conversation.
+TP
+
+WVS 1 1
+
+RET

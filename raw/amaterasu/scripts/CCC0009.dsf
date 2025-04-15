@@ -1,0 +1,447 @@
+
+GL 0 bgcc0014
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+......it's approaching me.
+TP
+Taichi: "Mu."
+TP
+
+Murderous intent.
+TP
+
+It was stuck to the store's entrance.
+TP
+
+I looked inside.
+TP
+
+An enemy? Or a friend?
+TP
+
+Taichi: "......mountain?"
+TP
+
+WVP 0 vfCCC0009mki000
+Miki: "......river."
+TP
+
+WVP 0 vfCCC0009mki001
+Miki: "Heaven and Earth?"
+TP
+
+Taichi: "Body odor leading the pack."
+TP
+
+WVP 0 vfCCC0009mki002
+Miki: "......go ahead."
+TP
+
+I entered the store.
+TP
+
+WVP 1 bgm016.ogg 0 0 0
+
+GL 1 TCYM0001
+GP 1 180 0
+GI 1 1
+
+
+
+Taichi: "So it's you, Miki......I wondered who it was."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+
+WVP 0 vfCCC0009mki003
+Miki: "Good morning, Sempai."
+TP
+
+
+
+Taichi: "Since you were giving off murderous intent, I wasn't sure."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfCCC0009mki004
+Miki: "If something happens inside a closed space, wouldn't you hate it if there was nowhere to run to?"
+TP
+
+
+
+Taichi: "Indeed."
+TP
+
+
+
+My thoughts raced through old memories.
+TP
+
+
+
+Taichi: "Since you're wearing your uniform, perhaps you intend to go to school?"
+TP
+
+
+WVP 0 vfCCC0009mki005
+Miki: "That's true. There's nothing else to do after all."
+TP
+
+
+
+Taichi: "Same as me."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+
+WVP 0 vfCCC0009mki006
+Miki: "Yes it is."
+TP
+
+
+
+She was innocent.
+TP
+
+
+
+Taichi: "A drink for me too."
+TP
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfCCC0009mki007
+Miki: "Have this."
+TP
+
+
+
+Taichi: "Thank you for always choosing drinks with high reality."
+//NAT
+TP
+
+
+
+It is known to those who know as Ne**n.
+//.....What? Sorry, I don't get that sentence at all O.o - Sheeta
+TP
+
+
+
+Drink it all down! All at once!
+TP
+GL 1 TCYM0003
+GI 1 0
+
+
+WVP 0 vfCCC0009mki008
+Miki: "It's best if you don't look at the expiration date."
+TP
+
+
+
+Taichi: "Gehaa!!"
+TP
+
+
+
+It entered my windpipe.
+TP
+
+
+
+Taichi: "Geho! Gaho!!"
+TP
+GL 1 TCYM0011
+GI 1 0
+
+
+WVP 0 vfCCC0009mki009
+Miki: "Smash hit."
+TP
+
+
+
+Posing.
+TP
+
+
+
+Taichi: "......don't trap people like that!"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+
+WVP 0 vfCCC0009mki010
+Miki: "I'm sooorry."
+TP
+
+
+
+A smile swelled up on her face.
+TP
+
+
+
+Taichi: "Ke! You oboko!"
+IF $tlnote != 0 (TL note: "Oboko" is a very obscure word for "virgin".)
+//crap, a reference to one of the earliest scenes in the game. Hopefully repeating the tl note is the right move here. Å`IX
+//Yep. I definitely don't remember it - Sheeta
+TP
+
+
+
+I spat out.
+TP
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfCCC0009mki011
+Miki: "I think I'll throw it away when I reach twenty."
+TP
+
+
+
+Taichi: "You should be there pretty soon."
+TP
+
+GL 1 TCYM0004
+GI 1 0
+
+
+WVP 0 vfCCC0009mki012
+Miki: "Eh?"
+TP
+
+
+
+Taichi: "Be as you are now for all eternity."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfCCC0009mki013
+Miki: "......I have a feeling I could, but that's impossible."
+TP
+
+
+
+It probably is.
+TP
+
+
+
+No, more importantly,
+TP
+
+
+
+Taichi: "So, who will you give it to?"
+TP
+
+GL 1 TCYM0021
+GI 1 0
+
+
+WVP 0 vfCCC0009mki014
+Miki: "......eh? Hmmm......Katou Falcon."
+IF $tlnote != 0 (TL note: This is a nickname for Katou Taka, since "taka" means "falcon." He is probably the most famous male porn star in Japan, and is known for being incredibly skilled at inducing female orgasms.)
+TP
+
+
+
+Taichi: "So you value technique!?"
+TP
+
+
+
+I lamented.
+TP
+
+
+
+Isn't he one of the leading technicians in Japan?
+IF $tlnote != 0 (TL note: Taichi is incorrectly assuming that the English word "technician" means "one who is skilled in certain techniques" rather than "one who is skilled with technology".)
+TP
+
+
+
+......I can't beat him.
+TP
+
+
+
+Taichi: "I can't match Falcon, but I do have my own technique."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+
+
+WVP 0 vfCCC0009mki015
+Miki: "Sempai's techniques are all just sexual harassment, and as such I have terrible doubts about whether they'll be useful during the real thing, so I regret to inform you that I'm refusing you."
+TP
+
+
+
+Such a masculine poetic style that her sentence ended on a low formality level.
+//this feels equally meaningless in Japanese Å`IX
+TP
+
+
+That style of refusal broke my heart. 
+TP
+
+
+
+Taichi: "Damn! You say that, but are you not actually trying to offer yourself to Kiri-chin? You lustful virgin?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfCCC0009mki016
+Miki: "In fact, I will rob Kiri-chin of her virginity."
+TP
+
+
+
+Taichi: "Ah! I want to participate in that!"
+TP
+
+
+
+As my desires multiplied, my fanboy level peaked at 82%.
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+
+WVP 0 vfCCC0009mki017
+Miki: "And for that reason we'll go to school together."
+TP
+
+
+
+Taichi: "Yeah, let's go."
+TP
+
+GL 0 bgcc0005
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+We went to school together holding hands.
+TP
+
+
+
+Taichi: "Underneath the clear blue skyÅÙ"
+TP
+
+GL 1 TCYM0003
+GI 1 1
+
+
+WVP 0 vfCCC0009mki018
+Miki: "Two friends who are very closeÅÙ"
+TP
+
+
+
+We made it to school during that careless duet.
+TP
+
+
+
+WVP 0 vfCCC0009mki019
+Miki: "............"
+TP
+
+
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+GL 1 TCYM0021
+GI 1 1
+
+WVP 0 vfCCC0009mki020
+Miki: "Ah, no good. I forgot Kiri-chiii's drink."
+TP
+
+
+
+You say that after arriving at school?
+TP
+
+
+
+Taichi: "You damned fool. You lack training."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfCCC0009mki021
+Miki: "I will return."
+TP
+
+
+
+Taichi: "Climb up and down the hills as much as you like."
+TP
+
+
+WVP 0 vfCCC0009mki022
+Miki: "Heeei."
+GO 1 1
+TP
+
+
+
+She rushed off pleasantly.
+TP
+
+
+
+A young little thing.
+TP
+
+
+
+Taichi: "......"
+TP
+
+WVS 1 1
+
+
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+RET

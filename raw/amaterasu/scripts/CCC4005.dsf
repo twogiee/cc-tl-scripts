@@ -1,0 +1,55 @@
+GL 0 bgcc0005a
+GS 0 1
+SEF 152 
+
+
+
+
+I walked home.
+//CP_S ccc3003
+TP
+
+WVP 1 bgm015.ogg 0 0 0
+
+Taichi: "Hmmm."
+TP
+
+In the end, I spent the day doing nothing.
+//CP_F
+TP
+
+
+
+I just couldn't get into it.
+//CP_S
+TP
+
+Besides......even after going to school, I didn't feel any liveliness or prosperity.
+TP
+
+The world was becoming a shell.
+TP
+
+You can't call this a world with only eight people.
+TP
+
+An eternal summer.
+TP
+
+Are we the remains of humanity trapped in an eddy of time?
+//CP_F
+TP
+
+
+Taichi: "......"
+TP
+
+I didn't know.
+TP
+
+There was no way for me to know.
+TP
+
+WVP 1 bgm015.ogg 0 0 0
+
+RET

@@ -1,0 +1,138 @@
+
+
+GL 0 bgcc0007
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 152 0
+
+
+WVP 1 bgm005.ogg 0 0 0
+
+Club activities.
+TP
+
+Miki leaped out from the shadows.
+TP
+
+My eyes didn't miss her.
+TP
+
+I squeezed the trigger on my Uzi submachine gun.
+TP
+
+Bullets were fired.
+TP
+
+Their trajectories swerved downward to hit Miki's feet.
+//Gonna assume since this is all make believe, that bullets can curve.-Spin
+//Just read 4006 and found out they were water guns. This makes sense then.-Spin
+TP
+
+WVP 0 vfCCC4004mki000
+Miki: "......ku!?"
+TP
+
+Miki noticed.
+TP
+
+She jumped behind a planter and returned fire.
+TP
+
+Crap, she's got me pinned down!
+TP
+
+Mimi-sempai showed herself on my flank.
+TP
+
+She took out an empty magazine from her AK-47.
+TP
+
+WVP 0 vfCCC4004msa000
+Misato: "Sakura-san isn't hereee!"
+TP
+
+Taichi: "You lost sight of her!?"
+TP
+
+WVP 0 vfCCC4004msa001
+Misato: "She's really agile......"
+TP
+
+Taichi: "Ku!......This is bad."
+TP
+
+It's bad to lose sight of your enemy.
+TP
+
+Then, Kiri came around a corner to our right.
+TP
+
+This is bad, they're forming a pincer.
+TP
+
+Kiri's M4-A1 Carbine spat fire.
+TP
+
+WVP 0 vfCCC4004msa002
+Misato: "Ah! They've got us!"
+TP
+
+Taichi: "Shit!"
+TP
+
+Two against one.
+TP
+
+I retreated while returning fire.
+TP
+
+I'm finished if they surround me.
+TP
+
+I'm also worried about Miki.
+TP
+
+Right then, a muzzle was pushed into my back.
+TP
+
+WVP 0 vfCCC4004mki001
+Miki: "Hold up."
+TP
+
+W-when did she-!?
+TP
+
+WVP 0 vfCCC4004mki002
+Miki: "Game set."
+TP
+
+Taichi: "Aaah, I've been beaten again!"
+TP
+
+WVP 0 vfCCC4004mki003
+Miki: "Yahooi!"
+TP
+
+WVP 0 vfCCC4004kri000
+Kiri: "We win!"
+TP
+
+Miki and Kiri high-fived.
+TP
+
+Taichi: "That's four wins in a row......damn!"
+TP
+
+The club was going well.
+TP
+
+WVS 1 0
+
+............huh?
+TP
+
+RET

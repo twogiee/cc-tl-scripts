@@ -1,0 +1,345 @@
+
+
+
+
+
+//GL 0 bgcc0007
+GL 0 zzzrooftopzoom
+//HACK zoomed rooftop BG
+GS 0 1
+SEF 152 1
+
+
+//というわけで、部活中だったりする。
+And with all that, here I am in the midst of club activities.
+TP
+
+
+
+
+//この部品はどうするのだろう？
+Where should I put this part now?
+TP
+
+
+
+
+//ここか？
+Here?
+TP
+
+
+
+
+//それともここか？
+Or perhaps here?
+TP
+
+
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+
+
+//ここにしておくか。それっぽい感じするし。
+How about I set it down here. It sort of feels kinda right.
+TP
+
+
+
+
+WVP 0 vfcca0022msa000
+//見里「わかりますかー？」
+Misato: "Do you get how to do iiit?"
+//Shouty -GHS
+TP
+
+
+
+
+//太一「まー、なんとか」
+Taichi: "Yeeeah, sorta."
+TP
+
+
+
+
+//下では先輩が脚立を支えてくれている。
+Below me, Senpai is holding the stepladder firm.
+//I wonder why they don't switch--- oh, right, panties. I don't understand why they don't switch. -GHS
+TP
+
+
+
+
+WVP 0 vfcca0022msa001
+//見里「男の子がいると頼もしいですねー」
+Misato: "It is so reliable to have a boy heeere!"
+TP
+
+
+
+
+//太一「そうでしょうとも」
+Taichi: "Indeed, my lord!"
+//Going with literal 'tomo' just for the below. -GHS
+TP
+
+
+
+
+//太一「ご用命の際はいつでもこの私メを……」
+Taichi: "Any moment is auspicious to order your worthless servant..."
+TP
+
+
+
+
+//つうか。
+Hold on,
+TP
+
+
+
+
+//この人、弟いるじゃないか。
+doesn't this person here have a younger brother?
+TP
+
+
+
+
+//太一「……あの、友貴と喧嘩してますよね？」
+Taichi: "...uhm, are you fighting with Tomoki?"
+TP
+
+
+
+
+//先輩の顔が、さっと曇る。
+Senpai's face instantly clouds.
+TP
+
+WVP 1 bgm013.ogg 0 0 0
+
+
+
+WVP 0 vfcca0022msa002
+//見里「あー、まあ……」
+Misato: "Ahhh, well..."
+TP
+
+
+
+
+WVP 0 vfcca0022msa003
+//見里「ちょっと冷戦に」
+Misato: "It is sort of a cold war."
+TP
+
+
+
+
+//太一「友貴もケンカなんてするんだなぁ」
+Taichi: "Tomoki seems to be in a bit of a fight with you too, ya know."
+//Less formal here. -GHS
+TP
+
+
+
+
+WVP 0 vfcca0022msa004
+//見里「え？」
+Misato: "Eh?"
+TP
+
+
+
+
+//太一「あいつ、本気で怒ることなんて滅多にないから」
+Taichi: "It's just, it's rare that guy gets seriously angry."
+//He still doesn't get Tomoki's hypocrisy. -GHS
+TP
+
+
+
+
+//先輩はその言葉に、ショックを受けたようだった。
+Senpai seemed to be shocked at those words.
+TP
+
+
+
+WVP 0 vfcca0022msa005
+//見里「……当然、なのかもしれないですね」
+Misato: "...it may just be obvious, of course."
+//These fragments don't quite fit together. -GHS
+TP
+
+
+
+
+//太一「はい？」
+Taichi: "Huh?"
+TP
+
+
+
+
+WVP 0 vfcca0022msa006
+//見里「人生は難しいですこんちくしょうという感じです」
+Misato: "It is that, 'life is hard, darn it all' feeling."
+//Doesn't sound too Tomokish, and Audio is very split in two sentences. -GHS
+TP
+
+
+
+
+//わけがわからない。
+I'm not getting this.
+TP
+
+
+GL 4 zzzblackblend
+GL 5 zzzCCA0022bigtomoki
+GP 4 0 0
+GP 5 0 0
+GS 4 1
+GS 5 1
+SEF 109 0
+//HACK big Tomoki superimposed -GHS
+
+
+WVP 0 vmcca0022yki037
+//友貴『……裏切られるぞ』
+Tomoki: 『...you'll be betrayed.』
+//PCP CCA0018
+TP
+
+GS 4 0
+GS 5 0
+SEF 109 0
+//HACK big Tomoki out -GHS
+
+
+
+//太一「あの、裏切りとか、なんです？」
+Taichi: "Ah, is it this thing about 'betrayal'?"
+TP
+
+
+
+
+//眉根が寄った。
+The gap between her eyebrows grew tighter.
+TP
+
+
+
+
+WVP 0 vfcca0022msa007
+//見里「友貴が、そう言ってたんですか？」
+Misato: "Was it Tomoki who said that?
+TP
+
+
+
+
+//太一「はあ」
+Taichi: "Yeah."
+TP
+
+
+
+
+WVP 0 vfcca0022msa008
+//見里「……」
+Misato: "..."
+TP
+
+
+
+
+//太一「先輩？」
+Taichi: "Senpai?"
+TP
+
+
+
+
+WVP 0 vfcca0022msa009
+//見里「……うーんうーん」
+Misato: "...nnngh... nnno..."
+//It's both a groan and a 'no'... -GHS
+TP
+
+
+
+
+//先輩は泣きそうな顔で、うーんうーん唸りだした。
+Senpai growled this no-like 'ngggh' with a tearful face.
+//...split the difference. -GHS
+TP
+
+
+
+
+//太一「アノウ？」
+Taichi: "H-e-l-l-o?"
+TP
+
+
+
+
+WVP 0 vfcca0022msa010
+//見里「なんといいますかーもー！」
+Misato: "What do you think that is even called, really!"
+TP
+GL 0 bgcc0000a
+GI 0 0
+//がくがくと脚立を揺する。
+She rocks the stepladder, clattering.
+SEF 101 0
+//WHY DID HE HAVE TO DIE, KEICHIIII? WHY DID *SHE* SURVIVE AND SATOSHI HAD TO DIEEEE!!!!! Watanagashi-hen was released not 5 months after CC, and that scene seems to sort of be useless in retrospect... -GHS
+TP
+
+
+
+
+//太一「わわわっ！？」
+Taichi: "WahWahWah?!"
+SEF 101 0
+TP
+
+
+
+
+WVP 0 vfcca0022msa011
+//見里「ままならねーですーっ！！」
+Misato: "You cannot do that!!!"
+SEF 101 0
+TP
+
+
+
+
+//太一「落ちそーですっ！！」
+Taichi: "I'm gonna faaall!!!"
+SEF 101 0
+TP
+
+WVS 1 1
+
+
+
+//散々な部活だった。
+These were miserable club activities.
+TP
+
+
+
+RET 

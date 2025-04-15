@@ -1,0 +1,132 @@
+WVP 3 SE001 0 0
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0003s
+GL 1 zzzblackblend
+GP 1 0 0
+GS 0 1
+GS 1 1
+GS 5 0
+SEF 54 4
+TWS 0
+//HACK Flashback intro into dimmed screen. -GHS
+
+//HACK and a huge one. This entire script has been rewritten and severely shortened. Old script was a pretty faithful copy of CCA0013 so there's not much point keeping it anywhere. -GHS
+
+
+//桜庭に押し倒される夢を見た。
+I dreamed of Sakuraba pushing himself on me.
+//CP CCA0013
+TP
+
+GO 1 1
+//HACK return screeen -GHS
+
+//太一「……シュールすぎる」
+Taichi: "...way too surreal."
+//CP CCA0013
+TP
+
+//だいたいあいつに、人を押し倒す度胸なんてあるはずないのだ。
+Besides, I wouldn't expect that guy to have the pluck to push himself on somebody.
+//CP CCA0013
+TP
+
+GL 0 bgcc0004s
+GS 1 0
+GS 0 1
+SEF 152 0
+WVP 1 bgm002.ogg 0 0 0
+
+//睦美おばさん朝食が用意してある。
+Mutsumi-obasan's Breakfast had been prepared.
+//PCP CCA0013
+TP
+
+//家にほとんどいないけど、感謝している。
+She is almost never at home, but I'm still grateful.
+TP
+
+//半分食べて、半分ラップに包んで持って行く。
+Half I eat, half I put back in the wrap and bring with.
+TP
+
+GL 0 bgcc0005s
+GS 0 1
+SEF 152 0
+//通学。
+School commute.
+TP
+
+//桜庭の悲鳴を聞いたり、近所の遊紗ちゃんと出会ったりする。
+Hearing Sakuraba's scream, meeting my neighbor Yusa-chan.
+TP
+
+GL 2 tcdy0001s
+GP 2 240 0
+GS 2 1
+SEF 109 0
+
+WVP 0 vfcca0013ysa001
+//遊紗「あ、おはようですっ」
+Yusa: "Ah, good morning, yes!"
+//PCP CCA0013
+TP
+
+GL 5 bgcc0000as
+GS 5 1
+GI 5 1
+//Sepia sky -GHS
+
+//日常と呼ばれるものだ、それは。
+These are what could be called normal days.
+TP
+
+//カレーパンとか、遊紗ちゃんとのたわむれとか。
+With the curry bread, and the frolicking around with Yusa-chan.
+TP
+
+//ハンカチ一枚で射止めた彼女からの好意。
+The goodwill from this girl I made all mine with a single handkerchief.
+//PCP CCA0013
+TP
+
+//あるいは交換日記の約束とか。
+And then, at times, that promise of the exchange diary.
+//As far as I get it, it's because the content of the flashback isn't fixed. -GHS
+TP
+
+//カラフルグリーンのノートに、それら俺の記憶は縫い止められている。
+It's on that solid green notebook that my thoughts stop, as if sewed into place.
+//Isn't it that thing that surrounds characters that are too shocked to move...? Not sure if that's how it's called, but since it's also a sewing term (that was originally only ever seen on CCB0022), this should work. http://www.weblio.jp/content/%E7%B8%AB%E3%81%84%E6%AD%A2%E3%81%BE%E3%82%8A -GHS
+TP
+
+//ほのかで、涼やかなミントの香りを添付して。
+Attached to it there is, faint, a refreshing scent of mint.
+//Mint... -GHS
+TP
+
+WVS 1 1
+WVS 3 1
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+//HACK whiteout of flashback -GHS
+
+
+RET

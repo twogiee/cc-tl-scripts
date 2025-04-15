@@ -1,0 +1,163 @@
+
+//薄笑い。
+A faint smile.
+TP
+
+//俺は悪戯心に支配される。
+I am controlled by a mischievous heart.
+//Automatism. -GHS
+TP
+
+//そっと背後から近づく。
+Quietly I approach from behind.
+TP
+
+GL 5 zzzCCC0013Azoom1
+GP 5 0 0
+GI 5 1
+//HACK zoom 'em 1 -GHS
+
+//気配は殺す。
+I kill my presence.
+TP
+
+//物音を立てずに、そっと。
+Without making one sound, slowly.
+TP
+
+//さあ、どこで気がつくかな。
+Well then, where will you notice me now.
+TP
+
+//すぐ背後で物音を立ててやろうかな。
+Maybe I will soon make one sound from her behind.
+TP
+
+GL 5 zzzCCC0013Azoom2
+GP 5 0 0
+GI 5 1
+//HACK zoom 'em 2 -GHS
+
+//一歩。また一歩。
+One step. Again one step.
+TP
+
+//霧が気取る様子はない。
+Kiri does not appear to be sensing me.
+TP
+
+//このまま抱きついたら……もう俺の勝ちだ。
+If I embrace her as this is... I will have beaten her.
+TP
+
+//霧の抵抗を全て封じることができる。
+It will be possible to prevent the entirety of Kiri's resistance.
+TP
+
+//気絶させるのに一分かからない。
+It will not take one minute to make her lose senses.
+TP
+
+//そして―――
+And then---
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//ふと。
+Suddenly,
+//Also 太 -GHS
+TP
+
+//自分がひどい劣情に突き動かされていることを自覚する。
+I become aware that I have been pushed to act by hideous carnal desires.
+TP
+
+//いけない、このままだと。
+What is going on is... not to be.
+TP
+
+
+//霧を、傷つける。
+It would hurt Kiri.
+TP
+
+
+//太一「…………」
+Taichi: "......"
+TP
+
+GL 5 zzzCCC0013Azoom1
+GP 5 0 0
+GI 5 1
+//HACK zoom 'em 1 -GHS
+
+//一歩、下がる。
+One step, I move back.
+TP
+
+//物音を立てずにだ。
+Without making one sound.
+//PCP above
+TP
+
+GO 5 1
+//HACK out with zoom -GHS
+
+//下がって、下がって、元の位置。
+Move back, move back, to my original position.
+TP
+
+GL 0 evcc0027a
+$CGevcc0027a = 1
+GS 0 1
+SEF 109 0
+//HACK moved CG change here -GHS
+
+//と、霧が振り返った。
+And there Kiri turned around.
+TP
+
+//入り口近くに俺の姿を認めて、ぎょっとする。
+She notices my figure at the entrance and startles.
+TP
+
+//太一「へーい」
+Taichi: "Heeey."
+TP
+
+WVP 0 vfCCC0013akri000
+//霧「……黒須、先輩」
+Kiri: "...Kurosu... senpai."
+TP
+
+//敵同士みたいな空気が漂う。
+A mood of mutual enmity drifts in.
+TP
+
+//太一「そうそう。霧ちんの黒須先輩」
+Taichi: "Yeppy yep. This your Kurosu-senpai, Kiri-chin!"
+TP
+
+WVP 0 vfCCC0013akri001
+//霧「……ご用は？」
+Kiri: "...your business?"
+TP
+
+//太一「ないよ」
+Taichi: "None!"
+TP
+
+//ぴっと入り口を指さす。
+She points to the entrance with a sharp motion.
+TP
+
+WVP 0 vfCCC0013akri002
+//霧「出ていって下さい。こちらも要件はありませんので」
+Kiri: "Please leave. We have no requirement of you either."
+//"We" due to Miki, even if she's not in yet she'd totally include her, and reflexively so. -GHS
+TP
+
+RET

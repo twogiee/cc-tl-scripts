@@ -1,0 +1,2992 @@
+//HACK This is one of the most rewritten scripts in the VN, ~130 new lines!, and all but lays out one of the points of my theory: by giving in to Youko, Taichi is replicating the memory of the previous time he gave in to her, and replaying the memories of the Hasekura Massacre over the Club. Basically the only parts kept are the sex scene (it was really poorly removed) and the ending post-massacre. -GHS
+
+//TWS 0
+IF $KAISOU == 1 JMP SCENE001
+
+
+
+
+
+//太一「うまく……やれる？」
+Taichi: "Go well... for me?"
+TP
+
+
+//太一「うまくやれるって……言うんだ」
+Taichi: "You say... you'd make things go well for me, right."
+TP
+
+
+WVP 0 vfCCD0001you123
+//曜子「うん」
+Youko: "Yes."
+TP
+
+
+//太一「ははは、そりゃあすげぇや」
+Taichi: "Hahahah, ain't that so awesome!"
+TP
+
+
+//太一「じゃあ、うまくやってみせてくれる？」
+Taichi: "Then, will you show me how you'll make things go well?"
+TP
+
+//悪意が、幼なじみを貫いた。
+Malice pierced through my childhood friend.
+TP
+
+WVS 1 1
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 BGCC0022AS
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+WVP 1 bgm020.ogg 0 0 0
+//HACK stop music, flashback intro, music "Deep Inside" -GHS
+
+WVP 0 vfzzzCCD0022Ayouko1
+//曜子「うまくやらないといけない」
+Youko: "It simply must go well."
+TP
+//僕は頷く
+I nod.
+TP
+//やっとのことで震えを止めたばかりだ。
+I had just succeeded in managing to stop my shaking.
+TP
+WVP 0 vfzzzCCD0022Ayouko2
+//曜子「うまく」
+Youko: "Well."
+TP
+//太一「うん」
+Taichi: "Yes."
+TP
+//太一「失敗はできない」
+Taichi: "Failure is impossible."
+TP
+WVP 0 vfzzzCCD0022Ayouko3
+//曜子「殺されるから」
+Youko: "For we'll be killed."
+TP
+//太一「うん」
+Taichi: "Yes."
+//CP above
+TP
+WVP 0 vfzzzCCD0022Ayouko4
+//曜子「殺される前に殺さないと」
+Youko: "Before being killed, we must kill."
+//See below, but this isn't quite the line that's being played on. -GHS
+TP
+//その日。
+That day,
+TP
+//僕たちは、武装していた。
+the two of us armed ourselves.
+//Compare Miki and Kiri now. -GHS
+TP
+
+GO 0 1
+
+//……………………。
+............
+TP
+GI 0 1
+
+//睡眠時間を調整し、一晩で屋敷を変えた。
+We altered the hours of our sleep, and in one night we transformed the mansion,
+//Interesting way of putting it, isn't it. -GHS
+TP
+//罠。
+into a trap.
+TP
+//各人の部屋と、その経路と、パターンとを計算した。
+We forecast and calculated the pattern for everybody's rooms, and the route thereof.
+TP
+//通信を分断するための準備を済ませた。
+We completed preparations in order to terminate communications.
+//Before death, all communications must stop. This is of course important, since if he is to replicate this fall accurately in his daily life, then all telecommunication must also be unusable. -GHS
+TP
+//刃物を手入れし、打ち合わせを繰り返した。
+We cared for our bladed weapons, and we repeated our preparatory meetings.
+TP
+//計画は完璧だった。
+The Project was perfect.
+//And he uses that word with the murder of Taichi's de-facto adopted family. Tanaka has a twisted sense of humor. -GHS
+TP
+WVP 0 vfzzzCCD0022Ayouko5
+//曜子「太一のために」
+Youko: "For the sake of Taichi."
+TP
+//太一「曜子ちゃんのために」
+Taichi: "For the sake of Youko-chan."
+//He was already far and distant from her all the way back to here. -GHS
+TP
+//手を合わせる。
+Our hands come together.
+TP
+//キスをする。
+A kiss ensues.
+TP
+//生きるための戦いがはじまる。
+The fight for our life is beginning.
+TP
+WVP 0 vfzzzCCD0022Ayouko6
+//曜子「心配しないでいいから」
+Youko: "There's no need to worry."
+TP
+WVP 0 vfzzzCCD0022Ayouko7
+//曜子「……全部、私がとってあげる」
+Youko: "...I will remove it for you, all of it."
+//Finally, the meaning of those words revealed! And later she removes absolutely nothing. In fact, she completely vanishes from this flashback right here. This all but screams that her thing with Kiri was all posturing. She could no more kill Kiri than she could kill anyone. (Oddly, 7 new lines for her, and CCD0021, 8. Well, oddly is pushing it...) -GHS
+TP
+//僕はサポート担当だ。
+I am in charge of support.
+TP
+//実際のところ、無数に仕掛けられた罠が、僕に足りない殺傷力を補ってくれるはずだった。
+In practice, the countless number of laid traps ought to be compensating for my insufficient killing power.
+//But the traps are never used that's described below. If neither trap nor Youko kill anyone, then there's no need for either of the latter to exist. In fact, there's no need for him to have killed anyone either. -GHS
+TP
+//さて、生き戦おう。
+Well then, let's fight for our life.
+TP
+//……………………。
+............
+TP
+
+GL 0 zzzHasekuraInt
+GS 0 1
+SEF 109 0
+//Ohhh, even a new BG! Oddly enough there's a non-sepia variant with lights and a sepia variant with same lights. They're not used in the main scenario. -GHS
+
+//彼女が先行する。
+She goes on ahead,
+TP
+//僕が続く。
+I come afterwards.
+//Yet she kills no one, and later will stay paralyzed. Unless she's gone on ahead as in she's already dead. -GHS
+TP
+//彼女は強い。
+She is strong.
+TP
+//きっとうまくやる。
+Surely she will make this go well.
+TP
+//僕は、どうだろう？
+But I, how will I go?
+TP
+//さあ、人殺し。
+Well then, a murderer...
+TP
+//上手に、できるかな？
+Can I do this, and skillfully?
+TP
+//僕は泣いた。
+I was crying.
+TP
+//壊れないと。
+I must wreck.
+TP
+//壊れないと、人なんてとても殺さないよ。
+I must wreck, or I won't be able to murder people!
+//This is incredibly important: Taichi needs to break BEFORE he kills. It isn't the killing that caused his break, it was him setting himself to do so. Setup which was caused directly and entirely by Youko. See way below: this will be what's played with much later. -GHS
+TP
+
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+GS 0 0
+SEF 109 0
+//HACK flashback exit whiteout to blackout -GHS
+WVS 1 1
+
+//……………………。
+............
+TP
+
+
+//…………。
+......
+TP
+
+
+//……。
+...
+TP
+//GL 0 bgcc0000b
+//GS 0 1
+//GS 1 0
+//SEF 109 0
+//
+//WT 500 0
+//WT 500 1
+//HACK removing this. Since the scene is brutally removed (it fades from the flashback to the infirmary), and there's all the new stuff above, this doesn't make much sense now. -GHS
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+
+
+WT 500 0
+WT 500 1
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 0
+//Saturday September 12, 1998 -GHS
+//土曜日。
+Saturday.
+TP
+
+
+//しかし俺の頭からは、曜日感覚は消えかけていた。
+However, from the top in my head the sense for weekdays had almost vanished.
+//And finally tossing around that 'week' with Youko pays off. -GHS
+TP
+
+
+//太一「こん」
+Taichi: "Mor'."
+//That's how he greets Misato? His respect for her is gone. Not that it matters because I bid you welcome, gentlemen, to one of the most metaphor-ridden scripts in Cross Channel! And it's a sex scene! Awesome! -GHS
+TP
+
+GL 1 TCMM0000
+GP 1 225 0
+GI 1 1
+
+WVP 0 vfCCD0001msa041
+//見里「あら、いらっしゃい。まあ支倉さん」
+Misato: "My, welcome. Oh, Hasekura-san."
+//She's never greeted like that before either. Then again, sex scene = low priority. -GHS
+TP
+
+WVP 1 bgm012.ogg 0 0 0
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfCCD0001msa042
+//見里「お久しゅう」
+Misato: "Long time no see."
+TP
+
+
+//先輩はモップをバケツに突っ込んで、出迎えてくれた。
+Senpai plunges a mop into a bucket, then comes to greet us.
+//See CCA0008. But which came first? -GHS
+TP
+GL 2 TCHY0001
+GP 2 0 0
+GP 1 340 0
+GS 2 1
+GS 1 1
+SEF 109 0
+
+
+//曜子「……」
+Youko: "..."
+TP
+
+
+//太一「挨拶」
+Taichi: "The greeting."
+TP
+
+GL 2 TCHY0000
+GI 2 0
+
+WVP 0 vfCCD0001you125
+//曜子「……ちわ」
+Youko: "...g'mo."
+//PCP CCA0004
+//Heh. See CCC4001. No complaints for the same level of awful greeting? Then again, they're same years. -GHS
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCD0001msa043
+//見里「どうしました、おそろいで」
+Misato: "What happened, you are here together."
+//Harmless term, but as it is all too often the case: http://ejje.weblio.jp/content/%E3%81%8A%E6%8F%83%E3%81%84 look at 'em odd specific meanings. -GHS
+TP
+
+
+//俺と曜子ちゃんは、連れだって屋上に来ていた。
+Youko-chan had come with me and we both arrived on the rooftop.
+//Probably Taichi just dressed in drag and is masturbating visibly as Misato pretends not to notice. Literally, it should be read as an opposite of what happened to Taichi at the theater, back with Sakuraba. -GHS
+TP
+
+
+
+
+
+
+
+
+
+JMP N_SCENE001
+:SCENE001
+TWS 0
+WVP 1 bgm010.ogg 0 0 0
+
+:N_SCENE001
+
+
+GL 0 evcc0018
+$CGevcc0018 = 1
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+
+
+//太一「適当にぶらぶらしてまして」
+Taichi: "We are just casually hanging around."
+TP
+
+
+//太一「見学しててもいいですか？」
+Taichi: "Is it possible for us to observe work?"
+TP
+
+
+WVP 0 vfCCD0001msa044
+//見里「面白くないですよー？」
+Misato: "But it is not interesting at all you know?"
+//"Also, my brother's dead body is still around" -GHS
+TP
+
+
+//疲れた顔で笑う。
+She smiles with a tired face.
+TP
+
+
+//太一「いえ、先輩と話もしたいですし」
+Taichi: "Er, but I also would like to talk with Senpai."
+TP
+
+
+WVP 0 vfCCD0001you126
+//曜子「……んっ……」
+Youko: "...nh..."
+TP
+
+
+WVP 0 vfCCD0001msa045
+//見里「あー、大歓迎ですー」
+Misato: "Ahhh, a most warm welcome theeen!"
+TP
+
+
+WVP 0 vfCCD0001you127
+//曜子「……っ……ん…………」
+Youko: "...y ...nh......"
+TP
+
+
+//曜子ちゃんが声を漏らした。
+Youko-chan's voice leaked out.
+//By now it she already know what's going on. -GHS
+TP
+
+
+//太一「ずいぶんと進みましたねー」
+Taichi: "It has progressed looots has it."
+TP
+
+
+//などと世間話をつながら、指を蠢かせる。
+And while I make that sort of small talk, I make my fingers squirm and wriggle.
+TP
+
+
+//太一「アンテナ、だいぶできてますねー」
+Taichi: "You managed to nearly finish this antenna here, ohhh yes."
+//He's now basically a complete asshole. -GHS
+TP
+
+
+//先輩は一瞬、表情をなくした。
+Senpai, for an instant, lost her facial expression.
+//And Misato isn't an idiot, so she already knows what's going on. -GHS
+TP
+
+
+WVP 0 vfCCD0001you128
+//曜子「……………………っ」
+Youko: "............!"
+TP
+
+
+WVP 0 vfCCD0001you129
+//曜子「……っ……」
+Youko: "...yh..."
+TP
+
+
+WVP 0 vfCCD0001you130
+//曜子「……あ……」
+Youko: "...ah..."
+TP
+
+
+//様子のおかしさは、すぐ先輩にも知れる。
+Even Senpai quickly understood the weirdness of this situation.
+TP
+
+
+WVP 0 vfCCD0001msa046
+//見里「え？　なんですか？」
+Misato: "Eh? What is happening?"
+TP
+
+
+WVP 0 vfCCD0001you131
+//曜子「なんでも……ない……」
+Youko: "It's... nothing..."
+TP
+
+
+//太一「放送局の方って、どうなんです？」
+Taichi: "So, the broadcast channel, how is it coming?"
+TP
+
+
+WVP 0 vfCCD0001msa047
+//見里「え、あー、そーですねぇ……ぼちぼちですよ」
+Misato: "Eh, ahhh, riiight... bit by bit, gradually."
+//Because flight. -GHS
+TP
+
+
+//二本の指を、交差させてねじる。
+I make two fingers crossed over each other, and twist.
+//SYMBOLISM!!! -GHS
+TP
+
+
+WVP 0 vfCCD0001you132
+//曜子「ん……はぁ……ん…………っ……」
+Youko: "Nh... haah... nh...... yh..."
+TP
+
+
+//中指だけを奥の奥まで挿入して、ざらざらとした壁面をこする。
+With just the middle finger inserted inside until the depth, I rub the course roughness of the surface of her walls.
+//And on the subject of SYMBOLISM!!!, Taichi literally has his fingers inside Youko, maneuvering her like a sock puppet. It's so funny when you think how blunt this actually is. -GHS
+TP
+
+
+WVP 0 vfCCD0001you133
+//曜子「……ゃだ…………そこ……っっ……ッ！」
+Youko: "...stOp...... that there's... yyh...!!!"
+TP
+
+
+//指先を唇に絡ませつつ、もう一つの窄まりにタッチする。
+While I coil my fingertips around her labia, I touch one different narrowed spot.
+TP
+
+
+WVP 0 vfCCD0001you134
+//曜子「……ん……んん」
+Youko: "...nh... nnh!"
+TP
+
+
+//指先で陰核を軽くはじく。
+A light flip on the clitoris via fingertip.
+TP
+
+
+WVP 0 vfCCD0001you135
+//曜子「―――っ」
+Youko: "---!"
+TP
+
+
+//押し潰す。
+Squelching.
+TP
+
+
+WVP 0 vfCCD0001you136
+//曜子「ひっ」
+Youko: "HYh!"
+TP
+
+
+WVP 0 vfCCD0001msa048
+//見里「ひ？」
+Misato: "Hy?"
+//Epic voiceover fail... this scene prolly took longer to translate than it took to write tho. -GHS
+TP
+
+
+//刺激を弱めた。
+I weakened the stimulus.
+TP
+
+
+//太一「もう放送はできるんですか？」
+Taichi: "Are we broadcast capable already?"
+//Also there's no coverup, so... -GHS
+TP
+
+
+WVP 0 vfCCD0001msa049
+//見里「ああ、機材さえ全部繋いでしまえばできないこともないですけど……一応図面通りにしようかなと思いまして」
+Misato: "Ah, if only I could connect all of the equipment then it would not be impossible... I am thinking of doing as the blueprint says for the time being."
+TP
+
+
+//太一「他の電波がないなら、ハンディの方がいいんじゃないですか？」
+Taichi: "Since there are no any other electromagnetic waves, would portable radio not be better?"
+//See CCX0001, Taichi will think about this again. -GHS
+TP
+
+WVP 0 vfCCD0001msa050
+//見里「周囲が海原であればそうでしょうけど……」
+Misato: "If the ocean was all around us it would, but..."
+//How convenient that they're using something that wouldn't be very influenced by other EM waves. -GHS
+TP
+
+
+WVP 0 vfCCD0001msa051
+//見里「やっぱり、この高さにあるアンテナと、２０Ｗの出力ってのは、強いですよ」
+Misato: "In the end, with the antenna at this height, and with its 20W of output power, it will be very strong!"
+//Not so much the height of the antenna, but the height of Gunjou below it as well. 20W sounds way low for this monstrosity the size of a small cellphone tower. Maybe Misato doesn't really know either, maybe it's further evidence something is very wrong here. -GHS
+TP
+
+
+//太一「曜子ちゃんはどう思う？」
+Youko: "What do you think, Youko-chan?"
+TP
+
+
+//指をがっちりとくわえこませたまま、動きだけ止めて問いかける。
+I ask the question as I stop only the motion, fingers still snugly penetrating.
+TP
+
+
+WVP 0 vfCCD0001you137
+//曜子「……そ、それでいいとっ……おも……うぅ……」
+Youko: "...th-, that is right I... thin... ngh..."
+TP
+
+
+WVP 0 vfCCD0001msa052
+//見里「ああ、支倉さんのお墨付きが出れば心強いです」
+Misato: "Ahhh, having the endorsement of Hasekura-san is so heartening."
+TP
+
+
+//リスタート。
+Restart.
+TP
+
+GL 0 evcc0018a
+$CGevcc0018a = 1
+GS 0 1
+SEF 109 0
+WVP 0 vfCCD0001you138
+//曜子「ひゃうっ」
+Youko: "HyaUh!"
+TP
+
+
+//瞬間的につま先立ちになった。
+In an instant she is standing on the tip of her toes.
+TP
+
+
+WVP 0 vfCCD0001msa053
+//見里「？」
+Misato: "?"
+TP
+
+
+//太一「となるとやっぱりこの近くで電波が検出されないってのは―――」
+Taichi: "As far as this neighborhood, indeed there are no electromagnetic waves detected and that means---"
+TP
+
+
+//先輩の注意を会話に引きつける。
+I draw Senpai's attention in conversation,
+TP
+
+
+//俺の全神経は愛撫に向けられた。
+all my sensitivity directed to dear loving caresses.
+//And Misato notices in .3 seconds - nice. -GHS
+TP
+
+
+//膣内の性感帯に指を添え、ピンポイントでバイブさせる。
+Laying my fingers in her intravaginal erogenous zones, I make them vibrate with pinpoint accuracy.
+TP
+
+
+WVP 0 vfCCD0001you139
+//曜子「あぁぁ……だめ……だめ……太一……」
+Youko: "Aaah... can't... can't... Taichi..."
+TP
+
+
+//効果てきめん。
+Prompt effect.
+TP
+
+
+//内股の筋肉がきゅっと収縮した。
+The muscles of the inner thighs contracted tight,
+TP
+
+
+//全身を小さく震わせる。
+causing tiny tremors throughout the body.
+TP
+
+
+//うなじが総毛立ち、鳥肌が立った。
+//The nape goosebumpily goosebumped in a goosebumpy way.
+The nape shuddered and got goose bumps.
+TP
+
+
+//さらに追いつめていく。
+I go drive her even more into a corner.
+TP
+
+
+//弱点への攻撃をいったんやめ、膣全体を指の腹でさする。
+I cease the attacks to the weak point for the moment, and stroke the whole vagina with the belly of the fingers.
+TP
+
+
+WVP 0 vfCCD0001you140
+//曜子「ん……ん……っ……ふぁ……ん…………」
+Youko: "Nh... nh... yh... fWah... nh......"
+TP
+
+
+//奥から湿り気がおりてきて、てのひらにたまる。
+Moisture descends from the depths, gathering on my palm.
+TP
+
+
+//肉をまきこみつつ、指先をかぎ爪状に折り曲げた。
+While enveloping the meat whole, I folded upwards one finger into a talon shape.
+//The eagles return! -GHS
+TP
+
+GL 0 evcc0018b
+$CGevcc0018b = 1
+GS 0 1
+SEF 109 0
+
+WVP 0 vfCCD0001you141
+//曜子「ん―――ッッッ、うぅ―――！！」
+Youko: "N---!!! NgH---!!!"
+TP
+
+
+//イッた。
+She came.
+TP
+
+
+WVP 0 vfCCD0001you142
+//曜子「い、一回目……」
+Youko: "F-, first time..."
+TP
+
+
+WVP 0 vfCCD0001msa054
+//見里「一回？」
+Misato: "First?"
+TP
+
+
+//太一「彼女の癖です。意味はないので気にしないでいいです」
+Taichi: "A habit of hers. It has no meaning so there is no need to worry about this."
+TP
+
+
+WVP 0 vfCCD0001msa055
+//見里「はあ……」
+Misato: "Huh..."
+TP
+
+
+//曜子ちゃんはあまり人前に姿を見せないので、多少の奇異な言動は許容されるだろう。
+Youko-chan is someone who almost never shows herself in public, therefore a somewhat weird speech and conduct will likely be forgiven.
+//They're both third years, although technically we've never been told they're in the same class. More evidence for the She Doesn't Exist pile. -GHS
+TP
+
+
+//彼女にしてから、群青の一員であるのは間違いないわけで。
+Because after all, she is an ultramarine of Gunjou and there is no mistaking that.
+TP
+
+
+//本当、あの試験の完成度はすばらしいものがある。
+Really, that Test is splendidly perfect in its accuracy,
+//Youko's CC result (heheheheh) is still undisclosed, like that of Kiri and several other minor characters. Oddly attracting attention to it should make things more suspicious and nothing else. -GHS
+TP
+
+
+//異常者を決して見逃さないという意味では―――
+in the sense that not one deviant will ever escape it---
+//Him having this opinion in this losing path is pretty much a condemnation of the test, not praise, especially giving that while Sakuraba can be said to be 'fine' in every way, Tomoki would also be - and he has problems not dissimilar to Taichi's, if far less serious in many a sense. The test is worthless. -GHS
+TP
+
+
+//さて。
+And then,
+TP
+
+
+//後ろポケットからマシーンを取り出す。
+I take out a machine from my rear pocket,
+TP
+
+
+//単三四本で動くウルトラローターだ。
+an Ultra Vibrator powered by four AA size batteries.
+TP
+
+
+//銀色のそれを、曜子ちゃんの膣内に入れた。
+And I insert this silver-colored item into Youko-chan's vagina.
+TP
+
+
+//ぬれそぼっていたため、すんなり入る。
+As she's dripping wet, it goes in without resistance.
+TP
+GL 0 evcc0018a
+$CGevcc0018a = 1
+GS 0 1
+SEF 109 0
+
+
+WVP 0 vfCCD0001you143
+//曜子「……つめっ……た…い……」
+Youko: "...so... col... d..."
+//WTF it's been in his ass pocket so far! And hopefully it's now not in his own ass! -GHS
+TP
+
+
+WVP 0 vfCCD0001msa056
+//見里「支倉さん、調子悪そうですねぇ？」
+Misato: "You look very off, Hasekura-san, are you?"
+TP
+
+
+//太一「いつもこうですよ。もじもじしたり、声出したり」
+Taichi: "Oh, she is always like this. Fidgeting here, moaning there."
+//I wrote moeaning. ;_; -GHS
+TP
+
+
+//太一「気にしないで下さい。まあ……これが彼女の群青色なんで」
+Taichi: "Please do not mind it. Well... this is her Ultramarine after all."
+//OK, I resisted so far but since this is the last explicit reference then FOR THE EMPEROOOOOOOR -GHS
+TP
+
+
+WVP 0 vfCCD0001msa057
+//見里「ああ、なるほど」
+Misato: "Ahhh, I see."
+//Literally. -GHS
+TP
+
+
+//簡単に納得した。
+Easily convinced.
+TP
+
+
+//じゃ、スイッチオン。
+Then, Switch On.
+TP
+
+WVP 2 se096 1 0
+WVP 0 vfCCD0001you144
+//曜子「……っっ！？」
+Youko: "...!?!?"
+TP
+
+
+//脚がきゅっと閉じた。
+Her legs closed with a squeeze,
+TP
+
+
+//『気をつけ』を思わせる。
+making me think, "pay some attention!"
+TP
+
+
+WVP 0 vfCCD0001you145
+//曜子「うぁぁ……んっ……つよ……」
+Youko: "uWaaah... nh... stron'..."
+TP
+
+
+//モーターは一番弱くしてある。
+The motor is at its weakest setting,
+TP
+
+
+//それでもかなりの振動だ。
+and yet there's a fair amount of vibration.
+TP
+
+
+//優しく快楽を持ち上げていくのではなく、強制的に絶頂に連れ去る。
+Taking her not gently upwards to pleasure, and instead kidnapping her and forcibly taking her to the climax.
+TP
+
+
+//押し込む際に調整して、弱点にあてがうようにする。
+I then adjust via pressure to hit at her weak points.
+TP
+
+
+WVP 0 vfCCD0001you146
+//曜子「ん……っ……っ～～～っっ」
+Youko: "Nh... yh... y～～～yh!"
+TP
+
+
+//気が気でない様子。
+She appears very ill at ease.
+TP
+
+
+WVP 0 vfCCD0001msa058
+//見里「大変ですねぇ」
+Misato: "Ohhh what a problem here."
+TP
+
+
+//太一「まあ、俺もいますんで」
+Taichi: "Welll, I am here too, so..."
+TP
+
+
+//先輩は好意的な微笑を浮かべた。
+A friendly smile appeared on Senpai.
+TP
+
+
+//風音が強くて、モーター音がかき消えているのが幸いした。
+The sound of the wind growing strong, proving fortunate as the sound of the motor vanishes into it.
+//Another nice moment to remind that 'wind' can also mean 'pretense'. -GHS
+TP
+
+
+//ローターの存在にはまったく気づいていない様子。
+It appears the presence of the vibrator remains completely undiscovered.
+TP
+
+
+//あ、抜けてきた。
+Ah, it came out.
+TP
+
+
+//押し込んであげる。
+I push it back up and in.
+TP
+
+
+WVP 0 vfCCD0001you147
+//曜子「……きゃふっっ……っっ！」
+Youko: "...kYahFhuhh... yyh!"
+TP
+
+
+//ぴーんと爪先立ち。
+Wham, and she goes on tiptoes.
+TP
+
+
+//さらに押し込む。
+I push in even more.
+TP
+GL 0 evcc0018b
+$CGevcc0018b = 1
+GS 0 1
+SEF 109 0
+
+
+WVP 0 vfCCD0001you148
+//曜子「……んんん―――っ！？」
+Youko: "...NNN---H?!"
+TP
+
+
+//さらに爪先立ち。
+Tiptoes even more.
+TP
+
+
+//スイッチ最大。
+Switch to maximum.
+TP
+
+WVP 2 se097 1 0
+WVP 0 vfCCD0001you149
+//曜子「……んんんっ……ん……～～～～～～～～っっっっ！！」
+Youko: "...NNNH... nh... ～～～～～～～～yyyh!!!"
+TP
+
+
+//イッたイッた。
+She came, she came!
+TP
+
+
+//一瞬だね。
+And instantly too.
+TP
+
+
+//高所に追いつめられるように、達していた。
+She peaked as if she had been chased up to a high place,
+TP
+
+
+//持ち上げたかかとを、床に戻すこともできないまま。
+leaving her heels still lifted, unable to return to the ground.
+TP
+
+
+WVP 0 vfCCD0001you150
+//曜子「……ひぃ……に、にかい、めっ……ッッッ！」
+Youko: "...hYh... se-, second, time...!!!!"
+TP
+
+
+//イッた回数を申告するよう命じてある。
+She is under command to report the number of times she has come.
+//And she followed. This is all so odd. Why would she want to do this? Why would HE want to do this? This makes more sense laterally than literally. -GHS
+TP
+
+
+//しかしこのローター、本当にすごいな。
+But really, this vibrator is amazing.
+TP
+
+
+//普通のローターだと電池二本なのだが、これは四本使ってる。
+Normal vibrators use two batteries, while this uses four.
+TP
+
+
+//最大にすると、地響きにも似た轟音がする。
+Putting it at top speed makes it emit a thunderous roar that resembles the deep rumbling of the earth.
+//...that seems a little exaggerated... -GHS
+TP
+
+
+//そんなものが膣内に入ってるわけだ。
+And that is what is inserted deep in her vagina.
+TP
+
+
+WVP 0 vfCCD0001msa059
+//見里「お顔、赤いです……まあ、すごい汗」
+Misato: "Your face is so red... dear me, so much sweat."
+TP
+
+
+//太一「いつものことです。むしろ好調な証拠なんです」
+Taichi: "It is a thing of always. In fact, it is evidence of her being in good health."
+TP
+
+
+WVP 0 vfCCD0001msa060
+//見里「そうですか……」
+Misato: "So it is..."
+TP
+
+
+//太一「不調になったら、医者もいないですしね。好調でいて欲しいですよ」
+Taichi: "There are no doctors anymore if someone were to fall in bad health. I want her to be in good health!"
+TP
+
+
+WVP 0 vfCCD0001msa061
+//見里「そんなわたしたちだけが、生き残って……難儀なものですよ」
+Misato: "Just us, alone, left behind... it is so distressful."
+TP
+
+
+//太一「本当にねぇ」
+Taichi: "It is, oh yes."
+TP
+
+
+//二人はうんうん頷く。
+Yes yes we nod in duo.
+TP
+
+
+WVP 0 vfCCD0001you151
+//曜子「……んんん、んんん、んんんんっ、～～っ！」
+Youko: "...nnnh, nnnh, nnnnh, ～～!"
+TP
+
+
+WVP 0 vfCCD0001you152
+//曜子「さ、三回目……」
+Youko: "Thi-, third time..."
+TP
+
+
+//またイッてる。
+Came again.
+TP
+
+
+//間隔が短いな。
+Interval's shortening.
+TP
+
+
+//切る。
+Off.
+TP
+
+
+WVP 0 vfCCD0001you153
+//曜子「……はぁ、はぁ」
+Youko: "...haaah, haaah."
+TP
+
+
+//オン。
+On.
+TP
+
+
+//最強と最弱、五秒ずつ交互に往復するモードに切り替えた。
+I switch to the mode that alternates around and around between strongest and weakest for five seconds each.
+//往復 -GHS
+TP
+
+
+WVP 0 vfCCD0001you154
+//曜子「……うっ……うう……はぁ……あぅ……ううぅぅ……」
+Youko: "...uh... uUh... hah... aH... uUhhh..."
+TP
+
+
+//太一「こんな時代に生きていかねばですよ、我々は」
+Taichi: "We just gotta live on in times like these, we do."
+TP
+
+
+WVP 0 vfCCD0001msa062
+//見里「そうですねぇ、大変です」
+Misato: "So we do, yes, what trouble it will be."
+TP
+
+
+WVP 0 vfCCD0001you155
+//曜子「ぁ……ゃ……んっ……太一ぃ……」
+Youko: "ah.. yAh... NH... Taichiii..."
+TP
+
+
+//泣きそうな声。
+A voice as if to cry.
+TP
+
+
+//また抜けかけている。
+It's starting to come out again,
+TP
+
+
+//押し込む。
+so I push it inside.
+TP
+
+
+WVP 0 vfCCD0001you156
+//曜子「……あおっ……んっ……」
+Youko: "...aOh... nh..."
+TP
+
+
+//コードを持ってわざとギリギリまで引っこ抜く。
+I intentionally come very close to removing it fully, by its attached cord,
+TP
+
+
+WVP 0 vfCCD0001you157
+//曜子「―――んんっ！？」
+Youko: "---nnh?!"
+TP
+
+
+//また一番深く挿入。
+and again insert it in the furthest depths.
+TP
+
+
+WVP 0 vfCCD0001you158
+//曜子「うううっ……あぁぁぁ……」
+Youko: "uUuh... aAaaah..."
+TP
+
+
+//すごい濡れよう。
+She seems amazingly wet.
+TP
+
+
+//ぴらっとスカートの後ろをめくってみる。
+The back of her skirt rustles as I flip it to look.
+TP
+
+
+//臀部から内ももにかけて、えぐいことになっていた。
+From the buttocks to the inside of the thigh she had become a nasty mess.
+TP
+
+
+//地面にも無数の雫が落ちて、小さな水たまりを作っている。
+On the ground as well a countless number of drops had fallen, creating a small puddle.
+TP
+
+
+//とか言ってるうちに、また生みそうになった。
+And right as I'm calling it that, she seemed to give light to even more.
+//C'mon, really, the literal term for birthing used laterally for this... -GHS
+TP
+
+
+//押し込む。
+Pushing inside.
+TP
+
+
+WVP 0 vfCCD0001you159
+//曜子「…………ひっっ！？」
+Youko: "......hYyyh?!"
+TP
+
+
+//瞬間的な痙攣。短い悲鳴。
+Momentary shaky convulsions. A brief shriek.
+TP
+
+
+//先輩も、一拍遅れて似たような反応を示す。
+Senpai too, as if in syncopation, displays a reaction.
+TP
+
+
+//少々、圧倒されているようだ。
+She seemed to be a little, just a little, overwhelmed.
+//Taichi, dressed in girl's clothes, fondling his own dick while trying to distract Misato. That has to be, wow, top 5 weirdest things ever. And she just saw her brother dead and impaled on a wire. It's amazing she doesn't just break down and start screaming. -GHS
+TP
+
+
+WVP 0 vfCCD0001msa063
+//見里「ど、どうしました？」
+Misato: "Wh-, what has happened?"
+TP
+
+
+//太一「しゃっくりですね」
+Taichi: "Just hiccuping."
+TP
+
+
+WVP 0 vfCCD0001you160
+//曜子「今ので……よん、かい……」
+Youko: "That was... fourth, time..."
+TP
+
+
+WVP 0 vfCCD0001you161
+//曜子「……はぁ、うぅぅ……きつい……だめ……もぅ、だめぇ……」
+Youko: "...haah, uUgh... harsh... can't... no more, can't..."
+TP
+
+
+//感じきってる。
+She felt this to the end.
+TP
+
+
+//臀部を撫でると、筋肉が当人の意識とは別にひくひくと痙攣していた。
+Caressing her buttocks, I can feel her muscles having twitching convulsing outside of their owner's consciousness.
+//No more master of her behavior... -GHS
+TP
+
+
+WVP 0 vfCCD0001you162
+//曜子「……ご、かいめぇ……んっ……ッッッッッ！！」
+Youko: "...fifth, timeEe... nh... !!!!!!!"
+TP
+
+
+//汁が吹きでている。
+Juice was spouting out.
+TP
+
+
+//今下を見られたら、失禁したと思われるだろう。
+If one were to look below now, they would certainly think incontinence.
+//And Misato's seen. -GHS
+TP
+
+
+//内ももから地面にかけて、ぬらぬらと光っている。
+A slimy shine that goes from the inner thigh to the ground.
+TP
+
+
+WVP 0 vfCCD0001you163
+//曜子「……んっ……だめ……弱く、して…………あっく……」
+Youko: "...nh... don't... weaken, it...! aGh..."
+TP
+
+
+WVP 0 vfCCD0001msa064
+//見里「なんだか……どきどきしてくるんですけど……あの？」
+Misato: "What is it... because you are looking all flustered there... uhm?"
+TP
+
+
+//と、なんとなく淫靡なものを感じて、先輩。
+And somehow or another Senpai goes on to feel something's obscene.
+//PTA power? -GHS
+TP
+
+
+//太一「慣れればどうってことは。別にそういう意味はないんで」
+Taichi: "It is just something to get accustomed to. It has no important meaning."
+//Oddly, that first sentence I'm often finding in the negative... -GHS
+TP
+
+
+WVP 0 vfCCD0001msa065
+//見里「そうですか……ならいいんですけど」
+Misato: "Right you are... then there is no problem."
+TP
+
+
+WVP 0 vfCCD0001you164
+//曜子「……はぁン、ん、うっ……はぁはぁ……ん…………ぁ…………」
+Youko: "...haAhnh, nh, ugh... hAhhAhh... nh... ...ah......"
+TP
+
+
+//痙攣。
+Trembling convulsions.
+TP
+
+
+WVP 0 vfCCD0001you165
+//曜子「六回目……」
+Youko: "Sixth time..."
+TP
+
+
+//イキッぱなしだ。
+Filled with cummin' ain't she.
+//I totally want to eliminate that "min", but, uhm, uhm, I had a pun with "assuMINg" but I lost it :-( -GHS
+TP
+
+
+WVP 0 vfCCD0001you166
+//曜子「……ぅ……ぅぅぅ……ななかい……め……にぃっ！！」
+Youko: "...uh... uggh... seventh ti... me... noWww!!!"
+//Hmmm. -GHS
+TP
+
+
+WVP 0 vfCCD0001you167
+//曜子「んっ、はぁ、はっ……あぅ―――」
+Youko: "Nh, hah, haaah... auH---!"
+TP
+
+
+WVP 0 vfCCD0001msa066
+//見里「まあ、汗が」
+Misato: "My, what sweat."
+TP
+
+
+WVP 0 vfCCD0001msa067
+//見里「これ使ってください」
+Misato: "Use this, please."
+TP
+
+
+//ハンカチ。
+A handkerchief.
+//See CCA0012. This would be veeery much more interesting if it was from Misato to Taichi, considering how many similarities there are between Misato and Yusa. And right between the seventh and eight time... -GHS
+TP
+
+
+WVP 0 vfCCD0001you168
+//曜子「はぁ、はぁ、はぁ、はぁ……」
+Youko: "Haaah, haaah, haaah, haaah..."
+TP
+
+
+//曜子ちゃんは動けない。
+Youko-chan does not move.
+TP
+
+
+//自分を抱きしめたまま、硬化している。
+She stiffens, still squeezing herself tightly.
+TP
+
+
+//太一「ほら、受け取りなよ」
+Taichi: "C'mon, get that will ya!"
+TP
+
+
+WVP 0 vfCCD0001you169
+//曜子「はぁ……む、無理……少しでも動いたら……もぅ……はぅっ……んぁっ！？」
+Youko: "Haaah, im-, impossible... if I move just a little I... now... haUh... nNAh?!"
+TP
+
+
+WVP 0 vfCCD0001you170
+//曜子「……はっかい、めぇっ…………」
+Youko: "...eighth, timEh..."
+//Trying and failing for the hanky gets her eight. Hmmm. -GHS
+TP
+
+
+WVP 0 vfCCD0001msa068
+//見里「このカウントはいったい何を意味しているんでしょうか……」
+Misato: "What meaning could this counting possible even have...?"
+TP
+
+
+//太一「実は彼女はストレッチをしてないと精神が不安定になるというヘビーな心の病を抱えています」
+Taichi: "The truth is that she carries a heavy psychological disorder in her heart, and if she does not do stretches, her spirit becomes unstable."
+//Compare CCA0003. Remember that all hints imply that Taichi's illness is that he sometimes thinks with his dick. Oddly, "heavy" is transliterated in a different way from the usual vaguely-snakelike thing. -GHS
+TP
+
+
+WVP 0 vfCCD0001msa069
+//見里「……はー」
+Misato: "...huh."
+TP
+
+
+//太一「こうして立っているように見えて、実はストレッチストレッチな有様なのですよ」
+Touchi: "When you see her standing this way, she is in truth in the act of doing stretchy-stretches."
+//They're like strippity-strips, just I want some ice cream (using new technology ~ stop caring midway through the sentence and look for food) -GHS
+TP
+
+
+WVP 0 vfCCD0001msa070
+//見里「なるほど、謎はすべてとけました！」
+Misato: "I see, the mystery has been fully solved!"
+TP
+
+
+//先輩はほっとした。
+Senpai took a sigh of relief.
+TP
+
+
+WVP 0 vfCCD0001msa071
+//見里「妙に体をもじもじさせているのはストレッチ運動、カウントはその回数、顔が赤いのは運動が効果的にきいてるからなのですね？」
+Misato: "What is making her body go oddly fidgety is a stretch exercise, the counting is the number of reps, and her face is red as a consequence of the exercise, is that how it is?"
+TP
+
+
+//太一「さっすが先輩！　ほとんど正解ですよ」
+Taichi: "There goes our Senpai! That is practically correct!"
+//I actually like "as expected from", but there's no way I can get away with standard adaptations. -GHS
+TP
+
+
+WVP 0 vfCCD0001msa072
+//見里「えへへ」
+//Misato: "Peke-kun, are you shitting me?"
+Misato: "Eheheh!"
+TP
+
+
+//妙に体をもじもじさせているのはマ○コが気持ちいいから。
+What is making her body go weirdly fidgety is how good her pussy feels,
+//PCP above. Pussy not censored by Censory (personification of censoring) because that's too dumb. -GHS
+TP
+
+
+//カウントはオルガスムスの回数。
+the counting is the number of orgasms,
+//PCP above
+TP
+
+
+//顔が赤いのはローターが落ちないよう括約筋に力入れてるから。
+and her face is red from the strength she is putting in her constriction to prevent the vibrator from coming out.
+//PCP above
+TP
+
+
+//……なのだが。いや、実に惜しい。
+...and therefore... well she's truly close, just no cigar.
+//Was there anyone who didn't get it and needed this...? by the way who personified censor[censored] -GHS
+TP
+
+
+WVP 0 vfCCD0001msa073
+//見里「わかりました。じゃあわたし、支倉さんの挙動は一切気にしません。尊重します」
+Misato: "I understand. Then I will not be paying any attention to Hasekura-san's conduct whatsoever. I will respect it."
+//See CCA0017A. She's truly forgiving her; she still truly knows what they are doing; and given that script, it may well be the same thing she's doing there she's doing here - i.e. there's only one person. -GHS
+TP
+
+
+//太一「よかったね、曜子ちゃん！　これこそ良き理解者だね」
+Taichi: "Aren't we glad, Youko-chan! Ain't this one here so good and understanding!"
+//See CCD0021. Someone understands Youko... of course, Misato's so understanding of Taichi, and... -GHS
+TP
+
+
+//さわさわとアヌスをマッサージしてやる。
+Rustling about as I give her a massage on the anus.
+TP
+
+
+WVP 0 vfCCD0001you171
+//曜子「……うううぅぅぅ…………やっ、だめぇ……と、止まらないぃぃ……ゆる……し…………～～～～～ッッ！！」
+Youko: "...uUUgggh...... NO!, caaan't... wo-, won't stoooop... let... go......～～～～～!!!
+//Assuming it's 許して -GHS
+TP
+
+
+WVP 0 vfCCD0001you172
+//曜子「九回…………ううっ、す、すぐまた……十回ぃぃ……」
+Youko: "Ninth time... uUgh, so-, soon again... tenth tiiime..."
+TP
+
+
+//連ちゃんモードだ。
+In Serialita mode.
+//...I know, but... http://zokugo-dict.com/42re/rencyan.htm -GHS
+TP
+
+
+WVP 0 vfCCD0001msa074
+//見里「汗、わたしがふいてあげますね」
+Misato: "I will be wiping that sweat for you then."
+TP
+
+
+WVP 0 vfCCD0001you173
+//曜子「……あ、だめ……今触られたら……」
+Youko: "...ah, can't... if you touch me now..."
+TP
+
+
+//先輩のハンカチは、首筋（性感帯）をさらりと拭いた。
+With her handkerchief, Senpai wiped the nape of her neck (an erogenous zone) without hesitation.
+//Seriously? THAT's her erogenous zone...? Of course! The part juuust below the head... of a penis. -GHS
+TP
+
+
+//同時に、停止させたローターをまた膣奥にぴたりと押し当てた。
+Simultaneously, I again pushed hard against the depth of her vagina the vibrator, still switched off.
+TP
+
+
+//そして―――着火。
+And then --- ignition.
+//Hi Touko. -GHS
+TP
+
+
+WVP 0 vfCCD0001you174
+//曜子「……きゃっ……あっ…………じ、十一回…………んぉっ、う……ううう……～～～～～っっ」
+Youko: "...KYAH! ...ah... ...e-, eleventh time... nOh, uh... UGGGH... ～～～～～!!!"
+//No idea on why the number, exactly, if it has meaning at all (and they usually do). Hmmm, 1+2+3+4+5+6+7+8+9+10+11=66, just one six away from 666 then? Just reaching, unfortunately. More interestingly, she seems to be extraordinarily sexually frustrated, which I guess explains why she's the first to give up in her Sendback. -GHS
+TP
+
+
+//自分をかき抱き、立て続けに達した。
+Clasping herself hard, reaching the peak in succession while still standing.
+//掻き抱く. Last part's both literal and lateral. -GHS
+TP
+
+
+//同時に、意識も肉体を放棄した。
+Simultaneously, awareness abandoned her physical body.
+TP
+
+
+
+
+
+
+
+
+$SNCCD0022a = 1
+
+IF $KAISOU == 0 JMP N_SCENE101
+RET
+
+:N_SCENE101
+
+
+
+
+
+
+
+GL 0 bgcc0007
+GL 1 TCMM0004
+GP 1 225 0
+GS 0 1
+GS 1 1
+SEF 155 0
+
+
+WVP 0 vfCCD0001msa075
+//見里「あ、支倉さん！」
+Misato: "Ah, Hasekura-san!"
+TP
+
+//倒れる。
+Falling senseless.
+//Wimp. -GHS
+TP
+
+
+//受け止めた。
+I caught and stopped her,
+TP
+
+
+//こっそりローターを回収。
+recovering the vibrator with stealth.
+TP
+
+
+//太一「あー、つっちゃった……よくあるんです、ストレッチのやりすぎで」
+Taichi: "Ahhh, she cramped up... it happens often when she overdoes it with the stretching."
+TP
+
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfCCD0001msa076
+//見里「ああ、けっこうきついですものね、ストレッチって」
+Misato: "Ahhh, those stretches there are pretty harsh, they are."
+TP
+
+
+//太一「保健室で休ませてあげます。じゃこれで」
+Taichi: "I will take her to the infirmary to rest. If you will excuse us."
+TP
+
+WVS 1 1
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfCCD0001msa077
+//見里「はい、また」
+Misato: "Yes, bye!"
+TP
+
+
+//彼女をおぶって、その場をあとにした。
+I left that place carrying her on my back.
+TP
+GL 0 bgcc0012
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//保健室で曜子ちゃんを寝かせる。
+I lay Youko-chan on a bed in the infirmary.
+TP
+
+
+//気をやったせいか、完全に意識を失っていた。
+Perhaps because of how much her brain had been jolted by coming, she had completely lost consciousness.
+//気をやった = orgasms, prettified so it's less bland. At least it's not another word for rape. -GHS
+TP
+
+//HACK new lines here. These make waaay more sense than the weirdass stuff below. -GHS
+
+//太一「……」
+Taichi: "..."
+TP
+//だけど、いくら人前で彼女を辱めようと……俺の気は晴れない。
+Yet, however much I humiliate her in front of others... I still don't feel more serene.
+//See CCC4009. Just desserts, in a sense. -GHS
+TP
+//晴れるものか。
+Is it not something that makes one serene, then,
+TP
+//人を理解するなどと。
+understanding people, and all that.
+TP
+//太一「思い出すな」
+Taichi: "Don't you remember."
+TP
+//あのときのこと。
+Not what happened then.
+TP
+//聖域で起きた、聖なる戦いの日をーーー
+Not the day of the holy battle, in the holy sanctuary---
+//Holy~holy -GHS
+TP
+
+
+
+//太一「ははは」
+//Taichi: "Hahahah!"
+//おかしかった。
+//That was funny.
+//怒りの反動の、おかしさだった。
+//Amusement as the emotion that succeeds anger.
+//人を理解するなどと。
+//That's understanding of people, of sorts.
+//太一「俺、暴走するかも知れないけど、せいぜいうまくやってよね」
+//Taichi: "Me, I might be going rampant, dunno, but I will be making this go well as far as I can."
+
+//……………………。
+............
+TP
+
+GL 0 bgcc0011a
+GS 0 1
+SEF 152 0
+
+
+//学校を出る前、ふと屋上を見た。
+Just before leaving the school, I casually glanced at the rooftop,
+TP
+
+
+//みみ先輩が飛び降りるところだった。
+at the moment just before Mimi-senpai's downwards flight.
+//The one who flies in her flight has......... you know, if that wasn't exactly the joke of this sentence that'd be almost too cruel. -GHS
+TP
+
+
+//太一「……………………」
+Taichi: "............"
+TP
+
+
+//俺は柔らかな先輩が、かたい地面に吸い寄せられ、砕ける瞬間を見た。
+I saw the instant that my fluffy tender sweet Senpai was attracted by the hard ground and shattered.
+//Pulling Power? See CCX0001. With the above this makes perfect sense: he's remembered how he's killed everyone, and here he is, starting with a replay of Yutaka's death. -GHS
+TP
+
+GL 0 bgcc0000d
+GI 0 1
+SEF 101 0
+
+//感情が、一気に制御不能領域に飛んだ。
+All my emotions at once flew into an area outside of my control.
+TP
+
+
+
+//……………………。
+............
+TP
+
+WT 500 0
+WT 1000 1
+
+TWS 7
+GL 5 efcc0003
+GP 5 0 0 0
+GS 5 1
+SEF 100 0
+GS 5 0
+SEF 109 2
+//SEF 10 0
+//GS 5 0
+//SEF 10 0
+TWS 0
+//HACK this effect tries to pixelate in and then out the red screen. But it's a single sheet of red and it just looks like crap, plus the text window flickers between the in and out. Now it's a simpler thing, closer to the console version. -GHS
+
+//太一「う……」
+Taichi: "Ngh..."
+TP
+WVP 1 bgm014.ogg 0 0 0
+//HACK music "Lose Control" (appropriate) -GHS
+
+//吐き気。
+Nausea.
+TP
+
+
+//途中、何度か胃液を戻した気がする。
+On the way, it felt like my gastric juices had returned to the world so many times.
+TP
+
+
+//ただ赤色の光景ばかりがまばゆいのだ。
+Just, that this scene the color of red is dazzingly beautiful.
+TP
+
+
+//それは物理ではないだろう。
+I don't think it's like this because of some law of physics.
+TP
+
+
+//さりとて精神的……なものでもなさそうだ。
+Having said that, a... mental thing it doesn't seem to be either.
+//Not mental, not physical, leaves supernatural and little else... -GHS
+TP
+
+
+//現実の光景であり、視野を染めるほどの『何か』。その渦中に俺はいたのだ。
+The scene we have here is a 'something' that permeates through even my field of vision. That is the maelstrom in which I was.
+TP
+
+
+//当然、俺は赤が嫌いだ。
+//Naturally, I hates the red.
+Naturally, I hate red.
+//See CCA0017A. He hates red. Red's evening. Evening's the time loop. Time loop doesn't really exist... -GHS
+TP
+
+
+//見ていると、精神に極めて負荷がかかる。
+Looking at it weighs my mind with an excessive burden.
+TP
+
+
+//拷問に近い。
+It is next to torture.
+TP
+
+
+//吐き気はそうした負荷によって導き出されたもので、いわば俺の……人格を守るための防衛機構であるとも言えた。
+The nausea is something derived from that burden, something I could call a defense mechanism to protect my... personality.
+TP
+
+
+//ノイズを挟まないことにはピュアな赤が意識を浸食してしまう。
+With there is no noise, no interference interposed, the pure red completely erodes my consciousness.
+//See CCA0016A. This should be the explanation for all the Noise events. Therefore, the distortions he sees are these protections. Of course, since his memory is shot to pieces, moments of high stress seem to make him recall other moments of high stress, and the more moments of stress he has, the more becoming stressed would weigh him down. -GHS
+TP
+
+
+//嫌悪感が、フィルターの役目を果たすのだ。
+The revulsion serves the role of filter.
+//A revulsion to blood is indeed a protection mechanism: with a revulsion to blood, perhaps a weakness to it, the probability of becoming a murderer when snapping lower significantly since that demands seeing blood. Which would then make all that happens when he sees blood to be nothing but delusional self-demeaning panic attacks he (or perhaps, just the reader) can't tell from reality. -GHS
+TP
+
+
+//五体の感覚が鈍い。というかナイ。
+All senses throughout the body grow dull. Or should I say, they're gone.
+TP
+
+
+//夢遊している気もするし、寝そべっているような鈍いけだるさも意識できる。
+I have a feeling like I'm sleepwalking, and I'm also aware of a dull languor as if laying sprawled.
+//Translation: he's laying in a bed in the infirmary, possibly having passed out after that mess above. -GHS
+TP
+
+
+//講義をはじめる。
+My lecture begins.
+//The overlap with how he killed the 14 and how he kills the 7 is even closer and ever more suspicious. -GHS
+TP
+
+TWS 7
+GL 1 TCMM0000
+GP 1 225 0
+GL 5 zzzBlackBlend
+GS 1 1
+GS 5 1
+SEF 109 0
+//HACK NVL mode, with the doll (and blending to darken it) -GHS
+
+//①みみ先輩について
+> 
+ 
+ 
+1) Concerning Mimi-senpai.
+TL
+//俺が曜子ちゃんにしていた羞恥プレイは、彼女に気づかれていたか？
+//上の問いはまったく意味を持たない。
+> 
+Did she become aware of that shameful sexual
+playact that I have inflicted on Youko-chan?
+TL
+The aforementioned query possesses
+absolutely no meaning.
+//She very much likely did. -GHS
+TP
+
+
+
+
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 zzzHasekuraInt
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. You know we're in for something now. All lines within flashbacks are new. -GHS
+
+
+//隠密のために。
+For the sake of secrecy,
+//Also "to be as a spy". -GHS
+TP
+//小さな体は武器になる。
+this tiny body will become a weapon.
+TP
+//見つからないように。
+So as not to be seen.
+TP
+//近づけるように。
+So as to be capable of approach.
+//But was the murdering necessary, or is this all she ("she"?) does? -GHS
+TP
+//彼女はうまくやった。
+She made this go well.
+TP
+//この上なく。
+Nothing could be better.
+TP
+//忍者のようにかろやかに。
+Light, just like a ninja.
+//In a SINGLE WEEK. Sure! And yes, that's literally 'ninja'. -GHS
+TP
+//手にしたナイフがーーー
+And the knife in my hand---
+TP
+††††††††††††
+//x12 -GHS
+TP
+//果たして気づかれていたのかドウか？
+In the end, was I noticed or was I not?
+TP
+//上の問いはまったく意味を持たない。
+The aforementioned query possesses absolutely no meaning.
+//CP above
+TP
+
+TWS 7
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+GS 0 0
+SEF 109 0
+GL 1 TCSH0000
+GP 1 190 0
+GL 5 zzzBlackBlend
+GS 1 1
+GS 5 1
+SEF 109 0
+//HACK to white, black and NVL mode, doll & darkening setup. -GHS
+
+
+//②桜庭について
+> 
+ 
+ 
+2) Concerning Sakuraba.
+TL
+
+//桜庭は抵抗しなかった。
+//事態を理解できていなかったのかも知れない。
+> 
+Sakuraba did not pose resistance.
+TL
+He may just not have understood what
+was happening, perhaps.
+//Of course, since Sakuraba is the only one who understands all this, the whole thing has got to be a troll of sorts. -GHS
+TP
+
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 zzzHasekuraInt
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+//7x sentences -GHS
+
+††††††††††††
+TP
+//取れた。命。
+Took it. A life.
+TP
+//目の前で取れた。
+Took it, right in front of my eyes.
+//Sounds oddly passive, doesn't it? -GHS
+TP
+//眠ったまま、首をかききられた男。
+A man with a slit neck, still asleep.
+TP
+//血がシーツに広がる。
+Blood spreading on the sheets.
+//Compare CCA0016 -GHS
+TP
+//開いた目が、虚ろに僕らを見た。
+The open eyes look at us, blankly.
+//As far as I can tell, they are not together; he simply snapped. Does she just "stand still" as she follows him around? Didn't she go on ahead? And the traps? Plan makes zero sense! Becomes only slightly easier if Youko is him (or Youko is *also* him). -GHS
+TP
+//事態を理解できていなかったのかも知れない。
+He may just not have understood what was happening, perhaps.
+//CP above
+TP
+
+TWS 7
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+GS 0 0
+SEF 109 0
+GL 1 TCSK0000X
+GL 2 TCYM0000X
+GP 1 104 0
+GP 2 316 0
+GL 5 zzzBlackBlend
+GS 1 1
+GS 2 1
+GS 5 1
+SEF 109 0
+//HACK to white, black and NVL mode, doll & darkening setup. -GHS
+
+
+
+//③霧と美希について
+> 
+ 
+ 
+3) Concerning Kiri and Miki.
+TL
+//まず気をつけるべきは、霧が武装している点だった。
+//またペアであることから、美希も同様に武器を持っていることは考えられた。
+> 
+The first thing I had to be careful about
+was that Kiri had armed herself.
+Also, because they are a duo, I considered
+how Miki could in the same way possess a weapon.
+TL
+//本来は、霧からだ。
+//攻撃力を有する者から。
+In the proper order, Kiri would be first. First
+would be the one endowed with offensive abilities.
+TL
+//だが美希の危険度が未知数であるということで、警戒が必要だった。
+//美希がどの程度の戦力を持っているかを調べる。第一に設定されるシークエンスだ。
+However, Miki's threat level is an unknown
+variable, and therefore caution was required.
+TL
+The sequence was set with that as first step:
+to investigate the degree of battle capability
+that Miki possesses.
+//Annnd Settei. And possibly remembering that Miki calls the shots... or does she. -GHS
+TL
+//実行し、うまくいった。
+The actual deed... went well.
+//CP above
+TP
+
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 zzzHasekuraInt
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+//8x sentences -GHS
+
+//いつも一緒にいた二人。
+The two were always together.
+//Isn't this all almost ludicrously coincidental? -GHS
+TP
+//兄弟なのだから当然か。
+They're brothers, therefore it should be natural.
+TP
+//仲むつまじい。
+Harmoniously intimate.
+TP
+//よって、一緒に『取る』べきだと曜子ちゃんは言った。
+Ergo, Youko-chan said, the two should be 'removed' together:
+TP
+//まず兄を。そして弟を。
+first the older brother, then the younger.
+TP
+//心配はいらない。
+No need to worry.
+TP
+††††††††††††
+TP
+//実行し、うまくいった。
+The actual deed... went well.
+//CP above
+TP
+
+
+
+
+
+
+
+
+TWS 7
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+GS 0 0
+SEF 109 0
+GL 1 TCKT0000
+GP 1 230 0
+GL 5 zzzBlackBlend
+GS 1 1
+GS 5 1
+SEF 109 0
+//HACK to white, black and NVL mode, doll & darkening setup. -GHS
+
+
+//④冬子について
+> 
+ 
+ 
+4) Concerning Touko.
+TL
+//死んでいた。
+> 
+She had died.
+//No further explanation. Starvation is perhaps to be assumed. -GHS
+TP
+
+
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 BGCC0021S
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+//8x sentences -GHS
+
+//トイレに行く途中だったのだろうか。
+She was probably on her way to the toilet.
+//Hey, just like Kiri! -GHS
+TP
+//その女もまた、共犯だった。
+That woman, herself, was an accomplice.
+TP
+//男の恋人で、暴力を好んだ。
+The lover of men, the lover of violence.
+TP
+//同罪だ。
+Same offense.
+//Very creepily worded. He does sound like he's equating her having sex with people there with her being a murderer. Then again, his being oversexed and his being a murderer seems to get equated fairly often enough. -GHS
+TP
+††††††††††††
+TP
+//記憶は残ってない。
+Recollections do not remain.
+TP
+//気がつくとーーー
+When I come to notice---
+//Hello. -GHS
+TP
+//死んでいた。
+She had died.
+//CP above
+TP
+
+
+
+
+
+
+
+
+TWS 7
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+GS 0 0
+SEF 109 0
+GL 1 TCST0000
+GP 1 190 0
+GL 5 zzzBlackBlend
+GS 1 1
+GS 5 1
+SEF 109 0
+//HACK to white, black and NVL mode, doll & darkening setup. -GHS
+
+
+
+
+
+//⑤友貴について
+> 
+ 
+ 
+5) Concerning Tomoki.
+TL
+//死んでいた。
+//死体は移動され、プレハヴ内に隠されていた。
+//屋上のモップバケツにたくわえられた水は、赤黒かった。
+> 
+He had died.
+The corpse had been moved and been
+concealed in the prefab.
+TL
+The water inside the mop's bucket on the
+rooftop was a dark red.
+//The odd thing: in CCC4025 Taichi couldn't take Tomoki off the antenna. Little brittle Misato is not so frail, of course; see CCC3004 (as reminded in Nanaca Crash, she has the strongest zubaaan attack), as well as to how she can carry all that equipment up to the roof. But this is almost ridiculously strong, not to mention calculating to a point well beyond OOC. -GHS
+TL
+//ただ、そんだけ。
+And that's just that.
+TP
+
+
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 zzzHasekuraInt
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro.
+
+//15x sentences. This part looks very ambiguous on subject, so leaving it as that. -GHS
+
+
+
+//無価値なザコ。
+Worthless small fry.
+TP
+//興じることしかできない。
+Can't do anything but have fun.
+TP
+//狂騒を好む。
+Wild excitement is so beloved.
+//See CCC3015: Taichi prefers these times. -GHS
+TP
+//そのくせ、それのなんたるかも知れない。
+Nonetheless, the hell's all that, I don't know.
+TP
+//壊れるんだよ。
+Got broken.
+TP
+//先鋭化しちゃうんだ。
+Ended up sharpening.
+//See CCZRooftop, CCX0001 -GHS
+TP
+//きっと傷つけるよ。
+There's definitely been hurting!
+TP
+//触れた者を切るんだよ。
+Cut all the people that were touched.
+TP
+//数だけは多いから。
+The number, at least, was large.
+//Suspecting this is the missing people from the 14 dead. -GHS
+TP
+//逃げまどう。
+Run, try to get away.
+TP
+//一人も逃さないで。
+Not one shall be let escape.
+TP
+//全部取って！
+Remove them all!
+TP
+†††††††††††††††
+//x15, only one that's different. -GHS
+TP
+//たくさんの若者は、モノになった。
+Lots of able-bodied had become bodies.
+//Lit. wakamono "young ones" become mono "things". Which unfortunately fits the No Massacre But Ignoring interpretation. -GHS
+TP
+//ただ、そんだけ。
+And that's just that.
+//CP above -GHS
+TP
+
+
+
+
+
+
+
+
+TWS 7
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+GS 0 0
+SEF 109 0
+GL 1 TCHY0000
+GP 1 180 0
+GL 5 zzzBlackBlend
+GS 1 1
+GS 5 1
+SEF 109 0
+//HACK to white, black and NVL mode, doll & darkening setup. -GHS
+
+
+
+//⑥曜子ちゃんについて
+> 
+ 
+ 
+6) Concerning Youko-chan.
+TL
+//彼女は抵抗しなかった。
+> 
+She did not pose resistance.
+TP
+
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 zzzHasekuraInt
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+//33x sentences -GHS
+
+//特別な一人。
+One special person.
+TP
+//彼は特別に『取る』必要があった。
+There was a special need to 'remove' him.
+TP
+//脅して、連れてきた。
+Threatened him, took him with me.
+TP
+//そこで組み立てられたものを見て、彼はひどく驚いた。
+And when I showed him what I had assembled, he was horrendously astonished.
+TP
+//家族の塔と僕は呼んだ。
+I called it the Tower of Family.
+//Hyper Ouch. See CCZAS. Though this may be compensating for the lack of that in the main scenario, as this still puts a Tower of Babel of sorts in the main story. It also makes this a bit more ambiguous: while Youko's responsibility for wrecking Taichi is complete, it's far more understandable she'd sit shellshocked as a guy she thought barely capable of resistance ran around the residence, slaughtered people with increasing ferocity, dragged their bodies in the main hall, built them into a tower, then brought in his bully to give him the sightseeing tour. -GHS
+TP
+//僕が作った。
+My handiwork.
+TP
+//材料は親族だ。
+Compoments: your relatives.
+TP
+//曜子ちゃんにばかり苦労をかけるわけにはいかない。
+Can't just toss all the difficulties on Youko-chan.
+//Odd change of subject. This may be where he starts switching from murdering Yutaka to killing Youko. -GHS
+TP
+//助けなきゃ。僕も動かなきゃ。
+Gotta assist, yes. I too gotta move, yes.
+TP
+//僕らは告発した。
+We indicted:
+//See CCC3023, heh. Still unknown the 'we', leaving next line subjectless. -GHS
+TP
+//罪状を告げ、刑罰を宣言した。
+proclaimed the charges and announced the penalty.
+TP
+//彼の笑顔。
+His smile.
+TP
+//声。
+Voice.
+TP
+//緋緋ヒ緋緋緋緋緋緋緋緋緋ーーー
+crimson crimson crimson crimson
+crimson crimson crimson crimson
+ BLOOD  crimson crimson crimson---
+TP
+//躯躯躯躯躯躯躯躯ク躯躯躯ーーー
+deadbody deadbody deadbody deadbody
+deadbody deadbody deadbody deadbody
+deadbody deadbody CADAVER  deadbody---
+//Tried messing with horizontal, but it just doesn't work, given the entire sequence won't fit on a single line and looks crap when split. Going for creepier. -GHS
+TP
+//よく記憶してる。
+I remember this well.
+TP
+//サディスディックな彼の、極まった笑い声。
+His laughter most extreme, sadistic as he was.
+TP
+
+TWS 7
+//HACK NVL mode -GHS
+//さあ。
+> 
+ 
+ 
+> 
+ 
+ 
+                       Well.
+TL
+//ね？
+> 
+ 
+                      Right?
+TL
+//大丈夫。
+> 
+ 
+                   It's alright.
+TP
+
+//心を開いて。
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+                  Open your heart.
+TL
+//僕らを信じて。
+> 
+ 
+                    Believe us.
+TP
+
+//心を開いて。
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+                  Open your heart.
+//CP above
+TL
+//彼女を信じて。
+> 
+ 
+                    Believe her.
+TP
+
+//心を開いて。
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+                  Open your heart.
+//CP above
+TL
+//手伝って、あげるから。
+> 
+ 
+           There will be help, that's why.
+TP
+
+//胸を切り開いて、
+> 
+ 
+ 
+               Slash the chest open,
+TL
+//胸筋にそって刃を走らせ、
+> 
+ 
+      run the blade parallel to the pectoral,
+TL
+//肋骨を優しくときほぐして、
+> 
+ 
+            unravel the ribcage, gently,
+//Reminds of CCC0000, actually. -GHS
+TL
+//心臓を。
+> 
+ 
+                and your heart...
+TL
+//開いていい？
+> 
+ 
+                Can I open it?
+TP
+
+//This one above is odd. First, it can't refer to how Yutaka dies, as he doesn't die at all; this may be something that Taichi says, but it may be something that he says to himself as he goes to depend on Youko - that's why I left the "help" vague. The slashing of the heart may be metaphorical, or it may well be the description of how Youko dies. -GHS
+
+
+TWS 0
+//HACK and back -GHS
+††††††††††††
+TP
+//彼を抵抗しなかった。
+He did not pose resistance.
+//PCP above
+//Since the one perhaps-killed in the perhaps-non-flashback is Youko, and since the one who gets the heart slashed cannot be Yutaka, this 'he' may well refer to Taichi: he did not pose resistance. The murder of Youko is very possibly the what. -GHS
+TP
+
+
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+GS 0 0
+SEF 109 0
+//HACK flashback exit whiteout to blackout. -GHS
+
+GL 4 evcc0063
+$CGevcc0063 = 1
+GI 4 0
+GO 4 1
+//Yes, it still flashes. -GHS
+
+//太一「あ……」
+Taichi: "Ah..."
+TP
+
+
+//前もこんなこと、あった―――
+This had also happened before---
+TP
+
+
+
+
+
+//……………………。
+............
+TP
+
+
+//…………。
+......
+TP
+
+
+//……。
+...
+TP
+
+//Sunday September 13, 1998 (likely) -GHS
+
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 109 1
+WVP 1 bgm007.ogg 0 0 0
+//HACK music "Sign of Fear" -GHS
+
+//太一「あ……」
+Taichi: "Ah..."
+//PCP above
+//Interesting, since the above should be a very different flashback. -GHS
+TP
+
+
+//日が暮れていた。
+The sun was sinking, the day growing dark.
+TP
+
+
+//俺は理性とともにあった。
+I was there, together with my rationality.
+//"I had regained my senses" (but written higher). -GHS
+TP
+
+
+//ずっと、惚けていたのだろうか？
+Haven't I just been playing dumb all along?
+//Oh dear, I'm not touching this one... -GHS
+TP
+
+
+//自分の置かれている状況を確認する。
+I verify the situation I was put in.
+//Odd reflexive. -GHS
+TP
+
+
+//まず、今日は何曜日だっけ？
+First of all, what day of the week was it?
+TP
+
+
+//決まってる。
+That's obvious:
+TP
+
+
+//正門を出たとき夕方だったのだから。
+when I left the gate it was twilight.
+//When he saw Misato's jump. -GHS
+TP
+
+
+//丸一日経過したことになる。
+One whole day had ended up passing.
+TP
+
+
+//一日かけて、俺は―――
+And throughout one day, I---
+TP
+
+
+//ああ、すごい夕日だ。
+Ahhh, what an amazing twilight.
+//If this is Sunday, then it's not evening; this is the time loop coming. -GHS
+TP
+
+
+//澄んだ大気ごしに見える、朱を基調とした濃淡のあわい。
+I can see through the crisp clear atmosphere a pale shade with vermilion at its key component.
+TP
+
+
+//ふと自らを見下ろすと、シャツがどす黒く染まっていた。
+I accidentally look down at myself, and my shirt was stained darkly.
+TP
+
+
+//四人分の血だ。
+It's the blood of four people.
+//Four is consistent with the above still. -GHS
+TP
+
+
+//太一「……うう……うっ、うううっ……」
+Taichi: "...nggh... ngh, ngggh..."
+TP
+
+
+//獣のように口を開き、肺腑の底から。
+Opening my mouth like a beast, and from the very bottom of my lungs,
+TP
+
+
+//声なき悲鳴を絞り出す。
+I wring out a voiceless scream.
+TP
+
+
+
+//赤はどこまでも広がっていた―――
+And the scarlet went spreading everywhere and anywhere---
+//So if the above is how he murdered everyone in the club, while remembering how he did so in the past... what the hell's happening below? Simplest interpretation is some sort of dimensional switch; in-theory, he's either remembering or 'fixing' the really bad ending with a less tragic one and much funnier one. It's borderline depression to mania. Either way, something that should be happening isn't happening. -GHS
+TP
+
+
+
+
+
+
+
+
+
+
+
+
+//Seven hundred and sixty one armless and legless corpses float inconspicuously around the inside of hangar ninety six. I say that they are inconspicuous because it is their arms and legs which demand my attention. I did this, or I could have stopped it. Which is it? It doesn't matter now. I did this and could have stopped it, but nothing in nature ever follows a gaussian curve. Sure, they'll tell you that it does. They say that every five minutes someone dies in a car accident, but how often are there seven hundred and sixty one armless and legless corpses in one hangar?
+
+
+
+
+
+
+
+
+
+
+
+
+WT 1000 0
+WT 1000 0
+//HACK putting a bit of pause -GHS
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 109
+WVP 1 bgm021.ogg 0 0 0
+//Music "Crystal Clear" -GHS
+
+//日曜日、だったろうか。
+Sunday, or so it seemed.
+TP
+
+
+//俺は屋上に一人、立ちつくしていた。
+I was on the rooftop, alone, standing still.
+TP
+
+
+//曜子ちゃんはほとんど抵抗しなかった。
+Youko-chan posed almost no resistance.
+//And now put it all with the above. Did he kill Youko first? Did she just fall into a trap right off the bat? -GHS
+TP
+
+
+//じっと手を見る。
+I stare, motionless, at my hands.
+TP
+
+
+//赤々と濡れた、両の手だ。
+Wet with brilliant red, both hands.
+TP
+
+
+//太一「…………」
+Taichi: "......"
+TP
+
+
+//転がっているのは、曜子ちゃんだけじゃない。
+Spread out at my feet is not just Youko-chan,
+TP
+
+
+//みんな、いた。
+everyone was there.
+TP
+
+
+//どうしてこんなことになったんだっけ？
+How did things end like this?
+TP
+
+
+//確かアンテナが壊されていて、みんなが集まってきて、友貴が犯人で、霧がクロスボウを構えて。
+Certainly there was the antenna that had been wrecked, how everyone had gathered, and that Tomoki was the culprit, and that Kiri had aimed that crossbow.
+//This is consistent with the end of Week 2. Is this the real ending, what really happened to everyone? It's a possible theory, but unlike those who'd divert on witches in order to keep the cat box shut on the answer, I say it's too inconsistent with all other thematic interpretations to be sufficient. It's much simpler to explain this as Taichi switching dreams from "I did it bwahahahah I'm a crazyass monster" to "well, it was tense, and then it snowballed". And it's very possible "dream" is literal: neither has actually happened. -GHS
+TP
+
+
+//曜子ちゃんが霧を＊して。
+Youko-chan ****ed Kiri.
+//And there we have the first contradiction. Youko killed no one in the Hasekura Massacre; in fact, the "remove" in the Kiri vs. Youko scene, thanks to the added scene above, is now one big troll. Youko didn't kill anyone; she may be incapable of killing, period. Here she's first killer: not happening! -GHS
+TP
+
+
+//止めようとしたみんなにまで、彼女は手を出して。
+She goes to lay hands on any and all that would try to stop.
+//Seems this is volitional, not that she killed anyone outside Kiri. Who'd be so nuts to go after Youko like this - except Miki, who goes below? -GHS
+TP
+
+
+//＊戮機械みたいで。
+Like a ****ing machine.
+//殺戮 slaughter, adapted to just killing machine because "slaughter machine" sounds off. -GHS
+TP
+
+
+//だから仕方なく、俺は曜子ちゃんを＊して。
+Therefore there was nothing else I could do, I ****ed Youko-chan.
+//He doesn't order her down, tell her to stop, anything? Obviously OOC, compare CCC3012A. She'd never do that unless she was the last left, she's terrified he would "wimp" her to mental breakdown. This scenario is simply not plausible. Perhaps that's precisely why it exists here. -GHS
+TP
+
+
+//生き残ったみんなに『大丈夫だよ』と言ったら……誰だっけな……拾ったナイフを、俺に向けて。
+And then I said, "It's all right!" to all the survivors... and someone, who was it... turned one of the discarded knives towards me.
+//From below it seems Miki. Understandably so, given Kiri died. -GHS
+TP
+
+
+//俺のこと怪物だって感じで。
+It felt like I was being taken for a monster.
+TP
+
+
+//俺は怪物じゃない。
+I am not a monster.
+//See CCC3009. Yes, he thinks himself a monster. He doesn't actually like it, but he does. -GHS
+TP
+
+
+//それで、俺つい＊しちゃって。
+And that is why I unconsciously ****ed.
+//This is of course contradictory, but that's obviously intentional. The real tone of this scene seems to remain firmly humoristic. -GHS
+TP
+
+
+//みんな、＊しちゃって。
+I ****ed everybody.
+TP
+
+
+//美希は＊す前に＊して。
+I ****ed Miki before she ****ed me.
+TP
+
+
+//壊れて。
+Wrecked.
+TP
+
+
+//いろいろ壊れて。大変で。
+Wrecked in many ways. This is serious.
+//Compare above now. He killed and then he was wrecked; this is the opposite of above. See below. -GHS
+TP
+
+
+//あともう一人か二人、＊した気もするけど。
+But I feel like I have ****ed one person or two more after that.
+TP
+
+
+//＊してから＊したんだっけ？
+You're xxxxed, therefore you ****?
+//Funny fact: in the PS2 version, the words aren't censored (on the 360 they are). And the kanji being replaced isn't always the one for kill! Here, for example, the original sentence is 壊してから殺したんだっけ "you're wrecked, therefore you kill". This makes way more sense than messing about with "kill before you're killed", especially given the new stuff above. I'm changing the * to x, but "luckily" wreck and kill are both 4 letters. -GHS
+TP
+
+
+//逆だっけ？
+Was it the opposite?
+//The opposite was the Hasekura Massacre one. -GHS
+TP
+
+
+//どっちがまずいんだっけ？
+Which of the two was the bad one?
+//Yes? -GHS
+TP
+
+
+//記憶にない。
+It is not in my memory.
+//My last... flower for you. -GHS
+TP
+
+
+//昨日は何してたんだっけ？
+What was I even doing yesterday?
+TP
+
+
+//もう思い出せないや。
+I can't recall anymore now.
+//MEMORY HUNTER!!! -GHS
+TP
+
+
+//些細なことだよな。今日に比べたら。
+It was just trifles, yes, if compared to today.
+//More seriously, the dimension switch may just be the end of another route, since the week is a day, therefore 
+TP
+
+
+//ああ、俺、みんな＊したんだ。
+Ahhh, I went and xxxxed everybody.
+//This is also 'wrecked'. Since that can be metaphorical, it may just mean he hurt them with his behavior. No need for it to be literal murder. -GHS
+TP
+
+
+//俺を＊してくれる人は？
+And where's the person that's going to ****me?
+//This is 'kill', however. -GHS
+TP
+
+
+//いないの？
+There isn't one?
+//See CCD0021. Interesting. -GHS
+TP
+
+
+//俺は横たわる。
+I lie down.
+TP
+
+
+GL 0 bgcc0000a
+GS 0 1
+SEF 109
+
+//綺麗な空だった。
+What a marvelously beautiful sky there was.
+//Visuals -GHS
+TP
+
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 109
+
+//汚らしい空だった。
+What a squalid filthy sky there was.
+//Time loop... again? -GHS
+TP
+
+
+//太一「赤い―――」
+Taichi: "Red---"
+TP
+
+
+//こんな俺からも、涙が出たのだった。
+Even from me as I was there were tears coming out.
+//Seems to still be no tears for Yutaka, not no tears in general... or has he begun believing he's incapable of tears at all? -GHS
+TP
+
+WVS 1 1
+//HACK stop music -GHS
+
+//……………………。
+............
+TP
+
+
+//…………。
+......
+TP
+
+
+//……。
+...
+TP
+
+
+
+GO 0 1
+
+WT 1500 0
+//HACK putting some waitin'. -GHS
+
+RET
+

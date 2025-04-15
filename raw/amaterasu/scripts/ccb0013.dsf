@@ -1,0 +1,898 @@
+
+
+
+WVP 3 SE001 0 0
+
+GL 0 bgcc0003s
+GS 0 1
+SEF 10 1
+
+
+I had a dream in which Sakuraba pushed me down. 
+//CP cca0013
+TP
+
+Taichi: "......too surreal..."
+//CP_S
+TP
+
+In the first place, that guy wouldn't have the nerve to throw someone down like that.
+//CP_F
+TP
+GL 0 bgcc0004s
+GS 1 0
+GS 0 1
+SEF 152 0
+
+Breakfast had already been prepared.
+//CP_S
+TP
+WVP 1 bgm002.ogg 0 0 0
+
+There was a note.
+TP
+
+
+『Eat your fill before leaving.』
+TP
+
+
+Mutsumi-oba-san made being beautiful her career. She was also a great cook.
+TP
+
+Although she's so busy that she rarely comes home.
+TP
+
+I lowered my head.
+TP
+
+Then I took her up on that offer, washing down a bulky sandwich with vegetable juice.
+TP
+
+There's no time to waste.
+TP
+
+I covered the rest in plastic wrap and stuck it in my pocket.
+TP
+
+I'll eat it on the way.
+TP
+
+GL 0 bgcc0005s
+GS 0 1
+SEF 152 0
+
+
+After walking for a while,
+TP
+
+WVP 0 vmcca0013sku002
+Sakuraba: "Agyaraoooooooo!!!"
+TP
+
+Sakuraba screamed.
+TP
+
+From close by.
+TP
+WVP 2 se102 1 0
+
+His scream was overlapped with a dog's bark.
+TP
+WVS 2 1
+
+Together, they faded into the distance.
+TP
+
+Taichi: "That explains it......"
+TP
+
+I was satiated.
+TP
+
+Then, there was---
+TP
+GL 2 tcdy0003s
+GP 2 240 0
+GS 2 1
+SEF 109 0
+
+WVP 0 vfcca0013ysa000
+Yuusa: "Huh? Taichi-san?"
+//PCP there's a girl/Yuusa contrast here just like the boy/Shinkawa one before ～IX
+TP
+
+Taichi: "Morning."
+TP
+
+GL 2 tcdy0001s
+GI 2 0
+
+
+WVP 0 vfcca0013ysa001
+Yuusa: "Ah, good morning."
+//PCP this time the contrast only happens twice, rather than lasting the entire length of the script. ～IX
+TP
+
+She bowed her head down.
+TP
+
+This pretty girl named Yuusa-chan lives nearby.
+TP
+
+Upper Misaka is a good town.
+TP
+
+Curry bread was shaking in Yuusa-chan's hands. She's too cute for words.
+TP
+
+We started walking together.
+TP
+
+This isn't the first time or anything.
+TP
+
+After all, we go to the same school.
+TP
+
+Behind us I heard a husky voice say, 『Habe phun at skool!!』
+TP
+
+It was Yuusa-chan's mom.
+TP
+
+She's a bit on the heavy side.
+TP
+
+But, since she seems to enjoy her life every single day, it's probably fine.
+TP
+
+A pretty girl born to an ordinary family.
+TP
+
+Her only fault was being too unfamiliar with how the world works.
+TP
+
+As the male sempai closest to Yuusa-chan, the duty I'm charged with isn't small.
+TP
+
+WVP 0 vfcca0013ysa002
+Yuusa: "See you later!"
+TP
+
+As she waved back, her face held no sign of a rebellious phase.
+TP
+
+Then again, it's plausible that she still doesn't have her primary sexual characteristics.
+TP
+
+
+It's extremely natural for a man to think of wanting to stain that solid white canvas with his own color, but after a year of average classes, her height had gotten--
+TP
+
+
+
+
+Naive Yuusa-chan with her faltering polite speech held a purity which glittered more than any precious gem, setting me on the razor's edge as to whether or not I should succumb to filthy delu--
+TP
+
+
+
+I'm well aware that repeating these painful, worrisome, wavering thoughts makes me a pedophile. Seriously, I am.
+TP
+
+In any case, I'm wavering.
+TP
+
+Yes, like the bag of curry bread in Yuusa-chan's hands.
+TP
+
+Taichi: "That's curry bread."
+TP
+GL 2 tcdy0000s
+GI 2 0
+
+WVP 0 vfcca0013ysa003
+Yuusa: "It is."
+TP
+
+She leaned back and forth as we walked.
+TP
+
+Holding up her hands like a ghost, continuing on as if flaunting something.
+TP
+
+Taichi: "Is that......breakfast?"
+TP
+GL 2 tcdy0003s
+GI 2 0
+
+WVP 0 vfcca0013ysa004
+Yuusa: "Umm, Sakuraba-san was here just now."
+TP
+
+Taichi: "Yeah, he was here."
+TP
+GL 2 tcdy0000s
+GI 2 0
+
+WVP 0 vfcca0013ysa005
+Yuusa: "Did you meet him?"
+TP
+
+Taichi: "No, there were only traces."
+TP
+GL 2 tcdy0003s
+GI 2 0
+
+WVP 0 vfcca0013ysa006
+Yuusa: "Traces?"
+TP
+
+Taichi: "Well, not by the time I got there."
+TP
+GL 2 tcdy0001s
+GI 2 0
+
+WVP 0 vfcca0013ysa007
+Yuusa: "Now that's troubling."
+TP
+GL 2 tcdy0000s
+GI 2 0
+
+WVP 0 vfcca0013ysa008
+Yuusa: "I'd been thinking about giving him this curry bread."
+TP
+
+So she's trying to feed the chimp.
+TP
+
+Taichi: "It's because Combat hates that guy."
+TP
+GL 2 tcdy0003s
+GI 2 0
+
+WVP 0 vfcca0013ysa009
+Yuusa: "You mean the dog named Combat at Kichida-san's place?"
+TP
+
+Taichi: "That thing's amazing. He can pull out any stake you tie him to using only his raw strength."
+TP
+
+Taichi: "He goes out when he wants, and comes back when he wants."
+TP
+GL 2 tcdy0000s
+GI 2 0
+
+WVP 0 vfcca0013ysa010
+Yuusa: "Combat doesn't attack most people."
+TP
+
+Taichi: "That's how we know he's a real hoodlum."
+TP
+GL 2 tcdy0003s
+GI 2 0
+
+WVP 0 vfcca0013ysa011
+Yuusa: "He's......a hoodlum......?"
+TP
+
+Taichi: "He's got a pretty stout build these days, since he's got military blood in him."
+TP
+
+Taichi: "In human terms, I guess you could say his parents returned well-aged from war."
+TP
+
+Taichi: "And yet he'll only attack Sakuraba."
+TP
+
+WVP 0 vfcca0013ysa012
+Yuusa: "Mysterious."
+TP
+
+Taichi: "It is mysterious."
+TP
+
+We walked on at a comfortable pace.
+TP
+GL 2 tcdy0000s
+GI 2 0
+
+WVP 0 vfcca0013ysa013
+Yuusa: "What should I do with this......?"
+TP
+
+WVP 0 vfcca0013ysa014
+Yuusa: "Are you hungry?"
+TP
+
+Taichi: "Should we eat half each?"
+TP
+GL 2 tcdy0001s
+GI 2 0
+
+WVP 0 vfcca0013ysa015
+Yuusa: "Yes."
+TP
+
+We ate the curry bread together.
+TP
+
+Taichi: "Have you gotten used to school?"
+TP
+GL 2 tcdy0000s
+GI 2 0
+
+WVP 0 vfcca0013ysa016
+Yuusa: "Not quite yet."
+TP
+
+Taichi: "How's the bullying?"
+TP
+GL 2 tcdy0001s
+GI 2 0
+
+WVP 0 vfcca0013ysa017
+Yuusa: "None at all! I'm so happy!!"
+TP
+
+Taichi: "Guess you would be."
+TP
+
+The one and only Gunjou Institute. A first-class Gunjou.
+TP
+
+Taichi: "If anything happens, go ahead and stop them by saying, 'I have a lot of acquaintances in the advanced classes, yes I do.'"
+TP
+GL 2 tcdy0001s
+GI 2 0
+
+WVP 0 vfcca0013ysa018
+Yuusa: "Yes."
+TP
+
+She seemed super happy.
+TP
+GL 2 tcdy0003s
+GI 2 0
+
+WVP 0 vfcca0013ysa019
+Yuusa: "Though I won't say 'yes I do' at the end......"
+TP
+
+She's embarrassed.
+TP
+
+Taichi: "Ha-ha-ha."
+TP
+
+I used to tease her a little; I guess it still bothers her.
+TP
+
+Taichi: "Didn't you get Sakakibara-sensei?"
+TP
+GL 2 tcdy0000s
+GI 2 0
+
+WVP 0 vfcca0013ysa020
+Yuusa: "Yes."
+TP
+
+Taichi: "He's a good teacher. You'll do fine."
+TP
+
+Though with his hobby of collecting bishoujo figurines, he's on the verge of oblivion.
+//Just in case you didn't notice, I'm purposely not CPing tl notes from the first week. ～IX
+TP
+GL 2 tcdy0001s
+GI 2 0
+
+WVP 0 vfcca0013ysa021
+Yuusa: "Aha-aha, thank you."
+TP
+GL 2 tcdy0000s
+GI 2 0
+
+WVP 0 vfcca0013ysa022
+Yuusa: "......everyone in the class is doing their best, so I'm having fun."
+TP
+
+Taichi: "I see."
+TP
+
+WVP 0 vfcca0013ysa023
+Yuusa: "Okaa-san's here for me too."
+TP
+
+Taichi: "Indeed."
+TP
+
+Taichi: "But doesn't she tend to stand out? ...I mean, she's a source of peace in your life."
+TP
+GL 2 tcdy0000s
+GI 2 0
+
+WVP 0 vfcca0013ysa024
+Yuusa: "Also......umm......"
+TP
+
+Taichi: "Hmm?"
+TP
+
+WVP 0 vfcca0013ysa025
+Yuusa: "Sensei told us to exchange diaries with someone."
+TP
+
+Taichi: "I once had a class that did that."
+TP
+
+Exchange Homeroom or something.
+TP
+
+Taichi: "I failed to find a partner in my class, so I did it with someone from the advanced classes."
+TP
+GL 2 tcdy0001s
+GI 2 0
+
+WVP 0 vfcca0013ysa026
+Yuusa: "Ah, I also failed."
+TP
+
+Taichi: "Eh?"
+TP
+GL 2 tcdy0000s
+GI 2 0
+
+WVP 0 vfcca0013ysa027
+Yuusa: "Our class has an odd number."
+TP
+
+Taichi: "Aah......then, can't you do it with Sensei?"
+TP
+
+WVP 0 vfcca0013ysa028
+Yuusa: "No, umm, about that."
+TP
+
+She rummaged through her book bag and pulled out a notebook.
+TP
+
+WVP 0 vfcca0013ysa029
+Yuusa: "Would you mind, Taichi-san?"
+TP
+
+A colorful green notebook.
+TP
+
+It had a slight mint fragrance.
+TP
+
+Taichi: "Sure, I'll do it!"
+TP
+
+I shouted and threw both fists into the air.
+TP
+GL 2 tcdy0004s
+GI 2 0
+
+WVP 0 vfcca0013ysa030
+Yuusa: "......"
+TP
+
+Taichi: "What's wrong, miss?"
+TP
+
+WVP 0 vfcca0013ysa031
+Yuusa: "Ha, eh, umm......are you sure? You don't want to think about it more?"
+TP
+
+Taichi: "Of course I'm sure."
+TP
+
+WVP 0 vfcca0013ysa032
+Yuusa: "So frankly......"
+TP
+
+Taichi: "That notebook's the diary? Have you already written the first entry?"
+TP
+GL 2 tcdy0000s
+GI 2 0
+
+WVP 0 vfcca0013ysa033
+Yuusa: "Y-Yes, about a lot of stuff."
+TP
+
+Taichi: "A lot of stuff?"
+TP
+
+A lot of stuff about a pre-pubescent pretty girl.
+TP
+
+That reprimandable string of words easily corrupted me.
+TP
+
+But in front of Yuusa-chan, I have to put on a mask so that she'll like me.
+TP
+
+
+I call it Rationality's Last Stand.
+TP
+
+Taichi: "I can't wait."
+TP
+
+I made a flourish of brushing aside my bangs.
+TP
+
+The girl's gaze closely followed my white hair.
+TP
+
+I realized she was looking all over my hair and face.
+TP
+
+Come to think of it, I heard her say there was a beautiful white-haired prince in a certain Co**lt novel. 
+TP
+
+She'd spoken about him heatedly.
+TP
+
+Now that I think about it, do I give off the image of a prince?
+TP
+
+That would be nice......
+TP
+
+No......my face......it's worthless......
+TP
+
+In the end, it's nothing more than hope.
+TP
+GL 2 tcdy0003s
+GI 2 0
+
+WVP 0 vfcca0013ysa034
+Yuusa: "It's a little embarrassing......"
+TP
+
+Taichi: "I won't laugh at things you wrote seriously."
+TP
+GL 2 tcdy0001s
+GI 2 0
+
+WVP 0 vfcca0013ysa035
+Yuusa: "......"
+TP
+
+Oh, did I score high points just now?
+TP
+
+Miki tends to make me out to be a much younger person than I am, so I've failed at this before.
+TP
+
+I was broken to the core because of that.
+TP
+
+Now I'm nothing more to her than someone to play with.
+TP
+
+Shit!
+TP
+
+It hurts more the farther I look back on it!
+TP
+
+This time I'm going to do it right, and with a bit of luck I'll have an individual serving of pretty virgin (meaning unclear).
+TP
+
+Gentlemanly rationality, gentlemanly rationality.
+TP
+
+Taichi: "May I take it, Fr{a}ulein?"
+TP
+GL 2 tcdy0003s
+GI 2 0
+
+WVP 0 vfcca0013ysa036
+Yuusa: "Furo-irain?"
+TP
+
+Taichi: "Summer oops."
+TP
+
+I spat out the phrase of admonition regarding eternal summers in response to my impulsive usage of a difficult word.
+TP
+
+Taichi: "It means a cute ojou-san."
+TP
+
+I gently wiped the girl's tears.
+TP
+GL 2 tcdy0000s
+GI 2 0
+
+WVP 0 vfcca0013ysa037
+Yuusa: "Why'd you do that? Was there something in my eye?"
+TP
+
+She hadn't been crying.
+TP
+
+Taichi: "It means a lovable ojou-san."
+TP
+
+WVP 0 vfcca0013ysa038
+Yuusa: "Eh......"
+TP
+
+I calmly redefined it.
+TP
+
+Yuusa-chan's expression disappeared as if it had been washed off.
+TP
+
+And then, her face took on a color of shame befitting roses in full bloom---actually, it didn't,
+TP
+
+
+WVP 0 vfcca0013ysa039
+Yuusa: *gujun!!!*
+GO 2 0
+SEF 101 0
+TP
+
+She sneezed.
+TP
+
+It was an unclean sneeze.
+TP
+
+WVP 0 vfcca0013ysa040
+Yuusa: "Ah, I'm sorry......ah-"
+TP
+
+That last 『ah』 was certainly not an innocent amorous breath brought up by a rubbing of her most sensitive parts.
+TP
+
+Her eyes fell down to focus on a certain thing, and she was slightly shocked.
+TP
+
+
+A bridge had been built between me and Yuusa-chan.
+TP
+
+
+One end on my uniform, right around the stomach.
+TP
+
+The other end was Yuusa-chan's nose.
+TP
+
+In other words,
+TP
+
+WVP 0 vfcca0013ysa041
+Yuusa: "H-huh?"
+TP
+
+
+A bridge of mucus.
+TP
+
+
+That high viscosity fluid,
+
+streeeeetched
+
+into a suspension bridge.
+//PCP just barely, and only because there aren't TPs between these three lines like there were in the first week.
+TP
+
+This is my reasoning:
+TP
+
+At the moment of the sneeze, a mucus bullet fired faster than the Shinkansen (that's true) hit my uniform.
+TP
+
+
+
+The girl who formed a bullet from that strongly adherent fluid tried to suck it back into her nostrils, and instead of snapping as one would expect, the junction was lucky enough to hold together and form a bridge.
+TP
+
+WVP 0 vfcca0013ysa042
+Yuusa: "............"
+TP
+
+Yuusa-chan finally seems to have understood her situation.
+TP
+
+Her face turned pale.
+TP
+
+She didn't move an inch.
+TP
+
+No, she couldn't move.
+TP
+
+For a girl as young as her, seeing her own mucus on a man's wardrobe......especially on such a prestigious young nobleman (my delusion)......it must be......
+*One part of this is expressed inappropriately.
+TP
+
+If she's not careful,
+TP
+
+
+『Mucus-hime』
+TP
+
+『Mucusko-chan』
+TP
+
+
+She'd inevitably be given such hopelessly immature and cruel nicknames.
+TP
+
+Kids are always looking for someone or something to laugh at.
+TP
+
+The weaker, the better.
+TP
+
+As weak as they can find.
+TP
+GL 2 tcdy0000s
+GI 2 1
+
+WVP 0 vfcca0013ysa043
+Yuusa: "Au......ah, this is......umm......"
+TP
+
+As a result of extreme stress,
+TP
+
+Her eyes, despite holding themselves open, poured out tears.
+TP
+
+Unacceptable!
+TP
+
+I can't plant any new traumas in this girl.
+TP
+
+It's time for the beautiful white-haired Atlantean prince.
+TP
+
+I calmly took out my handkerchief, faster than the confused girl.
+TP
+
+First, I covered Yuusa's nose with it.
+TP
+
+WVP 0 vfcca0013ysa044
+Yuusa: "......uyu?"
+TP
+
+A weird voice.
+TP
+
+After severing the base, I alternated several times between wiping her nose and folding my handkerchief.
+TP
+
+Then I retrieved the mucus bridge and lightly wiped my own uniform.
+TP
+
+Then I returned the handkerchief to my pocket. At least, I tried to.
+TP
+GL 2 tcdy0005s
+GI 2 0
+
+WVP 0 vfcca0013ysa045
+Yuusa: "Ah, no, you can't!!!"
+TP
+
+Taichi: "Mmm?"
+TP
+
+WVP 0 vfcca0013ysa046
+Yuusa: "Such a d-d-d-dirty, ah, you can't, you have to throw it away, ah, umm!"
+TP
+
+WVP 0 vfcca0013ysa047
+Yuusa: "I'll compensate you!!"
+TP
+
+Taichi: "It's fine."
+TP
+
+I smiled cheerfully.
+TP
+
+Taichi: "Now, shall we get moving?"
+TP
+
+WVP 0 vfcca0013ysa048
+Yuusa: "That's, umm, I'm sorry, but your handkerchief!"
+TP
+
+This time, I wiped her tears with my thumb.
+TP
+
+Taichi: "It's no handkerchief for a cute kouhai to get so worked up about."
+TP
+GL 2 tcdy0004s
+GI 2 0
+
+WVP 0 vfcca0013ysa049
+Yuusa: ".........!!!"
+TP
+
+The girl received a big shock.
+TP
+
+Taichi: "Compensation's fine and all, but you really should be careful not to catch a cold, Yuusa-kun."
+TP
+
+I bopped her head and started walking again.
+TP
+
+Yuusa-chan was stupefied.
+TP
+
+Taichi: "Hey, Ojou-san, school."
+TP
+GL 2 tcdy0000s
+GI 2 0
+
+WVP 0 vfcca0013ysa050
+Yuusa: "......y-"
+TP
+GL 2 tcdy0001s
+GI 2 0
+
+WVP 0 vfcca0013ysa051
+Yuusa: "Yes!"
+TP
+
+She started jogging frantically.
+TP
+GL 2 tcdy0000s
+GI 2 0
+
+WVP 0 vfcca0013ysa052
+Yuusa: "......"
+TP
+
+Taichi: "Mm?"
+TP
+
+She was holding my hand.
+TP
+
+She's red up to her ears, and staring at the ground.
+TP
+
+What a cute reaction for such a little thing.
+TP
+
+However, I didn't feel that the goodwill I'd won from her with only a single handkerchief was undeserved.
+TP
+
+But there's no mistake my brain was rotten enough to think that I wanted to make a strong-willed kid with her. Die, I should just die already.
+//CP_F
+TP
+
+WVS 1 1
+WVS 3 1
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 109 1
+
+WT 500
+WT 1000 1
+
+
+
+RET
+

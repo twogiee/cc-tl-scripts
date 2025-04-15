@@ -1,0 +1,351 @@
+IF $loop == 0 JMP NORM
+//This is one of three scripts that works both normal and sepia, for week 1 and week 2 and next. Implementation is simple: it checks whether $loop (which was originally $roop, natch) is zero or non-zero, latter meaning it's not first week, and loads the appropriate stuff. Flashback opening is skipped on same grounds. Of course, I had to dupe all the lines due to changing tags, but at least the stuff isn't on separate files. This saves 120 copypasta lines. -GHS
+HACK Flashback intro. -GHS
+JMP SCENE
+:NORM
+//Week 1 is the ONLY time when this particular cicadas sound is called. -GHS
+JMP SCENE
+:SCENE
+It may have become evening, but the ground was still hot.
+The heat reports through the soles of the shoes,
+but it's not something unbearable.
+Compared to a city center in the Kanto region, there's gonna be a world of difference.
+//Implication that we're not there, as well as BETRAYAL: despite being much earlier in Summer, there's relatively low heat due to the world as if it was just about September. -GHS
+The passing breeze is nice, so that the humidity doesn't pervade either.
+If only there weren't so many of these slopes to pass over, that is.
+The loudness of the cry of the cicadas further amplifies the heat.
+In the style of certain bands, active only in the Summer, those guys bet their everything on this season.
+//Not sure if that's supposed to be a specific reference. -GHS
+IF $loop == 0 Boy: "Gyah!"
+IF $loop != 0 Shinkawa: "Gyah!"
+
+[Taichi]
+"Eh?"
+
+Nearby, someone collapsed.
+//He's spotted Taichi and repeating his last memory with him. -GHS
+There was a dry sound, and a stainless steel crutch tumbled at his foot.
+
+[Taichi]
+"Oh deary?"
+//Girly. Meaning Taichi's switching to girl mannerism. Meaning he has already recognized Yutaka. -GHS
+
+A person had fallen down.
+I try to approach.
+
+[Taichi]
+"...uhm, you alright?"
+
+IF $loop == 0 Boy: "Ah, thanks. I'm alright."
+IF $loop != 0 Shinkawa: "Ah, thanks. I'm alright."
+At times like this, the Japanese immediately say 'I'm alright, I'm alright',
+//Nations of the World. -GHS
+and who knows how they actually are.
+//This isn't as unsubtle as the Psychoman thing, but it's certainly no ringing endorsement of this typically Japanese behavior either. -GHS
+I'm abruptly furious.
+//Out of who the guy is, not because of his behavior. ...or is it? -GHS
+
+[Taichi]
+"You really alright here?! You think I can tell if you're actually alright when you blurt it out that quickly?!"
+
+IF $loop == 0 Boy: "Oh, OhOh... AhAhAh..."
+IF $loop != 0 Shinkawa: "Oh, OhOh... AhAhAh..."
+//Nod punctuation I guess -GHS
+The Japanese was overwhelmed and nodded unsteadily.
+
+[Taichi]
+"You could even have a compound fracture, who knows!"
+
+IF $loop == 0 Boy: "But that doesn't seem fractured looking at it..."
+IF $loop != 0 Shinkawa: "But that doesn't seem fractured looking at it..."
+
+[Taichi]
+"I'll give you your reward for belittling mankind!"
+//See CCC3025, especially that sneer. -GHS
+
+IF $loop == 0 Boy: "The hell you talking about!"
+IF $loop != 0 Shinkawa: "The hell you talking about!"
+//I admit, at times I am having entirely too much fun here. -GHS
+IF $loop == 0 Boy: "Well, I wasn't injured, so."
+IF $loop != 0 Shinkawa: "Well, I wasn't injured, so."
+//Instantaneous disregard, typical of Tomoki vs. Taichi and Misato vs. Taichi. See below. -GHS
+And the fellow stood up with a bitter smile.
+I handed over the crutch.
+//Imagine this scene taking place right after Taichi, gone mad, pushes him down the stairs. It's technically the truth, after all. -GHS
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+IF $loop == 0 Boy: "Ah, my bad."
+IF $loop != 0 Shinkawa: "Ah, my bad."
+
+[Taichi]
+"It's my fault, we're good."
+//Technically "ah, thank you" and "no problem", but given the subtext is anything but that, hyperliteral. -GHS
+[Taichi]
+"Injuries?"
+
+IF $loop == 0 Boy: "Doesn't look like any."
+IF $loop != 0 Shinkawa: "Doesn't look like any."
+//See above: this isn't a duplicate, they weren't talking about THIS incident above. -GHS
+Using the crutches, he finds some balance.
+Disability in one leg then...
+//If your right hand causes you to stumble... it's even doubly ironic, given he just stumbled. -GHS
+
+[Taichi]
+"Bone fracture?"
+
+IF $loop == 0 GL 1 TCSY0001b
+IF $loop != 0 GL 1 TCSY0001s
+IF $loop == 0 Boy: "Be nice if it was, honest!"
+IF $loop != 0 Shinkawa: "Be nice if it was, honest!"
+His face was peaceful in its worryless laugh.
+//One could say... it's the toughest of them? -GHS
+It was the face of a human that had been through hardship.
+//Still literal, due to Human not being quite the same as a Person, though annoyingly enough the term isn't 100% consistent. -GHS
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+IF $loop == 0 Boy: "Wait, you... that hair..."
+IF $loop != 0 Shinkawa: "Wait, you... that hair..."
+//Did he recognize his hair? But he didn't have it back when he knew it. The alternative explanation is that he recognized his face, but had difficulties not so much because of his clothes, but because of his hair being different. -GHS
+
+[Taichi]
+"Ah, this?"
+
+I pinched up a bit of my hair.
+
+[Taichi]
+"It's not a wig ya know."
+//Katsura also means the Japanese Judas tree. Guess what! -GHS
+
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+IF $loop == 0 Boy: "Nah, I didn't suspect that."
+IF $loop != 0 Shinkawa: "Nah, I didn't suspect that."
+//He doesn't believe it was betrayal for money or anything. -GHS
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+IF $loop == 0 Boy: "But did you dye it? It's white to the roots!"
+IF $loop != 0 Shinkawa: "But did you dye it? It's white to the roots!"
+
+[Taichi]
+"Nope. Completely natural."
+//heaven-nature. -GHS
+
+IF $loop == 0 Boy: "Ohhh..."
+IF $loop != 0 Shinkawa: "Ohhh..."
+IF $loop == 0 Boy: "Ain't it all white."
+IF $loop != 0 Shinkawa: "Ain't it all white."
+//Because white = doIhavetosaythiscmon -GHS
+It certainly is.
+The hair on my head has been white for a very long while now.
+//Not necessarily from birth, however. In fact, keep that ずっと前 zutto mae in mind for this script, although it'll be replaced in eg CCC3003. Probably because this is much earlier in Taichi's life than that script. -GHS
+A fuzzy-like white, a certain somebody once called it.
+//Going by GIS, 綿毛 basically means "like a dandelion". And by basically I mean "holy crap that's ONLY pictures of dandelions here". Could've been anyone who said it: the girls who made him Living Doll, or just Misato. Likely latter, but still ambiguous. -GHS
+It's not the white that comes with age,
+it's a snow-white mane that kept its luster,
+//Art director: "So, [possibly Tanaka's real name]-san, it's fine if Taichi's hair is just dark greyish, right? Right, of course it is, here, it's all done!" -GHS
+Hair so naturally white it is uncanny and eerie.
+...that's reason number one I catch people's eyes.
+//Implying that the girls at the Mansion would've caught this... -GHS
+Reason number two it's how girly my face naturally looks. Dammit.
+//...when they actually caught this. -GHS
+IF $loop == 0 Boy: "Ah, my bad. That bothers you, right."
+IF $loop != 0 Shinkawa: "Ah, my bad. That bothers you, right."
+But this guy's a nice guy.
+He knows consideration for others.
+Therefore, I'll be considerate as well.
+//Interesting that 気配 kihai, on itself, means sign/presence/indication, and it's often used with Youko. -GHS
+
+[Taichi]
+"Naah, no prob'."
+[Taichi]
+"Long ago it did. But since that school..."
+
+IF $loop == 0 Boy: "Ahh... Gunjou Institute?"
+IF $loop != 0 Shinkawa: "Ahh... Gunjou Institute?"
+
+[Taichi]
+"Yah."
+
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+IF $loop == 0 Boy: "I'll be goin' there too!"
+IF $loop != 0 Shinkawa: "I'll be goin' there too!"
+And the guy gave me a broad smile.
+
+[Taichi]
+"Oh, how old are you?"
+
+The Japanese stated his date of birth.
+Same year as me.
+And then, a close friend, maybe.
+//Many many many meanings. -GHS
+
+[Taichi]
+"Nice to meet you, then."
+
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+IF $loop == 0 Boy: "Same here. Tell me everything there is to know, 'K."
+IF $loop != 0 Shinkawa: "Same here. Tell me everything there is to know, 'K."
+IF $loop == 0 Boy: "Me, I can't really move one of my legs."
+IF $loop != 0 Shinkawa: "Me, I can't really move one of my legs."
+
+[Taichi]
+"...so you can't."
+
+IF $loop == 0 Boy: "It's just a mental thing. Injury healed a long time ago."
+IF $loop != 0 Shinkawa: "It's just a mental thing. Injury healed a long time ago."
+//"You know me. Hostility makes me shrink up like a-- I can't think of a non-sexual metaphor." -GHSGregoryHouseShaft
+
+[Taichi]
+"That's a problem innit. Since when?"
+
+IF $loop == 0 Boy: "A very long while. Let's say it's completely natural, mine too."
+IF $loop != 0 Shinkawa: "A very long while. Let's say it's completely natural, mine too."
+//There's that zutto mae again. If Taichi's hair got white from the Hasekura massacre, then the two terms coinciding is intentional. -GHS
+IF $loop == 0 Boy: "Look, see how the thickness ain't right?"
+IF $loop != 0 Shinkawa: "Look, see how the thickness ain't right?"
+//年「ほら、太一が違うだろ？」 "Look, see how Taichi ain't right?" -GHS
+He lifted the jeans, showing his ankle.
+
+[Taichi]
+"Whoa, 'mazing."
+
+IF $loop == 0 Boy: "It's 'cause I neeever use it, so the muscles are all gone."
+IF $loop != 0 Shinkawa: "It's 'cause I neeever use it, so the muscles are all gone."
+
+[Taichi]
+"That's baaad! Discipline, man!"
+//Technically "you should train it". -GHS
+
+IF $loop == 0 Boy: "Told you can't really move it. I can sort of of work it on manual, let's say."
+IF $loop != 0 Shinkawa: "Told you can't really move it. I can sort of of work it on manual, let's say."
+IF $loop == 0 Boy: "It's annoying to use."
+IF $loop != 0 Shinkawa: "It's annoying to use."
+//He means manual drive as in a car, Driving Allegory. -GHS
+
+[Taichi]
+"Whoa, man!"
+//DUUUUUUUUUUUDE this is so the 1990s. -GHSurferLingoPatchSoon
+
+IF $loop == 0 GL 1 TCSY0001b
+IF $loop != 0 GL 1 TCSY0001s
+IF $loop == 0 Boy: "Ahahaha! Joke, it's a joke!"
+IF $loop != 0 Shinkawa: "Ahahaha! Joke, it's a joke!"
+
+[Taichi]
+"You're very good at making masochistic jokes."
+//Since Taichi is the masochist, what he actually means is easy to tell; even more so considering the joke he just made wasn't entirely at his expense. Taichi, after all, took it sorta seriously. -GHS
+
+This is the introduction of a man that I can't be negligent about.
+//See CCC3025, nearly the same words. Ambiguous as whether the man, the introduction, or actually if it's not the man himself who's not negligent (but let's not kid ourselves in that case). -GHS
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+IF $loop == 0 Boy: "What's that even that."
+IF $loop != 0 Shinkawa: "What's that even that."
+//He sorta-recognizes what Taichi just said. -GHS
+IF $loop == 0 Boy: "Be nice if that's school's nice, innit."
+IF $loop != 0 Shinkawa: "Be nice if that's school's nice, innit."
+//Sudden change of topic again, borderline avoidance. Interestingly Nanaka-ish. -GHS
+
+[Taichi]
+"It's nice indeed."
+[Taichi]
+"For ones like us, that is."
+
+IF $loop == 0 Boy: "That's good then."
+IF $loop != 0 Shinkawa: "That's good then."
+
+[Taichi]
+"There's plenty of cute girls!"
+
+IF $loop == 0 GL 1 TCSY0001b
+IF $loop != 0 GL 1 TCSY0001s
+IF $loop == 0 Boy: "For real?"
+IF $loop != 0 Shinkawa: "For real?"
+Also many with which it's impossible to have a real conversation.
+//Likely intended to read as a jab to Touko and Misato on first pass. Real context in CCB0003... although it's more of a theme of the story. -GHS
+
+[Taichi]
+"Machiko-sensei's particularly great. The best."
+
+IF $loop == 0 Boy: "Name alone seems nice! Can't wait to see her!"
+IF $loop != 0 Shinkawa: "Name alone seems nice! Can't wait to see her!"
+//Could be that he recognizes the reference? -GHS
+
+[Taichi]
+"Next time, I'll show you my cherished Machiko-sensei album!"
+//Told you he has 'shopped pics of people, the creep. -GHS
+[Taichi]
+"She's rank A."
+
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+IF $loop == 0 Boy: "Rank A? Is that the highest?"
+IF $loop != 0 Shinkawa: "Rank A? Is that the highest?"
+
+[Taichi]
+"Nope, there's S above it."
+//See CCC3025. Shinkawa is 'S'. Is that where the level came, hinting that, hum... too much of a mess even for me in that case. -GHS
+
+IF $loop == 0 GL 1 TCSY0002b
+IF $loop != 0 GL 1 TCSY0002s
+IF $loop == 0 Boy: "Whoa, you rank 'em same as I..."
+IF $loop != 0 Shinkawa: "Whoa, you rank 'em same as I..."
+
+[Taichi]
+"Y-, you too?!"
+
+The hell's with me and this guy sharing wavelengths all natural?
+//In fact, it's even more unbelievable that the two never spoke outside of bullying. But perhaps that's the whole point. -GHS
+IF $loop == 0 GL 1 TCSY0001b
+IF $loop != 0 GL 1 TCSY0001s
+IF $loop == 0 Boy: "Okieh, I got the feeling I can work with this somehow."
+IF $loop != 0 Shinkawa: "Okieh, I got the feeling I can work with this somehow."
+//Friendship is born at that moment when one person says to another: "What! You too? I thought I was the only one." -C.S. Lewis -GHS
+
+[Taichi]
+"Gunjou is abundant in deliciousness and lewdness!"
+//Just like the Mansion! That "abundant" sort of means the same as Yutaka's name, in fact. -GHS
+
+IF $loop == 0 Boy: "No waaay! Lewd too! Wow, my life's getting more and more prosperous!"
+IF $loop != 0 Shinkawa: "No waaay! Lewd too! Wow, my life's getting more and more prosperous!"
+//Ouch. -GHS
+
+[Taichi]
+"Go for iiit!!!"
+
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+IF $loop == 0 Boy: "Yeeeh! I'm gonna!"
+IF $loop != 0 Shinkawa: "Yeeeh! I'm gonna!"
+IF $loop == 0 GL 1 TCSY0001b
+IF $loop != 0 GL 1 TCSY0001s
+IF $loop == 0 Boy: "Still, this don't feel like a first meeting..."
+IF $loop != 0 Shinkawa: "Still, this don't feel like a first meeting..."
+
+[Taichi]
+"Me too, I have a hunch that someday I'll just have to settle something with ye."
+
+IF $loop == 0 GL 1 TCSY0000b
+IF $loop != 0 GL 1 TCSY0000s
+IF $loop == 0 Boy: "I'll be taking that challenge!"
+IF $loop != 0 Shinkawa: "I'll be taking that challenge!"
+So he says with brimming confidence.
+IF $loop == 0 Boy: "...before that,, hand over that Machiko-sensei databank."
+IF $loop != 0 Shinkawa: "...before that,, hand over that Machiko-sensei databank."
+
+[Taichi]
+"That's an O.K., my comrade-in-arms!"
+[Taichi]
+"Our races are different but let's do our best, you Nipponjin!"
+//~♪ -GHS
+
+IF $loop == 0 GL 1 TCSY0002b
+IF $loop != 0 GL 1 TCSY0002s
+IF $loop == 0 Boy: "...no, however I look at you, you are also Japanese."
+IF $loop != 0 Shinkawa: "...no, however I look at you, you are also Japanese."
+//HACK NVL mode -GHS
+          And this has been my meeting
+             with Shinkawa Yutaka---
+//Readers are supposed to intend this was his first meeting, although of course it was nothing of the sort. -GHS

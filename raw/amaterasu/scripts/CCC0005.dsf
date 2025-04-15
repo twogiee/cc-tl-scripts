@@ -1,0 +1,105 @@
+Taichi: "But if this was supposed to be my lunch, you could've just left it on my desk."
+TP
+
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC0005you000
+Youko: "I wasn't able......to go to the power plant......"
+TP
+
+Taichi: "The power plant? You couldn't go there?"
+TP
+
+I didn't understand.
+TP
+
+GL 1 TCHY0001
+GI 1 0
+Youko: "............"
+TP
+
+She was silent.
+TP
+
+Dammit.
+TP
+
+She's always like this, only giving the rough outline.
+TP
+
+Because she only speaks the minimum words needed for her to understand something.
+TP
+
+I could ask her about it, but it took time to reach understanding going from the inaccurate doubts and questions on my end.
+TP
+
+Taichi: "Oh, you mean you went and confirmed it? That far away?"
+TP
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC0005you002
+Youko: "Because it was dangerous."
+TP
+
+Taichi: "Aaah, I see......"
+TP
+
+It's true that whatever happens to the power plant could be dangerous.
+TP
+
+Taichi: "So you came to report that."
+TP
+
+She nodded.
+TP
+
+Taichi: "I see......good work."
+TP
+
+She nodded.
+TP
+
+Happily, if only a little.
+TP
+
+I removed my hand.
+TP
+
+Her white chinaware cheek was red and slightly swollen.
+TP
+
+Even so,
+TP
+
+What did she mean by, 'I couldn't go?'
+TP
+
+Did she mean she physically couldn't reach it because of a landslide or something?
+TP
+
+The facility is needed, but the land around it is difficult terrain.
+TP
+
+But saying for sure that it's safe......that's what getting confirmation is.
+TP
+GO 1 1
+
+Nnn...
+TP
+
+Taichi: "What do you mean, you couldn't go there?"
+TP
+She'd left.
+TP
+
+In the brief moment my eyes had left her.
+TP
+
+WVS 1 1
+
+Taichi: "Haa......"
+TP
+
+RET

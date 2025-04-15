@@ -1,0 +1,450 @@
+
+//太一「早いじゃん」
+Taichi: "Got here early dinn'cha."
+TP
+
+//冬子「……」
+Touko: "..."
+TP
+
+//太一「しかもまた私服通学か」
+Taichi: "And yet you came to school in normal clothes again?"
+//CP CCA0004
+TP
+
+
+//群青に校則はあってなきに等しい。
+School regulations in Gunjou are next to ignorable.
+TP
+
+//なにか差し障りがあれば、警備員の出番だ。
+If a problem arises, the guards intervene.
+TP
+
+//学生が自らを律する必要などない。
+There is no need for students to regulate, judge, or decide for themselves.
+//expanding. -GHS
+TP
+
+//だから制服着用という決まり事は、まるで意味をなさない。
+Therefore, the regulatory standard mandating the use of uniforms is entirely ignorable.
+TP
+
+//いかに天下群青とはいえ、年頃の少女をひんむいて制服に着替えさせるわけにはいかないからだ。
+In this lone Gunjou under the heavens, to force a girl of that age back into the uniform she took off is hopeless beyond all effort.
+//See CCA0013. -GHS
+TP
+
+//他の者と自らを分断するための。
+She does it to cut herself off from other people.
+TP
+
+//それは冬子の確固とした抵抗に違いなかった。
+That was Touko's unshakable, unmistakable resistance.
+TP
+
+//太一「萌え萌え制服姿が見たいにゃー」
+Taichi: "I wannya see you in moe-moe uniform clothes, nya～n!"
+//Intentional brick through the window of the mood. -GHS
+TP
+
+//冬子「……」
+Touko: "..."
+TP
+
+//うーん。
+Yee-ep.
+TP
+
+//こうまで無視が似合うキャラも珍しい。
+A character that looks so good while ignoring this much is rare.
+TP
+
+//冬子はこんな状態でいるのが、もっとも絵になるわけで。
+The more Touko stays just like this, the more like a picture she becomes.
+//See CCA0014B, CCA0023, the fact that this is a CG -GHS
+TP
+
+//俺は隣に座って、じっと横顔を見つめた。
+I sat her neighbor, and motionlessly gazed at her profile.
+TP
+
+//飽くことなく、ずっと。
+Insatiably, for a long time.
+//See CCA0010 -GHS
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//冬子「……」
+Touko: "..."
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//冬子「…………」
+Touko: "......"
+TP
+
+//太一「………………」
+Taichi: "........."
+TP
+
+//冬子「………………」
+Touko: "........."
+TP
+
+//太一「………………………………………………………………」
+Taichi: "...................................."
+//They are naturally counted precisely. Needless to say, really. -GHS
+TP
+WVP 2 se006 1 0
+
+GL 0 bgcc0006
+
+GL 1 TCKT0003
+GP 1 230 0
+GS 0 1
+GS 1 1
+SEF 109 0
+
+WVP 0 vfccb0004cfyu005
+//冬子「……なんなのよもうっ！」
+//冬子「……どうしてこの横顔をみつめてしまう～A PROFILE～完全版？？」
+Touko: "...what do you even want!"
+TP
+
+//いきり立った。
+The rage shoots upwards.
+TP
+
+//太一「こら、芸術品が喋るな」
+Taichi: "Come on, paintings should not be talking."
+TP
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfccb0004cfyu006
+//冬子「何言ってるの？」
+Touko: "What's that even mean?!"
+TP
+
+//太一「美しくあれ」
+Taichi: "Be beautiful."
+TP
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfccb0004cfyu007
+//冬子「わけわかんないっ！」
+Touko: "I don't get you at all!"
+TP
+
+//太一「おまえは語尾が～だわ、とか～ですわ、とかオバサン臭いんだからあんま喋るなよイメージが崩れる」
+Taichi: "You always drop in affectations like 'shan't' or 'mayhap' that stink of grandmother, so don't talk too much or your image will crumble."
+//Intentionally literal for imagery. FWIW, she'll use a ～だわ in CCD2002, and the only ～ですわ so far was in his hallucination in CCA0002 (plus the one below). -GHS
+TP
+GL 1 TCKT0003
+GI 1 0
+WVP 0 vfccb0004cfyu008
+//冬子「ぬぁんですってーっ！？」
+Touko: "WHAASSS'D YOU SAAAAID?!?"
+//lisp + angrish = plausibility (or at least plausible deniability) -GHS
+TP
+
+//ダメだこりゃ。
+It's deeead.
+TP
+
+//ぬぁんですってーとか言い出したよ。
+She actually uttered "whas'd you said".
+TP
+
+//芸術の終焉だった。
+This is the demise of a work of fine arts.
+TP
+
+//太一「フー、興ざめだな」
+Taichi: "Awww, whatta killjoy."
+TP
+
+//世界正義という強圧的な概念とともにキレイさっぱり根絶されたであろう米国人のように、肩をすくめてみせた。
+I made display of a shrug similar to that of an American that fears himself thoroughly eradicated alongside the coercive concept known as the righteousness of the world.
+//This doesn't make much sense...? PS2 version calls it simply "exaggerated". -GHS
+TP
+
+//太一「おまえに芸術の破壊者という二つ名を与える」
+Taichi: "I bestow you the second name of, Destroyer of Arts."
+TP
+GL 1 TCKT0002
+GI 1 0
+WVP 0 vfccb0004cfyu009
+//冬子「いらないっ！！」
+Touko: "Do not want it!!!"
+//See below. -GHS
+TP
+
+//太一「よかったな。ピカソもそんなこと言われてたぞ。またすごいのとならんだな」
+Taichi: "It's to be happy, too. Picasso himself was called the same. No finer thing on the same level as it."
+//http://www.theatlantic.com/magazine/archive/1988/06/picasso-creator-and-destroyer/305715/?single_page=true as far as I could find this is the only instance. -GHS
+TP
+
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfccb0004cfyu010
+//冬子「い！！　ら！！　な！！　いっ！！」
+Touko: "DO!!! NOT!!! WANT!!! IT!!!"
+//Fits juuust right. -GHS
+TP
+
+//口笛を吹く。
+I whistle.
+TP
+
+//太一「こわいですわ～」
+Taichi: "Giving a fright shan't we～!"
+TP
+
+WVP 0 vfccb0004cfyu011
+//冬子「ですわなんて言ってないでしょっ！！」
+Touko: "I do not say 'shan't' you know!!!"
+TP
+
+//太一「そうエクスクラメイションマークを二つセットでばかり使うなよ」
+Taichi: "Don't just use sets of three exclamation marks!"
+//Adapted because two exclamation marks don't look right in English. This is true because of the following: !!!!!!!!!!!!!!!!!!!!!!, whereas !=what I said is true. -GHS
+TP
+
+WVP 0 vfccb0004cfyu012
+//>　　　　　　　　　　　　いさ
+//冬子「どんな諫めかたなのよ！！」
+Touko: "What sort of remonstration is that even meant to be!!!"
+TP
+
+
+//太一「ぷっぷくぷー」
+Taichi: "Pffft heheheheh..."
+TP
+GL 1 TCKT0011
+GI 1 0
+WVP 0 vfccb0004cfyu013
+//冬子「バカにしてんのっ！？　バカにしてるのよね！　バカにしてーーーーーっ！！」
+Touko: "You making fun of me?! You making fun of me! YOU MAKING FUUUUUUN!!!"
+TP
+
+//着火完了。
+Ignition complete.
+TP
+
+GL 1 TCKT0003
+GI 1 0
+WVP 0 vfccb0004cfyu014
+//冬子「ふつー会話ってのは友好の証じゃないわけ？　あんたのはただバカにする目的でアプローチしてるだけじゃないのよ！　おバカなあんたがどうして私をバカにできるの！？　信じられないし信じたくもないし信じさせたくもないわよ！」
+Touko: "Isn't a normal conversation proof of friendship? Aren't you always approaching with the goal of making people look stupid! You're so stupid so how dare you make me look stupid! I can't believe it I don't want to believe it I don't want to be be made to believe it!"
+//wooo made it fit somehow -GHS
+TP
+
+//太一「よく燃える」
+Taichi: "Look who's burning."
+//vs. 'yoku iu' -GHS
+TP
+
+//あなたは最高です。
+You are really the best.
+TP
+
+WVP 0 vfccb0004cfyu015
+//冬子「○×△□＄＃％＆○×△□＄＃％＆ッッッッッ！！」
+Touko: "○×△□＄＃％＆○×△□＄＃％＆!!!!!!!!"
+//Unfortunately, the audio file seems too compressed to recover. -GHS
+TP
+
+
+//うっとりと耳を傾けていると。
+Spellbound I lend my ear to listen closely.
+TP
+GS 1 0
+SEF 109 0
+
+//冬子の右手が霞んだ。
+Touko's right hand had grown blurry.
+TP
+
+//はっ！？
+Wha--?!
+TP
+WVS 1 0
+GL 4 sgcc0012
+$CGsgcc0012 = 1
+GP 4 0 0
+//WVP 2 se105 1 0
+WVP 2 seGAROU 1 0
+//HACK HUNGRY HARAKIRI WOLF -GHS
+GI 4 0
+//SEF 101 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+
+//ばちーん！！
+Ker-smack!!!
+//CP CCA0004 -GHS
+TP
+
+
+//太一「ぐふっ」
+Taichi: "G'fuh!"
+//CP CCA0004
+TP
+
+//不意の平手うち。
+Sudden palm strike.
+//CP CCA0004
+TP
+
+//叩き倒される。
+Strike-induced fall.
+TP
+WVP 2 SE069 1 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+//座る者のない机と椅子を巻き込んで、盛大にすっ転んだ。
+A grand, magnificent fall that drags in even unoccupied chairs and desks.
+TP
+WVP 1 bgm013.ogg 0 0 0
+GS 4 0
+SEF 109 0
+
+//太一「いててて」
+Taichi: "OwChChCh."
+TP
+
+//太一「さすがは合戦格闘術ハラキリ拳、隙がない」
+Taichi: "As is to be expected of the 『Close Quarters Hand-to-hand Combat Technique * Harakiri Fist』, no openings."
+TP
+
+GL 1 TCKT0003
+GI 1 1
+
+WVP 0 vfccb0004cfyu016
+//冬子「だいたい、あんたたちみたいなピッパラリーと私は住む世界が違うの！　私がここにいるのは間違いであんたたちが私のそばにいることも間違いなの！」
+//※ピッパラリー＝冬子語。頭の弱い人たちの意。
+Touko: "Besides, pipparly people like you guys should live in a different world from me! Me being here is wrong, and you people being near me is also wrong!"
+> 
+* Pipparly = Toukese for dullard.
+//I don't think there's an official explanation for this at all. -GHS
+TP
+
+//太一「意味が重複していないか？」
+Taichi: "Don't all those mean the same thing?"
+TP
+GL 1 TCKT0002
+GI 1 0
+WVP 0 vfccb0004cfyu017
+//冬子「るさいっ！」
+Touko: "'addap!"
+//Lisp -GHS
+TP
+
+//太一「非処女のヒステリーは見にくいばかりだぞ」
+Taichi: "The hysteria of non-virgins is truly a difficult sight!"
+//hard to see + ugly (both minikui) -GHS
+TP
+
+GL 1 TCKT0004
+GI 1 0
+WVP 0 vfccb0004cfyu018
+//冬子「っっ！？」
+Touko: "?!?"
+TP
+
+//顔がひきつった。
+Her face cramped.
+TP
+GL 1 TCKT0002
+GI 1 0
+WVP 0 vfccb0004cfyu019
+//冬子「あ、あ、あ……あんたが……それを……言うわけ？」
+Touko: "Y-, y-, y-... you've really... said... that?"
+TP
+
+//太一「まずいですかのう？」
+Taichi: "Is it a problem perhaps?"
+//Making fun of her. -GHS
+TP
+
+//耳クソをほじりながらすっとぼける。
+I pick at some earwax while playing dumb.
+//See CCA0027 -GHS
+TP
+
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfccb0004cfyu020
+//冬子「まずいもなにも……」
+Touko: "It's not a 'problem'..."
+TP
+
+//低くくぐもった声で。
+In a lowering tone of voice.
+TP
+
+GL 1 TCKT0011
+GI 1 0
+
+WVP 0 vfccb0004cfyu021
+//冬子「遙かなる次元を越えて……」
+Touko: "That is just... on a dimension of vulgarity that surpasses..."
+//Parallel, of course. -GHS
+TP
+
+//ゆっくりと顔をあげて。
+Slowly raising her face.
+TP
+GL 1 TCKT0003
+GI 1 0
+WVP 0 vfccb0004cfyu022
+//冬子「出て行けーーーーーーーっ！！」
+Touko: "GET OUUUUUUUUT!!!"
+//See CCD0008B. With the one in the 'ke', that's 8 'e'. -GHS
+TP
+WVS 1 1
+GL 0 bgcc0000d
+GS 0 0
+GS 1 0
+SEF 152 0
+//めでたく叩き出された。
+Oh joyous forceful expulsion.
+//her and him -GHS
+TP
+WT 500 0
+WT 500 1
+
+
+
+
+RET

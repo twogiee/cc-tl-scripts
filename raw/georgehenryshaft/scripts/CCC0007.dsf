@@ -1,0 +1,1396 @@
+
+GL 0 bgcc0005
+GL 5 bgcc0016
+GI 5 0
+GS 5 0
+GS 0 1
+SEF 109 0
+
+//祠……か。
+The hokora... then.
+TP
+
+WVP 1 bgm018.ogg 0 0 0
+
+//しかも学校に行くという意志をねじ曲げて。
+I twist away from the volition of going to school anyway.
+TP
+
+//なかなかできることじゃない。
+That's not something simple or easy to do.
+TP
+
+//人には無数の可能性があると思う。
+I think there are countless possibilities within people,
+TP
+
+//けどだいたいは、当人の個性に支配されるだけだ。
+but for the most part, a person is only controlled by their personality.
+TP
+
+//人は大概同じ選択肢を選ぶものなのだ。
+People, in general, make the exact same selections.
+TP
+
+//ただ。
+Just,
+TP
+
+//同じ状況を何百回と繰り返した時、確率的に突飛な行動を取ることもあるのではないか。
+that if the same situation were to repeat hundreds of times, it is possible they would take a statistically unlikely action.
+//But if the arrangement of particles at the start is the same, then this simply cannot happen. Yet it does. -GHS
+TP
+
+//そう思った。
+So I thought,
+TP
+
+//俺は突飛な行動を、取ろうとしていた。
+that it's an unlikely action that I want to take.
+//And here's the point: if it's volitional, it's no longer random. Fighting against the apparent randomness is the core of the problem. -GHS
+TP
+GL 0 bgcc0015
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//つい先日も、ここを通った。
+I was going back and forth through there just days ago,
+//Continuously odd, given it's technically just the day before, although technically correct since he went down to buy stuff at Tasaki... or did he, since there's nothing posted up of his. -GHS
+TP
+
+//絶望とともに。
+together with despair.
+TP
+
+//そして今、再び山をのぼっている。
+And now, again I am climbing the mountain.
+TP
+
+//祠に行くために。
+With the intent to go to the hokora.
+TP
+
+//目的はない。
+I have no goal.
+TP
+
+//祠に行くことが、目的といえた。
+Going to the hokora may be called a goal.
+TP
+
+//あの少女……七香といったか。
+That girl... Nanaka did she say?
+TP
+
+//彼女が指し示す理由。
+I felt that the reason for her pointing there,
+TP
+
+//それを見つけられる気がした。
+could be found over here.
+//Tweaked -GHS
+TP
+
+
+
+//人跡が絶えて久しいのか。
+Perhaps the signs of human passage have vanished a long time ago,
+TP
+
+//社に至る道は背の低い草に覆われてしまい、見つからない。
+that the path to the shrine seems concealed in low grass, and I can't find it.
+//Odd, since non-looping Miki must have been using this path for quite a while. And then there'd be his footsteps and more. -GHS
+TP
+
+//カンを頼りに進む。
+Relying on intuition I advance.
+TP
+
+//ほどなくして。
+Shortly thereafter,
+TP
+
+GL 0 bgcc0016
+GS 0 1
+SEF 152 0
+
+//太一「あった」
+Taichi: "Found it."
+TP
+
+//声に出てしまう。
+And my voice comes out.
+TP
+
+//人ばかりかあらゆる生き物の気配とともに、世界から騒音は消えた。
+The sound had vanished from the world, together with the presence of not just the humans but of all living things.
+TP
+
+//だが祠の周囲は、より森閑としている。
+But what surrounds the hokora are trees and deafening silence.
+//Visuals. See CCC3003, hmmm. -GHS
+TP
+
+//粛とした空気。
+The air is solemn.
+TP
+
+//温度さえ低く感じる。
+Even the temperature feels lower.
+TP
+
+//独特の緊張感に、喉が乾いてはりつく。
+In this peculiar air of tension, the throat dries up,
+TP
+
+//物音を立ててはいけない気分になる。
+and I end up feeling like it is out of the question to make any sound.
+//Doesn't matter if it's a big Cathedral or a tent in the middle of the desert, nor a hokora in a forest in the mountains. -GHS
+TP
+
+//祠に近づく。
+I draw near the hokora.
+TP
+
+GL 3 zzzHokoraZoom
+GP 3 0 0
+GI 3 1
+//HACK zoom the hokora (there's 2 more layers to go) -GHS
+
+//太一「……」
+Taichi: "..."
+TP
+
+//あきらかに奇妙だった。
+It was obviously strange.
+TP
+
+//何が。
+Something,
+TP
+
+//具体的にどうとは指摘できないが。
+in ways impossible to identify concretely,
+TP
+
+//この場所は、オカシイ。
+is eccentric in this place.
+TP
+
+//理性のさらに奥、何者かがそう告げた。
+Someone further deeper than rationality proclaimed,
+//何者か "NANimonoKA". No need to tell who, I hope. -GHS
+TP
+
+//オカシイがしかし、危険ではないようだ。
+that eccentric it may be, but there are no dangers here.
+TP
+
+//まじまじと祠を観察した。
+With fixed stare I survey the hokora.
+TP
+
+//高い段差の上に、小さな社が安置されている形だ。
+The shape is of a small shrine, installed above a tall step.
+TP
+
+//扉は観音開き。
+Hinged doors, two.
+TP
+
+//しめ縄で封印されている。
+Sealed with a shimenawa.
+TP
+
+//中を見なくてはならなかった。
+I must look inside.
+TP
+
+//妙な怪物が封印されている可能性もある。
+There does exist the possibility that some odd demonic thing is therein sealed.
+//Since monster and stuff are all taken. -GHS
+TP
+
+//いや、それはどうか……。
+No way, how would that be...
+//Tone change -GHS
+TP
+
+//２１世紀、世紀末をはずして人類滅亡までしている定番崩しがもてはやされる昨今、そこまであからさまなのはないだろうと何の根拠もなく思う。
+There's no basis to even think that in the 21st Century there would do something blatant to that extent, not in this present of great praise to the destruction of the storytelling staple of the end of the century being cut short and mankind led to its Downfall.
+//Seems to connect to CCB0002 in being suitably sarcastic/denialistic. Odd, but not uncommon that Taichi would keep referring to this as the "21st century" when it's 1998, especially since the rest clearly refers to the "Year 2000 is the end of mankind" trope. Or sometime between 1998 and 2003, at least. Well, there's also another reason he would: 21=7x3. See CCZDXC. This is also further troll, since indeed this isn't a post-apocalyptic scenario but a strictly pre-apocalyptic one, and mankind is not gone at all. -GHS
+TP
+
+//扉に手をかける。
+I put my hand on the doors and,
+TP
+
+//開く。
+open.
+TP
+
+//太一「……これは」
+Taichi: "...but this..."
+TP
+
+//驚いた。
+I was astonished.
+TP
+
+//飾り気のない薄暗い空間には、怪物もいなければ古い壷も短刀も水晶玉もなかったが……。
+In this plain unadorned gloomy dim space, there was no monster, and no ancient jar nor dagger nor crystal ball, but...
+//The idea of religion containing nothing but weird rituals, superstitions, and maybe some supernatural monster that hates humanity... -GHS
+TP
+
+//ノートが積まれていた。
+Notebooks, stacked up.
+//...and what is in there instead is the history of mankind as an ever repeating loop of longing for something great, but also of consistent failure. This is very possibly Tanaka's own approach to Christianity. -GHS
+TP
+
+IF $loop == 2 JMP LNOTE5
+IF $loop == 3 JMP LNOTE6
+JMP LNOTE6
+//A minor plot hole, the number of notebooks never increasing beyond this. Of course it could be Youko, but it's still pretty weird. -GHS
+
+:LNOTE5
+//五冊ほど。
+Five of them.
+TP
+JMP LNOTE_E
+
+:LNOTE6
+//六冊ほど。
+Six of them.
+TP
+JMP LNOTE_E
+
+
+:LNOTE_E
+//変哲のない学生ノートだ。
+Student's notebooks of no unusuality.
+TP
+
+//ミスマッチというやつだ。
+Really a mismatch though.
+TP
+
+//意表を突かれた。
+I was caught by surprise.
+TP
+
+//太一「……やるなぁ」
+Taichi: "...seriously."
+TP
+
+//どこの誰だか知らないが。
+But from whom or from where I don't know.
+TP
+
+//ノートを取り出す。
+I took out a notebook.
+TP
+
+//表紙には無造作に、マジックで数字が書かれている。
+Carelessly, on the cover, a number is written with a magic marker.
+TP
+
+//巻数だ。
+Volume numbers.
+//This is definitely Youko's handiwork. -GHS
+TP
+
+//１と題されたノートを開いてみる。
+I try leafing through the notebook numbered 1.
+TP
+
+
+//……。
+//...
+//…………。
+//......
+.........
+//……………………。
+//HACK other dots removed. They were excessive anyway. -GHS
+TP
+
+GL 4 zzzblackblend
+GL 5 zzzCCA0012touko
+GP 4 0 0
+GP 5 0 0
+GS 4 1
+GS 5 1
+SEF 109 0
+//HACK dim screen, BG with Touko pic. -GHS
+
+//月曜日
+//今日は学校に行ったのに、授業をさぼった。
+Monday
+Today I went to school, but cut class.
+//PCP CCA0012
+//Someone merged these two lines in both the PS2 and 360 version... but not on the same page, on the same LINE despite the lack of punctuation. It now reads "Monday today I went to school...". I compromised and put them on the same page. -GHS
+TP
+//冬子がやけにつんけんしていた。
+Touko was extremely crabby and mean.
+//CP CCA0012
+TP
+//きっと生理だ。
+Must be that time of the month.
+//CP CCA0012
+TP
+//けど生理だからって八つ当たりは良くない。
+But it's not nice that she gets eight kinds of angry because of biology.
+//CP CCA0012
+TP
+//仕返しにこの日記上でひどいことをしてやる。
+As revenge, I'll do mean things to her in this diary.
+//CP CCA0012
+TP
+
+TWS 7
+//HACK NVL mode -GHS
+
+//No voices in these. -GHS
+
+//冬子「いや、やめてっ」
+> 
+Touko: "No! Stop!"
+TL
+//俺「へへ、嫌がっていても体は正直（略）」
+Me: "Heh heh, no says your voice, but your body 
+     here has evidence (snip)"
+TL
+//冬子「あっ、そんなの、いや、やめてやめてっ」
+Touko: "Ahh, but that, no, stopit! Stopit!"
+TL
+//俺「駄目だ、もう男がここまで来たら引っ込みがつかないよ！　俺の自慢のライフルでおまえというターゲットにロックオンするしかないんだよ！」
+Me: "Not happening, when a man has come this far
+     there is no retreat! I can do nothing but
+     acquire lock on the target that you are with
+     the rifle of my pride!"
+TL
+//冬子「いやぁーっ、体は、体はいやぁーっ！！」
+Touko: "NOOOO!!! My body, my body
+        you caaaaan't!!!"
+TL
+//俺「すぐに自分から欲しがるようになるぜぇ」
+Me: "Soon you'll come to covet this yourself!"
+TL
+//冬子「いや、お慈悲！！」
+Touko: "NOOO! Have mercy!!!"
+TL
+//WVP 2 SE084 1 0
+//HACK removed many of these. Unsure how they were split, probably looking at the original script or standard page sizes. It's been changed in the console versions anyway to follow thematically instead of seemingly at random. -GHS
+//俺「聞く耳持つか、どりゃーっ！！」
+Me: "Do I look like I have ears that know how to
+     hear? Hyaaaa!!!"
+TL
+//冬子「……けだものーっ！！」
+Touko: "...animaaal!!!"
+TP
+
+
+GO 5 1
+TWS 0
+//WVP 2 SE084 1 0
+//HACK ADV mode, same for SFX as above -GHS
+
+//ここで赤い薔薇をさした花瓶のアップ。
+//やがて花は根本で折れ、静かに落ちる。
+Close-up of a vase containing a red rose here. Soon afterwards, cut the flower at its base, that it falls to the ground in silence.
+//CP CCA0012
+TP
+
+GL 5 efcc0000
+GI 5 1
+//HACK whiteout -GHS
+
+
+//画面が滲んでいき、ホワイトアウト。
+//【完】
+The screen blurs, whiteout.
+> 
+ 
+                           【FIN】
+//CP CCA0012
+TP
+
+
+WVP 2 SE084 1 0
+
+GL 4 zzzblackblend
+GL 5 zzzCCA0012miki
+GS 4 1
+GS 5 1
+SEF 109 0
+//HACK BG with Miki pic. -GHS
+
+
+//廊下を歩いていると、美希が掃除をしていた。
+I was walking down the corridor to find Miki cleaning.
+//CP CCA0012
+TP
+//WVP 2 SE084 1 0
+
+//俺の指先は電光石火で美希の尻を狙ったが、かすめただけで実体をとらえることはできなかった。
+//美希はとろくて今まで触り放題だったのに。
+//これはゆゆしき問題ですぞ、校長！
+The tips of my fingers fired towards Miki's ass with the speed of lightning, but merely grazed and couldn't seize the substance.
+//CP CCA0012
+TP
+But Miki had been slow up until now, enough that I could touch her as much I liked.
+//CP CCA0012
+TP
+This is a most alarming problem, Headmaster!
+//CP CCA0012
+TP
+//WVP 2 SE084 1 0
+
+//だが弟子が腕をあげたことは、素直に嬉しい。
+//師である俺が抜かれる日は近い。
+However, a pupil growing in skill is something to be honestly happy about.
+The day when she surpasses I, her mentor, grows near.
+//CP CCA0012
+TP
+
+
+WVP 2 SE084 1 0
+GL 5 zzzCCA0012misato
+GI 5 1
+//HACK BG with Misato pic. -GHS
+
+
+//久しぶりに部活に行って、みみ先輩にぱふぱふをした。
+Went and had club activities for the first time in a while, and got all squishy-squishy with Senpai.
+//この日、俺は一つの到達点に辿り着いた。
+On this day I have finally managed to reach a goal point.
+//感動、大。
+I am moved to tears, lots.
+//CP CCA0012
+TP
+WVP 2 SE084 1 0
+
+
+//他にもいろいろとあったが、全体的に良い日だった。
+And lots of other stuff happened, so overall it was a good day.
+//CP CCA0012
+TP
+
+GS 4 0
+GS 5 0
+SEF 109 0
+//HACK away with all -GHS
+
+
+//太一「これって……」
+Taichi: "But this..."
+TP
+
+//俺の日記だった。
+It was my diary.
+TP
+//続くページをめくる。
+I flip through the next pages.
+TP
+
+//月曜。火曜。水曜。
+Monday. Tuesday. Wednesday.
+TP
+
+//間違いなく日記だった。
+My diary and no mistake.
+TP
+
+//けど。
+But,
+TP
+
+//太一「おかしいな」
+Taichi: "Odd innit."
+TP
+
+//次のページ。
+Next page.
+TP
+
+GL 4 zzzblackblend
+GL 5 zzzCCC0007bedroom
+GS 4 1
+GS 5 1
+SEF 109 0
+//HACK dim screen and, uhm... K -GHS
+
+
+//火曜日。
+Tuesday.
+TP
+
+WVP 2 SE084 1 0
+
+TWS 7
+//HACK NVL mode -GHS
+
+//感情を対象化せよ！
+Make those emotions objective!
+//カレーパンのカレーをごはんにかけて食べだしたのは誰なんだろう。
+> 
+Who was it that first took the curry out of
+the curry bread and ate that with rice?
+//CP CCA0015C
+TL
+//WVP 2 SE084 1 0
+//そんな疑問が、いつも僕を差違なむ。
+That is the doubt that forever hails
+difference on young little me.
+//※差違なむ＝太一の誤字。苛むという意味を、差違による違和感と結びつけた論理的な間違い。
+  * Hailing difference[sic]. Meaning 'to
+    torment', a logic error where a sense
+    of physical discomfort makes Taichi
+    conflate being different with the hail
+    of teases that often come as a consequence.
+//CP CCA0015C
+TL
+//WVP 2 SE084 1 0
+
+//太一は同様にタートルネックをトータルネックと間違えて認識しており、首をトータルに包むからトータルネックなのだと今なおかたく信じている。
+    Similarly, due to having mistaken 'turtleneck'
+    for 'totalneck', to this day Taichi firmly
+    believes the name 'totalneck' must come
+    from how the sweater totally encloses
+    the neck.
+//CP CCA0015C
+//Interesting that he apparently wrote this down, isn't it. Who'd write down notes that nobod--- wait, did I do this gag already? Damn nonlinear editing. Oh well, if you see this gag somewhere else, consider it a metareference on how it's all a continuous writing even if it looks like a loop. -GHS
+TP
+WVP 2 SE084 1 0
+
+
+//わかたれることのない路を、幾度となく繰り返し往腹してきた、日々の終わりにわずかなりともむなしさを感じてならない。
+//※往腹＝太一の誤字
+The end of these days without number spent
+repeatedly going abound and abound on these roads
+indivisible could leave nothing but the faint
+rub of a sensation of emptiness.
+  * abound and abound[sic] = around and around
+//CP CCA0015C
+TL
+//WVP 2 SE084 1 0
+
+//ボードレールは言った。
+> 
+Baudelaire said this:
+//CP CCA0015C
+TP
+WVP 2 SE084 1 0
+
+//『神は死んだ』と。
+> 
+                 『God is dead.』
+//CP CCA0015C
+TL
+//WVP 2 SE084 1 0
+
+//神の存在を疑うことはたやすいが、神の悪戯というものは存在し否応もなく人生に降り注ぎ毎日通う路にも似て直線的であると信じていた人生に、突如として分岐点を儲けようとするのだ。※儲けよう＝太一の誤字
+> 
+But to doubt the existence of God is to take
+things simply, for in a life believed to be as
+linear as the straightest of roads, where the
+days are lived giving no assent and denial
+neither to this existence, what is known as a
+Prank of God will yet with a sudden profit
+carrefours.
+  * Profit[sic] = prepare
+//CP CCA0015C
+TP
+WVP 2 SE084 1 0
+
+//たとゑば教室で、意固地な女性と無毛な会話を繰り広げた時。
+//※無毛＝不毛の間違い
+Ex{ae}mpli gratia in the classroom, when this
+so heirless a conversation developed with a
+most headstrong female.
+  * heirless[sic] = fruitless
+//CP CCA0015C
+TL
+//WVP 2 SE084 1 0
+
+//たとゑば廓下で、仲の良い友人と疎遠な友人のふたりに同時に会った時。
+Ex{ae}mpli gratia, when in the corridor I
+simultaneously met an intimate friend and
+an estranged friend both.
+//CP CCA0015C
+TL
+//WVP 2 SE084 1 0
+
+//そしてまたその二人同士が友好的な関係を築いていたとき。
+> 
+And furthermore, in the while the two fellows
+were building a most amicable relationship.
+//CP CCA0015C
+TL
+//WVP 2 SE084 1 0
+
+//私はそのどちらに対しても、×××（塗りつぶされている）の屹立する意志を感じずにはいられずまた彼女たちが等しく有する神秘の××××で×××に鼻寄せ口つけて××××の際には惜しみない愛とともにあるのであり×××を××××することについては×××しまいには××××××××××××××××が××××××××××××××××××××××××××××××××××××××××××××××。
+This humble one, with regards to the both,
+whilst unable to be unfeeling of xxx (painted
+out via mosaic)'s volition of proud towering, the
+heavenlike mystery of the pair's equal endowment
+of xxxx by xxx in which approach the nose to kiss
+and xxxx's edge for which the unstinted love there
+together present xxx that xxxx with regards to the
+action to take xxx and at the end xxxxxxxxxxxxxxxx
+is xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//CP CCA0015C
+//WVP 2 SE084 1 0
+TP
+WVP 2 SE084 1 0
+
+//『語りえないことについては、沈黙しなければならない』
+//これはキルケゴールの有名な言葉だ。
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+          『Whereof one cannot speak,
+           thereof one must be silent.』
+TL
+> 
+These are Kierkegaard's famous words.
+//CP CCA0015C
+TL
+//WVP 2 SE084 1 0
+
+//霧嬢の奥ゆかしい中性美と、それに対する私の正当なる熱情についての言及は、ここまでにしておこう。
+Allusions to Kiri-jou's modest androgyny, 
+and the just ardor this one has with regards
+to the said, shall be left with this.
+//CP CCA0015C
+TL
+//人生の喜びはこれだけではないのだから。
+For the joys of life are not merely these.
+//CP CCA0015C
+TP
+WVP 2 SE084 1 0
+
+//そう。
+> 
+Hence.
+//CP CCA0015C
+TP
+WVP 2 SE084 1 0
+
+//屋上で出会った我が人生の先達であり、母なる包容力をもってして接し慈しんでくれる見里嬢については、いくら書いたとしても私腹は尽きない。
+//※私腹＝太一の誤字
+> 
+A fortuitous encounter on the rooftop with the
+guide of Our life, Misato-jou, that howevermuch
+I were to write about the display of hands-on
+affection allowed by her motherlike magnanimity
+the myrrh would be most inexhaustible.
+  * myrrh[sic] = mirth.
+//CP CCA0015C
+TL
+//WVP 2 SE084 1 0
+
+//まず何と言っても太も（以下、検閲）
+> 
+First, whatever I may say, her so plump
+thigh(remainder under censorship review)
+//CP CCA0015C
+TP
+//WVP 2 SE084 1 0
+
+//そして私の手には、彼女の身につけていた胸布が残された。
+> 
+And so in my hand it remained, that
+chestcloth that so much learned of her flesh.
+//CP CCA0015C
+TL
+//WVP 2 SE084 1 0
+
+//すでに体温の失われたそれを介して呼吸をする時、仄かな少女のスメルは私をまたたくまに幻想的な幻想へと連れ去るのであった。
+//～ＦＩＮ～
+On the moment of a respiratory act through the
+item already parting with that warmth by body
+induced, the faint subodorare of young woman in
+an instant whisks me into a delusional world of
+delusional delusion.
+> 
+ 
+ 
+> 
+ 
+                                            ~FIN~
+//CP CCA0015C
+TP
+
+GS 4 0
+GS 5 0
+SEF 109 0
+TWS 0
+//HACK remove everything and ADV mode -GHS
+
+//間違いなく通常時の俺ノリだ。
+That unmistakable style I have in normal times.
+//He doesn't recognize the calligraphy, just the style. And nothing will be mentioned on this until the Youko route. How odd. -GHS
+TP
+
+//けどおかしいじゃないか。
+But isn't this weird?
+TP
+
+//俺が書いた日記なら、記憶に残っているはずなのに。
+Should this diary be my writing, recollections of it are yet expected to have remained.
+//This explicitly seems to ignore handwriting! -GHS
+TP
+
+//確かにたまに書いてはいたけど……。
+Certainly I occasionally write in it but...
+TP
+
+//太一「……違う」
+Taichi: "...no, this is different."
+TP
+
+//まったく記憶にない。
+There are no memories whatsoever.
+TP
+
+//ここに書かれている内容は、記憶にはない出来事。
+What is written in here are events that are not in my memory.
+//Given MEMORY HUNTER!!!, this is of course meaningless. See below. -GHS
+TP
+
+//ちなみに記憶喪失でもない。
+However, this is not memory loss either.
+TP
+
+//むしろいらんことまで覚えているタイプだ。
+Rather, I'm the type that even remembers the worthless.
+TP
+
+FSZ 17
+//幼馴染みと結婚の約束でもしようものなら、将来固ゆでジョブに就いた挙げ句に敵の手にかかり自白剤をブチ込まれて廃人になったとしても、そのことだけは決して忘れることのないくらいに思い出ハンターでもある。
+{}Even were I, in the tough-simmered job I will eventually have, fall in the hands of the enemy and be turned into an invalid due to truth serum injections, I would never forget things even as small as the marriage promise to a childhood friend, for that is how much of a Memory Hunter I am.
+//HACK font size.
+//This is the origin of the MEMORY HUNTER!!! meme that is sweeping America and possibly threatening the space-time conteenum (not that I care, screw physics). Can't source anything specific since the drug reference is rather generic, but from what I see a truth serum could definitely cause nasty side effect. -GHS
+TP
+
+//ま、記憶力は良い方だ。
+Well, my memory skills are good ones.
+//Yeah, look at how he recognizes Yutaka, or his mom. Troll Channel is always in session. -GHS
+TP
+
+//記憶してないことと言えば……それこそ出産の場面くらいのものさ。
+Things I don't have recollections of... I'd say there's the moment of my birth.
+//See CCX0001. Whoopsie. This is a particularly interesting reading key, given how much of the specific way of trolling is given away here: the irrelevant chuuni of his Future Hard-Boiled Job tinged with a reference to Nanaka (see CCA0006A/B for why it has to be her), that leads into the superpower-level memory, and immediately after, the claim he lacks a memory that readers know they have... a memory with someone he just side-mentioned in his chuuni delusions! -GHS
+TP
+
+//太一「わはは（米笑）」
+Taichi: "Wahahah (ULOL)"
+//See CCB0008B -GHS
+TP
+
+//すでに滅亡した米国人が喜びそうなセンスだった。
+In that sense in which the already fallen Americans would be pleased with.
+//OTOH... http://en.wikipedia.org/wiki/Hyperthymesia "Like all hyperthymestics, AJ is prone to getting lost in remembering. This can make it difficult to attend to the present or future as she is permanently living in the past." See CCX0001: what he's lost in may not be an ocean of largely unconnected words alone, especially since they're very connected by memories. -GHS
+TP
+
+//さて。
+Well then,
+TP
+
+//読み進める。
+I continue reading.
+TP
+
+GL 4 zzzblackblend
+GI 4 1
+//HACK dim screen
+
+
+//水曜日。
+Wednesday.
+TP
+WVP 2 SE084 1 0
+
+
+
+
+
+//ふむ。次。
+Hm. Next.
+TP
+WVP 2 SE084 1 0
+
+//木曜日。
+Thursday.
+TP
+WVP 2 SE084 1 0
+
+
+
+
+
+//そして金曜日。
+And then, Friday.
+TP
+//WVP 2 SE084 1 0
+
+GL 5 zzzCCC0007beach
+GI 5 1
+//HACK beach CG insert -GHS
+
+//今日は海に行った。
+Today we went to the beach.
+//去年はみんなで行った海。
+//今年はずいぶんと、寂しいことになった。
+Last year we had gone to the beach with everybody. 
+This year, it turned into something really lonesome.
+TP
+//WVP 2 SE084 1 0
+
+//ぎこちなかったけれど、互いに築きあげると信じて、触れあおうとした去年。
+It was awkward, but I believe there was reciprocal accumulation of enrichment, as well as attempts to touch each other in that last year.
+TP
+//WVP 2 SE084 1 0
+
+//楽しかった頃ばかりが思い出された。
+//あれからたったの一年で、俺たちは疎遠になってしまった。
+//互いに対する関心を失ってしまった。
+//いろいろなことがあったせいだ。
+I was reminded of those times of nothing but fun.
+In one single year since then, we had become completely estranged.
+That respective reciprocal interest was wholly lost.
+It's because of all the things that have happened.
+TP
+//WVP 2 SE084 1 0
+
+//けど、理由はそれだけじゃない。
+But the reason is not only in that.
+TP
+//WVP 2 SE084 1 0
+
+//……俺たちの心にも、問題があったんだ。
+...there were problems inside our hearts, as well.
+TP
+//WVP 2 SE084 1 0
+
+//そして今、世界には俺たちのみがいる。
+//この皮肉に満ちた構図は、なんなのだろう。
+And now, in the world there is us and nothing else. What to even think about a composition so full of irony.
+TP
+WVP 2 SE084 1 0
+
+
+GL 5 zzzCCC0007roofnight
+GI 5 1
+//HACK rooftop insert -GHS
+
+//夜、見里先輩の様子を見に行った。
+At night, I went to see what Misato-senpai was doing.
+TP
+
+WVP 2 SE084 1 0
+GL 5 zzzCCC0007hokora
+GI 5 1
+//HACK ~infinite loop~ -GHS
+
+
+//ついでに、例の七香という少女の言葉を思いだし、祠を見に行った。
+Incidentally, I remembered the words of this girl named Nanaka, and went to look at the hokora.
+//See CCA0006. Heh. -GHS
+TP
+//WVP 2 SE084 1 0
+
+//俺は夜の方が行動しやすい。
+//変な体質だ。
+I find it easy to act at night. It's a weird genetic make-up.
+TP
+
+WVP 2 SE084 1 0
+
+//いろいろと疑問はある。
+//けど思考はまとまらない。
+//七香の意味深な示唆に反して、祠から異変は見受けられなかった。
+There are so many questions, but thoughts will not come to a point.
+Contrary to Nanaka's pregnant suggestion, at the hokora I did not catch sight of anything abnormal.
+//Avoiding "phenomenon" since it will be used. -GHS
+TP
+//WVP 2 SE084 1 0
+
+//ただ、一枚の紙片がそこにはあった。
+//曜子ちゃんのメモだった。
+//真新しいメモだ。
+All that was there was one single scrap of paper.
+It was a note by Youko-chan.
+A brand new note.
+//This is, naturally, physically impossible. How could she know of the hokora's effect without the diaries? Did she know of the loop preservation BEFORE she knew of everything? This almost only works if Youko at least knew beforehand that the hokora would preserve time; whether it is because she's Taichi and this is part of his Settei, or because she's OMFG TEH DEVILS and knows that this religious building would preserve history forever is almost beside the point. -GHS
+TP
+
+
+
+//『全ての記録をここに保存しなさい』
+> 
+ 
+           『Please save all your records here.』
+//play3rxxx.dat -GHS
+TP
+//WVP 2 SE084 1 0
+
+
+//いつものことながら、理由の説明はない。
+As it's always the thing with her, no explanation for the reason why.
+TP
+//WVP 2 SE084 1 0
+
+//彼女はあまりにも完成度の高い人間であるため、他者との意思疎通を必要としない。
+//そのため口べたで、寡黙で、余分な言葉をはぶく傾向がある。
+Because she is a human with an excessively high degree of perfection, she finds it unnecessary to come to a mutual understanding with others. Because of that, she has a tendency of being tongue-tied, uncommunicative, and to omit extraneous words.
+//Line split -GHS
+TP
+//はぶきすぎて、わけのわからないことも多い。
+Frequently she omits excessively, so that I don't get her at all.
+TP
+//WVP 2 SE084 1 0
+
+//けど、彼女が言うことに間違いはない。
+However, what she says is never mistaken.
+//そうすべきなのだろう。
+I should definitely do this.
+//俺は自宅に戻り、今日までの日記を持ってくることにした。
+And so I returned home and brought with the diary I had written until today.
+//I suppose he also added this then. -GHS
+TP
+//WVP 2 SE084 1 0
+
+
+//だから日記は、これが最後になる。
+Therefore the diary has its conclusion here.
+TP
+
+GS 4 0
+GS 5 0
+SEF 109 0
+//HACK out with graphics -GHS
+
+
+//一冊目はこれで終わりだ。
+This is how volume one ends.
+TP
+
+//二冊目。
+Volume two.
+TP
+
+//内容はほぼ一緒だ。
+Contents are nearly one and the same.
+TP
+
+//月曜からの何気ない日々。
+Casual days from Monday onwards,
+TP
+
+//そして土曜に祠に。
+then in the hokora on Saturday.
+TP
+
+//三冊目。四冊目。五冊目。
+Volume three. Volume four. Volume five.
+TP
+
+//それが繰り返されている。
+That repeats all over again.
+TP
+
+//内容は、違うこともあった。
+There were differences in the contents still.
+TP
+
+//たとえばＦＬＯＷＥＲＳと出会うタイミングが違っていたり、みみ先輩と冬子への対応が違っていたり。
+For example the timing of the meeting with the Flowers was different, and the interactions with Mimi-senpai and Touko were different.
+TP
+
+//けど大まかには、同じ一週間を繰り返しなぞっているようだ。
+But in rough terms, contents appear to be traced over the exact same reiterated week.
+TP
+
+//まるで、同じ時間を幾度もやり直したような……。
+Just as if the exact same period of time was being repeated countless times...
+TP
+
+//冷静に考えると、この日記が示す可能性はいくつかある。
+Thinking composedly, there are several possibilities indicated by these diaries.
+TP
+
+
+TS 2
+GL 5 zzzblackblend
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+//①俺にもう一つの人格があって、勝手に書いた
+> 
+ 
+ 
+> 
+1) There is one more personality in me that
+   is writing on its own;
+TL
+//②未来の俺が書いたものがここに来ている
+> 
+2) Something written by a future me has ended
+   up here;
+TL
+//③同じ時間を繰り返している
+> 
+3) The same period of time is repeating over
+   and over.
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+//①はない。保証する。
+Number 1) isn't it. Guaranteed.
+TP
+
+//猿にタイプライターを与えても、偶然シェイクスピアを書き上げることはないからだ。
+Because there is no such thing as giving typewriters to monkeys and them writing out Shakespeare by accident.
+//Note how this only and specifically excludes that any split personality he may have could be writing the diaries. Youko never wrote anything but that note. Remember Shakespeare, because All The World's A Stage... and we're all actors in the Great Play of God (see CS Lewis). -GHS
+TP
+
+//②も常識的に考えてまずないだろう。
+Number 2), to common sense, also appears unlikely.
+//But not too much: it's something a past himself has written, which is functionally the same thing. -GHS
+TP
+
+//③―――
+Number 3)---
+TP
+
+//少なくとも、この五冊の日記が示しているのは、この可能性だった。
+At the very least, what these five diaries indicate is this possibility.
+TP
+
+//件のメモは、一冊目のノートに挟まれていた。
+The aforementioned note was held inside the first notebook.
+TP
+
+//ひどく古いメモだった。
+It was a hideously old note.
+TP
+
+//何年も前に書いたもののように思える。
+It appears to be something that has been written so many years ago.
+//Meaning it's not 1998 anymore. -GHS
+TP
+
+//全ての記録を……か。
+All your records... then.
+//First part of note above -GHS
+TP
+
+//まあ日記のことだろうな。
+I guess it means the diaries.
+TP
+
+//さて、なぜそうしなければならないか。
+Still, why do I really need to do so?
+TP
+
+//日記には基本的に金曜日以降の記録はない。
+Fundamentally, there is no record in the diaries beyond Friday.
+TP
+
+//四冊目は例外的に土曜日まで続いていたが。
+Volume Four, exceptionally, continues up to Saturday.
+TP
+
+//これはつまり、土曜以降になにかが起こり、また最初からやり直しを強いられているということになる。
+This, in other words, means that something happens after Saturday, and all is compulsively redone from the beginning once more.
+TP
+
+//再スタート地点は月曜だろうか。日曜という可能性もある。
+Restart point might be Monday. Sunday is another possibility.
+TP
+
+//日曜は気が滅入って、日記をつけなかったからだ。
+Because Sunday I was feeling depressed and did not keep the diary.
+//Due to Training Camp. -GHS
+TP
+
+//おそらく多くの可能性で、同じ行動を俺は取るだろう。
+Perhaps, among these many possibilities, I would keep taking the same actions.
+TP
+
+//いや、待てよ。
+No, wait a second.
+TP
+
+//太一「世界が繰り返しているだって？」
+Taichi: "Am I saying the world is repeating?"
+TP
+
+//突拍子もないことだ。
+That is astonishingly ridiculous.
+TP
+
+//けど、今のところ……。
+But, what we have here right now...
+TP
+
+//結論を出すのはよそう。
+Let's not put the final word to this.
+//See below -GHS
+TP
+
+//結論は終着点からの回想。
+The final word is a reflection from the final destination,
+TP
+
+//至る過程における判断の過程でしかない。
+and the process of reaching it is inevitably the process of a judgment.
+TP
+
+//ここでは、俺が……いや世界が、同じ一週間を延々とループさせている可能性が高い。
+//For what's here, the possibility that I... no, that the world is repeating the same one week period in an endless roop is high.
+For what's here, the possibility that I... no, that the world is repeating the same one week period in an endless loop is high.
+TP
+
+//と考えておこう。
+And that is where the thoughts stay.
+TP
+
+//ループにはルールがあるらしい。
+In this loop there seems to be a rule.
+//Rules of the Loop, a loop that is a Labyrinth and the exit only one. Where will we higurashear that in a few years? well, do contrast the end of Higurashi and the end of Cross Channel. -GHS
+TP
+
+//それは……主観記憶の削除。
+That is... the erasure of subjective memories.
+TP
+
+//日記が途絶えて以降、少なくとも世界は五回以上は『巻き戻っている』はずだ。
+Since the diaries stop at that, it is expectable that there have been at the very least five instances or more in which the world has been 'wound back'.
+//The note is years old so that can't be, you moron. This is likely a minor plot hole, though. -GHS
+TP
+
+//同時に、俺の記憶も完全に巻き戻されている。
+At the same time, my memories are thoroughly and flawlessly wound back as well.
+TP
+
+//これは断定できた。
+This I've settled.
+//Different, much less strong than the 'final word' above. -GHS
+TP
+
+//俺の記憶に欠損や不明瞭な部分はない。
+No part of my memory is damaged or unintelligible.
+//True. Him failing to remember doesn't mean his memory is damaged. But it's a lie by omission. -GHS
+TP
+
+//曜子ちゃんはさすがくのいちで、早々にこの事実に気がついた。
+Youko-chan, expectably of a Kunoichi, promptly became aware of this fact,
+//This is a load of bull that no sane person who understood the reading keys of Cross Channel can be expected to swallow. She just up and understands with less than zero grounds to do so. -GHS
+TP
+
+//そして俺に対してメモを残した。
+and then left a note behind for my sake.
+TP
+
+//なぜか。
+For what reason?
+TP
+
+//つまり曜子ちゃんも、巻き戻りとともに記憶を失うから―――
+Because in the end, even Youko-chan loses all her memories in the rewinding---
+TP
+
+//ひいては、他のメンツも同様だと思われた。
+Therefore, the rest of the team appears to be in the same situation.
+TP
+
+//みみ先輩、冬子、美希と霧、桜庭、友貴……。
+Mimi-senpai, Touko, Miki and Kiri, Sakuraba, Tomoki...
+TP
+
+//太一「そうか」
+Taichi: "Indeed."
+TP
+
+//現状の厄介さがわかってきた。
+I understood the difficulty of the present situation.
+TP
+
+//記憶がリセットされる。
+Memories are reset.
+TP
+
+//つまり。
+In other words,
+TP
+
+//今こうして真相にたどりついた記憶も、週末にはリセット。
+these memories of at last discovering the truth of things will be reset at the end of the week as well.
+TP
+
+//翌週（文字通りの）には、疑問なく月曜日を生きる俺がいるわけだ。
+In the week that (literally) follows, there will be a me living without doubts on a Monday.
+//See CCC3013. -GHS
+TP
+
+//俺が再び真相に到達するには、偶然に導かれてこの祠に……。
+And I have been led to this hokora by coincidence, so that I could learn the truth once more...
+//That is the exact specific word that Miki will use to describe the killer in her route, see CCC4021. Since what he lead him here is actually Nanaka, who was pointing him to religion, the "coincidence" here is the PRovidence of God. It's no coincidence. -GHS
+TP
+
+//太一「……うわ」
+Taichi: "...whoa."
+TP
+
+//下手な鉄砲を連射しないといけない状況だな。
+This is a state of affairs where I can only fan the revolver unskillfully and hope to still hit the target.
+//From 下手な鉄砲も数撃ちゃ当たる (in a great number of unskilled gun shots there can be a lucky hit). Clear enough to use relatively literally. Given all the hard-boiled crap, he'd totally have a single-action revolver. Given Taichi and cars, he'd totally fan it... and never learn to shoot. Any other way, either. -GHS
+TP
+
+//げんなりした。
+I felt helpless.
+TP
+
+//ルールはもう一つある。
+There is one more rule.
+TP
+
+//それはこの祠が、どうやらループの影響を免れているということ。
+That is, this hokora is exempted from the influence of the loop, one way or another.
+TP
+
+//この場所にいる限り、主観時間は保たれるわけだ。
+Within the boundaries of this location, subjective time is preserved.
+//He's never quite clear how far the range extends. It's perhaps a hint that the range doesn't actually extend anywhere at all. -GHS
+TP
+
+//太一「……曜子ちゃん、どうやって確かめたんだろう」
+Taichi: "...Youko-chan, how did you even ascertain this?"
+//Still got no answer outside of meta. -GHS
+TP
+
+//ノートがあれば理解はできる。
+If there are notebooks, understanding is possible.
+TP
+
+//けど何もない状態で、いかにして祠の特異性を見抜けるのか。
+But in case of there wasn't anything, how is it possible to see through to the specificity of the shrine?
+TP
+
+//およそ常人の行動力で探求できるとは思えない。
+It seems unlikely to be a quest within the means of an ordinary person of roughly ordinary talents.
+TP
+
+//もちろん彼女は常人なんて生やさしいものじゃないけれど。
+However, she of course nothing like the simple straightforward ordinary person.
+//I seriously don't think any level of intelligence could lead you to figure this out in-story. Out of story, you only need to have read the Bible closely and put two and two together, but... -GHS
+TP
+
+//太一「曜子ちゃんなら、やるか……」
+Taichi: "If anyone can do it, it's Youko-chan..."
+//I don't dislike the stock translation for this, but, it can't be helped if I stuff my vile meat poleaxe in such a small craxabutalianistic honeypot? -GHS
+TP
+
+//いろいろ調査してまわっているみたいだし。
+It does seem like she is making the rounds, investigating all sorts of things.
+TP
+
+//太一「しかし」
+Taichi: "And yet..."
+TP
+
+//祠の中に入りながら、思う。
+I think as I begin to enter inside the hokora.
+TP
+
+//狭い。
+Cramped,
+TP
+
+//変形ロボットばりに手足を折りたたまないと、侵入はかなわない。
+that unless I folds my arms like a transforming robot, this trespass is beyond my power.
+//He must be a robot to be inside the hokora. SYMBOLISM!!! -GHS
+TP
+
+//そもそもあの七香って女の子は、何者だ。
+To begin with, this girl Nanaka - who or what is she.
+//Nanaka -> NANmono. In case someone didn't see it above. -GHS
+TP
+
+//太一「うーむ」
+Taichi: "Hmm-hm."
+TP
+
+//判断材料はほとんどない。
+Materials for judgment are almost nonexistent.
+TP
+
+//快活そうで、変わった制服を着ていて、自転車に乗って、すらりと伸びた脚、引き締まった臀部、着やせしているものの平均値は上るバスト……。
+All cheerful, she wears an unusual uniform, rides a bicycle, has sleek and smooth legs, firm butt, her wholly average bust so improved in value by how good she looks in her clothes...
+//Progressively delusional -GHS
+TP
+
+//太一「あっ、いかん」
+Taichi: "Gah, cut it out."
+TP
+
+//体積が増した。
+The volume has increased.
+TP
+
+//こんなに増したら、祠に入りにくくなってしまうじゃないか！
+Won't it get harder to get in the hokora with this increase in volume?!
+TP
+
+//と思っていたが、すんなり入れた。
+So I thought, but I entered without difficulty.
+//This is one of sweetest moments in the whole story if you understand the symbolism of this. He'll take him even with his monster swelling. -GHS
+TP
+
+//太一「……しくしくしく」
+Taichi: "...sob, sob, sob."
+TP
+
+//入れたは入れたが、身動きはほとんど取れない。
+Enter I can enter, but I can make almost no movement.
+TP
+
+//自分が直方体になってしまった感覚に包まれる。
+I am enveloped by the sensation of having become cuboid.
+TP
+
+//扉を閉めてみた。
+I tried closing the doors.
+TP
+
+GS 0 0
+GS 3 0
+SEF 109 0
+//HACK black it all -GHS
+
+
+//太一「完成」
+Taichi: "Done."
+TP
+
+//何がだ。
+But what?
+TP
+RET
+

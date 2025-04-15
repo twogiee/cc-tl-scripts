@@ -1,0 +1,340 @@
+
+GL 0 bgcc0005
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+WVP 1 bgm015.ogg 0 0 0
+
+//帰路を歩く。
+Walking on the road home.
+TP
+
+
+//太一「うーむ」
+Taichi: "Mmmh-hmm."
+TP
+
+//結局、何もない一日を過ごしてしまった。
+In the end, one whole day passed with nothing done.
+//Will make more sense like this when it's 'pastad in CCC4005 -GHS
+TP
+
+//リセットがかかると知っているせいかな。
+Perhaps, knowing that it will all be reset is to blame.
+TP
+
+//どうも身が入らない。
+Somehow I just wasn't into things.
+TP
+
+//それに……学校に行っても賑やかさは感じられない。
+Besides... I might have gone to school, but I cannot feel its bustling liveliness.
+TP
+
+//世界はガラスキになっている。
+The world had become almost entirely uninhabited.
+TP
+
+//八人では世界とは言えない。
+With eight people one cannot call it a world.
+TP
+
+//永遠の一夏。
+A single eternal Summer...
+TP
+
+//俺たちは、時の渦にとらわれた人類の残骸なんだろうか。
+We might just be the wreckage of mankind caught in the swirl of an eddy of time.
+TP
+
+//それとも……別の意味が。
+Or perhaps... it means something else.
+//HINT HINT HINT HINT HINT HINT HINT HINT -GHS
+TP
+
+//坂の途中、立ち止まる。
+Midway through a hill, I come to a halt.
+TP
+
+//道の脇にある雑木林。
+On the side of the road there is a grove of trees.
+//It's the one Nanaka forcefully "bumps" him into. Look below. -GHS
+TP
+
+//思い出す。
+I remember.
+TP
+
+//思い出す……。
+I remember...
+TP
+
+//GL 0 bgcc0005s
+//GS 0 1
+//SEF 10 1
+
+WVP 3 se001 0 0 1
+
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0005s
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+
+
+//新川豊が雑木林を眺めていた。
+Shinkawa Yutaka was gazing lost at a grove of trees.
+TP
+
+//俺はそんな新川のもとに近寄り、声をかける。
+As I was drawing nearer to Shinkawa as he was, I called out to him.
+//"as I came closer to him" + "as I was beginning to understand who he was". Shinkawa's remembering, by the way, and see below for how Taichi also does. -GHS
+TP
+
+//太一「どうした？」
+Taichi: "What is it?"
+TP
+
+//新川は汗をかいていた。
+Shinkawa was sweating.
+TP
+
+//見るからに夏の汗ではない。
+On closer look, that's not the sweat of the heat of Summer.
+TP
+
+//よろと後ずさる。
+He staggers back, unsteady.
+//Towards the road. -GHS
+TP
+
+//車が来た。
+A car came.
+TP
+
+//太一「新川！」
+Taichi: "SHINKAWA!"
+TP
+
+WVP 2 SE055 1 0
+//Check out the auditory hallucination this comes with! -GHS
+//新川は轢かれて死んだ。それは俺のトラウマになった。
+Shinkawa is struck, tumbles down and dies. That was the origin of my psychological trauma.
+//轢 is almost always used for "run over by a car"... but it more literally mean "be knocked down with force, as with a vehicle". Which is what happened to Shinkawa: he was pushed down stairs by Taichi during the Mansion Massacre, which is also the origin of his trauma (see CCD5001, he uses the exact same word to describe that event so there's no doubt to what he's referring to). This sentence would be perfectly true... -GHS
+TP
+
+
+//……などということはなく、
+...and all other things of that sort that didn't happen.
+//...except for Shinkawa actually dying. With this denial, not a single lie was expressed in these last two sentences, and removing them would only subtract information from the story. Even though said information is pretty much impossible to see without extreme care. Oh well. -GHS
+TP
+
+//太一「あ、田崎商店のデコ軽トラだ」
+Taichi: "Ah, it's the Tasaki Store's decorated company truck."
+//Seems to mean it has a logo, but given below it's probably closer to some gaudy graffitied mess. As expectable of an ex-thug. -GHS
+TP
+
+//ド派手なソイツが、時速三十キロでゆっくりと通り過ぎていく。
+That hideously flashy thing passes us by at the leisurely speed of about thirty kilometers an hour.
+//That'd still kill you if he doesn't brake. -GHS
+TP
+
+//福顔のオヤジが、俺に向かって『いつもありがと～』と手を振った。
+That smiling guy waved a 'thank you for everythi～ng' towards me and waved his hand.
+//See CCA0004. Tanaka generally avoids having unvoiced characters have actual lines, although that'll become sorta awkward at times... like here. -GHS
+TP
+
+//俺はお得意様だから。
+Because I am quite the profitable customer.
+//Should still have money now. -GHS
+TP
+
+//振り返した。
+I returned the gesture.
+TP
+
+//太一「昭和時代のマニアックな飲料水の入荷、いつもありがとー！」
+Taichi: "Thank you for always stocking up on soft drinks for us Showa era fanatiiics!"
+//I'm guessing he's using 飲料水 like this, because if they said there's a specific type of drinkable water aimed at Showa era fanatics I wouldn't bat an eye in disbelief. A pox on all your houses, Japan. -GHS
+TP
+
+//360 edition: "I'm not gonna touch on them because of copyright, but..." -GHS
+
+//アン○サ。
+Am*sa
+//This one was tough, but via the most sophisticated means of research known to mankind (chucking random katakana in the empty spot until something googles), I found it: http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%90%E3%82%B5 -GHS
+TL
+//メ○ーイエロー。
+Me**o Yello.
+//Official rom, er, lomanization http://ameblo.jp/sunny1snowy/entry-10939170733.html -GHS
+TL
+//ネーポ○。
+Neepo*.
+//http://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%BC%E3%83%9D%E3%83%B3 -GHS
+TL
+//胡椒警部。
+Inspector Pepper.
+//~Useless Factoid time~ the word 胡椒医者 on which this pun is based is composed of 胡椒=pepper (as in vs. salt) + 医者=MD. And it does GIS to the actual Dr. Pepper drink. -GHS
+TL
+//ゲータ○ード。
+Gato**de
+TP
+//HACK doing my usual zomg leipu of the original material by putting these all on the same page (they don't appear in any console version). -GHS
+
+//伝説のソフトドリンクたち。
+Legendary soft drink-tachi.
+//Intentionally silly. This is Taichi sidetracking into weird to avoid dealing with Shinkawa, whom he long recognized even if he hasn't realized it yet at this point. -GHS
+TP
+
+//元鉄オタだからビジネスもマニアックなのだろうか。
+He's a former railway otaku, so that's likely why he's equally fanatical about his business.
+TP
+
+//どうやって入荷しているのかは知らない。
+How exactly he manages to get them in stock I don't know.
+//see CCC0009. Hmmm. -GHS
+TP
+
+//とにかく新川は死ななかった。
+Anyway, Shinkawa hadn't died.
+//Still no lies. -GHS
+TP
+
+//ピンピンしてる。
+He was happy and lively.
+//Focusing on happiness. That's what pisses him off about Shinkawa. -GHS
+TP
+
+//太一「今おまえは生死の境を彷徨った。俺がこうしてがっしと腕をキャッチしなかったら、その灰色の脳細胞はアスファルトの上でグロ画像になっていただろう」
+Taichi: "You've wandered into the boundary between life and death right then. If I hadn't gone and caught your arm, those gray brain cells of yours would've become a Guro Scene over the asphalt."
+//I decline responsibility to anyone who decides to GIS グロ画像 with safe search off without knowing what's gonna come up. -GHS
+TP
+
+//新川は震えていた。
+Shinkawa was shaking.
+TP
+
+//太一「新川？」
+Taichi: "Shinkawa?"
+TP
+
+GL 1 TCSY0002s
+GP 1 180 0
+GI 1 1
+
+WVP 0 vmCCC3003shi000
+//新川「あ……悪い」
+Shinkawa: "Ah... my bad."
+//See CCA0011C. -GHS
+TP
+
+//我に返る。
+He returns to his senses.
+//He had gotten kidnapped by paramnesia as well, and had gotten in his own flashback, perhaps even his delusional world. He acts exactly like Taichi. -GHS
+TP
+GL 1 TCSY0000s
+GI 1 0
+WVP 0 vmCCC3003shi001
+//新川「なんか……雑木林の奥とか見てたら……すげぇ気分悪くなってきて……昔から、そうなんだけどさ……わけ、わかんねぇんだけど……」
+Shinkawa: "It's jus'... when I look like deep in the trees... I get this really bad feelin' and stuff... it's been like that since a long time ago... why, I totally dun'no tho..."
+//See CCA0011C. That was 'zutto mae', this now is 昔 mukashi. It still means the same event, meaning that Taichi now is much further from those memories than he was back then. Time is passing whether he wants it or not. Maybe that's why these are sepia and those aren't... -GHS
+TP
+
+//顔を手で覆って、立ちくらみに戸惑うように、しばし。
+He covers his face with his hand, as if puzzled by his own dizziness, for a time.
+TP
+
+//青い空を見あげて、喘ぐように息を吐いた。
+He then looked up at the blue sky, gasping as if pained.
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+GL 5 zzzblackblend
+GP 5 0 0
+GI 5 1
+//HACK dim screen -GHS
+
+WVP 0 vmcca0011bshi018
+//新川『俺、足が片方あんま動かなくてさ』
+Shinkawa: 『Me, I can't really move one of my legs.』
+TP
+
+GO 5 1
+//HACK return -GHS
+
+//外障だと思っていた。
+I had thought he was External Damage.
+//His Ultramarine -GHS
+TP
+
+//群青にも少数ながら、外部障害保持者を受け入れる枠はあったから。
+While in Gunjou they were a minority, there was a minimum quota of Persons Operating with External Impediments.
+//Ugh, PC. -GHS
+TP
+
+//けど豊は内障……内部障害だったのかも知れない。今にして思えば。
+But could Yutaka have been Internal Damage... Operating with Internal Impediment. Maybe. In retrospect,
+//Nickname vs. PC term -GHS
+TP
+
+//森の中。
+in the middle of the woods,
+TP
+
+//木々に囲まれた閉鎖空間。
+in a sealed space surrounded by trees,
+//Specific term used for the Hasekura mansion and not just. -GHS
+TP
+
+//俺も苦手だった。
+I would also have felt ill at ease.
+//Contrast the hokora. While Nanaka zubaaans him into the trees, she leads him to the hokora. -GHS
+TP
+//>　　　　　　　　　　　　うが
+//昔、心に傷を穿つ出来事があった。
+A long time ago, there had been an event that had drilled a wound upon my heart.
+TP
+
+//新川の気持ちを、だから俺は少し理解することができた。
+And I could, therefore, manage to comprehend Shinkawa's feelings a little.
+//Of course he can, since the two events coincide. The troll is just so damn obvious in retrospect. -GHS
+TP
+
+//GL 0 bgcc0000d
+//GS 0 1
+//GS 1 0
+//SEF 109 0
+//WVS 1 1
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+//HACK flashback exit whiteout -GHS
+
+WVS 3 1
+
+RET

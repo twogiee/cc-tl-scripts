@@ -1,0 +1,129 @@
+//Key: 43 52 142. -GHS
+
+
+CSQ 0 1 1 1 1 1
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+
+IF $B != 3 RET
+
+CSQ 0 1 1 1 1 1
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+
+IF $B != 5 RET
+
+CSQ 0 1 1 1 1 1
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+
+IF $B != 2 RET
+
+CSQ 0 1 1 1 1 1
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+
+IF $B != 1 RET
+CSQ 0 1 1 1 1 1
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+
+IF $B != 4 RET
+
+CSQ 0 1 1 1 1 1
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+
+IF $B != 2 RET
+
+
+
+
+:SECRETMENU
+WVS 1 0
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+GP 0 0 0
+GP 1 0 0
+GP 2 0 0
+GP 3 0 0
+GP 4 0 0
+GP 5 0 0
+SEF 100 0
+TWS 0
+
+CSQ 1 1 1 1 1
+Welcome to the Easter Egg menu!
+- Trial Edition End Video
+- Deleted Scenes
+- View patch-only graphics
+- Back to game
+
+IF $B == 1 JMP TRIAL
+IF $B == 2 JMP DELSCENES
+IF $B == 3 JMP GRAPHICS
+IF $B == 4 JMP RETURN
+
+
+:TRIAL
+CALL ndemo0004
+JMP SECRETMENU
+
+:DELSCENES
+
+CALL makepwin
+JMP SECRETMENU
+
+:GRAPHICS
+
+CALL makefwin
+JMP SECRETMENU
+
+
+
+
+:RETURN
+
+TWS 0
+WVS 1 0
+WVS 2 0
+WVS 3 0
+WVP 1 bgm002.ogg 0 0 0
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+GP 0 0 0
+GP 1 0 0
+GP 2 0 0
+GP 3 0 0
+GP 4 0 0
+GP 5 0 0
+SEF 109 0
+
+RET

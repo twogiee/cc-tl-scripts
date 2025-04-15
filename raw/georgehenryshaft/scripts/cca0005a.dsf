@@ -1,0 +1,170 @@
+
+
+
+
+
+
+
+//この時間だったら、朝練をやっているはずだ。
+At this early hour it's expected for morning practice to be in session.
+TP
+
+
+//文化系で朝練というのもアレだが。
+There's also something of a morning practice for a cultural club, however.
+//Yes, Misato's up at the antenna, but see CCC3004: the Broadcast Club is nominally a sports club, but there's meaning to this as social practice. Given some of Misato's mutterings in CCA0015B, it seems she knows, at least. And if so, it would explain why the choices appear reversed here. -GHS
+TP
+
+
+//太一「ちょっと屋上に行ってくる」
+Taichi: "I'll be going to the rooftop for a bit."
+TP
+
+
+//太一「場合によってはサボリ。担任が来たら、代返よろしく」
+Taichi: "Depending on how it goes I'll cut. If the homeroom teacher comes around, please answer roll call in my stead."
+TP
+
+
+//冬子は鼻で笑った。
+Touko made a scornful snort.
+TP
+
+
+//俺を露骨に見下せると思ったのか。
+Does she think she can just look down on me so conspicuously?
+TP
+
+
+//こういうところが、甘いと思う。
+That part of her I think naive,
+TP
+
+
+//無視は無視で徹するべきなのに。
+because ignoring means pouring heart and soul into ignoring:
+TP
+
+
+//相手の価値を減じるため、歯牙にもかけずに空気のごとく素知らぬ顔で居続けるべきなのだ。
+to remove value from the interlocutor one ought stand firm on a feigning of ignorance that fields no fangs, as if confronted by empty air.
+//"She's not tsun enough". That's his complaint with Touko, his interpretative error, and his error in general: thinking people can be perfectly alone and independent. -GHS
+TP
+
+
+//心組みに攻撃性が足りない。２５てん。
+The heart-felt intentionality of this aggression is inadequate. 25 points.
+//2+5=7 -GHS
+TP
+
+
+//引いては、彼女の俺に対する立場を示唆してしまっている。
+And when it happens, it ends up implying her position in my regards.
+TP
+
+
+WVP 0 vfcca0005afyu000
+//冬子「……代返？　なにを寝ぼけたことを」
+Touko: "...in your stead? What's that sleeptalk now."
+//She won't do it because he's Taichi or there's no teachers coming: lack of mankind, opening day so they're all out at the ceremony, this being Class X... it's a Choose Your Interpretation here. -GHS
+TP
+
+
+//太一「前向きなだけ」
+Taichi: "I'm only being proactive."
+TP
+
+
+//平素に返して、廊下に向かう。
+I give my regular reply, and move towards the corridor.
+//The other is the irregular one. -GHS
+TP
+
+
+//太一「君よりも」
+Taichi: "More than you are."
+TP
+
+
+WVP 0 vfcca0005afyu001
+//冬子「よく言う……」
+Touko: "Look who's talking..."
+TP
+
+
+//だが冬子は、それっきり言葉を押し出せない。
+ANd yet, Touko does not push out one more word after that.
+TP
+
+
+//腰を浮かせてこちらを睨みつけているが、視線も彷徨いがち。
+Half-standing from the seat she sends a glare towards me, but even that was just a wandering gaze.
+TP
+
+
+//太一「気が向いたら参加しなよ、部活」
+Taichi: "If you get in the mood, come participate to club."
+TP
+
+
+WVP 0 vfcca0005afyu002
+//冬子「…………」
+Touko: "......"
+TP
+
+
+//親の敵を見る目つき。
+She looks at me as if she's seeing the enemy of her entire family.
+//See CCD2002 -GHS
+TP
+
+
+//これ以上は、不和しか生むまい。
+Anything more will likely only breed discord.
+TP
+
+
+//黙って教室を出る……のはやめて、いらぬ一言。
+Exit the classroom in silence... I don't, and add one unneeded thing.
+//Canot' hold himself back. -GHS
+TP
+
+
+//太一「マジ愛してるから」
+Taichi: "Because I seriously love you."
+//should connect to 'please participate' above. -GHS
+TP
+
+WVP 2 se007 1 0
+
+//教科書（持ってる）が飛んできた。
+The textbook (she had it) flew my way.
+//Quite an important detail on rereading. -GHS
+TP
+WVS 2 0
+//太一「おっと」
+Taichi: "Whoopsie!"
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+GS 2 0
+WVP 2 se008 1 0
+SEF 152 0
+//扉を閉めて楯にする。
+I close the door, making it into a shield.
+TP
+WVS 1 1
+
+
+//わはは……人間関係って難しい。
+Wahahah... human relations are hard!
+TP
+WT 500 0
+WT 500 1
+
+
+
+
+RET

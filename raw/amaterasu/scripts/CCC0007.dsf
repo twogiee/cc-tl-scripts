@@ -1,0 +1,887 @@
+
+GL 0 bgcc0005
+GL 5 bgcc0016
+GI 5 0
+GS 5 0
+GS 0 1
+SEF 109 0
+
+The hokora......
+TP
+
+WVP 1 bgm018.ogg 0 0 0
+
+I twisted away from the will of mine that said, 'Go to school anyway.'
+TP
+
+I can do that fairly well, can't I?
+TP
+
+I think people have countless possibilities.
+TP
+
+But, for the most part, they're just controlled by their individuality.
+TP
+
+People will generally make the same choices.
+TP
+
+But,
+TP
+
+When you repeat the same situation hundreds of times, wouldn't probability demand that you do something extravagant?
+TP
+
+That's what I thought.
+TP
+
+I was trying to do something extravagant.
+TP
+GL 0 bgcc0015
+GS 0 1
+GS 1 0
+SEF 152 0
+
+I'd passed through here yesterday.
+TP
+
+Alongside despair.
+TP
+
+And now, I was climbing the mountain once again.
+TP
+
+To go to the hokora.
+TP
+
+I had no real objective.
+TP
+
+You could say going to the hokora was the objective.
+TP
+
+That girl......she said she was Nanaka?
+TP
+
+The reason why she pointed me this way.
+TP
+
+I had a feeling I could find it.
+TP
+
+
+
+It had been a while since people had passed through here.
+TP
+
+The path to the shrine was covered in undergrowth, and I couldn't find it.
+TP
+
+I continued on, relying on intuition.
+TP
+
+Not long after,
+TP
+
+GL 0 bgcc0016
+GS 0 1
+SEF 152 0
+
+Taichi: "There it is."
+TP
+
+I said aloud.
+TP
+
+All noise vanished from the world, along with the presences of various living things (just humans?).
+TP
+
+But the area around the hokora was silent.
+TP
+
+A solemn atmosphere.
+TP
+
+Even the air temperature felt lower.
+TP
+
+The stress from the solitude made my throat dry.
+TP
+
+I got the feeling that I shouldn't make any noise.
+TP
+
+I approached the hokora.
+TP
+
+Taichi: "......"
+TP
+
+There was clearly...
+TP
+
+Something strange about it...
+//Mixed this line and the previous line together for effect - Sheeta
+TP
+
+I couldn't put my finger on it, but...
+//'concretely indicate' was as awkward as hell, but I couldn't think of anything to replace it - Sheeta
+TP
+
+This place was strange.
+TP
+
+Something deeper than rationality told me that.
+TP
+
+Even if it was strange, it didn't seem dangerous.
+TP
+
+I stared, observing the hokora.
+TP
+
+It was a small Shinto shrine set atop a high platform.
+TP
+
+It had a pair of double doors.
+TP
+
+And it was sealed with shimenawa.
+IF $tlnote != 0 (TL note: "Shimenawa" are lengths of rice straw rope used for ritual purification and warding against evil in the Shinto religion. They're commonly seen at shrines, gates and other landmarks.)
+TP
+
+I had to see what was inside.
+TP
+
+There was a possibility that some strange monster was sealed away in there.
+TP
+
+Well, I'm not so sure about that......
+TP
+
+Now that it was common knowledge that the 21st century had rejected the next century by annihilating humanity, I felt, without any basis, that the hokora couldn't be that plain.
+//I'm thinking about removing that second "century" for a better effect but that doesn't sounds exactly right. What do you think? -Spin
+TP
+
+I put my hands on the doors,
+TP
+
+And opened them.
+TP
+
+Taichi: "......this is..."
+TP
+
+I was surprised.
+TP
+
+In the dim, undecorated space, there were no monsters or bottles or daggers or crystal balls......
+TP
+
+Just a pile of notebooks.
+TP
+
+IF $roop == 2 JMP LNOTE5
+IF $roop == 3 JMP LNOTE6
+JMP LNOTE6
+
+:LNOTE5
+Five of them.
+TP
+JMP LNOTE_E
+
+:LNOTE6
+Six of them.
+TP
+JMP LNOTE_E
+//If it isn't obvious, which of these two lines you get depends on whether or not you've repeated ccc at least once.
+
+:LNOTE_E
+Without discrepancy, they were student notebooks.
+// Indiscrepancy is not a word
+TP
+
+It seemed like a total mismatch.
+TP
+
+And it took me by surprise.
+TP
+
+Taichi: "......not bad."
+TP
+
+I don't know who'd done it though.
+TP
+
+I took out a notebook.
+TP
+
+The covers were featureless, but they did have numbers written on them in magic marker.
+TP
+
+Volume numbers.
+TP
+
+I tried opening the notebook titled '1'.
+TP
+
+
+......
+TP
+
+............
+TP
+
+........................
+TP
+
+
+Monday
+
+I went to school today, but I cut class.
+//PCP_S These first four lines were together back in cca0012.
+TP
+
+Touko was especially harsh today.
+TP
+
+Must be biological.
+TP
+
+But I can't strike at her just because of her biology.
+TP
+
+Instead, I'll do horrible things to her in this diary.
+TP
+
+
+Touko: "No! Stop!"
+TP
+
+Me: "Heheh, even if you claim to hate it, your body is perfectly honest. (paraphrased)"
+TP
+
+Touko: "Ah! That's... no, stop it, stop it!"
+TP
+
+Me: "Impossible! No man can pull back after coming this far! My rifle of pride has no choice now but to lock on to a target such as yourself!"
+TP
+
+Touko: "Noooo! My body, not my bodyyy!!"
+TP
+
+Me: "In time, you will come to desire this yourself."
+TP
+
+Touko: "No, have mercy!!"
+TP
+WVP 2 SE084 1 0
+
+Me: "You think I'll listen to such pleas?! Doooryaaa!!"
+TP
+WVP 2 SE084 1 0
+
+Touko: "......you beast!!!"
+TP
+
+WVP 2 SE084 1 0
+
+Here I raised up the vase holding its red rose.
+At last the flower's stalk snapped, and fell silently.
+The screen blurs. Whiteout.
+ÅyFinÅz
+TP
+
+
+WVP 2 SE084 1 0
+
+As I walked down the hallway, Miki was doing some cleaning.
+TP
+WVP 2 SE084 1 0
+
+My hand shot like lightning, aimed at Miki's butt, yet I merely grazed her, failing to grasp her body.
+Until now, Miki's always been sluggish and easy to touch.
+This is a grave situation, Mr. Principal!
+TP
+WVP 2 SE084 1 0
+
+But seeing my pupil become more skilled does make me happy.
+The day she'll surpass her master draws near.
+TP
+WVP 2 SE084 1 0
+
+
+I went to club for the first time in a while, and Mimi-sempai was quite fluffy.
+Today, I reached a milestone.
+I'm greatly moved.
+TP
+WVP 2 SE084 1 0
+
+
+A lot of other stuff happened, too, but overall it was a good day.
+//CP_F
+TP
+
+
+Taichi: "This is......"
+TP
+
+My diary.
+TP
+I flipped through the following pages.
+TP
+
+Monday. Tuesday. Wednesday.
+TP
+
+Without any doubt, it's a diary.
+TP
+
+But,
+TP
+
+Taichi: "That's strange."
+TP
+
+The next page,
+TP
+
+Tuesday.
+TP
+
+WVP 2 SE084 1 0
+
+Objectify your emotions!
+Who was the one who stuffed curry into the bread in the first place?
+//CP_F cca0015 or ccb1005, take your pick. Also I'll stop pointing out random line splits and merges.
+TP
+WVP 2 SE084 1 0
+
+That question has always tormissed me. 
+*tormiss = Taichi's typo. A theoretical error in which he tied the meaning of "torment" to the connotation of "misplace."
+TP
+WVP 2 SE084 1 0
+
+In the same way, Taichi mistakenly thought that turtlenecks were 'totalnecks' because they totally cover his neck.
+TP
+WVP 2 SE084 1 0
+
+
+But going belly and forth in search of an answer will only leave me with a hollow feeling at the end of the day.
+*belly = Taichi's typo
+TP
+WVP 2 SE084 1 0
+
+Baudelaire once said:
+TP
+WVP 2 SE084 1 0
+
+ÅwGod is dead.Åx
+TP
+WVP 2 SE084 1 0
+
+It may be easy to doubt the existence of a god, but for those who never give his existence a second thought, and believe life is a straight line laid out for them every day, he'll suddenly profit forks in their paths.  
+*profit = Taichi's typo of 'prepare'
+TP
+WVP 2 SE084 1 0
+
+For ex{ae}mple, the time to roll out a hairless conversation with an obstinate woman.
+*hairless = confused with 'profitless'
+TP
+WVP 2 SE084 1 0
+
+For ex{ae}mple, the time I met with a good friend of mine and an estranged friend of mine at the same moment.
+TP
+WVP 2 SE084 1 0
+
+And the time those two rebuilt a friendly relationship between themselves.
+TP
+WVP 2 SE084 1 0
+
+Regarding either one of them, I'd Å~Å~Å~ until I couldn't not feel the towering will to Å~Å~Å~Å~ them both equally with the mysterious Å~Å~Å~ near her nose and mouth Å~Å~Å~Å~ when I would, along with priceless love--
+TP
+WVP 2 SE084 1 0
+
+
+The Å~Å~Å~ which was Å~Å~Å~Å~ as it did Å~Å~Å~ it would Å~Å~Å~Å~ Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~ but Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~Å~.
+TP
+WVP 2 SE084 1 0
+
+ÅwWhat we cannot talk about we must pass over in silence.Åx
+These are Kierkegaard's famous words.
+TP
+WVP 2 SE084 1 0
+
+I will now leave the subject of Kiri-jou's elegant androgyny and my just passion toward her.
+TP
+WVP 2 SE084 1 0
+
+For that is not the only pleasure in life.
+TP
+WVP 2 SE084 1 0
+
+Yes.
+TP
+WVP 2 SE084 1 0
+
+The Sempai of my life whom I met on the roof, with her maternal open-mindedness and loving affection. No matter how much I wrote about Misato-jou, the bling would never end.
+*bling = Taichi's typo for 'bliss'
+TP
+WVP 2 SE084 1 0
+
+First, there are her indescribable thighs, which were (censored).
+TP
+WVP 2 SE084 1 0
+
+And in my hands, there remained the bra which was once attached to her body.
+TP
+WVP 2 SE084 1 0
+
+When I breathed through it, though it had already lost its body heat, the girl's faint smell took me away to yet another strong delusional delusion.
+~FIN~
+TP
+
+That's unmistakably my norm.
+TP
+
+But isn't this strange?
+TP
+
+I should remember what I wrote in my own diary.
+TP
+
+I definitely wrote in it from time to time......
+TP
+
+Taichi: "......that's not it."
+TP
+
+It's not in my memory at all.
+TP
+
+What's written in here are occurrences entirely outside of my memory.
+TP
+
+By the way, it's not amnesia.
+TP
+
+In fact I'm the type to remember needless details.
+TP
+
+I'm a memory hunter that would definitely never forget something like making marriage vows with a childhood friend, or being given truth serum by an enemy and crippled on the way to my dream job.
+//For some reason I can't think of the right way to say "made disabled" right now. Å`IX
+TP
+
+Well, the strength of my memory is good.
+TP
+
+Speaking of things outside of my memory......there is the scene of my own birth.
+TP
+
+Taichi: "Wahaha (alol)."
+//Please, no one tell me they already forgot what "alol" meant. Å`IX
+TP
+
+The now-annihilated Americans would find delight in that.
+TP
+
+Now then,
+TP
+
+I'll continue reading.
+TP
+
+Wednesday.
+TP
+WVP 2 SE084 1 0
+
+
+
+
+
+Hmph. Next.
+TP
+WVP 2 SE084 1 0
+
+Thursday.
+TP
+WVP 2 SE084 1 0
+
+
+
+
+
+And then Friday.
+TP
+WVP 2 SE084 1 0
+
+
+Today we went to the beach.
+The beach we all went to last year.
+This year it was pretty lonely.
+TP
+WVP 2 SE084 1 0
+
+It may have been awkward, but last year I believed we could touch and learn from each other.
+TP
+WVP 2 SE084 1 0
+
+It made me remember so many fun times.
+Just one year has passed since then, and we're all estranged now.
+We've lost all mutual concern.
+Because so many things happened.
+TP
+WVP 2 SE084 1 0
+
+But, that's not the only reason.
+TP
+WVP 2 SE084 1 0
+
+......there was a problem, in our hearts.
+TP
+WVP 2 SE084 1 0
+
+And now, we're the only ones in the world.
+What's with this ironic composition?
+TP
+WVP 2 SE084 1 0
+
+
+That night, Misato-sempai came to check up on me.
+TP
+WVP 2 SE084 1 0
+
+For no real reason, I remembered the words of that Nanaka girl and went to see the hokora.
+TP
+WVP 2 SE084 1 0
+
+I can get more done at night.
+My body's weird.
+TP
+
+WVP 2 SE084 1 0
+
+There were many questions.
+But my thoughts wouldn't stop.
+Despite Nanaka's enigmatic suggestion, I sensed no abnormality from the hokora.
+TP
+WVP 2 SE084 1 0
+
+There was just one piece of paper in there.
+A note from Youko-chan.
+The paper was new.
+TP
+
+
+
+ÅwSave all your records in here.Åx
+TP
+WVP 2 SE084 1 0
+
+
+As is always the case with her, there was no explanation for the reason.
+TP
+WVP 2 SE084 1 0
+
+Because she is mostly complete as a human, she doesn't need to communicate her intent to other people.
+As a result, she tends to remove excess words taciturnly and with poor speaking skills.
+Often, she removes too much and doesn't make any sense.
+TP
+WVP 2 SE084 1 0
+
+But, there is no mistake in what she says.
+I should do just that.
+I returned to my house, and brought my diary here.
+TP
+WVP 2 SE084 1 0
+
+
+That's why this will be my last diary entry.
+TP
+
+
+
+
+The first notebook ended there.
+TP
+
+In the second,
+TP
+
+The content was nearly the same.
+TP
+
+Casual days starting on Monday.
+TP
+
+And on Saturday, to the hokora.
+TP
+
+The third. The fourth. The fifth.
+TP
+
+They all repeated.
+TP
+
+The content did differ in places.
+TP
+For instance, the timing of when I met with The Flowers, or my correspondence with Touko or Mimi-sempai.
+TP
+
+But overall, it looked like exactly the same week was being traced out repeatedly.
+TP
+
+Almost as if, I'd repeated the same period of time several times over......
+TP
+
+Thinking calmly, there are a few possibilities these diaries could be showing.
+TP
+
+
+1) I had another personality that wrote them.
+TP
+
+
+2) Stuff I write in the future shows up here.
+TP
+
+
+3) I was repeating the same period of time over and over.
+TP
+
+
+The first isn't true. I can guarantee that.
+TP
+
+Even if you give a monkey a typewriter, it won't coincidentally write up a copy of Shakespeare.
+TP
+
+Thinking realistically, number two couldn't be it either.
+TP
+
+Three...
+TP
+
+At the very least, that's the possibility that these five diaries were showing me. 
+TP
+
+The memo mentioned earlier was inserted inside the first notebook.
+TP
+
+A very old memo.
+TP
+
+It looked like it had been written years ago.
+TP
+
+All my records......huh...
+TP
+
+Well, she means diaries.
+TP
+
+Now, why would I have to do that?
+TP
+
+The diaries all basically stop recording after Friday.
+TP
+
+Though the fourth made an exception by continuing onto Saturday.
+TP
+
+In other words, something happens after Saturday, so that in the end, I'm being forced to redo everything from the beginning.
+TP
+
+Was the restart point Monday? It could also be Sunday.
+TP
+
+Since on Sunday I was feeling bad and didn't write in my diary.
+TP
+
+Most likely, I was taking the same actions in many possibilities.
+TP
+
+No, wait a minute.
+TP
+
+Taichi: "The world is repeating itself?"
+TP
+
+That's extraordinary.
+TP
+
+But, right now......
+TP
+
+I should avoid jumping to conclusions.
+TP
+
+A conclusion is reminiscence from the terminal point.
+TP
+
+It's no more than a process of reaching a decision after some process.
+TP
+
+Here, there's a high probability that I......no, that the world itself is looping the same week ad infinitum.
+TP
+
+And I'll stop thinking right there.
+TP
+
+There seem to be rules to this loop.
+TP
+
+Which include......the erasure of subjective memory.
+TP
+
+After the diaries cut off, the world should have Åwrolled backÅx at least five times.
+TP
+
+At the same time, my memory was also being completely rolled back.
+TP
+
+This produced a decision.
+//What does he mean by 'decision'? - Sheeta
+TP
+
+There are no deficits or obscurities within my memory.
+//I'll let someone else find a real word meaning "unclarity" for me. Å`IX
+//Tried 'obscurities' - Sheeta
+TP
+
+Since Youko-chan is a kunoichi, it's no surprise that she realized this truth so quickly.
+TP
+
+And then left a memo for me.
+TP
+
+For some reason.
+TP
+
+That means Youko-chan also loses her memory along with the rollback---
+TP
+
+I could extend this to say that all the others were the same.
+TP
+
+Mimi-sempai, Touko, Miki and Kiri, Sakuraba, Tomoki......
+TP
+
+Taichi: "That's right."
+TP
+
+I'd come to understand the trouble of our present situation.
+TP
+
+My memory was being reset.
+TP
+
+In other words,
+TP
+
+Even the memory of arriving at the true state of affairs this way is reset by the end of the week.
+TP
+
+Next week (literally), I'll be back to living through Monday without any doubts.
+TP
+
+I arrived at the truth again only because of being coincidentally guided to this hokora......
+TP
+
+Taichi: "......uwa."
+TP
+
+In such a situation, I'd have to furiously shoot a gun repeatedly and unskillfully.
+//I believe he's referring to venting anger, though it's extremely unclear in English for some reason. Å`IX
+TP
+
+I was quite unnerved.
+TP
+
+There's one other rule as well.
+TP
+
+Which is, that this hokora somehow avoids being affected by the loop.
+TP
+
+As long as I'm in this place, subjective time is preserved.
+TP
+
+Taichi: "......Youko-chan, how did you find this out?"
+TP
+
+I could understand it if the notebooks were there.
+TP
+
+But with nothing in there, how could one see through the peculiarity of this hokora?
+TP
+
+I didn't think it could be discovered with the abilities of the average person.
+TP
+
+Then again, she's nothing like a normal person.
+TP
+
+Taichi: "Youko-chan...maybe she could......"
+TP
+
+It did seem like she was investigating a lot right now.
+TP
+
+Taichi: "Still,"
+TP
+
+While entering the hokora, I thought.
+TP
+
+Cramped.
+TP
+
+Without folding up my arms and legs like a shape-changing robot, I couldn't win the invasion.
+TP
+
+Who or what is that Nanaka girl anyway?
+TP
+
+Taichi: "Hmmm."
+TP
+
+I had virtually nothing to go on.
+TP
+
+She seems cheerful, wears a different uniform, rides a bicycle, has long legs, tight haunches, a bust far beyond the average value of her tight clothing......
+TP
+
+Taichi: "Ah! Unacceptable."
+TP
+
+My volume increased.
+TP
+
+If I increased this much, won't I become unable to enter the hokora!?
+TP
+
+Or so I thought, but I managed to slide right in.
+TP
+
+Taichi: ......*sob* *sob* *sob*
+//Multiple onomatopoeia
+TP
+
+I'd gotten in, but I couldn't move my body around much.
+TP
+
+I was enveloped with the sensation of becoming a rectangular parallelepiped.
+//Yes, that is different from a rectangular prism. Å`IX
+TP
+
+I tried closing the door.
+TP
+
+Taichi: "Perfect."
+TP
+
+What's perfect?
+TP
+RET
+

@@ -1,0 +1,38 @@
+
+WVP 1 bgm002.ogg 0 0 0
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+WT 500 0
+
+GL 0 bgcc0006
+GS 1 0
+GS 0 1
+SEF 152 0
+
+WT 500 0
+
+GL 0 evcc0011a
+GS 1 0
+GS 0 1
+SEF 155 0
+
+
+Touko's not here.
+TP
+
+
+Taichi: "......that's right."
+TP
+
+
+She's often emaciating in her own house around this time.
+TP
+
+CSQ 0 1 1 1
+  -Roof
+  -Touko's house
+  -First year classroom
+RET

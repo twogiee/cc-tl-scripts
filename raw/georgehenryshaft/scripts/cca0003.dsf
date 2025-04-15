@@ -1,0 +1,1482 @@
+
+TS 2
+GL 0 bgcc0002
+GS 0 1
+SEF 109 1
+TWS 0
+//TS 0
+//HACK back to ADV mode -GHS
+
+
+
+WVP 1 bgm003.ogg 0 0 0
+WT 200
+WT 800 1
+
+
+
+
+
+
+//今日から新学期。
+The new school term starts today.
+TP
+
+
+//女っ気のない当家におきましては、起床→通学過程における萌え要素は皆無ゆえ、いちいち思考をなぞることもなく、さっくり外に出た。
+As waking up in a house with no female presence means the process of Wake Up → Go to School is wholly devoid of that moe factor, I lightly exit to outside without following each thought one by one.
+//"The boring parts were removed". Ironic, giving the very next script. This should remind of CCZAS, particularly. -GHS
+TP
+
+
+//一ヶ月半ぶりの通学。
+Commuting to school after a month and a half.
+//Meaning vacation begins around mid-July, consistent with the 1771 days. -GHS
+TP
+
+
+//いい天気だった。
+Weather was nice.
+TP
+
+
+//まだ九月初頭なのに暑すぎることもない。
+It's still the beginning of September, but it's not excessively hot.
+TP
+
+
+//前髪がかすかにまぶたにかかる。
+My bangs hung hazily in front of my eyelids.
+TP
+
+
+//それだけが少し不快。
+That's the only slight discomfort.
+TP
+
+
+//太一「切っておきたかったなー……」
+Taichi: "Awww, and I wanted to cut 'em..."
+//Implication that there's no barbers anymore. Odd, since this is a dream... is it? -GHS
+TP
+
+
+//鬱陶しい。
+How gloomy.
+TP
+
+
+//色のせいもあるけど、あまり自分の髪は好きじゃない。
+I don't really like my hair, although it's a bit the color's fault.
+TP
+
+
+//太一「はー」
+Taichi: "Sigh..."
+TP
+
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+
+
+//前髪をいじりながら通学路に出た。
+I began on the road to school as I played with my bangs.
+TP
+
+
+//てくてく歩く。
+Trudging along.
+TP
+
+
+//今度誰かに切ってもらうか。
+Should I get someone cut them for me sometime?
+//Possibly Youko, but see CCB2016, Touko will suggest it. -GHS
+TP
+
+
+//うん、そうしよう。
+Yeah, I'll do that.
+TP
+
+WVS 1 1
+
+
+WVP 0 vfcca0003nnk000
+//少女「おいっす」
+Girl: "Oi there!"
+//Notice the sequence: 1) hello -GHS
+TP
+
+
+//太一「ちわっす」
+Taichi: "Yo there."
+TP
+
+WVP 2 se047 1 0
+
+
+GL 0 evcc0003
+$CGevcc0003 = 1
+GS 0 1
+SEF 109 0
+
+
+//自転車に乗った少女が、ごく自然なタイミングで隣に並ぶ。
+A girl riding a bike lined up next to me with quite natural timing.
+TP
+
+
+WVP 1 bgm005.ogg 0 0 0
+
+
+//よたよたと、それでも器用にバランスを取りながら併走。
+She lines up to me with an unsteady yet skilfully kept balance.
+TP
+
+
+
+//徒歩の速度でよくこけないもの。
+That's not something that falls easily to walking speeds.
+TP
+
+
+
+//自転車はいかにも高そうなバイクタイプ。
+The type of bike seems to come with a very high price.
+TP
+//快活そうな彼女には、よく似合ってる。
+It's well suited to a girl that seems to be so lively.
+TP
+
+
+
+WVP 0 vfcca0003nnk001
+//少女「よっと」
+Girl: "Yott'oh!"
+TP
+
+
+
+//軽くウイリーなどしてみせる。
+She makes display of a little wheelie.
+TP
+
+
+
+//あ、パンツ見えた。
+Ah, I saw her panties.
+//2) Reset temporary cache -GHS
+TP
+
+
+
+//白い。白すぎる。
+White. Way too white.
+TP
+
+
+
+//純白だ。
+Pure white.
+TP
+
+
+
+//やっぱ純白ってのがいいなあ。すごくいいなあ。
+Yep, pure white is so goood. So awesooome.
+//Starting to sound out of it. -GHS
+TP
+
+
+
+//もっと見たいなぁ。
+I wanna see mooore.
+TP
+
+
+
+//あ、もう見えないや。
+Ah, I can't see them anymore, no.
+//Those little affectations at the end of sentences are generally irrelevant, except with the Curse of Mikaka, see CCZAS: や ya is 7. -GHS
+TP
+
+
+
+//がっくし。
+Dammit.
+TP
+
+
+
+WVP 0 vfcca0003nnk002
+//少女「ねえ、たいっちゃん裏山って行ったことある？」
+Girl: "Say, Taicchan, you ever been to the forest heart of the mountain?"
+//Despite being written with "rear" and "mountain", "urayama" is not the other side of the mountain, it's the part of the mountain less exposed to light. (Or the mountain behind one's house, but Taichi's house is nowhere near the hokora, despite how in CCZAS... but never mind.) Adapting a bit because "darker parts of the mountain" sounds kinda silly. -GHS
+TP
+
+
+
+//一枚の布きれで男心を見事にくすぐった少女は、首だけでこっちを向いた。
+This girl whose one thin scrap of cloth so magnificently tickled my male spirits turned just her head towards me.
+TP
+
+
+
+//太一「あるよ。こないだまで合宿してた」
+Taichi: "I have. We were having club training camp up until recently."
+//This is a very weird way to say "until yesterday", which suggests something is off with his sense of time right here. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk003
+//少女「夏休み中？」
+Girl: "On your Summer Break?"
+TP
+
+
+
+//太一「そう」
+Taichi: "Yep."
+//How does she not know and why is he unsurprised by this? -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk004
+//少女「……ふーん、それでか」
+Girl: "...uhhh-huh, maybe that's why."
+TP
+
+
+
+//太一「それでって、なにが？」
+Taichi: "That's why, what?"
+//Guessing it's intended to be (mis)read as him having stumbled into the Parallel World there. The real meaning is very different: that was likely when he decided to keep the diaries in the hokora and begin forgetting everything between weeks. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk005
+//少女「いや、あの一帯ってさ、神様がいるんだよね」
+Girl: "Nah, it's just that in that area, there's a god there y'know."
+//3) religious discussion. Keeping it minuscle just because it's the first time, but there's technically no reason to. -GHS
+TP
+
+
+
+//二人はしばし見つめあった。
+Our two gazes locked for a brief moment.
+TP
+
+
+
+//そして突然同時に。
+Then suddenly and simultaneously,
+TP
+
+
+GL 5 zzzNanakaZoom1
+GI 5 1
+//HACK Nanaka zoomed 1 -GHS
+
+
+//太一「わははははは」
+Taichi: "Wahahahahahah!"
+TP
+
+
+
+WVP 0 vfcca0003nnk006
+//少女「あははははは」
+Girl: "Ahahahahahah!"
+TP
+
+GL 5 zzzNanakaZoom2
+GI 5 1
+//HACK Nanaka zoomed 2 -GHS
+
+
+//太一「わはははははははははは」
+Taichi: "Wahahahahahahahahahahah!"
+TP
+
+
+
+WVP 0 vfcca0003nnk007
+//少女「あはははははははははは」
+Girl: "Ahahahahahahahahahahah!"
+//20x'hah', not sure. Uhm, plus her 1 pair of panties...? -GHS
+TP
+
+GO 5 7
+//HACK clock dissolve. -GHS
+
+
+WVP 0 vfcca0003nnk008
+//少女「もんのすごい御利益があるわけさ」
+Girl: "He's got this amazing graciousness, y'know."
+//This should be where the "Tender Grace" music takes its name, but it doesn't quite work here. I'll put it later. -GHS
+TP
+
+
+
+//太一「何事もなく続けないように」
+Taichi: "I wish you wouldn't just go on like nothing happened."
+//Sentences ending in "youni" are typical of Nanaka, there's even more in the censored scenes in the console version. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk009
+//少女「いや、笑いたくなるのはごもっともですよ。あたしだって人からンなこと真顔で言われたら笑うわ」
+Girl: "Naaah, wanting to ridicule it is totally natural. If some guy saidd'at to me with a really straight face I'd laugh too."
+//Said + that. The actress sounds like she's stumbling on that one. -GHS
+TP
+
+
+
+//太一「だから俺を笑かすために真顔だったのだろうに」
+Taichi: "Therefore you just said that to me with a straight face to make me laugh, have you."
+TP
+
+
+
+WVP 0 vfcca0003nnk010
+//少女「そうだけど……でもちょっと真面目な話なんよ、これ」
+Girl: "Right, but... this is still sort of a serious thing, this is."
+//He won't listen to it, though. Few do. So she changes away from explicit references. -GHS
+TP
+
+
+
+//太一「神様が？」
+Taichi: "The god?"
+TP
+
+
+
+WVP 0 vfcca0003nnk011
+//少女「そう」
+Girl: "Yep."
+TP
+
+
+
+//太一「神様って英語で言ったらゴッドなんだぜ？」
+Taichi: "The kind of thing that in English you'd spell G-O-D?"
+//While the Kami in Japan can refer to spirit, in the west "God" is implicitly the Christian one. This is another unsubtle implication that the reference is purely Christian. -GHS
+TP
+
+
+
+//二人はしばし見つめあった。
+Our two gazes locked for a brief moment.
+//CP a bove
+TP
+
+GL 5 zzzNanakaZoom1
+GI 5 1
+//HACK Nanaka zoomed 1 -GHS
+
+
+//太一「わははははは」
+Taichi: "Wahahahahahah!"
+//CP a bove
+TP
+
+
+
+WVP 0 vfcca0003nnk012
+//少女「あははははは」
+Girl: "Ahahahahahah!"
+//CP a bove
+TP
+
+GL 5 zzzNanakaZoom2
+GI 5 1
+//HACK Nanaka zoomed 2 -GHS
+
+
+//太一「わはははははははははは」
+Taichi: "Wahahahahahahahahahahah!"
+//CP a bove
+TP
+
+
+
+WVP 0 vfcca0003nnk013
+//少女「あはははははははははは」
+Girl: "Ahahahahahahahahahahah!"
+//CP a bove
+//Unclear what a 'bove' is, might be a reference of some sort. -GHS
+TP
+
+GO 5 7
+//HACK clock dissolve -GHS
+
+WVP 0 vfcca0003nnk014
+//少女「……話すすまないよぅ（泣）」
+Girl: "...we're talking in circles now (sob)."
+//This one's an adaptation, I admit. -GHS
+TP
+
+
+
+//太一「よしよし、聞いてあげるから。なに、神様がどうしたって？　そもそもそれはどんな神なの？」
+Taichi: "There, there, I'll listen to you then. So, what's it all about with this god? In the first place, which god are we talking about?"
+TP
+
+
+
+WVP 0 vfcca0003nnk015
+//少女「あー、それは七香さんも知らないな」
+Girl: "Ahhh, that, Nanaka-san doesn't know either, no."
+//Nana ka, the literal question "seven?". This may be a "doesn't care" more than a literal doesn't know, but she may also not know exactly what God's all about - she answers his first question alone, see CCC0045A. It's a Biblically correct answer. -GHS
+TP
+
+
+
+//太一「はっ……！？」
+Taichi: "Wha-...?!"
+TP
+
+
+
+//その瞬間、俺はピンと来た。
+In that instant, I knew, instinctively.
+TP
+
+
+
+//太一「おい大発見。漢字で書くよりひらがなで『ななか』って方が萌えないか！？」
+Taichi: "Whoa, grand discovery! If you write the name "Nanaka" in hiragana instead of the kanji for "seven" and "scent", it's way more moe, isn't it?!"
+//The revelation SHOULD be that he recognizes her as his mother, but it's blocked up by Moe Crap(tm). Still, Taichi seems to know how her name is written, which is very odd: either he knows, or he read the screen. Pick your interpretation, really. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk016
+//七香「知ってる」
+Nanaka: "Knew it."
+//More like a "whatevs", but will become literal in CCB0002, and furthering the confusion on that 'know' above. And it won't be the first time. -GHS
+TP
+
+
+
+//しれっと言う。
+So she says all nonchalant.
+TP
+
+
+
+//唐突な路線変更にめげるタイプではないらしい。
+Doesn't seem to be the type that flinches in front of sudden swerves in the train of conversation.
+//Taichi likes to destabilize people with this. It's a pretty common tactic, if an annoying and ultimately cowardly one -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk017
+//七香「ほら、ほこらあるでしょ。ほこら」
+Nanaka: "Ahem, there's a hokora there. Ho-ko-ra!"
+//That ahem could use more 'R's but except for 'arrr' I can't think of anything. -GHS
+TP
+
+
+
+//太一「ホコラってカタカナで書くと感染力の高い病気みたいだよね」
+Taichi: "Writing 'hokora' in Katakana makes it sound like some incredibly epidemic disease, doesn't it."
+//See CCX0001. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk018
+//七香「ほら、ほこらあるでしょ。ほこら」
+Nanaka: "Ahem! There's a hokora there! HO-KO-RA!"
+//Technically copypasta, but since she's angrier... -GHS
+TP
+
+
+
+//二度も乗る気はないらしい。
+Even the second time she seems to have no interested in switching to my track.
+//(Train) riding metaphor, continued. She can't switch track; she's wise to his tricks, and she's a memory. She can't hear him. It's amazing she can do this much. -GHS
+TP
+
+
+
+//太一「林道の脇にある？」
+Taichi: "Is it on the side of the mountain trail?"
+GL 1 bgcc0016
+TP
+GP 1 0 0
+GI 1 0
+GO 1 1
+
+WVP 0 vfcca0003nnk019
+//七香「そーそー」
+Nanaka: "Yeppy yep!"
+//Making these mannerisms stand out as much as possible, because Taichi will be blurting them out copypasta-like at the most unexpected moments. -GHS
+TP
+
+WVP 2 se047 1 0
+WVP 0 vfcca0003nnk020
+//七香「ほっ！」
+Nanaka: "Hop!"
+TP
+WVP 2 se046 1 0
+SEF 101 0
+
+
+
+//自転車が再度ウイリーして、さらに後輪だけで跳ねた。
+Once more the bike popped a wheelie, and this time also a big bunny-hop with the rear wheel.
+//Wheelie+rear-wheel hop. -GHS
+TP
+
+
+
+//何の脈絡もないが、なかなかの技だ。
+It may be out of the context of our talks, but that's still quite an expert trick.
+TP
+
+
+
+//太一「ゴイシャス」
+//※ゴイス（凄い）＋デリシャス
+Taichi: "Gorgicious"
+> 
+ 
+ 
+* Going Suzui! (Gorgeous) + Delicious
+//Speaking of out of context, it's a reference to this Hokkaido broadcast: http://ja.wikipedia.org/wiki/GO%E3%83%BBI%E3%83%BBS this may be nothing, or it may be more, it's also mentioned elsewhere, see CCZRooftop. Unfortunately there's no way to make this google, sorry but there's nothing on this in English that I can find at all. Let's go with just weird. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk021
+//七香「だろー」
+Nanaka: "Innit!"
+TP
+
+
+
+//誇らしげな笑顔。
+With a triumphant smile.
+TP
+
+
+
+//ここだけの話、ちょっと惚れた。
+Just between you and me, that's quite charming.
+TP
+
+
+
+WVP 0 vfcca0003nnk022
+//七香「ほこらの神様ってのが激ゴイシャスでさ」
+Nanaka: "The god of the Hokora is super gorgicious you know."
+TP
+
+
+
+WVP 0 vfcca0003nnk023
+//七香「核戦争がおこっても守ってくれちゃうくらい御利益があるって話だ」
+Nanaka: "They say even if we have a nuclear war, his tender grace is so great that it will totally protect you."
+TP
+
+
+
+//太一「嘘くさー」
+Taichi: "All lieees."
+//Literal because Higurashi reference. -GHS
+TP
+
+
+
+//太一「どんなガン保険も本気を出したガンには無力なもんだよ」
+Taichi: "Even if a cancer insurance gave all it had, it's still powerless in front of cancer!"
+//See CCD5001. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk024
+//七香「いや、論点ずれてるし」
+Nanaka: "No, yer slipping off of the point."
+//The point being that even if you were to die, being in this God's graces would mean you don't actually die. Life after death, even after the end of the world. This is more Christianity. It's interesting to remember the time period in which Narnia takes place: as London was being bombed during WWII. Of course, back then Hitler was a present threat, but here in these eternal late '90s, nuclear war hits closer. -GHS
+TP
+
+
+
+//太一「２１世紀の神様はもっとミニマムかつピンポイントでいいんですよ」
+Taichi: "The god of the 21st century ought be much more minimalist and furthermore given to pin-point accuracy!"
+//Randomly formal (it'll keep happening) -GHS
+TP
+
+
+
+//太一「彼女が自分よりかっこいい男にふたまたかけて肉体関係が発生した時に、携帯メールでそのことをリークしてくれる神様とかね」
+Taichi: "A god who'll snitch to you with a message on your cellphone when your girlfriend two-times you with a guy cooler than you and is about to have a sexual relationship with him."
+//That's not God, that's a frickin' PI. I wonder if there's an anti-calvinist/omnidirigist diatribe buried around here somewhere. The writing on this sentence is particularly and unnecessarily convoluted, and it begins to be evident even in English how overwrought this first week is. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk025
+//七香「それ肯定できちゃうくらい権利意識が細分化してる社会ってのも、末期的だよね」
+Nanaka: "A society with a sense of entitlement so refined that it can assert to something so specific has to be on its death throes."
+//See CCC3025 -GHS
+TP
+
+
+
+//太一「日本は冷静に狂ってるからね」
+Taichi: "Japan is calmly mad, that's why."
+//One of the few explicit references to Japan, oddly enough. Reminder that the disappearance of mankind is also the demographic decline of Japan. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk026
+//七香「セヤッ」
+Nanaka: "S'yah!"
+TP
+
+WVP 2 se046 1 0
+SEF 101 0
+
+
+
+//今度は前輪で倒立する。
+This time she made the bike stand on the front wheel.
+//Not sure if one can use "front wheel standie", especially since the term is 'stoppie'. -GHS
+TP
+
+
+
+//これは驚く。
+This one's astonishing.
+TP
+
+
+
+//太一「うわ、その自転車すごいな！」
+Taichi: "Whoa, that bike's amazing!"
+//Speaking explicitly of God isn't working, so she's resetting the conversation and trying something else. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk027
+//七香「自転車の方かい……」
+Nanaka: "The bike, he says..."
+TP
+
+
+
+//太一「乗らせて、乗らせて！」
+Taichi: "Lemme ride it, lemme ride it!"
+TP
+
+
+
+WVP 0 vfcca0003nnk028
+//七香「駄目。素人お断り」
+Nanaka: "Nooo way. Amateurs rejected!"
+//It's not because her bike doesn't exist; it's because Taichi is still alive, and will therefore be an amateur due to what the bikes signify. -GHS
+TP
+
+
+
+//太一「ひどい」
+Taichi: "Meanie!"
+TP
+
+
+
+WVP 0 vfcca0003nnk029
+//七香「前も父が勝手に乗ってくれちゃってさー」
+Nanaka: "Some time ago, dad helped himself to a ride without permission too."
+//She's speaking third person as parents often do; she means Taichi's father, not hers. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk030
+//七香「しかも転んで傷つけて戻ってきてさ」
+Nanaka: "And then he came back all hurt after a fall."
+TP
+
+
+
+WVP 0 vfcca0003nnk031
+//七香「もー大喧嘩したねー」
+Nanaka: "Ohhh what a big fight we had, us two!"
+TP
+
+
+
+WVP 0 vfcca0003nnk032
+//七香「傷のこと問いつめたらしらばっくれるしね」
+Nanaka: "He acted alll innocent when I asked him 'bout those scrapes."
+TP
+
+
+
+//太一「……パパも大変なんだよ」
+Taichi: "...papa's a big fuss as well."
+//See CCX0001, that's what he uses for his father there too. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk033
+//七香「母に言いつけたさ」
+Nanaka: "That's what mom always says."
+//Can be read as "he told mother", but also "mother told him", keeping the ambiguity between who is this 'mom'. Since the term also means "used to say", splitting the difference and going with this. -GHS
+TP
+
+
+
+//太一「鬼か」
+Taichi: "What a demon!"
+//Might refer to either. Or Miki, see CCC4003. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk034
+//七香「父おこづかい三ヶ月減らされてやんの」
+Nanaka: "Daddy got his allowance cut for three months he did."
+//"Yanno"? Did Tanaka actually want her say "yannow"? -GHS
+TP
+
+
+
+//太一「国民的家族像を思わせるシンプルな感情の流れだな」
+Taichi: "That's the flow of simple emotions that reminds of the national ideal of a family."
+//"That sounds like a stereotype out of some advertisement". -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk035
+//七香「ちょうどその時、父は同僚のパソコンにネットワーク経由で悪戯しかけてさ……卑語フォルダってのを自動生成するプログラムで相手の公開フォルダを卑語だらけにするっていう」
+Nanaka: "Just around that time, daddy played a prank on a coworker's PC via the network... he went to use a program to automatically create folders labeled with swearwords to fill this guy's public folder with bad language!"
+//Network, not Internet. This would've been the late '80s. Odd she'd use folder instead of directory, but I'm not privy to '80s Japanese supposing-DOS lingo. And I suspect neither is Taichi, which is why she'll talk about Windows and IE later on. -GHS
+TP
+
+
+
+//子供おとなだ……。
+An adult child that guy...
+TP
+
+
+
+WVP 0 vfcca0003nnk036
+//七香「ところが仕掛ける相手を間違えて、上司のパソコン卑語まみれ！」
+Nanaka: "But when he went to do it he got his target wrong, and he filled his superior's computer with swearwords!"
+TP
+
+
+
+//太一「わははははは！」
+Taichi: "Waaahahahahaha!"
+//PCP above
+TP
+
+
+
+WVP 0 vfcca0003nnk037
+//七香「あははははは！」
+Girl: "Aaahahahahaha!"
+//PCP above
+TP
+
+
+
+//アホだこいつの親。
+And these idiots had a child.
+//Lit. "this guy's parents are idiots", but it's ambiguous whose parents it would be naturally. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk038
+//七香「そんで仕事でも減俸三ヶ月くらってるの。もー母と大爆笑！」
+Nanaka: "And because of that, he also got a salary cut for three months. Oh how mom blew up a laugh!"
+TP
+
+
+
+//太一「……そんな家族ばっかりだったら世界も平和であるだろうに」
+Taichi: "...the world would be in harmony if all families were like that."
+TP
+
+
+
+WVP 0 vfcca0003nnk039
+//七香「ま、もうおらんがね」
+Nanaka: "Well, they aren't anymore."
+//Ambiguous on what: his family (true, both are dead), or all families (no one exists). -GHS
+TP
+
+
+
+//太一「へ？」
+Taichi: "Eh?"
+//Also "Where did they go" (if you squint). -GHS
+TP
+
+
+
+//くいっ
+Thwink,
+TP
+
+
+
+//また自転車でウイリーをした。
+the bike made a wheelie again.
+TP
+
+//あ、パンツ見えた！
+Ah, I saw her panties!
+//PCP
+TP
+
+
+
+//再見！
+Rediscovery!
+TP
+
+WVP 0 vfcca0003nnk040
+//七香「いよっと」
+Nanaka: "Y'ott'o!"
+TP
+
+GL 5 zzzNanakaZoom3
+GI 5 1
+//HACK panty focus Nanaka -GHS
+
+//また見えた、あっ、あああっ！！
+I saw them again, ah, aaah!
+TP
+
+
+
+//ああああああああああああああっ！！
+AAAAAAAAAAAAAAH!!!
+//あx14 -GHS
+TP
+
+
+
+//純白純白純白純白！！
+SnowWhiteSnowWhiteSnowWhiteSnowWhite!!!
+TP
+
+
+
+//食い込み食い込み食い込み！！
+CamelToeCamelToeCamelToe!!!
+//Also "devour whole", but it's not much of foreshadowing lost. 4xSnowWhite + 3xCamelToe/DevourWhole -GHS
+TP
+
+
+
+//天晴れ桃色吐息っっっ！！！！
+Praiseworthy peach-pink siiigh!!!!
+TP
+
+GO 5 1
+//HACK :-( -GHS
+
+
+//太一「うっ」
+Taichi: "Ngh."
+TP
+
+
+
+//ひざまずいた。
+I kneeled.
+//This stuff is more serious to him than blood. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk041
+//七香「どうしたの？」
+Nanaka: "What is it?"
+TP
+
+
+
+//太一「……ちょっと知能下がりすぎてやばかった、今……」
+Taichi: "...that was bad right then, my intellect sorta descended down way low..."
+//Intellect amount went down + his brain in his trousers -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk042
+//七香「あー、きみのちのーは不安定なのかね？」
+Nanaka: "Ahhh, it's your intellect that's unstable, is it?"
+//Tiiinge of sarcasm there. -GHS
+TP
+
+
+
+//太一「サドルってときに気持ちよかったりする方？」
+Taichi: "Doesn't it at times feel good when you're saddling with a sad'O?"
+//サドル saddle +サドる be sadistic, particularly appropriate considering that Taichi is (supposedly) an M, see Yutaka. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk043
+//七香「はい？」
+Nanaka: "What?"
+TP
+
+
+
+//太一「なんでもない……忘れてくれ」
+Taichi: "It's nothing... do forget it."
+TP
+
+
+
+//ようやく理性が戻ってきた。
+At last my rationality came back.
+TP
+
+
+
+//どうも突発的なエロイベントに弱いな。
+I'm just so vulnerable to unforeseen erotic events.
+TP
+
+
+
+//立ち上がる。
+I stand.
+TP
+
+
+
+//太一「さ、学校に行こう」
+Taichi: "Well then, let's go to school."
+TP
+
+
+
+WVP 0 vfcca0003nnk044
+//七香「どうして前屈みなの？」
+Nanaka: "Why are you slouching there?"
+TP
+
+
+
+//太一「……そんな幼女のような無垢な口調で問うのか」
+Taichi: "...you're asking that with the pure tone of a little girl?"
+TP
+
+
+
+WVP 0 vfcca0003nnk045
+//七香「？」
+Nanaka: "?"
+TP
+
+
+
+//太一「極めて下方に関わる空間的な問題によって、としかコメントできないな」
+Taichi: "Other than it is due to a spatial problem concerning my extreme lowermosts, I cannot comment."
+TP
+
+
+
+WVP 0 vfcca0003nnk046
+//七香「腰が痛いんだ」
+Nanaka: "Your groin hurts, is that it."
+TP
+
+
+
+//太一「だからおぼこは……」
+Taichi: "Really, an oboko like you..."
+//Innocent, naive, and also virgin. Which is extremely ironic. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk047
+//七香「おぼこってなに？」
+Nanaka: "Oboko... what's that?"
+//http://ejje.weblio.jp/content/%E3%81%8A%E3%81%BC%E3%81%93 virgin, but look at the other meanings. -GHS
+TP
+
+
+
+//太一「腰が痛くてね」
+Taichi: "My groin hurts, that's it."
+//Callback. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk048
+//七香「ふーん」
+Nanaka: "Ohhh."
+TP
+
+
+
+//よし、ごまかした。
+Great, swindled.
+TP
+
+
+
+WVP 0 vfcca0003nnk049
+//七香「気をつけなよー。子孫繁栄がやばいぞ」
+Nanaka: "Take some care theeere! The safety of the offspring seems at risk!"
+//"Your balls are getting chafed in your pants" + "my son's in pain", where "son" is also an euphemism for dick, ergo Nanaka is futanari?????? -GHS
+TP
+
+
+
+//太一「子孫作りてぇー」
+Taichi: "Let's make some offspriiiing!"
+TP
+
+
+
+WVP 0 vfcca0003nnk050
+//七香「呆れるほど欲望に正直な子だな」
+Nanaka: "A guy disgustingly honest with his desires, are you."
+//Vs. want, see CCA0021 -GHS
+TP
+
+
+
+//太一「……不意を突かれると本音が出るんだ」
+Taichi: "...my true motives come out when I'm taken by surprise."
+//See CCE0001, when Misato does so to him: it's how he fakes it. But underneath this mess of OMFG HARD KANJI's, there's also truth. -GHS
+TP
+
+
+
+//さすがに今のは反省したくなった。
+All the same, I wanted to take back that one right then.
+//And instead... -GHS
+TP
+
+
+//太一「どんな男だって可愛い女の子を見たら、むくむくと欲望が鎌首をもたげてレッドスネークカモンなんですよ」
+Taichi: "Any sort of man, when he sees a cute girl, would see his desire toweringly rise its head, as assuredly as when you shout Red Snake C'mon!"
+//...he doubles down. Moron. Still vs. want. Either this is the reference, or it's a reference to whatever this is a reference too: http://www.youtube.com/watch?v=WcYBdaoAVY8 Warning, near-toxic level of Japanese WITIDE. -GHS
+TP
+
+
+
+//太一「レッドスネークカモォンなんだよ、きみ」
+Taichi: "And it's all a 'red snake, c'mon!' with you!"
+TP
+
+
+
+//太一「あ、でも普段はブルースネークで安全なんですよ？」
+Taichi: "Ah, but usually it's the green snake, so you're safe, OK?"
+//Switched because in Japan blue = green -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk051
+//七香「中間がイエロースネークだったり？」
+Nanaka: "Is there a huggy y-ero-w snake between them?"
+//I'm sure the girl who gave Taichi most of his sexual perversions would never ever use that 'ero' inside the Japanese spelling of 'yellow' intentionally. -GHS
+TP
+
+
+
+//太一「そう、いわゆる半勃……」
+Taichi: "Yes, what you'd call a half-erec---"
+TP
+
+
+
+//言ってて自分で不安になった。
+So I said, and became uneasy all on my own.
+TP
+
+
+
+//こわごわと振り返って、
+Timidly timidly I turned around.
+TP
+
+
+
+//太一「……呆れた？」
+Taichi: "...disgusted?"
+//See level of lust remark above. -GHS
+TP
+
+
+
+//七香はにこりと笑う。
+Nanaka laughed with a sweet smile.
+TP
+
+
+
+WVP 0 vfcca0003nnk052
+//七香「ううん、嬉しい」
+Nanaka: "Nh-nh, I'm happy."
+TP
+
+
+
+//太一「は？」
+Taichi: "Huh?"
+TP
+
+
+
+WVP 0 vfcca0003nnk053
+//七香「ほらほら、歩く歩く」
+Nanaka: "C'mon, c'mon! Walk, walk!"
+//See CCD4003 -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk054
+//七香「海綿体がねんねするまで後ろ走ってあげるからさ」
+Nanaka: "Until that erectile tissue goes nighty-night, I'll be riding behind you, OK?"
+//Baby talk, literally. He had erections all the way back then, I suppose. Erectile undisfunction? -GHS
+TP
+
+
+
+//太一「とうに気づいてるんじゃねぇかこのアマ……」
+Taichi: "You noticed that from the start, dinn'cha, you nun..."
+//Also "bitch", yes, but Taichi is more of a wannabe motherfucker than a son of a bitch. Plus it's funnier that he keeps calling his mother a virgin. Also, technically nun fits closer given everything. -GHS
+TP
+
+
+
+//自転車事件の桜庭ばりに深い傷を負った。
+I suffered a deep wound of depth reminiscent to Sakuraba's with his bicycle affair.
+//Which is true, since he also had an accident that perhaps got him to change his hair color as a consequence of having to part from his mother. It's actually a decontextualized random interjection and not a consequence from the above. -GHS
+TP
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+
+WVP 0 vfcca0003nnk055
+//七香「おー、学校がー、見えて参りましたー♪」
+Nanaka: "Ohhhhh, the schoool, it has come into vieeew!♪"
+//♪♪♪ -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk056
+//七香「白いねー、新しいねー、金かかってるねー」
+Nanaka: "So white isn't iiit, so new isn't iiit, so expensive isn't iiit!"
+TP
+
+
+
+//太一「転校してくる？」
+Taichi: "Want to transfer in?"
+TP
+
+
+
+//太一「今なら無試験で当日編入可」
+Taichi: "Right now, you can get admitted same day as request, no entrance test required!"
+//No one to administer it, no one to stop her since she doesn't exist. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk057
+//七香「制服は？」
+Nanaka: "And the uniform?"
+TP
+
+
+
+//太一「ぼ、ぼくが用意してあげげげげげ」
+Taichi: "This, this harmless young boy will arrange it-it-it-it-it-it!"
+//Technically "arrange it for you", but then the repetition would sound like "yu-yu-yu", and that's a thing here. Cross Channel. He likely could: he would've gotten Youko's somewhere. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk058
+//七香「……胸のところ丸く切り抜いた制服ダロ？」
+Nanaka: "...heh, it's an uniform with round holes cut 'round the height of the chest, r-i-g-h-t?"
+TP
+
+
+
+//太一「ヒィッ、そんな鬼畜なことしません！？」
+Taichi: "Hyyy, I will not do such beastly things?!"
+//Joke's cookie-cutter writing, so it gets an appropriately bad adaptation. 'Beast', specific term, will return. Though in this case it's intended to sound nukige-like, as in, nukige-like uniforms. -GHS
+TP
+
+
+
+//太一「……ただスカートのサイズがその、丈が普通のより三センチ短いやつしかないんだ……そ、それでもよかったららら……」
+Taichi: "...merely, ah, the skirt size is, hum, a thing about three centimeters shorter than the normal measure, nothing to do about it... ah, uhm, if for you that's alright-ait-ait-ait..."
+//Originally ra-ra-ra, see CCZAS. -GHS
+TP
+
+
+
+
+WVP 0 vfcca0003nnk059
+//七香「根性のないセクハラだな……」
+Nanaka: "This sexual harassment's got no bite..."
+//It's a little puni. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk060
+//七香「さってと、あたしもそろそろ行かないと」
+Nanaka: "Well then, it's about time for me to get going."
+TP
+
+
+
+//くるりと自転車が回転する。その場で。
+The bike abruptly spun around. On a dime.
+TP
+
+
+
+//彼女の運動神経はちょっとしたものだった。
+This girl's motor skills were quite the thing.
+//Of course. Motor skills is written 運動神経, 運動 movement 神 god 経 experience. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk061
+//七香「少年、裏山のほこらの話、あれホントなんだ」
+Nanaka: "Young boy, that thing about the hokora up the mountain, that's all true."
+TP
+
+
+
+//太一「……え？」
+Taichi: "...eh?"
+TP
+
+
+
+//言葉の意味が、なかなかのみこめなかった。
+I wasn't quite able to understand the meaning of her words.
+//"Maestro, il senso lor m'e' duro." -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk062
+//七香「どうしても行き詰まったら……行ってごらん」
+Nanaka: "If you get totally stuck... please go there."
+//She can do nothing but point at the truth; he'll have to go there. -GHS
+TP
+
+
+
+//太一「は、はあ……」
+Taichi: "Uh, huh..."
+TP
+
+//ふっと、表情が曇る。
+Her face clouds without warning.
+TP
+
+
+
+WVP 0 vfcca0003nnk063
+//七香「こんなこと言っても、何が変わるってわけでもないんだけどさ」
+Nanaka: "But even if I tell you this, nothing at all will ever change, that's what."
+//"How long do I have to put up with you fools?" is Jesus in a nutshell. -GHS
+TP
+
+
+
+//太一「七香……」
+Taichi: "Nanaka..."
+//He DEFINITELY knows her kanjis here. -GHS
+TP
+
+
+
+WVP 0 vfcca0003nnk064
+//七香「おっと、シメっぽくなっちまいやがった、こいつぁいけねぇや」
+Nanaka: "Whoopsie, this turned all gloomy didn't it, that ain't gonna go!"
+TP
+
+
+
+//ウイリーしてその場でくるっと。
+She spun around on the spot with a wheelie.
+TP
+
+
+
+//一回転したときには、もう笑顔。
+And when she had spun around completely once, she was smiling again.
+//See CCA0002, sort of what Sakuraba does. Is that what dangerous people do? Perhaps. But also what people capable of forgiving do. -GHS
+TP
+
+WVP 0 vfcca0003nnk065
+//七香「じゃーねぃ♪」
+Nanaka: "Byez now!♪"
+//Ugh, unlistenable moe affectations... -GHS
+TP
+
+
+
+//束ねた指先を華麗に振って。
+Waving bundled up fingertips with magnificence,
+TP
+WVP 2 se047 1 0
+
+
+//彼女は爪先をペダルにかけた。
+the girl put her toes to the pedals.
+TP
+
+
+GL 5 bgcc0000a
+GS 5 1
+SEF 109 0
+//HACK sky -GHS
+
+//太一「あ、ひとつ質問」
+Taichi: "Ah, I have one question."
+TP
+
+
+
+//去っていく背中に。
+To her departing back.
+TP
+
+
+
+WVP 0 vfcca0003nnk066
+//七香「なぁにー？」
+Nanaka: "Whaaat?
+TP
+
+
+
+//太一「どうして初対面なのに、俺の名前知ってたの？」
+Taichi: "How is it that this was the first time we've met, but you knew my name?"
+TP
+
+
+
+WVP 0 vfcca0003nnk067
+//七香「うむ。その質問に答えるには……」
+Nanaka: "Hum. To answer that question..."
+TP
+
+
+
+//白い指先が俺をびっと指す。
+A white fingertip shot out, pointed at me.
+TP
+
+
+
+//いや、俺の背後だ。
+No, at something behind me.
+//Well, the answer IS inside him, in a sense. And beyond him... -GHS
+TP
+WVS 1 1
+
+
+GO 5 1
+//HACK back to school BG -GHS
+
+
+//振り返って、視界が学校をとらえて数秒。
+Turning around, my field of vision was captured by the school for several moments.
+//...and it goes through the school, at well. -GHS
+TP
+
+
+
+//返事がない。
+No answers there.
+TP
+
+
+
+//目線を七香に戻す。
+My gaze returned to Nanaka.
+TP
+
+
+//彼女はいなくなっていた。
+The girl had vanished,
+TP
+
+
+
+//自転車とともに。
+along with her bike.
+TP
+
+
+
+//早いで済まされる現象ではないのだが。
+Not a Phenomenon that's going to be settled quickly.
+//See CCC3017, CCD0021, CCX0001... this is all but a warning that we're in for the long haul. -GHS
+TP
+
+//太一「…………ぉゃ？」
+Taichi: "......mother of...?"
+//"Oya" is an absolutely normal exclamation of surprise, except it also means 'parent'. -GHS
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+
+//蝉も鳴いてない、静かな新学期だった。
+It was a quiet new school term, when even the cicadas didn't cry.
+//Even more Higurashi inspiration/homages. -GHS
+TP
+WT 1000 0
+WT 2500 1
+
+
+
+RET

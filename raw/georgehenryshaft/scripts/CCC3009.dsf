@@ -1,0 +1,617 @@
+GL 0 bgcc0007
+GS 0 1
+GS 1 0
+SEF 10 1
+//HACK actually display the damn BG. Glad to see I'm not the only one confusing commands in haste, but this is one of the biggest bugs in CC. -GHS
+
+
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//そして今。
+And then, the present.
+TP
+
+//霧の言ったとおり、世界はあっさりとサッパリした。
+As Kiri had said, the world became clean and tidy so easily.
+//See CCC3007 -GHS
+TP
+
+GL 4 BGCC0000A
+GP 4 0 0
+GI 4 1
+//HACK to sky -GHS
+
+WVP 1 bgm014.ogg 0 0 0
+
+//人間なんて簡単に『なくなる』んだと、俺も思い知った。
+And I realized as well that humans could just simply Pass Away.
+TP
+
+//アダムとイブとは言わないけど、せめてもう少し完璧な人間が生き残れば良かったのにな。
+I wouldn't say it should be like Adam and Eve, but it'd have been good if at least humans just a little bit more perfect had survived.
+//We're about 5 chapters too late for them. -GHS
+TP
+
+//この二人は、もともと永遠に生きる完全性を備えていたが、善悪の知識の木から実を食べてしまったが故に罰せられ、不完全なものとされたんだ。
+Those two, originally, had been provided with completeness, with the integrity to live eternally, but because they ate the fruit of the knowledge of good and evil and were therefore punished, they were made into something incomplete.
+//The thing that Taichi's avoiding to say, however, is that Biblically they became incomplete not by being separated from each other, which they always were, but by being separated from God. That's the error Taichi is committing: thinking that becoming Alter Egos is what's gonna regain Eden. In practical sense, thinking that what truly 'broke' him was him getting rejected by Youko at the moment of the Fall of the Eden of his own backstory. See CCX0001, where he admits he's wrong: he went "mad" when he was born: his sin is the Original Sin. -GHS
+TP
+
+//それでも千年生きたと記録されている。
+And yet, they are recorded to have lived a thousand years.
+//...how do people read this stuff and not notice, even if just out of cynicism...? -GHS
+TP
+
+//聖書を追って読むと、子孫は世代を重ねるごとに寿命を縮めていったことがわかる。
+If one continues with the reading of the Scriptures, it is possible to see how the lifespan of each successive generation decreases.
+//No one even thought that him knowing this was just sort of odd, given the context? Now see CCC3027. This was also removed in the PS2 version. Nice. -GHS
+TP
+
+//そして現代。
+And then, this generation.
+//This sinful generation that shan't get any sign but that of Jonas, who lived in the whale. Which then inspired Pinocchio which then brings us to dolls becoming alive and Cross Channel. Strange journey. -GHS
+TP
+
+//俺たちは、健全ささえ失いかけている。
+We were losing even the soundness of mind.
+TP
+
+//こんな傷だらけの人間をとりわけて、神様はいったいどうする気なんだろう。
+What could God possibly be thinking of doing by spreading around these humans so chock full of wounds?
+//This question may be the drive behind Jintai. -GHS
+TP
+
+//こんな……どす黒い感情を抱えた俺を。
+Like me... so engorged in wicked feelings as I am.
+//See CCZAS: it's not his sight that brought these people in, it's God. -GHS
+TP
+
+//どうせ世界は回っているのだと思った。
+I thought that the world was revolving anyhow,
+TP
+
+//取り返しはきくのだと。
+and that it was possible to take back what was done.
+//Given 取り返しがつかない is the far more common term, and has the meaning of absolute irredeemability, its positive opposite is what is meant here. Seems particularly appropriate considering that, no, it can't be done. -GHS
+TP
+
+TS 2
+GL 5 zzzblackblend
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+//極論①。
+> 
+ 
+ 
+> 
+ 
+ 
+Extreme argument #1.
+//There doesn't seem to be any more. -GHS
+TL
+//皆殺しにしても、全部リセット。
+> 
+All will be reset, even a massacre.
+//No, dumbass, 皆殺し is chapter sev-- ohhh, clever boy Ryukishi. Clever clever. -GHS
+TL
+//記憶がなくなるオマケつき。
+With the disappearance of memories as lagniappe.
+TL
+//発展性のない世界にあるのは、可能性という娯楽だけ。
+A world in which advancement has no 
+consequence is a world that only has the
+the amusement of the potential.
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+//俺はその悦楽を、思い描いてしまった。
+That was a pleasure I had well envisioned.
+TP
+
+//鎌首をもたげる欲望。
+Desire, like a snake, raises its head.
+//See CCA0021. Just remembering the definition should prove the certainty of failure Taichi is going towards. Snake because p3n1s!!1. Or see CCC0000, since Youko is Teh Devils. -GHS
+TP
+
+//ゲームのはじまりを告げる。
+It proclaims the beginning of the game.
+TP
+
+GO 4 1
+//HACK back to rooftop -GHS
+
+//太一「霧ちん、そこは新川豊が死んだ場所だよ」
+Taichi: "Kiri-chin, that's the spot where Shinkawa Yutaka died you know."
+TP
+
+//霧は驚かなかった。
+Kiri was not surprised.
+TP
+
+//ゆるりと振り返る。
+She turns around, taking her time.
+TP
+GL 0 evcc0055
+$CGevcc0055 = 1
+GS 0 1
+SEF 109 1
+//太一「？」
+Taichi: "?"
+TP
+
+//霧が驚かなかったことに、俺が少し驚く。
+I was a little surprised at Kiri being unsurprised.
+//He expected lack of reaction. Instead... -GHS
+TP
+
+WVP 0 vfCCC3009kri000
+//霧「……世界がこんなことになって……人もいなくなって……」
+Kiri: "...so the world came to be like this... where even people are gone..."
+TP
+
+WVP 0 vfCCC3009kri001
+//霧「悪意はなくなったかわりに……密度もなくなって……」
+Kiri: "In exchange for malice being gone... its density is also gone..."
+TP
+
+WVP 0 vfCCC3009kri002
+//霧「それでも、あなたは変わらないんですね」
+Kiri: "And yet there you are, unchanged."
+//This is where her being frayed comes into play. All her words apply back at her, the hypocrite. This is not much different from Taichi trying replicate his rape at the hands of Youko, and equally far from having mean intent, even if the results are simply not the ones desired. -GHS
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//あっけに取られてしまった。
+I was completely taken aback.
+TP
+
+//口ぶりが、まるで好戦的だったのだ。
+The way she spoke seemed belligerent.
+//See CCC3002. 好敵手 vs 好戦的 seems interesting. -GHS
+TP
+
+WVP 0 vfCCC3009kri003
+//霧「……前から言おうと思っていました」
+Kiri: "...I have meant to ask this for some time."
+TP
+
+WVP 0 vfCCC3009kri004
+//霧「先輩はどうして、生きてるんですか？」
+Kiri: "Senpai, how come you are alive?"
+TP
+
+//>　　　　　くさび
+//心臓に楔が打ち込まれた。
+It was a wedge being driven through my physical heart.
+//No, moron, the undead is Sakuraba, and he's not a vampire! Though the concept of Emotional Vampirism certainly is part of Kiri's problem with Taichi... -GHS
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//『なあ、ひとつ質問なんだけど……どうして今すぐにでも死なないんだ？』
+『Say, I got one question though... why don't you just die right this very instant?』
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+//重なる。
+Overlap.
+TP
+
+//過去と現在。
+Past and present,
+TP
+//交差して。
+crossing.
+TP
+
+//まるで、昔投げつけた刃を、今になって不意に投げ返されたような。
+Exactly as if the blade cast off long ago had now suddenly been thrown back at me.
+//Or as if Kiri, who has delayed emotional reaction, is now reacting to that scene we've just seen. Also see CCC4006. -GHS
+TP
+
+//アイロニカルな構図。
+What an ironical composition.
+//He's flustered and he's about to start acting like an ass to escape from what is happening. -GHS
+TP
+
+WVP 0 vfCCC3009kri005
+//霧「自分に生きる資格があると思っているんですか？」
+Kiri: "Do you think you have the qualifications to live inside of yourself?"
+//See CCC0045A -GHS
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+WVP 0 vfCCC3009kri006
+//霧「あなたは、黒い」
+Kiri: "You are... wicked."
+//DUUUUUUUUUUUUUUUUDE that's so wicked! You know what this things needs? GUUUUUUUUUUUUUUUUNNNNNS!!! -GHS
+TP
+
+//的確な比喩だと思った。
+How the word uses that kanji from my last name. I found that to be an accurate metaphor.
+//;_; -GHS
+TP
+
+WVP 0 vfCCC3009kri007
+//霧「ヒトじゃない。ヒトに似たものでしかない。ヒトに擬態してる。虫みたいに」
+Kiri: "You're no person. You have nothing more than the semblance of a person. You camouflage yourself as a person. As insects do."
+//Don't let the pressure of the scene dodge another odd detail: this is the first, and pretty much the last time that one of the tsunderes calls the protagonist an insect. Is this scene even intended to be taken seriously at all? -GHS
+TP
+
+WVP 0 vfCCC3009kri008
+//霧「擬態して、ヒトに化けて、ヒトを襲う」
+Kiri: "Camouflaged, you take the shape of a person, and attack people."
+//Like he's doing now to this annoying brittle 15 year old girl who's walking up to him all alone, in a world with no one else, and who could snap her like a twig with just the fingers. Her behavior is possibly even crazier than his. -GHS
+TP
+
+WVP 0 vfCCC3009kri009
+//霧「あなたは人を傷つけるものです。決して相容れない」
+Kiri: "You are something that hurts people. Completely incompatible."
+//Now she's calling him human antimatter. This is a comedy scene. -GHS
+TP
+
+WVP 0 vfCCC3009kri010
+//霧「どうしてあなたの適応係数が８０を越えているのか、昔は不思議でした。けどそれはまったくおかしなことじゃない。あなたの中のヒトの部分は、文字通り二割ほどしかない」
+Kiri: "The reason why your Conformity Coefficient crosses over 80 has been inexplicable to me for a long time. But that is absolutely nothing strange. Because the part inside you that is human is literally less than twenty percent and no more."
+//Now here's a nice oddity. 80 is written in Western numerals, 20 isn't; this puts an emphasis on the 8 rather than the 20. Since the real number of his humanity isn't 20 but 16, we have 8 and 1+6=7. This is very intentional. -GHS
+TP
+
+//饒舌に語る。
+Talking with garrulity,
+TP
+
+//今までたくわえられ佐倉霧という様式を覆す、鮮烈なイメージを構築していく。
+she goes to construct vivid images, overturning the pattern thus far preserved within the name Sakura Kiri.
+//With words, not her figure. IOW, she's become like he is in his moments of ass-talking exposition to avoid talking about his real feelings, see CCX0001. This is not her becoming Supersecure, this is her falling apart. -GHS
+TP
+
+//言葉のナイフが、俺の精神を刺そうとしていた。
+The knife that were those words were trying to stab at my very essence.
+//See CCC0014, CCC3004. Well, the knives are metaphorical, surely no other weapon is. -GHS
+TP
+
+//今までは鈍い刃物しか持ち得なかった―――
+The dull knife that was all she possessed so far---
+//Atmosphere break! -GHS
+TP
+
+//佐倉霧の切り札となって！
+>                                              trump card
+Became Sakura Kiri's kiri-fuda!
+//Wordplay so transparent and awful can't have a reaction expected from the reader except cringing. More than with all the crap above, readers here are presumed to read this as Taichi ridiculing Kiri and not taking anything she's saying seriously, where context and character analysis demonstrates that the real reason is a typical, incompetent attempt to break a tense mood he can't manage. All mixed with how Kiri's attack is hypocritical and nonsensical. Expected audience reaction remains the same: a cringing WTF. Furries elicit the same reaction, therefore, there it goes. -GHS
+TP
+WVP 0 vfCCC3009kri011
+//霧「怪物です」
+Kiri: "You are a monster."
+TP
+
+WVP 0 vfCCC3009kri012
+//霧「あなたの欺瞞は、怪物の分際で怪物に徹さないところです」
+Kiri: "Your deceit is that you do not pour your heart and soul into the monster you are, despite your place in society being that of a monster."
+//She's all but telling him that he should be more of a Rapist Protagonist! -GHS
+TP
+
+WVP 0 vfCCC3009kri013
+//霧「人と怪物との間に共感が芽生えて、仲良く幸せに暮らせると思っているんですか？　あなたが人並みの幸せを手に出来ると？」
+Kiri: "Did you think that empathy could sprout between person and monster, and that you could have a happy life in harmony with others? That you would be able to lay hands on the happiness of the ordinary person?"
+TP
+
+WVP 0 vfCCC3009kri014
+//霧「ありえない」
+Kiri: "It will not be."
+TP
+
+WVP 0 vfCCC3009kri015
+//霧「世界にわずかしかない優しさは、決してあなたのために取り分けられない。いえ、取り分けられてはならないんです」
+Kiri: "In this world there is just a little kindness and no more, but there is absolutely no part set aside for you. No, it is simply out of the question that any ever would be set aside."
+//See CCC0031B, CCC3007. -GHS
+TP
+
+WVP 0 vfCCC3009kri016
+//霧「体を食い破って出てくる寄生虫に、愛を抱く人がいないのと一緒です。もしいたとしてもそれは狂人でしょう」
+Kiri: "It is the same as no one would hug with love the parasite that comes out of their body, having devoured its way through it. Should one like that ever even exist, they would be madmen."
+//We're still talking about the Christian God, who would do that. Indeed the idea that the guy upstairs would be a madman to accept even murderers as long as they bend their knee is a very typical question. -GHS
+TP
+
+WVP 0 vfCCC3009kri017
+//霧「あなたはいつも自分のために犠牲になってくれる獲物を捜してる。わたしにはわかります。今まではそれは抑えられていた。けど世界がこんなことになって、ヒトの数が少なくなって、あなたの抑えはきかなくなってきてる」
+Kiri: "You are always searching for game to become a sacrifice for your own benefit. This is clear to me. Up until now, that was something you could suppress. But then the world became like this, the number of persons became insufficient, so your suppression is ineffective."
+//See CCA0002. Yes, everybody. !!!THE TWIST IS THAT TAICHI IS A JOURNALIST!!! DUN DUN DUNNNNNN!!! -GHS
+TP
+
+WVP 0 vfCCC3009kri018
+//霧「擬態をする必要がなくなったからです」
+Kiri: "Because the need for camouflage has vanished."
+//And STILL she's talking to the monster to his face. Kiri believes this in the same way that Tomoki really disliked Taichi like he said in CCB0022. She's doing nothing but continuing her previous pattern of preaching justice. -GHS
+TP
+
+WVP 0 vfCCC3009kri019
+//霧「傷つけて楽しむため、あなたの目はいつも私たちに注がれている。それもひと思いにではなく、ゆっくりと時間をかけて嬲り尽くそうとしている」
+Kiri: "Your eyes are always focused on us, so that you can enjoy the hurting. And it's not something done instantly, you slowly take the time to perform that bullish sexual 'teasing' of yours all the way to the end."
+//(3P) just doesn't fit in this tone, however, it's still extremely odd that the big great Wounding And Hurting thing she'd bring up would be teasing, written with an oddly sexualized kanji. This continues to underline that the scene is not intended to be taken fully seriously. Neither Taichi's apparent contempt nor Kiri's apparent venom are the true character intent. And then it brings back to the question of Yusa: was it the same there? -GHS
+TP
+
+WVP 0 vfCCC3009kri020
+//霧「ヒトでもない、怪物でもない」
+Kiri: "Not a person, nor a monster."
+//Now she's just flat-out contradicting herself! -GHS
+TP
+
+WVP 0 vfCCC3009kri021
+//霧「では何者なんですか？　何者でもないあなたこそ、世界から消えるべきだった。わたしはそう思います」
+Kiri: "Then who or what are you? You are neither who nor what, that is what you are, just something that ought to have disappeared from the world. That is what I think."
+//And three days of him not being an annoying prick to her later... "I wanna be your sex slave! Go on, all the teasing you like!" Not poor writing, but a reading key. -GHS
+TP
+
+WVP 0 vfCCC3009kri022
+//霧「大半が悪意に満ちた人類だって、あなた一人の命よりはずっと価値があった。わたしにとってさえ、そうです」
+Kiri: "The majority of mankind was so full of malice, but even that had a value far greater than your one life. To me, that is the truth."
+//This is completely laughable! It's so caricatured that at this point the reading key becomes transparent: tsundere. She's simply being tsun to him, nothing more. She means these words like any good tsundere does: not in the absolute slightest. -GHS
+TP
+
+WVP 0 vfCCC3009kri023
+//霧「ふたつ、忠告します」
+Kiri: "I will give two pieces of advice."
+//She hates him so much he's giving him advice. -GHS
+TP
+
+WVP 0 vfCCC3009kri024
+//霧「まずあなたが他者との触れあいの中で本当の人間になれるのだと思っているとしたら、それは間違いです。あり得ません。人間を冒涜する考えです。先輩ほど完璧なバケモノは見たことないですから」
+Kiri: "The first, if you believe that within the exchange of touches with other people you will become a real human, you are mistaken. That will not be. Thinking that is to blaspheme humanity. Because I have never seen a more perfect monster than you, Senpai."
+TP
+
+WVP 0 vfCCC3009kri025
+//霧「あなたは掛け値なしの精神異常者。狂人の中の狂人」
+Kiri: "You are, without exaggeration, a psychotic, a deviant of the soul. A madman among madmen."
+//It's just increasingly ridiculous and mad. This is all on the basis of an ex-post facto rationalization of Taichi kissing her (due to his automatic repetition of a previous pattern) after having witnessed him together with Taichi on the rooftop the day Yutaka jumped. In no way is this to be taken seriously. -GHS
+TP
+
+WVP 0 vfCCC3009kri026
+//霧「……狂える者たちの頂点です」
+Kiri: "...the crowning jewel of all that go mad."
+//This even sounds stupid, if you think about it. -GHS
+TP
+
+WVP 0 vfCCC3009kri027
+//霧「そしてもう一つ。わたしたちに手を出そうとは思わないことです」
+Kiri: "And then one more. Do not even think of wanting to lay your hands on us in any sense."
+TP
+
+WVP 0 vfCCC3009kri028
+//霧「もし先輩が生贄を求めてわたしたちに近づくことがあれば……」
+Kiri: "Should you approach us in search for a sacrificial lamb, Senpai..."
+TP
+
+//最後のひとつきを、霧は繰り出す。
+Kiri unleashes the very final thrust.
+TP
+
+WVP 0 vfCCC3009kri029
+//霧「射殺します」
+Kiri: "I will shoot to kill."
+//See CCC3007 again. That last bit of irony for the cherry on the top. And another script of pure troll winds to a close. -GHS
+TP
+
+//太一「……………………」
+Taichi: "............"
+TP
+
+WVP 0 vfCCC3009kri030
+//霧「……美希は絶対に、あなたには渡さない」
+Kiri: "...I will never, ever hand Miki over to you."
+//See CCA0015. SOMEONE is taking someone else too seriously... except of course, Miki is Kiri's half here. Taichi's error seems to have been not to recognize this, somehow. Perhaps because he can see Miki does *not* take Kiri seriously. Also interesting in how these words Taichi could've said to Yutaka with regards to Kiri. -GHS
+TP
+
+WVP 0 vfCCC3009kri031
+//霧「壊させない！」
+Kiri: "I won't let you break her!"
+TP
+
+WVS 1 1
+GL 0 bgcc0007
+GS 0 1
+SEF 109 0
+WVP 2 seSHOES 1 0
+//HACK earlier rooftop, new SFX -GHS
+
+//つかつかと靴音を立てて、脇を通り過ぎる。
+With the sound of determined footstep, she passes right underarm.
+//PCP CCC3008
+TP
+
+
+WVP 2 SE044 1 0
+//軋む扉。締まる扉。
+The door creaks.
+TL
+The door shuts.
+WVP 2 se036 1 0
+//CP CCC3008
+TP
+
+//俺は一人になった。
+I became alone.
+TP
+
+//太一「…………怪物……」
+Taichi: "......monster..."
+TP
+
+WVP 1 bgm007.ogg 0 0 0
+TS 2
+GL 5 zzzblackblend
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+//怪物。
+> 
+ 
+ 
+Monster.
+TL
+//怪物。
+Monster.
+//CP amonster
+TL
+//怪物。
+Monster.
+//CP bmonster
+TL
+//言葉を反芻して、噛みしめる。
+I ruminate over the word, and try biting into it.
+TL
+//苦み。
+Bitter.
+TL
+//これは脳の味だ。
+That is the taste of the brain.
+TL
+//脳がある種の神経伝達物質を分泌し、その味が味覚を司る神経に直接乗って錯覚を起こす。
+The brain secretes a certain type of
+neurotransmitter, and its flavor rides directly
+to the nerves that govern the taste, creating
+the illusion.
+//He's even going into synesthesia! -GHS
+TL
+//怪物。
+Monster.
+//CP amonster
+TL
+//いみじくも、自分を表するときの言葉と同じ。
+So exquisite that it's the exact same word
+I use to represent myself.
+//Now see CCD0022A. Odd he'd contradict himself there, if he really agrees he's a monster. But as the end of the script truly shows, he doesn't believe he's a monster. He wishes he were, because that'd make things sooo simple. -GHS
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+//太一「いてて」
+Taichi: "OwChCh."
+TP
+
+//ほら、傷む。
+Well look here, it hurts.
+TP
+
+//乾いた心がひりつく。
+My dried up heart stings.
+TP
+
+//ささった無数の切片が、苦痛を生み続ける。
+The countless slices that had been cut into it continue to produce agony.
+TP
+
+//太一「まったく……ズケズケと……」
+Taichi: "Dammit... all blunt like that..."
+TP
+
+//膝立ちになる。
+I fall to my knees.
+TP
+
+GL 0 bgcc0007
+GS 0 1
+SEF 10 0
+//HACK pixelate twitch -GHS
+
+//立ちくらみがした。
+I became dizzy from vertigo.
+TP
+
+//太一「あーいて……いてて。いたいけど」
+Taichi: "Awww ouch... ouch ouch. But it hurts..."
+TP
+
+//どれも、致命傷ではない。
+But none of them are fatal wounds.
+TP
+
+//霧のナイフは、俺の心を効果的に貫いてはいない。
+Kiri's knife did not successfully penetrate into my heart.
+//Pure bullshit. One doesn't pass out for hours on the spot after simply being called a monster without it hurting like damn hell. If the crossbow is as fictional as the knife, and the knife is just catsp~~ harsh words, then this is close to what happens to Taichi when he gets "shit" by her. -GHS
+TP
+
+//表面に細かな傷をつけただけだ。
+It just left thin gashes on the surface.
+TP
+
+//痛みはあるが。
+There's pain but,
+TP
+
+//児戯に属した。
+it is of the genus of mere child's play.
+TP
+
+//かつて俺が受けてきた『攻撃』は、こんなものではない。
+The... Attack that I took in my beginnings was nothing like this.
+//And here's the real problem: he has a very skewed perspective on the topic. An attack that completely shatters the rationality, takes away color from the hair and more being the standard would make the above look small. But the body has evidence... -GHS
+TP
+
+//だが久々に攻撃を受けた気がする。
+But there's this feeling that I haven't taken an attack in a long time.
+TP
+
+//適度な攻撃は、適度な緊張感を呼ぶ。
+A moderate attack that invokes a moderate strain.
+TP
+
+//酩酊に近い状態か。
+Is that sort of like drunkenness?
+TP
+
+WVS 1 1
+
+GL 0 bgcc0000a
+GS 0 1
+SEF 109 0
+
+//その場に横になる。
+I end up laying down on that spot.
+//See CCC3004. This is the same thing that Yutaka does. Taichi has narcolepsy attacks when overstimulated just like him! -GHS
+TP
+
+
+//太一「……射殺せるなら……そうしてくれ……」
+Taichi: "...if you can shoot me to death... then please do so..."
+TP
+
+//太一「いっそ楽にしてくれよ～っと♪」
+Taichi: "Please release me from my pleee～asure!♪"
+//Seems to be a play on いっそひと思いに殺しておくれ -GHS
+TP
+
+//悪くない、気分だった。
+This mood wasn't bad at all.
+TP
+
+RET

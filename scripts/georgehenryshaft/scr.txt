@@ -1,0 +1,35 @@
+IF $CGevcc0065 == 0 JMP GM_LOOP
+//HACK extra scenario implementation -GHS
+Check if the last CG is unlocked. Odds anyone'll stumble on this before actually finishing the VN without knowing of this should be close enough to zero. -GHS
+CALL ccEXTRA
+//Extra menu. -GHS
+JMP GM_LOOP
+:GM_LOOP
+IF $loop == 0 JMP LR0001
+IF $loop == 1 JMP LR0002
+//First week always goes into the second. Second week always goes into the third. -GHS
+IF $TOKO != 1 JMP LR0003
+IF $MISATO != 1 JMP LR0003
+IF $KIRI != 1 JMP LR0003
+IF $MIKI != 1 JMP LR0003
+JMP LR0004
+//Touko, Misato, Kiri and Miki must be captured. If they are, go to Youko route. -GHS
+:LR0001
+CALL cca
+$loop + 1
+JMP GM_LOOP
+:LR0002
+CALL ccb
+$loop + 1
+JMP GM_LOOP
+:LR0003
+CALL ccc
+$loop + 1
+JMP GM_LOOP
+:LR0004
+CALL ccd
+$loop + 1
+JMP GM_LOOP
+:GM_END
+$END = 1
+JF maketwin

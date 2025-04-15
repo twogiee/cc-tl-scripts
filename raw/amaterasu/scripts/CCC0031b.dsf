@@ -1,0 +1,464 @@
+
+
+WVP 1 bgm002.ogg 0 0 0
+
+
+GL 0 bgcc0006
+GS 0 1
+GS 1 0
+SEF 152 0
+Miki and Kiri were there.
+TP
+
+Taichi: "......do you have any food?"
+TP
+GL 1 TCYM0000
+GP 1 180 0
+GI 1 1
+
+
+WVP 0 vfCCC0031bmki000
+Miki: "Unfortunately..."
+TP
+
+Taichi: "What about that bentou......?"
+TP
+
+Rice.
+TP
+
+Meatballs.
+TP
+
+Taichi: "H-hey...why do you have such things in a......?"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0031bmki001
+Miki: "Kiri-chin made them. She called it a rice box or something..."
+IF $tlnote != 0 (TL note: Rice balls often contain dried plums and other things to add flavor, but meatballs are a very strange choice.)
+TP
+
+Taichi: "Uwa, that's nice..."
+TP
+
+GL 2 TCSK0002
+GS 2 1
+GP 1 40 0
+GP 2 345 0
+SEF 109 0
+
+
+WVP 0 vfCCC0031bkri000
+Kiri: "......there's not enough for Sempai."
+TP
+
+She said flatly.
+TP
+
+Taichi: "Aren't there quite a few there?"
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCC0031bmki002
+Miki: "There are a lot."
+TP
+
+It seems quite clear that there are enough for three.
+TP
+
+WVP 0 vfCCC0031bkri001
+Kiri: "However, for some reason there aren't any for Sempai."
+TP
+
+Taichi: "......muu..."
+TP
+
+Innocence growled.
+TP
+
+Taichi: "Then let's barter."
+TP
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfCCC0031bmki003
+Miki: "You mean trade?"
+TP
+
+Taichi: "Solid and gummy candies. Handmade."
+TP
+
+Their eyes changed color.
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC0031bmki004
+Miki: "Handmade?"
+TP
+
+Taichi: "Mmm. By Youko-chan though."
+TP
+
+Taichi: "By the looks of things, these are low in sugar and are good for your looks. The gummies are made from konjac jelly. Zero calories."
+//I'm more familiar with the term 'konyaku jelly'
+
+//, but I guess it different according to each country's familiarity with Japanese food. - Raide
+TP
+GL 1 TCYM0004
+GL 2 TCSK0000
+GI 1 0
+GI 2 0
+
+
+WVP 0 vfCCC0031bgoo000
+
+
+Both of them: "Zero calories!?"
+TP
+GS 1 0
+GS 2 0
+SEF 109 0
+
+........................
+TP
+
+
+Taichi: "Yaaay."
+TP
+
+Exchange accomplished.
+TP
+
+GL 1 TCYM0003
+GI 1 1
+
+WVP 0 vfCCC0031bmki006
+Miki: "It has a mother's flavor......"
+//Not sure exactly how you say this in English. Å`IX
+//Changed it to how I think it is - Sheeta
+TP
+
+GL 2 TCSK0006
+GI 2 1
+WVP 0 vfCCC0031bkri003
+Kiri: "Yes it does."
+TP
+
+WVP 0 vfCCC0031bmki007
+Miki: "It's milk chocolate."
+//Technically, this is a total guess. No other conceivable meaning for "milk" made any sense in this context. Å`IX
+TP
+
+WVP 0 vfCCC0031bkri004
+Kiri: "It is..."
+TP
+
+Taichi: "Though that's a stalker's flavor."
+TP
+
+WVP 0 vfCCC0031bmki008
+Miki: "My cheeks......my cheeks are......"
+TP
+
+WVP 0 vfCCC0031bkri005
+Kiri: "Nnnnnnn!"
+TP
+
+They are girls...
+TP
+
+Thanks to that I had rice.
+TP
+
+I am, after all, Japanese.
+TP
+
+Taichi: "Delicious......Kiri-chin has a talent for cooking."
+TP
+
+GL 2 TCSK0000
+GI 2 0
+WVP 0 vfCCC0031bkri006
+Kiri: "......all I did was heat them up."
+TP
+
+Taichi: "But they're delicious."
+TP
+GL 2 TCSK0002
+GI 2 0
+
+WVP 0 vfCCC0031bkri007
+Kiri: "If I don't make them, Miki's going to eat sweets forever."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0031bmki009
+Miki: "I like sweets."
+TP
+
+Taichi: "We both seem to be laboring over food."
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCC0031bmki010
+Miki: "Yes......"
+TP
+
+Taichi: "Kiri-chin, let's get married."
+TP
+
+GL 2 TCSK0002
+GI 2 0
+
+WVP 0 vfCCC0031bkri008
+Kiri: "That's impossible."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0031bmki011
+Miki: "Not, 'I don't want to,' but, 'Impossible.' There you have it, Sempai."
+TP
+
+Taichi: "......I'm on fire."
+TP
+
+GL 2 TCSK0001
+GI 2 0
+WVP 0 vfCCC0031bkri009
+Kiri: "I'll throw water on you."
+TP
+
+Taichi: "Again?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0031bmki012
+Miki: "Are there any more sweets?"
+TP
+
+Taichi: "There are. Cookies, sables and more. Youko-sensei is good at making sweets."
+IF $tlnote != 0 (TL note: "Sable" is a French word for a kind of cookie with twice the normal portion of butter.)
+//Actually, the first word was not "cookie" but "biscuit." I felt it'd be overkill to have a tlnote explaining a confectionary Britishism. Å`IX
+TP
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC0031bmki013
+Miki: "Whoa, that's unexpected."
+TP
+
+Taichi: "They seem to keep well."
+TP
+
+GL 2 TCSK0000
+GI 2 0
+WVP 0 vfCCC0031bkri010
+Kiri: "......is she...your lover?"
+TP
+
+Taichi: "Eh? Me and Youko-chan?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0031bmki014
+Miki: "Miki has also been interested in that."
+TP
+
+WVP 0 vfCCC0031bmki015
+Miki: "She makes no effort to eat well."
+TP
+
+Taichi: "......aren't her cheeks stuffed?"
+TP
+
+WVP 0 vfCCC0031bmki016
+Miki: "Munch."
+TP
+
+So spoke the girl storing up midsummer fat.
+//The intent is that she's eating enough that she won't need to eat for a long time. Tell me if that got across. Å`IX
+//Yep - Sheeta
+TP
+
+Taichi: "Well, we did live together once."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0031bmki017
+Miki: "Cohabitation."
+TP
+
+GL 2 TCSK0000
+GI 2 0
+WVP 0 vfCCC0031bkri011
+Kiri: "Cohabitation."
+//Don't you love how this word is only two syllables in Japanese? Å`IX
+TP
+
+They were stymied.
+TP
+
+Taichi: "No, not the same as cohabitation."
+TP
+
+Taichi: "Ummm, basically we had no parents, and Mutsumi-san adopted both of us. Ah, she's my guardian."
+TP
+
+Taichi: "You could say we were like siblings, but......I don't think of it that way."
+TP
+
+She doesn't think that way either.
+TP
+
+That's why Youko-chan was chased out.
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0031bmki018
+Miki: "Whoa, I never heard about this."
+TP
+
+GL 2 TCSK0002
+GI 2 0
+WVP 0 vfCCC0031bkri012
+Kiri: "......I thought they had a suspicious relationship, but that was it......"
+TP
+
+No, it actually is suspicious.
+TP
+
+Taichi: "Well, about that, we're not blood relatives."
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC0031bmki019
+Miki: "Hasekura-sempai has many mysteries."
+TP
+
+Taichi: "I couldn't agree more."
+TP
+
+IF $tlnote != 0 Taichi: "Now...I have some special thousand-year candy here, so everyone get in the mood for the seven-five- three festival." (TL note: "Shichi-go-san (seven-five- three)" is a traditional festival celebrating five year-old boys and three or seven year-old girls.)
+IF $tlnote == 0 Taichi: "Now...I have some special thousand-year candy here, so everyone get in the mood for the seven-five- three festival."
+//Passage is too long, it goes more than six lines in-game - Raide
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0031bmki020
+Miki: "Waa, thousand year candy!"
+IF $tlnote != 0 (TL note cont: One part of this festival is the "chitose-ame" or "thousand year candy," which symbolizes longevity for the children.)
+TP
+
+Kiri took it from me.
+TP
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCC0031bmki021
+Miki: "Uuooo, what are you doing!?"
+TP
+
+GL 2 TCSK0002
+GI 2 0
+WVP 0 vfCCC0031bkri013
+Kiri: "You can't have sweets."
+TP
+
+WVP 0 vfCCC0031bmki022
+Miki: "But you ate them yourself!"
+TP
+
+GL 2 TCSK0000
+GI 2 0
+WVP 0 vfCCC0031bkri014
+Kiri: "I eat real food too. From now on we have to manage our own health, right?"
+TP
+
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0031bmki023
+Miki: "......wooow."
+TP
+
+Hmmm.
+TP
+GL 2 TCSK0000
+GI 2 0
+WVP 0 vfCCC0031bkri015
+Kiri: "What is it? You're staring at me with indecent eyes......"
+TP
+
+Taichi: "Don't say 'indecent.'"
+TP
+
+Taichi: "I only thought that you make a good combo."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfCCC0031bmki024
+Miki: "Since we're the flower-chans."
+TP
+
+Taichi: "So much so that I want to make you debut."
+TP
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0031bmki025
+Miki: "Though even if we debut now......"
+TP
+
+GL 2 TCSK0006
+GI 2 0
+WVP 0 vfCCC0031bkri016
+Kiri: "At best the CD could only sell eight copies."
+TP
+
+WVP 0 vfCCC0031bmki026
+Miki: "A million would be a dream within a dream."
+TP
+
+WVP 0 vfCCC0031bkri017
+Kiri: "Then I'll buy two copies."
+TP
+
+WVP 0 vfCCC0031bmki027
+Miki: "Then I'll also buy two."
+TP
+
+WVP 0 vfCCC0031bkri018
+Kiri: "That makes ten."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0031bmki028
+Miki: "Yep, ten. Two digits."
+TP
+
+She chuckled.
+TP
+
+They really are intimate.
+TP
+
+Their behavior refreshed me just a tiny bit.
+TP
+
+WVS 1 1
+
+RET

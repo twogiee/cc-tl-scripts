@@ -1,0 +1,137 @@
+WVP 1 bgm013.ogg 0 0 0
+GL 0 bgcc0002c
+GL 1 TCKT0006C
+GS 0 1
+GS 1 1
+GP 1 230 0
+SEF 109 1
+
+WVP 0 vfccb2002fyu043
+//冬子「……ここに住んだらだめ？」
+Touko: "...me staying here, can't I?"
+TP
+
+//耳を疑った。
+I could not believe my ears.
+TP
+
+//本気で弱ってるな、コイツ。
+She's seriously impaired, this one.
+TP
+
+//さらっと言ったぞ。
+She even said it all naturally.
+TP
+
+//他に頼る相手もいないのは確かで。
+Then again, there is certainly no one else she could depend on.
+TP
+
+//必然、俺になるわけだ。
+Inevitably, she turned to me.
+TP
+
+//うっわ、複雑。
+Waaah, so complicated.
+TP
+
+//だって冬子と俺って―――
+Because Touko and I---
+TP
+//>　　　　　　　　　　　　おうのう
+//ううううう（懊悩）。
+Ngggggh (anguish) (pronounced oh no)
+//See CCA0016, it's one of the few furrys that have been repeating so it's totally intentional. -GHS
+TP
+
+
+
+
+
+
+
+
+//太一「そ、そんなふしだらアカン！」
+Taichi: "No-, nothing so slovenly I can accept!"
+TP
+
+WVP 0 vfccb2004bfyu000
+//冬子「……そう」
+Touko: "...right."
+TP
+
+//食い下がらなかった。
+She did not oppose this harshly.
+TP
+
+//太一「そうですよ」
+Taichi: "Indeed that is right."
+TP
+
+WVP 0 vfccb2004bfyu001
+//冬子「そうよね……」
+Touko: "Right then..."
+TP
+
+//顔を埋めた。
+She buried her head,
+TP
+
+//膝頭に。
+between the kneecaps.
+TP
+
+
+//太一「ソーリー……」
+Taichi: "Soo-ree."
+TP
+
+WVP 0 vfccb2004bfyu002
+//冬子「……ぐすっ……」
+Touko: "...sob..."
+TP
+GL 0 bgcc0000d
+GS 1 0
+GS 0 1
+SEF 109 0
+//……。
+...
+TP
+
+//…………。
+......
+TP
+
+//……………………。
+............
+TP
+GL 0 bgcc0002c
+GS 0 1
+SEF 155 0
+
+//残ったじゃがいもをタッパーに詰めて、それを手に冬子は帰った。
+Touko returned home, in her hands a tupperware container with the rest of the potatoes crammed in.
+TP
+
+//太一「たくましくあれ」
+Taichi: "Be strong now."
+TP
+
+//切に願う俺だった。
+That wish of mine was earnest.
+TP
+
+WVS 1 1
+GS 0 0
+GS 1 0
+SEF 109 1
+
+Translator's Note: This scene appears complete. Voices were shipped with the final version. This removed choice was possibly then followed by the Bad Ending, which was also removed.
+TP
+
+
+
+
+RET
+
+

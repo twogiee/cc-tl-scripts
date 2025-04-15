@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+
+
+
+
+//太一「てやー！」
+Taichi: "T'eyaaah!"
+//PCP CCC3002
+//...but that one made no sense without the exclamation mark and--- no one cares? That includes me, then. -GHS
+TP
+
+GL 0 zzzCCD0015Azoom
+GI 0 1
+//HACK siiiiiigh -GHS
+
+//拳を振り上げて接近した。
+I draw nearer with my fist raised in the air.
+TP
+
+
+WVP 0 vfCCD0001kri021
+//霧「っ！」
+Kiri: "!!!"
+TP
+
+
+
+//WVP 2 SE094 1 0
+//SEF 101 0
+GL 4 zzzCrossbowBolt
+GP 4 480 0
+GI 4 0
+CIN 4 480 0 0 0
+CR 0
+//HACK in the bolt. -GHS
+
+
+
+//どきゅっ
+D'kyuh!
+TP
+GL 5 BGCC0000E
+GI 5 0
+WT 25 0
+GS 4 0
+GS 5 0
+SEF 100 0
+WVS 1 0
+WVP 2 SE094 1 0
+WVS 1 0
+//HACK out bolt. SFX and music stop moved here. -GHS
+
+
+//太一「げ……」
+Taichi: "Geh..."
+TP
+
+
+//矢が心臓に刺さった。
+An arrow got stuck in the heart.
+//Hey, just like Youko! -GHS
+TP
+
+
+//美しく貫いた。
+It went through beautifully.
+TP
+
+
+//太一「サックリと……また……」
+Taichi: "Again... so easily..."
+TP
+
+
+//俺は死んだ。
+I had died.
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+//……………………。
+............
+TP
+
+
+//…………。
+......
+TP
+
+
+//……。
+...
+TP
+
+
+TS 2
+SEF 109
+
+
+WT 3000
+WT 3000 1
+
+
+
+
+RET

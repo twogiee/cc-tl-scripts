@@ -1,0 +1,922 @@
+WVP 1 bgm012.ogg 0 0 0
+
+
+GL 2 TCYM0000
+GP 2 180 0
+//GP 1 40 0
+//GP 2 340 0
+GS 1 0
+GS 2 1
+GS 5 0
+SEF 109 0
+//HACK out from the sky, Miki alone -GHS
+
+
+WVP 0 vfCCC4001mki000
+//美希「どーもー」
+Miki: "Heeellooo!"
+//PCP CCA0006. We're deep into it now. -GHS
+TP
+
+//ほどなく美希は来た。
+Miki came shortly thereafter,
+TP
+
+//霧を連行して。
+dragging Kiri with her.
+TP
+GL 1 TCMM0004
+GP 1 40 0
+GP 2 340 0
+GS 1 1
+GS 2 1
+SEF 109 0
+//HACK surprised Misato, both her and Kiri -GHS
+WVP 0 vfCCC4001msa000
+//見里「……山辺さん？」
+Misato: "...Yamanobe-san?"
+TP
+
+GL 2 TCYM0003
+GI 2 0
+
+WVP 0 vfCCC4001mki001
+//美希「山辺美希です。来ました」
+Miki: "Yamanobe Miki here. We have come!"
+//RAISU KAWAII DESU-NYA -GHS
+TP
+
+GL 2 TCYM0000
+GI 2 0
+
+WVP 0 vfCCC4001mki002
+//美希「ほら、霧ちんあいさつ」
+Miki: "Come on, Kiri-chin, greeting!"
+TP
+
+GL 3 TCSK0000
+GP 2 0 0 0
+GP 3 320 0 0
+GS 3 1
+GS 1 0
+SEF 109 0
+WVP 0 vfCCC4001kri000
+//霧「……ども」
+Kiri: "...hi."
+//CP CCA0015
+//That's basically her catchphrase by now. -GHS
+TP
+
+GL 2 TCYM0001
+GI 2 0
+WVP 0 vfCCC4001mki003
+//美希「声が小さい。聞こえないよ！」
+Miki: "Voice too low. Can't hear!"
+//See CCA0027 -GHS
+TP
+GL 3 TCSK0003
+GI 3 0
+
+WVP 0 vfCCC4001kri001
+//霧「……ど、どおも！」
+Kiri: "...he-, hellooo!"
+TP
+
+GL 2 TCYM0001
+GI 2 0
+WVP 0 vfCCC4001mki004
+//美希「どうもじゃありません。おはようございますでしょー！」
+Miki: "'Hello' my behind. Give a proper good morning now!"
+TP
+GL 3 TCSK0000
+GI 3 0
+WVP 0 vfCCC4001kri002
+//霧「ぉ、ぉはょぅござぃます」
+Kiri: "g-, gOOdmORnInG."
+TP
+
+
+WVP 0 vfCCC4001mki005
+//美希「『お』と『よ』と『う』と『い』が小さかった。もう一度！」
+Miki: "The 'g', the 'd', the 'm' and the 'n' where too small. One more time!"
+//Converted through the Curse of Mikaka, it's 394e. E is the fifth letter of the alphabet so 3+9+4+5=21=7x3 -GHS
+TP
+
+
+GP 3 305 15
+GI 3 0
+GP 3 320 30
+GI 3 0
+GP 3 335 15
+GI 3 0
+GP 3 320 0
+GI 3 0
+//HACK independent doll shake -GHS
+
+
+//ぺしーん、と尻を叩く。
+Paffity, she slaps Kiri's ass.
+TP
+
+//こまけぇー！
+Nitpickeeer!
+//http://www.paradisearmy.com/doujin/pasok_komakei.htm oddly, this would mean that Miki's strict on the details, not how awesome it was that she slapped Kiri's butt. This threw me off for a while. -GHS
+TP
+
+GL 3 TCSK0004
+GI 3 0
+WVP 0 vfCCC4001kri003
+//霧「きゃっ……たたかないでよぉ……」
+Kiri: "Kyah! ...don't slap me, really..."
+TP
+
+//霧は尻に敷かれていた。
+Kiri was being assiduously imposed on by Miki.
+//Literally means "dominate" (generally a wife to a husband), though it reads like "she's establishing herself on her ass", ergo ass pun. -GHS
+TP
+
+//俺も敷かれたい。
+I wanna be imposed on too.
+TP
+GL 3 TCSK0000
+GI 3 0
+
+WVP 0 vfCCC4001kri004
+//霧「お、おはようございます」
+Kiri: "G-, good morning."
+TP
+
+//ぺこりと頭も下げる。
+She bows her head with a sharp bob.
+//CP CCA0013
+//Hi Yusa -GHS
+TP
+GL 2 TCYM0011
+GI 2 0
+WVP 0 vfCCC4001mki006
+//美希「うむうむ」
+Miki: "Goody, goody!"
+TP
+
+//美希ちんはやるときはサドだった。
+When it was time to get things done, Miki-chin was sadistic.
+//Like Yutaka... -GHS
+TP
+//太一「なんだその辞儀はぁ！　角度が四度も足りてないじゃない―――か―――」
+Taichi: "What kind of bow was even thaaat! Isn't the angle 4 degrees insuffiiiiicieeeeent!"
+//I don't see the three. -GHS
+TP
+GL 5 bgcc0000e
+GL 4 sgcc0013
+$CGsgcc0013 = 1
+GI 5 0
+GS 5 0
+GS 4 1
+GS 3 0
+GS 2 0
+GS 1 0
+WVP 2 se100 1 0
+SEF 109 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+WT 500 0
+WT 1000 1
+
+//GL 0 bgcc0007
+GS 0 1
+GS 4 0
+SEF 109 0
+
+
+
+GL 1 TCYM0000
+GP 1 180 0
+GI 1 1
+WVP 0 vfCCC4001mki007
+//美希「……繊細な霧ちんに多大なストレスかけてますから、つつかない方がいいですよ」
+Miki: "...because delicate little Kiri-chin is under plenty of stress, it is best to avoid picking on her."
+TP
+
+//太一「先に教えて……」
+Taichi: "Tell me beforehand..."
+TP
+
+//ダウンした俺に、美希は教えてくれた。
+Miki had told me after I had been downed.
+TP
+//GL 2 TCMM0000
+GL 2 TCMM0021
+//HACK doubty Misato -GHS
+GP 2 40 0
+GP 1 320 0
+GS 1 1
+GS 2 1
+SEF 109 0
+WVP 0 vfCCC4001msa001
+//見里「あのぅ、お二人ともどうしたんですか？」
+Misato: "Uhmmm, what might you two be doing here?"
+TP
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4001mki008
+//美希「部活に参加しにきました」
+Miki: "We have come to participate in club activities."
+TP
+
+GL 2 TCMM0005
+GI 2 0
+WVP 0 vfCCC4001msa002
+//見里「あ、でも……やっていただくようなことは……」
+Misato: "Ah, but... letting you do this, that would be..."
+TP
+
+WVP 0 vfCCC4001mki009
+//美希「参加しにきました」
+Miki: "We have come to participate."
+//Mi. -GHS
+TP
+
+WVP 0 vfCCC4001msa003
+//見里「あの、その、でも今までずっとサボって……」
+Miki: "Uhm, well, but you have been cutting up until now..."
+TP
+
+WVP 0 vfCCC4001mki010
+//美希「参加しにきました」
+Miki: "We have come to participate."
+//CP above (& PCP Taichi)
+//Mimi. -GHS
+TP
+
+WVP 0 vfCCC4001msa004
+//見里「わたし一人でやろうと思っていたので、皆さんに来てもらわずとも……」
+Misato: "I was thinking I would be doing this alone, without having everyone come in..."
+TP
+
+WVP 0 vfCCC4001mki011
+//美希「参加しにきました」
+Miki: "We have come to participate."
+//CP above
+//Mimimi. -GHS
+TP
+
+//先輩は断ろうと必死だ。
+Senpai has a desperate desire to decline.
+//Sometimes it's just better in English, period. -GHS
+TP
+
+//やはり部活は逃避目的だったか。
+Was I right then, and the only goal she had for club was flight?
+TP
+
+//太一「予想通りだ」
+Taichi: "It is just as I expected."
+//See the potatoes. -GHS
+TP
+
+//俺の人間観察力は今、限りなく神に近い。
+My powers of human observation were, now, infinitely close to God.
+//See CCC0003B. ~troll~troll~troll~ -GHS
+TP
+
+GL 1 TCYM0011
+GI 1 0
+WVP 0 vfCCC4001mki012
+//美希「部活に参加しにきましたー！」
+Miki: "We have come to participate in club activitieees!"
+//PCP above
+//Around 3 objections and she gives in. Ironically, that makes her pretty much human. -GHS
+TP
+
+//そして美希は押せ押せだ。
+And then Miki puts on more and more pressure.
+//This is all but how CCA0025B ends. -GHS
+TP
+
+WVP 0 vfCCC4001msa005
+//見里「ええと……うーん……」
+Miki: "Well... ngggh..."
+TP
+
+//太一「現実から目を反らしてもしょうがないですよ。もう僕らはここで朽ち果てるしかないのですから、諦めて今を楽しみましょう！」
+Taichi: "There are no ways to avoid this, not even averting one's eyes away from reality. All of us will rot away from here, this harmless young boy included, ergo please surrender and enjoy the present!"
+//"shoganai" + "averting eyes from reality" = troll meter getting to the middle of the yellow zone... and I got one guaranteed Gainax-proof, so most would've exploded by now. ...I totally wrote eroge instead of ergo -GHS
+TP
+
+GL 2 TCMM0001
+GI 2 0
+//HACK more pissy Misato -GHS
+
+WVP 0 vfCCC4001msa006
+//見里「もー、ほんとうにぺけくんったら」
+Misato: "Ohhh, seriously, Peke-kun, you..."
+TP
+GL 4 sgcc0014
+$CGsgcc0014 = 1
+WVP 2 se106
+GI 4 0
+//SEF 101 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+//にこやかに。
+With a smile,
+TP
+
+//しかし強力に。
+but forcefully.
+//Notice the total lack of reaction... then again, Zubaaan is not supposed to happen at all, as it. -GHS
+TP
+GO 4 1
+
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC4001mki013
+//美希「さー、ご命令を」
+Miki: "Well then, please order us."
+TP
+
+GL 2 TCMM0031
+GI 2 0
+WVP 0 vfCCC4001msa007
+//見里「ええとぉ、困りましたねぇ」
+Misato: "Uhmmmm, I am stumped..."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4001mki014
+//美希「えへへ」
+Miki: "Eheheh."
+TP
+
+GL 2 TCMM0000
+GI 2 0
+WVP 0 vfCCC4001msa008
+//見里「……佐倉さんもご一緒なんですか？」
+Misato: "...Sakura-san, you shall also help then?"
+TP
+
+GL 3 TCSK0003
+//GP 1 -80 0 0
+//GP 2 225 0 0
+GP 2 -10 0 0
+GP 1 180 0 0
+//HACK invert Miki and Misato, fix positions -GHS
+GP 3 400 0 0
+GS 2 1
+GS 3 1
+SEF 109 0
+WVP 0 vfCCC4001kri005
+//霧「わ、わたしは……美希に強引に……」
+Kiri: "I-, I have been... forced by Miki..."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4001mki015
+//美希「もてあます性欲」
+Miki: "Incontrollable sexual desire."
+//See CCD0008B -GHS
+TP
+
+//ぼそっと。
+In a whisper.
+TP
+
+GL 3 TCSK0000
+GI 3 0
+WVP 0 vfCCC4001kri006
+//霧「参加させてください」
+Kiri: "Please allow me to participate."
+TP
+
+//背筋を伸ばし、霧は言った。
+So said Kiri, straightening up her back.
+TP
+
+//GL 2 TCMM0000
+GL 2 TCMM0005
+//HACK more annoyed Misato -GHS
+GI 2 0
+WVP 0 vfCCC4001msa009
+//見里「……はぁ、しょうがないです」
+Misato: "...sigh, there are no ways."
+//See CCX0001 -GHS
+TP
+
+GL 2 TCMM0002
+GI 2 0
+//HACK happy Misato -GHS
+
+WVP 0 vfCCC4001msa010
+//見里「じゃあ……手伝ってもらいます……」
+Misato: "Then... I shall accept your help..."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4001mki016
+//美希「わーい、学園青春劇ー！　……霧ちん？」
+Miki: "Weeee, an Adolescent School Dramaaa! ...Kiri-chin?"
+//"It's a ****ing VN set at school where the protagonist is a second year and he gets girls older and younger!" -GHS
+TP
+GL 3 TCSK0002
+GI 3 0
+
+WVP 0 vfCCC4001kri007
+//霧「……わ、わーい……がくえんせいしゅんげきー……はぁ」
+Kiri: "...w-, weeee... adolescent school dramaaa... sigh."
+//Try as hard as you want, but you have (shudder) ve-ve-vertical shimapants (squiiick!), therefore I will hate you forever and ever, Kiri. -GHS
+TP
+
+GL 2 TCMM0031
+GI 2 0
+
+WVP 0 vfCCC4001msa011
+//見里「しかしまたどうして突然……」
+Misato: "But once again, why so suddenly..."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4001mki017
+//美希「美希なりの試行錯誤の結果です。まあ、お気になさらず」
+Miki: "It is the result of Miki's trial and error. Well, do not be worried."
+TP
+
+//太一「……決まりだね」
+Taichi: "...determined innshe."
+TP
+GL 2 TCMM0001
+GI 2 0
+
+WVP 0 vfCCC4001msa012
+//見里「あなたまで参加するわけですね」
+Misato: "So even you will participate, then."
+TP
+
+//太一「すいません……だって美希が……」
+Taichi: "Sorry... but Miki, she..."
+TP
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4001mki018
+//美希「……かわいいぞうさん」
+Miki: "...adorable elephant."
+TP
+
+//ぼそっと。
+In a whisper.
+//CP above
+TP
+
+//太一「自らの意志によってです、閣下」
+Taichi: "It is due to my personal volition, Your Excellency!"
+TP
+
+//敬礼して告げた。
+So I proclaimed with a bow.
+TP
+GL 2 TCMM0004
+GI 2 0
+WVP 0 vfCCC4001msa013
+//見里「あのぺけくんが、軍人のように！？」
+Misato: "Was Peke-kun made into a soldier?!"
+//See CCA0002 -GHS
+TP
+
+//太一「何をおっしゃいますやら」
+Taichi: "What do you say, madam!"
+//Hum, appears to be found in a Japanese translation of The Tortoise and the Hare that I can't source, or a song based on it (ibid). -GHS
+TP
+
+//太一「黒須太一、プロイセン精神を忘れたことは一度もありません」
+Taichi: "Kurosu Taichi has never and not for one instant forgot his Prussian soul!"
+//Prussia, from Axis Powers Hetalia, has white hair and red eyes. He's a sadist, obnoxious, and keeps a diary. Not saying they're reciprocally influenced, just wondering if they were working off the same source. Sounds like a pun (professional parallel? gastric gland???), uncertain of what if so. May just be more Nations of the World allegory, considering soul has the God kanji (and that omfg omfg omfg is 100% pr00f) (alcohol). -GHS
+TP
+
+GL 2 TCMM0001
+GI 2 0
+WVP 0 vfCCC4001msa014
+//見里「典型的なモンゴロイドじゃないですか」
+Misato: "Are you not a prototypical mongoloid?"
+//Doesn't seem to have that other meaning in Japanese; however, it being Tanaka, I can't exclude that he knows regardless. Especially since "mongoloid", as an insult, surprisingly doesn't refer to people who tried to become Japanese and instead became just obnoxious weeaboos, but to those with Down's syndrome (I know, not much difference). Even if it's not Taichi's possibly self-imposed autism, it'd fit the Scientific Troll aspect of it all. Leaving it uncapitalized, either it's obvious or it is not. -GHS
+TP
+
+//太一「なにせ日本プロイセンですから」
+Taichi: "It is the Nihonprussia anyway."
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC4001mki019
+//美希「日本アルプスと似たようなものですね」
+Miki: "It's just like the Japanese Alps isn't it."
+//http://en.wikipedia.org/wiki/Alps vs http://en.wikipedia.org/wiki/Japanese_Alps which I suppose plays further into the allegory. -GHS
+TP
+
+//太一「仰せの通り」
+Taichi: "It is as your statement says."
+TP
+//GL 1 TCYM0003
+GL 1 TCYM0011
+//HACK cliff-puff Miki -GHS
+GI 1 0
+WVP 0 vfCCC4001mki020
+//美希「先輩も霧ちんも、ちゃんといい子にしてますから、バンバン使ってあげてください」
+Miki: "Senpai and Kiri-chin both are very nice kids so, please make use of them like you would bullets in a machine gun."
+//Oh, another thing that's back. -GHS
+TP
+
+GL 2 TCMM0031
+GI 2 0
+WVP 0 vfCCC4001msa015
+//見里「……そうですね。こうなったら、も、めいっぱいお願いします」
+Misato: "...so it is... if it has to be like this, then, do this with all your might if you please."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4001mki021
+//美希「とりあえず重くて持ってこられなかった必要なものを運ばせようかと」
+Miki: "First of all, we should bring up the heaviest of the necessary things that haven't been brought over yet."
+//...that's an odd way to put it, but, K. -GHS
+TP
+
+//小悪魔……。
+Litil divil...
+//ohhh, another odd reference I added. -GHS
+TP
+
+GL 3 TCSK0004
+GI 3 0
+WVP 0 vfCCC4001kri008
+//霧「……重いの持てないのに……」
+Kiri: "...but I can't lift weights..."
+TP
+
+//霧も泣きそうだった。
+Kiri was also tearful.
+TP
+
+//とりあえず。
+For the moment,
+TP
+
+//祠行くの中止……。
+going to the hokora is suspended...
+TP
+
+WVS 1 1
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+SEF 152 0
+WT 500 0
+WT 500 1
+GL 0 bgcc0011a
+GS 0 1
+SEF 152 0
+WVP 1 bgm004.ogg 0 0 0
+//HACK fade music, in "Way to Home" -GHS
+
+//数時間後。
+A number of hours later,
+TP
+
+//部活が終わった。
+club activities had ended.
+TP
+
+//校舎を出て、屋上を見上げる。
+On the way out of the school building, I look up at the rooftop.
+//PCP CCA0011A
+TP
+
+//アンテナの先端が見えた。
+I could see the tip of the antenna.
+TP
+
+//その隣。
+And next to it,
+//CP CCA0011A
+TP
+
+//先輩はまだ、そこにいた。
+Senpai was, once more, still there.
+//PCP CCA0011A
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//部活に励む。
+Zealous in her club activities.
+TP
+
+//いかにも学生らしい。
+It's so incredibly student-like.
+//See CCA0030 -GHS
+TP
+
+//けどその健全さが、逃避として作用することもあるはずだ。
+But, certainly, that wholesome behavior is also being used for flight.
+TP
+
+//ともあれ。
+In any case.
+TP
+
+//太一「……ほ」
+Taichi: "...hoh."
+TP
+
+//疲れた。
+Tired.
+TP
+GL 1 TCSK0002b
+GP 1 220 0
+GI 1 1
+
+
+WVP 0 vfCCC4001kri009
+//霧「……ほ」
+Kiri: "...hoh."
+TP
+
+//ご同様、か。
+The very same, then.
+TP
+
+GL 2 TCYM0003b
+GP 1 40 0
+GP 2 320 0
+GS 1 1
+GS 2 1
+SEF 109 0
+WVP 0 vfCCC4001mki022
+//美希「充実した一日だったぁ」
+Miki: "That was one productive daaay!"
+TP
+
+//そりゃそうだろうさ。
+Well it was, wasn't it.
+TP
+
+//人を使役するだけしておいて。
+But you've only exploited others,
+//See, of course, Kiri route -GHS
+TP
+
+//自分は指揮者さながらタクトを振って、と。
+yourself you've swung your baton around just like a conductor.
+//See CCA0027 among others -GHS
+TP
+
+//太一「じゃ俺こっちだから」
+Taichi: "Well, I'm off this way, so,"
+TP
+
+//歩き出す。
+I walk off.
+TP
+GL 1 TCSK0000b
+GI 1 0
+WVP 0 vfCCC4001kri010
+//霧「……じゃあね、美希」
+Kiri: "...bye then, Miki."
+TP
+
+
+GL 2 TCYM0000b
+GI 2 0
+WVP 0 vfCCC4001mki023
+//美希「うん、バイバイ」
+Miki: "Yes, bai bai!"
+//PCP CCA0015
+TP
+GS 1 0
+GS 2 0
+SEF 109 0
+
+//背後から足音。
+The sound of footsteps from behind.
+TP
+GL 1 TCYM0003b
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC4001mki024
+//美希「商店街まで一緒に帰りましょうですよ」
+Miki: "Let's go home together up to the shopping street!"
+TP
+
+//美希が並ぶ。
+Miki lines up.
+TP
+
+//太一「しょーですよー、ごじゆーにー」
+Taichi: "Shoo we are, feel free twhoo."
+//Cutesy -GHS
+TP
+
+//疲れていた。
+I was tired.
+TP
+GL 1 TCYM0001b
+GI 1 0
+WVP 0 vfCCC4001mki025
+//美希「いやあ、現像できましたよ、アレ」
+Miki: "Oh yeeeah, I developed 'those'."
+TP
+
+//部活中、美希は写真部の部室でそれをしていた。
+Partway through club activities, Miki went to the Photography Club room to do just that.
+TP
+
+//太一「……よく考えたら見せる相手って八人だけじゃないか。俺と君を抜いたら六人だ」
+Taichi: "...but if I think about it, there's only eight people you can show them to, aren't there. Minus you and me, that's just six."
+//Unless there's also everyone else. And they know. And why include Youko...? -GHS
+TP
+
+GL 1 TCYM0003b
+GI 1 0
+WVP 0 vfCCC4001mki026
+//美希「霧ちんと同じことを言いますね。じゃ、部活やめます？」
+Miki: "Kiri-chin said the same thing, she did. Well, will you quit club?"
+TP
+
+//太一「……ま、ここまでつきあったし。好きにすれば」
+Taichi: "...bah, I went together with this so far. I'll do as you like."
+TP
+
+WVP 0 vfCCC4001mki027
+//美希「えはは」
+Miki: "Ehahah..."
+TP
+
+GL 1 TCYM0000b
+GI 1 0
+WVP 0 vfCCC4001mki028
+//美希「せんぱいは力持ちですねー」
+Miki: "You're a strong one, Senpai!"
+//See CCA0006. -GHS
+TP
+
+//太一「そう？」
+Taichi: "I am?'
+TP
+
+GL 1 TCYM0003b
+GI 1 0
+WVP 0 vfCCC4001mki029
+//美希「男の人がしゃきしゃきもの運ぶのは見てて楽しいです。部活にかりだした甲斐がありました」
+Miki: "It's so fun to watch a man briskly move things around. It was quite worth it to recruit into the club!"
+//lawl gurlz liek strong men's -GHS
+TP
+
+//それだけのために……。
+She did it just for that purpose...
+TP
+GL 1 TCYM0011b
+GI 1 0
+WVP 0 vfCCC4001mki030
+//美希「その働きぶりまことに天晴れ。田崎商店でジュースおごってあげます」
+Miki: "Your labor performance has been splendid. I shall treat you to juice at the Tasaki Store."
+TP
+
+//太一「ハ、ハ、ハ。どうもありがたう」
+Taichi: "HA. HA. HA. Thank you very much."
+TP
+
+//顔が引きつってしまうな。
+My face stiffens thoroughly.
+TP
+
+//この娘は……。
+Why this girl...!
+TP
+
+//太一「ま、やることがあった方がいいか」
+Taichi: "Well, isn't it good to be busy doing something."
+TP
+
+GL 1 TCYM0003b
+GI 1 0
+WVP 0 vfCCC4001mki031
+//美希「ですです」
+Miki: "It is, it is!"
+TP
+
+//太一「細かいことはゆっくり考えればいいしな」
+Taichi: "It's great that we can think calmly about all the little details, yes."
+TP
+
+GL 1 TCYM0000b
+GI 1 0
+WVP 0 vfCCC4001mki032
+//美希「……今週は学園青春ドラマといきましょう」
+Miki: "...this week, let us make it a School Adolescent Drama."
+//See above. -GHS
+TP
+
+//太一「来週は？」
+Taichi: "And next week?"
+TP
+
+GL 1 TCYM0021b
+GI 1 0
+WVP 0 vfCCC4001mki033
+//美希「んー。人類生き残りを求めて男女八人の旅……ですとか」
+Miki: "Hmmm. The Voyage of the Eight Men and Women in Search of the Survivors of Mankind... something like that."
+TP
+
+//太一「そらおもしろいな」
+Taichi: "That sounds interesting."
+TP
+
+//こんなご時世だ。
+These are the times we will live in,
+TP
+
+//八人が０になるまでは。
+until the eight people become 0.
+//~loop~ -GHS
+TP
+
+//太一「けど、俺はここで普通やってるのがいいなぁ」
+Taichi: "But me, I'd rather do normal things here."
+TP
+
+//人類の意地をかけて、平常でいてやるのもいいだろう。
+It's probably in the disposition of mankind this preference to do what is usual.
+TP
+
+GL 1 TCYM0000b
+GI 1 0
+WVP 0 vfCCC4001mki034
+//美希「……なるほど」
+Miki: "...I see."
+TP
+
+GL 0 bgcc0014a
+GS 0 1
+GS 1 0
+SEF 152 0
+//ついた。
+We arrived.
+TP
+
+//美希は本当におごってくれた。
+Miki indeed treated me.
+//No hanky-panky(?) as in CCC0009.
+TP
+
+//太一「本当に、普通の日って感じだな」
+Taichi: "This really feels like a normal day don't it."
+TP
+
+GL 1 TCYM0003b
+GI 1 1
+WVP 0 vfCCC4001mki035
+//美希「はい♪」
+Miki: "Yes!♪"
+TP
+
+//夕日が空に照りはえる。
+The sky is aglow in the sunset.
+TP
+
+//今が、人類の斜陽だと思い返させた。
+Right now, it made my thoughts return to the sun setting over mankind.
+TP
+WVS 1 1
+//HACK music ends after the script instead of that odd point. -GHS
+
+
+RET

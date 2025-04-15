@@ -1,0 +1,239 @@
+
+
+
+
+
+
+TWS 0
+
+GL 0 bgcc0001b
+GS 0 1
+SEF 109 1
+
+
+The Broadcasting Club campout.
+//CP_S ccb0001
+TP
+WVP 1 bgm007.ogg 0 0 0
+
+Us first-years are advancing a grade, and happy third-years are retiring.
+TP
+
+
+A new school year is coming.
+TP
+
+
+With seven new faces.
+TP
+
+
+But actually, eight.
+TP
+
+
+I felt that 7/8 was okay.
+TP
+
+
+She......she'd come the moment I called her anyway.
+TP
+
+
+Just to gather seven people,
+TP
+
+
+The price I paid wasn't cheap.
+//CP_F
+TP
+
+
+At the same time, I definitely didn't gain much.
+TP
+
+
+In fact you could say it was a loss.
+TP
+
+
+Rage.
+TP
+
+
+Envy.
+TP
+
+
+Hatred.
+TP
+
+
+We hurt each other and broke apart.
+TP
+
+
+That was our campout.
+TP
+
+
+That was one reason the faculty didn't participate.
+//PCP_S
+TP
+
+
+These are private club activities after all.
+TP
+
+
+Mischief kept secret from the Institute.
+TP
+
+
+If this was made public, there'd be some noise.
+TP
+
+
+But I thought it was fine.
+//CP_F
+TP
+
+
+If I can control myself,
+TP
+
+
+If she's conducting surveillance on us,
+TP
+
+
+I thought that the worst possible scenario could be avoided.
+TP
+
+
+What did I want to do......by going to such lengths?
+TP
+
+
+Misato: "......"
+TP
+
+
+I even chased out Sempai...
+TP
+
+
+With that, the campout ended in the midst of pain and sorrow.
+TP
+
+
+The seven went home.
+TP
+
+
+I didn't want to see,
+TP
+
+
+The emaciated, wearied eyes avoiding one another, not interacting.
+TP
+
+
+Everyone's faces were like strangers to each other.
+TP
+
+
+That's why I took the lead.
+TP
+GL 0 bgcc0015b
+GS 0 1
+SEF 152 0
+
+On the way, the sun began to sink.
+//CP_S
+TP
+
+
+I had the feeling we'd been walking for a horribly long time.
+TP
+
+
+For several hours.
+TP
+
+
+Normally, this path didn't even take one hour.
+TP
+
+
+Was it because of fatigue?
+TP
+
+
+No one said anything.
+TP
+
+
+A world of only seven sets of footsteps.
+TP
+
+
+An abnormally quiet mountain path.
+TP
+
+
+Even the sounds of insects didn't reach our ears.
+TP
+
+
+Even the air felt cold.
+TP
+
+
+Even though it was summer.
+TP
+GL 0 bgcc0015b
+GS 0 1
+SEF 10 0
+
+
+Although it was dark, I could still see.
+TP
+
+
+I could see the path.
+TP
+
+
+I've always had good night vision.
+TP
+
+
+Around the time when I started wondering if I'd taken a wrong turn, we finally arrived at the town.
+TP
+WVS 1 1
+
+
+Humanity had been annihilated.
+//CP_F
+TP
+
+TS 2
+SEF 109 0
+
+WT 1000 0
+
+
+
+GL 0 TITLE3
+GS 0 1
+WVP 1 seeye002 1 0 0
+SEF 10 1
+WT 5000 1
+TS 3
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+RET

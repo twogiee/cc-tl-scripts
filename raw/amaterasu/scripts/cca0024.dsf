@@ -1,0 +1,365 @@
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 0
+WT 500 1
+I'm writing the manuscript.
+TP
+
+
+Taichi: "Hi-hi-hi."
+TP
+
+
+
+Taichi: "Hi-hi-hi-hi-hi!"
+TP
+
+
+
+Taichi: "Hiii--hi-hi-hi-hi-hi!! (I'm crying)"
+TP
+
+
+
+I can't get my thoughts together!
+TP
+
+
+
+The tension is now the exact opposite of that first day when I was writing absentmindedly using only my talent.
+TP
+
+
+
+WVP 0 vfcca0024msa000
+Girl: "......Keiii-kuuunnn......"
+TP
+
+
+
+Someone was calling me.
+TP
+GL 0 bgcc0000c
+GS 0 1
+SEF 109 0
+
+
+I peeked out the window.
+TP
+
+
+
+Taichi: "Mimi-sempai?"
+TP
+WVP 1 bgm012.ogg 0 0 0
+
+
+
+
+WVP 0 vfcca0024msa001
+Misato: "Good eveniiing."
+TP
+
+
+
+Taichi: "What's wrooong?"
+TP
+
+
+
+WVP 0 vfcca0024msa002
+Misato: "Where are you?"
+TP
+
+
+
+Taichi: "I'm looking at you from the second floor window."
+TP
+
+
+
+WVP 0 vfcca0024msa003
+Misato: "It's too dark for me to see."
+TP
+
+
+
+Taichi: "I can see you just fine."
+TP
+
+
+
+WVP 0 vfcca0024msa004
+Misato: "I wonder why that is..."
+TP
+
+
+
+Taichi: "Dunno."
+TP
+
+
+
+WVP 0 vfcca0024msa005
+Misato: "Peke-kun must have great night vision."
+TP
+
+
+
+Taichi: "Since I'm a wild animal, my senses are sharp."
+TP
+
+
+
+WVP 0 vfcca0024msa006
+Misato: "That's kind of cool."
+TP
+
+
+
+She spoke while flapping her arms.
+TP
+
+
+
+She's acting awfully young.
+TP
+
+
+
+Taichi: "Anyway, please come in."
+TP
+
+
+
+WVP 0 vfcca0024msa007
+Misato: "Yeeesss."
+TP
+
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 0
+GL 1 TCMM0000c
+GP 1 220 0
+GI 1 1
+
+
+
+WVP 0 vfcca0024msa008
+Misato: "A, a candleÅÙ"
+TP
+
+
+
+Taichi: "The atmosphere is really important when writing, Ozeu-san." 
+IF $tlnote != 0 (TL note: "Ozeu-san" is an older version of "Ojou-san.")
+TP
+
+
+
+GL 1 TCMM0002c
+GI 1 0
+WVP 0 vfcca0024msa009
+Misato: "I see..."
+TP
+
+
+
+She promptly sat down in the seiza position.
+IF $tlnote != 0 (TL note: Seiza is the traditional Japanese seating position where one's knees are on the ground in front of them and their heels are supporting their butt.)
+TP
+
+
+
+GL 1 TCMM0000c
+GI 1 0
+WVP 0 vfcca0024msa010
+Misato: "Were you studying up here?"
+TP
+
+
+
+Taichi: "No, just working on the manuscript."
+TP
+
+
+
+WVP 0 vfcca0024msa011
+Misato: "Aaah."
+TP
+
+
+
+Taichi: "So, with what purpose have you visited this house?"
+TP
+
+
+
+GL 1 TCMM0002c
+WVP 0 vfcca0024msa012
+Misato: "Ah, since you help me out so much, I thought I'd treat you to something."
+TP
+
+
+
+She held up a wrapped object.
+TP
+
+
+GL 1 TCMM0000c
+WVP 0 vfcca0024msa013
+Misato: "Here's a bentou."
+IF $tlnote == 1 (TL note: A "bentou" is a Japanese boxed lunch. It's holistically similar to a Western picnic basket, although it's smaller, more likely to contain small vegetables and meant to be eaten with chopsticks.)
+TP
+
+
+
+Taichi: "Sempai banzai."
+IF $tlnote == 1 (TL note: "Banzai" is the generic Japanese cheer, literally meaning "ten thousand years old," and thus is similar to the English "long live.")
+//Just noticed it was weird to say [Japanese word] (TL note: [Japanese word] should be tled as [English words]), so I changed the phrasing a bit. Å`IX
+TP
+
+
+
+WVP 0 vfcca0024msa014
+Misato: "I made enough for two, so why don't we eat together?"
+TP
+
+
+
+Taichi: "I'll get some drinks."
+TP
+
+
+
+
+GS 0 0
+GS 1 0
+SEF 152 0
+
+
+WT 1000 0
+WT 1000 1
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 0
+
+
+Taichi: "Delicious."
+TP
+
+
+
+Taichi: "Sempai's good at this."
+TP
+
+
+GL 1 TCMM0031c
+GI 1 1
+
+WVP 0 vfcca0024msa015
+Misato: "Am I now? I only just started cooking recently......"
+TP
+
+
+
+Taichi: "Well, I'm no gourmet or anything."
+TP
+
+
+GL 1 TCMM0001c
+GI 1 0
+
+WVP 0 vfcca0024msa016
+Misato: "Ah, saying it like that might be cruel......"
+TP
+
+
+
+Taichi: "Aaah, it's delicious. Yes, delicious."
+TP
+
+
+
+Taichi: "It's been cooked really well. Did you use an open fire?"
+TP
+
+
+
+GL 1 TCMM0002c
+GI 1 0
+WVP 0 vfcca0024msa017
+Misato: "Yes. Of course."
+TP
+
+
+
+Taichi: "......somehow, it feels like it's been a while since I ate a bentou like this."
+TP
+
+
+
+GL 1 TCMM0000c
+GI 1 0
+WVP 0 vfcca0024msa018
+Misato: "Is that so?"
+TP
+
+
+
+Taichi: "My......mother...isn't with us."
+TP
+
+
+
+GL 1 TCMM0004c
+GI 1 0
+WVP 0 vfcca0024msa019
+Misato: "Well......"
+TP
+
+
+
+Taichi: "I think I miss her."
+//Original line made me think that he wasn't sure that she is missing. Wait, isn't she still alive? Change it back if she is.-Spin
+TP
+
+
+
+GL 1 TCMM0003c
+GI 1 0
+WVP 0 vfcca0024msa020
+Misato: "Peke-kun."
+TP
+
+
+
+Taichi: "Sempai."
+TP
+
+
+
+Within the soft darkness, we looked at one another.
+TP
+
+
+
+The candle's delicate flame shone a soft crimson light onto her cheek.
+TP
+
+
+
+
+
+CSQ 0 1 1
+  -Approach her
+  -Play it safe
+//I would love alternate suggestions for adapting these. Especially the second choice. Å`IX
+
+
+
+
+RET

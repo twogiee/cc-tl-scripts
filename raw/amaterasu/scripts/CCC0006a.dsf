@@ -1,0 +1,568 @@
+
+
+GL 0 bgcc0005
+GS 0 1
+GS 1 0
+SEF 152 0
+
+Later, when I started walking down the hill,
+TP
+
+
+Taichi: "Mu!?"
+TP
+
+The sound of a tire scraping against the ground.
+TP
+
+A sign of danger.
+TP
+
+Taichi: "You think that'll work!!?"
+TP
+
+WVP 1 bgm006.ogg 0 0 0
+
+I jumped back gracefully.
+TP
+GL 4 sgcc0016
+$CGsgcc0016 = 1
+GP 4 0 0
+GI 4 0
+WVP 2 se058 1 0
+SEF 101 0
+*impact!*
+TP
+WVP 2 SE052 1 0
+
+Taichi: "Propellererererererererer!!!"
+TP
+I rotated.
+TP
+
+WVP 0 vfCCC0006annk000
+Nanaka: "Nyaiiiiiiiiiii!!?"
+TP
+
+I was blown away with Hollywood wirework.
+TP
+
+Without losing any energy when crashing my face into the ground, I rolled forth and collided into the trees by the side of the road in the posture of a shachihoko.
+IF $tlnote != 0 (TL note: A "shachihoko" is a mythical tiger-headed carp usually depicted with its tail raised up in the air.)
+TP
+
+WVP 0 vfCCC0006annk001
+Nanaka: "Sorry Taichi!!"
+TP
+
+Taichi: "......how do you know my name......"
+TP
+
+WVP 0 vfCCC0006annk002
+Nanaka: "Did you forget?"
+TP
+
+WVS 1 0
+
+Taichi: "Eh?"
+TP
+GL 1 TCCN0100
+GP 1 200 0
+GS 0 1
+GS 1 1
+GS 4 0
+SEF 109 0
+
+The girl's eyes met mine.
+TP
+
+WVP 0 vfCCC0006annk003
+Nanaka: "Did you forget about me?"
+TP
+
+Taichi: "Gulp."
+//Same "doki" > "gulp" adaptation as before. Å`IX
+TP
+
+I forgot.
+TP
+
+In my amnesia,
+TP
+
+A long time ago, she saved my life.
+TP
+
+Incishoot.
+*Incishoot = Taichian for incidental + shoot (i.e., anything in wrestling that isn't staged). It refers to a posture that challenges one head on; the most typical of the typical.
+TP
+
+
+Taichi: "I can only permit something on a slightly mysterious level, you hear? Like a childhood friend-chan who promised to marry you ten years ago returning."
+TP
+
+I informed her with a hard-boiled tone.
+TP
+
+
+GL 1 TCCN0101
+GI 1 0
+WVP 0 vfCCC0006annk004
+Nanaka: "Hu! Hu! Hu!"
+TP
+
+A cute girl.
+TP
+
+Though she's a little weird.
+TP
+
+Or I should say, she's obviously weird.
+TP
+
+But she's cute (failure as a human).
+TP
+
+Am I going to sexually harass someone I just met?
+TP
+
+Taichi: "Aaand..."
+TP
+
+WVP 1 bgm005.ogg 0 0 0
+
+*squeeze*
+TP
+
+
+Breast Get!
+//HAHAHA, you actually used it. Awsome. 4chan should like this line.-Spin
+//To make it more like real Engrish, how about fully capitalizing get, "Breast GET!"? -VDZ
+TP
+
+GL 1 TCCN0100
+GI 1 0
+WVP 0 vfCCC0006annk005
+Nanaka: "......"
+TP
+
+Taichi: "......nnn?"
+TP
+
+*squeeze* *squeeze*
+//Squeeze. I mean, multiple onomatopoeia
+TP
+
+
+There's a sensation.
+TP
+
+But......what is this feeling...
+TP
+
+Taichi: "Could this be silicone? Don't tell me it's silicone!"
+TP
+
+WVP 0 vfCCC0006annk006
+Nanaka: "Moron!"
+TP
+WVP 2 se106 1 0
+GL 4 sgcc0006
+$CGsgcc0006 = 1
+GP 4 0 0
+GO 1 0
+GI 4 1
+SEF 101 0
+
+*smack!*
+TP
+
+
+
+Taichi: "Moron!"
+TP
+
+And she'd just sent me flying.
+TP
+GO 4 1
+Taichi: "......so, what's your name?"
+TP
+
+GL 1 TCCN0100
+GI 1 1
+WVP 0 vfCCC0006annk007
+Nanaka: "You recover quickly."
+TP
+
+Taichi: "I'm used to this."
+TP
+
+GL 1 TCCN0101
+GI 1 0
+WVP 0 vfCCC0006annk008
+Nanaka: "My name is Nanaka."
+TP
+
+Taichi: "Nanaka-chan?"
+TP
+
+WVP 0 vfCCC0006annk009
+Nanaka: "Yep, Nanaka-chan."
+TP
+
+She held up her skirt in a refined greeting pose.
+TP
+
+I did the same.
+TP
+
+Mirrored.
+TP
+
+......an idiot's reflection...was the scene I'd made.
+TP
+
+Taichi: "......anyway, I'm going to school, so let's start walking."
+TP
+GL 1 TCCN0100
+GI 1 0
+
+WVP 0 vfCCC0006annk010
+Nanaka: "Okaaay."
+TP
+
+A uniform I'd never seen before.
+TP
+
+It's not from any neighboring school.
+TP
+GL 0 evcc0003
+$CGevcc0003 = 1
+GS 0 1
+GS 1 0
+
+SEF 152 0
+
+She seemed to have good motor skills.
+TP
+
+Even though I'm walking at slow speed, she's matching my pace without faltering.
+TP
+
+She came across as a lively, energetic, childhood-friend- type pretty girl.
+//Anyone know a better way to string all these adjectives together in English? Å`IX
+//My attempt - Sheeta
+TP
+
+Who'd come and wake me up every morning.
+TP
+
+Taichi: "Huhuhu."
+TP
+
+Wonderful.
+TP
+
+WVP 0 vfCCC0006annk011
+Nanaka: "Does it disturb you much?"
+TP
+
+Taichi: "Nn?"
+TP
+
+WVP 0 vfCCC0006annk012
+Nanaka: "The world coming to this."
+TP
+
+Taichi: "......it does."
+TP
+
+There's no way it wouldn't.
+TP
+
+Taichi: "I'm just not letting it show."
+TP
+
+Taichi: "I......the fewer people there are, the more I become like myself."
+TP
+
+WVP 0 vfCCC0006annk013
+Nanaka: "............"
+TP
+
+Taichi: "But I'm holding on for now because I know everyone's still here."
+TP
+
+WVP 0 vfCCC0006annk014
+Nanaka: "I see..."
+TP
+
+WVP 0 vfCCC0006annk015
+Nanaka: "Taichi hates himself."
+TP
+
+Taichi: "......it's not that I hate myself......I don't really know."
+TP
+
+Taichi: "I really don't know anymore. I'm just thinking about trivial things all the time."
+TP
+
+Taichi: "......it's a little painful."
+TP
+
+Nanaka made a sad face.
+TP
+
+Taichi: "Oh! We can't have that."
+TP
+
+I tried to go against the situation by being funny.
+TP
+
+Taichi: "I decided that I will only make girls cry with sexual harassment."
+TP
+
+I wiped the corner of her eye.
+TP
+
+WVP 0 vfCCC0006annk016
+Nanaka: "......I'm not crying."
+TP
+
+Taichi: "You looked like you were about to."
+TP
+
+WVP 0 vfCCC0006annk017
+Nanaka: "And sexual harassment is the worst."
+TP
+
+Taichi: "It's an expression of love."
+TP
+
+WVP 0 vfCCC0006annk018
+Nanaka: "Perverted pranks are?"
+TP
+
+Taichi: "Yes."
+TP
+
+I puffed up my chest.
+TP
+
+Taichi: "I perform perverted pranks with an atmosphere of admiration for something beautiful."
+//For some reason that "love" sounded out of place. This still makes it sound pretty good though.-Spin
+TP
+
+Taichi: "After all, no matter how formulaic an individual, it is that person's one and only."
+//I have to assume the missing object here was on purpose. Å`IX
+TP
+
+Taichi: "Because that's how humans are."
+TP
+
+Taichi: "Besides, I have no right to love people with a serious face......"
+TP
+
+I just let something slip.
+TP
+
+Since even I'm human, there are extremely rare times without any context where my guard falls.
+TP
+
+What to do, what to do...
+TP
+
+WVP 0 vfCCC0006annk019
+Nanaka: "......hmmm."
+TP
+
+WVP 0 vfCCC0006annk020
+Nanaka: "That's the first time I've heard that opinion."
+TP
+
+Taichi: "......the first time?"
+TP
+
+Taichi: "Have we really met before?"
+TP
+
+WVP 0 vfCCC0006annk021
+Nanaka: "We have."
+TP
+
+A face hiding loneliness.
+TP
+
+Taichi: "When."
+TP
+
+WVP 0 vfCCC0006annk022
+Nanaka: "Dunno."
+TP
+
+Taichi: "......so it's a secret."
+TP
+
+WVP 0 vfCCC0006annk023
+Nanaka: "Maybe it is."
+TP
+
+Taichi: "Huhuhu, if you don't come clean, I'll flip your skirt."
+TP
+
+WVP 0 vfCCC0006annk024
+Nanaka: "If you do that, I'll hit you again."
+TP
+
+WVP 0 vfCCC0006annk025
+Nanaka: "Taichi must like that."
+TP
+
+Taichi: "......nuu."
+TP
+
+Formidable.
+TP
+
+She won't be moved by sexual harassment.
+TP
+
+Taichi: "......I give up."
+TP
+
+WVP 0 vfCCC0006annk026
+Nanaka: "Oya?"
+TP
+
+Taichi: "It's boring to flip the skirt of someone who won't be moved by it."
+TP
+
+Taichi: "Aaaah, the Kurosu Taichi-sama whose merit lies in superficial and hollow dialogues has spoken on a serious topic..."
+TP
+
+And so, I walked on.
+TP
+
+WVS 1 1
+GL 0 bgcc0005
+GS 0 1
+GS 1 0
+
+SEF 152 0
+WVP 0 vfCCC0006annk027
+Nanaka: "It's lonely."
+TP
+
+I heard her voice from far behind me.
+TP
+
+Something felt wrong.
+TP
+
+I turned around.
+TP
+GL 0 evcc0053a
+$CGevcc0053a = 1
+GS 0 1
+SEF 152 0
+
+An impossible distance.
+TP
+
+Nanaka had been next to me until three seconds ago.
+TP
+
+Twenty meters. Not a distance one could traverse in an instant.
+TP
+
+Taichi: "Wh-......?"
+TP
+
+WVP 0 vfCCC0006annk028
+Nanaka: "......Taichiii!"
+TP
+
+WVP 1 bgm021.ogg 0 0 0
+
+She screamed. A grievous echo. It hit my heart.
+TP
+
+This time, Nanaka was crying.
+TP
+
+WVP 0 vfCCC0006annk029
+Nanaka: "I may not know whether that's a good thing or not!"
+TP
+
+WVP 0 vfCCC0006annk030
+Nanaka: "But if you wish that the world would go back to the way it was......!"
+TP
+
+A white fingertip shot out, pointing to me.
+//CP_S cca0003
+TP
+
+No, to something behind me.
+//CP_F
+TP
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+
+The school.
+TP
+
+No......the mountains?
+TP
+
+There was a mountain path that we used during the campout.
+TP
+
+There are a lot of animals on that path, but it reaches the summit quickly.
+TP
+
+And at the end of it.
+TP
+
+There's a hokora.
+TP
+
+I don't know what's enshrined there.
+TP
+
+A small, old, decayed hokora.
+TP
+
+A place that might be dedicated to an unworshipped god.
+TP
+
+No one goes near it any more.
+TP
+
+There's something there.
+TP
+
+I returned my gaze to Nanaka, in order to ask her a trivial question.
+//PCP_S
+TP
+
+She'd disappeared.
+TP
+
+Along with her bike.
+//CP_F
+TP
+
+Taichi: "............"
+TP
+
+The cicadas weren't chirping. A quiet new term. 
+//CP
+TP
+
+WVS 1 1
+
+
+
+
+RET

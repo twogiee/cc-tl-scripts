@@ -1,0 +1,39 @@
+
+:DSCEN
+
+CSQ 0 1 1 1 1 1
+- Rejecting Touko, Week 2
+- Touko Sleeping Blowjob Draft, Week 2
+- Bad Ending, Week 2
+- Rejecting Nanaka, Week 5
+- Return to Easter Egg Menu
+
+IF $B == 1 CALL ccb2003B
+IF $B == 2 CALL ccb2018
+IF $B == 3 CALL ccb0101
+IF $B == 4 CALL CCD0005B
+IF $B == 5 RET
+
+WVS 1 0
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+GP 0 0 0
+GP 1 0 0
+GP 2 0 0
+GP 3 0 0
+GP 4 0 0
+GP 5 0 0
+SEF 100 0
+TWS 0
+JMP DSCEN
+
+
+
+You should not be here.
+TP
+
+RET

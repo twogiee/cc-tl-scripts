@@ -1,0 +1,644 @@
+
+
+WVP 1 bgm002.ogg 0 0 0
+
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 1
+WT 500 0
+//HACK to black before, so it looks less crap if the choice to go to the second years' classroom is picked before this. -GHS
+
+GL 0 bgcc0006
+GS 0 1
+GS 1 0
+SEF 152 0
+//美希と霧がいた。
+Miki and Kiri were there.
+TP
+
+//太一「……食い物ありませんか？」
+Taichi: "...without any food, are you?"
+//Sarcastic, as this can come right after Taichi gives her food in the Kiri route. -GHS
+TP
+GL 1 TCYM0002
+//HACK sadder Miki -GHS
+GP 1 180 0
+GI 1 1
+
+
+WVP 0 vfCCC0031bmki000
+//美希「残念ながら」
+Miki: "Unfortunately..."
+//Let's go with non-committal, since she does, but doesn't want to share (perhaps due Kiri, perhaps due to wanting candy, perhaps due to [erroneous use of word 'Japan' here]). -GHS
+TP
+
+//太一「その弁当……？」
+Taichi: "And that bento...?"
+TP
+
+//ライス。
+//RAISU.
+Rice.
+TP
+
+//ミートボール。
+//Spaicy Mittoborra.
+Meatballs.
+TP
+
+//太一「お、おい、なぜそのようなものが……？」
+Taichi: "H-, hey, why do you have that...?"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0031bmki001
+//美希「霧ちんが作ったのですよ。飯ごうとかで」
+Miki: "Kiri-chin made it! With camping utensils."
+//Hey, just like the ones she's borrowing for her camp near the hokora. Surely she can't be lying... -GHS
+TP
+
+//太一「うわ、いいなあ」
+Taichi: "Whoa, nice innit."
+TP
+
+GL 2 TCSK0002
+GS 2 1
+GP 1 40 0
+GP 2 345 0
+SEF 109 0
+
+
+WVP 0 vfCCC0031bkri000
+//霧「……先輩の分はありません」
+Kiri: "...there is no part of it for Senpai."
+//Specific, see CCC3009 for subtext -GHS
+TP
+
+//きっぱり。
+Plainly.
+//CP CCC0011C
+TP
+
+//太一「かなり分量があるじゃないか」
+Taichi: "Isn't there a fair amount?"
+//There is enough for three continues to suggest Miki made it, given she's trying to reconcile the two. Just like Taichi tells Miki to lie about the sandwiches he gives to her so Kiri'll have them, it's possible she tells Kiri that she'll lie about who made the lunch (or more likely viceversa), so Kiri can firmly reject his attempts at eating... -GHS
+TP
+GL 1 TCYM0021
+GI 1 0
+//HACK doubty Miki -GHS
+
+WVP 0 vfCCC0031bmki002
+//美希「多いですよね」
+Miki: "There's a lot indeed."
+TP
+
+//明らかに三人分はありそうだ。
+It's obvious this could be enough for three people.
+TP
+
+WVP 0 vfCCC0031bkri001
+//霧「しかしなぜか先輩のはないんです」
+Kiri: "However for some reason there is none for Senpai."
+TP
+
+//太一「……むぅ」
+Taichi: "...mngh."
+TP
+
+//イノセンスが唸る。
+So growls Innocence.
+//MIZZ innocence, please.
+TP
+
+//太一「じゃー物々交換しよう」
+Taichi: "Theeen let's transact bit of a barter."
+TP
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfCCC0031bmki003
+//美希「トレードですな」
+Miki: "A trade you mean."
+//See CCC3007. -GHS
+TP
+
+//太一「あめ玉とグミキャンディー。手作り」
+Taichi: "Hard candy and gummy candy. Handmade."
+//...or because she knows that'll cause this, so she can have candy without arousing Kiri's suspicion too much. Interesting he has candy even with Youko dead. -GHS
+TP
+
+GL 1 TCYM0001
+GL 2 TCSK0001
+GS 1 1
+GS 2 1
+SEF 100 0
+//HACK actually do it
+
+//二人の目の色が変わった。
+The eyes of the two opened very wide.
+TP
+//GL 1 TCYM0001
+//GI 1 0
+//HACK no need now -GHS
+
+WVP 0 vfCCC0031bmki004
+//美希「てづくり？」
+Miki: "Made by hand?"
+TP
+
+//太一「んー。曜子ちゃんがだけど」
+Taichi: "Mh-hm. By Youko-chan though."
+TP
+
+//太一「シュガー控えめ、美容健康にいいらしい。グミはこんにゃくだね。０カロリー」
+Taichi: "Sugar in moderation may be good for maintaining an attractive body shape. Gummies are Konjac, 'course. 0 calories."
+//Sales pitch. Sounds like all but the middle one are false. The 0 is the loop, and 0 calories is as real as it is. -GHS
+TP
+GL 1 TCYM0004
+GL 2 TCSK0003
+//GI 1 0
+//GI 2 0
+GS 1 1
+GS 2 1
+SEF 100 0
+//HACK surprised Kiri -GHS
+
+
+WVP 0 vfCCC0031bgoo000
+
+
+//二人「０カロリー！？」
+Both: "0 CALORIES?!"
+//Women. -GHS
+TP
+GS 1 0
+GS 2 0
+SEF 109 0
+
+//……………………。
+............
+TP
+
+
+//太一「わーい」
+Taichi: "Weeee."
+TP
+
+//交換成立。
+Barter concluded.
+TP
+
+GL 1 TCYM0003
+GL 2 TCSK0006
+//This is the second time the "Kiri happy" doll is seen, the first was in the Kiri failed route. It'll appear again below (added from the console version), then never appear again until her Sendback, and CCX0001. -GHS
+GS 1 1
+GS 2 1
+SEF 109 0
+//HACK both dolls at the same time -GHS
+
+WVP 0 vfCCC0031bmki006
+//美希「ママの味がする……」
+Miki: "It's like your mommy used to make..."
+//See CCA0030 -GHS
+TP
+
+//GI 2 1
+//HACK unneeded -GHS
+WVP 0 vfCCC0031bkri003
+//霧「するね」
+Kiri: "Just like."
+TP
+
+WVP 0 vfCCC0031bmki007
+//美希「ミルクだね」
+//Miki: "MIRUKU-desu!!"
+Miki: "Milky isn't it."
+TP
+
+WVP 0 vfCCC0031bkri004
+//霧「だねー」
+Kiri: "Isn't it."
+TP
+
+//太一「ストーカーの味だけどね」
+Taichi: "Tastes like stalker though."
+//That line is "tastes like your mother", which of course is silly. This is the same format, IOW stalker = mother = Youko. And now, I don't wanna know what's in those things anymore. Especially since Youko may well have, or rather be, a penis. -GHS
+TP
+
+WVP 0 vfCCC0031bmki008
+//美希「ほっぺが……わらひのほっぺが……」
+Miki: "My cheeks... my schmiling cheeks..."
+TP
+
+WVP 0 vfCCC0031bkri005
+//霧「ん～～～っ」
+Kiri: "Mhhh～～～!"
+TP
+
+//女の子だなあ。
+Girls.
+//Heh, see CCC3029 -GHS
+TP
+
+//おかげでライスにありつけた。
+And thanks to that, I have come into rice.
+TP
+
+//やっぱ日本人だから。
+Because I'm Japanese, after all.
+//See CCA0011C. Guess who also was right about him? -GHS
+TP
+
+//太一「うまい……霧ちんは料理の才能がある」
+Taichi: "Delicious... you got talent for cooking, Kiri-chin."
+TP
+
+GL 2 TCSK0000
+GI 2 0
+WVP 0 vfCCC0031bkri006
+//霧「……おかずはレトルトなんで」
+Kiri: "...side dishes are retort pouch however."
+//No specifics. It's possibly she just brought the side dishes, which is why she comments on them. -GHS
+TP
+
+//太一「でもうまい」
+Taichi: "Still delicious."
+TP
+GL 2 TCSK0002
+GI 2 0
+
+WVP 0 vfCCC0031bkri007
+//霧「作らないと、美希がいつまでもお菓子を」
+Kiri: "If I didn't make anything, Miki would only ever eat junk food."
+//See CCC3019A -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0031bmki009
+//美希「お菓子好きだもん」
+Miki: "But I love junk food."
+TP
+
+//太一「お互い食事には苦労しているようだな」
+Taichi: "Seems we are all having our problems with our diets."
+TP
+GL 1 TCYM0002
+GI 1 0
+//HACK Sadder Miki -GHS
+
+WVP 0 vfCCC0031bmki010
+//美希「ええ……」
+Miki: "Yes..."
+TP
+
+//太一「霧ちん結婚しよう」
+Taichi: "Kiri-chin, let's get married!"
+TP
+
+GL 2 TCSK0001
+GI 2 0
+//HACK slightly angrier Kiri -GHS
+
+WVP 0 vfCCC0031bkri008
+//霧「不可能です」
+Kiri: "That is not possible."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0031bmki011
+//美希「いやです、じゃなくて不可能らしいですよ、先輩」
+Miki: "Not a 'I do not want to', Senpai, it seems it's all the way to impossibility!"
+TP
+
+//太一「……燃えてきた」
+Taichi: "...I was burnt."
+TP
+
+//GL 2 TCSK0001
+//GI 2 0
+//HACK unneded -GHS
+WVP 0 vfCCC0031bkri009
+//霧「水かけますよ？」
+Kiri: "A cold water shower, then?"
+TP
+
+//太一「またか」
+Taichi: "Not another one, no."
+//More "you're kidding", but this works better in the Miki route. -GHS
+TP
+
+GL 1 TCYM0003
+GI 1 0
+//HACK smiley Miki -GHS
+WVP 0 vfCCC0031bmki012
+//美希「お菓子はもっとあるのですか？」
+Miki: "Are there any more sweets?"
+TP
+
+//太一「あるよ。ビスケットとか、サブレとか。曜子先生はお菓子作るの得意だから」
+Taichi: "There are. Got biscuit, got sable'... all thanks to how skilled Youko-sensei is at making sweets."
+//Not to be confused with the common Sable http://en.wikipedia.org/wiki/Sable assuredly pain mass-cles of a terrifying craftiness they have! (Or maybe it's a Sabre to make company to that Rance guy?) -GHS
+TP
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC0031bmki013
+//美希「へー、意外」
+Miki: "Ehhh, so unexpected."
+//Sooo, why does Youko make candy for him? Assuming she does, actually. And when, since we see her drop off lunch repeatedly and she never gives him anything but sandwiches? And when he's hungry in the Belly Bug scene...? -GHS
+TP
+
+//太一「いい保存食になるらしい」
+Taichi: "Seems she got good at making preserved food."
+//See CCC0003A. Well, she probably needs lots of preservatives (hee hee) -GHS
+TP
+
+GL 2 TCSK0000
+GI 2 0
+WVP 0 vfCCC0031bkri010
+//霧「……恋人、なんですよね？」
+Kiri: "...are you two lovers?"
+//Didn't they ask the same thing in CCA0027... but it seems interesting that even these two don't quite know what Youko and Taichi are to each other. Well, Kiri at least. -GHS
+TP
+
+//太一「え、俺と曜子ちゃんが？」
+Taichi: "Eh, me and Youko-chan?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0031bmki014
+//美希「それは美希も気になりすぎてました」
+Miki: "Miki was very interested about that too!"
+TP
+
+GL 1 TCYM0011
+GI 1 0
+//HACK puffy Miki -GHS
+
+WVP 0 vfCCC0031bmki015
+//美希「食事も手につきません」
+Miki: "I cHan't even concHentrate on tShe eating!"
+//Stuffed. Switching back from third person because using 'she' here just sounds like she's talking about Youko. Miki's not much of a third person person anyway. -GHS
+TP
+
+//太一「……ほっぺたパンパンじゃねぇか」
+Taichi: "...ain't your cheeks all stuffed to the brim."
+TP
+
+GL 1 TCYM0002
+GI 1 0
+//HACK caught! Now this part of the scene makes sense. -GHS
+
+WVP 0 vfCCC0031bmki016
+//美希「むぐ」
+Miki: "Mugu!"
+//when all else fails use engrish -GHS
+TP
+
+//真夏の食い溜め娘が。
+This girl's doing some Midsummer's Food Storing.
+TP
+
+//太一「いや、一緒に暮らしてただけだよ」
+Taichi: "Nah, we've just lived together, nothing more."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0031bmki017
+//美希「同棲」
+Miki: "Sharing the house."
+TP
+
+GL 2 TCSK0000
+GI 2 0
+WVP 0 vfCCC0031bkri011
+//霧「同棲」
+Kiri: "Sharing the house."
+//PCpshew
+TP
+
+//二人はハモった。
+The two harmonized.
+//See CCA0015, CCA0027
+TP
+
+//太一「違う。同棲とは違う」
+Taichi: "Wrong. Sharing the house is wrong."
+//Just that bit suspiciously overstrong. -GHS
+TP
+
+//太一「ええと、要するに俺たちは親がいないから、二人とも睦美さんに養ってもらってたんだよ。あ、これは俺の保護者ね」
+Taichi: "Uhm, in short, because we don't have parents, the two of us were being supported by Mutsumi-san. Ah, that's my guardian."
+//Suspicious singular at the end. -GHS
+TP
+
+//太一「姉弟みたいなものと言えばいえるけど……俺はそう思ってない」
+Taichi: "I could sort of say if I could that we're sort of like siblings, but... I don't really think that."
+TP
+
+//向こうもそう思ってないし。
+My counterpart also doesn't think so.
+TP
+
+//だから追い出されたし、曜子ちゃん。
+And that is why she was kicked out, that Youko-chan.
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0031bmki018
+//美希「へー、初耳」
+Miki: "Ehhh, news to me!"
+TP
+
+GL 2 TCSK0002
+GI 2 0
+WVP 0 vfCCC0031bkri012
+//霧「……あやしい関係だと思っていたのに……」
+Kiri: "...and I was thinking it was a really suspicious relationship..."
+TP
+
+//いや、実際あやしいです。
+Nah, it really is suspicious.
+TP
+
+//太一「まー、そこはホレ。血縁ではないし」
+Taichi: "Ahhh, 'that' you mean. We're not blood related."
+//She was totally hoping it'd be real incest, the damn fujoshi. Well, that, or she sorts of suspects Youko is Taichi in a skirt and wig. -GHS
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC0031bmki019
+//美希「支倉先輩も謎が多い人ですよね」
+Miki: "Hasekura-senpai is a woman of many mysteries, she is."
+TP
+
+//太一「まったくだ」
+Taichi: "Damn if she ain't."
+TP
+
+//太一「さあ、特別に千歳あめをつけるから、みんなで七五三気分に浸ろう」
+Taichi: "Well then, here's some special Thousand-Year Candy, so we can sink into that Shichi-Go-San ambiance!"
+//7-5-3. It googles! And it boils down to 7 and 8! Amazing. -GHS
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC0031bmki020
+//美希「わー、ちとせあめだ！」
+Miki: "Weeee, Thousand-Year Candy!"
+TP
+
+GL 2 TCSK0001
+GI 2 0
+//HACK Kiri at least reacts... -GHS
+
+//霧が取り上げる。
+Kiri confiscates it.
+TP
+
+GL 1 TCYM0004
+GI 1 0
+//HACK more disappointed Miki -GHS
+WVP 0 vfCCC0031bmki021
+//美希「うおー、何するだ！」
+Miki: "Bwah, what are you doing!"
+TP
+
+//GL 2 TCSK0002
+//GI 2 0
+//HACK unneded -GHS
+WVP 0 vfCCC0031bkri013
+//霧「お菓子だけじゃダメ」
+Kiri: "Sweets only is no good."
+TP
+
+GL 1 TCYM0002
+GI 1 0
+//HACK disappointed Miki -GHS
+
+WVP 0 vfCCC0031bmki022
+//美希「自分だって食べてたくせにー！」
+Miki: "But you ate them too dammiiit!"
+TP
+
+GL 2 TCSK0000
+GI 2 0
+WVP 0 vfCCC0031bkri014
+//霧「ちゃんとごはん食べる。健康管理、これからは自分でしないといけないんだよ？」
+Kiri: "Eat your meals properly. Health management is something we absolutely must do on our own from here on out, remember?"
+TP
+
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0031bmki023
+//美希「……へーい」
+Miki: "...yeees."
+TP
+
+//うーむ。
+Indeed.
+TP
+GL 2 TCSK0000
+GI 2 0
+WVP 0 vfCCC0031bkri015
+//霧「なんですか？　いやらしい目でじっと見て……」
+Kiri: "What is it? You are staring at me with indecent eyes..."
+TP
+
+//太一「いやらしいって言うな」
+Taichi: "Don't call 'em indecent."
+//He thinks she insulted his eyes, not the way he looks at her. -GHS
+TP
+
+//太一「いや、いいコンビだなって思って」
+Taichi: "Well, I was just thinking what a nice duo you make.
+//Almost like Taichi and Sakuraba, see CCA0002. Nope, not kidding. -GHS
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfCCC0031bmki024
+//美希「お花ちゃんたちですから」
+Miki: "We are the Flowers after all."
+TP
+
+//太一「デビューさせてやりたいくらいだ」
+Taichi: "I wanna make you have your debut!"
+//The word actually says it all. -GHS
+TP
+GL 1 TCYM0002
+GI 1 0
+//HACK sadder Miki -GHS
+WVP 0 vfCCC0031bmki025
+//美希「今デビューしてもなぁ……」
+Miki: "But having our debut now, well..."
+TP
+
+GL 2 TCSK0006
+GI 2 0
+WVP 0 vfCCC0031bkri016
+//霧「最高八枚までしか売れないね。ＣＤ」
+Kiri: "We could sell no more than eight of those CDs."
+TP
+
+WVP 0 vfCCC0031bmki026
+//美希「ミリオンは夢のまた夢」
+Miki: "The million would be a dream within a dream."
+TP
+
+WVP 0 vfCCC0031bkri017
+//霧「じゃあわたし、二枚買ってあげる」
+Kiri: "Well then, I'll be buying two copies."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+//HACK smiley Miki -GHS
+
+WVP 0 vfCCC0031bmki027
+//美希「じゃこっちも二枚買う」
+Miki: "Then I'll buy two too!"
+TP
+
+WVP 0 vfCCC0031bkri018
+//霧「十枚だね」
+Kiri: "Ten copies then."
+TP
+
+//GL 1 TCYM0003
+//GI 1 0
+//HACK unneeded -GHS
+WVP 0 vfCCC0031bmki028
+//美希「うん、十枚。二桁」
+Miki: "Yep, ten. Double digits."
+//All numbers written in Kanji here: 8+2+2+10+10+2=34 3+4=7. The 'million' is written in English via katakana so it doesn't matter. -GHS
+TP
+
+//くすくす笑う。
+Giggling laughter.
+TP
+
+//ほんと、仲睦まじい。
+Intimate harmony, truly.
+TP
+
+//その様子は、俺をほんの少しばかり、潤した。
+//What I didn't understand was this talk about CDs. Porn movies, sorry, I mean AVs come on DVDs these days!
+And that was something that enriched me just a tiny little bit.
+TP
+
+WVS 1 1
+
+RET

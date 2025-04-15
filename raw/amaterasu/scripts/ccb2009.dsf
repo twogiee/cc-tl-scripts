@@ -1,0 +1,1035 @@
+GL 0 bgcc0003b
+GS 1 0
+GS 0 1
+SEF 152 1
+
+WVP 1 bgm003.ogg 0 0 0
+
+Taichi: "Aaah!! I'm exhausted!!"
+TP
+
+GL 1 TCKT0000c
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfccb2009fyu000
+Touko: "......thank you for doing all that."
+TP
+
+You'd better be thankful!
+TP
+
+While mad, I complained to Touko.
+TP
+
+Taichi: "You're a descendant of a warrior family, so shouldn't you be able to do brute strength jobs like this yourself!? Even if you play innocent I can see your true self! Remove your mask!"
+TP
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfccb2009fyu001
+Touko: "......you'd make a woman's delicate arms do such a thing? Are you an idiot?"
+TP
+
+Her mood appeared to have suffered a bit.
+TP
+
+Since Touko is snow, being nice makes her melt away, so she decided to never show her sweet face.
+IF $tlnote != 0 (TL note: This appears to be a reference to the kanji that "Touko" is written with, namely "winter" and "child.")
+TP
+
+Taichi: "......I wanna take a bath."
+TP
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2009fyu002
+Touko: "We can do that!?"
+TP
+
+Her face sparkled.
+TP
+
+However...
+TP
+
+Taichi: "......as if we have that luxury. Water is a valuable resource."
+TP
+
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfccb2009fyu003
+Touko: "Eeehhh......"
+TP
+
+Taichi: "That's what I'd like to say, but we can."
+//Maybe this will answer all your questions about how he made the popsicles without a working fridge. Å`IX
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2009fyu004
+Touko: "Really!?"
+TP
+
+I didn't think she'd be this happy......
+TP
+
+Taichi: "Have you......not been showering all this time?"
+TP
+GL 1 TCKT0004c
+GI 1 0
+
+WVP 0 vfccb2009fyu005
+Touko: "......Th-! That's not true!"
+TP
+
+Taichi: "Really?"
+TP
+
+I edged up to her.
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfccb2009fyu006
+Touko: "Wh-what!?"
+TP
+
+She edged away from me.
+TP
+
+Taichi: "As a smell maniac, I'm going to have to confirm it for myself..."
+TP
+
+
+GL 1 TCKT0003c
+GI 1 0
+
+WVP 0 vfccb2009fyu007
+Touko: "Wait! You're kidding, stop, don't come any closer!!"
+TP
+
+Taichi: "Ku-ku-ku."
+TP
+
+With the laugh of a beast, I chased my prey into the corner of the room.
+TP
+
+Taichi: "I wonder what sort of wonderful poison you've brewed for me?"
+IF $tlnote != 0 (TL note: Here "Poison" is referring to a Japanese perfume brand which happens to be stereotypically attributed to girls working in bars and nightclubs.)
+//In that case, shouldn't Poison be capitalized? -VDZ
+TP
+
+GL 1 TCKT0004c
+GI 1 0
+
+WVP 0 vfccb2009fyu008
+Touko: "......hi!"
+TP
+
+Her neatly arranged features warped as she turned pale.
+TP
+WVS 1 1
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2009fyu009
+Touko: "Don't come near me......if...if you do......"
+TP
+
+Taichi: "If I do, what'll happen? How do you propose a single, powerless child can resist against the great karade master Kurosu?"
+TP
+
+I asked Touko with a gentlemanly, perverted tone.
+//Yet again, I love it when the tricky sentences fall into English so nice and literally. Å`IX
+//The adjective and adverb look a bit weird next to each other, so I added a comma - Sheeta
+//I was thinking about adding "yet" but it sounds good like this.-Spin
+//Last word. - pondrthis
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfccb2009fyu010
+Touko: "......if you're going to smell my body, then..."
+TP
+
+WVP 2 SE074 1 0
+*ting*
+TP
+
+The sound of a sword being drawn.
+TP
+GL 5 bgcc0000e
+GL 4 sgcc0017
+$CGsgcc0017 = 1
+GI 5 0
+GP 4 0 0
+GS 1 0
+GS 4 1
+GS 5 0
+SEF 109 0
+
+
+WVP 2 SE075 1 0
+WVP 0 vfccb2009fyu011
+Touko: "I'll cut you."
+TP
+WVP 1 bgm017.ogg 0 0 0
+
+Taichi: "Gyaaa!!"
+TP
+
+Taichi: "Th-that's the Demon Harakiri Blade!?"
+TP
+
+I inspected all her belongings......when could she have brought it in here!!?
+TP
+
+It couldn't have...across space and time......!!?
+//With the ellipses, I feel like this makes it more dramatic.-Spin
+TP
+
+WVP 0 vfccb2009fyu012
+Touko: "How rude!"
+TP
+
+WVP 0 vfccb2009fyu013
+Touko: "......this is my blade, Ima Kotetsu."
+IF $tlnote != 0 (TL note: Nagasone Kotetsu was a famous swordmaker of the early Edo period, and many fictional swords are named after him.)
+TP
+
+WVP 0 vfccb2009fyu014
+Touko: "Musou Jikiden Eishin School......no Dan."
+IF $tlnote != 0 (TL note: In many Japanese disciplines and martial arts, ranks are measured in "Kyuu" for amateurs and "Dan" for professionals. "No Dan" therefore implies Touko has relatively little training or practice.)
+TP
+
+Taichi: "None?"
+TP
+
+WVP 0 vfccb2009fyu015
+Touko: "And where would I get any!!?"
+//I assume she's referring to there not being any dojos in their backwater town; would this be a natural or obvious conclusion to the layperson? Å`IX
+//Hmm, it works, but barely. I think just 1 or 2 word changes could get the message across better but I can't think of anything. Pondr, what do you think?-Spin
+//This is what I think. Changed a question word, though, so we'll see if Ix lets it fly. - pondrthis
+TP
+
+WVP 0 vfccb2009fyu016
+Touko: "But the blade is good enough, so I can cut you just fine!"
+TP
+
+Taichi: "Doesn't that go against the idea of iai!?" 
+IF $tlnote != 0 (TL note: "Iai" are techniques for quickly drawing a sword, striking once and resheathing it. In contrast, "Battoujutsu" usually draws and performs several sword strokes before resheathing.)
+TP
+
+Iai is a peaceful path of self-criticism, without killing or being killed......
+//I think this sounds better, IMO - pondrthis
+TP
+
+WVP 0 vfccb2009fyu017
+Touko: "If I am to bear lifelong shame, then once and for all-!"
+TP
+
+Taichi: "Ueitsu! Ueitsu!" (Wait! Wait!)
+//lol, with regard to the next line, I'm gonna assume that it was the opposite away around.-Spin
+TP
+
+I temporarily cowered and turned American.
+TP
+
+Taichi: "Okay, I understand, I'll stop the pranks. Please put that dangerous thing away."
+//That's what she said, Taichi. That's what she said. - pondrthis
+TP
+
+WVP 0 vfccb2009fyu018
+Touko: "Uuu."
+TP
+
+Touko's eyes were glinting.
+TP
+
+Truly a blade of mad**ss.
+TP
+
+WVP 0 vfccb2009fyu019
+Touko: "......you won't try to smell me?"
+TP
+
+Taichi: "I won't smell, I won't smell."
+TP
+
+I would lose my life.
+//"Have a life", as we all know, is a euphemism for having a social or work schedule: not the best wording, I think. - pondrthis
+TP
+
+WVP 0 vfccb2009fyu020
+Touko: "......but..."
+TP
+
+Taichi: "You should know, two houses down from here, there's a place with a full bathtub......you can wash yourself there."
+TP
+
+
+Touko: "......"
+TP
+
+Touko cautiously shuffled toward the door.
+TP
+
+She didn't break her stance. A spirit from the Sengoku.
+IF $tlnote == 1 (TL note: "Sengoku Jidai" or "The Warring States Period" refers to a time when Japan was split into several tiny warring countries, roughly analogous to the Dark Ages of Europe.)
+TP
+GO 4 1
+
+Touko: "............"
+TP
+
+She shuffled backward into the hallway, and then sidestepped to the right.
+TP
+
+Taichi: "S-see you later......"
+TP
+WVS 1 1
+Touko: "........................"
+TP
+
+Her glaring eyes disappeared into the hallway.
+TP
+
+
+
+Thirty minutes later.
+TP
+WVP 1 bgm010.ogg 0 0 0
+
+
+GL 1 TCKT0021c
+GI 1 1
+
+WVP 0 vfccb2009fyu024
+Touko: "I'mmm baaackÅÙ"
+TP
+
+She returned lively and animated.
+TP
+
+She bounced up to me, as if she'd washed away her murderous intent along with the dirt.
+//Dunno why, the end bit just came to me... Feel free to get rid of it - Sheeta
+TP
+
+Taichi: "......welcome back..."
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+WVP 0 vfccb2009fyu025
+Touko: "Oh no! Taichi, you stink!"
+TP
+
+I'll kill you......you bitch.
+//lol, I like this line.-Spin
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2009fyu026
+Touko: "At least wipe off your sweat. Really, you're so untidy."
+TP
+
+Taichi: "......as a boy with fetishes, I won't lay my hands on a girl with similar interests, but I will at least perform sexual harassment. Hey!"
+//SOS?
+//That's my go at it. Imagine it like he feels a connection with her because they might share a fetish, and so he won't criticize her for it(not literal, just trying to tell you what I make of it).-Spin
+//Whatever I'm looking at I don't understand. Perhaps we should bring it up in the forums. - pondrthis
+TP
+
+GL 1 TCKT0006c
+GI 1 0
+
+WVP 0 vfccb2009fyu027
+Touko: "Why are you getting mad?"
+TP
+
+Taichi: "Are you asking me not to get mad!?"
+TP
+
+Taichi: "......just, forget it. I'll go wash up."
+TP
+
+
+
+WVP 0 vfccb2009fyu028
+Touko: "See you laterÅÙ"
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+WT 1000 0
+WT 2000 1
+
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 1
+WT 200 0
+When I came back, my room looked tidier.
+TP
+
+Taichi: "Ha......?"
+TP
+
+GL 1 TCKT0000c
+GI 1 1
+
+WVP 0 vfccb2009fyu029
+Touko: "Welcome back, Taichi."
+TP
+
+Taichi: "Wh...what is this?"
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfccb2009fyu030
+Touko: "Didn't I make it pretty?"
+TP
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2009fyu031
+Touko: "We're going to live here together, so I put everything away."
+TP
+
+Taichi: "You're doing stuff Mutsumi-oba-san would do......"
+TP
+
+I was shaking.
+TP
+GL 1 TCKT0021c
+GI 1 0
+
+WVP 0 vfccb2009fyu032
+Touko: "But it was so filthy...of course I would."
+TP
+
+She brushed her long hair to one side and let it fall, just like an ojou-sama.
+TP
+
+She had an aura saying ÅwI really did it wellÅx.
+TP
+
+No, that doesn't matter at all.
+TP
+
+Taichi: "It's definitely gotten cleaner, but......ha!!?"
+TP
+
+I peeked down beneath the bed.
+//Underneath made it sound like he was literally peeking while under the bed. Hmm, didn't realize how weird "beneath" looks in English.-Spin
+TP
+
+Gone!
+TP
+WVP 1 bgm006.ogg 0 0 0
+
+Taichi: "My secret books!!"
+TP
+
+She must have seen that first one on top of my desk.
+TP
+
+Women are known to do such things.
+TP
+
+But, they're gone.
+TP
+
+
+Taichi: "Hey, Kirihara, wh...what happened to the nude design books I had here?"
+//lol, I need to start calling them that.-Spin
+TP
+
+My makeshift tactic.
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2009fyu033
+Touko: "Ah, the books with all the pictures?"
+//Went from plural to singular.-Spin
+TP
+
+Taichi: "Yes."
+TP
+
+WVP 0 vfccb2009fyu034
+Touko: "I burned them."
+TP
+
+Taichi: "Bambole!"
+//Not an English word according to Google's dictionary. Perhaps a TL note? - pondrthis
+TP
+WVP 2 se018 1 0
+SEF 101 0
+With a shriek, I collapsed in a straight line downward.
+TP
+
+Then got back up.
+TP
+
+Taichi: "Burned them!? Not threw them away......burned them!?"
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfccb2009fyu035
+Touko: "Somehow......when I saw them, I got the feeling that I had no other choice......"
+//I LOVE THIS LINE. Å`IX
+//It's an epic line. No porn for you, Taichi - Sheeta
+//pr0nfail, I think we all like this line. - pondrthis
+TP
+
+Taichi: "You burned my academic books! Are you the Jade Emperor!? Is this the Third Reich!?"
+TP
+
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfccb2009fyu036
+Touko: "But they were all pushed under the bed, so I thought you didn't need them......and they all seemed to be rather vulgar books......and......there were naked women......"
+TP
+
+Taichi: "I'm telling you, those were academic books!"
+TP
+
+GL 1 TCKT0004c
+GI 1 0
+
+WVP 0 vfccb2009fyu037
+Touko: "W-were they?"
+//Awkward to have "we-were" since "we" is a word. - pondrthis
+TP
+
+Taichi: "Can Milo's Venus, who did not physically desire the beauty at the origin of humanity, speak of this!? Study the figurine otakus who wish to love a sculpted girl such as yourself and learn some shame!"
+IF $tlnote == 1 (TL note: "Otaku" = "one who is obsessed with something.")
+//Thought "origin" was sexier than "source", and thought commas would fit better. - pondrthis
+TP
+
+Taichi: "And then you shall lament, in a world of the 451 Fahrenheit degrees at which books naturally combust. In other words, you shall fall into the burning inferno of hell! That's what happens when you burn academic books, you damned enemy of humanity!"
+TP
+
+While spinning and spinning around I stuck my finger out at Touko several times.
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfccb2009fyu038
+Touko: "You keep throwing out words like that......but even I hesitated."
+TP
+
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfccb2009fyu039
+Touko: "But......somehow, when I looked at them......I got so pissed off......"
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfccb2009fyu040
+Touko: "I've heard there are things called erotic books in the common world."
+TP
+
+Taichi: "Gulp."
+//Technically he said "doki," but I couldn't come up with a way to adapt that wouldn't demand an extremely intrustive tl note. Å`IX
+//Sounds good, the only other thing would be to just take out the dialogue and put *beat* or something along those lines.-Spin
+//Perhaps *th-thump* or *bu-bump* - pondrthis
+TP
+
+WVP 0 vfccb2009fyu041
+Touko: "I've always gone to girls' schools so I don't know, but......I've heard......that men will......look at them, and......have delusions..."
+//Another epic line.
+TP
+
+Taichi: "Gulp, gulp."
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2009fyu042
+Touko: "But that's insincerity. It's not good to have delusions about other people when you already have a significant other."
+TP
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfccb2009fyu043
+Touko: "Yeah, it's not good."
+TP
+
+Taichi: "Don't agree with yourself......"
+TP
+
+Taichi: "Damn, I guess I can't win this."
+TP
+
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfccb2009fyu044
+Touko: "That's right, it's already been done."
+TP
+
+I'll rape you......you bitch.
+//lol, I like this line too.-Spin
+TP
+
+Taichi: "I'll rape you......you bitch."
+TP
+
+I was as honest as a true saint.
+TP
+
+GL 1 TCKT0006c
+GI 1 0
+
+WVP 0 vfccb2009fyu045
+Touko: "Hey, are you getting hungry?"
+TP
+
+Taichi: "You're not listening."
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2009fyu046
+Touko: "What should we do? Potatoes again?"
+TP
+
+Taichi: "No, today there should......"
+TP
+
+As we were doing that,
+TP
+WVS 1 1
+
+WVP 0 vmccb2009yki000
+Tomoki: "Heeey!"
+TP
+
+A voice from downstairs.
+TP
+
+
+WVP 0 vfccb2009fyu047
+Touko: "That voice......Shima?"
+TP
+
+Taichi: "It'd be a pain to explain, so please just sit still."
+TP
+
+WVP 0 vfccb2009fyu048
+Touko: "Ah, can I go look at the other rooms?"
+TP
+
+Taichi: "Do as you wish."
+TP
+
+To the first floor.
+TP
+WVP 1 bgm003.ogg 0 0 0
+
+GL 0 bgcc0013bz
+GS 0 1
+GS 1 0
+SEF 152 0
+
+I received goods from Tomoki.
+TP
+
+Taichi: "Food?"
+TP
+GL 2 TCST0000c
+GP 2 190 0
+GI 2 1
+
+WVP 0 vmccb2009yki001
+Tomoki: "Don't eat it all at once."
+TP
+
+Taichi: "Yeah, good work with the club. It must be hard, but the deceptive feeling that you're giving alms to people must allay you somehow."
+TP
+
+Tomoki had a tired smile.
+TP
+
+GL 2 TCST0005c
+GI 2 0
+
+WVP 0 vmccb2009yki002
+Tomoki: "......it's true that this is taking my mind off things."
+TP
+GL 0 bgcc0003b
+GS 0 1
+GS 2 0
+SEF 152 0
+WT 500 1
+
+I returned to my room.
+TP
+
+Touko wasn't there.
+TP
+
+Taichi: "Hu-hu-hu."
+TP
+
+Taichi: "Ku-ku-ku......"
+TP
+
+I naturally smiled.
+TP
+WVS 1 1
+Taichi: "A clean room. Yes. It's truly refreshing."
+TP
+
+Taichi: "This order was attained in exchange for the erotic books under the bed......however...Touko-kun, you are too naive."
+TP
+
+WVP 1 bgm006.ogg 0 0 0
+
+Those were dummy erotic books!! (Epic reveal!)
+//As usual, I'm taking some artistic liberties by adapting the sound effects with words. Å`IX
+//If it's like a sound effect, then an over-excited anime announcer with an exclamation point sounded just perfect! Also consider "epic revelation". - pondrthis
+SEF 101 0
+TP
+
+My true objects of devotion......they're hidden in a different place.
+TP
+
+From what I could see, it looked like her hands had not yet touched the cosplay outfit collection in my closet.
+IF $tlnote == 1 (TL note: "Cosplay" = "costume play," or dressing up as your favorite fictional characters for fun.)
+TP
+
+In other words, Touko's Peta Skill is still rather poor.
+TP
+
+*Peta Skill = Taichian for the skill to sense unhealthy behavior and objects, commonly found in teachers and other guardian-like women.
+IF $tlnote != 0 (TL note: "Peta" appears to come from a word for "smooth" or "flat.")
+TP
+
+
+There's all of the women's underwear that's still in the dresser in Onee-chan's room (currently unowned).
+IF $tlnote != 0 (TL note cont: Taichi most likely equated "flat-chested" to "buzzkill" when he coined the term.)
+//That works better to lead up to the next line.-Spin
+//Woah woah, epic reveal here?!?!? - pondrthis
+TP
+
+It works just fine for hiding tree leaves.
+IF $tlnote != 0 (TL note: Taichi is misquoting a Japanese idiom roughly translated as "If you want to hide a tree, put it in a forest," by which he means women's underwear won't look out of place in a woman's underwear drawer.)
+//I think he's talking about the underwear itself, not pictures. Furthermore, you might want to mention that the tree leaves is (is it?) possibly a reference to female genitalia. - pondrthis
+TP
+
+Taichi: "And, the goods so valued that they form a part of my soul are all......hu!"
+//"hu"?-Spin
+TP
+
+Not even a fully-trained super-ninja would notice!
+TP
+
+Look upon this amazing hidden safe in the wall!!
+TP
+
+The utmost private space brought forth through the wonders of human architecture!!
+//"through" feels like a better preposition. The rest is just embellishments, if you don't like 'em, screw 'em. - pondrthis
+TP
+
+I made it with the winnings from a bet Youko-chan made with me some time ago in foreign money.
+TP
+
+A water- and fireproof hidden safe: ÅwSecret HeavenÅx!
+*Secret Heaven = The name of the product
+//Even though it doesn't say "water," "heat" is almost the same as fire anyway.-Spin
+TP
+
+
+I rotated the handle embedded in the wall.
+TP
+
+I slid it to the right.
+TP
+
+The safe's entrance...
+TP
+
+My password wasn't recorded anywhere.
+TP
+
+It was in my head.
+TP
+
+That is to say, even Lupin would not be able to uncover it.
+//TL note for the noob level?
+//I know who it is even though I've never watch them.-Spin
+//No earthly idea what the hell this is talking about. - pondrthis
+//Why is there still no noob TL note? I've heard the name before (something Detectiveish from anime), but newbies would have no idea. -VDZ
+TP
+
+9991.
+TP
+
+The lock clicked open.
+TP
+
+I chose this number based on the kanji in "Taichi."
+//Hmm...has there been a noob TL note for kanji yet? If not, you should add one here. -VDZ
+TP
+
+Tai = many, and the largest number available was 999.
++
+Ichi = one, so 1.
+TP
+
+The wit mixed into this combination should make it harder to analyze than my birthday.
+TP
+
+I wrapped my fingers around the handle and opened the perfectly square door.
+TP
+WVS 1 0
+
+
+......it was empty.
+TP
+
+Taichi: "My soullllllll---!!??"
+SEF 101 0
+TP
+
+*shake* *shake* *shake* *shake!!!*
+SEF 101 0
+TP
+
+I was convulsing.
+TP
+
+Taichi: "Agagagagagaga!!!"
+TP
+
+Something came out of my mouth.
+*Something = ectoplasm
+TP
+
+WVP 1 bgm011.ogg 0 0 0
+
+GL 1 TCKT0004c
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfccb2009fyu049
+Touko: "Kya, what's wrong? Something white's coming out of your mouth!!"
+TP
+
+Taichi: "......ha?!"
+TP
+
+I regained my senses.
+TP
+
+Taichi: "Guooooo!!!"
+TP
+
+I scraped together with both hands all that I'd engorged onto the floor.
+TP
+
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfccb2009fyu050
+Touko: "......you're sucking it back up......?"
+TP
+
+Taichi: "Re-vival!"
+TP
+
+I posed heroically.
+TP
+
+Taichi: "Yai, Kirihara! What is this!? What happened to the contents of this hidden room? No, how'd you even find it!?"
+//"yai"?-Spin
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfccb2009fyu051
+Touko: "How?......I sensed a sort of suspicious aura......when I looked around, I found the safe......then when I put in a number based on "Taichi," it opened......"
+TP
+
+Genius Peta Girl!?
+TP
+
+Taichi: "The contents?"
+TP
+
+GL 1 TCKT0003c
+GI 1 0
+
+WVP 0 vfccb2009fyu052
+Touko: "I'm saying,"
+TP
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfccb2009fyu053
+Touko: "I burned them."
+TP
+
+Taichi: "All of them!!?"
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2009fyu054
+Touko: "Yeah."
+TP
+
+Taichi: "All of them!!?"
+TP
+
+I asked twice.
+TP
+
+WVP 0 vfccb2009fyu055
+Touko: "Y-yeah."
+//Damn she better give him a whole hell of a lot of sex. And she better do oral, too. He should return the favor, but she better do it, anyway. - pondrthis
+TP
+
+Taichi: "Coo! Coo! Coo!"
+//Chickens say "coo." Wait, that's just pidgeons...-Spin
+TP
+
+WVP 0 vfccb2009fyu056
+Touko: "Are you a chicken?"
+//If you keep the "coo," you gonna change that chicken?-Spin
+TP
+
+Taichi: "You did this knowing that this small mysterious space was a part of me!!"
+TP
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfccb2009fyu057
+Touko: "Well......there were girls......tied up......and wearing school swimsuits and such......"
+TP
+
+WVP 0 vfccb2009fyu058
+Touko: "It all seemed weird, so I burned it very carefully."
+TP
+
+GL 1 TCKT0021c
+GI 1 0
+
+WVP 0 vfccb2009fyu059
+Touko: "Relax. You no longer need such things."
+TP
+
+She chuckled.
+TP
+GL 1 TCKT0006c
+GI 1 0
+
+
+WVP 0 vfccb2009fyu060
+Touko: "......design models...I'd be one for you."
+TP
+
+Taichi: "Hawawawawawawa!"
+TP
+
+She doesn't understand.
+TP
+
+She doesn't understaaaaand!!
+TP
+
+
+My soul! (Soul!)
+TP
+
+In flames! (In flames!)
+TP
+
+My soul! (Soul!)
+TP
+
+In flames! (In flames!)
+TP
+
+Ashes to ashes! (Dust to dust!)
+TP
+
+Rust to rust! (To soul!)
+TP
+
+My soul is burning, burning.
+TP
+
+I no longer have any of the legends from E to A!
+TP
+
+Here is the first level of hell, scorching, scorching!
+TP
+
+My soul! (Soul!)
+TP
+
+In flames! (In flames!)
+TP
+
+Your soul too! (Yours too!)
+TP
+
+In flames! (In flames!)
+TP
+
+All together!
+TP
+
+
+Taichi: "Goodbye!!"
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+WVS 1 0
+WVP 2 se038 1 0
+SEF 101 0
+At the end of my rap-style despair, I passed out with a scream like that of an Osamu Dazai novel.
+//TLN? Or is there already one? - pondrthis
+//Indeed, this requires a TL note, otaku level. I have no idea who or what Osamu Dazai is. -VDZ
+TP
+
+
+
+At the base of my consciousness,
+TP
+
+I remembered what happened last year around this time.
+TP
+WT 500
+WT 500 1
+RET

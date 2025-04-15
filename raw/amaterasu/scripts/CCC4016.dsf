@@ -1,0 +1,1043 @@
+
+WVP 1 bgm018.ogg 0 0 0
+
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 0
+
+Taichi: "Now then,"
+TP
+
+I lit the candle.
+//CP from somewhere
+TP
+
+While writing in my diary, I looked back a day.
+TP
+
+Youko-chan died yesterday.
+TP
+
+And today, Touko died.
+TP
+
+Someone killed them.
+TP
+
+It's unclear who.
+TP
+
+I don't think it was Kiri.
+TP
+
+Which means......not counting me, there are four left.
+TP
+
+And one of them killed their friends.
+TP
+
+Taichi: "......this is heavy."
+TP
+
+But I don't know.
+TP
+
+I can't come up with anything.
+TP
+
+......what goal did the culprit fulfill by murdering those two?
+TP
+
+Youko-chan.
+TP
+
+Shot by an arrow.
+TP
+
+Which means she got caught in one of those traps.
+TP
+
+Even she makes a mistake once in a hundred times.
+TP
+
+So whoever set up that trap killed Youko-chan.
+TP
+
+I don't know whether Youko-chan was targeted, or if she just jumped into it.
+TP
+
+Touko.
+TP
+
+Stabbed by a short sword.
+TP
+
+There were no signs of resistance.
+TP
+
+She'd died as if sleeping.
+TP
+
+Taichi: "......"
+TP
+
+The footprints in front of the hokora.
+TP
+
+My shoes.
+TP
+
+But I have no memory of loitering in front of the hokora.
+TP
+
+It's not memory loss.
+TP
+
+Someone wore my shoes and loitered there.
+TP
+
+Or perhaps someone with the same shoes?
+TP
+
+Horrific thoughts passed by me.
+TP
+
+What if I lost my rationality?
+TP
+
+What if my aggressiveness was turned toward others?
+TP
+
+......then I wouldn't need a motive, would I?
+TP
+
+Come to think of it, are any of those four suspects able to make a trap that could deceive Youko-chan?
+TP
+
+Is there someone who's been hiding their skills?
+TP
+
+That's the most plausible profile.
+TP
+
+......that's me.
+TP
+
+
+1. Sleepwalking
+2. Multiple Personalities
+TP
+
+
+Since the traps were set up so precisely, I know it's not 1.
+//Something just felt missing.-Spin
+TP
+
+Could it be a 2 maintaining a calm enough intellect to make that kind of trap?
+TP
+
+Could I actually have multiple personalities?
+TP
+
+It would certainly explain why I don't remember it.
+TP
+
+However......that's awfully hackneyed.
+TP
+
+It'd be better if there were two of me.
+TP
+
+Taichi: "......I don't know."
+TP
+
+The diaries tied to Åwunclear details at the present time.Åx
+TP
+
+Taichi: "Nn?"
+TP
+
+The candle suddenly went out.
+//CP_S ccc3011
+TP
+
+There were light footsteps outside.
+//PCP
+TP
+
+I stuck my head out the window.
+TP
+
+......it's Kiri.
+TP
+
+Walking down an empty street.
+//CP_S
+TP
+
+I saw her yesterday too.
+TP
+
+Suspicious behavior.
+TP
+
+I'd crossed Kiri off my list of suspects because of her hatred towards my realistic acting, but......
+TP
+
+Okay, I'll follow her.
+TP
+GL 0 bgcc0002c
+GS 0 1
+SEF 152 0
+
+
+On the way, I borrowed a bicycle.
+TP
+
+Efficient pursuit.
+TP
+
+At long last, Kiri entered a meadow facing a grove of trees.
+TP
+
+I can't use the bicycle any more since it would stand out.
+TP
+
+I lowered my body and silently snuck toward her.
+//Just sounds more natural.-Spin
+TP
+
+WVS 1 0
+
+Kiri took that out of her belongings.
+TP
+
+GL 0 evcc0024b
+$CGevcc0024b = 1
+GS 0 1
+SEF 152 0
+A crossbow---
+TP
+
+WVP 1 bgm017.ogg 0 0 0
+
+It definitely wasn't a toy.
+//CP_S ccc3005
+TP
+
+Out of everything you could get in this country, it was a weapon of unparalleled strength.
+TP
+
+Though it can't fire repeatedly.
+TP
+
+It excels in silence, and abounds in destructive power.
+TP
+
+Kiri pulled the trigger.
+TP
+
+An arrow pierced a rotted tree.
+TP
+
+The sound of air moving was left in my ears.
+TP
+
+Kiri readied a new arrow.
+TP
+
+She finished loading it with the cocking device.
+TP
+
+Awkward.
+TP
+
+But, I knew.
+TP
+
+This is training.
+TP
+
+To fight.
+TP
+
+But, with who?
+TP
+
+With......who......?
+//CP_F
+TP
+
+It was as if a dark aura was coming from Kiri.
+//Regardless of the race factor, I'm sure you've seen "dark aura" used in situations like this all the time.-Spin
+TP
+
+Eyes that had lost emotion.
+TP
+
+Mechanical movements.
+TP
+
+Whether it hit or missed, her expression remained unchanged.
+TP
+
+WVP 0 vfCCC4016kri000
+Kiri: ÅwWhy do you keep acting so friendly!!!?Åx
+//PCP_S ccc4015
+TP
+
+
+WVP 0 vfCCC4016kri001
+Kiri: Åw......who would do such a thing to you!!!?Åx
+//PCP_F
+TP
+
+
+WVP 0 vfCCC4016kri002
+Kiri: ÅwMurderer! Who are you going to kill next!?Åx
+//PCP ccc4014
+TP
+
+
+There are still many mysteries surrounding Touko and Youko-chan's cases.
+TP
+
+But,
+TP
+
+I understand Kiri's motives all too well.
+TP
+
+She continued that training for an hour.
+TP
+GL 0 bgcc0000c
+GS 0 1
+SEF 109 0
+
+She must have been worn out, since she gathered her things slowly before heading back.
+TP
+
+I walked across the plain and examined the targeted tree.
+//PCP ccc3005
+TP
+
+WVS 1 0
+
+GL 4 sgcc0022
+$CGsgcc0022 = 1
+GP 4 0 0
+GS 4 1
+SEF 109 0
+
+WT 1000 0
+WT 2000 1
+
+GL 0 bgcc0000d
+GS 0 1
+GS 4 0
+SEF 109 0
+
+WT 1000 0
+WT 2000 1
+
+GL 0 bgcc0004c
+GS 0 1
+SEF 152 0
+I returned home.
+TP
+
+I was tired......
+TP
+
+Sakuraba was there.
+TP
+
+Taichi: "......hey."
+TP
+
+I kicked his butt.
+TP
+GL 1 TCSH0000c
+GP 1 190 0
+GI 1 1
+
+WVP 0 vmCCC4016sku000
+Sakuraba: "Oooh, Taichi."
+TP
+
+Sakuraba had been eating cucumbers.
+TP
+
+Cucumbers from Tomoki's delivery.
+TP
+
+Taichi: "And?"
+TP
+
+GL 1 TCSH0003c
+GI 1 0
+WVP 0 vmCCC3012bsku001
+Sakuraba: "Please listen."
+//CP_S ccc3012b wow, I'm getting off easy with the copy pasta today
+TP
+
+Taichi: "What is it?"
+TP
+
+WVP 0 vmCCC3012bsku002
+Sakuraba: "I've grown bored of curry bread."
+TP
+
+WVP 1 bgm010.ogg 0 0 0
+
+
+Taichi: "......you know..."
+TP
+GL 1 TCSH0002c
+GI 1 0
+WVP 0 vmCCC4016sku002
+Sakuraba: "So I tried coming to your house, since I thought there might be cucumbers."
+//PCP
+TP
+
+Taichi: "Why did you come to my house?"
+TP
+
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC3012bsku004
+Sakuraba: "I told Tomoki I didn't need food."
+TP
+
+Taichi: "Wh-why?"
+TP
+GL 1 TCSH0003c
+GI 1 0
+WVP 0 vmCCC3012bsku005
+Sakuraba: "Because I had curry bread."
+TP
+
+What a limited life.
+//CP_F
+TP
+
+Taichi: "That aside, what's with the super-huge baggage?"
+TP
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC4016sku003
+Sakuraba: "Aaah. I'm going on a journey."
+//It just gets better and better. Å`IX
+//Honestly, I would probably do the same thing in that situation.-Spin
+TP
+
+Taichi: "........................say what?"
+TP
+
+WVP 0 vmCCC4016sku004
+Sakuraba: "A journey."
+TP
+
+Taichi: "You......in this situation......you're going to go traveling?"
+TP
+GL 1 TCSH0002c
+GI 1 0
+
+WVP 0 vmCCC4016sku005
+Sakuraba: "That's right. Journeys are good."
+TP
+
+Sakuraba spoke vacantly.
+TP
+GL 1 TCSH0000c
+GI 1 0
+
+WVP 0 vmCCC4016sku006
+Sakuraba: "Don't you think journeys are needed in this day and age?"
+TP
+
+Taichi: "I think staying in place would be......"
+TP
+
+WVP 0 vmCCC4016sku007
+Sakuraba: "That's backward thinking."
+//And that's exactly what I would have said.-Spin
+TP
+
+Taichi: "I-is it!?"
+TP
+
+He's...he's going on a journey.
+TP
+
+I started thinking of Sakuraba as a winner of some kind.
+TP
+
+WVP 0 vmCCC4016sku008
+Sakuraba: "So, I'd like to split your food."
+TP
+
+Taichi: "......well, I don't really mind."
+TP
+
+The two of us sorted out the food in the Tomoki Box (the cardboard box he delivered).
+TP
+
+Taichi: "So, where are you going?"
+TP
+
+WVP 0 vmCCC4016sku009
+Sakuraba: "I haven't decided. I'll think about it when I reach the neighboring town."
+TP
+
+GL 1 TCSH0003c
+GI 1 0
+WVP 0 vmCCC4016sku010
+Sakuraba: "Besides, I might find some people there."
+TP
+
+Taichi: "......hmmm."
+TP
+
+So it's not that he isn't thinking about it.
+TP
+
+Taichi: "Bring a handy (wireless) with you. It doesn't seem like anyone's broadcasting, but we can probably stay connected."
+TP
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC4016sku011
+Sakuraba: "Yeah, I have one."
+TP
+
+Taichi: "It's SSB, right? We're borrowing a transoceanic antenna, so wait a bit."
+//eh? Å`IX
+//Assuming you're still not sure: Single-Sideband. It gets more range and less power usage but generally more expensive.-Spin 
+TP
+
+WVP 0 vmCCC4016sku012
+Sakuraba: "Sorry."
+TP
+
+I have some slight knowledge about watches.
+//Yeah I have no idea what he's talking about. Å`IX
+//I'm assuming its a watch that has a radio function on it? - Sheeta
+TP
+
+A super-long range communications antenna made of chopsticks and nichrome wire.
+TP
+
+I'd brought one.
+TP
+
+Taichi: "Here."
+TP
+
+WVP 0 vmCCC4016sku013
+Sakuraba: "Aaah, thanks. With this I can talk to foreigners."
+TP
+
+Taichi: "Hahaha, if you speak their language. Unfortunately, Sakuraba, with your knowledge---"
+TP
+
+WVP 0 vmCCC4016sku014
+Sakuraba: "Could you pay me back the shipping charge? (onegaishimasu, hempin no souryou wo harattekudasai)"
+//Hopefully the voices will make it sufficiently obvious that he's speaking English and the parenthesis were a Japanese tl for the Japanese readers. Å`IX
+TP
+Taichi: "......EH?"
+TP
+
+WVP 0 vmCCC4016sku015
+Sakuraba: "What a fiasco it is! (sore wa nanto hidoi jiken nano deshou)"
+
+TP
+
+Taichi: "......SERIOUSLY?"
+TP
+
+No, isn't this English?
+TP
+
+WVP 0 vmCCC4016sku016
+Sakuraba: "Well, if they know English it'll work out."
+TP
+
+WVP 0 vmCCC4016sku017
+Sakuraba: "......I lived in America a long time ago, so I can speak a little."
+TP
+
+What!?
+TP
+This guy......he couldn't have been......a casual bilingual.
+TP
+
+GL 1 TCSH0002c
+GI 1 0
+WVP 0 vmCCC4016sku018
+Sakuraba: "If they're Russian, I'll leave them to you."
+TP
+
+Taichi: "Ah, yeah, Russian is actually a strong suit of mine!"
+TP
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC4016sku019
+Sakuraba: "It is?"
+TP
+
+Taichi: "Ha, hahaha, well good luck, wait, when will you come back?"
+TP
+
+WVP 0 vmCCC4016sku020
+Sakuraba: "When I want to come back."
+TP
+
+I see.
+TP
+
+WVP 0 vmCCC4016sku021
+Sakuraba: "Also, I borrowed some money from you, didn't I?"
+TP
+
+Taichi: "Yeah, a little."
+TP
+
+WVP 0 vmCCC4016sku022
+Sakuraba: "How much was it?"
+TP
+
+Even though there's no longer any meaning in money.
+TP
+
+Strange guy.
+//That sounded really off. I thought maybe change it to this or "What a strange guy."-Spin
+TP
+
+Taichi: "Well...I don't remember the amount..."
+TP
+GL 1 TCSH0003c
+GI 1 0
+WVP 0 vmCCC4016sku023
+Sakuraba: "For now, I'll hand you my pocket change."
+//The voice had a comma in it.-Spin
+TP
+
+He took out his wallet.
+TP
+
+I received it.
+TP
+
+I heard a cha-ching noise.
+TP
+
+Taichi: "Haha, even casual bilinguals are poor at times."
+TP
+
+Sakuraba smiled calmly.
+TP
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC3012bsku023
+Sakuraba: "Well yeah. Being rich is like that."
+//CP_S ccc3012b
+TP
+
+Taichi: "Hahaha."
+//CP_F
+TP
+
+WVP 0 vmCCC3012bsku025
+Sakuraba: "Hahaha!"
+//Matches voices.
+//CP_S
+TP
+
+We laughed together.
+TP
+
+We crossed our arms.
+TP
+
+Our friendship deepened.
+//CP_F
+TP
+
+Taichi: "Okay, okay, how much is in here?"
+TP
+
+I opened his wallet.
+//CP_S
+TP
+
+As I feared, there was no paper money.
+TP
+
+Inside were fifteen coins, each a hundred thousand yen.
+TP
+
+Taichi: "Mister yen!!"
+TP
+
+Swoon.
+TP
+
+WVP 0 vmCCC3012bsku029
+Sakuraba: "What's wrong?"
+TP
+
+Taichi: "Hiiiiiiiiiiiiiiii!!!"
+TP
+
+I writhed around like a caterpillar.
+TP
+
+What's with this wallet!!?
+TP
+
+I've never seen something so amazing!!
+TP
+On closer inspection, it wasn't just hundred thousand yen coins.
+TP
+
+
+Hundred thousand yen gold coin in memorial of the Shouwa emperor who reigned for sixty years X 8
+TP
+
+Hundred thousand yen gold coin in memorial of the emperor's accession to the throne X 7
+TP
+
+Fifty thousand yen gold coin in memorial of his highness the crown prince's wedding X 2
+TP
+
+Five thousand yen coin depicting the International Garden and Greenery Exposition X 4
+TP
+
+Five thousand yen silver coin depicting the crown prince's wedding X 3
+TP
+//There was a line seperating these two lines so I'm assuming that that was accidently deleted.-Spin
+
+And that's not all.
+TP
+
+Taichi: "Are you a moron!?"
+TP
+
+
+GL 1 TCSH0002c
+GI 1 0
+WVP 0 vmCCC3012bsku030
+Sakuraba: "I couldn't really use these for buying stuff."
+TP
+
+Taichi: "Of course not!"
+TP
+
+This guy......flashing such huge sums around......
+TP
+
+For the Sakurabas......could a hundred thousand yen possibly......not be that big......not be that big......? (Echo)
+TP
+
+Taichi: "Ha!?"
+TP
+
+Before humanity's annihilation, if I'd pestered him just once during the time when money held meaning...
+TP
+
+Taichi: "Ou-ou-ou-ou!"
+TP
+
+
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC3012bsku031
+Sakuraba: "Why do you cry?"
+TP
+
+Taichi: "OOOOOoooo!!"
+TP
+
+God is being allowed to torture us!
+TP
+I was filled with regret.
+//CP_F
+TP
+
+WVP 0 vmCCC4016sku025
+Sakuraba: "Please use that to pay off whatever was left."
+TP
+
+He took a wooden box out of his baggage.
+TP
+
+Inside was an out-of-date Shan Shui.
+IF $tlnote != 0 (TL note: "Shan Shui" is a famous Chinese style of landscape painting.)
+TP
+
+Taichi: "What's this?"
+TP
+
+WVP 0 vmCCC4016sku026
+Sakuraba: "I chose something fittingly expensive-looking."
+TP
+
+Taichi: "The artist......ummm......it's got a tag... Denshuu Bumpitsu?"
+IF $tlnote != 0 (TL note: This might be a joke, since "Shuubun" was a famous 14th century Japanese landscape painter and "Dempitsu" means "legendary brush")
+TP
+GL 1 TCSH0003c
+GI 1 0
+WVP 0 vmCCC4016sku027
+Sakuraba: "Is he famous?"
+TP
+
+Taichi: "Lemme check."
+TP
+
+I brought a relevant picture book from Mutsumi-san's room.
+TP
+
+Taichi: "It probably won't be in here if it's something cheap."
+TP
+GL 1 TCSH0000c
+GI 1 0
+
+WVP 0 vmCCC4016sku028
+Sakuraba: "That would be a problem. This was the most expensive-looking one."
+TP
+
+Taichi: "Denshuu-san...just how much effort did you put into this?"
+TP
+
+
+National treasure and important cultural relic.
+TP
+
+
+Taichi: "------------"
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+Faint.
+TP
+
+WVP 0 vmCCC4016sku029
+Sakuraba: "Hey, Taichi! Taichi!"
+TP
+GL 0 bgcc0004c
+GS 0 1
+SEF 109 0
+
+........................
+TP
+
+
+Taichi: "You......if this was the real thing......wouldn't that be blaspheming the country?"
+TP
+GL 1 TCSH0000c
+GI 1 1
+WVP 0 vmCCC4016sku030
+Sakuraba: "Would it? I don't think it's much more than bonfire fuel."
+TP
+
+Destroyer of culture......this guy's a destroyer of culture!!
+TP
+
+I merely shook like a kitten.
+TP
+
+As I was shaking, Sakuraba suddenly said,
+TP
+
+GL 1 TCSH0003c
+GI 1 0
+WVP 0 vmCCC4016sku031
+Sakuraba: "Also......won't you come with me?"
+TP
+
+Taichi: "Eh?......Me? Go on a journey?"
+TP
+
+WVP 0 vmCCC4016sku032
+Sakuraba: "I invited Tomoki too, but...he seems to have things to do here."
+TP
+
+Taichi: "Well, yeah."
+TP
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC4016sku033
+Sakuraba: "What'll it be?"
+TP
+
+WVS 1 1
+
+Taichi: "......it sounds fun, but..."
+TP
+
+Everyone's faces passed through my mind.
+TP
+
+Along with many and various mysteries.
+TP
+
+Taichi: "I'll pass."
+TP
+
+WVP 0 vmCCC4016sku034
+Sakuraba: "I see."
+TP
+
+Sakuraba didn't seem that disappointed.
+TP
+
+WVP 1 bgm016.ogg 0 0 0
+
+WVP 0 vmCCC4016sku035
+Sakuraba: "Then I'll go now."
+TP
+
+Taichi: "Why not wait until tomorrow at least? Aren't the mountains dangerous?"
+TP
+
+WVP 0 vmCCC4016sku036
+Sakuraba: "I'm in the mood to go now."
+TP
+
+Taichi: "Aaah, you're the type to get stranded."
+TP
+
+WVP 0 vmCCC4016sku037
+Sakuraba: "So, now that we've split the food, I'll be going."
+TP
+
+Taichi: "Yep."
+TP
+
+
+
+GL 0 bgcc0013bz
+GS 0 1
+GS 1 0
+SEF 152 0
+I watched him go.
+TP
+
+Taichi: "Ah, that's right, may I ask something?"
+TP
+
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC4016sku038
+Sakuraba: "Nn?"
+TP
+
+Taichi: "Is there anyone in the Broadcasting Club you hate enough to kill?"
+TP
+
+GL 1 TCSH0002c
+GI 1 0
+WVP 0 vmCCC4016sku039
+Sakuraba: "Nope. I love everyone."
+//This would make more sense because the next two lines seem to imply he said something more than just "like."-Spin
+TP
+
+Taichi: "How vigorous."
+TP
+
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC4016sku040
+Sakuraba: "I didn't mean it that way. Because I'm mentally incompetent, there's hardly any of that desire."
+TP
+
+That's actually true.
+TP
+
+WVP 0 vmCCC4016sku041
+Sakuraba: "My lust remains as it was on that day, at that time; stolen by you."
+TP
+
+He seemed happy.
+TP
+
+Taichi: "That's gross, so stop it."
+TP
+GL 1 TCSH0002c
+GI 1 0
+WVP 0 vmCCC4016sku042
+Sakuraba: "No, for a spontaneous human like me, it's best not to have too much lust."
+TP
+
+WVP 0 vmCCC4016sku043
+Sakuraba: "Instead, I'm doing other things I want to do."
+TP
+
+That day when Sakuraba's eardrums were broken.
+TP
+
+This guy calmed down beyond belief.
+TP
+
+And, at the same time, lost his lust.
+TP
+
+It's unclear what the cause is.
+TP
+
+The wound of unrequited love? Spiritual awakening?
+TP
+
+Sakuraba doesn't know that either.
+TP
+
+Taichi: "One more question."
+TP
+
+Taichi: "Have you ever killed someone?"
+TP
+
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC4016sku044
+Sakuraba: "No, never."
+TP
+
+Taichi: "......I see."
+TP
+
+Taichi: "I understand. Get going."
+TP
+
+WVP 0 vmCCC4016sku045
+Sakuraba: "Aaah, see you......"
+TP
+GO 1 1
+I thought while watching him leave.
+TP
+
+If he was the culprit, then I just let him get away right under my nose.
+TP
+
+But...well, whatever.
+TP
+
+It's probably not him.
+TP
+
+
+Like that,
+TP
+
+WVS 1 1
+
+Sakuraba disappeared.
+//Call the mourners. Å`IX
+//Damn. Oh well, he should be back next week anyway.-Spin
+TP
+
+RET

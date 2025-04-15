@@ -1,0 +1,281 @@
+//GL 0 bgcc0000d
+//GS 0 1
+//GS 1 0
+//GS 2 0
+//SEF 109 1
+//WT 1000 1
+//GL 0 bgcc0017s
+//GS 1 0
+//GS 0 1
+//SEF 10 1
+
+WVP 3 SE001 0 0
+
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0017s
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+
+
+
+WVP 1 bgm005.ogg 0 0 0
+
+//楽しい海だった。
+Our beach outing was fun.
+TP
+
+//今でも、皆のはしゃぎようは思い出せる。
+Even now I remember everybody's merrymaking.
+TP
+GL 4 sgcc0009s
+$CGsgcc0009s = 1
+GP 4 0 0
+GI 4 1
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+WVP 0 vfcca0027fyu004
+//冬子「きあああっ！？　どこつかんでんのよっ！？」//*
+Touko: "KYAAAAH!? Where did you just grab meee?!"
+//CP CCA0027
+TP
+
+
+//太一「水着のお尻のとこの布」
+Taichi: "On the part of the swimsuit that covers your ass."
+//CP CCA0027
+TP
+GO 4 1
+GL 1 TCMM0000as
+GP 1 220 0
+GI 1 1
+WVP 0 vfcca0027msa004
+//見里「支倉さんって……黒須君とどういうご関係なんでしょうねぇ？」//*
+Misato: "Hasekura-san, you say... what is even your relationship with her, Kurosu-kun?"
+//CP CCA0027
+TP
+
+
+//太一「ん、曜子ちゃん？」
+Taichi: "Hm? Youko-chan?"
+//CP CCA0027
+TP
+
+
+//GL 1 TCKT0004as
+//GL 3 TCYM0001as
+GL 1 TCYM0001as
+GL 2 TCMM0004as
+GL 3 TCKT0004as
+//GP 1 -20 0
+//GP 2 220 0
+//GP 3 400 0
+GP 1 -40 0
+GP 2 220 0
+GP 3 420 0
+//HACK inverted dolls again, positions didn't match CCA0027 either. Left Misato in the same position or it looks really bad in the transition. -GHS
+GS 1 1
+GS 2 1
+GS 3 1
+SEF 109 0
+
+WVP 0 vfcca0027doz000
+//冬子「曜子ちゃん！？」//*
+//見里「曜子ちゃんっ！？」//*
+//美希「曜子ちゃんっっっ？」//*
+//友貴「曜子ちゃん！！」//*
+ Touko: "YOUKO-CHAN?!"
+Misato: "YOUKO-CHAN!?!"
+  Miki: "YOUKO-CHAAAAN?"
+Tomoki: "YOUKO-CHAN!!!"
+//CP CCA0027
+//SEF 101
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+TP
+
+
+GL 4 TCYM0000as
+GP 4 180 0
+GS 4 1
+GS 3 0
+GS 2 0
+GS 1 0
+SEF 109 0
+
+
+WVP 0 vfcca0027mki016
+//美希「ヤクザですねもう」//*
+Miki: "What a Yakuza, really."
+//CP CCA0027
+TP
+
+GL 1 TCMM0005as
+GP 1 235 0
+GS 4 0
+GS 1 1
+SEF 109 0
+
+
+WVP 0 vfcca0027msa013
+//見里「カ、カラダはいやぁ～」//*
+Misato: "My-, my body you caaa～n't!"
+//CP CCA0027
+TP
+
+GL 2 TCDY0004as
+GP 2 240 0
+GS 1 0
+GS 2 1
+SEF 109 0
+
+
+WVP 0 vfcca0027ysa001
+//遊紗「あのっ、失礼しますしますしますっ！！！！」//*
+Yusa: "A-uhm, if I maying may may mayyyyyy!!!!!!"
+//PCP CCA0027
+//She has the name... well, since she's even onscreen now. -GHS
+TP
+
+
+
+GL 0 evcc0007s
+$CGevcc0007s = 1
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 155 0
+
+
+WVP 0 vfcca0027fyu024
+//冬子「ばーか」//*
+Touko: "Iii-diot."
+//CP CCA0027
+TP
+
+
+WVP 0 vfcca0027ysa015
+//遊紗「あっ、くるっ、くるるっ？」//*
+Yusa: "Ah, this way, this wayay?"
+//CP CCA0027
+TP
+
+
+WVP 0 vfcca0027mki029
+//美希「い、いたい～、おでこいたい～」//*
+Miki: "It-, it huuu～rts, forehead huuu～rts!"
+//CP CCA0027
+TP
+
+
+WVP 0 vfcca0027msa026
+//見里「……ぶつぶつぶつ」//*
+Misato: "...(mutter, mutter, mutter)"
+//CP CCA0027
+TP
+
+
+//太一「楽しかったけどな」
+Taichi: "But we still had fun."
+//CP CCA0027
+TP
+WVS 3 1
+
+
+GL 0 bgcc0000bs
+GS 0 1
+SEF 109 0
+
+//楽しい海水浴はこれでおしまい。
+Our fun beach outing has with this concluded.
+//CP CCA0027
+TP
+
+//美希の傷は、ほんの少しだけ跡が残りそうだった。
+As for Miki's cut, it only left behind a very small scar.
+//CP CCA0027
+TP
+
+//それでも帰り道、本人は晴れ晴れとした顔をしていた。
+Nevertheless, on the way back, said Miki had the most bright and cheerful face on her,
+//CP CCA0027
+TP
+
+//傷ついたかわりに、何かを得たような。
+as if she had obtained something in exchange for being hurt.
+//CP CCA0027
+TP
+
+//そんな顔だった。
+That's what her face said.
+//CP CCA0027
+TP
+
+//そのあと、見里先輩が放送部用のアンテナ搬入につきあうため、学校に戻って。
+After that, Misato-senpai had to help bring in the antenna for the Broadcast Club, and returned to school.
+TP
+
+//まだ姉とは断絶していなかった友貴が、皮肉を言って。
+Tomoki, not yet wholly torn apart from his sister, said something sarcastic.
+TP
+
+//そのシスコンぶりを、当時まだ群青付属三年生だった美希にからかわれて。
+His sisconlike ways were then ridiculed by Miki, then still in the third year of the middle school subordinate to Gunjou.
+TP
+
+//遊紗ちゃんが、集団というものに対してはじめて、小さく心を開いた。
+Yusa-chan opened her heart a little to the concept of group for the first time.
+//Not just these guys, but groups in general. She is obviously too shy to have friends, especially after the Conformity Test. -GHS
+TP
+
+//そんな海だったんだ。
+And that had been our beach outing.
+TP
+//GL 0 bgcc0000d
+//GS 0 1
+//SEF 109 1
+WVS 1 1
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+//HACK flashback exit whiteout -GHS
+
+RET

@@ -1,0 +1,223 @@
+
+//太一「仕方ない。これをやろう」
+Taichi: "No other way then, I'm giving you this."
+TP
+
+//太一袋から、サンドイッチの包みを取り出す。
+From the Taichi Bag I take out the sandwich wraps.
+TP
+
+GL 1 TCYM0021
+GI 1 0
+
+
+WVP 0 vfCCC0018amki000
+//美希「これは？」
+Miki: "These are...?"
+TP
+
+//太一「神話で砂と魔女を挟んで食べたという言い伝えが……」
+Taichi: "The legend of how they are eaten sandwitched between sand and a witch has been retold for---"
+//PCP CCB0015B
+TP
+
+//GL 1 TCYM0000
+GL 1 TCYM0003
+//HACK happier Miki -GHS
+GI 1 0
+
+WVP 0 vfCCC0018amki001
+//美希「サンドイッチですか」
+Miki: "They're sandwiches are they?"
+TP
+
+//機先を制された。
+Forestalled.
+TP
+
+//太一「うぐー、そうだ！」
+Taichi: "Ngggh, you're right!"
+//Almost, but not quite, the Kanon noise. -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 0
+//HACK standard Miki -GHS
+
+WVP 0 vfCCC0018amki002
+//美希「怒られている……」
+Miki: "I made you angry..."
+TP
+
+//太一「やる！」
+Taichi: "Have'em!"
+TP
+GL 1 TCYM0004
+GI 1 0
+
+WVP 0 vfCCC0018amki003
+//美希「えっ、いいんですか？　先輩のごはんでは？」
+Miki: "Eh, seriously? But what about your lunch, Senpai?"
+TP
+
+//太一「俺はいくらでも調達できるし」
+Taichi: "I can scrounge up as many as I want."
+TP
+
+//太一「……二人分はあるから、霧ちんと食べると良い」
+Taichi: "...there's enough for two, so do eat them with Kiri-chin."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0018amki004
+//美希「ありがてぇのですが……その」
+Miki: "I'm thanking ye... but..."
+//Bit jumbled -GHS
+TP
+
+//太一「……さっき霧ちんをランチに誘ったら相手にもされなかったよ」
+Taichi: "...earlier I invited Kiri-chin to lunch, but let's just say I wasn't considered a possible partner."
+//Should probably be read with air quotes. -GHS
+TP
+
+GL 1 TCYM0041
+GI 1 0
+
+
+WVP 0 vfCCC0018amki005
+//美希「うおー、この人は人類死滅してもまだ霧ちんいじりを……」
+Miki: "Woooh, even with humanity annihilated this guy still goes and bullies Kiri-chin..."
+TP
+
+//美希はわなわな震えた。
+Miki shook and trembled with fear.
+//PCP CCA0023 (been a while)
+TP
+
+//太一「人類が滅亡したところで、変わる俺ではなかった」
+Taichi: "I wasn't among the ones that changed with the Fall of mankind."
+//Who has? -GHS
+TP
+
+//モノローグ調で告げる。
+So I proclaimed in the style of a monologue.
+//See CCX0001 -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC0018amki006
+//美希「さすがヤングメン……」
+Miki: "Totally a Young Man..."
+TP
+
+//太一「ヤングアダルト候補生だ。間違えるなよ」
+Taichi: "Young Adult Cadet you mean. Make no mistake you!"
+TP
+
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfCCC0018amki007
+//美希「違いわからんです」
+Miki: "Don't get the difference."
+TP
+
+//太一「ヤングアダルトというのは、酸いも甘いも知っている男の中の男。つまり俺の目指す理想の大人像」
+Taichi: "Young Adults are men among men who know both the bitter and the sweet by having had all kinds of experiences in life. In other words, it is the ideal image of an adult on which my aims are set."
+TP
+
+//太一「そつなく仕事をこなし部下からは慕われ、上司でさえも萎縮してしまうスーパーエリート。そして週末はビーチでのアバンチュールで都会の喧噪を忘れ、夜は書斎でバイロンの詩集を黙読しつつコニャックを楽しむわけだ」
+Taichi: "Loved by his subordinates and highly competent in work: a Super Elite that dwarfs even his superiors." 
+TP
+Taichi: "Amorous adventures on the beach in the weekends to forget the bustle of the big city, enjoying cognac in his study at night while silently reading the collected poems of Byron."
+//Line split.
+//Someone said Byronic Hero? Weekend Beach Amorous Adventure, although it sounds less like a nukige and more like a bad romance novel, should remind of his insistence in going to the beach on Friday, see Sendback routes. -GHS
+TP
+
+
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC0018amki008
+//美希「……少女に対してだけでなく、将来の自分にまで幻想持ってましたか」
+Miki: "...so they're not just about girls, you have fantasies about your future self as well?"
+//Well, he might be having fantasies about his present too. -GHS
+TP
+
+//太一「そう誉めるなよミッキー」
+Taichi: "That is excessively praiseful, Mickey."
+//That's how Mickey Mouse is written in Japanese. Will return. Still better than that girl David Bowie once wrote a letter to. -GHS
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCC0018amki009
+//美希「ミッキーです。誉めてません」
+Miki: "Mickey here. I am not praising you."
+TP
+
+//太一「ま、今はまだ候補生だからまだまだ蕾ではあるけどな」
+Taichi: "Well, for now I am still a cadet, ergo I am but a bud and nothing more."
+TP
+
+//太一「花開いたら霧ちんもきっと俺にメロメロ……」
+Taichi: "Once I blossom, surely even Kiri-chin shall fall madly in love..."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfCCC0018amki010
+//美希「醜いアヒルの子はたいてい醜いまま大人になるんですよ～」
+Miki: "Ugly ducklings usually grow up to still be ugly you kno~w."
+TP
+
+//にこやかに言う。
+So she says smilingly.
+//Intentional, the translator notes down notingly -GHS
+TP
+
+//太一「ひどいっ！」
+Taichi: "Meanie!"
+TP
+
+//泣き伏す。
+I break down crying.
+TP
+
+//太一「だって生きるのに希望がいるんだもんっ」
+Taichi: "But I need that hope to live!"
+TP
+
+WVP 0 vfCCC0018amki011
+//美希「よしよし、泣かないでください～」
+Miki: "There, there, please don't cry～."
+TP
+
+//太一「……とにかく、そのサンドイッチをミッキーの手作りと称して霧ちんに食べさせてやりなさい」
+Taichi: "...anyway, do say that you have made those sandwiches yourself, Mickey, so you can get Kiri-chin to eat them."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC0018amki012
+//美希「……あの、いただいておいてこんなこと言うのもナンですが」
+Miki: "...uhm, if I take them I will say that for sure, but..."
+TP
+
+WVP 0 vfCCC0018amki013
+//美希「媚薬とか入ってないですよね？」
+Miki: "There's no aphrodisiac or anything in here is there?"
+TP
+
+//太一「……………………」
+Taichi: "............"
+TP
+
+//気持ちよいほどに信頼されていなかった。
+Distrusted to a quite pleasant level.
+TP
+RET

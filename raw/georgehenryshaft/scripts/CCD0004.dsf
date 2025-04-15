@@ -1,0 +1,663 @@
+GL 0 bgcc0005
+GS 0 1
+GS 1 0
+SEF 109 0
+
+
+
+WVP 1 bgm006.ogg 0 0 0
+
+//坂で少女とぶつかった。
+On the hills I bumped into a girl.
+TP
+
+GL 1 TCCN0102
+GP 1 180 0
+GI 1 1
+
+
+WVP 0 vfCCD0001nnk000
+//七香「きゃ……いったたたぁ……どこ見て歩いてんのよー、このスカタン！」
+Nanaka: "Kyah... owChChCh...! Where're ya looking when you're walking, ya scut!"
+//Edo period insult (!), replaced with some more pear shakesin'. http://www.pangloss.com/seidel/shake_rule.html <- never leave your bookmarks without it. Nice etymology, too. Notice HE bumps into HER this once. -GHS
+TP
+
+
+//太一「く……なんだよ、そっちがよそ見してるのが悪いんだろー！」
+Taichi: "Guh... the hell is that, it's your fault, you're the one who wasn't looking dammit!"
+TP
+
+GL 1 TCCN0100
+GI 1 0
+
+WVP 0 vfCCD0001nnk001
+//七香「最初にぶつかった時から、好きだったの！」
+Nanaka: "I've liked this ever since the first time I bumped into you!"
+//That'd be CCA0023, though CCB0002 to be technical. -GHS
+TP
+
+
+GO 1 1
+//HACK out -GHS
+
+//抱きついてくる。
+I am embraced.
+TP
+
+
+//太一「はええ！　展開はやすぎ！」
+Taichi: "AHEHHH! Progress is too fast!"
+TP
+
+
+//こんな高速なステロみたことねー。
+Never seen a more stereotyped high geeear!
+TP
+
+
+//太一「……ぶっちゃけ、どちら様？」
+Taichi: "...I'll just come out and ask, who'd you be?"
+TP
+
+GI 1 1
+//HACK back -GHS
+
+WVP 0 vfCCD0001nnk002
+//七香「七香」
+Nanaka: "Nanaka."
+//So said Nanaka nanakaishly in a nanakan way. -GHS
+TP
+
+
+//太一「ななか……うん、いい名前だ」
+Taichi: "Nanaka... yeah, nice name!"
+TP
+
+
+GL 1 TCCN0101
+GI 1 0
+WVP 0 vfCCD0001nnk003
+//七香「あんがと」
+Nanaka: "Thank ye."
+TP
+
+
+WVP 0 vfCCD0001nnk004
+//七香「まああたしが何者かについては、続く調査を待つとして」
+Nanaka: "Well, as for who or what exactly I am, we're awaiting for the investigation in progress."
+TP
+
+
+//太一「幽霊じゃないの？」
+Taichi: "Aren't you a ghost?"
+//He remembers her. He knows who she is. Immediately. Where's the memory reset? -GHS
+TP
+
+
+GL 1 TCCN0100
+GI 1 0
+WVP 0 vfCCD0001nnk005
+//七香「あー、違うと思うわ」
+Nanaka: "Ahhh, I think that's wrong, yes."
+//She's an inner memory, although her role is closer to the Holy Spirit. -GHS
+TP
+
+
+//太一「見た感じ、かなりゴースティックなんだが」
+//※ゴースティック＝ゴースト的な
+Taichi: "But the feeling I get from look at you is that you're sort of Spectric or something."
+> 
+ 
+* Spectric = Ghostic
+//This is probably better than the original, which is basically "ghostic = ghost-like". -GHS
+TP
+
+
+GL 1 TCCN0101
+GI 1 0
+WVP 0 vfCCD0001nnk006
+//七香「違うわ。足あるし」
+Nanaka: "Wrong, yes. Unlike specters, I have legs."
+TP
+
+
+//太一「いや……それは……最近のゴーストってけっこう足あるし……」
+Taichi: "Naaah... it's just... lately even the specters got some leg..."
+//Hmmm, but aren't *western* bedsheet-ghosts that don't have legs? Well, "ghost KYARA DESU are hot too" works. -GHS
+TP
+
+
+GL 1 TCCN0100
+GI 1 0
+WVP 0 vfCCD0001nnk004
+//七香「まああたしが何者かについては、続く調査を待つとして」/*
+Nanaka: "Well, as for who or what exactly I am, we're awaiting for the investigation in progress."
+//CP asdfghjkl
+TP
+
+
+//強引に話そらされた。
+Discussion coercively averted.
+//That's because he can only replay existing conversations with her. -GHS
+TP
+
+
+//太一「……いいけど」
+Taichi: "...nah, we're fine."
+TP
+
+
+WVP 0 vfCCD0001nnk007
+//七香「じゃ名刺渡しておくから」
+Nanaka: "Then let me hand over to you my business card."
+TP
+
+
+GL 4 zzzCCD0004nanacaBC
+GI 4 1
+//HACK ~nanaca~ (yes, the thumb looks like that overbright) -GHS
+
+//受け取る。
+I take it.
+TP
+
+
+//JOB 　次世代美少女
+//NAME　ななか～NANACA～
+//あなたのハァト、癒してあ・げ・る♪
+> 
+                JOB:   Next Generation Bishuojo
+                NAME: ~NANACA~
+                Your heart I! will! heal!♪
+//Love how the last line of the image is basically unreadable, but this clearer reading is totally missing in the console version. Nice blue stripe, isn't it? It's the same that's on everyone's uniforms. It's all but the mark of Gunjou. Also notice Taichi's oddly long fingernails. -GHS
+TP
+
+
+//太一「…………」
+Taichi: "......"
+TP
+
+
+//どこから突っ込もう？
+Where do I even begin to straight-man this?
+TP
+
+GO 4 1
+//HACK and out -GHS
+
+GL 1 TCCN0101
+GI 1 0
+WVP 0 vfCCD0001nnk008
+//七香「ふっふ～ん」
+Nanaka: "Hehe～hn."
+TP
+
+
+//七香とやらは誇らしげな、それこそ、
+Nanaka might just have been proud of this thing.
+TP
+
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+
+
+WVP 0 vfCCD0001nnk009
+//七香『惚れていいわよ』
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+      『Do feel free to fall in love with me!』
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+
+//という不二子クラスの顔つきで俺に流し目を送ってきた。
+That is what her Fujiko-class face said as she sent a flirtatious sidelong glance towards me.
+//Same kanji as http://en.wikipedia.org/wiki/Fujiko_Mine -GHS
+TP
+
+
+//太一「ななか、の綴り間違ってる」
+Taichi: "Nanaka's misromanized."
+TP
+
+
+GL 1 TCCN0100
+GI 1 0
+WVP 0 vfCCD0001nnk010
+//七香「わざとだよ」
+Nanaka: "It's on purpose."
+//Yes, yes it is. Although it should be nanOka. -GHS
+TP
+
+
+//急にマジ顔。つうか怒ってる。
+Face goes serious in a flash. Anger's going through it.
+//Hum, see Mimi vs. Mimimi. -GHS
+TP
+
+
+//太一「…………」
+Taichi: "......"
+TP
+
+
+//こいつ、やばい？
+Is she... dangerous?
+TP
+
+
+//敏腕ヤングアダルトとして名高い俺に、感じ取れない空気はない。
+For the me celebrate in his competence as a Young Adult, there is no atmosphere that I can't fully grasp.
+TP
+
+
+//告げていた。
+And it was proclaiming,
+//Ah, been a while. -GHS
+TP
+
+
+//この女はヤバイと。
+that this girl was dangerous.
+TP
+
+//だって、どう考えてもミスじゃん。ありえねー。
+//But, however I look at it, that's a mistake ain't it. Unbelieeevable.
+//Hum, another oddly off line removed in the console version. Continuing on this being just a better edit, and removing. Nothing's lost either way. -GHS
+
+
+//だが……狂人相手にこれ以上つつくのは得策ではない。
+And yet... prodding the madman in front any further than this is in no way a good plan.
+//Both ways. -GHS
+TP
+
+
+//太一「君って激キュートだけど、ご用件は？」
+Taichi: "You're like Ultra Kyute, but, what's your business?"
+//See CCA0030. Miki talk... -GHS
+TP
+
+
+GL 1 TCCN0101
+GI 1 0
+WVP 0 vfCCD0001nnk011
+//七香「いやー、さっきのは爽快だったよねー」
+Nanaka: "Welll, that thing earlier was sooo exhilarating yannow."
+TP
+
+
+//一瞬で機嫌を直した。
+In an instant her mood corrected back to good.
+TP
+
+
+//危険人物特有の反応だ。
+It's a reaction peculiar to dangerous characters.
+//And to people who were never angry and that you misunderstood for angry. -GHS
+TP
+
+
+GL 1 TCCN0100
+GI 1 0
+WVP 0 vfCCD0001nnk012
+//七香「あの女の悶え苦しむ様！」
+Nanaka: "That way that broad suffered in agony!"
+//Curry may be Christianity, but Youko being brought to her knees by spicy... heh. -GHS
+TP
+
+
+//クスクスと笑う。
+Giggling laughter.
+TP
+
+
+//太一「見てたのか」
+Taichi: "You saw that?"
+TP
+
+
+WVP 0 vfCCD0001nnk013
+//七香「ちらっとね」
+Nanaka: "Gave a glance."
+TP
+
+
+WVP 0 vfCCD0001nnk014
+//七香「スカッとした！」
+Nanaka: "So refreshing!"
+TP
+
+
+//太一「……曜子ちゃんのこと、嫌いなんだ？」
+Taichi: "...then, Youko-chan... you hate her right?"
+TP
+
+GL 1 TCCN0101
+GI 1 0
+WVP 0 vfCCD0001nnk015
+//七香「いやな女。べーだよ、べー」
+Nanaka: "She's a bad woman. Bleeech, she is, just bleeech."
+TP
+
+
+//太一「君と曜子ちゃんの関係がわからん……」
+Taichi: "I'm not sure I get where you're connected with Youko-chan..."
+TP
+
+
+GL 1 TCCN0100
+GI 1 0
+WVP 0 vfCCD0001nnk016
+//七香「ないよ。会ったことないし。ただムカつく」
+Nanaka: "Nowhere! We never met not once. She's just irritating."
+TP
+
+
+WVP 0 vfCCD0001nnk017
+//七香「だから今朝は気分いいんだー」
+Nanaka: "That's why this morning's felt sooo nice yes."
+TP
+
+
+//太一「あぁ、そうですか」
+Taichi: "Ah, so that is what it is then."
+//Formal...? -GHS
+TP
+
+GL 1 TCCN0101
+GI 1 0
+WVP 0 vfCCD0001nnk018
+//>　　　　　　　　　　　　　　　　　　ひ
+//七香「だから今週は轢かないであげました」
+Nanaka: "Therefore, this week I graciously avoided striking you and making you tumble down."
+//See CCA0023 (first time Nanaka hits Taichi), CCC3003, CCC3022, CCD0002. There's even the same damn kanji as CCC3003. Odd ruby text, there usually isn't on voiced lines (it's pointless, just listen).  -GHS
+TP
+
+
+//は、轢かない？
+Huh, not struck and made to tumble down?
+TP
+
+
+//意味わかんない。
+No clue what she means.
+//LOLOLOL BECAUSE IT MEANS ZUBAAAN IS HIS BIRTH. -GHS
+TP
+
+GL 1 TCCN0100
+GI 1 0
+WVP 0 vfCCD0001nnk019
+//七香「よくないよねー、あーいう人」
+Nanaka: "She ain't good at all, no, that person o'er there."
+TP
+
+
+//太一「……すっごい嫌いだってのは伝わってきた」
+Taichi: "...you're conveying me feelings of reeeal big hatred."
+TP
+
+
+WVP 0 vfCCD0001nnk020
+//七香「嫌いっていうか、間違ってるじゃない」
+Nanaka: "Hatred you say, well you aren't mistaken."
+TP
+
+
+//太一「まあ……」
+Taichi: "So..."
+TP
+
+
+//どこまで知ってるんだろう？
+How much does she even know?
+TP
+
+GL 1 TCCN0101
+GI 1 0
+WVP 0 vfCCD0001nnk021
+//七香「あんな女に……太一の最初を取られるくらいだったら……あたしが……」
+Nanaka: "That broad... she even took my Taichi's first she did... that's why I..."
+//IOW, Taichi was definitely a virgin. What the hell happened at the mansion under the Shinkawas, exactly? Notice also how Nanaka only ever really mentions Youko directly outside of Taichi. Ghost to ghost...? -GHS
+TP
+
+
+//暗くなった。
+She went gloomy.
+TP
+
+
+//太一「最初？」
+Taichi: "First?"
+TP
+
+GL 1 TCCN0100
+GI 1 0
+
+WVP 0 vfCCD0001nnk022
+//七香「あー、やなこと思い出した。ペッペッ。忘れよ」
+Nanaka: "Ahhh, I remembered something bad. Ptui! Forget it!"
+TP
+
+
+//太一「あのう」
+Taichi: "Ah, uhm."
+TP
+
+
+WVP 0 vfCCD0001nnk023
+//七香「口直し♪」
+Nanaka: "Palate cleanser!♪"
+TP
+
+
+//GL 1 TCCN0101
+//GI 1 0
+GO 1 1
+//HACK out instead -GHS
+//ちう
+Pchk.
+TP
+
+
+//太一「…………っ！」
+Taichi: "......!"
+TP
+
+
+//太一「な、なに、どうして！？」
+Taichi: "Wh-, what, why?!"
+TP
+
+
+GL 1 TCCN0100
+GI 1 1
+//HACK fade in now -GHS
+WVP 0 vfCCD0001nnk024
+//七香「いいじゃん、減るものじゃないし」
+Nanaka: "That's fine, that's not like that's the end of the world!"
+TP
+
+
+//太一「なんか、妙に焦った……敏腕アダルトであるこの俺が……」
+Taichi: "Really, getting this oddly flustered... even this Competent Adult that I am..."
+//...now he's Adult? Maybe the route progress does represent aging. Who knows how hold he is intended to be by now. -GHS
+TP
+
+
+GL 1 TCCN0101
+GI 1 0
+WVP 0 vfCCD0001nnk025
+//七香「ま、あんな女のことはどーでもいいや」
+Nanaka: "Well, about that broad, it's all whaaat-ever now."
+TP
+
+
+
+GL 1 TCCN0100
+GI 1 0
+WVP 0 vfCCD0001nnk026
+//七香「太一ぃ、くれぐれも惑わされないようにね？」
+Nanaka: "Taichi, please don't go get confused this earnestly now, will ya?"
+TP
+
+
+//太一「そらまあ……されないと思うけどさ」
+Taichi: "Well, now... but no, I don't think I will."
+TP
+
+WVS 1 1
+
+//本当、なんなんだろう、この人。
+Really, what is even up with this person here.
+TP
+
+
+//存在している密度がまるで感じられない。
+I can't fully feel the weight of her existence,
+TP
+
+
+//気配がないのだ。
+there is just no presence.
+TP
+
+
+GL 1 TCCN0102
+GI 1 0
+WVP 0 vfCCD0001nnk027
+//七香「あのね、今日はちょっとマジでさ」
+Nanaka: "Say now, today I'm a bit serious, yeah."
+TP
+
+
+//太一「はあ」
+Taichi: "Huh?"
+TP
+
+
+WVP 0 vfCCD0001nnk028
+//七香「ちょっとこれから、あたしと一緒に祠に来て欲しいんだ」
+Nanaka: "And I want you to come to the hokora together with me right now."
+TP
+
+
+//太一「なんだ？　レイプか？」
+Taichi: "What for? Rape?"
+//Moege would be best, but a rape nukige is fine too! -GHS
+TP
+
+
+WVP 0 vfCCD0001nnk029
+//七香「するかっ！」
+Nanaka: "You wish!"
+//It becomes less funny considering that Youko did, indeed, rape Taichi. And if both Nanaka and Youko exist only in his imagination... -GHS
+TP
+
+
+GL 1 TCCN0100
+GI 1 0
+WVP 0 vfCCD0001nnk030
+//七香「そーじゃなくて、真面目な話。祠、知ってるでしょ？」
+Nanaka: "Nooothing of the sort, I'm talking serious. You know that hokora, right?"
+TP
+
+WVP 1 bgm018.ogg 0 0 0
+
+//太一「うん、まあ」
+Taichi: "Yeah, sorta."
+TP
+
+
+//あまり近寄りたい場所じゃないけど。
+It's not some place I really wanna get close to, though.
+TP
+
+
+//なんせあそこは―――
+Because that place is---
+//Where the gate is, which he knows, since he remembered at the end of the last route. Well, it's a load, in fact what he's remembering now is that the hokora is very very very important. -GHS
+TP
+
+
+GL 1 TCCN0102
+GI 1 0
+WVP 0 vfCCD0001nnk031
+//七香「こーいうのは、ちょっと恐いんだけど……来てほしいんだ」
+Nanaka: "Bit scary to do it like this, but... I want you to come with me."
+TP
+
+
+WVP 0 vfCCD0001nnk032
+//七香「だって太一、あの女に比べて調査甘いんだもん」
+Nanaka: "Because Taichi, you're so lax in your investigations compared to that woman."
+TP
+
+
+//太一「あの女って曜子ちゃん？」
+Taichi: "That woman'd be Youko-chan?"
+TP
+
+
+GL 1 TCCN0101
+GI 1 0
+WVP 0 vfCCD0001nnk033
+//七香「……悔しいけど優秀よね」
+Nanaka: "...it's frustrating, but she's superlative."
+TP
+
+
+//太一「脳みその使い方からして違うからね」
+Taichi: "Because she's just different even in the way she uses her brain."
+TP
+
+
+//太一「あまり考えない方がいいよ、そこらへん」
+Taichi: "Best not to think too much about those things."
+TP
+
+
+GL 1 TCCN0100
+GI 1 0
+WVP 0 vfCCD0001nnk034
+//七香「そうだね」
+Nanaka: "Is it now."
+TP
+
+
+GL 1 TCCN0102
+GI 1 0
+WVP 0 vfCCD0001nnk035
+//七香「ね、お願い！　これからちょっとつきあって！」
+Nanaka: "Well, if you please! Keep me company a bit right now."
+TP
+
+
+//手を合わされる。
+She joined my hand with hers.
+TP
+
+
+//~choice removed~ -GHS
+
+
+
+RET

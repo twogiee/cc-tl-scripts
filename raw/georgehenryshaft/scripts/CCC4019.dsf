@@ -1,0 +1,256 @@
+
+//GL 0 bgcc0007
+GL 0 zzzrooftopzoom
+//HACK and still. -GHS
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+//そして部活。
+And then to club.
+TP
+
+//友貴が結線してくれたので、テントを張って長テーブルを出して、機材を置いた。
+Thanks to Tomoki having done the wiring, I pitch a tent, take out a long table and lay out the equipment on.
+//fnarr, fnarr. More interestingly, see CCC3018. They have a tent in house now. Maybe it's the very same tent as the one they picked up there... -GHS
+TP
+
+//太一「あとはアンテナか」
+Taichi: "Next is the antenna, then."
+TP
+
+//図面にはまだ問題点が残っている。
+There still are problem spots left on the blueprint.
+TP
+
+///放送には影響はないかも知れないが。
+They might just not influence the broadcast, maybe, but,
+TP
+
+//部活であるからには、ちゃんと予定通りやらねば。
+because this is club, I should just follow the plan exactly.
+TP
+
+//作業。
+Working.
+TP
+
+//気配。
+A presence.
+TP
+
+GL 5 BGCC0000A
+GI 5 1
+//HACK to sky -GHS
+
+//周囲に目線を流す。
+I pass my gaze on the surroundings.
+TP
+
+//誰もいない。
+There is no one.
+TP
+
+//気のせい……ではないのかな。
+Is this just my imagination... it isn't, is it.
+TP
+
+//となると、ここは危ない。高所は。
+And with that, this place is now dangerous. It's high up.
+TP
+
+//じっと脚立の上というのも良くない。
+Standing still on top of the stepladder is not good either.
+TP
+
+//射程距離はともかく、有効射程が２０メートルくらいとして。
+Regardless of potential range, her effective range is around 20 meters.
+TP
+
+GO 5 1
+//HACK back -GHS
+
+//太一「もう一がんばりなんだけどな……」
+Taichi: "Right when this thing needed one last effort, too..."
+TP
+
+//ちょうど先輩が来た。
+And just then Senpai came.
+TP
+GL 1 TCMM0005
+//HACK more worried Misato -GHS
+GP 1 225 0
+GI 1 1
+
+WVP 0 vfCCC4019msa000
+//見里「寝坊してしまいました～」
+Misato: "I am so much a sleepyheaaa～d."
+TP
+
+//太一「生活がどんどん荒れてきますね」
+Taichi: "Your lifestyle is steadily getting rougher, it seems."
+TP
+GL 1 TCMM0000
+//HACK less worried Misato. -GHS
+GI 1 0
+WVP 0 vfCCC4019msa001
+//見里「……ははは。言葉もないです」
+Misato: "...hahahah. I have no words for that."
+TP
+
+GL 1 TCMM0003
+GI 1 0
+WVP 0 vfCCC4019msa002
+//見里「本当、もうおしまいですよねぇ……」
+Misato: "Truly, this is already all done is it..."
+TP
+
+//太一「え？」
+Taichi: "Eh?"
+TP
+GL 1 TCMM0004
+//HACK surprised Misato -GHS
+GI 1 0
+WVP 0 vfCCC4019msa003
+//見里「あ、テントです」
+Misato: "Ah, a tent."
+TP
+
+//太一「配線も終わってますよ」
+Taichi: "The wiring is also finished."
+TP
+
+//GL 1 TCMM0004
+//GI 1 0
+//HACK no need -GHS
+WVP 0 vfCCC4019msa004
+//見里「ま、まさかあなたが？」
+Misato: "Y-, you jest, you did it?"
+TP
+
+//太一「はい、先輩のために……」
+Taichi: "Yes, for your sake, Senpai..."
+TP
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfCCC4019msa005
+//見里「すごいですっ！　かゆいところに手が届きます！　ぺけくんのすごさはもはや―――」
+Misato: "That is amazing! You managed to reach all the itchy places I could not scratch! Peke-kun, your level of Amazing is now---"
+//See CCA0029. Wow, Prezy Kissy actually does happen! -GHS
+TP
+
+//太一「と言いたいところですが、友貴です」
+Taichi: "...is what I wanted to say, but Tomoki did it."
+TP
+
+GL 1 TCMM0001
+GI 1 0
+//見里「……」
+Misato: "..."
+TP
+
+//まず呆れた。
+At first she was disgusted,
+TP
+
+GL 1 TCMM0004
+//HACK actually surprised Misato, instead of pissed off. -GHS
+GI 1 0
+//そして驚いた。律儀だ。
+then surprised. How conscientious.
+TP
+//GL 1 TCMM0000
+//GI 1 0
+//HACK no change -GHS
+WVP 0 vfCCC4019msa007
+//見里「友貴が手伝ってくれたんですか？」
+Misato: "Has Tomoki been helping us?"
+TP
+
+//太一「正しくは手伝わせたんですけどね」
+Taichi: "It would be more correct to say that he was made to help, yes."
+TP
+GL 1 TCMM0003
+//HACK sad Misato -GHS
+GI 1 0
+
+WVP 0 vfCCC4019msa008
+//見里「そう……でも……手伝ってくれたんですね、あの子……」
+Misato: "Yes... but... he is still helping us, he is..."
+TP
+
+GL 1 TCMM0000
+GI 1 0
+//HACK standard Misato instead ofAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGGGGH!!!!!! Which was my reaction when a bug makes Tomoki suddenly appear, and not on the PC window (bugs there I expect) but on the PS2 emulator. This was fixed in the 360 version (that's how I know which doll goes here). -GHS
+
+//安堵が浮かぶ。
+Relief becomes visible.
+TP
+
+//太一「良かったですね」
+Taichi: "So glad he is."
+TP
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfCCC4019msa009
+//見里「……はい」
+Misato: "...yes!"
+TP
+
+
+//太一「ところで先輩、俺ちょっと腹くだして……交代してもらっていいですか？」
+Taichi: "By the way Senpai, my bowels feel a bit loose... could you relieve me, please?"
+//fnarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr -GHS
+TP
+
+
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfCCC4019msa010
+//見里「はい。ここまでやってくれたら、もう一人でもいいくらいです」
+Misato: "Yes. If things have gotten done this far, it seems like I will be fine alone."
+TP
+
+//太一「てっぺんのアレ、ネジ馬鹿になってますから交換した方がいいです」
+Taichi: "On that thing at the top, the screw got stripped so I believe it would be best to replace it."
+TP
+
+WVP 0 vfCCC4019msa011
+//見里「了解です」
+Misato: "Understood!"
+TP
+
+//太一「……では、ちょっと闘ってきます」
+Taichi: "...then, I shall go have a bit of a struggle."
+TP
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfCCC4019msa012
+//見里「ふぁいとーおー！」
+Misato: "Fight ooon!"
+//This is where I should copypasta Higurashi, but while the translation is generally and surprisingly excellent, these little details it didn't get to my satisfaction. -GHS
+TP
+
+GO 1 1
+//HACK out with the doll. -GHS
+
+//声援に片手で応じつつ、俺は校舎に入った。
+Responding to the encouragement with one hand, I entered inside the school building.
+TP
+
+//さあ。
+So,
+TP
+
+//訓練の成果を見せてもらおうじゃないか。
+you want to show me the results of all your practice, don't you?
+TP
+
+WVS 1 1
+
+
+RET

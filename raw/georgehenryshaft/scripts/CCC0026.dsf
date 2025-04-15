@@ -1,0 +1,653 @@
+WVP 1 bgm012.ogg 0 0 0
+
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+
+GL 1 TCSK0000
+GP 1 220 0
+GI 1 1
+
+//廊下に霧が立っていた。
+Kiri was standing in the corridor.
+TP
+
+//太一「霧ちん……」
+Taichi: "Kiri-chin..."
+TP
+
+
+GL 1 TCSK0001
+GI 1 0
+
+//キッ、とにらまれた。
+Glare!, and I'm put under observation.
+TP
+
+WVP 1 bgm011.ogg 0 0 0
+GO 1 0
+GL 4 zzzCCC0026electric1
+GI 4 4
+//HACK earlier music + awesome! -GHS
+
+
+//負けじと俺もにらみかえした。
+Undaunted, I return her a glare.
+TP
+
+SEF 2 0
+//HACK flash screen (uh, this might be nasty for some, but it's likely less harsh than it is in the console version - all of them) -GHS
+
+//ババババババババッ！！（心理効果）
+DrRrRrRrRrRrRrRrRill!!! (psychological effect)
+//x8, though x8 is the Standard Way to Write It (seriously google it). Although all E-J dics give "psychological effect", it's not really a thing, alone, in English. The closest would be 'placebo effect', though that's too explicit for this case. And once more, the similarities to 八 can't be discounted. -GHS
+TP
+
+
+//視線の応酬。
+Back and forth of sights.
+TP
+
+//圧力ある敵意が、衝突しあって中間地点で渦を巻く。
+Hostilities with pressure, coiling into an eddy at the midpoint where they collide.
+TP
+
+//小娘めっ！！
+Damn wee lass!!!
+//According to a 1796 Scottish regulation, usage of the words 'lad' and 'lass' is prohibited without the accompanying adjective 'wee', although in the case of 'lad' the prohibition is not always enforced. Going accordingly. -GHS
+TP
+
+//懐に手を入れる。
+I reach into my breast pocket.
+TP
+
+//得物を取り出すぞと言わんばかりに。
+I'm gonna take out my special weapon!, screams the motion,
+//Taking the sequence of words "as much as to say" out back and shooting it, BRB. -GHS
+TP
+
+//実際は乳首が痒かったからだ。
+but in truth it's because my nipple was itchy.
+TP
+
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+WVP 0 vfCCC0026kri000
+//霧「……ッッ！」
+Kiri: "...!!!"
+TP
+
+//霧は過敏に警戒した。
+Kiri was nervously vigilant.
+TP
+
+//すっと、ポケットに手を入れる。
+Suddenly, she puts her hand in the pocket.
+//Skirts with pockets... bah, she'll pull it out of her ass anyway. -GHS
+TP
+
+//ヤツも得物をっ！
+The girl has has special weapon too!
+//Yes, despite him NOT having one. -GHS
+TP
+
+//太一「く」
+Taichi: "Gah!"
+TP
+
+//俺は懐に手を入れたまま、さらに眼力を強めた。
+With hand still in the breast pocket, I strengthened the sharpness of my sight furthermore.
+TP
+
+SEF 2 0
+//HACK flash screen -GHS
+
+//バチバチバチバチバチッッッ！！
+CrackleCrackleCrackleCrackleCrackleee!!!
+//Floating electricity -GHS
+TP
+
+//向こうもポケットから手を出さない。
+My antagonist doesn't remove the hand from her pocket either.
+TP
+
+//膠着状態。
+Deadlock.
+TP
+
+//クイック＆ドロウ。
+Quick'n'draw.
+//Non & sense -GHS
+TP
+
+//先に動いた方がやられる。
+The first to move is finished.
+//Debunked by Mythbusters too. -GHS
+TP
+
+//そこに手をふきふき、美希が出てきた。トイレから。
+And there, going wipey-wipey on her hands, Miki came out of the toilet.
+TP
+
+//GL 2 TCYM0041
+//GS 1 1
+//GS 2 1
+//GP 1 00 0
+GP 2 290 0
+//SEF 109 0
+
+GL 4 zzzCCC0026electric2
+GI 4 1
+//HACK let doll positioning for later consistency, but instead, awesome x2
+
+WVP 0 vfCCC0026mki000
+//美希「わーーんっ、トイレしてた隙に修羅場になってるーーーっ！！」
+Miki: "Bwaaah, in the time I went to the toilet it turned into a fight sceeeeene!!!"
+TP
+
+//太一「今助けてやるからな美希！」
+Taichi: "That's because I've come to rescue you, Miki!"
+TP
+
+//GL 2 TCYM0002
+//GI 2 0
+//HACK doll display disabled -GHS
+WVP 0 vfCCC0026mki001
+//美希「囚われている設定になっている……」
+Miki: "Scenario is me being held captive then..."
+//Indeed, that's 設定 settei. -GHS
+TP
+
+WVP 0 vfCCC0026kri001
+//霧「さがって、美希」
+Kiri: "Step back, Miki."
+TP
+
+//GL 2 TCYM0000
+//GI 2 0
+//HACK doll display disabled -GHS
+WVP 0 vfCCC0026mki002
+//美希「いや、だから……」
+Miki: "No, I told you..."
+TP
+
+//霧が腰を落とす。
+Kiri slacks off her hips.
+TP
+
+//太一「……フッ」
+Taichi: "...huh."
+TP
+
+//俺は肩の力を抜いた。
+I remove the tension from my shoulder.
+TP
+
+//手も抜く。
+And remove the hand.
+TP
+
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+
+
+WVP 0 vfCCC0026kri002
+//霧「……っ」
+Kiri: "...!"
+//Watch out, here comes the Kurosu Conversation... -GHS
+TP
+
+//空手だ。
+Empty hands mine, the kind you'd write kara-te.
+//See CCA0016. These are the exact kanji for Karate. Of course he doesn't mean it, because he uses karaDe. That's why it's a cross conversation. -GHS
+TP
+
+//ひらひらと、無防備な様を示す。
+They flutter around delicately, showing my defenseless state.
+//This can totally look like a battle readiness posture. -GHS
+TP
+
+//太一「ハッタリのかましあいはここまでだ、霧ちん」
+Taichi: "Our bluffs end here, Kiri-chin."
+//This is a challenge. -GHS
+TP
+
+//太一「こちらは武装していない。そちらも無意味な虚勢はやめたまえ」
+Taichi: "I sport weaponlessness on my side. So gladden me by ceasing meaningless bluffs on yours."
+//Specified, as this all but reads "I can kick your ass with Karate and you got nothing!" Cross conversation complete. Nice job, moron! -GHS
+TP
+
+//たまえ、とか言ってる俺はどこまでも格好いい。
+When use words like 'gladden' I am in all respects cool.
+//This is to distract the reader, but not incorrectly so: he's not doing this on purpose, and this is evidence of that. Also why I had to specify it all around. -GHS
+TP
+
+//純愛貴族の異名は伊達ではなかった。
+My nickname of The Aristocrat of Pure Love is no dandyism.
+//See CCC3004, that 'pure' seems added here. Unchanged in all versions. -GHS
+TP
+
+//霧「…………」
+//Kiri: "So these are my replacements, a dandy and a clown!"
+Kiri: "......"
+TP
+
+//霧は手を抜いた。
+Kiri took out her hand,
+TP
+
+//クロスボウが握られていた。
+and it was grasping a crossbow.
+TP
+
+//太一「……にゃ？」
+Taichi: "...nya～?"
+//Funny comment. -GHS-desu-nya
+TP
+GL 0 evcc0024a
+$CGevcc0024a = 1
+GS 0 1
+GS 1 0
+GS 2 0
+GS 4 0
+//HACK disarm inset CG -GHS
+SEF 155 0
+WVP 2 SE100 1 0
+//バックマスター社製マックスポイントクロスボーーーーーーーーっ！
+It's a Buckmaster Manufacture Maxpoint Crossbooooooooow!
+//PCP CCB0022
+//ーx8. PS2 version focuses on its being American made. Very interesting in its own right. -GHS
+TP
+
+//太一「待て待て待て待て」
+Taichi: "WaitWaitWaitWait!"
+TP
+
+//太一「今のはおかしいぞ！　そんなサイズのものがポケットに入るわけないだろ！」
+Taichi: "That now was weird! A thing that size can't possibly fit inside a pocket!"
+//Nor could she hold it one-handed within seven lifetimes. -GHS
+TP
+
+WVP 0 vfCCC0026kri004
+//霧「…………」
+Kiri: "......"
+TP
+
+//無言でクロスボウを構えている。
+Wordlessly she aims the crossbow.
+TP
+
+//スコープの向こう、霧が俺の心臓を狙っているのがわかる。
+I know that on the other side of the scope Kiri is aiming at my heart.
+//It's not visible in most CGs, but see CCC3012A, it's there. -GHS
+TP
+
+//ひしひしと視線を感じた。
+I can feel a very very sharp sight.
+TP
+
+//太一「ブリキロボがあれほど欲しがっていた心を狙っているっ！？」
+Taichi: "You're aiming for a heart with the intensity of the desire the Tin Robot had?!"
+//Hum. The reference to Oz seems obvious, but the Tin Man from Oz is called ブリキ男 (Buriki Otoko) not ブリキロボ (Buriki Robo). May be a conflation/censorship that also indicates Micheal Jackson is connected, see CCD4003. ...I can't even believe I wrote that. GIS "Buriki Robo" to see the design, it's common. -GHS
+TP
+
+WVP 0 vfCCC0026kri005
+//霧「動かないで下さい。撃ちますよ」
+Kiri: "Please do not move. I will shoot!"
+TP
+
+WVP 0 vfCCC0026mki003
+//美希「あわわわっ」
+Miki: "AhWahWahWah!"
+//The voice just says ahwahwah, I won't forgive this! -GHS
+TP
+
+//ミキミキも動転。
+Miki-Miki's also quite upset.
+TP
+
+//太一「降参降参！」
+Taichi: "Uncle, uncle!"
+TP
+
+//両手をあげる。
+I raise my hands.
+TP
+
+WVP 0 vfCCC0026kri006
+//霧「あ、狙いやすくなった……」
+Kiri: "Ah, aiming got easier..."
+TP
+
+//さらに狙いを定めた。
+She further refines her aim.
+TP
+
+//太一「ノー！　ノー！　ヤメテー！」
+Taichi: "NOO! NOO! YAMETEEE!" (No! No! Stop!)
+//This will sorta- return, see CCC0040. -GHS
+TP
+
+//ぶんぶんとクビを振る。
+Shake-shake, I shake my head.
+TP
+
+//泣きそう。
+It's to cry.
+TP
+
+//というか泣いてる。
+Or should say, I'm crying.
+//See CCA0008, CCB0007 -GHS
+TP
+
+WVP 0 vfCCC0026mki004
+//美希「霧ちん、霧ちん！　マズイよ、逮捕されちゃうよ！」
+Miki: "Kiri-chin, Kiri-chin! That's bad! You'll be arrested!"
+TP
+
+WVP 0 vfCCC0026kri007
+//霧「警察もういないし」
+Kiri: "The police is gone by now."
+//See CCA0030: non-interference in private matters. As long as the guards don't care... -GHS
+TP
+
+WVP 0 vfCCC0026mki005
+//美希「あっ、そうか」
+Miki: "Ah, right."
+TP
+
+WVP 0 vfCCC0026mki006
+//美希「ぽえー……」
+Miki: "Zooom..."
+//The Mr. Saturn in Mother 2/Earthbound use ぽえ～, so going with that. Since Boing is occupied by b00bs, using 'zoom'. -GHS
+TP
+
+//大人しくなった。
+And she turned obedient.
+TP
+
+//太一「納得しないでー！」
+Taichi: "Don't just asseeent!"
+TP
+
+WVP 0 vfCCC0026kri008
+//霧「膝を突いて、手を頭の後ろに」
+Kiri: "Get on your knees, hands behind your head."
+//Standard police procedure* (*according to SWAT 3) -GHS
+TP
+
+//太一「はひ」
+Taichi: "Hyesh."
+TP
+
+//従う。
+I abide.
+TP
+
+WVP 0 vfCCC0026kri009
+//霧「……次、どうしよう？」
+Kiri: "...next, what do we do?"
+TP
+
+//美希とひそひそ会話する。
+A psst-psst of conversation with Miki.
+TP
+
+//俺には聞こえる。
+It's still audible to me.
+//Combined with the Cocktail Party Effect (but was it?) in CCB0005, as well as CCA0015B (and perhaps CCB2015), the implication may be that they're not talking loud enough to let him hear; he is simply of very sharp hearing, just like a dog or a cat. And since his superhearing would be a chuuni superpower like his night sight, that means he's not hearing squat and who knows what's actually happening. In fact, given Sakuraba, he might actually have a hearing defect; he certainly has a problem hearing the cicadas currently chirping out waaay loud. -GHS
+TP
+
+WVP 0 vfCCC0026mki007
+//美希「武装解除は？」
+Miki: "Did you disarm him?"
+TP
+
+WVP 0 vfCCC0026kri010
+//霧「何も持ってないみたい」
+Kiri: "Doesn't seem to have anything with him."
+TP
+
+WVP 0 vfCCC0026mki008
+//美希「……」
+Miki: "..."
+TP
+
+//思案。
+Thinking over.
+TP
+
+WVP 0 vfCCC0026mki009
+//美希「じゃあ、こんなのはどう？」
+Miki: "Sooo, how about this?"
+TP
+
+//囁く。
+Whisper.
+//First it was a very audible whispered conversation, NOW it's inaudible? Troll troll and troll. Woofx1 -GHS
+TP
+
+WVP 0 vfCCC0026kri011
+//霧「……わかった」
+Kiri: "...got it."
+TP
+
+//霧は頷く。
+Kiri nods.
+TP
+
+//クールに見えて、実は美希にべったりなのである。
+She might look all cool, but in the truth she is very much clinging on to Miki.
+TP
+
+//だから言いなり。
+Therefore, she is a yes-man to Miki.
+TP
+
+//そこに活路はあった。
+There was a route of escape there.
+TP
+
+//ミキミキのことだから、長年可愛がってきた俺をうまく逃がしてくれるに違いない。
+Because this is Miki-Miki, she will skillfully let me escape owing to the many years through which I have held her precious, no mistake.
+//See Miki route. Interesting... -GHS
+TP
+WVS 1 1
+
+
+WVP 0 vfCCC0026kri012
+//霧「這いつくばってワンと鳴いてください」
+Kiri: "Please get on hands and knees and woof."
+//See CCC4012. And around it goes. Woofx2 -GHS
+TP
+
+//太一「ミキミキーっ！！」
+Taichi: "Miki-Mikiii!!!"
+TP
+WVP 1 bgm006.ogg 0 0 0
+
+WVP 0 vfCCC0026mki010
+//美希「にしし」
+Miki: "HehShehSheh."
+//PCP CCA0002
+TP
+
+//邪悪な笑み。
+A wicked smile.
+TP
+
+//この俺が、セクハラの仕返しをされている。
+Now that I am in this position, she can have revenge for my sexual harassment.
+TP
+
+
+
+WVP 0 vfCCC0026kri013
+//霧「はやく」
+Kiri: "Hurry."
+TP
+
+//太一「ぐ、ぐう……」
+Taichi: "Guh, guuuh..."
+TP
+
+//やむなし。
+No choice.
+TP
+
+//はいつくばる。
+I get on my knees and grovel.
+//Why u not 土下座 -GHS
+TP
+
+//太一「……わん」
+Taichi: "...woof."
+//Woofx3 -GHS
+TP
+
+WVP 0 vfCCC0026mki011
+//美希「やる気が感じられなかったのでリテイク」
+//Miki: "Faster, more intense."
+Miki: "I couldn't really feel the motivation so retake."
+TP
+
+SEF 101 0
+//HACK shake screen -GHS
+
+//太一「ぎゃー！！」
+Taichi: "Ghyaaa!!!"
+TP
+
+//恥の上塗り。
+Shame piles on top of shame.
+TP
+
+//基本といえば基本だが。
+It's the basics of the basics, but,
+TP
+
+//自分がするのはつらかった。
+when I'm the one subjected to it, it's heartreanding.
+//See CCC4012. Odd... -GHS
+TP
+
+WVP 0 vfCCC0026kri014
+//霧「リテイクです、先輩」
+Kiri: "Retake, Senpai."
+TP
+
+//太一「ワン、ワンワンワン！」
+Taichi: "Woof, woof woof woof!"
+//Woofx7. Well hidden, wasn't it? The first woof is in Miki's order, which is unheard. But it matters, because... -GHS
+TP
+
+//太一「これでどうだ文句あるか！」
+Taichi: "How're you gonna complain about this now!"
+TP
+
+WVP 0 vfCCC0026mki012
+//美希「誰が四回も鳴けと言った、って」
+Miki: "Ask him, who toldja to bark four times."
+//Bark 4 times x1... -GHS
+TP
+
+//太一「オイ！」
+Taichi: "HEY!"
+//I'm still perplexed at the lack of outbreaks of random australian in translations. I mean, they're closest! -GHS
+TP
+
+
+WVP 0 vfCCC0026kri015
+//霧「誰が四回も鳴けといいましたか？」
+Kiri: "Who told you to bark four times?"
+//Polite, changed above for starker contrast. Bark four times x2, that's 8. That's the hint that the seventh actual 'woof' is in Miki's unstated order. Damn this one's well hidden. Also, because there's a hidden 7 and a rather blatant 8, the answer to this question is also given: a need for metareferentiality. -GHS
+TP
+
+//太一「ＯＫわかった。さあ、どの靴を舐めればいいんだ？　ん？」
+Taichi: "Okieh, I get it. So, whose shoes am I supposed to lick? Well?"
+TP
+
+WVP 0 vfCCC0026mki013
+//美希「ためぐち？」
+Miki: "Talking normally?"
+TP
+
+//太一「舐めさせていただきたく、姫君」
+Taichi: "I would be most grateful to be granted permission to lick, Princess-kun."
+TP
+
+//額を床につけた。
+I laid my forehead on the floor.
+TP
+
+WVP 0 vfCCC0026mki014
+//美希「靴が汚れるのでいいです」
+Miki: "Our shoes would be filthied so we're good."
+TP
+
+//太一「ゥオイ！」
+Taichi: "wHEY!"
+TP
+
+WVP 0 vfCCC0026mki015
+//美希「……さあ、次はヌードショウですよ～」
+Miki: "...sooo, next is a nude show yes it is～!"
+TP
+
+//美希が、美希が悪魔にっ！
+Miki... Miki is now a demon!
+TP
+WVP 0 vfCCC0026mki016
+//美希「下を脱ぐのです」
+Miki: "Now remove your belows."
+TP
+
+//太一「いやー、カラダはいやー！」
+Taichi: "NOOOO!!! My body you caaaaan't!!!"
+//PCP CCA0012
+TP
+
+WVP 0 vfCCC0026mki017
+//美希「命と貞操と、どっちが大切なんですか、先輩？」
+Miki: "Your life, your chastity: which of these is most precious to you, Senpai?"
+TP
+
+//強者のおごりに目覚めつつある美希だった。
+Miki was waking up to the arrogance of the strong.
+TP
+
+//太一「ひーんっ」
+Taichi: "hYyynh..."
+TP
+
+//パンツ一丁になる。
+And thus I was in my underwear.
+TP
+
+
+
+RET

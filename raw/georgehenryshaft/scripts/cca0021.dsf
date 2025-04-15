@@ -1,0 +1,1362 @@
+//Thursday September 10, 1998 -GHS
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 1
+
+WVP 2 SE023 1 0
+//トンテンカンテン
+*Bom* *Bem* *Bam* *Bom*
+TP
+
+
+
+
+WVP 2 SE023 1 0
+//トンテンカンテン
+*Bom* *Bem* *Bam* *Bom*
+//CP above
+//These are NOT The Chimes of the Big Ben. That's an episode of The Prisoner, dammit! Not impossible they are the chimes of class beginning, however, and they're conveniently covered up by their hammerin'. Whether it's Week 1 trollage or the mere reality. -GHS
+TP
+
+WVP 1 bgm012.ogg 0 0 0
+
+
+//今朝も屋上では、精力的な部活動が行われている。
+This morning too, on the rooftop, club activities were proceeding strenuously.
+TP
+
+
+
+//太一「こらあーーーっ！！」
+Taichi: "YOU THEEEERE!!!"
+//Angry. -GHS
+TP
+
+
+
+WVP 0 vfcca0021msa000
+//見里「は、はいっ！？」
+Misato: "Eh, what?!"
+TP
+
+
+
+//一喝すると脚立の上から先輩が
+I thunder out at Senpai on top of the ladder steps, and with a
+TP
+
+
+WVP 2 se024 1 0
+//ぼてり
+baplump!
+//soff' -GHS
+SEF 101 0
+TP
+
+
+
+//と落ちた。
+she fell down.
+//See CCA0013. Same pattern as the description of Yusa's snot bridge. -GHS
+TP
+
+
+
+WVP 0 vfcca0021msa001
+//見里「あたたたた」
+Misato: "AwChChChCh!"
+TP
+
+
+
+//太一「雉も鳴かずば撃たれまいに」
+Taichi: "There is safety in silence! Remember, the pheasant would have lived but for its cry."
+//Accepted translation of the proverb. Mixes well with the Grateful Crane in CCD1001. -GHS
+TP
+
+GL 0 zzzrooftopzoom
+//HACK zoom the rooftop -GHS
+GL 1 TCMM0001
+GP 1 220 0
+GS 1 1
+//GI 1 1
+SEF 109 0
+WVP 0 vfcca0021msa002
+//見里「な、鳴いてないじゃないですか」
+Misato: "I-, I am not making animal calls here!"
+TP
+
+
+
+//太一「ヘイ、ミス怪我人。ホワイワズイットナウ？」
+Taichi: "HEI, MISU injured person. HOWAI WAZU ITTO NAU?" (Hey, Miss injured person! Why are you already at work?)
+TP
+
+
+
+//意味とかどうでもいいんで。感性なんで、こういうのは。
+The meaning and that stuff are whatever. This here is about sensitivity.
+//Which is why he speaks in Engrish and totally not because he doesn't know English. -GHS
+TP
+
+
+GL 1 TCMM0005
+GI 1 0
+WVP 0 vfcca0021msa003
+//見里「うっ」
+Misato: "Ngh..."
+//This is the correct response, BTW. -GHS
+TP
+
+
+
+//太一「しかも私めのいない時間帯に」
+Taichi: "Especially in that period of time when your worthless servant isn't there!"
+TP
+
+
+
+WVP 0 vfcca0021msa004
+//見里「べ、別にこそこそやっていたわけじゃ……ただどうしても気になりまして。今朝は五時に目が覚めましたし」
+Misato: "It's-, it's not like I was trying to be all sneaky... I was just very anxious. This morning I was awake at five."
+//going with first part being less formal-ish. -GHS
+TP
+
+
+
+//弁解がましく、先輩は身振り満載でそう説明した。
+So Senpai explained, adding full-extent gesticulation to improve the excuse.
+//This is a characterization that didn't quite get used, unfortunately. -GHS
+TP
+
+
+
+//太一「……うらぎりものだ」
+Taichi: "...you're a traitor."
+TP
+
+
+GL 1 TCMM0006
+GI 1 0
+
+WVP 0 vfcca0021msa005
+//見里「ち、違いますよっ」
+Misato: "I-, I am not!"
+//She's taking it well, considering. -GHS
+TP
+
+
+
+//太一「あーあ、見里先輩ってつれないなー」
+Taichi: "Awwwnh, so heartless ain'tcha Misato-senpai!"
+TP
+
+
+GL 1 TCMM0005
+GI 1 0
+
+WVP 0 vfcca0021msa006
+//見里「ああ、ですから……」
+Misato: "Ahhh, but I told you..."
+TP
+
+
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfcca0021msa007
+//見里「はい、わたしの負けです。ごめんなさい」
+Misato: "Fine, I accept my defeat. I am sorry."
+TP
+
+
+//WVS 1 1
+//HACK keep music -GHS
+//両手をあげた。
+She brought up both hands.
+TP
+
+
+
+//太一「午前七時五十分、現行犯逮捕」
+Taichi: "Suspect apprehended in flagrante delicto at seven-fifty AM."
+//This gives a timeline for when people generally gather on the rooftop. -GHS
+TP
+
+
+GL 1 TCMM0002
+GI 1 0
+
+
+WVP 0 vfcca0021msa008
+//見里「はぁい♪」
+Misato: "Yee-es!♪"
+TP
+
+
+
+//両手を前に出す。
+She extends both hands forwards.
+TP
+
+
+
+//その手首に。
+And on those wrists,
+TP
+
+
+
+WVP 2 SE025 1 0
+
+//かちゃん
+Clack! Snap!
+//Following audible SFX as I don't see anything here (oddly enough) -GHS
+TP
+GL 1 TCMM0004e
+GI 1 1
+
+WVS 1 1
+//HACK music away -GHS
+
+WVP 0 vfcca0021msa009
+//見里「……へ？」
+Misato: "...eh?"
+TP
+
+
+//WVP 1 bgm011.ogg 0 0 0
+//HACK music starts later -GHS
+
+//あ、しまった……つい。
+Ah, dammit... unconscious me.
+TP
+
+
+
+GL 1 TCMM0000e
+GI 1 0
+WVP 0 vfcca0021msa010
+//見里「なんです、これ？」
+Misato: "What are... these?"
+TP
+
+
+
+//太一「手錠……」
+Taichi: "Handcuffs..."
+TP
+
+
+
+WVP 0 vfcca0021msa011
+//見里「玩具ですよね？」
+Misato: "Toys, of course?"
+TP
+
+
+
+//太一「本物……」
+Taichi: "Real..."
+TP
+
+
+
+
+//静寂。
+Silence.
+TP
+
+
+
+WVP 1 bgm011.ogg 0 0 0
+//HACK music from now
+
+GL 1 TCMM0004e
+GI 1 0
+WVP 0 vfcca0021msa012
+//見里「ど、どどどどうして本物のブツを持っていますか？」
+Misato: "Wh-, wh-wh-wh-why would you even have the genuine article with you?"
+TP
+
+
+
+//太一「こ、こここ交番に人いなくて手錠落ちてたから持って来ちゃったの……」
+Taichi: "Th-, th-th-th-the police box was empty and handcuffs fell on the floor and so I brought them with..."
+//The koban is around the train station which is waaay out of his path to school. Hum, 4 stutters of hers and 3 of his. -GHS
+TP
+
+
+
+GL 1 TCMM0002e
+GI 1 0
+WVP 0 vfcca0021msa013
+//見里「なんだ……ふふ、もう、仕方ない人♪」
+Misato: "Seriously... heheh, well, it is just the way you are♪."
+TP
+
+
+
+//つん
+Tsun-tsun.
+//As expected of today's onii-chan, such technical terms are いろいろ funny/interesting, etc. and it can't be helped so I stick my brobdingnagian meat poleaxe in such a small honeypot? So. -GHS
+TP
+
+
+
+//太一「あはは、ごめんなさーい」
+Taichi: "Ahahah, sooo-ry!"
+//one R -GHS
+TP
+
+
+
+//笑みふたつ。
+Smile x2.
+TP
+
+
+
+WVP 0 vfcca0021msa014
+//見里「鍵は？」
+Misato: "The key?"
+TP
+
+
+
+//太一「ああ、鍵ですか……うん……鍵は、どこにあるんでしょうねぇ？」
+Taichi: "Ahhh, the key then... yes... the key, where could it possibly ever be...?"
+TP
+
+
+
+//笑みが固着した。
+Her smile fixes fast.
+//Because Fixation. But it means hardening. -GHS
+TP
+
+GL 1 TCMM0003e
+GI 1 0
+
+WVP 0 vfcca0021msa015
+//見里「うーん」
+Misato: "Uhmmm."
+TP
+
+
+GL 1 TCMM0002e
+GI 1 0
+
+WVP 0 vfcca0021msa016
+//見里「あははー」
+Misato: "Ahahah!"
+TP
+
+
+
+//笑った。
+She laughed.
+TP
+
+
+
+WVP 0 vfcca0021msa017
+//見里「ごめんなさい、ぺけくん。今、鍵はどこにあるんでしょうねって聞こえちゃいました」
+Misato: "Apologies, Peke-kun. It is as if I heard you just now wonder where the key could possibly be."
+TP
+
+
+
+//太一「そう言いましたから」
+Taichi: "That is because I said that."
+TP
+
+
+//GL 1 TCMM0000e
+GL 1 TCMM0006e
+//HACK go straight to fogged glasses -GHS
+GI 1 0
+//無表情になった。
+She became expressionless.
+TP
+
+
+//GL 1 TCMM0006e
+//GI 1 0
+//HACK fogged glasses moved above -GHS
+WVP 0 vfcca0021msa018
+//見里「今、あなたはわたしに暴行されても文句を言えない立場になりました」
+Misato: "Right now, you stand in a position where you could not utter a word of complaint even if I were to violently assault you."
+TP
+
+
+
+//太一「も、ものによってはＯＫデス！」
+Taichi: "De-, depending on what that means that is Most OK!"
+//-desu. -GHS
+TP
+
+
+GL 4 sgcc0005
+$CGsgcc0005 = 1
+GL 5 efcc0000
+WVP 2 se100 1 0
+GI 5 0
+GO 1 0
+GP 4 0 0
+GI 4 0
+GO 5 0
+GP 4 -40 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+
+//太一「ひぎゃっ」
+Taichi: "Hy'ghyah!"
+//SEF 101 0
+TP
+
+//攻撃される。
+Attacked.
+//HACK inverted last two. -GHS
+TP
+
+
+
+WVP 0 vfcca0021msa019
+//見里「どうして……きみはそう軽率なことを……」
+Misato: "Why... did you do something this careless..."
+TP
+
+
+//太一「あの、つい条件反射で……」
+Taichi: "Uhm, via conditioned reflexes..."
+//He's still not kidding! -GHS
+TP
+
+
+WVP 0 vfcca0021msa020
+//見里「こんなの鍵がなかったら外れないですよーっ？」
+Misato: "These cannot be removed without the key, can they nooow?"
+TP
+
+
+//太一「まあまあ。鍵を探せばいいんですよ、ね？」
+Taichi: "Come now, come now! I will just search for the key, yes?"
+TP
+
+
+WVP 0 vfcca0021msa021
+//見里「……その交番にあるんでしょうか」
+Misato: "...will it even be at that police box?"
+TP
+
+
+//太一「もちですよ。今日帰りに探していきますよ」
+Taichi: "Yes of course! I will go look for it when I go back home!"
+TP
+
+
+WVP 0 vfcca0021msa022
+//見里「今から行きなさい。ね？」
+Misato: "You mean you will be going now. Right?"
+TP
+
+//WVP 2 se103 2 0
+WVP 2 se103 3 0
+//ギリギリギリ……
+GrytGrytGryt...
+//Giri-giri. See CCC0016A, but given the SFX, works better uhmmm let's say literally. -GHS
+//SEF 101 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+TP
+
+
+//太一「はひ……スグニ」
+Taichi: "Hyesh... IMMEDIATELY!"
+TP
+
+
+//Ｗアイアンクロー炸裂の現状、他に答える余地もなく。
+While in the grip of 『Burst!! * Double Iron Claw』, there exists no space for other answers.
+//Now it's a superpower. See CCD2002 for when he'll use it, though admittedly Touko has one as well, see CCB2019. -GHS
+TP
+
+
+//太一「でも戻ってくるまではおとなしくしててくださいよ」
+Taichi: "But until I return please stay calm!"
+TP
+
+
+WVP 0 vfcca0021msa023
+//見里「これじゃ着替えもできません」
+Misato: "I cannot even change clothes like this!"
+//This is probably the third night in a row she stayed over. -GHS
+TP
+
+
+//太一「とりあえず、教室にいたらどうです？」
+Taichi: "For now, how about going into a classroom?"
+TP
+
+
+WVP 0 vfcca0021msa024
+//見里「そうですね……」
+Misato: "I should, yes..."
+//...why wouldn't she stay there? This IS odd. -GHS
+TP
+
+
+//二人で校舎に戻る。
+We both return inside the school building.
+TP
+
+
+
+GL 0 bgcc0008
+GL 1 tcmm0001e
+GS 1 1
+GS 4 0
+GS 0 1
+//HACK distrusting handcuffed Misato -GHS
+SEF 152 0
+
+WVP 0 vfcca0021msa025
+//見里「誰にも見つからないといいんですが……」
+Misato: "But it would be best if we are not found by anybody..."
+TP
+
+
+
+//太一「なぜです？」
+Taichi: "How come?"
+TP
+
+
+
+WVP 0 vfcca0021msa026
+//見里「連行されているように見えるじゃないですか」
+Misato: "Will it not look like that I am being frog-marched!"
+TP
+
+
+
+//太一「どっちかと言うと、プレイしているように見えたりして」
+Taichi: "If I have to say what it is, you look like you are doing a Playact."
+TP
+
+GL 1 tcmm0005e
+GI 1 0
+//HACK sweatdrop Misato. Console uses fogged glasses, but he says "something weird" instead of "play" so it would look like Misato is understanding what he's talking about here. -GHS
+
+WVP 0 vfcca0021msa027
+//見里「ぷれい？」
+Misato: "Play...?"
+TP
+
+
+
+//太一「三階でしたよね、先輩の教室」
+Taichi: "Your class was on the third floor, right, Senpai?"
+//This is never changed in any edition, but it's odd, see CCD0011B: the first years' class is on the fourth floor. The layout of Gunjou is never really clarified, however. -GHS
+TP
+
+
+
+WVP 0 vfcca0021msa028
+//見里「あ、そこですよ」
+Misato: "Ah, it is over there!"
+TP
+
+
+
+//そこに美希がやってきた。
+Over there Miki had appeared.
+TP
+
+GL 2 TCYM0003
+GP 2 300 0
+GP 1 40 0
+GS 1 1
+GS 2 1
+SEF 109 0
+
+WVP 0 vfcca0021mki000
+//美希「こんちです！」
+Miki: "G'morning!"
+TP
+
+GL 1 TCMM0004e
+GI 1 0
+WVP 0 vfcca0021msa029
+//見里「っ！？」
+Misato: "!!!?!?"
+GP 1 25 15
+GI 1 0
+GP 1 40 30
+GI 1 0
+GP 1 55 15
+GI 1 0
+GP 1 40 0
+GI 1 0
+//HACK independent doll shake -GHS
+TP
+
+
+
+//焦って手元を隠そうとした先輩は、それに失敗した。
+Senpai attempted to hide the top of her hands and, flustered, failed in the act.
+TP
+
+
+
+//手首を覆っていたタオルが、はらりと落ちる。
+The towel that covered her wrists falls gently to the floor.
+TP
+
+
+
+//じっとしていれば良かったのに。
+It would have been better if she had just sat still...
+TP
+
+
+GL 2 TCYM0021
+GI 2 0
+WVP 0 vfcca0021mki001
+//美希「……」
+Miki: "..."
+TP
+
+GL 2 TCYM0004
+GI 2 0
+
+
+WVP 0 vfcca0021mki002
+//美希「た、逮捕されてる……」
+Miki: "Y-, you were arrested..."
+TP
+
+
+GL 1 TCMM0006e
+GI 1 0
+
+WVP 0 vfcca0021msa030
+//見里「違います、これは悪戯です」
+Misato "I was not! This is just a prank!"
+TP
+
+
+
+WVP 0 vfcca0021mki003
+//美希「……」
+Miki: "..."
+TP
+
+
+
+GL 2 TCYM0000
+GI 2 0
+WVP 0 vfcca0021mki004
+//美希「あの、先輩」
+Miki: "Uhm, Senpai."
+TP
+
+
+
+//挙手をした。
+She gave a military salute.
+TP
+
+
+
+//太一「なんだね、山辺巡査」
+Taichi: "What's all this then, Constable Yamanobe?"
+//It's actually a 1931 law in England for all bobbies to start every sentence that way. -GHS
+TP
+
+
+GL 2 TCYM0001
+GI 2 0
+
+WVP 0 vfcca0021mki005
+//美希「はっ、今日は保健室があいているようであります！」
+Miki: "Sah! Today the infirmary appears to be vacant!"
+TP
+
+
+
+//敬礼しつつ、プレイする場所を紹介してくれた。
+Bowing, she presents us a place to have our little sex playact.
+//Maybe too explicit, but that's Miki's intent anyway. -GHS
+TP
+
+
+
+//うう、いいヤツ……。
+Ngh, what a nice gal...
+TP
+
+
+
+GL 1 TCMM0000e
+GI 1 0
+
+WVP 0 vfcca0021msa031
+//見里「？」
+Misato: "?"
+TP
+
+
+
+//ウブな先輩は理解できない。
+Naive Senpai can't understand.
+TP
+
+
+
+//太一「やあ、ありがとう。君もどうだい？」
+Taichi: "Myyy, thank you. Wanna join us?"
+TP
+
+
+
+
+WVP 0 vfcca0021mki006
+//美希「は、自分はもうちょっと処女でいたいかな、と思う次第」
+Miki: "Sah! I am thinking about living on as a virgin for a little longer, perhaps, ergo..."
+TP
+
+
+
+//太一「それは残念。では」
+Taichi: "That is too bad. Well then."
+TP
+
+
+
+WVP 0 vfcca0021mki007
+//美希「おつとめご苦労様でーす」
+Miki: "Thank you very much for everything!"
+//I still think this reads closer to a *literal* "your business is much appreciated". -GHS
+TP
+GO 2 1
+
+
+
+//ぺこりと頭をさげて、僕らを見送る。
+With a snappy bow of the head, she saw off this innocent young boy and his Senpai.
+TP
+
+
+GL 1 tcmm0001e
+GI 1 0
+//HACK distrusting Misato -GHS
+
+WVP 0 vfcca0021msa032
+//見里「今の会話、よくわかりませんでした」
+Misato: "I did not really understand that conversation now."
+TP
+
+
+
+//太一「わかったらえらいこっちゃ」
+Taichi: "It'd be a big mess if ya got that."
+//Form's Kansai-ben. -GHS
+TP
+
+
+
+WVP 0 vfcca0021msa033
+//見里「？？？」
+Misato: "???"
+TP
+WVS 1 1
+
+
+
+
+
+GS 1 0
+GS 0 0
+SEF 109 0
+//太一「さて」
+Taichi: "Well then."
+TP
+GL 0 bgcc0000a
+GS 0 1
+SEF 152 0
+
+//駅前。
+The front of the train station.
+//North-northwestern part of Kamisaka, somewhat close to where Miki lives, near Atomic GS. -GHS
+TP
+
+
+
+//とはいっても、こじんまりとしたものだ。
+Despite how it normally is in most parts of Japan, this place is a small and cozy thing.
+//Reminder as the front of the station is normally a popular, not seedy, spot in Japan. -GHS
+TP
+
+
+
+//ゴミゴミしていないのが救い。
+//ソニコミしていないのが救い。
+Not being squalid nor messy is its grace.
+TP
+
+
+
+//交番は……すぐ近くにある。
+And the police box is... right nearby.
+TP
+
+
+
+//パトロール中の札がかけられていて、人は誰もいない。
+A notice is up outside that says 'on patrol', and no one is inside.
+//Remember this insignificant irrelevant detail well. -GHS
+TP
+
+
+
+//鍵はすぐ見つかった。
+I spotted the key immediately.
+//Not yet grabbed it, though -GHS
+TP
+
+
+
+//これって窃盗になるのかしら？
+Is this still stealing, I wonder?
+//Suspiciously girly. -GHS
+TP
+
+
+
+//なるに決まっている。
+I choose for it to be.
+TP
+
+
+
+//しかも備品だ。
+And of office supplies, as well.
+TP
+
+
+
+//軽犯罪王・アルセーヌ太一、最後の犯罪。
+The final dastardly criminal act of the King of Misdemeanors, Arsene Taichi.
+//See CCB2009 for more, and CCD0004 for Fujiko. No accents in Shit-JIS (sic?). -GHS
+TP
+
+
+
+//太一「あった」
+Taichi: "Mine."
+//grabs keys, to contrast with how he just saw it earlier. -GHS
+TP
+
+
+
+//すぐ戻らないとな。
+Gotta go back immediately, right.
+TP
+WVP 1 bgm007.ogg 0 0 0
+
+
+
+//駅前には人通りがない。
+There is no pedestrian traffic in front of the train station.
+TP
+
+
+
+//もともと住宅街と都会とのアクセスポイントでしかない駅は、にぎわいも薄い。
+From the very beginning the bustle of this station, this only real access point between the City and this residential area, had been thin.
+//Sometimes I wonder how people manage not to see this stuff being rubbed in their faces. -GHS
+TP
+
+
+
+//アスファルトの無機的な広場が、かすかな陽炎を立ちのぼらせている。
+The inorganic asphalt that makes up this plaza gives rise to a faint shimmer of heat haze.
+TP
+
+
+
+//車もまるで見られない。
+Not a single car in sight either.
+//It's work day in a dormitory town. Of course it's totally deserted. -GHS
+TP
+
+
+
+//だから道の真ん中を歩いた。
+That is why I was walking straight in the middle of the road.
+TP
+
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+
+//咎めだてる者はいない。
+There is no one here that'd rebuke me for that.
+//He's not alone though, Youko is watching. -GHS
+TP
+
+
+
+//どうなんだろう。
+But would it, really.
+TP
+
+TS 2
+//GL 5 zzzblackblend
+GL 5 zzzCCC0041blend2
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode. This whitens instead of darkening. Doesn't look as bad as I feared it would, so I kept it like that. -GHS
+
+//This is totally where he starts convincing himself he lives in a world of no humans. -GHS
+
+//たとえば、そういう世界。
+> 
+ 
+For example, in a world like this,
+TL
+//どんな犯罪に手を染めても、誰も咎めることもなく、また咎められることもない。
+no matter what crime one has had stained their
+hands with, if no one rebukes you, then there
+will be no being rebuked at all.
+//Very careful here, he does not say that a world without people to call things crimes there'd be no crime. He says that without anyone to call on crimes, there'd be nothing CALLED a crime. Remember how he decides he is still stealing from the kouban. Consider Misato vs. her father: there's a higher law than the one of men, that won't pass or miss anything even if the law of men does. -GHS
+TL
+//無法の世界。
+It's a world of lawlessness.
+//See CCA0007, CCC3007 -GHS
+TL
+//だけどここにいるのは自分だけなのだ。
+But still, here, there is only myself.
+TL
+//自分だけの世界で、どんな犯罪があるだろう。
+In a world of only myself, what crime even exists?
+TL
+//ない。
+None.
+TL
+//人との接点がなければ、大半の罪は霧散して意味を失う。
+If there are no points of tangent with people, then the majority of offenses disperse and loses meaning.
+//That's actually nonsense even from the Nietzscheian standpoint. If all are construct of the interaction between people, what offenses remain when no one's left? Taichi's failing the basics here. OTOH, considering the Ten Commandments, only four remain if there's no people, so it'd be correct in that sense... -GHS
+TP
+
+
+
+//理想的だ。
+> 
+ 
+It's ideal.
+//However, the point of this thing isn't so much lawlessness vs. morality, which Taichi's too dumb to discuss anyway, but it's simply addressing and piquing the curiosity of loners and hikikomori. -GHS
+TL
+//理想の社会と言える。
+It could be said it's an ideal society.
+TL
+//個であること。群を捨てるということ。
+Being Individual. An abandonment of the flock.
+//群 gun same as in 'gunjou'. -GHS
+TL
+//そのために必要な能力とは何か？
+What strength would be necessary for that?
+//See CCC3025, Youko in particular. Is he inventing the character even here? At times I do wonder. The point is more of a warning to hikikomori; most of them have zero chance of actually surviving in that environment, hence suicide rates. And if Cross Channel has a 'message', it's anti-suicide. -GHS
+TL
+//また、適した精神構造とは？
+And more, what kind of intrapsychical structure
+would be suitable to be in it?
+TL
+//人間にはいろいろな欲望がある。
+Humans have many appetites, many lusts.
+//This is one of two somewhat-recurring terms... -GHS
+TL
+//水を飲みたいとする欲求とはまた別の次元で、それはある。
+They exist on a level different from mere wishes,
+such as wanting to drink water.
+//...and this is the other. -GHS
+TP
+
+
+
+//欲望とは何だろう。
+> 
+ 
+What appetites, what lusts? What desires?
+//That's the actual term I'll use, but since the original means all this, and it's an explanation, putting 'em all in. -GHS
+TL
+//出世欲。
+> 
+Career. Worldly success.
+TL
+//知識欲。
+Knowledge. Intellectuality.
+TL
+//創作欲。
+Creation. Creativity.
+TL
+//征服欲。
+Conquest. Overcoming.
+//Same as with CCA0016 -GHS
+TL
+//それらは他者に対して抱く、あるいは他者によってその価値が定められるもの。
+> 
+Those are things held towards others, or things
+with a value constructed via others.
+TP
+
+
+
+//欲望というものは他人の承認を得たいという、あらわれかも知れない。
+> 
+ 
+A desire then may just be, perhaps, the
+manifestation of a want to obtain the approval
+and recognition of others.
+TL
+//人より資産を持ちたい。
+Wanting more possessions than other people.
+TL
+//人より知識を持ちたい。
+Wanting to have more knowledge than other people.
+TL
+//人より出世したい。
+Wanting more success than other people.
+TL
+//前提としての他者。
+Others stand as prerequisite.
+TL
+//多くの人が価値あると認めるものを獲得することに、欲望の根元がある。
+The principle of desire lies in the acquisition of
+that which many other people confer value to.
+TL
+//その明確なかたちのひとつが、通貨だろう。
+One of its most definite forms has to be...
+currency, I guess.
+TL
+//さしあたっての利用目的がなくとも、人はそれを欲する。
+It is what people want even if they have
+no goal they need it for in their immediate.
+TL
+//人間が欲望とともに生きる時、すでに他者の意識や価値観によって世界は染まっているのであり、またその中で人格は形成されていくのだ。
+When humans live together with desires, it's in
+a world already stained by the consciousness and
+the sense of values of others, that their
+personality is itself by those molded and shaped.
+//This is fairly basic stuff so I don't think I need to further comment on it. Well, let's just say that if this confuses you, then you either jumped into this at this point, or you've long given up. -GHS
+TP
+
+
+
+//では個であったなら。
+Well then, what if he was truly Individual.
+TL
+//欲望はどう変質するだろう？
+How would the essence of his desires even alter?
+TL
+//いや、他者がいなくなった瞬間、欲望はその定義を失って欲求へと至る。
+No, the instant others are no more, desire loses
+its very definition until it has become
+a mere want.
+TL
+//対抗馬のないレースは競走として成立せず、故に走る速度は追求されなくなる。
+A horse race with no competing horses does not
+become a true contest, consequently the goal of
+fastest speed will no longer be pursued.
+TL
+//自分一人の世界で、なお知識層であろうとする者が何人いるだろう？
+In a world of their own self alone, how many
+people will still want to be intellectuals?
+//"How many will desire to remain intellectual if they are all living individually separate from others", not necessarily "how big is the intellectual class if one person alone exists in the world". Since this is for the former, not the latter, though the troll is still present. -GHS
+TL
+//見る者のない芸術を、彼らは作り続けることができるのか？
+Could these people continue the act of creation
+when the results are works of art that no one
+will ever look at?
+//See CCC4025. That's one of the few plausible things Sakakibara says, and it's straight out of this very sentence. I wonder if he had this chat with the guy. -GHS
+TL
+//誰を征服するというのか？
+Who is there to even subjugate?
+TP
+
+
+
+//そう。
+Indeed.
+TL
+//一人になれば、人は変質する。
+If a person becomes Alone, the very essence of
+this person alters.
+TL
+//せざるを得ない。
+It is an unavoidable compulsion.
+TL
+//突き上げるような負の感情も、マイナスではなくなる。
+The negative emotions that try to swell out of
+themselves stop being a minus point.
+TL
+//罪も罪でない世界なら。
+It would be a society, a world, where a sin is
+not a sin.
+TL
+//この『目』は、そのためにあったのだと、天啓のように思った。
+These 『eyes』 we have exist for that purpose, I
+thought as if by divine revelation.
+//He means more than just his Mystic Eyes. Or rather, it's the opposite. And in the end, Divine Revelation. -GHS
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+//振り返る。
+I turn around.
+//And speaking of what his eyes are for, here's a nice possible hallucination of maybe his mother, maybe the devil. -GHS
+TP
+
+
+
+//太一「……いつまであとをつけてくるつもり？」
+Taichi: "...how long are you planning on sticking behind me?"
+//come on, it's not her fault that no one can    her. -GHS
+TP
+
+
+
+//人気のない広場に、声はよく通る。
+Voices carry well in this unpopulated open space.
+//Is he still in front of the station...? -GHS
+TP
+
+
+
+//太一「用事があるんじゃないのかな？」
+Taichi: "Do you have some business with me or something?"
+TP
+
+
+
+//待つ。
+I wait,
+TP
+
+
+
+//しかし返答はない。
+yet there is no reply.
+//Youko doesn't seem to exist yet. -GHS
+TP
+
+
+
+//太一「どうかしてる」
+Taichi: "You've gone mad."
+//This is what Kiri will often tell him and her. -GHS
+TP
+
+
+
+//吐き捨てて、学校方面に歩き出す。
+That I spit out, then go to walk towards the school.
+TP
+
+
+
+//いちいち構っていられない。
+I don't need someone to worry about every single thing.
+TP
+
+
+
+//気配はひたひたと追尾してきた。
+The presence of a pursuit continues steady and gradual.
+TP
+
+
+
+//心配してくれるのはありがたい。
+I'm grateful to be on the receiving end of concern,
+//See CCA0014A, for starters. Now see that one in the Taichi/Youko perspective. -GHS
+TP
+
+
+
+//が、しかし。
+but still.
+TP
+
+
+
+//太一「俺は髪の毛が白いから、日射病になんてならないのっ！！」
+Taichi: "My hair is white, so I'm not going to get sunstroke or anything!!!"
+//Research indicates... he's wrong. In fact, he's probably MORE susceptible to sunstroke. -GHS
+TP
+
+
+
+//母親に対する苛立ちって、こういうものなのかも知れない。
+The irritation one has for a mother, maybe, would just be like this.
+//She's his second mommy, after all. -GHS
+TP
+
+
+
+//新鮮ではあったけど、煩わしさがまさった。
+There was something refreshing and sweet to it, but it's also incredibly bothersome.
+//新鮮=!!!NEO-AKIRA!!! -GHSolvedthepuzzle
+TP
+
+
+WVS 1 1
+
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+
+//学校のそばまで来て、俺はほっと息を落とした。
+Once I had arrived next to the school, I let a relieved sigh fall,
+TP
+
+
+
+
+//気配が消えてくれたからだ。
+because the presence had gracefully vanished.
+//But Youko can erase her presence. So why is he feeling her? -GHS
+TP
+
+
+
+
+//太一「……あーもー、イライラした」
+Taichi: "Ahhh, really, that made me all nervous."
+TP
+
+
+
+
+//しかし毎度のことながら、鳥肌が立つ。
+Still, it may be something that happens every time, but I get goose bumps.
+TP
+
+
+
+
+//あの存在密度には。
+It's that overbearing being.
+TP
+
+
+
+
+//太一「魔物ですか」
+Taichi: "You some kind of demon perchance?"
+//COOOOUGH. -GHS
+TP
+
+
+
+
+//近いかも。
+...could be nearby...
+//Still trying to avoid the 'she' -GHS
+TP
+
+
+
+
+//そんなものに愛でられるのも大変だ。
+It's really a big fuss to be loved by that one.
+TP
+
+
+
+
+WVP 2 SE027 1 0
+
+//がるるるるるるるる
+GlRlRlRlRlRlRlRlRl!
+//This totally sounds like a creepy roar sped up... -GHS
+TP
+
+
+
+
+//腹の虫だ。
+It's my belly bug.
+//He talks about everyone being gone, then the eyes, and then he's chased by Youko, and when she leaves the belly bug takes her place. It could be random, but the flow seen here suggests it isn't so. -GHS
+TP
+
+
+
+
+//野獣のようだ。
+It's like a wild beast.
+TP
+
+
+
+
+//腹の獣とでも言おうか。
+Should I just call it my belly beast then.
+TP
+
+
+
+
+//太一「食べ物のにおいがする……」
+Taichi: "There's smell of food..."
+TP
+
+
+
+
+//ふらふらと、足は学食に向いた。
+With an unsteady stagger, my feet turn towards the school cafeteria.
+//But if there's no one, then this can't be possible. Is he attracted by Sakuraba's thick curry-filled bread? That sounds odd. -GHS
+TP
+
+
+
+
+
+RET

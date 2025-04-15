@@ -1,0 +1,151 @@
+
+
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 0
+
+WVP 1 bgm016.ogg 0 0 0
+
+Early morning.
+TP
+
+I inertially came to club.
+TP
+
+The preparations for the broadcasting channel still weren't done.
+TP
+
+Tomoki was there.
+TP
+
+Taichi: "Mornin'."
+TP
+
+GL 1 TCST0000
+GP 1 190 0
+GI 1 1
+WVP 0 vmCCC4017yki000
+Tomoki: "......is that you, Taichi?"
+TP
+
+Taichi: "What's up?"
+TP
+
+GL 1 TCST0004
+GI 1 0
+WVP 0 vmCCC4017yki001
+Tomoki: "......I was thinking, 'this is nearly finished.'"
+TP
+
+Taichi: "Well, that's because Sempai worked so hard."
+TP
+
+Taichi: "She even carried the necessary equipment up here."
+//Afaik, this isn't one of the weeks in which Sakuraba/Tomoki are asked to do that for her. Someone please check me on this. Å`IX
+TP
+
+WVP 0 vmCCC4017yki002
+Tomoki: "......when did she say it would be finished?"
+TP
+
+Taichi: "Sunday I guess. That was the original plan."
+TP
+
+Taichi: "Will you help?"
+TP
+
+GL 1 TCST0000
+GI 1 0
+WVP 0 vmCCC4017yki003
+Tomoki: "Nah, I have something else to do......"
+TP
+
+Taichi: "Sakuraba left on a journey."
+TP
+
+WVP 0 vmCCC4017yki004
+Tomoki: "So it seems."
+TP
+
+Taichi: "He invited me."
+TP
+
+WVP 0 vmCCC4017yki005
+Tomoki: "Same here."
+TP
+
+Taichi: "Also, I became a billionaire......"
+TP
+
+WVP 0 vmCCC4017yki006
+Tomoki: "Wow."
+TP
+
+A weak reaction.
+TP
+
+His attention lies elsewhere.
+//No object so it's supposed to be "lie." Good trick to remember is to replace the word with "place" and if it makes sense, use "lay."-Spin
+TP
+
+Taichi: "Touko died."
+TP
+
+WVP 0 vmCCC4017yki007
+Tomoki: "............what...are you saying?"
+TP
+
+His face tightened.
+TP
+
+Taichi: "Just kidding."
+TP
+
+WVP 0 vmCCC4017yki008
+Tomoki: "You're such a-!"
+TP
+
+Taichi: "Are you gonna kill me!?"
+TP
+
+WVP 0 vmCCC4017yki009
+Tomoki: "......I won't. I'm in no mood for that."
+TP
+GO 1 1
+He returned inside the building.
+TP
+
+Taichi: "Won't you participaaate?"
+TP
+
+GL 1 TCST0000
+GI 1 1
+WVP 0 vmCCC4017yki010
+Tomoki: "......I'm fighting with Aneki."
+TP
+
+Taichi: "Sempai comes here late, so at least help in the mornings."
+TP
+
+WVP 0 vmCCC4017yki011
+Tomoki: "Hmmm......is there something you don't understand?"
+TP
+
+Taichi: "I don't get the wiring or this equipment."
+TP
+
+GL 1 TCST0005
+GI 1 0
+WVP 0 vmCCC4017yki012
+Tomoki: "Then I have no choice."
+TP
+
+Tomoki helped out only for the morning.
+TP
+
+WVS 1 1
+
+
+RET

@@ -1,0 +1,979 @@
+
+
+
+
+
+GL 0 bgcc0000a
+GS 0 1
+SEF 152 1
+
+WVP 1 bgm002.ogg 0 0 0
+
+And then, Sunday.
+TP
+
+Clear weather.
+TP
+
+An unknown domain not in the diaries.
+TP
+
+I don't know how the world will end today.
+TP
+
+One week......it was short.
+TP
+
+It turned into days solely for capturing Kiri.
+TP
+
+Even so,
+TP
+
+Being able to reestablish the club was a great fortune.
+TP
+
+If the following me looks at the notebooks, they should become hints for how to reestablish it again.
+TP
+
+I wished to have this happy time over and over somehow.
+TP
+
+Within this miniature garden that cannot be saved.
+TP
+
+GL 0 bgcc0007f
+GS 0 1
+SEF 155 0
+Taichi: "No one's here yet."
+TP
+
+I looked around.
+TP
+
+The wide roof had a folding tent and various equipment.
+//not sure what the right term is in English, but he's referring to the kind of cheap tent you make by unfolding a simple pipe framework with cloth attached to the top. Å`IX
+//I'll look into it - Sheeta
+//'Various equipment' sound kinda weird to me. Is this correct? Of course, it may just be me, not being a native English speaker and all... -VDZ
+TP
+
+The antenna stood lightheartedly.
+TP
+
+A blue sky without a single EM wave flying across.
+TP
+GL 1 TCSK0000
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfCCC3030kri000
+Kiri: "......it's blue."
+TP
+
+Kiri looked up at the sky.
+TP
+
+Taichi: "Not a single cloud."
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3030kri001
+Kiri: "Yes."
+TP
+
+But something about Kiri's facial features still made me think of cloudy weather.
+TP
+
+The two of us clung to the fence.
+TP
+
+We lined up with no conversation.
+TP
+
+At long last,
+TP
+
+GL 2 TCMM0002
+GP 2 225 0
+GS 2 1
+GS 1 0
+SEF 109 0
+WVP 0 vfCCC3030msa000
+Misato: "Good morning."
+TP
+
+Everyone came.
+TP
+
+
+GL 3 TCST0000
+GP 3 190 0
+GS 3 1
+GS 2 0
+SEF 109 0
+
+WVP 0 vmCCC3030yki000
+Tomoki: "......okay."
+TP
+
+Mimi-sempai definitely didn't talk to him, but Tomoki came.
+TP
+
+Taichi: "Thanks......when shall we start?"
+TP
+
+GL 2 TCMM0031
+GS 2 1
+GS 3 0
+SEF 109 0
+WVP 0 vfCCC3030msa001
+Misato: "Ummm, it hasn't been decided, so right now is fine."
+TP
+GL 4 TCSH0000
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 1
+GP 4 190 0
+SEF 109 0
+WVP 0 vmCCC3030sku000
+Sakuraba: "DJ."
+TP
+
+Taichi: "Yeah, a DJ......someone who could..."
+TP
+
+No one raised their hand.
+TP
+
+Taichi: "Mimi-sempai?"
+TP
+GL 2 TCMM0004
+GS 4 0
+GS 2 1
+SEF 109 0
+
+WVP 0 vfCCC3030msa002
+Misato: "Eh!? Me? I can't, no, no, impossible, I'll bite my tongue!"
+TP
+
+Taichi: "Miki?"
+TP
+
+GL 3 TCYM0021
+GP 3 180 0
+GS 2 0
+GS 3 1
+SEF 109 0
+
+WVP 0 vfCCC3030mki000
+Miki: "......hoyo?"
+TP
+
+She was in the midst of tearing off a piece of beef jerky.
+TP
+
+Not beautiful.
+//A serious blow to Nagato. Å`IX
+TP
+
+......she's out.
+TP
+
+Taichi: "Tomoki."
+TP
+
+GL 1 TCST0004
+GP 1 190 0
+GS 1 1
+GS 3 0
+SEF 109 0
+WVP 0 vmCCC3030yki001
+Tomoki: "Fine by me, but how much do I get?"
+TP
+
+Taichi: "............"
+TP
+
+This isn't a matter of money.
+//GSM flashback, that's a first. Å`IX
+TP
+
+Taichi: "Sakuraba......"
+TP
+GL 2 TCSH0002
+GP 2 190 0
+GS 1 0
+GS 2 1
+SEF 109 0
+WVP 0 vmCCC3030sku001
+Sakuraba: "Do you think I have ever been able to speak logically and consistently?"
+//lol
+TP
+
+Taichi: "......you understand this awfully well."
+TP
+
+Taichi: "Then......Kiri?"
+TP
+
+GL 1 TCSK0003
+GS 2 0
+GS 1 1
+GP 1 220 0
+SEF 109 0
+WVP 0 vfCCC3030kri002
+Kiri: "......eh!?"
+TP
+
+Her complexion changed.
+TP
+
+She was sweating in an instant.
+TP
+
+Taichi: "DJ."
+TP
+
+WVP 0 vfCCC3030kri003
+Kiri: "Ah! I can't! Impossible, I can't talk in front of people!"
+TP
+
+Taichi: "Whaaat? They're all destroyed anyway, so it's fine."
+TP
+
+GL 2 TCST0004
+GS 1 0
+GS 2 1
+SEF 109 0
+WVP 0 vmCCC3030yki002
+Tomoki: "What happened to our hope!?"
+TP
+
+WVP 2 SE003 1 0
+SEF 101 0
+
+
+Taichi: "Gefu!"
+TP
+
+I was chopped.
+TP
+
+GL 1 TCSK0003
+GS 1 1
+GS 2 0
+GP 1 220 0
+SEF 109 0
+WVP 0 vfCCC3030kri004
+Kiri: "That's bad! I can't, impossible, I......I'll say something strange!"
+// was she supposed to say that without stopping and no commas? if so, sorry.
+TP
+
+She was seized with fear and rolled up.
+TP
+
+Taichi: "I'd like to see a strange Kiri-chin."
+TP
+
+I pulled her hand.
+TP
+
+WVP 0 vfCCC3030kri005
+Kiri: "You caaaan't!!"
+TP
+
+I pulled her hip.
+TP
+
+Taichi: "......I can see your panties."
+TP
+
+GL 1 TCSK0002
+GI 1 0
+Kiri: "!!?"
+TP
+
+She hurriedly pushed down her skirt.
+TP
+
+Kiri broke her posture.
+TP
+
+I pulled her harder.
+TP
+
+Taichi: "Congratulations on your debut as a DJ."
+TP
+GL 1 TCSK0003
+GI 1 0
+
+WVP 0 vfCCC3030kri007
+Kiri: "Save meeee!!"
+TP
+
+You can't do it?
+TP
+GO 1 1
+I released her.
+TP
+
+Kiri quickly hid behind Miki.
+TP
+
+Damn your small animal mentality.
+TP
+
+Taichi: "I get it......I guess I'll do it."
+TP
+
+There was no one but me.
+TP
+
+WVS 1 1
+
+GL 2 TCST0000
+GP 2 190 0
+GI 2 1
+WVP 0 vmCCC3030yki003
+Tomoki: "You can start whenever."
+TP
+GO 2 1
+
+What should I talk about?
+TP
+I can't think of anything.
+TP
+
+A meaningless SOS.
+TP
+
+But no one is thinking that.
+TP
+
+My own body...moved on its own...with others' sensations.
+TP
+
+I sat down in the chair and gripped the mike.
+TP
+
+I was automatic.
+TP
+
+I think I was always something like automatic.
+TP
+
+Surroundings and contacts created the form of the current me.
+TP
+
+WVP 1 bgm001.ogg 0 0 0
+
+Taichi: "Ummm......are there any living people listening to this broadcast?"
+TP
+
+Taichi: "This is the Gunjou Institute Broadcasting Club."
+TP
+
+Taichi: "Is anyone alive out there?"
+TP
+
+Taichi: "This is the Gunjou Institute Broadcasting Club. There are eight of us alive."
+TP
+
+Taichi: "Eight of us are alive."
+TP
+
+Aren't people precious?
+TP
+
+Aren't family and friends precious?
+TP
+
+As long as I'm a person,
+TP
+
+Taichi: "......everyone is in excellent health."
+TP
+
+If I'm fine not being a person, I could live in solitude.
+TP
+
+But I'm better off as a human.
+//It sounded really off saying "person" again so fast. I don't really like the use of "human" either though but it's the only synonym I could think of.-Spin
+TP
+
+I wanted to become a monster, not of instincts, but of rationality.
+TP
+
+Even though I should have been able to become a more perfectly harmless being that way.
+TP
+
+There wasn't enough.
+TP
+
+Of contact. Of touching one another.
+TP
+
+Taichi: "Ummm......"
+TP
+
+Our families...
+//'Family is gone' didn't sound right to me. - Sheeta
+TP
+
+......are gone.
+TP
+
+Friendships with people as shallow as air in the paradise of the miniature garden.
+TP
+
+......I'm forgetting even their faces.
+TP
+
+Meeting Youko-chan.
+TP
+
+......she doesn't see me as a stranger.
+TP
+
+The Shinkawas.
+TP
+
+......I was taught that humans are enemies.
+TP
+
+During my childhood, my most sentimental time, I was unable to touch people.
+TP
+
+Taichi: "A long time ago, I committed a sin."
+TP
+WVP 2 SE090 1 0
+The wind chime rang.
+TP
+
+Six gazes gathered.
+TP
+
+Taichi: "I made a friend of mine die."
+TP
+
+WVP 0 vmCCC3030sku002
+Sakuraba: "......Taichi?"
+TP
+
+Taichi: "I didn't directly lay hands on him, but......I effectively made him die."
+TP
+
+Taichi: "That friend was one of many humans who'd hurt me an even longer time ago."
+TP
+
+Taichi: "He lost his memory, and appeared once again before me."
+TP
+
+Taichi: "He behaved as if his sin had disappeared along with his memory."
+TP
+
+Taichi: "At first I didn't notice either. After all, it had occurred years earlier."
+TP
+
+The atmosphere changed.
+TP
+
+The doubt and unease of six humans swirled.
+TP
+
+It will probably calm down soon.
+TP
+
+Though it might turn into a harsh atmosphere.
+TP
+
+Taichi: "But at some point, I began to notice."
+TP
+
+Taichi: "Actually, the wound I received from him shouldn't have even been that big of a deal to me."
+TP
+
+Taichi: "Unworthy Kurosu Taichi, aiming to be a young adult who has tasted both the sweets and sours of life."
+TP
+
+Taichi: "But,"
+TP
+
+Kiri moved.
+TP
+
+She touched her hand to her mouth.
+TP
+GL 0 evcc0046
+$CGevcc0046 = 1
+GS 0 1
+SEF 155 0
+
+Taichi: "But I...I became unable to see him as a friend."
+TP
+
+WVP 0 vfCCC3030kri008
+Kiri: "......uu......"
+TP
+
+WVP 0 vfCCC3030mki001
+Miki: "Kiri......?"
+TP
+
+Taichi: "I ended up seeing him like a 'thing.'"
+TP
+
+Taichi: "I think it was different from an emotional argument like, 'I can't forgive him.'"
+TP
+
+Taichi: "Inside me, it's certain that his value changed."
+TP
+
+Taichi: "No......it didn't just change......he became worthless."
+TP
+
+Taichi: "I lost interest in him."
+TP
+
+Taichi: "When he regained his memory, he said, 'please forgive me.'"
+TP
+
+Taichi: "Just maybe......if he hadn't asked that of me, the result might have been different."
+TP
+
+Kiri: "......!"
+TP
+
+Taichi: "After all, no matter what one does, one cannot falsify the past."
+TP
+
+Taichi: "I think one can only accept the person's sin, or see them as an enemy."
+TP
+
+Taichi: "......his actual sin......wasn't really that big of a deal."
+TP
+
+Taichi: "I should have just poured out the usual jokes and stayed with him as a friend."
+TP
+
+WVP 0 vfCCC3030kri010
+Kiri: "......Sem...pai......"
+TP
+
+Tears.
+TP
+
+Tears?
+TP
+
+That's yet another thing I don't have.
+TP
+
+Taichi: "Why wasn't I able to say, 'Don't mention it,' back then?......I think about it a lot."
+TP
+
+Taichi: "......that's because I...am twisted."
+TP
+
+Taichi: "Because I have a twisted heart."
+TP
+
+Taichi: "I don't have enough rationality."
+TP
+
+Taichi: "But in order to foster rationality, another person is needed."
+TP
+
+Taichi: "I don't think it's something that can be raised without quarreling."
+TP
+
+Taichi: "But the friend I had for quarreling with...I hurt him, until he was gone."
+TP
+
+Taichi: "......that was......my dilemma."
+TP
+
+Tomoki: "......"
+TP
+
+Sakuraba: "......"
+TP
+
+Taichi: "Even if memories go away, what happened in the past won't disappear."
+TP
+
+Taichi: "But even though I got hurt, and even though I was hurt by others,"
+TP
+
+Taichi: "......we should have remained as two people who could face each other."
+TP
+
+WVP 0 vfCCC3030kri011
+Kiri: "Uu!......ku......"
+TP
+
+Sobbing.
+TP
+
+WVP 0 vfCCC3030msa003
+Misato: "......Sakura-san."
+TP
+
+Everyone here's aware, right?
+TP
+
+About what happened between Yutaka and I?
+TP
+
+No one spoke up.
+TP
+
+No one stopped me.
+TP
+
+Taichi: "......I became afraid."
+TP
+
+Taichi: "But I couldn't commit suicide. I couldn't end it myself."
+TP
+
+Taichi: "There were times I thought that all people should just go away."
+TP
+
+Taichi: "When I hurt others, that's what I thought."
+TP
+
+Taichi: "Since people have left the world......it's been a week."
+TP
+
+Taichi: "There were times I wondered whether it was my fault somehow."
+TP
+
+Misato: "......"
+TP
+
+Miki: "......"
+TP
+
+Taichi: "I'm no good, after all."
+TP
+
+Taichi: "It's not that I don't hold something that could be called thanks for all the friends who've hung out with me despite that."
+TP
+
+WVP 0 vmCCC3030sku004
+Sakuraba: "Do you or don't you?"
+TP
+
+A rare counter by Sakuraba.
+TP
+
+WVP 0 vmCCC3030yki005
+Tomoki: "Double negative."
+TP
+
+A mechanical counter by Tomoki.
+TP
+
+Taichi: "......I'm fine doing things for myself."
+TP
+
+Taichi: "I don't mind caring about people for my own sake."
+TP
+
+Taichi: "So that tomorrow......I can become just a little bit better."
+TP
+
+Taichi: "I still have friends."
+TP
+
+Taichi: "To build up a relationship is also to cover the heart in wounds."
+TP
+
+Taichi: "It's a painful thing, not beautiful at all."
+TP
+
+Taichi: "I thought that people needed other people."
+TP
+
+Taichi: "That is why...I believe there are still people somewhere listening to this broadcast."
+TP
+
+Taichi: "Our address is---"
+TP
+
+I explained the process for contacting us wirelessly.
+TP
+
+This should do it.
+TP
+
+I wonder, did I speak until I was empty?
+TP
+
+......well, that's what this is.
+TP
+
+Taichi: "This is the Gunjou Institute Broadcasting Club. There are eight of us alive."
+TP
+
+Taichi: "See you next week."
+TP
+
+I finished.
+TP
+
+I took a deep breath.
+TP
+GL 0 bgcc0007f
+GS 0 1
+SEF 155 0
+WVP 2 SE091 1 0
+Applause.
+TP
+WVP 2 SE092 2 0
+
+First Mimi-sempai. Then all the others followed.
+TP
+
+Taichi: "......"
+TP
+
+I didn't feel like making a joke.
+TP
+
+I was enveloped in embarrassment.
+TP
+
+I scratched my cheek in order to endure that sweet torture.
+TP
+
+GL 1 TCMM0002
+GP 1 225 0
+GS 1 1
+SEF 109 0
+WVP 0 vfCCC3030msa005
+Misato: "There, you did great."
+TP
+
+Taichi: "......haa."
+TP
+
+GL 2 TCSH0000
+GP 2 40 0 0
+GS 1 0
+GS 2 1
+SEF 109 0
+WVP 0 vmCCC3030sku005
+Sakuraba: "Is there a next week?"
+TP
+
+Taichi: "Yeah, well......it seemed appropriate."
+TP
+GL 3 TCST0000
+GP 3 340 0
+GI 3 1
+
+WVP 0 vmCCC3030yki006
+Tomoki: "Do the small things really matter?"
+TP
+
+WVP 0 vmCCC3030sku006
+Sakuraba: "......indeed."
+TP
+GL 1 TCYM0003
+GS 2 0
+GS 3 0
+GS 4 0
+GS 1 1
+GP 1 180 0
+SEF 109 0
+
+WVP 0 vfCCC3030mki003
+Miki: "That was so cool!"
+TP
+
+She was clicking a disposable camera.
+TP
+
+Taichi: "......stop that!"
+TP
+
+WVP 0 vfCCC3030mki004
+Miki: "You're embarrassed, you're embarrassed."
+TP
+
+Taichi: "Shuuut iiit!"
+TP
+
+And then,
+TP
+
+
+GL 2 TCSK0000
+GS 1 0
+GS 2 1
+GP 2 220 0
+SEF 109 0
+WVP 0 vfCCC3030kri012
+Kiri: "......Sempai."
+TP
+
+Kiri stood up.
+TP
+
+What's she going to say?
+TP
+
+I waited with tension.
+TP
+GL 2 TCSK0004
+GI 2 0
+WVP 0 vfCCC3030kri013
+Kiri: "Y-"
+TP
+
+Y.
+TP
+
+GL 2 TCSK0002
+GI 2 0
+
+WVP 0 vfCCC3030kri014
+Kiri: "You......did a great job."
+TP
+
+She lowered her head.
+TP
+
+Taichi: "............"
+TP
+
+Deep emotion boiled up.
+TP
+
+I can't put it into words.
+TP
+
+Incomprehensible, yet reassuring. That sort of sensation.
+TP
+
+I had a feeling that the water level rose in my heart.
+TP
+
+A very small amount.
+TP
+
+Taichi: "......thank you."
+TP
+
+WVS 1 1
+
+GL 5 bgcc0000e
+GP 5 0 0
+GI 5 0
+GO 5 1
+The sky whitened for a moment.
+TP
+
+Taichi: "......!"
+TP
+
+Aaah, this timing---
+TP
+
+I quickly became afraid.
+TP
+
+But I mustn't become confused.
+TP
+
+I embraced Kiri.
+TP
+
+I fell to my knees and buried my face in her stomach.
+TP
+
+GL 2 TCSK0000
+GI 2 0
+WVP 0 vfCCC3030kri015
+Kiri: "Kya! Wh-what's wrong!?"
+TP
+
+
+WVP 0 vfCCC3030mki005
+Miki: "Owa, such boldness......"
+TP
+
+WVP 0 vfCCC3030msa006
+Misato: "Im-impure sexual suspension......"
+TP
+
+WVP 0 vmCCC3030sku007
+Sakuraba: "Those are novel words, President-sempai."
+TP
+
+WVP 0 vmCCC3030yki007
+Tomoki: "......Taichi really is perverted."
+TP
+
+Taichi: "Aren't I depressed!? Please, comfort me!"
+TP
+
+I'm frightened.
+TP
+
+I'm frightened of disappearing.
+TP
+
+Saturday night was the last save point.
+TP
+
+The joy and confession and very small emotional growth I had today will all be in vain.
+TP
+
+I'm scared, I'm scared, I'm scared.
+TP
+
+WVP 0 vfCCC3030kri016
+Kiri: "......Sempai......you're crying?"
+TP
+
+
+
+GL 5 bgcc0000e
+GI 5 0
+GS 2 0
+GO 5 1
+
+
+A ringing in my ears.
+TP
+
+At the edges of my pupils, buried in her chest, the world was whitening.
+TP
+
+GL 0 bgcc0000e
+GS 0 1
+SEF 109 1
+
+Whitening---
+TP
+
+Taichi: "......dammit."
+TP
+
+That was my dying word.
+TP
+
+TS 2
+SEF 109 2
+WT 1500 0
+WT 1000 1
+
+CALL ndemo0002
+TS 1
+
+RET

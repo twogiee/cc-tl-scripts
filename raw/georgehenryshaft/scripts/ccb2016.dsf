@@ -1,0 +1,639 @@
+
+GL 0 bgcc0005a
+GS 0 1
+GS 1 0
+SEF 152 1
+
+
+WVP 1 bgm004.ogg 0 0 0
+
+//帰り、冬子の荷物を持たされた。
+Returning home, I was made to carry Touko's bags.
+TP
+
+//太一「……うーあー」
+Taichi: "...nghhh, ahhh."
+TP
+
+GL 1 TCKT0021b
+GP 1 235 0
+GI 1 1
+
+WVP 0 vfccb2016fyu000
+//冬子「ふぁいとよ、太一ー♪」
+Touko: "Fight on, Taichiii!♪"
+TP
+
+//太一「へーい」
+Taichi: "Yeeeah."
+TP
+
+//逆らう権利はなかった。
+I had no right of opposition.
+//See CCC0000 -GHS
+TP
+
+//荷物は軽い。
+The bags were light,
+TP
+
+//けど坂だからしんどい。
+but hills, therefore tiring.
+TP
+
+GL 1 TCKT0005b
+GI 1 0
+
+WVP 0 vfccb2016fyu001
+//冬子「～♪」/（★★★鼻歌）
+Touko: "～♪"
+//Directions: "humming" -GHS
+TP
+
+//気楽だなー。
+Cheerful ain't she.
+TP
+
+//けど、そんな怒ってなくて良かった。
+But that angerlessness was a good thing.
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfccb2016fyu002
+//冬子「ねえ、太一？」
+Touko: "Say, Taichi?"
+TP
+
+//太一「あい？」
+Taichi: "'es?"
+TP
+
+WVP 0 vfccb2016fyu003
+//冬子「海って本当に行くの？」
+Touko: "Are we really going to the beach?"
+TP
+
+//ああ。
+Ahhh.
+TP
+
+//それが楽しみとして、あったのか。
+She was looking forwards to it, that's why.
+TP
+
+//先に楽しいことがあれば、人は幸せなんだ。
+Because if there is something fun ahead, people are happy.
+TP
+
+//人はみんな一人のまま死ぬのに。
+Even though all people are alone in their deaths,
+TP
+
+//孤独であるということ。
+and there is solitude in their existence,
+TP
+
+//それを忘れることができるよう、楽しむ力がある。
+they have the power to forget all that and look forwards to something pleasurable.
+TP
+
+//太一「……行こうか」
+Taichi: "...shall we go?"
+TP
+GL 1 TCKT0006b
+GI 1 0
+WVP 0 vfccb2016fyu004
+//冬子「うん！」
+Touko: "Yes!"
+TP
+
+//太一「二人で行くのと、大勢で行くの、どっちがいい？」
+Taichi: "What would you like: going just us two or going with a crowd?"
+TP
+GL 1 TCKT0000b
+GI 1 0
+WVP 0 vfccb2016fyu005
+//冬子「え、大勢って？」
+Touko: "Eh, crowd?"
+TP
+
+//太一「まあ、行きたいヤツだけ誘ってさ」
+Taichi: "Well, we'll only invite the people that want to come with."
+TP
+
+WVP 0 vfccb2016fyu006
+//冬子「……いるかしら」
+Touko: "...do any want to, I wonder."
+TP
+
+//太一「そうだな」
+Taichi: "Do any indeed."
+TP
+
+GL 5 zzzblackblend
+GP 5 0 0
+GI 5 1
+//HACK dim screen -GHS
+
+//桜庭は平気。
+Sakuraba's alright.
+//See CCA0011C. -GHS
+TP
+
+//友貴はどうかな。生存部が忙しいかな。
+How's Tomoki doing I wonder. Busy with the Survival Club I guess.
+TP
+
+//見里先輩は部活があるかな。
+Misato-senpai has club activities I guess.
+TP
+
+//美希はＯＫかも。
+Miki's OK, probably.
+TP
+
+//霧は厳しいけど、美希が来るならついてくるだろう。
+Kiri's a harsh fog, but if Miki comes she should come with.
+//That was the pun anyway. -GHS
+TP
+
+//曜子ちゃんは、論外として。
+Youko-chan's completely beside the point.
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+//太一「何人かは、来ると思うよ」
+Taichi: "Some will come, I think."
+TP
+
+GL 1 TCKT0006b
+GI 1 0
+
+WVP 0 vfccb2016fyu007
+//冬子「太一はその……どっちがいいの？」
+Touko: "But Taichi, you... which do you prefer?"
+TP
+
+WVP 0 vfccb2016fyu008
+//冬子「みんなで行くのと、二人っきりなのと」
+Touko: "Going with everybody, or being alone us two."
+TP
+
+//チラ、と横顔をうかがってくる。
+I covertly dash my eyes to her profile for a flash of an instant.
+TP
+
+//恋愛慣れしていないというか。
+Maybe it's being unused to love,
+TP
+
+//ウブというか。
+maybe it's being naive,
+TP
+
+//こういうところは素直に好きだ。
+but I sincerely love this of her.
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//してみると、俺はけっこう冬子が好きなのかもしれない。
+And with that also considered, it seems that I might just like Touko quite a bit.
+TP
+
+//太一「ははっ」
+Taichi: "Hahah!"
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfccb2016fyu009
+//冬子「？」
+Touko: "?"
+TP
+
+//太一「じゃあ明日はみんなで行って、冬子とは来週の金曜日に行こう」
+Taichi: "Well, tomorrow we'll go with everyone, and Friday next week just with you, Touko."
+//Well, not that next week. -GHS
+TP
+
+GL 1 TCKT0006b
+GI 1 0
+//HACK doll change a line before -GHS
+
+//ぱっと輝く表情。
+A sudden shine in her face.
+TP
+
+WVP 0 vfccb2016fyu010
+//冬子「そうね、それがいいわね」
+Touko: "Let's, that'd be good, yes."
+TP
+
+WVP 0 vfccb2016fyu011
+//冬子「お弁当、持って行かないとね」
+Touko: "But we're going to need packed lunches."
+TP
+
+//太一「……俺が作るんだよね？」
+Taichi: "...and I have to make them, right?"
+TP
+
+WVP 0 vfccb2016fyu012
+//冬子「手伝うわよ」
+Touko: "I'll help!"
+TP
+
+//太一「うーん、でもハラキリ丸はうちの台所には長すぎるよ」
+Taichi: "Okay, but the Harakiri Blade is too long to fit in the kitchen at home."
+TP
+GL 1 TCKT0003b
+GI 1 0
+WVP 0 vfccb2016fyu013
+//冬子「持ち込まないわよ、刀なんて！」
+Touko: "I'm not bringing it in there, it's a sword!"
+TP
+
+//呼び寄せるだろ……。
+But she'll be summoning it won't she...
+TP
+GL 1 TCKT0005b
+GI 1 0
+
+WVP 0 vfccb2016fyu014
+//冬子「んー、でも今から人を集めることってできるわけ？」
+Touko: "Hmmm, but can you gather everyone just from this hour?"
+TP
+
+//太一「夜になってもすることないしね」
+Taichi: "Once night falls, there is nothing to do anymore."
+TP
+
+//太一「それに俺、夜行性なんだ。夜の方がいいの」
+Taichi: "But me, I'm a creature of the night. I'm fine being in the darkness."
+TP
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfccb2016fyu015
+//冬子「夜型ってことでしょ？」
+Touko: "So you're a night owl?"
+TP
+
+//太一「……というのとは、ちょっと違うんだけどね」
+Taichi: "...well, what I mean to say is a little different from that."
+TP
+
+//太一「まあ、任せておきなさい」
+Taichi: "Look, just leave it all to me!"
+TP
+
+//冬子「……」
+Touko: "..."
+TP
+
+WVP 0 vfccb2016fyu017
+//冬子「ねえ、荷物半分持ってあげようか」
+Touko: "Say, how about I take half the bags."
+//I'm not really sure how many bags Touko has and why she would bring more than one, even. Eh, woman, it's gonna be clothes somehow. -GHS
+TP
+
+//おやおや。
+My oh my.
+TP
+
+//太一「いいよ。こんくらい」
+Taichi: "I'm fine, this isn't much."
+TP
+
+GL 1 TCKT0006b
+GI 1 0
+
+WVP 0 vfccb2016fyu018
+//冬子「じゃ、こうして手伝ってあげる」
+Touko: "Then, I'll help you like this."
+TP
+
+//腕を組んできた。
+She linked arms.
+TP
+
+//太一「おっと」
+Taichi: "Well then!"
+TP
+
+WVP 0 vfccb2016fyu019
+//冬子「ふふふ」
+Touko: "Heh heh heh!"
+//Wait, is this the first time the actual noblewoman did a noblewoman's laugh? Voice disagrees so changed. -GHS
+TP
+
+//全然手伝いになってないじゃん……。
+That ain't gonna be of any help at all...
+TP
+
+//ま、いいか。
+Well, whatever.
+TP
+
+WVP 0 vfccb2016fyu020
+//冬子「～♪」
+Touko: "～♪"
+//CP ♪
+TP
+
+GL 5 zzzblackblend
+GP 5 0 0
+GI 5 1
+//HACK dim screen -GHS
+
+//その幸せそうな横顔を見ていると、夕日が赤すぎて、悪戯心が膨れる。
+When I see a profile so filled with happiness, drenched in that sunset too red, my mischievous heart swells.
+TP
+
+//……突きつけてやりたくなってしまう。
+...a strong desire to lunge out at it all.
+//Veeery vague here. -GHS
+TP
+
+//希望のない、この世界と俺たちの末路を。
+There is no hope in the last days of this world and us.
+TP
+
+//ぎゅっと目を閉じる。
+I close my eyes tight.
+TP
+
+//夕日はよくない。
+Sunset's not nice.
+TP
+
+//世界の破滅を感じさせる色。
+It's a color that makes me feel the destruction of the world.
+//See CCA0017A -GHS
+TP
+
+//一日一回、世界は滅びていたんじゃないかと、昔は思っていた。
+Long ago I used to to think, isn't the world just being destroyed once every day?
+//And people say Cross Channel doesn't explain things explicitly. -GHS
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+//太一「……あ」
+Taichi: "...ah."
+TP
+
+//坂の上に。
+Above the hill,
+//ka-misaka. -GHS
+TP
+
+//彼女がいた。
+there she was.
+TP
+
+//自転車の少女。
+The bicycle girl.
+TP
+
+//七香「……………………」
+Nanaka: "............"
+TP
+
+//水平に腕を伸ばす。
+An arm extended, horizontal.
+TP
+
+//指先が、何処かをさしている。
+A fingertip, pointing to somewhere.
+TP
+
+//見た。
+I looked.
+TP
+
+//山？
+A mountain?
+TP
+
+//キャンプ場に出る……山道方面だ。
+Towards the camping area... and the mountain trail that leads there.
+TP
+
+//視線を戻すと、もう少女はいない。
+Returning my sight, the girl isn't there anymore.
+TP
+
+//太一「…………ぉゃ？」
+Taichi: "......mother of...?"
+//CP CCA0003
+TP
+
+GL 1 TCKT0005b
+GI 1 0
+WVP 0 vfccb2016fyu021
+//冬子「来週は、髪、切りっこしましょうよ」
+Touko: "Next week, let's get our hair cut, both of us."
+//And who's gonna cut them if there's only eight people and none of them is a barber, Ms. Obviously Expects A Professional Hair Cut? The subtle implication is that barbers still exist for her. -GHS
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+WVP 0 vfccb2016fyu022
+//冬子「短く切ってさっぱりしましょ。笑って暮らして元気になるの」
+Touko: "Let's cut them short and be all refreshed. We'll have a healthy life full of smiles."
+TP
+GL 1 TCKT0005b
+GI 1 0
+
+WVP 0 vfccb2016fyu023
+//冬子「アメリカの農村みたいに暮らすのよ。それでデザートにトウモロコシを食べるの」
+Touko: "We'll live like in rural America! And so, we'll eat corn for dessert." 
+TP
+
+//太一「そだね」
+Taichi: "Right."
+TP
+
+//冬子には見えなかったらしい。
+Touko didn't seem to see her.
+TP
+
+//まっすぐ前方にいたのになぁ。
+Even if she was straight and forwards ahead of her.
+TP
+
+//すこしふしぎ。
+Somewhat freaky.
+//There we go. -GHS
+TP
+
+//太一「……で、なぜトウモロコシ？」
+Taichi: "...say, why corn?"
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+
+WVP 0 vfccb2016fyu024
+//冬子「正式なディナーで出てきたらどう食べる？」
+Touko: "Do you know how it is eaten when presented at a formal dinner?"
+TP
+
+//太一「え？　ナイフとフォークで？」
+Taichi: "Eh? With knife and fork?"
+//Guessing "Corn is eaten with knife and fork" + "a formal dinner, you mean with knife and fork?". -GHS
+TP
+GL 1 TCKT0000b
+GI 1 0
+WVP 0 vfccb2016fyu025
+//冬子「ええ」
+Touko: "Yes."
+TP
+
+//太一「あれをナイフで切るのは難しそうだ……」
+Taichi: "Cutting that with a knife would be hard..."
+TP
+
+WVP 0 vfccb2016fyu026
+//冬子「でもデザートに出てきたら？」
+Touko: "But what if it is presented as dessert?"
+TP
+
+//太一「うーん……」
+Taichi: "Welll..."
+//3x -GHS
+TP
+
+//冬子はくすくす笑う。
+Touko giggles.
+TP
+
+GL 1 TCKT0006b
+GI 1 0
+WVP 0 vfccb2016fyu027
+//冬子「手で食べていいのでした」
+Touko: "Then you could just eat it with your hands!"
+TP
+
+//太一「……そうなのか」
+Taichi: "...so that's how it is."
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+WVP 0 vfccb2016fyu028
+//冬子「じゃバナナはどうすると思う？」
+Touko: "So, how do you think a banana is handled formally?"
+//Just choke on innuendo and die. バナナ 八 (pretty much) +nana, seven. -GHS
+TP
+
+//太一「手でむく」
+//Taichi: "It is j-jammed in."
+Taichi: "Peeled by hand."
+TP
+
+GL 1 TCKT0005b
+GI 1 0
+
+WVP 0 vfccb2016fyu029
+//冬子「はい、失格です」
+Touko: "Ha, you are disqualified!"
+TP
+
+//太一「ナイフで切るのか？」
+Taichi: "You'd cut it with a knife?!"
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfccb2016fyu030
+//冬子「そう」
+Touko: "Yup."
+TP
+
+//太一「……うえー、マナーわかんね」
+Taichi: "...whoooa, I dunno 'bout all dem manners!"
+//dagnabbit -GHS
+TP
+GL 1 TCKT0006b
+GI 1 0
+WVP 0 vfccb2016fyu031
+//冬子「そんなことして暮らしてたら、すぐ人も増えて行くわ」
+Touko: "If we live like that, the number of people will quickly increase."
+//Specific. She delusionally believes that people ran away from her because she was mean. Similar to Kiri, difference is mostly in reaction. -GHS
+TP
+
+GL 1 TCKT0005b
+GI 1 0
+WVP 0 vfccb2016fyu032
+//冬子「みんな戻ってくるんだから」
+Touko: "Because everyone will come back."
+TP
+
+//そういう希望の持ち方もあろう。
+That is one way of holding onto hope.
+TP
+
+//太一「あるいは、俺たちで作るとかね」
+Taichi: "Or possibly, we could be making more or something."
+TP
+
+GL 1 TCKT0006b
+GI 1 0
+//冬子「……」
+Touko: "..."
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//キスしたくなる。
+I ended up wanting to kiss her.
+TP
+
+//小粋に顎をつかんだ。
+I dapperly lift her chin.
+TP
+
+WVP 0 vfccb2016fyu034
+//冬子「……すけべ」
+Touko: "...lech."
+TP
+
+//がじっ
+Gnaw!
+TP
+
+//太一「いってててっ！　指を囓るなぁ！」
+Taichi: "OwChChCh! Don't gnaw my fingeeer!"
+TP
+WT 500 0
+WT 500 1
+WVS 1 1
+
+GL 0 bgcc0000c
+GS 0 1
+GS 1 0
+SEF 152 1
+
+//夕食には缶詰をたらふく食った。
+For dinner we ate canned food to our heart's content.
+TP
+//WT 500 0
+//WT 2000 1
+//HACK waiting, as usual, unneeded with the new flashback opening. -GHS
+
+
+RET

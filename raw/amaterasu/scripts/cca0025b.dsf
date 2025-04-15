@@ -1,0 +1,146 @@
+Taichi: "I understand, Sempai......then, in exchange..."
+TP
+
+
+GL 1 TCMM0000c
+GI 1 0
+
+WVP 0 vfcca0025bmsa000
+Misato: "Whaaat?"
+TP
+
+
+
+Taichi: "Have you ever had sex?"
+TP
+
+
+GL 1 TCMM0004c
+GI 1 0
+
+WVP 0 vfcca0025bmsa001
+Misato: "Is this the right context for that!?"
+TP
+
+
+
+Taichi: "I've been thinking it'd be nice to do it with Sempai."
+TP
+
+
+
+Taichi: "Umm......on the day of the entrance ceremony, when sakura petals were in the air, I'd lost sight of all goals after my brother's death, but Sempai saved me with those few words..."
+IF $tlnote == 1 (TL note: "Sakura" = "cherry blossom tree.")
+TP
+
+
+
+GL 1 TCMM0000c
+GI 1 0
+
+WVP 0 vfcca0025bmsa002
+Misato: "You won't trick me! I won't be fooled by such an overemphasized momentary love aura!"
+TP
+
+GL 1 TCMM0001c
+GI 1 0
+
+WVP 0 vfcca0025bmsa003
+Misato: "Besides, you don't even have a brother!"
+TP
+
+
+
+Taichi: "On that sunny summer day, I'd planned to quit baseball in order to avoid memories of him."
+//Touch reference? XD - Sheeta
+TP
+
+GL 1 TCMM0006c
+GI 1 0
+
+WVP 0 vfcca0025bmsa004
+Misato: "No, no, the baseball part is wrong."
+TP
+
+
+
+GL 1 TCMM0001c
+GI 1 0
+WVP 0 vfcca0025bmsa005
+Misato: "But that aside, are you seriously thinking about sex?"
+TP
+
+
+
+Taichi: "Well..."
+TP
+
+
+
+Taichi: "I was just thinking, after the need for food comes the need for sex, right?"
+TP
+
+GO 1 1
+
+WVP 0 vfcca0025bmsa006
+Misato: "Lalihooo!"
+TP
+
+
+
+Sempai screamed out the window.
+TP
+
+
+GL 1 TCMM0001c
+GI 1 0
+WVP 0 vfcca0025bmsa007
+Misato: "If you come any closer......I'll bite off my tongue and die."
+//Not doubting TL, but doesn't she mean, "swallow her tongue?" - pondrthis
+TP
+
+
+
+Taichi: "Are...are you that opposed to it!?"
+TP
+
+
+
+I might cry.
+TP
+
+
+
+So it does come down to looks after all.
+TP
+
+
+
+An unsightly white-haired boy won't be permitted the love given to normal humans.
+TP
+
+
+
+But would you have sex with me if I begged you, Sempai?
+TP
+
+
+
+I feel like I only need one more push.
+TP
+
+
+
+
+
+CSQ 0 1 1
+  -Approach her
+  -Play it safe
+
+
+
+
+
+
+
+RET

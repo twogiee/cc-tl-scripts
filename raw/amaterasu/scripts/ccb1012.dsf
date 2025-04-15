@@ -1,0 +1,686 @@
+
+GL 0 bgcc0005a
+GS 1 0
+GS 0 1
+SEF 152 0
+WT 500 1
+
+
+WVP 0 vfcca0023nnk000
+Nanaka: "Ya-hoo, Tai--chaaan!"
+//CP_T cca0023
+TP
+
+WVP 1 bgm005.ogg 0 0 0
+
+Taichi: "Huh?"
+TP
+GL 0 evcc0003a
+$CGevcc0003a = 1
+GS 0 1
+SEF 152 0
+
+It's the mysterious bicycle girl.
+TP
+
+Taichi: "It's the mysterious bicycle girl."
+TP
+
+I said what I was thinking.
+TP
+
+WVP 0 vfcca0023nnk001
+Nanaka: "Try not to verbalize your thoughts."
+TP
+
+She saw right through me.
+TP
+
+Taichi: "This girl's suspicious. Her origins are unknown. I've never seen that uniform."
+TP
+
+WVP 0 vfcca0023nnk002
+Nanaka: "......don't use reopened thoughts as pretexts for words."
+TP
+
+
+Taichi: "I wonder if Nanaka is her real name."
+TP
+
+WVP 0 vfcca0023nnk003
+Nanaka: "......you're annoying. Don't get gloomy over the small things."
+TP
+
+Taichi: "What school do you go to?"
+TP
+
+WVP 0 vfcca0023nnk004
+Nanaka: "Shii-ker-et."
+TP
+
+Taichi: "Ah, I see."
+TP
+
+I ignored her and walked on.
+TP
+
+WVP 0 vfcca0023nnk005
+Nanaka: "Oh, hard-boiled, are we?"
+TP
+
+Taichi: "We can talk while I'm walking."
+TP
+
+WVP 0 vfcca0023nnk006
+Nanaka: "Well yah."
+TP
+
+Taichi: "So, do you need something of me?"
+TP
+
+WVP 0 vfcca0023nnk007
+Nanaka: "But of course I need something of you."
+TP
+
+She stuck her finger out at me.
+TP
+
+WVP 0 vfcca0023nnk008
+Nanaka: "Get that antenna built already!"
+TP
+
+Taichi: "Haa?"
+TP
+
+Taichi: "By antenna...you mean the one Misato-sempai's constructing?"
+TP
+
+WVP 0 vfcca0023nnk009
+Nanaka: "Yes, that."
+TP
+
+WVP 0 vfcca0023nnk010
+Nanaka: "At this rate it won't quite make it in time."
+TP
+
+Taichi: "For what?"
+TP
+
+WVP 0 vfcca0023nnk011
+Nanaka: "The deadline."
+TP
+
+Taichi: "Which is?"
+TP
+
+WVP 0 vfcca0023nnk012
+Nanaka: "Get with the program!"
+TP
+
+Taichi: "Wh-what? What is it?"
+TP
+
+She suddenly got mad at me.
+TP
+
+WVP 0 vfcca0023nnk013
+Nanaka: "Isn't life precious because it only comes once?! If you always go with the flow and waste all your time, your very existence will end up adhering to fixed patterns!"
+TP
+
+
+WVP 0 vfcca0023nnk013b
+Nanaka: "That's the very nature of possibility! Doesn't Win**ws sometimes repeat the same errors even though you reset it after a crash!? And now---"
+TP
+
+She took a deep breath and closed her mouth.
+TP
+
+Taichi: "......are you neurotic?"
+TP
+
+WVP 0 vfcca0023nnk014
+Nanaka: "What a thing for you to say after capturing this cutie!"
+TP
+
+GL 2 sgcc0006
+$CGsgcc0006 = 1
+GP 2 0 0
+GI 2 0
+WVS 1 0
+WVP 2 se106 1 0
+SEF 101 0
+
+
+That stung.
+TP
+
+Taichi: "Uofuu!"
+TP
+WVP 1 bgm006 0 0
+
+She slapped my face.
+TP
+
+I spun at high speed, crookedly flying upward, and collided with the ground in a horizontal state.
+TP
+
+Taichi: "......oo......ofu......obu......"
+TP
+
+I had no idea this girl could manifest comic force.
+TP
+
+
+*comic force = A suprascientific theory of Taichian science combining scalar electromagnetism, the astrophysical theory of aether, flying machines and so on. It simultaneously accelerates and mitigates various physical phenomena.
+TP
+
+
+
+
+As a result, manga-like effects unthinkable in classical physics may manifest. Statistically, it occurs often in prideful and youthful personalities, and functions to maintain that characterization.
+TP
+
+
+WVP 0 vfcca0023nnk015
+Nanaka: "Ah......sorry......"
+TP
+
+Taichi: "Amazing force......you could conquer all the land......"
+TP
+
+WVP 0 vfcca0023nnk016
+Nanaka: "Don't say such sarcasm to a girl!"
+TP
+
+She helped me to my feet.
+TP
+
+
+WVP 1 bgm005.ogg 0 0 0
+
+GL 3 bgcc0005a
+GS 0 1
+GS 2 0
+GP 3 0 0
+GS 3 1
+SEF 109 0
+
+Taichi: "That, hurt a lot......"
+TP
+
+GL 1 TCCN0100b
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfcca0023nnk017
+Nanaka: "......I'm sorry."
+TP
+
+Taichi: "When I said you could conquer all the land, I didn't mean simply by physical strength, but by character."
+TP
+GL 1 TCCN0100b
+GI 1 0
+WVP 0 vfcca0023nnk018
+Nanaka: "?"
+TP
+
+Taichi: "Thanks to your scientific force, I can live on even after suffering that impact."
+TP
+
+GL 1 TCCN0101b
+GI 1 0
+WVP 0 vfcca0023nnk019
+Nanaka: "I don't really understand......"
+TP
+
+Taichi: "But I ought to have spun out a bit farther up into the atmosphere... Well, on the other hand, I do think running to the extremes just to avoid the norms is pitifully impoverished, so that'd be overkill...
+TP
+
+
+
+"The point being that eternally maintaining a superficial position on the path of kings will only set you up for a fall the moment you're controlled by self-sensationalism."
+TP
+
+GL 1 TCCN0102b
+GI 1 0
+WVP 0 vfcca0023nnk020
+Nanaka: "You intend to hold a conversation with me like that?"
+TP
+
+Taichi: "......I'm sorry."
+TP
+
+Even I don't understand what all that meant.
+TP
+
+
+GL 1 TCCN0101b
+GI 1 0
+WVP 0 vfcca0023nnk021
+Nanaka: "What a hopeless guy."
+TP
+
+She sighed, half fed-up with me.
+TP
+
+GL 1 TCCN0100b
+GI 1 0
+WVP 0 vfcca0023nnk022
+Nanaka: "Ah, there's blood on your cheeks."
+TP
+
+Taichi: "Eh? Maybe a little got pushed out by the comic force."
+TP
+
+GL 1 TCCN0102b
+GI 1 0
+WVP 0 vfcca0023nnk023
+Nanaka: "You're still calling it that?"
+TP
+
+Taichi: "So my own blood is fine."
+TP
+
+
+WVP 0 vfcca0023nnk024
+Nanaka: "......eh?"
+TP
+
+Taichi: "Not you, blood's a weakness of mine..."
+TP
+
+I can't explain the expression which recurred to Nanaka's face at that moment.
+TP
+
+She seemed to be crying, and also laughing.
+TP
+
+And yet it wasn't a simple tearful smile. Deep-rooted troubles were blended into it.
+TP
+
+WVP 0 vfcca0023nnk025
+Nanaka: "......Taichi."
+TP
+GO 1 1
+The voice flowing from her lips seemed to be becoming hoarse.
+TP
+
+Her face approached mine.
+TP
+
+Along with moistened eyes.
+TP
+
+The actions of a human's conscious mind are truly great.
+TP
+
+If I was a normal manga hero,
+TP
+
+(Eh......?)
+TP
+
+I'd be unable to predict any such occurrence, and at best be hesitating.
+TP
+
+But as a real human, the stew of my mind easily predicted that there was no other conclusion than, 『I'm being kissed!?』
+TP
+
+By the time Nanaka's face had closed to within five centimeters of mine, I'd already begun investigating ways to save face by saying, 『Indeed she made it look as such,』 after the kiss.
+TP
+
+......actually, even though this thought process is more realistic, even an amateur writer like myself knew that the reason it's rarely employed in the world's stories is that it's too real to have any story-like affinity.
+TP
+
+After all, stories are just pretending to be reality.
+TP
+
+I nodded to that in my mind.
+TP
+
+But, where's that kiss?
+
+*lick*
+
+Taichi: "......"
+TP
+
+A kiss without passion or flavor.
+TP
+
+Her act of sticking her tongue to my cheek and licking upward could be referred to as a kiss, but...
+TP
+
+GL 1 TCCN0100b
+GI 1 1
+WVP 0 vfcca0023nnk026
+Nanaka: "It should heal fine with a bit of saliva."
+TP
+
+Taichi: "Uwaaaaaa."
+TP
+
+I punched my temporal lobe, and punched, and punched!!
+TP
+
+Taichi: "The outcome of this familiar speculation turned to dust so fast! Damn you, damn you! This shame...!"
+TP
+
+GL 1 TCCN0102b
+GI 1 1
+WVP 0 vfcca0023nnk027
+Nanaka: "By yourself, to yourself... huh!!?"
+TP
+
+Taichi: "What is reality!? What is affinity!? What claim do I have to intelligence when it's been nationally verified that I'm subhuman!!?"
+TP
+
+GL 1 TCCN0101b
+GI 1 0
+WVP 0 vfcca0023nnk028
+Nanaka: "C...calm down......"
+TP
+
+Taichi: "I want to die."
+TP
+
+GL 1 TCCN0100b
+GI 1 0
+WVP 0 vfcca0023nnk029
+Nanaka: "Hey, hey now."
+TP
+
+Taichi: "I must be aware of the fact that what they call my only self is garbage."
+TP
+
+WVP 0 vfcca0023nnk030
+Nanaka: "......eh?"
+TP
+
+Taichi: "Toxic garbage."
+TP
+
+
+WVS 1 1
+
+Taichi: "There are many non-intellectuals at Gunjou."
+TP
+
+Taichi: "I've always been afraid of hurting people."
+TP
+
+Taichi: "After all, unintelligence is the inability to avoid danger."
+TP
+
+Taichi: "Like a cat jumping in front of a car."
+TP
+
+Taichi: "......I have to control myself, with meticulous care."
+TP
+
+Taichi: "But,"
+TP
+
+Taichi: "Every day is so much fun, I keep forgetting what I really am..."
+TP
+
+Taichi: "I'm---"
+TP
+
+Nanaka moved.
+TP
+
+This time she truly pierced the void, not even giving me time to predict it.
+TP
+WVP 1 bgm015.ogg 0 0 0
+
+
+
+
+GL 0 evcc0010a
+$CGevcc0010a = 1
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+SEF 109 0
+
+
+Taichi: "Eh......?"
+TP
+
+WVP 0 vfcca0023nnk031
+Nanaka: "If you can say it's fun, then isn't it okay?"
+TP
+
+The ambiguous softness of breasts.
+TP
+
+A girl's scent.
+TP
+
+Mysteriously, I felt no disorder.
+TP
+
+The sensation of being embraced was different from Youko-san's.
+TP
+
+WVP 0 vfcca0023nnk032
+Nanaka: "I'm happy to hear that. Very happy."
+TP
+
+Taichi: "............"
+TP
+
+WVP 0 vfcca0023nnk033
+Nanaka: "It's not like you have no right to live even if you don't become strong."
+TP
+
+WVP 0 vfcca0023nnk034
+Nanaka: "It's fine to be weak."
+TP
+
+Taichi: "Even if you say that......"
+TP
+
+She knows.
+TP
+
+She knows something?
+TP
+
+Taichi: "You are?"
+TP
+
+WVP 0 vfcca0023nnk035
+Nanaka: "Nanaka."
+TP
+
+Taichi: "Nanaka......"
+TP
+
+I don't know.
+TP
+
+Along no axis of my past was that name recorded.
+TP
+
+Then how does she know me?
+TP
+
+
+
+WVP 0 vfcca0023nnk036
+Nanaka: "Have you calmed down?"
+TP
+
+Taichi: "......yeah."
+TP
+
+GL 0 bgcc0005a
+GS 0 1
+SEF 109 0
+
+She let go of me.
+TP
+
+WVS 1 1
+
+
+Nanaka was grinning wide.
+TP
+
+Taichi: "......you..."
+TP
+
+Taichi: "Are you in love with me?"
+TP
+
+WVP 1 bgm005.ogg 0 0 0
+
+
+
+WVP 0 vfcca0023nnk037
+Nanaka: "Idiot."
+TP
+
+
+WVP 2 SE029 1 0
+*chop*...
+SEF 101 0
+TP
+
+She chopped my forehead.
+TP
+
+WVP 0 vfcca0023nnk038
+Nanaka: "That's not it at all."
+TP
+
+After denying that, she tilted her head and continued to the apex of her words.
+TP
+
+WVP 0 vfcca0023nnk039
+Nanaka: "......but, I guess so. Maybe I do love you."
+TP
+
+Taichi: "Really?"
+TP
+
+WVP 0 vfcca0023nnk040
+Nanaka: "Although it's not quite the kind of love you're thinking of."
+TP
+
+Taichi: "What does that mean?"
+TP
+
+WVP 0 vfcca0023nnk041
+Nanaka: "You...when you were young, I'm sure you were the type to play perverted pranks on your mother."
+TP
+
+Taichi: "I did no such thing."
+TP
+
+WVP 0 vfcca0023nnk042
+Nanaka: "I did too."
+TP
+
+WVP 0 vfcca0023nnk043
+Nanaka: "But, those kinds of things, might make a mother pretty happy, you know?"
+TP
+
+Taichi: "Perverted pranks would?"
+TP
+
+WVP 0 vfcca0023nnk044
+Nanaka: "Yes."
+TP
+
+Taichi: "But the shock of being petted by one's pre-pubescent son......no, I guess it might be moe."
+TP
+
+WVP 0 vfcca0023nnk045
+Nanaka: "Chemically decompose! You toxic garbage!"
+TP
+
+Taichi: "Uwaaan!"
+TP
+
+WVP 0 vfcca0023nnk046
+Nanaka: "Now, I guess I'll be going."
+TP
+
+Taichi: "Why not come to my place? We at least have lukewarm water."
+TP
+
+WVP 0 vfcca0023nnk047
+Nanaka: "Nihihi, I don't want perverted things done to me so I'm gonna leave."
+TP
+
+Taichi: "I'll do them, I will, if you come I will."
+TP
+
+WVP 0 vfcca0023nnk048
+Nanaka: "Dangerous, dangerous."
+TP
+
+She quickly mounted her bicycle.
+TP
+
+I moved to her back and tried to look at her underwear.
+TP
+
+Dark blue bloomers.
+TP
+
+Taichi: "Damn."
+TP
+
+......wait, bloomers?
+TP
+
+The bloomers which were exterminated quite some time ago as solid blue sexual harassment gym clothing because of the feminist movement!?
+TP
+
+Taichi: "Na...Nanaka-san......?"
+TP
+
+I was trembling.
+TP
+
+Just as the rumors say, that manner of sticking to the hips was a true rarity.
+TP
+
+WVP 0 vfcca0023nnk049
+Nanaka: "Get busy with building up that antenna."
+TP
+
+Taichi: "Ha? Antenna?"
+TP
+
+How sudden.
+TP
+
+WVP 0 vfcca0023nnk050
+Nanaka: "Because it's a possibility."
+TP
+
+WVS 1 1
+
+GS 0 1
+SEF 109 0
+
+WVP 2 se047 1 0
+The chain made a slightly comforting sound as it spun.
+TP
+
+The tires rubbed the asphalt, and the wheels began to roll.
+TP
+
+Taichi: "......wha...what?"
+TP
+WT 500 0
+WT 500 1
+
+
+RET

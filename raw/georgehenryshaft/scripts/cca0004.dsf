@@ -1,0 +1,1122 @@
+//Monday September 7, 1998 -GHS
+
+//TWS 7
+//HACK NVL mode no dim, just to remove the text window. -GHS
+
+TS 2
+WVP 2 SE004 0 0
+WT 2000 1
+TS 3
+
+//TWS 0
+//HACK ADV mode -GHS
+
+
+//太一「朝か……」
+Taichi: "Morning...?"
+//Previous scene is dream/flashback. -GHS
+TP
+GL 0 bgcc0003
+GS 0 1
+SEF 109 1
+
+
+
+//身を起こす。
+I got off the bed,
+TP
+
+
+
+//変哲のない自分の部屋だ。
+in my room of no unusuality.
+//Contrast room in the Hasekura Mansion. -GHS
+TP
+
+
+WVS 2 0
+WVP 2 SE019 1 0
+//うるさく鳴いている時計を止める。
+I stop the annoying wail of the alarm clock.
+//Say goodbye to it, for it will never ever be heard again. -GHS
+TP
+
+
+
+//太一「ふわ……」
+Taichi: "fWah..."
+TP
+
+
+
+//夏休みが開けて、９月の頭。
+It's the beginning of September, as opened by Summer vacation.
+//A hideously pretentious way of saying "the first week of September was vacation". Although September is the ninth month, http://www.etymonline.com/index.php?term=September etymoloy of the English/Western words for it make it a 7. Translingualism continues. -GHS
+TP
+
+
+
+//室内には夏の熱気がじわじわと満ちつつある。
+The Summer heat slowly leaks out from inside the room.
+//Because Summer is ending, or because of Heat Death of Parallel World - not necessarily because his window is open. -GHS
+TP
+
+
+
+//のたくた着替えて、のたくた鞄を手にする。
+Sluggishly I change into the uniform, sluggishly I take the bag in my hand.
+//No mention of the Taichi Bag. -GHS
+TP
+
+
+WVP 1 bgm002.ogg 0 0 0
+GL 0 bgcc0004
+GS 0 1
+SEF 152 0
+//食卓の上に、ラップをかけたサンドイッチが置いてある。
+On top of the dining table lies a sandwich in a plastic wrap,
+TP
+
+
+//卵と野菜とポテトのサンドだ。
+a sandwich with eggs, lettuce and potatoes.
+//Seems like a single one, no paper bags of them, nor lunch, nor a note. Very off-pattern. Of course: it hasn't gotten Fixed yet. Pretty impressive how this being obviously older writing still fits seamlessly into the plot without needing (much of a) fanwank. -GHS
+TP
+
+
+//ありがたくいただくことにする。
+I appropriate it with humble thanks.
+TP
+
+
+//太一「むぐ」
+Taichi: "Munch."
+//I'm not certain of the relative legislation, but it might be illegal in some countries to use a SFX for eating other than "nom". If this could cause issues let me know; it's not because I don't want people arrested for owning illegal SFX, just to come laugh at you for being arrested for living in places where possession of certain SFX is a crime. -GHS
+TP
+
+
+//さすが、うまい。
+Delicious, as typical.
+//These are intended to be Youko's. Or are they? -GHS
+TP
+
+
+//生活能力皆無な俺にとって、この差し入れはまさに福音。
+To this me so incapable of managing my own life, this supply drop is the good news.
+//THE good news, AKA the Gospel. Byble gameZ11! -GHS
+TP
+
+
+//通学途中でコンビニ襲撃しないですんだ。
+I needn't assault a Kombini on the way to school now.
+//TL Note: if you made it this far without knowing what a Kombini is, ask whoever installed the patch for you. He's probably the guy moving the mouse for you and reading this stuff and explaining to you every word veeery slooowly. -GHS
+TP
+
+
+//太一「いつもおいしいご飯、ごちそうさまです」
+Taichi: "For food always so delicious, my sincere thanks."
+//Not what I will use, but since it'd be redundant... -GHS
+TP
+
+
+//東側に手をついて頭を下げる。
+I bowed my head towards the East, hands hailing towards the ground.
+//Youko's house. I don't think he literally puts his hands on the ground tho. -GHS
+TP
+
+
+//さ、学校だ。
+So, school.
+TP
+
+
+//HACK a few lines added from the console version. They just add a bit of color. -GHS
+
+GL 1 bgcc0000a
+GP 1 0 0
+GI 1 1
+
+//空を見上げる。
+I look up at the sky.
+TP
+
+//今日も暑くなるのだろうか。
+Another hot day today, then.
+TP
+
+//だが不思議と空気は乾いていて、過ごしやすそうな気配だ。
+Yet the air is inexplicably dry, and there's signs it will be pleasantly nice.
+TP
+
+//海から流れてくれ湿気と熱気も、今日は穏やかなのだろうか。
+The moisture and the heat that flow in from the sea, as well, should be quite mild today.
+//However I look these three seem sort of contradictory. Possibly intentional; this route needs a little less actual overwriting and a little more self-parodying. -GHS
+TP
+
+GS 1 0
+//end added portion -GHS
+
+GL 0 bgcc0005
+GS 0 1
+SEF 153 0
+
+
+
+//今日も暑くなりそうだった。
+/Looks like it'll be warm today as well.
+///Eliminated as redundant. -GHS
+
+
+
+//上見坂市はその名の通り坂が多い。
+As the name implies, Kamisaka (Look at the Top of the Hill) has way many hills.
+//http://www.yado.co.jp/kankou/nagasaki/tushima/kamizakak/kamizakak.htm hmmmmmmmmm, I don't see it. The meaning is closer to "look up at the hill" or "seen from above the hill", but given the whole point of this is a pun between "Hill of God" and a hint that the hokora is important - the hill is the mountain, see CCA0002 - might as well make this more explicit. -GHS
+TP
+
+
+
+//学校にたどりつくまで、いくつも斜面を越えていく必要がある。
+It is necessary to cross a great number of slopes before one at long last reaches school.
+TP
+
+
+
+//学校に行くために、上り下り上り下り。
+Up and down and up and down, just to go to school.
+TP
+
+
+
+//それはまるで人生のような波乱を思わせ、往く者の心と足をげんなりとさせるのである。
+They remind of the storminess that is human life, filling with weariness the hearts and feet of those who travel on ahead.
+//Because life and going to school and SYMBOLISM!!! -GHS
+TP
+
+
+
+//太一「だる」
+Taichi: "So heavy..."
+TP
+
+
+
+//慣れていてもだるい。
+I'm used to this, but still I feel sluggish.
+TP
+
+
+
+//徒歩はまだいい。
+Walking is still fine,
+TP
+
+
+
+//自転車で坂を越えるのは、もっと大変。
+going around these hills with a bike would be much more of a problem.
+//This would indicate problems with Nanaka, but look at Sakuraba and, most importantly, Taichi effortlessly chasing Kiri in a bike when she goes for training. See CCZAS: him using a bike even there is symbol for -GHS
+TP
+
+
+
+//自転車はそもそも平地用。
+Bicycles are conceived for flat ground.
+TP
+
+
+
+//徒歩より厳しいのぼりと、一瞬で終わる至福のくだり。
+Climbs harder than a walk, descents that are a fleeting instant of bliss.
+//The bike or, because there's no point kidding ourselves, SYMBOLISM!!! of how the climbs are still harsh. -GHS
+TP
+
+
+
+//苦難の時だけが延々と続いているような気にさせる。
+That made me feel as if only the times of our hardships would continue on endlessly.
+//This sounds like it walked out of Isaiah. -GHS
+TP
+GL 0 bgcc0014
+//Check that always-on streetlight, odd. The map points out that the Elvis store, on the right, is mysterious and no one knows what it sells. I suspect that since there's plenty of theories on whether Elvis died at all and how, and there's plenty of similar theories that can be made on more than one character here, that it sells meta. -GHS
+GS 0 1
+SEF 152 0
+
+
+//坂のてっぺんで、商店街に繋がる交差点に合流する。
+The shopping street that leads from downtown connects into a crossing at the summit of the hill.
+//See map. Connect, crossing are returning terms because SYMBOLISM but also troll. 'Shopping street' will be used to indicate the Tasaki store area here, at the edge of downtown, but not actual downtown, so I indicate both anyway. -GHS
+TP
+
+
+
+//その先には団地があって、ＦＬＯＷＥＲＳの片割れ、山辺美希が住んでいる。
+Ahead in that direction is the apartment complex where Yamanobe Miki, one half of the Flowers, lives.
+//Wow, that's the correct way of writing it! Of course, it's actually a typo, it was fixed to FLOWER'S in the console version. And yes, I am so so so so tempted of doing the same, as I strongly suspect this is more hints of Taichi's ill manners and that readers are supposed to take most of this erudition with a grain or seven of salt. Also keep in mind that he'll later be uncertain as to where Miki lives, whoops. -GHS
+TP
+
+//GL 1 efcc0000
+GL 1 zzzblackblend
+//HACK fade the BG instead of an ugly white BG -GHS
+GL 2 TBYM0000
+GP 1 0 0
+GP 2 0 0
+GS 1 1
+GS 2 1
+GS 3 0
+SEF 10 0
+
+//美希は一年後輩。
+Miki is my Kouhai, a first year.
+TP
+
+
+
+//世界的に激有名なファンタジー作品に出てくる三人組の、魔法使いの少女みたいな髪型をしている。
+She has a hairstyle similar to that of those three female magicians in that fantasy series that's super famous worldwide.
+//Just about every hint point to the TV series Charmed. Of course he can't reference Harry Potter inside his universe, the movie is 2001 and the Japanese translation of the book is 1999. Until he will, of course. Witches return, and most importantly, Cross Channel is closer to fantasy with a sci-fi coat than anything. -GHS
+TP
+
+
+
+//ルックスもまあ、似たようなものだ。
+Looks, certainly, but the resemblance is more thorough.
+TP
+
+
+
+//魔法は使えないが、言葉の魔法使いと呼ばれる。
+She might not be able to use magic, but one could call her a sorceress of words.
+//This won't play *that* much, as with much of Week 1 it's a relatively early treatment and things aren't quite settled yet, but indeed taking Miki underhand is a biiig problem here. -GHS
+TP
+
+
+
+//しゃべり出すと止まらないし、しゃべろうとするのを止めることも難しい。
+It's impossible to stop her once she starts talking, and it's difficult to even stop her from wanting to talk.
+TP
+
+
+//>　　　　　　　　　　　　　ごい
+//小娘の分際で語彙も豊富なので、話していて飽きない。
+Her social class is rich in young femaleness, and her vocabulary is similarly rich, so one never grows tired of talking to her.
+//Sexual implication that she's fun to talk to because she's hot + contrast with her being poor in money (not yet stated). Also they can fight with words and so she's his waifu forever and also ever. Social standing will sort of return. Love how of all OMFG HARD KANJI's here, "vocabulary" is furry'd. The reason is that 彙 wasn't joyo until 2010, so there's nothing deep about it, but it's funny in retrospect. -GHS
+TP
+GL 3 TBSK0000
+GP 3 340 0
+GS 1 1
+GS 2 0
+GS 3 1
+SEF 10 0
+
+//美希はもう一人の一年生部員・佐倉霧とよくつるんでいる。
+Miki is often found mate-ing with one other first year member of the club, the one with the Japanese word for fog for a name, Sakura Kiri.
+//"Mate-ing" will recur, plus vague lesbian subtext. There's several fog puns 'round her route especially, so here's your warning. -GHS
+TP
+
+
+
+//ロングヘアの美希と、中性的な容姿でショートヘアの霧。
+Miki the long haired one, and Kiri the androgynous short-haired one:
+TP
+GL 2 TCYM0000x
+GL 3 TCSK0000x
+GP 2 296 0
+GP 3 144 0
+GS 1 1
+GS 2 1
+GS 3 1
+SEF 10 0
+
+//二人揃うと花畑のように場に映える。
+the two assembled beautify the place like a flower bed.
+TP
+
+
+//だからＦＬＯＷＥＲＳ（お花ちゃんたち）。
+Hence, "Flowers".
+//You'll notice the Japanese translation in parenthesis, because furrygana does not technically work the way I use it, but you can't expect furries to teach you about Japanese, can you. -GHS
+TP
+
+
+
+//部のマスコット的な存在だ。
+They are mascot-like presences in our club.
+TP
+
+
+//美希はとにかくミニスカートが大好きだ。いつもはいている。
+Miki, by the by, really loves miniskirts. She's always in one.
+//She's never OUT of one outside of sex scenes, though it's not like the dress code of Gunjou is that impressive (forget Touko, are Kiri and Misato going to the same school?) -GHS
+TP
+
+
+
+//しかも素直で可愛い。ノリもいい。
+And she's so upfront and adorable. We mash together well.
+//"We get along well" + "Riding her is fine too." -GHS
+TP
+
+
+
+
+//俺もミニスカート大好きなことを差し引いても、気が合わない理由がない。
+Even setting aside how I also really love miniskirts, there's no reason for us not to get along.
+//Given his backstory this has multiple meanings, that "even", in particular. -GHS
+TP
+
+
+
+//卒業するとき、制服をもらう約束も取りつけてある。
+When she graduates, I had her promise to give me her uniform.
+TP
+
+
+
+//かわりに第二ボタンをあげようという提案は、丁重に断られてしまったけど。
+However, the proposal to give her the second button of my uniform in return was courteously and thoroughly declined.
+//http://en.wikipedia.org/wiki/Japanese_school_uniform wow it's on Wikipedia, too. She's just teasing him anyway. -GHS
+TP
+GL 0 bgcc0014
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+SEF 10 0
+
+
+
+//太一「ちわーす」
+Taichi: "G'mooorn."
+TP
+
+
+
+//商店街のはしっこにある店に入る。
+I entered the shop at the very edge of the shopping street:
+TP
+
+
+
+
+//『田崎食料』
+> 
+ 
+                    『Tasaki Groceries』
+TP
+
+
+
+
+//太一「もしもーし」
+Taichi: "Anyone heeere?"
+TP
+
+
+
+
+//奥に声をかける。
+I call towards the back of the store.
+TP
+
+
+
+
+//反応はない。
+There's no response.
+TP
+
+
+
+
+//太一「……不在か」
+Taichi: "...unmanned?"
+TP
+
+
+
+//田崎食料はここしばらく、不在続きだ。
+Tasaki Groceries had been often left unmanned of late.
+//That's sooo convenient, isn't it. -GHS
+TP
+
+
+
+//ここの店主、田崎吾一郎氏（４７歳・独身）は無類の鉄道マニアだ。
+The shopkeeper here, a Tasaki Goichirou (age 47, single) is an unrivaled railway enthusiast.
+//technically it *is* Mr. Tasaki, but that sounds just so damn off with the honorifics. Reality's unrealistic and all that. He's single because he's a Priest of God... no, I seriously suspect he is, just like Taichi will end up eternally single given he's lost in his own world. -GHS
+TP
+
+
+
+//よくふらりと店をあけ、遠方の土地にローカル線の写真を撮りに行く。
+He must've casually opened the store, then trundled off to some faraway place to take pictures of their local train line.
+TP
+
+
+
+//で、その間も店をあけているのである。
+And, all the while, the shop still stays open.
+TP
+
+
+
+//つまり無人商店だ。
+In other words it's a clerk-less store.
+TP
+
+
+
+//もともと道楽なのだろう。
+This shop had likely been an amusement for him from the beginning.
+TP
+
+
+
+//３０代の頃は泣く子を殺すと言われるほどに悪顔だった氏だが、ご両親の死後しばらくを経て、険の取れた豊かな顔つきへと変わっていった。
+When he was in his thirties, he had the kind of nastiness in his face that is often used to scare crybabies to sleep ("kids who sleep grow up well, kids who cry die"), but sometime after the death of his parents, his face changed into one of abundance, its harshness lost.
+//I worked in the referenced proverb because Bible Game'ses are only about edutainment, sort of how you learned the totally correct furrygana's up there and how your about to learn how to correctly use 'your' in a sentence. There's another 豊, hope that's clear enough that this is a reference to a major subtext in CC. -GHS
+TP
+
+
+
+//遺産以外の何が、元暴走族の粗暴な鉄オタを善人に変えうるというのか。
+Something outside the inheritance has changed someone who's more of a member of a biker gang than a railway fanatic into a nice guy, perhaps.
+//See CCX0001. This guy's the Greek chorus: what happened to him is religious conversion. I suspect the hospital, too. -GHS
+TP
+
+
+
+//とにかく今は福顔の氏の店は、近隣の住人に対してはいくらで
+//>　　　　　　　　　　　　　　　けう
+//もツケてくれる希有な地元密着型店舗なのである。
+Anyway, right now the shop owned by this man with a smiling face is one of those very rare, local-contact type stores that allows an unlimited tab for those who live around it.
+//It's such a convenient coincidence that if the owner wasn't a man of God, and therefore all of this generated by God himself as Providence, and therefore its convenience being itself a major plot point, it'd be bad writing. -GHS
+TP
+
+
+
+//持ち歩いているメモ帳に、ペンを走らせる。
+I run the pen on the notebook I carry around.
+//Oddly, it seems the actual memos aren't provided by the shop. -GHS
+TP
+
+
+
+
+//『９／７、緑茶王、１３０円……黒須太一』
+                           9/7
+                      Green King Tea
+                           130￥
+                      Kurosu Taichi
+//HACK massive reformatting for slightly above average justice. This may be relevant, may be not: http://dic.nicovideo.jp/a/%E7%B7%91%E8%8C%B6%E7%8E%8B -GHS
+TP
+
+
+
+
+//備え付けのテープで、壁にぺたりと貼りつける。
+With the adhesive tape provided, I stick the note to the wall.
+//...but the tape is? -GHS
+TP
+
+
+
+//見ると、もう何枚ものメモが張ってある。
+Looking closer, there are several of these memos are up already.
+TP
+
+
+
+//太一「あ、美希のやつ、もう行っちゃったのか」
+Taichi: "Ah, that Miki, did she already go on ahead?"
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+//These date back to the approximate first day of training camp. If everyone's out of town until evening, no one needs to get anything from Tasaki on credit, however. -GHS
+//『９／３、野菜ジュース健々ＧＯＧＯ、１１０円……山辺美希』
+> 
+ 
+                      9/3
+        Vegetable Juice Health Pandemonium
+                      110￥
+                 Yamanobe Miki
+//Lit. healthy-healthy Gogo, but it's pronounced as 喧々囂々 kenkengogo tumult/clamor/pandemonium. -GHS
+TL
+//『９／３、マグナムライチ、１１０円……桜庭浩』『ピリッと辛いです』
+> 
+                      9/3
+                  Magnum Lychee
+                      110￥
+                Sakuraba Hiroshi
+                Pungently peppery
+//Original term googles, but no idea what the equivalent would be. Connotation of comment seems ambiguous. True Mr. Exposition leaving comments to the Greek Chorus is just one of the many tiny little details that make Cross Channel as good as it is. -GHS
+TL
+//『９／４、ペットボトル天然水、１４０円……宮澄見里』
+> 
+                      9/4
+             Bottle of Natural Water
+                      140￥
+                Miyasumi Misato
+//Odd. She should have stores of "drinks" at home, however. -GHS
+TP
+
+
+
+
+
+//『９／５、野菜ジュース健々ＧＯＧＯ、１１０円……山辺美希』
+> 
+ 
+                      9/5
+        Vegetable Juice Health Pandemonium
+                      110￥
+                 Yamanobe Miki
+//PCP above
+TL
+//『９／５、キングドドリア、１１０円……桜庭浩』『あんまりおいしくなかったです』
+> 
+                      9/5
+                  King Dodoria
+                      110￥
+                 Sakuraba Hiroshi
+               It was not that good
+//Best I can find is a reference to Dragonball: http://dragonball.wikia.com/wiki/Dodoria combined with this http://shizuokagourmet.com/2009/11/25/japanese-gratin-doria/ Tasaki Groceries has just about a bit of everything, so it's not unthinkable they'd have this stuff on stock. -GHS
+TL
+//『９／６、野菜ジュース健々ＧＯＧＯ、１１０円……山辺美希』
+> 
+                      9/6
+        Vegetable Juice Health Pandemonium
+                      110￥
+                 Yamanobe Miki
+//PCP above
+TP
+
+
+
+//『９／６、胡椒警部、１１０円……佐倉霧』
+> 
+ 
+ 
+> 
+ 
+                      9/6
+                Inspector Pepper
+                      110￥
+                  Sakura Kiri
+//vs. Dr. Pepper. See CCC4009 for why this the only thing Kiri bought is this and on the day when they returned from the camp, despite multiple Miki notes in the past days. -GHS
+TL
+//『９／７、野菜ジュース健々ＧＯＧＯ、１１０円……山辺美希』
+> 
+                      9/7
+        Vegetable Juice Health Pandemonium
+                      110￥
+                 Yamanobe Miki
+//PCP above
+//This is this morning's. Total so far 1040 yen, nothing special. -GHS
+TP
+
+//Hmmm, two oddities besides Miki obviously stealing. First, these have been up for days. No biggie, that's just until they pay. There's also nothing of Taichi's up: still no biggie, he either paid earlier, or simply doesn't read his own. As this goes on, however, whether this is really no big deal is no longer that obvious. See CCZAS: what if all these are written by him? -GHS
+
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+//美希、ツケすぎ。
+Miki, tab's running up.
+TP
+//精算する時、大変だぞ、これ。
+When it's time for the bill, there'll be hell to pay here.
+//Total 440 yen 4+4+0=8. Indeed, once the bill comes that'll be a problem since things simply don't add up to 8. And, of course, this pointing out - like the clock thing in her route - is there to hint that she's lying about something, in this case what she buys. -GHS
+TP
+
+
+
+//桜庭、感想いらない。
+Sakuraba, stow your thoughts.
+//But who's gonna do furry/furigana jokes then??? -GHS
+TP
+
+
+
+//太一「ん？」
+Taichi: "Hm?"
+TP
+
+
+
+//そのアホの桜庭の裏にもう一枚張ってある。
+Behind Sakuraba's idiocies, there's one more sheet.
+//THE TRUTH WAS BEHIND SAKURABA ALL ALONG, AND TOUKO KNOWS IT. Or something. -GHS
+TP
+
+
+
+//隠してある？
+Was it hidden?
+TP
+
+
+
+//興味を引かれてはがしてみた。
+My interest piqued, I took it off.
+//It's never quite clear how these sheets are arranged. -GHS
+TP
+
+
+
+
+//『９／６、ペットボトル天然水×３、４２０円……桐原』
+                            9/6
+                 Bottle of Natural Water x3
+                            420￥
+                          Kirihara
+//Total with this 1460 yen, still seeing nothing. Supping the point was the 8 at Miki. -GHS
+TP
+
+
+
+
+//おやまあ。
+Ohhh my.
+TP
+
+
+
+//お嬢様、欲張って三本も！
+Young lady covets three of those cylinders!
+//This is one of the few so hard to see it missed censoring (though without the next line it's less obvious). -GHS
+TP
+
+
+
+//お金持ちなのに恥ーずかしい、あーさましいー。
+You're so rich, but this is embaraaassing, and shaaamefuuul!
+//Although in retrospect, this is actually a DOUBLE SYMBOLISM!!! as in, her wanting to subsist on water alone is sort of like wanting to subsist on Taichi's dick (certainly not his love) alone. -GHS
+TP
+
+
+
+//一番目立つところに張り直してやる。
+I'll put it back in the most prominent spot.
+TP
+
+
+
+//ぺたりこ
+Stick!
+TP
+
+
+
+//太一「これでよし、と」
+Taichi: "And with this, we're good."
+TP
+
+
+
+//店の奥に行って、緑茶のボトルを一本取ってくる。
+I went into the back of the store and grabbed one bottle of tea.
+TP
+
+
+
+//太一「じゃ、ツケということで」
+Taichi: "Well then, let's say that's on credit."
+//Subtle hint that there'll be no one to actually call on it? Of course there's technically no problem. Tasaki's technically loaded so he wouldn't care too much, whether one interprets the concepts of forgiveness of debts in this literal sense or not. Or whether the debt these people are in with Tasaki is literal or not. -GHS
+TP
+
+
+
+//店を出た。
+I left the store.
+TP
+
+
+
+//緑茶を喉に流し込みながら、学校に向かった。
+Pouring tea down my throat, I headed towards school.
+//Him going to the shop anyway contradicts the beginning except for this detail: the difference between Youko and Mutsumi seems to be that the latter doesn't forget drinks, see CCA0013. Then again, drinks never come up again as the pattern becomes fixed enough that he just carries a canteen around. -GHS
+TP
+WVS 1 1
+
+//Wait a second I just realized 110 yen is way less than 200! Miki ripped me off!!! -GHS
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 1
+
+
+
+//太一「おやま」
+Taichi: "Oh my."
+//PCP above
+TP
+WVP 1 bgm013.ogg 0 0 0
+
+
+
+//教室には先客がいた。
+There was a previous visitor in the classroom.
+TP
+
+
+
+//窓際の席。
+In a seat in the row next to the window,
+//Where protagonists usually sit. Not Taichi. This irrelevant detail is, of course, of tremendous significance. -GHS
+TP
+
+//立て肘をついて座っている少女が、ちらと一瞥をよこす。
+there sat a girl, with her elbow on the table, sends a single peeking glance my way.
+//Some of these older descriptions don't quite match the CGs. -GHS
+TP
+
+GL 1 evcc0011
+$CGevcc0011 = 1
+GP 1 0 0
+GS 1 1
+SEF 109 0
+
+
+WVP 0 vfcca0004fyu000
+//冬子「……」
+Touko: "..."
+TP
+
+
+
+//言葉はなく、視線を外に戻した。
+Without a word, she returns her line of sight to the outside.
+TP
+
+
+
+//太一「お早いご通学で」
+Taichi: "You're quick on your school commute."
+//Her house is technically closer than Taichi's. Joking formality that could easily be read as scornful. The possibility she spends day and night at school is far from remote, given how it's possibly around 1AM. -GHS
+TP
+
+
+
+WVP 0 vfcca0004fyu001
+//冬子「……」
+Touko: "..."
+TP
+
+
+
+//太一「しかもまた私服通学か」
+Taichi: "And yet you came to school in normal clothes again?"
+TP
+
+//太一「よくそんな暑そうな格好ができるな」
+Taichi: "You really manage to wear that hot-looking thing often, can't you."
+//Since she's always in that dress, and how she has multiple of them at home will become a joke later on, emphasis on 'often'. I actually wonder if that "hot" is meant English style as well. Taichi may not know English, but that doesn't stop him from affecting himself American or at least non-Japanese, especially 'round this first route. -GHS
+TP
+
+
+
+WVP 0 vfcca0004fyu002
+//冬子「……」
+Touko: "..."
+TP
+
+
+
+//無視。
+Ignored.
+TP
+
+
+
+//太一「へいへい」
+Taichi: "Hey hey."
+TP
+
+
+//肩をすくめて、冬子のすぐ隣……自分の席に座る。
+Shrugging my shoulder, I sit in the seat next Touko's... mine.
+//Possibly actually his, possibly irrelevant because there's no classes/this is Youko's Special Classroom/Class X. -GHS
+TP
+
+
+
+//まるでハリネズミだ。
+Just like a hedgehog.
+//The only direct reference to the fairly trite Hedgehog Dilemma throughout the story, mercifully. The needles could actually be HIS, however. -GHS
+TP
+//最近は、針に磨きがかかっている。
+And lately, taken to polishing those needles.
+TP
+
+
+
+//誰に対してもそうだから、気に病むこともない。
+It's the same with everyone, so it's nothing to be worried about.
+TP
+
+
+
+//けど俺に対しての針は……少し毒を含んでいる気がする。
+But the needles set against me... feel like they have a bit of poison in them.
+//This could still be him: the fight with himself is spiritual, after all. See CCZAS: delayed poison attack as what uhmmm let's say SYMBOLISM and move on. -GHS
+TP
+
+
+
+//気のせいかもしれない。
+Maybe it's just my imagination, I don't know,
+TP
+
+
+
+//自意識過剰なだけかも。
+it might just be my excessive self-consciousness, perhaps,
+//Body Dismorphic Disorder awareness? -GHS
+TP
+WVS 1 0
+
+
+
+//けど。
+but,
+TP
+
+
+WVP 2 se101 1 0
+//けれども。
+and also however,
+TP
+
+GL 2 efcc0011z
+GP 2 0 0
+GI 2 0
+GS 2 0
+SEF 109 0
+
+//そう考えただけで。
+just by thinking that,
+TP
+
+
+
+//発作は起こった。
+I had a seizure.
+//See CCA0016/17A. This will not actually return often: Taichi's odd behavior is only really highlighted around this route. -GHS
+TP
+WVS 2 0
+
+
+
+//太一「いかんね。いかんいかん」
+Taichi: "Cut it out now! Cut it out cut it out!"
+TP
+
+
+
+//幸い発作は小さなもので、理性が消し飛ぶ危険はなかった。
+Fortunately the fit was small, so there was no danger of it scattering my rationality.
+TP
+
+
+
+//逆流した胃液を呑み込む悪寒と引き替えに、そいつの頭を奈落に押し込める。
+In exchange for the chills of swallowing acid reflux, its head is imprisoned back in the hellish abyss.
+//Vomit is exactly what Yusa does. Similarly Touko. This is strong evidence that it's Taichi who rejected her, not viceversa. -GHS
+TP
+
+
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　　　な
+//異形の舌先が、ちろりと地表を薙いだ。
+The tip of its heteromorphic tongue is scythed down in a flash, and lays calm on the surface of the earth.
+//Oddly, that 'scythe down' seems to also mean that, which is the only thing that seems to make sense. Used both as this returns in a highly metaphorical scene in CCD4002. "Chirori" is an illegal and evil SFX as there'll be lots in this accursed moege and they're the #1 reason why Cross Channel is so damn hard to translate. -GHS
+TP
+
+
+WVP 1 bgm013.ogg 0 0 0
+
+//太一「なあ」
+Taichi: "Hey."
+TP
+
+
+WVP 0 vfcca0004fyu003
+//冬子「……何」
+Touko: "...what."
+TP
+
+
+
+//いい加減うんざりといった調子で、冬子。
+A tone that sounds just about fed up with fooling around, Touko's.
+TP
+
+
+
+//太一「お尻のとこ、破れてパンツ見えてる」
+Taichi: "Around your ass there's a tear, and I can see your panties."
+TP
+
+
+WVP 2 se006 1 0
+
+GL 0 bgcc0006
+GL 1 TCKT0004
+GP 1 230 0
+GS 0 1
+GS 1 1
+SEF 109 0
+
+WVP 0 vfcca0004fyu004
+//冬子「…………！！　…………！！」
+Touko: "......!!! ......!!!"
+//She takes THIS seriously of him? -GHS
+TP
+
+
+
+//慌てて立ち上がり、両手で尻をまさぐる。
+Standing up in a panic, she gropes her behind with both hands.
+TP
+
+
+
+//太一「なんつったりして」
+Taichi: "Awww what a dumb thing I said."
+//Giko neko/2chan meme. Seems to date to 1999, however, and can't date the meme to 2003 or earlier either. The meme seems to have overtaken all other references. No 'official' English translation that I found, but a literal works anyway. -GHS
+TP
+
+GL 1 TCKT0011
+GI 1 0
+
+WVP 2 se005 1 0
+//ばちーん！！
+Ker-smack!!!
+//It's not ANIMU without ker-something. -GHS
+//SEF 101 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+TP
+
+
+//太一「ぐふっ」
+Taichi: "G'fuh!"
+TP
+
+
+
+//不意の平手うち。
+Sudden palm strike.
+TP
+
+
+GS 1 0
+SEF 109 0
+
+//スリップダウン。
+Bail into slipdown.
+//Lit. sliding as one bails off a racing motorbike. That one doesn't seem to have a single English term tho. -GHS
+TP
+WVP 2 se038 1 0
+SEF 101 0
+
+
+//見事に転ぶ。
+A magnificent fall.
+TP
+
+
+
+//太一「いててて」
+Taichi: "OwChChCh!"
+TP
+GL 0 evcc0011
+$CGevcc0011 = 1
+GS 1 0
+GS 0 1
+SEF 109 0
+
+
+//冬子はもう、先刻と変わらぬ姿勢で座っていた。
+Touko was already sitting in the exact unchanging posture as moments before.
+TP
+
+
+
+//太一「冗談だってのに」
+Taichi: "But I was just kidding!"
+TP
+
+
+WVP 0 vfcca0004fyu005
+//冬子「……」
+Touko: "..."
+TP
+
+
+
+//相手をしてくれるつもりはないらしい。
+It doesn't look like she's looking to play around with someone.
+TP
+//澄ましていて排他的で。
+Clannishly demure.
+TP
+
+
+
+//でも意外と、心の隙は多い。
+But hearts, surprisingly, have many openings.
+TP
+
+
+
+//鞄を机に放って、冬子以外誰もいない教室を眺め渡す。
+I dump my bag on the desk and pass a lost gaze on the classroom, empty with the exception of Touko.
+//So he had it in his hands when he was punched down? Hints that he never was, perhaps. The Taichi Bag's never described as a backpack, for that matter. -GHS
+TP
+
+
+
+//まだ始業まで間がある。
+There's still time before we begin.
+//Ambiguous as to what. -GHS
+TP
+
+
+
+//どうしよう。
+What to do.
+TP
+
+
+
+
+
+
+CSQ 0 1 1
+//　・屋上に行く
+//　・冬子と話す
+ - Go to the Roof
+ - Talk to Touko
+
+
+
+RET

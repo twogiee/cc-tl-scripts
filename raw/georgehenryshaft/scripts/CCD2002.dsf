@@ -1,0 +1,9588 @@
+
+
+
+
+
+
+
+
+WVP 3 SE001 0 0
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 evcc0011s
+$CGevcc0011s = 1
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+//GL 0 evcc0011s
+//$CGevcc0011s = 1
+//GS 0 1
+//SEF 10 2
+
+//はじめて冬子が群青にやってきたとき。
+At the time Touko had first come to Gunjou,
+TP
+
+
+//コイツは、高い壁を周囲に張り巡らせていた。
+the gal had laid out a high wall between her and her surroundings.
+TP
+
+
+//部下のごとく、従えていたのだ。
+It accompanied her as if her subordinate.
+TP
+
+
+//一目で気に入ってしまった。
+One glance and I was attracted.
+TP
+
+
+//俺の猫的性分というやつだ。
+It was that catlike disposition of mine.
+//No, it was him being attracted to aloof girls. -GHS
+TP
+
+
+//太一「おい」
+Taichi: "Hey."
+//Although technically the Sendback routes can be done in most any order, this follows closely Misato's behavior to Taichi. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu180
+//It's probably the same non-split as seen throughout the fourth week, where all voices were assigned the number of the first script. The numbers themselves imply these flashbacks were recorded after the rest of the route. -GHS
+//冬子「……なによ？」
+Touko: "...what now?"
+//First time she's called out and she immediately responds. Contrast her behavior of ignoring that'll come later. Forget 25 points, she's not even 7. -GHS
+TP
+
+
+//太一「おまえ、金持ちなのか？」
+Taichi: "You're rich right?"
+TP
+
+
+//冬子「…………」
+Touko: "......"
+TP
+
+
+//無視された。
+I was ignored.
+//No he wasn't... -GHS
+TP
+
+
+//太一「おい」
+Taichi: "Hey."
+//CP above
+TP
+
+
+WVP 0 vfCCD2001fyu182
+//冬子「……なに」
+Touko: "...what."
+TP
+
+
+//太一「おまえ、美人だよな」
+Taichi: "You're a pretty girl aren't you."
+TP
+
+
+//冬子「……………………」
+Touko: "............"
+TP
+
+
+//かすかに頬が引きつった。
+A vague indistinct twitch of her cheeks.
+TP
+
+
+//それで、だいたい感触がわかった。
+And with that, I got the general feel of her behavior.
+TP
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+//HACK flashback exit whiteout -GHS
+WVS 3 1
+GL 0 evcc0011
+$CGevcc0011 = 1
+GS 0 1
+SEF 109 0
+//HACK different transition back -GHS
+//そして今も、冬子は『いつも』のままそこにいる。
+And now as well Touko is there, being as her Always,
+TP
+
+
+//毎週、毎週だ。
+as every week, just as every week.
+TP
+
+
+//数限りない冬子に接してきた。
+I have come into contact with an uncountable number of Toukos.
+//I don't really wanna pluralize names, but--- wait, 'but' is just one letter off from 'butt' HOLY SH-GHS
+TP
+
+
+//幸せとはほど遠い結末だけを見てきた。
+I have only seen endings so horribly far from happy.
+TP
+
+
+//俺と冬子は繰り返されてきた。
+I and Touko, repeated over and over,
+//Their relationship, not just them separately. It's why it ends like it does. -GHS
+TP
+
+
+//失敗ばかりだ。笑ってしまう。
+and it's always failure. What a laugh.
+TP
+
+
+//……言葉はいらないのかもしれない。
+...words might just be unneeded, maybe.
+TP
+
+
+//ただ見ているだけで、いいのかも。
+Merely looking, nothing more, would perhaps be best.
+TP
+
+
+//それが絆というものなのかも。
+That might be what is called a bond, perhaps.
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+//冬子「……」
+Touko: "..."
+TP
+
+
+//太一「…………」
+Taichi: "......"
+TP
+
+
+//冬子「…………」
+Touko: "......"
+TP
+
+
+//太一「………………」
+Taichi: "........."
+TP
+
+
+//冬子「………………」
+Touko: "........."
+TP
+
+
+//太一「………………………………………………………………」
+Taichi: "...................................."
+TP
+
+GL 1 TCKT0003
+GP 1 230 0
+GL 0 bgcc0006
+GS 0 1
+GS 1 1
+SEF 109 0
+
+WVP 0 vfccb0004cfyu005
+//冬子「……なんなのよもうっ！」/*
+Touko: "...what do you even want!"
+//CP CCB0004
+TP
+
+
+//いきり立った。
+The rage shoots upwards.
+//CP CCB0004
+TP
+
+
+//太一「おまえはきれいだな」
+Taichi: "You're so pretty, ain'tcha."
+//PCP above -GHS
+TP
+
+
+GL 1 TCKT0004
+GI 1 0
+WVP 0 vfCCD2001fyu004
+//冬子「な―――ななななッ！？」
+Touko: "Wh--- wh-wh-wh-wh!?!
+//5 'na' + 3 dashes = 8. Except it's still 7-7, and if -=na, then 4x7. -GHS
+TP
+
+
+//太一「はははは」
+Taichi: "Hahahahah."
+//8x4 due to Katakana. -GHS
+TP
+
+
+
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//……追い出された。
+I was chased out.
+TP
+
+
+//太一「ダメか」
+Taichi: "Not happening, then."
+TP
+
+
+//とても難しい。
+This is very difficult.
+TP
+
+
+//太一「いつもと変わりないオチ……か」
+Taichi: "It's that unchanging punchline of always... then."
+TP
+
+
+//まあいい。
+Ah, whatever.
+TP
+
+
+//のんびり行こう、と思った。
+Let's go leisurely, I thought.
+//I suspect this part here was originally the losing path for this route. -GHS
+TP
+
+
+
+WVS 1 1
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+
+WT 1000 0
+WT 2000 1
+
+
+
+
+GL 0 evcc0011
+$CGevcc0011 = 1
+GS 0 1
+SEF 109 0
+
+
+
+WVP 1 bgm020.ogg 0 0 0
+
+
+//冬子は相変わらず教室でぼんやりしていた。
+//Like totally ever, Touko was radically vegetating in the classroom.
+Touko was in the classroom all absentminded, as she always is.
+TP
+
+
+//目的もなく、ただそこにいる。
+//She was NOT being very tubular, man.
+Without a purpose either, merely being there.
+TP
+
+
+//他に何もできないからだ。
+Because there was nothing else she could do.
+TP
+
+
+//慣性だけの冬子。
+Touko was inertia and nothing more.
+TP
+
+
+//太一「冬子」
+Taichi: "Touko."
+TP
+
+
+WVP 0 vfCCD2001fyu005
+//冬子「……え……？」
+Touko: "...eh...?"
+TP
+
+
+//冬子と呼ばれたことへの戸惑い。
+Touko's perplexed at having been called by name.
+//Probably because he didn't use onirifics (they're like -sleep, -dream, -allnighter and stuff). -GHS-allnighter
+TP
+
+
+//太一「両手を出して」
+Taichi: "Put out your hands."
+TP
+
+
+WVP 0 vfCCD2001fyu006
+//冬子「……やだ」
+Touko: "...no way."
+TP
+
+
+//よし。食いついてきた。
+Good. She had bite.
+TP
+
+
+//太一「おまえが何を警戒しているのか想像はつく」
+Taichi: "I can imagine what you'd be vigilant about."
+TP
+
+
+//太一「だけど今回は違う」
+Taichi: "However, this time you're wrong."
+TP
+
+
+WVP 0 vfCCD2001fyu007
+//冬子「前もそんなこと言ってたじゃない！」
+Touko: "Didn't you also say that before!"
+TP
+
+
+WVP 0 vfCCD2001fyu008
+//冬子「だまされるもんですかっ」
+Touko: "And didn't I just get deceived!"
+TP
+
+
+//太一「……困ったな」
+Taichi: "...what a problem, right."
+TP
+
+
+WVP 0 vfCCD2001fyu009
+//冬子「握らせるつもりに決まってる……」
+Touko: "It's obvious you want to put it in my hands..."
+//See below. And her problem with it was...? -GHS
+TP
+
+
+//太一「ご挨拶だな。そういうんじゃないよ」
+Taichi: "What a pleasant thing for you to say! It's not like that."
+//The only other time "goaisatsu" was used was in CCA0022, by Yusa's mom. This fits, as the "experiment" thing is the same as with Yusa. And about as truly an experiment. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu010
+//冬子「いーやーだー」
+Touko: "I! WILL! NOT!"
+TP
+
+
+//むう、手強い。
+Mngh, tough-handed.
+TP
+
+
+//力ずくだ。手込めだ。
+Brute force then. Manual violation.
+//手込め tegome is, naturally, a word for rape. But reads literally "fill the hand". If you're asking how that leads to rape, you still don't understand Rule #1 of Japanese: don't ask, just run in the opposite direction as far as you can. -GHS
+TP
+
+
+//太一「手」
+Taichi: "Hand."
+TP
+
+
+//強引に手を取る。
+I grab her hand forcibly.
+//CP CCB2001
+TP
+
+
+//握らせたいという衝動が湧き起こるが、ぐっと我慢する。
+The urge to just slip it in her hands does swell up, but I stiffly endure.
+//fnarr, fnarr. -GHS
+TP
+
+
+WVP 0 vfccb2001fyu017
+//冬子「ちょっと……」/*
+Touko: "Really..."
+//CP CCB2001
+TP
+
+
+//その顔がさっと青ざめる。
+That face suddenly went pale.
+TP
+
+
+//手レイプされるとでも思ったのだろう。
+She likely still thought she'd be hand-raped.
+//This does NOT GIS to anything weird! You disappoint me, Japan. -GHS
+TP
+
+
+//したいけど、今はしない。
+I wanna do it, but now I don't do it.
+TP
+
+
+//太一「ママの味をくらえ」
+Taichi: "It's like your mommy used to make."
+//CP CCB2001
+TP
+
+
+
+//ぽたぽたぽた
+Pik pik pik.
+//CP CCB2001
+TP
+
+
+
+//てのひらに転がる、あめ玉みっつ。
+In her palm rolled candies three.
+//CP CCB2001
+TP
+
+
+WVP 0 vfccb2001fyu018
+//冬子「あ」/*
+Touko: "Ah."
+//CP CCB2001
+TP
+
+
+//太一「安心するがいい。二億匹の小さなワンダフルライフは入ってないから」
+//太一「安心するがいい。俺の二億匹の小さいなワンダフルライフたちは入ってないから」
+Taichi: "You can be at ease. My two hundred million little wonderful lives aren't inside."
+//CP CCB2001
+//This was missing the pronoun. It doesn't look as good without. -GHS
+TP
+
+
+//太一「休暇中でね（米笑）」
+Taichi: "They're on furlough! (ULOL)"
+//CP CCB2001
+TP
+
+
+WVP 0 vfccb2001fyu019
+//冬子「……当たり前でしょ」/*
+Touko: "...so typical."
+//CP CCB2001
+TP
+
+
+//ぎゅっと。
+Squeezing,
+//CP CCB2001
+TP
+
+
+//冬子はあめ玉を握った。
+Touko clasped the candies.
+//CP CCB2001
+TP
+
+
+//太一「糖分を等分に摂取すれば当分は生きられるはずだ」
+Taichi: "If your sugar level levels level should your life expectancy too."
+//CP CCB2001
+TP
+
+
+//ダジャレも三重なら許されるはずだ。
+And that triple-use joke should also be forgiven.
+//CP CCB2001
+TP
+
+
+//太一「食欲がなくとも、ものを口に入れる習慣は維持するように」
+Taichi: "Even if hunger is missing, it is important to make a habit of putting things in the mouth."
+//CP CCB2001
+TP
+
+
+//冬子はじっと拳を見つめていた。
+Touko gazed, fixedly, at her fist.
+//CP CCB2001
+TP
+
+
+WVP 0 vfccb2001fyu020
+//冬子「……あなたは、いつもそう」/*
+Touko: "...you're always like this."
+//CP CCB2001
+TP
+
+
+WVP 0 vfccb2001fyu021
+//冬子「優しいフリをしたり、バカにしたり、冷たくしたり、恐くなったり」/*
+Touko: "Pretending to be nice, acting the fool, becoming cold and distant, getting scary."
+//CP CCB2001
+TP
+
+
+WVP 0 vfccb2001fyu022
+//冬子「わかんないよ」/*
+Touko: "I don't get it!"
+//CP CCB2001
+TP
+
+
+//顔を覆う。
+She covers her face.
+//CP CCB2001
+TP
+
+
+WVP 0 vfccb2001fyu023
+//冬子「……ほっといて、お願いだから」/*
+Touko: "...leave me alone. I'm begging you."
+//CP CCB2001
+TP
+
+
+//太一「へーい」
+Taichi: "Yee-es."
+//CP CCB2001
+TP
+
+
+//怒られた。
+She was angered.
+//CP CCB2001
+TP
+
+
+//目的は達成したので、よしとしよう。
+The objective achieved, I leave it as that.
+TP
+
+
+WVS 1 1
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 1
+
+WT 1000 0
+WT 2000 1
+
+
+
+GL 0 bgcc0003e
+GS 0 1
+GS 1 0
+
+SEF 152 0
+
+
+WVP 1 bgm013.ogg 0 0 0
+
+
+//太一「優しいフリ……か」
+Taichi: "Pretending to be nice... then."
+TP
+
+
+//適当な言い分だけど、的を射ていたな。
+She didn't mean it all the way seriously, but it hit the mark.
+TP
+
+
+//去年も、冬子はああしていた。
+It was like that with Touko last year, as well.
+TP
+
+
+//そして俺は、やっぱりいつもと同じように―――
+And then I, of course, like I always do---
+TP
+
+WVP 3 SE001 0 0
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 evcc0011s
+$CGevcc0011s = 1
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+//GL 0 evcc0011s
+//$CGevcc0011s = 1
+//GS 0 1
+//SEF 10 2
+//黒須太一の冬子いじりは続いていた。
+The Touko Meddling of Kurosu Taichi continued.
+TP
+
+
+//俺以外、誰も彼女に話しかけようとはしなかった。
+Besides me, no one even wanted to approach or talk to her.
+TP
+
+
+//悪意でそうだったのではない。
+It wasn't because of malice,
+TP
+
+
+//群青には会話の成立しない者もいたし、冬子自身も拒絶していたから。
+it was because at Gunjou there also were those who could not construct conversation, and because Touko herself refused it.
+//IOW, if humanity is gone, Touko would never see it. -GHS
+TP
+
+
+//皆、悪意には敏感だったから―――
+Everybody's just so sensitive to malice---
+//I suspect it means people just attribute things to malice too quickly, which makes sense since it's what Taichi is about to do with his own behavior. -GHS
+TP
+
+
+//そして俺は、悪意を食って生きるようなもので。
+And then I, something so similar to an entity living by using malice as food,
+//Well, that he's deluded of being so. He just saw someone aloof and distant and fell for her, and approached her in the hope of replicating what Misato did to him. This route is so much troll it's unbelievable. -GHS
+TP
+
+
+//太一「桐原、昼飯は？」
+Taichi: "Kirihara, how about lunch?"
+TP
+
+
+WVP 0 vfCCD2001fyu184
+//冬子「……いらないの」
+Touko: "...don't want it, no."
+TP
+
+
+WVP 2 SE077 1 0
+
+//くぅ
+Poing!
+//Not CP because of various reasons and science I suppose. -GHS
+TP
+
+
+
+//太一「でも……腹鳴ってる」
+Taichi: "But... your stomach's rumbling."
+TP
+
+
+WVP 0 vfCCD2001fyu185
+//冬子「……うるさいわねっ！」
+Touko: "...you shut up, you!"
+TP
+
+
+//太一「怒ると可愛いね。桐原は顔が怒気に満ちている方が似合ってるよ」
+Taichi: "You're so cute when angry. Having a face full of anger suits you, Kirihara."
+TP
+
+
+//『笑うと可愛いね。桐原は笑顔の方が似合ってるよ』的なノリで告げた。
+So I proclaimed in a "You're so cute when smiling. Having a smile suits you, Kirihara"-ish way.
+//However, he didn't say it in a youresocutewhenangryhavingafacefullofangersuitsyoukiriharaish way. Wait, he actually did? Uhhhh next sentence. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu186
+//冬子「だまれ」
+Touko: "Be silent."
+TP
+
+
+//発展するはずもなく。
+I didn't even have the expectation this would progress further.
+TP
+
+
+//太一「弁当じゃないんだ。金持ちなのに」
+Taichi: "You don't got a bento. But you're rich!"
+//TL Note: bentoは意味不明 -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu187
+//冬子「……いらないんだってば」
+Touko: "...I said I don't want it."
+//Likely true, also she can't cook. But isn't it strange? Shouldn't she have people at home ready to make it for her? After all, she'd get one maid by the made or something (engrish is hard). -GHS
+TP
+
+
+//太一「ふーん」
+Taichi: "Uh-huh."
+TP
+
+
+//その目の前で、弁当をむさぼり食う。
+I greedily devour my packed lunch in front of those eyes of hers.
+//Hum, sandwiches I take it? Maybe he means some stuff from the cafeteria. -GHS
+TP
+
+WVP 2 SE077 1 0
+
+
+//くぅ
+Poing!
+//CP above
+TP
+
+
+
+//冬子「…………」
+Touko: "......"
+TP
+
+
+//そのフェイスはすでにレッドだ。
+And red was already that face.
+//It's still Engrish. -GHS
+TP
+
+
+//太一「あのさ、もしかして学食の使い方わからないんだろ」
+Taichi: "Say now, could it just be that you don't get how the school cafeteria system works?"
+TP
+
+
+//冬子はずっとうつむいていたが、やがて小さくうなずいた。
+Touko had stayed with eyes downcast all along, but eventually she gave a tiny nod.
+TP
+
+
+WVP 0 vfCCD2001fyu188
+//冬子「……ずっと寮だったの」
+Touko: "...I've always been in a dormitory."
+TP
+
+
+//太一「寮か執事か、というわけだ」
+Taichi: "Either dormitory or a butler, that's why then."
+//Subtle jab. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu189
+//冬子「どうして食事をとるのに、並ばないといけないのよ……意味不明」
+Touko: "Why do you just have to stand in line when you're simply taking something to eat... incomprehensible!"
+//She'll start sounding sort of formal-ish around here. Pre-Taichi Touko doesn't have as much of a potty mouth, it seems. -GHS
+TP
+
+
+//太一「素でその台詞が出るなんてすげえな」
+Taichi: "The way you just blurted out that line all raw's like, whoa."
+//Eh, it's the '90s. -GHS
+TP
+
+
+//ただ者ではない。そう思った。
+She's no ordinary person: that's what I thought.
+TP
+
+
+//太一「よし、俺と行こう」
+Taichi: "Well then, let's go, you and me."
+TP
+
+
+//手を引く。
+I pull her by the hand.
+TP
+
+GL 0 bgcc0006s
+GS 0 1
+GL 1 TCKT0004s
+GS 1 1
+SEF 109 0
+
+WVP 0 vfCCD2001fyu190
+//冬子「ええっ？　い、いいわよ……」
+Touko: "Eeeh? B-, but is this even fine..."
+TP
+
+
+//太一「いいんだよ。美人には親切にするようにしてる」
+Taichi: "It's fine. I treat pretty girls with kindness."
+TP
+
+GL 1 TCKT0002s
+GI 1 0
+
+WVP 0 vfCCD2001fyu191
+//冬子「ま、またそういう歯の浮くようなことを……」
+Touko: "A-, again with the kind of dubious sincerity that set my teeth on edge..."
+//歯の浮く seems to have the acceptation of something insincere; it seems she understands he's not being quite honest all the way back then, like Misato and Yusa at least. Unlike them, who more or less ignore or forgive (to a point, with Yusa), she'll just delude herself he is because she's desperate. This is already where their relationship falls apart, however, and it's not necessarily Taichi's whole fault. -GHS
+TP
+
+
+//太一「桐原はもっと心を開けば、楽しく生きていけると思うぞ」
+Taichi: "If you open your heart more, Kirihara, I really think your life'll become enjoyable!"
+//Sorta vaguely Misatoian this. It's possible that, at this point, Taichi doesn't understand why Misato did what she did. -GHS
+TP
+GL 1 TCKT0000s
+GI 1 0
+
+
+//冬子「…………」
+Touko: "......"
+TP
+
+
+//太一「さ、行こう」
+Taichi: "Well, let's go."
+TP
+
+GL 1 TCKT0004s
+GI 1 0
+WVP 0 vfCCD2001fyu193
+//冬子「ち、ちょっとってば！？」
+Touko: "W-, wait up, I say?!"
+TP
+
+
+//そうやって、一方的に好奇心だけの関係で。
+And in so doing, I created an unilateral connection of sole curiosity.
+//And he's nice and delusional as well. -GHS
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+//……………………。
+............
+TP
+
+WT 1000 0
+WT 1000 1
+
+
+
+GL 0 evcc0011s
+$CGevcc0011s = 1
+GS 0 1
+//SEF 10 2
+SEF 10 0
+//HACK faster transition. -GHS
+
+//太一「また教師と問題起こしたんだって？」
+Taichi: "So I hear you caused problems with the teachers again?"
+TP
+
+
+WVP 0 vfCCD2001fyu194
+//冬子「……関係ないでしょう、あなたには」
+Touko: "...it has nothing to do with you it doesn't."
+TP
+
+
+//太一「制服も着ないし」
+Taichi: "And you don't wear the uniform either."
+TP
+
+
+WVP 0 vfCCD2001fyu195
+//冬子「認めてないもの、ここの学生になったなんて」
+Touko: "I don't accept me having ended up in this school here."
+TP
+
+
+//太一「だって、試験で判定されちゃったんだろ？」
+Taichi: "Come on, wasn't that the verdict of the Test now?"
+//the Test will judge you all. Ku ku ku. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu196
+//冬子「あんなもの……」
+Touko: "That thing..."
+TP
+
+
+//太一「じゃー桐原には人を傷つける可能性があるんだよ」
+Taichi: "'Cause there's the possibility that you're someone who hurts people, Kirihara."
+TP
+
+
+WVP 0 vfCCD2001fyu197
+//冬子「そんなこと、したことない！」
+Touko: "That's something I have never done!"
+//Except CCE0001 explicitly says she did. Contradiction? Plot hole? Or was it an accident, sort of an "I'm taking you with me" that went wrong, as with Misato and Tomoki? See CCB2013, maybe that's what that line meant. -GHS
+TP
+
+
+//太一「俺もそう思う」
+Taichi: "I think so as well."
+TP
+
+
+WVP 0 vfCCD2001fyu198
+//冬子「……はあ？」
+Touko: "...huh?"
+TP
+
+
+//太一「俺もそう思う」
+Taichi: "I think so as well."
+//CP abov'eh
+TP
+
+
+//あるとしたら。
+If anything,
+TP
+
+
+//冬子は、自分で自分を壊すだけだろうと。
+Touko wouldn't do anything but break herself by herself.
+//With the problem, again, that it's right. For all her modern tsundere posturing, she never kills anyone - ever! - and her dying is all but a running gag. Now see CCD0022A: Taichi broke himself to be able to kill, he says, but Touko's breaking has more to do with wanting to be with a single person and ignoring all others. -GHS
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+//……………………。
+............
+TP
+
+
+GL 0 evcc0011s
+$CGevcc0011s = 1
+GS 0 1
+//SEF 10 2
+SEF 10 0
+//HACK faster transition. -GHS
+
+//太一「……桐原は、群青が嫌い？」
+Taichi: "...do you hate Gunjou, Kirihara?"
+TP
+
+
+WVP 0 vfCCD2001fyu199
+//冬子「嫌いに決まってるわ。だってわたし、まともなんだから」
+Touko: "I hate it, that's obvious, yes. Because I'm a decent person after all."
+TP
+
+
+WVP 0 vfCCD2001fyu200
+//冬子「冗談にもならないわよ」
+Touko: "This place isn't even a joke!"
+TP
+
+
+//太一「……そうか？　俺は楽しいけど」
+Taichi: "...is it? But I find it fun."
+TP
+
+
+//太一「気楽だし」
+Taichi: "It's so comfortable."
+TP
+
+
+WVP 0 vfCCD2001fyu201
+//冬子「どこが……毎日見張られて……異常者扱いされて」
+Touko: "Which part... I'm observed every day... I'm treated like a deviant!"
+TP
+
+
+//太一「でも、怯えられることはない」
+Taichi: "But there's nothing to be scared about here."
+TP
+
+
+WVP 0 vfCCD2001fyu202
+//冬子「……わたしには関係ないことよ」
+Touko: "...that is something that has nothing to do with me."
+TP
+
+
+//太一「じゃ、俺のことも嫌い？」
+Taichi: "Then you hate me, too?"
+TP
+
+
+WVP 0 vfCCD2001fyu203
+//冬子「大嫌い」
+Touko: "Hate very much."
+//As sincere as Tomoki. -GHS
+TP
+
+
+//太一「あははははは」
+Taichi: "Ahahahahaha!"
+TP
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+//……………………。
+............
+TP
+
+
+
+GL 0 evcc0011s
+$CGevcc0011s = 1
+GS 0 1
+//SEF 10 2
+SEF 10 0
+//HACK faster transition. -GHS
+
+
+//太一「ほんっと……いつまでも一人なんだな」
+Taichi: "Reeeally... you're always alone aren't you."
+//PCP CCA0016
+//Yup, same line Misato used with him. -GHS
+TP
+
+
+//太一「友達できないぞ」
+Taichi: "Can't make friends, right."
+TP
+
+
+WVP 0 vfCCD2001fyu204
+//冬子「いらない」
+Touko: "Do not want them."
+TP
+
+
+//太一「放送部に入るか？」
+Taichi: "You will join the Broadcast Club then?"
+TP
+
+
+WVP 0 vfCCD2001fyu205
+//冬子「……入らない」
+Touko: "...do not want to."
+//Hairanai, IOW she's bald. -GHS
+TP
+
+
+//太一「んー、楽しいのに」
+Taichi: "Ohhh, but it's fun."
+TP
+
+
+WVP 0 vfCCD2001fyu206
+//冬子「どうしてわたしを誘うのよ、他にいくらでもいるでしょう？」
+Touko: "Why do you even have to invite me, when you have as many others as you like?"
+TP
+
+
+//太一「桐原がいいから」
+Taichi: "Because I prefer you, Kirihara."
+TP
+
+
+WVP 0 vfCCD2001fyu207
+//冬子「……ど、どうしてょ……」
+Touko: "...wh-, why even...!"
+TP
+
+
+//太一「桐原が気に入ったから」
+Taichi: "Because you interest me."
+TP
+
+
+WVP 0 vfCCD2001fyu208
+//冬子「……迷惑」
+Touko: "...bothersome."
+TP
+
+
+//好きで、無害で、味方で、人なつっこくて。
+I'm likable, I'm harmless, I'm supporting, I'm sociable:
+TP
+
+
+//というオーラを浴びせ続けて。
+those are the contents of the aura I continue pouring on her.
+TP
+
+
+//それは洗脳に近い。
+It is something close to brainwashing.
+//Pretty much every time he tries to do this via aura emission, from Kiri in CCA0027 to Yutaka in CCC3004 through Misato in CCD1001, it fails miserably. There's no reason it would work here. It's pure and open chuunin'. -GHS
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+//……………………。
+............
+TP
+
+
+
+
+
+GL 0 evcc0011s
+$CGevcc0011s = 1
+GS 0 1
+//SEF 10 2
+SEF 10 0
+//HACK faster transition. -GHS
+//ある時、冬子は問いかけてきた。
+Once, Touko asked me a question:
+TP
+
+
+WVP 0 vfCCD2001fyu209
+//冬子「黒須は、どうしてここにいるの？」
+Touko: "Kurosu, why are you here?"
+//http://www.why-lip.com/ it's only unrelated when ignoring Miki House. ...OK, it's unrelated. -GHS
+TP
+
+
+//太一「……心が病んでいるから」
+Taichi: "...because my heart is sick."
+TP
+
+
+WVP 0 vfCCD2001fyu210
+//冬子「そうは思えないんだけど」
+Touko: "But you don't seem like that."
+//Remember that she understands him better than he does. He finds his porn stash in like .7 seconds, after all. -GHS
+TP
+
+
+//太一「見えない部分でな」
+Taichi: "It's in a part that you can't see."
+TP
+
+
+//見せない部分で。
+It's in a part that I won't let you see.
+TP
+
+
+//冬子が頭を抱えた。
+Touko holds her head, at wit's end.
+TP
+
+
+WVP 0 vfCCD2001fyu211
+//冬子「……わたし、もうやだ、ここ……」
+Touko: "...I've... had enough... of here..."
+TP
+
+
+WVP 0 vfCCD2001fyu212
+//冬子「こわい……この学院……戻りたい……」
+Touko: "It's scary... in this school... I wanna go back..."
+TP
+
+
+//どこに戻りたいのだろう。
+Where does she even want to go back to?
+TP
+
+
+//きっと、元の学校などではない。
+Not to her former school or anything of the sort, definitely,
+TP
+
+
+//過ぎ去った、かつての日々の中へ、だ。
+but to those former days of hers, now long past.
+//Compare Taichi and his "time loop" Settei. -GHS
+TP
+
+
+//太一「平気だって。慣れれば楽しくなる」
+Taichi: "But it's alright. Once you get used to it, it becomes fun."
+TP
+
+
+WVP 0 vfCCD2001fyu213
+//冬子「慣れない」
+Touko: "I won't get used to this."
+TP
+
+
+//太一「慣れないって決めてるんだろ？」
+Taichi: "You just resolved not to get used to this, right?"
+TP
+
+
+//太一「桐原は可愛いから、その気になればいくらでも楽しく生きていけるよ」
+Taichi: "You're cute, Kirihara, and because of that if you just get into things here you can life a life as fun as you'd like."
+TP
+
+
+WVP 0 vfCCD2001fyu214
+//冬子「そ、そういう話をしているわけじゃ」
+Touko: "Do-, does it look like this is what we're talking about!"
+TP
+
+
+//太一「可愛い可愛い」
+Taichi: "So cute, sooo cuuute!"
+TP
+
+
+//頭を撫でる。
+I rub her head.
+TP
+
+
+WVP 0 vfCCD2001fyu215
+//冬子「……よしてよ！　もうバカ！」
+Touko: "...quit it! Really, you dummy!"
+//This is still proto-tsundere. -GHS
+TP
+
+
+//振り払う。
+I'm shaken off.
+TP
+
+
+//けど本気で嫌がってたら、耳まで赤くなるだろうか？
+But if she seriously disliked this, would she really go red all the way to the ears?
+TP
+//GL 0 bgcc0000d
+//GS 0 1
+//SEF 109 1
+//
+//
+//WT 1000 0
+//WT 1000 1
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+WVS 3 1
+//HACK flashback exit whiteout -GHS
+GL 0 bgcc0003e
+GS 0 1
+SEF 109 1
+
+//太一「……ん……」
+Taichi: "...ngh..."
+TP
+
+
+//そして俺は、冬子の夢を―――
+And then I had a dream, a dream of Touko---
+TP
+
+
+//太一「すぅ……」
+Taichi: "Zzz..."
+TP
+
+
+WVS 1 1
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+
+
+
+
+
+
+
+
+
+WT 500 0
+WT 1000 1
+
+
+
+
+
+
+
+
+
+WVP 1 bgm018.ogg 0 0 0
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 0
+
+//Tuesday September 8, 1998 -GHS
+//目を覚ます。
+I am awake.
+//CP CCC0024
+TP
+
+
+//陽光が窓を貫いていた。
+Sunlight was piercing through the window.
+//CP CCC0024
+TP
+
+
+//熟睡していたらしい。夢一つ見なかった。
+Seems I have been hard asleep. I did not have any dreams.
+//CP CCC0024
+TP
+
+
+//時間は……７時。
+The time is... 7AM.
+//CP CCC0024
+TP
+
+
+//学校に行かねば。
+Going to school is necessity.
+//CP CCD1001
+TP
+
+
+
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+//教室に立ち寄ってみる。
+I try stopping by the classroom.
+TP
+
+
+//冬子がいた。
+Touko was here.
+//CP CCA0013B
+TP
+
+
+//太一「おはよ」
+Taichi: "'morning."
+//CP CCA0013B
+TP
+
+GL 1 TCKT0002
+GP 1 220 0
+GI 1 1
+
+
+WVP 0 vfcca0013fyu000
+//冬子「……（ぷいり）」/*
+Touko: "...(pfuiri)"
+//CP CCA0013B
+TP
+
+
+//太一「顔色悪いぞ」
+Taichi: "You look off color there."
+TP
+
+
+WVP 0 vfCCD2001fyu011
+//冬子「……黒須には関係ない」
+Touko: "...none of your business, Kurosu."
+TP
+
+
+//そっけないね。
+So blunt.
+TP
+
+
+//太一「どうして学校に来てるの？」
+Taichi: "Why did you come to school?"
+TP
+
+GL 1 TCKT0005
+GI 1 0
+//HACK doll -GHS
+
+WVP 0 vfCCD2001fyu012
+//冬子「それも関係ない」
+Touko: "Also none of your business."
+TP
+
+
+//太一「俺は知ってる」
+Taichi: "I know why."
+TP
+
+
+//太一「声をかけてほしかったからだ」
+Taichi: "Because you wanted someone to call out to you."
+TP
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfCCD2001fyu013
+//冬子「……違うわよ！」
+Touko: "...that's not true, no!"
+TP
+
+
+//声を荒げた。
+She raised her voice.
+TP
+
+
+//太一「だから俺も声をかけた」
+Taichi: "Therefore I'm calling out to you."
+TP
+
+GL 1 TCKT0001
+GI 1 0
+//HACK doll -GHS
+
+WVP 0 vfCCD2001fyu014
+//冬子「なに、言って……そんなの黒須が勝手に思ってるだけでしょ！」
+Touko: "What are you talking about... that's just what you decided to think, Kurosu, yes it is!"
+TP
+
+
+//太一「二日目だな。水だけじゃ死ぬぞ」
+Taichi: "It's the second day, right? You're gonna die on water alone."
+//She's not gonna die on four days of not eating, however. And she isn't even drinking. -GHS
+TP
+
+
+//太一「これをやる」
+Taichi: "I'll give you this."
+TP
+
+
+//曜子弁当を差し出す。
+I tender over a Youkobento.
+//It's a distant cousin of the Tomoki-bako. -GHS
+TP
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfcca0014afyu001
+//冬子「なに、コレ」/*
+Touko: "What's this, even?"
+//CP CCA0014A
+TP
+
+
+//太一「下着とかワンダフルライフの小瓶とかじゃないことは確かだ」
+Taichi: "It's not panties and it's not a bottle of Wonderful Lives, definitely."
+//See CCD0014A, CCA0026 (first instance) -GHS
+TP
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfCCD2001fyu015
+//冬子「……信用できなすぎる」
+Touko: "...far too untrustworthy."
+TP
+
+
+WVP 0 vfCCD2001fyu016
+//冬子「あんたは、いつも精液のことしか考えてない」
+Touko: "You really don't ever think of anything but semen."
+TP
+
+
+//太一「滅茶苦茶言い過ぎ、それ」
+Taichi: "That's a preposterous overstatement!"
+//I think he's thought about tits once or twice. But laterally, if his Ebul Monster is just his dick, she might not be incorrect about it being specifically semen. -GHS
+TP
+
+
+//ショックだ。
+How shocking!
+TP
+
+
+//太一「食い物だよっ」
+Taichi: "It's food."
+TP
+
+
+//太一「サンドイッチとあんまんが入ってる」
+Taichi: "There's sandwiches and Anman inside."
+TP
+
+
+//太一「……あんまんはせいろで蒸したんだぞ」
+Taichi: "...and the Anman was baked in a Seiro steamer, of course."
+//See CCA0014A, though it's sort of a running gag at this point. Term googles, mercifully. -GHS
+TP
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfCCD2001fyu017
+//冬子「いらない……必要ない」
+Touko: "Don't want it... don't need it."
+TP
+
+
+//太一「いや必要。食え」
+Taichi: "Yeah you need it. Eat!"
+TP
+
+
+
+//ずい
+Slid over,
+//CP CCA0014A
+TP
+
+
+
+//あんまんを突きつける。
+I thrust an Anman at her.
+TP
+
+
+WVP 0 vfCCD2001fyu018
+//冬子「……やめて」
+Touko: "...stop this."
+//CP CCA0014A
+//But the sound file is inexplicably new. -GHS
+TP
+
+
+//乱暴に手を払われる。
+A violent swat of her hands.
+//PCP CCA0014A
+WVP 2 se048 1 0
+//HACK SFX -GHS
+TP
+
+
+//あんまんが落ちた。
+The Anman fell,
+//PCP CCA0014A
+TP
+
+
+//拾う。
+recovered.
+//CP CCA0014A
+TP
+
+
+//ホコリのついた部分の皮をむしって、自分で食べる。
+I pluck the skin off the part that caught dust, and ate it myself.
+TP
+
+
+//そしてまた差し出す。
+And once again I hold one to her.
+TP
+
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfCCD2001fyu019
+//冬子「あなた……」
+Touko: "You..."
+TP
+
+
+//親の仇とも師弟になれる必殺技だ。
+Certain Kill Technique * The Enemy of Her Entire Family Yet Making Her Into a Pupil.
+//See CCA0005A. The kanji used was different, but it seems just a minor terminology inconsistency, the meaning seems the same. Special Move nau. Interesting compared to Miki being her pupil, and how. -GHS
+TP
+
+
+//冬子相手なら楽勝だろう。
+With Touko as opponent, victory should be easy.
+TP
+
+
+//太一「ほら」
+Taichi: "Here."
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfCCD2001fyu020
+//冬子「……ぁ……」
+Touko: "...ah..."
+TP
+
+
+//受け取った。
+She took it.
+TP
+
+
+//あんまんを手に、ぽかんと俺を見つめる。
+Anman in hand, she stares vacant at me.
+TP
+
+
+//太一「自分しか、自分の心配をしてくれる人間がいないのは、つらいだろ？」
+Taichi: "Having no human alive, none outside of you, that worry about you... it's painful, right?"
+//CP CCA0014A
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfcca0014afyu005
+//冬子「何言ってるのかわからない」/*
+Touko: "What's that even mean I don't know."
+//CP CCA0014A
+TP
+
+
+//太一「人に心配されたい」
+Taichi: "You want people to worry about you."
+//CP CCA0014A
+TP
+
+
+//太一「満たされたい」
+Taichi: "You want to be fulfilled."
+//CP CCA0014A
+TP
+
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfcca0014afyu006
+//冬子「……」
+Touko: "..."
+TP
+
+
+//黙りこむ。
+She goes silent.
+TP
+
+
+//太一「俺、ちょっとは心配なんだけどな」
+Taichi: "And me, I'm getting somewhat worried here."
+//CP CCA0014A
+TP
+
+
+//きっと俺を睨んだ。
+She sternly glares at me.
+//CP CCA0014A
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfcca0014afyu007
+//冬子「よく、言う」/*
+Touko: "Look... who's talking."
+//CP CCA0014A
+TP
+
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfcca0014afyu008
+//冬子「心配してるなら、どうして、どうしてっ！」/*
+Touko: "If you're worried, then why, why!"
+//CP CCA0014A
+TP
+
+
+//いきり立つ。
+She loses her temper.
+//CP CCA0014A
+TP
+
+
+//太一「あ、今は別に怒らせようとか思ってないんだけど」
+Taichi: "Ah, but I wasn't thinking of making you angry or anything right now."
+TP
+
+WVP 2 se048 1 0
+
+
+//びたーん
+Smaaack.
+//CP CCB0015B
+TP
+
+
+GO 1 1
+//よろめく。
+Staggering.
+//CP CCB0015B
+TP
+
+
+//全然痛くなかった。
+That did not hurt in the slightest.
+//CP CCB0015B
+TP
+
+
+WVS 1 0
+
+
+WVP 0 vfccb0015bfyu000
+//冬子「……うう……」/*
+Touko: "...ngh..."
+//CP CCB0015B
+TP
+
+
+//冬子は攻撃したあと、へたりこんでいた。
+Right after this strike, Touko collapses sitting on to the floor.
+//CP CCB0015B
+TP
+
+
+//太一「もし？」
+Taichi: "You OK?"
+//CP CCB0015B
+TP
+
+
+WVP 0 vfccb0015bfyu001
+//冬子「……ん…………」/*
+Touko: "...nh..."
+//CP CCB0015B
+TP
+
+
+//目頭を押さえて、青い顔をしている。
+Holding her eyes shut, her face almost colorless.
+//CP CCB0015B
+TP
+
+
+//太一「……冬子」
+Taichi: "...Touko."
+//CP CCB0015B
+TP
+
+
+//そばにかがみ込む。
+I crouch next to her.
+//CP CCB0015B
+TP
+
+
+WVP 0 vfccb0015bfyu002
+//冬子「呼び捨てないでよ……」/*
+Touko: "Don't address me without honorifics, you..."
+//CP CCB0015B
+TP
+
+
+//絞り出すように言う。
+So she says as if squeezing it out.
+//CP CCB0015B
+TP
+
+
+//太一「休戦だな。緊急事態だ」
+Taichi: "Armistice, OK? This is a state of emergency."
+TP
+
+
+WVP 1 bgm020.ogg 0 0 0
+
+
+
+WVP 0 vfccb0015bfyu004
+//冬子「目が見えない……」/*
+Touko: "My eyes, I can't see..."
+//CP CCB0015B
+TP
+
+
+//太一「平気だ。血の巡りが悪くなってるんだよ」
+Taichi: "You're alright. It's just that blood circulation has deteriorated."
+TP
+
+
+WVP 0 vfCCD2001fyu021
+//冬子「気持ち悪い……吐きそう……」
+Touko: "I feel nauseous... like to throw up."
+//PCP CCB0015B
+TP
+
+
+//太一「吐くか？」
+Taichi: "Want to throw up?"
+//CP CCB0015B
+TP
+
+
+WVP 0 vfccb0015bfyu006
+//冬子「……や」/*
+Touko: "...no!"
+//CP CCB0015B
+TP
+
+
+//太一「横になれって、ほら」
+Taichi: "Get on your side now, come on."
+//PCP CCB0015B
+TP
+
+
+//膝枕。
+Lap pillow.
+TP
+
+
+WVP 0 vfCCD2001fyu022
+//冬子「ん……頭、ぐるぐるする……立ちくらみしたみたいになってる……」
+Touko: "Nh... head's spinning round... it's like I got dizzy from standing up too fast..."
+TP
+
+
+//太一「すぐ見えるようになるって」
+Taichi: "Looks like you'll be seeing soon."
+//Har? -GHS
+TP
+
+WVP 0 vfCCD2001fyu023
+//冬子「どうしてわかるのよ、医学なんて知らないくせに」
+Touko: "How do you even know, you don't know anything about medicine!"
+//See CCA0002. How would she know he doesn't know when she doesn't even know trivia-level stuff like neurons not replicating? -GHS
+TP
+
+
+//太一「冬子のことはわかる」
+Taichi: "I know about you, Touko."
+TP
+
+
+WVP 0 vfccb0015bfyu011
+//冬子「あ……」/*
+Touko: "Ah..."
+//CP CCB0015B
+TP
+
+
+//太一「見えるようになってきたか」
+//Taichi: "Does it look like you're seeing again?"
+Taichi: "Seems like you're seeing again."
+TP
+
+
+WVP 0 vfCCD2001fyu024
+//冬子「……うん」
+Touko: "...yes."
+TP
+
+
+//太一「貧血だ。たまにそういうことある」
+Taichi: "It's anemia. Sometimes it does things like that."
+TP
+
+
+WVP 0 vfccb0015bfyu015
+//冬子「ちょっと……楽になってきた……」/*
+Touko: "A bit... better I think..."
+//CP CCB0015B
+TP
+
+
+//太一「口あけろ」
+Taichi: "Open your mouth."
+TP
+
+
+WVP 0 vfCCD2001fyu025
+//冬子「変なもの入れる、やだ」
+Touko: "You'll put something weird in it, no and no."
+TP
+
+
+//太一「水だよ。純粋な水だって」
+Taichi: "It's water. Unmixed water at that."
+//Pure water's technically distilled water... not that it matters. -GHS
+TP
+
+
+
+
+
+//太一「飲ませてやるだけだよ」
+Taichi: "I'm just making you drink."
+//NOT SUSPICIOUS. -GHS
+TP
+
+
+//冬子「……」
+Touko: "..."
+TP
+
+
+//口をあけた。
+She opened her mouth.
+TP
+
+
+//注ぐ。
+Pour.
+TP
+GL 1 TCKT0004
+GI 1 1
+
+WVP 0 vfCCD2001fyu028
+//冬子「わぷっ！？」
+Touko: "Whtpft?!"
+//Not the same Taichi uses in CCB2014 -GHS
+TP
+
+
+//太一「あ、ごめん」
+Taichi: "Ah, sorry."
+TP
+
+GL 1 TCKT0003
+GI 1 0
+WVP 0 vfCCD2001fyu029
+//冬子「いい、自分で飲むわよ！　貸しなさい！」
+Touko: "It's fine, I can drink myself! Give it over now!"
+TP
+
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfCCD2001fyu030
+//冬子「んっんっんっ……」
+Touko: "nGhnGhnGh..."
+TP
+
+
+//中間の立場で苦労の絶えない部次長クラスの飲みっぷりで、冬子は中身を干した。
+Drinking in the style of a Department Deputy Director who's in that midway position where the hardships are neverending, Touko emptied its contents.
+//Fooorced. See CCC0006B -GHS
+TP
+
+
+//胃袋が刺激されたのか。
+Her stomach was stimulated, maybe.
+TP
+
+WVP 2 SE077 1 0
+
+
+//くぅ
+Poing!
+//CP above
+TP
+
+
+//GL 1 TCKT0002
+GL 1 TCKT0006
+//HACK doll -GHS
+GI 1 0
+
+WVP 0 vfCCD2001fyu031
+//冬子「……今のは……間違いだから」
+Touko: "...that now... you misheard that."
+TP
+
+
+//太一「知ってる」
+Taichi: "Knew it."
+//CP CCB2013
+TP
+
+
+//太一「知ってるからメシ、食おう」
+Taichi: "Knew it, therefore you gotta eat food."
+TP
+
+
+//冬子「…………」
+Touko: "......"
+TP
+
+
+//簡単に赤面した。
+She simply went red in the face.
+TP
+
+
+
+WVP 3 SE001 0 0
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0009s
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+//GL 0 bgcc0009s
+//GS 0 1
+//GS 1 0
+//SEF 10 2
+
+
+//冬子が昼食を食べられる身分になって、しばらく後。
+This was shortly after Touko attained the social status of someone capable of eating lunch.
+//Sarcasm much? -GHS
+TP
+
+//GL 1 TCKT0002s
+GL 1 TCKT0001S
+//HACK doll -GHS
+GI 1 1
+WVP 0 vfCCD2001fyu216
+//冬子「……今日は、わたしが並ぶ」
+Touko: "...I'll stand in line today."
+TP
+
+
+//そんなことを言い出した。
+That's what she just blurted out.
+TP
+
+
+//学食には慣れた。
+She had gotten used to the cafeteria,
+TP
+
+
+//けど冬子はいつも俺の背後に隠れている。
+but Touko was always hiding herself behind my back.
+TP
+
+
+//おかしな人々がいっぱいだから。
+Because there's plenty of weird people here.
+TP
+
+
+//トレイの受け取りまで、俺がやっていた。
+I did everything up until carrying the trays.
+TP
+
+
+//冬子の仕事は、座席とりだ。
+Touko's job was to take the seats,
+//SIMPLE2000シリーズ Vol.78 THE座席とり -GHS
+TP
+
+
+//けどそれさえも怯え半分で。
+but even that she did half-scared.
+TP
+
+
+//太一「並ぶって……君が？」
+Taichi: "You? Standing in line?"
+TP
+
+
+GL 1 TCKT0000s
+GI 1 0
+WVP 0 vfCCD2001fyu217
+//冬子「……いつも並ばせてばっかりだから……今日からはわたしも並ぶわ」
+Touko: "...I'm always making you stand in line so... from today on I will line up too."
+TP
+
+
+//食券を手に、カウンターに向かった。
+She headed to the counter, meal ticket in hand.
+TP
+
+
+//太一「おやまあ……」
+Taichi: "Oh dear me..."
+//Grrr, I sooo wanna do this as "gee whiz"... -GHS
+TP
+WVS 3 1
+
+WVS 1 1
+
+
+
+
+
+
+
+
+WVP 1 bgm016.ogg 0 0 0
+
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+//HACK flashback exit whiteout -GHS
+
+GL 0 evcc0022
+$CGevcc0022 = 1
+GS 1 0
+GS 0 1
+//SEF 10 1
+SEF 109 0
+//HACK different transition back -GHS
+
+WVP 0 vfccb0015bfyu023
+//冬子「……ぱさぱさしてる」/*
+Touko: "...it's all dry."
+//CP CCB0015B
+TP
+
+
+//太一「朝のだからな」
+Taichi: "They're this morning's."
+//CP CCB0015B
+TP
+
+
+WVP 0 vfccb0015bfyu024
+//冬子「大きいくて食べにくい」/*
+Touko: "It's too big and hard to eat."
+//CP CCB0015B
+TP
+
+
+//太一「俺用だったし」
+Taichi: "It was made for me."
+//CP CCB0015B
+TP
+
+
+WVP 0 vfccb0015bfyu025
+//冬子「マスタード入れすぎ」/*
+Touko: "There's way too much mustard."
+//CP CCB0015B
+TP
+
+
+//太一「辛いの大好き」
+Taichi: "I really like 'em harsh and spicy."
+//CP CCB0015B
+TP
+
+
+//冬子「…………」/*
+Touko: "......"
+//That non-voiced line is overtagged as already recorded. -GHS
+TP
+
+
+//太一「で、まずいと？」
+Taichi: "Well, is it bad?"
+//CP CCB0015B
+TP
+
+
+WVP 0 vfccb0015bfyu027
+//冬子「…………おいしい」/*
+Touko: "......delicious."
+//CP CCB0015B
+TP
+
+
+//太一「ならば、ゆっくり食え」
+Taichi: "Well then, eat it slowly."
+//CP CCB0015B
+TP
+
+
+WVP 0 vfccb0015bfyu028
+//冬子「ぐじ」/*
+Touko: "Sob."
+//CP CCB0015B
+TP
+
+
+//鼻をすすった。
+She was sniffling.
+//CP CCB0015B
+TP
+
+
+//太一「ゆっくりな、胃袋が受け付けないから」
+Taichi: "Slowly, 'k, otherwise your stomach won't accept it."
+TP
+
+
+//太一「あんまんもう一個あるけど、いるか？」
+Taichi: "There's just one more Anman, want it?"
+TP
+
+
+WVP 0 vfCCD2001fyu033
+//冬子「……いる」
+Touko: "...want it."
+TP
+
+
+//太一「食事って、家の人が用意してくれてたんだろ？」
+Taichi: "The food was prepared for you by the people at your residence, right?"
+TP
+
+
+WVP 0 vfCCD2001fyu034
+//冬子「……ええ」
+Touko: "...yes."
+TP
+
+
+//太一「いなくなったらどうなるの？」
+Taichi: "And if they're gone, what will you do?"
+//Specific. Heh. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu035
+//冬子「どうにもならないわよ。何も出ないだけ」
+Touko: "Nothing whatsoever. Nothing shows up, that's it."
+//Given it's a Rich Girl Gag, that she'd expect stuff to just 'turn up' seems more appropriate. As for no one being there, read closely: it's a conditional. Of course if they'd all be gone there wouldn't be any food anymore. And since she's terrified that everyone would leave her, including the staff, she takes the question seriously. -GHS
+TP
+
+
+//太一「料理のできない冬子にとってみたら、死と隣り合わせだな」
+Taichi: "And since you're so incapable of cooking, Touko, that sits side by side with death."
+TP
+
+
+WVP 0 vfCCD2001fyu036
+//冬子「……どうして……料理できないって、知ってる……？」
+Touko: "...how do you... know that I can't cook...?"
+TP
+
+
+//太一「気にしない」
+Taichi: "Don't think about it."
+TP
+
+
+WVP 0 vfCCD2001fyu037
+//冬子「気になる……」
+Touko: "I do think about it..."
+TP
+
+
+//太一「気分はいかが？」
+Taichi: "How do you feel?"
+TP
+
+
+WVP 0 vfCCD2001fyu038
+//冬子「ましになった……少しは」
+Touko: "I feel better... just a little."
+TP
+
+
+//太一「腹が減ったらうちに来い」
+Taichi: "If you get hungry, come 'round to my house."
+TP
+
+
+//太一「キャビアはないけど、じゃがいもくらいだったらあるぞ」
+Taichi: "I don't have caviar, but if you wanna some potatoes I do have some."
+TP
+
+
+WVP 0 vfCCD2001fyu039
+//冬子「…………でも」
+Touko: "......but."
+TP
+
+
+//言いたいことはわかる。
+I knew what she wanted to say.
+TP
+GL 2 efcc0003
+GL 1 evcc0032
+GP 1 0 0 0
+GP 2 0 0 0
+GI 2 0
+GI 1 0
+GS 2 0
+GS 1 0
+SEF 109 0
+
+
+//裏切りを恐れて。
+She fears betrayal.
+//See Tomoki, Kiri... -GHS
+TP
+
+
+//太一「……それよりさ」
+Taichi: "...but, more importantly."
+TP
+
+
+//太一「どうして、人は滅びたんだと思う？」
+Taichi: "What do you think annihilated humanity?"
+//CP CCB0015B
+TP
+GL 0 bgcc0000a
+GS 0 1
+SEF 152 0
+
+
+//窓の外を見る。
+I look outside the window.
+//CP CCB0015B
+TP
+
+
+//何かを期待して問うたわけでもない。
+It wasn't a question I expected an answer for.
+//CP CCB0015B
+TP
+
+
+WVP 0 vfccb0015bfyu046
+//冬子「滅んだんじゃないわ」/*
+Touko: "This isn't annihilation, no."
+//CP CCB0015B
+TP
+
+
+WVP 0 vfCCD2001fyu040
+//冬子「……最初から誰もいなかったのよ」
+Touko: "...there was no one from the beginning."
+//Where would she have learned this reference to it being an alternate world? Her "no one" is closer to Kiri's rant in CCC3007, and far more metaphorical than it seems. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu041
+//冬子「そう思えば、腹も立たない」
+Touko: "If I think that, I don't get angry."
+//PCP CCC3025
+//Well lookee here. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu042
+//冬子「落胆もない」
+Touko: "Or disappointed either."
+TP
+
+
+//太一「同じ理由で俺を無視した？」
+Taichi: "Was that the same reason you were ignoring me?"
+//Likely. Touko's attempt at active ignoring others is still an attempt to remove everyone from the world. It's the same No One Exists game as Taichi, but she's way worse at it than him. -GHS
+TP
+
+GL 0 bgcc0006
+GL 1 TCKT0002
+GP 1 230 0
+GS 1 1
+GS 0 1
+SEF 152 0
+//HACK earlier doll -GHS
+
+//目線を向ける。
+I turned my sight to her direction.
+//From looking out the window -GHS
+TP
+
+//冬子は視線の軸をそらした。
+The axle of Touko's gaze shifted off of mine.
+//Good ol' recurring term. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu043
+//冬子「……そうよ」
+Touko: "...it was."
+TP
+
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfCCD2001fyu044
+//冬子「なのに、話しかけてきて……どうかしてる。わかってたくせに！」
+Touko: "And still, you came close and talked to me... you're insane. And you know that dammit!"
+TP
+
+
+//太一「ごめんな」
+Taichi: "Sorry."
+TP
+
+
+WVP 0 vfCCD2001fyu045
+//冬子「どうして謝るのよ！」
+Touko: "Whyyy are you apologizing!"
+TP
+
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfCCD2001fyu046
+//冬子「太一のこと……全然理解できないよ……」
+Touko: "I don't understand you Taichi... not at all..."
+TP
+
+
+//時が、過ぎる。
+And time kept passing,
+//Swap around -GHS
+TP
+
+//さめざめと。
+with sorrowful anguish.
+TP
+
+
+
+
+WVS 1 1
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 1
+
+
+
+
+
+
+
+WT 500 0
+WT 500 1
+
+
+
+
+//GL 0 bgcc0003b
+//GS 0 1
+//SEF 152 0
+
+GL 0 bgcc0004c
+GS 0 1
+SEF 152 0
+WT 200 0
+WT 800 1
+
+GL 0 zzzTaichiHouseZoom
+GS 0 1
+SEF 152 0
+//HACK zoom garden, remove the Taichi bedroom. Maybe intended to replicate CCB2002 closer. -GHS
+
+
+WVP 1 bgm003.ogg 0 0 0
+
+//じゃがいもを抱えて庭に。
+To the garden, bearing potatoes.
+TP
+
+
+//サバイバルマンガを参考にして炊飯の用意をする。
+Using a survival manga as reference, I set up a cooking fire.
+//CP CCB2002
+TP
+
+
+//太一「できた……」
+Taichi: "Done..."
+//CP CCB2002
+TP
+
+
+//蒸すのは面倒なので、焼くことにする。
+Steaming is too much of a mess, so I settled for roasting.
+//CP CCB2002
+TP
+
+
+//二人分のじゃがいも。
+Potatoes for two.
+TP
+
+
+//待つ。
+Wait.
+//CP CCB2002
+TP
+
+
+//玄関先で人が倒れた。
+A person collapsed at the front door.
+//PCP CCB2002
+TP
+
+
+GL 0 bgcc0002c
+GS 0 1
+//SEF 152 0
+SEF 109 0
+//HACK fading instead -GHS
+
+
+//桐原冬子だ。
+It's Kirihara Touko.
+TP
+
+
+WVP 0 vfccb2002fyu000
+//冬子「ううう」/*
+Touko: "Ngggh..."
+//CP CCB2002
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+//冬子をかつぐ。
+I shoulder Touko,
+TP
+
+
+WVP 0 vfCCD2001fyu047
+//冬子「……た、たいち……？」
+Touko: "...Ta-, Taichi...?"
+TP
+
+
+//連れて行く。
+carry her with,
+TP
+
+
+WVP 0 vfCCD2001fyu048
+//冬子「あ、あう……」
+Touko: "Ah-, auh..."
+TP
+
+
+//座らせる。
+make her sit,
+TP
+
+
+//じゃがいもを口に入れる。
+//and put my dick in her mouth.
+and insert a potato in her mouth.
+TP
+
+
+WVP 0 vfCCD2001fyu049
+//冬子「うううっ、うむむむむむむっ！？」
+Touko: "uGnnn, uMhMhMhMhMhMh?!"
+TP
+
+
+WVP 0 vfCCD2001fyu050
+//冬子「自分で食べられるわよっ！！」
+Touko: "I can eat by myself!!!"
+TP
+
+
+//じゃがいものカスを飛ばしながら、叫んだ。
+Potato leftovers flew out of her mouth as she shouted.
+TP
+GL 0 evcc0022a
+$CGevcc0022a = 1
+GS 0 1
+GS 1 0
+SEF 155 0
+
+//がつがつがつ
+Greedily, greedily, greedily.
+//CP CCB2002
+TP
+
+
+//太一「はいよ、塩」
+Taichi: "Here ma'am, salt."
+TP
+
+
+WVP 0 vfCCD2001fyu051
+//冬子「かけて」
+Touko: "Put some."
+TP
+
+
+//太一「……はいよ」
+Taichi: "...yes ma'am."
+//Unfortunately the two terms don't really gel in English. -GHS
+TP
+
+
+//冬子は一生懸命食べた。
+Touko was eating for dear life.
+TP
+
+
+WVP 0 vfccb2002fyu012
+//冬子「……んくっ」/*
+Touko: "...mnch."
+//CP CCB2002
+TP
+
+
+//四肢が引きつる。
+Limbs stiffen.
+//CP CCB2002
+TP
+
+
+//計算通りだ（してないけど）。
+All according to my calculations (not that I did any).
+//You can date some scripts (or at least the revisions) down to the month by looking at when Melty Blood came out. Using the typical translation. -GHS
+TP
+
+
+//太一「はい水」
+Taichi: "Here, water."
+//CP CCB2002
+TP
+
+
+//ペットボトルを渡す。
+//But she still looks like a pet.
+I hand over a bottle of water.
+//CP CCB2002
+TP
+
+
+WVP 0 vfccb2002fyu013
+//冬子「んっんっんっ……」/*
+Touko: "GlpGlpGlp..."
+//CP CCB2002
+TP
+
+
+//飲み干す。
+She chugs down.
+//CP CCB2002
+TP
+
+WVP 0 vfccb2002fyu014
+//冬子「はふはふ」/*
+Touko: "MnchMnch."
+//CP CCB2002
+TP
+
+
+//また食い出す。
+She wolfs down once again.
+//CP CCB2002
+TP
+
+
+//七個か八個もたいらげて、ようやく冬子は一息ついた。
+After having flattened seven or eight, finally Touko takes a breather.
+//CP CCB2002
+TP
+WVS 1 1
+//HACK music out earlier -GHS
+//GL 0 bgcc0002c
+//GS 0 1
+//SEF 155 0
+//
+//GL 1 TCKT0005c
+//GI 1 1
+
+
+WVP 0 vfccb2002fyu015
+//冬子「……落ち着いた」/*
+Touko: "...I've calmed down now."
+//CP CCB2002
+TP
+
+
+//太一「それゃ何より」
+Taichi: "Welll, that's what's important."
+//CP CCB2002
+TP
+
+//WVP 1 bgm003.ogg 0 0 0
+//HACK No need -GHS
+
+GL 0 bgcc0002c
+GL 1 TCKT0005c
+GS 0 1
+GS 1 1
+GP 1 230 0
+SEF 109 0
+//HACK Synchronizing changes with CCB2002. -GHS
+
+//冬子は居住まいを正した。
+Touko readjusts her sitting position.
+//CP CCB2002
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfCCD2001fyu052
+//冬子「……ごちそうさま」
+Touko: "...a most delicious meal."
+TP
+
+
+//太一「あいよ」
+Taichi: "Oh yep."
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfCCD2001fyu053
+//冬子「それと……あ、ありがとう」
+Touko: "And also... th-, thanks."
+TP
+
+
+//ぎこちなかった。
+Awkwardly.
+TP
+
+
+//太一「それよりこれを見てくれ」
+Taichi: "More importantly, look at this."
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfCCD2001fyu054
+//冬子「これは？」
+Touko: "What's this?"
+TP
+
+
+//太一「缶詰というものだ」
+//Taichi: "This is my dick. You stupid or something?"
+Taichi: "It's called 'canned food'."
+//See CCB2002 -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu055
+//冬子「ふぅん」
+Touko: "Ohhh."
+TP
+
+
+//太一「あけると、食べ物が入っている。ウェットな保存食だな」
+Taichi: "You open it, and there's food inside. There's wet preserved food, see."
+//Doesn't seem anything specific, just a sorta-awkward contrast to dry preserved food. -GHS
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfCCD2001fyu056
+//冬子「……ああ、なるほど」
+Touko: "...ahhh, I see."
+TP
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfCCD2001fyu057
+//冬子「どこに売っているの？」
+Touko: "Where do they sell this?"
+TP
+
+
+//太一「コンビニとか」
+Taichi: "Kombini and the like."
+//Kombini have nothing to do with combinations! That's already the worst, I won't forgive such things etc! -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu058
+//冬子「コンビニ……？」
+Touko: "Kombini...?"
+TP
+
+
+//太一「コンビニまで知らないか！」
+Taichi: "You don't even know about Kombini?!"
+TP
+
+//GL 1 TCKT0002c
+GL 1 TCKT0003C
+GI 1 0
+//HACK angrier -GHS
+
+WVP 0 vfCCD2001fyu059
+//冬子「し、知ってるわよぉ……ただ見たことがないだけ」
+Touko: "I-, I do know, you... just that I have never seen one, that's it."
+//Hum, doesn't the Tasaki Store count as Kombini...? She HAS been there, see CCA0003. -GHS
+TP
+
+GS 0 0
+GS 1 0
+SEF 109 0
+//HACK to black -GHS
+
+
+//太一「イックゥ！！」
+Taichi: "BNNNKKK!!!"
+//PCP CCB2002
+TP
+
+
+//俺は達した。
+I reached the peak.
+TP
+
+
+//転倒。
+Tumbling down.
+TP
+
+//GI 1 0
+//HACK no need -GHS
+
+WVP 0 vfCCD2001fyu060
+//冬子「きゃあっ！？　な、何事？」
+Touko: "Kyaaah?! Wh-what happened?"
+TP
+
+GL 1 TCKT0004c
+GS 0 1
+GS 1 1
+SEF 109 0
+//HACK back, with doll -GHS
+
+//太一「おまえの金持ち度は９８％以上だ」
+Taichi: "Your Rich SOB rate surpasses 98%!"
+//9+8=17=1+7=8 -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu061
+//冬子「え……そうなのかしら……わからないわ……？」
+Touko: "Eh... does it, I wonder... but I do not get it, no...?"
+//Rich girl accent. Waaay strong, too. Likely joke. -GHS
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfCCD2001fyu062
+//冬子「それに今さらお金とか言われても……」
+Touko: "Besides, talking about money at this point..."
+//After he rejected her and all. -GHS
+TP
+
+
+//太一「ま、そうなんだけどさ」
+Taichi: "Well, that's true, yes."
+TP
+
+
+//太一「あーあ、あの時おまえの家のムコになっておけばよかったな」
+Taichi: "Awww man, if only I had become son-in-law to your family at that time."
+//See CCA0022, CCC3012B -GHS
+TP
+
+
+//むっとする。
+I'm in a huff!
+TP
+
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfCCD2001fyu063
+//冬子「……そーいう不純な動機で……」
+Touko: "...ulterior motives sooo impure..."
+TP
+
+
+//太一「おまえだって、俺にこっそり両親に紹介しようとしたじゃん」
+Taichi: "After all, you tried to introduce me to your parents all stealth-like dinn'cha."
+TP
+
+
+WVP 0 vfCCD2001fyu064
+//冬子「……したけど……太一逃げた」
+Touko: "...I did but... you ran away, Taichi."
+//See CCC4015. This is odd, isn't it. -GHS
+TP
+
+
+//太一「あのねえ、冬子」
+Taichi: "See here, Touko,"
+TP
+
+
+//太一「俺は群青学院最重要指名手配犯なんだよ」
+Taichi: "I'm the #1 Most Wanted Criminal in the Gunjou Institute you know."
+TP
+
+
+//太一「そんな人間を紹介したって……おまえのゴッドファーザーが認めてくれるはずないだろう？」
+Taichi: "If you introduced someone like that to your parents... there's no way your Godfather would have ever allowed this, right?"
+//This is a load of bullshit. She became too clingy, and combined with his complete failure of understanding her plus his constant self-eviscerating games made him push her away. -GHS
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfCCD2001fyu065
+//冬子「……太一はおかしくないもの」
+Touko: "...you are not some weirdo, Taichi."
+TP
+
+
+//太一「そんなセリフが出るようじゃ、まだまだだな」
+Taichi: "If that kind of line comes out of you, then you got a long, looong way to go."
+//Technically true. He is a weirdo. Not the kind he thinks, tho. See CCX0001, when "she" says that line to "Sakuraba" -GHS
+TP
+
+
+//太一「まだまだ蒙古斑が取れない」
+Taichi: "You've got a long way to go before getting rid of your Mongolian Spot."
+//It googles. -GHS
+TP
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfCCD2001fyu066
+//冬子「前も、そんなこと言ってたわね」
+Touko: "That, you said that before as well."
+//Probably not the Mongolian spot thing... -GHS
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfCCD2001fyu067
+//冬子「でもわからないものはわからない……わたし、馬鹿だから……」
+//Touko: "However, ununderstandable things are ununderstandablismfest... for I... I am a horsedeer..."
+Touko: "But I didn't understand it and I still don't understand... because I'm... a dummy..."
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfCCD2001fyu068
+//冬子「優しくしてくれれば、それだけでいい……」
+Touko: "Getting treated with gentleness, nothing more, that's what I wish..."
+//See YMK/Aeka: "Me, as long as there's that, it's enough. Just being treated so very gently...". But unlike Aeka, who's sincere, Touko's as sincere as Taichi here. -GHS
+TP
+
+
+//太一「ふむ」
+Taichi: "Uh-huh."
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfccb2002fyu040
+//冬子「……面倒になってくる。ただ生きるために努力しないといけないなんて」/*
+Touko: "...this has become so annoying. All this big effort needed just to live normally."
+//CP CCB2002
+TP
+
+
+//太一「桐原は一人では生きられないのだな」
+Taichi: "So, Kirihara, you can't live alone then."
+//CP CCB2002
+TP
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfccb2002fyu041
+//冬子「……るさい」/*
+Touko: "...'ddap."
+//CP CCB2002
+TP
+
+
+//太一「自動的なやつめ……」
+Taichi: "Damn automatic people..."
+//CP CCB2002
+TP
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfccb2002fyu042
+//冬子「ねえ」/*
+Touko: "Hey."
+//CP CCB2002
+TP
+
+
+//太一「ん？」
+Taichi: "Hm?"
+//CP CCB2002
+TP
+
+GL 1 TCKT0006c
+GI 1 0
+
+WVP 0 vfccb2002fyu043
+//冬子「……ここに住んだらだめ？」/*
+Touko: "...me staying here, can't I?"
+//CP CCB2002
+TP
+
+
+//太一「いいよ」
+Taichi: "It's OK."
+TP
+
+
+GL 1 TCKT0004c
+GI 1 0
+
+WVP 0 vfCCD2001fyu069
+//冬子「……そう……って、え？　い、いいの？」
+Touko: "...right... wait, what? I-, it's OK?"
+TP
+
+
+//太一「いいよ」
+Taichi: "It's OK."
+//CP above
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2003afyu004
+//冬子「あ、あの、すぐ着替えとか持ってくるからっ」/*
+Touko: "Ah, uhm, I'm just going to bring back a change of clothes!"
+//CP CCB2003A
+TP
+GO 1 1
+
+//太一「洗濯ばさみはあるからなー、持ってこないでいいぞー」
+Taichi: "We have clothespiiins, so there's no need to bring theeem!"
+//See CCB2003A, they're for her nose. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu070
+//冬子「……んがぐくっ！？」
+Touko: "...mnghmnkh?!"
+//Did he just stick one on her nose...? I think she just reacted to him knowing. Apparently a typo for んがぐぐ, which is another reference to Sazae-san like CCB2002. See CCA0022. -GHS
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+
+SEF 109 0
+WT 500 1
+//HACK stay on black half a second at least willya -GHS
+
+GL 0 bgcc0002c
+GS 0 1
+SEF 152 0
+//すぐ戻ってきた。
+She went and quickly returned,
+TP
+
+
+//鞄がパンパンになるほどの荷物を抱えてきた。
+and bringing a bag so filled that it was nearly about to burst.
+TP
+
+
+//膝が笑って、汗だくになっていた。
+Knees ready to give, drenched in sweat.
+TP
+
+
+//箸より重いものを持ったことがないんだろ、とからかったことを思い出す。
+You've been so sheltered you likely own nothing more than your chopsticks, I recall teasing her.
+//Adapted. -GHS
+TP
+
+
+//そしたらこの女、ナイフとフォークでしょ、と返してきた。真顔で。
+And then this female replies, 'I use knife and fork!'. With a serious face.
+TP
+
+
+//太一「無理したな」
+Taichi: "Come on now..."
+TP
+GL 1 TCKT0000c
+GI 1 1
+
+WVP 0 vfCCD2001fyu071
+//冬子「い、いっぱいありすぎて一人じゃ―――」
+Touko: "Th-, there's so way too much that on my own---"
+TP
+
+
+//ぱっちりと瞳を見開いて、ばたばたと身振りまじりに説明する。
+She makes an explanation with eyes open wide, peppered with flapping gesticulation.
+//See CCA0021, CCA0030. So very Misato. -GHS
+TP
+
+
+//こういうところはさすがに可愛い。
+This part of her is indeed adorable.
+//And it being Misato-ish is probably why. -GHS
+TP
+
+
+//太一「明日、車を使おう」
+Taichi: "Tomorrow I want to use the car."
+TP
+
+
+WVP 0 vfCCD2001fyu072
+//冬子「免許は？」
+Touko: "And the license?"
+TP
+
+
+//太一「必要か、ここで？」
+Taichi: "Do you even need it here?"
+//Key word: here. Of course it can be read to mean "with things like this", but, as usual... -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu073
+//冬子「あ、そうか……」
+Touko: "Ah, right..."
+TP
+
+
+WVP 0 vfCCD2001fyu074
+//冬子「とりあえず、最低限の着替えだけ持ってきたから、今夜から泊めて」
+Touko: "First of all, since I brought over a minimum of changes of clothes, I will be lodging here starting tonight."
+TP
+
+
+
+
+
+GL 0 bgcc0003e
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//太一「同じ部屋はいやかな？」
+Taichi: "Same room's no good I presume?"
+TP
+
+
+GL 1 TCKT0006c
+GI 1 1
+//HACK fade the doll -GHS
+WVP 0 vfCCD2001fyu075
+//冬子「同じ部屋の方がいい……」
+Touko: "I would prefer same room..."
+TP
+
+
+//太一「狭いけど文句言うなよ」
+Taichi: "Don't whine that it's cramped then."
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfCCD2001fyu076
+//冬子「……狭い方がいい……ひっつけるから……」
+Touko: "...I would prefer it cramped... it's more intimate..."
+//I'm not putting "I would prefer it small" here. -GHSevenYearsOld
+TP
+
+
+//太一「え……？」
+Taichi: "Eh...?"
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfCCD2001fyu077
+//冬子「な、なんでもない……」
+Touko: "It-, it's nothing..."
+TP
+
+//鼻先を赤く染めて（暗くてわからないがたぶん）、冬子はそっぽを向いた。
+The tip of her nose dyes red (maybe, it's dark and I can't see well), and Touko faces away.
+//Spectacular night vision. -GHS
+TP
+
+
+//畜生、コケットだな。
+Damn it all, what a coquette.
+TP
+
+
+//ここはだが大人の魅力で、冷静に対処してやるぞ。
+But howevermuch adult alluring power we have, I shall deal with it with calm composure!
+TP
+
+
+//太一「さささささて、すスすすることもないしねねねねねねね寝るか」
+Taichi: "Th-th-th-th-th-then, sh-SHO-sh-sh-should we sleep wi-wi-wi-wi-wi-wi-wi-with nothing done?"
+//See CCA0008. That's 5xさ + 3xす (just the ones in hiragana, of course)=8, and 7xね. -GHS
+TP
+
+
+//うわーん！
+Whooooaaaa!
+TP
+
+
+//いかん、落ち着け俺。
+Cut it out you, calm down me!
+TP
+
+GL 1 TCKT0006c
+GI 1 0
+
+WVP 0 vfCCD2001fyu078
+//冬子「あ、あの……」
+Touko: "Ah, uhm..."
+TP
+
+
+//太一「ん？　はい？　何？」
+Taichi: "Hm? Yes? What?"
+TP
+
+
+WVP 0 vfCCD2001fyu079
+//冬子「お風呂、使いたい」
+Touko: "I would like to take a bath."
+//You can use 使う a bath instead of entering them 入れる??? WHAT IS THE MEANING OF THIS PERVERSION JAPAN -GHS
+TP
+
+
+//太一「んー、一応風呂に汲み置きはあるんだけど……行水でよければ」
+Taichi: "Hmmm, let's say there's drawn water in the tub, but... you'll have to just splash yourself."
+//The terms seem to mean that there's not enough water in the tub to soak, she'll have to use a pan or a bucket to actually wash herself. See CCB2009; he doesn't propose it there, but perhaps he just thought she expected a full soaking rather than being a possible plot hole. -GHS
+TP
+
+
+//秘蔵の水なのだが、一週間を生きるペースは掴めているのでもうどうでもいい。
+It's precious water of course, but in a life paced around a single week I couldn't care less about conservation.
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfCCD2001fyu080
+//冬子「それでいい、借りるわね」
+Touko: "That's fine, I'll be borrowing it, yes."
+TP
+
+
+WVS 1 1
+
+GO 1 1
+
+//太一「……はい」
+Taichi: "...sure."
+TP
+
+
+//寝台の上に正座して考える。
+I sit seiza on top of the bed, thinking.
+TP
+
+
+//いかん。
+This can't go.
+TP
+
+
+//やる気まんまんだ。
+She's sooo willing to do this.
+TP
+
+
+//わかりやすい。
+She's so easy to understand.
+TP
+
+
+//可愛すぎるほど、シンプルだ。
+So excessively cute that's she simple.
+TP
+
+
+//ひだのない、フラットな心。
+An uncreased, unexpectant heart.
+//Lit. 'flat'. Did he also make a tsurupetta joke...? -GHS
+TP
+
+
+//純粋だから、あんなことが……できるんだろうな。
+Because she's pure, then doing that... would be possible, yes.
+TP
+
+
+GL 4 evcc0032
+GI 4 0
+GO 4 1
+
+//難しい。
+So difficult.
+TP
+
+
+//どうするべきか。
+What do ought I do?
+TP
+
+
+//……答えは、一つだよな。
+...the answer can be... only one.
+TP
+
+
+//そう。
+Yes.
+TP
+
+
+//冬子が冬子であるために。
+For the sake of Touko being Touko.
+TP
+
+
+//その意味では、一緒に暮らすべきではない。
+In that sense, we ought not be living together.
+TP
+
+
+//けど……少しくらいは……欲しいものもある。
+But... that's something I want as well... just a tiny little bit.
+TP
+
+
+//健全なものを得られるか。
+To obtain something wholesome, then,
+TP
+
+
+//これは、そういう日々だ。聖なる戦いだ。
+that is what these days are about. It is a holy war.
+//Oh yes. -GHS
+TP
+
+
+WVP 1 bgm004.ogg 0 0 0
+
+GL 1 TCKT0006c
+GI 1 1
+
+WVP 0 vfCCD2001fyu081
+//冬子「太一……」
+Touko: "Taichi..."
+TP
+
+
+//戻ってきた。
+She returned.
+TP
+
+
+//太一「冬子……」
+Taichi: "Touko..."
+//Touko: "Taichi..."
+//Taichi: "Touko..."
+//Touko: "Taichi..."
+//Taichi: "Touko..."
+//Touko: "Taichi..."
+//Taichi: "Touko..."
+//Touko: "Taichi..."
+//Taichi: "Touko..."
+//Touko: "Taichi..."
+//Taichi: "Touko..."
+//Touko: "Taichi..."
+//And then we had a fistfight in a minefield.
+//~THE END Hideo Kojima's Cross Channel~ -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu082
+//冬子「……キレイになったよ、わたし……」
+Touko: "...I have made myself all clean, now..."
+//See CCB2013 -GHS
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+//立ち上がった瞬間に抱きつかれそうだ。
+Embraced on what it feels like the instant I stood up.
+TP
+
+
+//はやい。そして脆い。
+So quick. Also, dangerous.
+TP
+
+
+//昔、近くのアパートに有名なバカップルが住んでいたが、別れたりくっついたりしていた。
+Once upon a time, in a nearby apartment there dwelled a famed Syrupple, who would keep splitting apart, and then getting back together and back again.
+//See CCB2005. Hum, but there's no apartment complexes around him as far as the map seems to hint (not that it's very clear) (not that it's relevant) -GHS
+TP
+
+
+//近所に怒号が届くほど口論するのに、ヨリを戻すのはあっという間。
+They would quarrel loud enough their screams would spread in the neighborhood, and then they would reconcile in the blink of an eye.
+TP
+
+
+//……まさか自分がそうなるとは。
+...unbelievable I would ever end up like that.
+//Paraphrasis: Aw, They Do Love Each Other. -GHS
+TP
+
+
+//そして冬子は俺の前で恥ずかしげに『キレイになったよ』などと言います。
+And then, Touko said "I have made myself all clean" to my face, all embarrassed.
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+//太一「うん、そうだね」
+Taichi: "Yes, so you have."
+TP
+
+
+//最高の笑顔を向けた。
+I direct my very best smile at her.
+TP
+
+
+//太一「じゃ、はい」
+Taichi: "Then, here."
+TP
+
+
+//寝袋を渡した。
+I handed over a sleeping bag.
+TP
+GL 1 TCKT0004c
+GI 1 0
+
+WVP 0 vfCCD2001fyu083
+//冬子「……………………この筒はなに？」
+Touko: "............what's this tube?"
+TP
+
+
+//丸めて専用の袋に入れてあるので、円筒形だ。
+//Taichi: "This is my dick. You stupid or something?"
+It's rolled up and stored in its own sheath, therefore it's cylindrical.
+TP
+
+
+//太一「おまえは知らないだろうが、これは寝袋といって寝るための袋だ」
+Taichi: "You likely don't know, so, this is a special bag for sleeping called a sleeping bag."
+//So he said, sleepingbagly. -GHS
+TP
+
+
+//冬子の頭上に『？』マークが踊る。
+A "?" mark leaped up above Touko's head.
+//told you, it's fucking metal gears -GHS
+TP
+GL 1 TCKT0000c
+GI 1 0
+WVP 0 vfCCD2001fyu084
+//冬子「どうして袋に入って寝るの？」
+Touko: "Why do I have to sleep inside a bag?"
+TP
+
+
+//太一「女は男のための袋ではないからだ」
+Taichi: "Because women are not mere bags for men to use."
+//PCP CCB2012
+TP
+GL 1 TCKT0002c
+GI 1 0
+
+
+WVP 0 vfCCD2001fyu085
+//冬子「……難しいわね、ちょっとわからない」
+Touko: "...that's difficult, you know, I don't really get it."
+TP
+
+
+//わかってたまるか。
+She works hard not to get it.
+TP
+
+
+//太一「これを使えば、床でもそう痛くはない。やったね、冬子！」
+Taichi: "Using this, even the floor will not be too painful. Awesome, right, Touko!"
+//Hum, shouldn't it be worse than the futon? -GHS
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfCCD2001fyu086
+//冬子「そこに寝台があるじゃない……」
+Touko: "Isn't there a bed over there..."
+TP
+
+
+//太一「これは俺の」
+Taichi: "This is mine."
+TP
+
+GL 1 TCKT0001c
+GI 1 0
+
+//冬子「……」
+Touko: "..."
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+//メンチを切りあう。
+Glare-off.
+//Kansai-ben. -GHS
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfCCD2001fyu088
+//冬子「意味不明度が高くなってきたわ……」
+Touko: "The level of incomprehensibility is getting higher, yes..."
+TP
+
+
+//太一「泊めるとは言ったが、それ以外は約束してないからな」
+Taichi: "I said you'd be lodging, there were no promises outside of that."
+TP
+
+
+//太一「じゃおやすみー」
+Taichi: "Well g'niiight."
+TP
+
+
+//柔らかいベッドに身を沈めた。
+I sunk my body in the soft bed,
+TP
+
+
+//暗いし、寝る以外にすることはないのだ。
+because in the dark, outside of sleep, there is nothing to do.
+TP
+
+GL 1 TCKT0004c
+GI 1 0
+
+
+WVP 0 vfCCD2001fyu089
+//冬子「えっ、ちょっと……まだなにも……して、な……」
+Touko: "Eh, wait... we still haven't... done anything..."
+TP
+
+
+//太一「ぐう」
+Taichi: "Zzz."
+TP
+
+GL 1 TCKT0001c
+GI 1 0
+
+
+WVP 0 vfCCD2001fyu090
+//冬子「そ、そんなぁ……」
+Touko: "Re-, reallyyy..."
+TP
+
+
+//太一「ぐう」
+Taichi: "Zzz."
+//CP above
+TP
+
+GL 1 TCKT0003c
+GI 1 0
+
+WVP 0 vfCCD2001fyu091
+//冬子「ばかばかばかっ、太一のばか」
+Touko: "Stupid stupid stupid! Stupid Taichi!"
+TP
+
+
+//太一「ぐう」
+Taichi: "Zzz."
+//CP above
+TP
+//GO 1 1
+
+GL 0 BGCC0000C
+GS 0 1
+GS 1 0
+SEF 109 0
+//HACK to sky instead -GHS
+
+WVP 2 se203 1 0
+//ごそごそ
+Rustle, rustle.
+TP
+WVP 2 se202 1 0
+
+
+//寝袋を広げる音。
+Sounds of the sleeping bag being spread,
+TP
+WVP 2 se203 1 0
+
+
+//身を滑り込ませる音。
+sounds of a body sliding inside it.
+TP
+
+
+WVP 0 vfCCD2001fyu092
+//冬子「ううう……床、いたい……」
+Touko: "Ugggh... floor, hurts..."
+TP
+
+
+//不平不満。
+Grumbling and discontent.
+TP
+
+
+//冬子「…………」
+Touko: "......"
+TP
+
+
+WVP 0 vfCCD2001fyu094
+//冬子「暑いっ！　夏場でこんなのに入ってられない！」
+Touko: "So hot! I can't be inside this thing in Summertime!"
+//That would be her clothes, too. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu095
+//冬子「もういい、直接寝るから……」
+Touko: "Oh whatever, I'll just sleep on top of it..."
+TP
+
+
+WVP 0 vfCCD2001fyu096
+//冬子「……すん……かたいよぅ、いたいよぅ……」
+Touko: "...sob... so hard, hurts..."
+TP
+
+
+//寝付くまでさめざめと泣き続けた。
+The sorrowful anguished laments continued until she fell asleep.
+TP
+
+
+//太一「……うるせぇです……」
+Taichi: "...shut yer damn trap if you please..."
+//Urusee-desu -GHS
+TP
+
+
+//冬子が睡眠に落ちるまで、俺が寝られなかった。
+Until Touko had fallen asleep, I could not sleep myself.
+TP
+
+
+//それでも。
+And yet still,
+TP
+
+
+//手を伸ばして、そっと目尻をぬぐってやった。
+I extended my hands to the corners of those eyes, and gently wiped away her tears.
+TP
+
+
+WVS 1 1
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Wednesday September 9, 1998 -GHS
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 1
+
+//起きると、冬子が床で寝ていた。
+I wake up to Touko still sleeping on the floor.
+TP
+
+
+//苦悶の表情だ。
+With anguish on her face.
+TP
+
+
+WVP 0 vfCCD2001fyu097
+//冬子「……ぅぅぅ……」
+Touko: "...ngggh..."
+TP
+
+
+//かわいそうに。
+Poor thing.
+TP
+
+
+//悪い夢でも見たのかもしれない。
+She might have had a bad dream, who knows.
+TP
+
+
+//ともかく、着替えて学校に向かった。
+Anyhow, I changed clothes and headed to school.
+TP
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+
+
+//脱走させないための門。
+A gate to prevent desertion.
+//CP CCD1001
+TP
+
+
+//学生を守っているというより、外の世界を、俺たちから守っているような。
+It seems to exist less to protect students, and more to protect the outside world from us.
+//CP CCD1001
+TP
+
+
+//そんな印象を抱かせた。
+That is the impression it left.
+//CP CCD1001
+TP
+
+
+
+
+
+
+WVP 1 bgm002.ogg 0 0 0
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+//昔の番長みたいに、自分の席に座って机の上で脚を組んだ。
+Like those hooligans of old, I sit at my seat while crossing my legs over the desk,
+TP
+
+
+//ゆらゆらと椅子を傾ける。
+tilting the chair slowly, back and forth.
+TP
+
+
+//やることがない。本当に暇である。
+There is nothing to do. Truly free time indeed.
+TP
+
+
+GL 1 TCKT0000
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfCCD2001fyu098
+//冬子「太一……」
+Touko: "Taichi..."
+TP
+
+
+//ずいぶん遅れて、冬子はやってきた。
+Touko came in, uncharacteristically late,
+TP
+
+
+//息を切らしている。
+and with shortness of breath.
+TP
+
+
+//太一「お、遅かったな」
+Taichi: "Oh, late aren't we."
+TP
+
+
+GL 1 TCKT0001
+GI 1 0
+WVP 0 vfCCD2001fyu099
+//冬子「……捜した……あちこち……」
+Touko: "...looked for you... everywhere..."
+TP
+
+
+//太一「なるほど、それで遅れたのか」
+Taichi: "I see, that's why you are late then."
+TP
+
+
+//太一「遅刻ー、遅刻ー！」
+Taichi: "Daaawd-ler, daaawd-ler!"
+TP
+
+GL 1 TCKT0003
+GI 1 0
+//HACK earlier doll -GHS
+
+//からかうと、怒りの形相。
+I pick on her, so she looks angry.
+TP
+
+
+//いやたぶんからかわなくても同じだった。
+Nah, it's likely that even if I hadn't picked on her it'd have been the same.
+TP
+
+
+
+WVP 0 vfCCD2001fyu100
+//冬子「どうして一人で行くのよ！　どうして起こさないの！？」
+Touko: "Whyyy did you go on alone! Whyyy didn't you wake me up?!"
+TP
+
+
+//太一「寝てたから」
+Taichi: "Because you were asleep."
+TP
+
+
+WVP 0 vfCCD2001fyu101
+//冬子「起こしてよ！」
+Touko: "Then wake me up!"
+TP
+
+
+//太一「……（思案）」
+Taichi: "...(pondering)"
+TP
+
+
+//太一「すまん、気がつかなかった」
+Taichi: "Sorry, I didn't realize."
+TP
+GO 1 1
+
+//冬子は膝を折る。
+Touko falls to her knees.
+//See CCD0023 - heh. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu102
+//冬子「……もう……泣きそう……」
+Touko: "...really... it's to cry..."
+//What a nice Taichism. -GHS
+TP
+
+
+//太一「泣き虫だな」
+Taichi: "Crybaby ain'tcha."
+//See CCA0010. What he wanted was to be Misato to her Taichi. -GHS
+TP
+
+
+//太一「それより食い物をいろいろかき集めて食おう、空腹なんだ」
+Taichi: "More importantly, let's scrounge up all kinds of eatery and eat, I hunger."
+TP
+
+
+WVP 0 vfCCD2001fyu103
+//冬子「……はぁぁ……」
+Touko: "...huuuh..."
+TP
+
+GL 0 bgcc0000a
+GS 0 1
+SEF 152 0
+
+//それから二人で、いろいろな食べ物を探した。
+And after, that the two of us searched for all sorts of eatery.
+TP
+
+
+//近くの民家や、店舗。
+In the houses nearby, in the shops,
+TP
+
+
+//フードを求めて。
+questing for food.
+//They're totally knocking on doors and asking for something to eat. -GHS
+TP
+
+
+//冬子は憮然としていた。ずっと。
+Touko looked discouragedly disappointed. All throughout.
+TP
+
+
+//生ものを避ければ、手にはいるのはパック食品や乾物ばかりだ。
+Having avoided raw food, we have acquired only packaged foodstuff and drinks.
+//Some folks are totally tossing produce at the two damn thieves, aren't they. -GHS
+TP
+
+
+//しかもレトルトも知らない冬子にいちいち説明していたため、時間ばかりかかってしまった。
+And then, having to explain one by one every detail to Touko who was ignorant even of the concept of retort pouch took a lot of time.
+TP
+
+
+//それでも二人で安っぽい昼食を摂る頃には、機嫌を直していた。
+But in the end, when it came for the two of us were having our meager lunch, she had regained cheer.
+TP
+
+
+
+
+
+
+
+
+
+WVP 3 SE001 0 0
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 evcc0011s
+$CGevcc0011s = 1
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+
+//GL 0 evcc0011s
+//$CGevcc0011s = 1
+//GS 0 1
+//SEF 10 2
+
+WVP 0 vfCCD2001fyu218
+//冬子「……黒須って、女友達多いんだ」
+Touko: "...Kurosu, I say, it seems you have plenty lady-friends."
+//Again with more formal past Touko. -GHS
+TP
+
+
+//太一「は？　唐突になに？」
+Taichi: "Huh? What's this all of a sudden?"
+TP
+
+
+WVP 0 vfCCD2001fyu219
+//冬子「今日、部室の前通ったら、なんかみんなで騒いでたから」
+Touko: "Because, today I was walking in front of the club room, and you were making this big commotion with so many others."
+//It could be that's his meeting with Kiri, see CCB0006, but below hints it might not be. She knows where it is, but wasn't going there so it shouldn't be CCD3003. -GHS
+TP
+
+
+//太一「ああ、そりゃあね」
+Taichi: "Ahhh, riiight."
+TP
+
+
+WVP 0 vfCCD2001fyu220
+//冬子「人気者なんだ」
+Touko: "You're the popular one."
+TP
+
+
+//普通に騒いでいただけだ。
+That was just the normal commotion.
+//May be downplaying the Kiri incident, may mean it's another thing. -GHS
+TP
+
+
+//太一「……なにヘソ曲げてるの？」
+Taichi: "...what are you getting your panties in a twist for?"
+//Lit. "twist your bellybutton". Surprisingly close... -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu221
+//冬子「曲げてないわよ！」
+Touko: "They're not twisting at all!"
+//...but the point seems to be that she doesn't get it. And it's another reference to panties just for knicks. -GHS
+TP
+
+
+//怒った。
+She got angry.
+TP
+
+
+//太一「友達というか部員だしなぁ……男もいただろ？」
+Taichi: "They're more club colleagues of mine than just friends... there's men too, you know?"
+TP
+
+
+WVP 0 vfCCD2001fyu222
+//冬子「見えなかった……」
+Touko: "Did not see any..."
+//It's more and more likely it isn't the Kiri thing, since Tomoki was up front there. ...not that she wouldn't have ignored him. -GHS
+TP
+
+
+//太一「何人かいたはずだ。けどさ、本当に俺が人気者でモテてたら、彼女の一人くらいいると思わないか？」
+Taichi: "There's more than one, of course. But, you know, if I really had the popular popularity that you say, wouldn't you think I'd have at least one girlfriend?"
+//人気者でモテてたら ick. All of two men, in fact. Dishonesty doesn't have to be through blatant lies, though that's a lesson that should've been clear many routes ago. -GHS
+TP
+
+
+WVS 1 1
+
+
+WVP 0 vfCCD2001fyu223
+//冬子「い、いないんだ……」
+Touko: "S-, so you don't have one..."
+//This was the point of her roundabout question, which Taichi might not even have guessed... -GHS
+TP
+
+
+//太一「いたら、こうして桐原に声かけてない」
+Taichi: "If I did, I wouldn't be all close talking to you like this, Kirihara."
+TP
+
+
+WVP 0 vfCCD2001fyu224
+//冬子「……………………ぇ？」
+Touko: "............eh?"
+TP
+WVS 3 1
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+//俺の侵略は、着実に進んでいった。
+My invasion steadily progressed.
+//Plenty of parallels, but CCB2015 is the more relevant. Of course, it's an odd invasion when *she* is the one that was begging for someone to come around... which is why it's SHE who is a step ahead of him! -GHS
+TP
+
+
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+//HACK flashback exit whiteout -GHS
+
+
+GL 0 bgcc0010
+GS 0 1
+//SEF 152 0
+SEF 109 0
+//HACK different transition back -GHS
+
+//午後は部室で過ごした。
+We passed the afternoon in the club room,
+TP
+
+
+//風通しが良くて、教室より涼しいからだ。
+as the ventilation is good, and it's cooler than the classroom.
+//It toootally doesn't mean that they can talk in the club room easier than in class since the classes are still in session as normal and they're just cutting. -GHS
+TP
+
+
+//太一「思い出すな」
+Taichi: "Do you remember?"
+TP
+
+GL 1 TCKT0000
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfccb0021fyu000
+//冬子「……え？」/*
+Touko: "...eh?"
+//CP CCB0021/CCA0028 (NOW you tag it as dupe...)
+TP
+
+
+//太一「冬子が部室に遊びにくるまで、苦労したっけ」
+Taichi: "All the troubles I had to go through to get you to come play with us in the club room, Touko."
+//Going with 'play' in the literal sense, not in the lateral 'come by for non-serious purposes'. -GHS
+TP
+
+
+WVP 0 vfcca0002fyu011
+//冬子「…………」
+Touko: "......"
+TP
+
+
+
+
+WVP 3 SE001 0 0
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0010s
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+
+WVP 1 bgm015.ogg 0 0 0
+
+
+//GL 0 bgcc0010s
+//GS 0 1
+//GS 1 0
+//SEF 10 1
+//たまに部活に来るようになった。
+And so she had ended up coming to club every once in a while.
+TP
+
+
+//太一「……よ、来たな」
+Taichi: "...yo, you came."
+TP
+
+//GL 1 TCKT0002s
+GL 1 TCKT0005S
+//HACK doll -GHS
+GI 1 1
+
+WVP 0 vfCCD2001fyu225
+//冬子「退屈だったから、顔出しただけ」
+Touko: "Because I was bored, and this is only me showing face."
+TP
+
+
+//太一「みんないない時に来るんだよな、桐原は」
+Taichi: "You only come when there's nobody, Kirihara."
+//Hmmm. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu226
+//冬子「……偶然よ」
+Touko: "...a coincidence!"
+TP
+
+
+//太一「まあ座れ。安物のコーヒーを振る舞ってやろう」
+Taichi: "Well, have a seat. I'm a treating you to some crappy coffee."
+TP
+GL 1 TCKT0006s
+GI 1 0
+
+WVP 0 vfCCD2001fyu227
+//冬子「……うん」
+Touko: "...yes."
+TP
+
+
+
+//……………………。
+//............
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen, dots replaced by this I guess. -GHS
+
+
+
+//実験だった。
+It was an experiment.
+//Troll Channel is in session! -GHS
+TP
+
+
+//俺という人間が、愛想良くすることで、どの程度世間に通じるのか。
+By what extent could the human that I am carry himself through society via the application of good manners?
+//Don't fall asleep now: "how well can I do in the world if I behave myself as expect?" What kind of Evil Experiment is this?! -GHS
+TP
+
+
+//どの程度、騙し通せるのか。
+By what extent could I continue my deception?
+//Considering it's been ten years since release straight with no one apparently noticing, I'd say for a veeeeery looooooong time. -GHS
+TP
+
+
+//結果次第で、どう生きるかも決められる。
+And depending on the results, I would decide in what way I can live.
+//Since the result is "I picked the wrong girl dammit", it would seem things are inconclusive. More interesting is the "experiment" he's running on Yusa, more or less parallel to this. That one he explicitly says it's about his looks. Paradoxically, the first week was more honest than this! -GHS
+TP
+
+
+//とけこめるのか。
+Could I blend in?
+TP
+
+
+//絆とか情けを模倣して。
+Could I imitate emotional bonds like sympathy?
+TP
+
+
+//生存は可なのか。
+What is the possibility of my existence?
+//生存は可なのか + 人 = 生存は何なのか (what is the meaning of my existence) ...symbolism? -GHS
+TP
+
+
+//そのためには、ある程度は、人を意のままに操る力が必要だ。
+And to accomplish all this, an extent of power is necessary to manipulate people at will.
+TP
+
+
+//俺は異質なのだから。
+Because I am heterogeneous.
+//And if you follow this term allll the way to the start, you'll see he means his looks. See CCA0022, especially. -GHS
+TP
+
+
+//怯えられてはならない。
+To not cause fright is a must.
+TP
+
+
+//醜悪さを、気取られてはならない。
+To not have my unsightliness perceived is a must.
+//And there it is. Further compare Yusa, esp. see CCA0013. He's talking about his looks but thinking he's talking about inside when he actually does think it's his looks. Apparent deception!=real (self-)deception!=truth=apparent deception. -GHS
+TP
+
+
+//俺の根底にある醜さは、魔女のイメージと直結していた。
+This underlying ugliness of mine has a direct connection to my image of the witch.
+//Hence all the witches in Umineko? More importantly, remember all the sandwiches that Youko makes. That joke about the witches now has payoff... mostly because he ties an *underlying* ugliness to an *image*. The poor bastard. Also, remember who's the Mountain Witch. -GHS
+TP
+
+
+//原因は……子供の頃の御伽噺か何かだろうか。
+The origin... childhood fairytales or something I guess?
+//Who reads "albino" and thinks "witch"? ...more people than read "locked door mystery" and think "witch", I guess, but... -GHS
+TP
+
+
+//本で読んだ魔女狩りの歴史があまりにも苛烈だったことから、あるいは『魔女は本当に邪悪なものなのだ』という認識を抱いたせいかもしれない。
+Maybe I had read in a book that the history of witch hunts was extremely vicious, and it's possible I have ended up having embraced the prejudice that witches are indeed truly wicked, or something of the sort.
+//An innocent sentence that is yet a likely troll. First, I can't help thinking that using a word with the 烈 kanji (which includes the radical for 'fire') is either a really bad choice for talking about witch hunts, or intended to make this sentence sound a lot more comical than it seems. The troll comes to the forefront when considering that Taichi seems to have bought into the anti-witch propaganda.
+//Who actually ever reads about the fierceness of the witch hunts and thinks maybe they were correct? Especially considering most of that fierceness is entirely the invention of 17th century anti-Catholic and anti-Christian propaganda! This is a strangely odd conclusion consistent with CCA0015C, and laterally with the Phantasy Star II reference. I'm considering this as another tongue-in-cheek side-reference to Christianity that looks chastising only to the untrained eye, like making the local prophet a zombie or having characters scream "goddamn" and "Jesus" in English. -GHS
+TP
+
+
+//してみれば白髪も、魔性の特質に思える。
+And then the white hair, as well looks so characteristically diabolic.
+//In Japan maybe, in the West white hair is nowhere near as close as horns or a tail, let alone red hair. More interestingly, that'd make Taichi a White Witch. So he has a belly bug who's a lion, and there's porn in his wardrobe... hmmm. -GHS
+TP
+
+
+//この瞳の輝きにしても、だ。
+The glittering of these pupils, same.
+TP
+
+
+//気に病むことに際限はない。
+There's no limit to things to be anxious about.
+//no no not 気に病 kinibyou it's pronounced 中二病 chuunibyou -GHS
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+//太一「ほら、冬子の分」
+Taichi: "Here Touko, this one's yours."
+TP
+
+
+//コーヒーを渡した。
+I handed over the coffee.
+TP
+
+
+//安物と言って、ブルーマウンテンを出すのがコツだ。
+Calling it crappy then serving Blue Mountain coffee is an art.
+//http://en.wikipedia.org/wiki/Jamaican_Blue_Mountain_Coffee the coffee seems largely irrelevant except perhaps to recalling the mountains which separate the real world from Heaven; laterally, calling this sci-fi about psychopaths stuck in an alternate dimension and then being a meta mess about religion is very much an art, to say nothing of the simpler and hopefully by now more obvious metareferences here. -GHS
+TP
+
+GL 1 TCKT0002s
+GI 1 0
+
+WVP 0 vfCCD2001fyu228
+//冬子「……ねえ」
+Touko: "...say."
+TP
+
+
+//太一「ん？」
+Tacihi: "Hm?"
+TP
+
+GL 1 TCKT0006s
+GI 1 0
+
+WVP 0 vfCCD2001fyu229
+//冬子「太一って呼ぶから」
+Touko: "What if I called you 'Taichi'."
+//That's his name, don't wear it out -GHS
+TP
+
+
+//少し驚いた。
+I was bit astonished.
+TP
+
+
+//はじめて冬子に逸脱されたように感じた。彼女に対する俺の認識から。
+For the first time I felt Touko had deviated. Deviated from my cognition of her.
+//And there's the first serious hint about who's really in control here. And more evidence of the major reading key of Cross Channel: Taichi's people reading skills are incredibly bad, and this goes double for himself. -GHS
+TP
+
+
+//太一「……いいけど。唐突だな」
+Taichi: "...no problem. But it's sudden, innit."
+TP
+
+GL 1 TCKT0002s
+GI 1 0
+
+WVP 0 vfCCD2001fyu230
+//冬子「だってわたしだけ冬子冬子って呼ばれて、不公平だわ」
+Touko: "Buuut only me being called 'Touko, Touko', is that mayhap not unequal!"
+//See CCB0004C. This is the first, and last, time that Touko uses ～だわ. Although Past Touko might have been more like this, I'm suspecting Taichi The Great Judge of Character again. -GHS
+TP
+
+
+//GL 1 TCKT0001s
+GL 1 TCKT0021S
+//HACK fufufu -GHS
+GI 1 0
+
+WVP 0 vfCCD2001fyu231
+//冬子「だから仕返し」
+Touko: "Therefore retaliation."
+TP
+
+
+//ニヤリと笑った。
+A cattish broad grin of a smile.
+TP
+
+
+//太一「……どうぞご自由に」
+Taichi: "...please, feel free to."
+TP
+
+
+//苦笑、してみせた。
+I showed her a bitter smile.
+//He's so owned. -GHS
+TP
+WVS 3 1
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+//……………………。
+............
+TP
+
+
+
+
+WVP 3 SE001 0 0
+GL 0 bgcc0010s
+GS 0 1
+//SEF 10 1
+SEF 10 0
+//HACK faster transition -GHS
+//太一「これは？」
+Taichi: "What's this?"
+TP
+
+//GL 1 TCKT0002s
+GL 1 TCKT0006S
+//HACK doll -GHS
+GI 1 1
+
+WVP 0 vfCCD2001fyu232
+//冬子「……お、お弁当作ったの……わたしがね」
+Touko: "...a-, it's a packed lunch... made by me, yes."
+//Sorta confused. See CCB2002, she's lying to get in his good graces. Which is the exact thing he's doing, except he's incessantly wangsty about it. Ain't cross communication wonderful. That her first big lie is about food should further recall Yusa and Yusa's mom. In this sense, Taichi also rejects Touko. -GHS
+TP
+
+
+//太一「へー、こんな庶民的なものも作れたんだな」
+Taichi: "Ohhh, you're even capable of making something as plebeian as this then!"
+TP
+
+//GL 1 TCKT0005s
+GL 1 TCKT0000S
+//HACK doll -GHS
+GI 1 0
+
+WVP 0 vfCCD2001fyu233
+//冬子「もっちろんよ。これでも料理は得意なんだから」
+Touko: "Of course! I might seem like this but I am excellent at cooking."
+//As in a rich, wealthy incompetent. Which she is. -GHS
+TP
+
+
+//太一「量多くない？」
+Taichi: "Isn't there a bit too much stuff?"
+//See Touko. I mean, Youko. -GHS
+TP
+GL 1 TCKT0002s
+GI 1 0
+
+WVP 0 vfCCD2001fyu234
+//冬子「……そうね……作りすぎて……だから太一、特別に相伴に預かってもいいわよ」
+Touko: "...yes, right... I made too much... therefore, Taichi, you may exceptionally be entrusted with partaking of this, yes!"
+//Tsundere levels increasing. Curiously, this seems to be partly a learned behavior. -GHS
+TP
+
+
+//太一「あ、そ……」
+Taichi: "Ah, right..."
+TP
+
+
+//呆れた。
+Astonishment that left a bitter taste on my mouth.
+//This one I've usually translated as disgusted, but here there's more of the astonishment. Splitting the difference. -GHS
+TP
+
+GL 1 TCKT0006s
+GI 1 0
+
+WVP 0 vfCCD2001fyu235
+//冬子「……おいしい？」
+Touko: "...delicious?"
+//Yes, I have personally witnessed human beings actually ask this question like this, no frills. Then again, I've personally witnessed human beings claim "is like a character, acts" and "acts like a character" are substantially rather than irrelevantly different, so maybe they're not the best example. -GHS
+TP
+
+
+//太一「うん、まっとうにうまい」
+Taichi: "Yes, respectably tasty."
+TP
+
+GL 1 TCKT0006s
+GI 1 0
+
+WVP 0 vfCCD2001fyu236
+//冬子「そ、その……卵焼きとかどう？」
+Touko: "Th-, those... fried eggs, how are they?"
+TP
+
+
+//太一「なんかこれだけ、妙にいびつなんだよな……他のはキチッとしてるのに」
+Taichi: "Dunno, these are the only ones that are all crooked... the rest are so square'n'straight though."
+TP
+
+GL 1 TCKT0002s
+GI 1 0
+
+WVP 0 vfCCD2001fyu237
+//冬子「う……」
+Touko: "Ngh..."
+TP
+
+
+//なるほど。
+I see.
+TP
+
+
+//反応から真実を察して、適した行動を選択する。
+From the reaction guess the truth, and select a suitable conduct.
+//See CCB2002: his bad reaction may not be so much at her being unable to cook, but at the age of the maid who made it. Regardless, they haven't had sex yet and their relationship is already a train wreck of lies. The one thing that should be obvious, however, is this: in what way is this an abnormal, absurd or impossible way for relationships to go wrong among perfectly ordinary people? -GHS
+TP
+
+
+//太一「ん……ああ、でもこれが一番うまい」
+Taichi: "Mh... aaah, but these are the most delicious!"
+TP
+
+GL 1 TCKT0006s
+GI 1 0
+
+WVP 0 vfCCD2001fyu238
+//冬子「ホント！？」
+Touko: "REALLY?!"
+TP
+
+
+//太一「ああ。なんだろ、うまいな」
+Taichi: "Yup. Really, delicious."
+TP
+
+
+//太一「なんか、気持ちがこもってる感じがする。うん、うまいうまい」
+Taichi: "I can just feel the emotions that were put in this. Yes, tasty tasty!"
+TP
+
+
+//実は、一番まずかった。
+Truth is, they were the most disgusting.
+TP
+
+
+//見た目のままに。
+It's exactly as this looked like.
+TP
+
+
+
+//そんな日々を、丁寧に繰り返していった。
+Those were days of repeated politeness.
+//That repetition... -GHS
+TP
+
+
+//WVS 1 1
+//GL 0 bgcc0000d
+//GS 0 1
+//GS 1 0
+//SEF 109 0
+
+//……………………。
+............
+TP
+
+WVS 3 1
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+//HACK flashback exit whiteout, and stop the damn cicadas! -GHS
+
+//WT 500
+//WT 500 1
+
+GL 0 bgcc0010a
+GS 0 1
+//SEF 152 0
+SEF 109 0
+//HACK different transition back -GHS
+
+
+
+WVP 1 bgm003.ogg 0 0 0
+
+
+//半日が過ぎ去った。
+Half a day had passed by.
+TP
+
+
+//何気ない時。
+Hours of casual nonchalance,
+TP
+
+
+//他愛ない時。
+hours of silly foolishness.
+//See CCA0030. -GHS
+TP
+
+
+//それは無価値という意味だろうか？
+That means they are worthless, right?
+TP
+
+
+//否だ。
+Never.
+TP
+
+
+//いつか、この学校のまねごとめいた冬子との時間を、きっと思い返すことだろう。
+Someday, I will think back upon these sham-like hours spent at school with Touko, for sure.
+//He already does... -GHS
+TP
+
+GL 1 TCKT0006b
+GI 1 1
+
+WVP 0 vfCCD2001fyu104
+//冬子「ねえ、帰りつきあってよ……約束したでしょ？」
+Touko: "So, we're going home together now... you promised right?"
+TP
+
+
+//家に戻ろうかという段階になって、彼女は言った。
+She said that as things reached the Should We Go Home stage.
+//Hum, is he still acting according to a suspiciously dating sim-like schedule...? -GHS
+TP
+
+
+//太一「ああ、大丈夫大丈夫」
+Taichi: "Yup, no problem, nooo problem."
+TP
+
+
+GL 0 bgcc0011a
+GS 0 1
+GS 1 0
+//HACK off doll -GHS
+SEF 152 0
+//車の目星はつけてある。
+I have my aim set on a car.
+TP
+
+
+//太一「ククク」
+Taichi: "Kuh kuh kuh!"
+//TL Note: (evil laugh) -GHS
+TP
+
+
+//今日は、校長のフェラーリをいただく。
+Today I will help myself to the Headmaster's Ferrari.
+TP
+
+
+//キーは校長室から失敬してある。
+The key I've made to take a rude leave from the Headmaster's Office.
+//Once again he uses a term that can mean he just took it, but also that he just stole it. -GHS
+TP
+
+
+//確かに俺には運転の才能はなかった。
+Certainly I had no talent for driving, but,
+TP
+
+
+//が、かわりに溢れんばかりに努力の才があったのだ。
+in its stead, I am ever overflowing with the talent of effort and age.
+//才 -GHS
+TP
+
+
+//俺は繰り返される一週間の日々、幾度となく車に触れ、習熟してきた。
+In the days of this repeating one week I have come into contact with cars time after time, and mastered them.
+//The way he puts this should remind of how many times he's touched people and, by parallel, how much he's mastered handling that... -GHS
+TP
+
+
+//今やその腕前はフォーミュラ的（？）である。
+And now, that ability is at Formula levels(?), assuredly.
+//F1 driving levels, confirmed by the author. Of course, by "came in contact with cars" he seems to mean "I read up about my previous disasters". -GHS
+TP
+
+
+
+//フォンフォンフォン！
+//PhonePhonePhone!
+//VonVonVon
+VroomVroomVroom!
+TP
+
+
+
+//太一「さ、行こう」
+Taichi: "Well, let's go."
+//CP above -GHS
+TP
+
+GL 1 TCKT0006b
+GI 1 1
+//HA-- nope, it's all set properly. -GHS
+
+WVP 0 vfCCD2001fyu105
+//冬子「ドライブみたい、うふ」
+Touko: "So driver-like, heh."
+//Sort of like "so like having a driver". -GHS
+TP
+
+
+//助手席に乗り込む。
+She boards into the passenger seat.
+TP
+
+GO 1 1
+//HACK and out -GHS
+
+//太一「シートベルトをつけてくれよ」
+Taichi: "Fasten your seatbelt, please."
+TP
+
+
+WVP 0 vfCCD2001fyu106
+//冬子「……ええ、そうね……」
+Touko: "...yes, of course..."
+TP
+
+
+//太一「じゃ出動！」
+Taichi: "Then FORWARDS!"
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+
+//……………………。
+............
+TP
+
+WT 500 0
+WT 500 1
+
+
+GL 0 bgcc0005a
+GS 0 1
+SEF 152 1
+WVP 0 vfCCD2001fyu107
+//冬子「……もう……太一とドライブはしない……」
+Touko: "...never... driving with you again, Taichi..."
+TP
+
+
+//太一「同感だ」
+Taichi: "I'm of the same opinion."
+//PCP CCB2008
+//And see CCB2008 for both. -GHS
+TP
+
+
+//なかなかうまくならないな。
+I didn't grow skilled all easy-peasy, nope.
+TP
+
+
+//またフェラーリを大破させてしまった。
+Also I got the Ferrari some serious damage.
+TP
+
+
+//太一「だいたい乗りにくいんだよ。ハンドル切ったらすぐぶれるし、クラッチ重いしギアは入りにくいし……しかも減速してからシフトダウンするとなんかガクガクするし……欠陥車か」
+Taichi: "Besides, it's hard to drive. Leave the steering wheel and it twitches immediately, the clutch's heavy so it's hard to shift into gear... and then when you downshift after slowing down there's this weird shaking... is it just defective?"
+//SOMEONE tried and failed to drive one. And the way he's using those terms seems incorrect. -GHS
+TP
+
+
+//才能ないのかな……俺。
+Maybe this is just talentlessness... mine.
+TP
+
+
+//とりあえず車を使い捨てにしないといけないのはどういうことだろう。
+Anyway, treating cars as disposable is not exactly a big problem.
+//See CCC0011C: who's the Headmaster even going to get damages from? The host family, who is likely paid by the State? Taichi's right, the idiot should've simply not F'd to school. -GHS
+TP
+
+
+//冬子の屋敷に向かう。
+We head to Touko's mansion.
+//It's a very quick and nearly straight drive from Gunjou. He couldn't even get it out of the parking lot, could he... -GHS
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+
+//……………………。
+............
+TP
+GL 0 bgcc0019a
+GS 0 1
+SEF 152 0
+
+//GL 1 TCKT0005b
+GL 1 TCKT0006b
+//HACK earlier doll -GHS
+GI 1 1
+
+WVP 0 vfccb2005fyu006
+//冬子「荷物、なに持って行こうかなーって思っていろいろ探したの」/*
+Touko: "For the baggages, I was wondering, oh what should I bring with, so I went searching all over."
+//CP CCB2005
+TP
+
+WVP 0 vfccb2005fyu007
+//冬子「そしたら古い写真が出てきたのよ？」/*
+Touko: "And guess whose old photos turned up?"
+//CP CCB2005
+TP
+
+
+//嬉しそうに言う。
+She says that looking happy.
+//CP CCB2005
+TP
+
+GL 1 TCKT0005b
+GI 1 0
+
+WVP 0 vfccb2005fyu009
+//冬子「捨てなくてよかった……壁に貼ろうと思うの」/*
+Touko: "So glad I didn't throw them away... I'm thinking of sticking them to a wall."
+//CP CCB2005
+TP
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfccb2005fyu010
+//冬子「壁が埋まっちゃうくらいあったわよ」/*
+Touko: "Until the wall is all buried in them!"
+//CP CCB2005
+TP
+
+
+//太一「ふーん」
+Taichi: "Ohhh."
+TP
+
+GL 1 TCKT0006b
+GI 1 0
+
+WVP 0 vfccb2005fyu011
+//冬子「ふふっ」/*
+Touko: "Heh heh!"
+//CP CCB2005
+TP
+
+
+//腕を組んできた。
+She linked her arm with mine.
+//CP CCB2005
+TP
+
+
+//俺は道具袋からアイテムを取り出し、装備した。
+I extracted that [ITEM] from the tools bag and equipped it.
+//PCP CCB2005
+TP
+
+
+//太一「これを見ろ、桐原」
+Taichi: "Look at this, Kirihara."
+//CP CCB2005
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfccb2005fyu012
+//冬子「腕章？」/*
+Touko: "An arm band?"
+//CP CCB2005
+TP
+
+
+//令嬢は目をこらす。
+The young lady looks quite closely.
+//CP CCB2005
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+
+WVP 0 vfccb2005fyu013
+//冬子「……ばかっぷる……はんたい……」/*
+Touko: "...syrupples... ostracized..."
+//CP CCB2005
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+
+
+WVP 0 vfccb2005fyu014
+//冬子「バカップル反対」/*
+Touko: "Syrupples ostracized."
+//CP CCB2005
+TP
+
+
+//変換する冬子。
+So finally reads Touko.
+//CP CCB2005
+TP
+
+
+//太一「そうだ。俺はバカップルが及ぼす環境への重大な影響を重く見て、毅然とした態度でその規制ならびに抑制に努める立場なのだ」
+Taichi: "Indeed. I have gravely seen the enormity of the impact of Syrupples on the environment, and with manners most firm, I now strive for the position to regulate and furthermore curb said impact."
+//CP CCB2005
+TP
+
+
+//太一「腕組みやめ」
+Taichi: "Cease this arm linking!"
+//CP CCB2005
+TP
+
+
+//振り払う。
+I shake her off.
+//CP CCB2005
+TP
+GL 1 TCKT0002b
+GI 1 0
+
+WVP 0 vfccb2005fyu015
+//冬子「い、いつものことながら……なに言ってるのかわからないんだけど」/*
+Touko: "It-, it's always like this I know but... what are you even saying, I don't understand."
+//CP CCB2005
+TP
+
+
+//太一「人前での没頭的な愛情表現は慎むべし」
+Taichi: "One ought to be most discreet in immersive displays of affections in front of people."
+//CP CCB2005
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfccb2005fyu016
+//冬子「人って、もういない……」/*
+Touko: "People, but there's no more..."
+//CP CCB2005
+TP
+
+
+//太一「ちょっといる」
+Taichi: "There's still a few."
+//CP CCB2005
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+
+WVP 0 vfccb2005fyu017
+//冬子「うー」/*
+Touko: "Ngggh..."
+//CP CCB2005
+TP
+
+
+//不満げ。
+//Apparent frustration.
+Appears to be frustrated.
+//CP CCB2005
+//Minor change. -GHS
+TP
+
+
+//太一「桐原、おまえが反転型の勝ち気娘なのはいい」
+Taichi: "Kirihara, you are the reversible model of overcompetitive girl, and this is fine."
+//CP CCB2005
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfccb2005fyu018
+//冬子「はあ？」/*
+Touko: "Huh?"
+//CP CCB2005
+TP
+
+
+//太一「けどちょっと甘くしたらベタってしすぎるよ！　水気が多すぎだよ！　もっと徹底して勝ち気っぽく行こうよ！　照れる時は厳選。その方が萌え……桐原のためなんだ」
+Taichi: "But if you get this sweet, you'll also be far too hackneyed! There's too much dampness! Let's be more consistently unyielding! Select carefully when to show shyness. Someone like that is moe... be that, Kirihara!
+//CP CCB2005
+TP
+GL 1 TCKT0001b
+GI 1 0
+
+WVP 0 vfccb2005fyu019
+//冬子「は、はぁ……」/*
+Touko: "Huh, huuuh..."
+//CP CCB2005
+TP
+
+
+//太一「おまえは宝石のような女だ」
+Taichi: "You are a woman so like a precious gem."
+//CP CCB2005
+TP
+//GL 1 TCKT0000b
+GL 1 TCKT0006B
+//HACK doll -GHS
+GI 1 0
+
+WVP 0 vfccb2005fyu020
+//冬子「えっ（ドキッ）」/*
+Touko: "Eh! (flutter~)"
+//CP CCB2005
+TP
+
+
+//太一「その輝きはダイヤモンドにまさる……だが悲しいかな、ダイヤは炭素なので火にくべたら燃えてしまうんだ。ガッデム。生涯かけてたくわえた富をダイヤで保存することの愚かしさがよくわかるというものさ」
+Taichi: "That brilliance surpasses that of a diamond... but alas, a diamond is but carbon, and when thrown in a fire it burns all the way. Goddamn it. The stupidity of storing all the fortune accumulated in a lifetime in something diamond-like I have learned well."
+//CP CCB2005
+TP
+
+
+WVP 0 vfccb2005fyu021
+//冬子「？？？」/*
+Touko: "???"
+//CP CCB2005
+TP
+
+
+//太一「一長一短なんだ。そのことをわかっておくれ、私の素敵な淑女よ」
+Taichi: "You have shortcomings and strong points. This is what this one would like to have you understand, oh my fair lady."
+//CP CCB2005
+TP
+GL 1 TCKT0005b
+GI 1 0
+
+WVP 0 vfccb2005fyu022
+//冬子「よくわからないけど、わかったわ」/*
+Touko: "I don't really get it but, I get it, yes."
+//CP CCB2005
+TP
+
+
+//太一「わかってくれたか」
+Taichi: "So you got it now?"
+//CP CCB2005
+TP
+GL 1 TCKT0006b
+GI 1 0
+
+WVP 0 vfccb2005fyu023
+//冬子「……太一、恥ずかしいんだ。人前でベタベタするの」/*
+Touko: "...Taichi, you're embarrassed. Of being all sticky-sticky in front of people that is."
+//CP CCB2005
+TP
+
+
+WVS 1 0
+
+
+//太一「えい」
+Taichi: "E'hy!"
+TP
+
+
+//パンツおろした。
+Panties takedown.
+TP
+
+
+
+WVP 1 bgm011.ogg 0 0 0
+
+
+GL 4 sgcc0012
+$CGsgcc0012 = 1
+GL 5 bgcc0000e
+GI 5 0
+WVP 2 SE106 1 0
+GS 4 1
+GS 1 0
+GS 5 0
+SEF 100 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+
+WVP 0 vfCCD2001fyu108
+//冬子「ふぎー！」
+Touko: "Misconduuuct!"
+TP
+
+
+//太一「ふぎー」
+Taichi: "Misconduuuct."
+//I don't think it's about murdering a government official, plus why is that a bad thing really Japan -GHS
+TP
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 4 0
+SEF 109 0
+
+WT 500 0
+WT 500 1
+
+
+
+GL 0 bgcc0002a
+GS 0 1
+SEF 152 0
+
+
+//帰りは桐原家の大きなキャンピングカーを使った。
+For the return home we went and used the Kiriharas' huge RV.
+//PCP CCB2008
+//And Touko doesn't complain despite five seconds ago???? Continuity? -GHS
+TP
+
+
+//途中で事故った。
+We had an accident on the way.
+TP
+
+
+//自宅まではまだ数百メートルあってしんどい。
+There were still several hundred meters of distance to my house.
+//PCP CCB2008
+TP
+
+
+//そこで、たまたまその付近に停車してある車のキーをすでに入手済みだ。
+From there, by random chance, I had already obtained the key to a car parked in the vicinity.
+//He procured the key because he KNEW he would crash the RV there. But how did he know that, given the Formula Level thing above? -GHS
+TP
+
+GL 1 TCKT0004
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfCCD2001fyu109
+//冬子「……なんか……準備いい……」
+Touko: "...wow... so well prepared..."
+TP
+
+
+//太一「不本意ではある」
+Taichi: "Unwillingly so."
+//See 'bove. -GHS
+TP
+
+WVS 1 1
+
+
+
+WT 1000
+WT 1000 1
+
+
+
+
+WVP 1 bgm012.ogg 0 0 0
+
+
+GL 0 bgcc0003e
+GS 0 1
+GS 1 0
+SEF 152 0
+//太一「あー！！　疲れたー！！」
+Taichi: "Ahhh!!! So tireeed!!!"
+//CP CCB2009
+TP
+
+
+GL 1 TCKT0000c
+GI 1 1
+
+WVP 0 vfccb2009fyu000
+//冬子「……ありがとね。全部やってもらって」/*
+Touko: "...thank you. For everything you've done for me."
+//CP CCB2009
+TP
+
+
+//太一「いーよ」
+Taichi: "It's okeeey."
+TP
+
+
+GL 1 TCKT0006c
+GI 1 0
+WVP 0 vfCCD2001fyu110
+//冬子「水風呂、一緒に入ろうか？」
+Touko: "Shall we take a cold water bath... together?"
+TP
+
+
+//太一「Ｈなしなら」
+Taichi: "As long as there's no Ecchi."
+//(tm) (C) -GHS
+TP
+
+
+GL 1 TCKT0000c
+GI 1 0
+
+//冬子「……」
+Touko: "..."
+TP
+
+
+//無表情だがその下にどんな感情が渦巻いていることか。
+She's expressionless, yet what emotion could be swirling into an eddy under there?
+//See Youko now. -GHS
+TP
+
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfCCD2001fyu112
+//冬子「先に入ってくる」
+Touko: "I will go on in ahead."
+TP
+
+//太一「いってらーっさーい」
+Taichi: "Habe phuuuun!"
+//Not quite what Yusa's mother said, but hum, it's the second time now. -GHS
+TP
+GO 1 1
+
+
+//さてと。
+So then now.
+TP
+
+
+//荷物をあさる。
+I rummage in the luggage.
+TP
+
+
+//ハラキリ丸を発見。
+Harakiri Blade discovered,
+TP
+
+
+GL 0 bgcc0002c
+GS 0 1
+GS 1 0
+SEF 152 0
+//庭に出て。
+brought to the garden,
+TP
+
+
+//へし折った。
+and broken off.
+TP
+
+
+//かわりにカーネーションを装着しておく。
+In its place, I equip a carnation.
+//http://en.wikipedia.org/wiki/Dianthus_caryophyllus#Symbolism This works in the Player Changing Party Member Equipment sense. -GHS
+TP
+
+
+//花は平和の象徴だしな。
+Flowers are a symbol of peace, yes.
+//But not the carnation, as seen above. -GHS
+TP
+
+
+
+GL 0 bgcc0003e
+GS 0 1
+SEF 152 0
+
+
+
+GL 1 TCKT0000c
+GI 1 1
+WVP 0 vfCCD2001fyu113
+//冬子「……さっぱり」
+Touko: "...so refreshing!"
+TP
+
+
+//太一「うん、さっぱりしたな」
+Taichi: "Yup, that was refreshing wasn't it."
+TP
+
+GL 1 TCKT0006c
+GI 1 0
+WVP 0 vfCCD2001fyu114
+//冬子「今、すごくキレイになってるんだけど……ねえ？」
+Touko: "But right now I have made myself all clean... well?"
+TP
+
+
+//太一「来たな」
+Taichi: "And there it is..."
+TP
+
+
+//昨日よりストレートなアプローチだ。
+A much more straightforward approach than yesterday.
+TP
+
+
+//だからバカップル技能保持者は……。
+That's why she's the Syrupple Skill Record Holder...
+TP
+
+
+WVP 0 vfCCD2001fyu115
+//冬子「ねえ、本当はもう我慢できなくなってるんでしょ？　太一、Ｈだもんね」
+Touko: "But, truth is, I can't endure anymore you know? Taichi, let's have sex already."
+//See CCD0021. Right at the end... -GHS
+TP
+
+//HACK the joke below was lame and was slightly tweaked. -GHS
+
+//太一「おりしもインポテンツになった」
+//Taichi: "I have suddenly become impotent."
+//太一「おりしもポテンになった」
+Taichi: "I have suddenly become Impo."
+//He went Sakuraba now, meaning he's doing the right thing since Sakuraba knows everything(tm). -GHS
+TP
+
+
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfzzzCCD2001touko
+//冬子「…………」
+//Touko: "......"
+//冬子「…………ポテン」
+Touko: "......impo?"
+TP
+
+
+//太一「インポテンツはドイツ語だ。勉強になったろ？　インポだと直接的すぎるから、略称はポテンでどうだ？」
+//The word 'impotence' has German roots. You studied it, right? Because Impotenz is excessively direct, let's go with Poten for short, how about it?"
+//太一「とあるドイツ語を略したものだ。Hなことはできない男の証なのだ。あとは自分で正しい語源に辿り着いてくれ」
+Taichi: "It's the abbreviation of a certain German word. It's strong evidence that a man can't do the pervy stuff. You'll work yourself to the proper etymology later."
+//"Middle English, from Anglo-French & Latin; Anglo-French, from Latin impotent-, impotens, from in- + potent-, potens potent" according to Merriam-Webster... but who thought this wasn't bull for even one second, really? Curiously, ポテン生活 (poten seikatsu) seems to be a manga. Even weirder, in baseball that means a http://en.wikipedia.org/wiki/Glossary_of_baseball_%28T%29#Texas_Leaguer FWIW. ポテン itself is "plop" -GHS
+TP
+
+
+//冬子「……………………」
+Touko: "............"
+TP
+
+GL 1 TCKT0006c
+GI 1 0
+
+WVP 0 vfCCD2001fyu117
+//冬子「嫌われてる？」
+Touko: "Do you hate me?"
+TP
+
+
+//太一「メチャ愛してる」
+Taichi: "I love you beyond reason."
+TP
+
+GL 1 TCKT0003c
+GI 1 0
+
+WVP 0 vfCCD2001fyu118
+//冬子「じゃあどうして！」
+Touko: "Well then why!"
+TP
+
+
+//太一「愛しているからだ」
+Taichi: "Because I love you."
+TP
+
+GL 1 TCKT0004c
+GI 1 0
+
+WVP 0 vfCCD2001fyu119
+//冬子「？？？」
+Touko: "???"
+TP
+
+
+//というか、一度手を出すとどうにもならん。
+Or should I say, once I put my hands on her it's curtains.
+TP
+
+
+//ここでぐっと我慢し続ける必要があった。
+It's necessary to steadfastly continue enduring here.
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfCCD2001fyu120
+//冬子「……いいわ。お手入れしてから寝よう」
+Touko: "...whatever. I will sleep straight after beauty care."
+TP
+
+
+//お肌の手入れか？
+Is that skin beauty care?
+TP
+
+
+//興味を引かれる。
+My interest was piqued.
+TP
+
+
+//太一「さすが、そーいうところは女の子だね！」
+Taichi: "I knew it, that part of you is so very girlish!"
+TP
+
+
+//太一「少女らしさを大切にして―――」
+Taichi: "Girlishness is something to be cherished and---"
+TP
+
+
+//刀の手入れをしようとしていた。
+She began beauty care for her sword.
+TP
+
+
+//太一「……違う」
+Taichi: "...nope."
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfCCD2001fyu121
+//冬子「さて」
+Touko: "Now then."
+TP
+
+
+//俺の深く静かな弾劾は届かなかった。
+The profound peacefulness of my denunciation did not reach her.
+TP
+
+
+//するり。
+Sliiide,
+TP
+
+
+GL 4 zzzCCD2002carn
+GI 4 4
+//HACK How frickin' huge is that thing??? Then again, her 'sword' is more like a paper cutter, isn't it. -GHS
+
+
+//愛刀を鞘からのぞかせる。
+she removes her Favored Sword from her scabbard.
+TP
+
+
+//カーネーション。
+Carnation....
+TP
+GO 4 1
+GL 1 TCKT0004c
+GI 1 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK out CG, independent BG shake -GHS
+
+
+WVP 0 vfCCD2001fyu122
+//冬子「私の魂ガーーーーーーッッッ！！？？」
+Touko: "MY SOOOOOOOUL?!?!?"
+//PCP CCB2009
+//See, it's about the reciprocal abandonment of material attachments in the context of the Want vs. Desire battle... or maybe simply just desserts. -GHS
+//SEF 101 0
+TP
+
+
+//ガクガクガクガクッ！！
+ClatterClatterShiverShiver!!!
+//CP CCB2009
+GP 1 215 15
+GI 1 0
+GP 1 230 30
+GI 1 0
+GP 1 245 15
+GI 1 0
+GP 1 230 0
+GI 1 0
+//HACK independent doll shake -GHS
+TP
+
+
+//痙攣した。
+CcOnVvUlLlSsSioNnNsSSSs
+//CP CCB2009
+TP
+//GO 1 1
+
+GL 1 zzzToukoDark
+GP 1 230 0
+GI 1 1
+GL 2 zzzToukoGhost
+GP 2 200 0
+GI 2 0
+GP 2 170 0
+GI 2 0
+GP 2 140 0
+GI 2 0
+GP 2 110 0
+GI 2 0
+GO 2 1
+//HACK death... -GHS
+
+
+WVP 0 vfCCD2001fyu123
+//冬子「あうあうあうあうっっっ」
+//Touko: "Meet Meet Meet Meet!!!!"
+Touko: "aWauWauWauWauWauWauuuh!"
+//Closer length to CCB2009 -GHS
+TP
+
+
+//口からなにか出た。
+//※なにか＝エクトプラズム
+Something leaves from the mouth.
+> 
+ 
+ 
+* Something = the ghost
+//CP CCB2009
+TP
+
+
+//太一「いかん！」
+Taichi: "Dammit!"
+TP
+//GL 1 TCKT0005c
+//GI 1 0
+
+GI 2 1
+GP 2 140 0
+GI 2 0
+GP 2 170 0
+GI 2 0
+GP 2 200 0
+GI 2 0
+GP 2 240 0
+GI 2 0
+GP 2 245 0
+GI 2 0
+GP 2 250 0
+GI 2 0
+GP 2 245 0
+GI 2 0
+GP 2 240 0
+GI 2 0
+GP 2 230 0
+GI 2 0
+GO 2 0
+GL 1 TCKT0004C
+GI 1 1
+//HACK ...and return. The effect's not as pretty as in the 360 and PS2 editions, but it's close enough in spirit (hah hah hah). -GHS
+
+
+WVP 0 vfCCD2001fyu124
+//冬子「んんんんんんんっ！？」
+Touko: "Nnnnnnnh?!"
+//7xn -GHS
+TP
+
+
+//押し込んでいく。
+I cram it in her mouth.
+//He of course means the soulnis. -GHS
+TP
+
+GL 1 TCKT0001c
+GI 1 0
+
+
+
+WVP 0 vfCCD2001fyu125
+//冬子「……はぁはぁはぁ」
+Touko: "...haaah haaah haaah..."
+TP
+
+
+//我に返る。
+She comes to her senses.
+TP
+
+GL 1 TCKT0003c
+GI 1 0
+
+
+WVP 0 vfCCD2001fyu126
+//冬子「ちょっと、これどういうことなのよ！！」
+Touko: "You there, what is the meaning of this now!!!"
+TP
+
+
+//太一「刃物は持ち込み禁止だこのバカ！！」
+Taichi: "Bringing in cutlery implement is forbidden, you damn dummy!!!"
+//Into the house. Also, Tsundere Fight! Yay. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu127
+//冬子「バカはどっちよ！　この刀がわたしの魂の一部と知っての狼藉っ！？」
+Touko: "You're the dummy! You weren't clueless that this sword there was one part of my soul when you violated it?!" 
+//Still mirroring CCB2009 -GHS
+TP
+
+
+//太一「ああ、知っててやったね」
+Taichi: "Yup, I knew that and I did it."
+TP
+
+
+//吐き捨てる。
+I spit that towards her.
+//First week callback -GHS
+TP
+
+
+//太一「武器なんていらねぇんですよ！」
+Taichi: "Ah' don't wanna weapons of no sort, indeed I do not!"
+//Mid-sentence formality shift ugh
+TP
+GL 1 TCKT0004c
+GI 1 0
+
+WVP 0 vfCCD2001fyu128
+//冬子「う……ううう……名刀が……」
+Touko: "Uh... ugggh... my Legendary Sword..."
+//78000 mesetas at the last shop before Dark Falz. -GHS
+TP
+
+
+//太一「新しいのとか持ってこないように」
+Taichi: "And I'd like for you not to go bring in a new one or anything."
+TP
+
+
+GO 1 1
+
+//冬子はいじけて寝た。
+Touko went nervelessly asleep.
+TP
+
+
+
+WVS 1 1
+
+
+//だって。
+Because,
+TP
+
+
+//だってなぁ―――
+because, well---
+//That's probably the paper cutter she stabbed herself with back when, and the one that he saw stabbed into her "body" back in her route. -GHS
+TP
+
+
+
+WVP 3 SE001 0 0
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0010s
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+WVP 1 bgm013.ogg 0 0 0
+
+
+//GL 0 bgcc0010s
+//GS 0 1
+//GS 1 0
+//SEF 10 1
+
+
+//GL 1 TCKT0001s
+GL 1 TCKT0006S
+//HACK doll -GHS
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfCCD2001fyu239
+//冬子「ねえ……太一の家、遊びに行きたい」
+Touko: "Hey... I want to come by your house, Taichi."
+TP
+
+
+//太一「いいよ、来れば？」
+Taichi: "You sure, can you come by?"
+TP
+GL 1 TCKT0000s
+GI 1 0
+
+WVP 0 vfCCD2001fyu240
+//冬子「……おうちの方とか、は？」
+Touko: "...what about your folks?"
+TP
+
+
+//太一「仕事で寮暮らししてるから、たまにしか帰ってこないよ」
+Taichi: "She lives at the dormitory due to work, so she only seldom comes home."
+TP
+
+
+//太一「だいたい一人だね」
+Taichi: "Usually I'm alone, so..."
+TP
+
+//GL 1 TCKT0002s
+GL 1 TCKT0006S
+//HACK doll -GHS
+GI 1 0
+WVP 0 vfCCD2001fyu241
+//冬子「……そ、そうなんだ……じゃ、今度、行こうかな」
+Touko: "...y-, you are then... then, maybe next time I'll come by maybe."
+TP
+
+
+//来るべき時が来た。
+The expected time had come.
+//In his datingsim-like schedule I guess. -GHS
+TP
+
+
+//実証の時。
+The time of empirical demonstration.
+//And more Yusa parallels. -GHS
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+
+//……………………。
+............
+TP
+
+
+
+
+WVP 0 vfCCD2001fyu242
+//冬子「太一……わたし、はじめてだから……その……優しくして……」
+Touko: "Taichi... I-, it's my first time so... well... be gentle..."
+TP
+
+
+//太一「ああ、わかってる」
+Taichi: "Yup, I get it."
+//Incredibly fake. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu243
+//冬子「……好き……なの……」
+Touko: "...love you... so..."
+TP
+
+
+//太一「ああ、わかってる―――」
+Taichi: "Yup, I get it---"
+//CP above
+//See CC3027, damn his eroge behavior. -GHS
+TP
+
+
+//そう仕向けたから。
+Because you were induced to.
+//Pffft, he's so trolled. -GHS
+TP
+
+
+//自分が世の中でうまくやっていけるという、確信の中で。
+With the confidence that I could get along skillfully with this society,
+TP
+
+
+//安堵とともに、冬子を抱いた。
+I embraced relief, together with Touko.
+//But as the above shows, their relationship was doomed. And it's not Taichi faking - it's both. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu244
+//冬子「……あ……あああっ……」
+Touko: "...ah... aaah..."
+TP
+WVS 3 1
+
+
+//実験成功。
+Experiment successful.
+TP
+
+
+//そう思えた。
+Or so I thought.
+TP
+
+
+//忘れていた。
+I had forgotten,
+TP
+
+
+//俺も冬子も、自分では制御できない己を持っていたことを。
+that both I and Touko have a self that can't be controlled by us,
+//己, that damn word so innocent that when used in CCA0001 yet... -GHS
+TP
+
+
+//退廃の極みをもって、崩壊へと導く。
+containing the heights of degeneration, leading us to downfall.
+//See her week's name. -GHS
+TP
+
+WVP 3 SE001 0 0
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0003s
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro (yeah, no outro). -GHS
+
+//GL 0 bgcc0003s
+//GS 0 1
+//SEF 109 1
+//太一「……いつも一人でどういう風にしてるの？」
+Taichi: "...how do you usually do it when you're by yourself?"
+TP
+
+
+WVP 0 vfCCD2001fyu245
+//冬子「え……してない……」
+Touko: "Eh... I don't..."
+TP
+
+
+//太一「してるよ。冬子はしてる。俺にはわかる」
+Taichi: "You do it. You do it, Touko. I know you do."
+TP
+
+
+WVP 0 vfCCD2001fyu246
+//冬子「してない、よぉ……」
+Touko: "I don't, really..."
+TP
+
+
+//太一「俺の指使って、やってみせてよ」
+Taichi: "Use my finger, show me how to."
+TP
+
+
+WVP 0 vfCCD2001fyu247
+//冬子「な、なにを？」
+Touko: "Wh-, what to?"
+TP
+
+
+//太一「ひとりえっち。どういう風にイクのか見せて」
+Taichi: "Self-sex. Show me what you do to make you come."
+//Getting a girl he likes to cum! What an evil monster that devours all it touches! -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu248
+//冬子「…………う、うん……」
+Touko: "......o-, OK..."
+//Unlike Kiri, she actually does masturbate. Interesting, since they're both at least supposedly bi... -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu249
+//冬子「こうやって……ん……太一の指、長い……」
+Touko: "Like this... nh... Taichi, your fingers, so long..."
+//See CCC0000. Snakes go around. -GHS
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+//……………………。
+............
+TP
+GL 0 bgcc0003s
+GS 0 1
+//SEF 109 0
+SEF 10 0
+//HACK different transition -GHS
+
+WVP 0 vfCCD2001fyu250
+//冬子「今日は……どうするの？」
+Touko: "And today... so how do I do this?"
+TP
+
+
+//太一「そうだね、まず手でしごいて」
+Taichi: "Well now, first squeeze it in your hand."
+TP
+
+
+WVP 0 vfCCD2001fyu251
+//冬子「……ん」
+Touko: "...mh."
+TP
+
+
+//太一「どう？」
+Taichi: "Well?"
+TP
+
+
+WVP 0 vfCCD2001fyu252
+//冬子「熱い……」
+Touko: "So hot..."
+TP
+
+
+//太一「血が集まってるからな」
+Taichi: "Blood gathers there, that's why."
+TP
+
+
+//太一「もっと強くしても平気」
+Taichi: "It's fine if you do it harder."
+TP
+
+
+WVP 0 vfCCD2001fyu253
+//冬子「……あ……ああ……」
+Touko: "...ah... aah..."
+TP
+
+
+//太一「こういう感じに握って、しごく強さは―――」
+Taichi: "Grasp it sort of like this, and then move up and down with this strength---"
+TP
+
+
+//一つ一つ教える。
+One by one I taught her.
+TP
+
+
+//汚したかった。
+I filthied her.
+//He's having sex with his girlfriend so he Filthies. He's just so eeemo. See CCC0000 again. -GHS
+TP
+
+
+//女の子の痴態は、本能を刺激するものだから。
+Because the nonsensically foolish behavior of girls is what stimulates the instinct.
+//This has nothing to do with shaming. It's likely more troll. He more like wants to see them have fun, see CCC0039 for example. -GHS
+TP
+
+
+//素直に、見たかった。
+I wanted to see it, upfront, frank, direct.
+//Troll levels approaching redline... -GHS
+TP
+
+
+//だから刻みつけた。
+Therefore I carved it on her.
+//He's just teaching her to not to be afraid to show herself. Unfortunately, what HE will see HE won't like. After all, didn't he escape the mansion with Youko because the people there behaved like this? -GHS
+TP
+
+
+//太一「……イクよ？　てのひら出して」
+Taichi: "...I'm coming OK? Put out your palm."
+//Like in sex scenes, Taichi is very eroge protag-like in his total indifference to coming. What'd you expect of a dark nukige survivor, after all. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu254
+//冬子「……え、こう？」
+Touko: "...eh, like this?"
+TP
+
+
+//太一「ああ」
+Taichi: "Yep."
+TP
+
+
+WVP 0 vfCCD2001fyu255
+//冬子「きゃ……やだ……出る……すごい、出てる……」
+Touko: "Kyah... oh no... coming out... so much's coming out..."
+TP
+
+
+//太一「舐めてみて」
+Taichi: "Try licking it."
+TP
+
+
+WVP 0 vfCCD2001fyu256
+//冬子「……これを？」
+Touko: "...what, this?"
+TP
+
+
+//太一「そう」
+Taichi: "Yeah."
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+//……………………。
+............
+TP
+GL 0 bgcc0007s
+GS 0 1
+SEF 10 0
+//HACK different transition
+
+
+WVP 0 vfCCD2001fyu257
+//冬子「あん、ああっ……あああっ……んあっ……やだ、人が来ちゃうっ……」
+Touko: "Ahnh, aah... aaah.. nAh... oh no, people are comiiing..."
+TP
+
+
+//太一「構わないよ。」
+Taichi: "Not a problem!"
+TP
+
+
+WVP 0 vfCCD2001fyu258
+//冬子「ううっ……あっ、あああ……きゃんっ」
+Touko: "Ugh... ah, aaah... kYahn!"
+TP
+
+
+WVP 0 vfCCD2001fyu259
+//冬子「……あっんっ、たいち……たいちぃ……」
+Touko: "...ahnh, Taichi... Taichiii..."
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+//……………………。
+............
+TP
+
+
+
+
+
+
+
+
+
+WVS 1 0
+
+
+//変化は唐突に訪れた。
+The transformation came abruptly.
+TP
+
+GL 0 bgcc0006s
+GL 1 TCKT0001s
+GP 1 220 0
+GS 0 1
+GS 1 1
+//SEF 109 0
+SEF 10 0
+//HACK different transition
+
+WVP 0 vfCCD2001fyu260
+//冬子「……宮澄先輩と話すのやめて」
+Touko: "...stop talking to Miyasumi-senpai."
+//Just replace that first T with a Y already. Being in love with the tsun of a tsundere is no more possible than being in love with the kuu of a kuudere. -GHS
+TP
+
+
+WVP 1 bgm014.ogg 0 0 0
+
+
+//太一「どうして？」
+Taichi: "How come?"
+TP
+
+
+//目をすえて、俺を推しはかっている。
+Fixing my eyes on her, I conjectured and surmised.
+TP
+
+
+//太一「別にやましいことはしてないけど？」
+Taichi: "We're not really doing anything to be guilty about, right?"
+TP
+GL 1 TCKT0006s
+GI 1 0
+
+WVP 0 vfCCD2001fyu261
+//冬子「いやなの。やめて。それでわたしのそばにいて」
+Touko: "I said no. Stop. And then stay by my side."
+//She never wanted aloofness, she never liked it, just like Youko. And now that she wants someone, and will go at any length for it, Taichi's immediately disinterested. Monsters? Still nowhere to be seen. -GHS
+TP
+
+
+//太一「……いるじゃない、今こうして」
+Taichi: "...and I'm not, right now?"
+TP
+
+
+WVP 0 vfCCD2001fyu262
+//冬子「もっと……」
+Touko: "More..."
+TP
+
+
+//太一「もっとって……」
+Taichi: "More you say..."
+TP
+
+
+//太一「だいたい、部活してるんだからどうしたって先輩と会話は……」
+Taichi: "The point is, I go to club therefore no matter what I'll have conversations with Senpai and..."
+TP
+GL 1 TCKT0001s
+GI 1 0
+
+WVP 0 vfCCD2001fyu263
+//冬子「部活、やめて」
+Touko: "The club, quit it."
+TP
+
+
+//太一「無理言うなよ」
+Taichi: "Don't talk nonsense!"
+TP
+GL 1 TCKT0005s
+GI 1 0
+
+WVP 0 vfCCD2001fyu264
+//冬子「宮澄先輩、邪魔……」
+Touko: "Miyasumi-senpai, you meddler..."
+//So so so very Youko this one. If she had the character to express herself, of course. -GHS
+TP
+
+
+//太一「冬子？」
+Taichi: "Touko?"
+TP
+
+
+//危険な。
+Dangerous.
+TP
+
+
+WVP 0 vfCCD2001fyu265
+//冬子「いなくなれば、いいのかな」
+Touko: "If she went away that'd be good, maybe."
+//Because no one here is in practice a cold-blooded murderer, Sending People Away means really one thing. -GHS
+TP
+
+
+//それは危険な。
+This is dangerous.
+TP
+
+
+//太一「おい、しっかりしろ」
+Taichi: "Come now, steadfast!"
+TP
+GL 1 TCKT0000s
+GI 1 0
+
+WVP 0 vfCCD2001fyu266
+//冬子「……え？」
+Touko: "...eh?"
+TP
+
+
+//我に返る。
+She comes to her senses.
+//CP above
+TP
+
+
+//太一「しっかり自分を保てよ。変な感じだったぞ」
+Taichi: "Keep yourself steadfast now. You felt weird right there."
+//This is possibly how Taichi feels when he goes in his delusions. -GHS
+TP
+GL 1 TCKT0002s
+GI 1 0
+
+WVP 0 vfCCD2001fyu267
+//冬子「ああ、ごめんなさい……」
+Touko: "Ahhh, apologies..."
+TP
+GL 1 TCKT0006s
+GI 1 0
+
+WVP 0 vfCCD2001fyu268
+//冬子「ふふ……ねえ、他には、したいことないの？」
+Touko: "Hoh hoh... say, is there anything else that you want to do?"
+//She's proactive. She likes it. Like all normal humans. The defilement is all in Taichi's head. -GHS
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 10 0
+
+//それは傾斜のはじまり。
+That was the beginning of the downward incline.
+TP
+
+
+WVS 1 1
+
+
+
+WVS 3 1
+
+
+
+
+//WT 500 0
+//WT 500 1
+
+
+
+
+
+
+
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+//HACK flashback exit whiteout -GHS
+WVP 1 bgm005.ogg 0 0 0
+
+
+//Thursday September 10, 1998 -GHS
+GL 0 bgcc0005
+GS 0 1
+//SEF 152 0
+SEF 109 0
+//HACK different transition back -GHS
+
+//楽しい登校。
+Fun school attendance with Touko.
+//CP CCB2010
+TP
+
+
+//なのに。
+However,
+//CP CCB2010
+TP
+
+
+//冬子はむくれていた。
+Touko had become sullen.
+//CP CCB2010
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+GL 1 TCKT0002
+GP 1 220 0
+GI 1 1
+
+//冬子「……」/*
+Touko: "..."
+//IT'S NOT EVEN VOICED -GHS
+TP
+
+
+//太一「…………」
+Taichi: "......"
+//CP CCB2010
+TP
+
+
+//冬子「…………」/*
+Touko: "......"
+//CP CCB2010
+TP
+
+
+//太一「ねえ」
+Taichi: "Say,"
+//CP CCB2010
+TP
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfccb2010fyu002
+//冬子「……ふん」/*
+Touko: "...pfui."
+//CP CCB2010
+TP
+
+
+//バリヤーが張ってある。
+Barrier is extended.
+//CP CCB2010
+TP
+
+
+//太一「うーん」
+Taichi: "O-key."
+//CP CCB2010
+TP
+
+
+//今朝からずっとこんな調子だった。
+She's been like this all throughout morning.
+//CP CCB2010
+TP
+
+
+//太一「おーい」
+Taichi: "Hee-y."
+//CP CCB2010
+TP
+
+GO 1 1
+//HACK out -GHS
+
+//冬子「……」/*
+Touko: "..."
+//CP CCB2010
+TP
+
+
+//駄目か。
+No dice, huh.
+//CP CCB2010
+TP
+
+
+//一人でつかつか先に行く冬子。
+Touko had gone on alone ahead of me, and walking really fast.
+//CP CCB2010
+TP
+
+
+//追いすがる。
+I trailed close,
+//CP CCB2010
+TP
+
+
+//隣に並ぶ。
+and lined up next to her.
+//CP CCB2010
+TP
+
+
+//気位の高い冬子は、まるでこっちを見ようともしない。
+Touko, with her high haughtiness, naturally does not want to even look my way.
+//CP CCB2010
+TP
+
+
+//片手を伸ばして、胸をわしづかみにしてみた。
+Stretching over a hand, I attempt a talon grab on her chest.
+//CP CCB2010
+TP
+GL 1 TCKT0004
+GI 1 1
+//HACK fade -GHS
+
+WVP 0 vfccb2010fyu004
+//冬子「いっ！？」/*
+Touko: "Yyh?!
+//CP CCB2010
+//SEF 101 0
+GP 1 215 15
+GI 1 0
+GP 1 230 30
+GI 1 0
+GP 1 245 15
+GI 1 0
+GP 1 230 0
+GI 1 0
+//HACK independent doll shake -GHS
+TP
+
+
+//太一「おまえって全然おっぱいないヨネ！」
+Taichi: "Really, you don't have any boobs do-you-not!"
+//CP CCB2010
+TP
+
+
+GL 4 sgcc0012
+$CGsgcc0012 = 1
+GL 5 bgcc0000e
+GI 5 0
+//WVP 2 SE105 1 0
+WVP 2 seGAROU 1 0
+GS 4 1
+GS 5 0
+SEF 100 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK SFX, independent CG shake -GHS
+
+WVP 0 vfccb2010fyu005
+//冬子「おだまりーーーーっ！！」/*
+Touko: "KEEP SILEEEEEENT!!!"
+//CP CCB2010
+TP
+
+
+//太一「お嬢様ーーーーーっ！！」
+Taichi: "Ojou-samaaaa!!!"
+//CP CCB2010
+TP
+
+
+WVS 1 1
+
+
+
+
+
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+GS 4 0
+SEF 152 0
+
+
+
+WVP 1 bgm018.ogg 0 0 0
+
+
+//門も開きっぱなしか。
+Was the gate just left open like this?
+//CP CCB2010
+TP
+
+
+//まるで俺たちを迎え入れるよう。
+It's as if it's ushering us in.
+//CP CCB2010
+TP
+
+
+//牢獄なのだと思っていた。
+I thought of this as nothing more than a hellish prison,
+//CP CCB2010
+TP
+
+
+//けど今は、優しい胎のように安心できる場所だ。
+but now it's as a gentle womb, a welcoming place where we can have peace of mind.
+//CP CCB2010
+TP
+
+
+//人はいない。
+There are no people.
+//CP CCB2010
+TP
+
+
+//どこにもいない。
+Not one, nowhere.
+//CP CCB2010
+TP
+
+
+//ただ学校だけが、群青学院だけが、自然に集まりあえる場所。
+So only at school, only at the Gunjou Institute, do we have a natural place to meet and gather.
+//CP CCB2010
+TP
+
+
+//引き寄せられて過去を営む。
+Dragged inside to carry on the past.
+//CP CCB2010
+TP
+
+
+//実際、この人類滅亡は相当にキツい。
+In truth, the fall of mankind was exactly as big a problem as expected.
+//CP CCB2010
+TP
+
+
+//トドメになったのだと思う。ほとんどの人間に。
+I think it would have become the finishing blow. For almost all humans.
+//CP CCB2010
+TP
+
+
+//俺には福音となり、彼らには落胆と緩慢な死を。
+To me it became the good news, to them, it is a slow and despondent death.
+//CP CCB2010
+TP
+
+
+//そして冬子は我が家に来るしかなくなった。
+And that is why Touko couldn't but come to my home.
+//CP CCB2010
+TP
+
+
+//皮肉である。
+So ironic.
+//CP CCB2010
+TP
+
+
+
+
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+WT 500 0
+
+GL 0 evcc0011
+$CGevcc0011 = 1
+GS 0 1
+SEF 152 0
+
+
+
+//はたして冬子はそこにいた。
+Predictably, Touko was there.
+//CP CCB2010
+TP
+
+
+//太一「お早いご通学で」
+Taichi: "You're quick on your school commute."
+//CP CCA0004
+TP
+
+
+WVP 0 vfcca0004fyu001
+//冬子「……」/*
+Touko: "..."
+TP
+
+
+//太一「しかもまた私服通学か」
+Taichi: "And yet you came to school in normal clothes again?"
+//CP CCA0004
+TP
+
+
+//太一「よくそんな暑そうな格好ができるな」
+Taichi: "You really manage to wear that hot-looking thing often, can't you."
+//CP CCA0004
+TP
+
+
+//無視。
+Ignored.
+//CP CCA0004
+TP
+
+
+//太一「へいへい」
+Taichi: "Hey hey."
+//CP CCA0004
+TP
+
+
+//肩をすくめて、冬子のすぐ隣……自分の席に座る。
+Shrugging my shoulder, I sit in the seat next Touko's... mine.
+//CP CCA0004
+TP
+
+
+//横顔を眺める。
+I gaze at her profile.
+//CP CCB2010
+TP
+
+
+//黙殺しているようで、こっちを意識しているのがわかる。
+It might be murderous quietness hers, but there is awareness of me, and I know.
+//CP CCB2010
+TP
+
+
+//太一「昨夜は悪かったな」
+Taichi: "Sorry for last night."
+//CP CCB2010
+TP
+
+
+WVP 0 vfCCD2001fyu129
+//冬子「……全然反省してない……」
+Touko: "...you have absolutely not reflected on it..."
+TP
+
+
+//太一「いやあ」
+Taichi: "Naaah, see."
+TP
+
+
+WVP 0 vfccb2010fyu014
+//冬子「……太一はいつもそう」/*
+Touko: "...you're always like this, Taichi."
+//CP CCB2010
+TP
+
+
+WVP 0 vfccb2010fyu015
+//冬子「私のことなんて、目に入ってないみたいで」/*
+Touko: "It's like nothing of me never even catches your eye."
+//CP CCB2010
+//Now it reads in proper context. The self-absorbed bitch (has to be said). -GHS
+TP
+
+
+WVP 0 vfccb2010fyu016
+//冬子「すぐひとりで……勝手に行動して」/*
+Touko: "So quick to be alone... acting so egotistically."
+//CP CCB2010
+TP
+
+
+//太一「まったくだ。反省してる」
+Taichi: "Don't I now. I better make some self-reflection."
+//CP CCB2010
+TP
+
+
+WVP 0 vfccb2010fyu017
+//冬子「ちょっとくらい、構ってほしいのに」/*
+Touko: "I wish, just a bit, that you cared."
+//CP CCB2010
+TP
+
+
+//太一「そう思って……用意してきた」
+Taichi: "And on that thought... I came ready."
+//CP CCB2010
+TP
+
+
+WVP 0 vfccb2010fyu018
+//冬子「用意？」/*
+Touko: "Ready?"
+//CP CCB2010
+TP
+
+
+
+
+WVS 1 0
+
+
+
+//冬子の机の上に、コロッケパンをどさどさ。
+I drop a small mountain of croquette bread on Touko's desk.
+//CP CCB2010
+TP
+
+
+//太一「さあ、好きなだけ餓えを満たすがいい！」
+Taichi: "So, appease your fasting to your heart's content!"
+//CP CCB2010
+TP
+
+GL 0 bgcc0006
+GS 0 1
+GL 1 TCKT0003
+GP 1 230 0
+GS 1 1
+SEF 109 0
+//HACK seems this older revision didn't have this change. -GHS
+
+WVP 0 vfccb2010fyu019
+//冬子「ちがーう！！」/*
+Touko: "NOT THE POOOINT!!!"
+//CP CCB2010
+TP
+
+
+WVP 2 SE077 1 0
+
+//くるるー
+PoPoing.
+//CP CCB2010
+TP
+
+
+
+//しかし冬子の腹は鳴った。
+And still, Touko's belly bug cried.
+//CP CCB2010
+TP
+
+GL 1 TCKT0004
+GI 1 0
+GP 1 215 15
+GI 1 0
+GP 1 230 30
+GI 1 0
+GP 1 245 15
+GI 1 0
+GP 1 230 0
+GI 1 0
+//HACK doll, independent doll shake -GHS
+
+WVP 0 vfccb2010fyu020
+//冬子「はふっ！？」/*
+Touko: "Hfwhat?!"
+//CP CCB2010
+TP
+
+
+//太一「腹の虫」
+Taichi: "Belly bug."
+//CP CCB2010
+TP
+
+GL 1 TCKT0003
+GI 1 0
+//HACK doll -GHS
+
+WVP 0 vfccb2010fyu021
+//冬子「こっ、これは違うの！」/*
+Touko: "Th-, this is something else!"
+//CP CCB2010
+TP
+
+
+WVP 2 SE077 1 0
+
+//くる、くるるー
+Poing, poPoinnng.
+//CP CCB2010
+TP
+
+
+
+//腹の虫。
+Belly bug.
+//CP CCB2010
+TP
+
+
+//太一「腹の虫アゲイン」
+Taichi: "The Belly Bug: Again."
+//CP CCB2010
+TP
+
+
+WVP 0 vfccb2010fyu022
+//冬子「だからこれは別件！」/*
+Touko: "I'm telling you this is a separate matter!"
+//CP CCB2010
+TP
+
+
+//太一「隠しても無駄だ、俺は腹の虫と会話できるんだぞ？」
+Taichi: "Hiding it is pointless, don't you know I am able to converse with belly bugs?"
+//CP CCB2010
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfccb2010fyu023
+//冬子「…………はぃ？」/*
+Touko: "......what?"
+//CP CCB2010
+TP
+
+
+//太一「とにかくおまえは空腹なのだ」
+Taichi: "Anyway, this means you're hungry."
+//CP CCB2010
+TP
+
+
+//太一「ちなみに俺も空腹だ」
+Taichi: "Incidentally I'm hungry too."
+//CP CCB2010
+TP
+
+
+//太一「そこで一時間目の授業は、コロッケパンとする」
+Taichi: "Therefore, first period class is on croquette bread."
+//CP CCB2010
+TP
+
+
+//パッケージを破り、一つ目にくらいついた。
+I tore open a package, and give a first bite.
+//CP CCB2010
+TP
+
+
+//幸いなことに、腐ってはいないようだ。
+Very happily it hadn't spoiled.
+//CP CCB2010
+TP
+
+
+//太一「ついでに仲直りの時間ともする」
+Taichi: "By the way, it's about time we reconciled."
+//CP CCB2010
+TP
+
+
+//太一「……道徳ってやつかな」
+Taichi: "...should be the moral thing to do I guess."
+//CP CCB2010
+TP
+
+GL 1 TCKT0002
+GI 1 0
+//HACK doll -GHS
+
+//冬子は唖然としていた。
+Touko looked stunned.
+//CP CCB2010
+TP
+
+
+
+
+
+WVP 1 bgm021.ogg 0 0 0
+
+
+
+WVP 0 vfCCD2001fyu130
+//冬子「……ねえ、太一」
+Touko: "...say, Taichi."
+TP
+
+
+//太一「んむ？」
+Taichi: "Nmuh?"
+TP
+
+
+WVP 0 vfCCD2001fyu131
+//冬子「……太一にとって、わたしっていらない子なの？」
+Touko: "...am I just some unwanted child to you, Taichi?"
+//He indeed seems to have poor luck with girls whose name contains the kanji 子. Therefore, literal. -GHS
+TP
+
+
+//太一「そんなことないよ」
+Taichi: "That's not true at all!"
+TP
+
+GL 1 TCKT0003
+GI 1 0
+//HACK doll -GHS
+
+WVP 0 vfCCD2001fyu132
+//冬子「……じゃあ……どうして触れようとしないの」
+Touko: "...then... why don't you come touch me?"
+TP
+
+
+WVP 0 vfCCD2001fyu133
+//冬子「別に……したくないなんて言ってないじゃない……一緒に暮らすって、そういうことじゃないの？」
+Touko: "I can't really... say that I don't want you to... we're living together, isn't that what it means?
+TP
+
+
+//太一「……堕落したくないんだよ」
+Taichi: "...I don't want to corrupt you."
+TP
+
+
+//パンにかぶりつく。
+I bite into the bread.
+//PCP CCB2010
+TP
+
+
+//太一「今の張りつめた理性を、ほどきたくない」
+Taichi: "I don't want to unravel the tension of rationality we have right now."
+//Given it DOES refer to both. -GHS
+TP
+
+GL 1 TCKT0000
+GI 1 0
+//HACK doll -GHS
+
+WVP 0 vfCCD2001fyu134
+//冬子「……理性って……」
+Touko: "...rationality you say..."
+TP
+
+
+//太一「おまえさ、自分を保つ自信、ある？」
+Taichi: "You, ya know, do you have the confidence to maintain yourself?"
+TP
+
+
+//こんな状況下で。
+And in these circumstances.
+TP
+
+GL 1 TCKT0005
+GI 1 0
+//HACK doll -GHS
+
+WVP 0 vfCCD2001fyu135
+//冬子「……保たなくてもいい」
+//Touko: "...I'm fine without preservatives."
+Touko: "...I've no need to maintain myself."
+TP
+
+
+//太一「自分が昔、何をしたか、忘れたわけじゃないだろ？」
+Taichi: "You didn't forget what it was you did all that time ago, right?"
+//Her stabbing herself -GHS
+TP
+
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfCCD2001fyu136
+//冬子「あれは太一が……」
+Touko: "Taichi, that was your..."
+//The Formatting. And the fault was, at best, shared. -GHS
+TP
+
+
+//太一「俺がどうあっても、普通あんなことしない」
+Taichi: "Whatever it was I did, that sort of thing isn't something you normally do."
+TP
+
+
+//冬子「……」
+Touko: "..."
+TP
+
+
+//太一「冬子のことはちゃんと好きだよ」
+Taichi: "I really and truly like you, Touko."
+TP
+
+GL 1 TCKT0003
+GI 1 0
+//HACK doll
+
+WVP 0 vfCCD2001fyu138
+//冬子「だったら……」
+Touko: "Then..."
+TP
+
+
+//太一「けど俺が好きなのは、普段の冬子なんだ」
+Taichi: "But what I like is the normal Touko."
+TP
+
+
+//太一「つんとすまして、世界と戦ってる冬子だ」
+Taichi: "The Tsun Touko, the Touko fighting with the world."
+//The one that doesn't exist, see CCD5001. -GHS
+TP
+
+
+//太一「で、俺は冬子の逃げ道じゃない」
+Taichi: "Therefore Touko, I'm not your means of escape."
+//Translation: "don't live in my pretend no-people world please." As Taichi was Youko's way out of the Mansion. -GHS
+TP
+
+
+//太一「だから、あれは恋にもなってない」
+Taichi: "And so, that's something that can't become true love."
+TP
+
+
+//それ自体は別に構わないとしても。
+Even if I don't particularly mind that myself,
+TP
+
+
+//冬子は、これから一人で生きていかないといけなくなる。
+Touko, after all this, will have to live on alone.
+TP
+
+
+//だから戦う力は必要だ。
+Therefore, she needs the power to fight.
+TP
+
+GL 1 TCKT0002
+GI 1 0
+//HACK doll -GHS
+
+WVP 0 vfCCD2001fyu139
+//冬子「だから……振ったんだ……」
+Touko: "And therefore... you dumped me..."
+TP
+
+
+//太一「まあ」
+Taichi: "Well..."
+TP
+
+
+//太一「人に依存されるのも依存するのも、苦手なんだ」
+Taichi: "I'm not good with people depending on me, and I'm not good with depending on people."
+TP
+
+
+//太一「だから、冬子にも溺れたくない」
+Taichi: "Therefore I don't want to you to drown out either, Touko."
+//Since being with Touko would erase him as it would being with Youko. -GHS
+TP
+
+
+//太一「けど好きだから、冬子が壊れないよう助けはする」
+Taichi: "But because I like you, Touko, I'll be of assistance to prevent you from breaking."
+TP
+
+
+//太一「そーいう、いたって簡単なことだよ、これは」
+Taichi: "And that... is a simple thing to say, indeed."
+TP
+
+
+//冬子「…………」
+Touko: "......"
+TP
+
+GO 1 1
+//HACK out -GHS
+
+//無言で、パンを囓る。
+Wordlessly, I gnaw on the bread.
+TP
+
+
+WVP 0 vfccb2010fyu057
+//冬子「……ひっく」/*
+Touko: "...sob!"
+//CP CCB2010
+TP
+
+
+//涙ぐむ。
+She is moved to tears.
+//CP CCB2010
+TP
+
+
+WVP 0 vfCCD2001fyu141
+//冬子「ひっく……うくっ……う、うううう……」
+Touko: "Sob... uhykh... uh, ungggh..."
+TP
+
+
+//羽化するために。
+For the sake of making her emerge from the cocoon and fly.
+TP
+
+
+WVS 1 1
+
+
+
+
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+//トイレに行く。
+I go to the toilet.
+TP
+
+
+//太一「ふう」
+Taichi: "Whew."
+//CP CCB2011
+TP
+
+
+WVP 1 bgm006.ogg 0 0 0
+
+
+WVP 0 vfCCD2001you000
+//曜子「……太一」
+Youko: "...Taichi." 
+TP
+
+
+//出た。
+Out she came.
+TP
+GL 0 evcc0009
+$CGevcc0009 = 1
+GS 0 1
+SEF 155 0
+
+WVP 0 vfCCD2001you001
+//曜子「バカップル反対」
+Youko: "Syrupples Ostracized."
+TP
+
+
+//太一「え……？」
+Taichi: "Eh...?"
+TP
+
+
+WVP 0 vfCCD2001you002
+//曜子「私も、バカップル反対。太一と一緒」
+Youko: "I also ostracize syrupples. Same as Taichi."
+//"If only that Touko didn't exist..." hypocrite. -GHS
+TP
+
+
+//太一「……あ、そう」
+Taichi: "...ah, right."
+TP
+
+
+//無表情に見えて、瞳には決意が宿る。
+She looks expressionless, but in her eyes dwells determination.
+TP
+
+
+//太一「おっしゃりようはわかりました」
+Taichi: "I have understood the general direction of Your comments."
+//Formal -GHS
+TP
+
+
+//太一「で、それだけを言いに？」
+Taichi: "Well, is that all you came to say?"
+TP
+
+
+WVP 0 vfCCD2001you003
+//曜子「……うん」
+Touko: "...yes."
+TP
+
+
+//太一「しかし……」
+Taichi: "However..."
+TP
+
+
+//自分はどうなんだ？
+What about herself?
+TP
+
+
+//太一「曜子ちゃん」
+Taichi: "Youko-chan."
+TP
+
+
+WVP 0 vfCCD2001you004
+//曜子「なに？」
+Youko: "What?"
+TP
+
+
+//太一「愛してる。キスしようか？」
+Taichi: "Love you. How about a kiss?'
+TP
+
+
+WVP 0 vfCCD2001you005
+//曜子「……太一っ」
+Youko: "...Taichi!"
+TP
+
+
+//ねっとりと蛇みたいに抱きついてきた。
+I receive a slimy snakelike embrace.
+//See Youko. -GHSoHelpful
+TP
+
+
+//アイアンクロー。
+Iron Claw.
+//See CCA0021. This makes more sense if Misato was sent back, so that Taichi inherited her power... or maybe I'm confusing this with Mega Man again. -GHS
+TP
+
+
+//太一「自分にも適用せいや」
+Taichi: "Apply the things you say to yourself!"
+//She immediately went Bakupple on him. This, of course, is sort of important in the parallel between the two, given how they're basically expies of each other and all. Look at how Touko waves that sword around like a pro, given she's the daughter of martial artists and warriors, but never actually hurts anyone - ever - with it. Just like Youko can't kill anyone. -GHS
+TP
+
+
+WVP 0 vfCCD2001you006
+//曜子「あああ……いた……いたいよ……これ……ごめんなさい、ごめっ……」
+Youko: "Aaaah... ow... it hurts... it's... I'm sorry, I'm..."
+TP
+
+
+WVS 1 1
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 152 0
+
+
+WT 500 1
+
+
+GL 0 bgcc0005a
+GS 0 1
+GL 1 TCKT0002b
+GP 1 220 0
+GS 1 1
+SEF 152 0
+//HACK doll here -GHS
+
+
+
+WVP 1 bgm003.ogg 0 0 0
+
+
+
+WVP 0 vfCCD2001fyu142
+//冬子「…………はぁ」
+Touko: "......sigh."
+TP
+
+
+//これで何度目なのか。
+And with this we are at how many now?
+TP
+
+
+//重いため息。
+Heavy sighs.
+TP
+
+
+//隣にいる俺の胃も重く。
+And me, next to her, with a stomach also heavy.
+//Because of having eaten...? -GHS
+TP
+
+
+//太一「なあ、海に行こうか？」
+Taichi: "So, wanna go to the beach?"
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfCCD2001fyu143
+//冬子「え……？」
+Touko: "Eh...?"
+TP
+
+
+//太一「二人っきりで、明日」
+Taichi: "Tomorrow, just the two of us."
+TP
+
+GL 1 TCKT0002b
+GI 1 0
+
+WVP 0 vfCCD2001fyu144
+//冬子「……でも……太一、わたしとじゃイヤなんでしょ……」
+Touko: "...but... you hate to be with me, Taichi..."
+TP
+
+
+//さっきまで無視オーラだったものが、一足飛びにこうなる仕組みが謎だ。
+What mechanism made the Aura of Ignoring that had lasted until moments ago become this in a single bound is a mystery.
+TP
+
+
+//太一「いやじゃないよ」
+Taichi: "I don't hate that!"
+TP
+
+
+//スマイルを向ける。
+//I point a SUMAIRU at her.
+//I point a SMAILU-desu at her.
+I point a smile at her.
+TP
+
+
+//太一「冬子がしゃんとしてくれるなら、ちっとも」
+Taichi: "Not at all, not if you stay dignified, Touko."
+//See CCC0003A. And back to Youko this went. Again. -GHS
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfCCD2001fyu145
+//冬子「……しゃんと……」
+Touko: "...dignified..."
+TP
+GL 1 TCKT0005b
+GI 1 0
+
+WVP 0 vfCCD2001fyu146
+//冬子「太一の言うことって、難しい……」
+Touko: "The things you tell me to do are so difficult, Taichi..."
+TP
+
+
+//太一「恋って、複雑系だろ」
+Taichi: "Love's a complex system."
+//Specific http://ja.wikipedia.org/wiki/%E8%A4%87%E9%9B%91%E7%B3%BB -GHS
+TP
+
+
+//オスカークラスの演技力で適当言う俺。
+So say I with Oscar class acting skills.
+TP
+
+GL 1 TCKT0006b
+GI 1 0
+
+WVP 0 vfCCD2001fyu147
+//冬子「じゃあひとつきくけど……わたしのことは好きなんだ？」
+Touko: "Then, one thing I wanna hear... do you like me, really?"
+TP
+
+
+//太一「そうさ！」
+Taichi: "Indeed so!"
+TP
+
+
+//白い歯も眩しい、ミリオン級の笑顔を照射した。
+I irradiated her with a Million Dollar Smile complete with the shining dazzle of white teeth.
+//Beats irradiating her with the remote? see CCB2015 -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu148
+//冬子「はぁぁ」
+Touko: "Siiigh."
+TP
+
+
+//とろける令嬢。
+The august youth is bewitched.
+TP
+GL 1 TCKT0002b
+GI 1 0
+
+WVP 0 vfCCD2001fyu149
+//冬子「よくわかんないけど……いいわ」
+Touko: "I don't really get it but... it's fine, yes."
+TP
+GL 1 TCKT0005b
+GI 1 0
+
+WVP 0 vfCCD2001fyu150
+//冬子「好きって言ってくれたし」
+Touko: "You told me you like me."
+TP
+
+
+//うっとりと言った。
+So she says, spellbound.
+//She really wants this to be a movie as badly as he wants this to be a VN. -GHS
+TP
+
+
+//太一「シンプルすぎる」
+Taichi: "Way too simple."
+//This may be the exact same way Youko still sticks to Taichi. -GHS
+TP
+
+
+//冬子とは反対側に投じられた俺のささやきは、林の向こうに消えた。
+The whispering murmur that I threw towards the opposing side from Touko then vanished far beyond a grove.
+//Hum, Hasekura Mansion...? -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu151
+//冬子「……変な男のこと、好きになっちゃったなぁ」
+Touko: "...what a weird guy that I ended up in love with."
+TP
+
+
+//少し楽しげに、冬子は伸びをした。
+Touko stretched, seeming a little cheerful.
+TP
+
+
+//本当、物好きである。
+Truly, what odd taste we have.
+//Both, of course. -GHS
+TP
+
+
+
+WVS 1 1
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+WT 500 1
+
+
+
+
+
+
+
+
+
+
+//Friday September 11, 1998 -GHS
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 152 0
+
+//太一「金曜日、か」
+Taichi: "Friday, then."
+//CP CCC3013
+TP
+
+
+//世界が揺り戻されるまで、あと三日。
+There remain three days to the swingback of the world.
+//CP CCC3013
+TP
+
+
+//今日もなすべきことをしよう。
+Let's do what's expected of us today, as well.
+//CP CCD1001
+TP
+
+
+
+
+
+
+//GL 0 bgcc0003
+//GS 0 1
+//SEF 152 0
+//HACK ??? -GHS
+
+
+WVP 1 bgm005.ogg 0 0 0
+
+
+
+//太一「といっても……」
+Taichi: "So I might say, but..."
+TP
+
+
+//床を見る。
+I look at the floor.
+TP
+
+
+//冬子が寝ていた。
+Touko was sleeping.
+TP
+
+
+//夜ごとに痛い痛い呻いていたが、ようやく慣れたらしい。
+She had groaned 'it hurts, it hurts' as she does nightly, but she seems to have grown well accustomed to this.
+TP
+
+
+//ぐっすりと寝ている。
+She's soundly asleep.
+TP
+
+
+//今日はコイツと海か。
+So we go to the beach with this thing here, then.
+TP
+
+
+//海はムードがいいからなぁ。
+The beach will put us in a good mood, yup.
+TP
+
+
+//いろいろ注意しないといけない。
+Lots and lots of things I must absolutely pay attention to.
+TP
+
+
+//エロいことをしてしまうと、自分を抑制する自信がない。
+Should we end up doing anything sexual, I have no confidence I'll be able to maintain self-control.
+TP
+
+
+//太一「頑張ろー」
+Taichi: "Gotta give it aaall!"
+TP
+
+
+
+GL 0 bgcc0017
+GS 0 1
+SEF 152 0
+//素肌のふれあいを執拗に回避していたら、口論になった。
+Due to my obstinately persistent avoidance of all bare skin bodily contact, we ended up in a quarrel.
+TP
+
+
+//冬子はいじけて、一人でどっかに行ってしまった。
+Touko grew contrary and had gone on somewhere on her own.
+TP
+
+
+//太一「……もう、あんなことはゴメンだからな」
+Taichi: "...really, I told you I'm sorry for that thing."
+TP
+
+
+
+WVS 1 1
+
+
+
+//あんなこと。
+'That thing'.
+TP
+
+
+//傾斜について―――
+It was about that downward incline---
+TP
+
+GL 0 bgcc0000e
+GS 0 1
+SEF 109 0
+//HACK to white before black -GHS
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+//……………………。
+............
+TP
+
+
+
+
+
+
+
+
+
+
+
+
+WVP 3 SE001 0 0
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0010s
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+//GL 0 bgcc0010s
+//GS 0 1
+//SEF 10 1
+
+
+WVP 1 bgm014.ogg 0 0 0
+
+
+
+//太一「どういうことだよ、冬子」
+Taichi: "What was that all about, Touko!"
+TP
+
+
+//俺は冬子に詰め寄っていた。
+I pressed Touko for an answer.
+TP
+
+
+//太一「みんなの前で……あんなことしようとするなんて」
+Taichi: "Trying to do that... in front of everybody."
+//See above. When SHE is afraid of others finding out he doesn't have a problem. This is exclusively about control. -GHS
+TP
+
+GL 1 TCKT0002s
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfCCD2001fyu269
+//冬子「……だって、関係ないじゃない」
+Touko: "...but it's none of their business!"
+TP
+
+
+//太一「関係ないだって？」
+Taichi: "None of their business, really?"
+TP
+
+
+GL 1 TCKT0006s
+GI 1 0
+WVP 0 vfCCD2001fyu270
+//冬子「わたしたちだけでいいでしょ？」
+Touko: "Isn't it better if it's just the two of us now?"
+TP
+
+
+//太一「あのな……そんなわけ……」
+Taichi: "Seriously now... this is just..."
+TP
+
+//HACK these lines are IMO just more confusing, but at least there's no odd lack of segue in Taichi's line about the train. -GHS
+
+//冬子は愛性表現の、場所を選ばなくなった。
+Touko... stopped selecting the places in which to make expressions of love.
+//This is Touko's equivalent of the Youko theater thing, and possibly of the bad end to her route. Taichi seems to think he 'broke' her by awakening her to sex, when it's just her having one more tool at her disposal to try to do what she wanted to do all along: make him her slave. -GHS
+TP
+//よく電車の中でキスしているカップルがいるが。
+True, there's often couples kissing inside trains, but,
+//Seems to be a reference to a Thing Not To Do stereotype in manga/anime/VNs. Oddly enough, since the only real way into Kamisaka is by train, that means Touko has rode the train at least once. If you know what I mean, and I wish I didn't because that was meant literally dammit. -GHS
+TP
+//まさか自分がされるとは思わなかった。
+that I would be made to do that, I'd never have thought it possible.
+//BTW, it's still not quite clear whether what happened had anything to do with literal peniFUUUCKtrains. Not that it matters. -GHS
+TP
+
+
+
+//さすられた。
+//I was fondled,
+//公衆の面前で。
+//and in the presence of public.
+//太一「電車の中でキスしてるのとはわけが違うんだぞ」
+//Taichi: "This stuff is different from kissing while in a train, you know that."
+
+
+WVP 0 vfCCD2001fyu271
+//冬子「今ここで、してもいいのよ？」
+Touko: "How about we do it right here, right now?"
+TP
+
+
+//太一「あのな」
+Taichi: "Seriously now!"
+TP
+GL 1 TCKT0005s
+GI 1 0
+
+
+
+WVP 0 vfCCD2001fyu272
+//冬子「恥ずかしいけど」
+Touko: "It'll be embarrassing though."
+TP
+
+
+//太一「聞けって」
+Taichi: "You even listening?"
+TP
+
+GL 1 TCKT0006s
+GI 1 0
+
+WVP 0 vfCCD2001fyu273
+//冬子「そしたら、理解してくれると思うから、みんなにも」
+Touko: "And then, I believe they will understand, all of them."
+//She's actively hoping people walk in on the two of them having sex, so as to make it's obvious he's hers alone. Continuing the parallel, this is therefore why Youko did that back then. -GHS
+TP
+
+
+//太一「……最近、冬子はおかしい」
+Taichi: "...Touko, you've been acting weird lately."
+TP
+
+GL 1 TCKT0021S
+GI 1 0
+//HACK ouch -GHS
+
+WVP 0 vfCCD2001fyu274
+//冬子「太一がおかしくしたんじゃない」
+Touko: "And you haven't been weird, Taichi?"
+TP
+
+
+//笑いさざめく。
+Boisterous laughter.
+//Yandere laughter. -GHS
+TP
+
+
+//太一「…………」
+Taichi: "......"
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//気づいた。
+And I realized,
+TP
+
+
+//冬子もまた、群青にやってくるだけのものを持っているという……当たり前のことに。
+that for Touko to have been brought to Gunjou, she had to have that something... it's normal she would.
+//This is hilarious. Taichi whines and whines that he's in Gunjou because he's ZOMG EVILS, but he didn't think for one damn second that Touko would be the same! This is how he takes others lightly, and why he totally cheats on the test to have a super-high score. Pure emo. -GHS
+TP
+
+
+//それを嫉妬というのか、狂気と呼ぶのか、俺には判断できない。
+Maybe it's jealousy, maybe it should be called madness, I can't come to a conclusion.
+TP
+
+
+//ただ冬子は少しずつ、俺の手に負えなくなりつつあった。
+Just that Touko was, little by little, becoming something that I could no longer control.
+//But was controlling her what he wants? Possibly, see Youko Bad End. Up that hand in her, and manipulate. -GHS
+TP
+
+
+//先に我に返ったのは俺で。
+I was the one who first came to senses.
+TP
+
+
+//今後、もっとひどくなるだろうと、容易に理解できた。
+Things would get much worse from that point onwards, that was trivial to understand.
+TP
+
+
+//手遅れになる前に動くのが最善だ。
+It is the very best decision to act before it becomes too late for treatment.
+TP
+
+
+//誰もがそれをわかっていて、実行できない。
+Anyone can understand that, but no one can actually do it.
+TP
+
+
+//初期化することにした。
+I decided to reformat our relationship.
+//Let's just keep this computer related, since he wants this to be VN-like so damn badly. -GHS
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+
+//……………………。
+............
+TP
+
+
+WVS 1 1
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+//HACK flashback exit whiteout -GHS
+
+
+WVS 3 1
+WT 500 0
+
+
+GL 0 bgcc0017b
+GS 0 1
+//SEF 152 0
+SEF 109 0
+//HACK different transition back -GHS
+
+
+WVP 1 bgm002.ogg 0 0 0
+
+
+//夕刻になって、いじけていた冬子に、少しだけ触れた。
+It became evening, and I had touched our contrarian Touko just a little.
+TP
+
+
+//本当に少しだけ。
+Really, just a little.
+TP
+
+
+//肩と肩をつけて、海を見た。
+We looked at the sea standing shoulder to shoulder.
+TP
+
+
+//彼女の怒りのスタイルは崩れなかった。
+Her angry bearing did not collapse,
+//As in she didn't stop being tsun. -GHS
+TP
+
+
+//内心の相反を感じ取る。
+but I can feel the conflict of inner intentions.
+TP
+
+
+//その程度の女心は理解できた。
+That is how much I could understand the heart of a woman.
+TP
+
+
+
+
+GL 0 bgcc0003e
+GS 0 1
+SEF 152 0
+//太一「さて、そろそろ寝ますか」
+Taichi: "So then, isn't it about time we went to sleep?"
+//CP CCB2017
+TP
+
+WVP 1 bgm010.ogg 0 0 0
+
+GL 1 TCKT0000c
+GI 1 1
+WVP 0 vfccb2017fyu000
+//冬子「わん」
+Touko: "Wof."
+//CP CCB2017
+TP
+
+
+//太一「んー、冬子はお嬢様なのにチェスが弱いよな」
+Taichi: "Hmmm, you're so bad at chess for being a wealthy lady, Touko."
+//CP CCB2017
+TP
+
+
+//伸びをする。
+I stretch.
+//CP CCB2017
+TP
+
+GL 1 TCKT0001c
+GI 1 0
+WVP 0 vfccb2017fyu001
+//冬子「……わん」
+Touko: "...woof."
+//CP CCB2017
+TP
+
+
+//１０勝０敗だった。
+Results were 10 wins, 0 losses.
+//CP CCB2017
+TP
+
+
+//海から戻ってきても、冬子は不機嫌なままだったので、 気を紛らわせようと勝負を挑んだのだった。
+On return from the beach, Touko continued to be ill at humor, so to distract her I challenged her to a game.
+//PCP CCB2017
+TP
+
+
+//太一「夜食とかいる？」
+Taichi: "Want some midnight snacks?"
+//CP CCB2017
+TP
+
+
+GL 1 TCKT0005c
+GI 1 0
+WVP 0 vfccb2017fyu002
+//冬子「わん」
+Touko: "Wof."
+//CP CCB2017
+TP
+
+
+//首を左右に振る。
+Her head shakes left and right to the neck.
+//CP CCB2017
+TP
+
+
+//太一「じゃ寝るとするか」
+Taichi: "Well, to sleep then."
+//CP CCB2017
+TP
+
+
+//ふかふかのベッドに身を預けた。
+I entrusted my flesh to the soft and fluffy bed.
+TP
+
+
+WVP 0 vfCCD2001fyu152
+//冬子「……わぅん……（涙）」
+Touko: "...wooof... (tears)"
+TP
+GO 1 1
+
+//カチカチの床に、冬子は横たわった。
+Touko laid down on the stiff hard floor.
+//And the futon? -GHS
+TP
+
+WVS 1 1
+//HACK out music. This wasn't in either console version, but this scene really sounds like crap with this music. -GHS
+
+//静寂が忍び寄り、あたりを満たす。
+Still silence creeps upon us, filling the surroundings.
+TP
+
+
+//冬子は寝たかな？
+Is Touko sleeping already?
+TP
+
+
+//太一「……ごめんな」
+Taichi: "...sorry."
+TP
+
+
+//返事はない。
+There is no reply.
+TP
+
+
+//だがやがて。
+But before long,
+TP
+
+
+WVP 0 vfccb2017fyu022
+//冬子「ねえ……太一……」
+Touko: "Say... Taichi..."
+//CP CCB2017
+TP
+
+
+//背中が語る。
+Words from my back.
+//CP CCB2017
+TP
+
+
+//太一「ん？」
+Taichi: "Hm?"
+//CP CCB2017
+TP
+
+WVP 1 bgm021.ogg 0 0 0
+//HACK music. This also wasn't in any version, but it's in CCB2017 anyway. -GHS
+
+WVP 0 vfccb2017fyu023
+//冬子「ずっと一緒に、いられるのかな……」
+Touko: "Will we always be able to be... together, I wonder..."
+//CP CCB2017
+TP
+
+
+//太一「……俺はいつだって冬子の心の中にいるよ」
+Taichi: "...I will be always and forever within your heart, Touko."
+//He's so damn Jesus it hurts. -GHS
+TP
+
+
+WVP 0 vfccb2017fyu024
+//冬子「……ふふ、だったら平気かな」
+Touko: "...heheh, then we should be alright I guess."
+//CP CCB2017
+TP
+
+
+//太一「どうしてそんなことを？」
+Taichi: "Where's this coming from?"
+//CP CCB2017
+TP
+
+
+WVP 0 vfccb2017fyu025
+//冬子「だって、人が消えたのよ？　私たちだっていつか……」
+Touko: "Because, people have vanished right? So, someday the two of us too..."
+//CP CCB2017
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+//私たち、か。
+The two of us, she says.
+//Once again explaining CCB2017 -GHS
+TP
+
+
+WVP 0 vfccb2017fyu026
+//冬子「消えるなら、せめて一緒がいい……のに……」
+Touko: "If we do disappear, at least if we're together... it'd..."
+//CP CCB2017
+TP
+
+GL 0 BGCC0000C
+GS 0 1
+SEF 109 0
+//HACK to sky -GHS
+
+
+//静かに言葉がすぼむ。冬子は眠った。
+Words contracted into silence. Touko was asleep.
+//PCP CCB2017
+TP
+
+
+//しばらく眠れなかった。
+For a while, I couldn't sleep.
+TP
+
+
+//考えずにはいられなかった。
+I couldn't but think:
+TP
+
+
+//冬子がまた一人になった時、立ち直るのにどれだけ時間がかかるのか。
+when Touko will again become alone, how much time will it take before she can get back up on her feet again?
+TP
+
+
+//立ち直ること自体、ありえるのかどうか。
+Is her getting back up on her feet itself something even possible?
+TP
+
+
+//けど……だとしても……決断は変わらない。
+But... whatever, whichever it is... my decision won't change.
+TP
+
+
+WVS 1 1
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+//太一「ごめんな」
+Taichi: "Sorry."
+TP
+
+
+//再度の謝罪が、夜闇に吸われた。
+The second apology I made was breathed in by the dead of the night.
+TP
+
+
+
+
+
+WT 500 0
+WT 500 1
+
+
+
+
+
+
+
+//Saturday September 12, 1998 -GHS
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 152 0
+
+//土曜日だ。
+It's Saturday.
+//CP CCD1001B
+TP
+
+
+WVP 1 bgm013.ogg 0 0 0
+
+
+//……あと一日。
+...one more day.
+//CP CCD1001B
+TP
+
+
+//あと一日なんだ。
+There is one more day.
+//CP CCD1001B
+TP
+
+
+//太一「ふわあ……」
+Taichi: "fWaaah..."
+TP
+
+
+//起床。
+Out of the bed.
+TP
+
+
+WVP 0 vfccb2018fyu000
+//冬子「くぅくぅ」/*
+Touko: "Zzz, zzz..."
+//CP CCB2018
+//What, there's no such script? Look closer, then. -GHS
+TP
+
+GL 4 zzzCCCB2101ToukoSleep
+GI 4 1
+//HACK ooh, again -GHS
+
+
+//隣で冬子が寝ていた。
+Touko had been sleeping next to me.
+TP
+
+
+//軽やかな寝息。
+An easy, light sleeper's breathing.
+//CP CCB2018
+//Contrast with CCA0010. Am I overthinking this yes I am. -GHS
+TP
+
+
+//熟睡といった様子。
+What is known as deep sleep.
+//CP CCB2018
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+//夜中に勝手に入り込んできたな。
+Seems she just sneaked in as she pleased in the middle of the night.
+//CP CCB2018
+TP
+
+
+WVP 0 vfCCD2001fyu153
+//冬子「……すー、すー」
+Touko: "...zzz, zzz."
+TP
+
+
+//安らかに寝ている。
+Tranquil peaceful sleeping,
+TP
+
+
+//太一「……ぷ」
+Taichi: "...heh."
+TP
+
+
+//子供みたいな寝顔だ。
+her sleeping face is like a child's.
+//Compare Misato. -GHS
+TP
+
+
+//まあ、いいか。
+Well, it's no problem.
+TP
+
+
+
+
+
+//GL 0 bgcc0007
+GL 0 BGCC0000A
+GS 0 1
+GS 4 0
+//HACK disable CG, sky instead -GHS
+SEF 152 0
+//一人で外に出た。
+I go outside alone.
+TP
+
+
+//空気が澄んでいる。
+The air is clean and clear.
+TP
+
+
+//涼しくはないが、暑くはない。
+It's not cool, but it's not warm.
+TP
+
+
+//熱量が奪われてしまったのかな。
+Maybe we're losing the total amount of heat.
+//I think he's wondering about whether the dying world is losing heat due to its end or something. -GHS
+TP
+
+
+//確かめる手段ないし。
+I have no means to ascertain.
+//...more likely probably just realizing that they've been in who knows what season by now. -GHS
+TP
+
+
+//冬子とのこと。
+And then, me and Touko.
+TP
+
+
+//太一「特に……何か大きな思い出を作ったわけじゃないけど……」
+Taichi: "I haven't... exactly made any special memory with her, but..."
+TP
+
+
+//つかず離れず。
+Not too close, not too far: a neutral position.
+TP
+
+
+//理想的な距離感で過ごしただけの一週間。
+We spent one week staying exclusively within the ideal physical and emotional distance.
+TP
+
+
+//冬子は壊れず、依存もなく。
+Touko has not shattered, nor become dependent.
+TP
+
+
+//依存がないから……初期化をする必要もなく。
+If there is no dependence then... there's no need for formatting either.
+TP
+
+
+//初期化……そう、あれは、俺のミスだったのだ。
+Formatting... yes, that was a mistake of mine.
+//At that point he still believes going back to the way things were while ignoring all that came between then and there is possible. That's likely why he invents the time loop. But even taking the loop seriously, the relationships between people don't stay the exact same between routes. He still hasn't quite understood this even in Sendback, that's why he'll try to run away in CCX0001. -GHS
+TP
+
+
+//冬子という人間を、読み違えた。
+That was my misreading of the human called Touko.
+TP
+
+
+//今でも、戦慄を感じる。
+Even now I feel that horror.
+TP
+GL 0 bgcc0000d
+GS 0 1
+
+//……………………。
+............
+TP
+
+
+
+
+
+
+WVP 3 SE001 0 0
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0010s
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+//GL 0 bgcc0010s
+//GS 0 1
+//SEF 10 1
+
+//初期化することにした。
+I decided to reformat our relationship.
+//CP above
+TP
+
+
+//……………………。
+............
+TP
+
+
+GL 0 bgcc0006s
+GS 0 1
+SEF 10 0
+//HACK faster transition -GHS
+
+WVP 0 vfCCD2001fyu275
+//冬子「え―――？」
+Touko: "Eh---?"
+TP
+
+
+//初期化中。
+Formatting in progress.
+TP
+
+GL 1 TCKT0000s
+GI 1 1
+WVP 0 vfCCD2001fyu276
+//冬子「今、なんて言った？」
+Touko: "What did you say, just then?"
+TP
+
+
+//初期化中。
+Formatting in progress.
+//CP above
+TP
+
+
+GL 1 TCKT0001s
+GI 1 0
+WVP 0 vfCCD2001fyu277
+//冬子「……嘘、でしょ？」
+Touko: "...that's not true, right?"
+TP
+
+GL 1 TCKT0006s
+GI 1 0
+WVP 0 vfCCD2001fyu278
+//冬子「いつもの冗談なんでしょ？」
+Touko: "You're just joking like always, right?"
+TP
+
+
+//初期化中。
+Formatting in progress.
+//CP above
+TP
+
+GL 1 TCKT0021S
+GI 1 0
+//HACK doll -GHS
+
+WVP 0 vfCCD2001fyu279
+//冬子「……あは、何言ってるのよ、もうバカ」
+Touko: "...ahah, what are you saying now, really you dummy."
+//1) Denial -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu280
+//冬子「だまされないんだから」
+Touko: "But you can't swindle me!" 
+//See CCA0027, or above. But who swindled who is no simple thing to say, actually. -GHS
+TP
+
+
+//冬子「…………」
+Touko: "......"
+TP
+
+
+GL 1 TCKT0000s
+GI 1 0
+WVP 0 vfCCD2001fyu282
+//冬子「……本気なの？」
+Touko: "...you serious?"
+TP
+
+
+//初期化中。
+Formatting in progress.
+//CP above
+TP
+
+
+GL 1 TCKT0005s
+GI 1 0
+WVP 0 vfCCD2001fyu283
+//冬子「……だって、好きなんでしょ、わたしのこと？」
+Touko: "...but you like me, right, all of me?"
+TP
+
+
+//初期化中。
+Formatting in progress.
+//CP above
+TP
+
+GL 1 TCKT0002s
+GI 1 0
+WVP 0 vfCCD2001fyu285
+//冬子「……ちょ……あんた……」
+Touko: "...wh... you..."
+TP
+
+
+WVP 0 vfCCD2001fyu286
+//冬子「自分の言ってること……わかってるの？」
+Touko: "Do you even understand yourself... what you're saying?"
+TP
+
+
+//初期化中。
+Formatting in progress.
+//CP above
+TP
+
+
+WVP 0 vfCCD2001fyu287
+//冬子「絶対……そんなの認めない……認めないから」
+Touko: "Absolutely... I'll never accept that... I'll never accept it, so,"
+TP
+
+GL 1 TCKT0003s
+GI 1 0
+
+WVP 0 vfCCD2001fyu288
+//冬子「バラしてやる！　部のみんなに！」
+Touko: "I'll tell on you! To everyone in club!"
+TP
+
+
+WVP 0 vfCCD2001fyu289
+//冬子「あんたの家族にも、学院のみんなにも！」
+Touko: "I'll tell your family, and I'll tell the whole school!"
+TP
+
+
+WVP 0 vfCCD2001fyu290
+//冬子「全部、何されたかばらしてやる！」
+Touko: "All of it, I'll expose all you've done!"
+//2) Anger. This is nonsense - who'd care? I doubt the authorities would care even if it was actual rape (though I've no doubt her grandfather would tear him apart - but she never tells HIM now does she). -GHS
+TP
+
+
+//初期化中。
+Formatting in progress.
+//CP above
+TP
+
+GL 1 TCKT0006s
+GI 1 0
+
+
+WVP 0 vfCCD2001fyu291
+//冬子「……太一……やめようよ……そういうの好きじゃない……」
+Touko: "...Taichi... stop it already... I don't like that..."
+TP
+
+
+WVP 0 vfCCD2001fyu292
+//冬子「ねえ、買い物行こう？　服買ってあげる」
+Touko: "Say, how about we go shopping? I'll buy you some clothes."
+//3) Bargaining -GHS
+TP
+GL 1 TCKT0001s
+GI 1 0
+
+WVP 0 vfCCD2001fyu293
+//冬子「太一……？」
+Touko: "Taichi...?"
+TP
+
+GL 1 TCKT0000s
+GI 1 0
+
+WVP 0 vfCCD2001fyu294
+//冬子「ちょ……っと……」
+Touko: "Wa-... wait..."
+TP
+WVS 3 0
+GO 1 0
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+GL 0 bgcc0000d
+GI 0 0
+
+
+
+
+//初期化に失敗しました―――
+Formatting failure---
+TP
+
+
+
+//そして―――
+And then---
+TP
+
+WVP 3 SE001 0 0
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 evcc0032
+$CGevcc0032 = 1
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+//GL 0 evcc0032
+//$CGevcc0032 = 1
+//GS 0 1
+//SEF 10 2
+
+WVP 0 vfCCD2001fyu295
+//冬子「……太一……ほら……」
+Touko: "...Taichi... look..."
+TP
+
+
+WVP 0 vfCCD2001fyu296
+//冬子「怪我、しちゃった……太一……いたた……痛い……」
+Touko: "I got... hurt... Taichi... owChCh... it hurts..."
+//4) Depression, specifically moral blackmail. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu297
+//冬子「すごく痛いよ？　死にそう……」
+Touko: "It hurts lots you know? I might die..."
+TP
+
+
+WVP 0 vfCCD2001fyu298
+//冬子「……血がいっぱい出てる……」
+Touko: "...there's so much blood coming out..."
+TP
+
+
+WVP 0 vfCCD2001fyu299
+//冬子「だから……優しくしてよ……太一……」
+Touko: "So... be gentle now... Taichi..."
+TP
+
+
+WVP 0 vfCCD2001fyu300
+//冬子「もっと優しくして……そばにいてよ……」
+Touko: "Be more gentle... stay at my side...!"
+TP
+
+
+WVP 0 vfCCD2001fyu301
+//冬子「いた……いたい……」
+Touko: "Ow... hurts..."
+TP
+
+
+WVP 0 vfCCD2001fyu302
+//冬子「太一ぃぃぃ……出てきてよぉぉぉ……っ！」
+Touko: "Taichiiii... come out alreadyyy...!"
+//Vs. "get out of here" -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu303
+//冬子「見てよぉぉ、わたしの血……見てってばぁぁぁぁ」
+Touko: "Look at iiit, at my blood... I'm telling you to looook!"
+TP
+
+
+WVP 0 vfCCD2001fyu304
+//冬子「そうしたら、またすぐ優しくしたくなるんだから」
+Touko: "If you do, you'll be all gentle again all quick."
+TP
+
+
+WVP 0 vfCCD2001fyu305
+//冬子「太一ぃ、出てきてぇぇぇぇ……」
+Touko: "Taichiii, come ooooout..."
+TP
+
+
+//曜子ちゃんがいなかったら。
+Had Youko-chan not been there,
+TP
+
+
+//冬子は生きてはいなかったろうし、事態はもっと深刻だったろう。
+Touko would not have lived, and the situation would have been much more serious.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+//退院し、復学した冬子は。
+Touko was discharged from the hospital, and when she returned to school she was...
+//See Sakuraba. Except this one's much more Touko's fault, regardless of how dumb Taichi was to do what he did. The reason she doesn't learn something is actually simple: the wound was self-inflicted. Perhaps, if Taichi had hurt her, Touko would no longer be like this. -GHS
+TP
+
+
+//前のような……いや、前よりもっと徹底的に―――
+She was just like before... no, more than before, she had become more thoroughly---
+//5) acceptance... or is it? -GHS
+TP
+
+
+//美しくなっていた。
+She had become beautiful.
+//Annnd back again. Taichi loves 'em works of art, not living. Which is an elaborate way of saying "he's into 2D". -GHS
+TP
+
+
+//俺は冬子の孤独な様子を、美しいと思っていたのだった。
+I thought that Touko in her isolated solitude was beautiful.
+TP
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+//HACK flashback exit whiteout -GHS
+WVS 3 1
+
+
+
+GL 0 bgcc0002
+GS 0 1
+SEF 109 1
+//顔を覆う。
+I cover my face.
+TP
+
+
+//生々しい血の赤。
+Graphically vivid red blood,
+//This could even be the true source of Taichi's fear of blood. Oh, but it was in the flashbacks? Like his silver hair... -GHS
+TP
+
+
+//今でも網膜に滲みそうなほど。
+so much that it feels like it is still spreading onto my retina.
+TP
+
+
+//好きなんだろう。
+I loved her,
+TP
+
+
+//彼女のことが。
+all about her, but,
+TP
+
+
+//ただままならないことに、俺の倫理はたいしたものじゃない。
+my ethics are not very good when things don't go my way.
+//Which is the whole point here. -GHS
+TP
+
+
+//先輩やら美希やら霧やら……。
+Senpai, and Miki, and Kiri and...
+TP
+
+
+//周囲にいる人間のことも、等しく愛護の目を向けている。
+And all the humans around me I look at with the same eyes, eyes of equal loving care.
+//See Kiri: she sees it as eyes of hunger. Not completely incorrect, however. -GHS
+TP
+
+
+//冬子に対しても、等分に好きの気持ちがある。
+And for Touko, as well, there will be a portion of love equal to the others.
+TP
+
+
+//それは彼女の望む『好き』の形ではない。
+And that will not have the shape of the 'love' she wants.
+TP
+
+
+//太一「……終わってくれないかな、早く」
+Taichi: "...won't this just hurry and end already."
+TP
+
+
+//結論の出せないもどかしさに、心臓が膨張したみたいになった。
+In the impatience for this determination I can't make, my heart felt like it was physically dilating.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+WVS 1 1
+//HACK earlier end music -GHS
+
+//そして明日は日曜日―――
+And then, tomorrow is Sunday---
+TP
+
+
+
+
+
+
+
+
+
+
+
+//Sunday September 13, 1998 -GHS
+
+//GL 0 bgcc0003
+//GS 0 1
+//SEF 152 0
+
+GL 0 zzzCCD2002slbag
+GS 0 1
+SEF 152 0
+//HACK Another 360 exclusive -GHS
+
+WVP 1 bgm021.ogg 0 0 0
+
+
+//起きると、冬子は寝ながら泣いていた。
+As I wake up, I find Touko crying in her sleep.
+TP
+
+
+WVP 0 vfCCD2001fyu154
+//冬子「……ふ……すん……」
+Touko: "...ngh... sob..."
+TP
+
+
+//寂しいのだろうな。
+It's got to be loneliness.
+TP
+
+
+//額にはりついた髪を、そっとはらう。
+I gently pass a hand in that hair clinging to her forehead.
+TP
+
+
+//俺一人で、全てを満たすことはできない。
+She cannot be completely fulfilled with me alone.
+//Physical impossibility, which still she believes possible... as he sort-of does, still. -GHS
+TP
+
+
+//時刻は昼前だ。
+Current time is before noon.
+//Term can mean just about anything from daybreak to noon, so it can be well before 10AM. The odd imprecision smell of troll more than writing errors, sort of like not making every single number or stuttering boil down to 7 or 8. -GHS
+TP
+
+
+//寝過ぎたな。
+Seems we overslept.
+TP
+
+
+//太一「冬子、冬子」
+Taichi: "Touko, Touko!"
+TP
+
+
+//起こす。
+I wake her up.
+TP
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 0
+//HACK back to bedroom -GHS
+
+WVP 0 vfCCD2001fyu155
+//冬子「んにゃ……？」
+Touko: "'hat mnow...?"
+//??????lisping cat??? -GHS
+TP
+
+
+//太一「起きて。出発するから」
+Taichi: "Wake up. We're going."
+TP
+
+
+WVP 0 vfCCD2001fyu156
+//冬子「……え……どこに？」
+Touko: "...eh... where?"
+TP
+
+
+GL 0 bgcc0001
+GL 1 TCKT0000
+GP 1 220 0 0
+GS 0 1
+GS 1 1
+SEF 152 1
+//HACK doll inserted -GHS
+
+
+WVP 0 vfCCD2001fyu157
+//冬子「ちょっと、どこに連れて行くの？」
+Touko: "Really, where are you taking me?"
+//That's a good question. Isn't this way beyond the hokora? -GHS
+TP
+
+
+//太一「いいとこ」
+Taichi: "To a nice place."
+TP
+
+
+//……………………。
+............
+TP
+
+
+
+GL 0 bgcc0016
+GS 0 1
+GS 1 0
+//HACK disable doll -GHS
+SEF 152 1
+WVP 0 vfCCD2001fyu158
+//冬子「ここって……？」
+Touko: "What's here...?"
+TP
+
+
+//太一「さあ」
+Taichi: "C'mon."
+TP
+
+
+//戸惑う冬子を所定の位置に立たせる。
+I made a perplexed Touko stand in the specific location.
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+//じっと、見る。
+And stare, fixed, at her.
+TP
+
+
+GL 0 evcc0057
+$CGevcc0057 = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+WVP 0 vfCCD2001fyu159
+//冬子「ねえ……何がはじまるのよ？」
+Touko: "Hey... what are you starting now?"
+TP
+
+
+//太一「質問です。正直に答えて下さい」
+Taichi: "A questioning round! Please answer the following with honesty."
+TP
+
+
+WVP 0 vfCCD2001fyu160
+//冬子「は、はい……」
+Touko: "Y-, yes..."
+TP
+
+
+//太一「寂しい？」
+Taichi: "Are you lonely?"
+TP
+
+
+WVP 0 vfCCD2001fyu161
+//冬子「え……さあ、どうかしら……」
+Touko: "Eh... dunno, maybe, I wonder..."
+TP
+
+
+//太一「人がいなくなって、寂しくない？」
+Taichi: "Aren't you lonely now that people are gone?"
+TP
+
+
+WVP 0 vfCCD2001fyu162
+//冬子「……寂しいというか……不安だけど……」
+Touko: "...lonely, I should say... uneasy is more like it, but..."
+TP
+
+
+//太一「帰りたい？　家に」
+Taichi: "Want to go home? To your house?"
+TP
+
+
+WVP 0 vfCCD2001fyu163
+//冬子「……そりゃ……あの頃に戻れるものなら……誰だってそうじゃないの？」
+Touko: "...well... if I could go back to that time... who wouldn't want to, right?"
+//To BEFORE she was sent to Gunjou, not back to her home dimension. This was always the point with her. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu164
+//冬子「ねえ、どういうこと？」
+Touko: "Hey, what're you doing?"
+TP
+
+
+//太一「次の質問」
+Taichi: "Next question."
+TP
+
+
+//太一「冬子はずっと孤独だったけど、それはなぜ？」
+Taichi: "You have always been alone, Touko, but why is that?"
+//She's been alone <-> there's no one. Complete correspondence. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu165
+//冬子「……なぜって……言われても……わからない……」
+Touko: "...why, now... you ask me but... I don't know."
+TP
+
+
+WVP 0 vfCCD2001fyu166
+//冬子「ただ……悔しくて……異常者ってことにされて……それだけで、もう弾かれて……誰も声をかけてこなくって……」
+Touko: "Just... it was frustrating... having been made into some kind of deviant... and being repelled away just because of that... no one came to talk to me again..."
+TP
+
+
+WVP 0 vfCCD2001fyu167
+//冬子「一人でいるしかないじゃない……」
+Touko: "What else but to be by myself..."
+TP
+
+
+WVP 0 vfCCD2001fyu168
+//冬子「でも、太一は声をかけてきてくれたから……」
+Touko: "But then you came and talked to me, Taichi..."
+TP
+
+
+//太一「……ごめん」
+Taichi: "...sorry."
+TP
+
+
+//ただ、謝罪するしかない。
+I can do nothing but give a mere apology.
+//For not letting her rot in what likely would end up in her starving herself to death for real, not just repeated trips to the infirmary. Yeah, great reader of people to the last. -GHS
+TP
+
+
+//太一「じゃ最後の質問だ」
+Taichi: "Last question then."
+TP
+
+
+//太一「俺のこと、好き？」
+Taichi: "Do you... like me?"
+TP
+GL 0 evcc0057a
+$CGevcc0057a = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+
+
+WVP 0 vfCCD2001fyu169
+//冬子「……ええと……」
+Touko: "...well..."
+TP
+
+
+WVP 0 vfCCD2001fyu170
+//冬子「うん、好き……」
+Touko: "Yeah, I like you..."
+TP
+
+
+//最後の言葉だからか。
+Perhaps it was because they were our last words,
+TP
+
+
+//平凡な単語が、じんと胸に届いた。
+that these ordinary, mediocre words struck the heart as if they were rending it.
+TP
+
+
+//うん。
+Yeah.
+TP
+
+
+//こんなところだろうか。
+It should be about right with this.
+TP
+
+
+//太一「じゃ冬子、勘違いするなよ」
+Taichi: "Well, Touko, don't dare misunderstand this 'K?"
+TP
+
+
+//太一「今度は捨てるわけじゃないからな、本当だぞ？」
+Taichi: "This right now is not me tossing you away, I'm serious, you hear me?"
+TP
+
+
+//太一「達者でな」
+Taichi: "Be in good health."
+TP
+
+
+WVP 0 vfCCD2001fyu171
+//冬子「……太一、さっきからどうもよく理解できないんだけど……」
+Touko: "...but Taichi, I can't understand what you've been doing here..."
+TP
+
+
+WVS 1 0
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+//カシャ―――
+Shutter click---
+TP
+
+
+//目を閉じた。
+I close my eyes.
+TP
+
+
+//ひずみを見通せるのは俺だけだ。
+The distortion is for me alone to see unoccluded.
+//And he sees by closing his eyes. Awesome. -GHS
+TP
+
+
+//向こうであり、こちらでもあるその場所を、決定づけるのは俺だ。
+This same place yet exists on both this and on the other side, and the one to determine which is me.
+//With the implied, but largely unasked, questions of what determines which spot and what time. -GHS
+TP
+
+
+//最初、みんなをここに導いたように。
+That is how I led everyone here at the start.
+TP
+
+
+//送り返すこともまた、できた。
+And how I could perform Sendback as well.
+//No road exists but through Him. -GHS
+TP
+GL 0 bgcc0016c
+GS 0 1
+SEF 109 1
+//閉じた目を開き、見直すと。
+I opened my closed eyes, and looked again.
+TP
+
+
+//冬子の姿は消えていた。
+Touko's figure had vanished.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+WT 2000 0
+WT 2000 1
+GL 0 bgcc0000b
+GS 0 1
+SEF 109 1
+
+WVP 0 vfCCD2001fyu172
+//冬子「……いったいぜんたい……って、あら？」
+Touko: "...what even the devil... wait, eh?"
+TP
+
+
+WVP 0 vfCCD2001fyu173
+//冬子「太一？」
+Taichi: "Taichi? "
+TP
+
+WVP 3 SE099 0 0
+
+WVP 0 vfCCD2001fyu174
+//冬子「きゃっ！？」
+Touko: "KYAH?!"
+TP
+
+
+WVP 0 vfCCD2001fyu175
+//冬子「え……ラジオ？　いつの間にポケットに……」
+Touko: "Eh... a radio? When did he even put it in my pocket..."
+TP
+
+
+WVP 0 vfCCD2001fyu176
+//冬子「……どうして、聞こえてるの？」
+Touko: "...how can it even receive?"
+TP
+
+
+WVP 0 vfCCD2001fyu177
+//冬子「太一ー、大変、ラジオが！」
+Touko: "TAICHIII, this is big, the radio!"
+//Just like CCE0001, I'm considering all these scenes to be at least partly not real. -GHS
+TP
+
+
+WVP 0 vfCCD2001fyu178
+//冬子「あ、もう……どこ行ったのよ！　バカ！」
+Touko: "Ah, really... where did you go! Dummy!"
+TP
+
+
+WVP 0 vfCCD2001fyu179
+//冬子「太一ってばー！」
+Touko: "Taichi, I'm talking to youuu!"
+TP
+//WT 500 0
+//WT 1000 1
+//GL 0 bgcc0000d
+//GS 0 1
+//SEF 109 1
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+GL 0 bgcc0000d
+GI 0 0
+//HACK disconnected. This was missing from all the routes but Misato's. -GHS
+WT 3000 0
+WT 1000 1
+
+
+
+
+
+WVS 3 0
+
+WVP 1 bgm023.ogg 0 0 0
+
+GL 0 bgcc0016b
+//This had night already. -GHS
+GS 0 1
+SEF 109 0
+
+//太一「さらば冬子」
+Taichi: "Fare thee well, Touko."
+//See CCC3004. Sakuraba sends them away. -GHS
+TP
+
+
+//これでまた、いろいろな可能性が消えたな。
+And with this, once again, all kinds of possibilities have vanished.
+TP
+
+
+//教室にはもう冬子はいない。
+Touko will no longer be in that classroom.
+TP
+
+
+//刀で斬られることも永劫なくなった。
+And being slain by her sword is also gone in perpetuity.
+//Which never happened. -GHS
+TP
+
+
+//べたべたしたりされたりすることも。
+So is being clung all sticky-sticky as well.
+TP
+
+
+//殴られることも。
+And being punched too.
+TP
+
+
+//冬子が俺にしてきた、全ての道筋が……絶たれたということでもある。
+All the paths that Touko had for me... are with this completely severed.
+TP
+
+
+//これからは、今までの記憶を、大切にしていくしかない。
+From here onwards, I must make do with treasuring all the recollections I have made up until now.
+TP
+
+
+//反芻して、生きていくしかない。
+Ruminate and think over and ponder and muse, but living with that and nothing else.
+TP
+
+
+//太一「哀れむな」
+Taichi: "Don'tcha commiserate now."
+TP
+
+
+//自分を。
+Not yourself.
+TP
+
+
+//目頭を押さえて、指先を押しつけて。
+Hold down the corner of your eyes, with your fingertips, hold them down.
+//Because of tears, but since he's in full Bwaah Me Can't Cry mode, going with overliteral. -GHS
+TP
+
+
+//全力で、割り切る。
+Come to a clear cut decision with all your power,
+TP
+
+
+//まだ続く。
+and continue still.
+TP
+
+
+//しないといけないことが、まだあるから。
+Because there still are things that you absolutely must accomplish.
+TP
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+WVS 1 1
+TWS 7
+//HACK earlier end music, NVL mode -GHS
+
+
+//また、来週―――
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+               See you next week---
+//CP CCD1001
+TP
+
+
+
+
+WT 1500
+WT 1500 1
+
+
+
+RET

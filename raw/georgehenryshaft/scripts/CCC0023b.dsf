@@ -1,0 +1,462 @@
+
+
+GL 0 bgcc0002a
+GS 0 1
+GS 1 0
+SEF 109 1
+//HACK for better exit from flashback -GHS
+
+
+//て、帰宅と。
+So, returning home.
+TP
+
+GL 0 bgcc0004b
+GS 0 1
+SEF 152 0
+
+
+
+WVP 1 bgm016.ogg 0 0 0
+
+
+//太一「ふう」
+Taichi: "Whew."
+//CP CCA0012
+TP
+
+//誰もいない。
+There is no one.
+TP
+
+//睦美さんの姿はない。
+Mutsumi-san's very shapes aren't there.
+TP
+
+//早帰りの日は、暖かく出迎えてくれて。
+She would greet me warmly on those days she came home early.
+//...meaning this is simply not one of those days. And we just never see one, coincidentally. -GHS
+TP
+
+//夕食作ってくれて。
+She would make me dinner.
+TP
+
+//机を料理で一杯にするのが好きで。
+She loved to fill the table with her cooking.
+TP
+
+//男性的な料理。
+A manly cuisine.
+TP
+
+//仕事柄だろうか。
+It's part of her job, probably.
+//Compare Yusa's mother... except for the looks, then. -GHS
+TP
+
+//豪快で、パワフルで。
+Big-hearted, powerful.
+TP
+
+//冗談を言い合って。
+We'd tell jokes to each other.
+//Meaning he'd molest her, too? -GHS
+TP
+
+//いい人だったな。
+She was a nice person.
+TP
+
+//けど今、机の上は虚ろにたいらで。
+But now, the top of the table is but an empty flat space.
+TP
+
+//料理が湯気を立てることはない。
+There's no rising steam of food.
+TP
+
+//太一「……腹減ったな」
+Taichi: "...but I'm hungry."
+//Next time don't eat Kiri's bolts. -GHS
+TP
+
+//田崎商店からカップラーメンを持ってきた。
+I brought over cup ramen from the Tasaki Store.
+TP
+
+//食うか。
+Let's just eat.
+TP
+
+//うお、電熱器がつかねぇ。
+Whoops, can't use the electric heater.
+//As ever, the suspicious "can't use" that can mean "doesn't work", but not necessarily so. -GHS
+TP
+
+//庭にはちょっとしたパーティー用のスペースがあり、そこで湧かしてもいいのだが。
+In the garden there's a small space just for parties, I could just boil water there, but,
+//庭には (told you) -GHS
+TP
+
+//太一「めんでぇー（面倒だ）」
+//Taichi: "Whappneeee. (What a penis!)"
+Taichi: "Annooow'n. (How annoying!)"
+TP
+
+//そのまま食うことにした。
+I decided to eat it as it is.
+TP
+
+//バリバリ（麺）
+Scrunch, scrunch (noodles)
+TP
+
+//ごくごく（水）
+Gulp, gulp (water)
+TP
+
+//バリバリバリ（麺）
+Scrunch, scrunch, scrunch (noodles)
+//PCP
+TP
+
+//ごくごくごく（水）
+Gulp, gulp, gulp (water)
+//PCP
+TP
+
+//バリバリバリバリ（麺）
+Scrunch, scrunch, scrunch, scrunch (noodles)
+//PCP
+TP
+
+//サクッ……（乾燥メンマ）
+Cah-runch... (dried menma)
+TP
+
+//太一「……虚しくなってきた」
+Taichi: "...this is just pointless."
+//7xthings in parenthesis, but! 9xscrunch 5*gulp 1*cah-runch... 15=6. Indeed, without boiling the water there's one thing missing. Also, if the 'ba' in bari-bari (scrunch) is to be taken as a katakana 'ha', as eight, and 'go' in goku (gulp) is 5, then we have a grand total of 9x8 + 5*5 = 97 9+7=16 -> 7. -GHS
+TP
+
+//俺は本当に食事をしているのか。
+Am I even having a real meal here?
+TP
+
+//やっぱ人類滅亡きっついわ。
+I knew it, the fall of mankind's harsh one, yes.
+//See CCB2010 -GHS
+TP
+
+//いろいろ不便だもんな。
+Lots and lots of inconveniences around.
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+WT 500 0
+WT 500 1
+
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 0
+
+//蝋燭に火をつける。
+I ignite a candle.
+//CP CCA0012
+TP
+
+//日記をつけることにした。
+I had decided to keep a diary.
+TP
+
+//なんかヘミングウェイっぽいし。
+Sorta Hemingwayish.
+//Hemingway, like other famous diarists, however used a Moleskine diary. Oh, I remember those... -GHS
+TP
+
+//日記に使おうと大学ノートを探すが、どこにもなかった。
+I search for a college notebook to use as diary, but there were none anywhere.
+//This is a specific kind of notebooks, so there's nothing strange about the term... or is there, since the term 'college' was removed in the PS2 version alone (as with the line about Hemingway, believe it or not). The notebooks vanished as things inside the hokora do not replicate outside post-loop. -GHS
+TP
+
+//太一「ん？」
+Taichi: "Hm?"
+TP
+
+//確か何冊か買い置きがあったのに。
+But I was sure there I had so many stocked up.
+//Maybe nothing suspicious about this again, but he can't be expecting to run out of them, can he? -GHS
+TP
+
+//太一「んー」
+Taichi: "Hmmm."
+TP
+
+//金庫の中か。
+Inside the safe?
+TP
+
+//一応調べてみる。
+Just in case I'll try to investigate.
+TP
+
+//金庫には、基本的にエロ本を収納してある。
+My safe is fundamentally a storehouse for porn books.
+//See CCB2009 -GHS
+TP
+
+//耐火金庫なので、家事になっても俺のエロスは保たれるって寸法さ。
+This being a fireproof safe, so regardless of housework my Eros will be safeguarded.
+//Unless the housework is made by a near-psychic tsundere live-in. -GHS
+TP
+
+//調べるため、金庫をあけた。
+For purposes of investigation, I opened the safe.
+TP
+
+WVS 1 1
+GO 0 1
+//HACK off music, to dark -GHS
+
+//……………………。
+............
+TP
+
+GI 0 1
+WVP 1 bgm016.ogg 0 0 0
+//HACK back everything. -GHS
+
+//三十分後、金庫を閉じた。
+Thirty minutes later, I shut the safe.
+TP
+
+//ここにノートはなかった。
+There were no notebooks here.
+TP
+
+//太一「ふぅ」
+Taichi: "Whew."
+//CP CCA0012
+TP
+
+//いかん、無駄に時間をロスしてしまった。
+This is bad, I lost a lot of time pointlessly dammit.
+TP
+
+//まったくもう……この金庫の中身と来たら……フフフ。
+Seriously, though... when it comes to the contents of the safe... hoh hoh hoh!
+//Doesn't フフフ just look like 777? -GHS
+TP
+
+//罪深い桃色小空間め。
+Damn that sinful, tiny peach-pink space.
+//That means the... oh, you can figure out THIS much, right. -GHS
+TP
+
+//さて、ノートはどこに行ったのだろう。心当たりがない。
+So then, where did those notebooks go then. I have no clue.
+TP
+
+//記憶喪失か。
+Memory loss?
+TP
+
+//太一「いよいよ俺も主人公っぷりに磨きがかかってきたようだ……あ、そだ」
+Taichi: "More and more I seem to improve and polish my Heroic Protagonist characteristics... ah, right."
+//True Protagonists Have Memory Loss after all, see Final Fantasy VII for one of the most important examples. In fact, given Cloud was faking being everything he claimed to be, and his memory loss was due to a traumatic event that pushed him into that fakery... -GHS
+TP
+
+//曜子ちゃんにもらったノート。
+The notebooks Youko-chan brought me.
+//It's impossible to tell how many Taichi has burned through. As far as we know, after Week 3, Taichi gets a new bundle every week or so. That may even be why he had a stack in the first place. -GHS
+TP
+
+//ベストタイミングだ。
+That's the Best of Timings.
+//NOT SUSPICIOUS AT ALL. -GHS
+TP
+
+//……なんか神がかってるな、彼女。
+...she's really divinely inspired, isn't she.
+//Still trolling you. -GHS
+TP
+
+//シュリンクをペリペリはがす。
+Crinkle-crinkle I peel the shrinkwrap.
+//http://item.rakuten.co.jp/keitai/256-periperi-/ it's even more useless than sheets of bubble wrap. -GHS
+TP
+
+//さて、書くか。
+So then, to write?
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//ペンがないぞ。
+Don't got pen.
+TP
+
+//見あたらない。
+It's nowhere in sight.
+TP
+
+//太一「金庫の中か？」
+Taichi: "Inside the safe?"
+//PCP above
+TP
+
+//再び金庫をあける。ペンを探すために。
+I open the safe once again, for the purpose of searching for a pen.
+//Scene may be a joke, but his return to porn every single time something doesn't immediately go his way is certainly interesting. -GHS
+TP
+
+
+WVS 1 1
+GO 0 1
+//HACK off music, to dark -GHS
+
+//……………………。
+............
+TP
+
+GI 0 1
+WVP 1 bgm016.ogg 0 0 0
+//HACK back everything. -GHS
+
+
+//四十五分後、金庫を閉じた。
+Forty-five minutes later, I shut the safe.
+//PCP above
+TP
+
+//ペンはなかった。
+A pen there was not.
+TP
+
+//愛があった。
+Love there was.
+TP
+
+//太一「……ふぅぅ～」
+Taichi: "...Wheee～w."
+TP
+
+//せっかく急いだのに、連戦しちゃあ意味がないよね♪
+Though I made effort to hurry, this series of battles is meaningless oh yes.♪
+TP
+
+//小憎らしい誘惑夢小箱め！
+Curse that inveigling little dream box of allurement!
+//夢箱 -GHS
+TP
+
+//ペンは机の横に落ちていた。
+The pen had fallen off the side of the desk.
+TP
+
+//日記を書く。
+I write the diary.
+TP
+
+//辞書が欲しくなった。
+I ended up needing a dictionary.
+//.............................. -GHS
+TP
+
+//ところが辞書がないのだ。
+But fact is, there is no dictionary.
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//金庫をあける。
+I open the safe.
+TP
+
+
+WVS 1 1
+GO 0 1
+//HACK off music, to dark -GHS
+
+//……………………。
+............
+TP
+
+
+GL 0 BGCC0000C
+GS 0 1
+SEF 109 0
+WVP 1 bgm016.ogg 0 0 0
+//HACK back music, to night sky -GHS
+
+
+//一時間二十七分後、金庫を閉じた。
+One hour and twenty-seven minutes later,
+//8-7 minutes later. He spends 152 minutes total 1+5+2=8. Eight is associated with too much time on porn. -GHS
+TP
+
+//太一「……ふ」
+Taichi: "...whew."
+TP
+
+//ハッスルしすぎ、俺。
+I got too much hustle on, I do.
+TP
+
+//究極抱き枕（商品名）は、どうも具合が良すぎてイカン。
+The Ultimate Dakimakura (product name) felt for some reason excessively good and cut it out.
+//Going with a net change at the end. -GHS
+TP
+
+//もう十時を過ぎていた。
+It was already past ten o'clock.
+//That means he started at ~7:30. -GHS
+TP
+
+//太一「うおっ！？」
+Taichi: "Whoa?!"
+TP
+
+//特大の蝋燭もとうに消えていた。
+The extra-large candle had already disappeared.
+TP
+
+//しまった、虚脱に時間を割きすぎた。
+Dammit, I spent too much time in despondency.
+//Hopeless person. -GHS
+TP
+
+//だから抱き枕系のジョークグッズは……。
+Therefore, these novelty items of a Dakimakura fan...
+//I don't think we WANT to know. Novelty item may be in the JList sense of "it's a vibrator, but for legal reason we sell it as a massager". -GHS
+TP
+
+//と、日記を書かねば。
+But if I don't write the diary...
+TP
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 109 0
+//HACK back to room. -GHS
+
+//新しい蝋燭をつけて、ノートに立ち向かう。
+I light up a new candle, and square off with the notebook.
+//I wonder if this is how Cross Channel was written. -GHS
+TP
+
+WVS 1 1
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+RET

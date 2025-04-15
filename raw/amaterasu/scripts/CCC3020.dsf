@@ -1,0 +1,275 @@
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+Now then,
+TP
+
+I'll leave the club to everyone else,
+TP
+
+And go pick up Touko.
+TP
+
+Let's go by car.
+TP
+
+I gathered keys from the staff room and searched for a car that at least one would fit.
+//Original sounded awkward ~Bal
+//Still sounds awkward IMO. You can grasp its meaning after re-reading it once, but you're supposed to understand it immediately. -VDZ
+TP
+
+Taichi: "Oowa......"
+TP
+
+WVP 1 bgm011.ogg 0 0 0
+
+The parking lot had become a tragedy.
+TP
+
+As if a runaway car had repeatedly driven into everything.
+TP
+
+Taichi: "They're all dented......"
+TP
+
+This one's bumper is torn off.
+TP
+
+Trees were broken.
+TP
+
+Cracks radiated out on the front windshield.
+TP
+
+Taichi: "......Tomoki-sensei......"
+TP
+
+Tomoki was divinely talentless at driving.
+TP
+
+Taichi: "So the mission was impossible for an amateur, kukuku."
+TP
+
+Even I know how to drive well enough to get that far.
+TP
+
+I guess some humans are just better than others.
+TP
+
+I got into a car I had the key for.
+TP
+
+As a man, this is a natural mission to carry out.
+TP
+
+An automatic...
+TP
+
+This vehicle's for girls.
+TP
+
+Taichi: "Ke! I'll show you!"
+TP
+
+I was violent.
+TP
+
+I started getting reckless.
+TP
+
+I hit the accelerator splendidly at half-clutch.
+TP
+WVP 2 SE057 1 0
+SEF 101 0
+
+Crap, I hit the car right in front of me.
+TP
+
+Good thing I had my seat belt on.
+TP
+
+I'll retreat for now.
+TP
+
+Taichi: "Back up, back up now......"
+TP
+
+WVP 2 se056 1 0
+SEF 101 0
+
+I ran over the chocks under the back tires and knocked down a tree.
+TP
+
+Taichi: "This is hard..."
+TP
+
+This kind of mistake doesn't even happen once in a million. It's a super-rare event.
+TP
+
+Retry.
+TP
+
+WVP 2 SE062 1 0
+SEF 101 0
+Crap, I left it in reverse gear.
+TP
+
+Once in a million and another once in a million......how many is that now?
+TP
+
+Whatever.
+TP
+
+I'm so miraculous I sparkle.
+TP
+
+Although this car looks expensive......sorry, deceased Professor Sakakibara.
+//Cookies to anyone who honestly remembers this name. Å`IX
+//uhm...Hot teacher? No wait...Mammoth?-Spin
+TP
+
+I moved forward.
+TP
+
+
+WVP 2 SE061 1 0
+SEF 101 0
+Carefully...with the parking break active.
+TP
+
+I released it.
+TP
+
+The car suddenly lurched forward.
+TP
+
+WVP 2 SE059 1 0
+
+SEF 101 0
+I grazed the cars lined up on one side, and plucked off their bumpers.
+TP
+
+I'm destroying things with decent efficiency.
+TP
+
+Crap, I did something horrible to the principal's Ferrari.
+TP
+
+Taichi: "......"
+TP
+
+Well, I guess it's fine. His fault for Ferraring at such a dangerous school.
+TP
+
+*Ferraring = Taichian. Two meanings. (1) To be or become the owner of a Ferrari. (2) (censored)
+TP
+
+
+Forward slowly. Left turn.
+TP
+
+Taichi: "That's good."
+TP
+
+The engine stalled.
+TP
+
+Taichi: "............"
+TP
+
+I restarted it.
+TP
+
+It backed up.
+TP
+
+WVP 2 SE056 1 0
+Taichi: "......"
+TP
+
+Although I had fully realized this, the seat belt really is a necessity.
+TP
+
+Taichi: "Go without discouragement!"
+TP
+
+WVP 2 SE056 1 0
+WVP 2 SE057 1 0
+WVP 2 SE058 1 0
+
+The car stopped moving.
+TP
+
+Taichi: "......hmmm."
+TP
+
+Its biorhythms seem unfavorable.
+//Why the plural? It's only one car, so wouldn't it have only one biorhythm? -VDZ
+TP
+
+Taichi: "Still, Japanese cars are fragile."
+TP
+
+It'd be a dream within a dream for this car to get transferred to the Western police.
+TP
+
+There'd be a mountain of concerns about it getting destroyed by fire truck hoses.
+TP
+WVP 2 SE063 1 0
+
+
+Youko-chan tapped the window.
+TP
+
+Taichi: "......what?"
+TP
+
+I opened the window.
+TP
+
+WVP 0 vfCCC3020you000
+Youko: "Get out."
+TP
+
+I got out.
+TP
+
+WVP 0 vfCCC3020you001
+Youko: "Wait."
+TP
+
+Taichi: "......yeah."
+TP
+
+I drew the hiragana for "no" in the ground while waiting, and a car drove up from a far-away parking space.
+TP
+
+She parked right in front of me, with practiced driving.
+TP
+
+WVP 0 vfCCC3020you002
+Youko: "Get in."
+TP
+
+I got in the passenger seat.
+TP
+
+WVP 0 vfCCC3020you003
+Youko: "Where do you want to go?"
+TP
+
+Taichi: "......I'll be heading to the Kirihara castle."
+TP
+
+I had her take me there.
+TP
+
+I was full of sad feelings.
+TP
+
+WVS 1 
+
+RET

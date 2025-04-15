@@ -1,0 +1,189 @@
+
+
+
+
+//よーし、任せとけ！
+Ohhh yeah, leave this to me!
+TP
+
+
+
+//太一「先輩」
+Taichi: "Senpai."
+TP
+
+GL 1 TCMM0000c
+GI 1 0
+//HACK normal Misato -GHS
+
+
+WVP 0 vfcca0025dmsa000
+//見里「……なぁに？」
+Misato: "...wha-at?"
+//PCP CCA0025A
+TP
+
+
+
+//太一「俺と結婚してくださいよ！」
+Taichi: "Please marry me!"
+TP
+
+
+
+//親指を立てて告った。
+So I proclaim with a raised thumb.
+TP
+
+GL 1 TCMM0002c
+GI 1 0
+
+WVP 0 vfcca0025dmsa001
+//見里「うふ」
+Misato: "Eheh..."
+TP
+
+
+
+//先輩はまるで天使のように柔らかく微笑んだ。
+Senpai gave a smile of softness so like an angel's.
+TP
+WVS 1 1
+WVP 2 se042 1 0
+
+
+
+//＊・゜゜・天使†光臨。・゜゜・＊
+> 
+ 
+            ・゜゜・＊・゜゜・Angel's † Call・゜゜・＊・゜゜・
+//What a pretty line. Please never show it to me again. -GHS
+TP
+WVS 2 0
+
+
+
+WVP 0 vfcca0025dmsa002
+//見里「絶対いやです♪」
+Misato: "Absolutely never!♪"
+TP
+WVP 1 bgm010.ogg 0 0 0
+
+
+
+//太一「もしもし友貴？　黒須だけど。うん、今おまえのねーちゃんに告って振られたトコ。マジマジ、ライブ。だってまだ隣にいるもん。ブヒャヒャヒャヒャ！」
+Taichi: "Hello, Tomoki? It's just Kurosu. I've just now confessed and been shot down by your nee-chan. Serious, I'm serious, live reporting. She's still right next to me! Hyeeh hyeh hyeh hyeh hyeh!"
+//Can't source that laugh precisely, but it seems associated with the ゜∇゜ emoticon, i.e. sorta psychotic? BTW, THIS is where he loses her; THIS is where he plays the fool. -GHS
+TP
+
+
+
+//「とにかくさとにかくさ、俺の胸中、苦い喜びで満ちみちてＮＯＷ。おまえに後押しされて気持ち伝えてみてサイコー良かった！！　死にくされや！！」
+"Anywayingly anyway, depths of chest filledy full of bitter delight nau. And I'm sooo grateful for you supporting me in trying to convey my feelings!!! Rot & die!!!"
+//Weirdy and twittery. Last one seems to be a 2chan meme. -GHSy
+TP
+
+
+GL 1 TCMM0000c
+GI 1 0
+
+WVP 0 vfcca0025dmsa003
+//見里「その携帯……電池切れてませんか？」
+Misato: "That cellphone... did not the battery run out?"
+//How does she know? Even the stupid iPhone won't run out of power in four damn days. -GHS
+TP
+
+
+
+//太一「わかってますよそんなこと！」
+Taichi: "I know that, damn it all!"
+TP
+
+
+
+//泣き伏す。
+I break down in tears.
+TP
+
+
+
+//太一「うおーん！」
+Taichi: "Bwoooh!"
+TP
+
+
+
+
+GL 1 TCMM0005c
+GI 1 0
+
+WVP 0 vfcca0025dmsa004
+//見里「彼に当たらずとも……」
+Misato: "He was close but..."
+//From an expression that means "he wasn't on the mark, but not too far either". Close but no cigar. -GHS
+TP
+
+
+
+//太一「冗談のつもりって自覚していながらもしかしたらいい感じになるかなって都合の良い期待はそりゃもう明確にありましたからキッパリ断られるとそれはそれで胸が痛いんですジャア！」
+Taichi: "Despite being aware that the intent was jocular I wondered maybe could it possibly be that this will end up happily but my so convenient expectations were so very transparent and therefore plainly turned down and that is the cause for the pain in my heart, Hulk Hogan!"
+TP
+
+
+
+WVP 0 vfcca0025dmsa005
+//見里「絶対拒絶されるタイミングで告る方に問題があるんジャア……」
+Misato: "But the problem lies in how you confessed with the exact timing for an absolute rejection, Hulk Hogan..."
+//She just plays along. But she is correct: he did this on purpose. -GHS
+TP
+
+
+
+//太一「人生、一寸先は闇なんジャア！　今を信じるしかないんジャア！」
+Taichi: "LIFE HAS DARKNESS JUST ONE STEP AHEAD!!!
+WHAT THE FUTURE HOLDS NO ONE KNOWS!!!
+ONLY IN THE PRESENT CAN ONE CONFIDE, HULKHOGAAAN!!!"
+//Both literal and lateral for maximum silly. I can't find the precise wrestler, if there's one, but the adaptation is from http://en.wikipedia.org/wiki/Warrior_(wrestler) of course. And damn if it doesn't fit almost too easily, timeline and all. In fact, it may be too good for this really crappy joke. -GHS
+TP
+
+GL 1 TCMM0000c
+GI 1 0
+
+WVP 0 vfcca0025dmsa006
+//見里「ほら、キュウリの酢漬けあげますから、元気を出して。そしてレスラー口調はもうよしましょう。ね？」
+Misato: "Come now, I will give you some cucumbers with pickles, so cheer up! Also, let us stop talking like that wrestler. OK?"
+//...and this is why. The original just ends with 'njaa'. -GHS
+TP
+
+
+
+//太一「お、俺の愛はキュウリで賄えてしまうとですか……」
+Taichi: "Th-, the price of my love can be covered by a cucumber..."
+//Nothing to do, my man, time to bat for the other team. -GHS
+TP
+
+
+GL 1 TCMM0002c
+GI 1 0
+
+WVP 0 vfcca0025dmsa007
+//見里「ぺけくんにはもっと素敵な想い人ができますよ、きっと」
+Misato: "Peke-kun, you will find a much more wonderful lover than me, I am sure."
+//Because she doesn't believe herself good enough for him, all things considered. -GHS
+TP
+
+
+
+//太一「泣きそう」
+Taichi: "It's to cry."
+TP
+
+
+
+//キュウリは失恋の味がした。
+The cucumber had the taste of a broken heart.
+//hee hee bat -GHS
+TP
+
+RET
+

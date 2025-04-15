@@ -1,0 +1,57 @@
+
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+SEF 152 0
+
+//学校についた。
+I arrived at school.
+TP
+
+
+//どうしよ……。
+What to do...
+TP
+
+
+//とにかく徘徊してみよう。
+Whatever, let's wander around a bit.
+TP
+
+
+:SET_0001
+//HACK because we have five lines now, I combined the two pages. -GHS
+
+
+CSQ 0 1 1 1 1 1
+//　・部室
+//　・一年教室
+//　・廊下
+//　・選択肢、次ページへ
+ - Club room
+ - First Years' classroom
+ - Corridor
+ - Second Years' classroom
+ - Rooftop
+//- [To next page of selections]
+//CP CCC0010A (first choice)
+//CP CCC0010A (second choice)
+
+//xxx IF $B == 4 JMP SET_0002
+
+JMP SET_END
+//:SET_0002
+//　・二年教室
+//　・屋上
+//　・選択肢、前ページへ
+// - [To previous page of selections]
+//IF $B == 3 JMP SET_0001
+//IF $B == 2 $B = 5
+//IF $B == 1 $B = 4
+//Because choices only set $B to 1...n, these would set $B correctly for CCD.DSF to manage. Deprecated. -GHS
+
+
+:SET_END
+RET

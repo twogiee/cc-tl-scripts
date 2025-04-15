@@ -1,0 +1,57 @@
+
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+WVP 1 bgm020.ogg 0 0 0
+
+//脱走させないための門は、とにかく厳めしいという印象があった。
+This gate to prevent escape somehow still left an impression of austere dignity.
+TP
+
+//なぜ脱走させてはいけないか。
+Why is escape so strictly forbidden?
+TP
+
+//人を傷つける可能性があるから。
+Because there is a possibility that people would be hurt.
+//...in both directions... -GHS
+TP
+
+//ま、一種の半隔離施設だ。
+Well, it's kind of a half-isolation facility.
+TP
+
+//安心していい、危険人物たちは滅びました。
+Be at ease now, the dangerous people have been annihilated.
+TP
+
+//世界中に八人だけです。
+There are only eight people all throughout the world.
+//These random assurances that there's no one out there sound less like desperation and more like foreknowledge. -GHS
+TP
+
+//あと一般市民も滅びました。
+And the general public had also been annihilated.
+TP
+
+//だから被害者は出ません。
+Therefore there shall be no victims.
+TP
+
+//わはは。
+Wahahah!
+TP
+
+//太一「と、自虐ネタはここまでにして」
+Taichi: "And, the jokes tending towards the masochistic end here."
+//See CCA0011C -GHS
+TP
+
+//死んだ貝のように開いたままの門を抜ける。
+I pass through this gate open like a dead shellfish.
+TP
+
+RET

@@ -1,0 +1,800 @@
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 109 1
+
+WVP 3 SE001 0 0
+
+GL 0 bgcc0006s
+GS 0 1
+SEF 152 0
+
+WVP 1 bgm004.ogg 0 0 0
+
+WVP 0 vmCCC3007shi000
+Shinkawa: "Actually, I have some memory loss."
+TP
+
+He suddenly said.
+TP
+
+Taichi: "Just like a main character."
+TP
+
+WVP 0 vmCCC3007shi001
+Shinkawa: "?"
+TP
+
+Taichi: "It's nothing, please forget it."
+TP
+
+Shinkawa spoke.
+TP
+
+About not having any memories of his boyhood.
+TP
+
+About being trypanophobic.
+TP
+
+About feeling a pathological fear from the darkness of a forest.
+TP
+
+Something happened to him a long time ago.
+TP
+
+But he doesn't know what.
+TP
+
+Kiri's parents wouldn't tell him.
+TP
+
+Shinkawa Yutaka doesn't have a family.
+//I didn't want to take away those words but it had to be done. It was way too a far away from the other "about"s and sounded so awkward.-Spin 
+TP
+
+Everything was in darkness.
+TP
+
+And then he got sent to Gunjou, along with Kiri.
+TP
+
+Taichi: ......*munch* *munch*
+TP
+
+I listened while devouring a pizza.
+TP
+
+It'd been delivered.
+TP
+
+At that time, I was extremely wealthy, so I'd been getting my lunches delivered.
+TP
+
+Gunjou's rules practically didn't exist, due to the pretext that they're trying to heal our hearts.
+TP
+
+For all they know, if I'd been stopped from ordering pizza, I might have become emotionally unstable.
+TP
+
+If one is self-conscious enough, this school that isolates people on the pretext of healing effectively can become a lawless district.
+TP
+
+......like a prison on a small island.
+TP
+
+Taichi: "Hmmm, I see. Memory loss. Hmmm."
+TP
+
+I deliberated long and hard. Then,
+TP
+
+Taichi: "Okay!"
+TP
+
+WVP 0 vmCCC3007shi002
+Shinkawa: "I see......well I thought it'd be like that......"
+TP
+
+Taichi: "I agree with the Shinkawa who has memory loss. But I am sorry to be subjected to the Shinkawa who does not have amnesia."
+TP
+
+WVP 0 vmCCC3007shi003
+Shinkawa: "............"
+TP
+
+Kiri entered into our mellow space.
+TP
+GL 1 TCSK0000s
+GS 1 1
+GP 1 190 0
+SEF 109 0
+
+WVP 0 vfCCC3007kri000
+Kiri: "You're both mating again."
+IF $tlnote != 0 (TL note: The word translated here as "mating" can refer either to animals having intercourse or to people hanging out.)
+TP
+
+Taichi: "It's Kiri-chin."
+TP
+
+GL 1 TCSK0002s
+GI 1 0
+WVP 0 vfCCC3007kri001
+Kiri: "......please don't call me Kiri-chin."
+TP
+
+Taichi: "But aren't you Kiri-chin?"
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+WVP 0 vfCCC3007kri002
+Kiri: "I'm Kiri."
+TP
+
+Taichi: "Then Kiri."
+TP
+
+GL 1 TCSK0001s
+GI 1 0
+WVP 0 vfCCC3007kri003
+Kiri: "Please use an honorific!"
+TP
+
+Taichi: "Which is it?"
+TP
+
+Taichi: "Hey, Yutaka?"
+TP
+
+WVP 0 vmCCC3007shi004
+Shinkawa: "........................"
+TP
+
+He was sleeping.
+TP
+
+Taichi: "This guy falls asleep really fast."
+TP
+
+GL 1 TCSK0002s
+GI 1 0
+WVP 0 vfCCC3007kri004
+Kiri: "......he's always been like that."
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+WVP 0 vfCCC3007kri005
+Kiri: "It's like an aftereffect of some disease......"
+TP
+
+Taichi: "Aaah, that memory loss he had."
+TP
+
+WVP 0 vfCCC3007kri006
+Kiri: "......Yutaka told you?"
+TP
+
+Taichi: "Just now."
+TP
+
+WVP 0 vfCCC3007kri007
+Kiri: "I see......he really trusts you."
+TP
+
+Taichi: "Huh?"
+TP
+
+GL 1 TCSK0002s
+GI 1 0
+WVP 0 vfCCC3007kri008
+Kiri: "We had no friends at our previous school. Neither him nor me."
+TP
+
+It happens a lot.
+TP
+
+Especially when results of adaptation exams get leaked.
+TP
+GL 1 TCSK0000s
+GI 1 0
+
+WVP 0 vfCCC3007kri009
+Kiri: "Even those who were our friends betrayed us......so we couldn't trust anyone......"
+TP
+
+WVP 0 vfCCC3007kri010
+Kiri: "Even though we weren't hurting anyone, everyone hurt us."
+TP
+
+Taichi: "And then you showed your fangs."
+TP
+GL 1 TCSK0001s
+GI 1 0
+WVP 0 vfCCC3007kri011
+Kiri: "Isn't it only natural to defend yourself from attack?"
+TP
+
+Taichi: "That's one way to think about it."
+TP
+
+Taichi: "But shooting and killing wild beasts that protect themselves is the way of the world."
+TP
+
+WVP 0 vfCCC3007kri012
+Kiri: "......are you not a human?"
+TP
+
+Kiri spoke softly.
+TP
+
+She burned with righteous indignation.
+//This is one word in Japanese, lol. Å`IX
+TP
+
+Kiri was too straightforward to live in modern times.
+TP
+
+Taichi: "Inside me......there is something which really isn't a person."
+TP
+
+Taichi: "Do you ever think that the humans around you don't matter at all?"
+TP
+GL 1 TCSK0000s
+GI 1 0
+
+Kiri: "............"
+TP
+
+Taichi: "I do on occasions. Only occasionally, but......if I ever became completely like that, I'd be finished."
+TP
+
+Taichi: "I have to do my best to live. Just a little bit of wagging my tail and singing praises for those guys, that group that call themselves normal people......I have to live..."
+TP
+
+WVP 0 vfCCC3007kri014
+Kiri: "For that, you'll take such strange actions?"
+TP
+
+Taichi: "Dunno......never thought about it."
+TP
+
+Taichi: "......you're that way too."
+TP
+
+WVP 0 vfCCC3007kri015
+Kiri: "Eh......I am, too?"
+TP
+
+Taichi: "Don't you want to live?"
+TP
+
+GL 1 TCSK0004s
+GI 1 0
+WVP 0 vfCCC3007kri016
+Kiri: "I......"
+TP
+
+WVP 0 vfCCC3007kri017
+Kiri: "I..."
+TP
+
+She lowered her face and held herself.
+TP
+
+WVP 0 vfCCC3007kri018
+Kiri: "I can't stand how scary the world is."
+TP
+
+Taichi: "What part of it?"
+TP
+
+WVP 0 vfCCC3007kri019
+Kiri: "......the malice."
+TP
+
+WVP 0 vfCCC3007kri020
+Kiri: "Everyone's malice......"
+TP
+
+WVP 0 vfCCC3007kri021
+Kiri: "No one......is kind......there's so little kindness......"
+TP
+
+She was shaking.
+TP
+
+Yes,
+TP
+
+She didn't wish to come here either.
+TP
+
+She had to come here.
+TP
+
+That's what the country decided.
+TP
+
+Disobedience couldn't be forgiven.
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+WVP 0 vfCCC3007kri022
+Kiri: "......humans, when they pass away, they're gone just like that......because there's hardly anything in the world......"
+TP
+
+WVP 0 vfCCC3007kri023
+Kiri: "There are so many places with Åwnothing there.Åx There's hardly ever Åwsomething there!Åx"
+TP
+
+WVP 0 vfCCC3007kri024
+Kiri: "We don't know when we'll be swept away......that's what I think."
+TP
+
+Taichi: "That's......like a sci-fi story about...humanity's annihilation or something?"
+TP
+
+WVP 0 vfCCC3007kri025
+Kiri: "It's different from that......it's different from things like that, which have reasons......"
+TP
+
+WVP 0 vfCCC3007kri026
+Kiri: "It's like I've woken up from a dream."
+TP
+
+WVP 0 vfCCC3007kri027
+Kiri: "Even though it's scary, with nothing but quarreling......"
+TP
+
+WVP 0 vfCCC3007kri028
+Kiri: "But sometimes I think, if everything suddenly disappeared one day......and if I was left alone......in this petty world......"
+TP
+
+GL 1 TCSK0004s
+GI 1 0
+WVP 0 vfCCC3007kri029
+Kiri: "I......I'd......"
+TP
+
+Taichi: "Sakura Kiri."
+TP
+
+I called her back.
+TP
+
+Color came back to her sunken expression.
+TP
+
+GL 1 TCSK0002s
+GI 1 0
+WVP 0 vfCCC3007kri030
+Kiri: "Ah......I'm sorry......"
+TP
+
+Taichi: "Afraid of malice, afraid of being alone......"
+TP
+
+WVP 0 vfCCC3007kri031
+Kiri: "......?"
+TP
+
+Taichi: "You can sit down and have some pizza."
+TP
+
+Taichi: "One of the eaters fell asleep."
+TP
+
+WVP 0 vmCCC3007shi005
+Shinkawa: "............"
+TP
+WVP 0 vfCCC3007kri032
+Kiri: "......ha."
+TP
+
+She sat down slowly. She didn't pick up any pizza.
+TP
+
+Resurgence of emotions.
+TP
+
+She stayed still for a bit.
+TP
+
+Taichi: "The end result is being exiled."
+TP
+GL 1 TCSK0002s
+GI 1 0
+WVP 0 vfCCC3007kri033
+Kiri: "......is this where exiles go?"
+TP
+
+Taichi: "Yes it is."
+TP
+
+Taichi: "But there's no malice, or harassment. Take a look."
+TP
+
+I indicated our surroundings.
+TP
+
+Lunchtime.
+TP
+
+Those who could eat on their own were eating their meals little by little.
+TP
+
+No gatherings; everyone was eating alone.
+TP
+
+No conversations.
+TP
+
+Only Shinkawa and I had been talking.
+TP
+
+Taichi: "Everyone's passing time peacefully."
+TP
+
+Taichi: "In a sense, it's a group of those with the strength to live alone."
+TP
+
+Taichi: "Not needing to connect with people, concluding on their own."
+TP
+
+Taichi: "Completed humanity."
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+WVP 0 vfCCC3007kri034
+Kiri: "That's......strange."
+TP
+
+Taichi: "If you connect with people while inexperienced, mistakes and inconsistencies occur."
+TP
+
+Taichi: "Aren't those also apt to occur between normal people?"
+TP
+
+Taichi: "That's why people should become perfect and fulfill themselves."
+TP
+
+Kiri: "......"
+TP
+
+Taichi: "Going to eat?"
+TP
+
+GL 1 TCSK0003s
+GI 1 0
+WVP 0 vfCCC3007kri036
+Kiri: "Ah......I can't eat something someone else has touched......"
+TP
+
+Taichi: "So you're fastidious."
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+WVP 0 vfCCC3007kri037
+Kiri: "......especially if a man touched it......"
+TP
+
+Taichi: "Are you androphobic too?"
+TP
+
+WVP 0 vfCCC3007kri038
+Kiri: "Ah, I'm not especially......it's just, for some reason......men seem......unclean."
+TP
+
+Taichi: "You speak recklessly."
+TP
+
+Is she simply becoming conscious of the other gender now that she's entering puberty?
+TP
+
+She easily turns hostile, and in peacetime she's daunted.
+TP
+
+Kiri: "............" (shyness)
+TP
+
+......like right now.
+TP
+
+Which means, if I dug under the surface, I'd find her to be deeply interested in sexual acts.
+TP
+
+Yaaay.
+TP
+
+Taichi: "No, why am I happy about that......"
+TP
+
+I can't steal Yutaka's future wife.
+//lol, you're already on her route. Å`IX
+//What?!? I thought we were doing the Miki route. damn. I guess this explains all the Kiri stuff lately...-Spin
+TP
+
+GL 1 TCSK0002s
+GI 1 0
+WVP 0 vfCCC3007kri040
+Kiri: "Ummm, about that last topic......"
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+WVP 0 vfCCC3007kri041
+Kiri: "There might not be any malice here......but in this school......I get a much stronger feeling that Åwnothing's hereÅx......since no one will answer when I talk to them."
+TP
+
+Taichi: "That doesn't mean they're ignoring you. The rules are just different here."
+TP
+
+WVP 0 vfCCC3007kri042
+Kiri: "......rules?"
+TP
+
+She acted as if she was full of questions once again, and she looked as young as she should at her age.
+TP
+
+I understood that this was the real Kiri.
+TP
+
+This bashful and nervously rambling girl.
+TP
+
+Taichi: "You could say they're on a different channel......or that they just don't cross each other......"
+//Could've adapted as "different wavelength," but I felt there was just cause for keeping the literal in this case. Å`IX
+TP
+
+I can't explain it well.
+TP
+
+Taichi: "It's because both of our states of mind have normal bases, Kiri-chin. Our standards are different from those whose bases aren't normal."
+TP
+
+Taichi: "If you follow someone else's rules when contacting them, you can have a conversation."
+TP
+
+WVP 0 vfCCC3007kri043
+Kiri: "......how would you......follow such rules......?"
+TP
+
+Taichi: "Just observe well. That's right......for example,"
+TP
+
+I moved toward a girl with dark glasses sitting nearby.
+TP
+
+She and I were actually crossing.
+TP
+
+I clapped my hands.
+TP
+
+She looked at me.
+TP
+
+I held a slice of pizza in front of her.
+TP
+
+Girl: "............"
+TP
+
+She showed interest.
+TP
+
+She tried to grab it.
+TP
+
+I moved away a bit, and she stopped trying.
+TP
+
+Her sanctuary was a radius of thirty centimeters.
+TP
+
+Girl: "........................"
+TP
+
+She thought, and held out her bentou box to me.
+TP
+
+Taichi: "Okayyyy."
+TP
+
+I took one piece of her tamagoyaki.
+TP
+
+And in exchange I presented her with the pizza.
+TP
+
+Girl: "......!"
+TP
+
+She started munching on it quietly.
+TP
+
+Taichi: "Just like that."
+TP
+
+WVP 0 vfCCC3007kri044
+Kiri: "......what was that?"
+TP
+
+Taichi: "Exchange of goods is fundamental to that girl."
+TP
+
+Taichi: "Otherwise she's fine in her own world. So anything happening outside a thirty centimeter radius is of little concern to her."
+TP
+
+Taichi: "It's a kind of Savant Syndrome. She's abnormally good with basic calculations. She can quickly answer what the day of the week is for some calendar date a few hundred years in the future."
+TP
+
+Taichi: "Maybe she's gazing at a sea of numbers."
+TP
+
+WVP 0 vfCCC3007kri045
+Kiri: "......is that person happy like that?"
+TP
+
+Taichi: "Naturally."
+TP
+
+Taichi: "Each person has a different form of happiness."
+TP
+
+GL 1 TCSK0003s
+GI 1 0
+WVP 0 vfCCC3007kri046
+Kiri: "......I don't like that."
+TP
+
+WVP 0 vfCCC3007kri047
+Kiri: "There might not be any malice, but I don't like this."
+TP
+
+WVP 0 vfCCC3007kri048
+Kiri: "After all......even though there are people here......each one of them is closed off......as if on a solitary island in some distant sea......"
+TP
+
+GL 1 TCSK0002s
+GI 1 0
+WVP 0 vfCCC3007kri049
+Kiri: "I don't like that......"
+TP
+
+Taichi: "............"
+TP
+
+It's almost as if Kiri...
+TP
+
+
+'Please care about me---'
+TP
+
+
+She looked as if she was screaming that.
+TP
+
+Taichi: "Is that your wound?"
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+WVP 0 vfCCC3007kri050
+Kiri: "......eh?"
+TP
+
+Shinkawa moaned.
+TP
+
+Taichi: "Oh, Onii-chama seems to be waking up."
+IF $tlnote != 0 (TL note: Yet another excessively cute honorific.)
+//You TL-noted almost every other cutesy honorific varietion. Did -chama already get covered, I can't remember... ~Balcerzak
+TP
+
+Taichi: "Do you like Yutaka?"
+TP
+
+GL 1 TCSK0007s
+GI 1 0
+WVP 0 vfCCC3007kri051
+Kiri: "That's............hey, wait, what are you saying!?"
+TP
+
+She went red.
+TP
+
+WVP 0 vfCCC3007kri052
+Kiri: "Ah! I mean! I don't!"
+TP
+
+Taichi: "You're easy to read."
+TP
+
+WVP 0 vfCCC3007kri053
+Kiri: "I'm telling you I don't!"
+TP
+
+Taichi: "Isn't that nice, Yutaka?"
+TP
+
+WVP 0 vfCCC3007kri054
+Kiri: "......eeeh?"
+TP
+
+Yutaka woke up without a word.
+TP
+
+He rubbed his eyes.
+TP
+
+WVP 0 vmCCC3007shi006
+Shinkawa: "......crap, I fell asleep again............huh, my pizza?"
+TP
+
+Taichi: "I ate it."
+TP
+
+WVP 0 vmCCC3007shi007
+Shinkawa: "What, did you......?"
+TP
+
+He was amazed.
+TP
+
+Taichi: "But I didn't think you'd wake up."
+TP
+
+Yutaka moaned softly.
+TP
+
+But he didn't seem to be complaining anymore.
+TP
+
+Shinkawa: "......"
+TP
+
+Instead something else caught his attention.
+TP
+
+He looked at me.
+TP
+
+He looked at Kiri's red face.
+TP
+
+He folded his arms and thought.
+TP
+
+Once again Yutaka looked up at Kiri.
+TP
+
+WVP 0 vmCCC3007shi009
+Shinkawa: "Okay, I understand the circumstances......so, did she decide?"
+TP
+
+Taichi: "The wedding's tomorrow."
+TP
+
+GL 1 TCSK0001s
+GI 1 0
+WVP 0 vfCCC3007kri055
+Kiri: "We're not having one!!!"
+TP
+
+That sort of thing happened.
+TP
+
+
+
+WVS 3 1
+WVS 1 1
+RET

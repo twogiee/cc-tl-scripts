@@ -1,0 +1,428 @@
+GL 0 bgcc0007
+GS 0 1
+SEF 152 0
+
+So, I've come to the roof, but,
+TP
+
+What should I do?
+TP
+
+Ah, it's Sempai.
+TP
+
+WVP 0 vfCCC4006msa000
+Misato: "Parararararara!"
+TP
+
+WVP 1 bgm006.ogg 0 0 0
+
+
+She's practicing for a survival game.
+TP
+
+Sempai holding an SMG at the hip is a wonderful sight.
+TP
+
+By the way, these small arms of ours have been used every year at the campouts.
+TP
+
+Campouts ought to have survival games.
+TP
+
+We even brought BB guns with electric firing mechanisms too.
+TP
+
+Taichi: "Hello."
+TP
+
+GL 1 TCMM0004
+GP 1 225 0
+GI 1 0
+
+WVP 0 vfCCC4006msa001
+Misato: "Eh!?"
+TP
+
+She turned toward me.
+TP
+
+Her SMG gushed water.
+TP
+
+Taichi: "Wappu!"
+TP
+
+A direct hit between the eyes.
+TP
+
+As an electric water gun, it was quite strong.
+//that's the electric firing mechanism again; hopefully that's clear enough despite my shortening it. Å`IX
+//Sounds dangerous. But I did get what you meant.-Spin
+TP
+
+WVP 0 vfCCC4006msa002
+Misato: "Ah! I'm sorry......"
+TP
+
+Taichi: "No, summer survival games are limited to water guns."
+TP
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCC4006msa003
+Misato: "Come to think of it, a new model came out before the annihilation."
+TP
+
+Taichi: "That's cold......"
+TP
+
+Taichi: "Ummm, now that you mention it, it's been bugging me, but..."
+TP
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfCCC4006msa004
+Misato: "Yes?"
+TP
+
+Taichi: "Is it okay to leave the antenna alone?"
+TP
+
+GL 1 TCMM0005
+GI 1 0
+WVP 0 vfCCC4006msa005
+Misato: "............th-that's right."
+TP
+
+Taichi: "So you got swept up by Miki's pace."
+TP
+
+WVP 0 vfCCC4006msa006
+Misato: "She attacked me and I returned fire......"
+TP
+
+Then---
+TP
+
+
+GL 2 TCYM0001
+GS 1 0
+GS 2 1
+GP 2 180 0
+SEF 109 0
+
+WVP 0 vfCCC4006mki000
+Miki: "GI die!"
+TP
+
+She war cried.
+//It's probably not a verb, but there's nothing stopping me from making it one. Å`IX
+//Meh, I think it would sound better just as "Her warcry" or "Her battlecry."-Spin
+//I 100% agree with Spin. - VDZ
+TP
+
+Taichi: "We're not GIs!"
+TP
+
+I returned fire. So did Sempai.
+TP
+
+Our water guns gushed fire.
+*water guns gushing fire = don't worry about it.
+TP
+Taichi: "Do you have a Vietnam Complex!?"
+TP
+
+WVP 0 vfCCC4006mki001
+Miki: "GI diiie!!!"
+TP
+
+Taichi: "Don't call me a GI!"
+TP
+GL 2 TCSK0001
+GP 1 40 0
+GP 2 340 0
+GS 1 1
+GS 2 1
+SEF 109 0
+
+WVP 0 vfCCC4006kri000
+Kiri: "Dieee!"
+TP
+
+Taichi: "Owa!"
+TP
+
+Damn, somehow I'm half serious.
+TP
+
+Taichi: "Damn Vietnam-conscious monkeys......you're the ones who'll die!"
+TP
+
+I didn't know the true meaning of Vietcon!
+IF $tlnote != 0 (TL note: In Japanese, "Vietcon (Vietnam complex)" and "Viet Cong" sound identical.)
+TP
+WVP 0 vfCCC4006kri001
+Kiri: "Ku! Impudent......"
+TP
+
+Taichi: "You...!"
+TP
+
+The water guns' lines of fire crossed over.
+*water guns' lines of fire crossing = don't worry about it.
+TP
+
+GL 3 TCMM0004
+GS 1 0
+GS 2 0
+GS 3 1
+GP 3 225 0
+SEF 109 0
+WVP 0 vfCCC4006msa007
+Misato: "Suspension, suspension!!"
+TP
+
+GL 1 TCYM0003
+GP 1 180 0
+GS 3 0
+GS 1 1
+SEF 109 0
+WVP 0 vfCCC4006mki002
+Miki: "Uryaaa!"
+TP
+
+Club activities again......
+TP
+
+I thought that, but I couldn't ignore the enemy before my eyes.
+TP
+
+Taichi: "Ku! Out of bullets (water)!?"
+TP
+
+I started reloading the gunpowder in the tank attached to my hip.
+TP
+
+This takes ten seconds.
+TP
+GL 2 TCSK0001
+GP 2 220 0
+GS 2 1
+GS 1 0
+SEF 109 0
+WVP 0 vfCCC4006kri002
+Kiri: "......hu!"
+TP
+
+Kiri smiled wickedly.
+TP
+
+The accurate shots increased.
+TP
+
+I lowered my body and ran.
+TP
+
+I won't be hit that easily.
+TP
+
+But ten seconds is a long time.
+TP
+
+Kiri closed in to make certain of hitting me.
+//Two "me's." Also, in a lot of science fiction and other books, they just say "closed in" anyway.-Spin
+TP
+
+At the exact moment I finished reloading.
+TP
+
+I shot.
+TP
+GO 2 1
+WVP 0 vfCCC4006kri003
+Kiri: "......ah!!?"
+TP
+
+Kiri rolled to one side. That's more like it!
+TP
+One more shot.
+TP
+
+This one missed too, but Kiri's posture broke further.
+TP
+
+She fell forward and clung to the fence.
+TP
+
+The fence leaned.
+TP
+
+Kiri had placed her full body weight on it, so she rolled over to the other side of the fence as it broke and curled.
+TP
+
+WVS 1 0
+
+Taichi: "Kiri!"
+TP
+
+I rushed over to her.
+TP
+
+Will I make it in time?
+TP
+
+Impossible, not at this distance.
+TP
+
+I knew that.
+TP
+
+WVP 0 vfCCC4006kri004
+Kiri: "Ah......eh......?"
+TP
+
+The metal fittings on her uniform made clacking noises.
+TP
+
+I heard it as she rubbed against the mesh of the fence.
+TP
+
+Sounds from the midst of her slipping down.
+TP
+
+Right before my eyes, Kiri is...
+TP
+
+Miki is...
+TP
+
+Taichi: "-!?"
+TP
+
+You could say it was swift.
+TP
+
+Miki extended her hand. She grabbed Kiri's wrist.
+TP
+
+By the breadth of a hair, Kiri's fall had been avoided.
+TP
+
+WVP 0 vfCCC4006mki003
+Miki: "......Kiri."
+TP
+
+Her other arm, holding onto the fence, had been torn by the wire and was hemorrhaging.
+TP
+
+Kiri herself was still agape.
+TP
+
+
+........................
+TP
+
+
+Miki pulled her up.
+TP
+
+She remained in a daze for a while.
+TP
+
+GL 1 TCYM0001
+GP 1 180 0
+GS 1 1
+GS 2 0
+SEF 109 0
+WVP 0 vfCCC4006mki004
+Miki: "Owowowowww..."
+TP
+
+Horrible hemorrhaging.
+TP
+
+Taichi: "This is...we need to go to the health room...... Sempai, please bring back some first aid equipment from there."
+TP
+
+GL 2 TCMM0000
+GP 2 225 0
+GS 2 1
+GS 1 0
+SEF 109 0
+WVP 0 vfCCC4006msa008
+Misato: "Okay."
+TP
+
+GL 1 TCYM0000
+GP 1 0 0
+GP 2 340 0
+GS 2 1
+GS 1 1
+SEF 109 0
+WVP 0 vfCCC4006mki005
+Miki: "Ah, I'll go to the health room with Sempai!"
+TP
+
+GL 2 TCMM0005
+GI 2 0
+
+
+WVP 0 vfCCC4006msa009
+Misato: "Eh......you can't, I'm not really......Peke-kun, please!"
+TP
+
+Taichi: "Whoooa."
+TP
+
+
+GL 1 TCYM0011
+GI 1 0
+
+WVP 0 vfCCC4006mki006
+Miki: "Ah, I might be able to go myself."
+TP
+
+Taichi: "I can't dress her wound."
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfCCC4006mki007
+Miki: "Aaaau."
+TP
+
+Blood is a weakness of mine too.
+TP
+
+Taichi: "W-well, you can do it."
+TP
+GL 1 TCYM0001
+GI 1 0
+
+Miki: "............"
+TP
+
+Beautiful blood.
+TP
+
+She saved her friend.
+TP
+
+My heart didn't ache.
+TP
+
+WVP 1 bgm022.ogg 0 0 0
+
+In this case, it might be okay.
+TP
+
+When we entered the building, I saw Kiri curled up.
+TP
+
+Her terror was belated. It always had been.
+TP
+
+RET

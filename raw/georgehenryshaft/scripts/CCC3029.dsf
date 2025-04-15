@@ -1,0 +1,426 @@
+
+//GL 0 bgcc0003b
+GL 0 BGCC0003G
+//HACK messy room. Still suspicious, as in the Touko route, but, well, Touko reference again. -GHS
+GS 0 1
+SEF 152 0
+
+WVP 1 bgm001.ogg 0 0 0
+
+//自宅。
+My home.
+TP
+
+//いつも寂しい空間に、今日は華がある。
+In this space, always so lonely, today there blooms a flower.
+TP
+
+//太一「さ、入って」
+Taichi: "Well, come in."
+TP
+
+GL 1 TCSK0000c
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfCCC3029kri000
+//霧「お、お邪魔します……」
+Kiri: "S-, sorry for intruding..."
+TP
+GL 1 TCSK0003c
+GI 1 0
+
+
+WVP 0 vfCCC3029kri001
+//霧「うわあ」
+Kiri: "Whoa..."
+TP
+
+//混沌を愛する俺の部屋だった。
+My room was a lover of chaos and disorder.
+//And now, contrast to Youko's room(s). -GHS
+TP
+
+//客はたいてい驚く。
+Guests were usually astonished.
+TP
+
+//太一「座りたまへ」
+Taichi: "Gladden me with sitting."
+//He actually says tamaHe instead of tamae, so I'm going with the usual tweaks made with this kind of tongue slips and therefore "gladden me with sHi-GHS
+TP
+
+GL 1 TCSK0002c
+GI 1 0
+WVP 0 vfCCC3029kri002
+//霧「……どこに座れと」
+Kiri: "...where would I even sit."
+TP
+
+//太一「はい」
+Taichi: "Here."
+TP
+
+//トンボを渡す。
+I pass the Tonbo mud rake.
+//This was a thirty-minutes hectic googlin'. It's a sort-of-dragonfly-shaped rake: http://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%9C_%28%E9%81%93%E5%85%B7%29 -GHS
+TP
+
+GL 1 TCSK0004C
+GI 1 0
+//HACK Eyebrow Kiri -GHS
+
+WVP 0 vfCCC3029kri003
+//霧「……はいって」
+Kiri: "...here, you say."
+TP
+
+//太一「座りたい場所にスペース作ってね」
+Taichi: "Make space in whatever place you want to sit."
+TP
+
+GL 1 TCSK0011C
+GI 1 0
+//HACK profile Kiri. -GHS
+
+//霧「……………………」
+Kiri: "............"
+TP
+
+//自己責任。
+At her own risk and responsibility,
+TP
+
+//霧はトンボをかけて作った隙間に、ぎこちなく正座する。
+Kiri sits in an awkward seiza in the gap made by the tonbo.
+TP
+
+GL 1 TCSK0002C
+GI 1 0
+//HACK closed eyes Kiri -GHS
+
+WVP 0 vfCCC3029kri005
+//霧「……男の人って」
+Kiri: "...men..."
+TP
+
+//太一「ちょっと待っててねー」
+Taichi: "Wait up here a biiit."
+TP
+
+GL 5 BGCC0004C
+GS 0 0
+GS 1 0
+GS 5 1
+SEF 52 0
+//HACK to living room -GHS
+
+//階下に降りてトマトを持ってくる。
+I fly down to the floor below and bring tomatoes back.
+//Tomoki again? -GHS
+TP
+
+GS 5 0
+GS 0 1
+SEF 52 0
+//HACK and back -GHS
+
+//太一「はい、ビタミン」
+Taichi: "Here, vitamins."
+TP
+
+GL 1 TCSK0000c
+//GS 1 1
+GI 1 1
+//HACK fade in (now) -GHS
+
+WVP 0 vfCCC3029kri006
+//霧「……どうも」
+Kiri: "...thanks."
+TP
+
+//おどおどと、トマトを囓る。
+Timidly and hesitatingly, she gnaws into the tomato.
+TP
+
+//太一「リラックスしていいよ。ずっと住むんだし」
+Taichi: "Feel free to relax! You will always live here."
+//...going with ambiguous. -GHS
+TP
+
+WVP 0 vfCCC3029kri007
+//霧「……ん」
+Kiri: "...ngh."
+TP
+
+//ぴた、と動きが止まる。
+All motions come to a halt on the spot.
+TP
+
+GL 1 TCSK0002c
+GI 1 0
+WVP 0 vfCCC3029kri008
+//霧「ずっと……ですか」
+Kiri: "Always... you say?"
+TP
+
+//太一「いや？」
+Taichi: "No like?"
+TP
+
+GL 1 TCSK0000c
+GI 1 0
+WVP 0 vfCCC3029kri009
+//霧「……わかりません」
+Kiri: "...I do not understand."
+TP
+
+WVP 0 vfCCC3029kri010
+//霧「もう先輩は、わたしの初めての人なので……」
+Kiri: "And now that Senpai has been... my first man..."
+TP
+
+//うわあ。
+Whoa.
+TP
+
+GL 1 TCSK0002c
+GI 1 0
+WVP 0 vfCCC3029kri011
+//霧「それに、わたしはこれを償いだと思ってます」
+Kiri: "And, I think of this as a compensation."
+//See CCD1001. It can't work, either direction. -GHS
+TP
+
+GL 1 TCSK0000c
+GI 1 0
+WVP 0 vfCCC3029kri012
+//霧「豊とわたしの、二人分の」
+Kiri: "My share and Yutaka's."
+TP
+
+//豊、か。
+Yutaka, then.
+TP
+
+//霧はどこまでも、そういう者であり続けるんだろうな。
+No matter when no matter where, Kiri would still continue to be that kind of person.
+//As in, dependent on someone else. It's not Yutaka that pisses him off here, at least, not directly. -GHS
+TP
+
+//豊。豊。豊。
+Yutaka. Yutaka. Yutaka.
+TP
+
+//豊。
+Yutaka.
+TP
+
+//太一「……トマト、食べさせてあげようか」
+Taichi: "...do you want me to feed that tomato to you?"
+//He's now trying to steal her from him even more. -GHS
+TP
+//GL 1 TCSK0000c
+GL 1 TCSK0003C
+GI 1 0
+//HACK flustered Kiri -GHS
+
+WVP 0 vfCCC3029kri013
+//霧「え？」
+Kiri: "Eh?"
+TP
+
+//霧のトマトを取って、かぶりつく。
+I grab Kiri's tomato, and bite into it,
+TP
+
+//それを幾度か噛みつぶし、キスをする。
+and after chewing it for so many times, I kiss her.
+TP
+
+//GL 1 TCSK0002c
+//HACK eyebrow Kiri instead. -GHS
+GI 1 0
+WVP 0 vfCCC3029kri014
+//霧「んっ！？」
+Kiri: "Ngh-?!"
+TP
+
+//唾液とともに流し込んだ。
+I poured it inside her mouth, together with saliva.
+TP
+
+GL 1 TCSK0004C
+GL 1 0
+//HACK closed eyes Kiri here. -GHS
+WVP 0 vfCCC3029kri015
+//霧「……ん、ふぁ……んくっ、ん、んんんん」
+Kiri: "...nh, hfhah... nkh, nh, nnnnh!"
+TP
+
+//抵抗は最初だけ。
+She only had opposition at the outset.
+TP
+
+//太一「おいしい？」
+Taichi: "Delicious?"
+TP
+
+GL 1 TCSK0000c
+GI 1 0
+WVP 0 vfCCC3029kri016
+//霧「……はい」
+Kiri: "...yes."
+TP
+
+//太一「じゃもっと食べなよ」
+Taichi: "Then eat some more!"
+TP
+
+//幾度か繰り返す。
+I repeat this several times.
+//7? -GHS
+TP
+
+//終わる頃には、霧は上気していた。
+By the time we finished, Kiri's cheeks were flushed.
+TP
+
+//太一「霧は俺だけの霧だよな」
+//Taichi: "Fog is only my fog nau?"
+Taichi: "Kiri is my Kiri alone now."
+TP
+
+GL 1 TCSK0002c
+GI 1 0
+WVP 0 vfCCC3029kri017
+//霧「……そうですね」
+Kiri: "...so I am."
+TP
+
+//太一「でも、悲しそうだよ」
+Taichi: "But... you seem so sad."
+TP
+
+GL 1 TCSK0000C
+GI 1 0
+//HACK yeah, she ain't smiling. -GHS
+
+//そう言うと、霧は無理をして微笑んだ。
+On saying that, Kiri forcefully makes a smile.
+TP
+
+//……引きつったようにしか見えなかった。
+...I did not see it as being anything more than a drawing of the lips.
+TP
+
+GO 1 1
+//HACK earlier remove doll -GHS
+
+//抱きしめて、そっと押し倒した。
+I embrace her, and slowly pushed her down.
+//See Yusa -GHS
+TP
+WVP 0 vfCCC3029kri018
+//霧「あ……」
+Kiri: "Ah..."
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+//食べかけの果実が床に落ちた。
+The half-eaten fruit fell to the floor.
+//See CCA0012. SYMBOLISM!!! of more Touko. -GHS
+TP
+
+
+WT 1000 0
+WT 1000 1
+
+
+GL 0 bgcc0016b
+GS 0 1
+SEF 109 1
+//深夜の祠は不気味だ。
+The hokora is spooky in the dead of night.
+TP
+
+//日記を収める。
+I offer it the diary.
+//going with less-literal because hokora -GHS
+TP
+
+//There were lots of white lines around the single line for six notebooks (check the original script), suggesting that a similar thing to what should happen in CCC0007 should've been here. -GHS
+
+//六冊目のノート。
+It is the sixth notebook.
+TP
+
+//太一「そうか」
+Taichi: "Right."
+TP
+
+//ふと考える。
+Unexpectedly, a thought.
+TP
+
+//日記として使っていたノートがここに安置される。
+The notebooks used as diaries will be enshrined here.
+TP
+
+//明日以降に世界は巻き戻される。
+The world is rewound sometime starting tomorrow.
+TP
+
+//だからノートが消える。
+Therefore, the notebooks will disappear.
+TP
+
+//月曜日に日記を書こうとして、見つからなかった道理である。
+It's no wonder that, Monday, I just couldn't find the diary I wanted to write on.
+//This is a minor plot inconsistency again without something like what's in CCA0007. He fails to find a diary if this is the second or further attempt through the route, though then there's the chastity belt disappearing that's a bigger plot hole. This part here would explain that the time loop doesn't duplicate stuff. ...or rather, that he puts this stuff in the hokora so he obviously can't find it. This may have been intended to only be read on second/third reads of the route, but frankly, that'd have been really annoying so it was probably left unimplemented. -GHS
+TP
+
+//祠の内部は、本当に巻き戻しとは違う法則に切り分けられているらしい。
+The inside of the hokora seems, truly, carved from different rules than those that govern the rewinding.
+//And also the area around it, which is Holy Ground ~sanctuary~. That seems less a plot hole and just Taichi's chuuni increasing. -GHS
+TP
+
+//太一「なるほどね……」
+Taichi: "I get it now..."
+TP
+//日記は置いた。
+I placed the diary.
+TP
+
+//セーブしたんだ。
+This is the act of saving.
+//The hokora is the save file. -GHS
+TP
+
+//最後の日記を書いた瞬間から、俺の……俺個人だけの人生がはじまる。
+From the last moment I wrote the diary onwards, the... personal individual life for myself only begins.
+TP
+
+//やり直しはない。
+There'll be no redoing.
+TP
+
+//たった一日、あるかないかの人生だ。
+It's a life of a single solitary day, that may not even be life.
+//Spoiled iiit. -GHS
+TP
+
+//好きなように生きて消えようと思った。
+I thought I would live as I please, and then disappear.
+//Instead... -GHS
+TP
+
+WVS 1 1
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+RET

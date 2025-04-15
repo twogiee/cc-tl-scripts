@@ -1,0 +1,191 @@
+//GL 0 bgcc0007
+GL 0 bgcc0008
+//Corridor BG instead of the nonsensical rooftop BG. This took until the Xbox version to get fixed! -GHS
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//結局、学校に来てもやることはない。
+And in the end, I may have gone to school but there was nothing to do.
+TP
+
+//帰るか。
+Should I just go home?
+TP
+
+//けど……こんな悠長なことでいいのかな。
+But... I wonder if being this leisurely is right.
+TP
+
+WVP 1 bgm020.ogg 0 0 0
+
+//日曜以降、世界は巻き戻される。
+Sometime from Sunday onwards, the world will be rewound.
+//He still doesn't know exactly when. -GHS
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//俺は何をすべきなんだろう。
+What ought I be doing?
+TP
+
+//何ができるんだろう。
+What am I even capable of doing?
+TP
+
+//最初に知った時、曜子ちゃんはどう思ったのかな。
+What did Youko-chan think the first time she learned of that, I wonder.
+//No, the question is HOW did she learn that without notebooks. -GHS
+TP
+
+//どんな気持ちで、あのメモを残したのか。
+With what feelings did she leave that memo behind?
+//...but if it's just his memories taking form and surfacing, then he's asking what he felt when he created this all. -GHS
+TP
+
+//気が抜ける。
+I feel spent.
+TP
+
+//この人のいない、ガランとした世界でどんなに生きても。
+Whatever way I may live in this deserted world devoid of people,
+TP
+
+//全部やり直し。
+all will be redone.
+TP
+
+//部活に頑張っても、食料を調達しても、逃避しても。
+All the effort made in club, all the procuring of food, and all the running away.
+//Curiously he's referring mainly to Tomoki and Misato. -GHS
+TP
+
+//一週間。
+One week,
+TP
+
+//それでご破算。
+and it's all thrown away.
+TP
+
+//精一杯生きても―――
+So even if I live with all my strength---
+TP
+
+//……意味があるのか。
+...is there even meaning to that?
+TP
+
+//空虚な考え。
+Vacuous thought.
+TP
+
+//廊下にへたり込む。
+I sit down hard in the corridor.
+//This used to be despite being on the rooftop, hence the change. -GHS
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//もしかしたら、この世界は俺の理想郷かも知れない。
+As the case may be, this world could even be my Utopia, maybe.
+TP
+
+//致命傷が、致命とならない世界。
+//A world where people don't die when they are killed.
+A world where a mortal wound is not fatal.
+TP
+
+//一週間で元通り。
+All back to what it was after one week.
+TP
+
+//誰を傷つけても、誰と共依存しても。
+Whoever I might wound, whoever I might co-depend on.
+TP
+
+//リセット。
+Reset.
+TP
+
+GL 5 zzzCCC0021misato
+GP 5 225 0
+GI 5 1
+//HACK faded, uncut Misato doll -GHS
+
+//冬子と仲良くしたら次はみみ先輩と。
+If I get on good terms with Touko, next will be with Mimi-senpai.
+TP
+
+GL 5 zzzCCC0021kiri
+GP 5 220 0
+GI 5 1
+//HACK faded, uncut Kiri doll -GHS
+
+//霧と。
+And Kiri.
+TP
+
+GL 5 zzzCCC0021miki
+GP 5 180 0
+GI 5 1
+//HACK faded, uncut Miki doll -GHS
+
+//美希と。
+And Miki.
+TP
+
+GL 5 zzzCCC0021youko
+GP 5 180 0
+GI 5 1
+//HACK faded, uncut Youko doll -GHS
+
+//気が向いたら曜子ちゃんと。
+And Youko-chan, if I feel inclined to.
+TP
+
+GL 5 zzzCCC0021sack
+GP 5 190 0
+GI 5 1
+//HACK faded, uncut Sakuraba doll -GHS
+
+//桜庭と。
+And Sakuraba.
+TP
+
+GO 5 0
+//HACK fast remove doll for better effect. -GHS
+
+//……それはない。
+...that's not gonna happen.
+TP
+
+//目が痺れた。
+My eyes numbed.
+TP
+
+//俺は目に異常を持っている。
+I have an abnormality in the eyes.
+TP
+
+//日常生活に支障はないが、ときおり、世界がおかしく見える。
+There's no impediment in normal life, but sometimes, I see the world oddly.
+//See CCA0016... or rather, see CCA0001-CCE0001. -GHS
+TP
+
+//太一「どうして……俺一人じゃないのかね」
+Taichi: "Why... I want to know why I'm not alone."
+TP
+
+//心が疲弊して、しばらく動けなかった。
+My heart was exhausted and torn, that for a while I could not move.
+TP
+
+WVS 1 1
+
+RET

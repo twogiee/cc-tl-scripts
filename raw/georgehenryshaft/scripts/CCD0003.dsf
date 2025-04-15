@@ -1,0 +1,595 @@
+
+TWS 7
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+//HACK flashback exit whiteout -GHS
+
+
+
+
+
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 152 0
+WT 400 0
+//HACK at least hold it there one split second! -GHS
+GL 0 bgcc0002
+GS 0 1
+SEF 152 0
+TWS 0
+
+
+WVP 1 bgm002.ogg 0 0 0
+//Monday September 7, 1998 -GHS
+
+//学校に行こうと家を出ると、支倉曜子。
+On leaving house to go to school, there's Hasekura Youko.
+//No jokes, no pauses, just... *shudder* -GHS
+TP
+
+GL 1 TCHY0000
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCD0001you000
+//曜子「おはよう、太一」
+Taichi: "Morning, Taichi."
+TP
+
+
+//太一「うん。じゃ、そーいうことでばいばーい」
+Taichi: "Yep. Well, with that said bai baaai!"
+//No wonder he wasn't all that heartbroken last week after all. -GHS
+TP
+
+GO 1 1
+//HACK yeah, away with her -GHS
+
+//立ち去る。
+Leaving.
+TP
+
+
+//背後から裾をつままれる。
+The lower part of my trousers is pinched from behind.
+//she a dog now...? Was she always a dog? What an odd way to put it. -GHS
+TP
+
+SEF 101 0
+//HACK shake screen. -GHS
+
+//太一「ぐえ……」
+Taichi: "G'weh..."
+TP
+
+
+WVP 0 vfCCD0001you001
+//曜子「ちょ、ちょっとくらい話してくれてもいいのに……」
+Youko: "Bu-, but we could talk for just a while..."
+TP
+
+
+//声が震えていた。
+Her voice was shaking.
+TP
+
+GI 1 1
+//HACK back -GHS
+
+//太一「キミは俺に従属的でありながら、たまに裏をかこうとする」
+Taichi: "You act all subordinate to me, but still sometimes you try to plot against me."
+TP
+
+
+//太一「そんなキミを全面的に信用することはできない」
+Taichi: "And because you're like that I can't go all-out with my trust."
+//This is very interesting to contrast with CCC0000, and the bad end of the route. -GHS
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you002
+//曜子「適度な刺激を演出」
+Youko: "Staging an adequate stimulus."
+//Even odder. -GHS
+TP
+
+
+//太一「俺を自分のてのひらで踊らせたいのだろうが、そうはイカ腹幼女」
+Taichi: "You're just going to make me dance around as you please in the palm of your hand, you little girlie with your squidlike profile."
+//http://dic.pixiv.net/a/%E3%82%A4%E3%82%AB%E8%85%B9 this is hard to describe succinctly and doesn't seem to have an English equivalent. And I still don't see how it applies to her. -GHS
+TP
+
+
+WVP 0 vfCCD0001you003
+//曜子「……島友貴っぽい。ちょっぴり幻滅」
+Youko: "...so Shima Tomoki-like. Just a bit of disillusionment."
+//Meaning he treats her like Tomoki treats his sister...? -GHS
+TP
+
+
+//幻滅された。
+I had been disillusioned.
+//As usual, causative as well as past. -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you004
+//曜子「いいじゃない。別に。太一、ちょっとサルっぽいし」
+Youko: "That's fine. Not really a problem. You're a bit monkeyish, Taichi."
+//May have worked better given the 'monkey' in his definition of Yutaka, but that one simply doesn't work. -GHS
+TP
+
+
+//太一「馬鹿にしないでもらおう。俺は霊長類だ」
+Taichi: "Don't make a fool of me, please! I am a primate."
+//I think the joke is that he doesn't know that monkeys are primates... -GHS
+TP
+
+
+GL 1 TCHY0001
+GI 1 0
+//曜子「…………」
+Youko: "......"
+TP
+
+
+//馬鹿にされてる気がする。
+I felt like I had just been ridiculed.
+TP
+
+
+//くそ、反抗的な。
+Damn, so defiant.
+TP
+
+
+//いじめてやる。
+I'll bully her.
+TP
+
+
+//スカートをめくった。
+I flipped her skirt.
+//Console version has her wear a skirt made of metal. Yes. WTF. And yet there was that thing about metal underwear in Miki's route; maybe it's not WTF at all. -GHS
+TP
+
+
+//曜子「…………」
+Youko: "......"
+TP
+
+
+//太一「ずいぶんセクシーなショーツをめしていらっしゃるじゃないか？」
+Taichi: "Aren't those some pretty sexy short panties that you appear to be clad with?"
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you007
+//曜子「女はいつも真剣勝負」
+Youko: "Women always play to win."
+TP
+
+
+//動じない。
+Unagitated.
+TP
+
+
+//太一「パンツおろしますよ？」
+Taichi: "Shall I take down your panties wholesale?"
+//Lower & sell wholesale, see CCC0003A. Well, they can remember it for you wholesale, so I guess he can do that wholesale as well. -GHS
+TP
+
+//WVP 0 vfCCD0001you008
+//曜子「……するの？」
+//Youko: "...will you?"
+//太一「しない……」
+//Taichi: "Won't..."
+
+//HACK replaced. The two below make Youko even MORE boring. -GHS
+WVP 0 vfzzzCCD0003youko
+//曜子「……いつでも」
+Youko: "...anytime."
+TP
+//太一「……」
+Taichi: "..."
+TP
+
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you009
+//曜子「どうぞ」
+Youko: "Go on."
+TP
+
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+
+//うー。
+Nghhh.
+TP
+//つまらねー。
+Booo-ring.
+TP
+
+
+//この女には、フェチがない。
+There's no fetishism in this female.
+//Which should be absurd, given her backstory. -GHS
+TP
+
+
+//恥じらいがない。
+There's no shyness.
+TP
+
+
+//ダメだ。
+This isn't working.
+TP
+
+
+//彼女に俺のさくらんぼう魂を渡すわけにはいかない。
+I could never hand my cerise soul to her, never.
+//French for Cherry. Wanted to use the Japanese word, but it apparently doesn't exist! -GHS
+TP
+
+
+//肉体的にはともかくとして。
+//肉体的にはともかくとして、だ。
+Whatever might have happened physically, that is.
+//HACK just a very minor tweak. -GHS
+TP
+
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+//太一「じゃあこうだ」
+Taichi: "Well, here's something."
+TP
+
+
+//太一袋からソレを取り出す。
+I take out a certain 'that' from the Taichi bag.
+//It's a vibrator. -GHStandardAnswerToEverything
+TP
+
+//そして彼女の鼻をつまむ。
+I then pinched her nose,
+TP
+
+
+//酸欠で口を開く瞬間を待った。
+and waited for the moment when oxygen deprivation made her open her mouth.
+TP
+
+
+GL 1 TCHY0000
+GI 1 0
+//曜子「……」
+Youko: "..."
+TP
+
+
+//五秒。
+Five seconds.
+TP
+
+
+//十秒。
+Ten seconds.
+TP
+
+
+//三十秒。
+Thirty seconds.
+TP
+
+
+//一分。
+One minute.
+TP
+
+
+//一分半。
+One minute and a half.
+//Nothing in the numbers that I can see. -GHS
+TP
+
+
+//太一「……あの、呼吸は？」
+Taichi: "...uhm, any breathing?"
+//World record of apnea for women is 8:23 as of 2009. -GHS
+TP
+
+
+//曜子「…………」
+Youko: "......"
+TP
+
+
+//なんで平気なんですか？
+Why is she alright like this?
+TP
+
+
+//やめた。
+I stopped.
+TP
+
+
+//手を離すと、彼女は軽く息を整えた。
+Releasing my hand, she steadied to a light breathing.
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you012
+//曜子「血中の酸素量が多いと、長く止めていられる」
+Youko: "High amount of oxygen in the blood, I can stop for a long time."
+TP
+
+
+//太一「海人さんか、きみは」
+Taichi: "You an ocean floor diver or something, you gotta be."
+//http://ja.wikipedia.org/wiki/%E6%B5%B7%E4%BA%BA It's read "Ama-san", which is also BICCHI DA ZO, but more interesting is that this seems to be an explicitly male term (dot dot dot). -GHS
+TP
+
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCD0001you013
+//曜子「なにがしたかったの？」
+Youko: "What did you want to do?"
+TP
+
+
+//太一「……口を開けさせようかなって思って」
+Taichi: "...I was thinking how nice it would be if I made you open your mouth."
+TP
+
+
+
+WVP 0 vfCCD0001you014
+//曜子「あーん」
+Youko: "Ahhhh."
+TP
+
+
+//簡単だった。
+That was simple.
+TP
+
+
+//太一「ベロ出して」
+Taichi: "Out with the licker."
+TP
+
+
+WVP 0 vfCCD0001you015
+//曜子「んー」
+Youko: "Nhhh."
+TP
+
+
+//長いベロ。
+A long tongue.
+TP
+
+
+//タバスコを振る。十滴くらい。
+I sprinkle tabasco. Around ten drops.
+//Technically 'tabasco' can refer to the the pepper, although a better question would be what the hell he's doing with tabasco sauce in his bag o'crap. Damn adventure game protagonists carry around the oddest stuff. Also, 7-8 are around 10. -GHS
+TP
+
+
+//指で塗りたくる。
+I spread it well with the fingers.
+TP
+
+
+//やーこいベロ。
+Tongue is sooof',
+TP
+
+
+//それに心なしか表面がざらざらしてる。
+and also with a surface that's just somewhat rough to the touch.
+//She's totally a cat. -GHS
+TP
+
+
+//最高のピンサロ嬢になる素質を持っていた。
+She has all the qualities to become the best of all hostesses in a Pink Salon.
+//It googles. -GHS
+TP
+
+
+//太一「はい、終わりました」
+Taichi: "Here, I have finished."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+//曜子「……」
+Youko: "..."
+TP
+
+
+//一瞬平気なのかな、と思ったが。
+I thought for an instant she would be alright, but...
+TP
+
+
+GP 1 165 15
+GI 1 0
+GP 1 180 30
+GI 1 0
+GP 1 195 15
+GI 1 0
+GP 1 180 0
+GI 1 0
+//HACK independent doll shake -GHS
+
+
+
+WVP 0 vfCCD0001you017
+//曜子「……っっ」
+Youko: "...!!!"
+TP
+
+GO 1 1
+//HACK out -GHS
+
+//口を押さえて震えだした。
+She held down her mouth and shook.
+TP
+
+
+//煉瓦の壁によりかかってしまう。
+She goes to lean onto the brick wall.
+TP
+
+
+//効いた。
+That was effective.
+TP
+
+
+//常人より秀逸な舌を持っているせいで、敏感なのだ。
+Because she has a tongue far more excellent than that of a normal person's, she's sensitive.
+//He's got eyes and ears, and she got the tongue. Of course, because when it comes to spicy stuff, she can't stand it. And then curry... heh heh. -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 1
+//HACK normal Youko back -GHS
+
+//太一「ジュース飲む？」
+Taichi: "Wanna drink some juice?"
+TP
+
+
+WVP 0 vfCCD0001you018
+//曜子「……うん、うん……はやく……」
+Youko: "...yes, yes... hurry..."
+TP
+
+
+//もぎ取るようにして飲む。
+She nearly rips it off my hands and drinks.
+TP
+
+
+//太一「チリジュースおいしい？」
+Taichi: "It's Chili juice, like it?"
+//He also got chili. -GHS
+TP
+
+
+WVP 0 vfCCD0001you019
+//曜子「う……」
+Youko: "Ngh..."
+TP
+GO 1 1
+
+//垣根に向かって倒れた。
+She collapsed towards the fence.
+TP
+
+
+//太一「勝った……」
+Taichi: "Beat you..."
+TP
+
+
+//久々にまともに勝った気がする。
+It felt like a long time since the last clean victory like this.
+TP
+
+
+//さて、学校に行こう。
+Well then, let's go to school.
+TP
+
+GL 1 TCHY0002
+GI 1 1
+
+WVP 0 vfCCD0001you020
+//曜子「……せめ……て……おべ……んと……」
+Youko: "...at... least... the... lunch..."
+TP
+
+
+//しがみついてくる。
+She clings to me,
+TP
+
+
+//涙目で紙袋を渡そうとしてくる。
+and with teary eyes she hands over a paper bag.
+TP
+
+
+//多少は罪悪感も刺激された。
+That stimulated some sort-of feelings of guilt.
+TP
+
+
+//太一「……わかった、もらうよ」
+Taichi: "...got it, I'll take that."
+TP
+
+
+//母親ばりだ。
+Motherlike.
+//Also "mother abuse". -GHS
+TP
+
+
+//母親いないけど。
+But a mother I don't have.
+//Hence why Nanaka's made of gelatinous substance. -GHS
+TP
+
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCD0001you021
+//曜子「いってらっしゃい」
+Youko: "Have a safe walk."
+TP
+
+
+//ありがたいけど、素直に喜べなかった。
+That was welcome, but honestly, I wasn't that happy.
+TP
+
+WVS 1 1
+
+
+RET

@@ -1,0 +1,1369 @@
+
+ 
+
+
+GL 0 bgcc0001b0
+GS 0 1
+SEF 10 1
+
+WVP 1 bgm002.ogg 0 0 0
+
+
+TS 3
+SEF 109 0
+
+The world is beautiful.
+TP
+
+GL 0 bgcc0001b1
+GS 0 1
+AL 8
+GL 0 bgcc0001b2
+GS 0 1
+AL 0
+GL 0 bgcc0001b3
+GS 0 1
+AL 0
+GL 0 bgcc0001b4
+GS 0 1
+AL 0
+GL 0 bgcc0001b5
+GS 0 1
+AL 0
+GL 0 bgcc0001b6
+GS 0 1
+AL 0
+GL 0 bgcc0001b7
+GS 0 1
+AL 0
+GL 0 bgcc0001b
+GS 0 1
+AL 0
+SEF 99 1
+
+
+
+That's what I thought as I looked over the town. I must be crazy.
+TP
+
+
+
+But that doesn't make it any less beautiful.
+TP 
+
+
+
+The verdant summer atmosphere.
+TP
+
+
+
+So graceful that it seemed unfair to describe it with only a single phrase.
+TP
+
+
+
+The view from the mountaintop always gave me that impression.
+TP
+
+
+
+Between the softly breathing trees, I could see a flock of white buildings isolated from the outside world by these mountains.
+TP
+
+
+
+A town.
+TP
+
+
+
+A new, clean and tranquil town......far from the region's capital.
+TP
+
+
+
+In other words, the boondocks.
+TP
+
+
+
+The main body of the town stands between other steep mountains on the far side of this one.
+TP
+
+
+
+By the way, there is a sliver of a trail which eventually ends at the heart of the town, so you could gain access to rental shops, arcades, bookstores, bars and even health services.
+TP
+
+
+There lies the ripened fruit of a culture bent on the extremities of fulfillment.
+TP
+
+
+
+Commonly called a "city."
+TP
+
+
+
+Now, on this side.
+TP
+
+
+
+The houses piled up like mountains.
+TP
+
+
+
+The mountains also piled up like mountains.
+TP
+
+
+
+Then there's the school. Only one of those.
+TP
+
+
+
+If you wanted to find something else that stood out, it'd all seem very normal.
+TP
+
+
+
+
+This side of town was here to tend to the city, manage the days, greet the people working like coach horses, see them off, give birth to them (Adult joke #1), then at night, kindly allow them to sleep loudly.
+TP
+
+
+
+
+Essentially a bedtown.
+IF $tlnote != 0 (TL note: A bedtown simply means any small relaxing town, as opposed to a big city.)
+TP
+
+
+
+Even though they're both the same town.
+TP
+
+
+
+There seems to be complex political circumstances.
+TP
+
+
+
+Thus, on the map, that majestic mountain dividing the two came to be labeled as a "hill." 
+TP
+
+
+
+From any point of view, it's no trivial affair.
+TP
+
+
+
+It guarantees that someone will see the map, mistake it for an actual hill, bring their wife and son along on a hiking trip, and get into an accident.
+TP
+
+
+
+The only means of transportation to the city are the train and the unpaved mountain road.
+TP
+
+
+
+Technically, there's a road if you go toward the opposite peak.
+TP
+
+
+
+But that's really just a detour.
+TP
+
+
+
+It's useless added distance.
+TP
+
+
+
+We're out in the country.
+TP
+
+
+Once, a guy named Sakuraba from our class said,
+TP
+
+
+
+WVP 0 vmcca0002sku000
+Sakuraba: 『I will conquer the peak with this new bike. I feel this is something I have to do.』
+TP
+
+
+
+He flashed his teeth and set off on his journey.
+TP
+
+
+
+Then,
+TP
+
+
+
+Sakuraba didn't come home for three days, and the police were deployed.
+TP
+
+
+
+
+We believe he was trying out the mountain bike he'd just bought.
+TP
+
+
+
+Nevertheless, he got full of himself, arriving at a point five kilometers away from the neighboring Aihara Town (super far away) before being stopped.
+TP
+
+
+
+While fleeing through one of the few paved roads in these mountains, he was apprehended.
+TP
+
+
+Sakuraba's family was about as wealthy as Kirihara's (another classmate of mine), and his parents were equally overprotective.
+TP
+
+
+
+They were called Sakuraba of the West and Kirihara of the East.
+TP
+
+
+
+Kirihara's family had descended from warriors, and she had a stringent, aristocratic atmosphere about her.
+TP
+
+
+
+If you lined the whole family up next to each other, they'd make faces as if they'd just chewed bitter insects. They had absolutely no love for one another, only poisoned tongues.
+TP
+
+
+
+She's commonly called "Harakiri." 
+IF $tlnote == 1 (TL note: Harakiri, or Seppuku, is an act of ritual suicide traditionally performed by samurai who've suffered some great dishonor.)
+TP
+
+
+
+The Sakuraba family was the exact opposite: thoroughly relaxed. The father was a decorated veteran who didn't notice the pain he had in his appendix and continued traveling until the moment of his death.
+TP
+
+
+
+Without a doubt, that adventurous spirit of his was succeeded by his son.
+TP
+
+
+
+It's fun to take peeks into the Sakurabas' mellow spontaneity, such as when their son didn't return home by midnight, making his parents exclaim "He's been kidnapped!" and then call up the cops.
+TP
+
+
+
+Sakuraba was scolded beyond reason by those involved, and his bicycle was impounded.
+TP
+
+
+
+In addition, he became the laughing stock of the school.
+TP
+
+
+
+He also monopolized the front page of the school newspaper for a long time.
+TP
+
+
+
+Particularly with the contents of his ramblings during interviews.
+TP
+
+
+
+
+WVP 0 vmcca0002sku001
+Sakuraba: 『Urgent Information! I saw a mysterious artificial human at Hasukejou's place!』
+TP
+
+
+
+
+WVP 0 vmcca0002sku002
+Sakuraba: 『My thorough twelve-hour investigation revealed forbidden alien technology in the deepest reaches of his house!!』
+TP
+
+
+
+WVP 0 vmcca0002sku003
+Sakuraba: 『We'll be able to see shocking truths that we've never been able to imagine even after all of our progress as a species up to now!』
+TP
+
+
+
+
+Ridiculous.
+TP
+
+
+
+In short, on his way home, he took a wrong turn and entered one of the mountains.
+TP
+
+
+
+He probably thought it was a shortcut.
+TP
+
+
+
+Then, he coincidentally discovered a certain facility and got overexcited.
+TP
+
+
+
+Even after this, the interview produced another terrible development.
+TP
+
+
+
+
+WVP 0 vmcca0002sku004
+Sakuraba: 『The secret base』
+TP
+
+
+
+WVP 0 vmcca0002sku005
+Sakuraba: 『shocking』
+TP
+
+
+
+WVP 0 vmcca0002sku006
+Sakuraba: 『because of the armed soldiers』
+TP
+
+
+
+WVP 0 vmcca0002sku007
+Sakuraba: 『overthrow humanity's basic understanding of』
+TP
+
+
+
+
+The top five words made use of during that interview:
+TP
+
+
+
+
+
+#1: "Mystery"  22 times
+#2: "Shocking"  19 times
+#3: "Discovery"  17 times
+TP
+
+
+
+
+#4: "Forbidden"  6 times
+#5: "Shiver"  4 times
+TP
+
+
+
+
+
+The school newspaper saw Sakuraba as prey, picking him clean down to the marrow of his bones.
+TP
+
+
+
+
+Sakuraba learned firsthand the cruelty of mass media.
+TP
+
+
+
+
+After that, the stress gave him diarrhea for a week (this also became an article).
+TP
+
+
+
+
+On the morning of the eighth day he came to school with a healthy face (this was reported on).
+TP
+
+
+
+
+His hair was colored blond (that feature article received numerous complaints).
+TP
+
+
+
+
+Since then, his has been a blond life.
+TP
+
+
+
+
+He must have conquered the stress by deceiving himself into becoming a new person.
+TP
+
+
+
+
+......When I was near him we were called the gold-silver combo.
+TP
+
+
+
+
+But enough gossip.
+TP
+
+
+
+Of course, the super-intelligent life form Sakuraba had seen visiting from space was actually a secretly constructed nuclear power plant bringing luxurious wealth to the townsfolk.
+TP
+
+
+
+
+The dirt cheap land turned to a bundle of money right before our eyes.
+TP
+
+
+
+
+Modernization progressed, and civilization was enlightened.
+TP
+
+
+
+
+Many millionaires were born, buildings were built, and the population increased.
+TP
+
+
+
+
+The land was cheap, the taxes were low.
+TP
+
+
+
+
+Electricity was free.
+TP
+
+
+
+
+That's why there were innumerable meaningless lights in that town.
+TP
+
+
+
+
+Though they never went as far as setting up lights on benches.
+TP
+
+
+
+
+The town decided on "healing" as their theme.
+TP
+
+
+
+
+It was a title worth displaying for a remote town holding a nuclear power plant.
+TP
+
+
+
+
+The city hall was already an aesthetic Rococo style building, where everything from the facade to the interior overflowed with the solemn spirit of "We shalt heal thou," and daunted all visitors.
+TP
+
+
+
+
+An incoherent land.
+TP
+
+
+
+
+
+Which might be......why it feels so comfortable here.
+TP
+
+
+
+
+A broken world that made one feel a strange sense of intimacy.
+TP
+WVS 1 1
+
+
+
+
+Taichi: "......"
+TP
+
+
+
+
+WVP 2 SE002 1 0
+SEF 101 0
+
+
+
+Taichi: "Ow."
+TP
+WVP 1 bgm005.ogg 0 0 0
+
+
+
+
+
+A flippant sound.
+TP
+
+
+
+My head tilted to one side.
+TP
+
+
+
+My neck muscles were strained, and hurt like hell.
+TP
+
+
+
+Taichi: "......what is it?"
+TP
+
+
+
+GL 1 TCKT0000b
+GP 1 230 0
+GS 1 1
+SEF 109 0
+
+
+I turned around, and there was a girl.
+TP
+
+
+
+Taichi: "Oh, it's the empress."
+TP
+
+
+WVP 0 vfcca0002fyu000
+Girl: "......"
+TP
+
+
+
+Taichi: "Is her majesty in good health?"
+TP
+
+
+
+I raised one hand as I greeted her.
+TP
+
+
+
+WVP 0 vfcca0002fyu001
+Girl: "......"
+TP
+
+
+
+She should be countering those spirited words with something teeming in wit.
+TP
+
+
+
+
+WVP 0 vfcca0002fyu002
+Girl: 『Hey~! Who's an empress~? Why are you saying such stupid things, you, you!!』
+TP
+
+
+
+
+Something like that.
+TP
+
+
+
+But she never met that expectation.
+TP
+
+
+
+Yet I could feel her indifferent rage.
+TP
+
+
+
+Taichi: "What's wrong Kirihara? You should be playing along."
+TP
+
+
+
+Taichi: "Maybe that's it? That biological issue?"
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+
+
+WVP 0 vfcca0002fyu003
+Girl: "............"
+TP
+
+
+
+The atmosphere grew drastically heavier.
+TP
+
+
+
+But I won't stop.
+TP
+
+
+
+Taichi: "Laurel Crown."
+IF $tlnote != 0 (TL note: Bay laurel has been used to promote the onset of menstruation.)
+TP
+
+GL 1 TCKT0011b
+GI 1 0
+
+
+WVP 0 vfcca0002fyu004
+Girl: "Kurosu Taichi......"
+TP
+
+
+
+The waves of hate swelled up.
+TP
+
+
+
+Taichi: "Red bean rice."
+IF $tlnote != 0 (TL note: In some parts of Japan this is traditionally eaten in celebration of a woman's first period.)
+TP
+
+
+
+Touko......that's Kirihara's given name. In my mind I call her that without any honorifics.
+TP
+
+
+
+Her forehead seems to be tightening.
+TP
+
+
+GL 1 TCKT0003b
+GI 1 0
+
+
+WVP 0 vfcca0002fyu005
+Girl: "-uu!!"
+TP
+
+
+She was actually saying "Youu!!"
+TP
+
+
+She has a lisp.
+TP
+
+
+
+Her characteristic intonation.
+TP
+
+
+
+When Touko, the noblewoman, showed her immaturity in her voice like that, I couldn't help but smile. 
+TP
+
+
+
+And.
+GL 5 bgcc0000b
+TP
+
+WVP 2 se003 1 0
+GI 5 0
+SEF 101 0
+
+*bonk*
+TP
+
+
+
+Taichi: "......gufu!!?"
+TP
+
+
+
+My chin.
+TP
+
+
+
+A clean hit.
+TP
+
+
+
+No chance to evade.
+TP
+
+
+
+As that fist pushed me up, my head leaned back as if pointing to the heavens. 
+TP
+
+
+
+WVP 2 se100 1 0
+> 
+ 
+      Kirihara Secret Style Positive Direct Attack
+TP
+
+
+
+
+A video game-like special effect danced around my mind.
+TP
+
+
+
+GL 1 TCKT0001b
+GI 1 0
+
+
+GO 5 1
+
+WVP 0 vfcca0002fyu006
+Touko: "......now come help us strike the tents."
+TP
+
+
+
+A low voice.
+TP
+
+
+
+If I complained any more, this time I'd be kissing the ground instead of the sky.
+TP
+
+
+
+That was darkly conveyed to me.
+TP
+
+
+
+Taichi: "Sure, I'll help out (shaking)."
+TP
+
+
+She silently grabbed my ear and began pulling me to the campsite.
+TP
+
+
+Taichi: "Ah, hey, that hurts..."
+TP
+
+GL 1 TCKT0003b
+GI 1 0
+
+WVP 0 vfcca0002fyu007
+Touko: "The hand I hit you with also hurts." 
+TP
+
+
+
+Taichi: "That's a line only mothers can use when their children have turned into demons and need scolding."
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+
+
+WVP 0 vfcca0002fyu008
+Touko: "We don't have many guys here, so make sure you do your fair share of the work." 
+TP
+
+
+
+Taichi: "Haven't I already worked enough during this campout......?"
+TP
+
+
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfcca0002fyu009
+Touko: "Don't loosen up until the very end." 
+TP
+
+
+
+Taichi: "......you won't let me have any rest at all."
+TP
+
+
+
+Am I a soldier?
+TP
+
+
+
+Taichi: "Kirihara."
+TP
+
+
+
+WVP 0 vfcca0002fyu010
+Touko: "......what?"
+TP
+
+
+
+Taichi: "Wasn't it a good thing you came along?"
+TP
+
+
+
+WVP 0 vfcca0002fyu011
+Touko: "............"
+TP
+
+GL 1 TCKT0002b
+GI 1 0
+
+
+WVP 0 vfcca0002fyu012
+Touko: "(hmph)"
+TP
+
+
+
+I was ignored.
+TP
+
+
+
+Her rejection of my conversation was piercingly loud.
+TP
+
+
+
+Even so, today is a day for talking beyond reason.
+TP
+
+
+
+Having all the comedic dialogue partners I have today is quite rare. 
+TP
+
+
+GL 1 TCKT0001b
+GI 1 0
+
+WVP 0 vfcca0002fyu013
+Touko: "Airhead."
+TP
+
+
+
+Taichi: "Huh?"
+TP
+
+
+
+WVP 0 vfcca0002fyu014
+Touko: "When I hit you, it sounded empty."
+TP
+
+
+
+WVP 0 vfcca0002fyu015
+Touko: "If we don't get your brain cells dividing soon, won't you be in trouble as an adult?" 
+TP
+
+
+
+Taichi: "Now that's rude. Have I been given a lawyer? Have I now?"
+TP
+
+
+GL 1 TCKT0002b
+GI 1 0
+
+WVP 0 vfcca0002fyu016
+Touko: "You......really......tire me out......"
+TP
+
+
+
+When her grand sigh reached me, I withered.
+TP
+
+GL 0 bgcc0015a
+GS 0 1
+GS 1 0
+SEF 152 0
+
+I was quietly led along.
+TP
+
+
+
+My line of sight fell to the expensive-looking dress dangling around her haunches.
+TP
+
+
+
+Taichi: "Peach."
+TP
+
+
+
+I whispered so she couldn't hear me.
+TP
+
+GL 1 TCKT0001b
+GI 1 1
+
+WVP 0 vfcca0002fyu017
+Touko: "Touch it and you'll sink."
+TP
+
+
+
+Taichi: "......"
+TP
+
+
+
+Sink? To where? (shakes head)
+TP
+
+
+
+
+GL 1 TCKT0002b
+GI 1 0
+WVP 0 vfcca0002fyu018
+Touko: "I have a feeling I just wasted a whole week of my summer vacation."
+TP
+
+
+
+Taichi: "Translation: It feels like this fun campout is finally going to end, yeah?"
+TP
+
+
+GL 1 TCKT0001b
+GI 1 0
+
+WVP 0 vfcca0002fyu019
+Touko: "......is your brain cracked?"
+TP
+
+
+
+It's cracked.
+TP
+
+
+
+Taichi: "I had fun though."
+TP
+
+
+
+
+GL 1 TCKT0002b
+GI 1 0
+
+WVP 0 vfcca0002fyu020
+Touko: "Hmph."
+TP
+
+
+
+Taichi: "......you know you had fun too (muttering)." 
+TP
+
+
+
+GL 1 TCKT0011b
+GI 1 0
+WVP 0 vfcca0002fyu021
+Touko: "Did...you...say...some...thing?" 
+TP
+
+
+
+Taichi: "No, nothing that I know of..." 
+TP
+
+
+
+A week-long campout.
+TP
+
+
+
+How many times did I see her smile? 
+TP
+
+
+
+A disappointed facial expression is Touko's default setting.
+TP
+
+
+
+But there's no doubt she had fun.
+TP
+
+
+
+She's the one who got together all the materials for pitching the tents.
+TP
+
+
+
+Because this campout was just like another world. 
+TP
+GS 0 0
+GS 1 0
+SEF 109 0
+
+
+
+Taichi: "Owowowowowow!!?"
+TP
+
+
+
+The grip on my ear tightened.
+TP
+GL 0 bgcc0000b
+GS 0 1
+GS 1 0
+SEF 109 0
+
+
+We exited the forest path to a wide open space.
+TP
+
+
+
+Filled with light.
+TP
+
+
+
+Brilliant sunlight.
+TP
+
+
+
+WVP 0 vfcca0002fyu022
+Touko: "Most of them have already been struck."
+TP
+
+
+
+WVP 0 vfcca0002msa000
+Girl: "Hey you two! Where have you been hiding~!?"
+TP
+
+
+
+That voice echoed loud and clear.
+TP
+
+
+
+Distinct vocals.
+TP
+
+
+
+Our club president.
+TP
+
+
+
+WVP 0 vfcca0002fyu023
+Touko: "No, that's not what was I doing!"
+TP
+
+
+
+Taichi: "Owowowow, don't run, that's dangerous! Especially for my ear......ah, ah, loosen up or it'll tear, it's tearing, it's tearing, it's tearing! My precious body is ripping apart~~~~~~~~~~~~~~!!!"
+TP
+
+
+
+WVP 0 vfcca0002msa001
+Club President: "Oh, were you doing something naughty!?"
+TP
+
+
+
+WVP 0 vfcca0002msa002
+Club President: "You'll be suspended from school! Suspended~~!!!"
+TP
+
+
+
+Our president's violently shaking voice.
+TP
+
+
+
+Taichi: "Wahaha."
+TP
+
+
+
+WVP 0 vfcca0002fyu024
+Touko: "You, you animal......"
+TP
+
+
+
+WVP 2 SE002
+SEF 101 0
+
+Taichi: "Ouch!"
+TP
+
+
+
+
+
+My beloved ear had finally been released. I rubbed it along with my beaten head. 
+TP
+
+
+
+While smiling.
+TP
+
+
+
+Taichi: "Geez, that hurt."
+TP
+
+
+
+Taichi: "Now, time for work, time for work♪"
+TP
+
+
+
+WVP 0 vfcca0002fyu025
+Touko: "This guy......"
+TP
+
+
+
+
+I ran lightly.
+TP
+
+
+
+WVP 0 vfcca0002fyu026
+Touko: "Seriously......"
+TP
+
+
+
+Touko's sigh came chasing after me. 
+TP
+
+
+
+Everyone was there behind the president.
+TP
+
+
+
+We both ran toward them.
+TP
+
+
+
+
+Taichi: "Hey~~~~~~~~!!!"
+TP
+
+
+
+
+I called to them without cause.
+TP
+
+
+
+The five faces which had been putting away pieces of the tents all turned to me at once.
+TP
+
+
+
+With all eyes concentrated on me, I wanted to do something crazy.
+TP
+
+
+
+I threw off my shirt, becoming topless.
+TP
+
+
+
+WVP 0 vfcca0002fyu027
+Touko: "No, don't!!"
+TP
+
+
+
+Behind me, the lady screamed as if to reel me back in.
+TP
+
+
+
+I rushed on, naked and indifferent.
+TP
+
+
+
+My nipples collaborated with the wind.
+TP
+
+
+
+I felt five lines of sight. My spirits rose up and up and up.
+TP
+
+
+
+
+Taichi: "Please look at me~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~!!!"
+TP
+
+
+
+
+The five faces returned to their original directions without a single change in expression.
+TP
+
+
+
+Perfect cooperation. A fake-out of the highest caliber.
+TP
+
+
+
+Taichi: "Aha!"
+TP
+
+
+
+Ridiculous, yet delightful.
+TP
+
+
+
+Just here and now, we're having fun.
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+
+Our campout will end.
+TP
+
+
+
+The new term will start.
+TP
+
+
+
+Ordinary days will be coming.
+TP
+WVS 1 1
+
+
+
+
+A perfectly ordinary tomorrow is coming------
+TP
+
+GL 0 bgcc0000e
+GS 0 1
+TS 2
+SEF 109 1
+
+
+
+
+GL 0 TITLE1
+GS 0 1
+WVP 2 seeye001 1 0 0
+SEF 10 1
+WT 2000 0
+WT 3000 1
+
+
+RET

@@ -1,0 +1,282 @@
+
+That's right.
+TP
+
+I'll go to the first year classroom.
+TP
+
+The Mikiri combo might be there.
+TP
+
+GL 0 bgcc0006
+GS 0 1
+GS 1 0
+SEF 152 0
+There's no one here.
+TP
+
+I looked around and found both of their belongings left on their desks.
+TP
+
+They had come.
+TP
+
+Were they somewhere inside the building?
+//Seemed like he wasn't even in the building at all when he was refering to it.-Spin
+TP
+
+Now that I think about it, school is at the midpoint between Kiri and Miki's houses.
+TP
+
+This school that they're used to might be perfect for a rendezvous point.
+TP
+
+No matter what they're doing.
+TP
+
+I looked out the window.
+TP
+
+I saw the pool.
+TP
+GL 0 evcc0029
+$CGevcc0029 = 1
+GS 0 1
+SEF 155 0
+
+WVP 1 bgm021.ogg 0 0 0
+
+
+Taichi: "......aaah."
+TP
+
+They were playing.
+TP
+
+Having fun.
+TP
+
+Faint voices reached me.
+TP
+
+WVP 0 vfCCC0039mki000
+Miki: "Soryaaa!"
+TP
+
+WVP 0 vfCCC0039kri000
+Kiri: "Ah, I told you no, nooo!"
+TP
+
+WVP 0 vfCCC0039mki001
+Miki: "Sora-soraaa! Can't you dodge!?"
+TP
+
+WVP 0 vfCCC0039kri001
+Kiri: "But we're in the water! Ah! My hair's getting wet, it's getting wet!"
+TP
+
+WVP 0 vfCCC0039mki002
+Miki: "Where did you say you were getting wet!?"
+TP
+
+WVP 0 vfCCC0039kri002
+Kiri: "You sound like an old man."
+TP
+
+WVP 0 vfCCC0039mki003
+Miki: "My heart is an old man's, take this!"
+TP
+
+WVP 0 vfCCC0039kri003
+Kiri: "Aaah, my haiiir..."
+TP
+
+WVP 0 vfCCC0039kri004
+Kiri: "Payback!!"
+TP
+
+WVP 0 vfCCC0039mki004
+Miki: "Kyaaa!"
+TP
+
+I was watching a happy scene.
+TP
+
+WVP 0 vfCCC0039kri005
+Kiri: "Yooouuuu!"
+TP
+
+WVP 0 vfCCC0039mki005
+Miki: "Teryaryaaa!"
+TP
+
+WVP 0 vfCCC0039kri006
+Kiri: "Take this!!"
+TP
+
+WVP 0 vfCCC0039mki006
+Miki: "Uwaaa......yeah right, I won't take thaaat."
+TP
+
+WVP 0 vfCCC0039kri007
+Kiri: "Ah, use of the swim board is prohibited!"
+TP
+
+WVP 0 vfCCC0039mki007
+Miki: "It's my shield."
+TP
+
+WVP 0 vfCCC0039kri008
+Kiri: "No fair!"
+TP
+
+WVP 0 vfCCC0039mki008
+Miki: "It's a handicap since my hair is longer."
+TP
+
+What kind of excuse is that?
+TP
+
+I forced a smile.
+TP
+
+WVP 0 vfCCC0039kri009
+Kiri: "But, you can only use one hand, so your attack strength has decreased!"
+TP
+
+WVP 0 vfCCC0039mki009
+Miki: "Oh nooo!"
+TP
+
+WVP 0 vfCCC0039kri010
+Kiri: "Time for the hunt!"
+TP
+
+WVP 0 vfCCC0039mki010
+Miki: "Open season!?"
+TP
+
+While splashing around, they negotiated with water.
+//Negotiated? With the water? Are you sure this isn't some kind of mistranslation? -VDZ
+TP
+
+So innocent.
+TP
+
+
+*thump*
+TP
+
+
+Taichi: "......!"
+TP
+
+My heart leaped.
+TP
+
+That innocence had touched me.
+TP
+
+I pushed my heart unconsciously.
+TP
+
+It's not like my soul is among my internal organs.
+TP
+
+But what I felt had hit my real heart.
+TP
+
+That made me happy.
+TP
+
+WVP 0 vfCCC0039kri011
+Kiri: "Kyaaa!!"
+WVP 2 se081 1 0
+TP
+WVP 0 vfCCC0039mki011
+Miki: "Ahahahaha! You fell over!"
+TP
+
+WVP 0 vfCCC0039kri012
+Kiri: "I'm soaked......"
+TP
+
+WVP 0 vfCCC0039mki012
+Miki: "You suuuuck at this."
+TP
+
+WVP 0 vfCCC0039kri013
+Kiri: "......now you've said it."
+TP
+
+WVP 0 vfCCC0039mki013
+Miki: "Ohyo?"
+TP
+
+WVP 0 vfCCC0039kri014
+Kiri: "Now that I'm soaked, I can swim."
+TP
+
+WVP 0 vfCCC0039mki014
+Miki: "Ah...Ah! Ah! No close quarters combat!"
+TP
+
+WVP 0 vfCCC0039kri015
+Kiri: "You think the breaststroke can beat the crawl stroke!"
+TP
+
+WVP 0 vfCCC0039mki015
+Miki: "Shock and awe! Shock and awe!"
+//Perhaps the most creative I've ever gotten with a sound effect translation. Å`IX
+TP
+
+WVP 0 vfCCC0039kri016
+Kiri: "I'll make you dripping wet!"
+TP
+
+WVP 0 vfCCC0039mki016
+Miki: "Nooo! My hair turns to seaweed when it gets wet!"
+TP
+
+WVP 0 vfCCC0039kri017
+Kiri: "I'll make you a seaweed-chan!"
+TP
+
+WVP 0 vfCCC0039mki017
+Miki: "Wa! Wa! Not good!"
+TP
+
+WVP 0 vfCCC0039kri018
+Kiri: "Soraaa!"
+TP
+
+WVP 0 vfCCC0039mki018
+Miki: "Ginyaaaaaaaa!!"
+TP
+
+The sound of splitting water.
+TP
+
+Unceasing laughter.
+TP
+
+It made me think of gentle, soft flowing time.
+//I don't remember but I think adverbs go after the verb so "soft" works here. It sounded one syllable off anyway.-Spin
+TP
+
+A scene from a kind world.
+TP
+
+I think I'll write this in my diary.
+TP
+
+So that I won't forget this feeling.
+TP
+
+
+I watched the two girls play for a very long time.
+TP
+
+WVS 1 1
+
+RET

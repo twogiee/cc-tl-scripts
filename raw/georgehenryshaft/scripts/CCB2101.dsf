@@ -1,0 +1,1398 @@
+
+TWS 0
+
+IF $KAISOU == 1 JMP SCENE001
+
+
+
+
+GL 0 bgcc0003
+GS 1 0
+GS 0 1
+SEF 155 1
+WT 500 0
+
+
+WVP 1 bgm004.ogg 0 0 0
+
+//太一「ふわあ……」
+Taichi: "fWahhh..."
+//PCP CCA0004
+TP
+
+
+//起床。
+Out of the bed.
+TP
+
+
+WVP 0 vfCCB2101fyu000
+//冬子「くぅくぅ」
+Touko: "Zzz, zzz..."
+TP
+
+GL 4 zzzCCCB2101ToukoSleep
+GP 4 0 0
+GS 4 1
+SEF 109 0
+//HACK this was cropped sort of oddly in the console version from the uhmmm original? The transition with the normal one was for obvious reasons never really intended. -GHS
+
+
+//隣で冬子が寝ていた。
+Touko had been sleeping next to me.
+TP
+
+
+//軽やかな寝息。
+A light sleeper's breathing.
+//PCP CCA0010
+TP
+
+
+//熟睡といった様子。
+She is in deep sleep.
+TP
+
+
+//太一「ぬぅ」
+Taichi: "Nguh."
+TP
+
+
+//夜中に勝手に入り込んできたな。
+Seems she just sneaked in as she pleased in the middle of the night.
+TP
+
+
+//罪深い女め。
+Curse this sinful broad.
+//Translator's comment. -GHS
+TP
+WVS 11
+
+//公約通りセクハラが必要だった。
+As publicly vowed, sexual harassment is required.
+//See CCB2017 -GHS
+TP
+
+
+//ちょうど朝立ちもしてて、擬似的な性欲がぼんやりと腰を疼かせている。
+As I have a nice morningwood, a pseudo-arousal gives that vague winterish sensation of numb into my groin...
+//See CCB2013... more than the rest, at least. 疼 sick winter again -GHS
+TP
+WVP 1 bgm010.ogg 0 0 0
+
+
+
+
+
+
+
+
+
+
+JMP N_SCENE001
+:SCENE001
+
+WVP 1 bgm010.ogg 0 0 0
+GL 0 bgcc0003
+GS 0 1
+SEF 109
+
+
+
+:N_SCENE001
+
+
+
+
+
+//太一「…………」
+Taichi: "......"
+TP
+GL 4 sgcc0020
+$CGsgcc0020 = 1
+GP 4 0 0
+GS 4 1
+SEF 109 1
+
+//こうした。
+Like that.
+TP
+
+
+//太一「……ん……」
+Taichi: "...nh..."
+TP
+
+
+//噛みはしないだろう。
+I don't think she'll use teeth.
+TP
+
+
+//前後に動かしてみる。
+I try moving back and forth.
+TP
+
+
+WVP 0 vfCCB2101fyu001
+//冬子「ん……んふ……」
+Touko: "Nh... nFhuh..."
+TP
+
+
+//あまり気持ちよくはない。
+It's not particularly pleasant,
+TP
+
+
+//直接的な刺激がないからだ。
+because there's no direct stimulation.
+TP
+
+
+//けど興奮度は凄い。
+But the level of excitement is amazing!
+TP
+
+
+//俺の生理現象はじき、性欲そのものへと転化した。
+This physiological phenomenon of mine soon transformed into sexual desire.
+//An interesting word to use with regards to his morningwood. -GHS
+TP
+
+
+//短い舌を先端でつつく。
+I poke at her short tongue with my tip.
+TP
+
+
+WVP 0 vfCCB2101fyu002
+//冬子「んちゅ……ん、ちゅる……」
+Touko: "Npch... nh, pchrh..."
+TP
+
+
+//吸い出した。
+She began sucking.
+TP
+
+
+//嬉しい誤算だ。
+Happy miscalculation.
+TP
+
+
+//ゆっくりと出し入れすると、逃すまいと吸ってくる。
+As I slowly insert and withdraw, she sucks as not to allow escape.
+//*guffaws* -GHS
+TP
+
+
+//小児的な冬子の癖なのか。
+A childlike mannerism of Touko's, maybe.
+TP
+
+
+//指をしゃぶるように、強く吸ってくる。
+Strong suction, as if sucking on a finger.
+TP
+
+
+//授乳される赤子は、驚くほど強く吸うというけど。
+But babies breastfeeding do have a surprising strength of suction.
+//Remember Misato, she also goes childlike when asleep. -GHS
+TP
+
+
+//そんな感じだった。
+And that's how it felt.
+TP
+
+
+WVP 0 vfCCB2101fyu003
+//冬子「んん、んむ、ん、んっ……うぅん」
+Touko: "Nnh, nMhuh, nh, hh... nnGhnh."
+TP
+
+
+//引き抜こうとすると、強く吸われる。
+Attempting to pull out is answered by a strong suction back.
+TP
+
+
+//押し込むと、するっと入る。
+I push inside, and the insertion is smooth.
+TP
+
+
+//じき涎が、枕を濡らしはじめる。
+Soon, drool begins to dampen the pillow. 
+TP
+
+
+WVP 0 vfCCB2101fyu005
+//冬子「んー、んー……んんん……んん……」
+Touko: "Nhhh, nhhh... nnnh... nnh..."
+TP
+
+
+//けっこういい感じだ。
+This feels quite good.
+TP
+
+
+//興奮しているせいもあって、はやくイキそう。
+And because of how exciting this is, I might come and fast.
+TP
+
+
+//太一「そーらそーら」
+Taichi: "Have it haaave it!"
+TP
+
+
+WVP 0 vfCCB2101fyu004
+//冬子「んぷ……ん、んむ……んー、んー、んうう」
+Touko: "Nhph... nh, nMh... nhhh, nhhh, nghuh!"
+TP
+
+
+//ぽってりした舌先で、鈴口をつつく。
+The plump tip of her tongue pecks at the mushroom.
+TP
+
+
+//かなり強引に挿入しようとしてくる。
+It tries to enter the urethra fairly forcefully.
+TP
+
+
+//太一「う」
+Taichi: "Ngh!"
+TP
+
+
+//強い。
+Strong.
+TP
+
+
+//が、それがいい。
+But that's good.
+TP
+
+
+//腰を引く。
+Drawing back my hips,
+TP
+
+
+//起きないようゆっくりと。
+slowly so not to wake her.
+TP
+
+
+WVP 0 vfCCB2101fyu005
+//冬子「んんん、んんんー」
+Touko: "Nnnh, nnnhhh."
+TP
+
+
+//冬子は嫌がった。
+Touko got sad.
+TP
+
+
+//入れる。
+Inserted.
+TP
+
+
+WVP 0 vfCCB2101fyu010
+//冬子「ん、んふっ、んん、んーーーー」
+Touko: "Nh, nhFh, nnh, nhhhh!"
+TP
+
+
+//冬子はご機嫌だ。
+Touko is in good spirits.
+TP
+
+
+//頬に押しつけてみる。
+I try to push inside the cheek.
+TP
+
+
+//突如として横合いに生じた圧迫感に、冬子は眉を寄せる。
+The sudden feeling of pressure on on side makes Touko furrow her brow.
+TP
+
+
+//垂直にしようと、口をもごもごさせた。
+Trying to get it vertical, her mouth squirms as if chewing.
+TP
+
+
+//上顎のざらざらした部分も擦る。
+I rub and scrub on the rough part of her upper jaw as well.
+TP
+
+
+//そこはいい感触だった。
+Nice tactile sensation we had there.
+TP
+
+
+WVP 0 vfCCB2101fyu006
+//冬子「んんっ、んふっ、んっんっ……んん……んー？」
+Touko: "Nnh, nhFh, nhNh... nnh... nhhh?"
+TP
+
+
+//戸惑っている。
+Perplexed.
+TP
+
+
+//持ち上がったベロの下をつついた。
+I poked under her raised tongue.
+TP
+
+
+WVP 0 vfCCB2101fyu007
+//冬子「んぷっ」
+Touko: "hNph."
+TP
+
+
+//嫌がった。
+Disliked.
+TP
+
+
+//上に乗せていないと、不安なのだろう。
+If I'm not on top, she's at unease.
+//This, of course, is symbolism. -GHS
+TP
+
+
+//戻す。
+I return.
+TP
+
+
+WVP 0 vfCCB2101fyu008
+//冬子「んんん、んん、んぅ、うっ、んー、ん、ちゅ、れろ、んんんんー」
+Touko: "Nnnh, nnh, nh, ngh, nhhh, nh, pch, hrhuhrh, nnnnh!"
+TP
+
+
+WVP 0 vfCCB2101fyu009
+//冬子「ちゅ、ちゅる、れるっ、んん、んっふ……ちゅぷ……あむ……んっ……」
+Touko: "Pch, pchrh, hrhrhuh, nnh, nhFh... chpph... aHmhuh... nh..."
+TP
+
+
+WVP 0 vfCCB2101fyu010
+//冬子「ん、んー、ちろ、うむん……ふぁぁ……んむ……ん、ちゅ……」
+Touko: "Nh, nhhh, pchrh, uHmuhnh... fWhaah... hnmuh... nh, pchuh..."
+TP
+
+
+//本能に従って、冬子は吸い続ける。
+Touko continues sucking, obeying her instinct.
+TP
+
+
+//太一「……ん」
+Taichi: "...nh!"
+TP
+
+
+//また舌を突っ込もうとしてきた。
+Again her tongue tried to thrust inside.
+TP
+
+
+//こじあけられる感覚に、腰の奥が疼く。
+A throb in the depth of my hips, as if they're being prized open.
+//We can drop the "wintery throb" for this once. -GHS
+TP
+
+
+//……寝ている時の方が、うまいような……。
+...she's a lot better at this when she's asleep...
+TP
+
+
+WVP 0 vfCCB2101fyu011
+//冬子「あむ……ちゅるっ、ちゅ、ちゅ……れるんっ……」
+Touko: "AhMh... pchrh, pch, pch... hrhnh..."
+TP
+
+
+//太一「あー」
+Taichi: "Ahhh..."
+TP
+
+
+//呻いてしまう。
+I end up moaning.
+TP
+
+
+//下腹がじんわりと温かい。
+The lower parts grow gradually warmer.
+TP
+
+
+//はらわたに染みる、とでも言おうか。
+I would even say that it is permeating to the bowels.
+TP
+
+
+//幸せだった。
+This was happiness.
+TP
+
+
+WVP 0 vfCCB2101fyu012
+//冬子「んー、んぅ、んっんっ、んむ……はむ……れろれろ……ふぁ」
+Touko: "Nhhh, nh, nHnh, nhmUh... hahMuh... hrhrurHerhu... fwhah!"
+TP
+
+
+//一度吐き出して、すぼめた唇に先端を出し入れする。
+She spits it out once, and thrusts back and forth her narrowing lips on the tip.
+TP
+
+
+//スティックキャンデーを味わう動き。
+A movement lets her relish the flavor of my candy cane.
+//...just GIS スティックキャンデー stick candy if you think that's an adaptation. -GHS
+TP
+
+
+//味はしないはずだが。
+Though I don't expect it to have flavor.
+TP
+
+
+WVP 0 vfcca0030fyu016
+//冬子「れろれろ……んむんむ……んんん……」
+Touko: "Hlhruh... nmHnhmUh... nnnh..."
+TP
+
+
+//また呑み込む。
+Swallowed deep again.
+TP
+
+
+//全体が包まれて、痺れる。
+It's engulfed in its entirety and titillated.
+TP
+
+
+WVP 0 vfCCB2101fyu013
+//冬子「んー、んー、んんん、ちゅるっ……っく……ふん……ん……」
+Touko: "Nhhh, nhhh, nnnh, pchrh... hKh... fhn... nh..."
+TP
+
+
+//太一「ううー」
+Taichi: "Nggghhh."
+TP
+
+
+WVP 0 vfCCB2101fyu014
+//冬子「ふぁ、あぅん、んっ、んんん、んんんんんん……れるっ」
+Touko: "Fwah, aHnh, nh, nnnh, nnnnnh... hRuh."
+TP
+
+
+//じわじわと性感が高まっていくのがわかる。
+I understand that slowly and steadily my sexual arousal is gaining the upper hand.
+TP
+
+
+//このまま、口の中に……。
+Keep this up, and, right inside her mouth...
+TP
+
+
+//腰を使う。
+I use the waist.
+TP
+
+
+
+//吸引に合わせて、最高の刺激が走るように。
+Matching the suction, so that I can be be pervaded by the best of stimuli.
+TP
+
+
+//出入りする口の部分が、唾液にぬらつく。
+The sides of my coming and going into her mouth are dampened by saliva.
+TP
+
+
+WVP 0 vfCCB2101fyu015
+//冬子「んんん、んんー、むぁ、んっ、ちゅ……ちゅ、ちゅ、れろ」
+Touko: "Nnnh, nnhhh, mhwAh, nh, pch... pch, pch, hrhuh."
+TP
+
+
+//たまに甘く噛まれる。
+There is a delicate sweet bite every so often.
+TP
+
+
+//その苦痛さえ、俺には甘美なものだ。
+But even this bit of pain is a thing of sweetness to me.
+TP
+
+
+//微細な愛撫のただなかで、歯や舌や唇の感触が、混沌とまざりあう。
+Inside each minute caress there is a disordered mix of tactile sensations with teeth and tongue and lips.
+TP
+
+
+//太一「……冬子」
+Taichi: "...Touko."
+TP
+
+
+//自然とはやまる腰を、なんとかセーブしなければならない。
+I must somehow economize my naturally quickening hips.
+TP
+
+
+WVP 0 vfCCB2101fyu016
+//冬子「ん、んむっ、ふぅぅ……んー……んー……ちゅ、ちゅるる……れろ、んむ……んんんん、んんんんんんっ……」
+Touko: "Nh, nmh, hfhuh... nhhh... nhhh... pch, pchrHrh... hrhuh, nmhuh... nnnnh, nnnnnnh...!"
+TP
+
+
+//吸飲が増した。
+Aspiration increased.
+TP
+
+
+//なかなか出てこない母乳に、痺れを切らしたかのよう。
+Mommy's milk not coming out easily seems to be making her grow impatient.
+TP
+
+
+//先端から先漏れしたわずかな体液を、懸命に舐める。
+From the tip leaks out a dot of a bit of fluid, which is licked up with all her might.
+TP
+
+
+WVP 0 vfCCB2101fyu017
+//冬子「ん、るっ、れろっ、ちゅ、ちゅ……」
+Touko: "Nh, rhuh, hlhOh, pch, pch..."
+TP
+
+
+//尿道から出でくるそれを、相変わらず舌を突っ込んでほじくろうとする。
+Her tongue, like it always does, tries to pry at the urethra, source of that liquid.
+TP
+
+
+//太一「わーお」
+Taichi: "Woooow!"
+TP
+
+
+//これは大変気持ちいい。
+This is troublesomely nice.
+TP
+
+
+//腰が引けるほど。
+To the point where I get sort of cold feet and withdraw my hips.
+TP
+
+
+WVP 0 vfCCB2101fyu018
+//冬子「んんんんぅっ」
+Touko: "NNNNHh!"
+TP
+
+
+//逃げるニセ乳首に、冬子は不満げだ。
+Touko shows frustration with the withdrawing nipple substitute.
+TP
+
+
+//優しく奥まで入れてやる。
+I go put it back to the depth gently.
+TP
+
+
+WVP 0 vfCCB2101fyu019
+//冬子「あぅ、んむ、むん……ちゅー、ちゅー」
+Touko: "Ah, nmh, mhn... pchhh, pchhh."
+TP
+
+
+//次第に前後運動に慣れてきたのか。
+Seems to be gradually getting accustomed to the back and forth motion.
+TP
+
+
+//冬子もバキュームのサイクルを合わせてくるようになった。
+Touko too seemed to end up matching the cycle of a vacuum cleaner.
+//...doesn't actually seem to be a real thing... -GHS
+TP
+
+
+//引けば吸いつき、押し込めば舌を使う。
+Withdrawing means suction, pushing in means using tongue.
+//Also, vacuums don't seem to have tongues, but this is Japan so I'll assume I'm wrong and that he knows from personal experiences. -GHS
+TP
+
+
+//まさに睡眠学習、本能万歳。
+Definitely sleep-learning. Instincts banzai!
+TP
+
+
+//俺の方も、限界の八分を超えた。
+And I, as well, had just crossed into the eight-tenth of my limit.
+//Someone's just trying to be clever here. Ah, check out meaning 2 here: http://www.weblio.jp/content/%E5%85%AB%E5%88%86 hmmmm. -GHS
+TP
+
+
+//そろそろだ。
+It'll be soon.
+TP
+
+
+//太一「そろそろミルクのお時間ですよ」
+Taichi: "It will be time for your milk soon!"
+//Awwww he just HAD to point out the "dick milk" thing. And it was such a nice parody... -GHS
+TP
+
+
+//囁くと、意味はわかるのか、冬子の頬が緩む。
+So I whisper, and seemingly understanding the meaning, Touko's cheeks relax.
+TP
+
+
+//太一「もっと強く吸おうね」
+Taichi: "Let's suck harder now."
+TP
+
+
+WVP 0 vfCCB2101fyu020
+//冬子「ふぅ……ん、ちゅ、ちゅううぅぅぅぅっ」
+Touko: "Fhw... nh, pch, pchHHhhhh!"
+TP
+
+
+//うわ、強烈。
+Bwaaah, intense!
+TP
+
+
+WVP 0 vfCCB2101fyu021
+//冬子「ちゅぅ、ちゅ、ゅうぅぅぅぅぅぅぅぅぅぅ……れるっ……んっ、ちゅうぅぅぅぅっ」
+Touko: "Pchk, pch, yUhnghhhhhhhhhh... hrHrh... nh, pchuuuuuh."
+TP
+
+
+//ああ、もういつでも出せる。
+Ahhh, it's gonna start any moment now.
+TP
+
+
+//緩やかにピストン。
+I piston loosely.
+//And that's the signature on this, eh, OK erotroll. Sorry, trying too hard. There's potential, but we're not there yet. CCA0015C is pretty much the peak as far as troll. -GHS
+TP
+
+
+WVP 0 vfCCB2101fyu022
+//冬子「ちゅ、ちゅ……んんんっ、ちゅる」
+Touko: "Pch, pch... nnnh, pchrh."
+TP
+
+
+//尿道がほとんど真空にされた感じだ。
+It feels like the urethra is being all but inside a vacuum.
+TP
+
+
+WVP 0 vfCCB2101fyu023
+//冬子「ん、んん……んむっ……んーっ」
+Touko: "Nh, nnh... nmUh... nhhh!"
+TP
+
+
+WVP 0 vfCCB2101fyu024
+//冬子「ちゅ、んんんんんっ、んんんんんんんんんっ」
+Touko: "Pch, nnnnnh, nnnnnnnnnh!"
+TP
+
+
+//口内で押しつぶされ、愛撫され、挿入され。
+Squashed, and caressed, and sucked in via the mouth.
+TP
+
+
+WVP 0 vfCCB2101fyu025
+//冬子「んっ、んふっ……れるるっ」
+Touko: "Nh, nhfh... hrRrh."
+TP
+
+
+//鈴口をすぼめた舌がくり抜くのと同時に、俺は放っていた。
+At the same time as she goes excavating into the mushroom with her narrowed tongue, I released.
+TP
+
+
+WVP 0 vfCCB2101fyu026
+//冬子「……んんんんっ、んーーーーーっ」
+Touko: "...nnnnh, NNNNNNH!"
+TP
+
+
+//迷うことなく、喉が上下する。
+The up and down of a swallowing throat, unhesitating.
+TP
+
+
+//粘度が高く、飲みにくいはずのそれを、唾液とまぜて味わうように食道に導く。
+Its viscosity is high and drinking should be hard, but it mixes with the saliva and is guided down the esophagus as if relished.
+TP
+
+
+WVP 0 vfCCB2101fyu027
+//冬子「ちゅう、ちゅ、ちゅるっ」
+Touko: "Pchk, pch, pchrh!"
+TP
+
+
+//尿道に残った分まで、全て抜き取ろうとする。
+She wants to draw all of it out, even the part that remained in the urethra.
+TP
+
+
+//あまりの快楽に、目眩がした。
+The overwhelming pleasure turned to dizziness.
+TP
+
+
+//そっと腰をすすめた。
+Delicately I advance my hips.
+TP
+
+
+WVP 0 vfCCB2101fyu028
+//冬子「んっ……んんっ」
+Touko: "Nh... nnh."
+TP
+
+
+//先端が喉の奥に触れる。
+The tip touches the back of the throat.
+TP
+
+
+//冬子の舌技が届かないそこで、括約筋をぎゅっと締めた。
+There, where Touko's Tongue Technique does not quite reach, I squeezed my sphincter muscle tight.
+TP
+
+
+//残った精液が、勢いよくほとばしる。
+The remaining semen gushes out with vigor.
+TP
+
+
+WVP 0 vfCCB2101fyu029
+//冬子「……んぶっ……んっんっんっ……」
+Touko: "...nbh... nHnHnH..."
+TP
+
+
+//それさえも求めて、雪色の喉は動いた。
+As if demanding nothing else, her throat the color of snow moves.
+TP
+
+
+//太一「……はー」
+Taichi: "...haaah."
+TP
+
+
+//えがった。
+Most excellent.
+TP
+
+
+//ひっこぬく。
+Unplug.
+TP
+
+
+//混合液でねとついた竿を、ティッシュでぬぐった。
+I wiped all the mixed fluids on the pole with a tissue.
+TP
+
+
+
+
+$SNCCB2101 = 1
+
+
+
+IF $KAISOU == 0 JMP N_SCENE101
+RET
+
+
+:N_SCENE101
+
+
+
+
+WVS 1 1
+GS 4 0
+SEF 109 0
+
+WVP 0 vfCCB2101fyu030
+//冬子「…………んん」
+Touko: "......nnh."
+TP
+
+//冬子がうっすらと目をあけた。
+Touko opens her eyes thinly.
+TP
+
+
+//電光石火、俺はズボンをあげた。
+I raised my pants with the speed of lightning.
+TP
+WVP 1 bgm003.ogg 0 0 0
+
+
+WVP 0 vfCCB2101fyu031
+//冬子「……たいち……どこ？」
+Touko: "...Taichi... where?"
+TP
+
+
+//太一「目の前」
+Taichi: "Front of your eyes."
+TP
+
+
+WVP 0 vfCCB2101fyu032
+//冬子「んー？」
+Touko: "Nh?"
+TP
+
+
+//ベッド脇で佇立している俺を、首の角度を変えて見る。
+She alters the angle of her neck to see me standing still by the bedside.
+TP
+
+
+WVP 0 vfCCB2101fyu033
+//冬子「……おはよう、太一」
+Touko: "...'morning, Taichi."
+TP
+
+
+//太一「ああ」
+Taichi: "Aaah."
+TP
+
+
+//よし、バレてない。
+Great, she didn't realize.
+TP
+
+GL 1 TCKT0006
+GP 1 235 0
+GI 1 1
+
+
+WVP 0 vfCCB2101fyu034
+//冬子「ん……太一ぃ」
+Touko: "Nh... Taichiii."
+TP
+
+
+//立ち上がる。
+She gets up,
+TP
+
+
+//抱きついてきた。
+and hugs me.
+TP
+
+
+//太一「！？」
+Taichi: "?!"
+TP
+
+
+WVP 0 vfCCB2101fyu035
+//冬子「……たーいち♪」
+Touko: "...Taaa-ichi♪"
+TP
+
+
+//キスを迫ってきた。
+Chasing for a kiss.
+TP
+WVS 1 1
+
+
+//太一「＆％＃＆％＃％っ！？」
+Taichi: "&%#&%#%?!?"
+//7537535 -GHS
+//SEF 101 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+TP
+
+GL 1 TCKT0001
+GI 1 0
+WVP 0 vfCCB2101fyu036
+//冬子「……え？」
+Touko: "...eh?"
+TP
+
+
+//怪訝な顔。
+Suspicion in her face.
+TP
+
+
+//まずい。
+This is bad.
+TP
+
+
+//不機嫌一歩手前だ。
+She's one step from being ill at humor.
+TP
+WVP 1 bgm011.ogg 0 0 0
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfCCB2101fyu037
+//冬子「どうしてよけるのよー」
+Touko: "Whyyy are you dodging me!"
+TP
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfCCB2101fyu038
+//冬子「朝のキッスでしょー」
+Touko: "It's just a morning kiss, really!"
+TP
+
+
+//再度迫り来る。
+Second attempt imminent.
+TP
+
+
+//太一「ああ、モーニングキスか……ＯＫＯＫ、ちょっと待ってくれ」
+Taichi: "Ahhh, moohning kissu iz it... okieh, okieh, wait a second please!"
+//Random Engrish isn't random anymore at this point. -GHS
+TP
+
+
+//顔をのけぞらして逃げる。
+My face leans back to escape.
+TP
+
+
+//首を抱かれているので、逃げられない。
+As my neck is held fast, there is no escape.
+//See CCA0025C -GHS
+TP
+
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfCCB2101fyu039
+//冬子「こーら、逃げないで」
+Touko: "Come ooon, no escaping."
+TP
+
+
+//冬子の額にキスをした。
+I gave a kiss on Touko's forehead.
+TP
+
+
+//太一「さ、着替えようか」
+Taichi: "Well, shall we get changed?"
+TP
+
+
+WVP 0 vfCCB2101fyu040
+//冬子「そんなんじゃだめ。ちゃんとするの」
+Touko: "Just that's no good. Do it properly!"
+TP
+
+
+//くっ……。
+Guh...
+TP
+
+
+//太一「ちゃんと？」
+Taichi: "Properly?"
+TP
+
+
+WVP 0 vfCCB2101fyu041
+//冬子「おくちにキス。朝はそうなの」
+Touko: "Kiss on the mouth. That's how it's done in the morning."
+TP
+
+
+//太一「ああ、オクチね……おくちおくち……」
+Taichi: "Ahhh, the mouth... mouth, mouth..."
+TP
+
+
+//精液を出したお口。
+The mouth I filled with semen.
+//See CCC0000. Contrast, rather. -GHS
+TP
+
+
+//太一「よし、しよう。目を閉じて」
+Taichi: "Fine, let's do it. Close your eyes."
+TP
+
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfCCB2101fyu042
+//冬子「……ん、はい」
+Taichi: "...nh, yes."
+TP
+
+
+//ツンと上向きにされた冬子の顔は、幸せいっぱい夢一杯の栗の花。
+Touko's face, thrust upwards at me with impatience, is the flower of a Japanese chestnut filled with happiness and to the brim with dreams.
+TP
+
+
+//鼻の頭に唇をつけた。
+I put my lips to the tip of her nose.
+TP
+
+
+//太一「ちゅ」
+Taichi: "Pchk."
+TP
+
+
+WVP 0 vfCCB2101fyu043
+//冬子「……太一、そこ鼻」
+Touko: "...Taichi, that's the nose."
+//Well then, wasn't that.......................... on the nose! hahahahg'fuh!!! -GHS
+TP
+
+
+//太一「ごっめーん。冬子のクチの場所がちょっとわかんなくなってさ」
+Taichi: "Sorr'ies. I don't exactly understand where Touko's 'mouth' is located anymore."
+TP
+
+
+WVP 0 vfCCB2101fyu044
+//冬子「なに言ってるのよ」
+Touko: "What are you talking about!"
+TP
+
+
+//太一「ここかな？」
+Taichi: "Is it here?"
+TP
+
+
+//ほっぺた。
+On the cheek.
+TP
+
+
+WVP 0 vfCCB2101fyu045
+//冬子「たーいーちー、いい加減にしないと……」
+Touko: "Taaaiiichiii, cut it out already..."
+TP
+
+
+//太一「ＯＫ、ここだね。ほら」
+Touko: "Okieh, it has to be here. So,"
+TP
+
+
+//唇の横。限度線だぜ。
+Near the lips. But that's the limit!
+TP
+
+
+WVP 0 vfCCB2101fyu046
+//冬子「…………んー」
+Touko: "......nhhh."
+TP
+
+
+//なお不満げな顔。
+A still unsatisfied face.
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfCCB2101fyu047
+//冬子「わかったわよ、歯を磨いてからしたいわけね。気を遣ってくれてるんだ」
+Touko: "I get it you know, you just want to brush your teeth first. Don't fuss around so much!"
+TP
+
+
+//太一「そーなんだよー、ミス冬子。おっフランス生まれの悪い癖さー、ハハハハ」
+Taichi: "Thaaas' nodd'truuue, Mizz Touko! 'Tis but ze bad habit of le Francais, ha-ha-ha-ha."
+//See CCB2007 -GHS
+TP
+
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfCCB2101fyu048
+//冬子「いいわよ。じゃ一緒に磨こうか」
+Touko: "It's fine. Well, let's brush them together."
+TP
+
+
+//太一「ああ、歯が削れるくらい磨こうぜ！」
+Taichi: "Yeah, let us brush our teeth until they are sharp!"
+TP
+
+
+WVP 0 vfCCB2101fyu049
+//冬子「隙あり」
+Touko: "Chance!"
+TP
+WVS 1 0
+GO 1 1
+//ちゅう
+Pchuk!
+TP
+
+//太一「……………………！！」
+Taichi: "............!!!"
+TP
+
+
+//一瞬で舌と舌を！？
+Tongue to tongue in an instant?!
+TP
+WVP 1 bgm011.ogg 0 0 0
+
+//うわあああああああ！！
+BWAAAAAAAH!!!
+//あx7 -GHS
+SEF 101 0
+TP
+
+//しかし悲鳴も出せない。
+However I cannot let the scream out either.
+TP
+
+
+WVP 0 vfCCB2101fyu050
+//冬子「んっ、たいちぃ……好き……んっ、んむっ、れるっ……」
+Touko: "Nh, Taichiii... love you... nh, nmh, hrHrh..."
+TP
+
+
+//うおおおおおおおっ！！
+BWOOOOOOO!!!
+//おx7 -GHS
+TP
+
+WVP 0 vfCCB2101fyu051
+//冬子「れろれろれろれろれろ～」
+//Touko: "ReruReruReruReru～"
+Touko: "lHrlHrlHrlHrlHr～"
+//I think it's homeLoom and human resources. Makes sense given her PTA power. -GHS
+TP
+
+//>かくはん
+//攪拌。
+Spatulation.
+//It's the kind of stirring agitation one gets when punched on the genitals and stabbed by two thrown shuriken in the forehead right above the eyes in very quick succession. Nah, but you do gotta go on a medical dictionary for this one. The entry on Merriam-Webster is literally six words! -GHS
+TP
+
+
+//太一「んんんんんんんっ！？」
+Taichi: "NNNNNNNH?!"
+//んx7 -GHS
+TP
+
+
+WVP 0 vfCCB2101fyu052
+//冬子「んーーー、んっんっんっ」
+Touko: "Nhhh, nHnHnH!"
+//if ー=ん, then んx7 -GHS
+TP
+
+
+//頭を左右に振りながら、深々と唇を噛み合わせてくる。
+Shaking my head from side to side, our lips engage and mesh very very deeply.
+TP
+
+
+//太一「んぶぶっ！？」
+Taichi: "nBghBlgh?!"
+TP
+
+
+//因果応報。
+Just desserts:
+TP
+
+
+//四文字が脳裏を駆けめぐる。
+two words that gallop through my mind.
+TP
+
+
+//そして最後には、
+And then, at the end,
+TP
+
+//太一「……ん、れろ……」
+Taichi: "...nh, hRh..."
+TP
+
+
+//唾液を流し込まれた。
+saliva was inserted in.
+TP
+
+
+//太一「……………………おぁ」
+Taichi: "............oAh..."
+TP
+WVS 1 1
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+//気を失う。
+I part with my senses.
+TP
+
+
+WVP 0 vfCCB2101fyu053
+//冬子「あ、あれ？　太一？　ちょっと太一ってば！？」
+Touko: "Eh, what? Taichi? Taichi, you there?!"
+TP
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+WVP 1 bgm010.ogg 0 0 0
+
+GL 1 TCKT0005
+GP 1 235 0
+GI 1 1
+
+
+WVP 0 vfCCB2101fyu054
+//冬子「……でも驚いた……太一が私のキスで気絶しちゃうなんて」
+Touko: "...but that was a surprise... passing out just by kissing, Taichi, really!"
+TP
+
+
+//太一「そーかい……」
+Taichi: "Diiid I now..."
+TP
+
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfCCB2101fyu055
+//冬子「ふふふ」
+Touko: "Heheheh!"
+TP
+
+
+//冬子は異様にご機嫌だった。
+Touko was in strangely good spirits.
+TP
+
+
+WVP 0 vfCCB2101fyu056
+//冬子「太一って感じやすいんじゃない？」
+Touko: "Aren't you so susceptible and delicate, Taichi?"
+TP
+
+
+//太一「くっ……」
+Taichi: "Guh..."
+TP
+
+
+//屈辱だ。
+Humiliation.
+TP
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfCCB2101fyu057
+//冬子「かなりＭっぽかったりして」
+Touko: "Seems like you're quite the M type."
+//See CCC3025. And another ridiculously precise diagnosis. -GHS
+TP
+
+
+//太一「……うるさい、このフェラマッシーン」
+Taichi: "...shut up, you bee jay machine."
+TP
+
+
+GL 1 TCKT0001
+GI 1 0
+WVP 0 vfCCB2101fyu058
+//冬子「え？　なにそれ？」
+Touko: "Eh? What's even that?"
+TP
+
+
+//太一「なんでもない！」
+Taichi: "None of your business!"
+//Touko: "Ahhh, it's a MacGuffin then." -GHS
+TP
+WVS 1 1
+WT 1000 0
+WT 1000 1
+
+RET

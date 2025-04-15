@@ -1,0 +1,614 @@
+
+
+
+
+WVP 0 vfCCC4003kri000
+Kiri: "Wha---!!?"
+TP
+
+Kiri shuddered.
+TP
+
+WVP 0 vfCCC4003kri001
+Kiri: "What is that underwear......"
+TP
+
+I was still wearing the elephant underwear Miki had equipped me with (gives a more exact impression than 'put on me') yesterday.
+TP
+
+WVP 0 vfCCC4003mki000
+Miki: "Huh? Doesn't Sempai take baths?"
+TP
+
+Taichi: "Nope."
+TP
+
+WVP 0 vfCCC4003mki001
+Miki: "He doesn't!"
+TP
+
+WVP 0 vfCCC4003kri002
+Kiri: "Unclean......"
+TP
+
+Ku! Damn little hygienic girls.
+TP
+
+They gather and reproach people.
+TP
+
+WVP 0 vfCCC4003mki002
+Miki: "Isn't it summer?"
+TP
+
+WVP 0 vfCCC4003kri003
+Kiri: "......his character's like that, so his personal grooming is also..."
+TP
+
+Taichi: "Are you treating a filthy person like a sinner?"
+TP
+
+WVP 0 vfCCC4003kri004
+Kiri: "It might be best to bring an end to this here and now......"
+TP
+
+Taichi: "Wait up!"
+TP
+
+WVP 0 vfCCC4003mki003
+Miki: "Hmm. Sempai's root has lowered greatly."
+//"Root?"-Spin
+TP
+
+Taichi: "It's only been one day. It enters once every two days."
+TP
+
+WVP 0 vfCCC4003kri005
+Kiri: "I'm not understanding anything......"
+TP
+
+WVP 0 vfCCC4003mki004
+Miki: "Not entering daily is subpar."
+TP
+
+Taichi: "Eh!? Is that so? Youko-chan never said that......she never told me......"
+TP
+
+There are many cases like this when someone will mature with their originality intact unless they exchange information with human friends of the same generation!
+//Oh so that's why I'm like this. Å`IX
+TP
+Being a normal person is a very difficult thing!
+TP
+
+WVS 1 1
+
+WVP 0 vfCCC4003mki005
+Miki: "What do we do, Kiri-chin?"
+TP
+
+WVP 0 vfCCC4003kri006
+Kiri: "This is bad, Miki."
+TP
+
+WVP 0 vfCCC4003mki006
+Miki: "Yeah, it's bad."
+TP
+
+They informed each other.
+//Japanese line! - Sheeta
+//That was truly pathetic. Å`IX
+TP
+
+WVP 0 vfCCC4003kri007
+Kiri: "I thought he was weird, but to think he was this bad......"
+TP
+
+WVP 0 vfCCC4003mki007
+Miki: "We have no choice but to do it."
+TP
+
+WVP 0 vfCCC4003kri008
+Kiri: "Yes. There's nothing else to be done."
+TP
+
+WVP 0 vfCCC4003mki008
+Miki: "After all, you have to participate in the club with this guy."
+TP
+
+WVP 0 vfCCC4003kri009
+Kiri: "Mm. Do it where?"
+TP
+
+Taichi: "What do you mean by ÅwdoÅx?"
+TP
+
+They ignored me and continued speaking to one another.
+TP
+
+Low voices. I can hear fragments.
+TP
+
+WVP 0 vfCCC4003mki009
+Miki: "A place where people won't see it."
+TP
+
+WVP 0 vfCCC4003kri010
+Kiri: "Silently,"
+TP
+
+WVP 0 vfCCC4003mki010
+Miki: "With strong drugs,"
+TP
+
+WVP 0 vfCCC4003kri011
+Kiri: "If we dare to,"
+TP
+
+What are these girls talking about?
+TP
+
+Taichi: "......this atmosphere seems bad......"
+TP
+
+Perhaps I should run away.
+TP
+
+WVP 0 vfCCC4003kri012
+Kiri: "Don't move!"
+TP
+
+Taichi: "Hii!?"
+TP
+
+No good. I can't run away.
+TP
+
+It'd be bad to stimulate Kiri any further.
+TP
+
+WVP 0 vfCCC4003mki011
+Miki: "Sempai, we've decided on your sentence."
+TP
+
+Taichi: "......would it be okay if I put my pants back on?"
+TP
+
+WVP 0 vfCCC4003mki012
+Miki: "No it wouldn't."
+TP
+
+Taichi: "Are you a demon?"
+TP
+
+WVP 0 vfCCC4003mki013
+Miki: "You will accompany us."
+TP
+
+Miki said 'us.'
+IF $tlnote != 0 (TL note: The particular pronoun Miki used is almost exclusive to royalty.)
+TP
+
+Taichi: "I understand......but to receive such treatment just for not taking a bath for one day......"
+TP
+
+WVP 0 vfCCC4003mki014
+Miki: "Don't even try. Sempai has no merits at all in the first place, so cleanliness is practically a duty for you."
+TP
+
+WVP 0 vfCCC4003mki015
+Miki: "But Sempai got lazy."
+TP
+
+WVP 0 vfCCC4003kri013
+Kiri: "You are abnormal......in many ways."
+TP
+
+I'm being treated like an abnormal.
+TP
+
+WVP 0 vfCCC4003mki016
+Miki: "Let's go."
+TP
+I was brought along.
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 109 0
+TP
+GL 0 bgcc0007
+GS 0 1
+SEF 152 0
+And,
+TP
+
+Taichi: "......eh? What's being done to me?"
+TP
+
+I'm incredibly uneasy.
+TP
+
+Sempai still hasn't come.
+TP
+
+There's no one here to save me.
+TP
+
+Miki brought a hose out of a prefab structure.
+TP
+
+Kiri maintained surveillance on me with her crossbow.
+TP
+
+GL 1 TCYM0001
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC4003mki017
+Miki: "Sempai, strip."
+TP
+
+Taichi: "More than this?"
+TP
+
+Kiri: "......"
+TP
+
+I'll be sniped by the crossbow.
+TP
+
+Taichi: "......yesh."
+TP
+
+I stripped.
+TP
+
+I took off my shirt.
+TP
+
+I am now nothing more than elephant underwear.
+TP
+
+Taichi: "......these too?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4003mki018
+Miki: "Hmmm, well, I'll let that go."
+TP
+
+And then Miki released the valve on her hose.
+TP
+WVP 2 se093 1 0
+WVP 0 vfCCC4003mki019
+Miki: "There!"
+TP
+
+WVP 1 bgm011.ogg 0 0 0
+
+An intense flow of water attacked me.
+TP
+
+Taichi: "Upu!"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4003mki020
+Miki: "Take that!"
+TP
+
+Is that what this is?
+TP
+
+Compulsory cleaning?
+TP
+
+Aaah, if only it was a compulsory sexual massage...
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4003mki021
+Miki: "Kiri-chin, the drug!"
+TP
+GL 2 TCSK0000
+GP 2 40 0
+GP 1 340 0
+GS 1 1
+GS 2 1
+SEF 109 0
+
+WVP 0 vfCCC4003kri015
+Kiri: "Okay."
+TP
+
+Kiri shot something.
+TP
+
+Taichi: "Uu! Th-this is...?"
+TP
+
+A displeasing citrus mist.
+TP
+
+Body soap?
+TP
+
+She gripped the bottle as they washed me.
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4003mki022
+Miki: "And now, and now,"
+TP
+
+Both of them came toward me with deck brushes......deck brushes!!?
+TP
+
+WVP 0 vfCCC4003mki023
+Miki: "Goooo!!"
+TP
+
+GL 2 TCSK0001
+GI 1 0
+WVP 0 vfCCC4003kri016
+Kiri: "Ei! Ei!"
+TP
+
+I was washed like the deck of a ship.
+TP
+
+Taichi: "Owowowowowowowow!!?"
+TP
+
+It's prickly! It prickles!
+TP
+
+Taichi: "I'm not a deck!"
+TP
+
+Dammit, is this because I ate canned bread this morning!?
+IF $tlnote != 0 (TL note: "Canned bread" and "ship's deck" happen to be homonyms.)
+TP
+
+Is the world a gag?
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4003mki024
+Miki: "Soap, soap, soap!"
+TP
+
+WVP 0 vfCCC4003kri017
+Kiri: "Soap, ei!!"
+TP
+
+Repeated calls for soap.
+TP
+
+I'm a little excited.
+TP
+
+I will...make you both...with soap...into soap...into women......
+//Is it worth mentioning that he swapped one letter of "soopu" with a kanji meaning "woman"? It doesn't look to me like that'd really add to this line. Å`IX
+TP
+
+Deck brushes once again.
+TP
+
+I got used to the sharp pain, and stopped caring.
+TP
+
+In fact, the prickly sensation became refreshing.
+TP
+GL 2 TCSK0003
+GI 2 0
+
+WVP 0 vfCCC4003kri018
+Kiri: "Mi-Miki! Th-the elephant is!!?"
+TP
+WVP 2 SE064 1 0
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC4003mki025
+Miki: "U-uwaaaaaa!!? The elephant trumpeteeed!!"
+TP
+
+A discharge of water.
+TP
+
+GL 2 TCSK0007
+GI 2 0
+WVP 0 vfCCC4003kri019
+Kiri: "Pervert! Pervert!!"
+TP
+
+Taichi: "Th-this is just because I received a stimulus......I can't help it......upu!"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4003mki026
+Miki: "Scrub, scrub, scrub, scruuub!!"
+TP
+
+She rubbed frantically.
+TP
+
+GL 2 TCSK0003
+GI 2 0
+WVP 0 vfCCC4003kri020
+Kiri: "Kya! The elephant's gone!"
+TP
+
+It was taken off in the stream of water.
+TP
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC4003mki027
+Miki: "The elephant cover I bought at Atomic Goods!!?"
+TP
+
+So you did get it at Atomic Goods......
+TP
+
+The owner (Female - Beautiful - Twenty-five) is a pervert herself so she sells indiscriminately.
+TP
+
+
+WVP 0 vfCCC4003mki028
+Miki: "Look, Kiri-chin, it's like an entirely different creature!"
+TP
+
+GL 2 TCSK0002
+GI 2 0
+
+WVP 0 vfCCC4003kri021
+Kiri: "I mustn't look! My eyes will rot!"
+TP
+
+Are you elementary schoolgirls?
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4003mki029
+Miki: "Ginyaaa, it just shook!?"
+TP
+
+WVP 0 vfCCC4003kri022
+Kiri: "Kyaaaaaaaaaaaa!!!"
+TP
+GS 1 0
+GS 2 0
+SEF 109 0
+They ran away.
+TP
+
+I was left behind......naked......
+TP
+
+Taichi: "......hu."
+TP
+
+Tears in the corners of my eyes.
+TP
+
+GL 3 TCMM0011
+GP 3 225 0
+GI 3 1
+WVP 0 vfCCC4003msa000
+Misato: "Fuaaa, now for another day of hard work......nn?"
+TP
+GL 3 TCMM0004
+GI 3 0
+WVP 0 vfCCC4003msa001
+Misato: "Kyaaaaaaaaaaaaaaaaaaa!!?"
+TP
+GO 3 1
+Judging by that reaction, she's a virgin.
+TP
+
+Taichi: "Hu."
+TP
+
+Suffer......
+TP
+
+Taichi: "Uu! Uu! Uu!"
+TP
+
+I decided to cry.
+TP
+WVP 2 se080 1 0
+*whoosh!*
+TP
+
+
+A bath towel was placed on me.
+TP
+GL 1 TCYM0000
+GP 1 180 0
+GI 1 0
+WVP 0 vfCCC4003mki030
+Miki: "......weeell, sorry about running away."
+TP
+
+WVP 0 vfCCC4003mki031
+Miki: "That was too strong a stimulus for a maiden. Here you go."
+TP
+
+New underwear and my uniform.
+TP
+
+Taichi: "Uu! Miki......such a good girl."
+TP
+
+I put them on.
+TP
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4003mki032
+Miki: "Now that you're clean, that looks great."
+TP
+
+Taichi: "My whole body stings though."
+TP
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4003mki033
+Miki: "Kiri-chiii, Mimi-sempai, I'm doneee."
+TP
+
+WVP 0 vfCCC4003kri023
+Kiri: "......reallyyy?"
+TP
+
+They both came out terrified.
+TP
+
+WVP 0 vfCCC4003mki034
+Miki: "So, let's start the club."
+TP
+
+She smiled brightly.
+TP
+
+GL 0 bgcc0000a
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+SEF 109 1
+And then we devoted ourselves to club activities.
+TP
+
+Aaah, it was this easy.
+TP
+
+Unity.
+TP
+
+What was that campout I labored to carry out?
+TP
+
+Was that a bad way to do it? Or was I too forceful?
+TP
+
+How should I touch people?
+TP
+
+I don't understand any of it.
+TP
+
+WVS 1 1
+
+
+
+RET

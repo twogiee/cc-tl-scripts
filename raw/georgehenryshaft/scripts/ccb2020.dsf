@@ -1,0 +1,558 @@
+
+
+
+WVP 1 bgm005.ogg 0 0 0
+
+GL 0 bgcc0002c
+GS 0 1
+SEF 155 1
+
+//庭で炊飯の用意をする。
+In the garden to prepare for cooking.
+TP
+
+//米が食いたくなった。
+//I wanted to eat come. We love come in Japan.
+I wanted to eat rice.
+TP
+
+//電子ジャーは使えないので、飯ごうで炊くのだ。
+Since I can't use the rice cooker (AKA Electron Jar), I cook it with camping utensils.
+//Specified. Bit of trivia never hurts dem readers' closed mind. Haught! Notice the ever ambiguous "cannot use". Of course it means they don't work. Of course. -GHS
+TP
+
+//ここでおいしいごはんの炊き方をば。
+Here are instructions to cook delicious rice:
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+//①自分を信じる
+> 
+ 
+ 
+> 
+1) Believe in yourself.
+TL
+//②米を量る
+2) Measure the rice.
+TL
+//③米の一粒一粒が尊い命を持っている
+3) The rice contains holy lives, grain by single
+   grain.
+TL
+//④その無数の命で、人は生きていく
+4) On those countless lives people will live on.
+TL
+//⑤だがどの命もやがては大地に還るだろう
+5) However, all life will before long return to
+   its home the earth.
+TL
+//⑥大地は命に等しく、命もまた大地に等しい
+6) The earth is alike life, and life is itself
+   equal to the earth.
+TL
+//⑦いずれ、新たな命を生み出すために―――
+7) For the sake of someday creating new life---
+TL
+//⑧長編ＳＦ小説『ガイアの旅』完
+8) Long form SF novel Gaia's Voyage ～FIN～
+//It lasts only seven sentences and seems to be somewhat freaky. -GHS
+TP
+
+//⑨米を研ぎ、２０分ほど水につける
+> 
+ 
+ 
+ 9) Polish the rice and let it soak in the water
+    for about 20 minutes.
+//Going by http://en.wikipedia.org/wiki/Rice_cooker#Cooking_rice_with_an_electric_rice_cooker as I believe he's just applying the steps to this (plus insanity) -GHS
+TL
+//⑩夏場は逆にすげー辛いカレー食いたいよね
+10) I wanna rebel to this Summer season and eat
+    some waaay hot curry!
+TL
+//⑪炊く
+11) Begin cooking.
+TL
+//⑫炎をじっと凝視しつつ危険な思想に身を浸すか自分をかばって死んだ戦友のことを思い出す（二択）
+12) As the gaze fixes straight on the flame,
+    immerse yourself into a dangerous ideology or
+    remember the comrades-in-arms who died to
+    protect you (pick either).
+//See CCA0012. -GHS
+TL
+//⑬炊けたら逆さまにして１０分ほどむらす
+13) Once cooked, turn upside down and steam for
+    about ten minutes.
+//Unsure how he'd do this. -GHS
+TL
+//⑭激ウマライスここに爆　誕
+14) Seriously Delicious RAISU has here its
+    explosive birth.
+//no idea why that space. 7x2 steps. -GHS
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+//太一「できた」
+Taichi: "Done."
+TP
+
+GL 1 TCKT0006c
+GP 1 230 0
+GI 1 1
+WVP 0 vfccb2020fyu000
+//冬子「……太一、よかった……そこにいたんだ」
+Touko: "...Taichi, I'm so glad... you were here."
+TP
+
+//冬子がやってきた。
+Touko came around,
+TP
+
+//不安そうな顔。
+unease on her face.
+TP
+
+//なぜか目尻が赤い。
+Red in the corner of the eyes for some reason.
+TP
+
+//太一「よ、起きたな」
+Taichi: "Oh, woken up have you."
+TP
+
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfccb2020fyu001
+//冬子「…………ん」
+Touko: "......nh."
+TP
+
+//神妙に頷く。
+Docile nod.
+TP
+
+//寄ってきて、背後から首に腕をまわしてきた。
+Approaching me, she wraps an arm around my neck from behind.
+TP
+
+//きゅっ
+Squeeze.
+TP
+GL 1 TCKT0006c
+GI 1 0
+
+WVP 0 vfccb2020fyu002
+//冬子「……ねぇ？」
+Touko: "...well?"
+TP
+
+//耳元で囁かれる。
+Whispered in the ear.
+TP
+
+//首をまわして、キスをする。
+Turning my neck, we kiss.
+TP
+
+//さっそく舌を引き寄せて……。
+I immediately draw in her tongue...
+TP
+
+WVP 0 vfccb2020fyu003
+//冬子「ちょっ……だめっ」
+Touko: "Pch... don't!"
+TP
+
+//唇を引きはがす。
+She pulls her lips off mine.
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfccb2020fyu004
+//冬子「……こういう時は、ついばむみたいのでいいのっ」
+Touko: "...at times like these, it's better if it's like pecking."
+TP
+
+//太一「ふーん」
+Taichi: "Uhhh-huh."
+TP
+
+
+GL 1 TCKT0006c
+GI 1 0
+WVP 0 vfccb2020fyu005
+//冬子「じゃ、やりなおし。フレンチキス」
+Touko: "So, let's redo. French kiss."
+TP
+
+//太一「フレンチキス？」
+Taichi: "French kiss?"
+TP
+
+WVP 0 vfccb2020fyu006
+//冬子「そうよ？」
+Touko: "right?"
+TP
+
+//太一「じゃあ」
+Taichi: "So then,"
+TP
+
+//ちうっ
+Pchk.
+TP
+
+//最初から全力。
+Full strength from the beginning.
+TP
+
+GL 1 TCKT0004c
+GI 1 0
+
+WVP 0 vfccb2020fyu007
+//冬子「っっ！？」
+Touko: "!!!?"
+TP
+GL 1 TCKT0005c
+GI 1 0
+
+//ぬろっ、ぬろろっ、ちゅるっ、れろれろん、じゅるるるるるるる～～～っ
+Schlk, slchkchkh, pchrh, hRhrHnh, schlLLLLLLLL～～～!
+//ew るx7 -GHS
+TP
+
+//口唇嬲り。
+I tease (3P-style) her lips.
+//嬲 See CCA0015 -GHS
+TP
+
+//ちゅっぽん、と舌を引き抜く。
+I lure out her tongue with pchuukpchk.
+TP
+
+
+GL 1 TCKT0006c
+GI 1 0
+WVP 0 vfccb2020fyu008
+//冬子「…………」
+Touko: "......"
+TP
+
+//発情していた。
+Sexual urges arose.
+TP
+
+//太一「……する？」
+Taichi: "...wanna?"
+TP
+
+
+
+
+GL 1 TCKT0002c
+GI 1 0
+WVP 0 vfccb2020fyu009
+//冬子「そ、そんら元気ないわよっ」
+Touko: "Tha-, donn' have the streng'h for that!"
+TP
+
+//少し呂律が怪しかった。
+The way she articulated that was a little suspicious.
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+WVP 0 vfccb2020fyu010
+//冬子「……下着かえたのに……」
+Touko: "...and I had just changed underwear..."
+TP
+
+//うわ、今のだけで濡れたのか。
+Whoa, she got wet just from that one?
+TP
+
+WVP 0 vfccb2020fyu011
+//冬子「フレンチって……言ったのに……」
+Touko: "French... I even told you..."
+TP
+
+//太一「だから今みたいのがフレンチキス」
+Taichi: "And that's why we were doing a French Kiss right there."
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+WVP 0 vfccb2020fyu012
+//冬子「え……そうなの？」
+Touko: "Eh... we were?"
+TP
+
+//太一「そうだよ。深々と舌を絡め、お互いの口を性器のように淫猥に蠢かせ貪り合うのがフレンチ・キスさ」
+//※言い過ぎ
+Taichi: "Indeed. For a supremely deep entanglement of tongues while indecently gorging in wriggling and squirming as if the mouths were the partner's genitalia is what a French Kiss is."
+* Exaggeration
+//The console version is about starfishes. Thanks for the reminder of Yusa's mom's hands as well as a gratuitous Kinoko Nasu near-reference, Tanaka. That'll help. -GHS
+TP
+
+//太一「だからフレンチ・トーストとか、それはもう下っ品な食べ物なんだよ」
+Taichi: "And that is why the French Toast, for example, is also a most indecent food!"
+//French Bread is fine, provided its Melted with Blood. Totally a reference... -GHS
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+WVP 0 vfccb2020fyu013
+//冬子「やだ、よく食べてた……」
+Touko: "It can't, I used to always eat that..."
+TP
+
+//恥じらい。
+Shy blush.
+TP
+GL 1 TCKT0006c
+GI 1 0
+
+WVP 0 vfccb2020fyu014
+//冬子「キャビアのっけて」
+Touko: "With caviar on top."
+TP
+
+//太一「キャビアのことはもういい」
+Taichi: "Let's just forget about the caviar."
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+WVP 0 vfccb2020fyu015
+//冬子「……軽いキスはなんて言うの？」
+Touko: "...what do you call a light kiss?"
+TP
+
+//太一「んー、ソフトキスかな」
+Taichi: "Hmmm, just a soft kiss I guess."
+//Tweaked due to language differences. -GHS
+TP
+GL 1 TCKT0006c
+GI 1 0
+WVP 0 vfccb2020fyu016
+//冬子「じゃあ、それ、して」
+Touko: "Then, that one, let's."
+TP
+
+//太一「ん、いいよ」
+Taichi: "Mh, it's fine."
+TP
+
+//唇を重ねる。
+Lips overlap,
+TP
+
+//いじわるはナシで。
+with no mean intent.
+TP
+
+WVP 0 vfccb2020fyu017
+//冬子「……ん」
+Touko: "...nh."
+TP
+
+//甘酸っぱい雰囲気になった。
+The mood became sweet and sour.
+//To better connect with the Young Adult Cadets and all that crap. -GHS
+TP
+
+//男はこういうムードが性欲と直結するから、引き際が肝心だ。
+Because men directly connect this kind of mood to their libido, it is essential to know when to quit.
+//See above, I guess. -GHS
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2020fyu018
+//冬子「いいにおい」
+Touko: "Nice smell."
+TP
+
+//太一「ハラペコですか？」
+Taichi: "Tummy is empty perhaps?"
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+WVP 0 vfccb2020fyu019
+//冬子「…………うん」
+Touko: "......yeah."
+TP
+
+//少しだけ照れがある。
+There is only a bit of embarrassment.
+TP
+
+//はじらいは、どれだけあってもいいと思う。
+However much shyness, I thought, would not have been a problem.
+TP
+
+//太一「じゃあ食べよう」
+Taichi: "So, let's eat."
+TP
+//GL 1 TCKT0000c
+GL 1 TCKT0006c
+//HACK moe Touko instead -GHS
+GI 1 0
+
+WVP 0 vfccb2020fyu020
+//冬子「すごい、ごはんだ」
+Touko: "Amazing, it's rice!"
+TP
+
+//太一「少なくとも電子ジャーよりはうまい……かも」
+Taichi: "At least it's tastier than with the cooker at least... maybe."
+TP
+
+//最近の電子ジャーも凄いからな。
+The latest models of cookers have been very good after all.
+//Criticism of older models of electric cookers? Remember it's 1998. Maybe this? "In the 1990s, China started-mass producing economical electrical rice cookers with limited functions and exporting them to many countries. Japanese makers have been attempting to compete by seeking a niche in models with added values by increasing the number of features of their products." http://en.wikipedia.org/wiki/Rice_cooker -GHS
+TP
+
+//太一「おかずはレトルトカレーと缶詰です」
+Taichi: "Side dishes are retort pouch curry and canned food."
+TP
+
+WVP 0 vfccb2020fyu021
+//冬子「うん、いいよ」
+Touko: "Yes, it's fine."
+TP
+
+//二人で食べた。
+The two of us eat.
+TP
+
+GL 1 TCKT0004c
+GI 1 0
+//HACK sweatdrop Touko -GHS
+
+WVP 0 vfccb2020fyu022
+//冬子「あ、あつ……あちち」
+Touko: "Ah, hot... hott't't!"
+TP
+
+//太一「猫舌だなぁ」
+Taichi: "Cat's tongue yours."
+TP
+
+GL 1 TCKT0006c
+GI 1 0
+//HACK moe Touko -GHS
+
+
+WVP 0 vfccb2020fyu023
+//冬子「ベロ、弱いの……」
+Touko: "Tongue's weak..."
+TP
+
+//太一「確かに弱いね」
+Taichi: "Definitely weak."
+TP
+
+//いろいろと。
+In many many ways.
+TP
+
+//さっと赤面する冬子。
+Touko just puffs into a blush.
+TP
+
+//珍しく口答えしない。
+Rare that she doesn't have a retort.
+TP
+
+//太一「その弱点がある限り、キスするたびに下着汚れちゃうね」
+Taichi: "As long as that weak spot remains, every time you kiss you will soil your underwear won't you."
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+WVP 0 vfccb2020fyu024
+//冬子「う、う、う～」
+Touko: "Ngh, ngh, nghhh～"
+TP
+
+//スプーンをくわえたまま、悔しがる。
+Regret with spoon still in her mouth.
+//Seems she tried to gulp down some curry to show him wrong and burned herself. -GHS
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+WVP 0 vfccb2020fyu025
+//冬子「……ふ、不覚～っ」
+Touko: "...hFuh, blunder!"
+//
+TP
+
+//太一「わはは」
+Taichi: "Wahah!"
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+WVP 0 vfccb2020fyu026
+//冬子「……でも、おいしい」
+Touko: "...but delicious."
+TP
+
+//太一「他愛のないレトルトと缶詰だよ」
+Taichi: "Retort pouch and canned food are no trifles."
+TP
+GL 1 TCKT0005c
+GI 1 0
+WVP 0 vfccb2020fyu027
+//冬子「だから……好きな人と食べるとおいしいのよ。どんなものでも」
+Touko: "I told you... when you're eating with someone you like it's tasty. Whatever you're eating."
+//PCP CCB2010
+TP
+
+//太一「そっか」
+Taichi: "So it is."
+TP
+
+WVP 0 vfccb2020fyu028
+//冬子「ずっと、こうだったらいいのに」
+Touko: "But I'd love it if we were like this forever."
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//夜は静かに更けていく。
+The evening wears on in silent stillness.
+TP
+
+//本当に、人の気配もなく。
+Without, truly, any sign of people.
+TP
+WT 500 0
+WT 500 1
+
+
+WVS 1 1
+
+RET

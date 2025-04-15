@@ -1,0 +1,1831 @@
+
+
+GL 0 bgcc0000a
+GS 0 1
+SEF 109 0
+
+And then, Sunday.
+//CP_S ccb0022
+TP
+
+
+The roof.
+TP
+
+
+All the preparations had been made.
+TP
+
+
+......but it wasn't meant to be.
+TP
+
+
+
+GL 0 bgcc0007c
+GS 0 1
+SEF 109 0
+The antenna had been destroyed.
+//CP_F
+TP
+
+
+There are only Åweight people,Åx and yet...
+//PCP
+TP
+
+
+She was at the base of the destroyed spire.
+//CP
+TP
+
+
+There she was crouched down.
+TP
+
+
+I tried to put my hand on her shoulder, but she dodged it.
+TP
+
+
+Tomoki and Sakuraba arrived.
+TP
+
+
+Touko arrived.
+TP
+
+
+Sakuraba punched Tomoki.
+TP
+
+
+Tomoki's mouth looked unnaturally bent because of it.
+TP
+
+WVP 2 se044 1 0
+The door opened with an ill omen, and Kiri and Miki came out.
+TP
+
+GL 0 evcc0024
+$CGevcc0024 = 1
+GS 0 1
+GS 1 0
+SEF 152 0
+
+Kiri possessed the power to cause bloodshed.
+TP
+
+
+After that, there was only falling down.
+TP
+
+
+The truth was made red.
+TP
+
+
+Betrayed bonds.
+TP
+
+
+A fragile unity more ephemeral than a vision.
+TP
+
+
+GL 5 evcc0008a
+$CGevcc0008a = 1
+GS 5 1
+SEF 10 0
+Wrong.
+TP
+
+
+Wrong, wrong, wrong.
+TP
+
+
+I hadn't anticipated a breaking off.
+TP
+GL 0 evcc0025
+$CGevcc0025 = 1
+GL 5 bgcc0000e
+WVP 2 SE094 1 0
+GI 5 0
+GS 0 1
+GS 5 0
+SEF 109 0
+
+Touko died.
+TP
+
+
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+GL 0 evcc0025
+$CGevcc0025 = 1
+GI 0 0
+Noise heightened.
+TP
+
+GL 0 evcc0024
+$CGevcc0024 = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+
+Kiri directed animosity toward me.
+TP
+
+
+For a moment, I wanted to kill Kiri.
+TP
+
+
+GL 0 evcc0026
+$CGevcc0026 = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+
+Okay, it's over---
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+WT 1000 0
+//If it's not already obvious, you probably should be looking at these background or editing in-game due to the extremely rapid changes above and a few rather unexpected ones below. Å`IX
+
+
+WVP 3 SE001 0 0
+
+GL 0 bgcc0008s
+GS 0 1
+SEF 10 1
+I ran down the hallway.
+TP
+
+
+The noise of students.
+TP
+
+
+Countless footsteps.
+TP
+
+
+The sound of a door opening.
+TP
+
+
+The sound of a bell.
+TP
+
+
+WVS 3 0
+
+
+
+
+GL 0 bgcc0008
+GS 0 1
+SEF 10 1
+Silence.
+TP
+
+
+Silently.
+TP
+
+
+There shouldn't be any communication.
+TP
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+WVP 1 bgm021.ogg 0 0 0
+
+GL 1 TCHY0000a
+GP 1 180 0
+GI 1 1
+WVP 0 vfCCD0001you175
+Youko: "I think Taichi lived well."
+TP
+
+
+WVP 0 vfCCD0001you176
+Youko: "You've continued to search for the possibility dozens, hundreds and thousands of times."
+TP
+
+GL 1 TCHY0001a
+GI 1 0
+
+WVP 0 vfCCD0001you177
+Youko: "But within them, there wasn't a single one of the happy ends that Taichi desired."
+TP
+
+
+WVP 0 vfCCD0001you178
+Youko: "None of them could be called anything but bad ends."
+TP
+
+
+WVP 0 vfCCD0001you179
+Youko: "Nothing but bad ends."
+TP
+
+
+WVP 0 vfCCD0001you180
+Youko: "......you understand now, don't you?"
+TP
+
+
+Taichi: "............"
+TP
+
+
+She began following me, along with the smell of blood.
+TP
+
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+
+
+
+
+
+
+
+
+
+Taichi: "Why did you kill them?"
+TP
+
+
+GL 1 TCHY0001a
+GI 1 1
+WVP 0 vfCCD0001you183
+Youko: "......I'm the only one for you."
+TP
+
+
+GL 1 TCHY0000a
+GI 1 1
+WVP 0 vfCCD0001you184
+Youko: "I wanted you to know that."
+TP
+
+
+WVP 0 vfCCD0001you185
+Youko: "Let's end this already."
+TP
+
+GL 1 TCHY0001a
+GI 1 0
+
+WVP 0 vfCCD0001you186
+Youko: "We should live together now."
+TP
+
+
+Taichi: "I...can't do that......"
+TP
+
+GL 1 TCHY0000a
+GI 1 0
+
+WVP 0 vfCCD0001you187
+Youko: "I see."
+TP
+
+
+WVP 0 vfCCD0001you188
+Youko: "Then, I'll wait, however many times it takes."
+TP
+
+WVS 1 1
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 1
+WT 1000 0
+WT 2000 1
+
+
+
+
+GL 0 bgcc0000c
+GS 0 1
+SEF 10 1
+My days in the mansion had been immersed in dark impurity.
+TP
+
+
+My form reflected in the window was that of a girl.
+TP
+
+
+Obviously.
+TP
+
+
+Because I was cross-dressing.
+TP
+
+
+I had a roommate.
+TP
+
+
+Hasekura Youko.
+TP
+
+
+It was her.
+TP
+
+
+And during the night events, we were favored.
+TP
+
+
+It was a good place for child abuse.
+TP
+
+
+But that wasn't it.
+TP
+
+
+The excuse was that Youko-chan and I were under their protection.
+TP
+
+
+Every night, we were hurt by the speartip of the animal passions people possessed.
+TP
+
+
+Every day, every day.
+TP
+
+
+There were people being hurt, and people hurting them.
+TP
+
+
+And then we saw the end of someone being hurt.
+TP
+
+
+A husband and wife torn apart.
+TP
+
+
+We could only endure it.
+TP
+
+
+We only expected to live through it.
+TP
+
+
+We lived, with our entire hearts and bodies covered in wounds.
+TP
+
+GL 0 evcc0001s
+$CGevcc0001s = 1
+GS 0 1
+SEF 10 1
+And then, the contract.
+TP
+
+
+An alliance to live carved into our hearts.
+TP
+
+
+With just that vow, we had enough strength to live.
+TP
+
+
+If only that man hadn't come---
+TP
+
+
+
+The outrages became more radical.
+TP
+
+
+We devised a plan.
+TP
+
+
+The battle strength of two children.
+TP
+
+
+And knowledge of the land.
+TP
+
+
+The important part was to get them all in one fell swoop.
+TP
+
+
+They numbered too many for us to defeat individually.
+TP
+
+
+We needed an equation to make the impossible possible.
+TP
+
+
+We made time, prepared tools, trained, observed, altered, investigated, deferred, purchased, revised, searched, decided, withdrew and kissed.
+TP
+
+
+We were going to grant them ruin, equal to the cost of all the dignity they'd stolen.
+//Not too sure, but the other way just didn't flow right off the tip of your tongue when reading it.-Spin
+TP
+
+
+I also disposed of her chastity before it was stolen by them.
+TP
+
+
+We were one mind and body, siblings, connected people.
+TP
+
+
+Our mutual correspondence had no fraternization.
+TP
+
+
+It truly was disposal.
+TP
+
+
+Even as the plan stagnated, we steadily framed it.
+TP
+
+
+And then, the day we carried it out.
+TP
+
+GL 0 evcc0063
+$CGevcc0063 = 1
+GS 0 1
+SEF 10 1
+Fourteen dead.
+TP
+
+
+
+The children became beasts.
+//lol, I like how Kiri is on the ground with her crossbow still.-Spin
+TP
+
+
+
+And then......we were released.
+TP
+
+
+As victims.
+TP
+
+
+Yes, as a tender boy and girl.
+TP
+
+
+A pitiful sacrifice.
+TP
+
+
+The culprit......
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+
+SEF 109 1
+
+Taichi: "A really huge......and bald......man. That's who it was."
+TP
+
+The monstrously thrilling case was confined in a deep, dark labyrinth.
+TP
+
+GL 0 bgcc0016
+GS 0 1
+SEF 152 0
+Society always maintained it at a fixed temperature.
+TP
+
+
+Why did I come here?
+TP
+
+
+Last Sunday, on the way back from the campout, I walked by this way, but I'd never once come here.
+//Should be more clear that he was only in the general area but not in that exact spot before.-Spin
+TP
+
+
+I want to return.
+TP
+
+
+That's right, I want to flee.
+TP
+
+
+From this world with no one in it.
+TP
+
+
+From this massacred world.
+TP
+
+
+Because, we...
+TP
+
+
+I pushed through the grass.
+TP
+
+Because I passed through here.
+TP
+
+
+Would 'passed through' be misleading?
+TP
+
+
+All I did was squint my eyes.
+TP
+
+
+At that time...
+TP
+
+
+The campout I'd forcefully arranged ended in failure, and everyone was walking with frigid feelings.
+TP
+
+
+A summer break far longer than the general education institution consumed our last few days.
+TP
+
+
+Everyone must have been feeling bitter.
+TP
+
+
+So was I.
+//Feels like this should the imperfect past tense to me due to the "have been feeling" in the last line... ~Bal
+TP
+
+
+I took the lead as if fleeing.
+TP
+
+
+I wanted to flee.
+TP
+
+
+From that which my eyes captured.
+TP
+
+
+I instinctively felt an emptiness on the other side.
+TP
+
+
+At the time I momentarily thought about becoming alone.
+TP
+
+
+I squinted my eyes.
+TP
+
+
+When I did, the world shifted like an optical illusion.
+TP
+
+
+Taichi: "......"
+TP
+
+
+I am one who observes two worlds.
+TP
+
+
+And then, I came to know that the world was far more absurd and nonsensical than I'd ever thought.
+TP
+GL 0 bgcc0016
+GS 0 1
+SEF 109 0
+
+
+I was struck by frustration, and kicked the hokora.
+TP
+
+
+The door opened from the shock.
+TP
+
+
+Even for a prankster like me, this was the first time I'd ever opened it.
+TP
+
+
+I peeked inside.
+TP
+
+
+I was shocked.
+TP
+
+
+Taichi: "What...is this......?"
+TP
+
+
+In there were piled up,
+TP
+
+
+
+Stacks of notebooks reaching up to the ceiling.
+TP
+
+
+
+Taichi: "This is......?"
+TP
+
+
+University notebooks had been shoved in here until there was no more room.
+TP
+
+
+I felt a faint coldness, and tried pulling out one of them.
+TP
+
+
+I was shocked.
+TP
+
+
+Isn't this my handwriting?
+TP
+
+
+Aren't they all mine!?
+TP
+
+
+Taichi: "This one too......ah, and this one......"
+TP
+
+
+Even though I have no memory of writing them...
+TP
+
+
+I followed my handwriting.
+TP
+
+
+One notebook......two notebooks......
+TP
+
+
+Confusion swelled up as I continued reading.
+TP
+
+
+Seven notebooks......eight notebooks......
+TP
+
+
+My doubt surpassed a certain point and within moments formed an organic combination with my brain.
+TP
+
+
+Taichi: "......we're......repeating?"
+TP
+
+
+And, while I was loving someone, bringing them back and reconciling with them......I desired a blessed conclusion of a fixed probability with everyone in unity.
+TP
+
+
+The world will end after one week.
+TP
+
+
+Just that little time.
+TP
+
+
+Since I know we're repeating, and being reset---
+TP
+
+
+Friendship, bonds, unity.
+TP
+
+
+The word for it doesn't matter.
+TP
+
+
+I desired Åwthat.Åx
+TP
+
+
+The result......is a cruel thing.
+TP
+
+
+A happy end that shouldn't exist.
+TP
+
+GL 1 TCCN0102
+GP 1 180 0
+GI 1 1
+
+WVP 1 bgm023.ogg 0 0 0
+
+WVP 0 vfCCD0001nnk045
+Nanaka: "......Taichi."
+TP
+
+
+Taichi: "Nanaka......?"
+TP
+
+
+The girl I met at the start of the week.
+TP
+
+
+But her existence is shown by the notebooks.
+TP
+
+WVP 0 vfCCD0001nnk046
+Nanaka: "Taichi."
+TP
+
+
+Taichi: "......what is this......?"
+TP
+
+
+Taichi: "What kind of situation is this?"
+TP
+
+
+Taichi: "......everyone......died......"
+TP
+
+
+Taichi: "But, soon all of it won't have happened, and we're just going to repeat it from the top?"
+TP
+
+
+Taichi: "What the hell is that!?"
+TP
+
+
+Taichi: "Far too many attempts to count......"
+TP
+
+
+Just the number of notebooks in the pile...no, if we include the unrecorded possibilities, it'd be several times this many.
+TP
+
+
+Taichi: "Is this it?"
+TP
+
+
+I stuck out my palm, with blood still stuck to it.
+TP
+
+
+Taichi: "Is this the only ending there is!!?"
+TP
+
+
+Taichi: "Isn't there......a slightly better...... conclusion?"
+TP
+
+
+Taichi: "How many times have I repeated this?"
+TP
+
+
+Taichi: "How many times will I repeat it?"
+TP
+
+
+Taichi: "Just how many mistakes do I have to make!?"
+TP
+
+
+Taichi: "How many times...do I have to pass through this destruction......to reach..."
+TP
+
+
+Taichi: "......how many times......will everyone......"
+TP
+
+
+I hit the trunk of a tree.
+TP
+
+
+Taichi: "Even though I needed everyone!"
+TP
+
+
+Taichi: "......have I ever once ended in a happy way?"
+TP
+
+
+Taichi: "Answer me. You know, right? You've got some amazing power, don't you?"
+TP
+
+
+Taichi: "Aren't you the boss of this world!!?"
+TP
+
+
+I glared at her.
+TP
+
+
+The girl avoided my gaze with a sad face.
+TP
+
+GL 1 TCCN0101
+GI 1 0
+
+WVP 0 vfCCD0001nnk047
+Nanaka: "Taichi......"
+TP
+
+
+Taichi: "Answer me."
+TP
+
+GL 1 TCCN0100
+GI 1 0
+
+WVP 0 vfCCD0001nnk048
+Nanaka: "Hey, does it really have to be a happy end?"
+TP
+
+
+WVP 0 vfCCD0001nnk049
+Nanaka: "Going out with someone individually, and becoming happy."
+TP
+
+
+WVP 0 vfCCD0001nnk050
+Nanaka: "Playing with friends."
+TP
+
+GL 1 TCCN0102
+GI 1 0
+
+WVP 0 vfCCD0001nnk051
+Nanaka: "It's okay to keep on playing here forever."
+TP
+
+
+WVP 0 vfCCD0001nnk052
+Nanaka: "In this world where you can redo anything, I think Taichi could live without stress."
+TP
+
+GL 1 TCCN0100
+GI 1 0
+
+WVP 0 vfCCD0001nnk053
+Nanaka: "Wouldn't that be nice?"
+TP
+
+
+WVP 0 vfCCD0001nnk054
+Nanaka: "Or is that something you can't do?"
+TP
+
+
+WVP 0 vfCCD0001nnk055
+Nanaka: "I'm here too, after all."
+TP
+
+
+WVP 0 vfCCD0001nnk056
+Nanaka: "Is it?"
+TP
+
+
+Taichi: "......the other side of that happiness is that there's a possibility I'll hurt everyone."
+TP
+
+
+Taichi: "There are times she does poorly, thinking I won't do it."
+TP
+
+
+Taichi: "A happy week and an unhappy week are equally probable."
+TP
+
+
+Taichi: "The two sides are like one; there are both disasters and blessings."
+TP
+
+
+Taichi: "Any number of blessings is fine. But sins......"
+TP
+
+
+I pulled down a pile of notebooks.
+TP
+
+
+They broke down like dominoes and covered part of the ground.
+TP
+
+
+Taichi: "The sins will be recorded here for eternity, right?"
+TP
+
+
+Taichi: "Knowing that......how can I live without stress......?"
+TP
+
+
+Taichi: "What's nice about that?"
+TP
+
+
+Taichi: "......this is......hell."
+TP
+
+
+GL 1 TCCN0100
+GI 1 0
+WVP 0 vfCCD0001nnk057
+Nanaka: "......Taichi."
+TP
+
+
+Taichi: "What's fun about hurting your friends?"
+TP
+
+
+Taichi: "Why do I always leap out when I need to hold myself back!?"
+TP
+
+
+Taichi: "What part of me is noble!?"
+TP
+
+
+Taichi: "If you say that the world is being reset, then why are the sins I've committed up to now being recorded here!!?"
+TP
+
+
+Taichi: "What Yutaka did to me will never become fiction."
+TP
+
+
+Taichi: "Sins continue to exist forever, you know."
+TP
+
+
+Taichi: "And then, as long as there are people, my sins will keep increasing."
+TP
+
+
+Taichi: "That's why I wanted to go away somewhere on the way home from the campout."
+TP
+
+
+Taichi: "I wanted to go to a place with only me."
+TP
+
+
+Taichi: "......why was everyone else mixed into that?"
+TP
+
+
+GL 1 TCCN0102
+GI 1 0
+WVP 0 vfCCD0001nnk058
+Nanaka: "About that, Taichi..."
+TP
+
+
+A face of sympathy.
+TP
+
+
+WVP 0 vfCCD0001nnk059
+Nanaka: "That's because......Taichi looked at everyone."
+TP
+
+
+Taichi: "......what did you say?"
+TP
+
+
+WVP 0 vfCCD0001nnk060
+Nanaka: "Taichi, when you were pulled in here, didn't you look at everyone?"
+TP
+
+
+WVP 0 vfCCD0001nnk061
+Nanaka: "......afraid of becoming alone, you looked behind you, didn't you?"
+TP
+
+GL 1 TCCN0101
+GI 1 0
+
+WVP 0 vfCCD0001nnk062
+Nanaka: "Taichi observed everyone, and pulled them in here."
+TP
+
+
+Taichi: "I...did that......?"
+TP
+
+GL 1 TCCN0102
+GI 1 0
+
+WVP 0 vfCCD0001nnk063
+Nanaka: "Didn't you say it too?"
+TP
+
+
+WVP 0 vfCCD0001nnk064
+Nanaka: "That you need other people."
+TP
+
+
+Taichi: "In order to hurt them?"
+TP
+
+GL 1 TCCN0101
+GI 1 0
+
+WVP 0 vfCCD0001nnk065
+Nanaka: "No, not that."
+TP
+
+GL 1 TCCN0100
+GI 1 0
+
+WVP 0 vfCCD0001nnk066
+Nanaka: "In order to remain yourself---"
+TP
+
+
+Taichi: "I...hate myself......"
+TP
+
+GL 1 TCCN0102
+GI 1 0
+
+WVP 0 vfCCD0001nnk067
+Nanaka: "Don't say that, you idiot!"
+TP
+
+
+She hit me.
+TP
+
+
+I didn't feel any impact at all, but my heart shook. Faintly.
+TP
+
+
+WVP 0 vfCCD0001nnk068
+Nanaka: "Idiot, idiot......"
+TP
+
+
+She hit my chest several times.
+TP
+
+
+Taichi: "......sorry."
+TP
+
+
+With both her fists lying on my chest, Nanaka said,
+TP
+
+GL 1 TCCN0101
+GI 1 0
+
+WVP 0 vfCCD0001nnk069
+Nanaka: "You certainly are raising something scary in your heart."
+TP
+
+
+WVP 0 vfCCD0001nnk070
+Nanaka: "Humans aren't noble after all."
+TP
+
+
+WVP 0 vfCCD0001nnk071
+Nanaka: "And the world isn't beautiful."
+TP
+
+GL 1 TCCN0102
+GI 1 0
+
+WVP 0 vfCCD0001nnk072
+Nanaka: "But, doesn't Taichi have just one beautiful thing?"
+TP
+
+
+Taichi: "......I don't have anything. I'm just black. My heart specializes in hurting people; it isn't beautiful at all."
+//lol, 4chan is going to have a field day with the whole "black" and "hurting people" thing.-Spin
+TP
+
+GL 1 TCCN0100
+GI 1 0
+
+WVP 0 vfCCD0001nnk073
+Nanaka: "But that Taichi is getting flustered like any normal person would."
+TP
+
+
+Taichi: "......"
+TP
+
+
+WVP 0 vfCCD0001nnk074
+Nanaka: "You want to have healthy dreams, and imitate them......without thinking anything, or hurting anyone, just living on. That's what I think."
+TP
+
+
+Taichi: "I'm only thinking that."
+TP
+
+GL 1 TCCN0101
+GI 1 0
+
+WVP 0 vfCCD0001nnk075
+Nanaka: "But, that's an asset."
+TP
+
+GL 1 TCCN0100
+GI 1 0
+
+WVP 0 vfCCD0001nnk076
+Nanaka: "Be a little proud of it."
+TP
+
+
+Taichi: "......I......I..."
+TP
+
+
+WVP 0 vfCCD0001nnk077
+Nanaka: "It's fine if you continue living in this one week forever."
+TP
+
+
+Her kind words echoed in my chest.
+TP
+
+
+No, it's like...
+TP
+
+
+It was as if her voice was being produced from inside my chest.
+TP
+
+
+Something felt nostalgic.
+TP
+
+
+Taichi: "......no."
+TP
+
+
+I shook my head.
+TP
+
+
+Taichi: "......I'll send them back."
+TP
+
+GL 1 TCCN0102
+GI 1 0
+
+WVP 0 vfCCD0001nnk078
+Nanaka: "Back............?"
+TP
+
+
+Taichi: "I can return everyone to their former world......can't I?"
+TP
+
+
+WVP 0 vfCCD0001nnk079
+Nanaka: "Taichi......that's......"
+TP
+
+
+Taichi: "I think I can. I remembered."
+TP
+
+
+Taichi: "How should I put it......that place......"
+TP
+
+
+Taichi: "I think that place is a much easier place to observe at."
+TP
+
+
+Taichi: "It still has this image like a shining crevice."
+TP
+
+
+Taichi: "Though only I can see it."
+TP
+
+
+Taichi: "If I'm in that place, I might just be able to send them back home."
+TP
+
+
+Taichi: "By observing them."
+TP
+
+
+WVP 0 vfCCD0001nnk080
+Nanaka: "Wait, wait a minute!"
+TP
+
+
+WVP 0 vfCCD0001nnk081
+Nanaka: "......you're going to be alone!!?"
+TP
+
+
+Grievous.
+TP
+
+
+On the other hand, I'm horribly calm.
+TP
+
+
+Taichi: "That's...okay."
+TP
+
+
+Nanaka seemed to have lost her words.
+TP
+
+
+Taichi: "The name of the broadcasting channel is Cross Channel after all."
+TP
+
+
+Taichi: "Because I'm Kurosu."
+TP
+
+
+Taichi: "It's a stupid pun, but..."
+TP
+
+
+Taichi: "Isn't communication a technique that exists because we want to connect with others?"
+//Told you, Raide.-Spin
+//If you refuse to "connect with others", the entire purpose of communication falls apart, Spin. - Raide
+TP
+
+
+Taichi: "Phones, wireless, radios, televisions, e-mail, cell phones, conversations, letters."
+TP
+
+
+Taichi: "We can't become one with another. But we can temporarily cross and feel each other."
+TP
+
+
+Taichi: "That's what humans are."
+TP
+
+
+Taichi: "It means their channels are crossing. That's also......"
+TP
+
+
+Taichi: "An exchange of hearts."
+TP
+
+
+Taichi: "You're incredibly sensible. Thanks to that, I finally understand."
+TP
+
+
+Taichi: "I can't cross with anyone---"
+TP
+GO 1 1
+
+Nanaka: "......"
+TP
+
+
+When I held her, I had a reassuring feeling similar to taking a nap in the sunshine.
+//I'm somewhat sure this will get across the same message without sounding as funky.-Spin
+TP
+
+
+Taichi: "Nanaka......?"
+TP
+
+
+WVP 0 vfCCD0001nnk083
+Nanaka: "I'm sorry......that's all I can leave you with......"
+TP
+
+
+Leave me with?
+TP
+
+
+What did she just say?
+TP
+
+
+Taichi: "Leave what?"
+TP
+
+
+But she's no longer here.
+TP
+
+
+Taichi: "Eh?......Nanaka?"
+TP
+
+
+Taichi: "Nanakaaaa!!"
+TP
+
+
+No presence.
+TP
+
+
+She seems to have disappeared perfectly.
+TP
+
+
+A wry smile.
+TP
+
+
+Taichi: "......you're telling me to do it myself."
+TP
+
+
+I returned the notebooks to the hokora.
+TP
+
+
+Taichi: "There's no space for me to enter......"
+TP
+
+
+That's right.
+TP
+
+
+There are the notebooks from the past.
+TP
+
+
+That shows that this hokora is exempt from the time rules.
+TP
+
+
+It must not be a coincidence that the gate and the hokora are close together.
+TP
+
+
+In that case,
+TP
+
+
+I'll sit down behind the hokora.
+TP
+
+
+And---
+
+TP
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 109 0
+
+Taichi: "!?"
+TP
+
+
+Why's it suddenly evening?
+TP
+
+
+Taichi: "What......is this?"
+TP
+
+
+I looked up at the sky.
+TP
+
+
+An increasing density of scarlet.
+TP
+
+
+A deep malicious red was synchronizing with the blood-colored world.
+TP
+
+
+Taichi: "......uu......"
+TP
+
+
+I felt dizzy.
+TP
+
+
+Horribly...dizzy...
+TP
+
+
+I closed my eyes.
+TP
+
+
+My semicircular canals were shaking, as if I'd just gotten off the coffee cups at an amusement park.
+//Reference to aural anatomy. Å`IX
+TP
+
+
+Taichi: "Aaa............"
+TP
+
+
+And then, the world darkened.
+TP
+
+WVS 1 1
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+........................
+TP
+
+
+............
+TP
+
+
+......
+TP
+
+WT 500 0
+WT 1000 1
+
+GL 0 bgcc0016
+GS 0 1
+SEF 109 1
+
+When I woke up, the peculiarly cold morning atmosphere pierced my skin.
+TP
+
+
+Taichi: "This is......"
+TP
+
+
+I climbed up the mountain path.
+TP
+
+
+To a location I could survey from.
+TP
+
+GL 0 bgcc0001
+GS 0 1
+SEF 152 0
+
+Taichi: "No sign of people......"
+TP
+
+
+I have to confirm what day of the week today is.
+TP
+
+
+I went down the mountain.
+TP
+
+
+........................
+TP
+
+GL 0 bgcc0014
+GS 0 1
+SEF 152 0
+
+Taichi: "Ha! Ha!......"
+TP
+
+
+I flew into the Tasaki Shop.
+TP
+
+
+I should be able to confirm the date here.
+TP
+
+
+Taichi: "......September......7th."
+TP
+
+
+That was on the memo most recently put up.
+TP
+
+
+No, that's still not proof.
+TP
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+WT 500 0
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+I flew into the classroom.
+TP
+
+
+At the same time, I lost my words.
+TP
+
+GL 0 evcc0011
+$CGevcc0011 = 1
+GS 0 1
+GS 1 0
+SEF 152 0
+The window seat.
+//PCP_S cca0004
+TP
+
+
+The girl was resting her chin on her hand. She gave me a single glance.
+TP
+
+
+Touko: "......"
+TP
+
+
+With no words, her line of sight moved back outside.
+//CP_F
+TP
+
+
+I had no words for her.
+TP
+
+
+Taichi: "You're alive......"
+TP
+
+
+I covered my eyes.
+TP
+
+
+The girl who, in my memories......died yesterday.
+TP
+
+
+Taichi: "Aaah!......"
+TP
+
+
+I fell to my knees and left my whole body to the numbness coming from my emotions.
+TP
+
+
+Touko faced me as if looking at something queer.
+TP
+
+
+Taichi: "See you later."
+TP
+
+
+I waved to her with a queerly forced smile, and left the classroom.
+TP
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+
+Taichi: "......it's Monday."
+TP
+
+
+I've returned.
+TP
+
+
+I've returned as myself.
+TP
+
+
+GL 0 bgcc0015
+GS 0 1
+SEF 152 0
+I climbed the mountain once again.
+TP
+
+GL 0 bgcc0016
+GS 0 1
+SEF 152 0
+
+I peeked into the right place, but the sense of conjunction had disappeared.
+TP
+
+
+Taichi: "Nn......it's gone?"
+TP
+
+
+That can't be.
+TP
+
+
+I hurriedly searched the surroundings.
+TP
+
+
+Taichi: "......that's it."
+TP
+
+
+I was filled with understanding.
+TP
+
+
+Taichi: "It can only connect at a specific time."
+TP
+
+
+Regardless of the logic, I had to assume that.
+TP
+
+
+In any event, I'll be able to tell on the weekend.
+TP
+
+
+If I can't figure it out, I can just spend another week investigating it.
+TP
+
+
+I took the notebooks out of the hokora.
+TP
+
+
+I'll investigate.
+TP
+
+
+What's going on in this world.
+TP
+
+
+I'll study it.
+TP
+
+
+If there is no flawless happiness, that's just fine.
+TP
+
+
+Having everyone get along was no more than my wish.
+TP
+
+
+When contacting any individual person, there were ways to attain an optimal result.
+TP
+
+
+That will be how I make my living.
+TP
+
+
+Memories live on in my heart.
+TP
+
+
+I can explain it in a single sentence.
+TP
+
+
+I wished.
+TP
+
+
+For a paradise where no one had to be hurt.
+TP
+
+
+Mutsumi-san, I'm going to try and obtain that.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+And then,
+TP
+
+
+And then,
+TP
+
+
+And then---
+TP
+WT 500 0
+
+CALL ndemo0002
+
+
+RET

@@ -1,0 +1,26 @@
+Time flowed on leisurely.
+I spent the remaining time I had left reading books.
+I recently realized that I could read things that I couldn't understand before.
+From now on I'll waste a lot of time and obtain tiny things.
+I just added a week to my repayment time.
+I turned the pages.
+While inputting the rows of text into my brain, I simply wasted time.
+The 『conquest』 was a failure.
+Therefore, there was a need to do it over.
+The convenient reset only occurs on the weekend.
+Passing these days will be a rehearsal for living in my eventual paradise.
+I have to instill time-consuming living habits.
+I looked out the window.
+Though no cicadas cry in this world, there's someone out there somewhere.
+I can't feel them, but that's the truth.
+Someone is out there somewhere.
+That's a blessing.
+My heart, healthily and warmly, tightened up just a little bit.
+And then---
+$B = 1
+IF $SB_FALSE < 151 JMP L_INC
+JMP L_DODGE
+:L_INC
+$SB_FALSE + 1
+:L_DODGE
+IF $SB_FALSE > 149 $B = 2

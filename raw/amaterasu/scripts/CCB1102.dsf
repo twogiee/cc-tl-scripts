@@ -1,0 +1,559 @@
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 1
+
+
+Taichi: "......now then,"
+//CP_S cca0029
+TP
+
+
+WVP 1 bgm015.ogg 0 0 0
+
+
+Since it's before noon, the air temperature isn't that high yet.
+TP
+
+I went to the roof alone.
+//CP_F
+TP
+
+Early morning.
+TP
+
+Sempai ought to get here by afternoon.
+TP
+
+Taichi: "Now,"
+//CP_S
+TP
+
+I got a head start on the work.
+//PCP_F
+TP
+
+For now, there's heavy labor to do.
+TP
+
+Even I could handle transporting heavy objects.
+TP
+
+......
+TP
+
+............
+TP
+
+..................
+TP
+
+I brought some materials to the roof.
+TP
+
+There I came across Tomoki.
+TP
+
+
+GL 1 TCST0000
+GP 1 200 0
+GI 1 1
+
+
+WVP 0 vmCCB1102yki000
+Tomoki: "That you......Taichi?"
+TP
+
+He stared at me in shock.
+TP
+
+Taichi: "Did you come to participate in the club?"
+TP
+
+WVP 0 vmCCB1102yki001
+Tomoki: "......there's no way I'd-"
+TP
+
+Taichi: "Sempai seems to be bothered by that."
+TP
+
+GL 1 TCST0002
+GI 1 0
+
+
+WVP 0 vmCCB1102yki002
+Tomoki: "Eh......?"
+TP
+
+Taichi: "There seems to be a lot of stress building up within her at the moment."
+TP
+
+Taichi: "And it's from family circumstances, right?"
+TP
+
+
+GL 1 TCST0000
+GI 1 0
+
+
+WVP 0 vmCCB1102yki003
+Tomoki: "............"
+TP
+
+Taichi: "And that's why she's being so reckless."
+TP
+
+WVP 0 vmCCB1102yki004
+Tomoki: "You're calling it 'reckless'......"
+TP
+
+Taichi: "Should I have said 'fleeing?'"
+TP
+
+GL 1 TCST0004
+GI 1 0
+
+
+WVP 0 vmCCB1102yki005
+Tomoki: "......"
+TP
+
+A stern expression.
+TP
+
+Taichi: "......well, I do think it should be just between you and her......but honestly, it's hard to avoid asking for your help."
+TP
+
+WVP 0 vmCCB1102yki006
+Tomoki: "......same to you, Taichi. I don't even know why you're helping her."
+TP
+
+Taichi: "What else is there to do?"
+//You're trying to send the message that he's saying that there's nothing to do in a world right then without humans right?-Spin
+TP
+
+Taichi: "Besides......I think doing this sort of thing is important to all of us."
+TP
+
+
+
+I placed the materials on a table.
+TP
+
+I needed some wiring expertise.
+TP
+
+Taichi: "Damn it, I don't get this stuff."
+TP
+
+
+GL 1 TCST0000
+GI 1 0
+
+
+WVP 0 vmcca0029yki000
+Tomoki: "......what are you doing?"
+//CP_S
+TP
+
+Taichi: "Oh, I figured if I did this then she'd say 'Peke-kun, you're amazing!' or 'I'm so moved!' or 'I'm getting wet' and kiss me......or something. Yo, Tomoki-sensei."
+TP
+
+
+GL 1 TCST0005
+GI 1 0
+
+
+WVP 0 vmcca0029yki001
+Tomoki: "She's not going to kiss you."
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+
+WVP 0 vmcca0029yki002
+Tomoki: "This for the club?"
+TP
+
+Taichi: "Yep, yep."
+TP
+
+Tomoki lazily sat down on the ground.
+TP
+
+WVP 0 vmcca0029yki003
+Tomoki: "Here."
+TP
+
+Taichi: "Oh, thanks."
+TP
+
+Canned juice.
+TP
+
+Though it wasn't all that cold.
+TP
+
+WVP 0 vmcca0029yki004
+Tomoki: "......Taichi...why are you so eager to do this?"
+TP
+
+Taichi: "Oh, a serious youth-flavored question."
+TP
+
+GL 1 TCST0003
+GI 1 0
+
+WVP 0 vmcca0029yki005
+Tomoki: "You're making no sense or seaweed."
+TP
+
+Taichi: "That joke was hilarious."
+//CP_F
+TP
+
+
+GL 1 TCST0000
+GI 1 0
+
+
+WVP 0 vmcca0029yki007
+Tomoki: "......why are you working for the club?"
+//CP_S
+TP
+
+Taichi: "Can I ask something too?"
+TP
+
+With a serious face.
+TP
+
+WVP 0 vmcca0029yki008
+Tomoki: "Mm?"
+TP
+
+Taichi: "It has to do with......you and your nee-san. Are you okay with that?"
+TP
+
+
+GL 1 TCST0004
+GI 1 0
+
+
+WVP 0 vmcca0029yki009
+Tomoki: "............"
+TP
+
+Taichi: "It's a serious question."
+TP
+
+WVP 0 vmcca0029yki010
+Tomoki: "......okay. What?"
+TP
+
+Taichi: "Yeah..."
+TP
+
+I pushed out my question a little stiffly. 
+TP
+
+Taichi: "Why do you, a person from Kantou, sometimes use 『nan?』 for 『what?』 and 『sou yan』 for 『that's true』 like part of some pseudo-Kansai dialect?"
+TP
+
+
+GL 1 TCST0003
+GI 1 0
+
+
+WVP 0 vmcca0029yki011
+Tomoki: "That question has absolutely nothing to do with Aneki!!"
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+
+WVP 0 vmcca0029yki012
+Tomoki: "I'm going home......"
+TP
+
+
+Taichi: "Woah, woah, hold up a minute. Rome wasn't built in a day."
+TP
+
+
+GL 1 TCST0003
+GI 1 0
+
+
+WVP 0 vmcca0029yki013
+Tomoki: "Thank you for depressing me, Taichi-kun."
+TP
+
+
+
+Taichi: "Yep. My conversations always take the scenic route."
+TP
+
+Taichi: "In other words...think about it, doesn't having an objective give a person something to live for?"
+TP
+
+
+GL 1 TCST0004
+GI 1 0
+
+
+WVP 0 vmcca0029yki014
+Tomoki: "......something to live for."
+TP
+
+
+
+WVP 0 vmcca0029yki015
+Tomoki: "Once basic needs are met, that sort of thing might be nice."
+TP
+
+
+
+Taichi: "That's why I was enamored with this."
+TP
+
+
+GL 1 TCST0000
+GI 1 0
+
+
+WVP 0 vmcca0029yki016
+Tomoki: "'This'?"
+TP
+
+
+
+
+Taichi: "Youth Group Grafitea."
+TP
+
+Taichi: "What flavor do you think this has?"
+TP
+
+
+GL 1 TCST0005
+GI 1 0
+
+
+WVP 0 vmcca0029yki017
+Tomoki: "No, that's not tea."
+TP
+
+Tomoki stood up and circled the antenna.
+TP
+
+
+GL 1 TCST0000
+GI 1 0
+
+
+WVP 0 vmcca0029yki018
+Tomoki: "So......that's it?"
+TP
+
+Taichi: "It's nice to have something to do."
+TP
+
+WVP 0 vmcca0029yki019
+Tomoki: "......we do have something. Like looking for materials."
+TP
+
+Taichi: "At the very least, this club has hope."
+TP
+
+WVP 0 vmcca0029yki020
+Tomoki: "You might only be able to confirm your despair, you know?"
+TP
+
+Taichi: "There's the hope that we can confirm despair."
+TP
+
+
+GL 1 TCST0004
+GI 1 0
+
+
+WVP 0 vmcca0029yki021
+Tomoki: "......I can't understand how you think, Taichi."
+TP
+
+Taichi: "Is that so?"
+TP
+
+
+WVP 0 vmcca0029yki022
+Tomoki: "Why do you seem to be enjoying this so much?"
+TP
+
+Taichi: "He-he."
+TP
+
+
+GL 1 TCST0000
+GI 1 0
+
+
+WVP 0 vmcca0029yki023
+Tomoki: "Truly, unbelievable."
+TP
+
+Tomoki wiped his eyes with his arms.
+TP
+
+WVP 0 vmcca0029yki024
+Tomoki: "All I know......are the materials used in wiring mobiles and antennas."
+TP
+
+Taichi: "Then help out."
+TP
+
+
+
+GL 1 TCST0003
+GI 1 0
+
+WVP 0 vmcca0029yki025
+Tomoki: "That's it? At least pretend to feel a little more gratitude than that."
+TP
+
+
+Taichi: "Idiot, I'm crying on the inside. My tears are even bitter."
+TP
+
+
+GL 1 TCST0000
+GI 1 0
+
+
+WVP 0 vmcca0029yki026
+Tomoki: "It doesn't look that way."
+TP
+
+Taichi: "It's lame for two guys to get damp with each other's tears, so go do that with your nee-chan."
+TP
+
+GL 1 TCST0003
+GI 1 0
+
+
+WVP 0 vmcca0029yki027
+Tomoki: "You're horrible!"
+TP
+
+Taichi: "Now, if you've made that decision then hurry up and work! The planned broadcast day is tomorrow."
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmcca0029yki028
+Tomoki: "Yeah, yeah."
+TP
+
+WVP 0 vmcca0029yki029
+Tomoki: "Then I'll go procure some materials."
+TP
+GO 1 1
+WVP 2 SE035 1 0
+WT 1000 0
+TP
+
+WVS 2 0
+
+WVP 0 vmcca0029yki030
+Tomoki: "......Taichi?"
+TP
+
+Tomoki's feet stopped in front of the door.
+TP
+
+Taichi: "Nn?"
+TP
+
+WVP 0 vmcca0029yki031
+Tomoki: "I thought you'd tell me to make up with Aneki no matter what, but instead you tell me to help her out as a brother."
+TP
+
+Taichi: "Oh no, sibling rivalry is part of a healthy life. I wouldn't stop it."
+TP
+
+
+WVP 0 vmcca0029yki032
+Tomoki: "......"
+TP
+
+Taichi: "The point being, I was telling you to help me out."
+TP
+
+I stuck out my chest.
+TP
+
+WVP 0 vmcca0029yki033
+Tomoki: "......aren't you a big shot."
+TP
+
+Taichi: "I'm the overlord of all adaptation coefficients over eighty."
+TP
+
+WVP 0 vmcca0029yki034
+Tomoki: "......even if you're an overlord, I'll still be your friend."
+TP
+
+WVP 0 vmcca0029yki035
+Tomoki: "Because I don't dislike that."
+TP
+
+
+WVP 2 SE036 1 0
+
+
+He disappeared inside the school building. As if running away.
+TP
+
+Taichi: "'Because I don't dislike'......huhu!"
+TP
+
+When Tomoki said that, for a moment his face was as red as the limits of humanity would allow.
+TP
+
+Taichi: "Don't say it if you're going to get embarrassed. Seriously."
+TP
+
+I looked up at the antenna.
+TP
+
+Taichi: "But, this should get it progressing a bit."
+TP
+
+An enjoyable farce of a club.
+TP
+
+This could become a precious memory.
+TP
+
+So that someday, I'll see enjoyable dreams---
+Surely.
+//PCP, merged lines
+TP
+
+Forever.
+TP
+
+So I can feel thankful.
+TP
+
+I think that I'm fighting.
+//PCP
+TP
+
+WVS 1 1
+
+RET
+

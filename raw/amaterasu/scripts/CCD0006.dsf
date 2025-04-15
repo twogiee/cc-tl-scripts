@@ -1,0 +1,409 @@
+GL 0 bgcc0014
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+WVP 1 bgm016.ogg 0 0 0
+
+Taichi: "......"
+TP
+
+
+A spinning world...
+TP
+
+
+How many times have I repeated this Monday?
+TP
+
+
+As I thought such things,
+TP
+
+
+I discovered Miki.
+TP
+
+
+And she discovered me.
+TP
+
+
+Taichi: "Heeey, Miki Mou---"
+//Is it obvious enough that Miki and Mickey sound similar? Å`IX
+//In my country, Mickey is localized to Miki - Raide
+//Yep - Sheeta
+TP
+
+
+At the moment I tried to use a potentially copyright-infringing gag,
+TP
+
+
+She rushed.
+TP
+
+
+Toward me.
+TP
+
+
+While stumbling.
+TP
+
+
+Taichi: "Wa! Sorry! My bad! I didn't know the Sonny Bono Law was constitutional!"
+IF $tlnote != 0 (TL note: A US copyright extension resolution infamous for delaying Disney characters' entry into the public domain by twenty years.)
+//Not going to bother mentioning that opponents tried to get it declared unconstitutional, since anyone familiar with American government will have figured that out by now. Å`IX
+TP
+
+
+WVP 0 vfCCD0001mki000
+Miki: "Uwaaaaaaan!!!"
+TP
+
+
+She cried.
+TP
+
+
+Taichi: "What's wrong!!?"
+TP
+
+
+She leaped into my chest.
+TP
+GL 0 evcc0040
+$CGevcc0040 = 1
+GS 0 1
+SEF 155 0
+
+I caught her.
+TP
+
+
+WVP 0 vfCCD0001mki001
+Miki: "Sempai, Sempai-Sempai-Sempaaaaaai!!!"
+TP
+
+
+She blubbered.
+TP
+
+
+WVP 0 vfCCD0001mki002
+Miki: "There's no one hereeeeeee!! Something's straaaaaaange! This absolutely isn't normaaaaaaal!!!"
+TP
+
+
+Weak!!!
+TP
+
+
+Is this what it means to have too few experience points?
+TP
+
+
+WVP 0 vfCCD0001mki003
+Miki: "No one's in any of the houses! There's hardly anyone left, they've all disappeared!!"
+TP
+
+
+Taichi: "D-didn't we figure that out last night?"
+TP
+
+
+I consoled her while patting her back.
+TP
+
+
+I'm weak against a girl's tears.
+TP
+
+
+WVP 0 vfCCD0001mki004
+Miki: "But, but!"
+TP
+
+
+Taichi: "Aren't I here?"
+TP
+
+
+WVP 0 vfCCD0001mki005
+Miki: "......uuuuu! Yes......thank goodness......you're here......"
+TP
+
+
+Although that was a joke.
+TP
+
+
+WVP 0 vfCCD0001mki006
+Miki: "I woke up this morning, and mom wasn't there, and breakfast wasn't there......when I thought that everyone really had disappeared......"
+//Were we tling okaa-san as "mom" or just romanizing it? I can't remember. Å`IX
+//Capital 'Mom'? - Raide
+//I can't remember... it doesn't need a capital, either way - Sheeta
+TP
+
+
+Taichi: "Were you scared?"
+TP
+
+
+She nodded as if to rub her forehead against me.
+TP
+
+
+WVP 0 vfCCD0001mki007
+Miki: "I don't like this......I...don't......"
+TP
+
+
+I looked up at the sky.
+TP
+
+
+Taichi: "It really is lonely without other people."
+TP
+
+
+WVP 0 vfCCD0001mki008
+Miki: "......I want to go home......"
+TP
+
+
+She said something sharp.
+TP
+
+
+That this wasn't our original world.
+TP
+
+
+It was world'.
+IF $tlnote != 0 (TL note: Since it's not as clear in English, the apostrophe here is the mathematical symbol pronounced "prime" used to label geometrical shapes that have undergone some sort of transformation.)
+//Anyone have a better idea for adaptation, I'm all ears. Å`IX
+//We could write it as world' (prime)? - Sheeta
+//Changing the contraction helps avoid it looking like an awkward, incorrect single quote phrase. ~Bal
+TP
+
+
+Miki's words were probably a coincidence, but...
+TP
+
+
+They hit the target.
+TP
+
+
+Taichi: "You want to go home......"
+TP
+
+
+WVP 0 vfCCD0001mki009
+Miki: "I wanna go home, I wanna go home......"
+TP
+
+
+Taichi: "That's a problem, what should we do?"
+TP
+
+
+There's a way to console Miki.
+TP
+
+
+A slightly cruel way.
+TP
+
+
+A method I can use because we're similar people.
+TP
+
+
+Because we're limited to one week.
+TP
+
+
+I can do anything.
+TP
+
+WVS 1 1
+
+Like someone living their life to the fullest without regrets.
+TP
+
+
+This week's proper us have to hurry up and live.
+TP
+
+
+The moment when I thought up a number of captivating words to invite Miki,
+TP
+
+
+A kick came.
+TP
+
+GL 4 sgcc0013
+$CGsgcc0013 = 1
+GP 4 0 0
+GI 4 0
+WVP 2 se106 1 0
+SEF 101 0
+WVP 0 vfCCD0001kri000
+Kiri: "Shaaaaaaaaaaa!!!"
+TP
+
+WVP 1 bgm011.ogg 0 0 0
+
+Taichi: "Gaaa!!"
+TP
+
+
+Kiri's kick plucked me off of Miki.
+TP
+
+GL 0 bgcc0014
+GS 0 1
+GS 4 0
+SEF 155 0
+
+Taichi: "What're you doing!?"
+TP
+
+GL 1 TCSK0001
+GP 1 220 0
+GI 1 0
+
+WVP 0 vfCCD0001kri001
+Kiri: "Please cease your lecherous conduct!"
+TP
+
+
+Taichi: "I'm no lecher!"
+TP
+
+GL 1 TCSK0002
+GI 1 0
+
+WVP 0 vfCCD0001kri002
+Kiri: "You're 100% a lecher."
+TP
+
+
+Taichi: "I said I'm no lecher!"
+TP
+
+
+GL 2 TCYM0002
+GP 2 0 0 0
+GP 1 340 0 0
+GS 2 1
+GS 1 1
+SEF 109 0
+
+WVP 0 vfCCD0001mki010
+Miki: "Haaa, Kiri-chin......"
+TP
+
+
+Miki was depressed.
+TP
+
+
+She grabbed onto Kiri.
+//The "and" really didn't need to be there.-Spin
+TP
+
+
+WVP 0 vfCCD0001mki011
+Miki: "Fueeeeeeeeeeen!!"
+TP
+
+GL 1 TCSK0000
+GI 1 0
+
+WVP 0 vfCCD0001kri003
+Kiri: "You're fine, it's all right now."
+TP
+
+
+Huh?
+TP
+
+
+Taichi: "Miki......won't you explain my innocence?"
+TP
+
+
+WVP 0 vfCCD0001mki012
+Miki: "Egu! *hic!* Uku!"
+TP
+
+
+She's sobbing.
+TP
+
+
+Instead, Kiri glared sharply at me.
+TP
+
+
+GL 1 TCSK0001
+GI 1 0
+WVP 0 vfCCD0001kri004
+Kiri: "......I won't forgive you."
+TP
+
+
+WVP 0 vfCCD0001kri005
+Kiri: "I absolutely won't forgive a lecher!"
+TP
+
+
+Taichi: "That's not it!"
+TP
+GL 1 TCSK0002
+GI 1 0
+
+
+WVP 0 vfCCD0001kri006
+Kiri: "Miki crying is the proof."
+TP
+
+
+Taichi: "Hey hey hey hey."
+TP
+
+
+This is no joke.
+TP
+
+
+Are you going to frame me like this?
+TP
+
+
+I have to run.
+TP
+
+
+GS 1 0
+GS 2 0
+SEF 109
+
+
+Dash!
+TP
+
+
+WVP 0 vfCCD0001kri007
+Kiri: "Aaah! He ran!"
+TP
+
+WVS 1 1
+
+RET

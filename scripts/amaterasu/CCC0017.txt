@@ -1,0 +1,29 @@
+
+[Miki]
+"......?"
+
+[Taichi]
+"Right, right, do you have enough to eat?"
+
+[Miki]
+"Yes. I'm perfectly fine."
+[Miki]
+"Though, my cooking is a bit, you know..."
+
+A wry smile.
+
+[Taichi]
+"So your lunches have been canned food."
+
+[Miki]
+"Quite right: it's bread and cans."
+
+[Taichi]
+"......what an impoverished lunch."
+
+[Miki]
+"Tahaha."
+
+CSQ 0 1 1
+  -Give her a sandwich
+  -Don't give her one

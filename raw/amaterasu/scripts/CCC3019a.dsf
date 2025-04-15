@@ -1,0 +1,897 @@
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+WT 500 0
+WT 500 1
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+I'll eat in Kiri's seat.
+TP
+
+Today it's rice balls.
+TP
+
+There were seasonings on them, so they appeared quite delicious.
+//He hasn't eaten them yet, how does he know they _were_ delicious?! ~Bal
+TP
+
+Taichi: "Time to eat."
+TP
+
+*munch* *munch*
+TP
+GL 1 TCSK0002
+GP 1 220 0
+GI 1 1
+
+
+
+WVP 0 vfCCC3019akri000
+Kiri: "......why are you in my seat......?"
+TP
+
+Taichi: "Welcome back."
+TP
+
+GL 1 TCSK0000
+GI 1 0
+WVP 0 vfCCC3019akri001
+Kiri: "Ummm......that's......my seat......"
+TP
+
+Taichi: "That's true. Wanna sit here?"
+TP
+
+WVP 0 vfCCC3019akri002
+Kiri: "............but, my seat......"
+TP
+
+Taichi: "Aaah, I see. Sorry."
+TP
+
+I borrowed another chair and sat down again.
+TP
+
+On the opposite side of her desk.
+TP
+
+
+GL 1 TCSK0000
+GI 1 0
+WVP 0 vfCCC3019akri003
+Kiri: "......umm..."
+TP
+
+Taichi: "Eat. This is a double portion."
+TP
+
+WVP 0 vfCCC3019akri004
+Kiri: "......Miki's procuring food for me......"
+TP
+
+Taichi: "Would she mind if you helped yourself to this?"
+TP
+
+WVP 0 vfCCC3019akri005
+Kiri: "......haa."
+TP
+
+She extended her hand.
+TP
+GL 0 evcc0051
+$CGevcc0051 = 1
+GS 0 1
+GS 1 0
+SEF 155 0
+A successful breakthrough.
+TP
+
+Well, Kiri has been losing her nerve lately.
+TP
+
+Taichi: "Don't touch anything that could serve as a blade or any other weapon."
+TP
+
+WVP 0 vfCCC3019akri006
+Kiri: "......okay."
+TP
+
+WVP 0 vfCCC3019akri007
+Kiri: "I don't want to die, after all."
+TP
+
+Taichi: "Yep, yep. Youko-chan is strong. And she does what she says."
+TP
+
+WVP 0 vfCCC3019akri008
+Kiri: "......why is she so good with a sling?"
+TP
+
+WVP 0 vfCCC3019akri009
+Kiri: "It's just strange..."
+TP
+
+Taichi: "For the most part, she's good at everything."
+TP
+
+Taichi: "What she can do is fundamentally different."
+TP
+
+Whatever she does, she gets the hang of it in an instant.
+TP
+
+WVP 0 vfCCC3019akri010
+Kiri: "Does she receive special training?"
+TP
+
+Taichi: "Aaah, she used to. She had some kind of long vacation where she went to some foreign country and hired a military instructor on the spot."
+TP
+
+WVP 0 vfCCC3019akri011
+Kiri: "Military......!?"
+TP
+
+She was lost for words.
+TP
+
+Taichi: "Maybe she learned the sling then. She might have even learned it from a real shepherd."
+TP
+
+Taichi: "Does it still hurt?"
+TP
+
+WVP 0 vfCCC3019akri012
+Kiri: "......a little."
+//The old line just felt out of character for some reason.-Spin
+TP
+
+Taichi: "She's piled up a lot."
+TP
+
+Taichi: "I'm sure she's done many, many other things too."
+TP
+
+Taichi: "It feels like she uses most of her life as self-training."
+TP
+
+Taichi: "I talk like I'm a martial artist too, but I'm no match for her."
+TP
+
+WVP 0 vfCCC3019akri013
+Kiri: "You were doing martial arts?"
+TP
+
+It was good of her to ask.
+TP
+
+Taichi: "It's called karade."
+TP
+
+WVP 0 vfCCC3019akri014
+Kiri: "......I don't know that."
+TP
+
+Taichi: "Eh!?"
+TP
+
+WVP 0 vfCCC3019akri015
+Kiri: "Is that a spinoff of karate?"
+TP
+
+Taichi: "No it isn't, you brat!"
+TP
+
+WVP 0 vfCCC3019akri016
+Kiri: "Kya!"
+TP
+
+Taichi: "......ah, sorry......I shouldn't have gotten mad......"
+TP
+
+Kiri had run three meters away and taken up a battle stance.
+TP
+
+Taichi: "Come back over here, I'm not going to eat you."
+TP
+
+She came back doubtfully.
+TP
+
+Taichi: "Now, now, eat, eat. I'm actually kind and gentle."
+//Something is definitely missing in that second part. I'm thinking that or "really" but both don't exactly fit right. I really can't think of anything else though.-Spin
+TP
+
+Being told karade is a spinoff of karate made me lose it.
+TP
+
+WVP 0 vfCCC3019akri017
+Kiri: "......"
+TP
+
+Taichi: "She doesn't say it, but she can probably use firearms too."
+TP
+
+Taichi: "As for martial arts, if you got into a grapple, I think you'd be killed in an instant. She knows a lot of moves, and she bought a really expensive knife recently."
+TP
+
+WVP 0 vfCCC3019akri018
+Kiri: "......that's......to think of killing someone......for any reason......"
+//Better effect.-Spin
+TP
+
+Taichi: "Weren't you trying to kill me?"
+TP
+
+WVP 0 vfCCC3019akri019
+Kiri: "............"
+TP
+
+Taichi: "Weeell, it doesn't bother me."
+TP
+
+WVP 0 vfCCC3019akri020
+Kiri: "Sempai......are you okay with this?"
+TP
+
+WVP 0 vfCCC3019akri021
+Kiri: "I find you......simply detestable."
+TP
+
+WVP 0 vfCCC3019akri022
+Kiri: "But you saved my life, and now that I can't do anything, I can't help being in this situation."
+TP
+
+WVP 0 vfCCC3019akri023
+Kiri: "But......that doesn't change the fact that I hate you."
+TP
+
+Taichi: "Yep."
+TP
+
+WVP 0 vfCCC3019akri024
+Kiri: "Please don't misunderstand that."
+TP
+
+Taichi: "I won't. I think that's just fine."
+TP
+
+WVP 0 vfCCC3019akri025
+Kiri: "......but, eating together......and getting familiar with one another..."
+TP
+
+Taichi: "I just want to watch from nearby."
+TP
+
+WVP 0 vfCCC3019akri026
+Kiri: "......what from nearby?"
+TP
+
+Taichi: "Kiri-chin."
+TP
+
+I smiled.
+TP
+
+WVP 0 vfCCC3019akri027
+Kiri: "Yo-you're making fun of me!"
+TP
+
+She blushed a little.
+TP
+
+Taichi: "A precious gem is not something to be touched and loved."
+TP
+
+Taichi: "It is something to be watched and enjoyed."
+TP
+
+WVP 0 vfCCC3019akri028
+Kiri: "......I can certainly understand why Sempai would think that."
+TP
+
+WVP 0 vfCCC3019akri029
+Kiri: "But it doesn't sit well with me. If you want to play with a girl that badly, why not do it with Hasekura-sempai?"
+TP
+
+WVP 0 vfCCC3019akri030
+Kiri: "The rest of us are not tools for your amusement."
+TP
+
+Taichi: "No good. She only has herself."
+TP
+
+WVP 0 vfCCC3019akri031
+Kiri: "Eh......?"
+TP
+
+Taichi: "She's running away. She always has been."
+TP
+
+Taichi: "It really irritates me."
+TP
+
+Kiri threw a look at me like she'd seen something unexpected.
+TP
+
+WVP 0 vfCCC3019akri032
+Kiri: "......I can't understand any of Sempai's relationships."
+TP
+
+Taichi: "Well, don't let it bother you so much."
+//He made a cutesy spin on this statement, so I'd like the usual editor suggestions on potential English equivalents. Å`IX
+TP
+
+The history between me and Youko-chan...not one of those memories of ours can be called fun.
+TP
+
+Taichi: "As a tool of amusement, she's useless."
+TP
+
+Taichi: "......she's got her hands full with this."
+TP
+
+WVP 0 vfCCC3019akri033
+Kiri: "Which means?"
+TP
+
+Taichi: "Hmmm......"
+TP
+
+I thought.
+TP
+
+But no adequate exposition was constructed.
+TP
+
+There's no need to explain this to Kiri-chin since she sees right through me to start with.
+TP
+
+Taichi: "Yeah. It'd also be best to stay near me if you can."
+TP
+
+WVP 0 vfCCC3019akri034
+Kiri: "Eh......?"
+TP
+
+Taichi: "I think it'll be fine since I said it pretty strongly, but there's a possibility she'll do something to Kiri-chin when my eyes are elsewhere."
+TP
+
+Taichi: "She might try to chop off your head without me finding out."
+TP
+
+Kiri held her neck.
+TP
+
+WVP 0 vfCCC3019akri035
+Kiri: "......ch-chop off my......"
+TP
+
+She was shaking.
+TP
+
+Taichi: "To preserve your own life, you have to stay near me......let's just leave it at that."
+TP
+
+WVP 0 vfCCC3019akri036
+Kiri: "......of course, that's true, but......"
+TP
+
+Taichi: "It's not a reconciliation so much as a truce, right?"
+TP
+
+WVP 0 vfCCC3019akri037
+Kiri: "............"
+TP
+
+Taichi: "And so, let's keep up the friendly fighting."
+TP
+
+I held out my left hand.
+TP
+
+WVP 0 vfCCC3019akri038
+Kiri: "......ha."
+TP
+
+Reluctantly, Kiri held out her left hand......but didn't shake mine.
+TP
+
+She got angry and pulled it back.
+TP
+
+WVP 0 vfCCC3019akri039
+Kiri: "............you're mocking me!"
+TP
+
+Taichi: "Please stop getting mad at every single joke."
+TP
+
+I held out my right hand and gripped Kiri's right hand.
+TP
+
+A small, slender hand.
+TP
+
+It's definitely not suited for weapons.
+TP
+
+After crossing the dangerous bridge called Youko-chan, it feels as if our relationship has improved a little.
+TP
+
+Taichi: "Then let's have a party celebrating the successful truce mediation."
+TP
+GL 0 evcc0051a
+$CGevcc0051a = 1
+GS 0 1
+SEF 155 0
+WVP 0 vfCCC3019amki000
+Miki: "Procurement completed!"
+TP
+
+WVP 0 vfCCC3019amki001
+Miki: "......huuuh?"
+TP
+
+Taichi: "Good work."
+TP
+
+WVP 0 vfCCC3019amki002
+Miki: "Why are you together?"
+TP
+
+Taichi: "I invited her."
+TP
+
+WVP 0 vfCCC3019amki003
+Miki: "......what a scary person......even your enemies are your friends......"
+TP
+
+Taichi: "This is her thanks for three visits."
+IF $tlnote != 0 (TL note: A Chinese and Japanese idiom referring to various stories in which a well-to-do person pays three visits to the home of a less fortunate person, often one of their subordinates.)
+TP
+
+WVP 0 vfCCC3019akri040
+Kiri: "......that's not true......"
+TP
+
+WVP 0 vfCCC3019amki004
+Miki: "Aaah, you're eating something, what am I going to do with all this food?"
+TP
+
+Miki poured out the contents of her tote bag on the desk.
+TP
+GL 0 evcc0051b
+$CGevcc0051b = 1
+GS 0 1
+SEF 155 0
+
+It formed a mountain, spilling off the edges of the desk.
+TP
+
+Taichi: "Oooooo!"
+TP
+
+Taichi: "Aren't these all sweets!?"
+TP
+
+WVP 0 vfCCC3019amki005
+Miki: "Tehe!"
+TP
+
+WVP 0 vfCCC3019akri041
+Kiri: "......what about canned food?"
+TP
+
+WVP 0 vfCCC3019amki006
+Miki: "It's all gone."
+TP
+
+Taichi: "Hmmm. Having sweets for lunch......that seems harsh."
+TP
+
+WVP 0 vfCCC3019amki007
+Miki: "Is that so?"
+TP
+
+Taichi: "It's bad for your health."
+TP
+
+WVP 0 vfCCC3019amki008
+Miki: "But Miki loves sweets."
+TP
+
+WVP 0 vfCCC3019akri042
+Kiri: "I'm already full myself, so..."
+TP
+
+Taichi: "Sorry, so am I."
+TP
+
+WVP 0 vfCCC3019amki009
+Miki: "......eeeh?"
+TP
+
+WVP 0 vfCCC3019amki010
+Miki: "Then I'll eat these myself."
+TP
+
+She took offense.
+TP
+
+WVP 0 vfCCC3019akri043
+Kiri: "......you'll get fat."
+TP
+
+WVP 0 vfCCC3019amki011
+Miki: "......"
+TP
+
+WVP 0 vfCCC3019amki012
+Miki: "Even if I'm fat, I'll still love sweets."
+TP
+
+She started eating some potato chips.
+TP
+
+Taichi: "Doesn't it bother you on the inside?"
+TP
+
+WVP 0 vfCCC3019amki013
+Miki: "But, buuut!"
+TP
+
+WVP 0 vfCCC3019akri044
+Kiri: "Don't cry......"
+TP
+
+Taichi: "Come on, I'll give you this rice ball."
+TP
+
+Its size is intended for an adult male, so for Kiri-chin it should be just about right.
+//;_; -VDZ
+TP
+
+It wasn't really enough for me, but......whatever.
+TP
+
+WVP 0 vfCCC3019amki014
+Miki: "Aaaaah, handmade fooooood."
+TP
+
+She clung to the sleeve of the hand holding the rice ball.
+TP
+
+Taichi: "Do you want it? Mmm?"
+TP
+
+I held it up high.
+TP
+
+WVP 0 vfCCC3019amki015
+Miki: "Ah! I want it..."
+TP
+
+Taichi: "Here now, here now."
+TP
+
+To the right.
+TP
+
+WVP 0 vfCCC3019amki016
+Miki: "Aaauuu..."
+TP
+
+Taichi: "Uriuri."
+TP
+
+To the left.
+TP
+
+WVP 0 vfCCC3019amki017
+Miki: "Uuuaaa..."
+TP
+
+WVP 0 vfCCC3019akri045
+Kiri: "......you're harassing her."
+TP
+
+Taichi: "......here now."
+TP
+
+WVP 0 vfCCC3019amki018
+Miki: "Aaah, delishus!"
+//NAT
+TP
+
+She started biting into it.
+TP
+
+Leaving the mountain of sweets.
+TP
+
+Taichi: "......those are......unsettling eating habits......for a girl. Is it always like this?"
+//Better effect. Not sure about the whole 6 periods though but 3 felt too short.-Spin
+TP
+
+WVP 0 vfCCC3019akri046
+Kiri: "It's normally canned food or bread."
+TP
+
+Taichi: "Eat vegetables."
+TP
+
+WVP 0 vfCCC3019akri047
+Kiri: "There aren't any."
+TP
+
+Taichi: "Here, tomatoes. I've got two of them."
+TP
+
+WVP 0 vfCCC3019amki019
+Miki: "Aaaaah, tomatoeees..."
+TP
+
+Taichi: "Mmm? Do you want one?"
+TP
+
+WVP 0 vfCCC3019amki020
+Miki: "I want one!"
+TP
+
+Taichi: "Here now, here now."
+TP
+
+To the right.
+TP
+
+WVP 0 vfCCC3019amki021
+Miki: "Aaauuu..."
+TP
+
+Taichi: "Uriuri."
+TP
+
+To the left.
+TP
+
+WVP 0 vfCCC3019amki022
+Miki: "Uuuaaa..."
+TP
+
+WVP 0 vfCCC3019akri048
+Kiri: "............as I thought, this person......is just a bully."
+TP
+
+Taichi: *sigh*
+TP
+
+WVP 0 vfCCC3019akri049
+Kiri: "Nnnnnnn."
+TP
+
+WVP 0 vfCCC3019amki023
+Miki: "Souuur."
+TP
+
+WVP 0 vfCCC3019akri050
+Kiri: "But delicious......"
+TP
+
+WVP 0 vfCCC3019amki024
+Miki: "I'm gonna cry."
+TP
+
+WVP 0 vfCCC3019akri051
+Kiri: "It's nice to be alive."
+TP
+
+WVP 0 vfCCC3019amki025
+Miki: "Nyauuu."
+TP
+
+What eating habits do these two have?
+TP
+
+While watching Miki's and Kiri's mouths turn into a ÅwÅñÅx shape as they ate the tomatoes, I quenched my throat with a water bottle.
+TP
+
+WVS 1 0
+
+
+GL 4 sgcc0018
+$CGsgcc0018 = 1
+GP 4 0 0
+GS 4 1
+SEF 109 0
+Taichi: *cough* *cough!*
+TP
+
+She's watching, she's watching!!!
+TP
+
+WVP 1 bgm011.ogg 0 0 0
+
+I'm being stared at!!
+TP
+She's a lump of jealousy......
+TP
+
+Showing herself to me as if I'm doing something to bother her......must be an intentional hint.
+TP
+
+As a kunoichi, she's supposed to have a high degree of secrecy.
+TP
+
+She's not something I'd be able to find.
+TP
+
+
+GO 4 1
+
+
+
+WVP 0 vfCCC3019amki026
+Miki: "What's happened?"
+TP
+
+Taichi: "......we're being watched with Ichihara-style intelligence gathering."
+TP
+
+WVP 0 vfCCC3019amki027
+Miki: "Ichihara?"
+TP
+
+Taichi: "Espionage techniques passed down through an incredibly skilled group led by E. Ichihara."
+IF $tlnote != 0 (TL note: This might be a reference to Ichihara Etsuko, who plays the lead role in the Asian drama "Kaseifu wa Mita" or "I Saw a Maid.")
+//Voiced by Miki confirms Ichihara, imdb seems to agree http://www.imdb.com/name/nm0406700/ ~Bal
+TP
+
+WVP 0 vfCCC3019amki028
+Miki: "?"
+TP
+
+WVP 0 vfCCC3019akri052
+Kiri: "Kyaaaaa!!?"
+TP
+
+Apparently Kiri saw her too.
+TP
+
+WVP 0 vfCCC3019akri053
+Kiri: "Sempai! Se! Sempa......ah, that, that......"
+TP
+
+Taichi: "It's okay, I'm right next to you."
+TP
+
+WVP 0 vfCCC3019akri054
+Kiri: "......o-okay......"
+TP
+
+WVP 0 vfCCC3019amki029
+Miki: "Eh? Eh?"
+TP
+
+WVP 0 vfCCC3019akri055
+Kiri: "Wh-what......?"
+TP
+
+Kiri pointed. Miki said, "Wha-?" and looked.
+TP
+
+Youko-chan was gone.
+TP
+
+WVP 0 vfCCC3019amki030
+Miki: "......eh? There's nothing there...what happened?"
+TP
+
+WVP 0 vfCCC3019akri056
+Kiri: "J-just now I'm sure I......Sempai?"
+TP
+
+Taichi: "The Shimura Phenomenon. Miki can no longer physically observe Youko-chan."
+TP
+
+
+*Shimura Phenomenon = Taichi physics. A kind of observational problem found within stable, specific situations. That which someone can and cannot see is fixed as a personal attribute. Those attributes are often destroyed due to a major change within the situation.
+TP
+
+
+Aaaaah, she's watching......
+TP
+
+WVP 0 vfCCC3019akri057
+Kiri: "......ku!"
+TP
+
+Kiri was stressed half to death.
+//Is it just me, or does this sound very awkward? Shouldn't it be either 'stressed half to death' or 'stressed out'? I'm not sure if 'stressed out half to death' is correct. -VDZ
+TP
+
+I held her shoulders reflexively.
+TP
+
+The corners of Youko-chan's eyes shook.
+TP
+
+This is something hopelessly rare.
+TP
+
+WVP 0 vfCCC3019akri058
+Kiri: "......uu, uuuuu......"
+TP
+
+Kiri was getting nervous and not noticing how familiar I was acting around her.
+TP
+
+Like a cat driven into a corner.
+TP
+
+Taichi: "......your shoulders feel delicate."
+TP
+
+I find her adorable, but at the same time I had the desire to destroy her.
+TP
+
+Those two feelings existed simultaneously.
+TP
+
+......I let go of her.
+TP
+
+Taichi: "Kiri-chin, be careful."
+TP
+
+WVP 0 vfCCC3019akri059
+Kiri: "......meaning?"
+TP
+
+Taichi: "Even if you don't get injured, there's a possibility she'll do disagreeable things to you."
+TP
+
+WVP 0 vfCCC3019akri060
+Kiri: "Di-disagreeable? Concretely speaking, what do you mean?"
+TP
+
+Taichi: "Uhhhh......I think it'd be quite insidious."
+TP
+
+Taichi: "Stealing your dignity...humiliating you as much as possible while still passing it off as a joke."
+TP
+
+WVP 0 vfCCC3019akri061
+Kiri: "......isn't that the same as you?"
+TP
+
+Taichi: "Uu!"
+TP
+
+WVP 0 vfCCC3019akri062
+Kiri: "......I knew it......I can't trust you."
+TP
+
+Kiri returned to Miki's side.
+TP
+
+Aaaaah, my lover's been stolen by homosexuality.
+TP
+
+Taichi: "Damn you!"
+TP
+
+I'll try hating Miki.
+TP
+
+WVP 0 vfCCC3019amki031
+Miki: "......yeees?"
+TP
+
+WVS 1 1
+
+
+
+RET

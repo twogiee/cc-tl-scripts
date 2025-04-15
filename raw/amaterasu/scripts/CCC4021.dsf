@@ -1,0 +1,1254 @@
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+WT 500 0
+WT 500 1
+
+
+GL 0 bgcc0003
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 155 0
+
+
+
+
+There was no night attack?
+TP
+
+......I did have home field advantage.
+TP
+
+There might have been traps here, so she didn't do anything reckless.
+TP
+
+I headed to school.
+TP
+
+
+
+GL 0 bgcc0011
+GS 0 1
+
+SEF 152 0
+Then,
+TP
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 0
+Tomoki had died.
+//WHAT - Sheeta
+TP
+
+WVP 1 bgm008.ogg 0 0 0
+
+Taichi: "............"
+TP
+
+The suspects decreased.
+TP
+
+And the victims increased.
+TP
+
+Taichi: "Tomoki......"
+TP
+
+A tragic way to die.
+TP
+
+He'd been run through the chest with long, thick wiring material.
+TP
+
+A coincidence?......This is too rare a case to say that.
+TP
+
+This was definitely something artificial.
+TP
+
+That's why the culprit is---
+TP
+
+
+Taichi: "......it's already......finished."
+TP
+
+The world is finished.
+TP
+
+That was the feeling I had.
+TP
+
+Kiri's already broken, and Sakuraba probably won't return.
+TP
+
+There's no need for me to remain a person.
+TP
+
+......in the end, it was all just useless struggling.
+TP
+
+A lunatic can't become a normal person.
+TP
+
+If I can't understand others,
+TP
+
+I thought it was okay not to understand.
+TP
+
+Now---
+TP
+
+Before the silent form of Tomoki, I exposed my body to the lonesome air.
+//I don't like having 'body' twice in a sentence like that. It looks weird - Sheeta
+TP
+
+No monologue was needed.
+TP
+
+I was rapidly losing sight of the words I'd say.
+TP
+
+WVS 1 1
+
+
+
+WVP 1 bgm007.ogg 0 0 0
+
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+Where's Kiri?
+TP
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+GL 0 bgcc0010
+GS 0 1
+SEF 152 0
+
+
+
+GL 0 bgcc0012
+GS 0 1
+SEF 152 0
+
+Is she not in the building?
+TP
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+She's probably not in her house.
+TP
+GL 0 bgcc0014
+GS 0 1
+SEF 152 0
+
+WT 500 1
+
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+
+WT 500 1
+
+
+
+GL 0 bgcc0002
+GS 0 1
+SEF 152 0
+
+WT 500 1
+
+
+GL 0 bgcc0000a
+GS 0 1
+SEF 152 0
+
+Prowling. That's all.
+TP
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 109 0
+Kiri......
+TP
+
+No, anyone's okay......
+TP
+
+That's right. Sempai.
+TP
+
+WVS 1 1
+
+That's always been on the roof.
+//Usage of "that" here is intentional. Å`IX
+TP
+
+
+GL 0 bgcc0011a
+GS 0 1
+SEF 152 0
+
+WT 500 1
+
+GL 0 bgcc0007a
+GS 0 1
+SEF 152 0
+
+Not here.
+TP
+
+
+The fence had been broken.
+TP
+
+
+
+Sempai had died.
+TP
+
+
+When people fall, they make a pink flower.
+TP
+
+
+Taichi: "............"
+TP
+
+WVP 1 bgm008.ogg 0 0 0
+
+Aaah.
+TP
+
+Fragrant blood.
+TP
+
+I couldn't understand things anymore.
+TP
+
+Aaah, not at all anymore.
+TP
+
+Until now......why have I been toiling?
+TP
+
+To hold myself back.
+TP
+
+
+And then,
+TP
+
+Evasion.
+TP
+
+An arrow passed.
+TP
+
+Kiri.
+TP
+
+Was there.
+TP
+
+Was thereÅÙ
+TP
+
+
+GL 1 TCSK0021b
+GP 1 220 0
+GI 1 1
+
+
+WVP 0 vfCCC4021kri000
+Kiri: "......murderer!"
+TP
+
+Kiri inverted a red cylinder.
+TP
+
+Were those intestines?
+TP
+GL 5 efcc0004
+GI 5 0
+GO 5 1
+White smoke.
+//I have no idea what happened in these three lines. Å`IX
+//I was guessing she is using a fire extinguisher (back-up weapon?), and he couldn't see the hose clearly? ~Bal
+//His eyes or some kind of adrenaline rush perhaps - Raide
+TP
+
+Taichi: "......gu!"
+TP
+
+My vision grew dim.
+TP
+
+......I'd gotten used to it.
+TP
+
+To Kiri's presence.
+TP
+
+I leaped toward her.
+TP
+
+I grabbed her wrist.
+TP
+
+It was holding a blade.
+TP
+
+I gripped hard.
+TP
+
+GL 1 TCSK0001b
+GI 1 0
+WVP 0 vfCCC4021kri001
+Kiri: "Uuu!"
+TP
+
+Kiri won't let go.
+TP
+
+She's exposing her anger like a beast.
+TP
+
+Even harder.
+TP
+
+WVP 0 vfCCC4021kri002
+Kiri: "Uu, uuuuuuu!"
+TP
+
+It should hurt.
+TP
+
+Such a slender wrist.
+TP
+
+I could break it easily.
+TP
+
+But she won't let go.
+TP
+
+Aaah.
+TP
+
+Did she see Tomoki's body?
+TP
+
+Even though I didn't do it.
+TP
+
+While we were quarreling, I started wanting.
+//quarrelling (double l) is British - Raide
+TP
+
+Kiri.
+TP
+
+She's an idiot, but she's cute.
+TP
+
+I sucked her lips.
+TP
+
+WVP 0 vfCCC4021kri003
+Kiri: "Nn, nnnnnnnnnnnnnnn!!?"
+TP
+
+Taichi: "......!"
+TP
+
+I chewed her tongue.
+TP
+
+I didn't cut it off.
+TP
+
+My thoughts were cleared.
+TP
+
+Taichi: "......Kiri......I'm the culprit."
+TP
+
+WVP 0 vfCCC4021kri004
+Kiri: "Uuu! Why now!!?"
+TP
+
+The hand holding the knife stood firm.
+TP
+
+Taichi: "No, I'm not."
+TP
+GL 1 TCSK0021b
+GI 1 0
+
+WVP 0 vfCCC4021kri005
+Kiri: "......what are you...ahaha."
+TP
+
+Ridicule.
+TP
+
+ + Tears.
+TP
+
+Kiri's emotions were already starting to break.
+TP
+
+WVP 0 vfCCC4021kri006
+Kiri: "Don't take Miki."
+TP
+
+Taichi: "It's Miki."
+TP
+
+Taichi: "The culprit is Miki."
+//Oho, I was right~ - Sheeta
+//No, you weren't. Even though she'll never read this, I'll still trolling her.-Spin
+TP
+
+WVS 1 0
+
+Kiri stopped.
+TP
+
+Was that not the one and only key to making this girl stop right now?
+TP
+
+The wind cut off.
+TP
+WVP 2 SE094 1 0
+GO 1 1
+WVP 0 vfCCC4021kri007
+Kiri: "Uuaaa......?"
+TP
+A strange noise spilled out of her lungs.
+//"Voice" sounded so out of place there.
+TP
+
+Just from that, I knew it was a mortal wound.
+TP
+
+At the same time, I felt sharp pain in my thighbone.
+TP
+
+An arrow.
+TP
+
+It had been shot through Kiri's thin chest and into my thighbone.
+TP
+
+I brought my face up.
+TP
+GL 0 evcc0042
+$CGevcc0042 = 1
+GS 0 1
+GS 1 0
+SEF 109 1
+
+WVP 1 bgm019.ogg 0 0 0
+
+
+Taichi: "......it was you."
+//No way she could have a scope on there like that. It's blocking the locking mechanism for the string.-Spin
+TP
+
+WVP 0 vfCCC4021mki000
+Miki: "Ahaha, this is the first time I've been able to bring down Sempai."
+TP
+
+She was innocent.
+//Damn English double meaning. Ideas? Å`IX
+//Looks fine to me. The intent seems clear. ~Bal
+TP
+
+Taichi: "............"
+TP
+
+WVP 0 vfCCC4021kri008
+Kiri: "......uu......huh......? Miki?"
+TP
+
+Taichi: "Kiri......"
+TP
+
+Her knife fell.
+TP
+
+She tried to pick herself up......but failed.
+TP
+
+Taichi: "Ow!"
+TP
+
+WVP 0 vfCCC4021kri009
+Kiri: "......was I......shot?"
+TP
+
+Taichi: "Yeah."
+TP
+
+WVP 0 vfCCC4021kri010
+Kiri: "By who?"
+TP
+
+Taichi: "............"
+TP
+
+WVP 0 vfCCC4021kri011
+Kiri: "No......*cough!*"
+TP
+
+Blood fell out of her mouth.
+TP
+
+WVP 0 vfCCC4021kri012
+Kiri: "Ha, it hurts......Miki......Mi......"
+TP
+
+Miki gazed intently at Kiri's final moments.
+TP
+
+I couldn't read her emotions at all.
+TP
+
+Taichi: "Impossible......weren't you...my friend?"
+TP
+
+Miki: "............"
+TP
+
+Kiri coughed. A huge amount of blood.
+TP
+
+Taichi: "Who are you?"
+TP
+
+WVP 0 vfCCC4021mki002
+Miki: "I am Miki."
+TP
+
+Taichi: "No. Miki isn't that tenacious."
+TP
+
+WVP 0 vfCCC4021mki003
+Miki: "......I was able to endure...Sempai and the others."
+TP
+
+This girl......
+TP
+
+Taichi: "Kiri......"
+TP
+
+WVP 0 vfCCC4021kri013
+Kiri: "Miki......where are you? Are you behind me? I can't turn around......"
+TP
+
+As Kiri tried to move, pain ran through my leg.
+TP
+
+With that,
+TP
+
+I was able to regain rationality.
+TP
+
+WVP 0 vfCCC4021kri014
+Kiri: "It wasn't Miki, right? You weren't......the one who shot me, right?"
+TP
+
+WVP 0 vfCCC4021mki004
+Miki: "It was me. I shot you."
+TP
+
+WVP 0 vfCCC4021kri015
+Kiri: "Eh......?"
+TP
+
+WVP 0 vfCCC4021kri016
+Kiri: "......it can't be..."
+TP
+
+Taichi: "Kiri."
+TP
+
+She looked up at me.
+TP
+
+With her chest shot through, she could do nothing else.
+TP
+
+WVP 0 vfCCC4021kri017
+Kiri: "......you're...innocent?"
+TP
+
+Taichi: "Not really, but I didn't kill anyone. I don't want to kill."
+TP
+
+Kiri: "............"
+TP
+
+WVP 0 vfCCC4021kri019
+Kiri: "......I'm......sor......"
+TP
+
+She couldn't complete her words of apology.
+TP
+
+I softly placed my fingers on her carotid artery.
+TP
+
+Taichi: "Sleep. It's a dream. When you wake up, you'll be back to your normal everyday life."
+TP
+
+Kiri smiled, despite the contradictions in those words.
+TP
+
+WVP 0 vfCCC4021kri020
+Kiri: "Aha."
+TP
+
+I tightened slightly. That was enough.
+TP
+
+WVP 0 vfCCC4021kri021
+Kiri: "......ah.................."
+TP
+
+I killed her gently.
+TP
+
+WVP 0 vfCCC4021mki005
+Miki: "......!"
+TP
+
+Taichi: "Ow!......"
+TP
+
+I pulled the arrow out of our bodies.
+TP
+
+The wound to my femur was shallow.
+TP
+
+But, it's practically unable to move now.
+TP
+
+Taichi: "......are you going to kill me too?"
+TP
+
+WVP 0 vfCCC4021mki006
+Miki: "Did you finish her off?"
+TP
+
+Taichi: "Yeah."
+TP
+
+WVP 0 vfCCC4021mki007
+Miki: "You're kind, Sempai."
+TP
+
+Taichi: "Will you kill me too?"
+TP
+
+WVP 0 vfCCC4021mki008
+Miki: "Yes."
+TP
+
+Taichi: "For what reason?"
+TP
+
+WVP 0 vfCCC4021mki009
+Miki: "......do you want to know?"
+TP
+
+WVP 0 vfCCC4021mki010
+Miki: "I'd been thinking that Sempai had gone berserk and lost his rationality, but..."
+TP
+
+Taichi: "Wow, you know about me."
+TP
+
+WVP 0 vfCCC4021mki011
+Miki: "And about Hasekura-sempai."
+TP
+
+Taichi: "......why did you kill everyone?"
+TP
+
+WVP 0 vfCCC4021mki012
+Miki: "I'm not killing them."
+TP
+
+Taichi: "Then who killed them?"
+TP
+
+WVP 0 vfCCC4021mki013
+Miki: "Coincidences."
+TP
+
+Taichi: "......Miki, please don't toy with me. I'm talking seriously."
+TP
+
+WVP 0 vfCCC4021mki014
+Miki: "It's true. They were coincidences. I call it the invisible hand."
+//I see Miki-Miki subscribes to Adam Smith's economic theory of murder. ~Bal
+TP
+
+Taichi: "Invisible hand?"
+TP
+
+WVP 0 vfCCC4021mki015
+Miki: "This sort of thing happens once in a long while."
+TP
+
+WVP 0 vfCCC4021mki016
+Miki: "At first......Hasekura-sempai? This is the first time she's died..."
+TP
+
+WVP 0 vfCCC4021mki017
+Miki: "I am the one who prepared the traps, but this is the first time she's died."
+TP
+
+Taichi: "......so those were Miki's traps."
+TP
+
+WVP 0 vfCCC4021mki018
+Miki: "Yes. Sempai taught me how to make them."
+TP
+
+Taichi: "No I didn't."
+TP
+
+WVP 0 vfCCC4021mki019
+Miki: "It was much earlier. Dozens of weeks ago."
+TP
+
+WVP 0 vfCCC4021mki020
+Miki: "I didn't want you to go near that place, so I was wary. The real objective was to let me know when someone came near it......with traps I could move more carefully, and there would be time to run."
+TP
+
+Taichi: "......what place?"
+TP
+
+WVP 0 vfCCC4021mki021
+Miki: "That's the only place exempted from the loop."
+TP
+
+Taichi: "The loop......"
+TP
+
+WVP 0 vfCCC4021mki022
+Miki: "The world is repeating this week over and over, Sempai."
+TP
+
+And then Miki spoke.
+TP
+
+Of the week from Monday to Sunday.
+TP
+
+That the world will progress that far and then return to the situation on Monday.
+TP
+
+Loop.
+TP
+
+Miki called it that.
+TP
+
+Taichi: "That's hard to believe."
+TP
+
+WVP 0 vfCCC4021mki023
+Miki: "Do I have any reason to lie?"
+TP
+
+WVP 0 vfCCC4021mki024
+Miki: "Your memory and this situation will all return to the way they were."
+TP
+
+WVP 0 vfCCC4021mki025
+Miki: "So Kiri-chin will also recover by next week,"
+TP
+
+WVP 0 vfCCC4021mki026
+Miki: "Of course, I think the memories of being killed will be gone by Monday, but..."
+TP
+
+Taichi: "Miki, how can you be so sure that's the truth?"
+TP
+
+WVP 0 vfCCC4021mki027
+Miki: "Because the hokora is exempt from time's progression."
+TP
+
+Taichi: "......in other words......you're living in the hokora?"
+TP
+
+WVP 0 vfCCC4021mki028
+Miki: "Just for the moment when Sunday ends."
+TP
+
+Taichi: "......so, you say we're looping, but why did you kill everyone?"
+//Since she's going to the hokora to avoid the loop, that statement couldn't have been right.-Spin
+TP
+
+WVP 0 vfCCC4021mki029
+Miki: "Because I must not die."
+TP
+
+Taichi: "There's no connection."
+TP
+
+WVP 0 vfCCC4021mki030
+Miki: "......the first time I noticed the hokora, there were already notebooks inside it."
+TP
+
+WVP 0 vfCCC4021mki031
+Miki: "In the notebooks, every day until Saturday was recorded in detail, and the writer was Sempai."
+TP
+
+Taichi: "I did that......?"
+TP
+
+WVP 0 vfCCC4021mki032
+Miki: "Despite having your memories reset every time by the loop phenomenon, Sempai and Hasekura-sempai have a pretty high probability of noticing the truth."
+TP
+
+WVP 0 vfCCC4021mki033
+Miki: "But since you'll forget, you leave records in the form of diaries inside the hokora......well, I think you're doing it so that next week's you can grasp the situation more easily."
+TP
+
+WVP 0 vfCCC4021mki034
+Miki: "But you didn't realize that being at the hokora would preserve proper time."
+TP
+
+WVP 0 vfCCC4021mki035
+Miki: "......when next week comes, everyone's memories are cleared."
+TP
+
+WVP 0 vfCCC4021mki036
+Miki: "But isn't that no different from dying and being reborn?"
+TP
+
+WVP 0 vfCCC4021mki037
+Miki: "However many diaries you write, you have no means of making up the time lost through resets, do you?"
+TP
+
+WVP 0 vfCCC4021mki038
+Miki: "Isn't it like dying every single time?"
+TP
+
+Taichi: "......"
+TP
+
+WVP 0 vfCCC4021mki039
+Miki: "I didn't like that idea."
+TP
+
+WVP 0 vfCCC4021mki040
+Miki: "I want to live on with the same connection between all of the proper me's."
+TP
+
+WVP 0 vfCCC4021mki041
+Miki: "Even if the world no longer continues the slightest bit......I don't want to repeat myself unknowingly."
+TP
+
+Taichi: "I understand your feelings......but why did that make you kill everyone?"
+TP
+
+WVP 0 vfCCC4021mki042
+Miki: "I told you those were all coincidences."
+TP
+
+WVP 0 vfCCC4021mki043
+Miki: "If there are enough repeats, won't Hasekura-sempai get caught in a trap once in a while?"
+TP
+
+Taichi: "Maybe once in a hundred."
+TP
+
+WVP 0 vfCCC4021mki044
+Miki: "So, once in a long while Touko-sempai dies, and Shima-sempai dies, and Mimi-sempai dies......all at once."
+TP
+
+WVP 0 vfCCC4021mki045
+Miki: "That happened to be this time."
+TP
+
+Taichi: "The culprit......if we exempt the first case where you set the traps......was all coincidence?"
+TP
+
+WVP 0 vfCCC4021mki046
+Miki: "Coincidence can occasionally become an invisible murderer."
+TP
+
+WVP 0 vfCCC4021mki047
+Miki: "Within a loop world, there are occurrences certain to happen on occasion."
+TP
+
+Taichi: "Who stabbed Touko?"
+TP
+
+WVP 0 vfCCC4021mki048
+Miki: "I did."
+TP
+
+Taichi: "Haa?"
+TP
+
+WVP 0 vfCCC4021mki049
+Miki: "Touko-sempai has a high probability of starving to death every time."
+TP
+
+WVP 0 vfCCC4021mki050
+Miki: "So, after she'd already died this time, I stabbed her corpse with a short sword."
+TP
+
+Taichi: "For what reason?"
+TP
+
+WVP 0 vfCCC4021mki051
+Miki: "......to make sure Kiri-chin's switch would flip."
+TP
+
+WVP 0 vfCCC4021mki052
+Miki: "To make sure Kiri-chin would try to kill Sempai."
+TP
+
+Taichi: "......Miki......"
+TP
+
+WVP 0 vfCCC4021mki053
+Miki: "Ah, it's not because I hate Sempai."
+TP
+
+WVP 0 vfCCC4021mki054
+Miki: "It's just......because you're dangerous."
+TP
+
+WVP 0 vfCCC4021mki055
+Miki: "Don't you have a high probability of going berserk?"
+TP
+
+WVP 0 vfCCC4021mki056
+Miki: "When you see blood, don't you often become strange?"
+TP
+
+Taichi: "......yeah."
+TP
+
+WVP 0 vfCCC4021mki057
+Miki: "I've been trying to stabilize things, and somehow I've made it until now."
+TP
+
+Taichi: "......haha, you were taking care of me."
+TP
+
+WVP 0 vfCCC4021mki058
+Miki: "YesÅÙ"
+TP
+
+WVP 0 vfCCC4021mki059
+Miki: "Because I love Sempai when he's nice."
+TP
+
+She held emotions for a moment.
+TP
+
+WVP 0 vfCCC4021mki060
+Miki: "......but, this time there was the irregularity of Hasekura-sempai dying."
+TP
+
+She returned to being expressionless.
+TP
+
+WVP 0 vfCCC4021mki061
+Miki: "That person is beyond most humans, so she often finds my camp."
+TP
+
+Taichi: "Your 'camp' is next to the hokora?"
+TP
+
+WVP 0 vfCCC4021mki062
+Miki: "Yes. I borrowed stuff from the campout......ah, please don't move."
+TP
+
+Taichi: "I want to stop the bleeding......"
+TP
+
+WVP 0 vfCCC4021mki063
+Miki: "I'm sorry......I can't allow that......"
+TP
+
+Taichi: "Because you're going to kill me?"
+TP
+
+WVP 0 vfCCC4021mki064
+Miki: "......yes."
+TP
+
+She fell silent.
+TP
+
+Taichi: "......haa......how should I say it...if that's all true, I'm going to come back to life, but..."
+TP
+
+WVP 0 vfCCC4021mki065
+Miki: "About Hasekura-sempai, I surrender right away whenever she finds me. Then I offer her information."
+TP
+
+WVP 0 vfCCC4021mki066
+Miki: "After all, I can't possibly beat her."
+TP
+
+Taichi: "You are taking care of yourself well."
+TP
+
+WVP 0 vfCCC4021mki067
+Miki: "Your reaction when Hasekura-sempai died was entirely unknown."
+TP
+
+WVP 0 vfCCC4021mki068
+Miki: "......Kiri-chin became neurotically malicious as well, but that was going to happen at some point."
+TP
+
+Taichi: "Yeah, that's true."
+TP
+
+WVP 0 vfCCC4021mki069
+Miki: "I cannot die."
+TP
+
+WVP 0 vfCCC4021mki070
+Miki: "Just as you say......I care about myself...a lot."
+TP
+
+WVP 0 vfCCC4021mki071
+Miki: "More than anyone."
+TP
+
+Taichi: "............I get it."
+TP
+
+Taichi: "So that's Miki's ultramarine."
+IF $tlnote != 0 (TL note: The "Gunjou" in "Gunjou Institute" literally means the color "ultramarine." This meaning can be specified by saying "Gunjou-iro (Gunjou-colored)" as Taichi does here.)
+TP
+
+WVP 0 vfCCC4021mki072
+Miki: "......yes, that would be it."
+TP
+
+WVP 0 vfCCC4021mki073
+Miki: "I don't understand people's pain at all."
+TP
+
+WVP 0 vfCCC4021mki074
+Miki: "It's like living while pretending to be a person."
+TP
+
+WVP 0 vfCCC4021mki075
+Miki: "Those are words Kiri-chin once used to reproach Sempai."
+TP
+
+Taichi: "......though I don't remember them."
+TP
+
+WVP 0 vfCCC4021mki076
+Miki: "Ah, well things have gone that way before."
+TP
+
+Taichi: "Aaah, for me before the reset."
+TP
+
+WVP 0 vfCCC4021mki077
+Miki: "Sempai isn't mimicking anything."
+TP
+
+WVP 0 vfCCC4021mki078
+Miki: "You're just......trying to be a person."
+TP
+
+WVP 0 vfCCC4021mki079
+Miki: "So, the one who really was mimicking and being a parasite......was me."
+TP
+
+Taichi: "......you can't just hide in the hokora forever, can you?"
+TP
+
+WVP 0 vfCCC4021mki080
+Miki: "......that would be nice, but......"
+TP
+
+WVP 0 vfCCC4021mki081
+Miki: "I'm going to go mad from boredom, you know?"
+TP
+
+Taichi: "Aaah......that's true......"
+TP
+
+WVP 0 vfCCC4021mki082
+Miki: "Maintaining everyone's state of mind, negotiating with Hasekura-sempai, being careful not to......I'm repeating those things endlessly."
+TP
+
+Taichi: "Must be rough."
+TP
+
+WVP 0 vfCCC4021mki083
+Miki: "But, when I'm doing those things, I stay as the innocent me......being stupid with Sempai......being in the club with everyone......"
+TP
+
+Taichi: "......if your subjective time is protected by being at the hokora......what happens when Miki becomes an adult?"
+TP
+
+WVP 0 vfCCC4021mki084
+Miki: "......I haven't thought about it."
+TP
+
+WVP 0 vfCCC4021mki085
+Miki: "Though there will probably come a time where I have to be reset."
+TP
+
+WVP 0 vfCCC4021mki086
+Miki: "Because......I'm already a different person......"
+TP
+
+Taichi: "Are you scared?"
+TP
+
+WVP 0 vfCCC4021mki087
+Miki: "I'm scared."
+TP
+
+WVP 0 vfCCC4021mki088
+Miki: "I'm scared of no longer being myself."
+TP
+
+Tears flowed.
+TP
+
+WVP 0 vfCCC4021mki089
+Miki: "I'm scared to disappear...in this world with no one in it."
+TP
+
+WVP 0 vfCCC4021mki090
+Miki: "......but..."
+TP
+
+WVP 0 vfCCC4021mki091
+Miki: "For some reason...I get the feeling I'm all alone."
+TP
+
+Taichi: "............"
+TP
+
+WVP 0 vfCCC4021mki092
+Miki: "Somehow...it's all gotten hollow."
+TP
+
+Miki lowered her weapon.
+TP
+
+WVP 0 vfCCC4021mki093
+Miki: "By talking to Sempai now...it's gotten even more hollow."
+TP
+
+Taichi: "Yep. Because this was as long a talk as something the principal would give."
+TP
+
+WVP 0 vfCCC4021mki094
+Miki: "......you're not acting scared at all."
+TP
+
+Taichi: "That was a very interesting story."
+TP
+
+WVP 0 vfCCC4021mki095
+Miki: "......ahaha......Sempai really is a more amazing person than me."
+TP
+
+Taichi: "Youko-chan's on a completely different level."
+TP
+
+WVP 0 vfCCC4021mki096
+Miki: "That person......she's close to perfect, but......but she isn't a well-rounded person, is she?"
+TP
+
+WVP 0 vfCCC4021mki097
+Miki: "You're different."
+TP
+
+WVP 0 vfCCC4021mki098
+Miki: "You're the same as me, but you have more to deal with, and yet you work several times harder than I do."
+//"Me" was used right before that. I decided it was better to do this or make that first part a seperate sentence.-Spin
+TP
+
+WVP 0 vfCCC4021mki099
+Miki: "You don't give up."
+TP
+
+She came closer.
+TP
+
+WVP 0 vfCCC4021mki100
+Miki: "Sempai?"
+TP
+
+Taichi: "Nn?"
+TP
+
+WVP 0 vfCCC4021mki101
+Miki: "You are...the first person...I ever fell in love with."
+TP
+
+Taichi: "Aaah...I'm honored."
+TP
+
+I closed my eyes.
+TP
+
+So I'd be easier to kill.
+TP
+
+And then,
+TP
+
+WVS 1 1
+
+WVP 0 vfCCC4021mki102
+Miki: "......farewell...see you next week."
+TP
+
+Taichi: "Next week."
+TP
+
+GL 0 bgcc0000d
+GL 5 bgcc0000e
+WVP 2 SE088 1 0
+GI 5 0
+GS 0 1
+GS 5 0
+SEF 109 0
+I closed my consciousness.
+TP
+WT 1000 0
+WT 500 1
+RET

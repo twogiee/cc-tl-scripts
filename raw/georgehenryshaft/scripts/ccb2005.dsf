@@ -1,0 +1,577 @@
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+WT 500 0
+
+
+GL 0 bgcc0006
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//Wednesday September 9, 1998 -GHS
+//教室に入る。
+I enter the classroom.
+TP
+
+WVP 0 vfccb2005fyu000
+//冬子「あ、太一……」
+Touko: "Ah, Taichi..."
+TP
+WVP 1 bgm005.ogg 0 0 0
+GL 1 TCKT0006
+GP 1 230 0
+GI 1 1
+//駆け寄ってくる。
+She came running over to me,
+TP
+
+//お風呂にするそれともご飯、とでも言いそうな勢いと態度だ。
+As if wanting to ask me if I would prefer a bath, or dinner, or perhaps...
+//damn waifus. -GHS
+TP
+
+//太一「風呂に入りながらご飯を食べゆ」
+Taichi: "I'll be taking a bath while I have dinner."
+//ゆ。 -GHS
+TP
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfccb2005fyu001
+//冬子「……ふぁ？」
+Touko: "...fwha?"
+TP
+
+//太一「おはよう」
+Taichi: "'Morning."
+TP
+
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfccb2005fyu002
+//冬子「お、おはよう」
+Touko: "Mo-, 'morning."
+TP
+
+//太一「本当に来てたのか」
+Taichi: "So you really did come."
+TP
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfccb2005fyu003
+//冬子「そりゃ来るわよ」
+Touko: "Seems like I did, yes!"
+TP
+
+//太一「……荷物は？」
+Taichi: "...the bags?"
+TP
+
+WVP 0 vfccb2005fyu004
+//冬子「家」
+Touko: "Home."
+TP
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfccb2005fyu005
+//冬子「だから、帰りつきあって？」
+Touko: "So, shall we go home together?"
+TP
+
+//太一「へーい」
+Taichi: "Lee-et's."
+TP
+
+//うーむ。
+Hmmm, yes.
+TP
+
+//倦怠感というか。
+A malaise, I should say.
+TP
+
+//できちゃった結婚を突きつけられた遊び足りない遊び人２２歳ってこんな気持ちなのかな。
+The same feelings of a 22 year old playboy that hasn't played enough and is now forced into a wedding due to an unplanned pregnancy.
+//Now, if I recall correctly, 21 in eroge years is 16 in real years; Taichi is actually 17, see CCC4015. His birthday, therefore, has to be between April and September: wanna bet it's July 7th? -GHS
+TP
+
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfccb2005fyu006
+//冬子「荷物、なに持って行こうかなーって思っていろいろ探したの」
+Touko: "For the baggages, I was wondering, oh what should I bring with, so I went searching all over."
+TP
+
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfccb2005fyu007
+//冬子「そしたら古い写真が出てきたのよ？」
+Touko: "And guess whose old photos turned up?"
+//rethronical. Also rethorical, but that's not a real word. -GHS
+TP
+
+//嬉しそうに言う。
+She says that looking happy.
+TP
+
+//太一「ほう、古い写真とな」
+Taichi: "Huh, old pictures aren't they."
+TP
+
+//太一「古い写真なら、俺もいっぱい持ってる」
+Taichi: "I have plenty of old photos, as well."
+//Bit flat, but connects better below. -GHS
+TP
+
+WVP 0 vfccb2005fyu008
+//冬子「ほんと？　とっておいてくれたんだ」
+Touko: "Really? You really kept them!"
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+//古い（発禁ヘア）写真（集）なら、俺もいっぱい持ってる。
+I have plenty of old (illegally non-censored) photo(book)s, as well.
+//PCP above, natch
+TP
+
+
+//ウソは言ってない。
+I did not tell a lie.
+//THIS IS A READING KEY! he shouted. -GHS
+TP
+
+GL 1 TCKT0000
+GI 1 0
+WVP 0 vfccb2005fyu009
+//冬子「捨てなくてよかった……壁に貼ろうと思うの」
+Touko: "So glad I didn't throw them away... I'm thinking of sticking them to a wall."
+TP
+
+WVP 0 vfccb2005fyu010
+//冬子「壁が埋まっちゃうくらいあったわよ」
+Touko: "Until the wall is all buried in them!"
+//See CCD4003. Whoops. -GHS
+TP
+
+//太一「へあー」
+Taichi: "Haaahum..."
+//????????????????? -GHS
+TP
+
+//驚いてみせる。
+I display astonishment.
+TP
+
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfccb2005fyu011
+//冬子「ふふっ」
+Touko: "Heh heh!"
+TP
+
+//腕を組んできた。
+She linked her arm with mine.
+TP
+
+//展開早っ！
+Evolving too faaast!
+TP
+
+//くそう、やっぱりこの女は……。
+Dammit, I knew it, this female...
+//Creepier -GHS
+TP
+
+//俺は道具袋からアイテムを取り出す。
+//※道具袋＝太一グッズ。太一袋と呼ばれる。キャンバス地の背負い袋である。秘密道具がたくさん入っている。
+I extract an [ITEM] from the tools bag.
+> 
+* Tools bag = Taichian promotional item, called the Taichi
+  Bag. It comes in the shape of a canvas back-pack.
+  Within, many secret implements are found.
+//Lines merged. Together with the Taichi Doll, the guy seems really trying to sell his image or something. He must've misunderstood, though, they sell figurines/dakimakuras/stuff of THE HEROINES of eroge, not of the protagonists. See CCC3004 -GHS
+TP
+
+WVP 2 se100 1 0
+//それをすかさず「装備」した！
+And then I unhesitatingly Equipped it!
+//This works better with the lines merged, still RPG-like Equip. This seems to give +0 towards Tsunderes. -GHS
+//SEF 101 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+TP
+
+//太一「これを見ろ、桐原」
+Taichi: "Look at this, Kirihara."
+TP
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfccb2005fyu012
+//冬子「腕章？」
+Touko: "An arm band?"
+TP
+
+//令嬢は目をこらす。
+The young lady looks quite closely.
+//See CCA0001 -GHS
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfccb2005fyu013
+//冬子「……ばかっぷる……はんたい……」
+Touko: "...syrupples... ostracized..."
+//Syrup + couples. Terms should be tough enough that it sounds vaguely credible she'd strain a bit to read them. -GHS
+TP
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfccb2005fyu014
+//冬子「バカップル反対」
+Touko: "Syrupples ostracized."
+TP
+
+//変換する冬子。
+So finally reads Touko.
+//(overliteral translation with tongue-in-cheek TL note excised... THIS TIME.) -GHS
+TP
+
+//太一「そうだ。俺はバカップルが及ぼす環境への重大な影響を重く見て、毅然とした態度でその規制ならびに抑制に努める立場なのだ」
+Taichi: "Indeed. I have gravely seen the enormity of the impact of Syrupples on the environment, and with manners most firm, I now strive for the position to regulate and furthermore curb said impact."
+//See CCD2002 -GHS
+TP
+
+//太一「腕組みやめ」
+Taichi: "Cease this arm linking!"
+TP
+
+//振り払う。
+I shake her off.
+TP
+GL 1 TCKT0002
+GI 1 0
+WVP 0 vfccb2005fyu015
+//冬子「い、いつものことながら……なに言ってるのかわからないんだけど」
+Touko: "It-, it's always like this I know but... what are you even saying, I don't understand."
+TP
+
+//太一「人前での没頭的な愛情表現は慎むべし」
+Taichi: "One ought to be most discreet in immersive displays of affections in front of people."
+TP
+GL 1 TCKT0006
+GI 1 0
+WVP 0 vfccb2005fyu016
+//冬子「人って、もういない……」
+Touko: "People, but there's no more..."
+TP
+
+//太一「ちょっといる」
+Taichi: "There's still a few."
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfccb2005fyu017
+//冬子「うー」
+Touko: "Ngggh..."
+TP
+
+//不満げである。
+Appears to be frustrated.
+TP
+
+//太一「桐原、おまえが反転型の勝ち気娘なのはいい」
+Taichi: "Kirihara, you are the reversible model of overcompetitive girl, and this is fine."
+//Tsundere again. See CCA0014A
+TP
+
+GL 1 TCKT0004
+GI 1 0
+WVP 0 vfccb2005fyu018
+//冬子「はあ？」
+Touko: "Huh?"
+TP
+
+//太一「けどちょっと甘くしたらベタってしすぎるよ！　水気が多すぎだよ！　もっと徹底して勝ち気っぽく行こうよ！　照れる時は厳選。その方が萌え……桐原のためなんだ」
+Taichi: "But if you get this sweet, you'll also be far too hackneyed! There's too much dampness! Let's be more consistently unyielding! Select carefully when to show shyness. Someone like that is moe... be that, Kirihara!
+//Don't think he means that beta as in betabeta. -GHS
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfccb2005fyu019
+//冬子「は、はぁ……」
+Touko: "Huh, huuuh..."
+TP
+
+//太一「おまえは宝石のような女だ」
+Taichi: "You are a woman so like a precious gem."
+TP
+
+//肩に手を置いて語る。
+I say that as I put a hand on her shoulder.
+TP
+
+
+GL 1 TCKT0006
+GI 1 0
+WVP 0 vfccb2005fyu020
+//冬子「えっ（ドキッ）」
+Touko: "Eh! (flutter~)"
+TP
+
+//太一「その輝きはダイヤモンドにまさる……だが悲しいかな、ダイヤは炭素なので火にくべたら燃えてしまうんだ。ガッデム。生涯かけてたくわえた富をダイヤで保存することの愚かしさがよくわかるというものさ」
+Taichi: "That brilliance surpasses that of a diamond... but alas, a diamond is but carbon, and when thrown in a fire it burns all the way. Goddamn it. The stupidity of storing all the fortune accumulated in a lifetime in something diamond-like I have learned well."
+//http://www.popsci.com/diy/article/2009-08/burn-diamonds-torch-and-liquid-oxygen Literal swear (again). Also, Part 4, Taichi the Failed Speculator. No, he did not invest in diamonds. -GHS
+TP
+
+//髪の束をつまんで鼻先に当て、香りを楽しむ。
+I pinch a bundle of her hair and put the tip of my nose to it, to enjoy the scent.
+//??? -GHS
+TP
+
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfccb2005fyu021
+//冬子「？？？」
+Touko: "???"
+TP
+
+//太一「一長一短なんだ。そのことをわかっておくれ、私の素敵な淑女よ」
+Taichi: "You have shortcomings and strong points. This is what this one would like to have you understand, oh my fair lady."
+TP
+
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfccb2005fyu022
+//冬子「よくわからないけど、わかったわ」
+Touko: "I don't really get it but, I get it, yes."
+TP
+
+//太一「わかってくれたか」
+Taichi: "So you got it now?"
+TP
+
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfccb2005fyu023
+//冬子「……太一、恥ずかしいんだ。人前でベタベタするの」
+Touko: "...Taichi, you're embarrassed. Of being all sticky-sticky in front of people that is."
+TP
+
+//太一「あにぃ？」
+Taichi: "Brotheeer?!"
+TP
+
+//あまりにもズレた理解に、お兄ちゃんの同義語にも聞こえかねない反問が、口をついて出る。
+Her understanding shifted so far that even a flat English translation of onii-chan wasn't unlikely to slip my mouth in reply.
+//Heee heee snort -GHS
+TP
+
+//GL 1 TCKT0001
+GL 1 TCKT0000
+//HACK less suspicious Touko -GHS
+GI 1 0
+
+WVP 0 vfccb2005fyu024
+//冬子「可愛いとこあるのね」
+Touko: "You have a cute side don't you."
+TP
+WVP 2 se029 1 0
+//SEF 101 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+
+
+//ぺし、と背中を叩かれる。
+Paf, I'm slapped on the back.
+TP
+
+//萌えられてる？
+Have I just been thought moe?
+TP
+
+//この醜形恐怖症でならした黒須太一ともあろうものが、萌えられているっ！？
+This chronically dysmorphophobic Kurosu Taichi here, of all people, thought moe?!
+//http://en.wikipedia.org/wiki/Body_dysmorphic_disorder "features a suicidal ideation rate of 80 percent". Perhaps coincidental - perhaps. -GHS
+TP
+
+//許すのか、それを？
+Should I let it go, should I?
+TP
+
+
+//否！
+Never!
+TP
+
+
+//太一「やい桐原！」
+Taichi: "Hey you, Kirihara!"
+TP
+
+
+GL 1 TCKT0006
+GI 1 0
+//ちゅ
+Pchuk.
+TP
+
+
+//ちゅうされた。
+I was pchuk'd.
+//I'm discovering lots of stuff is verbs; goggle is very useful. -GHS
+TP
+
+//おでこだった。
+It was on the middle of the forehead.
+TP
+
+//俺のトキメキ回路はショートした。
+My palpitation circuit shorted.
+//should I work in a Tokimeki Memorial reference... -GHS
+TP
+
+WVP 0 vfccb2005fyu025
+//冬子「……えへへ」
+Touko: "...eheheh!"
+TP
+
+//あどけなく笑う。
+Cherubic laughing.
+TP
+
+//こ、この……、
+Wh-, why you...
+TP
+
+//ちくせう！
+//Cattle it all!
+Dammit all!
+TP
+
+//可愛いじゃねぇか！
+Ain't she so cute!
+TP
+
+GO 1 1
+//HACK out with the doll -GHS
+
+WVP 0 vfccb2005fyu026
+//冬子「きゃ？」
+Touko: "Kyah?"
+TP
+
+//抱きしめてしまった。
+I totally hugged her.
+//See CCA0008 -GHS
+TP
+
+//くっ、不覚を取った。
+Gah, that was complete defeat.
+TP
+
+//だがもう惑わされないぞ！
+But I shall never be fooled again!
+//No, you don't get the scream here. Instead here's the entire opening synth solo: [4Mb of '♪' snip'd] -GHS
+TP
+
+WVP 0 vfccb2005fyu027
+//冬子「……ごろごろ」
+Touko: "...purr, purr."
+TP
+
+//そんなオノマトペごときでこの俺様がぁっ！
+Not the Greatness that is I, not by that onomatopeiaaa!
+//See CCA0025B. -GHS
+TP
+
+WVP 0 vfccb2005fyu028
+//冬子「ごーろごろ」
+Touko: "Puuurr purr."
+TP
+
+//冬子が猫を真似て、胸元をひっかく。
+Imitating a cat, Touko scratches my belly.
+TP
+
+//太一「ふやぁ～～♪」
+Taichi: "Fmyeeeew~~~♪"
+TP
+
+//とろけきっていた。
+I melted into her charms.
+//Figurative and literal -GHS
+TP
+WVS 1 1
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+
+//バカップルここに爆誕。
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+              A Syrupple has here
+              its explosive birth.
+//See CCA0006, CCA0007, CCA0019. Now it harmonizes with Shinkawa and Kiri. -GHS
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+RET

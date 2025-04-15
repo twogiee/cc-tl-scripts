@@ -1,0 +1,131 @@
+
+
+IF $B == 1 JMP SCENE01
+IF $B == 2 JMP SCENE02
+IF $B == 3 JMP SCENE03
+IF $B == 4 JMP SCENE04
+IF $B == 5 JMP SCENE05
+IF $B == 6 JMP SCENE06
+IF $B == 7 JMP SCENE07
+IF $B == 8 JMP SCENE08
+IF $B == 9 JMP SCENE09
+IF $B == 10 JMP SCENE10
+IF $B == 11 JMP SCENE11
+IF $B == 12 JMP SCENE12
+IF $B == 13 JMP SCENE13
+IF $B == 14 JMP SCENE14
+
+
+
+
+:SCENE01
+$CIA = 101
+CALL ccb2013
+$CIA = 0
+JMP END
+
+
+
+:SCENE02
+$CIA = 102
+CALL ccb2013
+$CIA = 0
+JMP END
+
+
+
+:SCENE03
+CALL ccb2101
+JMP END
+
+
+
+:SCENE04
+$CIA = 101
+CALL ccc3027
+$CIA = 0
+JMP END
+
+
+
+:SCENE05
+$CIA = 102
+CALL ccc3027
+$CIA = 0
+JMP END
+
+
+
+:SCENE06
+$CIA = 103
+CALL ccc3027
+$CIA = 0
+JMP END
+
+
+
+:SCENE07
+CALL ccc4022
+JMP END
+
+
+
+:SCENE08
+CALL ccd4003
+JMP END
+
+
+
+:SCENE09
+CALL cca0025c
+JMP END
+
+
+
+:SCENE10
+$CIA = 101
+//CALL ccd1001
+CALL ccd1001B
+//HACK as the script was split, the sex scenes are now here. For the three people who'll use scene replay... -GHS
+$CIA = 0
+JMP END
+
+
+
+:SCENE11
+$CIA = 102
+CALL ccd1001
+$CIA = 0
+JMP END
+
+
+
+:SCENE12
+CALL ccd0022a
+JMP END
+
+
+
+:SCENE13
+$CIA = 101
+CALL ccd5001
+$CIA = 0
+JMP END
+
+
+
+:SCENE14
+$CIA = 102
+CALL ccd5001
+$CIA = 0
+JMP END
+
+
+
+
+
+
+
+:END
+WCLOSE 0
+WOPEN 0 KAISOU 0 0 640 480

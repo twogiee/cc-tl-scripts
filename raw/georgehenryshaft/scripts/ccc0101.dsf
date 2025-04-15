@@ -1,0 +1,365 @@
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//受け入れる？
+Accept it?
+TP
+
+
+//死を、この俺が？
+Me? Death?
+TP
+
+
+//まさか、と思うのだ。
+Absurd, I think.
+TP
+
+
+//自分が死を肯定できるとは思えない。
+I don't think I would be able to consent to my own death.
+TP
+
+
+//生存への本能は強い方だ。
+The instinct to exist is very strong.
+TP
+
+
+//砂漠の虫みたいに、しぶといはず。
+As tenacious, likely, as an insect in the desert.
+TP
+
+
+//それに、霧が向けてくる憎悪が、俺にははかりかねた。
+Besides, the hatred that came from Kiri was something I didn't really know what to do with.
+TP
+
+
+
+//不意に、腹が立った。
+Unexpectedly, I grew annoyed.
+//See CCA0011C. -GHS
+TP
+
+
+
+//生きるべきなのに。
+I should be living, but,
+TP
+
+
+//絶望しかないのに。
+there's nothing but despair, so,
+TP
+
+
+//笑っていかねばならないのに。
+I should just laugh, yet...
+TP
+
+GL 0 zzzCCC0101zoom1
+GS 5 0
+GS 0 1
+SEF 109 0
+//HACK groan... these are always a pain to make. -GHS
+
+
+//太一「霧……やめよう」
+Taichi: "Kiri... let's stop."
+//Likely exactly what happened at the end of the Misato route of Downfall -GHS
+TP
+
+
+//一歩、前に出る。
+I take one step... forwards.
+TP
+
+GL 0 zzzCCC0101zoom2
+GI 0 1
+//HACK moar zoom -GHS
+
+
+//太一「今は、殺し合ってる場合じゃないだろ？」
+Taichi: "This here, isn't it just a case of mutual murder?"
+//It was all settled above. This is just perfunctory. -GHS
+TP
+
+
+//一歩、前に出る。
+I take one step... forwards.
+//CP ^
+TP
+
+
+GL 0 zzzCCC0101zoom3
+GI 0 1
+//HACK moar zoom -GHS
+
+//太一「俺が嫌いなのはわかったよ、けどだからって殺し合いは」
+Taichi: "You hate me, I get it, but still, now, killing each other,"
+TP
+
+
+//一歩、前に出る。
+I take one step... forwards.
+//CP ^
+TP
+
+GL 0 zzzCCC0101zoom4
+GI 0 1
+//HACK moar zoom??? -GHS
+
+
+//太一「ナンセンスじゃないか」
+Taichi: "it's nonsense innit."
+TP
+
+
+//一歩、前に出る。
+I take one step... forwards.
+//CP ^
+TP
+
+
+//太一「それにお互いのためにならない。君だって危険なんだ」
+Taichi: "Besides, this won't be good for each other. Even you're in danger."
+TP
+
+
+//もし、曜子ちゃんが見ていたら。
+Supposing Youko-chan was looking,
+//Nope. Sent her packing, remember? So when she shows up... -GHS
+TP
+
+
+//霧は一秒後には死ぬかも知れない。
+Kiri could even die the very next second, perhaps.
+TP
+
+
+//けど、どうやって説明したらいいのか。
+But... how could I even explain this to her?
+TP
+
+
+//彼女のこわさを。
+How terrifying she is...
+//With ever more implications that she's the part of him that Kiri should be afraid of, not his fooling around. -GHS
+TP
+
+
+//俺は焦る。
+I grow impatient.
+TP
+
+
+//つい、踏み込みすぎた。
+Accidentally, I treaded too far into her territory.
+TP
+
+
+//太一「豊のことは―――」
+Taichi: "Yutaka was---"
+TP
+
+
+WVP 0 vfCCD0001kri021
+//霧「―――ッ！！」
+Kiri: "---!!!"
+TP
+
+
+
+GL 4 zzzCrossbowBolt
+GP 4 480 0
+GI 4 0
+CIN 4 480 0 0 0
+CR 0
+//HACK in the bolt. -GHS
+
+//軽く鳴った。空気が。
+A light ringing. Of the air.
+TP
+
+
+GL 5 BGCC0000E
+GI 5 0
+WT 25 0
+GS 4 0
+GS 5 0
+SEF 100 0
+WVP 2 SE066 1 0
+//HACK flash white and remove bolt. There's no SFX in any version, for some reason, but it sounds odd without it. -GHS
+
+//ちょうど俺の胸部に、黒々とした矢が冗談のように刺さっていた。
+As if a joke, a dark black bolt was stuck precisely in the middle of my chest.
+TP
+
+
+//太一「うあ……」
+Taichi: "Gwoh..."
+TP
+
+
+//しくじった。
+Fail.
+//LOLFail. -GHS
+TP
+
+
+//撃たれたというショックから、その場に座り込む。
+//From the shock that was being struck, I gave a sit-in of protest on the spot. Don't bolt me, bro!
+I fell down sitting on the spot from the shock that was being struck.
+TP
+
+
+//苦痛がない。
+Agony there isn't.
+//However... see CCC3022. -GHS
+TP
+
+
+//全然、不自然なほどない。
+None at all, unnaturally so.
+TP
+
+
+//死が近いとも感じられない。
+I cannot even feel if death is coming closer.
+TP
+
+
+//まいったな、これは……苦しむぞ？
+Oh, I give up, is this... suffering?
+TP
+
+GO 0 1
+//HACK to black -GHS
+
+//ゆっくりと横倒しになる。
+Slowly I begin to topple sideways.
+//It's the exact same identical reaction he had when Kiri called him really mean words. Could be a parallel, of course... could be that what's happening now is the exact same thing. If a few words can slay Youko, so Taichi can be done the same. Calling him on his hair or eyes, maybe. Calling him on his fake parallel world or transvestitism, maybe. -GHS
+TP
+
+
+//机の森の中、俺は倒れた。
+I collapsed in the midst of a forest of desks.
+TP
+
+
+//霧が見えなくなる。
+I cannot see Kiri anymore.
+TP
+
+
+//太一「……はっ……はっ……はっ……」
+Taichi: "...hah... ...hah... ...hah..."
+TP
+
+
+//浅い呼吸。
+Shallow breathing.
+TP
+
+
+//まだ死なないのか。
+Am I still not dead yet?
+TP
+
+
+//大きな苦しみが近づいてくるのがわかる。
+I know that great suffering is approaching me.
+TP
+
+
+//……ああ、いやだ。
+...ahhh, that's bad.
+TP
+
+
+//即死は幸せなんだと知る。
+I recognize now that instant death is happiness.
+TP
+
+
+//太一「はっはっはっはっはっはっ―――」
+Taichi: "HahHahHahHahHahHah---"
+//Maybe he's just laughing... -GHS
+TP
+
+
+//気がつくと、呼吸が恐ろしく浅くなっている。
+When I come to notice, my breath is becoming frightfully shallow.
+TP
+
+
+//意識が霞んできた。
+My awareness became a dim haze.
+//日付さえおぼろげな、遠い霞のなか。 -GHS
+TP
+
+
+//霧の悲鳴が聞こえた。
+I could hear Kiri shrieking.
+TP
+
+
+//ガラスの割れる音。
+The sound of glass being cracked.
+//Possibly something was flung at the window, which caused the guards to intervene. See CCD1001: Youko, on being revealed, shatters like glass. -GHS
+TP
+
+
+//視界の外、何かが、肉に、食いこんだ。
+Out of sight... something had... eaten down... into flesh.
+//Catfight? See CCA0017A, someone likes to bite indeed. See CCA0003 as well -GHS
+TP
+
+
+//太一「はっはっはっはっはっはっ―――は―――」
+Taichi: "HahHahHahHahHahHah---hah---"
+TP
+
+
+//唐突に呼吸が停止した。
+Suddenly the breathing came to a halt.
+TP
+
+
+//眼球が濁ったかのように、暗くなっていく。
+Eyeballs went dark, as if covered with mud.
+TP
+
+
+//最後の瞬間、
+That final instant,
+TP
+
+GL 5 TCHY0000A
+GP 5 0 0
+GI 5 0
+WT 100 0
+GO 5 0
+//HACK OK this is creepy. Curiously, it's only in the PS2 version and it's not centered. Works better this way, however, because the reader's sight is on the left side of the screen at this point. -GHS
+
+
+WVP 0 vfCCD5001you224
+//曜子「……！」
+Youko: "...!"
+TP
+
+
+//彼女を見た。
+I saw her.
+//..."crossdresser", "girl wannabe"... -GHS
+TP
+
+//Notice the lack of loop video. -GHS
+
+
+
+RET

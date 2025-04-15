@@ -1,0 +1,503 @@
+//Friday September 11, 1998 -GHS
+GL 0 bgcc0003b
+GS 0 1
+GS 1 0
+//SEF 152 0
+SEF 109 0
+//HACK different dissolve due to coming from flashback -GHS
+
+//太一「さて、そろそろ寝ますか」
+Taichi: "So then, isn't it about time we went to sleep?"
+TP
+
+//俺は伸びをして、こった関節をほぐした。
+//I stretched, loosening the stiffened joints.
+//This is a new line from the console version, but he stretches three lines below already so it makes no sense. Cautiously leaving it out. -GHS
+
+WVP 1 bgm010.ogg 0 0 0
+
+GL 1 TCKT0001c
+GP 1 230 0
+GI 1 1
+WVP 0 vfccb2017fyu000
+//冬子「わん」
+Touko: "Wof."
+TP
+
+//太一「んー、冬子はお嬢様なのにチェスが弱いよな」
+Taichi: "Hmmm, you're so bad at chess for being a wealthy lady, Touko."
+TP
+
+//伸びをする。
+I stretch.
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfccb2017fyu001
+//冬子「……わん」
+Touko: "...woof."
+TP
+
+//１０勝０敗だった。
+Results were 10 wins, 0 losses.
+//10-0 = 7. No, wait, 10*0=7. Ahhh, right, 10/0=10? Math is hard. -GHS
+TP
+
+//海から戻ってきて、なぜか冬子は萎んでしまったので、気を紛らわせようと勝負を挑んだのだった。
+On return from the beach, for some reason Touko seemed to be wilting, so to distract her I challenged her to a game.
+TP
+
+//太一「夜食とかいる？」
+Taichi: "Want some midnight snacks?"
+TP
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfccb2017fyu002
+//冬子「わん」
+Touko: "Wof."
+TP
+
+//首を左右に振る。
+Her head shakes left and right to the neck.
+TP
+
+//太一「じゃ寝るとするか」
+Taichi: "Well, to sleep then."
+TP
+
+//太一「ほら、おいで」
+Taichi: "So, come here."
+TP
+
+//優しく呼びかけると、冬子は顔を赤くした。
+Called to with gentleness, Touko's face reddens.
+TP
+
+GL 1 TCKT0006c
+GI 1 0
+
+WVP 0 vfccb2017fyu003
+//冬子「……わぅん」
+Touko: "...wooof."
+TP
+GO 1 1
+//ベッドにあげる。
+We get on the bed.
+TP
+
+//抱きしめる。
+Hugging tight.
+TP
+
+//太一「んー」
+Taichi: "Mmmh."
+TP
+
+//首筋にキスを繰り返す。
+Kisses on her nape again and again.
+TP
+
+WVP 0 vfccb2017fyu004
+//冬子「……わふっ……んっ……わんっ」
+Touko: "...whfwh... nh... woohf."
+TP
+
+//太一「ところでさ」
+Taichi: "By the way."
+TP
+
+WVP 0 vfccb2017fyu005
+//冬子「……わん？」
+Touko: "...wof?"
+TP
+
+//太一「どうしてわんわん言ってるの？」
+//Taichi: "Why are you going 'woof, woof' instead of 'wan, wan' like a real Japanese dog?"
+Taichi: "Why are you going 'woof, woof'?"
+TP
+GL 1 TCKT0003c
+GI 1 1
+WVP 0 vfccb2017fyu006
+//冬子「あんたがチェスで負けた罰として、犬語を強要したんじゃない！！」
+Touko: "Because as a punishment for losing at chess you made me talk like a dog dammit!!!"
+TP
+
+//太一「あー、そうだっけ」
+Taichi: "Ahhh, was that it."
+TP
+
+//忘れてた。
+I forgot.
+//He might've, seriously. -GHS
+TP
+
+//太一「じゃあ犬語で」
+Touko: "So, woof like a dog."
+TP
+GL 1 TCKT0001c
+GI 1 0
+WVP 0 vfccb2017fyu007
+//冬子「……あの……その前にひとつ質問なんだけど……いつまで犬やってればいいの？」
+Touko: "...uhm... before that I'd have one question though... how long do I have to be a dog?"
+TP
+
+//太一「次のチェスで冬子が勝つまで……」
+Taichi: "Until your next victory at chess, Touko..."
+TP
+//GL 1 TCKT0005c
+GL 1 TCKT0004c
+//HACK sweatdrop Touko -GHS
+GI 1 0
+WVP 0 vfccb2017fyu008
+//冬子「犬になって死んじゃう！」
+Touko: "'ll be a dog unt'l death!"
+//Lisp -GHS
+TP
+
+//顔を覆った。
+She covers her face.
+TP
+
+//太一「じゃあ、今日これから一時間Ｈなことして、冬子が一度もイかなかったら許してあげる」
+Taichi: "Well then, on this day and this moment I will be performing an hour of sexual acts, and if you can manage not to come even once, I'll let you off."
+TP
+GL 1 TCKT0001c
+GI 1 0
+//冬子「……」
+Touko: "..."
+TP
+
+WVP 0 vfccb2017fyu010
+//冬子「変態」
+Touko: "Pervert."
+TP
+GL 1 TCKT0003c
+GI 1 0
+WVP 0 vfccb2017fyu011
+//冬子「変態変態」
+Touko: "PervertPervert."
+TP
+
+//太一「うひ」
+Taichi: "Uhyyy!"
+TP
+
+WVP 0 vfccb2017fyu012
+//冬子「変態変態変態っ」
+Touko: "PervertPervertPervert!"
+TP
+
+//太一「その通りですよ、お嬢様」
+Taichi: "That is most certainly correct, ojou-sama."
+TP
+GL 1 TCKT0001c
+GI 1 0
+WVP 0 vfccb2017fyu013
+//冬子「……いちじかん？」
+Touko: "...one hour?"
+TP
+
+//太一「いえす」
+Taichi: "Hai."
+//screw it *chug* -GHS
+TP
+
+//顎を立て肘で支える。検討。
+She supports her chin on her elbow. Pondering.
+TP
+
+//Ｈするとき、だいたい一時間はゆるゆると触りあう。
+When having sex, normally one hour is a slow leisurely reciprocal touch.
+TP
+
+//飛ばす必要はないし、時間は余るほどあるのだから、当然だ。
+There's no need to rush, because we have time in excess, so it's a matter of course.
+TP
+
+//冬子にしてみればそれが全ての判断材料となる。
+Looking at Touko, those seem to be the entirety of the materials for her judgment.
+//See CCC0007 -GHS
+TP
+GL 1 TCKT0005c
+GI 1 0
+WVP 0 vfccb2017fyu014
+//冬子「いいわよ」
+Touko: "Fine then."
+TP
+GL 1 TCKT0000c
+GI 1 0
+WVP 0 vfccb2017fyu015
+//冬子「楽勝だと思うわ」
+Taichi: "I think I'll win easy, yes."
+TP
+
+//この言葉がいけなかった。
+Those words cannot be made to pass.
+TP
+
+//火がついた。
+A provocation that lit a fire in me.
+TP
+
+//太一「そーですか」
+Taichi: "Dooo you now."
+TP
+
+
+
+
+//Sex scene obviously missing. The sex alt scene in the console version is pretty funny, but like all sex alt scenes it relies on pre-established fourth wall breakage and they can't be easily imported. -GHS
+
+
+
+
+WVS 1 1
+
+GL 4 bgcc0000d
+GP 4 0 0
+GS 4 1
+SEF 155 1
+WT 500 0
+WT 1500 1
+GS 1 0
+GS 4 0
+SEF 155 1
+
+
+
+//太一「ほら、うちでは客は床に寝るんだ」
+Taichi: "Come on, guests in this house sleep on the floor."
+TP
+
+WVP 0 vfccb2017fyu016
+//冬子「……ううう、床がかたいと眠れないのに……けち」
+Touko: "...ngggh, the floor's hard and I can't sleep on it... tightwad."
+TP
+
+//太一「女の子が横に寝てたら、一晩中Ｈな悪戯し続けるしかない」
+Taichi: "If a girl were to sleep next to me, there would necessarily be continued sexual mischief all night long."
+TP
+
+WVP 0 vfccb2017fyu017
+//冬子「しかないって……」
+Touko: "Necessarily..."
+//To avoid too many apostrophe's (why is that not the correct plural really???) -GHS
+TP
+
+//太一「眠れないんだったら、好きな部屋のベッド使っていいからさ」
+Taichi: "If you can't sleep there, then you can use the bed in any room you like."
+TP
+
+WVP 0 vfccb2017fyu018
+//冬子「……ぅー」
+Touko: "...(nnngh.)"
+TP
+
+WVP 1 bgm013.ogg 0 0 0
+
+//悩んでいる。
+Worried.
+TP
+
+//瞳が切ない感じだ。
+I can feel the misery in her eyes.
+TP
+
+//俺も心も切ない感じだ。
+I can feel the misery in my heart, as well.
+TP
+
+//太一「ふ、不服かね？」
+Taichi: "Di-, dissatisfied?"
+TP
+
+WVP 0 vfccb2017fyu019
+//冬子「いい……ここで、寝るわよ」
+Touko: "Fine... I'll sleep here, yes!"
+TP
+
+//くそ、可愛いな。
+Dammit, so cute.
+TP
+
+//離れて寝たくないんだな。
+I don't want to sleep away from her,
+TP
+
+//けど甘くしたら駄目。
+but if I spoil her she'll get problematic.
+TP
+
+//冬子はどんどん駄目になっていく。とろけていってしまう。
+Touko would grow steady and quickly into uselessness. She would completely melt.
+TP
+
+//まるで飴玉のように。
+Just like she's candy.
+TP
+
+//だからゆっくりゆっくり、時間をかけてなめる。
+That is why I will lick slowly but slooowly, taking my time.
+//See CCA0015. Whoops. -GHS
+TP
+
+//……なくならないように。
+...so as not to make her disappear.
+TP
+
+WVP 0 vfccb2017fyu020
+//冬子「……太一、適度に厳しい」
+Touko: "...Taichi, you're pretty unsparing."
+TP
+
+//まさに。
+Very much so.
+TP
+
+//太一「おやすみー」
+Taichi: "G'niiight."
+TP
+
+WVP 0 vfccb2017fyu021
+//冬子「かたい……いたい……くすん」
+Touko: "Hard... hurts... sob."
+TP
+
+//床に敷いた薄い布団に、身を横たえた。
+She lies down over a thin futon spread out on the floor.
+TP
+
+//俺も横になる。
+I lie down as well.
+TP
+WVS 1 1
+GL 0 bgcc0000c
+GS 0 1
+SEF 155 1
+
+//シン、と空気が静まった気がした。
+It felt like things had grown audibly quiet.
+TP
+
+//窓から星の光が、無数の柱となって櫛目を作る。
+The lights of the stars become countless colonnades that comb the room from the window.
+//Verb works better than noun here. -GHS
+TP
+
+//別世界のようだった。
+It was as if a different world.
+//Ow ow ow stop beating me over the head dammit -GHS
+TP
+
+WVP 0 vfccb2017fyu022
+//冬子「ねえ……太一……」
+Touko: "Say... Taichi..."
+TP
+
+//背中が語る。
+Words from my back.
+//OMFG REVELATION HE WAS ACTUALLY LAYING ON HIS SIDE AND ON THE SIDE **OPPOSITE** FROM TOUKO'S!!! Also see CCD2002 for various reasons and science. -GHS
+TP
+
+//太一「ん？」
+Taichi: "Hm?"
+TP
+WVP 1 bgm021.ogg 0 0 0
+
+WVP 0 vfccb2017fyu023
+//冬子「ずっと一緒に、いられるのかな……」
+Touko: "Will we always be able to be... together, I wonder..."
+TP
+
+//太一「イヤって言っても、まとわりついてやる」
+Taichi: "Even if you said you don't want to, I'd still be coiled all around you."
+//Suuubtly creepy. -GHS
+TP
+
+WVP 0 vfccb2017fyu024
+//冬子「……ふふ、だったら平気かな」
+Touko: "...heheh, then we should be alright I guess."
+TP
+
+//太一「どうしてそんなことを？」
+Taichi: "Where's this coming from?"
+TP
+
+WVP 0 vfccb2017fyu025
+//冬子「だって、人が消えたのよ？　私たちだっていつか……」
+Touko: "Because, people have vanished right? So, someday the two of us too..."
+//See CCD2002 again. -GHS
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+WVP 0 vfccb2017fyu026
+//冬子「消えるなら、せめて一緒がいい……のに……」
+Touko: "If we do disappear, at least if we're together... it'd..."
+TP
+
+//冬子は眠った。
+Touko was asleep.
+TP
+
+//一緒、か。
+Together, then.
+TP
+
+//深く考えたことはなかった。
+I had never given it deep thought,
+TP
+
+//人がいなくなったことについて。
+to that idea of people not being there anymore.
+TP
+
+//なぜ消えたのか？
+Why did they vanish?
+TP
+
+//いかにして消えたのか？
+In what way did they vanish?
+TP
+
+//説明できる材料は何もない。
+I have no materials whatsoever to be able to explain this.
+//Same as above. -GHS
+TP
+
+//曜子ちゃんだって、何も言ってこないんだ。わからないに違いない。
+Youko-chan herself didn't say a word about this, either. She doesn't know, no mistake.
+TP
+
+//彼女をもってしても、原因を予測することさえできない。
+Even making use of her, merely estimating a cause is impossible.
+//Suspiciously specific. -GHS
+TP
+
+//窓から夜空を眺めた。
+I gazed at the night sky out the window.
+TP
+
+//だからこの八人で、生きていくしかない。
+That is why there is no choice but to live together for the eight of us.
+TP
+WVS 1 1
+
+//傷つけたり、好きあったりしながら。
+While hurting each other, while loving each other.
+TP
+
+
+GL 0 bgcc0000d
+GS 0 1
+//SEF 155 1
+SEF 109 3
+//HACK slower fade out instead. -GHS
+WT 500 0
+WT 500 1
+RET

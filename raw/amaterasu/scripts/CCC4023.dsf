@@ -1,0 +1,337 @@
+
+
+
+
+
+GL 0 bgcc0002
+GS 0 1
+SEF 109 2
+
+When I woke up, Miki was in my arms.
+TP
+
+
+WVP 1 bgm003.ogg 0 0 0
+
+WVP 0 vfCCC4023mki000
+Miki: "Fuwa......"
+TP
+
+Our eyes met.
+TP
+
+WVP 0 vfCCC4023mki001
+Miki: "......kya!?"
+TP
+
+Taichi: "Hey!"
+TP
+
+WVP 0 vfCCC4023mki002
+Miki: "Eh, huh? Where am...?"
+TP
+
+Is she getting disturbed?
+TP
+
+Taichi: "Didn't we just do something erotic?"
+TP
+
+WVP 0 vfCCC4023mki003
+Miki: "Ah, that's right......right, right."
+TP
+
+She stuck out her tongue.
+TP
+
+Taichi: "You really......"
+TP
+
+WVP 0 vfCCC4023mki004
+Miki: "*sob*......buuut, I can't imagine that as anything other than normal sexual harassment."
+TP
+
+Taichi: "......hmmm."
+TP
+
+WVP 0 vfCCC4023mki005
+Miki: "Aaah, I'm not a virgin anymore."
+TP
+
+Taichi: "Yep. You're an excellent beech now."
+//I only pray that was a callback gag to the line in which I assumed he meant the tree and not the beach. Å`IX
+TP
+
+WVP 0 vfCCC4023mki006
+Miki: "Gabu."
+TP
+
+My nose was bitten.
+TP
+
+Taichi: "Owww!!"
+TP
+
+WVP 0 vfCCC4023mki007
+Miki: "And now a kiss!"
+TP
+
+She jumped onto me.
+TP
+
+Taichi: "Whoa."
+TP
+
+She embraced me head on and kissed me.
+TP
+
+WVP 0 vfCCC4023mki008
+Miki: "Nnn......nnn......nnnnn......"
+TP
+
+A morning saliva exchange.
+TP
+
+......now I'm hard.
+TP
+
+WVP 0 vfCCC4023mki009
+Miki: "Uu......this...stiffness?"
+TP
+
+Taichi: "Well..."
+TP
+
+WVP 0 vfCCC4023mki010
+Miki: "......wanna do it?"
+TP
+
+Taichi: "I want to, but......are we okay for time?"
+TP
+
+WVP 0 vfCCC4023mki011
+Miki: "Aaah......"
+TP
+
+WVP 0 vfCCC4023mki012
+Miki: "Then, kissing instead!"
+TP
+
+Do girls like kissing?
+TP
+
+WVP 0 vfCCC4023mki013
+Miki: "Nnn."
+TP
+
+I have my alarm clock set for ten AM on Sundays, but...
+TP
+
+I spent nearly an hour kissing Miki.
+TP
+
+WT 1000 0
+WT 500 1
+
+
+GL 0 bgcc0004
+GS 0 1
+SEF 152 0
+
+GL 1 TCYM0000
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC4023mki014
+Miki: "Chooon."
+TP
+
+There was Miki punctually wearing her uniform.
+TP
+GL 1 TCYM0011
+GI 1 0
+
+WVP 0 vfCCC4023mki015
+Miki: "I feel so refreshed."
+TP
+
+Taichi: "Yep."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4023mki016
+Miki: "Taichi-kun is also feeling refreshed."
+TP
+
+Taichi: "Yeaaah."
+TP
+
+We both entered the bathwater.
+TP
+
+Though it was precious overnight water, today is the end anyway so it doesn't matter.
+IF $tlnote != 0 (TL note: If water is allowed to sit in certain filters overnight (including sand), it can be made sanitary without boiling.)
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC4023mki017
+Miki: "......what are you doing?"
+TP
+
+Taichi: "There."
+TP
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC4023mki018
+Miki: "Aaah, a bottle suddenly popped up!"
+TP
+
+WVP 0 vfCCC4023mki019
+Miki: "Eh? How?"
+TP
+
+Taichi: "When you were getting in, I chilled this in the mini-fridge on high power."
+//Literal was "fast mode" but from what little I know of refrigerators, this feels more likely. Å`IX
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4023mki020
+Miki: "It's a Ramune with the marble inside."
+IF $tlnote != 0 (TL note: Ramune is a Japanese soft drink brand famous for the unique bottle design with a marble inside a narrowed portion of the bottle neck.)
+TP
+
+Taichi: "Eighty yen at the Tasaki Shop."
+IF $tlnote != 0 (TL note cont: The marble seals in the carbonation until pushed down with a special device included with the drink, then it rattles around while one drinks.)
+TP
+
+WVP 0 vfCCC4023mki021
+Miki: "Pretty..."
+TP
+
+Taichi: "You can see the world sparkling beautifully through the marble."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4023mki022
+Miki: "It's like summer."
+TP
+
+Taichi: "Yep."
+TP
+
+We drank the Ramune together.
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4023mki023
+Miki: "It's gotten beautiful, and the Ramune was great, so I think I'll be going soon."
+TP
+
+Taichi: "I was thinking I'd go to club."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4023mki024
+Miki: "......you're really going to go to the club?"
+//Sounded like that should be a question.-Spin
+TP
+
+Taichi: "All the preparations are made."
+TP
+
+Taichi: "Even that broken antenna might reach somewhere."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4023mki025
+Miki: "Umm..."
+TP
+
+WVP 0 vfCCC4023mki026
+Miki: "Won't you live in the same time with me?"
+TP
+
+Eyes asking me,
+TP
+
+Seriously.
+TP
+
+Taichi: "......I appreciate the offer, but..."
+TP
+
+WVP 0 vfCCC4023mki027
+Miki: "Are you sure?"
+TP
+
+Taichi: "I want to forget. The aftertaste is pretty bad."
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCC4023mki028
+Miki: "......I've been watching Sempai every week."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4023mki029
+Miki: "Not all the Sempais are the same person, you know?"
+TP
+
+Taichi: "That's true."
+TP
+
+WVP 0 vfCCC4023mki030
+Miki: "The you and me living and talking here now will only happen once."
+TP
+
+Taichi: "But Miki, you're forgetting."
+TP
+
+Taichi: "My rationality is an incredibly easy thing to break."
+TP
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCC4023mki031
+Miki: "Ah......"
+TP
+
+Taichi: "If we're together forever, Miki will be in danger."
+TP
+
+Taichi: "Because Miki's so cute, I might put more force into it."
+TP
+
+I rubbed her head.
+TP
+
+WVP 0 vfCCC4023mki032
+Miki: "......this won't go anywhere."
+TP
+
+Taichi: "That's how it works."
+TP
+
+Taichi: "Well, if you ever want someone to spoil you, please ask the other Kurosu Taichis anytime."
+TP
+
+Miki: "............"
+TP
+
+There was no answer.
+TP
+
+Taichi: "Now, are we going?"
+TP
+
+
+RET

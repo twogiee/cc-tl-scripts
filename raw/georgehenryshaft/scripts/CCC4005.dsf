@@ -1,0 +1,74 @@
+GL 0 bgcc0005a
+GS 0 1
+SEF 152 
+
+
+
+
+//帰路を歩く。
+Walking on the road home.
+//CP CCC3003
+TP
+
+WVP 1 bgm015.ogg 0 0 0
+
+//太一「うーむ」
+Taichi: "Mmmh-hmm."
+//CP CCC3003
+TP
+
+//結局、何もない一日を過ごしてしまった。
+In the end, one whole day passed with nothing done.
+//CP CCC3003
+TP
+
+
+
+//どうも身が入らない。
+Somehow I just wasn't into things.
+//CP CCC3003
+//This is probably what his last sentence in the last script meant. Except it's a CP... -GHS
+TP
+
+//それに……学校に行っても賑やかさは感じられない。
+Besides... I might have gone to school, but I cannot feel its bustling liveliness.
+//CP CCC3003
+TP
+
+//世界はガラスキになっている。
+The world had become almost entirely uninhabited.
+//CP CCC3003
+TP
+
+//八人では世界とは言えない。
+With eight people one cannot call it a world.
+//CP CCC3003
+TP
+
+//永遠の一夏。
+A single eternal Summer...
+//CP CCC3003
+TP
+
+//俺たちは、時の渦にとらわれた人類の残骸なんだろうか。
+We might just be the wreckage of mankind caught in the swirl of an eddy of time.
+//CP CCC3003
+//How does he know in this route? -GHS
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+//わからなかった。
+I did not understand.
+TP
+
+//わかるはずがなかった。
+There was no expectation I could understand.
+TP
+
+WVP 1 bgm015.ogg 0 0 0
+
+RET

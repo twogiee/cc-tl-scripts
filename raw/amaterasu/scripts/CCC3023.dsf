@@ -1,0 +1,785 @@
+
+I search for Kiri.
+TP
+
+For what purpose?
+TP
+
+An apology?
+TP
+
+Or perhaps......
+TP
+
+WVS 1 1
+
+I don't know.
+TP
+
+Impulses were moving me, making me wander throughout the school.
+TP
+
+GL 0 bgcc0007
+GS 0 1
+GS 1 0
+SEF 152 0
+
+WVP 1 bgm003.ogg 0 0 0
+
+Sempai and Miki were there.
+TP
+
+It looks like Tomoki and Sakuraba haven't returned yet.
+//They better not be having gay car sex.....without me....-Spin
+TP
+
+Taichi: "Miki."
+TP
+
+GL 1 TCYM0000
+GP 1 180 0
+GI 1 0
+WVP 0 vfCCC3023mki000
+Miki: "Ah, how was Kirihara-sempai?"
+TP
+
+My heart leaped faintly.
+TP
+
+But, that was all.
+TP
+
+Taichi: "......she was energetic. I was hated energetically."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC3023mki001
+Miki: "Yep, exactly as predicted."
+TP
+
+Taichi: "I predicted it too."
+TP
+
+We both laughed.
+TP
+
+Taichi: "How's the work going?"
+TP
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC3023mki002
+Miki: "Somehow, someway."
+TP
+
+Taichi: "......is that good or bad?"
+TP
+
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC3023mki003
+Miki: "I guess it'll happen somehow? That's what it feels like."
+TP
+
+Taichi: "That's nice."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC3023mki004
+Miki: "However, I heard an explosion inside the school not too long ago."
+TP
+
+Taichi: "Hu!"
+TP
+
+That would echo......
+TP
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCC3023mki005
+Miki: "For a while Mimi-sempai and I were holding each other, shaking and half-crying, so our progress has been slow."
+TP
+
+Taichi: "Uuooo, that's an adorable picture."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC3023mki006
+Miki: "What was that?......To be honest, I want to go to the bathroom, but I'm too scared to enter the building."
+TP
+
+Taichi: "If you'll do it in front of me, I'll simply bring a toilet up here."
+TP
+
+GL 1 TCYM0041
+GI 1 0
+WVP 0 vfCCC3023mki007
+Miki: "Uwaa......disturbing......"
+TP
+
+She held her head.
+TP
+
+Come to think of it, this is no time to do stuff like that.
+TP
+
+Taichi: "Also, it was actually my doing."
+TP
+GL 2 TCMM0021
+GP 1 0 0
+GP 2 340 0
+GS 2 1
+GS 1 1
+SEF 109 0
+WVP 0 vfCCC3023msa000
+Misato: "Is-is that so......but, in the end, what was it?"
+TP
+
+Her glasses tilted and clouded.
+TP
+
+It seems she'd seriously been scared.
+TP
+
+Taichi: "An alarm clock."
+TP
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC3023mki008
+Miki: "......defective equipment I see."
+TP
+
+Taichi: "That's why I threw it out."
+TP
+
+GL 2 TCMM0002
+GI 2 0
+WVP 0 vfCCC3023msa001
+Misato: "So that was what it was......thank goodness......it wasn't terrorism."
+TP
+
+Taichi: "There aren't any people around to commit terrorism."
+TP
+
+WVP 0 vfCCC3023mki009
+Miki: "Ah, then I'm going to go to the bathroom!"
+TP
+GO 1 1
+Miki flapped her hands like a bird as she ran away.
+TP
+
+Taichi: "Make sure you flush!"
+TP
+
+WVP 0 vfCCC3023mki010
+Miki: "There's no need to say that!"
+//Sadly, I honestly could not figure out what she was saying here, so I guessed a bit. Å`IX
+TP
+
+Taichi: "You gonna do a big one? A small one?"
+TP
+
+WVP 0 vfCCC3023mki011
+Miki: "Let's say it's small!"
+TP
+
+She stuck her tongue out and went inside.
+TP
+
+Taichi: "......and with that, I'll also take a short-"
+TP
+
+GL 2 TCMM0000
+GI 2 0
+WVP 0 vfCCC3023msa002
+Misato: "Peke-kun."
+TP
+
+Her tone of voice was calmer.
+TP
+
+Taichi: "Yes?"
+TP
+
+
+GL 2 TCMM0003
+GI 2 0
+WVP 0 vfCCC3023msa003
+Misato: "......I might have to give you my thanks."
+TP
+
+Taichi: "Your thanks?"
+TP
+
+GL 2 TCMM0002
+GI 2 0
+WVP 0 vfCCC3023msa004
+Misato: "No, it was nothing. Where are you going?"
+TP
+
+Taichi: "Haa, I'm going to look for Kiri-chin for a bit."
+TP
+GL 2 TCMM0000
+GI 2 0
+WVP 0 vfCCC3023msa005
+Misato: "So you harassed her again?"
+TP
+
+Almost as if that would be a lovely occurrence.
+TP
+
+Taichi: "......yes, a little. I'm sorry."
+TP
+
+GL 2 TCMM0002
+GI 2 0
+WVP 0 vfCCC3023msa006
+Misato: "Oh no, that's more important, so please be sure to take care of it."
+TP
+
+Taichi: "That I will do."
+TP
+
+And again I piled on the lies.
+TP
+
+WVS 1 1
+
+
+
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+WVP 1 bgm020.ogg 0 0 0
+
+I followed Kiri's presence.
+TP
+
+Since she'd been walking this way......maybe she'd gone to the classroom?
+TP
+
+I don't think......she'd left the building.
+TP
+
+I went to the first year classroom.
+TP
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+
+
+And then---
+TP
+
+GL 0 evcc0027
+$CGevcc0027 = 1
+GS 0 1
+SEF 152 0
+
+She was there.
+TP
+
+Her usual defenseless back.
+TP
+
+For now, I spoke up.
+TP
+
+Taichi: "......ummm, Kiri-chin?"
+TP
+
+What do I want to do?
+TP
+
+I don't know.
+TP
+
+An apology?
+TP
+
+More destruction?
+TP
+
+I don't know.
+TP
+
+I was disgusted with myself for not knowing.
+TP
+
+Kiri: "......"
+TP
+
+Kiri turned around and said,
+TP
+
+WVP 0 vfCCC3023kri001
+Kiri: "You are a dirty murderer."
+TP
+
+I was lost for words.
+TP
+
+Those generally aren't things said by an underclassman.
+TP
+
+Taichi: "......w-well your anger is reasonable......right?"
+TP
+
+WVP 0 vfCCC3023kri002
+Kiri: "Anger?"
+TP
+
+WVP 0 vfCCC3023kri003
+Kiri: "It's not such a simple emotion."
+TP
+
+WVP 0 vfCCC3023kri004
+Kiri: "You are......my enemy. You---"
+TP
+
+A quiet voice.
+TP
+
+Quiet features.
+TP
+
+A quiet......disclosure.
+TP
+
+WVP 0 vfCCC3023kri005
+Kiri: "Killed...Yutaka."
+TP
+
+Taichi: "............"
+TP
+
+Taichi: "Unbelievable."
+TP
+
+Taichi: "......why would you think that?"
+TP
+
+WVP 0 vfCCC3023kri006
+Kiri: "I know about it."
+TP
+
+WVP 0 vfCCC3023kri007
+Kiri: "That day, you were talking to Yutaka on the roof."
+TP
+
+Taichi: "............"
+TP
+
+She knew.
+//'It had been known' just doesn't have a good dramatic impact. - Sheeta
+TP
+
+She knew, she knew.
+TP
+
+Kiri knew.
+TP
+
+Taichi: "That day?"
+TP
+
+This can't be.
+TP
+
+At once, my heart,
+TP
+
+Froze over.
+TP
+
+WVP 0 vfCCC3023kri008
+Kiri: "The day Yutaka died."
+TP
+
+WVP 0 vfCCC3023kri009
+Kiri: "......I've always suspected."
+TP
+
+WVP 0 vfCCC3023kri010
+Kiri: "But......I didn't know."
+TP
+
+WVP 0 vfCCC3023kri011
+Kiri: "That's why I didn't want to become involved with you."
+TP
+
+WVP 0 vfCCC3023kri012
+Kiri: "But you got yourself involved with me."
+TP
+
+There was conviction in Kiri's eyes.
+TP
+
+They were no longer smoldering, but burning down, making an aggressive color reside in her pupils.
+TP
+
+Taichi: "Wait a minute, isn't that strange?"
+TP
+
+Taichi: "......if I'd killed Yutaka, do you think I'd start talking to you?"
+TP
+
+WVP 0 vfCCC3023kri013
+Kiri: "......I think you wouldn't talk to me."
+TP
+
+WVP 0 vfCCC3023kri014
+Kiri: "Normally."
+TP
+
+Taichi: "It's true......I'm not normal, but-"
+TP
+
+WVP 0 vfCCC3023kri015
+Kiri: "We are nothing more than your prey."
+TP
+
+WVP 0 vfCCC3023kri016
+Kiri: "You just satisfied your hunger."
+TP
+
+WVP 0 vfCCC3023kri017
+Kiri: "What's normal to humans doesn't matter, because of what you are."
+TP
+
+WVP 0 vfCCC3023kri018
+Kiri: "......you're a monster that eats human hearts."
+TP
+
+Taichi: "............"
+TP
+
+She says whatever she wants.
+TP
+
+Taichi: "You know......Yutaka and I were friends. I had no reason to kill him."
+TP
+
+WVP 0 vfCCC3023kri019
+Kiri: "No motive is needed."
+TP
+
+WVP 0 vfCCC3023kri020
+Kiri: "There's no such thing as a reason for hunger."
+TP
+
+Taichi: "Nnnnnnn..."
+TP
+
+I scratched my head.
+TP
+
+Taichi: "Well then, why would I have to go out of my way to prey on Yutaka? Let's say I am a monster and I do make prey out of others. Don't you get the feeling girls would be better than boys?"
+TP
+
+WVP 0 vfCCC3023kri021
+Kiri: "......do you care about the gender of fried chicken when you eat it?"
+TP
+
+Taichi: "Nn......"
+TP
+
+She says that, and then this:
+TP
+
+WVP 0 vfCCC3023kri022
+Kiri: "At the very least......the eyes you look at me with......gave that impression."
+TP
+
+Taichi: "That's because, you know......well..."
+TP
+
+Taichi: "Since he's a guy, a lot of things would swell up."
+//No idea what he's referring to. Å`IX
+TP
+
+WVP 0 vfCCC3023kri023
+Kiri: "That is wrong."
+TP
+
+Taichi: "Do you have experience?"
+TP
+
+WVP 0 vfCCC3023kri024
+Kiri: "......I do not. But, I can at least tell when something is wrong."
+TP
+
+That's right, this girl,
+TP
+
+She was perceptive.
+TP
+
+Could you call it the power to see through malice?
+TP
+
+Overly sharp insight?
+TP
+
+If you look at me with those eyes, I'll agree that the world is anger.
+TP
+
+So she chipped away at the benefit of the doubt with circumstantial evidence and intuition.
+TP
+
+WVP 0 vfCCC3023kri025
+Kiri: "......I always suspected."
+TP
+
+WVP 0 vfCCC3023kri026
+Kiri: "But, these few days......I let down my guard in front of you."
+TP
+
+WVP 0 vfCCC3023kri027
+Kiri: "That's regrettable......"
+TP
+
+WVS 1 1
+
+WVP 0 vfCCC3023kri028
+Kiri: "But,"
+TP
+
+WVP 0 vfCCC3023kri029
+Kiri: "With that I learned your true identity."
+TP
+
+Kiri lowered her hand outside the window.
+TP
+
+WVP 0 vfCCC3023kri030
+Kiri: "You are......"
+TP
+
+She pulled up.
+TP
+
+A bundle of cloth.
+TP
+
+She'd hung it from the bottom of the window frame?
+TP
+
+She took off the cloth, and...
+TP
+
+GL 0 evcc0024c
+$CGevcc0024c = 1
+GS 0 1
+SEF 109 1
+//To save you the trouble, the cg shows her holding a crossbow. Å`IX
+
+WVP 0 vfCCC3023kri031
+Kiri: "A filthy murderer."
+TP
+
+WVP 1 bgm008.ogg 0 0 0
+
+
+Taichi: "......"
+TP
+
+A second one......in other words, this was Miki's.
+//Miki had one? When? And also, knowing that she can barely lift a computer monitor, there's still no way she could hold that crossbow with one hand.-Spin
+TP
+
+A composition of me having been splendidly lured in.
+TP
+
+WVP 0 vfCCC3023kri032
+Kiri: "Please don't move."
+TP
+
+Taichi: "As a man, saying this is embarrassing, but...... Youko-chan's going to be mad."
+TP
+
+WVP 0 vfCCC3023kri033
+Kiri: "That's okay."
+TP
+
+WVP 0 vfCCC3023kri034
+Kiri: "As long as I can eliminate you."
+TP
+
+Taichi: "Hmmm."
+TP
+
+WVP 0 vfCCC3023kri035
+Kiri: "Who's next after me? Club President-sempai? Kirihara-sempai? Or perhaps......Miki?"
+TP
+
+Taichi: "......I don't make prey out of anyone."
+TP
+
+As long as I can nobly maintain myself.
+TP
+
+Although people desire people,
+TP
+
+If you interact with someone using yourself as the pretext, it's over.
+TP
+
+Don't you have to put some distance between you and them before that happens?
+TP
+
+Because the world isn't kind.
+TP
+
+Even though Kiri should understand that...
+TP
+
+This contradiction......do you understand it, Kiri?
+TP
+
+WVP 0 vfCCC3023kri036
+Kiri: "I have no obligation to believe you."
+TP
+
+She readied her weapon.
+TP
+
+At this distance she'll probably hit me.
+TP
+
+I was within the distance of the tree Kiri had practiced on.
+TP
+
+She wasn't liable to miss.
+TP
+
+Taichi: "......Kiri, if you kill me, you're going to die too."
+TP
+
+WVP 0 vfCCC3023kri037
+Kiri: "I don't mind."
+TP
+
+She smiled.
+TP
+
+WVP 0 vfCCC3023kri038
+Kiri: "After all, either way, the world is already over."
+TP
+
+Taichi: "Even though none of the people you hate are here?"
+TP
+
+WVP 0 vfCCC3023kri039
+Kiri: "......don't you mean they shouldn't be here?"
+TP
+
+WVP 0 vfCCC3023kri040
+Kiri: "I just wanted them to do the right thing!"
+TP
+
+WVP 0 vfCCC3023kri041
+Kiri: "......you too......"
+TP
+
+Taichi: "............"
+TP
+
+Pure murderous intent.
+TP
+
+It crystallized, became a design surrounding the small Kiri and dyed her.
+TP
+
+If I die, so will Kiri.
+TP
+
+She's prepared for that.
+TP
+
+Just like Touko.
+TP
+
+Here I was thinking that it was good.
+TP
+
+On the other hand, I also want people.
+TP
+
+I want memories.
+TP
+
+I want to record them.
+TP
+
+I want to carve them into my heart.
+TP
+
+If I can just have memories, if I can just have that brilliant precious gem---
+TP
+
+......I might really be a monster that lives by feeding on people's feelings.
+TP
+
+WVP 0 vfCCC3023kri042
+Kiri: "Do you have anything you'd like to say before you die?"
+TP
+
+Through pitiful shaking, Kiri's hand informed me that,
+TP
+
+She's scared.
+TP
+
+Scared of killing a person.
+TP
+
+A heart strained with all its might.
+TP
+
+To burst that balloon of doubt and rationality, a little stimulus would suffice.
+TP
+
+Just the tip of a needle.
+TP
+
+......there's a way to survive.
+TP
+
+But there's also the thought, 'I'll go ahead and die.'
+TP
+
+Hesitation.
+TP
+
+
+
+
+
+IF $KIRIBAD == 1 JMP RT_BAD001
+
+CSQ 0 1 1
+  -Accept it
+  -Don't accept it
+
+RET
+
+
+
+:RT_BAD001
+
+$B = 1
+//To save you some time, the code here around the decision point means that if you chose not to follow Kiri to her second night of crossbow practice, the "Accept it" choice is made for you. Å`IX
+
+RET

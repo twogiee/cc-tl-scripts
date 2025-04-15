@@ -1,0 +1,234 @@
+GL 0 bgcc0013as
+GS 1 0
+GS 0 1
+SEF 10 1
+
+
+WVP 3 se001 0 0 1
+WVP 2 SE021 1 0
+
+Taichi: "Yes-yeees."
+//CP_S cca0020
+TP
+
+Taichi: "Who might you be?"
+TP
+
+WVP 0 vfcca0020ysa000
+Yuusa: "Uh, umm, I'm Doujima."
+TP
+
+WVP 1 bgm003.ogg 0 0 0
+
+Taichi: "That cute voice hiding underneath a gangster-like surname......Yuusa-chan? It's open, come in."
+TP
+
+GL 0 bgcc0013azs
+GS 0 1
+GL 1 TCDY0000s
+GS 0 1
+GS 1 1
+GP 1 230 0
+SEF 109 0
+
+
+The door opened timidly, and a pretty girl was standing there.
+TP
+
+WVP 0 vfcca0020ysa001
+Yuusa: "Good eveni......ng."
+//CP_F
+TP
+
+GL 0 bgcc0004s
+GS 0 1
+GS 1 0
+SEF 152 0
+
+I sat her down and served her wheat tea.
+//CP
+TP
+
+We talked about a lot of things.
+TP
+GL 1 TCDY0000s
+GI 1 1
+
+WVP 0 vfcca0020ysa019
+Yuusa: "Umm, today's my birthday."
+//CP_S
+TP
+
+Taichi: "Oooh? It was today?"
+//CP_F
+TP
+GL 1 TCDY0001s
+GI 1 0
+
+WVP 0 vfcca0020ysa020
+Yuusa: "About that, this is......my birthday present."
+//CP
+TP
+
+Taichi: "Ummm......anyway, thanks. But, why?"
+//CP
+TP
+GL 1 TCDY0000s
+GI 1 0
+
+WVP 0 vfcca0020ysa022
+Yuusa: "Also, I thought the exchange diary was due tomorrow, so......"
+//CP
+TP
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 155 0
+
+WT 1000 1
+
+GL 0 bgcc0004s
+GS 0 1
+GS 1 0
+SEF 155 0
+Taichi: "So here's your exchange diary, and on top of that, a birthday present from me."
+//CP_S
+TP
+GL 1 TCDY0004s
+GI 1 1
+WVP 0 vfcca0020ysa027
+Yuusa: "............"
+TP
+
+This girl is always at a loss for words when she's surprised.
+//CP_F
+TP
+
+Taichi: "Now then, why don't I walk you back home?"
+//CP_S
+TP
+
+WVP 0 vfcca0020ysa028
+Yuusa: "........................!!!?"
+TP
+
+She was at an even worse loss for words than before.
+TP
+
+Taichi: "It's already nighttime, so there are quite a few dangerous people out there."
+TP
+
+Especially in this town.
+TP
+
+Taichi: "Shall we go?"
+TP
+GL 1 TCDY0001s
+GI 1 0
+WVP 0 vfcca0020ysa029
+Yuusa: "Y-yes!"
+//CP_F
+TP
+
+GL 0 bgcc0005bs
+GS 0 1
+GS 1 0
+SEF 152 0
+
+Then, I walked her home.
+TP
+GL 1 TCDY0000s
+GI 1 1
+
+WVP 0 vfcca0020ysa032
+Yuusa: "You always ask that question, don't you, Taichi-san?"
+//CP
+TP
+GL 1 TCDY0004s
+GI 1 1
+
+WVP 0 vfcca0020ysa037
+Yuusa: "That's too hard for me to really understand, but......okay."
+//CP
+TP
+GL 1 TCDY0001s
+GI 1 1
+
+WVP 0 vfcca0020ysa040
+Yuusa: "It's training."
+//CP
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+WVS 1 1
+
+It's training.
+TP
+
+Training...
+TP
+
+Homesickness?
+IF $tlnote != 0 (TL note: "Training" and "homesickness" are both pronounced "kyoushuu.")
+TP
+
+No.
+TP
+
+Assault.
+IF $tlnote != 0 (TL note: So is this word, if you get creative enough with certain kanji.)
+//Suggestions on how better to arrange or write the tl notes here are welcome. Å`IX
+TP
+
+Assault.
+TP
+
+Yes, assault.
+TP
+
+To attack intensely.
+TP
+WVS 3 1
+
+Yeah.
+TP
+
+I like that word.
+TP
+
+I laughed in my dreams.
+TP
+
+Without stopping.
+TP
+
+Ridicule.
+TP
+
+Sunken emotions are soon consumed by the abyss.
+TP
+
+The gilding which reminds me of the void of cynicism melts, and the now-bare fragments......mix into an enormous nucleus, and jest.
+//SOS?
+//What? I understand the first part but the "mix into..." part I'm not even registering a hit.-Spin
+TP
+
+One thought.
+TP
+
+Enemies are enemies.
+TP
+
+I'll kill them if I must.
+TP
+
+
+WT 1000 0
+WT 1000 1
+
+RET

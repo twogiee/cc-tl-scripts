@@ -1,0 +1,121 @@
+
+
+
+
+
+Taichi: "I guess I should be going."
+TP
+
+
+GL 1 TCMM0000b
+GI 1 0
+
+
+WVP 0 vfcca0011bmsa000
+Misato: "Aah, that's right."
+TP
+
+
+
+WVP 0 vfcca0011bmsa001
+Misato: "This is a perfect time to go home."
+TP
+
+
+
+Taichi: "Sleep when it's dark, wake up when it's morning."
+TP
+
+
+
+Taichi: "That's how humans wish to exist."
+TP
+
+
+
+GL 1 TCMM0002b
+GI 1 0
+WVP 0 vfcca0011bmsa002
+Misato: "Yes, indeed they do."
+TP
+
+
+
+GL 1 TCMM0000b
+GI 1 0
+
+WVP 0 vfcca0011bmsa003
+Misato: "Then let's call an end to today's club activities."
+TP
+
+
+
+It's a natural thing.
+TP
+
+
+
+Taichi: "Shall we go home together?"
+TP
+
+
+GL 1 TCMM0000b
+GI 1 0
+
+WVP 0 vfcca0011bmsa004
+Misato: "Aren't we going in opposite directions?"
+TP
+
+
+
+Taichi: "Were we now?"
+TP
+
+
+GL 1 TCMM0001b
+GI 1 0
+
+WVP 0 vfcca0011bmsa005
+Misato: "......you know where my house is."
+TP
+
+
+
+*glare*
+TP
+
+
+
+Taichi: "I'll take my leave now! Woof!"
+TP
+
+
+
+I had no choice but to pull back immediately.
+TP
+
+GL 0 bgcc0000d
+GS 1 0
+GS 0 1
+
+SEF 152 1
+WVS 1 1
+
+
+In exchange,
+TP
+
+
+
+Until I disappeared into the school building, Sempai watched me while waving her small hand in front of her chest.
+TP
+
+
+
+My heart jumped for joy.
+TP
+WT 500 0
+
+
+
+RET

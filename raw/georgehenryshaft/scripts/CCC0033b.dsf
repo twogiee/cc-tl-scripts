@@ -1,0 +1,43 @@
+//もぐもぐ
+Munch, munch.
+TL
+//もぐもぐもぐ
+Munch, munch, munch.
+TL
+//もぐもぐもぐもぐ
+Munch, munch, munch, munch.
+TP
+//HACK single page now. -GHS
+
+//太一「はー、うまかった」
+Taichi: "Ahhh, those were tasty."
+TP
+
+//たいらげた。
+I ate up my fill.
+//Not all of them since he hands lots over in a second, going with him being just full. -GHS
+TP
+
+GL 1 TCHY0001
+GI 1 0
+WVP 0 vfCCC0033byou000
+//曜子「……太一が姉不孝をする……」
+Youko: "...Taichi has no dutifulness to his older sister..."
+//See CCC0033A. Totally Misato now. Also confirms it's her room in CCC3012b -GHS
+TP
+
+//太一「ん？　なにか言った？　よく聞こえなかったんだけど」
+Taichi: "Mh? Did you say something? Because there was something not heard right."
+//See CCC0032 -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 0
+//HACK Normal Youko -GHS
+
+WVP 0 vfCCC0033byou001
+//曜子「……なんでもないわ」
+Youko: "...it's nothing, no."
+TP
+
+RET

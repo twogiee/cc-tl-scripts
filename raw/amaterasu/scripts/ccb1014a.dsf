@@ -1,0 +1,55 @@
+
+Taichi: "Sempai......"
+//CP_T cca0025a
+TP
+
+WVP 0 vfcca0025amsa000
+Misato: "Whaaat?"
+TP
+
+Taichi: "From now on, would you make miso soup for me forever?"
+TP
+
+For some reason I proposed to her.
+TP
+
+GL 1 TCMM0004c
+WVP 0 vfcca0025amsa001
+Misato: "Eh!?"
+TP
+
+Sempai became upset.
+TP
+
+She leaned to one side, averting her eyes.
+TP
+
+She brought her small fist up to her mouth as her thoughts carved wrinkles into her forehead.
+TP
+
+GL 1 TCMM0005c
+WVP 0 vfcca0025amsa002
+Misato: "Peke-kun......I......"
+TP
+
+Taichi: "Yes?"
+TP
+
+WVP 0 vfcca0025amsa003
+Misato: "I don't know how to make miso soup."
+TP
+
+Taichi: "Lalihooo!"
+TP
+
+I screamed out the window.
+TP
+
+It was a textbook example of a stooge.
+TP
+
+CSQ 0 1 1
+  -Approach her further
+  -Play it safe
+
+RET

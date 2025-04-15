@@ -1,0 +1,658 @@
+
+GL 0 bgcc0005a
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+//帰り道。
+On the way home,
+//CP CCC0045A
+TP
+GL 1 TCCN0100b
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC0045annk000
+//七香「へーい」/*
+Nanaka: "Heeey!"
+//CP CCC0045A
+TP
+
+//そばに七香がいた。
+Nanaka was right next to me.
+//CP CCC0045A
+TP
+
+//忽然と立ち現れたような……。
+As if manifested all of a sudden...
+//CP CCC0045A
+TP
+
+//太一「あ、七香……」
+Taichi: "Ah, Nanaka..."
+//CP CCC0045A
+TP
+
+WVP 0 vfCCC0045annk001
+//七香「お元気ー？」/*
+Nanaka: "In spiriiits?"
+//CP CCC0045A
+TP
+
+//太一「そんなことより、あの祠って―――」
+Taichi: "More importantly, that hokora---"
+//CP CCC0045A
+TP
+
+GL 0 evcc0010a
+$CGevcc0010a = 1
+GS 0 1
+GS 1 0
+SEF 155 0
+//HACK CG earlier -GHS
+//抱きしめられた。
+I was embraced.
+//CP CCC0045A
+TP
+
+//太一「うぐっ？」
+Taichi: "N'uguh?"
+//CP CCC0045A
+TP
+
+
+WVP 1 bgm021.ogg 0 0 0
+
+WVP 0 vfcca0023nnk031
+//七香「楽しいって、言えるなら、いいじゃん」/*
+Nanaka: "You said fun, and if you can say that, 's all right."
+//CP CCA0023
+TP
+
+//太一「いや、言ってないし」
+Taichi: "No, I didn't say that."
+//CP CCC0045A
+TP
+
+//つうか会話に脈絡ないんですけど。
+There is no chain of logical connection going through this conversation, however,
+//CP CCC0045A
+TP
+
+//なんなんだこの唐突感動イベントは……。
+what is even with this sudden Emotionally Moving Event...
+//CP CCC0045A
+TP
+
+//しかし、それはそれとして。
+Anyway, be that as it may.
+//CP CCC0045A
+TP
+
+//あいまいな胸の柔らかさ。
+The ambiguous softness of a breast.
+//CP CCA0023
+TP
+
+//少女の香り。
+The scent of a girl.
+//CP CCA0023
+TP
+
+//不思議と、猥雑なものは感じない。
+Inexplicably, I feel nothing out of order.
+//CP CCA0023
+TP
+
+//抱かれた時の感覚が、曜子ちゃんとは違った。
+The feeling at the moment of embrace was so different from Youko-chan's.
+//CP CCC0045A
+TP
+
+WVP 0 vfcca0023nnk032
+//七香「その言葉は、嬉しいんだ。すごく」/*
+Nanaka: "Those words... they make me happy. Really."
+//CP CCA0023
+TP
+
+//太一「なにも言ってないが……」
+Taichi: "But I didn't say anything..."
+//CP CCC0045A
+TP
+
+WVP 0 vfcca0023nnk033
+//七香「強くならないと生きる資格がないわけじゃないから」/*
+Nanaka: "Because never becoming strong is not a disqualification from living."
+//CP CCA0023
+TP
+
+//太一「聞いちゃいねぇ」
+Taichi: "Listen to what you're being told!"
+//CP CCC0045A
+TP
+
+WVP 0 vfcca0023nnk034
+//七香「弱いままでも、いいんだよ」/*
+Nanaka: "Remaining weak is... still fine."
+//CP CCA0023
+TP
+
+//太一「聞けよ！」
+Taichi: "You listening or not!"
+//CP CCC0003B (numbah four)
+TP
+GL 0 bgcc0005a
+GS 0 1
+GS 1 0
+SEF 155 0
+
+//わけがわからなかった。
+I didn't understand any of this.
+//CP CCC0045A
+TP
+
+//太一「胸の感触はすごくよかった」
+Taichi: "I'm really glad to have experienced the tactile feeling of your chest."
+//CP CCC0045A
+TP
+GL 1 TCCN0100b
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC0045annk002
+//七香「……正直すぎる」/*
+Nanaka: "...too honest."
+//CP CCC0045A
+TP
+
+//太一「ただわけはわからなかった」
+Taichi: "It's just that I didn't get this at all."
+//CP CCC0045A
+TP
+
+WT 1000 0
+GL 1 TCCN0101b
+GI 1 0
+//HACK wait for a second and doll. They forgot to put this doll in this 'pasta mess. Boo! -GHS
+
+
+WVP 0 vfCCC0045annk003
+//七香「ごめん、間違えたよ」/*
+Nanaka: "Sorry, I mistook you, 's all."
+//CP CCC0045A
+TP
+
+//太一「なにと？」
+Taichi: "For what?"
+//CP CCC0045A
+TP
+
+//七香は頭をかいた。
+Nanaka scratched her head.
+//CP CCC0045A
+TP
+GL 1 TCCN0102b
+GI 1 0
+
+WVP 0 vfCCC0045annk004
+//七香「別のと」/*
+Nanaka: "A different one."
+//CP CCC0045A
+TP
+
+//太一「理解できるように説明して」
+Taichi: "Explain in ways I can understand."
+//CP CCC0045A
+TP
+
+GL 1 TCCN0100b
+GI 1 0
+
+WVP 0 vfCCC0045annk005
+//七香「キミってアンテナ設営の方、着手したみたいだけど、進捗はどう？」
+//Curiously it's not tagged /*, they probably forgot as it's the same audio file -GHS
+Nanaka: "Say you, it looks like you're setting out on helping the construction on that antenna, but how's progress?"
+//CP CCC0045A
+TP
+
+//太一「あのな」
+Taichi: "Listen here."
+//CP CCC0045A
+TP
+
+WVP 0 vfCCC0045annk006
+//七香「んい？」/*
+Nanaka: "W'at?"
+//CP CCC0045A
+TP
+
+//太一「わかるように話そう。まず……まずだ」
+Taichi: "Let's talk so that I can understand. First... first up is..."
+//CP CCC0045A
+TP
+
+WVP 0 vfCCC0045annk007
+//七香「まず？」/*
+Nanaka: "First?"
+//CP CCC0045A
+TP
+
+//太一「そうだな、いろいろあるんだが」
+Taichi: "Of course, there's a lots and a lots, but..."
+//CP CCC0045A
+TP
+GL 1 TCCN0101b
+GI 1 0
+
+WVP 0 vfCCC0045annk008
+//七香「じゃあ一個だけ質問に答えてあげる。どんなことでも答えるよ？」/*
+Nanaka: "Theeen one single solitary question I'll give you an answer to. Ask me anything and I'll answer, OK?"
+//CP CCC0045A
+TP
+
+//太一「パ、パンツの色はっ？」
+Taichi: "Co-, color of your panties?"
+//CP CCC0045A
+TP
+
+WVP 0 vfCCC0045annk009
+//七香「今日は白。でもちょっとかわいいの。ブラとおそろいのやつなんだ」/*
+Nanaka: "Today they're white. But they're reeeally cute tho. They totally match the bra!"
+//CP CCC0045A
+TP
+
+//太一「純白かぁ」
+Taichi: "Pure whiiite..."
+//CP CCC0045A
+TP
+
+//少女の下着に思いを馳せた。
+I reflect nostalgically on the girl's underwear.
+//CP CCC0045A
+TP
+GL 1 TCCN0100b
+GI 1 0
+//HACK normal Nanaka instead of redisplaying current doll. -GHS
+
+WVP 0 vfCCC0045annk010
+//七香「じゃ質問はこれで打ち切ります」/*
+Nanaka: "Well, the questioning round is with this brought to a close."
+//CP CCC0045A
+TP
+
+//太一「うおー、しまったー、世界の謎がー！」
+Taichi: "Woooooh, dammiiiit, what about the mystery of this wooorld!!!"
+//CP CCC0045A
+TP
+
+//反射的に質問してしまったぁ！
+I fired off a question by refleeex!
+//CP CCC0045A
+TP
+//太一「俺は馬鹿だぁ！」
+Taichi: "I am so stupiiid!"
+//CP CCC0045A
+TP
+GL 1 TCCN0101b
+GI 1 0
+//HACK closed-eyes Nanaka instead of redisplaying now-current doll -GHS
+
+WVP 0 vfCCC0045annk011
+//七香「そしてエロい」/*
+Nanaka: "Also perverted."
+//CP CCC0045A
+TP
+
+//太一「……取り消しだめ？」
+Taichi: "...takebacks are a nope?"
+//CP CCC0045A
+TP
+
+GL 1 TCCN0102B
+GI 1 0
+//HACK slightly serious Nanaka -GHS
+
+WVP 0 vfCCC0045annk012
+//七香「ダメー」/*
+Nanaka: "Nooo-ooope."
+//CP CCC0045A
+TP
+
+//腕でバッテンを作る七香。
+Nanaka crosses her arm into a X, making the Batten mark of denial and failure.
+//CP CCC0045A
+TP
+
+WVP 0 vfCCC0045annk013
+//七香「次の機会だね」/*
+Nanaka: "Next chance, 'K."
+//CP CCC0045A
+TP
+
+//太一「うーむむむ……失敗……」
+Taichi: "WhMnhMnhMnh... failure..."
+//???????? -GHS
+TP
+
+//ここではたと考えた。
+And there I suddenly had a sharp thought.
+TP
+
+//あれ、こいつ……犯人なんじゃないか。
+My my, this one... couldn't she be the culprit?
+TP
+
+//太一「七香さん……一つ質問が……」
+Taichi: "Nanaka-san... I do have one question..."
+TP
+
+GL 1 TCCN0101b
+GI 1 0
+//HACK closed eyes Nanaka -GHS
+
+WVP 0 vfCCC0045bnnk000
+//七香「もうダメだって言ったでしょ」
+Nanaka: "I told you that any more are not happening!"
+TP
+
+//太一「あ、そうか」
+Taichi: "Ah, right."
+TP
+GL 1 TCCN0100b
+GI 1 0
+//HACK open eyes now. AGGGGH what a mess. -GHS
+
+WVP 0 vfCCC0045bnnk001
+//七香「また来週だね。太一がちゃんとやることやったら、たどりつくって」
+Nanaka: "When we see each other next week, OK? If you get done what you should be doing, Taichi, you'll manage to get there."
+TP
+
+//太一「たどりつくってどこに？」
+Taichi: "Manage to get where?"
+TP
+GL 1 TCCN0100b
+GI 1 0
+WVP 0 vfCCC0045bnnk002
+//七香「ここに」
+Nanaka: "This way."
+//個々に, here + individually -GHS
+TP
+
+//にっこり。
+Smiling.
+TP
+
+//太一「んーーーーーー」
+Taichi: "Hmmmmmmm."
+//Counting the dashes as other Ns... -GHS
+TP
+
+//どうも、キーパーソンだとは思うんだが……要領を得ないな。
+Somehow, I was thinking of her as a Key Person, but... she doesn't seem to be relevant.
+TP
+
+WVP 0 vfCCC0045bnnk003
+//七香「祠行ったでしょ？」
+Nanaka: "Did you go to the hokora then?
+TP
+
+//太一「行った」
+Taichi: "I went."
+TP
+
+GL 1 TCCN0101b
+GI 1 0
+//HACK closed eyes -GHS
+
+WVP 0 vfCCC0045bnnk004
+//七香「……中身見てないでしょ？」
+Nanaka: "...you didn't look inside, right?"
+TP
+
+//太一「見てないな、そういえば」
+Taichi: "I didn't look, now that you remind me."
+TP
+
+GL 1 TCCN0102b
+GI 1 0
+WVP 0 vfCCC0045bnnk005
+//七香「見ろ」
+Nanaka: "Go look."
+TP
+
+//太一「いや、もうあの場所には行きたくないから」
+Taichi: "Nah, I just don't really want to go that place anymore."
+TP
+
+GL 1 TCCN0100b
+GI 1 0
+WVP 0 vfCCC0045bnnk006
+//七香「……ま、焦る必要はないから構わないんだけど」
+Nanaka: "...well, there's no need to really hurry so it doesn't matter, but..."
+TP
+
+//太一「曜子ちゃんの眠る場所だから、そっとしといてやりたいんだよ」
+Taichi: "That's the place where Youko-chan sleeps, so I don't really want to go barging in there."
+//Did he bury her there or something? -GHS
+TP
+
+//GL 1 TCCN0102b
+//GI 1 0
+//HACK no change. -GHS
+WVP 0 vfCCC0045bnnk007
+//七香「んー。あの子は、来て欲しがると思うよ」
+Nanak: "Hmmm. But that girl, I think, would have wanted you to go there!"
+TP
+
+//……死んだことも知ってるか。
+...does she know of her death as well?
+TP
+
+//太一「合わせる顔がない」
+Taichi: "I'm so ashamed that I can't even look at her face."
+TP
+
+//曜子ちゃんの敵討ちをしてやれない俺だ。
+Not when I am someone who isn't exacting revenge for you, Youko-chan.
+TP
+
+GL 1 TCCN0101b
+GI 1 0
+//HACK closed eyes Nanaka -GHS
+
+WVP 0 vfCCC0045bnnk008
+//七香「それって残酷な考えかも」
+Nanaka: "That may be a cruel thought."
+//Notice she's answering to his thoughts. -GHS
+TP
+
+//太一「どうして？」
+Taichi: "How come?"
+TP
+
+GL 1 TCCN0102b
+GI 1 0
+//HACK serious -GHS
+
+
+WVP 0 vfCCC0045bnnk009
+//七香「対等でないと合わせる顔がないってことでしょ？」
+Nanaka: "You're saying you're too ashamed to even look at her face because you're not equal, don't you see?"
+TP
+
+WVP 0 vfCCC0045bnnk010
+//七香「裏返せば、相手にも自分と対等になって欲しいってことだ」
+Nanaka: "If you look it from the opposite side, it's wanting the other side to become equal to yourself, that's what."
+//Well, no. If Taichi can't even look at Youko, then the implication is always inferiority, even when superiority is stated. No need to get in cultural polemics: since Taichi correctly believes Youko to be a wimp underneath it all, this may just be an implication of that reality. And, also, that Taichi can't look at Youko because he's the one who killed her, provided she ever existed at all. -GHS
+TP
+
+//太一「あ……そうか」
+Taichi: "Ah... right."
+TP
+
+//矛盾に気づく。
+I recognize the inconsistency.
+//...though even assuming the argument above makes sense, calling it a "contradiction" is stretching it. -GHS
+TP
+
+WVP 0 vfCCC0045bnnk011
+//七香「ピーナッツ入り柿の種の尊厳を認めるんなら、弱い相手を弱いまま認めないとオカシイんじゃないかな」
+Nanaka: "If you can accept that there's dignity in referring to peanuts as Seeds of Persimmon, then not accepting a weak companion that stays weak is kinda odd isn't it."
+//Told you they were important. See above for the weakness part. If one can accept peanuts as seeds of persimmon, then one can accept as human what, by the standards of the world, isn't. This would mean Taichi has not forgiven Youko for what she did, not yet at least. -GHS
+TP
+
+//太一「だね。柿の種は桜庭だけど」
+Taichi: "Ain't it. Kaki no Tane's Sakuraba thing tho."
+//If Nanaka points to the hokora, and Sakuraba points to Nanaka... -GHS
+TP
+
+//俺の過去まで知ってやがる。
+She seems to even have knowledge of my past.
+TP
+
+//何でもありだな……。
+Anything goes when it comes to her doesn't it...
+TP
+
+//太一「じゃ、気が向いたら行ってみようかな」
+Taichi: "Well, if my mind changes I'll maybe give a try and go."
+TP
+
+GL 1 TCCN0101b
+GI 1 0
+//HACK closed eyes Nanaka -GHS
+
+
+WVP 0 vfCCC0045bnnk012
+//七香「うむ」
+Nanaka: "'K!"
+TP
+GL 1 TCCN0100b
+GI 1 0
+WVP 0 vfCCC0045bnnk013
+//七香「あたしもね、人間関係に資格なんてないと思ってる」
+Nanaka: "Me too, yannow, I don't think I'm qualified for human relationships."
+//It's about time this were revealed to mean nothing of what it sounds like it does. -GHS
+TP
+
+GL 1 TCCN0101b
+GI 1 0
+WVP 0 vfCCC0045bnnk014
+//七香「太一も一緒の考えなら、嬉しい」
+Nanaka: "The thought that Taichi is the same... it makes me happy."
+//Think about this for a second: what mother would really be happy for her son to be an antisocial recluse? "Not qualified for human relationships" doesn't mean that; it means he's someone who seeks something higher than what's available in the world. -GHS
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//くそ、可愛い……。
+Dammit, so cute...
+TP
+
+GL 1 TCCN0100b
+GI 1 0
+WVP 0 vfCCC0045bnnk015
+//七香「部活も頑張れ。仲間が死んでも頑張れ。大丈夫、来週には笑っていられっから」
+Nanaka: "Give it all on club, too. True Companions may die, but still give it all. You'll be all right, because next week you'll be all laughs."
+TP
+
+//太一「うわ、不謹慎なこと言うなっ」
+Taichi: "Whoa, don't say imprudent stuff!"
+//See CCA0030. Hum, if Kenneth Broadcast Channel would reveal that everyone's insane, this reveals... -GHS
+TP
+
+//太一「二人死んでるんだぞー」
+Taichi: "We got two dead dammiiit!"
+TP
+
+WVP 0 vfCCC0045bnnk016
+//七香「あー、一応言っとくとあたしが殺したんじゃないよ？」
+Nanaka: "Ahhh, just in case, I'ma telling you that I didn't kill them, right?"
+TP
+
+//太一「えーーーーーーーーーーーっ！？」
+Taichi: "EHHHHHHHHHHHH?!"
+TP
+
+GL 1 TCCN0101b
+GI 1 0
+//HACK closed eyes Nanaka -GHS
+
+
+WVP 0 vfCCC0045bnnk017
+//七香「……あたしが殺したと確信していたね、キミ？」
+Nanaka: "...you were sure I had killed them, weren't ya?"
+TP
+
+
+//太一「なんかさ、不思議な力持ってそうだし、アリバイとかトリックとか超越して自由に殺せるんじゃないの？　神殺人事件とか言ってさ。推理小説でも何でもないけど」
+Taichi: Well, yannow, when it looks like you have inexplicable powers, couldn't you you transcend alibis and tricks and all that and be free to murder? It could be said to be a Murder by God. Not that it's a whodunit novel or anything though."
+//Eight people, no one else - no one else at all... isn't this just the ultimate closed room mystery in a sense? But if the culprit is chance... then at the very least, it having been picked to be 'chance' is not, itself, random. This is Blessed Luck, meaning the culprit is, in that lateral and not-straightforwards sense, indeed God. This also hints at the motive: since no one dies, death alone can't be the point at all. This is subtly but pervasively anti-nihilistic. -GHS
+TP
+
+GL 1 TCCN0102b
+GI 1 0
+WVP 0 vfCCC0045bnnk018
+//七香「うーん、神ってのは近いかもね、けっこう」
+Nanaka: "Huuum, God might be close I guess, and very much so."
+//And she said it. -GHS
+TP
+
+//太一「とか言ってうちに俺の家だ」
+Taichi: "And while we're talking whatever, here's my house."
+TP
+GL 0 bgcc0002a
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//太一「ひもパンいる？　あげようか？」
+Taichi: "Want some jams? Shall I give you some?"
+//Original is string bikini + intestine meat bread. This one you prolly gotta dic tho: http://www.merriam-webster.com/dictionary/jams -GHS
+TP
+
+WVP 0 vfCCC0045bnnk019
+//七香「ううん、いらない。もらってもソッコー捨てる」
+Nanaka: "Nope, don'wann'em. Gimme that stuff and I'll just boom throw it away."
+TP
+
+//太一「そーかい……」
+Taichi: "Dooo you now..."
+TP
+WVP 2 se047 1 0
+WVP 0 vfCCC0045bnnk020
+//七香「帰るよ。ばい」
+Nanaka: "Going home now. Bye."
+TP
+
+//ふと思う。
+And abruptly I thought,
+//CP CCC0045A
+//These are my favorite lines to tee ell. Not to edit, because 'pasting these by hand is a PITA. -GHS
+TP
+
+//どこに帰っているんだろう、七香は。
+where would Nanaka even go home to?
+//CP CCC0045A
+TP
+
+//太一「ばいばい」
+Taichi: "Bai bai."
+//CP CCA0015
+TP
+
+//七香の乗った自転車が、坂の向こうに消えた。
+The bicycle Nanaka was riding vanished on the opposite side of the hill.
+//Not her...? -GHS
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+WVS 1 1
+
+RET

@@ -1,0 +1,194 @@
+
+
+Taichi: "Aaah, I'll go too."
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCD4001mki012
+Miki: "......okay, thanks."
+TP
+
+
+Was she anxious about going alone?
+TP
+
+
+We held hands again.
+TP
+
+
+WVP 0 vfCCD4001mki013
+Miki: "......why did this happen......?"
+TP
+
+
+Taichi: "I don't know."
+TP
+
+
+
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCD4001mki014
+Miki: "Since there aren't any corpses, did everyone just vanish?"
+TP
+
+
+
+Taichi: "Everyone might have gone away somewhere."
+TP
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfCCD4001mki015
+Miki: "Somewhere......"
+TP
+
+
+Taichi: "Hey, there's the atomic plant. Maybe they evacuated."
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCD4001mki016
+Miki: "Meaning...it's dangerous here?"
+//Better effect and also, the voice pauses there as well.-Spin
+TP
+
+
+Taichi: "Well......I don't know."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCD4001mki017
+Miki: "I don't think......that explains why radios and phones won't pick anything up."
+TP
+
+
+Taichi: "Yeah, you're right."
+TP
+
+
+
+
+GL 0 bgcc0000a
+GS 0 1
+GS 1 0
+SEF 152 0
+And, Kiri's house.
+TP
+
+
+Miki and I each searched around half the house.
+TP
+
+
+Taichi: "How'd it go?"
+TP
+
+
+WVP 0 vfCCD4001mki018
+Miki: "She's not here."
+TP
+
+
+Taichi: "Nor here."
+TP
+
+
+Miki's shoulders fell.
+TP
+
+
+GL 0 bgcc0014
+GS 0 1
+SEF 152 0
+
+Taichi: "We might have gone past her. Shall we go back to the school?"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCD4001mki019
+Miki: "She should have used that road!"
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfCCD4001mki020
+Miki: "There's no way we'd just pass her......"
+TP
+
+
+Taichi: "Maybe she came to school before us?"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+
+Miki: "............"
+TP
+
+
+WVP 0 vfCCD4001mki022
+Miki: "I'm sorry...I'll go...look for her!"
+GO 1 1
+TP
+
+
+She raced off.
+TP
+
+
+
+WVS 1 1
+
+
+
+
+Taichi: "Ah, heeey!"
+TP
+
+
+Taichi: "She's gone......"
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+After that, Miki continued searching for Kiri for three days.
+TP
+
+
+After one day of investigation, Miki rejected all externalities.
+TP
+
+
+And on the third day, she completely locked herself up.
+TP
+
+
+However much I tried to persuade her, there was no sign of her coming out.
+TP
+
+
+Her heart was already completely enveloped in despair.
+TP
+
+
+......I've failed.
+TP
+
+
+
+
+
+
+RET

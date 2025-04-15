@@ -1,0 +1,385 @@
+
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+
+WVP 1 bgm003.ogg 0 0 0
+
+WVP 0 vfCCD0001mki013
+//美希「すぇんぷぁーい……」
+Miki: "SeHnpAaAi..."
+//PCP CCC0015 (because of below)
+TP
+
+
+//背後から声をかけられた。
+I was called from the back.
+//CP CCC0015
+TP
+
+
+GL 1 TCYM0002
+GP 1 180 0
+GI 1 1
+//HACK later doll -GHS
+//太一「美希……」
+Taichi: "Miki..."
+TP
+
+
+//目尻が赤い。
+The corners of her eyes are red.
+TP
+
+
+//泣きはらしたな。
+She really weeped her heart out.
+//This is the consequences of her Reset. -GHS
+TP
+
+
+//太一「う、平気か？」
+Taichi: "Aw, you alright?"
+TP
+//GL 1 TCYM0000
+//GI 1 0
+//HACK not now -GHS
+
+
+WVP 0 vfCCD0001mki014
+//美希「なんとかー」
+Miki: "Somehow."
+TP
+
+
+//太一「生きるのだー、美希やー」
+Taichi: "Live ooon, Miki yeeeah."
+TP
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCD0001mki015
+//美希「やばいですねー、これぇ」
+Miki: "It's bad it is, all this."
+TP
+
+
+//かなりアンダーなテンションだ。
+Spirits seems kind of under.
+TP
+
+
+WVP 0 vfCCD0001mki016
+//美希「ごはんとか、服とか、テレビとか、どうするんでしょうか？」
+Miki: "The food, and the clothes, and the TV, what do we do for all that?"
+TP
+
+
+//太一「いや。リセットかかるらしいから」
+Taichi: "Whatever. It seems it'll all be reset."
+//If there's no reset, and all is reset nonetheless, then it's all provided and there's no problems of the sort. Simple! -GHS
+TP
+
+GL 1 TCYM0004
+GI 1 0
+//HACK idiot, you'll break the facade! -GHS
+
+WVP 0 vfCCD0001mki017
+//美希「うえ？」
+Miki: "Weh?"
+TP
+
+
+//太一「まあなんとかなる。安心する」
+Taichi: "Ah, we'll get through with this somehow. Be at ease."
+TP
+
+
+GL 1 TCYM0041
+GI 1 0
+WVP 0 vfCCD0001mki018
+//美希「……うー」
+Miki: "...ngggh."
+TP
+
+
+//しょげた。
+Losing heart.
+TP
+
+
+//太一「元気出せ。それでも俺の弟子か」
+Taichi: "Show us some high spirits now! Aren't you still my pupil?"
+TP
+
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCD0001mki019
+//美希「でも……こんなのおかしいですよ……」
+Miki: "But... this all here is so weird..."
+TP
+
+
+//太一「世の中おかしいんだよ」
+Taichi: "The world and the times are weird!"
+TP
+
+
+WVP 0 vfCCD0001mki020
+//美希「不安っす」
+Miki: "Me's uneasy."
+TP
+
+
+//太一「景気づけをしてやろう」
+Taichi: "I'll put some Seaman's Spirit onto ya!"
+TP
+
+GL 1 TCYM0021
+GI 1 0
+//HACK doubty Miki -GHS
+
+WVP 0 vfCCD0001mki021
+//美希「ケーキ漬け？」
+Miki: "You'll give me some buck cake?"
+//Original was pun between cheering up/addicting [her] to cake. Now it's even worse. -GHS
+TP
+
+
+//胸にタッチ。
+Touch on the breast.
+TP
+
+
+//ふにゃ
+F'meow.
+//PCP CCA0027
+TP
+
+
+GL 1 TCYM0004
+GI 1 0
+GP 1 165 15
+GI 1 0
+GP 1 180 30
+GI 1 0
+GP 1 195 15
+GI 1 0
+GP 1 180 0
+GI 1 0
+//HACK independent doll shake -GHS
+
+
+WVP 0 vfCCD0001mki022
+//美希「ふにゃ！？」
+Miki: "F'meow?!"
+//PCP CCA0027
+TP
+
+
+//あっさり揉めた。
+Quickly and lightly I went over it.
+//I'll never translate 揉 plainly will I. -GHS
+TP
+
+
+//尻に手を伸ばす。
+I extend my hands towards her butt.
+TP
+
+
+//もにゅ
+M'nyuh.
+TP
+
+
+GL 1 TCYM0002
+GI 1 0
+GP 1 165 15
+GI 1 0
+GP 1 180 30
+GI 1 0
+GP 1 195 15
+GI 1 0
+GP 1 180 0
+GI 1 0
+//HACK independent doll shake -GHS
+//WVP 0 vfCCD0001mki023
+//美希「ぅえぁっ！？」
+//Miki: "wEaH?!"
+//美希「もにゅ！？」
+WVP 0 vfzzzCCD0008Cmnyuh
+Miki: "M'nyuh?!"
+//HACK it's not so much a new line as fixing Miki missing the damn cue! -GHS
+TP
+
+
+//ほそっこい。やわっこい。きもちいい。
+So slenn'er. So soff'. So nayss'
+TP
+
+
+//脆い。脆すぎる。
+So brittle. So way too brittle.
+//She Kiri now? -GHS
+TP
+
+
+//太一「爆破スイッチ！」
+Taichi: "Self-Destruct Button!"
+//See CCA0008. Dire-hara not forbidden? -GHS
+TP
+
+
+//背中のホックを押す。
+I press on the hook on her back.
+TP
+
+
+//指先の圧迫と振動。ミリ単位でホックを外す。
+Pressure and oscillation of the fingertip. The hook is undone with a margin of millimeters.
+//Seems to mean that it's incredibly precise, not fast. -GHS
+TP
+
+
+//ぱさり
+Paf.
+TP
+
+GL 1 TCYM0004
+GI 1 0
+GP 1 165 15
+GI 1 0
+GP 1 180 30
+GI 1 0
+GP 1 195 15
+GI 1 0
+GP 1 180 0
+GI 1 0
+//HACK independent doll shake -GHS
+
+
+WVP 0 vfCCD0001mki024
+//美希「なおーっ！？」
+Miki: "NaOhhh?!"
+TP
+
+
+//がばっと胸元を抱える。
+Bam, she quickly hugs the front of her chest.
+TP
+
+
+//まったいらな少年のような胸に、ブラは必要ないのだ。
+But that plumb boylike chest needs no bra.
+TP
+
+
+//一本釣り……は可哀相すぎるのでやめておこう。
+Fishing with a pole... is given a rest since she's just so pitiful.
+//I'm using this as justification for the seamen j--- no, you know what, that was inexcusable. -GHS
+TP
+
+
+//太一「トドメ！」
+Taichi: "Last strike!"
+//Vaguely engrishy is good. -GHS
+TP
+
+
+GL 4 evcc0021
+$CGevcc0021 = 1
+GL 5 bgcc0000e
+GI 5 0
+WVP 2 se100 1 0
+GS 4 1
+GS 5 0
+GS 1 0
+SEF 109 0
+
+
+//ガバチョー！！
+Gabachooo!!!
+//http://en.wikipedia.org/wiki/Gabacho or http://ja.wikipedia.org/wiki/%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AC%E3%83%90%E3%83%81%E3%83%A7 -GHS
+TP
+
+
+
+WVP 0 vfCCD0001mki025
+//美希「にゃーーーーーーーーーーーーーーーーーーーーーーっ！！？？」
+Miki: "MWYAAAAAaAAAAAaAAAAAAAaAAAH!!!???"
+//22/23x'A'??? 7x3+1??? 14+8? I guess, but... -GHS
+TP
+
+
+//繰り出した技は全部入った。
+The dispatched techniques all hit the mark.
+//Unlike even the first week, heightening the suspicions again that she was either unreset all the way back then, or that she knows everything now and is just letting him. -GHS
+TP
+
+
+//気持ちよいほど、ノーガードな美希だ。
+This is our sufficiently pleasant Non-Guarded Miki.
+TP
+
+GL 0 bgcc0008
+GS 0 1
+GS 4 0
+SEF 155 0
+//太一「元気出た？」
+Taichi: "Got some high spirits into ya now?"
+TP
+
+
+GL 1 TCYM0001
+GP 1 180 0
+GI 1 1
+WVP 0 vfCCD0001mki026
+//美希「出ーまーしーたっ！」
+Miki: "GOT-THEM-I-HAVE!"
+TP
+
+
+//怒ってた。
+Angered.
+TP
+
+
+//太一「ならよし」
+Taichi: "Then that's good."
+TP
+
+
+//ついでに俺のエナジーも補給できたし。
+And with that, I also managed to replenish my energy.
+TP
+
+
+WVP 0 vfCCD0001mki027
+//美希「べー、です！」
+Miki: "Bleeech to you!"
+TP
+
+GO 1 1
+WVP 2 SE035 1 0
+//HACK later leave doll, SFX. -GHS
+
+//短い舌を出して、走り去った。
+She made a show of her short tongue and ran away.
+TP
+
+
+//太一「わはは」
+Taichi: "Wahahah!"
+//Oh, and in all this, surely we haven't forgot one certain red stain that ought to be here but isn't? -GHS
+TP
+
+WVS 1 1
+
+
+
+RET

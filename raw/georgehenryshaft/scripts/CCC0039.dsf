@@ -1,0 +1,373 @@
+
+WVS 1 1
+//HACK out with the music. This is sort of disjointed, however. -GHS
+
+//そうだな。
+Right, then.
+TP
+
+//一年教室に行こう。
+Let's go to the First Years' classroom.
+TP
+
+//ミキリコンビがいるかも知れない。
+The Mikiri duo might just be around.
+TP
+
+GL 0 bgcc0006
+GS 0 1
+GS 1 0
+SEF 152 0
+//誰もいない。
+There is no one.
+TP
+
+//見ると、二人の机に荷物は置いてあった。
+Looking closer, their bags have been laid on their desks.
+//Don't they have hangers on the swho cares. -GHS
+TP
+
+//来てはいる。
+They did come by.
+TP
+
+//校内のどこかにいるのだろうか。
+They should be somewhere on school grounds then.
+TP
+
+//考えれば、霧と美希の家の中間地点に、学校はある。
+Thinking over it, school is the midway point between Kiri and Miki's houses.
+//Miki has actually much more road to go. The Tasaki Store is much closer to the midway point. -GHS
+TP
+
+//待ち合わせに、通い慣れた学校はちょうどいいのかも知れない。
+That school they're used to go back and forth from might be just right as a meeting point, perhaps.
+TP
+
+//何をするにでもだ。
+But to do what?
+TP
+
+//窓から外を見る。
+I look outside from the window.
+TP
+
+//プールが見えた。
+I could see the pool.
+TP
+GL 0 evcc0029
+$CGevcc0029 = 1
+GS 0 1
+SEF 155 0
+
+WVP 1 bgm021.ogg 0 0 0
+
+
+//太一「……へえ」
+Taichi: "...ehhh."
+TP
+
+//遊んでいた。
+They were playing.
+TP
+
+//楽しげに。
+Cheerfully.
+TP
+
+//かすかな声が届く。
+Faint voices reach me:
+//Or maybe he's hallucinating the sound, again. -GHS
+TP
+
+WVP 0 vfCCC0039mki000
+//美希「そりゃー！」
+Miki: "S'oryaaah!"
+TP
+
+WVP 0 vfCCC0039kri000
+//霧「あ、だめだってば、だめー！」
+Kiri: "Ah, I said don't, dooon't!"
+TP
+
+WVP 0 vfCCC0039mki001
+//美希「そらそらー、よけることもできないかー！」
+Miki: "Soh'ra-Soh'raaa, then you can't even avoid iiit?"
+TP
+
+WVP 0 vfCCC0039kri001
+//霧「だって水の中じゃないっ、あっ、髪濡れる、濡れちゃうからっ」
+Kiri: "But we're into water aren't w-, AH! You'll wet my hair, you'll get them wet!"
+TP
+
+WVP 0 vfCCC0039mki002
+//美希「どこが濡れるってーっ？」
+Miki: "Were am I getting you weeet?"
+TP
+
+WVP 0 vfCCC0039kri002
+//霧「なんかオジサンっぽい」
+Kiri: "Why like an old lech now..."
+TP
+
+WVP 0 vfCCC0039mki003
+//美希「心はおじさんなの、てりゃー！」
+Miki: "I have the heart of an old lech, TEH'RYAAA!"
+//Because she's older now. -GHS
+TP
+
+WVP 0 vfCCC0039kri003
+//霧「あー、髪がー」
+Kiri: "Ah, my haaair!"
+TP
+
+WVP 0 vfCCC0039kri004
+//霧「しかえしっ！」
+Kiri: "Vengeance!"
+TP
+
+WVP 0 vfCCC0039mki004
+//美希「きゃー！」
+Miki: "Kyaaah!"
+TP
+
+//幸せな光景を見ていた。
+I was looking at a happy scene.
+TP
+
+WVP 0 vfCCC0039kri005
+//霧「んのー！」
+Kiri: "'llyyy!"
+//PCP CCA0002
+//Tsunderes will tsu&dere. See CCZAS. -GHS
+TP
+
+WVP 0 vfCCC0039mki005
+//美希「てりゃりゃー！」
+Miki: "Teh'rya'ryaaa!"
+TP
+
+WVP 0 vfCCC0039kri006
+//霧「くらえー！！」
+Kiri: "Drink thiiis!!!"
+TP
+
+WVP 0 vfCCC0039mki006
+//美希「うわー……なーんて、くらわないもーん」
+Miki: "Waaah... buuut, I ain't gonna driiink!"
+TP
+
+WVP 0 vfCCC0039kri007
+//霧「あ、ビート板使うの禁止！」
+Kiri: "Ah, kickboard usage is forbidden!"
+TP
+
+WVP 0 vfCCC0039mki007
+//美希「楯だよー」
+Miki: "It's my shield!"
+//I guess the absence of a flat-as-a-board joke here is due to her not being that flat anymore...? -GHS
+TP
+
+WVP 0 vfCCC0039kri008
+//霧「ずるー！」
+Kiri: "Cheeeat!"
+TP
+
+WVP 0 vfCCC0039mki008
+//美希「髪の長さが違う分、ハンデいるもん」
+Miki: "The length of my hear is different, so I gotta have a handicap!"
+TP
+
+//なんだよそりゃ。
+What's even that mean.
+TP
+
+//苦笑してしまう。
+I end up with a strained smile.
+TP
+
+WVP 0 vfCCC0039kri009
+//霧「けど、片手になった分、攻撃力は下がってる！」
+Kiri: "But now that one of your hands got busy, your offensive abilities have decreased!"
+TP
+
+WVP 0 vfCCC0039mki009
+//美希「しもうたー！」
+Miki: "Daymn iiit!"
+//Yntentional -GHS
+TP
+
+WVP 0 vfCCC0039kri010
+//霧「狩りの時間だー！」
+Kiri: "Time to hunt!"
+//*shudder* -GHS
+TP
+
+WVP 0 vfCCC0039mki010
+//美希「狩猟解禁！？」
+Miki: "They rescinded the hunting prohibition?!
+TP
+
+//ざぶざぶと動き回りながら、水をかけあう。
+Splashing and splashing around they toss water onto each other.
+TP
+
+//無邪気なもんだ。
+It's so innocent.
+TP
+
+
+//トクン
+Badump.
+TP
+
+
+//太一「……！」
+Taichi: "...!"
+TP
+
+//心臓が跳ねた。
+My physical heart took a leap.
+TP
+
+//軽く胸を打たれて。
+My chest was struck, lightly.
+TP
+
+//無意識に心臓を押さえた。
+Unconsciously I was pressing onto my heart.
+//Over the chest I suppose, but sudden open-heart surgery seems to fit this guro nukige well, like that scene where they obviously turn a girl into a nymphomaniac by sticking a dick into her--- wait what was I translating again -GHS
+TP
+
+//臓器に心があるわけではない。
+But the heart, as in the spirit, is not inside my internal organs.
+TP
+
+//俺の感じたことが、心臓さえノックしてのけた。
+What I had felt gave a knock onto my physical heart.
+//That may just be arrhythmia. Considering he's going deaf/blind, that's just about on point. -GHS
+TP
+
+//そのことが嬉しかった。
+I was happy it did.
+TP
+
+WVP 0 vfCCC0039kri011
+//霧「きゃあっ！」
+Kiri: "KyAaAh!"
+TP
+WVP 2 se081 1 0
+//HACK moved SFX
+WVP 0 vfCCC0039mki011
+//美希「あははははっ、転んだー！」
+Miki: "Ahahahahah, you feeell!"
+TP
+
+WVP 0 vfCCC0039kri012
+//霧「ずぶぬれぇ……」
+Kiri: "I'm soaked..."
+TP
+
+WVP 0 vfCCC0039mki012
+//美希「どんくさーい、にぶーい」
+Miki: "Sluuuggish, slooow!"
+TP
+
+WVP 0 vfCCC0039kri013
+//霧「……言ったなぁ」
+Kiri: "...now you said iiit."
+TP
+
+WVP 0 vfCCC0039mki013
+//美希「おひょ？」
+Miki: "Oyoh?"
+TP
+
+WVP 0 vfCCC0039kri014
+//霧「濡れたらもう泳げるもんね」
+Kiri: "I'm all wet so I might as well swim."
+TP
+
+WVP 0 vfCCC0039mki014
+//美希「あっ、あっあっ、接近戦はだめー！」
+Miki: "Ah, ah-ah, close quarters combat nooo!"
+//She's best at that, see her crossbow. -GHS
+TP
+
+WVP 0 vfCCC0039kri015
+//霧「平泳ぎでクロールに勝てるもんかぁ！」
+Kiri: "You think you can beat crawl with breast stroke?!"
+//Because she has no boobs. Since "breast stroke" is "flat swimming", that still works both ways. -GHS
+TP
+
+WVP 0 vfCCC0039mki015
+//美希「あたふたあたふたっ」
+Miki: "Hurry-ingly-pani-icky!"
+TP
+
+WVP 0 vfCCC0039kri016
+//霧「水浸しにしてやるっ」
+Kiri: "I'll plunge you down!"
+TP
+
+WVP 0 vfCCC0039mki016
+//美希「だめー！　濡れたら髪がワカメになるー！」
+Miki: "Nooo! If you wet my hear it'll turn into Wakame seaweed!"
+//This line MT translated by my ATM machine's awesome DRM management DLC content. -GHS Shaft
+TP
+
+WVP 0 vfCCC0039kri017
+//霧「ワカメちゃんにしてやるー！」
+Kiri: "I'll make you into Wakame-chan theeen!"
+//A character in Sazae-san, this is one certain reference unlike the others, see CCA0022 and CCD2002. -GHS
+TP
+
+WVP 0 vfCCC0039mki017
+//美希「わっ、わっ、まずっ」
+Miki: "Wah, wah, bad!"
+TP
+
+WVP 0 vfCCC0039kri018
+//霧「そらー！」
+Kiri: "Soh'raaa!"
+TP
+
+WVP 0 vfCCC0039mki018
+//美希「ぎにゃーーーーーーー！！」
+Miki: "Myeeeeeeeeow!!!"
+//ーx7 -GHS
+TP
+
+//弾ける水の音。
+Sounds of water bursts.
+TP
+
+//とめどない笑声。
+Ceaseless laughter.
+TP
+
+//やんわりと流れる時間を思わせて、優しい。
+A gentleness that reminds of the soft flowing of hours.
+TP
+
+//優しい世界の一場面。
+A scene from a gentle world.
+//See CCB0022 -GHS
+TP
+
+//日記に書こうと思った。
+I thought I would write this in the diary,
+TP
+
+//この気持ちを、忘れないよう。
+so that I would never forget these emotions.
+TP
+
+
+//俺はずっと、二人の少女が戯れる様子を眺めていた。
+And I, all throughout, gazed at these two girls lost in their playfulness.
+TP
+
+WVS 1 1
+
+RET

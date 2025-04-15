@@ -1,0 +1,58 @@
+
+
+
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfCCC0017mki000
+Miki: "......?"
+TP
+
+Taichi: "Right, right, do you have enough to eat?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCC0017mki001
+Miki: "Yes. I'm perfectly fine."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfCCC0017mki002
+Miki: "Though, my cooking is a bit, you know..."
+TP
+
+A wry smile.
+TP
+
+Taichi: "So your lunches have been canned food."
+TP
+
+GL 1 TCYM0011
+GI 1 0
+WVP 0 vfCCC0017mki003
+Miki: "Quite right: it's bread and cans."
+//Not sure, but shouldn't "It's" be capitalized as its a complete new sentence? -VDZ
+TP
+
+Taichi: "......what an impoverished lunch."
+//He means "poor" as in "low income," not "pitiful," and I'm not sure if that's clear in English. SOS. Å`IX
+//Tried 'hard-up' - Sheeta
+//I think I've seen it used in that exact context before. Honestly though, I've never even heard of the phrase "hard-up"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfCCC0017mki004
+Miki: "Tahaha."
+TP
+
+CSQ 0 1 1
+  -Give her a sandwich
+  -Don't give her one
+
+RET

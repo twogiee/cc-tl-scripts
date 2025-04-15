@@ -1,0 +1,1295 @@
+GL 0 bgcc0003b
+GS 1 0
+GS 0 1
+GS 5 0
+//SEF 152 0
+SEF 109 1
+//HACK different fade (now this is less murder on the mood) -GHS
+
+WVP 1 bgm004.ogg 0 0 0
+//夜が暑苦しくないのが、田舎のいいとこだ。
+One good thing of countryside is that the evenings are not sticky damp hot.
+//CP CCA0015C
+TP
+
+//窓から滑り込む風はほどよく冷たく、肌に優しい。
+The wind that slips through the window is cold with moderation, and gentle on the skin.
+//CP CCA0015C
+TP
+
+//太一「……ハラ減ったなぁ」
+Taichi: "...stomach's empty, innit..."
+//No Youko to make him food is very odd. Maybe Youko's starving him because she's so damn jealous; maybe she wants him to bake the potatoes that'll summon Touko - which is odd, but less so considering the nonsense that is her "fight" with Kiri. That, or this is just exactly what happens every evening that Taichi forgets to grab some takeout. Strange he doesn't even have the sweets he supposedly has for emergencies. Maybe that isn't part of his Settei yet... -GHS
+TP
+
+//独り言なども適度にこなしつつ、日記を書き綴る。
+While digesting a suitable soliloquy, I keep chronicle in the diary.
+//Someone's hungry, if it's not clear. -GHS
+TP
+WVP 2 SE027 1 0
+
+//がるるるるるるるるる
+GlRlRlRlRlRlRlRlRlRl!
+//PCP CCA0021 (yes, it has one 'rl' more, now there's 9)
+TP
+
+//腹の虫がうごうご咆吼を繰り返す。
+The belly bug steadily repeats its rice, bowl growl.
+//Ugougo is also literally seaweed-seaweed, so I'm assuming it's more food puns. -GHS
+TP
+
+//さながら自らを囲う身の程弁えない檻に対して敵意を剥く獅子の如く。
+As if a lion, baring animosity against the cage that surrounds it, unaware of what it imprisons.
+TP
+
+
+GL 5 zzzBlackBlend
+GS 5 1
+GI 5 1
+//HACK dim screen -GHS
+
+WVP 0 vmccb2002hra000
+//腹の虫『食えよ、テメエ食えよっ！　食うぞ！』
+Belly Bug: 『Eat! Eat now ya prick! Devour!』
+//Tone switch -GHS
+TP
+
+
+
+//太一「うるさいな。なんだそれ、ギャグか」
+Taichi: "Shaddap. What's even this, some sketch?"
+TP
+
+WVP 0 vmccb2002hra001
+//腹の虫『腹減ってんだよ！　食えって！　俺だけの問題じゃねぇんだぞ！』
+Belly Bug: 『Yer tummy's empty! Chow something! This ain't just my problem yannow!』
+TP
+
+
+//太一「短気なやつだ。萩原朔太郎の詩に出てくるタコみたいに自分の脚でも食ってろよ。全部食いきったら永遠の存在になれるぞ」
+Taichi: "Short tempered aren't we! Maybe I should do like that octopus in the Sakutarou Hagiwara poem and start eating my own legs. If I manage to eat myself completely without leaving anything behind, then I'll have achieved eternal life!"
+//http://en.wikipedia.org/wiki/Sakutar%C5%8D_Hagiwara original text: http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1219791307
+//Funnier considering, well. -GHS
+TP
+
+WVP 0 vmccb2002hra002
+//腹の虫『馬鹿にしやがって！　舐めてんのか！』
+Belly bug: 『That's nonsense that is! Ya pulling my leg now!』
+//Making a fool of me (lateral sense) + licking me (literal sense). Adapted so it still fits with food, in a sense. -GHS
+TP
+
+
+
+//太一「だったらどうした？　ん？」
+Taichi: "Whatcha gonna do if I am? Eh?"
+TP
+
+WVP 0 vmccb2002hra003
+//腹の虫『殴る！』
+Belly bug: 『Sock ya!』
+TP
+
+//太一「やってみろ空想の産物が」
+Taichi: "Go ahead and try, you figment of my imagination!"
+//Says the guy who gets zubaaan'd by a figment of his imagination pretty much on a weekly basis. -GHS
+TP
+
+WVP 0 vmccb2002hra004
+//腹の虫『みくびるなよ！　俺はスゥィートに育てられた芸能人の息子ばりに無軌道なんだぜ？』
+Belly bug: 『Don't be belittlin' me! I'm as rambunctious as the son of some entertainer brought up all sweet yannow!』
+//...but with all the cage stuff, being brought up in a suite almost makes more sense... still don't see the penis connection I'm pretty sure must exist. See CCC3012B -GHS
+TP
+
+//太一「フー、そいつはクールだ。けどおまえのスウィートガイっぷりも、肉体という檻の中じゃ実刑判決で豚箱入りした芸能人の息子ばりに無力だってことを忘れるな」
+Taichi: "Ohhh, we got a wise guy here. Well, while you're in the gaol known as the flesh, don'tcha forget that even with your Sweet Guy manners you are as powerless as the son of an entertainer that was slammed in the pigpen to serve his just sentence!"
+//Dagnabbit. Butabako, see CCA0009A. -GHS
+TP
+
+WVP 0 vmccb2002hra005
+//腹の虫『おのれ、言わせておけばっ！』
+Belly bug: 『How dare you! You had to go and say it!』
+TP
+
+GO 5 1
+//HACK restore screen -GHS
+
+//と、俺くらいの人間ともなると、こうして観念的な存在とも意思の疎通がはかれるのである。
+And with the presence of this two-way communication with an existence most assuredly conceptual, there lies the measure of how much of a human I am.
+TP
+
+//そういうの一般的にキチ○イって言いますかそうですか。
+Is that what they generally call lu**cy perhaps indeed that is so.
+//PCP CCB0006 -GHS
+TP
+
+//気にしない！（泣いてる）
+Well I don't care! (sobbing)
+TP
+
+//太一「しかし本当にハラは減った、と」
+Taichi: "But still I'm really hungry."
+TP
+
+//何か食うか。
+What to eat?
+TP
+
+//階下に。
+To downstairs.
+TP
+GL 0 bgcc0004c
+GS 0 1
+SEF 152 0
+//冷蔵庫の中身はからっぽになっていた。
+The contents of the refrigerator had become void.
+TP
+
+//電気も通ってないから、何も保存できないしな。
+Without electricity, the preservation of anything is impossible.
+//Irrelevant, since the fridge is empty for different reasons. -GHS
+TP
+
+//戸棚類をあさる。
+I rustle in the cupboard.
+TP
+
+//パンもない。
+No bread.
+//NER NER HOW'S THAT ALL-FRESH FOOD WORKING OUT FOR YOU NOW JAPEN -GHS
+TP
+
+//干し肉もない。
+No dried meat.
+TP
+
+//夢と希望があった。
+There were hopes and dreams.
+//Neither Want nor Desire. -GHS
+TP
+
+//……これはまったくもって完膚無きまでに何の役にも立たないので捨てる。
+...those I completely and entirely cast aside for being absolutely, completely and thoroughly useless.
+TP
+
+//コショウがあった。
+There was a pepperful of exaggeration.
+//"There were some peppers" + "that was exaggerated". -GHS
+TP
+
+//ジャガイモもあったぞ。
+There was some Solanum Tuberosum (potatoes), too!
+TP
+WVP 2 se108 1 0
+
+//ソースをてにいれた。
+> 
+ 
+                     You got [SAUCE]!
+TP
+WVP 2 se108 1 0
+
+//しおをてにいれた。
+> 
+ 
+                      You got [SALT]!
+TP
+WVP 2 se108 1 0
+
+//さとうをてにいれた。
+> 
+ 
+                     You got [SUGAR]!
+//Centered and tweaked because they're system messages. Of course. Unsure what the sugar's for. No oil??? -GHS
+TP
+
+
+//太一「ごちそうだ！」
+Taichi: "We have a feast!"
+TP
+
+//机の上に、それらを並べる。
+I line them up over the table.
+TP
+
+//太一「いただきまーす！」
+Taichi: "Thank you for the foood!"
+TP
+
+
+//ショリ……ショリ……
+Peel... peel...
+//
+TP
+
+
+//剃毛する時にも似た音を立て、塩ふり生ジャガイモを齧る。
+Unable to resist the appeeling sound of the act, I add salt on a potato I had a-peeled and took a bite.
+//Originally: "similarly to the peeling sound", which is sho-ri (vs. salt shiori). Replaced with a pun that should be about as awful. -GHS
+TP
+
+//太一「ほー、これが新ジャガの風味かぁ、んがぐぐ……適度に固くて、まるで石のよう……」
+Taichi: "Ahhh, this is the taste of a tiny little New Potato then, mnghmngh... so moderately adamantine, almost at the levels of a rock..."
+//I don't think the term New Potato is as evident as 新ジャガ is. also hungry nau. んがぐぐ seems to be a reference to Sazae-san, like (possibly) the one in CCA0022. See CCD2002. ...seriously, the stuff I google... -GHS
+TP
+
+//太一「って、食えるかこんなモン！　なめんな！」
+Taichi: "Wait, is this crap even edible?! Don't be pulling my leg!"
+//Belly bug talking now, see above.
+TP
+
+//投げつけた。
+I tossed it.
+TP
+
+//太一「ペッペッ、芽まで囓っちまった！　毒なのに！（本当）」
+Taichi: "Pah! pah! I gnawed it to the bud! This stuff's poisonous! (Seriously.)"
+//See Higurashi 1, the "needle in the food" scene. Interesting. -GHS
+TP
+
+//そして俺は気づくのだった。
+And that was when I realized,
+TP
+
+//太一「食い物がない！？」
+Taichi: "There's nothing to eat?!"
+TP
+
+//愕然とする。
+Terror ensues.
+TP
+
+//太一「そうか、パンがなければケーキを食べればいい……ププ！」
+Taichi: "Right! If we have no bread, then let us eat cake... pffft!"
+//As often attributed to Marie Antoinette, see CCX0001. -GHS
+TP
+
+//餓えた民衆が聞いたら抱腹絶倒間違いなしのナイスギャグだ。
+A nice gag that will fill the bellies of the starving populace with laughter, no mistake.
+TP
+
+//そのくらいの度量が民にもいるってことだね。
+That's how much magnanimity people have, don't they.
+TP
+
+//太一「ということでピザを取ろう」
+Taichi: "Well, if it's gotta be like this, I'll just order a pizza."
+TP
+
+//電話をかける。
+I pick up the telephone.
+TP
+
+//太一「すいません黒須ですけどダブチスペＭ一枚……」
+//※ダブチスペ＝現実語。ダブルチーズスペシャルの略。本当にこう呼ばれている。
+Taichi: "Hello, it's Kurosu and I would like one DoCheSpe size M..."
+> 
+* DoCheSpe = real word. Stands for Double Cheese Special.
+  Really, they call it that.
+//In the far, far away land in which Tanaka lives. No, not Japan, since the term doesn't google. Size M left like that, though it probably means Mega, because M is for Masochist. Don't fall asleep now. -GHS
+TP
+
+//太一「滅亡してたんだっ」
+Taichi: "They have fallen!"
+TP
+
+//わっと泣き伏す。
+Bwaaah, I break down crying.
+//SFX has better impact than a more literal translation -GHS
+TP
+
+//太一「あー、まだ制覇してないメニューがあったのにー！！」
+Taichi: "Ahhh, but I still hadn't finished conquering all their offeriiings!!!"
+TP
+
+//人生後悔だらけ。
+The life of a human is filled with regrets.
+TP
+
+//太一「そうか、じゃがいもがあるんだった」
+Taichi: "Well then, I only got potatoes."
+TP
+
+//あれをふかせばいい。
+Maybe I should steam them.
+TP
+
+GL 0 zzzTaichiHouseZoom
+GI 0 1
+//HACK well, they *tried*. -GHS
+
+//庭に出た。
+I exit to the garden.
+//庭には？ -GHS
+TP
+
+//サバイバルマンガを参考にして炊飯の用意をする。
+Using a survival manga as reference, I set up a cooking fire.
+//BTW: given Youko is the one that makes food, and there is surprisingly little reason for her to leave him without food today, isn't it curious Taichi needs to go mad to prepare himself dinner? -GHS
+TP
+
+//太一「できた……」
+Taichi: "Done..."
+TP
+
+//蒸すのは面倒なので、焼くことにする。
+Steaming is too much of a mess, so I settled for roasting.
+TP
+
+//ここで簡単なじゃがバターの作り方をば。
+Here we are, a simple recipe for buttered potatoes:
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+//火を起こす。
+> 
+ 
+ 
+Start a fire.
+//I knew Billy Joel was wrong! -GHS
+TL
+//踊る。
+Dance.
+TL
+//石を加熱する。
+Heat the stones.
+//I take it's the ones of the cooking fire. -GHS
+TL
+//ジャガイモに一人一人名前をつける。
+Baptize the potatoes one by one.
+TL
+//ホイルに包んだジャガイモを断腸の思いで石に放り込む（風味が増す）。
+Toss the tinfoil into which the potatoes are 
+ wrapped onto the stones while reminiscing of
+ your broken heart (improves the taste).
+TL
+//待つ。
+Wait.
+TL
+//涙する。
+Shed tears.
+TL
+//待つ。
+Wait.
+TL
+//涙をぬぐう。
+Wipe the tears.
+TP
+
+
+
+//待つ。
+> 
+ 
+ 
+> 
+ 
+Wait.
+//CP above
+TL
+//哀しみを乗り越えて人として大きくなる。
+Surmount the grief to become a stronger person.
+TL
+//待つ。
+Wait.
+//CP above
+TL
+//待つのをやめ。
+Cease thy waiting.
+TL
+//腹の虫を止め。
+Stop thy belly bug.
+//Just for rhyme-ish-ing-sorta. -vaguely. -GHS
+TL
+//取り出して皿にうつす。
+Remove and place on dish.
+TL
+//バター……はないので塩をかける。
+Add butter... that I don't have so salt instead.
+TL
+//じゃがバターじゃないじゃん？とかいう些細な疑問を払拭する。
+Sweep away trivial questions like, "well how're
+ they buttered potatoes then?"
+TL
+//食す。
+Devour.
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+//太一「あちち」
+Taichi: "Hot-tch-tch."
+TP
+
+//でもうまい。
+But delicious.
+TP
+
+//生きてるなぁ、俺。
+Alive aren't I, me.
+TP
+
+//玄関先で人が倒れるのが見えた。
+At the front door I could see a person collapsing.
+TP
+
+//太一「ぶっ」
+Taichi: "Bft!"
+TP
+
+//駆け寄る。
+I rush over.
+TP
+WVS 1 1
+GL 0 bgcc0002c
+GS 0 1
+//SEF 152 0
+SEF 109 0
+//HACK different transition since we're on a different BG now. -GHS
+
+//桐原冬子その人だった。
+The person in question was Kirihara Touko.
+TP
+
+WVP 0 vfccb2002fyu000
+//冬子「ううう」
+Touko: "Ngggh..."
+TP
+
+//俺はじゃがいもを貪り食いながら、冬子を見下ろした。
+While greedily devouring a potato, I look down on Touko.
+TP
+
+WVP 0 vfccb2002fyu001
+//冬子「ううう」
+Touko: "Ngggh..."
+//CP CCB2002
+TP
+
+//俺は二個目のじゃがいもを貪りだした。
+I began devouring a second potato.
+TP
+
+WVP 0 vfccb2002fyu002
+//冬子「……誰か……」
+Touko: "...somebody..."
+TP
+
+//俺は三個目のじゃがいもを―――
+I began devouring a third---
+TP
+
+WVP 0 vfccb2002fyu003
+//冬子「さっさと助けなさいよ……」
+Touko: "Hurry up and help me already..."
+TP
+
+//太一「しゃべった」
+Taichi: "It spoke!"
+//See CCB2013. -GHS
+TP
+
+WVP 0 vfccb2002fyu004
+//冬子「うう……」
+Touko: "Nggh..."
+TP
+
+//つらそうである。
+Appears in pain.
+TP
+
+//太一「どうした？」
+Touko: "What're you here for?"
+TP
+
+WVP 0 vfccb2002fyu005
+//冬子「……食べ物のにおいが……」
+Touko: "...the smell of food..."
+TP
+
+//太一「ふむ。その匂いをたどってここまで？」
+Taichi: "Hoh. You followed said smell to here then?"
+TP
+
+
+//冬子「…………」
+Touko: "......"
+TP
+
+//反応がなくなった。
+She no longer is capable of a response.
+//"There was no response" + "The response was dying". -GHS
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//俺は三つ目のじゃがいもを食べ終わってから、冬子の体を引き起こした。
+Once I finished eating my third potato, I dragged Touko's body over.
+//WHAT'S HE GONNA DO TO THIS POOR CADAVER NOOOOO -GHS
+TP
+
+WVP 1 bgm011.ogg 0 0 0
+
+GL 0 evcc0022a
+$CGevcc0022a = 1
+GS 0 1
+SEF 109 0
+
+
+
+//がつがつがつ
+Greedily, greedily, greedily.
+TP
+
+//冬子がじゃがいもを貪り食う。
+Touko most greedily devours potatoes.
+//Annnd graphics failure again. She should be eating a potato no bigger than her eyes FFS. -GHS
+TP
+
+//太一「……」
+Taichi: "..."
+//WHY DID I USE EYES AS COMPARISON -GHS
+TP
+
+//調味料もかけずに。
+Without adding any flavoring.
+TP
+
+//咀嚼してない時間があってはならないとばかりに。
+Because she didn't seem to have even the time to chew.
+TP
+
+//猛然と、勇猛果敢に、徹底して、食べる。
+A savage, dauntlessly courageous, thorough eating.
+//See CCB0008 (I guess) -GHS
+TP
+
+//思い返せば、人前で食すことを恥じらっていた冬子だ。
+In retrospect, Touko was always embarrassed about eating in front of others.
+TP
+
+//こんな様子は珍しい。
+This thing now is a rarity.
+TP
+
+//太一「……新田」
+Taichi: "...Shinden."
+//Newly cultivated rice field. Capitalized because name. -GHS
+TP
+
+WVP 0 vfccb2002fyu007
+//冬子「……っ……っ」
+Touko: "...mh... mh..."
+TP
+
+//太一「……葛西」
+Taichi: "...Kasai."
+//No idea what exactly is meant. Returns about some military clan, and this: http://en.wikipedia.org/wiki/Kasai -GHS
+TP
+
+WVP 0 vfccb2002fyu008
+//冬子「……っ……っ」
+Touko: "...mh... mh..."
+TP
+
+//太一「……宇賀神」
+Taichi: "...Ugajin."
+//God of harvests and wealth (syncretized with Saraswati, and often taking the form of a heavenly woman, a white snake or a fox) -WWWJDIC -GHS
+TP
+
+WVP 0 vfccb2002fyu009
+//冬子「……さっきから何なのよ？」
+Touko: "...what's that you keep talking about now?"
+TP
+
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　むこ
+//太一「おまえの血肉になった新じゃがの無辜なる民たちだ」
+Taichi: "The blameless, innocent people of the New Potato Republic that have now become your flesh and blood."
+//Step 4. Also part of the Country Founding/immigration subtheme. -GHS
+TP
+
+WVP 0 vfccb2002fyu010
+//冬子「は？」
+Touko: "Huh?"
+TP
+
+//じゃがいものかけらを頬につけて、冬子は怪訝な顔をした。
+With bits of potato stuck to her cheek, Touko made a puzzled face.
+TP
+
+//太一「気にしないでいい」
+Taichi: "Don't worry about it, it's fine."
+TP
+
+//太一「命は受け継がれていくのだ」
+Taichi: "Their life has been bequeathed."
+TP
+
+//合掌。
+Press hands together in prayer.
+//Not the Western one. -GHS
+TP
+
+WVP 0 vfccb2002fyu011
+//冬子「……は？」
+Touko: "...huh?"
+TP
+
+//太一「いいからいいから」
+Taichi: "It's nothing, it's nothing."
+TP
+
+//しばらくきょとんとした顔をしていた。
+She showed a somewhat stumped face,
+//Shbopsdkefp3o2reds -GHShbopsdkefp3o2reds
+TP
+
+//再びかぶりつく。
+then dug in once more.
+TP
+
+WVP 0 vfccb2002fyu012
+//冬子「……んくっ」
+Touko: "...mnch."
+TP
+
+//四肢が引きつる。
+Limbs stiffen.
+//Is she coming??? -GHS
+TP
+
+//太一「はい水」
+Taichi: "Here, water."
+TP
+
+//ペットボトルを渡す。
+//She looks like a pet so I hand over a Pet Bottle.
+I hand over a bottle of water.
+TP
+
+WVP 0 vfccb2002fyu013
+//冬子「んっんっんっ……」
+Touko: "GlpGlpGlp..."
+TP
+
+//飲み干す。
+She chugs down.
+TP
+
+WVP 0 vfccb2002fyu014
+//冬子「はふはふ」
+Touko: "MnchMnch."
+TP
+
+//また食い出す。
+She wolfs down once again.
+TP
+
+//大人びて見えるけど、年相応に子供なんだよな、こいつ……。
+She looks all grown up, but she has the mannerism of a child, this one...
+TP
+
+//七個か八個もたいらげて、ようやく冬子は一息ついた。
+After having flattened seven or eight, finally Touko takes a breather.
+//Casual numbers. -GHS
+TP
+WVS 1 1
+//HACK music out earlier -GHS
+
+WVP 0 vfccb2002fyu015
+//冬子「……落ち着いた」
+Touko: "...I've calmed down now."
+//Also, remembering that the potatoes here are small, it's much more understandable how she could eat this many and this quickly. -GHS
+TP
+//WVS 1 1
+
+//太一「そりゃ何より」
+Taichi: "Welll, that's what's important."
+TP
+WVP 1 bgm003.ogg 0 0 0
+
+GL 0 bgcc0002c
+GL 1 TCKT0005c
+GS 0 1
+GS 1 1
+GP 1 230 0
+SEF 109 0
+//HACK BG with Touko, also all the dolls around here are also added of course. -GHS
+
+
+
+
+//冬子は居住まいを正した。
+Touko readjusts her sitting position.
+//Despite her being standing now. Ooookeeey... -GHS
+TP
+
+GL 1 TCKT0001C
+GI 1 0
+
+//俯いて、上目づかいに俺を見る。
+With her head hung in shame, she rolls up her eyes to look at me.
+TP
+
+//だもんで、俺も冬子を見る。
+And so I, too, look at Touko.
+TP
+
+//じっと見る。
+Staring fixed.
+TP
+
+GL 1 TCKT0006C
+GI 1 0
+
+WVP 0 vfccb2002fyu016
+//冬子「……見ないでよ」
+Touko: "...don't look at me!"
+TP
+
+//赤面してうつむく。
+She looks down, her face red.
+TP
+
+//可愛かった。
+That was so cute.
+TP
+
+//ちょっとドキドキしてしまった。
+It made my heart go a bit boom-boom.
+TP
+
+//太一「い、いやなに。そっちがメンチを切るからつい」
+Taichi: "N-,no I wasn't! I only glanced that way unconsciously!"
+//regression to tsundere -GHS
+TP
+
+GL 1 TCKT0003C
+GI 1 0
+
+WVP 0 vfccb2002fyu017
+//冬子「お礼言おうとしてたのっ！」
+Touko: "I'm trying to say something polite here!"
+//!!TSUNDERE FIGHT!! -GHS
+TP
+
+//太一「あー、はい、どうぞ」
+Taichi: "Ah, yes, go on."
+TP
+
+GL 1 TCKT0005C
+GI 1 0
+
+WVP 0 vfccb2002fyu018
+//冬子「ん……」
+Touko: "Hm..."
+TP
+
+//改めて。
+She tries again.
+TP
+
+GL 1 TCKT0006C
+GI 1 0
+
+WVP 0 vfccb2002fyu019
+//冬子「あ、あ、あ」
+Touko: "Th-, th-, th-,"
+TP
+
+WVP 0 vfccb2002fyu020
+//冬子「……あり、がとう」
+Touko: "...thank, you."
+TP
+
+//ぎこちなかった。
+So very awkwardly.
+TP
+
+//太一「いいさ」
+Taichi: "No problem."
+TP
+
+//太一「まさか餓えていたとは思わなかった」
+Taichi: "I couldn't even imagine you were flat-out starving."
+TP
+
+//冬子はさらに赤面した。
+Touko's face grew even more red.
+TP
+
+//太一「家に食料なかったとですか？」
+Taichi: "Was it because there was no food in the house?"
+TP
+
+WVP 0 vfccb2002fyu021
+//冬子「あったけど……」
+Touko: "There was, but..."
+TP
+
+WVP 0 vfccb2002fyu022
+//冬子「どう調理していいかわからなくて」
+Touko: "I don't really know how to prepare it."
+TP
+
+//太一「はい？」
+Taichi: "What?"
+TP
+
+//太一「だって昔、料理得意だって……」
+Taichi: "But, but, that time, you said you were a great cook..."
+//collate dem buts -GHS
+TP
+
+GL 1 TCKT0002C
+GI 1 0
+
+WVP 0 vfccb2002fyu023
+//冬子「ごめんなさい……」
+Touko: "I'm sorry..."
+TP
+
+WVP 0 vfccb2002fyu024
+//冬子「あれ、ウソ……」
+Touko: "That... was a lie..."
+TP
+
+//太一「ウソ！」
+Taichi: "A LIE?!"
+TP
+
+//がーん。
+Duuun!
+TP
+
+GL 1 TCKT0004C
+GI 1 0
+
+WVP 0 vfccb2002fyu025
+//冬子「ごめん」
+Touko: "Sorry."
+TP
+
+//太一「あれ、だって昔弁当とか作って……」
+Taichi: "Then, those bentos you had weren't made..."
+//See CCD2002. But shouldn't he know? -GHS
+TP
+
+WVP 0 vfccb2002fyu026
+//冬子「お手伝いさんが作ったのを私が作ったってことにして」
+Touko: "The maid made them and I just made it look like I made them."
+//There mayd be something wrong with how I made this sentence, but I seem unable to figure out what unaided... -GHS
+TP
+
+//がーんがーん。
+Dun-duuun!
+TP
+
+//太一「お手伝いさんって……何歳くらいの？」
+Taichi: "The maid... how old is she?"
+TP
+
+GL 1 TCKT0005C
+GI 1 0
+
+WVP 0 vfccb2002fyu027
+//冬子「４５歳くらい……」
+Touko: "Around 45 years old."
+//4+5=9 +1+2+3 (dun, dun-dun, dun-dun-dunnn) =15 =7+8 -GHS
+TP
+
+//がーんがーんがーん。
+Dun-dun-DUUUN!
+TP
+
+//太一「……おばちゃん弁当に……俺は……ときめいて……」
+Taichi: "...my heart fluttered... for the bento... prepared by an old bag..."
+//I wonder if THIS is what pisses him off. -GHS
+TP
+
+GL 1 TCKT0006C
+GI 1 0
+
+WVP 0 vfccb2002fyu028
+//冬子「ごめんなさい……」
+Touko: "I'm sorry..."
+TP
+
+//太一「ひどいっ」
+Taichi: "Meanie!"
+TP
+
+//俺は泣き伏した。
+I broke down crying.
+TP
+
+//で。
+Then,
+TP
+
+//太一「じゃ自宅に戻れば肉なり缶詰なりあるわけだ」
+Taichi: "So, if you go back home, I guess there should be some meat, or some canned food."
+TP
+
+GL 1 TCKT0000C
+GI 1 0
+
+WVP 0 vfccb2002fyu029
+//冬子「缶詰ってなに？」
+Touko: "What's 'canned food'?"
+TP
+
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+
+
+//太一「リアリーっ！？」
+Taichi: "MAJIII!?"
+//screw it *chug* see CCC4016, it returns so keeping it like this. -GHS
+TP
+
+//缶詰の存在を知らないっ？
+She doesn't even know of the existence of canned food!?"
+TP
+
+//缶詰という単語を知らない？
+She doesn't know the words 'canned food'?
+TP
+
+//エンサイクロペディア冬子には缶詰の二文字がない？
+Do those two words never appear together in the Encyclopedia Touka?
+//lit. "does the two-kanji word 缶詰 not appear". -GHS
+TP
+
+//え？　いやそりゃ金持ちだって知ってたけど……え、本気ですか？
+Eh? No, I know that she's rich, but still... ehhh, seriously?
+//leave fourth wall alone -GHS
+TP
+
+//太一「キャビアって缶詰に入ってるんじゃないの？」
+Taichi: "Doesn't your caviar come in a can?!"
+TP
+
+//わなわな震えながら問う。
+A question while I shake and tremble with fear.
+TP
+
+WVP 0 vfccb2002fyu030
+//冬子「ビンよ。毎週木箱に詰められて外国から送られてくるの」
+Touko: "It's in jars. Every week, jam-packed in a wooden box sent from overseas."
+//Even the most expensive caviar in the world comes in a tin: http://most-expensive.net/caviar-world As a crate like that would run likely $100,000+ a WEEK, I'm leaving this as a rich girl joke. -GHS
+TP
+
+//平常的に食ってるッッッ！？
+That's what she normally eeeeats?!?
+TP
+
+
+//太一「ケーキがなかったらキャビアとパンで食いつなげよ金持ち野郎！」
+Taichi: "If you have no cake, then live on bread and caviar, you damn upper class twit!"
+//Monty Python rushes in where Engrish fears to tread... -GHS
+TP
+
+GL 1 TCKT0003C
+GI 1 0
+
+WVP 0 vfccb2002fyu031
+//冬子「ど、どうして怒るの？　それにケーキって……？？？」
+Touko: "Wh-, what are you angry for? And what's this about cake...???"
+TP
+
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+
+//太一「キャビー！　こんなありがたみのわからない女に食われて！　おうおう！」
+Taichi: "CAVIEEE! Eaten by this woman of all values ignorant! All the time!"
+TP
+
+//擬人化して哀れんだ。
+I pity that anthropomorphism.
+//"Cavie" -GHS
+TP
+
+GL 1 TCKT0004C
+GI 1 0
+
+
+WVP 0 vfccb2002fyu032
+//冬子「泣かれても」
+Touko: "Crying, really now."
+TP
+
+//太一「だから！　ご自慢のキャビアはどうしたのか訊いたんだ！」
+Taichi: "Therefore! I now ask what happened to this proud caviar!"
+TP
+
+GL 1 TCKT0005C
+GI 1 0
+
+
+WVP 0 vfccb2002fyu033
+//冬子「今週分はないわ。昨日送られてこなかったし」
+Touko: "This week there's none, no. It wasn't delivered yesterday."
+TP
+
+//太一「先週のは？」
+Taichi: "Last week's?"
+TP
+
+WVP 0 vfccb2002fyu034
+//冬子「先週は全然食べなくて未開封だったけれど……捨ててしまったわ。傷むもの」
+Touko: "Last week we didn't eat any of it and it was still sealed, but... I threw it all away. It's perishable."
+//Odd, isn't it? Touko wasn't at home for most of that time, because of the Training Camp. Is she the only one who eats it there? Did they just stop ordering it since she wasn't eating it? -GHS
+TP
+
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+
+
+//太一「イクッ！！」
+Taichi: "BNK!!!"
+//Lit. "I'm coming". Going with vapor lock. -GHS
+TP
+
+//俺はぴーんと反った。
+I push out my chest and start to bend backwards,
+TP
+WVP 2 SE032 1 0
+
+GS 0 0
+GS 1 0
+SEF 0 0
+//HACK out with everything -GHS
+
+SEF 101 0
+//そのまま地面に倒れる。
+until the back of my head hits the ground.
+TP
+
+WVP 0 vfccb2002fyu035
+//冬子「きゃっ！？　どうしたの？」
+Touko: "Kyah?! What is wrong?"
+TP
+
+//ブリッジを保持したまま、全身を痙攣させる。
+While still arcing the back as a bridge, I begin convulsing all throughout.
+TP
+
+//太一「キャビア……捨てた……これから傷むから……傷む前に捨てた……」
+Taichi: "Caviar... thrown away... because it is going to spoil... thrown before it spoiled..."
+TP
+
+WVP 0 vfccb2002fyu036
+//冬子「口から泡が！？」
+Touko: "You're foaming at the mouth?!"
+TP
+
+//太一「俺が中国株で幼少のみぎりから貯えた全財産を失ったというのに……」
+Taichi: "Even though I had lost the entire fortune I had saved up since my days of infancy on Chinese stock..."
+//Part 3, Taichi the Failed Speculator -GHS
+TP
+
+//太一「おまえはキャビアを捨てていたなんて！！」
+Taichi: "You have just been throwing caviar away!!!"
+TP
+
+WVP 0 vfccb2002fyu037
+//冬子「支離滅裂でもう何がなにやら……」
+Touko: "What are you doing with all this incoherent and illogical nonsense..."
+//Been asking that myself for about 18 months now. -GHS
+TP
+
+GL 1 TCKT0004C
+GS 0 1
+GS 1 1
+SEF 109 0
+//HACK back in, doll change -GHS
+
+//太一「だから金持ちは！」
+Taichi: "Why you over-rich...!"
+TP
+WVS 1 1
+
+
+//冬子は顔を伏せた。
+Touko's face looks downcast.
+TP
+
+GL 1 TCKT0005C
+GI 1 0
+
+
+WVP 0 vfccb2002fyu038
+//冬子「……お金なんて、もう意味ないじゃない」
+Touko: "...rich you say, but now it's all meaningless."
+TP
+
+//太一「そらそーだが」
+Taichi: "Sure, suuure, but!"
+TP
+
+WVP 0 vfccb2002fyu039
+//冬子「黒須は、料理できるからいいよね」
+Touko: "Kurosu, you can cook, that's great."
+TP
+
+//太一「料理って言うか、焼いただけだけど」
+Taichi: "Cooking, now, it's just roasting something I rustled up."
+//tadakedakedo -GHS
+TP
+
+//普通できるだろう。
+Should be normal to be capable of it.
+TP
+
+//さいとうた○をの力添えもあるけど。
+Though I have had the help of Saitou Ta**o.
+//Can't source the Golgo 13 chapter this comes from, if any. -GHS
+TP
+
+WVP 0 vfccb2002fyu040
+//冬子「……面倒になってくる。ただ生きるために努力しないといけないなんて」
+Touko: "...this has become so annoying. All this big effort needed just to live normally."
+//See CCD2002. Like having to line up at the cafeteria just to get lunch. -GHS
+TP
+WVP 1 bgm013.ogg 0 0 0
+
+//金持ちの発言だ。
+So declares the rich girl.
+TP
+
+//この女の家には、家政婦がいる。
+This woman's family has a housekeeper.
+TP
+
+//いわばメイドだ。
+What you'd call a maid.
+TP
+
+//冬子お嬢様だ。
+That's why Touko's an Ojou-sama.
+TP
+
+//つまり、自分で何かしなくとも自動的に生きてこられたわけだ。
+In other words, she was maintained alive automatically even without doing anything herself.
+TP
+
+//太一「桐原は一人では生きられないのだな」
+Taichi: "So, Kirihara, you can't live alone then."
+TP
+
+GL 1 TCKT0002C
+GI 1 0
+
+
+WVP 0 vfccb2002fyu041
+//冬子「……るさい」
+Touko: "...'ddap."
+//Lisp -GHS
+TP
+
+//力ない反論が肯定だった。
+A feeble refutation that was an affirmation.
+TP
+
+//太一「自動的なやつめ……」
+Taichi: "Damn automatic people..."
+TP
+
+GL 1 TCKT0000C
+GI 1 0
+
+
+WVP 0 vfccb2002fyu042
+//冬子「ねえ」
+Touko: "Hey."
+TP
+
+//太一「ん？」
+Taichi: "Hm?"
+TP
+
+GL 1 TCKT0006C
+GI 1 0
+
+WVP 0 vfccb2002fyu043
+//冬子「……ここに住んだらだめ？」
+Touko: "...me staying here, can't I?"
+TP
+
+//耳を疑った。
+I could not believe my ears.
+TP
+
+//本気で弱ってるな、コイツ。
+She's seriously impaired, this one.
+TP
+
+//さらっと言ったぞ。
+She even said it all naturally.
+TP
+
+//他に頼る相手もいないのは確かで。
+Then again, there is certainly no one else she could depend on.
+TP
+
+//必然、俺になるわけだ。
+Inevitably, she turned to me.
+TP
+
+//うっわ、複雑。
+Waaah, so complicated.
+TP
+
+//だって冬子と俺って―――
+Because Touko and I---
+TP
+//>　　　　　　　　　　　　おうのう
+//ううううう（懊悩）。
+Ngggggh (anguish) (pronounced oh no)
+//See CCA0016, it's one of the few furrys that have been repeating so it's totally intentional. -GHS
+TP
+
+
+//This is where the choice to accept or reject would go. Many of the inaccessible scripts for Week 2 seem to be for that removed choice. -GHS
+
+
+RET

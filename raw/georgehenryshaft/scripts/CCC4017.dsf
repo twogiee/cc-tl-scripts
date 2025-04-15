@@ -1,0 +1,199 @@
+//Friday September 11, 1998 -GHS
+
+
+
+
+//GL 0 bgcc0007
+GL 0 zzzrooftopzoom
+//HACK zoom it. -GHS
+GS 0 1
+SEF 152 0
+
+WVP 1 bgm016.ogg 0 0 0
+
+//早朝。
+Early morning.
+TP
+
+//惰性で部活に来てしまう。
+I came to club by inertia.
+TP
+
+//放送局の準備は、まだまだできていない。
+The preparations for our Broadcast Station still had quite a long ways to go.
+TP
+
+//友貴がいた。
+Tomoki was among us.
+TP
+
+//太一「おは」
+Taichi: "Morn'."
+TP
+
+GL 1 TCST0000
+GP 1 190 0
+GI 1 1
+WVP 0 vmCCC4017yki000
+//友貴「……太一か」
+Tomoki: "...Taichi, then."
+TP
+
+//太一「どした？」
+Taichi: "What's up?"
+TP
+
+GL 1 TCST0004
+GI 1 0
+WVP 0 vmCCC4017yki001
+//友貴「……これさ、もうだいぶできてるなって思って」
+//Tomoki: "My dick, your ass."
+Tomoki: "...this, ya know, I was thinking that most of it was already finished."
+TP
+
+//太一「まあ先輩が頑張ってたからな」
+Taichi: "Well, this is Senpai doing her best."
+TP
+
+//太一「必要な機材も運んだし」
+Taichi: "She's even carrying up the machine parts she needs."
+TP
+
+WVP 0 vmCCC4017yki002
+//友貴「……いつできるんだっけ？」
+Tomoki: "...when was she going to finish this?"
+TP
+
+//太一「日曜じゃないかな。当初の予定だと」
+Taichi: "Sunday, wasn't it? I think. That was the initial plan."
+TP
+
+//太一「手伝うか？」
+Taichi: "Wanna help?"
+TP
+
+GL 1 TCST0000
+GI 1 0
+WVP 0 vmCCC4017yki003
+//友貴「いや、やることあるから……」
+Tomoki: "Nah, got stuff to do, so..."
+TP
+
+//太一「桜庭さあ、旅に出たぞ」
+Taichi: "Sakuraba, yannow, he went on a trip."
+TP
+
+WVP 0 vmCCC4017yki004
+//友貴「みたいだね」
+Tomoki: "So like him."
+TP
+
+//太一「誘われたさ」
+Taichi: "I was invited."
+TP
+
+WVP 0 vmCCC4017yki005
+//友貴「こっちもだよ」
+Tomoki: "Yup, me too."
+TP
+
+//太一「あと俺は億万長者になってしまった……」
+Taichi: "Afterwards, I became a billionaire somehow..."
+TP
+
+WVP 0 vmCCC4017yki006
+//友貴「へえ」
+Tomoki: "Ehhh?"
+TP
+
+//反応が薄い。
+Reaction's weak.
+TP
+
+//他のことに気を取られていた。
+There's something else he's preoccupied with.
+TP
+
+//太一「冬子が死んだよ」
+Taichi: "Touko died by the way."
+TP
+
+GL 1 TCST0001
+GI 1 0
+//HACK at least he reacts somewhat... -GHS
+
+WVP 0 vmCCC4017yki007
+//友貴「…………なに、言ってるんだよ」
+Tomoki: "......what... are you talking about."
+TP
+
+//顔が引きつる。
+Face twitches.
+TP
+
+//太一「なーんちゃって」
+Taichi: "Juuust kiddin'!"
+TP
+
+GL 1 TCST0003
+GI 1 0
+//HACK annoyed. -GHS
+
+WVP 0 vmCCC4017yki008
+//友貴「おまえはー！」
+Tomoki: "Really youuu!"
+TP
+
+//太一「やるかー！」
+Taichi: "Will you let me off easilyyy!"
+TP
+
+WVP 0 vmCCC4017yki009
+//友貴「……やめとくよ。そんな気分じゃないし」
+Tomoki: "...let's stop. I'm not in that mood."
+TP
+GO 1 1
+//校舎に戻っていく。
+He goes to return inside the building.
+TP
+
+//太一「参加しないのかー？」
+Taichi: "Won't you participaaate?"
+TP
+
+GL 1 TCST0000
+GI 1 1
+WVP 0 vmCCC4017yki010
+//友貴「……姉貴とケンカ中だしな」
+Tomoki: "...I'm fighting with Aneki ya know."
+TP
+
+//太一「先輩、来るの遅いから午前だけでも手伝って行けよ」
+Taichi: "Senpai comes in late, so come help us even if it's only before noon!"
+TP
+
+WVP 0 vmCCC4017yki011
+//友貴「うーん……わからないところとかあるの？」
+Tomoki: "Hummm... you got some things you don't get?"
+TP
+
+//太一「機材の配線わかんねー」
+Taichi: "Just a biiit on the wiring of the machinery."
+TP
+
+GL 1 TCST0005
+GI 1 0
+WVP 0 vmCCC4017yki012
+//友貴「仕方ないな」
+Tomoki: "I just gotta, right."
+TP
+
+//友貴は午前中だけ手伝ってくれた。
+Tomoki came to assist us only throughout the forenoon.
+//'morning' doesn't feel right, and the only other really is 'antemeridian'. -GHS
+TP
+
+WVS 1 1
+
+
+RET

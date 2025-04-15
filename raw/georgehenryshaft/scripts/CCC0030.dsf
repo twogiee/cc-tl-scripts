@@ -1,0 +1,17 @@
+
+
+
+//となると。
+Now then.
+TP
+
+CSQ 0 1 1
+//　・一年教室に行ってみる
+//　・保健室に行ってみる
+ - Try going to the First Years' classroom
+ - Try going to the infirmary
+
+
+
+
+RET

@@ -1,0 +1,54 @@
+
+
+
+
+//旅立つ。
+I begin on my way.
+TP
+
+
+
+//太一「そうだ、美希」
+Taichi: "Ah, yes, Miki."
+TP
+
+
+
+//立ち止まる。
+I stop.
+TP
+
+
+
+//大切なことを伝え忘れていた。
+I forgot to tell her something very important.
+TP
+
+
+
+WVP 0 vfcca0010mki000
+//美希「はい」
+Miki: "Yes?"
+TP
+WVS 1 1
+
+
+
+//太一「そろそろ部活、活動再開するってさ」
+Taichi: "I'm hearing that Club is going to be starting up again any time now."
+//This is intended to be read as Misato having said this, but of course it's a lie. Left it a little ambiguous. -GHS
+TP
+
+
+
+WT 500
+GL 0 bgcc0000
+GS 0 0
+GS 1 0
+SEF 152 1
+WT 1000 1
+
+WVS 2 0
+WVS 3 0
+
+RET

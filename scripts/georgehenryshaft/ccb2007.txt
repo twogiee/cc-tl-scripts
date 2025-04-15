@@ -1,0 +1,272 @@
+
+[Touko]
+"...'lling you!"
+//[I'm te] -GHS
+
+Yelled at right in the ears, I come to my senses.
+
+[Taichi]
+"Ye-, yes?"
+
+[Touko]
+"All spacing out. Ignoring me. That hurts!"
+
+[Taichi]
+"Uhmmm."
+[Taichi]
+"Don't I even have the privilege of spacing out now?"
+
+[Touko]
+"...were you thinking about Miyasumi-senpai maybe."
+
+[Taichi]
+"I was thinking about a guy."
+
+[Touko]
+"?!?!?"
+
+Touko was engulfed in shock (visual impression).
+
+[Touko]
+"A guy... but no... that's so... (blushing)"
+//SHE'S INTO BL RUN -GHS
+
+[Taichi]
+"The hell's that!"
+
+That was really mean.
+And still it's not like it's all that strange.
+//Her reaction and him thinking about a guy. -GHS
+
+[Taichi]
+"Dreaming lady, don't be having too many dreams!"
+//夢見る薬？ -GHS
+
+[Touko]
+"...well, since you three stooges always gave that impression, of course there's a bit of a dream."
+//... -GHS
+
+[Taichi]
+"STOP!"
+
+That's revolting.
+//Contrast with CCA0018B, i.e. the script that's just ended. -GHS
+A Pure Love Story with one of those two, really!
+//HACK fade to white then evening sky -GHS
+
+[Taichi]
+『...』
+
+CSQ 0 1 1
+ - Invite Sakuraba
+ - Invite Tomoki
+IF $B == 1 JMP LSAKU
+IF $B == 2 JMP LTOMO
+:LSAKU
+//HACK different layer, semitransparent Sakuraba. Also, they had used his Day doll instead of the Dusk doll. -GHS
+
+[Sakuraba]
+『Taichi, don't make me take this seriously.』
+
+JMP LBOB
+:LTOMO
+//HACK Same as above (they used the evening doll at least) -GHS
+
+[Tomoki]
+『I don't dislike that part of yours.』
+
+JMP LBOB
+:LBOB
+ShaaakeShakeShakeShakeShake!
+//HACK fade to white, back to road with last Touko doll preloaded -GHS
+
+[Taichi]
+"Whyyy are you thinking stuff that creeepy, it's just friendship, just friendship, it's all normal!"
+//HACK no fade -GHS
+
+[Touko]
+"That's not disgusting! At least, as far as outwards you three stooges can be looked at."
+//...shouldn't this mean "that's what you three stooges look like [gay]?" But below... -GHS
+
+[Taichi]
+"...don't you include me."
+
+[Touko]
+"Oh no, are you still playing ugly duckling?"
+//Oono? Ohho? Onno. Onna noh mask. -desu -GHS
+
+[Taichi]
+"Shaddep!"
+
+This is a serious problem!
+My self-deprecating routine is there to cover for it somehow.
+//Best explained in the ending. ...not that Taichi gets it himself... -GHS
+Sure... this might not be a problem of looks at all but...
+I can understand that as much as I like, but completely changing one's way of thinking is not so simple.
+Because,
+because, well...
+
+[Taichi]
+"So anyway."
+//And cuts to perversion, i.e., no change. -GHS
+[Taichi]
+"Punishment for having disgusting thoughts!"
+
+[Touko]
+"Eh?"
+
+Nuditehhh!
+//赤裸々 -GHS
+That's the onomatopoeia that was audible from someplace.
+//Since there's serious possibilities that Taichi is having auditory hallucinations, and this is almost certainly one of them regardless, can't specify more. -GHS
+
+[Touko]
+"...!!!!!"
+
+[Taichi]
+"Annnd UP!"
+
+I seize the hem of the skirt, and affix it to her head.
+//I think they sell glue in Japan for that -GHS
+Now, the shaming of Touko is at levels incomparable!
+And in public as well.
+So, what shall you do Touko!
+Oh Samurai Girl of the True Blade, what will you doooooooo...! (next episode preview-like)
+As a matter of fact,
+I was prepared to get beaten, anticipated it even.
+But despite that,
+
+[Touko]
+"............"
+
+I am but stared at by reproachful eyes.
+Her face dyes a light vermilion, that's it.
+Holding down her hand as if in apology, there is no serious volition of guarding her Scanties.
+//http://www.weblio.jp/content/%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%86%E3%82%A3 http://www.merriam-webster.com/dictionary/scanties -GHS
+But very much all of her frankness is visible.
+
+[Taichi]
+"How... come... not... angry?"
+
+[Touko]
+"...but... there's no one looking..."
+//See CCD2002. Does she think that a good thing, or a bad one? -GHS
+
+[Taichi]
+"Tha-!"
+
+My lips tremble.
+
+[Taichi]
+"That's not true you know?!"
+
+[Touko]
+"Why would a skirt flip make me angry now?"
+
+[Taichi]
+"Shouldn't there have been a 'dun-dun-dunnn' there?"
+//May have termed the inversions. -GHS
+[Taichi]
+"Well, show me some your techniques!"
+
+[Touko]
+"...let it go, I can't walk."
+[Touko]
+"And it's... embarrassing."
+
+Flush!
+
+[Taichi]
+"Flushed..."
+[Taichi]
+"That's it?"
+
+Bob and the girl gives a nod.
+//HACK NVL mode -GHS
+Alas.
+//Just bein' pretentious, really. -GHS
+Nietzsche had said it:
+//See CCA0015C -GHS
+"Touko is dead."
+//This line is so not funny on the second time through. -GHS
+Nay.
+Touko, the individual, has not died.
+In the analysis of Touko's character, the
+quarrelsome, unyielding spirit that acts as an
+enormous maximum common denominator for her values
+had now been forcefully removed from her.
+Meaning one part of Touko's personality has died.
+Touko became completely realistic. Again.
+//Hint hint. -GHS
+But me, I like the Touko that is always
+irritably edgy.
+Because that's the most equilibrated.
+//HACK ADV mode -GHS
+Well, if it has to be like this---
+
+[Taichi]
+"Time for Forbidden Esoterica!"
+//See CCA0022 -GHS
+
+[Touko]
+"Lemme go alreadyyy... it's all breezy and it won't stop."
+//See CCA0015B -GHS
+
+[Taichi]
+"I will make it more breezy-breezy. Otherwise it's impossible for me to take off the panties or make you wear a sanitary napkin!"
+//STILL on about her being on her period. -GHS
+
+[Touko]
+"...wait, you can't exactly yank them off when I'm like this---"
+
+[Taichi]
+"T'hyah!"
+
+And then,
+I unleashed the forbidden move.
+The underwear down slides.
+Until the ankle.
+Hurry up, mosaic censoring! Quick, quick!
+Hoh, it already took. As typical, it works so fast!
+It's a question of life and death, isn't it!
+
+[Taichi]
+"Ah, Touko! C'est si bon! (so very good!) C'est si bon! (so very good!)"
+//Added some random French for--- no, wait, this one wasn't me. -GHS
+
+Freely using most skilled French, I present great admiration to Touko's genitalia.
+
+[Touko]
+"..."
+[Touko]
+"............"
+[Touko]
+"'llyyyyyy!!!"
+
+She's saying "reallyyy",
+so that had to have been her lisp.
+//Technically it's identical, but the original line doesn't have the kanji in 'tarazu'. -GHS
+It's easily understood when kissing:
+suck a bit on her lip, and she flounders as if drowning, up, up, up.
+//アップアップ sometimes the Japanese have an actually clever sense of humor. -GHS
+But on the other hand, the insides of her mouth have the heat of a furnace.
+Her tongue too has the softness of cream. It's an intoxicating flavor.
+My memories run to my lovellatious days with Touko.
+* Lovellatio = Taichian for caresses of all types to lips
+  in general... maybe. Origin unknown. Seems to be
+  love + fellatio.
+And,
+
+[Touko]
+"SCAPONTAAAAAAAAAAANNNN!!!"
+//HACK independent CG shake -GHS
+
+Bokan!
+//HACK to the sunset sky -GHS
+
+[Taichi]
+"Helpy heeeeeeeeelp!!!"
+//Response to Scapontan? Without even a video... -GHS
+
+As I was fluttering through the air, I thought,
+about Shinkawa Yutaka, the man that was no more.

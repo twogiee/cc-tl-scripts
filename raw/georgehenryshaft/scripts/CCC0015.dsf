@@ -1,0 +1,105 @@
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+SEF 152 0
+
+WVP 1 bgm016.ogg 0 0 0
+
+WVP 0 vfCCC0015mki000
+//美希「せんぱいっ」
+Miki: "Senpai!"
+TP
+
+//背後から声をかけられた。
+I was called from the back.
+TP
+
+GL 1 TCYM0003
+GP 1 180 0
+GI 1 1
+//HACK earlier doll, happy Miki -GHS
+
+//太一「よー」
+Taichi: "Yooo."
+TP
+
+//太一「掃除終わった？」
+Taichi: "Finished cleaning?"
+TP
+
+GL 1 TCYM0004
+GI 1 0
+//HACK earlier startled Miki -GHS
+
+
+//美希はぎょっとした。
+Miki was startled.
+TP
+
+
+WVP 0 vfCCC0015mki001
+//美希「よ、よく掃除をしていたとご存じで……」
+Miki: "Wo-, wow, you're aware that I've been cleaning..."
+//Translation: "oh shit you read the diaries" -GHS
+TP
+
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfCCC0015mki002
+//美希「見てました？」
+Miki: "Did you see me?"
+TP
+
+//しまった。
+Dammit.
+TP
+
+//日記情報。極秘。
+Diary information. Top secret.
+TP
+
+//太一「……ナイショにする必要もないのかな」
+Taichi: "...is keeping it secret even necessary now."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0015mki003
+//美希「ナイショとは？」
+Miki: "What's secret?"
+//Not Nanaka. She never comes up. The reason is because he knows, inside himself, that she doesn't exist. Proof via absence. And if that's the reason to keep her hidden from the rest... what if the reason to keep the loop secret from the rest is the same? No one but Youko (possibly Taichi's split personality) and Miki (Taichi's pupil) ever learns about it. -GHS
+TP
+
+//太一「あーいや、こっちのこと」
+Taichi: "Ahhh nothing, just talking to myself."
+TP
+
+//いいや、しばらく伏せておこう。
+Ah well, I'll keep it hidden for the time being.
+TP
+
+//確かセクハラとかするんだよな。
+I should definitely do some of that sexual harassment, shouldn't I.
+TP
+
+//……俺もお盛んだな。
+...I'm so debauched.
+//http://thesaurus.weblio.jp/content/%E3%81%8A%E7%9B%9B%E3%82%93%E3%81%A0%E3%81%AD damn, the stuff you find. -GHS
+TP
+
+//どうしたものか。
+Which to do.
+TP
+
+
+
+
+CSQ 0 1 1
+//　・セクハラ＆サイン
+//　・デッドorアライブ
+ - Harass & Sign
+ - Dead or Alive
+//HE USED '&' AND 'OR' CORRECTLY, ALL IS DOOM -GHS
+
+RET

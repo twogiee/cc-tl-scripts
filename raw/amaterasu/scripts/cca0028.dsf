@@ -1,0 +1,630 @@
+WVS 1 1
+GL 0 bgcc0000b
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109
+
+A sea bath......
+TP
+
+
+It wasn't too great for Miki, but that trip was a memory.
+TP
+
+
+Memories make the heart richer.
+TP
+
+
+That's why I said this.
+TP
+
+
+Taichi: "I know you don't like it, but would you try coming to the club tomorrow?"
+//Old line ruined the mood.-Spin
+TP
+WVP 1 bgm013.ogg 0 0 0
+
+
+WVP 0 vfcca0028fyu000
+Touko: "......eh?"
+TP
+
+
+She raised her gaze with an expression of perplexity and indecision.
+//Apparently, there's a difference between raise and rise.-Spin
+TP
+
+
+Those haggard features took on a shade of scarlet, giving an impression both brave and tragic.
+TP
+WT 500 0
+GL 0 bgcc0000d
+GS 0 1
+WVS 1 1
+SEF 109 0
+
+
+
+WT 1000 0
+WVP 1 bgm003.ogg 0 0 0
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 1
+
+Taichi: "......hmmm."
+TP
+
+
+It's nighttime, so I'm writing the manuscript.
+TP
+
+
+I'm not making good progress right now.
+TP
+
+
+Ordinary content.
+TP
+
+
+But, right now I have to keep going.
+TP
+
+
+Taichi: "It's lacking in panache..."
+TP
+
+
+That's right.
+TP
+
+
+I'll have Sempai look at this.
+TP
+
+
+There's no time like the present.
+TP
+
+
+I left my house right away.
+TP
+
+
+GL 0 bgcc0000c
+GS 0 1
+SEF 152 0
+
+
+Sempai's house.
+TP
+
+
+I tried knocking, but there was no answer.
+TP
+
+
+Taichi: "Sempaaai!"
+TP
+
+
+Still no response.
+TP
+
+
+Taichi: "Your Taichi has come!"
+TP
+
+
+
+*silence*
+TP
+
+
+
+Maybe she's not in.
+TP
+
+
+Taichi: "......"
+TP
+WVS 1 1
+
+Could she possibly still be at school?
+TP
+
+
+GL 0 bgcc0007b
+GS 0 1
+SEF 152 1
+
+Taichi: "Uwaa, she's here!"
+TP
+WVP 1 bgm012.ogg 0 0 0
+
+GL 1 TCMM0004c
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfcca0028msa000
+Misato: "Wa! Peke-kun?"
+TP
+
+
+Taichi: "You're overdoing it!"
+TP
+
+GL 1 TCMM0005c
+GI 1 0
+WVP 0 vfcca0028msa001
+Misato: "I-I'm sorry."
+TP
+
+
+Taichi: "Haa."
+TP
+
+
+As one would expect, she appeared to have been constructing the antenna.
+TP
+
+
+Taichi: "How can you even get work done when it's this dark?"
+TP
+
+
+WVP 0 vfcca0028msa002
+Misato: "I was just worried about it......is that bad?"
+TP
+
+
+Taichi: "It's bad."
+TP
+
+
+Taichi: "If you've got the time to do that, please look at this manuscript."
+TP
+
+
+GL 1 TCMM0000c
+GI 1 0
+
+WVP 0 vfcca0028msa003
+Misato: "Oya, you're done already?"
+TP
+
+
+Taichi: "Only partly. But I want your opinion."
+TP
+
+GL 1 TCMM0005c
+GI 1 0
+
+WVP 0 vfcca0028msa004
+Misato: "Aaah, but it's dark right now......so I can't read it."
+TP
+
+
+Taichi: "That's true."
+TP
+
+
+Taichi: "Forget it then, let's go home."
+TP
+
+
+GL 1 TCMM0000c
+GI 1 0
+WVP 0 vfcca0028msa005
+Misato: "Ah, but......just a little longer."
+TP
+
+
+Taichi: "Mimi-sempai......"
+TP
+
+
+GL 1 TCMM0005c
+GI 1 0
+WVP 0 vfcca0028msa006
+Misato: "Buuutttt..."
+TP
+
+
+Taichi: "Nothing will be gained from rushing this."
+TP
+
+
+GL 1 TCMM0000c
+GI 1 0
+WVP 0 vfcca0028msa007
+Misato: "......"
+TP
+
+
+Taichi: "You should be taking your time. Right?"
+TP
+
+
+Taichi: "There's loads of time."
+TP
+
+
+Taichi: "If you hurry it along......it'll just end that much sooner."
+TP
+
+
+Taichi: "Sempai, would you be able to handle that?"
+TP
+WVP 1 bgm015.ogg 0 0 0
+
+
+GL 1 TCMM0003c
+GI 1 0
+WVP 0 vfcca0028msa008
+Misato: "......!"
+TP
+
+
+She seemed ready to cry.
+TP
+
+
+My back went numb.
+TP
+
+
+I just realized I'd run my mouth off into a taboo.
+TP
+
+
+WVP 0 vfcca0028msa009
+Misato: "......I've...been running away, haven't I?"
+TP
+
+
+Taichi: "That's right."
+TP
+
+
+
+WVP 0 vfcca0028msa010
+Misato: "You were...able to see that?"
+TP
+
+
+
+Taichi: "I was."
+TP
+
+
+
+Taichi: "You're running away, by devoting yourself to your work."
+//Hmmm......It would be much appreciated if no one cited this as evidence I need professional help. Å`IX
+//This phrase is almost too familiar. I think he's talking about Ixrec. Or... me ;_; -Neko
+TP
+
+
+I looked up at the antenna.
+TP
+
+
+
+Taichi: "Forcing yourself to keep working......in a way that intentionally increases the workload."
+TP
+
+GL 1 TCMM0005c
+GI 1 0
+WVP 0 vfcca0028msa011
+Misato: "......so you saw through me?"
+TP
+
+
+
+Taichi: "I thought that was normal."
+TP
+
+
+GL 1 TCMM0000c
+GI 1 0
+
+WVP 0 vfcca0028msa012
+Misato: "Eh?"
+TP
+
+
+
+Taichi: "What Sempai is doing...I don't think it's that strange."
+TP
+
+
+
+Taichi: "There's no such thing as a person who hasn't fled from something."
+TP
+
+
+
+Taichi: "But to have to flee so desperately like you are, Sempai......it's painful."
+TP
+
+
+
+Taichi: "My heart can't take it."
+TP
+
+
+
+GL 1 TCMM0003c
+GI 1 0
+WVP 0 vfcca0028msa013
+Misato: "............"
+TP
+
+
+
+Taichi: "You......should've passed thirty by now."
+TP
+
+
+
+WVP 0 vfcca0028msa014
+Misato: "............"
+TP
+
+
+
+Taichi: "Severe Self-Injurious Behavior."
+TP
+
+
+
+WVP 0 vfcca0028msa015
+Misato: "............"
+TP
+
+
+
+The silence of assent.
+TP
+
+
+
+I just piled on more words.
+TP
+
+
+
+Taichi: "Working on your own is fine, but if you're being chased into a corner......individually devoting yourself like this is dangerous."
+TP
+
+
+
+Taichi: "......when you finally lose it...it'll be dangerous, since this is the roof after all."
+TP
+
+
+
+Taichi: "Do you understand?"
+TP
+
+
+
+WVP 0 vfcca0028msa016
+Misato: "I do...understand."
+TP
+
+
+
+She said, as if alone.
+TP
+
+
+
+Taichi: "I've been really worried."
+TP
+
+
+
+Sempai took off her glasses.
+TP
+
+
+
+She brushed the back of her finger along her tear-filled eyes.
+TP
+
+
+GL 1 TCMM0003c
+GI 1 0
+
+WVP 0 vfcca0028msa017
+Misato: "I've been so unstable......I made Peke-kun worry about me."
+TP
+
+
+
+Taichi: "Haha......that's a rude way to put it."
+TP
+
+
+
+WVP 0 vfcca0028msa018
+Misato: "Ahaha."
+TP
+
+
+
+WVP 0 vfcca0028msa019
+Misato: "I'm surprised to hear that from you."
+TP
+
+
+
+I wiped her tears.
+TP
+
+
+
+GL 1 TCMM0002c
+GI 1 0
+WVP 0 vfcca0028msa020
+Misato: "......thank you."
+TP
+
+
+
+Taichi: "Don't mention it."
+TP
+
+
+
+WVP 0 vfcca0028msa021
+Misato: "But......everyone's split up now......it's like the club's evaporating."
+TP
+
+
+
+Taichi: "I'm not evaporating."
+TP
+
+
+
+GL 1 TCMM0000c
+GI 1 0
+WVP 0 vfcca0028msa022
+Misato: "But, you......your motives seem impure."
+TP
+
+
+
+She found out.
+TP
+
+
+
+Taichi: "Well..."
+TP
+
+
+
+GL 1 TCMM0031c
+GI 1 0
+WVP 0 vfcca0028msa023
+Misato: "But it's true that I might have been obstinate."
+TP
+
+
+
+Taichi: "Besides, strictly speaking you weren't alone, were you?"
+TP
+
+
+
+GL 1 TCMM0000c
+GI 1 0
+WVP 0 vfcca0028msa024
+Misato: "Eh?"
+TP
+
+
+
+Taichi: "Here."
+TP
+
+
+
+I showed her the wrapped object I picked up under the water tower just a moment ago.
+TP
+
+
+
+GL 1 TCMM0021c
+GI 1 0
+WVP 0 vfcca0028msa025
+Misato: "Snacks?"
+TP
+
+
+
+Taichi: "Yes."
+TP
+
+
+
+Taichi: "But the inside is curry bread."
+TP
+
+
+GL 1 TCMM0000c
+GI 1 0
+
+WVP 0 vfcca0028msa026
+Misato: "............ah."
+TP
+
+
+
+She noticed that and covered her mouth.
+TP
+
+
+
+Taichi: "Lately, she's been pretty nervous, and won't show her face much."
+TP
+
+
+
+Taichi: "That idiot can't stand watching her friends get cornered."
+TP
+
+
+
+Taichi: "So she just brings this curry bread."
+TP
+
+
+
+GL 1 TCMM0002c
+GI 1 0
+WVP 0 vfcca0028msa027
+Misato: "But Peke-kun seems happy about it."
+TP
+
+
+
+Taichi: "Are you going to eat it?"
+TP
+
+
+
+GL 1 TCMM0000c
+GI 1 0
+Sempai nodded slightly.
+TP
+
+
+
+WVS 1 1
+
+
+Together, we ate the curry bread.
+TP
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 152 1
+WT 1000 0
+WT 1000 1
+
+
+RET
+
+

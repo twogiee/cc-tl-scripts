@@ -1,0 +1,90 @@
+GL 0 bgcc0010
+GS 0 1
+SEF 152 0
+
+
+
+//くたびれた……。
+Worn down to exhaustion...
+TP
+
+
+//太一「なんか……全然進展しないな」
+Taichi: "It's just... there's no progress at all, no."
+TP
+GL 1 TCHY0001
+GP 1 180 0
+GI 1 1
+
+
+WVP 0 vfCCD0001you043
+//曜子「でしょうね」
+Youko: "Isn't there."
+TP
+
+
+//神出鬼没。支倉曜子。
+The elusive phantom. Hasekura Youko.
+//See CCA00030. Been a while. -GHS
+TP
+
+
+//太一「……見てたの？」
+Taichi: "...you saw, right?"
+TP
+
+
+WVP 0 vfCCD0001you044
+//曜子「全部ではないけれど」
+Youko: "Not all of it, however."
+TP
+
+
+//太一「悪趣味」
+Taichi: "Creepy hobby."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you045
+//曜子「……汗、かいてる」
+Youko: "...you're sweating."
+TP
+
+
+//ハンカチでふいてくれる。
+She wipes me with a handkerchief.
+TP
+
+
+//太一「いいよ、汗なんて」
+Taichi: "It's fine, it's just sweat."
+TP
+
+
+//のける。
+I push her aside,
+TP
+
+
+//でもやめてはくれない。
+but she does not oblige me with stopping.
+TP
+
+
+//強く拒絶しなければ、駄目なのだった。
+Without a strong rejection that is simply not going to happen.
+TP
+
+
+//太一「ま、いいけどさ……」
+Taichi: "Well, whatever, but..."
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+RET

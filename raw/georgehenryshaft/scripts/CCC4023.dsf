@@ -1,0 +1,449 @@
+
+
+
+
+
+GL 0 bgcc0002
+GS 0 1
+SEF 109 2
+
+//起きると、美希は腕の中にいた。
+On waking up, Miki was in my arms.
+TP
+
+//そうか……だっこしたまま寝てしまったんだっけ。
+That's right... we slept while still embraced, didn't we.
+//HACK new line. May be intended to merge better with the "missing" sex scene (it's one of the most blatant replacements ever, it's all but shown they do it), but it works well anyway. -GHS
+TP
+
+
+WVP 1 bgm003.ogg 0 0 0
+
+WVP 0 vfCCC4023mki000
+//美希「ふわ……」
+Miki: "Fwah..."
+TP
+
+//目が合う。
+Eyes meet.
+TP
+
+WVP 0 vfCCC4023mki001
+//美希「……きゃあ！？」
+Miki: "...kYAH?!"
+SEF 101 0
+//HACK shake screen -GHS
+TP
+
+//太一「おい！」
+Taichi: "Really now!"
+TP
+
+WVP 0 vfCCC4023mki002
+//美希「え、あれ？　これって？」
+Miki: "Eh, what? What's this?"
+TP
+
+//動揺しているではないか。
+Is she getting upset?
+//If you were wondering where Kiri was in the sex scene, she's here: "Release me, you molesterrr!" She all but channels Kiri's line in CCD0016B, as immortalized in Nanaca Crash. Hum, can't actually find a release date for NC, not sure if it's an intentional reference. -GHS
+TP
+
+//太一「エロいことをしたじゃないか」
+Taichi: "We had sex, didn't we?"
+TP
+
+WVP 0 vfCCC4023mki003
+//美希「あ、そうか……そだそだ」
+Miki: "Ah, right... yes oh yes."
+TP
+
+//舌を出す。
+Tongue stuck out.
+TP
+
+//太一「おまえな……」
+Taichi: "Why you..."
+TP
+
+WVP 0 vfCCC4023mki004
+//美希「くす……だってぇ、普段のセクハラのイメージしかないんですから」
+Miki: "Heh... but, this only gives me that image of normal everyday sexual harassment, that's why!"
+TP
+
+//太一「……うーん」
+Taichi: "...yeeeah."
+TP
+
+WVP 0 vfCCC4023mki005
+//美希「あーあ、わたし処女じゃなくなっちゃった」
+Miki: "Ahh, well, I'm not a virgin anymore."
+TP
+
+//太一「うむ。もう立派なビッチだぞ」
+Taichi: "Yup! You're now a splendid bitch."
+//Not a coincidence at all that this sex scene, like all the ones pre-sendback, was doggie style. -GHS
+TP
+
+WVP 0 vfCCC4023mki006
+//美希「がぶ」
+Miki: "Chomp!"
+TP
+
+//鼻を噛まれた。
+Nose was bit.
+TP
+
+//太一「いてえっ！」
+Taichi: "oWWWch!"
+TP
+
+WVP 0 vfCCC4023mki007
+//美希「そんでちゅー！」
+Miki: "And with that smoooch!"
+TP
+
+//飛びついてきた。
+She jumped on me.
+TP
+
+//太一「おっと」
+Taichi: "Uppsie."
+TP
+
+//真正面から抱き合って、チューをした。
+Embracing each other, facing each other, we smooched.
+TP
+
+WVP 0 vfCCC4023mki008
+//美希「んん……んー……んんん……」
+Miki: "Nnh... nhhh... nnnh..."
+TP
+
+//朝の唾液交換。
+An exchange of saliva in the morning.
+TP
+
+//……勃った。
+...I erected.
+TP
+
+WVP 0 vfCCC4023mki009
+//美希「う……こ、こりは？」
+Miki: "uh... wh-, what'stiff?"
+//What's this + stiffness. More Touko. -GHS
+TP
+
+//太一「いや」
+Taichi: "Welll..."
+//3xliters of cum. -GHS
+TP
+
+WVP 0 vfCCC4023mki010
+//美希「……します？」
+Miki: "...wanna?"
+TP
+
+//太一「したいけど……時間平気か？」
+Taichi: "I wanna but... we alright with time?"
+TP
+
+WVP 0 vfCCC4023mki011
+//美希「あー……」
+Miki: "Ahhh..."
+TP
+
+WVP 0 vfCCC4023mki012
+//美希「じゃあかわりにちゅー！」
+Miki: "So instead smoooch!"
+//3xo, like in ocelooot (the first o doesn't count). -GHS
+TP
+
+//女の子はちゅーが好きなのか。
+Do girls like smoooch-ing then?
+//Questioning the use of the term? Maybe a bad pun. -GHS
+TP
+
+WVP 0 vfCCC4023mki013
+//美希「んー」
+Miki: "Nnnh!"
+TP
+
+//日曜は目覚ましを十時にセットしているのだが。
+It's Sunday so I have the alarm clock set for ten AM, but,
+//It can be true as much as he wants, but it wasn't the alarm clock that woke him, wasn't it? In fact, it's never heard outside of CCA0004. Ever. The sound effect is exclusive to that script. The batteries can't have run out in just a week, can they? Regardless, the lie remains careful: just because he has the alarm clock set to 10AM doesn't mean it's 10AM *now*. It's far more interesting to wonder why lie about it at this point. -GHS
+TP
+
+//丸々一時間、美希とちゅーをしていた。
+for one whole hour I smooched with Miki.
+//And there's further evidence: it would now be 11. That's impossible, as the loop would be in half an hour. It's no later than 8 as of now (7AM to 8AM...), which leaves Miki with 2 hours to go back and forth from the hokora, and an hour-half for extras. ...not that the loop is necessarily fixed, because it's all in Taichi's head, but I do believe these lines are there to wake readers up that bigger misleads are starting up. -GHS
+TP
+
+WT 1000 0
+WT 500 1
+
+
+GL 0 bgcc0004
+GS 0 1
+SEF 152 0
+
+GL 1 TCYM0000
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC4023mki014
+//美希「ちょーん」
+Miki: "Ta-jaaah!"
+//Can't source this specifically. There's the Okinawan "やまちっちょーん" yamacchichoon which has Yama in it so it's automatically relevant due to various reasons and mountains, but it means "scattered disorder" so dunno. May just be moesisms. -GHS
+TP
+
+//制服をキッチリ着こなした美希がいた。
+A Miki punctually wearing her uniform was among us.
+TP
+GL 1 TCYM0011
+GI 1 0
+
+WVP 0 vfCCC4023mki015
+//美希「すっきりさっぱりー」
+Miki: "Refreshedly refreshed!"
+//This line can also be read "totally and completely ignorant". Incoming Troll Warnings don't come bigger. -GHS
+TP
+
+//太一「うむ」
+Taichi: "Yep."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4023mki016
+//美希「太一くんもー、すっきりさっぱりー」
+Miki: "Taichi-kun too, refreshedly refreshed!"
+TP
+
+//太一「うむー」
+Taichi: Yeppp'."
+//3xp like a triple futanari and her three penises. -GHS
+TP
+
+//二人で水風呂に入ったのだ。
+We took a cold bath the both of us.
+//Isn't it convenient that they're taking cold baths, implying that they can't heat the water, yet it's Summer when it would be oh so nice not to? -GHS
+TP
+
+//秘蔵の汲み置きだったのだが、どうせ今日で最後なら関係ない。
+It's our treasured drawn water, but today's the last so it's irrelevant.
+//Of course they might've gone to the neighbors, but this might also contradict the Touko route. Giving another 30 mins-1h this leaves still abundant time if Miki runs both ways and they started around 8. Curiously, I can't source the term to mean anything but "water we keep around in case of emergencies"... -GHS
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC4023mki017
+//美希「……なにしてるです？」
+Miki: "...what are you doing?"
+TP
+
+//太一「ほれ」
+Taichi: "Here."
+TP
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC4023mki018
+//美希「あー、ひゃっこいビン！」
+Miki: "Ahhh, bottle's siberianin'!"
+//http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q101487355 Reading conflicting reports of the dialect, maybe Tohoku, maybe Kansai, unsure. -GHS
+TP
+
+WVP 0 vfCCC4023mki019
+//美希「え、どうやって？」
+Miki: "Eh, but how'd you do it?
+TP
+
+//太一「風呂入ってる時間、小型冷蔵庫の急速モードで冷やした」
+Taichi: "While we were in the bath, I chilled it with a small fridge's Rapid Mode."
+//See Week 1, but it's interesting we never ever see or hear him actually set it up. Process should still take 30-45". Nice to give us all this stuff about timing, right? This is more warning to pay attention to the details around here. -GHS
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4023mki020
+//美希「ビー玉の入ったラムネだぁ」
+Miki: "It's Ramune, the one with the marble!"
+TP
+
+//太一「田崎商店にて８０円」
+Taichi: "80￥ at the Tasaki Store."
+//Which he totally paid. -GHS
+TP
+
+WVP 0 vfCCC4023mki021
+//美希「きれー」
+Miki: "Purtyyy!"
+TP
+
+//太一「ビー玉を通して世界を見ると、きらきらと美しいのだ」
+Taichi: "If you look at the world through a marble, it's all beautiful, glittering and sparkling."
+//Assuming ビー玉 marble is a typoon and he meant ビール beer -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4023mki022
+//美希「夏っぽいです」
+Miki: "It's so Summerlike."
+TP
+
+//太一「うむ」
+Taichi: "Yup."
+TP
+
+//二人でラムネを飲んだ。
+We drank Ramune, the two of us.
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4023mki023
+//美希「きれいになったし、ラムネもゴチになったし、そんじゃそろそろ行きますかねー」
+Miki: "Got made all clean and pretty, got treated to Ramune, so then it's about time we go isn't iiit?"
+TP
+
+//太一「俺も部活に行こうっと」
+Taichi: "I also want to go to Club."
+TP
+
+GL 1 TCYM0002
+//HACK sadder Miki -GHS
+GI 1 0
+WVP 0 vfCCC4023mki024
+//美希「……本当に部活に行くんですね」
+Miki: "...you are seriously going to club, then."
+//See CCA0015. Similar, though not quite. -GHS
+TP
+
+//太一「準備はできてるし」
+Taichi: "All preparations are made."
+TP
+
+//太一「あの折れたアンテナでも、届かないことはないだろう」
+Taichi: "I don't think even with that broken antenna I'll have problems reaching someone."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4023mki025
+//美希「あの」
+Miki: "Uhm."
+TP
+
+WVP 0 vfCCC4023mki026
+//美希「一緒に、同じ時間を生きませんか？」
+Miki: "Couldn't we live in the same time, together?"
+//More interesting to compare to CCD5001, when Youko will make him the same offer. This refusal and that one aren't quite the same, as here he's also rejecting bad memories which in Youko Sendback he'll be embracing, but they come from the same place: there's no controlling this Ring, and he's about to relearn the lesson he already knows the hard way. As usual. -GHS
+TP
+
+//問いかける瞳。
+In the eyes that ask that question,
+TP
+
+//真剣に。
+there's seriousness.
+TP
+
+//太一「……ありがたいけど」
+Taichi: "...I'm thankful, but..."
+TP
+
+GL 1 TCYM0002
+GI 1 0
+//HACK sadder Miki -GHS
+
+WVP 0 vfCCC4023mki027
+//美希「そうですか」
+Miki: "So you are."
+TP
+
+//太一「忘れたいんだよ。なんか後味あまり良くないし」
+Taichi: "I want to forget, really. The aftertaste of all this isn't really good."
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCC4023mki028
+//美希「……毎週、先輩を見てきました」
+Miki: "...I've been looking at you, Senpai, every week."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4023mki029
+//美希「それぞれの先輩は、同一人物じゃないんですよ？」
+Miki: "Ever one of you, Senpai is... not the exact same person, you know?"
+//Which once again brings us to the loop not being anything of the sort. If Taichi's different every time despite the reset, either the reset is fake, or he's more than memories and molecules - which amounts to the same thing. The parallels with Yusa who was only shown his surface (but was that all she saw?) continue. -GHS
+TP
+
+//太一「そうなるね」
+Taichi: "That's how it is then."
+TP
+
+WVP 0 vfCCC4023mki030
+//美希「今生きて、話してるわたしたちは、今一度きりの自分なんです」
+Miki: "The two of us here living and talking, right now, are one-time-only selves."
+//SHE will change even if she doesn't reset, as she realized. -GHS
+TP
+
+//太一「でも美希。忘れてる」
+Taichi: "But Miki. You forget."
+TP
+
+//太一「俺の理性は、すごく薄くて破れやすいものなんだ」
+Taichi: "My rationality is a very thin thing, and easily torn apart."
+TP
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCC4023mki031
+//美希「あ……」
+Miki: "Ah..."
+TP
+
+//太一「いつも一緒にいたら、美希が危ないよ」
+Taichi: "If we were always together, it would be a danger for you, Miki!"
+//The problem is, she should know it better than him. Way better. And yet she asks! -GHS
+TP
+
+//太一「美希はすごく可愛いから、つい力が入ってしまうかも知れないし」
+Taichi: "Miki, you're incredibly cute, so it might be that I will accidentally use too much force or something."
+//See CCC4022. He did. She didn't exactly complain. Or break. In fact, this is interesting to compare with Kiri made of glass: she's awfully sturdy, too, far more than her descriptions say. -GHS
+TP
+
+//頭を撫でる。
+I stroke her head.
+TP
+
+WVP 0 vfCCC4023mki032
+//美希「……ままなりませんね」
+Miki: "...this is not going to work, no."
+TP
+
+//太一「そういうものだよ」
+Taichi: "That is how this goes."
+TP
+
+//太一「まあ甘えたかったら、いつでもその時々の黒須太一を頼ってくれ」
+Taichi: "Well, if you want to be fawned on, you can always depend on the occasional Kurosu Taichi!"
+TP
+
+//美希「…………」
+Miki: "......"
+TP
+
+//返事はなかった。
+There was no reply.
+TP
+
+//太一「さあ、行くか」
+Taichi: "So, do we go?"
+TP
+
+
+RET

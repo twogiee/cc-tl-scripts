@@ -1,0 +1,161 @@
+GL 0 bgcc0009
+GS 0 1
+GS 1 0
+SEF 152 0
+
+For lunch, I found that I did want to eat here after all.
+TP
+
+WVP 1 bgm018.ogg 0 0 0
+
+GL 1 TCSH0000
+GP 1 190 0
+GI 1 1
+WVP 0 vmCCC0020sku000
+Sakuraba: "Yo, Taichi."
+TP
+
+It was Curry Bread Sakuraba.
+TP
+
+He really likes the super hot curry bread here.
+TP
+
+Taichi: "Humanity is annihilated, yet you're still eating curry bread."
+TP
+GL 1 TCSH0003
+GI 1 0
+WVP 0 vmCCC0020sku001
+Sakuraba: "......you want it?"
+TP
+
+Taichi: "Don't need it."
+TP
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCC0020sku002
+Sakuraba: "If I eat through all of this, that'll be the end of it."
+TP
+
+His expression clouded.
+TP
+
+Behind him, cases filled with bread were stacked up in a tower.
+TP
+
+Taichi: "......when were these delivered?"
+TP
+
+GL 1 TCSH0000
+GI 1 0
+WVP 0 vmCCC0020sku003
+Sakuraba: "Wasn't it yesterday?"
+TP
+
+Yesterday.
+TP
+
+For at least half the day they were selling bread.
+TP
+
+This place basically functions as a dining hall, weekends and holidays aside.
+TP
+
+Even during the opening ceremony bread was being delivered.
+TP
+
+That's right.
+TP
+
+In other words, until yesterday, the world was being properly maintained.
+TP
+
+Taichi: "Even so, there's not much."
+TP
+
+The number of cases wasn't even a tenth of the usual.
+TP
+
+WVP 0 vmCCC0020sku004
+Sakuraba: "The opening ceremony was only a half day."
+TP
+
+Taichi: "Even so......it's not much."
+TP
+
+GL 1 TCSH0002
+GI 1 0
+
+WVP 0 vmCCC0020sku005
+Sakuraba: "Also, I don't think that humanity was annihilated."
+TP
+
+Taichi: "What did you say?"
+TP
+
+WVP 0 vmCCC0020sku006
+Sakuraba: "I predict that all the townsfolk are playing hide and seek."
+TP
+
+Taichi: "That's a delusion."
+TP
+
+Taichi: "And don't use the word 'predict.' Isn't that a theory you just thought up?"
+TP
+
+GL 1 TCSH0000
+GI 1 0
+WVP 0 vmCCC0020sku007
+Sakuraba: "Hu!......you're so harsh."
+TP
+
+Taichi: "Don't make that satisfied smile."
+TP
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCC0020sku008
+Sakuraba: "That's why it doesn't bother me."
+TP
+
+WVP 0 vmCCC0020sku009
+Sakuraba: "Everyone should come back after some time passes. That's my calculation at least."
+TP
+
+Taichi: "............I may be carefree too, but you're carefree down to the cellular level, aren't you?"
+TP
+
+WVP 0 vmCCC0020sku010
+Sakuraba: "Hu."
+TP
+
+Why is this guy in the same place as all these wounded boys and girls?
+TP
+
+I seriously worried about that.
+TP
+
+Sakuraba held a piece of curry bread out to me.
+TP
+GL 1 TCSH0000
+GI 1 0
+
+WVP 0 vmCCC0020sku011
+Sakuraba: "Eat."
+TP
+
+Taichi: "I don't want it!"
+//I know he said "need" earlier but that made sense since Sakuraba said "want" and it would have looked weird but here, it really stuck out.-Spin
+WVP 2 SE003 1 0
+SEF 101 0
+TP
+GO 1 1
+WVP 2 SE038 1 0
+I shot him down.
+TP
+
+WVS 1 1
+
+
+RET

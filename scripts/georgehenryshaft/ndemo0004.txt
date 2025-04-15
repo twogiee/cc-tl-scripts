@@ -1,0 +1,35 @@
+/Seems to be the term used for her Sendback, though the original uses Western characters. -GHS
+//This is how the trial edition ends, I ripped the graphics and translated the text. There's some nice details if you look close. -GHS
+/The continuing defiance of the world, in the end, still leaves memories to protect.
+/It is a sweetness that necessarily comes with bitterness.
+/Yet... even that is so holy. Excessively so.
+/No one ever called him that.
+/And that was the blessing of the man called Sakuraba.
+///He is not "hiro", not the hero. -GHS
+/There's also the hope that we can confirm that it's hopeless.
+/It is as precious as even muddy water is in the desert.
+/All that matters... is to accept that.
+/People attempt to understand each other, and fail horribly.
+/They grow sad, they keep at a distance, then once again,
+/they repeat that failure anew.
+/Nothing more than that, said the girl.
+/When yet it is the very thing that will make me the me what I ought be.
+/Memories without number
+/I gather them
+/I treat them as gems
+/Keep them close as I live
+CIN 1 234 233 234 185
+CIN 2 234 233 234 217
+CIN 3 234 233 234 249
+CIN 4 234 233 234 281
+CR 2
+CIN 1 234 185 234 -118
+CIN 2 234 217 234 -18
+CIN 3 234 249 234 480
+CIN 4 234 281 234 580
+CR 1
+//Curiously, there's an outline version of this, cut12b, but it's not used. -GHS
+/GL 0 staff
+/GS 0 1
+/SEF 109 1
+/WT 3000 0

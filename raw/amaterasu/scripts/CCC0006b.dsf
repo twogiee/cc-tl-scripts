@@ -1,0 +1,718 @@
+GL 0 bgcc0002
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+
+Taichi: "Haa."
+TP
+
+I began walking to school like a robot.
+TP
+
+WVP 1 bgm010.ogg 0 0 0
+
+
+An incongruity in my crotch.
+TP
+
+
+Chafing hurts.
+//Hahaha! - Sheeta
+TP
+
+
+I'll become bowlegged.
+TP
+
+
+Taichi: "If only I had the charm that makes bowlegs look good......should I go with bankara?" 
+IF $tlnote != 0 (TL note: "Bankara (Barbaric Color)" is a look analogous to the Western "gangsta". It was created to contrast with "Haikara".)
+TP
+
+All I can do now is stomp my feet and keep the team banner from falling to the ground.
+IF $tlnote != 0 (TL note cont: The "Haikara (High color)" look is meant to imitate upbeat Westerners.)
+TP
+
+
+As I walked up the hill,
+TP
+
+
+Taichi: "Mu!?"
+//CP_S ccc0006a
+TP
+
+The sound of a tire scraping against the ground.
+TP
+
+
+A sign of danger.
+//CP_F
+TP
+
+
+Taichi: "......hu, too easy!"
+TP
+
+This body was baptized with fellatio this morning.
+TP
+
+
+My whole body has become sensitive from having just cummed!
+
+That is to say, my ability to sense danger has become sharper.
+TP
+
+
+Taichi: "Haa!!"
+TP
+
+No matter what sort of attack occurs, if one can predict it in advance, it's easy to evade.
+TP
+GL 4 sgcc0016
+$CGsgcc0016 = 1
+GP 4 0 0
+GI 4 0
+WVP 2 se058 1 0
+SEF 101 0
+*impact!*
+TP
+
+
+
+
+
+Taichi: "Seeeeeeeeeeeeh!!!"
+TP
+
+If only the chastity belt wasn't interfering with my walking!!
+
+WVP 0 vfCCC0006bnnk000
+Nanaka: "Soooorry!!"
+TP
+
+I was thrown into the grove of trees while she appealed to me with a side view of her chest.
+TP
+
+
+WVP 0 vfCCC0006bnnk001
+Nanaka: "You okaaay?"
+//I don't know if she was using Japanese slang or not but it didn't sound like the usual way of asking if someone was alright. Might I suggest "Y'alright?" or something along those lines if she was.
+TP
+
+Taichi: "......the chastity belt protected me."
+TP
+
+WVP 0 vfCCC0006bnnk002
+Nanaka: "Haa?"
+TP
+
+Taichi: "Sarcasm regarding something in my head. Don't worry about it."
+TP
+GO 4 1
+I came out of the trees and wiped off the dirt.
+TP
+
+
+Walking bowlegged, of course.
+TP
+
+GL 1 TCCN0100
+GP 1 200 0 0
+GI 1 1
+
+WVP 0 vfCCC0006bnnk003
+Nanaka: "Bowleggeeeed."
+TP
+
+Taichi: "......don't call it that."
+TP
+
+Damn this girl whose mouth runs off so reflexively.
+TP
+
+
+WVP 0 vfCCC0006bnnk004
+Nanaka: "You seem energetic this week too."
+TP
+
+Taichi: "What you speak fails to convey meaning."
+TP
+
+Taichi: "But I shall make you convey it, Tomie!"
+IF $tlnote != 0 (TL note: "Tomie" is a manga about an immortal girl whose supernatural powers can, and inevitably do, cause anyone around her to fall in love with her and commit violence as a result.)
+TP
+
+GL 1 TCCN0102
+GI 1 0
+WVP 0 vfCCC0006bnnk005
+Nanaka: "It's Nanaka, Taichi."
+TP
+
+Taichi: "Anyway, why does a person that's perfectly unknown to me know my name?"
+TP
+
+GL 1 TCCN0100
+GI 1 0
+
+WVP 0 vfCCC0006bnnk006
+Nanaka: "Don't worry about it."
+TP
+
+Taichi: "I will worry."
+TP
+
+
+GL 0 evcc0003
+$CGevcc0003 = 1
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+She seemed to have good motor skills.
+//CP_S
+TP
+
+
+Even though I'm walking at slow speed, she's matching my pace without faltering.
+TP
+
+She came across as a lively, energetic, childhood-friend- type pretty girl.
+TP
+
+
+Who'd come and wake me up every morning.
+//CP_F
+TP
+
+
+Taichi: "So, what's your business here, as a person who feels nonexistent?"
+TP
+
+WVP 0 vfCCC0006bnnk007
+Nanaka: "Feels nonexistent?"
+TP
+
+Taichi: "None. Faint. Sketchy."
+TP
+
+WVP 0 vfCCC0006bnnk008
+Nanaka: "I don't really understand, but is it related to my presence?"
+TP
+
+Taichi: "Yes. The presence I feel from you makes it clear to my cranial deliberation committee that you are not human."
+
+TP
+
+WVP 0 vfCCC0006bnnk009
+Nanaka: "Ha, you figured out that much......you're too sharp, Taichi."
+TP
+
+Taichi: "Hu!"
+TP
+
+Here was an effect of the morning fellatio that I couldn't have thought of.
+TP
+
+
+Taichi: "By combining these sensation abilities with my meta-reasoning, I can even extract your true identity."
+TP
+
+WVP 0 vfCCC0006bnnk010
+Nanaka: "Uwa, really?"
+TP
+
+Taichi: "You are a girl of Scorpius......in other words, I think that you are a sentient life form living on Star V861 in the Scorpius constellation."
+TP
+
+WVP 0 vfCCC0006bnnk011
+Nanaka: "Isn't that place a black hole?"
+TP
+
+Taichi: "......"
+TP
+
+WVP 0 vfCCC0006bnnk012
+Nanaka: "So you just say whatever feels right."
+TP
+
+Taichi: "......well, that's my job."
+TP
+
+WVP 0 vfCCC0006bnnk013
+Nanaka: "Must be tough every time."
+TP
+
+Taichi: "I don't understand 'every time' or 'this week.' Isn't this our first meeting?"
+TP
+
+WVP 0 vfCCC0006bnnk014
+Nanaka: "I've crashed into you several times."
+TP
+
+Taichi: "No, you haven't."
+TP
+
+It's not in my memory.
+TP
+
+
+And I have no memory loss.
+TP
+
+
+WVP 0 vfCCC0006bnnk015
+Nanaka: "......well, that's fine and all,"
+TP
+
+WVP 0 vfCCC0006bnnk016
+Nanaka: "Still, it'd be interesting if love sprouted at least once..."
+TP
+
+She said something amazing.
+TP
+
+
+Taichi: "Eh?......Are you saying you have a thing for me? Me with the hook nose?"
+TP
+
+WVP 0 vfCCC0006bnnk017
+Nanaka: "What hook nose? It looks normal to me."
+TP
+
+Taichi: "It's crooked. Can't you see that?"
+TP
+
+WVP 0 vfCCC0006bnnk018
+Nanaka: "Not aaat all."
+TP
+
+Taichi: "That's strange......"
+TP
+
+WVP 0 vfCCC0006bnnk019
+Nanaka: "It might be a little crooked......but I don't think it's enough to worry about."
+TP
+
+Frankly.
+TP
+
+Taichi: "So it was true......it was crooked......"
+TP
+
+The way my nose bends has bugged me for a long time.
+TP
+
+
+......I became self-conscious with maturity around the same time that I began to hate myself.
+TP
+
+
+Taichi: "Uuuuuuuuun."
+TP
+
+WVP 0 vfCCC0006bnnk020
+Nanaka: "What is it? What is it?"
+TP
+
+I wonder if that's true.
+TP
+
+
+Various malices and ill wills from my surroundings...
+TP
+
+
+Did I become conscious of such things, and desire to rationalize them with my looks?
+TP
+
+
+I've read such theories before.
+TP
+
+
+Taichi: "Well, looks don't matter. It doesn't change the inclination to make main characters of stories look pretty in the pictures even if they're described as mediocre in the text."
+TP
+
+WVP 0 vfCCC0006bnnk021
+Nanaka: "......well, well, that's enough poison for the soul."
+TP
+
+Nanaka made the face of a secretary who'd handed down a political decision.
+TP
+
+
+Taichi: "So, just how are you related to this Humanity Annihilation Syndrome?"
+TP
+
+WVP 0 vfCCC0006bnnk022
+Nanaka: "Unrelated."
+TP
+
+Taichi: "That has to be a lie......absolutely."
+TP
+
+WVP 0 vfCCC0006bnnk023
+Nanaka: "It's true. Humanity got annihilated on its own. I don't know the reason."
+TP
+
+I quietly gazed at the girl.
+TP
+
+
+Taichi: "......you know?"
+TP
+
+WVS 1 0
+
+WVP 0 vfCCC0006bnnk024
+Nanaka: "I saw."
+TP
+
+Taichi: "You saw!?"
+TP
+
+WVP 0 vfCCC0006bnnk025
+Nanaka: "Yeah. I saw."
+TP
+
+WVP 0 vfCCC0006bnnk026
+Nanaka: "The world was annihilated slowly."
+TP
+
+Taichi: "Slowly?"
+TP
+
+Taichi: "How slow is slowly?"
+TP
+
+WVP 1 bgm016.ogg 0 0 0
+
+WVP 0 vfCCC0006bnnk027
+Nanaka: "Nnn, I don't know. I lost my sense of time."
+TP
+
+Taichi: "It's weird. After all, wasn't it normal before we went on the campout?"
+TP
+
+Taichi: "The campout was three days and two nights...... were they all annihilated in three days?"
+TP
+
+WVP 0 vfCCC0006bnnk028
+Nanaka: "Oh no."
+TP
+
+Nanaka shook her head.
+TP
+
+
+WVP 0 vfCCC0006bnnk029
+Nanaka: "......more than that."
+TP
+
+Taichi: "But that's just strange. It doesn't match logic."
+TP
+
+WVP 0 vfCCC0006bnnk030
+Nanaka: "I think it's a matter of how you look at things."
+TP
+
+Taichi: "Haa?"
+TP
+
+I didn't know what she meant.
+TP
+
+
+WVP 0 vfCCC0006bnnk031
+Nanaka: "Well, there's no point in thinking about things that have already passed."
+TP
+
+Taichi: "That's true, but......humanity really disappeared that easily..."
+TP
+
+WVP 0 vfCCC0006bnnk032
+Nanaka: "I think something happened somewhere."
+//I deleted a 'that'. This is rare. - Sheeta
+TP
+
+WVP 0 vfCCC0006bnnk033
+Nanaka: "I can somehow feel it in my skin."
+//I think the usual idiom is "feel it in my bones", but maybe there's a reason for "skin". ~Bal
+TP
+
+Taichi: "Somewhere?"
+TP
+
+WVP 0 vfCCC0006bnnk034
+Nanaka: "I can't explain it well with words......"
+TP
+
+WVP 0 vfCCC0006bnnk035
+Nanaka: "I think a big wave came from somewhere, and that spread out rapidly."
+TP
+
+WVP 0 vfCCC0006bnnk036
+Nanaka: "That's the limit of my perception."
+TP
+
+Taichi: "......are you......a god?"
+TP
+
+She made a wry smile.
+TP
+
+
+WVP 0 vfCCC0006bnnk037
+Nanaka: "No, no. I'm nothing special. I can't do a thing."
+TP
+
+WVP 0 vfCCC0006bnnk038
+Nanaka: "......I don't know anything."
+TP
+
+Taichi: "Then why are you here in front of me?"
+TP
+
+WVP 0 vfCCC0006bnnk039
+Nanaka: "......nn, that's......I can't quite say it. I don't have the right to say it. I'm sorry."
+TP
+
+Taichi: "The right......hmm..."
+TP
+
+I know that sensation well.
+TP
+
+
+Just as......I don't have the right to live and hang out normally with my friends.
+TP
+
+
+That's why I was sent here, to Gunjou.
+TP
+
+
+Because I'm something that can hurt people.
+TP
+
+
+Because I'm dangerous, I don't have the right to make friends.
+TP
+
+
+And that's......correct. Oppressively so.
+TP
+
+
+Taichi: "Then I won't pry."
+TP
+
+WVP 0 vfCCC0006bnnk040
+Nanaka: "......nn, sorry."
+TP
+
+Taichi: "Forget it."
+TP
+
+Taichi: "Still, I don't understand anything."
+TP
+
+WVP 0 vfCCC0006bnnk041
+Nanaka: "I think if 'that girl' gives it her all, the mystery will be solved."
+TP
+
+Taichi: "That girl? Do you mean Youko-chan?"
+TP
+
+WVP 0 vfCCC0006bnnk042
+Nanaka: "......although I can't bring myself to like her."
+TP
+
+She narrowed her lips.
+TP
+
+
+Taichi: "So you hate her."
+TP
+
+WVP 0 vfCCC0006bnnk043
+Nanaka: "That's not it, but......somehow she just doesn't sit well with me."
+TP
+
+Taichi: "Hmmm."
+TP
+
+WVP 0 vfCCC0006bnnk044
+Nanaka: "After making her clean up, I'll point out her deficiency by rubbing the window frame with my finger."
+TP
+
+Taichi: "You're thinking like a mother-in-law."
+TP
+
+WVP 0 vfCCC0006bnnk045
+Nanaka: "A mother-in-law......that's not bad."
+TP
+
+Taichi: "What does that mean?"
+TP
+
+WVP 0 vfCCC0006bnnk046
+Nanaka: "Taichi."
+TP
+
+I heard her voice from quite far behind.
+TP
+
+
+Taichi: "?"
+TP
+
+GL 0 evcc0053a
+$CGevcc0053a = 1
+GS 0 1
+SEF 152 0
+
+An impossible distance.
+//CP_S
+TP
+
+
+Nanaka had been next to me until three seconds ago.
+TP
+
+
+Twenty meters. Not a distance one could traverse in an instant.
+//CP_F
+TP
+
+
+Taichi: "......"
+TP
+
+WVP 0 vfCCC0006bnnk047
+Nanaka: "Since this seems to be the most effective..."
+TP
+
+Taichi: "Wait, you......"
+TP
+
+I knew it.
+TP
+
+
+She's not human.
+TP
+
+
+WVP 0 vfCCC0006bnnk048
+Nanaka: "......you know about the hokora, right?"
+TP
+
+Taichi: "The hokora..."
+TP
+
+WVP 0 vfCCC0006byou000
+Youko: ÅwWith that and the information from the hokora, I have a general grasp of the situation.Åx
+//PCP ccc0003b
+TP
+
+It's related.
+TP
+
+
+WVP 0 vfCCC0006bnnk049
+Nanaka: "If you want to know, go there!"
+TP
+
+A white fingertip shot out, pointing to me.
+//CP_S ccc0006a
+TP
+
+
+No, to something behind me.
+TP
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+
+
+The school.
+TP
+
+
+No......the mountains?
+TP
+
+
+There was a mountain path that we used during the campout.
+TP
+
+
+There are a lot of animals on that path, but it reaches the summit quickly.
+TP
+
+
+And at the end of it.
+TP
+
+
+There's a hokora.
+TP
+
+
+I don't know what's enshrined there.
+TP
+
+
+A small, old, decayed hokora.
+TP
+
+
+A place that might be dedicated to an unworshipped god.
+TP
+
+
+No one goes near it any more.
+TP
+
+
+There's something there.
+TP
+
+
+I returned my gaze to Nanaka, in order to ask her a trivial question.
+TP
+
+
+She'd disappeared.
+TP
+
+
+Along with her bike.
+TP
+
+
+Taichi: "............"
+TP
+
+The cicadas weren't chirping. A quiet new term. 
+//CP_F
+TP
+
+WVS 1 1
+
+
+
+
+
+
+
+
+
+
+
+RET

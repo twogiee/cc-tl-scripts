@@ -1,0 +1,47 @@
+
+GL 0 bgcc0010
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+
+WVP 1 bgm016.ogg 0 0 0
+
+
+
+The club room.
+//CP_S ccc0029b
+TP
+
+I thought Tomoki might be here, but it was empty.
+TP
+
+I'm sure he's working hard with his ÅwClub ActivitiesÅx.
+TP
+
+Which would mean that he's somewhere in town right about now.
+//CP_F
+TP
+
+Taichi: "......it's quiet."
+TP
+
+When I'm alone, I can tell.
+TP
+
+Just by lacking people, things quiet down this much.
+TP
+
+The atmosphere was transparent, and space felt vast.
+TP
+
+Tranquil.
+TP
+
+The bustle was eternally lost.
+TP
+
+WVS 1 1
+
+RET

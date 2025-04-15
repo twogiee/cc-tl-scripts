@@ -1,0 +1,146 @@
+
+GL 0 bgcc0002a
+GS 0 1
+GS 1 0
+SEF 109 1
+//HACK for better exit from flashback -GHS
+
+WT 500 0
+WT 1000 1
+
+GL 0 bgcc0004b
+GS 0 1
+SEF 152 0
+
+
+WVP 1 bgm002.ogg 0 0 0
+
+
+//太一「ふう」
+Taichi: "Whew."
+//CP CCA0012
+TP
+
+//テーブルの上に、メモが置かれていた。
+On the table was laid a memo.
+//CP CCA0012
+TP
+
+
+//『夕食あるかも』
+> 
+ 
+                 『There's dinner perhaps』
+//CP CCA0012
+TP
+
+
+//太一「わーい、行く行くー」
+Taichi: "Weeee, I'm coming I'm comiiing!"
+//CP CCA0012
+TP
+
+//自分で用意しないですんだ。
+I don't need to make it myself then.
+//CP CCA0012
+TP
+
+//三分で着替えると、いそいそと彼女の家に向かうのだった。
+I changed my clothes in three minutes then cheerfully headed towards her house.
+//CP CCA0012
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+//夕食は、おいしゅうございました。
+'Twas a most pleasingly delicious dinner.
+//CP CCA0012
+TP
+WT 500 0
+WT 500 1
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 0
+
+WVP 1 bgm016.ogg 0 0 0
+//蝋燭に火をつける。
+I ignite a candle.
+//CP CCA0012
+TP
+
+//照明は使えない。
+I can't use the lights.
+//Let's continue with suspicious. -GHS
+TP
+
+//いくら俺でも、真っ暗では読み書きは難しい。
+Even with how I am, reading and writing in complete darkness is difficult.
+TP
+
+//独特の輝きが、室内を照らす。
+A very peculiar radiance illuminates the room.
+//CP CCA0012
+TP
+
+//蝋燭が好きだった。
+I loved candles.
+//CP CCA0012
+TP
+
+//生の火に、強く惹かれた。
+Their raw flame captivated me so strongly.
+//CP CCA0012
+TP
+
+//こうしてぼんやりと揺らめく炎を見ていると、心が囚われて、いつまでもいつまでもまどろんでいることができた。
+When I looked at the flickering flame swaying so absentmindedly, my heart was enraptured and I could just doze off endlessly, endlessly.
+//CP CCA0012
+TP
+
+//以前、それで前髪を焦がしたこともある。
+Once, I even singed my bangs in it because of that.
+//CP CCA0012
+TP
+
+//ぶっちゃけ三分前のことだ。
+OK, that was like three minutes ago.
+//CP CCA0012
+TP
+
+//太一「……焦げた……ちくせう」
+Taichi: "...singed... dammit."
+//CP CCA0012
+TP
+
+//泣きそう。
+It's to cry.
+//CP CCA0012
+TP
+
+//とにかく日記を書こう。
+Anyway, to write the diary.
+//PCP CCA0012
+TP
+
+//ノートを開く。
+I open the notebook.
+TP
+
+//記録は、大切だ。
+Records are really precious.
+//PCP CCA0012
+TP
+
+//巻き戻されたが最後、それだけが確かなものだからだ。
+Because the conclusion is rewinding, and that is the only thing that is certain.
+TP
+
+WVS 1 1
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+RET

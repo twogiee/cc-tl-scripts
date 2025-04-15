@@ -1,0 +1,14 @@
+
+
+
+CSQ 0 1 1 1
+//　・祠に行ってみる
+//　・学校に行く
+//　・田崎商店に行く
+ - Try to go to the Hokora
+ - Go to school
+ - Go to the Tasaki Store
+
+//CP CCC0006C
+//CP CCC0006C
+RET

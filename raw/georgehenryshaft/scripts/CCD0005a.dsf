@@ -1,0 +1,570 @@
+
+//太一「いいよ……行こう」
+Taichi: "OK then... let's go."
+TP
+
+
+//少し、様子を見てみよう。
+Let's just look at how things are, just a little bit.
+TP
+
+
+//見ればフレンドリーな幽霊。
+From the look of it, this a friendly specter.
+//CTRL+SHIFT+F-> Find what: Nanaka / Replace with: Casper -> Replace in Files -> OK -GHS
+TP
+
+
+//俺に危害を加えてくることはあるまい。
+It doesn't seem like she's going to inflict me harm.
+TP
+
+
+GL 1 TCCN0100
+GI 1 0
+WVP 0 vfCCD0001nnk036
+//七香「さっすが太一！　話がわかるぅ！」
+Nanaka: "I knew it, Taichi! You're so reasonable!"
+//This should be obvious, but Nanaka's lines can often be read as replies to the Taichi's thoughts. -GHS
+TP
+
+
+//親指を鳴らした。
+I creaked my thumb.
+//The base joint, you know, with the rest of the hand. It's hard to explain without pictures of lolis, though a bit easier with normal pictures. -GHS
+TP
+
+
+GL 0 bgcc0015
+GS 0 1
+GS 1 0
+SEF 152 0
+//二人で山道を歩く。
+The two of us we walk up the mountain path.
+TP
+
+
+//俺にとっては、昨日の今日。
+For me, it was yesterday like today.
+//This is like the first time that he's acknowledged that the day before was 'that' Sunday 6/9. -GHS
+TP
+
+
+//太一「七香、平気？」
+Taichi: "Nanaka, you alright?"
+TP
+
+GL 1 TCCN0100
+GI 1 1
+
+WVP 0 vfCCD0001nnk037
+//七香「あー、へーきへーき！　体力自慢だし」
+Nanaka: "Ahhh, alright'alright! Physical strength's my pride!"
+//She just pushing the bike with one hand, since she got the other clasped with Taichi? Maybe she dropped it. More likely, the disappearance ought be semi-suspicious, because at this point it's obvious Nanaka is a g-g-ghos-- waitasecAAAAUUUUGH *runs* -GHS
+TP
+
+
+//なるほど、汗ひとつかいてない。
+That's right, she doesn't have one drop of sweat on her.
+TP
+
+
+//運動部なのかな。
+She's in a sports club maybe.
+//That may well have been. She wears buruma, after all. Not that it's relevant, but... -GHS
+TP
+
+
+//太一「ここらへんだっけ？」
+Taichi: "It was around here or thereabouts?"
+TP
+
+WVP 0 vfCCD0001nnk038
+//七香「もちょっと奥」
+Nanaka: "Bit further in."
+TP
+
+GL 1 TCCN0102
+GI 1 0
+
+WVP 0 vfCCD0001nnk039
+//七香「で、脇の茂みとか不用意に入らないでね。罠とかあるんで」
+Nanaka: "And, don't go carelessly into the bushes on the sides. There's some traps around."
+//Which means it's in Nanaka's memories which means it's in Taichi's memories. Which means he no more forgets this than he forgot about Yutaka... or, given CCD0002, about Sakuraba. Also, the trap in front of the hokora must still be disarmed, though that's nothing but continuity since there's no way Miki would've reset it. -GHS
+TP
+
+
+//太一「罠って獣罠？」
+Taichi: "Traps as in beast traps?"
+//Heh. -GHS
+TP
+
+
+GL 1 TCCN0101
+GI 1 0
+WVP 0 vfCCD0001nnk040
+//七香「そんなようなもの。あとで解除しといた方がいいよ」
+Nanaka: "Something like that. Disable them later, it's better."
+TP
+
+
+//太一「……あぶねー」
+Taichi: "...that's daaangerous."
+TP
+
+
+GL 0 bgcc0016
+GS 0 1
+GS 1 0
+SEF 152 0
+//太一「あったあった」
+Taichi: "Found it, found it!"
+TP
+
+
+//太一「で、ここに来てどうしたら―――」
+Taichi: "So, we came here, so next we---"
+TP
+
+
+//七香はいなくなっていた。
+Nanaka wasn't anymore.
+TP
+
+
+//太一「あれ？　ななかー？」
+Nanaka: "Eh? Nanakaaa?"
+TP
+
+
+//太一「おーい、ななかー！」
+Taichi: "Heeey, Nanakaaa!"
+TP
+
+
+//太一「なんだなんだ。置き去りか？」
+Taichi: "What in the what the hell. She deserted?"
+TP
+
+
+//わけがわからない。
+I don't get this at all.
+TP
+
+
+//とりあえず、祠には来たけど……。
+Anyway, I came to the hokora, but...
+TP
+
+
+//場所まで案内して消えるってのも、暗示的だな。
+Guiding me up to the place and vanishing is kind of a hint, isn't it.
+TP
+
+
+//祠を調べろってことか？
+I should be investigating the hokora, then?
+TP
+
+
+//太一「……ふむ」
+Taichi: "...hmmm."
+TP
+
+
+//せっかく来たのに何もしないで帰るのはむなしいので、調べることにした。
+Going to great lengths to come here then leaving without doing anything is just a waste, so I investigated.
+TP
+
+
+//軽い気持ちで観音開きの扉をあけた。
+Without taking things too seriously, I opened the hinged doors.
+TP
+
+
+//ノートびっしり。
+Notebooks, closely packed.
+TP
+
+
+//太一「……うわあ」
+Taichi: "...whoooa."
+TP
+
+
+//驚いた。
+I was astonished.
+//CP CCC0007
+TP
+
+
+//飾り気のない薄暗い空間には、怪物もいなければ古い壷も短刀も水晶玉もなかったが……。
+In this plain unadorned gloomy dim space, there was no monster, and no ancient jar nor dagger nor crystal ball, but...
+//CP CCC0007
+//...not one previous thought at monsters or anything, but there he is, repeating the script unconsciously. -GHS
+TP
+
+
+//ノートが積まれていた。
+Notebooks, stacked up.
+//CP CCC0007
+TP
+
+
+
+
+
+//変哲のない学生ノートの束だ。
+Student's notebooks of no unusuality.
+//CP CCC0007
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+//取り出す。
+I took some out.
+//PCP CCC0007
+TP
+
+
+//表紙には無造作に、マジックで数字が書かれている。
+Carelessly, on the cover, a number is written with a magic marker.
+//CP CCC0007
+TP
+
+
+//巻数だろうか。
+Volume numbers maybe?
+//PCP CCC0007
+TP
+
+
+//１と題されたノートを開いてみる。
+I try leafing through the notebook numbered 1.
+//CP CCC0007
+TP
+
+GO 0 1
+//HACK and dark -GHS
+
+//……。
+...
+TP
+
+
+//…………。
+......
+TP
+
+
+//……………………。
+............
+TP
+
+
+GI 0 1
+//HACK back -GHS
+
+//一通り、読み終わった。
+I finished reading through from start to end.
+//Doesn't he just read one? Except there's no way he can deduce the below from--- oh, screw it, it's a complete farce. -GHS
+TP
+
+
+//太一「……………………はあ？」
+Taichi: "............huh?"
+TP
+
+
+//太一「え、どういうこと？」
+Taichi: "Eh, what's this?"
+TP
+
+
+//頭の中で整理する。
+I put things in order in my head.
+TP
+
+
+//太一「つまり……」
+Taichi: "In short..."
+TP
+
+
+TS 2
+GL 5 zzzblackblend
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+
+//①俺にもう一つの人格があって、勝手に書いた
+> 
+ 
+ 
+> 
+1) There is one more personality in me that
+   is writing on its own;
+//CP CCC0007
+TL
+//②未来の俺が書いたものがここに来ている
+> 
+2) Something written by a future me has ended
+   up here;
+//CP CCC0007
+TL
+//③同じ時間を繰り返している
+> 
+3) The same period of time is repeating over
+   and over.
+//CP CCC0007
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+//太一「③……だよな」
+Taichi: "It's 3)... isn't it."
+//Recollection hints continue... -GHS
+TP
+
+
+//他に何かからくりがあればともかく。
+Even if there's some other trick, regardless,
+//This is why I'm a lolroffle hyperliteral translator, because if I had to adapt this to what it actually means, the above would be simply "COUGH HINT HINT COUGH" -GHS
+TP
+
+
+//そもそもこれ、俺の字だし。
+in the first place, this is my handwriting.
+//Odd he admits it NOW... several scripts after it was important. -GHS
+TP
+
+
+//太一「世界が繰り返している、わけか」
+Taichi: "The world's repeating itself, is that how it is?"
+//Not true, but still literally correct. -GHS
+TP
+
+
+//荒唐無稽ではあるが、そう理解しといた方が良さそうだ。
+Preposterous nonsense though it may be, explained like that it seems so correct.
+//[obvious sherlock holmes quote] -GHS
+TP
+
+
+//自分の柔軟性がありがたい。
+I am thankful for my flexibility.
+//"Let's not put the final word to this. The final word is a reflection from the final destination, and the process of reaching it is inevitably the process of a judgment." Worth quoting outright. -GHS
+TP
+
+
+//人類滅亡と繋がらないけど、何か関連性があるんだろう。
+I can't connect this to the Fall of Mankind, but there's gotta be some kind of relation.
+TP
+
+
+//太一「けど……」
+Taichi: "But..."
+TP
+
+
+//どのノートを見ても、脳天気ではあるけど……。
+Looking at all these notebook, there's all this optimism in there, but...
+//Remember the 'bad' ones are missing. -GHS
+TP
+
+
+//太一「なんか全部、絶望的なあがきみたいだな」
+Taichi: "Just, all of it, it all seems like of a hopeless struggle."
+TP
+
+
+//繰り返しってことは記憶は残らないわけで。
+There's no recollections left by the rewinding,
+TP
+
+
+//毎回、死んでるようなものだ。
+so it's something like death, every time.
+TP
+
+
+//あの昔やったゲームのように。
+Just like that game, long ago.
+//See CCC3013. That's the direct inspiration for this. -GHS
+TP
+
+
+//太一「…………」
+Taichi: "......"
+TP
+
+
+//瞬間、俺は深い思考に落ち込んだ。
+In an instant, I fell down into deep thought.
+TP
+
+
+//そしていくつかの推測と、疑惑と、真相を、導き出した。
+And then via many speculations and suspicions, I derived the truth of this situation.
+//TL Note: Derived means remembered. -GHS
+TP
+
+
+//太一「ふむ」
+Taichi: "Yup."
+TP
+
+
+//祠の内部（あるいは周辺）は、リセット効果を免れているわけか。
+The inside of the hokora (and possibly the area around) might be exempt from the effect of the reset.
+TP
+
+
+//しばらく祠の周辺を調べてみた。
+I tried investigating the area around the hokora for a short while,
+TP
+
+
+//何も出てこない。
+but I came up with nothing.
+//Not his footprints? No traps? Absurd. This is totally troll. -GHS
+TP
+
+
+//太一「目に見えてわかったら苦労しないか」
+Taichi: "If I could easily understand this at a glance, where would the difficulty be?"
+TP
+
+
+//七香の存在もある。
+And there's Nanaka's existence,
+TP
+
+
+//俺をここに導いたということはだ。
+and how she led me here.
+//Still that likely dubious kokoni -GHS
+TP
+
+
+//あの子も、知っていた？
+Do I... know her?
+TP
+
+
+//日記の記述を信用するなら、七香は毎回現れている。
+Relying on the descriptions in the diaries, Nanaka appears every time.
+TP
+
+
+//見るからに人じゃないし、それもあるか。
+As it's visible at a glance that she's not a person, that could be I guess.
+TP
+
+
+//ノートを祠に戻す。
+I return the notebooks to the hokora.
+TP
+
+
+//これはあった方がいい。
+It's best if it is like that.
+TP
+
+
+//万が一に俺が忘れたとしても……曜子ちゃんなら自力で真実までたどり着くだろう。
+Thousand will give you one that I even if I forget... Youko-chan can eventually reach the truth on her own power alone, definitely.
+TP
+
+
+//ノートを見れば、今俺が考えた程度の結論には、瞬時に到達できるはずだ。
+If she looks at the notebooks, she could likely reach in a single instant a final word of the same level as the one I, as I presently am, just thought up.
+//CP CCC0008B
+TP
+
+
+//太一「あ……そうか、制服か」
+Taichi: "Ah... right, that uniform then."
+//PCP CCC0008B
+TP
+
+
+//七香の制服。
+Nanaka's uniform.
+//CP CCC0008B
+TP
+
+
+//見たこともないデザインだった。
+It's a design I have never seen.
+//CP CCC0008B
+TP
+
+
+//この近くの学校（山向こうに一つしかないが）じゃない。
+It's not from a school around here (though there's one and only one on the other side of the mountain).
+//Hum, but it's the same term as in CCA0002. Why would there be only one school on the other side of the mountain as well? It's a major city...? -GHS
+TP
+
+
+//もし次に遭遇したら、尋問してやろう。
+Supposing there is a next encounter, then I'll go and interrogate her.
+//PCP CCC0008B
+TP
+
+
+//とりあえず俺がすべきこと。
+For the time being,
+//PCP CCC0008B
+//Moved some stuff below. -GHS
+TP
+
+
+//毎日を過ごして日記を書くこと。
+For the time being, it is expected of me to write in the diary how I spend my everyday.
+//PCP CCC0008B
+//Odd split. -GHS
+TP
+
+
+//情報を残しつつ、生きること。
+Living onwards, leaving behind information.
+TP
+
+
+//そう思った。
+That was what I thought.
+TP
+
+
+//太一「どうせだったら、楽しい方がいいよな」
+Taichi: "However it goes, having fun's just fine then."
+TP
+
+
+//繰り返される孤独の世界。
+A rewinding world of solitude.
+TP
+
+
+//でも俺にとっては、理想的な場所かもしれない。
+To me, that might yet just be an ideal place.
+//See CCD0023 and the end of Miki's route, where it's hell. The difference? Here it's before he realizes it's all doom. -GHS
+TP
+
+
+
+
+
+
+
+RET

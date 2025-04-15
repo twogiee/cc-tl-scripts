@@ -1,0 +1,1755 @@
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+WT 500 0
+WT 500 1
+
+
+GL 0 bgcc0003
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 155 0
+
+//Saturday September 12, 1998 -GHS
+
+
+
+//夜襲はなかったか。
+There was no nocturnal assault, then.
+//Taichi is kidding himself if he thinks Kiri will perform a Nightbedroom Assault on him. For now. -GHS
+TP
+
+//……俺のホームグラウンドだしね。
+...'cause it's my home ground, right.
+//Or, given where she trains, she simply doesn't know where he lives (and doesn't have Miki to ask). That or she's home shitting her pants, waiting for Taichi to attack, but she seems to be too out of her head for that. -GHS
+TP
+
+//罠があるかも知れないし、無茶はしないか。
+Not unreasonable to think there'd be traps or the sort.
+TP
+
+//学校に向かう。
+I head towards school.
+TP
+
+
+
+GL 0 bgcc0011
+GS 0 1
+
+SEF 152 0
+//で。
+And,
+TP
+
+//GL 0 bgcc0007
+GL 0 zzzrooftopzoom
+//HACK oddly, the antenna is unfinished, not wrecked. -GHS
+GL 0 
+GS 0 1
+SEF 152 0
+//友貴が死んでいた。
+Tomoki had died.
+TP
+
+WVP 1 bgm008.ogg 0 0 0
+
+//太一「…………」
+Taichi: "......"
+//No reaction to blood. -GHS
+TP
+
+//容疑者が減った。
+The suspects had decreased,
+TP
+
+//そして犠牲者が増えた。
+and the victims had increased.
+TP
+
+//太一「友貴……」
+Taichi: "Tomoki..."
+TP
+
+//無惨な死に方だった。
+It was an atrocious way to die.
+TP
+
+//太く長い、資材用の針金で胸を貫かれている。
+A thick, long, construction wire had pierced his chest.
+//Unsure why the antenna'd have something like that, but sounds like the most plausible translation. The term doesn't actually seem to mean anything specific. -GHS
+TP
+
+//偶然……というには、あまりにもレアなケースだ。
+Coincidence... but to say that, it would have to be a case of extraordinary rarity.
+//Good ol' Blessed Luck strikes again. -GHS
+TP
+
+//人為的なものだ、これは。
+This thing here is... unnatural.
+//That leaves the SUPERnatural. -GHS
+TP
+
+//だから犯人は―――
+Therefore, the culprit's---
+//Miki. There's only him, her, and psycho Kiri left, so this is when he reached the (still erroneous) conclusion. -GHS
+TP
+
+
+//太一「……もう……終わりだな」
+Taichi: "...it's... all over innit."
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+
+//世界は、終わる。
+> 
+ 
+The world... is over.
+TL
+//そんな予感がした。
+That is the premonition I had.
+TL
+//霧はもう壊れているし、桜庭も戻るまい。
+Kiri is now broken, Sakuraba will likely
+never return.
+TL
+//俺が人でいる必要もない。
+I have no need to live as a person, either.
+TL
+//……結局、すべては無駄なあがき。
+...in the end, everything was useless struggling.
+TL
+//狂人は常人にはなれない。
+Crazy people can never become normal people,
+TL
+//他人が理解できないなら。
+because they cannot understand other people.
+TL
+//理解などしなくていいと思った。
+I thought it'd be good even without
+understand of any sort.
+TL
+//もう―――
+> 
+But now---
+TP
+
+
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　じゃくまく
+//ものいわぬ友貴の骸を前に、俺は寂寞とした空気に身をさらしていた。
+> 
+ 
+ 
+In front of Tomoki's untalking husk, I expose
+my body to an atmosphere that felt like
+desolated loneliness.
+//...I don't think he strips. -GHS
+TL
+//モノローグさえいらない。
+I don't even need to monologue.
+//This is even more absurd than Sakuraba being tired of curry bread! -GHS
+TL
+//俺は自分を語る言葉を、急速に見失いつつある。
+I am rapidly losing sight of all the words I
+could use to talk of myself.
+TP
+
+WVS 1 1
+GS 0 0
+SEF 109 2
+//HACK to black first -GHS
+
+
+WVP 1 bgm007.ogg 0 0 0
+
+
+GL 0 bgcc0008
+GS 0 1
+GS 5 0
+SEF 152 0
+
+TWS 0
+//HACK ADV mode -GHS
+//霧はどこだ。
+Where is Kiri?
+TP
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+WT 500 0
+
+GL 0 bgcc0010
+GS 0 1
+SEF 152 0
+WT 500 0
+//HACK added a few pauses, like there are below, it goes by too fast -GHS
+
+GL 0 bgcc0012
+GS 0 1
+SEF 152 0
+
+//校内にはいないのか。
+She's not on school premises then?
+TP
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+//自宅にはいないだろう。
+She shouldn't be at her house either.
+TP
+GL 0 bgcc0014
+GS 0 1
+SEF 152 0
+
+WT 500 1
+
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+WT 500 1
+GL 0 bgcc0002
+GS 0 1
+SEF 152 0
+WT 500 1
+GL 0 bgcc0000a
+GS 0 1
+SEF 152 0
+
+//徘徊。それだけ。
+Wandering. That's all this is.
+TP
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 109 0
+//霧……。
+Kiri...
+TP
+
+//いや、誰でもいい……。
+No, anyone would be fine...
+TP
+
+//そうだ。先輩。
+Right. Senpai.
+TP
+
+WVS 1 1
+
+//アレはいつも屋上にいた。
+That's something that has always existed on the rooftop.
+//Subtly off. -GHS
+TP
+
+
+GL 0 bgcc0011a
+GS 0 1
+SEF 152 0
+
+WT 500 1
+
+GL 0 bgcc0007a
+GS 0 1
+SEF 152 0
+
+//いない。
+Not here.
+TP
+
+
+//フェンスが折れていた。
+The fence was broken.
+//This is easily meta-explained: it's a replay of Yutaka's death. Tomoki... dunno, maybe he remembers that he destroys the antenna, and at this point he's just tossing 'em out of the Settei. -GHS
+TP
+
+GL 0 zzzrooftopduskzoom
+GI 0 1
+//HACK in -GHS
+
+
+//先輩は死んでいた。
+Senpai had died.
+TP
+
+
+//人が落ちると、ピンク色の花。
+When people fall they make a pink-colored flower.
+//She would've died between Taichi coming to school and him reaching the rooftop, since the break in the fence seems to be towards the front of the school. -GHS
+TP
+
+
+//太一「…………」
+Taichi: "......"
+//No reaction to blood. Oh, he's snapped; his friends are dying one by one and there's a classic tsundere who's crossed the wrong 'dere' barrier on his back. Except THIS is how he goes crazy. -GHS
+TP
+
+WVP 1 bgm008.ogg 0 0 0
+
+//ああ。
+Ahhh.
+TP
+
+//>　　　　かお
+//血が薫る。
+Blood smells sweet.
+TP
+
+//よくわからなくなってきた。
+I just never understand that very well.
+TP
+
+//ああもう本当に。
+Ohhh, really, seriously.
+TP
+
+//今まで……なんのために苦労してきたのか。
+To what point have I even been struggling... up to now?
+//He seems to be realizing he doesn't have a problem with blood, rather than being driven crazy by it again. -GHS
+TP
+
+//自分をおさえて。
+Restrain yourself now.
+TP
+
+
+//そして。
+And then,
+TP
+
+GL 5 BGCC0000E
+GI 5 0
+WT 25 0
+GO 5 0
+WVP 2 SE066 1 0
+//HACK flash white. No SFX for some reason, which sounds odd, so I added it. -GHS
+
+//回避。
+dodge.
+TP
+
+//矢が通過。
+A bolt passes by.
+TP
+
+//霧。
+Kiri.
+TP
+
+//いた。
+She was among us.
+TP
+
+//いたぁ♪
+She was among uuus!♪
+//Happy, because maybe she can kill him. Provided he doesn't just give in. -GHS
+TP
+
+
+GL 1 TCSK0021b
+GP 1 220 0
+GI 1 1
+
+
+WVP 0 vfCCC4021kri000
+//霧「……人殺し！」
+Kiri: "...murderer!
+TP
+
+//霧は赤い筒を逆さにする。
+Kiri flips over a red cylinder.
+TP
+
+//消化器、だったか。
+It's a desire extinguisher, I think.
+//That actually reads "digestive organs", correct is 消火器. This is unfixed in all versions. That's not an uncommon typo for fire extinguisher, here's a page with it: http://www.dousan.com/index.php?main_page=product_info&products_id=4030 Given how many typos have been fixed, I must suspect this is intentional; maybe Taichi's really going mad. -GHS
+TP
+GL 5 efcc0004
+
+GI 5 0
+GO 5 1
+WT 500 0
+GL 5 BGCC0000E
+GI 5 1
+//HACK blink, then stay on white -GHS
+
+
+//白煙。
+White smoke.
+TP
+
+//太一「……ぐっ」
+Taichi: "...ngh!"
+TP
+
+//視界が曇る。
+Field of vision clouds over.
+TP
+
+GL 1 TCSK0001b
+GS 1 1
+GS 5 0
+SEF 109 2
+//HACK less angry Kiri, slow back -GHS
+
+//……慣れてきたな。
+...I had gotten used to this, haven't I.
+//It may just means he got used to the fog, but, hum, I guess that pun says it all. Still, interesting he'd be used to a cloudy worldview; perhaps his near-blindness is more evidenced than I thought. -GHS
+TP
+
+//霧の気配。
+Kiri's presence...
+TP
+
+//飛びかかってきた。
+I leaped at it,
+TP
+
+//手首をつかむ。
+I grab her wrist:
+TP
+
+//刃物が握られている。
+it's clasping something bladed.
+TP
+
+//強く掴む。
+I use a strong grip.
+TP
+
+GL 1 TCSK0021b
+//HACK shouty Kiri now -GHS
+GI 1 0
+WVP 0 vfCCC4021kri001
+//霧「ううっ」
+Kiri: "Nggh!"
+TP
+
+//霧は離さない。
+Kiri doesn't let it go.
+TP
+
+//獣のように怒りを剥き出しにしている。
+A naked exhibition of beastlike hatred.
+//This now mirrors the Miki/Taichi dance, see CCC4015. -GHS
+TP
+
+//さらに強く。
+Further strength.
+TP
+
+WVP 0 vfCCC4021kri002
+//霧「う、ううううっ」
+Kiri: "Nh, nggggh!"
+TP
+
+//痛いはずだ。
+There ought be pain,
+TP
+
+//こんな細い手首。
+in these thin wrists.
+TP
+
+//簡単に折れる。
+They would snap so easily.
+//And yet he doesn't snap them. -GHS
+TP
+
+//けど離さない。
+But she doesn't let it go.
+TP
+
+//ああ。
+Ahhh,
+TP
+
+//友貴の骸を見たのかな。
+it's because she saw Tomoki's husk, is it.
+TP
+
+//俺がやったんじゃないのに。
+Even if I wasn't the one who did him in.
+TP
+
+//揉みあっているうちに、欲しくなってくる。
+Within this rubbing and jostling back and forth, I came to want her.
+//揉 as used in his scuffles with Tomoki. NO NOT THE WANTING AGGGH YOU DAMN FUJOSHIS-GHS
+TP
+
+//霧。
+Kiri.
+TP
+
+//馬鹿だけど、可愛い霧。
+My stupid, yet adorable Kiri.
+TP
+
+GO 1 1
+//HACK and out -GHS
+
+//唇を吸う。
+I take her lips.
+//He wants to kill her so bad that he kisses her. This kind of stuff is just part of the seduction game for him. -GHS
+TP
+
+WVP 0 vfCCC4021kri003
+//霧「ん、んんんんんんんんっ！？」
+Kiri: "Nh, NNNNNNNNH?!"
+TP
+
+//太一「……っ」
+Taichi: "...!"
+TP
+
+//舌を噛まれた。
+My tongue's bitten.
+//It was... the tongue of the fatman. -GHS
+TP
+
+//切れてはいない。
+There is no damage.
+TP
+
+//思考がクリアになる。
+Thinking becomes clear.
+TP
+
+//太一「……霧……犯人は俺だ」
+Taichi: "...Kiri... I am the culprit."
+//Of killing Yutaka... no, not even that. -GHS
+TP
+
+GI 1 1
+//HACK ...and in. In and out, in and out with these dolls. Well, as long as it's both in alternance it's no problem. -GHS
+
+WVP 0 vfCCC4021kri004
+//霧「ううっ、今さらぁ！！」
+Kiri: "Nnngh, too late!!!"
+TP
+
+//ナイフを握る手は、微動だにしない。
+There is no sign of trembling in the hand holding the knife.
+TP
+
+//太一「違う」
+Taichi: "Not of that."
+TP
+//GL 1 TCSK0021b
+GL 1 TCSK0011B
+//HACK damn, now she look cray-zee. -GHS
+GI 1 0
+
+WVP 0 vfCCC4021kri005
+//霧「……なにを、アハハ」
+Kiri: "...the hell, a-ha-ha."
+TP
+
+//嘲弄。
+Mockery.
+TP
+
+//＋涙。
++ tears.
+TP
+
+//霧の感情は、もう壊れかけている。
+Kiri's feelings are now completely wrecked.
+//And that "+ tears" was toootally sane. -GHS
+TP
+
+GL 1 TCSK0001B
+GI 1 0
+//HACK more doll change -GHS
+
+WVP 0 vfCCC4021kri006
+//霧「美希をとるな」
+Kiri: "Hands off Miki."
+TP
+
+//太一「美希だ」
+Taichi: "It's Miki."
+TP
+
+//太一「犯人は、美希だ」
+Taichi: "The culprit is Miki."
+TP
+
+WVS 1 0
+GP 1 205 15
+GI 1 0
+GP 1 220 30
+GI 1 0
+GP 1 235 15
+GI 1 0
+GP 1 220 0
+GI 1 0
+//HACK independent doll shake -GHS
+
+
+
+//霧が止まった。
+Kiri stopped.
+//The arrow comes a moment later. She already knows. -GHS
+TP
+
+//それは今のコイツを停止させる、唯一無二のキーだったんだろう。
+To stop her as she has become, there is likely this one key, no other.
+TP
+
+//風が切れた。
+The wind is sliced.
+//This may be part of the reading key for why 'wind' is actually 'the bluff between people', as well as the noise between them. Alas. -GHS
+TP
+WVP 2 SE094 1 0
+GO 1 1
+WVP 0 vfCCC4021kri007
+//霧「うあぁ……？」
+Kiri: "Gwah...?"
+TP
+//>はいふ
+//肺腑から奇妙な声がもれた。
+A weird voice escapes from the bottom of her lungs,
+TP
+
+//それで致命傷だとわかった。
+that is how I knew it was a fatal wound.
+TP
+
+//同時に、大腿部に苦痛を感じていた。
+At the same time, I could feel agonizing pain in the thigh.
+TP
+
+//矢だ。
+It's a bolt.
+TP
+
+//霧の薄っぺらい胸を貫通して、俺の大腿部を射抜いている。
+It perforated Kiri's thin chest and passed through my femoral area.
+//I don't get the positions here. *considers grabbing some dolls to test things out* *doesn't have dolls* *hahahah, kidding, of course he does* *tries for three seconds* *spends an hour putting them in sexual poses* "The results of my extensive research are yet inconclusive." -GHS
+TP
+
+//顔を持ち上げた。
+I lifted up my head,
+TP
+GL 0 evcc0042
+$CGevcc0042 = 1
+GS 0 1
+GS 1 0
+SEF 109 1
+
+WVP 1 bgm019.ogg 0 0 0
+
+
+//太一「……やっぱり」
+Taichi: "...I knew it."
+//That she knows he'd figure it out is probably the major reason she's here; if she doesn't bring him down now, he'll hunt her down and possibly kill her before she has time to explain, and even if she did, he might not really care. Although, there's always Tower of Friends, where Miki is also in love. -GHS
+TP
+
+WVP 0 vfCCC4021mki000
+//美希「あはは、先輩を倒せたのははじめてですね」
+Miki: "Ahahah, this is the first time I've managed to bring you down, Senpai."
+TP
+
+//無邪気だった。
+So innocently.
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+WVP 0 vfCCC4021kri008
+//霧「……う……あれ……？　美希？」
+Kiri: "...uh... what...? Miki?"
+TP
+
+//太一「霧……」
+Taichi: "Kiri..."
+TP
+
+//ナイフが落ちる。
+Her knife falls away.
+TP
+
+//身を起こそうとして……失敗する。
+She tries to sit up... failure.
+TP
+
+//太一「痛っ」
+Taichi: "OW!"
+TP
+
+WVP 0 vfCCC4021kri009
+//霧「……わたし……撃たれたの？」
+Kiri: "...I... was I shot?"
+TP
+
+//太一「ああ」
+Taichi: "Yup."
+TP
+
+WVP 0 vfCCC4021kri010
+//霧「誰が？」
+Kiri: "By who?"
+TP
+
+//太一「…………」
+Taichi: "....."
+TP
+
+WVP 0 vfCCC4021kri011
+//霧「うそ……こふっ」
+Kiri: "Lies... khaf!"
+TP
+
+//口からも血がこぼれ。
+Blood spills from the mouth as well.
+//No reaction from Taichi. -GHS
+TP
+
+WVP 0 vfCCC4021kri012
+//霧「は、くるひ……美希……み……」
+Kiri: "Ah, hurtsh... Miki... Mi..."
+TP
+
+//美希はじっと霧の断末魔を眺めている。
+Miki gazes fixed at Kiri's final dying agony.
+TP
+
+//感情は一切、読み取れない。
+All sentiments, without exceptions, impossible to read.
+TP
+
+//太一「馬鹿なことを……友達、だったんじゃないか」
+Taichi: "To do something that stupid... friends, weren't you friends?"
+//He's more concerned about her just staring rather than her having put down what currently amounts to a rabid animal. -GHS
+TP
+
+//美希「…………」
+Miki: "......"
+TP
+
+//霧が咳き込む。大量の血。
+Kiri coughs, violently. A large amount of blood.
+TP
+
+//太一「おまえは誰だ」
+Taichi: "Tell me who you are."
+TP
+
+WVP 0 vfCCC4021mki002
+//美希「美希です」
+Miki: "I am Miki."
+TP
+
+//太一「違う。美希はそんな強靱じゃない」
+Taichi: "No you aren't. Miki isn't this tough."
+TP
+
+WVP 0 vfCCC4021mki003
+//美希「……鍛えられたんですよ。先輩たちに」
+Miki: "...I have been forged and disciplined! By all of you, Senpai."
+//She could mean all Taichis, but since everyone but Kiri is her senpai, that's sort of irrelevant. Regardless, I'm not adding an 's' to Senpai because science's. -GHS
+TP
+
+//こいつ……。
+This gal...
+//(Hum, Ssenpai? Senpsai? Senpasi? Ah, Sesnpai (pronounced Sexenpai).) -GHS
+TP
+
+//太一「霧……」
+Taichi: "Kiri..."
+TP
+
+WVP 0 vfCCC4021kri013
+//霧「美希……どこ？　うしろにいるの？　ふりむけなくて……」
+Kiri: "Miki... where? Are you behind me? I can't turn around..."
+TP
+
+//霧が身じろぐたび、脚に激痛が走る。
+Every time Kiri stirs, a sharp pain runs through my leg.
+TP
+
+//それで。
+And that is how,
+TP
+
+//俺は理性を取り戻すことができた。
+I was able to gain my rationality back.
+//So the above is half-chuuni at best. If at all. Of course pain makes him rational... he's only masochist up to a point. -GHS
+TP
+
+WVP 0 vfCCC4021kri014
+//霧「美希じゃないよね？　うったの……ちがうよね？」
+Kiri: "You're not Miki are you? You shot me... no, you didn't, right?"
+TP
+
+WVP 0 vfCCC4021mki004
+//美希「ちがくないよ。わたしだよ」
+Miki: "Yes I did. It was me!"
+TP
+
+WVP 0 vfCCC4021kri015
+//霧「え……？」
+Kiri: "Eh...?"
+TP
+
+WVP 0 vfCCC4021kri016
+//霧「……うそだぁ」
+Kiri: "...you lie."
+TP
+
+//太一「霧」
+Taichi: "Kiri."
+TP
+
+//俺を見あげる。
+She looks up at me.
+TP
+
+//胸を射抜かれては、それしかできなかった。
+With her chest pierced through, she could do nothing but that.
+TP
+
+WVP 0 vfCCC4021kri017
+//霧「……むじ、つ？」
+Kiri: "...inno... cent?"
+TP
+
+//太一「でもないけど。俺は誰も殺してないよ。殺したくない」
+Taichi: "Not exactly. But I didn't kill anyone. I didn't want to kill!"
+TP
+
+//霧「…………」
+Kiri: "......"
+TP
+
+WVP 0 vfCCC4021kri019
+//霧「……ごめ……な……」
+Kiri: "...apo... lo..."
+//Kiri's quick on the uptake, but only when she has something to ground her deductions. Otherwise, she just spins in a circle, deducing idiocy after idiocy. That's how she's quick to accept Yutaka was a rapist and Miki's the bad guy: she already knew, in a sense. -GHS
+TP
+
+//謝罪の言葉も成り立たず。
+Without letting her finish her words of apology,
+//This is important considering how difficult it is for Kiri to apologize. He doesn't really want to even hear it; but whether he doesn't accept it, or is satisfied with unexpressed repentance, is at this point intentionally unclear. -GHS
+TP
+
+//俺はそっと、頸動脈に指を添えた。
+I, gently, placed my fingers around her carotid artery.
+//Miki and Taichi kill Kiri, she doesn't die of coincidence, otherwise, Miki managing to shoot down Youko would be the same... yes, there's still the possibility it wasn't a trap at all. -GHS
+TP
+
+//太一「寝ろ。夢だ。起きたら、いつも通りの毎日だ」
+Taichi: "Sleep. It's a dream. When you wake up, it'll be the normal everyday of always."
+TP
+
+//矛盾のある言葉に、しかし霧は笑った。
+There is contradiction in those words, yet Kiri laughed.
+//There isn't. They both know. -GHS
+TP
+
+WVP 0 vfCCC4021kri020
+//霧「あは」
+Kiri: "Ahah..."
+TP
+
+//軽く締める。それで充分。
+I lightly tighten. That is plenty.
+//She survived a stone to the calf and shoulder without serious injuries, and Taichi couldn't disarm her. Her fragility is simply inconsistent. Works better if he's just making her pass out. -GHS
+TP
+
+WVP 0 vfCCC4021kri021
+//霧「……ぁ………………」
+Kiri: "...ah........."
+TP
+
+//優しく、殺した。
+Gently... killed.
+TP
+
+WVP 0 vfCCC4021mki005
+//美希「……！」
+Miki: "...!"
+TP
+
+//太一「痛っ……」
+Taichi: "Ow..."
+TP
+
+//骸を矢ごと引き抜く。
+I yank the bolt out of her shell as well.
+TP
+
+//大腿の傷は浅い。
+The thigh wound is shallow,
+TP
+
+//が、移動力はもうないに等しい。
+but I still don't have the strength to move anymore.
+TP
+
+//太一「……俺も殺すのか？」
+Taichi: "...you gonna kill me too?"
+TP
+
+WVP 0 vfCCC4021mki006
+//美希「とどめ、さしてあげたんですか？」
+Miki: "You gave it to her? The finishing blow?"
+//She's standing right in front of her. She can see this perfectly. He could've seen him strangle her. She knows he's not killing anyone. That's why she's gotta ask. -GHS
+TP
+
+//太一「ああ」
+Taichi: "Yep."
+TP
+
+WVP 0 vfCCC4021mki007
+//美希「優しい、せんぱい」
+Miki: "Nice guy, Senpai."
+//See CCA0009A -GHS
+TP
+
+//太一「俺も殺すのか？」
+Taichi: "You gonna kill me too?"
+//PCP above
+TP
+
+WVP 0 vfCCC4021mki008
+//美希「はい」
+Miki: "Yes."
+TP
+
+//太一「理由は？」
+Taichi: "The reason?"
+TP
+
+WVP 0 vfCCC4021mki009
+//美希「……知りたいですか？」
+Miki: "...do you want to know it?"
+TP
+
+WVP 0 vfCCC4021mki010
+//美希「暴走した先輩って、理性なくなっちゃってると思ってたんですけど」
+Miki: "But you had gone rampant, Senpai, so I thought you had lost your rationality."
+//The term she uses for Taichi going insane is 暴走, which is exactly the Japanese translation of term Rampant, which is what is used for when the AIs in Marathon go awry. It'd be so very odd if this, the number seven, a significant portion of the plotline of Marathon Infinity being applicable to what Taichi is doing, and even that offhand addition of a very odd figure of speech in CCC0003A that 'casually' mentions bungee/Bungie were to be a mere coincidence.
+//Well, rampant is sort of a fancier word for rampage, so even if my deduction is wrong, it still works. More interesting how Miki seems to think Taichi's gone on a rampage. But he hasn't at all! Unless, of course, Taichi "going rampant" simply means that he start seeing dead bodies left and right, with the rest of the club more or less playing along. -GHS
+TP
+
+//太一「へえ、俺のことも知ってるんだ」
+Taichi: "Huh, you know about me then."
+TP
+
+WVP 0 vfCCC4021mki011
+//美希「支倉先輩のこともです」
+Miki: "And also about Hasekura-senpai."
+TP
+
+//太一「……どうしてみんなを殺した？」
+Taichi: "...why did you kill everybody?"
+TP
+
+WVP 0 vfCCC4021mki012
+//美希「殺してないです。わたしは」
+Miki: "I didn't kill. I didn't."
+//She just shot Kiri to de-facto death. It's kind of in-your-face. -GHS
+TP
+
+//太一「じゃ誰が殺したんだ」
+Taichi: "Then who killed them?"
+TP
+
+WVP 0 vfCCC4021mki013
+//美希「偶然です」
+Miki: "Coincidence."
+//And what a Providential coincidence this is! -GHS
+TP
+
+//太一「……美希、ふざけないでくれよ。マジな話してんだぞ」
+Taichi: "...Miki, don't joke around. We're talking serious here."
+TP
+
+WVP 0 vfCCC4021mki014
+//美希「本当です。偶然なんです。わたしは見えない手って呼んでます」
+Miki: "But it's true. It was coincidence. I call it the Invisible Hand."
+//Wikipedia: "In general, the term "invisible hand" can apply to any individual action that has unplanned, unintended consequences, particularly those that arise from actions not orchestrated by a central command, and that have an observable, patterned effect on the community." Very interesting she'd use an economic anti-centralist term, though the invisible hand here should recall more God's intervention than anything else. After all, the greatest coincidence here is how Miki is finally unmasked as being unreset... twice so, should no reset ever take place. -GHS
+TP
+
+//太一「見えない手？」
+Taichi: "Invisible hand?"
+TP
+
+WVP 0 vfCCC4021mki015
+//美希「たまにこういうことも起こりうるんですよ」
+Miki: "Occasionally, there's the possibility that this kind of thing happens."
+//The point isn't "shit happens", either, though that's a better takeaway than the entire philosophical systems of most stories out there. -GHS
+TP
+
+WVP 0 vfCCC4021mki016
+//美希「最初は……支倉先輩ですか。あの人が死んだのははじめてですけど」
+Miki: "The beginning was... Hasekura-senpai was it? This is the first time that person has died, however."
+//This hesitation should indicate she's not quite sure about her death. -GHS
+TP
+
+WVP 0 vfCCC4021mki017
+//美希「罠を仕掛けたのはわたしですけど、死んだのははじめてです」
+Miki: "I was the one that placed the traps, however this is the first time she has died."
+TP
+
+//太一「……あのトラップは美希だったんだ」
+Taichi: "...those traps were yours, then, Miki."
+TP
+
+WVP 0 vfCCC4021mki018
+//美希「はい。先輩に教えてもらって」
+Miki: "Yes. You taught me, Senpai."
+//Taichi teaches lots of stuff to Miki. Are these traps nothing more but further sophistry? -GHS
+TP
+
+//太一「教えてないよ」
+Taichi: "I taught you nothing!"
+TP
+
+WVP 0 vfCCC4021mki019
+//美希「ずっと前です。もう何十週間も前」
+Miki: "It was long ago. Several dozens of weeks ago or more."
+TP
+
+WVP 0 vfCCC4021mki020
+//美希「あの場所に近寄って欲しくなかったので、警戒してるんです。本当の目的は接近者をわたしが察知することで……罠があれば慎重に移動してくれますから。逃げる時間ができる」
+Miki: "I don't want anyone to get close to that place, so I must be vigilant. The real objective is for me to be able to detect anyone approaching and... with traps one has to move slowly and carefully. That gives me time to escape."
+//In other words, she doesn't expect anyone but Taichi or Youko to go there. -GHS
+TP
+
+//太一「……場所って？」
+Taichi: "...'place'?"
+TP
+
+WVP 0 vfCCC4021mki021
+//美希「あそこだけ、ループから免れてるんです」
+Miki: "There, and only there, is exempt from the loop."
+//The only overtly religious symbol in the entire story (that people will notice at least) is exempt from the loop. How the fairy tale of the two do people not notice I'll never ever know. -GHS
+TP
+
+//太一「ループ……」
+Taichi: "Loop..."
+TP
+
+WVP 0 vfCCC4021mki022
+//美希「世界はこの一週間を、何度も繰り返してるんですよ、先輩」
+Miki: "The world has been doing this one week over and over many times, Senpai."
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//そして美希は話した。
+And then Miki spoke,
+TP
+
+//月曜日から日曜日の一週間。
+of this single week from Monday through to Sunday,
+TP
+
+//世界はそこまで経過しては、また月曜日の状態に戻るという。
+and of how the world that had progressed until then returns again to the state it was on Monday.
+TP
+
+//ループ。
+Loop.
+TP
+
+//美希はそう呼んでいた。
+That is what Miki called it.
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+//太一「信じにくい話だな」
+Taichi: "This story's tough to believe."
+//No shit. -GHS
+TP
+
+WVP 0 vfCCC4021mki023
+//美希「嘘つく意味ないじゃないですか」
+Miki: "There's no point to lying, is there?"
+//Hahahahah, and we've only just started. -GHS
+TP
+
+WVP 0 vfCCC4021mki024
+//美希「記憶も状態も、全部元通りになるんです」
+Miki: "Recollections and personal status, as well, all goes to where it was at the origin."
+TP
+
+WVP 0 vfCCC4021mki025
+//美希「だからその霧ちんも、また来週になれば復活です」
+Miki: "Therefore, even Kiri-chin over there, once it becomes next week, will be revived."
+TP
+
+WVP 0 vfCCC4021mki026
+//美希「もちろん、月曜日に戻るわけで殺された記憶はないと思いますけど」
+Miki: "Of course, once Monday comes back, I don't think she'll have recollection of being killed."
+//"I don't think"? Even not reading that kanji literally, and going with something like "it doesn't seem", that's a very very strange qualifier to use for someone who's been through this an uncountable number of times. -GHS
+TP
+
+//太一「それが真実だとして、どうして美希がそれを自覚できるんだ？」
+Taichi: "If that's the truth, then how come you are aware of all this, Miki?"
+TP
+
+WVP 0 vfCCC4021mki027
+//美希「祠だけは時間の経過を免れてますから」
+Miki: "Because the hokora, and only it, is exempt from the passage of time."
+//Note the wording. Not just exempt from the loop; exempt from the PASSAGE OF TIME. The only religious symbol in the story is both cut off from its rules as well as eternal. -GHS
+TP
+
+//太一「……つまり……祠に住んでるわけか」
+Taichi: "...in other words... you are living in the hokora?"
+//Note his response isn't "how the hell is that even possible???" The hokora is never questioned. -GHS
+TP
+
+WVP 0 vfCCC4021mki028
+//美希「日曜の終わる瞬間だけですけど」
+Miki: "But only for the moment where Sunday ends."
+TP
+
+//太一「……で、ループしてるからといって、どうしてみんなを殺したんだ？」
+Taichi: "...so, if this loop thing's all real, why did you kill everybody?"
+TP
+
+WVP 0 vfCCC4021mki029
+//美希「わたしは死ぬわけにはいかないからです」
+Miki: "Because the idea of my death is absolutely unacceptable."
+//Contrast CCC4015. He just asked her the same question twice, and NOW she doesn't deny it. Bad liar, Miki. -GHS
+TP
+
+//太一「話が繋がらない」
+Taichi: "The two sentences don't flow together."
+TP
+
+WVP 0 vfCCC4021mki030
+//美希「……わたしが最初に祠のことに気づいたとき、すでに祠にはノートがありました」
+Miki: "...the first time I noticed about the hokora, there were already notebooks inside it."
+//Meaning she was 1) roaming around the countryside, alone 2) she noticed the hokora 3) decided to open it for absolutely no reason whatsoever. Of course it's still the Invisible Hand of Coincidence... or maybe it's just she saw Taichi, Youko or something else. Remember, there's no loop and no Cross World, so it's just her cheating at his game. More interesting that given the Youko route and her Sendback, Miki without experience goes hikikomori really really fast. That she'd be out in the countryside exploring is very suspicious. -GHS
+TP
+
+WVP 0 vfCCC4021mki031
+//美希「ノートには、土曜日までの毎日が克明に記されていて、筆記者は先輩でした」
+Miki: "In the notebooks, a daily life was diarized in detail up to Saturday, and the writer was you, Senpai."
+//HE doesn't notice his own handwriting, remember CCC0007, only his style. How did she recognize it? By the same, perhaps... -GHS
+TP
+
+//太一「俺が……？」
+Taichi: "Me...?"
+TP
+
+WVP 0 vfCCC4021mki032
+//美希「先輩と支倉先輩は、こういうループ現象で毎回記憶をリセットされてるのに、かなり高い確率で真相に気づくんですよ」
+Miki: "Even if this loop phenomenon resets your memories every time, Senpai, you and Hasekura-senpai have a fairly high probability of figuring out the truth of things."
+TP
+
+WVP 0 vfCCC4021mki033
+//美希「でも忘れちゃうから、日記形式で祠に記録を残すことで……まあ翌週の自分が事態を把握しやすいようにしてるんだと思います」
+Miki: "But because you forget, you save the records in the hokora in diary form... well, I think you do that to make it easier for yourselves to grasp the situation in the following week."
+//BTW: diary = backlog -GHS
+TP
+
+WVP 0 vfCCC4021mki034
+//美希「でも祠にいれば、固有の時間が保たれることは気づかなかった」
+Miki: "But you never noticed how, if you stay inside the hokora, the eigentime is preserved."
+TP
+
+//HACK expanding with new lines? Luxury! -GHS
+
+WVP 0 vfzzzCCC4021miki1
+//美希「支倉先輩は、そもそも固有の自分を保つことにたいして意味を持っていないようですけど……」
+Miki: "But it seems like that, for Hasekura-senpai, the protection of her eigenself doesn't have much meaning in the first place..."
+//She just mentioned the two haven't noticed this - or has Taichi alone not noticed? Not that it matters since there's no loop, but it's interesting to see Miki claim Youko thinks his eigenself is as worthless as Taichi's - and will be so juuust right around when Taichi also begins to find worth in his eigenself. The point is, Youko isn't meant to be unreset yet. -GHS
+TP
+WVP 0 vfzzzCCC4021miki2
+//美希「ま、あの人もまともじゃないですから」
+Miki: "Well, it's because that person is also not really normal."
+TP
+WVP 0 vfzzzCCC4021miki3
+//美希「とにかく……来週になれば、全員の記憶はクリアされます」
+Miki: "Anyway... when it becomes next week, everybody's recollections get cleared."
+//Rejoins here. BTW: it's all true in the meta-VN sense. It's other senses that will be blatant lies. -GHS
+TP
+
+//WVP 0 vfCCC4021mki035
+//美希「……来週になれば、全員の記憶はクリアされます」
+//Miki: "...when it becomes next week, everybody's recollections get cleared."
+
+
+WVP 0 vfCCC4021mki036
+//美希「でもそれって死んで生まれ変わってるのと一緒ですよね？」
+Miki: "But isn't that the same as dying and being reborn?"
+TP
+
+WVP 0 vfCCC4021mki037
+//美希「いくら日記に書いても、リセットされるまでの時間は、補いようがないですよね？」
+Miki: "However many diaries you write, all those hours up until we are reset are not fully reintegrated, you know?"
+TP
+
+WVP 0 vfCCC4021mki038
+//美希「毎回死んでるってことじゃないですか」
+Miki: "Isn't it just dying, ever single time?"
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+WVP 0 vfCCC4021mki039
+//美希「わたしはそんなのいやです」
+Miki: "I find that unacceptable."
+TP
+
+WVP 0 vfCCC4021mki040
+//美希「わたしっていう固有の人間は、ずっと同じ繋がりの上に生きていたい」
+Miki: "I want to live with the same connection to the unique human that I am now, forever."
+TP
+
+WVP 0 vfCCC4021mki041
+//美希「世界がもうこれっぽっちも進まないとしても……わたしは、自覚のない繰り返しにはいたくない」
+Miki: "The world might be advancing just this little but... I don't want to repeat myself without being aware."
+//Remembering how Higurashi had people's cross-dimension memories as nothing but unspecified Settei, though Umineko redefines this in a certain metasense, I'm once more reminded that Ryukishi doesn't seem to have understood what this part actually means, religiously speaking. -GHS
+TP
+
+//太一「気持ちはわかるが……それでどうして皆を殺した」
+Taichi: "I get your feelings but... what of that made you kill everyone?"
+TP
+
+WVP 0 vfCCC4021mki042
+//美希「だから偶然なんですよ、それは」
+Miki: "I told you, it was just coincidence, it was."
+//That is still not connected. Why did she answer the question with all of that? -GHS
+TP
+
+WVP 0 vfCCC4021mki043
+//美希「繰り返しがあれば、たまたま支倉先輩が罠にかかることもあるでしょう？」
+Miki: "If there's continuous repeats, then there's the possibility that Hasekura-senpai randomly gets caught by a trap, isn't there?"
+//Not technically. A hundred perfectly identical coin tosses will result in a hundred perfectly identical results. The only way this can't be so is if this world isn't repeating perfectly, or if there's something else interfering with this - which may well be the same thing, giving both lead back to the hokora. Without it, the loop is simply indiscoverable. The only religious building in the story allows even the concept of possibility to exist in what should be a perfectly fixed, completely scripted, pre-decided world. This hints strongly at a supernatural and religious interpretation of the story. -GHS
+TP
+
+//太一「百回にいっぺんくらいは」
+Taichi: "Around once in a hundred times, yes."
+//Interesting Taichi he admits Youko is less than one hundred percent. We must always be seeing her 1%, then. Or maybe she has the Detective Authority, except when the author forgets she doesn't and up and decides some things are 100% even when it's been repeatedly stated without DA they are not. -GHS
+TP
+
+WVP 0 vfCCC4021mki044
+//美希「で、たまたま冬子先輩が死んだり、島先輩が死んだり、みみ先輩が死んだり……することもあるんですよ」
+Miki: "Then, randomly, Touko-senpai might die, Shima-senpai might die, Mimi-senpai might die... all those can happen!"
+//Regardless of the impossibility of possibilities in a world that should be perfectly fixed, this is why trying to 'fix' everything by making a perfect world by attempting to wield what boils down to the ultimate power doesn't work. The power of the loop is the One Ring of Cross Channel. It can only be destroyed. (Yes, the loop is the ring. So blatant! So damn blatant!) -GHS
+TP
+
+WVP 0 vfCCC4021mki045
+//美希「それが今回だったんです」
+Miki: "That is what happened this time."
+//The odds of all these coincidences happening perfectly in order for things to go exactly like this are beyond astronomical. Well, we have a hokora that speaks of religion, and we'll have MWI as a (bunked) explanation; no problem bringing in the Anthropic Principle. And that still points to God being, if not cause, certainly influence of all this. -GHS
+TP
+
+//太一「犯人は……罠を仕掛けた最初の一件をのぞけば……偶然だってのか？」
+Taichi: "The culprit... aside from the traps that caught the first one... was coincidence?"
+//No mention of Kiri. Oh, and just wait: remember that the Hasekura massacre involved traps. That apparently did nothing at all, see CCD0022A. -GHS
+TP
+
+WVP 0 vfCCC4021mki046
+//美希「偶然は、たまに見えない殺人者になります」
+Miki: "Coincidence, occasionally, becomes an invisible murderer."
+//So it better ties with the route title. So if coincidence is the invisible murderer, what causes the invisible tears and were are they? Those are simple: they are Taichi's (and Miki's) lamentations for their fallen. Specifically Taichi's: if most of the deaths in the VN are just him replaying the Hasekura and/or Yutaka's death over and over, and regretting it over and over, then the deaths we see are his tears for the people he killed or otherwise led to die. -GHS
+TP
+
+WVP 0 vfCCC4021mki047
+//美希「ループ世界では、たまに、というのは確定された出来事なんですよ」
+Miki: "In the Loop World, this 'occasionally' is more of a determined event."
+//That's a direct contradiction! If this is a loop, then there is no "occasionally" period, not unless there is some sort of external element of disturbance that makes the loop nothing of the sort. As there are, this becomes a direct statement that there can be no loop at all. -GHS
+TP
+
+//美希は、『サルとタイプライターとシェイクスピア』さえ肯定してのける。
+Miki has dropped a Monkey-and-Typewriter-and-Shakespeare affirmation in here.
+//HACK added line. This is intended to clarify the sense of the statement above, but it actually doesn't change much. If all the particles in the world are arranged the same way before the monkey begins to type, and reset to it after the monkey has typed, there is simply no possible way the monkey could type something different every time. Anyway, with the Monkey With Typewriter And Shakespeare explicitly stated, the latter's more involved than with just the World Is a Stage sub-reading.
+//Hey, remember when Ryukishi had the Umineko version of the protagonist from Higurashi claim that Higurashi was de-facto solved like this? -GHS
+TP
+//太一「冬子は刺されてたぞ？」
+Taichi: "But Touko's been stabbed, wasn't she?"
+TP
+
+WVP 0 vfCCC4021mki048
+//美希「わたしです」
+Miki: "I did that."
+TP
+
+//太一「はあ？」
+Taichi: "Huh?"
+TP
+
+WVP 0 vfCCC4021mki049
+//美希「冬子先輩は、毎回高確率で餓死するんですよ」
+Miki: "Touko-senpai has a high likelihood of starving to death every time."
+TP
+
+WVP 0 vfCCC4021mki050
+//美希「で、今回はもう死んでいたんで、死体に短剣刺しときました」
+Miki: "And, as she was already dead on this time, I stabbed her cadaver with a dagger."
+//See CCA4010. Little problem: she bled. Plenty. -GHS
+TP
+
+//太一「理由は？」
+Taichi: "The reason?"
+//CP above
+TP
+
+WVP 0 vfCCC4021mki051
+//美希「……霧ちんのスイッチが入るように」
+Miki: "...to flip Kiri-chin's switch."
+//See CCC4014: Taichi's wasn't flipped. The question of whether he even can isn't quite as easily answered as it seems. -GHS
+TP
+
+WVP 0 vfCCC4021mki052
+//美希「霧ちんが先輩を殺そうとするように」
+Miki: "To make Kiri-chin try to kill you, Senpai."
+TP
+
+//太一「……美希……」
+Taichi: "...Miki..."
+TP
+
+WVP 0 vfCCC4021mki053
+//美希「あ、先輩が嫌いなんじゃないんですよ？」
+Miki: "Ah, I don't dislike you, Senpai, you know?"
+TP
+
+WVP 0 vfCCC4021mki054
+//美希「ただ……あなたは危険だから」
+Miki: "Just... it's because you are dangerous."
+TP
+
+WVP 0 vfCCC4021mki055
+//美希「あなたも高確率で、暴走するじゃないですか」
+Miki: "Don't you have also a high probability of going rampant?"
+TP
+
+WVP 0 vfCCC4021mki056
+//美希「血を見ると、よくおかしくなりますよね？」
+Miki: "When you see blood, don't you often become odd?"
+//Like he did all the time this route! Oh, wait... -GHS
+TP
+
+//太一「……ああ」
+Taichi: "...yup."
+TP
+
+WVP 0 vfCCC4021mki057
+//美希「今まではなんとかやりくりして、安定させてきたつもりです」
+Miki: "All until now was to somehow manage this, and to attempt to stabilize things."
+TP
+
+//太一「……はは、俺のおもりしてくれたんだ」
+Taichi: "...hahah, you've been babysitting me then!"
+TP
+
+WVP 0 vfCCC4021mki058
+//美希「はい♪」
+Miki: "Yes!♪"
+TP
+
+WVP 0 vfCCC4021mki059
+//美希「優しいときの先輩は、大好きだから」
+Miki: "Because I really like you when you're nice, Senpai."
+//See CCA0009A, CCZAS -GHS
+TP
+
+//感情が宿ったのは一瞬。
+Emotion took dwelling in her for one instant.
+TP
+
+WVP 0 vfCCC4021mki060
+//美希「……でも、今回は支倉先輩が死ぬというイレギュラーが発生しました」
+Miki: "...but, this time we had the irregular complication of Hasekura-senpai's death."
+TP
+
+//無表情に戻る。
+She returns expressionless.
+TP
+
+WVP 0 vfCCC4021mki061
+//美希「あの人、ほとんど人間離れしてますんで、わたしのキャンプもよく見つかります」
+Miki: "That person is practically superhuman, so she often discovers my camp."
+TP
+
+//太一「キャンプって祠のそばにあるの？」
+Taichi: "You have a camp, you mean next to the hokora?"
+//Minor oddity here: if the camp's next to the hokora, since its area of influence isn't small, then the camp should be preserved; if so, she should know she can stay unreset outside the hokora. And yet, she's been living within it...? Minor oddity, as said. -GHS
+TP
+
+WVP 0 vfCCC4021mki062
+//美希「はい。合宿の荷物、借りまして……あ、動かないでください」
+Miki: "Yes. I borrowed it from the training camp's equipment... ah, don't move, please."
+TP
+
+//太一「止血したい……」
+Taichi: "I wanna stop the bleeding..."
+TP
+
+WVP 0 vfCCC4021mki063
+//美希「ごめんなさい……それは許可できないです……」
+Miki: "Apologies... that's something I can't allow..."
+TP
+
+//太一「殺すから？」
+Taichi: "Because you'll kill me?"
+TP
+
+WVP 0 vfCCC4021mki064
+//美希「……はい」
+Miki: "...yes."
+TP
+
+//しゅんとする。
+Despondently.
+TP
+
+//太一「……はぁ……なんつうか、またその話が本当ならまた生き返るんだろうけど」
+Taichi: "...sigh... why even, because if that thing you said's true then I'll just be reborn again."
+TP
+
+WVP 0 vfCCC4021mki065
+//美希「支倉先輩なんですけど、見つかったときはすぐ降伏してるんですよ。情報提供だけして」
+Miki: "When Hasekura-senpai discovers me, I immediately surrender. I just provide information."
+//This doesn't really segue. -GHS
+TP
+
+WVP 0 vfCCC4021mki066
+//美希「やっても勝てっこないですからね」
+Miki: "Because whatever I do, I could never beat her, you know."
+TP
+
+//太一「懸命な自愛っぷりだ」
+Taichi: "That's a really strenuous self-preservation."
+TP
+
+WVP 0 vfCCC4021mki067
+//美希「支倉先輩がいなくなった時の、あなたの反応は未知のものでした」
+Miki: "How you'd react in case of Hasekura-senpai being no more was something unknown."
+TP
+
+WVP 0 vfCCC4021mki068
+//美希「……霧ちんが悪意ノイローゼになったのもありますけど、あっという間にキレかけてましたよね？」
+Miki: "...Kiri-chin can also end up being neurotically malicious, did you see how she just snapped in the blink of an eye?"
+TP
+
+//太一「うん、そうだね」
+Taichi: "Yep, indeed."
+TP
+
+WVP 0 vfCCC4021mki069
+//美希「わたし、死ねないんです」
+Miki: "I cannot die."
+TP
+
+WVP 0 vfCCC4021mki070
+//美希「おっしゃる通り……自分が大事なんです、すごく」
+Miki: "As those words say... I am very important to myself, very much."
+//"Living by faith includes the call to something greater than cowardly self-preservation" -JRR Tolkien -GHS
+TP
+
+WVP 0 vfCCC4021mki071
+//美希「誰よりも」
+Miki: "More than anyone."
+TP
+
+//太一「…………なるほど」
+Taichi: "......I see."
+TP
+
+//太一「それがキミの群青色ってわけだ」
+Taichi: "That is your Ultramarine."
+//Absolutely false, of course, her Ultramarine is her imitative behavior and her almost-pathological lying, to start with. Her taking everything so damn seriously is closer to it. That's why even if her sacrifice at the end of the route is false (no reset, ever), it's still credibly a sacrifice: she gives up trying to control Taichi and his world, as well as all her pretense of having grown up at all. In short, she gives up her role as the Villain of the setting. -GHS
+TP
+
+WVP 0 vfCCC4021mki072
+//美希「……はい、そーなります」
+Miki: "...yes, turns out it is."
+TP
+
+WVP 0 vfCCC4021mki073
+//美希「人の痛みとか全然わからないので」
+Miki: "I just don't get people's pain or anything of the sort at all, so,"
+TP
+
+WVP 0 vfCCC4021mki074
+//美希「人のフリだけして生きてるようなものです」
+Miki: "I'm just something that lives on pretending to be a person."
+TP
+
+WVP 0 vfCCC4021mki075
+//美希「これ、霧ちんがいつだか先輩を責めるときに使った言葉です」
+Miki: "Those are the words that Kiri-chin sometimes uses when she wants to torment you, Senpai."
+//And they are wrong applied to Taichi. Or rather, they apply to everyone. Because the more one pretends to be a person... -GHS
+TP
+
+//太一「……記憶にないが？」
+Taichi: "...but I don't remember them?"
+TP
+
+WVP 0 vfCCC4021mki076
+//美希「あ、そういう展開になったことがあるですよ」
+Miki: "Ah, when things have unfolded that way, of course."
+//See CCC3009. She was looking then... and likely as well when they had sex. -GHS
+TP
+
+//太一「ああ、リセットされる前の俺ね」
+Taichi: "Ahhh, it was to a me before the reset, you mean."
+TP
+
+WVP 0 vfCCC4021mki077
+//美希「先輩は擬態してるわけじゃないですよね」
+Miki: "Senpai, you're not camouflaging."
+TP
+
+WVP 0 vfCCC4021mki078
+//美希「ただ……人であろうとしているだけですよね」
+Miki: "You're just... trying to be a human."
+TP
+
+WVP 0 vfCCC4021mki079
+//美希「で、本当に擬態して寄生しているのは……わたしだったりするんです」
+Miki: "And, the one who was really a camouflaged parasite... was me."
+TP
+
+//太一「……ずっと祠に隠れてるってのはダメなの？」
+Taichi: "...it a problem if you were to just always hide yourself in the hokora?"
+TP
+
+WVP 0 vfCCC4021mki080
+//美希「……それでもいいんですけど……」
+Miki: "...I could do that, but..."
+TP
+
+WVP 0 vfCCC4021mki081
+//美希「退屈で、気が狂いそうになりますよ？」
+Miki: "I would just lose my mind from boredom, wouldn't I?"
+//Same reason why Taichi doesn't stay at home. With the oddity that Youko, this week, comes to wake him up to make sure he leaves home. Sure, he's his URMOMS, but that's still quite odd. -GHS
+TP
+
+//太一「ああ……そうだね……」
+Taichi: "Ahhh... right..."
+TP
+
+WVP 0 vfCCC4021mki082
+//美希「適度にみんなの精神状態保って、支倉先輩と交渉して、気をつかって……そういうことを延々と繰り返すわけですよ」
+Miki: "Preserving everyone in a suitable state of mind, negotiating with Hasekura-senpai, paying attention... those are all the things that I endlessly repeat."
+//One Loop to rule them all, One Loop to find them, One Loop to bring them all and in the darkness bind them/ in the land of Hasugatake where the Nuclear Plant lies (* one of these parts is highly suspect) -GHS
+TP
+
+//太一「大変だ」
+Taichi: "That's some trouble."
+TP
+
+WVP 0 vfCCC4021mki083
+//美希「でも、そんなことをしている時は、ただ無邪気なままの自分でいられて……先輩とばかやったり……みんなと部活したり……」
+Miki: "But, while I'm doing all that, I must be the normal innocent myself... playing the fool with Senpai... doing club activities with everyone..."
+TP
+
+//太一「……祠にいると、主観的な時間は保護されるとして……いつか美希が大人になったら？」
+Taichi: "...when you are in the hokora, your subjective time is preserved, but... won't you become an adult someday, Miki, and what then?"
+TP
+
+WVP 0 vfCCC4021mki084
+//美希「……考えてません」
+Miki: "...I don't think about that."
+TP
+
+WVP 0 vfCCC4021mki085
+//美希「いつかは無理が来るので、リセットをかけないといけないんでしょうけど」
+Miki: "Someday will come when it'll be impossible, that I'll just have to take a reset, but..."
+TP
+
+WVP 0 vfCCC4021mki086
+//美希「それはもう……今のわたしとは違う人ですから……」
+Miki: "That's already... because I, as I am now, am already a different person..."
+//Ah, now we get to the real point of attrition of resetting vs. not resetting (though it's still not in the deepest reading). You stop being yourself whether you become someone else during sleep or not. Merely adding information is change. -GHS
+TP
+
+//太一「こわいんだ？」
+Taichi: "Scared?"
+TP
+
+WVP 0 vfCCC4021mki087
+//美希「こわい」
+Miki: "Scared."
+TP
+
+WVP 0 vfCCC4021mki088
+//美希「自分がなくなるのは、こわい」
+Miki: "That my self would disappear... it's scary."
+//See CCC3030. She was there, likely unreset, at the moment of reset. And now she's tossing his words back at him. This is suspect beyond belief. -GHS
+TP
+
+//涙を流す。
+Tears flow out.
+TP
+
+WVP 0 vfCCC4021mki089
+//美希「こんな誰もいない世界で、なくなってしまうのはこわい」
+Miki: "Vanishing from this world where there is no one makes me scared."
+//Loss of eigenself is what she means with disappearance even in her Sendback. But growth is also a loss of the eigenself! So she changes whether she resets or not. There's no need for reset regardless. -GHS
+TP
+
+WVP 0 vfCCC4021mki090
+//美希「……でも」
+Miki: "...but."
+TP
+
+WVP 0 vfCCC4021mki091
+//美希「わたし、なぜかひとりぼっちみたいな気がして」
+Miki: "For some reason, I feel a sort of solitude."
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+WVP 0 vfCCC4021mki092
+//美希「なんだか、虚しくなってきたんです」
+Miki: "As if somehow it was all hollow."
+TP
+
+//美希が武器をおろす。
+Miki lowers her weapon.
+TP
+
+WVP 0 vfCCC4021mki093
+//美希「今先輩と話して、さらに虚しくなっちゃいました」
+Miki: "And by talking to you now, Senpai, it's all become even more hollow."
+TP
+
+//太一「うむ。校長クラスの長話っぷりだったからな」
+Taichi: "Yeah. 'Cause that was one Headmaster Class of a long talk."
+TP
+
+WVP 0 vfCCC4021mki094
+//美希「……全然こわがらないし」
+Miki: "...you're not afraid at all."
+TP
+
+//太一「興味深い話だったぞ」
+Taichi: "It was a really interesting chat."
+TP
+
+WVP 0 vfCCC4021mki095
+//美希「……あはは……やっぱ、先輩はわたしよりすごい人ですね」
+Miki: "...ahahah... of course, you're a much more amazing person than me, Senpai."
+//See CCA0017A. Completely different words, yet... -GHS
+TP
+
+//太一「曜子ちゃんとかもっと別物だぞ」
+Taichi: "But Youko-chan, to say, she's way something else."
+TP
+
+WVP 0 vfCCC4021mki096
+//美希「あの人は……完璧に近いものではありますけど……まとまっただけの人間そのものじゃないですか」
+Miki: "That person's... she's something close to completeness, yet... she's just not a congruous human in the literal sense of the word, isn't she?"
+//This is what Taichi thinks. She's still tossing his words back at him. She might not even quite understand them. -GHS
+TP
+
+WVP 0 vfCCC4021mki097
+//美希「あなたは違う」
+Miki: "You're different."
+TP
+
+WVP 0 vfCCC4021mki098
+//美希「わたしと同じで、わたしより重いのに、わたしの何倍も頑張ってる」
+Miki: "You're the same as me, and even if you have it far worse than I, you make many times my effort."
+TP
+
+WVP 0 vfCCC4021mki099
+//美希「諦めてない」
+Miki: "You never give up."
+TP
+
+GL 0 zzzCCC4021zoom
+GI 0 1
+//HACK Even this??? -GHS
+
+//近寄ってくる。
+She draws near.
+TP
+
+WVP 0 vfCCC4021mki100
+//美希「先輩？」
+Miki: "Senpai?"
+TP
+
+//太一「ん？」
+Taichi: "Hm?"
+TP
+
+WVP 0 vfCCC4021mki101
+//美希「わたしがはじめて、好きになれた人なんです、あなたは」
+Miki: "The very first person that I... fell in love with, was you."
+TP
+
+//太一「ああ、そりゃ光栄」
+Taichi: "Ahhh, whatt'an honor."
+TP
+
+GO 0 1
+//HACK and out. -GHS
+
+//目を閉じる。
+I close my eyes,
+TP
+
+//殺しやすいよう。
+to be easy to kill.
+TP
+
+//そして。
+And then,
+TP
+
+WVS 1 1
+
+WVP 0 vfCCC4021mki102
+//美希「……さようなら、また来週」
+Miki: "...farewell, see you next week."
+//These were Taichi's last words at the address in the Kiri route. Ever and ever more suspicious. -GHS
+TP
+
+//太一「また来週」
+Taichi: "See you next week."
+TP
+
+GL 0 bgcc0000d
+GL 5 bgcc0000e
+WVP 2 SE088 1 0
+GI 5 0
+GS 0 1
+GS 5 0
+SEF 109 0
+//俺の意識は閉じた。
+I shut down my consciousness.
+//Electrical burst. Get it? Because he's a robot... or rather an android. Perhaps a Battleroid... -GHS
+TP
+WT 1000 0
+WT 500 1
+RET

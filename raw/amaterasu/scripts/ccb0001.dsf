@@ -1,0 +1,164 @@
+TS 0
+
+GL 0 bgcc0001b
+GS 0 1
+GS 1 0
+
+SEF 10 1
+
+
+TWS 0
+
+
+
+The Broadcasting Club campout.
+TP
+WVP 1 bgm007.ogg 0 0 0
+
+
+Us first-years are advancing up a grade, and the happy third-years are retiring.
+TP
+
+A new school year is coming.
+TP
+
+With seven new faces.
+TP
+
+But actually, eight.
+TP
+
+I felt that 7/8 was okay.
+TP
+
+She......she'd come the moment I called her anyway.
+TP
+
+Just to gather seven people,
+TP
+
+The price I paid wasn't cheap.
+TP
+
+That was a huge commotion.
+TP
+
+Which was one reason why the faculty didn't participate.
+TP
+
+These are private club activities after all.
+TP
+
+Mischief kept secret from the Institute.
+TP
+
+If this was made public, there'd be some noise about it.
+TP
+
+But I thought it was fine.
+TP
+
+........................
+TP
+
+We did our thing, and the campout ended.
+TP
+
+All seven of us set off on the road home.
+TP
+
+
+
+
+
+GL 0 bgcc0015b
+GS 0 1
+SEF 152
+
+
+On the way, the sun began to sink.
+TP
+
+I had the feeling that we'd been walking for a horribly long time.
+TP
+
+For several hours.
+TP
+
+Normally, this path didn't even take one hour.
+TP
+
+Was it because of fatigue?
+//Hmm, trying to connect this line with that several hours one but it's hard...will come back to it later.-Spin
+TP
+
+No one said anything.
+TP
+
+A world of only seven sets of footsteps.
+TP
+
+An abnormally quiet mountain path.
+TP
+
+Even the sounds of the insects didn't reach our ears.
+TP
+
+Even the air felt cold.
+TP
+
+Even though it was summer.
+TP
+GL 0 bgcc0015b
+GS 0 1
+SEF 10 0
+
+
+Although it was dark, I could still see.
+//I like how the "Even" thing connected those three previous lines but this one isn't tied to those so I thought it would be better to change it.-Spin
+//Although it's dark (right now), I could still see (back then). It should be either 'it's dark, I can still see' or 'it was dark, I could still see'. -VDZ
+TP
+
+I could see the path.
+TP
+
+I've always had good night vision.
+TP
+
+Around the time when I started wondering if I'd taken a wrong turn, we finally arrived at the town.
+//Yea, came "out" "in" to the town was a little oxymoronic.-Spin
+TP
+WVS 1 0
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+
+Humanity had been annihilated.
+TP
+WT 500 0
+WT 500 1
+
+
+
+TS 2
+SEF 109 0
+
+WT 1000 0
+
+
+
+GL 0 TITLE2
+GS 0 1
+WVP 1 seeye002 1 0 0
+SEF 10 1
+WT 5000 1
+
+
+
+
+
+
+
+RET

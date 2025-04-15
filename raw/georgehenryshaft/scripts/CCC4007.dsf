@@ -1,0 +1,597 @@
+
+GL 0 bgcc0012
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 152 0
+
+
+GL 1 TCYM0004
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC4007mki000
+//美希「うおおー、揺れるとジンジン響くですー」
+Miki: "Uwoooh, when you move it the tingle tingle spreads arouuund!"
+//Hmmm, see CCA0009B -GHS
+TP
+
+//太一「我慢しろ、今名医を召還してやる」
+Taichi: "Bear with it, I'm going to summon a famed physician now."
+TP
+
+//窓をあけて、口笛を吹いた。
+I opened the window and whistled.
+TP
+WVP 2 se095 1 0
+//HACK SFX -GHS
+
+//カムヒア！　ヨーコ！
+C'mere! Youko!
+//Doesn't gel with below, so no furrys for the now -GHS
+TP
+//太一「…………」
+Taichi: "......"
+TP
+
+//来ないな。
+She doesn't come.
+//Interesting how he expects her to be outside, but still within instantaneous walking distance of a room deep inside the school. Shouldn't he be calling from inside the corridor? Of course, this works better if she doesn't exist... -GHS
+TP
+
+//再度、口笛を吹いた。
+Once again, I whistle.
+TP
+
+WVP 2 se095 1 0
+//HACK SFX -GHS
+//カムヒアッ！　ヨーコッ！
+COME HERE! YOUKO!
+TP
+//太一「……………………」
+Taichi: "............"
+TP
+
+//あれえ。
+Well now.
+//Sorta girly. -GHS
+TP
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfCCC4007mki001
+//美希「すんごく裂けてます、わたしの腕」
+Miki: "This arm of mine is trrremendously torn open."
+//すんごく seems just a cutesy/odd way of saying it, not a dialect. -GHS
+TP
+
+//太一「あわわ」
+Taichi: "AhWahWah!"
+//Quite girly. -GHS
+TP
+
+//仕方ない、俺が手当てするしか。
+No avoiding this, then, I'll just have to just administer aid myself won't I.
+TP
+
+//袖をまくりあげる。
+I roll up her sleeve,
+TP
+
+//傷口のある部分を見る。
+to see the area where the mouth of the cut is.
+TP
+
+//太一「う……」
+Taichi: "Ngh..."
+TP
+
+//やっぱり血の匂いはきつい。
+The odor of blood is harsh as I expected.
+//Odor. Staring right at it? No problem! -GHS
+TP
+
+//洗濯ばさみで鼻をつまんだ。
+I pinch down my nose with a clothespin.
+//Where'd he find that in an infirmary? Wait, I don't want to know. See CCB2002 - Touko. Ah, but there's one big problem now: he's got no problem SWALLING the odor of blood. Shouldn't that be, you know, even worse? -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4007mki002
+//美希「それは？」
+Miki: "What's that?"
+TP
+
+//太一「ごねでのし（これでよし）」
+Taichi: "Dish bill be bine (this will be fine)."
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC4007mki003
+//美希「……まさか治療の一環？」
+Miki: "...don't tell me that's part of the medical treatment?"
+TP
+
+//勝手に納得してくれた。
+I let her draw whatever conclusion she liked.
+//See CCB0008B. Although she should know it won't be, this is still Miki getting carried away a little too easily... -GHS
+TP
+
+//ええと……まず水で……。
+Uhmmm... first, water...
+TP
+
+//洗面器の水で、血を洗い流す。
+I was away the blood with the water in the rinse basin.
+//Which was there. Somehow. Left behind despite humanity being gone. Like it was in the toilets, and home, and more. More and more credible, isn't it. -GHS
+TP
+
+//ほっとする。
+Relieved sigh.
+TP
+
+//美希「……………………」
+Miki: "............"
+TP
+
+//美希は俺を推し量るように、じっと見つめていた。
+Miki was staring at me, fixed, as if conjecturing about me.
+//Regarding Youko's death, which she almost certainly knows about already. -GHS
+TP
+
+//消毒……。
+Disinfectant...
+TP
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCC4007mki005
+//美希「みぎゃー」
+Miki: "Mgh'yaaah!"
+//right? -GHS
+TP
+
+//染みたらしい。
+Looks like it permeated.
+TP
+
+//もういっちょ。
+Once moah'.
+//Osaka-ben -GHS
+TP
+
+GL 1 TCYM0004
+GI 1 0
+//HACK hurts!!! -GHS
+
+WVP 0 vfCCC4007mki006
+//美希「はぎゃー」
+Miki: "Hgh'yaaah!"
+//clover????? -GHS
+TP
+
+//こんなもんか。
+Like this I guess.
+TP
+
+//ガーゼ。
+Gauze.
+TP
+
+//包帯。
+Dressing.
+TP
+
+//包帯どめ。
+Dressing's crap.
+//See CCA0017A -GHS
+TP
+
+//そでを戻す。
+I roll down the sleeve.
+TP
+
+//太一「ふう」
+Taichi: "Whew."
+TP
+
+//洗濯ばさみはもういらない。
+I don't need the clothespin anymore.
+TP
+
+WVS 1 1
+
+//太一「オペ終了」
+Taichi: "Surgery completed."
+TP
+
+GL 1 TCYM0002
+//HACK sadder Miki -GHS
+GI 1 0
+WVP 0 vfCCC4007mki007
+//美希「……ジンジンします、傷口が痺れる感じです」
+Miki: "...I'm still tingly, and I feel numb around the cut."
+TP
+
+//太一「それは恋だ」
+Taichi: "That's the love."
+TP
+
+GL 1 TCYM0004
+GI 1 0
+//HACK See? Totally taking this too seriously. -GHS
+
+
+WVP 0 vfCCC4007mki008
+//美希「こ、これが恋」
+Miki: "Th-, this is love."
+TP
+
+//太一「しかもトゥルーラブだ。好感度は８９％。間違いないね」
+Taichi: "Furthermore, it's Twue Wuv. Favorability rating at 89%. No mistake about it."
+//Seems to be the "love meter". 89->17->8, so of course it's a load. -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4007mki009
+//美希「そーかー。これが恋……」
+Miki: "So it is. This is love..."
+TP
+
+WVP 1 bgm021.ogg 0 0 0
+
+//太一「恋の花咲く気分はどうか」
+Taichi: "How does it feel for your love to bloom?"
+//SMOOTH. -GHS
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC4007mki010
+//美希「……わかりません。恋する間もない人生でした」
+Miki: "...I don't get it. I have never fallen in love not once in my life."
+TP
+
+//太一「くっ、泣かせやがる」
+Taichi: "Sob, you're making me cry."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4007mki011
+//美希「というか、血の苦手な先輩に手当てさせちゃってすみません」
+Miki: "Or, should I say, sorry for having you give me medical assistance when blood is your weak spot, Senpai."
+//No "how does she know"... then again, he never questioned her using Mimi-senpai not once. -GHS
+TP
+
+//太一「なに。医者もいないし、怪我は一大事だ。自愛してくれ」
+Taichi: "What for. There's no doctors anymore, injuries are a very big deal. We gotta take care of ourselves."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4007mki012
+//美希「自愛してます……すごく……」
+Miki: "Take care of ourselves... very much so..."
+//See route ending. -GHS
+TP
+
+//太一「ならよし」
+Taichi: "It'll go fine."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+//HACK happy Miki -GHS
+
+WVP 0 vfCCC4007mki013
+//美希「なにかお礼しないといけないですね」
+Miki: "I still feel I must give some as an expression of gratitude."
+TP
+
+//太一「下着の一枚でもくれれば」
+Taichi: "If you would give me one pair of underwear, then."
+TP
+
+GL 1 TCYM0041
+GI 1 0
+WVP 0 vfCCC4007mki014
+//美希「……うーおー、たけぇ……」
+Miki: "...whoooa, steeep..."
+TP
+
+//太一「冗談だ。霧ちんに殺される」
+Taichi: "Just kidding. Kiri-chin'd kill me."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4007mki015
+//美希「他にご希望の品は？」
+Miki: "Any other desired articles?
+TP
+
+//太一「んー、ファーストキスはもうもらったしなぁ」
+Taichi: "Hmmm, the first kiss I already got, didn't I..."
+TP
+
+GL 1 TCYM0041
+GI 1 0
+WVP 0 vfCCC4007mki016
+//美希「ぐ、そうでした……」
+Miki: "Guh, indeed you have..."
+TP
+
+//ミキミキはショックを受けた。
+Miki-Miki got shocked.
+TP
+
+//太一「思い出にせよ」
+Taichi: "Though you got memories!"
+TP
+
+WVP 0 vfCCC4007mki017
+//美希「イヤでもこの思い出を抱えて生きていくわたし……」
+Miki: "Whether I like it or not, I will have to live with this memory with me I will..."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4007mki018
+//美希「エロ以外でありませぬか？」
+Miki: "Is there nothing outside the sexual?"
+TP
+
+//太一「うーん……デート……」
+Taichi: "Hmmm... a date..."
+TP
+
+//閃く。
+Inspiration.
+TP
+
+//太一「ダブルデート」
+Taichi: "Double date!"
+TP
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC4007mki019
+//美希「え、どの組み合わせで？」
+Miki: "Eh, in what combination?"
+TP
+
+//太一「あー、俺と、美希と霧ちん」
+Taichi: "Ahhh, me, and Miki, and Kiri-chin."
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC4007mki020
+//美希「女の子がダブルなだけじゃないですか」
+Miki: "Isn't that a double only in women?"
+//Well, she accumulated enough Princess Stamps for a Triple by this point. -GHS
+TP
+
+//太一「で、俺のことをふたりじめしてくれ」
+Taichi: "Well, please count me as two."
+//二人締め? Seems to be Osakan. And of course she can count him as two, though his other is still another "girl". I know Youko is Taichisexual, and also Taichi in drag, but can we have those Kiri/Youko fanfics already? -GHStillHereToHelp
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4007mki021
+//美希「まあ、そのくらいでよければ」
+Miki: "Well, if you want me to."
+TP
+
+//太一「いいの？」
+Taichi: "It's OK then?"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4007mki022
+//美希「いいですよ」
+Miki: "It is!"
+TP
+
+//両手に花だな。
+A flower in both hands then.
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC4007mki023
+//美希「……一人だったらどーしよっかなーって感じでしたけど、霧ちんが一緒なら全然ＯＫです」
+Miki: "...if I was alone I'd just feel all like, ohhh what do I do, but if Kiri-chin comes with it'll be all okieh!"
+TP
+
+//太一「警戒されているらしい」
+Taichi: "You seem to be vigilant."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4007mki024
+//美希「してまーす」
+Miki: "I aaam!"
+TP
+
+WVP 0 vfCCC4007mki025
+//美希「先輩は、あぶないですからー」
+Miki: "Because Senpai is sooo dangerous!"
+TP
+
+//太一「ははははは」
+Taichi: "Hahahahahah!"
+TP
+
+//けれど美希は知らない。
+However, Miki doesn't know,
+TP
+
+//俺が本当に、危険であることを。
+how I am, in fact, dangerous.
+//Poor boy's about to be totally pwnt3r3@d (sp). -GHS
+TP
+
+//衝動。
+Urges.
+TP
+
+//時折、身じろぐ。
+They stir, sometimes.
+TP
+
+//俺はそういうものと、闘っている。
+And those are what I struggle against.
+//His "INTERNAL DEMaNS" are just another part of his chuuni setting. (Except for the one(s) that aren't.) -GHS
+TP
+
+//太一「美希っちにはいろいろ世話になりっぱなしだな」
+Taichi: "Got lots and lots of stuff to be grateful for to you, Mikicchi."
+TP
+GL 1 TCYM0000
+GI 1 0
+//美希「？」
+Miki: "?"
+TP
+
+//太一「月曜も助けてもらったし……サンキューな」
+Taichi: "You also saved me on Monday... thanks, lots."
+TP
+
+WVP 0 vfCCC4007mki027
+//美希「……んまあ……どってことは」
+Miki: "...mh, well... that wasn't really..."
+TP
+
+//太一「霧ちん助けた動きは良かったなー。別人かと思ったぞ」
+Taichi: "The way you moved to save Kiri-chin that was sooo awesome. I totally thought you were someone else!"
+//See CCA0027 (almost forgot!) -GHS
+TP
+
+//太一「本当に……」
+Taichi: "Seriously..."
+TP
+
+//見違えるほどに敏捷で。
+She had agility at a level beyond recognition.
+TP
+
+//けど美希って、そんな鋭かったかな。
+But I wonder, was Miki always that keen?
+TP
+
+//俺を引きずって、自宅まで運んだんだっけ。
+And she had dragged me, moved me all the way to my home, right?
+TP
+
+//そんな力、あるのかな。
+Does she even have that kind of strength?
+TP
+
+//太一「蹴りも鋭かったし……そういえば……」
+Taichi: "Your kicks were also sharp... now that I recall..."
+TP
+
+//考え込む。
+I ponder, deeply.
+TP
+
+//なにか引っかかっている。
+Something is worrying me very much.
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC4007mki028
+//美希「あ、あのー」
+Miki: "Ah, uhmmm!"
+TP
+
+//太一「ん？」
+Taichi: "Hm?"
+TP
+
+GL 1 zzzMikiZoom1
+GP 1 90 0
+GI 1 1
+//HACK IN YOUR FACE -GHS
+
+WVP 0 vfCCC4007mki029
+//美希「……ちゅ」
+Miki: "...pchk!"
+//Sexual distractions. Of course she can have learned that herself, but that Nanaka is still the major source of them so far ought be suspicious. -GHS
+TP
+
+//頬に。
+On the cheek.
+TP
+
+//曜子ちゃん以外からされたのは初めてだった。
+Outside of Youko-chan, this was the first time this happened to me.
+//Ouch. -GHS
+TP
+
+GL 1 TCYM0003
+GP 1 180 0
+GI 1 1
+//HACK fade the doll, correct position. -GHS
+WVP 0 vfCCC4007mki030
+//美希「お礼の前払いですっ」
+Miki: "Advance payment on gratitude!"
+TP
+
+//太一「お、お、お釣り払っちゃうんだからしてっ！」
+Taichi: "I-, I-, I am giving you the chaaange!"
+TP
+
+//俺は美希に飛び込んでいく。
+I leap onto Miki.
+TP
+GL 4 sgcc0015
+$CGsgcc0015 = 1
+GO 1 0
+GI 4 0
+WVP 2 se106 1 0
+//SEF 101 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake. -GHS
+
+
+WVS 1 1
+
+WT 1000 0
+WT 500 1
+GL 4 sgcc0015s
+$CGsgcc0015s = 1
+GL 0 bgcc0012s
+GS 4 1
+GS 0 1
+SEF 109 0
+GL 0 bgcc0000d
+GS 0 1
+GS 4 0
+SEF 109 1
+//This turns everything sepia. Very interesting, given zubaaan is not supposed to happen. -GHS
+
+WT 1000 0
+WT 500 1
+
+RET

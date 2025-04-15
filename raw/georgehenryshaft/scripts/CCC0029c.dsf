@@ -1,0 +1,60 @@
+
+GL 0 bgcc0010
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+
+WVP 1 bgm016.ogg 0 0 0
+
+
+
+//部室。
+The club room.
+//CP CCC0029B
+TP
+
+//友貴がいるかと思ったが、無人だった。
+I was wondering whether Tomoki was here, but it was deserted.
+//CP CCC0029B
+TP
+
+//きっと『部活』に精を出しているのだろう。
+He's working hard at his 'club', I'm sure.
+//CP CCC0029B
+TP
+
+//となれば、今頃は町中か。
+And if he is, right now he'd be downtown.
+//CP CCC0029B
+TP
+
+//太一「……静かだな」
+Taichi: "...quiet, innit."
+TP
+
+//一人になると、わかる。
+When I am alone I understand.
+TP
+
+//人がいないだけで、こうも静まるものか。
+Do things not quiet down this much only when there are no people?
+TP
+
+//雰囲気が透けて、空間が広く感じられた。
+The atmosphere goes transparent, the space gives the impression of vastness.
+//It's another day in that Blue so infinitely close to transparent... -GHS
+TP
+
+//静穏。
+Serenity.
+TP
+
+//雑踏は永遠に失われている。
+The bustle of crowds lost for all eternity.
+TP
+
+WVS 1 1
+
+RET

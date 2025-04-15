@@ -1,0 +1,671 @@
+
+
+WVP 1 bgm012.ogg 0 0 0
+
+
+GL 2 TCYM0000
+GP 1 40 0
+GP 2 340 0
+GS 2 1
+SEF 109 0
+
+
+WVP 0 vfCCC4001mki000
+Miki: "Heeellooo."
+TP
+
+It wasn't long before Miki arrived.
+TP
+
+Bringing Kiri with her.
+TP
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfCCC4001msa000
+Misato: "......Yamanobe-san?"
+TP
+
+GL 2 TCYM0003
+GI 2 0
+
+WVP 0 vfCCC4001mki001
+Miki: "I am Yamanobe Miki. I have come."
+TP
+
+GL 2 TCYM0000
+GI 2 0
+
+WVP 0 vfCCC4001mki002
+Miki: "Come on, Kiri-chin, greet her."
+//Her voice pauses there like a comma so I decided to add it in.-Spin
+TP
+
+GL 3 TCSK0000
+GP 2 0 0 0
+GP 3 320 0 0
+GS 3 1
+GS 1 0
+SEF 109 0
+WVP 0 vfCCC4001kri000
+Kiri: "......hello."
+TP
+
+GL 2 TCYM0001
+GI 2 0
+WVP 0 vfCCC4001mki003
+Miki: "Your voice is too low. I can't hear you!"
+TP
+GL 3 TCSK0003
+GI 3 0
+
+WVP 0 vfCCC4001kri001
+Kiri: "......he-heeello!"
+TP
+
+GL 2 TCYM0001
+GI 2 0
+WVP 0 vfCCC4001mki004
+Miki: "Not 'heeello.' It's 'good morning,' isn't it!?"
+//Felt a little out of place there. It sounds better this way in that context anyway, especially with the voices.-Spin
+TP
+GL 3 TCSK0000
+GI 3 0
+WVP 0 vfCCC4001kri002
+Kiri: "G-good morning."
+TP
+
+WVP 0 vfCCC4001mki005
+Miki: "Your 『g』 and 『d』 and 『m』 and 『i』 were too soft. One more time!"
+TP
+
+She smacked her butt.
+TP
+
+So preciiise!
+TP
+
+GL 3 TCSK0004
+GI 3 0
+WVP 0 vfCCC4001kri003
+Kiri: "Kya!......Don't hit me......"
+TP
+
+Kiri's posture was straightened via her butt.
+TP
+
+I want to be straightened too.
+TP
+GL 3 TCSK0000
+GI 3 0
+
+WVP 0 vfCCC4001kri004
+Kiri: "G-good morning."
+TP
+
+She lowered her head.
+TP
+GL 2 TCYM0011
+GI 2 0
+WVP 0 vfCCC4001mki006
+Miki: "Yep, yep."
+TP
+
+Miki-chin can be sadistic at times.
+TP
+Taichi: "What the heck was that bow!? Aren't you four degrees short---!---?"
+TP
+GL 5 bgcc0000e
+GL 4 sgcc0013
+$CGsgcc0013 = 1
+GI 5 0
+GS 5 0
+GS 4 1
+GS 3 0
+GS 2 0
+GS 1 0
+WVP 2 se100 1 0
+SEF 109 0
+
+WT 500 0
+WT 1000 1
+
+GL 0 bgcc0007
+GS 0 1
+GS 4 0
+SEF 109 0
+
+
+
+GL 1 TCYM0000
+GP 1 180 0
+GI 1 1
+WVP 0 vfCCC4001mki007
+Miki: "......you're putting considerable stress on the delicate Kiri-chin. It's best not to do that."
+TP
+
+Taichi: "Tell me that sooner......"
+TP
+
+I felt sad after Miki told me.
+TP
+GL 2 TCMM0000
+GP 2 40 0
+GP 1 320 0
+GS 1 1
+GS 2 1
+SEF 109 0
+WVP 0 vfCCC4001msa001
+Misato: "Ummmm, what are you two here for?"
+TP
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4001mki008
+Miki: "We've come to participate in the club."
+TP
+
+GL 2 TCMM0005
+GI 2 0
+WVP 0 vfCCC4001msa002
+Misato: "Ah, but......there's nothing I really need you to......"
+TP
+
+WVP 0 vfCCC4001mki009
+Miki: "We've come to participate."
+TP
+
+WVP 0 vfCCC4001msa003
+Misato: "Umm, well, you've been skipping until now......"
+TP
+
+WVP 0 vfCCC4001mki010
+Miki: "We've come to participate."
+TP
+
+WVP 0 vfCCC4001msa004
+Misato: "I'd been thinking about doing it on my own, so it's okay if you all don't come......"
+TP
+
+WVP 0 vfCCC4001mki011
+Miki: "We've come to participate."
+TP
+
+Sempai desperately tried to refuse.
+TP
+
+So the objective of this club was 'flight.'
+//Is it still fresh enough in everyone's minds that they'll know "flight" is the past participle of "flee"? If not, edit. ～IX
+//Yeah, it is for me - Sheeta
+TP
+
+Taichi: "As I expected."
+TP
+
+My power to observe humans is now infinitely near to God's.
+TP
+
+GL 1 TCYM0011
+GI 1 0
+WVP 0 vfCCC4001mki012
+Miki: "We have come to participate in club activities!"
+TP
+
+And Miki kept pushing.
+TP
+
+WVP 0 vfCCC4001msa005
+Misato: "Ummm......hmmm......"
+TP
+
+Taichi: "Nothing can be done by averting your eyes from reality. There's nothing left for us to do but rot away here, so let's give up and enjoy the present!"
+TP
+
+WVP 0 vfCCC4001msa006
+Misato: "Awww, Peke-kun, you're so..."
+TP
+GL 4 sgcc0014
+$CGsgcc0014 = 1
+WVP 2 se106
+GI 4 0
+SEF 101 0
+Cheerfully.
+TP
+
+But, strongly.
+TP
+GO 4 1
+
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC4001mki013
+Miki: "Now, your orders."
+TP
+
+GL 2 TCMM0031
+GI 2 0
+WVP 0 vfCCC4001msa007
+Misato: "Ummmm, that's tough..."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4001mki014
+Miki: "Eheheh."
+TP
+
+GL 2 TCMM0000
+GI 2 0
+WVP 0 vfCCC4001msa008
+Misato: "......is Sakura-san helping too?"
+TP
+
+GL 3 TCSK0003
+GP 1 -80 0 0
+GP 2 225 0 0
+GP 3 400 0 0
+GS 2 1
+GS 3 1
+SEF 109 0
+WVP 0 vfCCC4001kri005
+Kiri: "I-I was just......forced by Miki......"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4001mki015
+Miki: "Unmanageable lust."
+TP
+
+She muttered.
+TP
+
+GL 3 TCSK0000
+GI 3 0
+WVP 0 vfCCC4001kri006
+Kiri: "Please let me participate."
+TP
+
+Kiri said after straightening her back.
+TP
+
+GL 2 TCMM0000
+GI 2 0
+WVP 0 vfCCC4001msa009
+Misato: "......haa, so it can't be helped."
+TP
+
+WVP 0 vfCCC4001msa010
+Misato: "Then......I'll have you help......"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4001mki016
+Miki: "Yaaay, a school youth drama! ......Kiri-chin?"
+TP
+GL 3 TCSK0002
+GI 3 0
+
+WVP 0 vfCCC4001kri007
+Kiri: "......y-yaay......a school youth dramaaa......haa."
+TP
+
+GL 2 TCMM0031
+GI 2 0
+
+WVP 0 vfCCC4001msa011
+Misato: "Still, why so suddenly......?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4001mki017
+Miki: "It's the result of Miki's trial and error. Well, don't worry about it."
+TP
+
+Taichi: "......so it's decided."
+TP
+GL 2 TCMM0001
+GI 2 0
+
+WVP 0 vfCCC4001msa012
+Misato: "So you'll be participating too."
+TP
+
+Taichi: "I'm sorry......but Miki is just......"
+TP
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4001mki018
+Miki: "......adorable elephant."
+TP
+
+She muttered.
+TP
+
+Taichi: "I do so through my own will, your excellency."
+TP
+
+I saluted her as I spoke.
+TP
+GL 2 TCMM0004
+GI 2 0
+WVP 0 vfCCC4001msa013
+Misato: "Peke-kun has become a military man!?"
+TP
+
+Taichi: "What be saying you?"
+TP
+
+Taichi: "Kurosu Taichi has not once forgotten his Prussian mentality."
+TP
+
+GL 2 TCMM0001
+GI 2 0
+WVP 0 vfCCC4001msa014
+Misato: "Aren't you being a stereotypical Mongoloid?"
+TP
+
+Taichi: "Either way I'm a Japanese-Prussian."
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC4001mki019
+Miki: "So it's something like the Japanese Alps."
+TP
+
+Taichi: "Just as you say."
+TP
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4001mki020
+Miki: "Since Sempai and Kiri-chin are both perfectly fine kids, please make use of them."
+TP
+
+GL 2 TCMM0031
+GI 2 0
+WVP 0 vfCCC4001msa015
+Misato: "......I see. In that case, I'll ask you for help up to your eyeballs."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4001mki021
+Miki: "For now, I was thinking they could carry necessary stuff that was too heavy for you."
+TP
+
+Little devil......
+TP
+
+GL 3 TCSK0004
+GI 3 0
+WVP 0 vfCCC4001kri008
+Kiri: "......I can't carry anything heavy either......"
+TP
+
+Kiri looked like she was about to cry.
+TP
+
+For now,
+TP
+
+The hokora visit is canceled......
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+SEF 152 0
+WT 500 0
+WT 500 1
+GL 0 bgcc0011a
+GS 0 1
+SEF 152 0
+
+After a few hours,
+TP
+
+Club activities ended.
+TP
+
+We left the building and looked up at the roof.
+TP
+
+We could see the tip of the antenna.
+TP
+
+Beside it,
+TP
+
+Sempai was still there.
+TP
+
+Taichi: "......"
+TP
+
+Working hard at her club.
+TP
+
+Truly like a student.
+TP
+
+But that student healthiness of hers is being used for flight.
+TP
+
+But that aside,
+TP
+
+Taichi: "......ho."
+TP
+
+I was tired.
+TP
+GL 1 TCSK0002b
+GP 1 220 0
+GI 1 1
+
+
+WVP 0 vfCCC4001kri009
+Kiri: "......ho."
+TP
+
+We're that similar?
+TP
+
+GL 2 TCYM0003b
+GP 1 40 0
+GP 2 320 0
+GS 1 1
+GS 2 1
+SEF 109 0
+WVP 0 vfCCC4001mki022
+Miki: "That was a fulfilling day..."
+TP
+
+That would be the case,
+TP
+
+Except that you employed other people.
+TP
+
+Waving a baton around while giving orders.
+TP
+
+Taichi: "Well, I'm going this way."
+TP
+
+I walked away.
+TP
+GL 1 TCSK0000b
+GI 1 0
+WVP 0 vfCCC4001kri010
+Kiri: "......see you, Miki."
+TP
+
+
+GL 2 TCYM0000b
+GI 2 0
+WVP 0 vfCCC4001mki023
+Miki: "Yeah, bye-bye."
+TP
+GS 1 0
+GS 2 0
+SEF 109 0
+
+Footsteps behind me.
+TP
+GL 1 TCYM0003b
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC4001mki024
+Miki: "Let's go together until the shopping district."
+TP
+
+Miki lined up with me.
+TP
+
+Taichi: "Let us do so, and do so freely."
+//I'm not sure if that second "do so" was a typo so I just left it. Just leaving a note here for you to correct me later.-Spin
+TP
+
+I felt tired.
+TP
+GL 1 TCYM0001b
+GI 1 0
+WVP 0 vfCCC4001mki025
+Miki: "Weeell, I was able to develop 'those.'"
+TP
+
+Miki had done that in the Photography Club's room during our club activities.
+TP
+
+Taichi: "......if I think about it, aren't there only eight people to show those to? Six if you exclude us."
+TP
+
+GL 1 TCYM0003b
+GI 1 0
+WVP 0 vfCCC4001mki026
+Miki: "Kiri-chin said the same thing. So, will you quit the club?"
+TP
+
+Taichi: "......well, I've hung out with you this far. Do as you wish."
+TP
+
+WVP 0 vfCCC4001mki027
+Miki: "Ehaha."
+TP
+
+GL 1 TCYM0000b
+GI 1 0
+WVP 0 vfCCC4001mki028
+Miki: "Sempai is strong, isn't he?"
+TP
+
+Taichi: "Am I?"
+TP
+
+GL 1 TCYM0003b
+GI 1 0
+WVP 0 vfCCC4001mki029
+Miki: "I enjoy watching a man carry stuff. It was worth loaning you to the club."
+TP
+
+Was that the only reason......?
+TP
+GL 1 TCYM0011b
+GI 1 0
+WVP 0 vfCCC4001mki030
+Miki: "Bravo for your hard work. I'll buy you some juice at the Tasaki Shop."
+TP
+
+Taichi: "Ha, ha, ha. Thank you very much."
+TP
+
+My face was becoming tense.
+//Is that another idiom?-Spin
+TP
+
+This girl......
+TP
+
+Taichi: "Well, maybe it's better to have something to do."
+TP
+
+GL 1 TCYM0003b
+GI 1 0
+WVP 0 vfCCC4001mki031
+Miki: "It is, it is."
+TP
+
+Taichi: "I can think about the little things slowly."
+TP
+
+GL 1 TCYM0000b
+GI 1 0
+WVP 0 vfCCC4001mki032
+Miki: "......let's have our school youth drama this week."
+TP
+
+Taichi: "What about next week?"
+TP
+
+GL 1 TCYM0021b
+GI 1 0
+WVP 0 vfCCC4001mki033
+Miki: "Nnn. Eight men and women on a journey searching for the survivors of humanity......or something."
+TP
+
+Taichi: "That would be fun."
+TP
+
+In these times.
+TP
+
+Until the eight of us become zero.
+TP
+
+Taichi: "But, I'd prefer to do normal things here."
+TP
+
+Since it's humanity's nature, it should be just fine to do what's normal.
+TP
+
+GL 1 TCYM0000b
+GI 1 0
+WVP 0 vfCCC4001mki034
+Miki: "......I see."
+TP
+
+GL 0 bgcc0014a
+GS 0 1
+GS 1 0
+SEF 152 0
+We arrived.
+TP
+
+Miki really did buy it for me.
+TP
+
+WVS 1 1
+
+Taichi: "This really does feel like a normal day."
+TP
+
+GL 1 TCYM0003b
+GI 1 1
+WVP 0 vfCCC4001mki035
+Miki: "Yes♪"
+TP
+
+The evening sun shone upon the sky.
+TP
+
+It made me think back on the setting sun of humanity.
+//The "now," really screwed the dramatic flow of this line.-Spin
+TP
+
+RET

@@ -1,0 +1,35 @@
+
+//太一「誰かこれぞってカワイコちゃんと食わせてもらうよ」
+Taichi: "I'll be eating these with some cute Kawaiiko-chan then."
+//It means kawaii-uguu-nano-desu-nya -GHS
+TP
+
+WVP 0 vfCCC0004byou000
+//曜子「……………………」
+Youko: "............"
+TP
+
+//ぴく、とあからさまに頬が引きつった。
+Ping, and the cheeks stiffened, unabashed.
+TP
+
+//こころなしか恨みがましい目つき。
+A somewhat resentful look in her eyes.
+TP
+
+//太一「なにか問題でもありますか？」
+Taichi: "Could there be any problem with this?"
+//Formal -GHS
+TP
+
+GL 1 TCHY0001
+GI 1 0
+WVP 0 vfCCC0004byou001
+//曜子「……ないわ」
+Youko: "...none, no."
+TP
+
+//太一「そりゃ結構」
+Taichi: "That's splendid."
+TP
+RET

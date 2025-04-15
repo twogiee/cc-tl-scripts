@@ -1,0 +1,776 @@
+//Saturday September 12, 1998 -GHS
+
+//GL 0 bgcc0007
+GL 0 zzzrooftopzoom
+GS 0 1
+SEF 152 1
+//HACK boy have we not seen the last of this yet... -GHS
+
+WVP 1 bgm002.ogg 0 0 0
+
+
+//太一「……さてと」
+Taichi: "...well then."
+TP
+
+
+
+//まだ気温もそう高くない午前中。
+Mid-morning, when the temperature is still not so high,
+TP
+
+
+
+//一人屋上に来る。
+I come to the rooftop, alone.
+TP
+
+
+
+//アンテナと土台の鉄塔を見あげる。
+I look up at the steel tower that makes up the infrastructure of the antenna.
+TP
+
+
+
+//確かにこれは……一人で行う作業じゃないな。
+This is... certainly not a job that can be performed alone, isn't it.
+TP
+
+
+
+//素人によっていびつに組み立てられたアンテナ。
+A warped antenna, assembled by novices.
+TP
+
+
+
+//波長と指向性の怪物みたいな姿になっていた。
+Its shape became like that of a monster of wavelength and directionality.
+//Oh c'mon, it still makes sense so far. -GHS
+TP
+
+
+
+//太一「さて」
+Taichi: "Then,"
+TP
+
+
+
+//作業に取りかかることにした。
+I decided to set about work.
+TP
+
+
+
+//とはいえ、専門知識などないに等しい。
+Or so I do, with my specific technical knowledge approximable to nonexistent.
+TP
+
+
+
+//けど平気だ。
+But I'll be alright.
+TP
+
+
+
+//見里先輩にそれとなく探りを入れて聞きだしてある。
+I have asked Misato-senpai using indirect investigative methods.
+//Translation: "I sorta looked at what she was doing". -GHS
+TP
+
+
+
+//太一「確か……こうで……こう」
+Taichi: "I'm sure... like this and... this."
+TP
+
+GO 0 1
+//HACK fade to black -GHS
+
+
+//……。
+...
+TP
+
+
+
+//…………。
+......
+TP
+
+
+
+//………………。
+.........
+TP
+
+GI 0 1
+//HACK back screen
+
+
+//太一「くそ、わからん」
+Taichi: "Dammit, I got no idea."
+TP
+
+
+
+//黒須太一、文明の利器にはちと弱め。
+Kurosu Taichi: slightly weakened by the conveniences of civilization.
+TP
+
+
+GL 1 TCST0000
+GP 1 200 0
+GI 1 1
+
+WVP 0 vmcca0029yki000
+//友貴「……なにしてんのさ」
+Tomoki: "...what'cha doing now."
+TP
+
+
+
+//太一「いや、こうやって作業進めておけばぺけくんすごいです大感動です濡れちゃいますブチューッ……みたいな。よっ、友貴先生」
+Taichi: "'Wow, the work has progressed this much, Peke-kun sugoi!, Prezy super deeply moved, Prezy sooo wet, kissy-kissy!'... or words to that effect. That is my goal. Hail, Tomoki-Sensei."
+//Should be obvious from context what he means? As if I cared! Random Japanese is funny in its own way. 'buchuu' sounds close to 'buchou', so tweaked to fit both, because... -GHS
+TP
+
+GL 1 TCST0005
+GI 1 0
+
+WVP 0 vmcca0029yki001
+//友貴「ブチューはないだろう」
+Tomoki: "Prezy-kiss ain't happening though."
+//Ick. See CCA0015B for the first time this pun came 'round. He's wrong, see CCC4019 for the payoff to this. -GHS
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+
+WVP 0 vmcca0029yki002
+//友貴「部活か」
+Tomoki: "Club activities?"
+TP
+
+
+
+//太一「そうそう」
+Taichi: "Yeppy yep."
+//See CCA0003. -GHS
+TP
+
+
+
+//友貴は気怠げに地べたに座る。
+Languidly Tomoki sits on the bare ground.
+TP
+
+
+
+WVP 0 vmcca0029yki003
+//友貴「ほれ」
+Tomoki: "Here."
+TP
+
+
+
+//太一「お、サンキュ」
+Taichi: "Oh, thank ye."
+TP
+
+
+
+//缶ジュース。
+Canned juice.
+//See CCD1001. -GHS
+TP
+
+
+
+//あまり冷えてはいなかったけど。
+Wasn't particularly cold, though.
+//There's no fridge anywhere near, though those of Misato's were cold (fnarr, fnarr). -GHS
+TP
+
+
+
+WVP 0 vmcca0029yki004
+//友貴「……太一は、どうしてそんな熱心なん？」
+Tomoki: "...Taichi, why all this enthusiasm?"
+TP
+
+
+
+//太一「お、マジ質問青春風味」
+Taichi: "Ohhh, it's Seriously Questioning Adolescent flavored!"
+//The juice. -GHS
+TP
+
+
+GL 1 TCST0003
+GI 1 0
+
+WVP 0 vmcca0029yki005
+//友貴「わけワカメだよ」
+Tomoki: "That don't seaweed into sense."
+//S/b Segue. -GHS
+TP
+
+
+
+//太一「ちょー面白い、そのギャグ」
+Taichi: "Hyyyper funny, that joke."
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+
+WVP 0 vmcca0029yki006
+//友貴「おいおい、おまえ自分でこんなモノ寄こしておいてはぐらかすなや」
+Tomoki: "Come on, come on, you hand over this stuff my way by your own, don't go dodging it!"
+TP
+
+
+
+//友貴は一通のハガキを出した。
+Tomoki took out a postcard.
+TP
+
+
+
+//太一「寄こしたというか、人間の手で投函したんだけどな」
+Taichi: "Handed over, or should you say, posted by human hands don't you."
+//Meaning he put them in their mailboxes manually. Whether the mailman delivers or not is actually irrelevant. See CCC3017. -GHS
+TP
+
+
+
+
+
+WVP 0 vmcca0029yki007
+//友貴「……どうして部活なん？」
+Tomoki: "...why activities now?"
+//This ends with a Kansai ~nan. -GHS
+TP
+
+
+
+//太一「俺からも一つ、いいか」
+Taichi: "I have one question, if I may."
+TP
+
+
+
+//真面目な顔で。
+With a straight face.
+TP
+
+
+
+WVP 0 vmcca0029yki008
+//友貴「ん？」
+Tomoki: "Hm?"
+TP
+
+
+
+//太一「おまえと……姉さんに関わることだけど、いいか？」
+Taichi: "It's about... you and your nee-san, however. Can I?"
+TP
+
+GL 1 TCST0004
+GI 1 0
+
+
+WVP 0 vmcca0029yki009
+//友貴「…………」
+Tomoki: "......"
+TP
+
+
+
+//太一「真面目な質問だ」
+Taichi: "It's a serious question!"
+TP
+
+
+
+WVP 0 vmcca0029yki010
+//友貴「……ＯＫ。なに？」
+Tomoki: "...OK. What?"
+TP
+
+
+
+//太一「うん」
+Taichi: "Well,"
+TP
+
+
+
+//少しこわごわと、質問を押し出す。
+With a little nervousness I push out the question.
+//See CCA0030. Hmmm. -GHS
+TP
+
+
+
+//太一「どうしておまえは関東の人間なのにたまに『～なん？』とか『そうやん』とかのエセ関西弁をまじえるんだ？」
+Taichi: "How come you're from Kanto but you drop in some fake-Kansai accent in your sentences?"
+//No need to specify more, since nothing of that is understandable any way through the translation unless I were to attempt making his speech sound way more absurd than this one single sentence deserves. And gladden me with understanding that I could -GHS
+TP
+
+GL 1 TCST0003
+GI 1 0
+
+WVP 0 vmcca0029yki011
+//友貴「最高に姉貴と関係ない質問だよ！！」
+Tomoki: "That's the single most unrelated question to Aneki!!!"
+//A total load, because Misato also drops some Kansai when flustered. He may be subconsciously trying to have something in common with her. Or, otherwise, he's trying to have a different accent to distance himself from her, Nations of the World-like.
+TP
+
+
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmcca0029yki012
+//友貴「帰る……」
+Tomoki: "I'm leaving..."
+//PCP CCA0027
+TP
+
+
+
+//太一「まーまー、待ちたまえよ。ロマンは一日にして成らずだ」
+Taichi: "Waiiit, waiiit, gladden me with holding on! Romance wasn't built in a day!"
+//...and see CCA0023, CCA0027, CCC0026. He's trying to repeat the Beach even here. Rome will return, with its SEVEN hills. -GHS
+TP
+
+
+GL 1 TCST0003
+GI 1 0
+
+WVP 0 vmcca0029yki013
+//友貴「気を抜いてくれてありがとう太一くん」
+Tomoki: "Thank you for making me waste some time, Taichi-kun."
+TP
+
+
+
+//太一「そうシニックになるな」
+Taichi: "Don't become so cynical!"
+//This was in English. Since cynicism and sarcasm are sorta the same word in Japanese, given they infamously don't really 'get' sarcasm, I suppose Tanaka wanted to be exact with the words here. As this distinction happens a few times, I rendered all the kanji versions as 'sarcasm'. -GHS
+TP
+
+
+
+//太一「つまりあれだよ。ほら、目的があった方が生き甲斐が出るだろ？」
+Taichi: "I mean this thing here! Come on, isn't having an objective the way to gaining something to live for?"
+//Antenna, club activities, AND Misato. -GHS
+TP
+
+
+GL 1 TCST0004
+GI 1 0
+WVP 0 vmcca0029yki014
+//友貴「……生き甲斐ね」
+Tomoki: "...something to live for, huh."
+TP
+
+
+
+WVP 0 vmcca0029yki015
+//友貴「けど生きる糧があるならそういうのもいいけどさ」
+Tomoki: "But once you have food to live, that'd be good to have, though."
+//Double but. Leaving it a tad ambiguous. After all, they don't exactly have much in the way of provisions. -GHS
+TP
+
+
+
+//太一「それにこういうの、憧れてたんだ」
+Taichi: "And this is the sort of thing that I have been longing for."
+TP
+
+
+
+GL 1 TCST0000
+GI 1 0
+WVP 0 vmcca0029yki016
+//友貴「こういうのって？」
+Tomoki: "This, what?"
+TP
+
+
+
+//太一「青春群像グラフティー」
+Taichi: "Vitelloni Graffitea."
+//青春群像 is a word meaning just that, but oddly enough, it's also the Japanese title of a seminal 1950s Fellini movie http://en.wikipedia.org/wiki/I_Vitelloni I suspect this may be a reference to that and not just the word because of the second part; that's a not-uncommon transliteration for Graffiti, which, regardless of movies, with the first word suggests American Graffiti. Which was set just a few years later than Vitelloni, though it's newer by two decades, so the two fit the tone. Plus the odd tweak at the end to make a flavor of tea, in both languages, there it is. Well, that, or I dunno at all. Oh, and it means what goes on in CCA0030, especially. -GHS
+TP
+
+
+
+//太一「どんな味なんだと思うよ？」
+Taichi: "What flavor do you think that has?"
+//Bitter and Sweet? -GHS
+TP
+
+
+GL 1 TCST0005
+GI 1 0
+WVP 0 vmcca0029yki017
+//友貴「いや、お茶じゃないから」
+Tomoki: "Nah, that ain't a tea."
+//As for what Tomoki gets, I dunno. -GHS
+TP
+
+
+
+//友貴は立ち上がり、アンテナの周囲をまわった。
+Tomoki gets up, and walks around the perimeter of the antenna.
+TP
+
+
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmcca0029yki018
+//友貴「それで……それだけで？」
+Tomoki: "With this... just with this thing?"
+TP
+
+
+
+//太一「することがあるのはいいもんだ」
+Taichi: "Well, if you have something to do yourself that's fine too."
+TP
+
+
+
+WVP 0 vmcca0029yki019
+//友貴「……あるじゃん。別に。物資探すとか、さ」
+Tomoki: "...to do, hmmm. Not really. Looking for goods and materials, maybe."
+TP
+
+
+
+//太一「少なくともこの部活は、希望がある」
+Taichi: "At least in these club activities there is some hope."
+TP
+
+
+
+WVP 0 vmcca0029yki020
+//友貴「絶望を確認することしかできないかもよ？」
+Tomoki: "This could do nothing but confirm that it's hopeless, ya know?"
+TP
+
+
+
+//太一「絶望を確認するという希望がある」
+Taichi: "Then there is the hope that we can confirm that it's hopeless."
+//Basically the only reason for anyone to write something this complicated, really. -GHS
+TP
+
+
+
+GL 1 TCST0004
+GI 1 0
+WVP 0 vmcca0029yki021
+//友貴「……わかんないよ、太一の考え」
+Tomoki: "...I just don't get the way you think, Taichi."
+TP
+
+
+
+//太一「そーかー？」
+Taichi: "Dooon't you nooow?"
+TP
+
+
+
+WVP 0 vmcca0029yki022
+//友貴「どうしてそんな楽しそうなんだ」
+Tomoki: "Why're you looking like you're having fun now."
+TP
+
+
+
+//太一「へっへ」
+Taichi: "Hehheh."
+TP
+
+
+
+GL 1 TCST0000
+GI 1 0
+WVP 0 vmcca0029yki023
+//友貴「ほんと、信じられないね」
+Tomoki: "Really, you're unbelievable."
+TP
+
+
+
+//友貴は腕で目元をぬぐった。
+Tomoki wiped his undereye with his arm.
+TP
+
+
+
+WVP 0 vmcca0029yki024
+//友貴「僕にわかるのは……このアンテナとモービル用機材の結線だけだ」
+Tomoki: "What I know is... just how to wire this antenna to the mobile equipment."
+TP
+
+
+
+//太一「とっとと頼む」
+Taichi: "Then help you whelp!"
+//not so much aggressive as sorta curt -GHS
+TP
+
+GL 1 TCST0003
+GI 1 0
+
+
+WVP 0 vmcca0029yki025
+//友貴「なんだよー、もちょっとそれっぽく感動とかしろよー」
+Tomoki: "What's with that, at least look a little like you're emotionally moved or something!"
+TP
+
+
+
+//太一「ばか、内心泣いてるっての。号泣だっての。泣き感動路線だっての」
+Taichi: "D-dummy, my heart of hearts is crying, baka! Wailing, baka! This is the utsuge route!"
+//Tsundere Mode! Girly, for starters, which needs much broader strokes in English. Baka works well for strawman tsundere (is that a term well it is now). That last one is "weeping emotional route", which is, well. -GHS
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+
+WVP 0 vmcca0029yki026
+//友貴「そうは見えない～」
+Tomoki: "None of that I can seee～."
+TP
+
+
+
+//太一「男同士でジメジメしたって寒いだけだ、そーいうイベントは貴様のねーちゃんと起こすわい」
+Taichi: "But it's corny to get all tearful with males! Go trigger that event with your nee-chan, you bastard!"
+//Curiously, this sentence ends with 'wai', which Secret Information (dictionary) reports as 'mainly male, signifying emotion'. I guess the point is the vaguely contradictory nature? -GHS
+TP
+
+GL 1 TCST0003
+GI 1 0
+
+
+WVP 0 vmcca0029yki027
+//友貴「ひでー！」
+Tomoki: "Nastyyy!"
+TP
+
+
+
+//太一「さあ、そうと決まったらとっとと働け！　放送予定日は明日じゃい」
+Taichi: "Well, if that's your decision then get to work you whelp! Broadcast is scheduled for tomorrow ya know."
+//Half-mirroring above -GHS
+TP
+
+
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmcca0029yki028
+//友貴「へいへい」
+Tomoki: "Yeah, yeah."
+TP
+
+
+
+WVP 0 vmcca0029yki029
+//友貴「じゃ機材、調達してくる」
+Tomoki: "Well, I'll go bring up the equipment."
+GO 1 1
+WVP 2 SE035 1 0
+WT 1000 0
+TP
+
+//There was an empty line here, just a line feed. Maybe Taichi should've said something? -GHS
+WVS 2 0
+
+WVP 0 vmcca0029yki030
+//友貴「……太一？」
+Tomoki: "...Taichi?"
+TP
+
+
+//校舎に戻る足を止め、友貴。
+A leg inside the school building, Tomoki stops.
+TP
+
+
+
+//太一「ん？」
+Taichi: "Hm?"
+TP
+
+
+
+WVP 0 vmcca0029yki031
+//友貴「……てっきり姉貴と仲直りしろとか言うのかなって思ってた、姉貴を手伝えよ弟だろって」
+Tomoki: "...I thought you would tell me to put things right with Aneki, for sure, that a younger brother should help his Aneki."
+TP
+
+
+
+//太一「いや、姉弟喧嘩なんてごくまっとうな人生じゃん。止めんよ」
+Taichi: "Naaah, sibling quarreling's a very respectable way of life it is. Don'tcha stop."
+TP
+
+
+
+WVP 0 vmcca0029yki032
+//友貴「……」
+Tomoki: "..."
+TP
+
+
+
+//太一「要するに俺様を手伝えということだ」
+Taichi: "Basically this is about you helping the greatness that is I."
+TP
+
+
+
+//胸を張る。
+Puff that chest with pride!
+TP
+
+
+
+WVP 0 vmcca0029yki033
+//友貴「……おまえ大物」
+Tomoki: "...what're you a VIP."
+TP
+
+
+
+//太一「適応係数８０オーバーのオーバーロードですから」
+Taichi: "After all, I am the Overlord of all those of Conformity Coefficient 80 and Over."
+//8 and 0, the Error and the loop. -GHS
+TP
+
+
+
+WVP 0 vmcca0029yki034
+//友貴「……そのオーバーロードとも、これからも普通に友達してやるよ」
+Tomoki: "...and I will still be this Overlord's normal friend from now on."
+TP
+
+
+
+WVP 0 vmcca0029yki035
+//友貴「そういうの、嫌いじゃないから」
+Tomoki: "Because... I don't hate that of you."
+//See CCA0007. -GHS
+TP
+WVP 2 SE036 1 0
+
+//さっと校舎内に消えた。逃げるように。
+He quickly vanishes inside the school building. As if running away.
+TP
+
+
+
+//太一「キライジャナイカラ……ププ！」
+Taichi: "'Iiii don't haaate that of youuu'... pffft!"
+//Ridiculing. -GHS
+TP
+
+
+
+//そう言った友貴は、一瞬で人類の限界まで赤面しきっていた。
+After Tomoki had said that, his face had instantly reddened up to the physical blushing limits of mankind.
+//awww they do love each o--wait waIT WAAAAAIT -GHS
+TP
+
+
+
+//太一「照れるくらいなら言うんじゃねーっての。まったく」
+Taichi: "If it makes you embarrassed then don'tcha say it! Seriously."
+TP
+
+
+GL 0 bgcc0000a
+GS 0 1
+SEF 109 1
+//HACK sky (not the antenna? 'K...) -GHS
+
+
+//アンテナを見あげる。
+I look up at the antenna.
+TP
+
+
+
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　しんちょく
+//太一「でも、これでちっとは進捗すんな」
+Taichi: "But with this, we're a little on the way aren't we."
+TP
+
+
+
+//楽しい部活ごっこ。
+Fun pretend-a-club-activities.
+TP
+
+
+
+//大切な思い出となりえる。
+They may become precious memories.
+TP
+
+
+
+//いつか、楽しい夢を見るための―――
+For the sake of one day having that fun dream---
+//See CCA0030, but best seen in the ending. -GHS
+TP
+
+
+
+//きっと。
+Certainly.
+TP
+
+
+
+//ずっと。
+Forever.
+TP
+
+
+
+//ありがとうと、思うため。
+For the sake of thinking... thank you.
+//See CCX0001. -GHS
+TP
+
+GO 0 1
+//HACK fade to black -GHS
+
+
+//俺は戦っている。
+I will be fighting.
+TP
+WVS 1 1
+WT 1000 0
+
+
+
+RET

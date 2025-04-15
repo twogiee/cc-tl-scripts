@@ -1,0 +1,505 @@
+//GL 0 bgcc0007
+GL 0 zzzrooftopzoom
+//HACK zoom -GHS
+
+GS 0 1
+SEF 152 0
+
+//みみ先輩は眠っておられた。
+Mimi-senpai was yet still sleeping.
+TP
+
+WVP 1 bgm005.ogg 0 0 0
+
+//太一「もしもしー」
+Taichi: "Hello, hellooo."
+TP
+
+
+GL 1 TCMM0011
+GP 1 225 0
+GI 1 1
+WVP 0 vfCCD0001msa013
+//見里「……んー？」
+Misato: "...mmmh?"
+TP
+
+
+//太一「おはようございます。朝です。太一です」
+Taichi: "Good day to you. It is morning. I am Taichi."
+//To avoid repeating 'morning'. -GHS
+TP
+
+
+WVP 0 vfCCD0001msa014
+//見里「え……あ、本当……」
+Misato: "Eh... ah, it's true..."
+//Well, that he is Taichi at least. -GHS
+TP
+
+
+//のろのろと起きあがる。
+Slowly and sluggishly she gets up.
+TP
+
+
+//えーと、パンツ見られるんだよな。
+Uhmmm, I will be seeing her panties, right.
+TP
+
+
+//俺は片膝をついた。
+I went to one knee,
+TP
+
+
+//女王に使える騎士のごとくだ（動機はともかく）。
+the same as a knight who wishes to be of use to his Queen (except for the motivation).
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfcca0015msa002
+//見里「とりあえず、おはようございます」/*
+Misato: "First thing, good morning!
+//CP CCA0015B
+TP
+
+
+//太一「おはようございます、先輩」
+Taichi: "Good morning, Senpai."
+//CP CCA0015B
+TP
+
+
+//太一「日中にここで寝こけると陽光で死にますよ？」
+Taichi: "If you sleep here in the middle of the day you will die of sunlight exposure, you know?"
+//CP CCA0015B
+TP
+
+
+
+WVP 0 vfCCA0015msa003
+//見里「あ、はい、そうですね、気をつけました」/*
+Misato: "Ah, yes, that is right, I was careful."
+//CP CCA0015B
+TP
+
+
+//スカートの裾を持ち上げて眼鏡をふく。
+Senpai lifts the hem of her skirt and wipes her glasses.
+//CP CCA0015B
+TP
+
+
+//おー。
+Ohhh,
+TP
+
+
+//むちむちしてる。
+plump and voluptuous.
+//See CCA0016. -GHS
+TP
+
+
+//ほどよくむちむちしてる。
+So moderately plump and voluptuous.
+TP
+
+
+//先輩はきれいだなぁ。
+Senpai's so pretty ain't she.
+TP
+
+GL 1 TCMM0011
+GI 1 0
+//HACK later doll change -GHS
+
+WVP 0 vfCCD0001msa015
+//見里「ふぁぁぁ」
+Misato: "Fwhaaah."
+TP
+
+
+//スカートがぱさりと元に戻った。
+The skirt returned to its original position with a paf,
+//CP CCA0015B
+TP
+
+
+//先輩は眼鏡をかけ直す。
+and Senpai wears back her glasses.
+//CP CCA0015B
+TP
+
+GL 1 TCMM0005
+GI 1 0
+//HACK less sleepy Misato -GHS
+
+WVP 0 vfCCD0001msa016
+//見里「眠いですね」
+Misato: "I am so sleepy."
+TP
+
+
+//太一「小夏日和ですものね」
+Taichi: "It is just the Indian Spring."
+//A play off 小春日和, Indian Summer http://en.wikipedia.org/wiki/Indian_Summer - the kanji for Spring in the correct term is replaced with the one for Summer. Also, curiously enough... http://kazuyo.cocolog-nifty.com/kazuyoblog/2011/08/post-b972.html -GHS
+TP
+
+GL 1 TCMM0031
+GI 1 0
+//HACK doubty Misato instead -GHS
+
+WVP 0 vfCCD0001msa017
+//見里「聞いたことがない言葉です……」
+Misato: "I have not heard the words exactly like that..."
+//Adapted to above. -GHS
+TP
+
+
+//太一「作りましたから」
+Taichi: "Because I invented them."
+//Oddly enough, it seems that in Okinawa... http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1040652955
+TP
+
+GL 1 TCMM0000
+GI 1 0
+//HACK normal instead -GHS
+
+WVP 0 vfCCD0001msa018
+//見里「ぺけくんはものを作る才能があるようです」
+Misato: "Peke-kun, you seem to have a talent for inventing things."
+//She finally came out and said it. "Invention" should be read in the meaning of "fabrication", of course. -GHS
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+GL 1 TCMM0021
+GI 1 0
+
+WVP 0 vfCCD0001msa019
+//見里「どうしてしゃがんだままなんですか？」
+Misato: "Why are you staying squatted like that?"
+TP
+
+
+//太一「愛の高射砲が空に恋しているのです。へそまで反り返らんばかりに」
+Taichi: "My Anti-Aircraft Gun of Love has fallen madly in lust for this sky. It has recurved 'till nearly it reaches the belly button."
+//As far as I can tell, "へそまで反り返る" just means "I have a big dick and a big hardon". -GHS
+TP
+
+GL 1 TCMM0031
+GI 1 0
+
+WVP 0 vfCCD0001msa020
+//見里「無骨ではありますが、それでいて詩的な物言い……」
+Misato: "That is something so uncouth, and yet you speak of it in ways so poetic..."
+//She's not even hiding that she gets it, tho. -GHS
+TP
+
+
+//太一「恐縮です」
+Taichi: "I am sorry for the trouble I am causing."
+TP
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfCCD0001msa021
+//見里「のどかわきましたね」
+Misato: "Say, I am a bit parched."
+TP
+GO 1 1
+
+//先輩は自分の荷物をあさった。
+Senpai rustled into her own bags.
+//Fnarr, fnarr. -GHS
+TP
+
+
+//ころん
+Tumble!
+TP
+
+
+//太一「ん？」
+Taichi: "Hm?"
+TP
+
+
+//ワンカップの酒瓶だ。
+A single serving of cup sake.
+//PCP CCA0015B
+TP
+
+
+WVP 0 vfCCD0001msa022
+//見里「ごくごくごくごく」
+Misato: "Gulp, gulp, gulp, gulp!"
+//BTW: console version is "non-alcoholic beverages. For some reason, she can manage to get drunk on these. Must be the Placebo Effect." -GHS
+TP
+
+
+//太一「おわ、そうだった！」
+Taichi: "Bwah, I nearly forgot!"
+TP
+
+
+//奪い取る。
+I forcibly take it away.
+TP
+
+GL 1 TCMM0005
+GP 1 225 0
+GI 1 1
+
+WVP 0 vfCCD0001msa023
+//見里「あっ……なにするですか」
+Misato: "Ah...! What are doing?"
+TP
+
+
+//太一「学校でお酒はダメ！」
+Taichi: "Alcoholics are not allowed at school!"
+TP
+
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfCCD0001msa024
+//見里「おばあちゃんの家が酒屋さんなので、いいのです」
+Misato: "My grandma's house is also a liquor store, so it is fine."
+//Misato has upgraded from 'salaryman-level habitual drunk' to 'alcoholics anonymous escapee'. This isn't her house, as she lives with her father (and now alone as he's in jail). It's never referenced again. Unknown who she's talking about. May be irrelevant, but this being Cross Channel, it's always worth looking over things -GHS
+TP
+
+
+//太一「だめですよ」
+Taichi: "It is not allowed!"
+TP
+
+GL 1 TCMM0001
+GI 1 0
+
+WVP 0 vfCCD0001msa025
+//見里「……知ってます」
+Misato: "...I do know."
+TP
+
+//WVP 1 bgm005.ogg 0 0 0
+//HACK no change, it's really not that heavy a scene. -GHS
+
+//拗ねた。
+She pouted.
+TP
+
+
+WVP 0 vfCCD0001msa026
+//見里「でも、もう守る決まりごともないじゃないですか」
+Misato: "But by now there are no more rules we must follow, are there?"
+//Compare Youko and Taichi with regards to Mutsumi, see CCC3012b -GHS
+TP
+
+
+//太一「まあ」
+Taichi: "Well."
+TP
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfCCD0001msa027
+//見里「そうなんですよね、人がいなかったら、ルールなんて意味がないんです」
+Misato: "It is just like that, yes, when people are not there anymore, then rules have no meaning."
+//The same applies if the place that is deserted is simply the rooftop, which ought be inaccessible (the door may be locked and Taichi has either a key or uses his keypick). -GHS
+TP
+
+//WVP 1 bgm015.ogg 0 0 0
+//HACK no change, either. -GHS
+
+WVP 0 vfCCD0001msa028
+//見里「じゃあわたしは、なんのために……」
+Misato: "Then, for what purpose should I..."
+//See CCD1001. She's also sort-of understanding this... -GHS
+TP
+
+
+//頭をかきむしる。
+She nearly tears the hair off her head.
+//CP CCD0014A
+TP
+
+
+//太一「……先輩」
+Taichi: "...Senpai."
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCD0001msa029
+//見里「ぺけくんは、どうしてここに？」
+Misato: "Peke-kun, why are you here?"
+TP
+
+
+//太一「様子を見に来たんです」
+Taichi: "I came to see how things are."
+TP
+
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfCCD0001msa030
+//見里「……どうして……今さら」
+Misato: "...why... after all this time."
+//Tuesday morning? Well, he hasn't shown up to club in a long while. But how long has this particular club gone on now? How many years? -GHS
+TP
+
+
+//太一「みみ先輩が、好きだから」
+Taichi: "Because I love you, Mimi-senpai."
+TP
+
+
+WVP 0 vfCCD0001msa031
+//見里「…………そんな……ことを……」
+Misato: "......that... is just..."
+TP
+
+
+//鼻の頭が赤いのは、酒のせいだろうか？
+The tip of her nose reddening should be alcohol's fault, right?
+//He wishes. -GHS
+TP
+GL 1 TCMM0006
+GI 1 0
+
+WVP 0 vfCCD0001msa032
+//見里「軽々しく言ってはいけません！　愛の言葉は、男女双方にとって大切な分岐点になるんですから！」
+Misato: "Speaking this frivolously is unacceptable! Words of love are what creates a precious crossroad between men and women both!"
+//I totally wrote "between me and women" !!!Bisex Misato!!! 分岐点 is also parting of ways, so leaving it a somewhat generic crossroad makes it more visible that it plays in the Cross But Not Meet subtext. -GHS
+TP
+
+
+//叱られた。
+I was scolded.
+TP
+
+
+//太一「いや……でも、俺を暗がりから明るい場所に導いてくれたの、先輩っすから」
+Taichi: "Well... but the one who led me out of the darkness and into a place of light was you, Senpai!"
+//See CCA0025C. -GHS
+TP
+
+
+//ただ隣にいるだけだった彼女とは違う。
+Unlike a certain she who merely lived next to me and nothing more.
+TP
+
+
+GL 1 TCMM0003
+GI 1 0
+WVP 0 vfCCD0001msa033
+//見里「そんなこと……ただ声をかけただけですから」
+Misato: "That would be... I just called out to you, that is all."
+TP
+
+
+//太一「きっかけってそんなものでしょう？」
+Taichi: "And what was the cue but that?"
+TP
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfCCD0001msa034
+//見里「はいっ、はいっ、このお話はなしでーす」
+Misato: "Enough! Enough! We move on from this topic nooow!"
+TP
+
+
+//ぱたぱたと手を振る。
+Flapping wave of the hand.
+//CP CCB2006
+TP
+
+
+//……駄目か。
+...is this not going to work?
+TP
+
+
+//太一「結婚を前提としたおつきあいを―――」
+Taichi: "Association, such as dating, as a prerequisite for marriage is---"
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCD0001msa035
+//見里「そうだ、原稿お願いシマス！」
+Misato: "Right, a script if-you-please!"
+TP
+
+
+//逃げた。
+She ran away.
+TP
+
+
+//太一「原稿ですか？」
+Taichi: "A script, you say?"
+TP
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfCCD0001msa036
+//見里「はい、清く正しく明るく元気な、初回放送用の原稿作成依頼です」
+Misato: "Yes, this is a request for the production of a pure, honest, cheerful and spirited script for use in our maiden broadcast."
+TP
+
+
+//太一「……んー」
+Taichi: "...hmmm."
+TP
+
+
+//まあ、当初の目的だな。
+Well, that was the objective from the beginning, after all.
+TP
+
+
+//太一「いいですよ」
+Taichi: "It will be done."
+TP
+
+GS 0 0
+GS 1 0
+SEF 109 0
+//HACK to dark -GHS
+WVS 1 1
+
+//どうせノートに、今までのパターンも網羅されてる。
+However it goes, all patterns up to now have been encompassed in the notebook.
+TP
+
+//わざわざ新しく作る必要もない。
+There's no necessity to purposefully create a new one.
+//This is why there's so much copy pasta. As usual (...), I am not kidding. -GHS
+TP
+
+
+//GS 1 0
+//SEF 109
+//HACK no need (and it looks really f'ing ugly too) -GHS
+
+
+
+
+RET

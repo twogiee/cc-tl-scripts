@@ -1,0 +1,812 @@
+
+
+
+GL 0 bgcc0008a
+GS 1 0
+GS 0 1
+SEF 152 1
+WT 500 1
+I killed some time.
+//CP_T cca0010
+TP
+
+It became evening.
+TP
+
+I wonder if Sempai is still here.
+TP
+WVP 1 bgm012.ogg 0 0 0
+
+GL 0 bgcc0007a
+GS 0 1
+SEF 152 0
+The temperature seemed to have loosened alongside my memory.
+//This line appears on the same screen as the previous line. Is that intentional? -VDZ
+TP
+
+The indigo curtain I could see from the roof had already taken on a crimson tinge.
+TP
+
+There was no gust of wind blowing.
+TP
+
+A time of twilight as quiet as a neutered cat.
+TP
+
+No one's here.
+TP
+
+I looked around for Misato-sempai.
+TP
+
+Taichi: "Ah."
+TP
+
+She was lying beside the antenna.
+TP
+
+Taichi: "There she is."
+TP
+
+
+
+GL 0 evcc0005
+$CGevcc0005 = 1
+GS 0 1
+SEF 109 0
+
+She's sleeping.
+TP
+
+WVP 0 vfcca0010msa000
+Misato: "......"
+TP
+
+Soft, regular breathing.
+TP
+
+That sound, which didn't even overcome the background noise, possessed a mysterious musical quality which numbed my thoughts.
+TP
+
+In, out, in, out.
+TP
+
+Gentle, harmless breathing.
+TP
+
+Her natural, undecorated form.
+TP
+
+It held no lies.
+TP
+
+No impurity.
+TP
+
+When sleeping, everyone returns to an innocent age.
+TP
+
+*stare*
+TP
+
+Her closed eyes cannot behold the clarity of dusk as it envelops the earth.
+TP
+
+For a long time,
+TP
+
+I watched Sempai,
+TP
+
+With envy and admiration.
+TP
+
+Taichi: "......"
+TP
+
+I wonder how long I did that for.
+TP
+
+Her healthy breathing ceased, and her eyelids shuddered.
+TP
+
+Her long eyelashes twitched subtly.
+TP
+
+Her eyes opened slightly.
+TP
+
+Taichi: "......you really are great, Sempai."
+TP
+
+WVP 0 vfcca0010msa001
+Misato: "Ah......what......?"
+TP
+
+
+With her sense of language dulled, Sempai's voice was as artless as a child's.
+TP
+
+Taichi: "Good morning."
+TP
+
+WVP 0 vfcca0010msa002
+Misato: "......Kurosu......kun?"
+TP
+
+Taichi: "I'm Peke."
+TP
+
+WVP 0 vfcca0010msa003
+Misato: "Peke-kun......"
+TP
+
+That nickname she just recited is reserved only for Sempai's use.
+TP
+
+WVP 0 vfcca0010msa004
+Misato: "......nn, don't......"
+TP
+
+WVP 0 vfcca0010msa005
+Misato: "Don't watch me sleep......"
+TP
+
+She covered her pupils with both arms, and her body writhed faintly.
+TP
+
+Everyone wants to hide their defenseless form.
+TP
+
+And that desire to hide means there are lies within one's normal self.
+TP
+
+So that also applies to Sempai.
+TP
+
+......I cut off those cold thoughts.
+TP
+
+Sempai finally got up.
+TP
+GL 0 bgcc0007a
+GL 1 TCMM0011b
+GP 1 220 0
+GS 0 1
+GS 1 1
+SEF 153 1
+
+WVP 0 vfcca0010msa006
+Misato: "When did you get here?"
+TP
+
+Taichi: "Just now."
+TP
+GL 1 TCMM0001b
+GI 1 0
+
+WVP 0 vfcca0010msa007
+Misato: "......hmmm."
+TP
+
+A suspicious look.
+TP
+
+Taichi: "It's true."
+TP
+
+I tried surrendering by raising both of my hands.
+TP
+
+Taichi: "I don't tell lies to Sempai."
+TP
+
+WVP 0 vfcca0010msa008
+Misato: "......"
+TP
+
+Taichi: "Anyway, it's dangerous to nod off in the middle of the day."
+TP
+
+Taichi: "You could dehydrate or get sunstroke."
+TP
+GL 1 TCMM0011b
+GI 1 0
+
+WVP 0 vfcca0010msa009
+Misato: "Mm, that's true."
+TP
+
+
+She held back a yawn.
+TP
+
+Her glasses were crooked.
+TP
+
+My hand moved.
+TP
+
+GL 1 TCMM0004b
+GI 1 0
+WVP 0 vfcca0010msa010
+Misato: "Eh......?"
+TP
+
+I took her glasses with both hands and gently repositioned them.
+TP
+
+Taichi: "Now Sempai's back to normal."
+TP
+
+GL 1 TCMM0001b
+GI 1 0
+WVP 0 vfcca0010msa011
+Misato: "......that's dangerous too."
+TP
+
+Taichi: "Eh?"
+TP
+
+GL 1 TCMM0006b
+GI 1 0
+WVP 0 vfcca0010msa012
+Misato: "That side of Peke-kun is dangerous."
+TP
+
+I think she's a bit mad.
+TP
+
+Taichi: "What side? How so?"
+TP
+
+GL 1 TCMM0001b
+GI 1 0
+
+WVP 0 vfcca0010msa013
+Misato: "Think about it while looking in a mirror."
+TP
+
+Taichi: "Haaaan!!!"
+TP
+
+Uwa, this girl's saying things that make me want to cry!
+TP
+
+Taichi: "You mean......I'm ugly!!? Uwaaaa, you know I'm sensitive about that!!!"
+TP
+
+GL 1 TCMM0004b
+GI 1 0
+WVP 0 vfcca0010msa014
+Misato: "Eh, no that's not......"
+TP
+
+Taichi: "Hideous......I'm hideous......Mommy......"
+TP
+
+WVP 0 vfcca0010msa015
+Misato: "Aaaah, you know that's not what I meant, right?"
+TP
+
+Taichi: "Because I was born hideous......"
+TP
+
+GL 1 TCMM0005b
+GI 1 0
+
+WVP 0 vfcca0010msa016
+Misato: "I'm trying to say-"
+TP
+
+Taichi: "That's okay, I know I'm ugly. It's perfectly natural. I'm a disgusting man."
+TP
+
+GL 1 TCMM0000b
+GI 1 0
+
+WVP 0 vfcca0010msa017
+Misato: "No, that's not......well, your face did surprise me the first time we met."
+TP
+WVS 1 1
+
+
+Taichi: "......"
+TP
+
+WVP 2 vfcca0010msa029 1 0
+Well, your face did surprise me the first time we met.
+TP
+WVP 1 bgm006.ogg 0 0 0
+
+Taichi: "............"
+TP
+
+WVP 3 vfcca0010msa029 1 0
+Well, your face did surprise me the first time we met.
+TP
+
+Taichi: "........................"
+TP
+
+WVP 2 vfcca0010msa029 1 0
+Well, your face did surprise me the first time we met.
+TP
+
+
+Taichi: "Ha, hawawa, hawawawawa......"
+TP
+WVS 2 0
+
+GL 1 TCMM0021b
+GI 1 0
+
+WVP 0 vfcca0010msa018
+Misato: "Peke-kun?"
+TP
+
+
+GL 1 TCMM0004b
+GI 1 0
+SEF 101 0
+
+Taichi: "Gyuwaaaaaaaaaaaaaaa!!?"
+TP
+
+Taichi: "Wiiion! Wiiion!" (Alarm)
+TP
+
+Taichi: "Guii, Guii, Piiwian!" (Propulsion Sounds)
+TP
+
+WVP 0 vfcca0010msa019
+Misato: "Wa! Peke-kun's state of mind is-!"
+TP
+
+Taichi: "My name is Creator, the existence which rules humanity!"
+TP
+
+WVP 0 vfcca0010msa020
+Misato: "Wa, wa, Peke-kun's a trite creationist from a twenty-year-old video game!?"
+TP
+
+Taichi: "Wherefore doth thou disobey me? Within my control thou shalt enjoy eternal peace!"
+TP
+
+GL 1 TCMM0021b
+GI 1 0
+
+WVP 0 vfcca0010msa021
+Misato: "Question."
+TP
+
+Taichi: "What be it?"
+TP
+
+WVP 0 vfcca0010msa022
+Misato: "Why are you using such unnaturally old diction?"
+TP
+
+Taichi: "Gogogogogogogogogogogogogogo!!"
+TP
+
+GL 1 TCMM0005b
+GI 1 0
+WVP 0 vfcca0010msa023
+Misato: "I'm sorry, it really doesn't matter!"
+TP
+
+Taichi: "Star Buster ready to fire!"
+TP
+
+GL 1 TCMM0000b
+GI 1 0
+
+WVP 0 vfcca0010msa024
+Misato: "Ei!"
+TP
+
+WVP 2 se003 1 0
+GS 0 0
+GS 1 0
+SEF 0 0
+WVS 1 0
+SEF 101 0
+
+Taichi: "Gufu!"
+TP
+
+TS 2
+SEF 109 0
+
+
+
+GL 0 bgcc0007a
+GL 1 TCMM0000b
+GS 0 1
+GS 1 1
+WT 500 0
+WT 1500 1
+
+
+
+SEF 10 1
+WT 100 0
+TS 3
+SEF 109 0
+WVP 1 bgm012.ogg 0 0 0
+
+
+
+Taichi: "......haa, where am I?"
+TP
+
+
+
+
+GL 1 TCMM0002b
+GI 1 0
+
+WVP 0 vfcca0010msa025
+Misato: "Thank goodness, you're back."
+TP
+
+Taichi: "How strange..."
+TP
+
+GL 1 TCMM0000b
+GI 1 0
+
+WVP 0 vfcca0010msa026
+Misato: "What happened?"
+TP
+
+Taichi: "I was told something incredibly shocking, and I had a dream where I got revenge with the humanity annihilation bomb Star Buster, but......I can't remember the shock which motivated me to do so."
+TP
+
+GL 1 TCMM0031b
+GI 1 0
+
+
+WVP 0 vfcca0010msa027
+Misato: "So it was that kind of bomb......"
+TP
+
+Taichi: "Hmmm, what was it..."
+TP
+
+GL 1 TCMM0003b
+GI 1 0
+WVP 0 vfcca0010msa028
+Misato: "Peke-kun is too concerned about looks. Remember, people are souls."
+TP
+
+Taichi: "My looks......?"
+TP
+
+Ah, that's right.
+TP
+
+
+WVP 0 vfcca0010msa029
+Misato: ÅwWell, your face did surprise me (with its ugliness) the first time we met.Åx
+
+Taichi: "Ooooooooo."
+TP
+
+GL 1 TCMM0004b
+GI 1 0
+WVP 0 vfcca0010msa030
+Misato: "Again......"
+TP
+
+Taichi: "Geronimo!!!"
+TP
+
+GL 1 TCMM0031b
+GI 1 0
+
+
+WVP 0 vfcca0010msa031
+Misato: "......who?"
+TP
+
+Taichi: "Uu, hiku, egu!"
+TP
+
+GL 1 TCMM0005b
+GI 1 0
+
+WVP 0 vfcca0010msa032
+Misato: "What should I......?"
+TP
+
+Sempai was flustered.
+TP
+
+Taichi: "Sempaaai!"
+TP
+
+I tried hugging her. (daringly)
+TP
+WVS 1 0
+
+
+
+
+GL 2 sgcc0002
+$CGsgcc0002 = 1
+GS 1 0
+SEF 109 0
+GP 2 0 0
+GI 2 4
+
+WVP 0 vfcca0010msa033
+Misato: "......uu."
+TP
+
+Sempai's body stiffened for a moment.
+TP
+
+Her arms loitered in midair.
+TP
+
+Taichi: "It's not like, I wanted to be born ugly......which is why I'm trying to live cleanly......to avoid bringing pain to others"......*sob*......
+TP
+
+WVP 0 vfcca0010msa034
+Misato: "AaaaAAA."
+TP
+
+Sempai's body gradually lost its stiffness.
+TP
+
+WVP 0 vfcca0010msa035
+Misato: "Peke-kun."
+TP
+
+
+WVP 1 bgm012.ogg 0 0 0
+She held me softly.
+TP
+
+Taichi: "......"
+TP
+
+I buried my face into her full bosom.
+TP
+
+Buried it around and around.
+TP
+
+I could smell her sweet flesh through her uniform.
+TP
+
+I was getting dizzy.
+TP
+
+A hint of sweat.
+TP
+
+Strangely, that too was fragrant.
+TP
+
+And sooooft.
+TP
+
+Squishy to no end.
+TP
+
+WVP 0 vfcca0010msa036
+Misato: "......nn......"
+TP
+
+My restlessly moving face must have been tickling Sempai.
+TP
+
+WVP 0 vfcca0010msa037
+Misato: "Excuse me......"
+TP
+
+I continued pretending to cry.
+TP
+
+WVP 0 vfcca0010msa038
+Misato: "I mean it."
+TP
+
+WVP 0 vfcca0010msa039
+Misato: "Regardless of how you look, Peke-kun, your eyes are really deep and pretty."
+TP
+
+Hesitation.
+TP
+
+But that dissipated in an instant.
+TP
+
+WVP 0 vfcca0010msa040
+Misato: "......if you approach me so suddenly, I'm going to be startled."
+TP
+
+Taichi: "Are you sure?"
+TP
+
+WVP 0 vfcca0010msa041
+Misato: "Yes, that's why I told you to look in a mirror."
+TP
+
+Taichi: "......"
+TP
+
+WVP 0 vfcca0010msa042
+Misato: "Will you stop crying now?"
+TP
+GO 2 1
+
+Taichi: "......yes."
+TP
+
+I removed my face with a broken heart.
+TP
+
+Who knows when this kind of opportunity will come again.
+TP
+
+GL 1 TCMM0000b
+GP 1 210 0
+GS 1 1
+GS 1 1
+
+SEF 109 0
+WVP 0 vfcca0010msa043
+Misato: "Peke-kun, you're quite the crybaby."
+TP
+
+Taichi: "......"
+TP
+
+GL 1 TCMM0002b
+GI 1 0
+
+
+WVP 0 vfcca0010msa044
+Misato: "You're going to burn bridges if you keep that up."
+TP
+
+Burn them, burn them, my heart cried out.
+TP
+
+Scorch me to the bone...
+TP
+
+WVP 0 vfcca0010msa045
+Misato: "Maybe you'd like to become my little brother?"
+TP
+
+Taichi: "Yes."
+TP
+
+Immediate decision.
+TP
+
+Taichi: "I hope our relationship as siblings shall blossom in the future."
+TP
+
+GL 1 TCMM0004b
+GI 1 0
+WVP 0 vfcca0010msa046
+Misato: "Eh!?"
+TP
+
+Taichi: "I'll get my things right away, so wait at your house."
+TP
+
+WVP 0 vfcca0010msa047
+Misato: "What!?"
+TP
+
+Taichi: "But should I have a look around the place first? After all, I need to know whether siblings sleep in the same futon or not."
+TP
+
+WVP 0 vfcca0010msa048
+Misato: "Ah, umm, you know, Peke-kun......"
+TP
+
+Taichi: "To be honest I've always been lonely at night......thank you, my nee-san......no, you deserve to be called hime-nee-sama."
+//IF $tlnote == 1 (TL note: "Hime" is how you address a princess.)
+TP
+
+GL 1 TCMM0005b
+GI 1 0
+WVP 0 vfcca0010msa049
+Misato: "Wha...what should I do?"
+TP
+
+Sempai whispered in the direction of the day after tomorrow.
+TP
+
+Taichi: "I'm kidding."
+TP
+
+GL 1 TCMM0001b
+GI 1 0
+WVP 0 vfcca0010msa050
+Misato: "......"
+TP
+
+Her expression became something unfriendly before my very eyes.
+TP
+
+GL 1 TCMM0006b
+GI 1 0
+
+WVP 0 vfcca0010msa051
+Misato: "Peeekeee-kuuunnn!"
+TP
+
+Taichi: "I thought it would soften the mood."
+TP
+
+Taichi: "Was I wrong?"
+TP
+
+I tried pretending I was about to cry again.
+TP
+
+GL 1 TCMM0005b
+GI 1 0
+
+WVP 0 vfcca0010msa052
+Misato: "Uu."
+TP
+
+GL 1 TCMM0000b
+GI 1 0
+WVP 0 vfcca0010msa053
+Misato: "......"
+TP
+
+A sigh.
+TP
+
+GL 1 TCMM0005b
+GI 1 0
+
+WVP 0 vfcca0010msa054
+Misato: "Seriously......that's not fair."
+TP
+
+Taichi: "Not fair?"
+TP
+
+
+GL 1 TCMM0001b
+GI 1 0
+WVP 0 vfcca0010msa055
+Misato: "That's a private matter."
+TP
+
+Although she seemed to be fuming a fair bit,
+TP
+
+I think she's forgiven me.
+TP
+
+Sempai truly is kind.
+TP
+
+As we wasted time, the night approached.
+TP
+
+Daylight hours ended, and the darkness came upon us.
+TP
+
+
+
+
+CSQ 0 1 1
+  -Help out
+  -Go home
+
+RET

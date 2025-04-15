@@ -1,0 +1,1187 @@
+
+//GL 0 bgcc0008s
+//GS 0 1
+//GS 1 0
+//SEF 10 1
+
+
+WVP 3 se001 0 0 1
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0008s
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+//HACK Flashback intro. Clear everything, slow fade into white, then \\ bars into scene (closest effect to the Xbox 360 version the engine has). -GHS
+
+
+
+
+
+
+
+
+WVP 1 bgm004.ogg 0 0 0
+//蝉がうるさい。
+The cicadas are making loud,
+//CP CCA0007
+TP
+
+//こんな暑いのに。
+even when it's this hot.
+//CP CCA0007
+TP
+
+//奴らはいつだって本気だ。
+Those guys are always serious.
+//CP CCA0007
+TP
+
+//太一「しかし」
+Taichi: "Well then."
+//CP CCA0007
+TP
+
+
+//どうするかな、これから。
+What do I do now.
+//CP CCA0007
+TP
+
+//屋上が炎天下となると、涼める場所はさほどない。
+With the rooftop under the blazing sun, that's not really a place to cool off in.
+//CP CCA0007
+TP
+
+//手近な教室をのぞいてみると、案の定授業中だった。
+I tried peeking inside a class nearby, sure enough, a lesson was in progress.
+//CP CCA0007
+TP
+
+//一年Ｅ組では、まちこ先生が授業をしていた。
+First Year Class E, the class that was being taught by Machiko-sensei.
+//PCP CCA0007 2 merged lines & tense -GHS
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//彼女とは、表層的な心の交流さえ結べなかった。
+With her, there wasn't even the link of an exchange of superficial feelings.
+TP
+
+//あまりにも普通すぎたのだろう。
+It was probably too excessively ordinary.
+TP
+
+//今はもう他人だ。
+Now we're just strangers.
+TP
+
+//とにかく、このまま廊下をウロウロしてたら誰かに見つかる。
+Anyway, if I keep loitering in the corridors like this someone'll find me.
+//CP CCA0007
+TP
+
+
+GL 0 bgcc0009s
+GS 0 1
+SEF 152 0
+//人気のない学食で、食券を買う。
+I buy a meal ticket in the deserted cafeteria.
+TP
+
+GL 0 bgcc0010s
+GS 0 1
+SEF 152 0
+
+
+
+//部室へ。
+To the club room.
+TP
+
+//友貴が漫画雑誌を読んでいた。
+Tomoki kept reading that manga magazine.
+TP
+
+//軽く会話をかわす。
+A light conversation bounces off.
+//Exchange + deflect, see CCA0007 -GHS
+TP
+
+//途中、マンモスが通過して大騒ぎとなった。
+Midway, the passage of Mammoth became great uproar.
+TP
+
+//きゃつが過ぎ去ったあと。
+And after 'that' had moved on,
+//Kyattsu -GHS
+TP
+
+GL 5 zzzCCB0006miyutomo01
+GS 5 1
+GI 5 1
+//HACK Tomoki & Miyuki Sepia 1 (these've been fun...) -GHS
+
+
+WVP 0 vmcca0007yki028
+//友貴「あぶないあぶない」
+Tomoki: "Close so close!"
+//CP CCA0007
+TP
+
+WVP 0 vfcca0007myk012
+//みゆき「カーテンつけた方がいいですよねぇ、廊下側の窓」
+Miyuki: "We should just put up curtains on that corridor window."
+//CP CCA0007
+TP
+
+GL 5 zzzCCB0006miyutomo02
+GI 5 0
+//HACK Tomoki & Miyuki Sepia 2 -GHS
+
+WVP 0 vmcca0007yki029
+//友貴「禁止されてるんだよ。学校もよくわかってるよな」
+Tomoki: "That was forbidden. School got wise to that already."
+//CP CCA0007
+TP
+
+//太一「いい手がある」
+Taichi: "There's something we could do."
+//CP CCA0007
+TP
+
+GL 5 zzzCCB0006miyutomo03
+GI 5 0
+//HACK Tomoki & Miyuki Sepia 3 -GHS
+
+WVP 0 vfcca0007myk013
+//みゆき「……」
+Miyuki: "..."
+TP
+
+GL 5 zzzCCB0006miyutomo04
+GI 5 0
+//HACK Tomoki & Miyuki Sepia 4 -GHS
+
+WVP 0 vmcca0007yki030
+//友貴「……」
+Tomoki: "..."
+TP
+
+//太一「あー、諸君らが俺をどう思っているかは知っている。だがこれはつまらないギャグではなくマジでいい手なのだ」
+Taichi: "Ahhh, I know what you ladies think of me. But this isn't some annoying gag, I really think there's something we could do."
+//CP CCA0007
+TP
+
+GL 5 zzzCCB0006miyutomo05
+GI 5 0
+//HACK Tomoki & Miyuki Sepia 5 -GHS
+
+WVP 0 vfcca0007myk014
+//みゆき「どんなんです？」
+Miyuki: "What would that be?"
+//CP CCA0007
+TP
+
+//太一「友貴、マシン使えるようにしてくれよ。あとデジカメ」
+Taichi: "Tomoki, get me the machine back in working order. Also, the digital camera."
+//CP CCA0007
+TP
+
+GL 5 zzzCCB0006miyutomo02
+GI 5 0
+//HACK back to Tomoki & Miyuki Sepia 2 -GHS
+
+WVP 0 vmcca0007yki031
+//HACK someone forgot to 'paste the voice file in so this line wasn't spoken. Great QC, there. -GHS
+//友貴「はーん？」
+Tomoki: "Huuuh?"
+//CP CCA0007
+TP
+
+GL 5 bgcc0000as
+GI 5 1
+//HACK to Sepia sky -GHS
+
+//……。
+...
+TP
+
+//…………。
+......
+TP
+
+//……………………。
+............
+TP
+
+GO 5 1
+//HACK out sky -GHS
+
+//太一「という感じでどうだ」
+Taichi: "How's this feel then!"
+TP
+
+GL 1 TCST0000s
+GP 1 190 0
+GI 1 1
+
+WVP 0 vmccb0006yki000
+//友貴「カムフラージュか、へー」
+Tomoki: "Camouflage then, huh."
+//カムフラージュ vs Taichi's 擬態, see CCC3009 and CCB2009 as well. They're all sort of the same thing, in a sense so it's not that big of a deal, but it's now a bit more obvious than in the original. ...maybe I shouldn't be fussing over details apparently no one noticed regardless, but... -GHS
+TP
+
+//フルカラー印刷した『無人の室内』画像を、窓ガラスの内側に貼り付けた。
+A full-color print titled Unoccupied Interior was affixed to the windowpane on the inside.
+TP
+
+//視点が多少ずれてしまうが、パッと見るくらいならある程度はごまかせる。
+The viewpoint is somewhat shifted, but there was potential it could fool a casual glance fired off at it.
+TP
+GL 1 TCST0004s
+GI 1 0
+
+
+WVP 0 vmccb0006yki001
+//友貴「うん、これならばれないかも」
+Tomoki: "Yah, with this we maybe won't be caught."
+TP
+
+//太一「わはは」
+Taichi: "Wahaha!
+TP
+
+//誇る俺。
+Proud I am.
+TP
+
+GL 5 zzzCCB0006miyutomo01
+GI 5 1
+//HACK Back to Tomoki & Miyuki Sepia 1 - yes, both dolls change. I suspect a bug, but without being able to use the 360 dolls... -GHS
+
+//そこにみゆきがトイレから戻ってくる。
+And that's around when Miyuki came back from the toilet.
+TP
+
+//太一「トイレどうだった？」
+Taichi: "How was the toilet?"
+TP
+
+GL 5 zzzCCB0006miyutomo06
+GI 5 0
+//HACK Tomoki & Miyuki Sepia 6 -GHS
+
+WVP 0 vfccb0006myk000
+//みゆき「あーんっ！」
+Miyuki: "Nhaaawww!"
+TP
+
+//泣いた。
+She cried.
+TP
+
+WVP 0 vfccb0006myk001
+//みゆき「トイレだなんて一言もいってないのにー！」
+Miyuki: "But I didn't even say one word about going to the toileeet!"
+TP
+
+//太一「ハンカチで手をふきふきしながら戻ってくれば誰だってわかるわい！」
+Taichi: "If you come back going all wipey-wipey on your hands with a towel, anyone could tell where you've been!"
+//I still think it should be butterbur-butterbur -GHS
+TP
+
+//GL 1 TCST0005s
+//GI 1 0
+//In the console version, where all the doll changes are much slower, there's the delay of a doll change here with no actual corresponding change of dolls. I suppose the change to Tomoki's doll that happened when Miyuki came in was a bug, and this is when the current image had to be displayed. I have no practical way of fixing this bug without access to the data files, sorry. -GHS
+
+
+WVP 0 vmccb0006yki002
+//友貴「だからさ」
+Tomoki: "Really, I told you..."
+TP
+
+GL 5 zzzCCB0006miyutomo07
+GI 5 0
+//HACK Tomoki & Miyuki Sepia 7 -GHS
+
+WVP 0 vfccb0006myk002
+//みゆき「気がついても言わないでくださいよぅ」
+Miyuki: "Please do not say it even if you notice!"
+TP
+
+//太一「だめだだめだ！　隙が多すぎる！」
+Taichi: "Nope and nope! Way too many openings!"
+TP
+
+//太一「多すぎてもダメ！　少なすぎてもダメ！」
+Taichi: "Having too many's bad! Having too few's also bad!"
+TP
+//GL 1 TCST0003s
+//GI 1 0
+GL 5 zzzCCB0006miyutomo04
+GI 5 0
+//HACK Back to Tomoki & Miyuki Sepia 4 -GHS
+
+
+WVP 0 vmccb0006yki003
+//友貴「なんの基準なんだ……」
+Tomoki: "What's even your standard..."
+TP
+
+//太一「正しい淑女のガイドライン」
+Taichi: "The Guidelines for a Proper Lady."
+//Author: "Turosu Kaichi" -GHS
+TP
+
+WVP 0 vfccb0006myk003
+//みゆき「なりたくないですよぅ」
+Miyuki: "I do not want to be one!"
+TP
+
+//俺は愕然とした。
+An appalling sensation pervaded me.
+TP
+
+//太一「な、なんてふしだらなことを」
+Taichi: "W-, why you slovenly-!"
+TP
+
+//太一「折檻だな、折檻！　折檻！　折檻！」
+Taichi: "Chastisement this demands, chastisement! Chastisement! Chastisement!"
+TP
+
+//騒ぎながらみゆきの周囲をまわる。
+While continuing the uproar, I walk in a circle around Miyuki,
+TP
+
+GL 5 zzzCCB0006miyutomo08
+GI 5 0
+//HACK Tomoki & Miyuki Sepia 8 -GHS
+
+WVP 0 vfccb0006myk004
+//みゆき「ううう」
+Miyuki: "Ngggh."
+TP
+
+//怯えるみゆき。
+frightening her.
+TP
+
+//くそう、地味なやつめ。
+Damn this lame plain girl!
+TP
+
+//その地味さが俺をかき立てる。
+That plainness rouses me.
+TP
+
+//太一「折檻！　折檻！　折檻！」
+Taichi: "Chas-tisement! Chas-tisement! Chas-tisement!"
+//Chanted -GHS
+TP
+
+//とスカートをゆっくりめくっていく。
+Via a slow flip of that skirt.
+TP
+
+//GL 1 TCST0001s
+//GI 1 0
+GL 5 zzzCCB0006miyutomo09
+GI 5 0
+//HACK Tomoki & Miyuki Sepia 9 -GHS
+
+WVP 0 vmccb0006yki004
+//友貴「お、おいおい」
+Tomoki: "W-, wait wait!"
+TP
+
+//太一「もし毛糸のパンツをはいていたら、汝の罪は許されるであろう」
+Taichi: "Should you be presenting Us with traditional underwear of knitting wool made, then thy sins shall be forgiven, woman!"
+//Visuals. I think he just wants good ol' bloomers. 汝 is woman + water, and is a 'you' that's either archaic ("thou") or vulgar ("blockhead"). -GHS
+TP
+
+//太一「しかーし、もし薄手のショーツなどを生意気にも着用しているようであればぁ」
+Taichi: "But, supposing you are impertinently under-wearing short panties of a thin make..."
+TP
+
+WVP 0 vfccb0006myk005
+//みゆき「あううぅぅぅっ」
+Miyuki: "AuUuUuUuU!"
+TP
+
+WVS 1 0
+
+WVP 0 vfccb0006kri000
+//霧「ちょやーッ！」
+Kiri: "CH'OYAAA!"
+TP
+
+//この声は？
+Who's that voice?
+//JOHNNY CAGE. -GHS
+TP
+GL 4 sgcc0013s
+//Despite being able to peek at Kiri's panties (though harder in this sepia variant), this image is not changed in the console versions. -GHS
+$CGsgcc0013s = 1
+GP 4 0 0
+GO 1 0
+GO 5 0
+//HACK out with the crap -GHS
+GI 4 0
+WVP 2 SE106 1 0
+//SEF 101 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+//太一「がああっ！？」
+Taichi: "GAAAH?!"
+TP
+
+WVP 1 bgm011.ogg 0 0 0
+
+
+WVP 0 vfccb0006kri001
+//霧「この女の敵っ！！」
+Kiri: "You enemy of women!!!"
+TP
+
+//背後からの踵落としですかそうですか。
+Could that be a drop-kick from behind perhaps indeed that is so.
+TP
+
+//ゆっくりと俺の意識は混濁して……いく直前で復帰した。
+Slowly my awareness was clouded up as if by fog... and just before completely going, it was back.
+//Guessing this is a pun on her name. -GHS
+TP
+WVP 2 SE038 1 0
+
+//べち
+Bam.
+//SEF 101 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+TP
+
+//気絶していれば、床に顔面を叩きつける苦痛も感じなかったものを。
+If I had fainted, I wouldn't have felt the agony of smacking my face into the floor.
+TP
+GS 4 0
+SEF 109 0
+
+//太一「……くぅ……痛いじゃないか、下級生」
+Taichi: "...ugh... that hurt you know, underclassman!"
+TP
+
+//ギロッという感じの視線が、俺を射竦める。
+The feeling of a sight using me as a guiro, pinning me down.
+//That's a musical instrument. -GHS
+TP
+GL 1 TCSK0002s
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfccb0006kri002
+//霧「どっちが悪いのか、一目瞭然ですから」
+Kiri: "But who is in the wrong here should be readily apparent."
+TP
+
+WVP 0 vfccb0006myk006
+//みゆき「あ、あの、あなたは？」
+Miyuki: "Ah-, uhm, you are...?"
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+//HACK Normal Sepia Kiri -GHS
+
+WVP 0 vfccb0006kri003
+//霧「通りすがりの転入生」
+Kiri: "A student who just transferred in and was passing by."
+//This should be June at the absolute latest, so she might've been around for a few months. -GHS
+TP
+
+//太一「おうおう、絵になる光景だのう、友貴よ」
+Taichi: "My my, Tomoki, this is a picturesque sight!"
+TP
+
+WVP 0 vmccb0006yki005
+//友貴「頼むから僕が仲間であるかのように話しかけないでくれ」
+Tomoki: "For crying out loud don't just talk to me as if we were friends, please!"
+//See end of route. -GHS
+TP
+
+//友貴は冷たいので我関せずの立場を取った。
+Tomoki took a cold Not My Problem stance.
+TP
+
+//太一「ちっ、偽善者め」
+Taichi: "Tsk, damn hypocrite!"
+TP
+
+//まあいい。
+Ah, who cares.
+TP
+
+//太一「おい下級生、葬り去る前に名前くらいは聞いてやるぞ」
+Taichi: "You! Underclassman! Before I consign you to oblivion, I will hear what you claim to be your name!"
+TP
+GL 1 TCSK0001s
+GI 1 0
+
+WVP 0 vfccb0006kri004
+//霧「痴漢！」
+Kiri: "Molester!"
+TP
+
+//太一「俺を置き換えるだと！？」
+Taichi: "Are you trying to replace me?!"
+TP
+
+WVP 0 vmccb0006yki006
+//友貴「果てしなくバカだね」
+Tomoki: "An idiot to the end of time ain't you."
+//Seemed more appropriate like this -GHS
+TP
+GL 1 TCSK0011s
+GI 1 0
+
+WVP 0 vfccb0006kri005
+//霧「先生に報告しますから」
+Kiri: "I will be telling the teachers."
+TP
+
+//太一「ほ、先生とな。どの先生に泣きつくつもりかな、おぜうさん？」
+Taichi: "Huh, teachers. Which teacher are you planning on going to cry to, my dear lady?
+//See CCC0024 -GHS
+TP
+GL 1 TCSK0002s
+GI 1 0
+
+WVP 0 vfccb0006kri006
+//霧「誰にでも」
+Kiri: "Any is fine."
+TP
+
+GL 1 TCSK0001s
+GI 1 0
+
+WVP 0 vfccb0006kri007
+//霧「だってこんなの、セクハラじゃない！」
+Kiri: "Because what's this but sexual harassment!"
+TP
+
+WVP 0 vmccb0006yki007
+//友貴「……黒須と知り合ってまだ間もないけど」
+Tomoki: "...I haven't known Kurosu that long but,"
+TP
+
+WVP 0 vmccb0006yki008
+//友貴「セクハラという単語を聞く回数が飛躍的に増えて嬉しいよ。ありがとう」
+Tomoki: "I'm so glad the number of times I've heard the words 'sexual harassment' has grown by leaps and bounds. Thank you so much."
+TP
+
+//太一「気にするなマイフレン、人徳のなすわざだ」
+Taichi: "Worry not about it, my friend, 'tis a technique born of natural virtues!"
+TP
+GL 1 TCSK0011s
+GI 1 0
+WVP 0 vfccb0006kri008
+//霧「堂々とスカートめくろうとするなんて……最低！」
+Kiri: "Flipping skirts all bold and unapologetic... disgusting!"
+TP
+
+//太一「へえ。偉いんだ」
+Taichi: "Ehhh, aren't I awesome."
+//Think he's talking about himself. -GHS
+TP
+
+//太一「でそれを、先生に言いつけると？」
+Taichi: "So you gonna rat about that to the teachers?"
+TP
+GL 1 TCSK0021s
+GI 1 0
+WVP 0 vfccb0006kri009
+//霧「そうよ！」
+Kiri: "Yeah!"
+TP
+
+//太一「なあ、正義のヒロインちゃんはこんなことは考えないのかな？」
+Taichi: "Say, I wonder, has the Heroine of Justice-chan considered this?"
+TP
+
+//太一「なぜ俺が白昼堂々と、しかも人前でスカートをことさらゆっくりめくろうとしていたか」
+Taichi: "Why would I, unashamedly and in broad daylight, and in company furthermore, be trying to so attentively flip a skirt?"
+//Seems to work better than slowly here -GHS
+TP
+
+WVP 0 vmccb0006yki009
+//友貴「……単に反応を愉しみたかったダゲァ！？」
+Tomoki: "...'cause you simply wanted to relish her reaction, what eAHLS?!"
+//"Else". More pretentious tanoshii -GHS
+TP
+WVP 2 se003 1 0
+//SEF 101 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+
+//正拳側中段突き。
+Direct Horizontal Straight Punch.
+//See CCB0005 -GHS
+TP
+
+//太一「そしてなぜこの風紀委員長・島友貴がそれを止めることもできずにいたのか」
+Taichi: "Furthermore, why would Public Morals Committee Chairman Shima Tomoki here be also incapable of putting a stop to this?"
+TP
+
+WVP 0 vmccb0006yki010
+//友貴「はい！？」
+Tomoki: "What?!"
+TP
+
+GL 1 TCSK0003s
+GI 1 0
+
+WVP 0 vfccb0006kri010
+//霧「ま、まさか……」
+Kiri: "It-, it couldn't..."
+TP
+
+//太一「そのまさかさ」
+Taichi: "It could, exactly!"
+TP
+
+//太一「すなわちそれは、俺がこの学院で絶大な権力を有していることを意味している！！」
+Taichi: "For I, to make the implicit meaning into an explicit, am endowed with a tremendous amount of political influence over this institute!!!"
+TP
+
+//太一「のう、友貴よ？」
+Taichi: "Is that a no, Tomoki-yo?"
+//Tone change. That's a literal "nou" used as "no", so it recurring is justified. -GHS
+TP
+
+WVP 0 vmccb0006yki011
+//友貴「だからこっちに振るなと」
+Tomoki: "I told ya not'to push this towards me!"
+TP
+
+//GL 1 TCSK0001s
+GL 1 TCSK0021s
+GI 1 0
+//HACK angrier Sepia Kiri -GHS
+
+WVP 0 vfccb0006kri011
+//霧「あんたたちっ！」
+Kiri: "You two!"
+TP
+
+WVP 0 vmccb0006yki012
+//友貴「おいっ！　僕は違うぞ！」
+Tomoki: "Hey! I got nothin' to do with this!"
+TP
+
+WVP 0 vfccb0006kri012
+//霧「許さない。絶対絶対許さない！」
+Kiri: "Inexcusable. Absolutely, absolutely inexcusable!"
+TP
+
+WVP 0 vmccb0006yki013
+//友貴「そもそも風紀委員ってのが違うダボァ！？」
+Tomoki: "To start with, me being a member of the Morals Committee is wrong sOGH?!"
+TP
+WVP 2 se003 1 0
+//SEF 101 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+
+//正拳側上段突き。
+Direct Upper Straight Punch
+//PCP above
+TP
+
+//太一「ふっふっふ」
+Taichi: "Hoh hoh hoh!"
+//Noblewoman's Laugh. -GHS
+TP
+
+//ポケットに手をつっこみ、瞑想するかのように目を閉じ、名悪役の物腰で、
+A hand thrust in the pocket, the eyelids lowered as if meditating, all with the bearing of famous villains.
+TP
+
+
+//太一「すなわちそれは、俺がこの学院で絶大な権力を有していることを意味している！！」
+Taichi: "For I, to make the implicit meaning into an explicit, am endowed with a tremendous amount of political influence over this institute!!!"
+//CP above
+TP
+
+//語尾とともにくわっと開眼した。
+On the trail of the last words shock zoom and sharp sound effect as I opened my eyes.
+//Not graphic enough in English otherwise. -GHS
+TP
+
+WVP 0 vmccb0006yki014
+//友貴「それさっき言った」
+Tomoki: "You said that already."
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+WVP 0 vmccb0006yki015
+//友貴「使いどころが少し早すぎたんじゃないかな、さっきの」
+Tomoki: "And the spot where you used that line was sort of way too early, wasn't it. The one before I mean."
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+GL 1 TCSK0002s
+GI 1 0
+
+WVP 0 vfccb0006kri013
+//霧「群青学院にはいじめはないって聞いてたのに……」
+Kiri: "And they told me that there's no bullying at the Gunjou Institute..."
+TP
+
+WVP 0 vfccb0006myk007
+//みゆき「あの、いじめられていたわけではないので」
+Miyuki: "Uhm, I wasn't really being bullied..."
+TP
+
+//GL 1 TCSK0000s
+GL 1 TCSK0003s
+GI 1 0
+//HACK more flapped sepia Kiri -GHS
+
+WVP 0 vfccb0006kri014
+//霧「……え？」
+Kiri: "...eh?"
+TP
+
+WVP 0 vfccb0006myk008
+//みゆき「あの人たちは、いつもああなんです。悪気ないんです」
+Miyuki: "Those two are always like this. It's not ill will!"
+TP
+
+WVP 0 vmccb0006yki016
+//友貴「たちって……」
+Tomoki: "'Those two'..."
+//See CCA0007 -GHS
+TP
+
+//友貴はげんなりした。
+Tomoki sulked, dejected.
+TP
+
+//太一「たちって……」
+Taichi: "'Those two'..."
+TP
+
+//俺はげんなりとした。
+I sulked, dejected.
+TP
+GL 4 sgcc0001s
+$CGsgcc0001s = 1
+GP 4 0 0
+GO 1 0
+WVP 2 se003 1 0
+GI 4 0
+//SEF 101 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+WVP 0 vmccb0006yki017
+//友貴「おまえがげんなりとする理由がどこにあるんだよー！」
+Tomoki: "What's even the reason you have for sulking all dejected!"
+TP
+
+//太一「俺は偽善者じゃない！」
+Taichi: "Because I ain't a hypocrite!"
+TP
+
+WVP 0 vmccb0006yki018
+//友貴「僕だって違う！」
+Tomoki: "I got nothing to do with this!"
+TP
+
+//太一「やるかー！」
+Taichi: "You so dooo!"
+//Children. -GHS
+TP
+
+//もみあいに。
+Push, shove, jostle and struggle.
+//CP CCA0007
+TP
+
+WVP 0 vmccb0006yki019
+//友貴「薄味マキャベリスト！」
+Tomoki: "Insipid Machiavellist!"
+//SEF 101 0
+WVP 2 se003 1 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+TP
+
+//太一「シスコン殺人事件！」
+Taichi: "Siscon-related murder case!"
+//Can't source anything specific... more like, for once, I'd rather not to. -GHS
+//SEF 101 0
+WVP 2 se003 1 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+TP
+
+WVP 0 vmccb0006yki020
+//友貴「低学歴低収入！」
+Tomoki: "Inferior education means poor remuneration!"
+//Still concerning the stocks -GHS
+//SEF 101 0
+WVP 2 se003 1 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+TP
+
+//太一「アースデプリ！」
+Taichi: "Earth Debris!"
+//Actually says "depuri", not "deburi". A typo that remained until the Xbox 360 version. Since that's 2011, the 2009 Amaterasu translation was the first time it'd ever been fixed. -GHS
+//SEF 101 0
+WVP 2 se003 1 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+TP
+
+WVP 0 vmccb0006yki021
+//>　　　　　　　　　　はいざん
+//友貴「株の敗残者！」
+Tomoki: "Stocks market loser!"
+//Part 2, Taichi the Failed Speculator -GHS
+//SEF 101 0
+WVP 2 se003 1 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+TP
+
+//太一「かかか株のことは言うなー！！」
+Taichi: "St-st-st-stocks are out of bounds!!!"
+//SEF 101 0
+WVP 2 se003 1 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+TP
+
+WVP 0 vfccb0006kri015
+//霧「仲間割れをっ！？」
+Kiri: "Are they having a falling out?!"
+TP
+
+WVP 0 vfccb0006myk009
+//みゆき「あーあ……」
+Miyuki: "Ahhh, ahhh..."
+TP
+
+WVP 0 vmccb0006yki022
+//友貴「おまえだって人のこと、シスコンオナニーのプロとかあちこちで吹聴しただろ！」
+Tomoki: "You went and told everybody left and right of how some people are 'pro-level siscon onanists', didn't you!"
+//clarified a bit what he's referring to -GHS
+TP
+
+//太一「ああ言ったさ！　特に女の子に言ったさ！　皆もう大喜びさ！」
+Taichi: "Yeah I said it! I said it especially to girls! And everybody's so very happy for you!"
+TP
+
+WVP 0 vmccb0006yki023
+//友貴「あれからたまにプロとか呼ばれるようになったんだぞー！」
+Tomoki: "And since then every once in a while someone calls me a 'pro' and that stuff!"
+TP
+
+//太一「事実だろうが！」
+Taichi: "It's a fact!"
+TP
+
+WVP 0 vmccb0006yki024
+//友貴「こっちだって事実だ！」
+Tomoki: "What I said's a fact too!"
+//Stocks -GHS
+TP
+
+//太一「くっそー！」
+Taichi: "Dammiiit!"
+TP
+
+WVP 0 vmccb0006yki025
+//友貴「なにをー！」
+Tomoki: "What nooow!"
+TP
+
+WVP 2 se039 1 0
+//ポカポカポカポカッ！！
+SlapSlapSlapSlap!!!
+//SEF 101 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+TP
+
+GO 4 1
+
+//そして。
+And then,
+TP
+
+//俺たちは自滅した。
+we self-destructed.
+TP
+
+WVP 0 vmccb0006yki026
+//友貴「ううう」
+Tomoki: "Ngggh..."
+TP
+
+//太一「ぐぐぐ」
+Taichi: "Ghhh..."
+TP
+
+//廊下に仰臥する二人。
+The two of us lie on our back in the hallway.
+TP
+
+WVP 0 vfccb0006myk010
+//みゆき「……保健室行きますか？」
+Miyuki: "...do you need to go to the infirmary?"
+TP
+
+//太一「さ、さっきの正義の味方は？」
+Taichi: "Wh-, what about that Champion of Justice of earlier?"
+TP
+GL 1 TCSK0000s
+GI 1 1
+WVP 0 vfccb0006kri016
+//霧「佐倉霧。正義の味方じゃない」
+Kiri: "Sakura Kiri. I'm not a Champion of Justice."
+//Typically translated as "Ally of Justice", but I never liked that. This trope would seem to apply to Kiri in more than a sense. I'm always amused by how this term is used to mean "someone allied with Good", but because actually going into what Good really means is hard, it was instead invalidly replaced with an undefined Justice. ...but I guess that's too far off the topic. -GHS
+TP
+
+//少女は俺たちを見下しながら言った。
+So she said while looking down on us.
+//Both meanings of course. -GHS
+TP
+
+GL 1 TCSK0011s
+GI 1 0
+
+WVP 0 vfccb0006kri017
+//霧「……そしてあなたたちも、悪なんて美意識のあるものじゃないことがわかった」
+Kiri: "...furthermore, you have understood that evil has no sense of beauty."
+//I think she's referring to the sad spectacle they just gave, not generally. -GHS
+
+TP
+//>　　　　　　　　　　　　　　ぼうだ
+//ぶわっと友貴が滂沱する。
+With a sudden Tomoki explodes in a torrent of tears.
+TP
+
+WVP 0 vmccb0006yki027
+//友貴「ぼ、僕は関係ないのに。太一のせいで僕まで……」
+Tomoki: "I-, I have nothing to do with this! It's Taichi's fault, always making me..."
+TP
+
+//友貴はカブトの幼虫みたいに丸くなった。
+Tomoki huddles over until he looks as round as the larva of a stag beetle.
+TP
+
+WVP 0 vmccb0006yki028
+//友貴「いいもう。引きこもる」
+Tomoki: "Had enough. Hikikomori now."
+//Will recur. ...of course. -GHS
+TP
+
+//しくしく泣き出す。
+Sobbing and weeping tears flow out.
+TP
+
+WVP 0 vfccb0006myk011
+//みゆき「そこまで……」
+Miyuki: "Pushed that far..."
+TP
+
+GL 1 TCSK0002s
+GI 1 0
+
+WVP 0 vfccb0006kri018
+//霧「この子もいいって言うし、その無様さに免じて今回だけは見逃してあげます」
+Kiri: "If the girl also says it's fine, then in deference to this unpresentable event, I will overlook things this time."
+TP
+
+//太一「……体が動くようになったら……おぼえてろよ……霧とやら」
+Taichi: "...once I'm able to move myself again...! I will not let this slide... Kiri or what was your name!"
+TP
+
+//霧は冷笑した。
+Kiri laughed with scorn.
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+
+WVP 0 vfccb0006kri019
+//霧「どうぞ、ご自由に」
+Kiri: "Please, feel free to."
+TP
+
+
+WVS 3 1
+
+TWS 7
+TS 2
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+SEF 109 5
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 2
+TS 1
+//HACK out of the flashback, white then black, NVL mode -GHS
+//佐倉霧との出会いだった。
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+            That had been my meeting
+               with Sakura Kiri.
+//PCP CCA0011C
+TP
+
+WVS 1 0
+
+WT 500 0
+WT 500 1
+
+
+RET

@@ -1,0 +1,133 @@
+
+
+GL 0 bgcc0003
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+WVP 1 bgm020.ogg 0 0 0
+//HACK music "Deep Inside" -GHS
+
+//そして俺は、逃げ戻った。
+And then I escaped back to where I came from.
+TP
+
+
+//失敗は許されない。
+Failures are impermissible.
+TP
+
+
+//決して。
+In every way.
+TP
+
+
+//慎重に行かねばならない。
+I must proceed carefully, without fail.
+TP
+
+
+//太一「はぁっ……」
+Taichi: "Siiigh..."
+TP
+
+
+//瞬間的にふくれあがった、悪意。
+It was a momentary swelling of malice.
+TP
+
+
+//思春期の性欲のようなそれを、吐き出すのは容易ではない。
+It is something so like the sexual desire of puberty that, and vomiting it out is not trivial.
+//It IS the sexual desire of puberty you dumb 17 year old! Interesting he'd use words to the effect of 'vomit', given Yusa. He means the opposite, technically - not pushing it out onto her, but purging it from himself instead of keeping it inside and brewing more malice. This is part of why the Youko Sendback works that way. -GHS
+TP
+
+
+GL 0 bgcc0003c
+GS 0 1
+SEF 155 1
+//俺は残る日数を自宅で過ごした。
+I spent the leftover days at my home.
+TP
+
+
+//誰とも接触しなかった。
+I had no contact with anybody,
+TP
+
+
+//危険はおかしたくなかったからだ。
+because I did want to take the risk of trespassing into something dangerous.
+TP
+
+
+//そして……日曜。
+And then... Sunday.
+TP
+
+
+
+GL 0 bgcc0016
+GS 0 1
+SEF 152 0
+//俺は静かに時を待った。
+I waited for the time in silence.
+TP
+
+
+//その後の皆が、どう過ごしたのかはわからない。
+How all the ones that remained passed their time after that, I have no idea.
+TP
+
+
+//幾度、皆の個別はかき消されたのだろう？
+How many times has everyone's individuality been erased by now?
+TP
+
+
+//その重い事実は、俺を眩ませた。
+The weight of that truth dazzled and disoriented me.
+TP
+
+
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 109 1
+WVS 1 1
+//HACK end music -GHS
+//そして―――
+And then---
+TP
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 2
+
+
+WT 1500
+WT 1500 1
+
+
+
+$B = 1
+IF $SB_FALSE < 19 JMP L_INC
+JMP L_DODGE
+//HACK I've tweaked it. Watch out now. -GHS
+
+
+:L_INC
+
+$SB_FALSE + 1
+
+:L_DODGE
+IF $SB_FALSE > 17 $B = 2
+
+
+RET
+
+
+

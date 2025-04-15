@@ -1,0 +1,92 @@
+
+GL 0 bgcc0005
+GS 0 1
+GL 1 TCCN0102
+GP 1 180 0
+GS 1 1
+SEF 109 1
+WVP 1 bgm018.ogg 0 0 0
+
+
+WVP 0 vfCCD0001nnk035
+//七香「ね、お願い！　これからちょっとつきあって！」
+Nanaka: "Well, if you please! Keep me company a bit right now."
+TP
+
+
+//手を合わされる。
+She joined my hand with hers.
+TP
+
+
+
+
+
+
+//太一「……よし、行こう！」
+Taichi: "...good, let's go!"
+TP
+GL 1 TCCN0100
+GI 1 0
+
+WVP 0 vfCCD0001nnk041
+//七香「よく言った！　偉いぞ太一ー」
+Nanaka: "You said it! Good one, Taichi!"
+TP
+
+
+//太一「あっ、チュパカブラス！」
+Taichi: "Ah! A chupacabra!"
+TP
+
+GL 1 TCCN0102
+GI 1 0
+
+WVP 0 vfCCD0001nnk042
+//七香「え、どこ？」
+Nanaka: "Eh? Where?"
+TP
+
+
+//ダッシュ。
+Dassh'u!
+GO 1 1
+TP
+
+WVP 0 vfCCD0001nnk043
+//七香「あー、逃げるなーっ！　こらーっ！」
+Nanaka: "Ahhh, don't run awaaay! Come ooon!"
+TP
+
+
+//危険すぎる。
+That was way too dangerous.
+TP
+
+
+//幽霊に取り憑かれるのは御免だぜ。
+I'm sorry, but becoming haunted by a ghost is no go.
+TP
+
+WVS 1 1
+
+WVP 0 vfCCD0001nnk044
+//七香「もーーーーーーーーーーーっ！！」
+Nanaka: "REALLYYYYYYYYYYYY!!!"
+TP
+
+
+//ちょっと可哀相な気もしたけど。
+I did feel a bit of pity, though.
+TP
+
+GS 0 0
+GS 1 0
+SEF 109 1
+
+Translator's Note: This scene appears complete. It is unknown how the rest of the route would have played after this, perhaps it was possible to replay previous routes, perhaps readers would be railroaded back. The voices were shipped with the final release.
+TP
+
+
+
+RET

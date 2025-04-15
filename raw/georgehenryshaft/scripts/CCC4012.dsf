@@ -1,0 +1,1139 @@
+//Thursday September 10, 1998 (tagged for consistency as CCC0042 is a shared script). Boy this script is a mess. Short version: no doll work has been made on this, none whatsoever. It also has one of the most horrible typos in the whole of the VN, which gave me quite the headache in the past. And Tanaka seems to be well aware of it. -GHS
+
+
+
+
+WVP 3 SE001 0 0
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0011bs
+//I don't know what the hell they've done to this BG in the 360 version, it looks like they cranked up the orange and the Miki sepia doll looks completely out of place. Maybe they thought it didn't contrast enough? ...on the big screen? No idea. -GHS
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+
+//GL 0 bgcc0011bs
+//GS 0 1
+//GS 1 0
+//GS 2 0
+//SEF 152 1
+
+
+WVP 1 bgm002.ogg 0 0 0
+
+//美希に声をかけたのは、俺が最初だと思う。
+I was the first to call out to Miki, I think.
+TP
+
+//彼女は本来の学校を追い出されて、群青にやってきたラブリーな子羊ちゃんだった。
+Having been thrown out from her original school, she was a lovely lamb that had been brought into the blue folds of Gunjou.
+//Look at this scene and realize how people with high Conformity Coefficient can't conform to Gunjou. Truly, the designers of this place are GENIUSES. -GHS
+TP
+
+//初日。
+The first day,
+TP
+
+//彼女は昼ご飯というものを持ってこなかった……らしい。
+she did not have anything to eat at lunch... it seemed.
+TP
+
+//その情報を、美希とクラスメイトになったみゆき経由でゲットすると、即捜しに出向いた。
+Through an Information Get from Miyuki, who had become her classmate, I immediately set out to search for her,
+//Miki and Miyuki are both 3rd years mid-school, Taichi is 1st year high. Sooo... why does he seek Miki out? The answer seems to be in the first sentence: because she was isolated from the rest. It's not because she's asocial, although, like Touko and Kiri, she seems to be refusing (or at least be incapable) of adapting to her situation. As should be expected by people with abnormal CC. -GHS
+TP
+
+//偶然を装って出会いイベントをセッティングするためだ。
+to set up a Meeting Event dressed up as coincidence.
+//So how's your VN Lingo Bingo coming along? -GHS
+TP
+
+//近隣に迷惑をかけないよう閉ざされた正門前。
+In front of the main gate, shut to avoid causing trouble for the neighborhood,
+//Wasn't it to prevent running away? Of course, there's no contradiction... technically. -GHS
+TP
+
+//美希はそこで立ち往生していた。
+there Miki was standing, as if stuck.
+TP
+
+//太一「ハーイ！」
+Taichi: "Hii-y!"
+//seems some horrible mix between 'hai' and 'hi' -GHS
+TP
+
+GL 1 TCYM0004S
+GP 1 180 0
+GI 1 1
+//HACK doll -GHS
+
+WVP 0 vfCCC4012mki000
+//美希「……え？」
+Miki: "...eh?'
+TP
+
+//太一「彼女、可愛いね。どうしちゃったの？　困ってるみたいだけど？」
+Taichi: "A girl, and cute. What are you doing? You look troubled. Are you?"
+TP
+WVP 2 SE065 1 0
+
+//シュコー、シュコー
+Hoooh, haaah.
+//Darth Vader sounds. In fact, given the whole chuuni/disciple/thing and all, this might just be the exact intended effect. Term googles to gas mask AND Darth Vader pics, so it may actually be the official SFX (somehow). -GHS
+TP
+
+GL 1 TCYM0002S
+GI 1 0
+//HACK doll -GHS
+
+WVP 0 vfCCC4012mki001
+//美希「あ、あの……いえ……」
+Miki: "Ah, uhm... no..."
+TP
+
+//太一「なんだい？　わかんないことがあったら、群青の類語辞典と呼ばれた黒須君になんでも聞いてくれよ。同義語をたくさん教えてやるぜ。その意味まではわからないけどな」
+Taichi: "What's it? If there's something you don't get, you can ask anything to the Thesaurus of Gunjou, as Kurosu-kun here is called. I'll teach you all sorts of synonyms. The meanings, though, those I got no clue about."
+//If someone wondered whether the purple prose was intended to ridicule people who like to throw big words everywhere, but don't know what the hell they're reading... -GHS
+TP
+WVP 2 SE065 1 0
+//シュコー、シュコー
+Hoooh, haaah.
+TP
+
+GL 1 TCYM0000S
+GI 1 0
+//HACK doll -GHS
+
+WVP 0 vfCCC4012mki002
+//美希「あの……では一つだけ」
+Miki: "Uhm... well just one."
+TP
+
+//太一「ＯＫ」
+Taichi: "Okieh."
+TP
+
+WVP 0 vfCCC4012mki003
+//美希「どうしてがすますくしてるんですか？」
+Miki: "Why are you wearing a gas mask?"
+//See CCA0015B. Yeah, that was a spoiler. Art department gets a big fat boo. -GHS
+TP
+
+//太一「ファッションさ！」
+Taichi: "It's fashionable!"
+//"Join me, and we shall rule the galaxy as Pedo and Loli!" -GHS
+TP
+
+//なんとなく素顔を見せたくない。
+For some reason I don't want to show my true face.
+//Multiple meanings. -GHS
+TP
+
+//一種の醜形コンプレックスらしい。
+Some kind of ugliness complex, it seems.
+//Is his Body Dismorphic Disorder yet to be diagnosed? More interesting is that this continues to prove the idea that Taichi's monsterhood is entirely imaginary: the gas mask he's wearing is making him look way scarier than he really is. Interesting how Miki's curious, but unafraid: she's likely attracted by his chuuni already. -GHS
+TP
+WVP 0 vfCCC4012mki004
+//美希「おぐし、白いですね」
+Miki: "Your hair's white, is it."
+TP
+
+//太一「染めてるのサ」
+Taichi: "It's dyed!"
+TP
+WVP 2 SE065 1 0
+//シュコー、シュコー
+Hoooh, haaah.
+TP
+
+//太一「そんなことより、もっと気になることがあるんじゃないのかい？」
+Taichi: "More importantly, isn't there something that really worries you now?"
+TP
+
+GL 1 TCYM0021S
+GI 1 0
+//HACK doll -GHS
+
+WVP 0 vfCCC4012mki005
+//美希「門が閉まってて……お昼を買い物に行けないんですけど」
+Miki: "The gate is closed... so I can't go buy anything to eat for lunch."
+TP
+
+//太一「ふむ。前の学校は？」
+Taichi: "Hum! And in your previous school?"
+TP
+
+GL 1 TCYM0000S
+GI 1 0
+//HACK doll -GHS
+
+
+WVP 0 vfCCC4012mki006
+//美希「給食でしたから」
+Miki: "We had the School Meal system."
+//http://en.wikipedia.org/wiki/School_meal Provided in 99% of the schools in Japan. But not Gunjou...? -GHS
+TP
+
+//太一「シンデレラガール、可哀相だけれどここの門は開かないんだ」
+Taichi: "You are pitiable, my overnight success of a Cinderella Girl, however this gate here will not open."
+//It's all cybersquatted by IdolMaster (sorry, t3H 1d0l/\/\@st3r) now, so whatever was the origin of that idiom I can't find. Seems to be a mix between Cinderella (she's poor, and Taichi guesses) and the idiom itself, meaning she got (in)famous by being sent to Gunjou all of a sudden. -GHS
+TP
+
+//太一「学生は就業時間中は外に出てはいけないんだ」
+Taichi: "Students cannot go outside during school hours."
+TP
+
+GL 1 TCYM0002S
+GI 1 0
+//HACK doll -GHS
+
+
+WVP 0 vfCCC4012mki007
+//美希「え……でも……学食行ったら全部売り切れてて」
+Miki: "Eh... but... when I went to the cafeteria, everything was sold out!"
+//I suppose that Miki isn't so poor she can't afford the cafeteria. However, their family seems to have no money/time for OBENTO-DESUUUUUUUU*crk* which leads back to her not having RAISUUUUU*crk* for breakfast and the Tasaki raids. -GHS
+TP
+
+//太一「本能強いからね、みんな。はやいもの勝ち」
+Taichi: "Everybody here has strong instincts, that's why. First come, first served."
+//Since prowling the corridors doesn't seem to be odd even in allegedly non-suspect times (CCA0007 should be a few weeks after this), prolly most of the good stuff is sold out by lunch. Gunjou is awesome. -GHS
+TP
+
+WVP 0 vfCCC4012mki008
+//美希「……そうですか……どうも」
+Miki: "...so it is... thanks."
+TP
+GO 1 1
+//WHY DO YOU HAVE THE CORRECT DOLL DISABLE COMMAND HERE WHEN YOU NEVER IMPLEMENTED DOLLS IN THE FIRST PLACE AGGGGRHGRHASDF -GHS
+
+//校内に戻っていく。
+She goes back towards the school building.
+TP
+
+//太一「まあ待ちたまえ」
+Taichi: "Oh, but gladden me with waiting!"
+TP
+WVP 2 SE065 1 0
+//シュコー、シュコー
+Hoooh, haaah.
+TP
+
+GI 1 1
+//HACK In doll. -GHS
+
+//太一「ここに、賞味期限はちょっとあやしいがうまいパンがあるのだが、どうかね？　俺と一緒に食べないか？」
+Taichi: "I have some delicious bread here, even if its best-before date is suspicious, how about it? Won't you eat with me?"
+//See CCC0009. Interesting with all the talk about bread not spoiling he'd use this as lure. -GHS
+TP
+
+//美希は迷惑よりの困惑をその顔に浮かべた。
+Miki's face showed less annoyance and more bewilderment.
+TP
+WVP 0 vfCCC4012mki009
+//美希「……いえ、そこまでは」
+Miki: "...no, that is a bit much."
+TP
+
+//太一「遠慮はいらない。甘えてくれていいんだよ」
+Taichi: "No need to hold back. Just let me treat you."
+TP
+
+WVP 0 vfCCC4012mki010
+//美希「初対面の人に甘えるとか、できないです……あの、本当にいいんで……どうも」
+Miki: "I cannot be treated by people I just met for the first time... uhm, seriously I'm fine... thanks."
+//Don't take candies from strangers? -GHS
+TP
+
+//太一「まあまあ、昼抜きでは午後はきついだろう」
+Taichi: "Come on, come on, afternoon's a pain without lunch."
+TP
+WVP 0 vfCCC4012mki011
+//美希「ごめんなさい」
+Miki: "My apologies."
+TP
+
+//明確な、拒絶。
+Definite rejection.
+TP
+
+//太一「……ＯＫ。じゃこうしよう。食べ物あげるからかわりのものをくれよ」
+Taichi: "...okieh. Then I'll do this. I will give you something to eat in exchange for something from you!"
+//See CCC0031B, CCC3007. Wondering if that last girl was always Miki, as Taichi deludes himself of this weird world, still sitting in his classroom... -GHS
+TP
+
+//美希「…………」
+Miki: "......"
+TP
+
+//どうやって逃げようか、思案している風に見える。
+The face I'm looked at with screams, "I'm thinking about how to get away from this".
+TP
+
+//諦めて、言った。
+Resigning herself, she said,
+TP
+
+GL 1 TCYM0021S
+GI 1 0
+//HACK doll -GHS
+
+
+WVP 0 vfCCC4012mki013
+//美希「かわりのもの？」
+Miki: "Something in exchange?"
+//Exchange seems to still work, if not foundation. Interesting she's about to do a food transaction with Taichi when she'll later be stealing from Tasaki, especially considering she cheats him. -GHS
+TP
+
+//太一「うん。君のパンツ」
+Taichi: "Yes. Your panties."
+TP
+
+GO 1 1
+//HACK out doll -GHS
+
+//立ち去る。
+She leaves.
+TP
+
+//太一「冗談冗談！」
+Taichi: "Kidding, kidding!"
+TP
+
+GL 1 TCYM0001S
+GI 1 1
+//HACK back -GHS
+
+WVP 0 vfCCC4012mki014
+//美希「あの……わたし、もしかして遊ばれてます？」
+Miki: "Uhm... could you be perhaps... toying with me?"
+//See CCA0013: he made her too much of a mimidoshima. -GHS
+TP
+
+//太一「俺が遊んでほしいんだ」
+Taichi: "I do want to play."
+TP
+
+WVP 0 vfCCC4012mki015
+//美希「バカにされてる気がします……」
+Miki: "I feel like you just want to ridicule me..."
+TP
+
+//太一「大丈夫。俺もバカだから」
+Taichi: "It's all right. After all, I'm also ridiculous."
+TP
+WVP 2 SE065 1 0
+
+//シュコー、シュコー
+Hoooh, haaah.
+TP
+
+WVP 0 vfCCC4012mki016
+//美希「……パンツなんて人にあげる気ないです」
+Miki: "...I don't really feel like giving panties around."
+//The PS2 version keeps this line intact, but censors the request above. Spot-on job, as usual. -GHS
+TP
+
+//太一「じゃあ何だったらもらってもいい？」
+Taichi: "Then what would you like to give me?"
+TP
+
+GL 1 TCYM0000S
+GI 1 0
+//HACK doll -GHS
+
+
+WVP 0 vfCCC4012mki017
+//美希「本当に何でもよろしいんですか？」
+Miki: "I can give you anything, really?"
+TP
+
+//太一「ああ」
+Taichi: "Yep."
+TP
+
+//瞳が挑戦的に光る。
+Pupils shine with defiance.
+TP
+
+WVP 0 vfCCC4012mki018
+//美希「わたしの一生つかいっぱしりになってくれ、とか」
+Miki: "Say I wanted to concede you to become my gopher for life."
+//Twisting the words straight off the gate. -GHS
+TP
+
+//太一「愛奴隷か。望むトコロだ」
+Taichi: "A love slave? I would love that!"
+TP
+
+GL 1 TCYM0004S
+GI 1 0
+//HACK doll -GHS
+
+
+//ぎょっとされる。
+She's startled.
+TP
+
+WVP 0 vfCCC4012mki019
+//美希「やっぱ今のナシ。かわりによつんばいになって犬の……きゃっ！？」
+Miki: "Indeed I can do without for now. Instead, I'll give you the order to get on all fours, then, like a dog... KYAH?!"
+//This form will return in CCC4022, keeping it a bit unique-ish. See CCC0026 for the replay. -GHS
+TP
+
+//『犬の』の時点ですでに犬完了だった。
+Dogness was already attained at the exact moment in time she said "like a dog".
+TP
+
+//太一「わん！」
+Taichi: "Woof!"
+TP
+
+GL 1 TCYM0002S
+GI 1 0
+//HACK doll -GHS
+
+
+WVP 0 vfCCC4012mki020
+//美希「……ちょ、これもナシ！　ええと、ええと……」
+Miki: "...wa-, this I can also do without! Uhm, uhmmm..."
+TP
+
+//無理難題をふっかけて追い払う気だったらしい。
+Seems like she felt that tossing me an unreasonable request would drive me away.
+//See CCD1001: same as Taichi will try to Misato. -GHS
+TP
+
+//わかってない。
+She doesn't get it.
+TP
+
+//こんな程度では、俺は喜ぶだけだ。
+This level of things just delights me.
+//He's in search of punishment, as well. Who was it that got hooked and participated with zeal back at the Mansion...? -GHS
+TP
+
+GL 1 TCYM0000S
+GI 1 0
+//HACK doll -GHS
+
+
+//美希の顔に自信が戻る。
+Confidence returns on Miki's face.
+TP
+
+WVP 0 vfCCC4012mki021
+//美希「じゃあそのガスマスク、取ってみてください」
+Miki: "Then, please try and take off that gas mask."
+TP
+
+//太一「これか……うーん」
+Taichi: "This? ...hummm."
+TP
+
+//困った。
+That's troubling.
+TP
+
+//俺の第一印象は、けっこう不気味なのだ。
+The first impression of me is... fairly eerie, that's why.
+//That above was his first impression of himself. Indeed, that's true. -GHS
+TP
+
+//が仕方ない。
+But, nothing I can do.
+TP
+
+//マスクを外す。
+I remove the mask.
+TP
+
+//太一「……ほい」
+Taichi: "...here."
+TP
+
+GL 1 TCYM0004S
+GI 1 0
+//HACK doll -GHS
+
+
+//美希「……………………」
+Miki: "............"
+TP
+
+//太一「フィルター抜きの空気はうまいね」
+Taichi: "Air's nice without a filter."
+TP
+
+GL 1 TCYM0021S
+GI 1 0
+//HACK doll -GHS
+
+
+WVP 0 vfCCC4012mki023
+//美希「地毛なんですね、その白髪」
+Miki: "That bleached-white hair is your real hair, isn't it."
+TP
+
+//太一「そうだよ」
+Taichi: "Indeed!"
+TP
+
+WVP 0 vfCCC4012mki024
+//美希「目……コンタクト入れてます？」
+Miki: "Those eyes... are you wearing contacts?"
+TP
+
+//太一「肉体的な欠陥で、虹彩が普通の人とちょっと違うんだよ」
+Taichi: "I got a physical defect, so my iris is a little different from that of normal people."
+TP
+
+//太一「……角度によっては光ってるだろ？」
+Taichi: "...you know that it shines at the right angle?"
+TP
+
+GL 1 TCYM0002S
+GI 1 0
+//HACK doll -GHS
+
+
+WVP 0 vfCCC4012mki025
+//美希「ええ……」
+Miki: "Uhm..."
+TP
+
+//少し怯えていた。
+She's a little bit scared.
+TP
+
+//目は感情を持つ。
+Eyes hold the emotions.
+TP
+
+//人と違えば、不気味に見える。
+Being different from people's means they look eerie.
+//Still wishing the artwork would actually show this. "People" meant, given it's him, specifically as non-human and not just as in 'other people'. -GHS
+TP
+
+//太一「……薄気味悪いだろ。ごめんな」
+Taichi: "...that's probably spooky. Sorry!"
+TP
+
+WVP 0 vfCCC4012mki026
+//美希「いえ、別に……」
+Miki: "No, not really..."
+TP
+
+//太一「このせいで、いろいろつらい目に遭ってきた」
+Taichi: "Because of these, I have had to see so many heart-rending hardships in my life."
+//目に遭って be met with hardships, but literally reads "meet with my eyes" -GHS
+TP
+
+//しんみりアトモスフェア。
+The atmosphere quietens.
+//(pondering if to use Latin) (pondering if to use pig latin) (mmmh, pork) (DINNER.) -GHS
+TP
+
+//太一「でも美少女と昼ごはんを食べたら、きっとこの傷も癒されるんだけどなー」
+Taichi: "But if I eat lunch with a beautiful girl, this wound will be healed for su-ure."
+//See Kiri, especially CCC0027. Damn he uses those lines around... -GHS
+TP
+
+//と言いつつ、しゃがんでミニスカを下方からのぞく。
+And while saying this, I squat to peek through to under her miniskirt.
+TP
+
+GL 1 TCYM0004S
+GI 1 0
+//HACK doll -GHS
+
+
+WVP 0 vfCCC4012mki027
+//美希「きゃああっ！？」
+Miki: "KyAAH?!"
+TP
+
+//太一「ちっ。素早い」
+Taichi: "Tsk. Good reflexes."
+//Hinting that her having gotten better in the first week isn't entirely impossible. -GHS
+TP
+
+GL 1 TCYM0002S
+GI 1 0
+//HACK doll -GHS
+
+
+WVP 0 vfCCC4012mki028
+//美希「な、なんなんですか……あなた……」
+Miki: "Wh-, what-, what are you... really..."
+TP
+
+//太一「俺は群青学院の和英辞典と呼ばれたペダントリーな男だ」
+Taichi: "I, who am called the Gunjou Institute Japanese-to-English Dictionary, am a man of pedantries."
+//See CCA0015C. Now he's a J2E dictionary, and he doesn't know English anyway. On the topic, I strongly support meaning 3 of pedantic in the case of the kind of pretentious bull that's being spoofed here. -GHS
+TP
+
+//太一「ただちょっとエロいのが玉にキズ」
+Taichi: "The only fly in this ointment is being sort of sexually perverted."
+TP
+
+//美希「…………」
+Miki: "......"
+TP
+
+//やがて。
+And soon,
+TP
+
+GL 1 TCYM0003S
+GI 1 0
+//HACK doll -GHS
+
+WVP 0 vfCCC4012mki030
+//美希「ぷっ」
+Miki: "Pft."
+TP
+
+//小さく笑って。
+A tiny laugh.
+TP
+
+WVP 0 vfCCC4012mki031
+//美希「……変な人」
+Miki: "...weirdo."
+TP
+
+//太一「的確な評価だ。さあどうする？　パンツか、ごはんか」
+Taichi: "A precise assessment. So, what will it be? Panties or lunch?"
+TP
+
+GL 1 TCYM0000S
+GI 1 0
+//HACK doll -GHS
+
+WVP 0 vfCCC4012mki032
+//美希「つまり……なんぱってヤツされちゃってるわけですか？」
+Miki: "In other words... I'm being picked up, is that what you are saying?"
+//No, Miki, this isn't Nanpa; it's Denpa. -GHS
+TP
+
+//太一「そーそー」
+Taichi: "Yeppy yep."
+TP
+
+WVP 0 vfCCC4012mki033
+//美希「はじめてですよ、そんなの」
+Miki: "First time I've been, you know."
+TP
+
+//太一「君ならそうだな……五歳から俺の射程距離内だと言える」
+Taichi: "You do look like it is... it could be said that you've been within my striking range from the age of five."
+//This sounds more pedophilic than it probably is... maybe. See CCA0020 and CCA0006. It's not actually clear whether it was HIS being five or hers, given his early days with Nanaka. -GHS
+TP
+
+GL 1 TCYM0021S
+GI 1 0
+//HACK doll -GHS
+
+
+WVP 0 vfCCC4012mki034
+//美希「変態さんなんですね」
+Miki: "So you're a pervert then."
+TP
+
+//太一「いかにも」
+Taichi: "Very much so."
+TP
+
+//太一「で、どうだね、ランチでも？」
+Taichi: "So, what'll it be, some lunch?"
+TP
+
+GL 1 TCYM0003S
+GI 1 0
+//HACK doll -GHS
+
+
+WVP 0 vfCCC4012mki035
+//美希「……じゃああの門を乗り越えて、そのおいしいパン屋さんでもう一人分買ってきて下さい。そしたらご一緒してあげます」
+Miki: "...well, please climb over that gate and buy enough food for one more person at that delicious Bread shop, please. I will then concede eating together with you."
+//Tasaki store, see CCA0030 -GHS
+TP
+
+//太一「いいだろう」
+Taichi: "That's great."
+TP
+
+GO 1 1
+//HACK out doll -GHS
+
+//俺は門によじのぼった。
+I scrambled over the gate.
+//This is why the gate is "always open". To him, it is. -GHS
+TP
+
+//数メートルある。
+It's several meters tall.
+TP
+
+//たちまち警備員が騒ぎ出す。
+All at once the guards come out in an uproar,
+//IOW, they were barely looking at Mr. 84% Clambersovergates when he approached a girl near the gate in a gas mask. There's absolutely nothing that Taichi can't get away with. -GHS
+TP
+
+//が、俺が門を越える方がはやい。着地。
+but I'm faster in going beyond the gate. And land.
+TP
+
+WVP 0 vfCCC4012mki036
+//美希「いっ！？」
+Miki: "YH?!"
+TP
+
+//田崎商店に。
+//To the Tasaki Store,
+//買って、
+//bought,
+
+//HACK a few new lines. It's not as obvious in English that Tasaki hasn't always been precisely called the same all the time, and given CCA0030 (and the BGs) it should be obvious it's not a different store. But Tanaka was in a Fix Dem Inconsistencies mood here, so there you go. -GHS
+
+//田崎食料に。
+To Tasaki Groceries,
+//This is what the sign above the store in the BG says. -GHS
+TP
+
+//田崎商店とも呼ばれる。
+also called the Tasaki Store.
+TP
+//まあ、よくあることだよネ。
+Well, there's lots of stuff there, ain't it.
+//It's all but a Kombini, I guess, otherwise the joke in CCD2002 doesn't make sense. -GHS
+TP
+
+
+GL 0 bgcc0014s
+GS 0 1
+SEF 152 0
+
+//その田崎食料でパンと飲み物を買って、
+And at this Tasaki Groceries I buy bread and drinks,
+//On credit, of course, so he just sticks up a note. Tasaki is straight bee-line from Gunjou, so that the guards wouldn't catch him is borderline absurd. -GHS
+TP
+
+GL 0 bgcc0011bs
+GS 0 1
+SEF 152 0
+
+//戻った。
+and come back.
+TP
+
+//警備員が郊外を数人、俺を捜して走り回っていた。
+There's a number of guards in the suburbs, patrolling in circles, looking for me.
+//And NOT ONE IS GUARDING THE GATE. -GHS
+TP
+
+//突っ切って、再び門を越える。
+I cut through, and cross the gate once more.
+TP
+
+//機動性に劣る警備員は、門を開くしかない。
+The guards, with their inferior mobility, will need to open the gate.
+//So all or at least most of the guards are outside? This is complete incompetence! -GHS
+TP
+
+//そいつらを尻目に、美希を捜す。
+Keeping them in the corner of my eyes, I search for Miki.
+//Note he never seems to pay for this, or even be caught. It's very possible the guards ignored him as he's harmless. It's possible that in the coming years, his comings and goings become so routine that they don't even bother running after him. Just like Combat the dog. -GHS
+TP
+
+//……いないな。
+...she's not here.
+TP
+
+//教室に戻ったか。
+Back to her classroom maybe?
+TP
+
+//一年教室にダッシュ。
+Dash to the First Years' classroom.
+//This is a pretty damn horrible typo, as Miki and Kiri are third years middle school and Taichi was first year. Of course, Tanaka could've just corrected it, but instead... -GHS
+TP
+
+GL 0 bgcc0006s
+GS 0 1
+SEF 152 0
+//HACK earlier change. -GHS
+
+//太一「どうだ、買ってきたぞ！」
+Taichi: "How 'bout it, I bought you this!"
+TP
+
+//HACK new lines! -GHS
+
+//太一「って、俺がまだ一年だった！」
+Taichi: "Wait, *I* was still a first year!"
+//YEAH! SCREW YOU FOURTH WALL! -GHS
+TP
+
+//がびーん
+Disappointment & shock...
+TP
+
+//慌てて中等部に多動する。
+In a panic I move to the Middle Grade section.
+TP
+GS 0 0
+SEF 152 0
+//HACK Black -GHS
+
+
+//で、中等部三年教室。
+And, in the Third Year Middle Grade classroom...
+TP
+
+GS 0 1
+SEF 152 0
+//HACK back -GHS
+
+//太一「どうだ、買ってきたぞ！」
+Taichi: "How 'bout it, I bought you this!"
+//CP above
+TP
+
+WVP 0 vfCCC4012kri000
+//霧「こっちもおいしいよ」
+Kiri: "Mine is also tasty!"
+//By now we've transcended Sono Hanabira levels of lesbianism into Vividred Operation. One more push and the dreaded post-apocalyptic no-more-men world of K-On!, with its obvious clones, like c'mon Azusa and Mio are obviously 99.99% genetically identical, like their teacher and that girl from the Jazz Club, by the way my theory is that said club was behind the whole apocalypse and, uhm, what were we talking about? Ah, yes, about girls liking their Nintendo Ui so much they might as well have married them. -GHS
+TP
+
+WVP 0 vfCCC4012mki037
+//美希「……ありがとー」
+Miki: "...thaaanks!"
+TP
+
+//太一「だああああああああっ！！」
+Taichi: "D'AAAAAAAAH!!!"
+//Not a Rabbids reference, oddly. -GHS
+TP
+
+//食ってた。
+She was eating.
+TP
+
+GL 1 TCYM0000S
+GL 2 TCSK0001S
+GP 1 0 0
+GP 2 340 0
+GS 1 1
+GS 2 1
+SEF 109 0
+//HACK dolls... what a pain. -GHS
+
+
+WVP 0 vfCCC4012mki038
+//美希「あ……さっきの変態さん」
+Miki: "Ah... it's that Pervert-san from before."
+//Let's go with nickname. -GHS
+TP
+
+WVP 0 vfCCC4012kri001
+//霧「……む、こないだの変態」
+Kiri: "...mngh, that pervert from the other day."
+//Sooo what brought Kiri to be so close to Miki? Outside of jelly for Taichi, of course. -GHS
+TP
+
+//太一「あのな」
+Taichi: "Hey now!"
+TP
+
+WVP 0 vfCCC4012mki039
+//美希「本当に買ってくるとは思いませんでした……」
+Miki: "I didn't really think you would seriously buy something for me..."
+TP
+
+//太一「真剣な冗談がモットーだ」
+Taichi: "My motto is Serious in Jest."
+//And if you don't get that... -GHS
+TP
+
+//霧が美希を背後にかばう。
+Kiri guards Miki's rear.
+//Seems more metaphorical than literal... since they're sitting and everything. -GHS
+TP
+
+GL 2 TCSK0002S
+GI 2 0
+//HACK doll -GHS
+
+WVP 0 vfCCC4012kri002
+//霧「またスカートめくりですか、先輩」
+Kiri: "Will you be flipping skirts again, Senpai?"
+TP
+
+//太一「む……こないだのキック娘……俺はただその子に昼ご飯をおごってあげようとだな」
+Taichi: "Mngh... that kicking girl from the other day... but I'm just handing over some lunch to this girl."
+//Seems they haven't had their formal introduction yet. Interesting that Miki never came up in CCC3004, but let's just go with "it wasn't written yet". -GHS
+TP
+
+WVP 0 vfCCC4012kri003
+//霧「もういりませんから」
+Kiri: "That is now unnecessary."
+TP
+
+//太一「なにぃ？」
+Taichi: "Whaaat?"
+TP
+
+GL 2 TCSK0001S
+GI 2 0
+//HACK doll -GHS
+
+WVP 0 vfCCC4012kri004
+//霧「わたしがちゃんと面倒見ます。先輩には関係ありません」
+Kiri: "I will be watching out for her and well. There is nothing here of concern to you, Senpai."
+TP
+
+//く、正義ぶって実力を行使しやがって……アメリカかおまえは！
+Ngh, waving Justice around and then using nothing but force... you're just like America!
+//Curiously, this is censored in both versions... and I wonder if it's not because, these days, Japan would be looking more at China than America for this stuff. -GHS
+TP
+
+GL 1 TCYM0003S
+GI 1 0
+//HACK doll -GHS
+
+WVP 0 vfCCC4012mki040
+//美希「あ、もうおなかいっぱいですし」
+Miki: "Ah, now my tummy's all full!"
+//As for the actual scene: see CCC3019A, which is the near-perfect reverse of this. -GHS
+TP
+
+//太一「えーーーーっ！？」
+Taichi: "EHHHHH?!"
+TP
+
+GL 1 TCYM0002S
+GI 1 0
+//HACK doll -GHS
+
+WVP 0 vfCCC4012mki041
+//美希「……ごめんなさい」
+Miki: "...apologies."
+TP
+
+GL 2 TCSK0002S
+GI 2 0
+//HACK doll -GHS
+
+WVP 0 vfCCC4012kri005
+//霧「いいよ、こんな人にあやまらなくても」
+Kiri: "It's OK, there's no need to apologize to this guy."
+TP
+
+GL 1 TCYM0021S
+GI 1 0
+//HACK doll -GHS
+
+WVP 0 vfCCC4012mki042
+//美希「えー、でも……」
+Miki: "Ehhh, but..."
+//She already, at this point, dislikes the two of them fighting. -GHS
+TP
+
+GL 2 TCSK0000S
+GI 2 0
+//HACK doll -GHS
+
+WVP 0 vfCCC4012kri006
+//霧「この学校で一番ワルモノなんだから」
+Kiri: "He's this school's number one ruffian, that's why."
+//KIRI SAKURA REGRETTED THE LAST SCHOOL BECAUSE BIG BROTHER YUTAKA WAS BULLIED DUE TO NATIONAL TESTS. IN DESPERATION, KIRI PROVOKED A RUFFIAN. -GHS
+TP
+
+//太一「……おいおい。ステロすぎるぞ」
+Taichi: "...come on, come on. You're pigeonholing me too much!"
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//別に俺はワルじゃない。
+I'm not really particularly rotten.
+//"warumono" is scoundrel/bad guy, but "waru" alone (here in katakana, so no hints) can mean bad... or broken/split, too. -GHS
+TP
+
+//やればできるのにやらなかったり、クールに見えて近寄りがたくもないぞ。
+There's lots of stuff I could do but I don't, and I try to appear cool and not being hard to approach!
+TP
+
+//HACK new lines -GHS
+
+//実は結構女の子に人気があったり、そのことを本人が知らなかったり……
+And being in truth fairly popular with the girls, although the person in question (me) doesn't know that...
+TP
+
+//周囲からは怖くて話しかけられない状態になって凡人と思いこむも実は美少年だったり格好よかったり、幼なじみの少女だけが平気で話しかけてきたり……
+...and being still in truth a Bishonen even if I give the impression of a mediocre person that can't be talked to because he's so terrified of what's around him, and being very kewl, and the only girl who's OK with talking to me would be my childhood friend...
+//He wants to be Sephiroth more than Cloud, doesn't he? With the Darth Vader sounds above, heh. The fright received from his surroundings and the childhood friend are sorta true. -GHS
+TP
+
+//記憶喪失だったり、父親がいなかったり、逆に個性的な父親がいるって設定で裏をかいたりはしないぞ。
+...and having memory loss, and having no father, 'cause conversely you'd foil the Settei by having a living father with great personality, no good!
+//...and so are the memory loss and lack of father. Well, at this late in the game these aren't that important, really, but they do highlight how much he's chuunin' already back here. -GHS
+TP
+
+//いつも全力だ。
+I'm always at full strength.
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+//太一「……」
+//太一「…………」
+Taichi: "......"
+//HACK yes, his silence has doubled. -GHS
+TP
+
+//クールの方がもてそうだな。
+Being cool should make me popular though.
+TP
+
+//……失敗。
+...I fail.
+//Too many crap piled on his Settei, idiot! -GHS
+TP
+
+//太一「じゃーこのパンはどうするの？」
+Taichi: "Welll what do I do with this bread?'
+TP
+
+WVP 0 vfCCC4012mki043
+//美希「……買い取りましょうか？」
+Miki: "...should we just buy it?"
+TP
+
+GL 2 TCSK0002S
+GI 2 0
+//HACK doll -GHS
+
+WVP 0 vfCCC4012kri007
+//霧「うわ、さいてい」
+Kiri: "Bwah, disgusting!"
+TP
+
+//太一「く……最初に声かけたのは俺なのに」
+Taichi: "Ngh... even though I was the first to call out to her."
+TP
+
+//太一「こうなったら強引にここで食う！」
+Taichi: "If it has to be like this, I shall eat here by force!"
+TP
+
+//俺は二人に密着して座った。
+I sat glued close to the two.
+TP
+
+GL 2 TCSK0021S
+GI 2 0
+//HACK doll -GHS
+
+WVP 0 vfCCC4012kri008
+//霧「な、なにしてんですか！？」
+Kiri: "Wh-, what do you think you are doing?!"
+TP
+
+GL 1 TCYM0004S
+GI 1 0
+//HACK doll -GHS
+
+WVP 0 vfCCC4012mki044
+//美希「きゃっ、ちょっと」
+Miki: "Kyah, really!"
+TP
+
+//太一「あーうまいうまい。肉って腐る寸前がうまいけど、腐る寸前のパンってのもオツだよなー！」
+Taichi: "Ahhh delicious, delicious. They say meat on the verge of spoiling is tasty, but bread on the verge of spoiling also has a quaint and unorthodox taste, don't it!"
+//Is this the bread that was before, the one with the suspicious expiry date? ...did he even go beyond the gate at all? And if he likes bread on the verge of spoiling, then all that bread that should've spoiled... also, might be more pans, uhm, puns, but should be http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q109946230 -GHS
+TP
+
+WVP 0 vfCCC4012kri009
+//霧「どっかいってくださいよ！」
+Kiri: "Please don't be here!"
+//Polite rudness for major tsundere. -GHS
+TP
+
+GL 1 TCYM0000S
+GI 1 0
+//HACK doll -GHS
+
+WVP 0 vfCCC4012mki045
+//美希「きゃ、ちょっと、あはは……たいへんだぁ」
+Miki: "Kyah, really, ahahah... what a problem."
+TP
+
+//苦笑。
+Strained laughter,
+TP
+
+//でも、そんな嫌そうではない。
+but it doesn't look like she dislikes it that much.
+TP
+
+//太一「うまいうまいっ、あ、そのおかずおいしそう！」
+Taichi: "Tasty tastyyy, ah, that side dish looks delicious!"
+TP
+
+GL 2 TCSK0001S
+GI 2 0
+//HACK doll -GHS
+
+WVP 0 vfCCC4012kri010
+//霧「こらー！　わたしのお弁当！」
+Kiri: "Hands oooff! That is my boxed lunch!"
+//TL Note: 『boxed lunch』はお弁当の意味 -GHS
+TP
+
+//太一「なにをー！」
+Taichi: "What's thaaat!"
+TP
+
+//口論開始。
+Begin quarreling.
+TP
+
+GL 1 TCYM0003S
+GI 1 0
+//HACK doll -GHS
+
+WVP 0 vfCCC4012mki046
+//美希「あはははは……なんだかなぁ」
+Miki: "Ahahahahah... what indeeed!"
+TP
+
+//俺たちが言い争うのを、美希は複雑な表情で見ていた。
+While we fought with words, Miki looked on with a complicated expression on her face.
+//Ohhh, very interesting. See CCA0015: she was making imitative behavior of Misato in CCA0027... but quarreling seems to make her displeased in the same way as Misato in that scene, even if her behavior in CCA0015 was imitative. Now see CCA0020. -GHS
+TP
+
+
+
+WVS 3 1
+WVS 1 1
+
+RET

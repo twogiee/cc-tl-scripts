@@ -1,0 +1,155 @@
+
+
+
+GL 0 bgcc0007
+GL 0 zzzrooftopzoom
+//HACK zoom -GHS
+GS 0 1
+SEF 152
+
+WVP 1 bgm011.ogg 0 0 0
+
+//太一「どもー」
+Taichi: "Hellooo."
+TP
+
+GL 1 TCMM0000
+GP 1 225 0
+GI 1 1
+
+WVP 0 vfCCD0001msa037
+//見里「ああ、おはようございます」
+Misato: "Aaah, good morning, yes."
+TP
+
+
+//太一「どうですか？」
+Taichi: "How is it going?"
+TP
+GL 1 TCMM0005
+//HACK less sad Misato -GHS
+GI 1 0
+
+WVP 0 vfCCD0001msa038
+//見里「全然順調じゃありません」
+Misato: "Not favorably at all."
+TP
+
+
+//太一「大変ですね」
+Taichi: "What a problem."
+TP
+
+
+//アンテナを見る。
+I look at the antenna.
+//NOT a copy paste? WHAT IS THIS MADNESS???? -GHS
+TP
+
+
+//根本に鉄骨やら針金やら工具やら……おいおい、工具まで高所に置きっぱなしだよ。
+At the base, steel framing, wiring, tools, the like... oh, come on, she just keeps leaving those tools high up there.
+TP
+
+
+//太一「ふーん、これが噂のアンテナかぁ」
+Taichi: "Hmm-hm, this is the antenna the rumors talk about theeen,"
+//It's everybody's favorite, antenna. But even if you say such things, I must pierce such a small honeypot with my brobdingnagian meat poleaxe? -GHS
+TP
+
+
+//などと脚立の上の危険物を床におろす。
+and with that I go to lay down on the floor the hazardous materials from the top of the stepladder.
+TP
+
+GL 1 TCMM0021
+GI 1 0
+
+WVP 0 vfCCD0001msa039
+//見里「……あのう？」
+Misato: "...uhmmm?"
+TP
+
+
+//太一「あ、こうなってるのかー」
+Taichi: "Ahhh, so that's how it happens then!"
+//He may still be talking about her work at the antenna, trying to distract her. -GHS
+TP
+
+
+//アンテナの途中にひっかけられた工具類も全部床に。
+I also put all the tools hung partway up the antenna on the floor.
+TP
+
+
+WVP 0 vfCCD0001msa040
+//見里「寝ぼけてます？」
+Misato: "Are you still asleep?"
+TP
+
+
+//太一「いえ、超冷静ですー」
+Taichi: "No, hyper awake I aaam!"
+TP
+
+
+//太一「ではでは、またまた」
+Taichi: "Then well then, seeya-seeya!"
+TP
+
+
+//先輩はぽかーんと俺を見送っていた。
+Senpai watched me leave, mouth agape.
+TP
+
+
+//このタイミングを外せば、怪我はない……はず。
+Pulling them down at this juncture she won't be injured... probably.
+TP
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+SEF 152 0
+WVS 1 0
+//HACK earlier, sharper music cutoff -GHS
+
+
+//太一「あ」
+Taichi: "Ah."
+TP
+
+
+
+//……怪我させないと進展しないんだっけか？
+...but if I don't let her get injured, then there won't be any progress, will it?
+TP
+
+
+//太一「でもなあ」
+Taichi: "Yeah, but..."
+TP
+
+
+//だからといって、事故を見逃すってのは……。
+But letting the incident just happen because of that...
+TP
+
+
+//太一「はあ」
+Taichi: "Sigh."
+TP
+
+
+//結局、攻略をはやめる効果はないんだろうな。
+In the end, there will likely be no acceleration in the capture from this.
+//Playing God's hard. In fact, it's impossible.
+TP
+
+
+
+
+
+
+
+
+RET

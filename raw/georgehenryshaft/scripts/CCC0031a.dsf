@@ -1,0 +1,45 @@
+
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 0
+//HACK to black first, so it doesn't look off if readers are coming from CCC0029A -GHS
+
+GL 0 bgcc0006
+GS 0 1
+GS 1 0
+SEF 152 0
+
+WVP 1 bgm003.ogg 0 0 0
+
+//いない……か。
+No one around... then.
+TP
+
+//お花ちゃんたちはあちこち移動しているらしい。
+Seems the Flowers are moving around here and there.
+TP
+
+//あの二人は能動的に行動しているようだが、理由はわからない。
+Those two seem to be very proactive in their actions, but what the reason is I don't know.
+//More likely Miki running about "investigating" than Tomoki's club, after all their participation is still dubious. -GHS
+TP
+
+//ノートにも触れられてはいなかった。
+In the notebooks there is no touching on them either.
+//No mention + no s*x. Unsure why there'd be no saxophone. -GHS
+TP
+
+//すでに学校にはいないのかも知れない。
+They might just not be at school anymore.
+TP
+
+//無人の空間を後にする。
+I leave this deserted space behind.
+TP
+
+
+RET

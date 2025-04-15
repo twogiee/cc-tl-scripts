@@ -1,0 +1,1044 @@
+GL 0 bgcc0006
+GS 1 0
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+
+WVP 1 bgm003.ogg 0 0 0
+
+
+
+GL 1 TCKT0000
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfccb2012fyu000
+//冬子「あ、太一、よかった」
+Touko: "Ah, Taichi, I'm so glad..."
+TP
+
+//戻ってきていた。
+She had returned.
+TP
+
+//太一「ちょっとトイレ行ってた」
+Taichi: "I just went to the toilet for a bit."
+TP
+
+WVP 0 vfccb2012fyu001
+//冬子「うん」
+Touko: "Yes."
+TP
+
+//太一「さっそくでアレなんだけどさ」
+Taichi: "But you got immediately like 'that' now, didn't you."
+//She ran to him, i.e. she got too dere. -GHS
+TP
+
+WVP 0 vfccb2012fyu002
+//冬子「……ん、なに？」
+Touko: "...hm, what?"
+TP
+
+//優しく微笑む。
+An affectionate smile,
+TP
+
+//抱きしめた。
+I held her tight.
+TP
+
+GL 1 TCKT0004
+GI 1 0
+
+WVP 0 vfccb2012fyu003
+//冬子「きゃっ、ど、どうしたの？」
+Touko: "Kyah! Wh-, what is it?"
+TP
+
+//太一「……冬子は強くならないとな」
+Taichi: "...you just gotta get strong, Touko."
+//See CCA0023 -GHS
+TP
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfccb2012fyu004
+//冬子「どういうこと？」
+Touko: "What do you mean?"
+TP
+
+//太一「今は一緒にいてあげられるけど、いつまでもは無理そうだから」
+Taichi: "Because right now we can be together, but being so forever is impossible."
+TP
+
+WVP 0 vfccb2012fyu005
+//冬子「え……それって……」
+Touko: "Eh... that's..."
+TP
+
+WVP 0 vfccb2012fyu006
+//冬子「……また？」
+Touko: "...again?"
+TP
+
+//声が震える。
+Her voice shakes.
+TP
+
+//太一「う」
+Taichi: "Ngh..."
+TP
+
+//良心が疼く。
+Conscience aching like a living thing left out in the freezing winter.
+//病＋冬＝疼 it's inescapable logic(tm) -GHS
+TP
+
+//太一「ホ、ホラ、俺の家系って短命だから！　親父は若くして宇宙放射線病で死んだし、叔父さんは黒死病だったし、祖父さんはイェマント氏病、曾祖父さんなんて後天性免疫不全症候群だったんだぜ？」
+Taichi: "Co-, come on, it's because my family has a history of short lives! My father died young from space radiation sickness, my uncle had the Black Death, my grandpa got hereditary Jemand's disease, and my great- great grandpa had Acquired Immune Deficiency Syndrome!"
+//Ngh, barely fits. Last part should be "get it?". Great loss, I know. Jemand's Disease seems an invention of this author http://ja.wikipedia.org/wiki/%E9%98%BF%E5%88%80%E7%94%B0%E9%AB%98 which he declared free for anyone to use, though I can't find any evidence beyond this http://www.berrys-cafe.jp/pc/reader/page.htm?chapterId=1412804
+//That last one is indeed AIDS. That'd likely make his grandfather among the first recorded cases of it. Also, considering he probably heard his family history while being held by Nanaka, and since both his parents indeed died young and not impossible of natural causes (if unlikely so), there's likely at least a grain of truth here. -GHS
+TP
+
+
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfccb2012fyu007
+//冬子「……ぐす……ひくっ……太一、また私のこと……ほっぽりだすんだ……」
+Touko: "...sob... sob!... Taichi, you're... throwing me out again..."
+TP
+
+//太一「違うって！　ホラ、俺も今軽く白血病になってるしさ！　ま、冬子に骨を拾って欲しいってことかな！」
+Taichi: "Told you it's not that! Look, even right now I have a slight case of leukemia! Why, I'm actually wondering if to ask you to manage my funeral and look after my affairs when I'm gone, Touko!"
+//See CCX0001. It's not quite sure, but he might, in fact, actually have that leukemia... -GHS
+TP
+
+//弱い俺だった。
+I was the weak one.
+TP
+
+WVP 0 vfccb2012fyu008
+//冬子「いっしょにいてほしいの……いてよ……ずっといてよ……」
+Touko: "I want to live together... live... always living..."
+//"Then live, Taichi! Even if this disease is made to just kill you soon... live! If you just live, then you'll live until you try to kill yourself in that cemetery scene where things got really sort of silly and that's saying something in this series, really." -GHS
+TP
+
+//太一「いるいる、いたおしちゃう！」
+Taichi: "It is it is, living so very much!"
+//Seems a quote or random accent I can't source. Going for the usual (weird) -GHS
+TP
+
+
+//顔じゅうにキスをする。
+I kissed her all over her face.
+TP
+
+//額、頬、唇。
+Forehead, cheeks, lips.
+TP
+//>ついば
+//啄むように。
+As if pecking at her.
+TP
+
+//涙の浮いた目尻からは、幾度吸っても水滴がこぼれ続けた。
+The tears that flowed from the outer corners of the eyes continued to spill, no matter how many times I sipped of the droplets.
+TP
+
+//……しょっぱい。
+...salty.
+//OH YEEES TAICHI IS DRINKING YOUR TEARS TOUKO! YOUR TEARS OF PAINNNNNNN! MWAHAHAHA~ -GHS
+TP
+
+WVP 0 vfccb2012fyu009
+//冬子「……すんっ……だったら……もっと……もっとぎゅっとして……」
+Touko: "...sniff! so, then... more... hold me tighter..."
+TP
+
+//太一「はいはい」
+Taichi: "Yes, yes."
+TP
+
+WVP 0 vfccb2012fyu010
+//冬子「ずっと」
+Touko: "Forever."
+TP
+
+//太一「……はいはい」
+Taichi: "...yes, yes."
+TP
+
+//言われるままに、腕に力をこめた。
+As I keep responding, I put more strength in my arms.
+TP
+
+//良くないパターンだと思いつつ、従うしかなかった。
+While I did not think it a good pattern to have, I couldn't but abide to it.
+TP
+
+//だけどまあ正直。
+But, well, it's honest.
+TP
+
+//今のような冬子も、魅力がないわけではなかった。
+When she is like this, Touko did not seem without charm.
+TP
+
+//そう。こんくらいまでは、いいんだ……。
+Yes. Up to this point it's fine...
+TP
+
+//太一「……明日、海に行かないか？」
+Taichi: "...how about going to the beach tomorrow?"
+TP
+GL 1 TCKT0001
+GI 1 0
+WVP 0 vfccb2012fyu011
+//冬子「うみ？」
+Touko: "'each?"
+TP
+
+//舌足らずに繰り返す。
+So she repeats with her lisp.
+TP
+
+//太一「何人か誘って、昔みたいに」
+Taichi: "We'll invite some of them, it'll be like that time."
+TP
+
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfccb2012fyu012
+//冬子「あー、去年行ったわね」
+Touko: "Ah, we went last year."
+TP
+
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfccb2012fyu013
+//冬子「楽しかったなぁ」
+Touko: "That was sooo fun."
+TP
+
+//太一「怒りまくってたじゃないか」
+Taichi: "Weren't you just really angry back then?"
+TP
+GL 1 TCKT0002
+GI 1 0
+
+
+WVP 0 vfccb2012fyu014
+//冬子「あれは太一がＨなことばっかりするから……」
+Touko: "That was only because you were always doing perverted stuff, Taichi..."
+TP
+
+WVP 0 vfccb2012fyu015
+//冬子「でも」
+Touko: "But,"
+TP
+
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfccb2012fyu016
+//冬子「セクハラはいやだったけど、構ってくれて嬉しかった」
+Touko: "The sexual harassment was bad, but I was so happy you seemed to care about me."
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//太一「くそう……」
+Taichi: "Dammiiit..."
+TP
+
+//ぎゅっ
+Squeez'.
+TP
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfccb2012fyu017
+//冬子「きゃ？」
+Touko: "Kyah?"
+TP
+
+//太一「冬子は可愛いな、ちくせう」
+Taichi: "Touko is so adorable, damn it all!"
+TP
+
+WVP 0 vfccb2012fyu018
+//冬子「……なによ、それ……いけないことみたいな言い方して」
+Touko: "...what was it, that... you said like it was some sort of a bad thing..."
+TP
+
+//太一「恋愛は勝負なのだ。惚れた方が負けなのだ」
+Taichi: "Love's a game of win and loss. The side that falls in love loses."
+TP
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfccb2012fyu019
+//冬子「だったら、心配いらないわよ」
+Touko: "If that's your problem, you don't have to worry."
+TP
+
+//胸板に、鼻柱をこすりつける。
+She rubs the bridge of her nose on the middle of my chest.
+TP
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfccb2012fyu020
+//冬子「……私の負けでいいもの」
+Touko: "...I'm fine with losing."
+TP
+
+WVS 1 1
+
+//アカンてそんなこと言ったら！
+Saying that is only going to make things really bad!
+TP
+WVP 2 se108 1 0
+『↓』
+TP
+WVP 2 se108 1 0
+
+『→』
+TP
+WVP 2 se108 1 0
+
+『↑』
+TP
+WVP 2 se107 1 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+
+
+//ワーオ！！
+WOOOHOOO!!!
+TP
+
+WVP 1 bgm006.ogg 0 0 0
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfccb2012fyu021
+//冬子「……あれ？」
+Touko: "...wha-?"
+TP
+
+WVP 0 vfccb2012fyu022
+//冬子「あれ、あれれ？」
+Touko: "Wha-, wha-wha-?"
+TP
+
+//腰をもぞもぞさせる冬子。
+Touko is making my groing go very very squirmy.
+TP
+
+//ああ、そんな刺激を与えるとますます。
+Ahhh, that stimulus she's giving me just makes things worse and worse!
+TP
+
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfccb2012fyu023
+//冬子「ち、ちょっと太一ってば！」
+Touko: "Wh-, what, Taichi, I say!"
+TP
+
+//太一「……無理だ」
+Taichi: "...no good."
+TP
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfccb2012fyu024
+//冬子「なんかちょっと……でっぱりが……っっ」
+Touko: "What is this... protrusion...!"
+TP
+
+//太一「無理なんだよ、だから」
+Taichi: "It was just no good after all."
+TP
+
+//我慢できるはずがない。
+I couldn't be expected to bear this.
+TP
+
+//太一「無理なんだ、冬子」
+Taichi: "It's just no good, Touko."
+TP
+
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfccb2012fyu025
+//冬子「い、いいムードだったのに～～～っ！」
+Touko: "It-, it was such a nice mooo～～～d!!!"
+TP
+
+//太一「許せ」
+Taichi: "Forgive me."
+TP
+
+GL 1 TCKT0011
+GI 1 0
+//HACK very angry Touko -GHS
+
+WVP 0 vfccb2012fyu026
+//冬子「馬鹿っ、変態っ、オタンコナスッ！」
+Touko: "Baka! Hentai! Bird-for-brains!"
+//* one of these three is not expressed correctly. -GHS
+TP
+
+//太一「なんとでも言うがいい」
+Taichi: "Call me whatever you like."
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfccb2012fyu027
+//冬子「人が悲しかったり嬉しかったりしてる時に、そんなこと考えてたなんて！」
+Touko: "People are going through sadness and happiness and right then you go and think about that sort of stuff!"
+//A surprisingly spot-on diagnosis considering Touko's not one of the brightest of the bunch. -GHS
+TP
+
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfccb2012fyu028
+//冬子「最っ低ッッ！」
+Touko: "DIS! GUSTING!"
+TP
+
+//太一「……か、考えていたわけではないっ」
+Touko: "...I-, I wasn't really thinking about...!"
+TP
+
+WVP 0 vfccb2012fyu029
+//冬子「じゃあなんだってコンナ状態になってるのよ！」
+Touko: "Well then, how come you got like 'this' then!"
+TP
+
+//太一「それは……男の悲しいサガであり、思考とは別の奥深い領域から発生してくるどうしようもない衝動であり雨にも風にも負けない」
+Taichi: "It's just... the sad saga of a male, that hopeless an impulse from that inner of territories most separate from thought must spring forth with so much strength it may not be nor by wind nor by rain defeated!"
+//Continuing with the random tone change -GHS
+TP
+
+
+WVP 0 vfccb2012fyu030
+//冬子「いやらしいってことでしょう！？」
+Touko: "Isn't that just saying you're filthy?!"
+TP
+
+//太一「異議あり！　女の子はいいにおいがしすぎます！」
+Taichi: "OBJECTION! Girls have an unbearably nice smell!"
+//Igi ari! -GHS
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfccb2012fyu031
+//冬子「に、においって……」
+Touko: "Sme-, smell you say..."
+TP
+
+//唖然とする。
+Stunned muteness ensues.
+TP
+
+//太一「冬子の体臭……甘酸っぱいから……俺、興奮しちゃって」
+Taichi: "Touko's very smell... so sweet, and so sour... makes me so excited."
+TP
+
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfccb2012fyu032
+//冬子「は、離して！」
+Touko: "Get-, get off of me!"
+TP
+
+//頬をガッシと突き押される。上体が反った。
+My cheeks are mashed and pushed off. The upper part of my body arches.
+//Should be similar to CCA0030 -GHS
+TP
+
+//太一「げぶっ」
+Taichi: "G'buh!"
+TP
+
+WVP 0 vfccb2012fyu033
+//冬子「はーなーしーなーさーいっ！」
+Touko: "GET! OFF! OF! ME! THIS! INSTANT!"
+TP
+
+//さっきまで抱っこしてと言っていた口が、今は離せと言う！
+The very mouth that just earlier told me to hold, now is telling me to release!
+TP
+
+//温厚な俺もさすがに……
+Nothing but this, even to the gentle version of me...
+//it's just crawling in his skin -GHS
+TP
+
+
+//立　腹！
+!PISSED! !OFF!
+//SEF 101 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+
+TP
+
+
+//腰にまわした腕に、ぐっと力をこめた。
+I suddenly put more force in the arm that holds her hips.
+TP
+
+//引き寄せつつ、凸部を押しつけていく。
+While drawing her closer, the pressure continues on my, uh, forehead.
+//凸部=forehead part, how could 凸 and part possibly mean anything else? -GHS
+TP
+
+//冬子の下腹部に、でっぱりを突き立てていく。
+I violently thrust my excrescence at Touko's abdomen.
+//don't translate it as tumor don't translate it as tumor don't translate it as tumor it's not a tumor it's not a tumah either see CCC0000 youko is his dick therefore it's fffffuuuuuuuuuuuuuuuuuu-GHS
+TP
+GL 1 TCKT0002
+GI 1 0
+WVP 0 vfccb2012fyu034
+//冬子「ヤダッ！」
+Touko: "No way!"
+TP
+
+//太一「は、はじめてでもあるまいし！」
+Taichi: "Th-, this won't exactly be your first time!"
+//PCP CCB2010
+TP
+GL 1 TCKT0003
+GI 1 0
+WVP 0 vfccb2012fyu035
+//冬子「ヤダヤダッ！」
+Touko: "NO WAY, NO WAY!"
+TP
+
+//太一「娘ぇ、いい加減に観念せい！」
+Taichi: "Young laaady, resign yourself to the notion!"
+TP
+
+WVP 0 vfccb2012fyu036
+//冬子「いやじゃー！」
+Touko: "I told you NO WAY!"
+TP
+
+//太一「ええやろ？　ええやろ？」
+Taichi: "Yeees then? Yeees then?"
+TP
+GL 1 TCKT0005
+GI 1 0
+WVP 0 vfccb2012fyu037
+//冬子「ゼッタイお　こ　と　わ　り　よ！」
+Touko: "I absolutely R-E-F-U-S-E!"
+TP
+GO 1 1
+//俺と冬子は、アルファベットの『Ｙ』の字となって揉めにもめた。
+In our rubbingsome quarreling, me and Touko became like the letter 'Y' of the alphabet.
+//I totally translated this line as "like an upside-down 'person' kanji (Y)", and was about to giggle uncontrollably at MAI GWEATO KREVERNESS, and then... -GHS
+TP
+
+//『人』という字は支えあってできているが、ひっくり返すと『Ｙ』になって仲違いだ。
+The kanji for 'person' is said to represent two people reciprocally supporting each other, but if you flip it over it turns into the letter 'Y', and there's only quarreling.
+//HACK ...this new line happened which basically expands the same joke. And then I had to expand it even more because of cultural thingamajigs (technical word). Oh well. This lets CCZAS stand on its own, which I guess it's ironic in a sense...? -GHS
+TP
+
+
+WVS 1 1
+
+GL 0 bgcc0006a
+GS 0 1
+SEF 155 2
+
+
+//一時間経った。
+An hour elapsed.
+//Or 7 minutes. -GHS
+TP
+
+
+//太一「はぁはぁ……」
+Taichi: "Haah, haah..."
+TP
+
+GL 1 TCKT0003b
+GI 1 1
+
+WVP 0 vfccb2012fyu038
+//冬子「はぁはぁ……」
+Touko: "Haah, haah..."
+TP
+WVP 1 bgm010.ogg 0 0 0
+
+//一進一退の攻防は、膠着状態に陥っていた。
+Offense and defense, advance and retreat, and now it had fallen into a stalemate.
+//PCP CCA0015C
+TP
+
+//俺もそうだがヤツもかなり疲弊している。
+Me and of course my counterpart are both fairly exhausted.
+//Let's go with saying this means her. Why not. -GHS
+TP
+
+//だがその腕は我が顔面をガッシと押さえ、両者のベーゼを阻害したまま折れようとはしない。
+But that arm is still pushing in Our face, uncompromisingly obstructing this baiser a deux.
+//Let's also say that plural is only used as possessive, and not to imply that the above means the counterpart is his dick. French is likely wrong, but the recall to the folie a deux is probably more interesting. Still no accents due to shit-SHIT -GHS
+TP
+
+//太一「……まるでレイプ魔に対する扱いだな」
+Taichi: "...you're acting as if you're fighting off some Rape Demon."
+TP
+GL 1 TCKT0005b
+GI 1 0
+WVP 0 vfccb2012fyu039
+//冬子「どう違うってのよ……」
+Touko: "And how is that not what I'm doing..."
+TP
+
+//太一「挿入させろ」
+Taichi: "Allow penetration."
+//Console: "Let's play doctor" -GHS
+TP
+GL 1 TCKT0003b
+GI 1 0
+
+WVP 0 vfccb2012fyu040
+//冬子「それがレイプというのよ！！」
+Touko: "That's what you'd call rape!!!"
+//Lady, if he asks for consent that is not rape even in the Near Rape Experience culture. -GHS
+TP
+
+//疲れて、言葉のオブラートなどなくなっていた。
+Tired, the beating about of the bush disappeared.
+//See CCA0027 -GHS
+TP
+
+
+WVP 0 vfccb2012fyu041
+//冬子「女は男のための穴じゃない！」
+Touko: "Women are not mere holes for the men to use!"
+//True, they also know how to craft [Unique Item * Sammich]. ...which considering Youko... -GHS
+TP
+
+//太一「そんな田嶋○子みたいなことを言って！」
+Taichi: "You had to say something so damn Tajima Y**ko!"
+//http://ja.wikipedia.org/wiki/%E7%94%B0%E5%B6%8B%E9%99%BD%E5%AD%90 -GHS
+TP
+
+//太一「これは愛だぞう！」
+Taichi: "This is love you know!"
+//愛だ象? -GHS
+TP
+GL 1 TCKT0001b
+GI 1 0
+WVP 0 vfccb2012fyu042
+//冬子「顔が肉欲一色なの！」
+Touko: "Your face is one big slab of carnality!"
+TP
+
+//太一「肉欲を否定するな。自然なことだ」
+Taichi: "Do not deny the carnality. It is a natural thing!"
+TP
+GL 1 TCKT0003b
+GI 1 0
+WVP 0 vfccb2012fyu043
+//冬子「あんたのはその波に自ら乗ってるだけでしょ！」
+Touko: "And you are getting carried on that wave all by yourself!"
+//Hum, where did I hear about a wave again... ~denpa denpa~ let's just leave it extremely literal. -GHS
+TP
+
+//くそう、このままでは埒があかない。
+Dammit, this situation doesn't even have rails to fall off from.
+TP
+
+//太一「ＯＫ、じゃこうしようじゃないか」
+Taichi: "Okieh, how about we do this then:"
+TP
+
+//太一「俺も挿入はあきらめる。だからそちらも一つ諦めろ」
+Taichi: "I will abandon attempts at penetration. Therefore, your side will also give up one thing."
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+
+WVP 0 vfccb2012fyu044
+//冬子「……何をよ？」
+Touko: "...what even?"
+TP
+
+//交渉のテーブルに出てきた。
+We approached the Negotiating Table.
+TP
+
+//相当疲れているのだろう。
+We are tired enough for that.
+TP
+
+//そもそも、人類が滅亡したという状況下で挿入するのしないの揉めてるというのがすでに異常である。
+Under the circumstance that is the Fall of Mankind, disputing penetration while already in a condition of friction is not just abnormal, it is so from the very start.
+//That 揉 is particularly nasty here, since that could be read as 'dispute/argument' (te form) here as well. -GHS
+TP
+
+//太一「挿入以外の方法で俺を満足させればいいだろ」
+Taichi: "I want to be satisfied in ways excluding penetration."
+TP
+
+GL 1 TCKT0003b
+GI 1 0
+WVP 0 vfccb2012fyu045
+//冬子「意味わ　か　ん　な　い」
+Touko: "Meaning IN-COM-PRE-HEN-SIBLE."
+//Merged last two syllables so it fits in 5 -GHS
+TP
+
+//顔面に爪を立ててきた。
+Her nails became talons into my face.
+TP
+
+//太一「いてて、こいつ！」
+Taichi: "OwChCh, really you!"
+TP
+
+//仕返しに、尻をなで回す。
+A circular rub on her ass is retaliation.
+TP
+
+WVP 0 vfccb2012fyu046
+//冬子「きゃおう！？」
+Touko: "KyaOH?!"
+TP
+
+//太一「このまま共倒れする気か！」
+Taichi: "Do you desire mutually assured destruction now!"
+TP
+
+
+GL 1 TCKT0002b
+GI 1 0
+WVP 0 vfccb2012fyu047
+//冬子「く……それはあんたが」
+Touko: "Guh... that'd be you!"
+//See what I did there. -GHS
+TP
+
+//太一「だから交渉なんだろうに。本番は諦めた。あとはおまえ次第だ。Ａでもスマタでも口でも手でも、好きなサービス方法を自分で選べ！　さあ！」
+Taichi: "Hence we go into negotiations. I'm giving up on principal photography (vaginal). It's up to you what to do. 'A' or intercrural or oral or even manual, pick any methods of service you like! Go on!"
+//Given this whole thing involves videotapes, it's too appropriate to resist. It'll be sort-of a running gag, like "self-consolation" which somehow works better left literal in just about every instance. -GHS
+TP
+GL 1 TCKT0005b
+GI 1 0
+WVP 0 vfccb2012fyu048
+//冬子「……うう」
+Touko: "...ngh."
+TP
+
+//涙ぐむ。
+Tearful.
+TP
+
+WVP 0 vfccb2012fyu049
+//冬子「うわ～ん！　どうして本番とかサービスとか、そういう話になってるの？　全然美しくない、なまなましい、夢がないーーーっ！」
+Touko: "Bwaaah haaa! Whyyy did this conversation turn to sex and services and all that?! No beauty at all, it's so crude, not dreamyyyy!"
+TP
+
+//太一「ええい、それが性差というものだ！　男は話は聞かないが地図は読めるのだー！」
+Taichi: "Hey, that's just gender differences! Men don't listen when you talk but they can read maaaps!"
+//Turning American again? I don't really hear much of this stuff from Japan. Not that I bother with anything but incest futa loli scat rape porn from Japan, the rest is all kawaii uguu shit anyway. -GHS
+TP
+
+
+GL 1 TCKT0002b
+GI 1 0
+WVP 0 vfccb2012fyu050
+//冬子「だ、だいたいＡって？」
+Touko: "And-, and what is even 'A'?"
+TP
+
+//太一「Ａとは」
+Taichi: "'A' is..."
+TP
+
+//俺は肛門性愛について的確かつ流ちょうに解説した。
+I perform a most precise furthermore fluent explanation on sexual love involving the anus.
+TP
+
+
+GL 1 TCKT0003b
+GI 1 0
+WVP 0 vfccb2012fyu051
+//冬子「……死んでもイヤーーーーーーーーーーーーッ！！」
+Touko: "...NOT EVEN DEEEEEEEEEEEEEAD!!!"
+TP
+
+//抵抗が強まった。
+Resistance is gaining strength.
+TP
+
+WVP 0 vfccb2012fyu052
+//冬子「いやー、お祖父様ーーーーーーーーーーーーッ！！」
+Touko: "NOOOOO, GRANDFATHER-SAMAAAaAAAaAAAaAH!!!"
+//It's sort of silly, I know, but so's the scene. ーx24 (with above) which is 8x3. -GHS
+TP
+
+//太一「おまえのお祖父様だってこういうことをして子孫を作ったのだ！」
+Taichi: "Even your grandfather-sama did things just like that to make offspring!"
+TP
+GL 1 TCKT0005b
+GI 1 0
+WVP 0 vfccb2012fyu053
+//冬子「そうだけど違うわよ～～～っ！」
+Touko: "But not in that WAAAAY!"
+TP
+
+//太一「それにお祖父様はかなりアナル好きだったのだぞ？」
+Taichi: "Incidentally, your grandfather really loved anal, did he not?"
+//I'm suspecting there's more to this than the obvious, but I didn't find anything odd even after googling "grandfathers love anal sex" in Japanese. I mean, seriously, Image Search and with safe search off has some middle-aged guy singing as first result and nothing more scandalous than images of a sex toy's box! I haven't felt so weirded out by Japan since the day I found out there's no otome VN on VNDB tagged with 'high amounts of rape'. -GHS
+TP
+GL 1 TCKT0003b
+GI 1 0
+WVP 0 vfccb2012fyu054
+//冬子「ウソつきなさんなっっ！！」
+Touko: "Don't toss lies around!!!"
+TP
+
+//爪が爪がああ爪が。
+NailsNailsAgghNails!
+TP
+
+//確かにウソだが。
+That was of course a lie.
+TP
+
+//太一「ＯＫ、Ａもいい」
+Taichi: "Okieh, 'A' is out."
+TP
+
+//太一「というか埒があかん。指定する。口でしてくれ」
+Taichi: "Or rather I should say, we've way derailed. I'll just specify. Do it with your mouth."
+//埒があかない, as above -GHS
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+WVP 0 vfccb2012fyu055
+//冬子「……く、口でぇ？」
+Touko: "...m-, my mouth?"
+TP
+
+//抵抗が弱まる。
+Resistance is losing strength.
+//Mirroring above -GHS
+TP
+
+WVP 0 vfccb2012fyu056
+//冬子「……お口は……キスとおしゃべりしかしたくないの」
+Touko: "...the mouth... is something I want to be only for kissing and talking."
+TP
+
+//ぷいっ
+Pfui'd.
+TP
+
+//太一「ほお……食物を貪り食ったりはしないと？」
+Taichi: "Cheeky... no greedy wolfing down of food with it until you're stuffed?"
+//~le lateralisme~ -GHS
+TP
+GL 1 TCKT0002b
+GI 1 0
+WVP 0 vfccb2012fyu057
+//冬子「揚げ足取る太一なんて嫌い」
+Touko: "I hate it when you pick at nits, Taichi."
+TP
+
+//太一「なら俺のにキスしてくれ」
+Taichi: "Well, you have kissed me before."
+TP
+
+//太一「それもキスだろ？」
+Taichi: "Isn't that also a kiss?"
+TP
+
+GL 1 TCKT0005b
+GI 1 0
+WVP 0 vfccb2012fyu058
+//冬子「うー、うー、うー」
+Taichi: "Ngggh, ngggh, ngggh..."
+TP
+
+//太一「あー、おまえ自分は口でされるの好きだったくせに自分では嫌がるのか！　なんて卑劣な女だ、武士ギャルの風上にもおけんな！」
+Taichi: "Ahhh, you liked having it done to you with the mouth but when you have to do it you hate it! What a foul play of a female you are, you disgrace to all Bushigyaru!"
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+//※武士ギャル＝太一語。コギャルとかマゴギャルとかの一種。武士っぽい女の子の意。
+> 
+ 
+Bushigyaru---
+TL
+> 
+Taichian for a warrior (Bushido) style girl.
+In the same vein as terms now mostly in disuse 
+like Kogyaru ("child-girl", excessively 
+trend-conscious teenager) or Magogyaru 
+("grand-daughter girl", similar but for even 
+younger girls).
+//Waaaaaaaaay expanded. -GHS
+TL
+//※現在地球上に一人。だが滅亡前も一人だったと思われる。
+In the present situation, there exists one all 
+over the Earth. However, it seems there also was 
+exactly one before the Fall.
+TL
+//※なんでも細分化してカテゴライズすればいいってものじゃないという教訓が含まれている。
+There's a lesson in there on how continued
+subdivision and categorization are not good
+things to do.
+//By the way, if you're annoyed that Touko's not tsundere anymore, you've just been trolled hard multiple ways. -GHS
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+//冬子の顔が、瞬時にまっ赤になった。
+Touko's face turned deep red in a split second.
+TP
+GL 1 TCKT0003b
+GI 1 0
+WVP 0 vfccb2012fyu059
+//冬子「な、な、ななななななな」
+Touko: "Wh-, Wh-, wh-wh-wh-wh-wh-wh-wh..."
+//Na+na =7, 7xNa follow. I can't even joke about how astonishing it is that nobody apparently noticed this stuff. -GHS
+TP
+
+WVP 0 vfccb2012fyu060
+//冬子「違うでしょ、それとこれとは！」
+Touko: "Totally different! This from that I mean!"
+//Also note how the above line does not transition into this in the original language either. Tanaka's literally rubbing his crotch in readers' faces. -GHS
+TP
+
+//太一「同じだ。互いの性器を相手の一部と思えるかどうか……俺は思っているからシタ……けど冬子は滅多にしてくれなかった……つまり」
+Taichi: "Same thing! I consider each other's genitals as just part of the partner... I went down because I did think that... but you rarely did, Touko... therefore!"
+//Kind of odd she'd "rarely" did, since the implication seems to be much closer to "never". -GHS
+TP
+
+GL 1 TCKT0002b
+GI 1 0
+//冬子「……」
+Touko: "..."
+TP
+
+//太一「愛をうたうわりには、ずいぶんと独善的じゃないか、ええ？」
+Taichi: "For one who chants love, aren't you quite the self-righteous type, hm?"
+//I still can't find the origin of that proverb-ish thing. -GHS
+TP
+
+//冬子「…………」
+Touko: "......"
+TP
+GL 1 TCKT0005b
+GI 1 0
+//逡巡。
+Hesitation.
+TP
+GL 1 TCKT0001b
+GI 1 0
+//苦悩。
+Distress.
+TP
+GL 1 TCKT0002b
+GI 1 0
+//煩悶。
+Worry.
+TP
+
+//そして。
+And then,
+TP
+
+GL 1 TCKT0005b
+GI 1 0
+WVP 0 vfccb2012fyu063
+//冬子「……わかったわよ」
+Touko: "...I get it I do."
+TP
+
+//涙目で言う。
+So she says with teary eyes.
+TP
+
+GL 1 TCKT0006b
+GI 1 0
+//HACK shy Touko -GHS
+
+WVP 0 vfccb2012fyu064
+//冬子「わかったわよ、すればいいんでしょ、すればぁ」
+Touko: "I get it, I should do it so I'll do it, if I have to."
+TP
+
+//太一「わーい」
+Taichi: "Weeee."
+TP
+
+//フェラ一発にこの手間暇。
+One blowjob in exchange for all that time and effort.
+TP
+
+//冬子だなあと思った。
+Sooo very Touko, I thought.
+TP
+
+WVS 1 1
+
+RET

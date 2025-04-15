@@ -1,0 +1,47 @@
+And then I was awake.
+Just to be sure, I recheck the depths of the thicket.
+Good.
+Phase shift. Should I call it that?
+//http://ja.wikipedia.org/wiki/%E4%BD%8D%E7%9B%B8%E3%81%AE%E3%81%9A%E3%82%8C - odd, because there shouldn't be anything there until the weekend... -GHS
+That's the path that returns to the opposite side, that only my eyes are capable of observing.
+Only for the observer it becomes real.
+//META. -GHS
+It's possible to go home through there,
+back to that world full of people.
+However. Yes,
+I will---
+Youko-chan is nowhere to be seen,
+//PCP CCA0015. Combined with that random callback in CCD0023... -GHS
+just the lunch alone is set on the table.
+I head towards school.
+I walk in this uninhabited world.
+There is no trace not just of people, but of any and all living things.
+//BTW, did anyone tell Taichi that trees are living things? Not that they matter, the Ark didn't contain vegetables. Those survived. -GHS
+There is no sense of it being full.
+The cicadas are not crying.
+The atmosphere is unnatural.
+A contradiction that swirls into the eddy at the very core of this Crossed World.
+A tiny world of just eight people.
+
+[Taichi]
+"..."
+
+Nanaka does not show herself either.
+
+[Nanaka]
+"............"
+
+IF $SB_MKI == 1 JMP N_CHS001
+IF $SB_KRI == 0 JMP N_CHS001
+IF $SB_MSA != 1 JMP Y_CHS001
+IF $SB_TKO != 1 JMP Y_CHS001
+IF $SB_SKU != 1 JMP Y_CHS001
+JMP N_CHS002
+:Y_CHS001
+CSQ 0 1 1
+ - Go to school
+ - Go to the Tasaki Store
+:N_CHS001
+$B = 1
+:N_CHS002
+$B = 2

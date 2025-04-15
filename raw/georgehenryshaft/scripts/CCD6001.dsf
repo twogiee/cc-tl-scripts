@@ -1,0 +1,1730 @@
+
+
+
+
+GL 0 bgcc0009
+GS 0 1
+GS 1 0
+SEF 152 0
+
+WVP 1 bgm002.ogg 0 0 0
+
+
+
+//食堂に来た。
+I came to the cafeteria.
+TP
+
+
+//桜庭がカレーパンを食っていた。
+Sakuraba was eating curry bread.
+TP
+
+
+//こいつは簡単だ。ちょろい。
+This guy's simple. Easy-peasy.
+TP
+
+
+//日曜の時点で身柄を押さえていればいいだろう。
+I should just secure the suspect until that point in time on Sunday.
+//身柄を押さえる is the police term for "put into custody". See CCD5001. And later on... -GHS
+TP
+
+
+//太一「さくらばー」
+Taichi: "Sakurabaaa."
+TP
+GL 1 TCSH0000
+GP 1 190 0
+GI 1 1
+WVP 0 vmCCD6001sku000
+//桜庭「んー？」
+Sakuraba: "Hm?"
+TP
+
+
+//太一「日曜の朝、俺の家に集合」
+Taichi: "On Sunday morning, rendez-vous at my house."
+TP
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCD6001sku001
+//桜庭「わかった。任せろ」
+Sakuraba: "Got that. Leave it to me."
+TP
+
+
+//信頼は置けない。無論。
+I can't give him my trust. Of course.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 1
+
+WVS 1 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Tuesday September 8, 1998 -GHS
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 0
+WVP 1 bgm018.ogg 0 0 0
+
+
+
+//目を覚ます。
+I am awake.
+//CP CCC0024
+TP
+
+
+//陽光が窓を貫いていた。
+Sunlight was piercing through the window.
+//CP CCC0024
+TP
+
+
+//熟睡していたらしい。夢一つ見なかった。
+Seems I have been hard asleep. I did not have any dreams.
+//CP CCC0024
+TP
+
+
+//時間は……７時。
+The time is... 7AM.
+//CP CCC0024
+TP
+
+
+//学校に行かねば。
+Going to school is necessity.
+//CP CCD1001
+TP
+
+
+
+
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+WVP 1 bgm010.ogg 0 0 0
+
+
+GL 1 TCSH0000
+GI 1 1
+
+WVP 0 vmCCC0025sku000
+//桜庭「よう」/*
+Sakuraba: "Yo."
+//CP CCC0025
+TP
+
+
+//太一「ほれ」
+Taichi: "Here."
+//CP CCD0012
+TP
+
+
+//マスクを渡した。
+I handed him a surgical mask.
+//CP CCD0012
+TP
+GL 1 TCSH0002a
+GI 1 0
+
+
+WVP 0 vmCCD6002sku000
+//桜庭「ＯＫ」/*
+Sakuraba: "O.K."
+//CP CCD0012
+TP
+
+
+//何の疑問も持たずにつけた。
+He put it on, not one doubt or question.
+//CP CCD0012
+TP
+
+GL 1 TCSH0003a
+GI 1 0
+
+WVP 0 vmCCC0025sku001
+//桜庭「腹が減った」/*
+Sakuraba: "Hungry."
+//CP CCC0025
+TP
+
+
+//太一「食ってないのか？」
+Taichi: "Haven't eaten then?"
+//CP CCC0025
+TP
+
+GL 1 TCSH0002a
+GI 1 0
+
+WVP 0 vmCCC0025sku002
+//桜庭「一時間目の授業に備えている」/*
+Sakuraba: "Readying for first period class."
+//CP CCC0025
+TP
+
+
+//太一「……カレーパンを食うのが授業なのか」
+Taichi: "...is the subject curry bread perhaps?"
+//CP CCC0025
+TP
+GL 1 TCSH0000a
+GI 1 0
+
+WVP 0 vmCCC0025sku003
+//桜庭「カレーパンがなくなるその日まで」/*
+Sakuraba: "Until that day when curry bread itself has finally passed."
+//CP CCC0025
+TP
+
+
+//クールに決めた。
+Cooly resolved.
+//CP CCD0012
+TP
+
+
+//記録通りだ。
+Just as in the records.
+//PCP CCD0012
+//Hmmm, this is the same as the sentence two below, but this was slightly different in CCD0012. I suspect, as usual, older revision - but it may be haste in copypasta. Following original script. -GHS
+TP
+
+
+//太一「レトルトのカレーでも食ってればいいじゃないか」
+Taichi: "Wouldn't you like to eat some retort pouch curry too?"
+//CP CCC0025
+TP
+
+
+WVP 0 vmCCC0025sku004
+//桜庭「カレーは嫌いだ」/*
+Sakuraba: "I hate curry."
+//CP CCC0025
+TP
+
+
+//記録通りだ。
+Just as recorded.
+//CP CCD0012
+TP
+
+
+//記録はどんどん成就していく。
+The records are, more and more, steadily being fulfilled.
+//PCP CCD0012
+TP
+
+GL 1 TCSH0002a
+GI 1 0
+WVP 0 vmCCC0025sku010
+//桜庭「ヘックス！」/*
+Sakuraba: "Heh-cks!"
+//CP CCC0025
+//SEF 101 0
+GP 1 175 15
+GI 1 0
+GP 1 190 30
+GI 1 0
+GP 1 205 15
+GI 1 0
+GP 1 190 0
+GI 1 0
+//HACK independent doll shake (though the PS2 version has BG at this point for whatever reason, it differs from CCD0012 too) -GHS
+TP
+
+
+//太一「……ふ、来たな、六角形の惨劇」
+Taichi: "...whew, there it goes, the Tragedy of the Hexagon."
+//PCP CCD0012
+TP
+
+
+//そう記録されていた。
+So it had been recorded.
+TP
+
+
+//発生率は、今まで確認しただけでも、１５％以上。
+Rate of occurrence, up to present, has been just confirmed to be 15% or more.
+//PCP CCD0012
+//Still likely older scripts. This has a comma missing that doesn't change much. -GHS
+TP
+
+
+//七回に一度は、鼻汁橋をぶち込まれる計算だ。
+My calculations say that once in seven times I will be struck with a Nasal Discharge Bridge.
+//CP CCD0012
+TP
+
+
+//だが過去の偉い人（俺）は、マスクを装着させることで回避する術を編み出したのだ。
+However, a celebrated personage of the past (I) has worked out the technique of avoidance of such via installation of a mask, indeed.
+//PCP CCD0012
+//Ibid. -GHS
+TP
+
+GL 1 TCSH0003a
+GI 1 0
+WVP 0 vmCCD6002sku001
+//桜庭「……マスク、取っていいか？」/*
+Sakuraba: "...is it OK if I take off the mask?"
+//CP CCD0012
+TP
+
+
+//太一「それは許可できない」
+Taichi: "That cannot be allowed."
+//CP CCD0012
+TP
+GL 1 TCSH0002a
+GI 1 0
+
+
+WVP 0 vmCCD6002sku002
+//桜庭「つらいな……人生は」/*
+Sakuraba: "So harsh... this human life."
+//CP CCD0012
+TP
+
+
+//太一「そのとおりだ」
+Taichi: "Indeed that is true."
+TP
+
+
+//太一「じゃ、俺は帰るから」
+Taichi: "Well, I'll be going home now."
+TP
+
+
+WVP 0 vmCCD6002sku003
+//桜庭「……そうか」
+Sakuraba: "...right."
+TP
+
+
+//太一「日曜日朝に俺の家に集合だぞ」
+Taichi: "Rendez-vous at my house on Sunday morning, got that!"
+//PCP above
+TP
+GL 1 TCSH0000a
+GI 1 0
+
+WVP 0 vmCCD6002sku004
+//桜庭「了解だ。大丈夫だ」
+Sakuraba: "Roger. We're OK."
+TP
+
+
+//信頼できるか。
+Yeah, because I can trust you.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+
+SEF 109 0
+
+WVS 1 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Wednesday September 9, 1998 -GHS
+
+
+
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 1
+//水曜日。
+Wednesday.
+//CP CCC0007
+TP
+
+
+//学校に。
+To school.
+//CP CCC0007
+TP
+
+
+
+
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+//脱走させないための門。
+A gate to prevent desertion.
+//CP CCD1001
+TP
+
+
+//学生を守っているというより、外の世界を、俺たちから守っているような。
+It seems to exist less to protect students, and more to protect the outside world from us.
+//CP CCD1001
+TP
+
+
+//そんな印象を抱かせた。
+That is the impression it left.
+//CP CCD1001
+TP
+
+
+
+
+
+GL 0 bgcc0009
+GS 0 1
+SEF 152 0
+WVP 1 bgm010.ogg 0 0 0
+
+
+//太一「またここか」
+Taichi: "Here again?"
+TP
+
+
+GL 1 TCSH0000
+GI 1 1
+WVP 0 vmCCD6003sku000
+//桜庭「……飽きてきた」
+Sakuraba: "...got tired of it."
+TP
+
+
+//太一「だろうな」
+Taichi: "'course you did."
+TP
+
+
+//太一「倦怠感に包まれた貴様に一つ言っておくが」
+Taichi: "Let me tell ya one thing, you apathetic lassitude-filled bastard."
+TP
+
+
+//太一「勝手に旅とかすんなよ」
+Taichi: "Don't you up and decide to go on a trip or something!"
+TP
+
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCD6003sku001
+//桜庭「わかった」
+Sakuraba: "Got that."
+TP
+
+
+//太一「俺の許可を取れ」
+Taichi: "Get my permission first."
+TP
+
+
+WVP 0 vmCCD6003sku002
+//桜庭「わかった」
+Sakuraba: "Got that."
+//CP above
+TP
+
+
+WVP 2 SE003 1 0
+//SEF 101 0
+GP 1 175 15
+GI 1 0
+GP 1 190 30
+GI 1 0
+GP 1 205 15
+GI 1 0
+GP 1 190 0
+GI 1 0
+//HACK independent doll shake -GHS
+GO 1 1
+
+//太一「その安請け合いが不安なんだ！　聞こえてるのか！」
+Taichi: "That agreement's so quick that it makes me uneasy! Are you even listening?!"
+TP
+
+
+//GL 1 TCSH0002
+GL 1 TCSH0000
+//HACK doll -GHS
+GI 1 1
+WVP 0 vmCCD6003sku003
+//桜庭「平気だ。おまえの許可を取ればいいんだろ？」
+Sakuraba: "It's alright. If I get your permission it's OK, right?"
+TP
+
+
+//太一「わかってるじゃないか」
+Taichi: "Didn't you get it?"
+TP
+
+
+//GL 1 TCSH0000
+//GI 1 0
+//HACK no need -GHS
+WVP 0 vmCCD6003sku004
+//桜庭「冒険は旅に含まれるのか？」
+Sakuraba: "Are adventures included in 'travel'?"
+//See CCB0005 -GHS
+TP
+
+
+//太一「全部だ！」
+Taichi: "All of that is!"
+TP
+
+
+GL 1 TCSH0003
+GI 1 0
+WVP 0 vmCCD6003sku005
+//桜庭「全部か……探検もそうだな」
+Sakuraba: "All of that then... explorations too then."
+TP
+
+
+//太一「この街を出ようとする行為全般をさす」
+Taichi: "All acts and conducts in general that get you out of this town."
+TP
+
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCD6003sku006
+//桜庭「ああ、納得だ」
+Sakuraba: "'K, I understand."
+TP
+
+
+//本当か？
+Does he, seriously?
+TP
+
+
+GL 1 TCSH0003
+GI 1 0
+WVP 0 vmCCD6003sku007
+//桜庭「なあ、一つ疑問があるんだが」
+Sakuraba: "Say, one doubt I got."
+TP
+
+
+//太一「あん？」
+Taichi: "'at?"
+TP
+
+
+WVP 0 vmCCD6003sku008
+//桜庭「嬲る、って字さぁ」
+Sakuraba: "That kanji with two men surrounding one woman that somehow only means "to tease" (3P-style),"
+//PCP CCA0015
+TP
+
+
+//太一「ああ」
+Taichi: "Yup?"
+TP
+
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCD6003sku009
+//桜庭「興奮するよな」
+Sakuraba: "Ain't it arousing."
+//It looks random, but I think he's attempting to ellumicimdicidateferate(tm)(C) on how the kanji is a pun between Taichi's sexual issues and his teasing. Or something. -GHS
+TP
+
+
+//太一「……インポ野郎が」
+Taichi: "...but yer impotent, you son of a bitch."
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+WVS 1 1
+
+
+
+
+
+WT 500
+WT 500 1
+
+
+
+
+//Thursday September 10, 1998 -GHS
+
+
+
+WVP 0 vmCCD6004sku000
+//桜庭「太一～！」
+Sakuraba: "Taichiii～!"
+TP
+
+
+GL 0 bgcc0003e
+GS 0 1
+SEF 109 1
+
+WVP 1 bgm005.ogg 0 0 0
+
+
+
+WVP 0 vmCCD6004sku001
+//桜庭「おーい、太一～！」
+Sakuraba: "Heeeey, Taichiii～!"
+TP
+
+
+//太一「なんだなんだ」
+Taichi: "What is it now, what is it!"
+TP
+
+GL 0 bgcc0013bz
+
+GL 1 TCSH0000c
+GS 0 1
+GS 1 1
+SEF 152 0
+
+WVP 0 vmCCD6004sku002
+//桜庭「旅に出ることにした！」
+Sakuraba: "Turns out I'm going on a trip!"
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+WVP 2 SE003 1 0
+//首筋に手刀。
+Necknape Knifehand Strike.
+//Curiously, the correct term is 手刀打ち, 手刀 alone seems to be that gesture of politeness that looks like praying with one hand (you know the one). http://en.wikipedia.org/wiki/Knifehand_strike is the formal term for Karate Chop. Oh, and best not to strike him on the ears... -GHS
+
+//SEF 101 0
+GP 1 175 15
+GI 1 0
+GP 1 190 30
+GI 1 0
+GP 1 205 15
+GI 1 0
+GP 1 190 0
+GI 1 0
+//HACK independent doll shake -GHS
+TP
+GO 1 1
+
+//倒れる桜庭。
+And down falls Sakuraba.
+TP
+GL 1 TCSH0000c
+GI 1 1
+
+WVP 0 vmCCD6004sku003
+//桜庭「……うう、旅に……」
+Sakuraba: "...ngh, on a trip..."
+TP
+
+
+//太一「まだ言うか」
+Taichi: "You still saying that?"
+TP
+
+
+//太一「旅は禁止だ」
+Taichi: "Trips are forbidden."
+TP
+
+
+WVP 0 vmCCD6004sku004
+//桜庭「それはつらいな……」
+Sakuraba: "That's harsh..."
+TP
+
+
+//太一「来週まで禁止だ」
+Taichi: "Forbidden until next week."
+TP
+
+GL 1 TCSH0003c
+GI 1 0
+
+
+WVP 0 vmCCD6004sku005
+//桜庭「来週からはいいのか？」
+Sakuraba: "So from next week I can?"
+TP
+
+
+//太一「ああ。来週からはＯＫだ。あと数日の辛抱だ」
+Taichi: "Yah. From next week it's okieh. Endure for a few days more."
+TP
+GL 1 TCSH0002c
+GI 1 0
+
+
+WVP 0 vmCCD6004sku006
+//桜庭「そうか……うむ、わかった」
+Sakuraba: "Right... hum, understood."
+TP
+
+
+//太一「唐突なやつだ。昨日の今日で」
+Taichi: "That was a sudden one. Just from yesterday to today."
+TP
+GL 1 TCSH0003c
+GI 1 0
+
+WVP 0 vmCCC3012bsku001
+//桜庭「聞いてくれ」/*
+Sakuraba: "Listen here."
+//CP CCC3012
+TP
+
+
+//太一「なんだ？」
+Taichi: "What now?"
+//CP CCC3012
+TP
+
+
+WVP 0 vmCCC3012bsku002
+//桜庭「カレーパンに飽きてきた」/*
+Sakuraba: "I got sick of curry bread."
+//CP CCC3012B
+TP
+
+
+//太一「……あのな」
+Taichi: "...listen here now."
+//CP CCC3012
+TP
+
+GL 1 TCSH0002c
+GI 1 0
+
+WVP 0 vmCCD6004sku007
+//桜庭「刺激が足りなくなった。なにか面白いものを探しに行く」
+Sakuraba: "The stimulus is no longer enough. I wanna go searching for something interesting."
+TP
+
+
+//太一「おまえには妖精の血が流れている気がする」
+Taichi: "Feels like you got fairy blood in your veins."
+//Get it get it get it curry and fairies??? ...so the fairies in Jintai are the humans, and the Trinity is obvious - protagonist, assistant, and the old guy (apparently omniscient, facial hair, white vest-like coat, always getting ready for war... and he's the protagonist's Father, yep) - these "humans" can produce anything but that one thing they so like, and only the god(s) can... pre-Fall of Eden or pre-apocalyptical, certainly no more post-ap than Cross Channel, in the optic of the reciprocal incomprehensibility between gods and men, possibly with a background of a passage between polytheism to monotheism?
+//Preliminary investigation from the anime highly inconclusive, but that one about the anthropomorphic space probes has to be the single most ass-backwards reference to Star Trek: The Motion Picture ever made. I guess that was necessary after David Bowie, Michael Jackson and 2001 ASO (still to come). "Back on topic", upside-down 人, or Y, is totally the love child of Taichi and Sakuraba. Squee, fangirls. -GHS
+TP
+GL 1 TCSH0000c
+GI 1 0
+
+WVP 0 vmCCC4016sku010
+//桜庭「それにもしかしたら人と会えるかも知れない」/*
+Sakuraba: "Besides it could even be that I'll meet people there."
+//CP CCC4016
+TP
+
+
+//太一「……ふーん」
+Taichi: "...hmmm."
+//CP CCC4016
+TP
+
+
+//考えてないわけじゃないのか。
+That just means he hasn't thought through this at all, doesn't it.
+//CP CCC4016
+TP
+
+
+WVP 0 vmCCD6004sku008
+//桜庭「そうそう、借りていた金も返そうと思ってな」
+Sakuraba: "Right, right, and I thought I'd give you back the money you lent me."
+TP
+
+
+//太一「ああ、貸していたような……」
+Taichi: "Yeah, I did have to lend you some..."
+TP
+
+GL 1 TCSH0003c
+GI 1 0
+
+WVP 0 vmCCC4016sku022
+//桜庭「いくらだったかな？」/*
+Sakuraba: "How much was it even?"
+//CP CCC4016
+TP
+
+
+//もう金なんて意味ないのにな。
+Even if money's meaningless now, really.
+//CP CCC4016
+TP
+
+
+//おかしなヤツだ。
+So weird, this guy.
+//CP CCC4016
+TP
+
+
+//太一「さあ、金額は記憶してないなぁ」
+Taichi: "Dunno, I have nooo memory of how much."
+//CP CCC4016
+TP
+GL 1 TCSH0000c
+GI 1 0
+
+WVP 0 vmCCC4016sku023
+//桜庭「とりあえず小銭入れごと渡そう」/*
+Sakuraba: "For now I'm handing over my coin purse."
+//CP CCC4016
+TP
+
+
+//財布を取り出す。
+He takes out his wallet.
+//CP CCB3012B
+TP
+
+
+//太一「……うーむ」
+Taichi: "...uh-huh."
+TP
+
+GL 1 TCSH0002c
+GI 1 0
+
+WVP 0 vmCCC4016sku025
+//桜庭「あと足りない分はこれで補ってくれ」/*
+Sakuraba: "And, I'll be supplementing the amount that's missing with this."
+//CP CCC4016
+TP
+
+
+//荷物から木箱を取り出す。
+He takes out a wooden box from the bag.
+//CP CCC4016
+TP
+
+
+//太一「あ、それはいい……持ち帰ってくれ」
+Taichi: "Ah, we're good with that... take it back home."
+TP
+GL 1 TCSH0000c
+GI 1 0
+
+
+WVP 0 vmCCD6004sku009
+//桜庭「そうか？　金になると思うが」
+Sakuraba: "You sure? I think this is worth money."
+TP
+
+
+//太一「してはいけない。どっかの博物館に寄付しなければだめだ」
+Taichi: "Yes, but that's not happening. And it's out of the question not to donate that to some museum."
+//Indiana Taichi? It's more interesting that he tells him to get it back. But he's going back home, and nothing should've changed back there He inadvertently broke the facade. -GHS
+TP
+
+
+WVP 0 vmCCD6004sku010
+//桜庭「……？」
+Sakuraba: "...?"
+TP
+GL 1 TCSH0003c
+GI 1 0
+
+
+WVP 0 vmCCD6004sku011
+//桜庭「なあ、来週の旅のことなんだが」
+Sakuraba: "Say, about that trip next week."
+TP
+
+
+//太一「ああ、どした」
+Taichi: "Yeah, what."
+TP
+
+
+WVP 0 vmCCD6004sku012
+//桜庭「おまえも一緒に来ないか？」
+Sakuraba: "Won't you come together with me?"
+//PCP CCC4016
+TP
+
+
+//太一「……俺も旅に？」
+Taichi: "...me, traveling with you?"
+//PCP CCC4016
+TP
+
+
+
+
+
+
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC4016sku033
+//桜庭「どうだ？」/*
+Sakuraba: "How 'bout?"
+//CP CCC4016
+TP
+
+
+//太一「……面白そうだな」
+Taichi: "...seems interesting, yeah."
+//PCP CCC4016
+TP
+
+
+//来週。
+Next week...
+TP
+
+
+//太一「いいぞ、行ってやろう」
+Taichi: "Fine, I'll go with ya."
+TP
+GL 1 TCSH0001c
+GI 1 0
+
+WVP 0 vmCCD6004sku013
+//桜庭「よし、二人で鷹になるぞ」
+Sakuraba: "Great, we'll become Twin Falcons."
+//Suspecting it's this: http://ja.wikipedia.org/wiki/%E3%81%B5%E3%81%9F%E3%82%8A%E9%B7%B9 ...unless it means Eagles, and then... -GHS
+TP
+
+
+//太一「まあスズメでもトンビにでもなってくれ」
+Taichi: "Well, we're more like Tree Sparrow (those chatty ones) and Black Kite."
+//Assuming it's a pun on the names of the guys above. -GHS
+TP
+
+GL 1 TCSH0002c
+GI 1 0
+
+
+WVP 0 vmCCD6004sku014
+//桜庭「じゃあ、俺はそろそろ旅に出ることにする」
+Sakuraba: "Well, about time I get to go on my trip."
+TP
+
+
+//太一「待てや！」
+Taichi: "You wait now!"
+TP
+
+
+//太一「日曜までいろと言っただろうが！」
+Taichi: "I told to be here until Sunday didn't I!"
+//Can be read "live until Sunday". Since leaving the town by a route that goes by, but not through, the hokora is de-facto death... -GHS
+TP
+
+GL 1 TCSH0000c
+GI 1 0
+
+WVP 0 vmCCD6004sku015
+//桜庭「ああ、悪い、忘れてた」
+Sakuraba: "Ah, my bad, forgot."
+TP
+
+
+//危なすぎる。
+This is way too dangerous.
+TP
+
+
+//太一「桜庭、おまえを逮捕する」
+Taichi: "Sakuraba, you are under arrest."
+//See start of route. -GHS
+TP
+GL 1 TCSH0003c
+GI 1 0
+
+
+WVP 0 vmCCD6004sku016
+//桜庭「……なに？」
+Sakuraba: "...what?"
+TP
+
+
+//太一「緊急逮捕だ」
+Taichi: "Arrested on the spot, no warrant."
+//See CCA0002, and CCD5001 again. -GHS
+TP
+
+
+WVP 0 vmCCD6004sku017
+//桜庭「急ぎで！？」
+Sakuraba: "That hastily?!"
+TP
+
+
+//太一「そうだ。そんで日曜までここで暮らせ」
+Taichi: "Indeed. And so, you will be living here until Sunday."
+TP
+
+
+GL 1 TCSH0002c
+GI 1 0
+
+WVP 0 vmCCD6004sku018
+//桜庭「むう……」
+Sakuraba: "Mnuh..."
+TP
+
+
+//太一「そしたらおまえに、哀れなる桜庭という二つ名をつけてやる」
+Taichi: "Also, I'll give you the second name of Pitiable Sakuraba."
+//Saraba, Pitiable Sakuraba. -GHS
+TP
+
+GL 1 TCSH0001c
+GI 1 0
+
+WVP 0 vmCCD6004sku019
+//桜庭「マジか。格好良すぎじゃないか。決まりだな」
+Sakuraba: "You serious? Ain't that way too cool. It's decided."
+TP
+
+
+//哀れすぎた。
+Way Too Pitiable.
+//Way Too Lame Gag, too. -GHS
+TP
+
+
+//桜庭を囲った。
+I fenced in Sakuraba.
+//Though one of the meanings is "shelter a criminal". Hmmm, but that's not quite it, is it? -GHS
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+
+SEF 109 1
+
+WVS 1 1
+
+
+
+
+
+//Friday September 11, 1998 -GHS
+//Nothin'. -GHS
+
+//Saturday September 12, 1998 -GHS
+//Nothin'. -GHS
+
+
+//Sunday September 13, 1998 -GHS
+
+WT 500 0
+WT 1000 1
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 1
+//そして朝―――
+And then morning---
+TP
+
+
+//目を覚ます。
+I am awake.
+//CP CCC0024
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+
+GL 0 bgcc0004
+GS 0 1
+SEF 109 0
+
+WVP 1 bgm004.ogg 0 0 0
+
+
+//太一「桜庭、行くぞー」
+Taichi: "Sakuraba, let's gooo."
+TP
+
+GL 1 TCSH0000
+GI 1 1
+WVP 0 vmCCD6005sku000
+//桜庭「ああ……朝飯は？」
+Sakuraba: "Ah... and breakfast?"
+TP
+
+
+//太一「向こうについてから食え」
+Taichi: "You eat after you get over there."
+TP
+
+
+WVP 0 vmCCD6005sku001
+//桜庭「わかった……」
+Sakuraba: "Got that..."
+TP
+
+
+//太一「行くぞ」
+Taichi: "Let's go."
+TP
+
+
+
+GL 0 bgcc0015
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//GL 1 TCSH0000
+//GI 1 1
+//HACK nope -GHS
+WVP 0 vmCCD6005sku002
+//桜庭「……どこに向かっているんだ？」
+Sakuraba: "...where we heading to?"
+TP
+
+
+//太一「ああ、ピクニックだ」
+Taichi: "Ahhh, it's a picnic."
+TP
+
+GL 1 TCSH0002
+GI 1 1
+//HACK fade now -GHS
+WVP 0 vmCCD6005sku003
+//桜庭「ずいぶんとムサいピクニックだな」
+Sakuraba: "It's a very squalid picnic, innit."
+TP
+
+
+//太一「うむ。まさにそういうコンセプトだ」
+Taichi: "Yup! Indeed the concept's like that."
+TP
+
+GL 1 TCSH0003
+GI 1 0
+
+WVP 0 vmCCD6005sku004
+//桜庭「来週は、旅に出るぞ」
+Sakuraba: "Next week, I'm going on a trip."
+TP
+
+
+//太一「出てくれ出てくれ」
+Taichi: "Please go, do please go."
+TP
+
+
+GL 0 bgcc0016
+GS 0 1
+GS 1 0
+
+SEF 152 0
+//よし。
+Great.
+TP
+
+
+//桜庭をその場所に連れて行く。
+I brought Sakuraba to that place.
+TP
+
+
+//太一「これを持て」
+Taichi: "Grab this."
+TP
+GL 1 TCSH0000
+GI 1 1
+
+WVP 0 vmCCD6005sku005
+//桜庭「なんだ？　ラジオか？」
+Sakuraba: "What's this? A radio?"
+TP
+
+
+//太一「良い目安になるでしょうっと」
+Taichi: "This'll make a good indicator."
+TP
+
+
+//太一「……で、ここをまっすぐ歩け」
+Taichi: "...and, walk straight on from here."
+TP
+
+
+WVP 0 vmCCD6005sku006
+//桜庭「ああ」
+Sakuraba: "Sure."
+TP
+
+
+//太一「ゆっくりだ！」
+Taichi: "Slowly!"
+TP
+
+
+WVP 0 vmCCD6005sku007
+//桜庭「ここか？」
+Sakuraba: "Here?"
+TP
+
+//太一「ああ、それでいい。まっすぐな……そこでストップ」
+Taichi: "Yeah, that's fine. Straight forwards... and stopp' there."
+//Basically a running gag at this point.
+TP
+
+
+//スナイプＯＫ。
+Snipe-OK.
+TP
+
+
+//さて、あと数分もないだろう。
+Well then, it won't be for a few more minutes I guess.
+TP
+
+
+//ギリギリだったな。
+We made it at just at the last moment, didn't we.
+TP
+
+
+WVP 0 vmCCD6005sku008
+//桜庭「……なあ、太一」
+Sakuraba: "...say, Taichi."
+TP
+
+
+//太一「ん？」
+Taichi: "Hm?"
+TP
+
+
+WVP 0 vmCCD6005sku009
+//桜庭「どうして、こういうことをするんだ？」
+Sakuraba: "How come you're doing this?"
+//He knows exactly. And still he trusts him. -GHS
+TP
+
+
+
+WVS 1 1
+
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+//太一「どうしてって、別に意味はない」
+Taichi: "Why, well it doesn't have much of a meaning."
+TP
+GL 1 TCSH0002
+GI 1 0
+
+WVP 0 vmCCD6005sku010
+//桜庭「……意味はあるだろうさ」
+Sakuraba: "...I think it got meaning."
+TP
+
+
+WVP 0 vmCCD6005sku011
+//桜庭「そういう目をしているからな」
+Sakuraba: "Because you have those eyes, that's why."
+//Sooo wonderfully ambiguous. -GHS
+TP
+
+
+//太一「……おまえ？」
+Taichi: "...you?"
+TP
+
+GL 1 TCSH0003
+GI 1 0
+
+WVP 0 vmCCD6005sku012
+//桜庭「オレたちは親友じゃないか」
+Sakuraba: "Aren't the two of us buddies?"
+//The entire Sakuraba/Yutaka subplot in one sentence. -GHS
+TP
+
+
+//太一「し……っ！？」
+Taichi: "Budd...?!"
+TP
+
+
+
+WVP 1 bgm023.ogg 0 0 0
+
+
+
+//何言ってるんだコイツは！
+The hell's this guy saying!
+TP
+
+
+//絶句した。
+I was at loss for words.
+TP
+
+
+//２１世紀だぞ？
+It's the 21st Century, right?
+//Well, in about 27 months (15 for those who don't understand the calendar system, i.e. most of mankind). -GHS
+TP
+
+
+WVP 0 vmCCD6005sku013
+//桜庭「つるむのは、もうおしまいなのか？」
+Sakuraba: "We're now all done with our mate-ing, right?"
+TP
+
+
+//太一「桜庭……おまえ」
+Taichi: "Sakuraba... you..."
+TP
+
+
+WVP 0 vmCCD6005sku014
+//桜庭「寂しいことだな」
+Sakuraba: "That's something so lonely."
+//The words he often uses, back at him. -GHS
+TP
+
+
+WVP 0 vmCCD6005sku015
+//桜庭「おまえがオレを嫌うのなら、仕方ないけどな」
+Sakuraba: "If you got to hate me, then nothing I can do, ya know."
+TP
+
+
+//太一「……いや、桜庭。意味が違う」
+Taichi: "...no, Sakuraba. That's not what it means."
+TP
+GL 1 TCSH0002
+GI 1 0
+
+
+WVP 0 vmCCD6005sku016
+//桜庭「おかしなことばかりおこるな、ここ最近は」
+Sakuraba: "Been just lots of weird things happening on these last few days."
+TP
+
+
+WVP 0 vmCCD6005sku017
+//桜庭「人がいなくったり……」
+Sakuraba: "Like people being no more..."
+TP
+
+
+//空が暮れた。
+The sky darkened.
+TP
+
+GL 0 bgcc0016c
+GL 1 TCSH0002b
+GS 0 1
+GS 1 1
+SEF 109 0
+
+WVP 0 vmCCD6005sku018
+//桜庭「……急に夕暮れになったり」
+Sakuraba: "...or twilight coming suddenly."
+//HE KNOWS ABOUT THE "LOOP". -GHS
+TP
+
+
+//時間がない。
+There is no time.
+TP
+
+
+//送還しないと。
+I must send him back.
+TP
+
+
+//けれど。
+However,
+TP
+
+
+
+//この馬鹿の顔を、二度と見なくなる―――
+to never see this idiot's face ever again---
+TP
+
+
+
+//ただそれだけのことなのに。
+Even if it's just that and nothing else.
+TP
+
+
+//太一「桜庭……」
+Taichi: "Sakuraba..."
+TP
+GL 1 TCSH0002b
+GI 1 0
+
+WVP 0 vmCCD6005sku019
+//桜庭「けど一番ショックなことは、おまえが追いつめられているのに、何もできないことだ」
+Sakuraba: "But the most shocking thing was, even though you were cornered, you couldn't do anything about it."
+TP
+
+
+//太一「馬鹿野郎」
+Taichi: "You dumb bastard."
+TP
+
+
+//太一「おまえは自分のことだけ考えてろ。人の心配なんざ百年早いんだよ。桜庭の分際でシリアスなこと言ってんじゃない」
+Taichi: "You stick to thinking about your own self. Yer a century too young to to be worrying about people! Your social class is that of someone who can't say serious stuff, Sakuraba!"
+//It's more manga/shonen referencing. -GHS
+TP
+GL 1 TCSH0003b
+GI 1 0
+
+WVP 0 vmCCD6005sku020
+//桜庭「……昔のおまえ、そんな感じだった」
+Sakuraba: "...yourself from long ago felt just like that."
+//See CCD0002: he totally fell in love with Taichi's aloofness, didn't he.  -GHS
+TP
+
+
+//太一「な―――」
+Taichi: "Wha---"
+TP
+
+
+WVP 0 vmCCD6005sku021
+//桜庭「最近はずっと無理してるみたいだったからな」
+Sakuraba: "'Cause recently you kept trying to overdo stuff."
+TP
+
+GL 1 TCSH0002b
+GI 1 0
+
+WVP 0 vmCCD6005sku022
+//桜庭「懐かしい」
+Sakuraba: "It's so nostalgic."
+//This is the implication that Taichi's problem is the exact same as Youko's and Touko's, in a sense. -GHS
+TP
+
+
+//太一「……！」
+Taichi: "...!"
+TP
+
+
+//昔の俺。
+Myself from long ago.
+TP
+
+
+//こんな時に、思い出させて。
+He made me remember it, right at this occasion.
+TP
+
+
+//太一「……行っちまえ、馬鹿野郎」
+Taichi: "...ya get out of here, you dumb son of a bitch."
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+WVS 1 0
+
+
+//カシャ―――
+Shutter click---
+//CP CCD2002
+TP
+
+
+//俺は『観測』をした。
+I Observed.
+TP
+
+
+//目を閉じて、開くと―――
+I closed my eyes, and on opening them---
+TP
+
+WT 1000
+WT 3000 1
+
+
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 109 2
+WVP 0 vmCCD6005sku023
+//桜庭「……太一？」
+Sakuraba: "...Taichi?"
+TP
+
+WVP 3 SE099 0 0
+
+
+WVP 0 vmCCD6005sku024
+//桜庭「……ん……放送？」
+Sakuraba: "...hm... sent back?"
+//Literally knows. -GHS
+TP
+
+
+WVP 0 vmCCD6005sku025
+//桜庭「太一？　ラジオが……」
+Sakuraba: "Taichi? The radio..."
+TP
+
+
+//桜庭「……………………」
+Sakuraba: "............"
+TP
+
+
+
+WVS 3 1
+
+
+
+
+WVP 1 bgm001.ogg 0 0 0
+GL 0 bgcc0001b
+GS 0 1
+SEF 152 0
+
+WVP 0 vmCCD6005sku027
+//桜庭「……そうか」
+Sakuraba: "...right."
+TP
+
+
+WVP 0 vmCCD6005sku028
+//桜庭「そうかぁ」
+Sakuraba: "Riiight."
+TP
+
+//GL 0 bgcc0000d
+//GS 0 1
+//SEF 109 1
+//WT 1000 0
+//WT 1000 1
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+GL 0 bgcc0000d
+GI 0 0
+//HACK disconnected. This was missing from all the routes but Misato's. -GHS
+
+//GL 0 bgcc0015
+GL 0 bgcc0016b
+//HACK night hokora instead of the mountain path (WTF were they doing here???) -GHS
+GS 0 1
+SEF 109 1
+//桜庭という『ズレ』は正常に帰った。
+The 'shift' called Sakuraba was returned back to normalcy.
+TP
+
+
+//太一「まったく」
+Taichi: "Seriously."
+TP
+
+
+//親友、か。
+Buddies, then.
+TP
+
+
+//今時、そんなことを言うヤツがいるか。
+That there would exists a guy that would blurt out that right on this occasion.
+TP
+
+
+//いるかよ……。
+That there would exist...
+TP
+
+
+//太一「ははは」
+Taichi: "Hahahah."
+TP
+
+
+//滑稽で。
+Ridiculous.
+TP
+
+
+//太一「ははは、はは」
+Taichi: "Hahahah, hahah."
+TP
+
+
+//笑いが止まらなかった。
+I couldn't stop laughing,
+TP
+
+
+//だけど。
+but,
+TP
+
+
+//いくら笑っても。
+however much I laugh,
+TP
+
+
+//視界は滲むこともなかった―――
+my vision would not blur---
+//No tears -GHS
+TP
+
+
+//だからな、桜庭。
+And that's why, Sakuraba,
+TP
+
+
+//これで良かったんだ。
+I'm glad of this, that's what.
+TP
+
+
+//もうあいつと会うこともない。
+Now I'll never see that guy again.
+TP
+
+
+//たくわえられた記憶が、俺にとっての桜庭のすべて。
+The memories that I have stored are everything that Sakuraba is to me.
+TP
+
+
+//太一「……ばーか」
+Taichi: "...iii-diot."
+//PCP CCA0027
+//Indeed. -GHS
+TP
+
+
+//妙にこわくなって、震える膝を押さえる。
+I became oddly afraid, so I hold down my shaking knees.
+TP
+
+
+//顔を伏せて、目を閉じた。
+I bowed down my head and closed my eyes.
+TP
+
+
+//まぶたを通じて、赤が侵略してきた。
+My eyelids conveyed the invasion of the red.
+TP
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+WVS 1 1
+TWS 7
+//HACK earlier end music, NVL mode -GHS
+
+//そしてまた、世界は巡る―――
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+     And once again the world went around---
+//This and Miki's are the only one that are different of the Sendback routes. After all, they're the two most different characters of them all. The meaning is simple: the day's over. -GHS
+TP
+
+
+WVS 1 1
+
+WT 1500
+WT 1500 1
+
+
+RET

@@ -1,0 +1,79 @@
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+//霧は学校に来ているのだろうか。
+I wonder if Kiri has come to school.
+TP
+
+//月曜に見たという記録はなかった。
+There were no records of sightings on Monday.
+TP
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+//四階。一年の教室。
+Fourth floor. First years' classroom.
+//See CCA0021, third years are on third floor. Something is wrong here, but I can't exclude writing error. Unchanged in all versions. -GHS
+TP
+
+//霧がいた。
+Kiri was here.
+TP
+GL 0 evcc0027
+$CGevcc0027 = 1
+GS 0 1
+SEF 153 0
+
+WVP 1 bgm020.ogg 0 0 0
+
+//景色を眺めている。
+I gaze lost at this scene.
+TP
+
+//小柄な体格。
+A petite physique.
+TP
+
+//筋張ってはおらず、瑞々しい生命力に満ちている。
+Full of young and fresh vitality that yet doesn't make her muscular.
+TP
+
+//斜め後ろから見える横顔にはひとつまみほどの憂い。
+There is just a pinch of sadness, no more, in the profile visible from her shifted back.
+TP
+
+//額を覆う仕草で、黒髪がさらさらと波打つ。
+Her dark hair waves silky and smooth with the gesture she makes to cover her forehead.
+TP
+
+//若い生命力を薄く脆いガラスの膜で覆った……愛すべき少女。
+A lovable girl... concealed in a thin, brittle glass membrane of youthful vitality.
+TP
+
+//傷ついては破片を落とし、時に人を傷つけもする。
+When hurt she splinters fragments, and those occasionally hurt people.
+//Like crossbow bolts. Or metaphorical knives. -GHS
+TP
+
+//だが狭い肩から掛かる背中は華奢で、いかにも無防備に見えた。
+Yet, the back draping off her narrow shoulders is delicate, so that she appeared completely defenseless.
+TP
+
+//……襲いかかってしまいそうなほどに。
+...to the point where I could swoop down on and assault her.
+TP
+
+//俺の存在には気づいていないらしい。
+She appears not to be aware of my presence.
+TP
+
+
+
+CSQ 0 1 1
+//　・接近する
+//　・声をかける
+ - Close in
+ - Greet her
+RET

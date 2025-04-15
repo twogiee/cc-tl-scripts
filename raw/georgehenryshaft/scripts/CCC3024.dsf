@@ -1,0 +1,235 @@
+
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen. Boy they like to do that here. -GHS
+
+
+WVS 1 0
+
+//……無理だ。
+...ain't happening.
+TP
+
+//死を受け入れるわけにはいかない。
+Accepting death is just out of the question.
+TP
+
+//確かに俺は自分が嫌いだ。
+I hate myself, sure,
+TP
+
+//すべて嫌いだ。
+hate everything.
+TP
+
+//自分の醜さ、欲深さが憎らしい。
+My ugliness and my greed are repugnant.
+//He still has a point when it comes to hating his human nature. -GHS
+TP
+
+//霧が抱く憎悪以上の自己嫌悪。
+My self-hatred is no less than the hatred that Kiri has for me.
+TP
+
+//けど……自殺するならとうにそうしていた。
+But... if suicide were to be it, I'd have done that already.
+TP
+
+//生きるんだ。
+I will live.
+TP
+
+//そうでなければ……なんのために闘ってきたのか。
+If I don't... then what have I struggled for?
+TP
+
+//生きるために、たとえ霧を……壊すことになっても。
+For the sake of living. Even if it ends up... that I break Kiri.
+//Except he's about to do the right thing, not breaking her, even if he has no way of knowing. In this sense, this is the Coincidence that is Providence! -GHS
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+WVP 1 bgm022.ogg 0 0 0
+
+//太一「……一つ質問なんだけど、屋上で俺と豊がいるのを見たってのは……君？」
+Taichi: "...just one question, though, who was it that saw me and Yutaka on the rooftop... was it you?"
+//Of course I wrote "me and youtaka" dammit -GHS
+TP
+
+WVP 0 vfCCC3024kri000
+//霧「ええ、そうです」
+Kiri: "Yes, it was."
+TP
+
+WVP 0 vfCCC3024kri001
+//霧「当時はなんとも思わなかった」
+Kiri: "At the time I thought nothing of it."
+TP
+
+WVP 0 vfCCC3024kri002
+//霧「けど……今はわかります」
+Kiri: "But... now I understand."
+TP
+
+WVP 0 vfCCC3024kri003
+//霧「トイレでしたみたいに、豊を……追い込んだ」
+Kiri: "Just like what you did in the toilet, you... cornered Yutaka."
+//Note the lack of the word 'pushed off the roof'. She's very very very unsure. She's right, in a sense, though. -GHS
+TP
+
+WVP 0 vfCCC3024kri004
+//霧「自分を満たすために！」
+Kiri: "Just to fulfill yourself!"
+TP
+
+//太一「どうやって？」
+Taichi: "And how?"
+TP
+
+WVP 0 vfCCC3024kri005
+//霧「……豊の脚のことを責めたり……いろいろです」
+Kiri: "...by picking on Yutaka's legs maybe... there's so many ways!"
+//Soooooooo obviously reaching. Does she really think Yutaka'd kill himself on being teased? How stupid and weak does she think he is?! See CCA0011C: Yutaka's legs are the last of his problems, he'll happily make fun of them in a way that Taichi just can't do about his hair, see CCA3022. And so, if that's what she thinks he did, it stands that she'd do the same to him. Since he can't stand it, that may be what getting shot with the crossbow means. -GHS
+TP
+
+WVP 0 vfCCC3024kri006
+//霧「具体的に聞きたいとは思いません」
+Kiri: "I do not think I want to hear specifics."
+//This is what's known in actually intellectual circles as a 'thought terminator'. -GHS
+TP
+
+WVP 0 vfCCC3024kri007
+//霧「もういいですか？」
+Kiri: "Are we done?"
+TP
+
+//変わらず、手は震えている。
+Her hand was shaking, unchangingly.
+TP
+
+//殺す前に、自分がまいってしまいそうだった。
+It seemed the self would give up just before murder.
+//He's talking about her... or is he? -GHS
+TP
+
+//太一「一つ、いいかな。少し長い話になるけど」
+Taichi: "One more, if I can. It's a tale that'll run a bit long though."
+TP
+
+WVP 0 vfCCC3024kri008
+//霧「……どうぞ」
+Kiri: "...go on."
+//scaredy scaredy scaredy cat. -GHS
+TP
+
+//内心どう思ったのか。
+What was she thinking inside?
+TP
+
+//感じさせないよう平坦に、霧は言った。
+Kiri said that flat, as if not to give off any emotion.
+TP
+
+//太一「……座っていい？」
+Taichi: "...can I sit down?"
+TP
+
+WVP 0 vfCCC3024kri009
+//霧「どうぞ」
+Kiri: "Go on."
+//PCP above
+TP
+
+//太一「霧も座ったら？」
+Taichi: "Will you sit too, Kiri?"
+TP
+
+
+//霧「…………」
+Kiri: "......"
+TP
+
+//黙殺。
+Killer silence.
+//CP CCC3022 -GHS
+TP
+
+//まあいい。
+Ah, whatever.
+TP
+
+//俺は話し始める。
+I begin to talk.
+TP
+
+//太一「支倉って家があったんだ、昔」
+Taichi: "There was this family called the Hasekuras, long ago."
+TP
+
+//太一「大きな家でさ。洋風で。桐原の家を十倍くらい大きくしたような」
+Taichi: "They had a big house. Western style. So big it was about ten times Kirihara's house."
+//That'd be, hmmm... *overkill clone brush* about one third of the entire city. That seems small for the estate, even accounting for how Kamisaka seems to be a little off-scale, but waaaaaaaaaaaaaaaaaaaaaaaaaaay big for the house itself. Especially if only 14 people were in it. That thing would've required at least that many people to even begin to maintain! -GHS
+TP
+
+//太一「大富豪ってやつだ」
+Taichi: "Those guys were multi-billionaires."
+TP
+
+//太一「俺は……幼い頃に母親を亡くして、そこに引き取られた」
+Taichi: "I was... well, when I was a child my mother passed, and I was taken into their custody."
+TP
+
+//太一「そこに住み込みで働く、母親の遠縁にあたる管理人夫妻にね」
+Taichi: "I was a live-in worker there, for a manager and his wife who were distant relatives of mother's."
+TP
+
+//太一「古い風習がある家でさ」
+Taichi: "It was a family with old customs, you know."
+TP
+
+//太一「下働きの子供は、やっぱり下働きだった」
+Taichi: "The children of servants were made servants, seriously."
+//He's vaguely less serious here; the earlier edit of CCC3025 that remains in CCC3003B is more consistent with this, but not the final script. Interesting sentence of itself: if Taichi was made a servant, then was he the son of a servant? -GHS
+TP
+
+//太一「俺は子供だったから、家の子供たちの遊び相手みたいな役割だった」
+Taichi: "I was just a child, therefore, my duty was to be sort of a playmate for the children of the family."
+TP
+
+//太一「曜子ちゃんはそこの末娘だった」
+Taichi: "Youko-chan was the youngest girl there."
+TP
+
+WVS 1 1
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+GS 0 0
+SEF 109 0
+//HACK whiteout into blackout -GHS
+
+
+//……。
+...
+TP
+//GL 0 bgcc0000d
+//GS 0 1
+//SEF 109 1
+//HACK remove -GHS
+//…………。
+......
+TP
+
+//……………………。
+............
+TP
+RET

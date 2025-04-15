@@ -1,0 +1,806 @@
+
+GL 0 bgcc0015b
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 109 0
+
+WVP 1 bgm015.ogg 0 0 0
+//HACK music straight away -GHS
+
+WVP 0 vfCCC4010kri000
+//霧「大丈夫？」
+Kiri: "You OK?"
+TP
+
+WVP 0 vfCCC4010mki000
+//美希「……ん……平気……」
+Miki: "...hm... I'm alright..."
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//美希の涙をぬぐったのは、霧のハンカチだった。
+Kiri had wiped off Miki's tears with her handkerchief.
+//*cue SonoHana theme* -GHS
+TP
+
+//寄り添って、二人。
+Those two are nestled up close.
+TP
+
+//間に入る余地はない。
+There isn't any space in between them.
+//Symbolism. -GHS
+TP
+
+//俺は懐中電灯で、先頭を歩く。
+I walk in the lead, with my flashlight.
+//This should be dead-black. There should be no way Kiri could see anything, certainly not a body. Except, back in her route... -GHS
+TP
+
+//なぜ美希はここに来たがったのか。
+Why did Miki want to come here?
+TP
+
+//なぜ三人だったのか。
+Why with the three of us?
+TP
+
+//なぜ、泣いたのか。
+And why... was she crying?
+TP
+
+//……美希もいろいろ抱えているには違いない。
+...Miki too has lots and lots of baggage, no mistake.
+TP
+
+//まあ、プライベートはどうでもいいや。
+Well, the private stuff is none of my business.
+TP
+
+//そういや、ここは祠の近くだったな。
+On that, the hokora was close to here wasn't it.
+TP
+
+//少し見ていくか。
+Should I just give a quick look?
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+//太一「霧、ちょっと俺、寄ってくところがあるんで……」
+Taichi: "Kiri, there's this place I'd like to drop by just a bit, so..."
+//Don't forget to make it sound vaguely sexual so she'll misunderstand. -GHS
+TP
+
+//懐中電灯を渡す。
+I hand over the flashlight.
+TP
+
+//太一「じゃーまた」
+Taichi: "Welll see ya."
+TP
+
+GL 1 TCSK0000c
+GL 2 TCYM0004c
+//HACK Miki should rightfully be crapping her pants now. -GHS
+GP 2 0 0
+GP 1 340 0
+GS 1 1
+GS 2 1
+SEF 109 0
+WVP 0 vfCCC4010kri001
+//霧「え……あ、ちょっと」
+Kiri: "Eh... ah, wait!"
+TP
+
+GL 2 TCYM0001c
+GI 2 0
+
+
+WVP 0 vfCCC4010mki001
+//美希「あ、そっちは……危な……」
+Miki: "Ah, over there's... danger..."
+//A blond loli that built a trapped area up a mountain. Ever heard that one before? -GHS
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+//そして俺は。
+And then I,
+TP
+
+GL 0 bgcc0016b
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+//太一「やっと来れた」
+Taichi: "I finally larrived."
+//The literal one is wrong due to ranuki kotoba which is uhmmm you either know or you could likely not care less, so look it up if you really want to. Let's just say it's about removing 'ra' from verbal forms, which, Research (AKA a little googlin') indicates that it's more typical of typo or misuse for affectation than a proper form. -GHS
+TP
+
+//ら抜き言葉で、俺は感慨を示した。
+I expressed my strong feelings by unnecessarily making a word start with "la".
+//The difficulty with adapting 'ranuki kotoba'? See CCZAS, where all the "ra" that Taichi removes end up. ...I sort of wish I was kidding, but no, that's exactly it. This won't be the first reference to the cut scenario, by the way. -GHS
+TP
+
+//太一「ぎゃー」
+Taichi: "Gh'yah!"
+TP
+
+//足首が曲がった。転倒しかける。
+My ankle bent. I go tumbling down.
+TP
+
+//咄嗟にベルトに仕込んだルパン・ワイヤーを伸ばし枝に巻きつける……ということができたらイカスのだが、普通に転んだ。
+Instantaneously I latched onto a nearby tree branch the Lupin Wire built into my belt... or that's what I'd do if I was that clever, and instead fell down normally.
+//As in Lupin the Thief. -GHS
+TP
+
+//こういう時は素直に転んだ方がいい。
+At times like this, just up and falling down is best.
+//~clever~ -GHS
+TP
+
+SEF 101 0
+//HACK shake screen. -GHS
+
+//受け身。
+Ukemi.
+//See CCC0003B... oh, whoops, now that was replaced. Which is actually a big problem: this is Taichi falling and possibly hitting is head, like he does in CCC0003A and B - right before he sees Youko. Both those changes are new to the console version, making this extraordinarily suspicious. -GHS
+TP
+
+//太一「……ん？」
+Taichi: "...hm?"
+TP
+
+WVS 1 1
+
+//地面をよくよく見ると。
+I look very very close to the ground as I move.
+//よくよく -GHS
+TP
+
+//足跡。
+Footprints.
+TP
+
+//祠の前から一直線、帯状に足跡が重なっている。
+A straight line of footprints from the front of the hokora, overlapping, forming a belt shape.
+//GISing the term 帯状 comes with a SERIOUS WARNING. -GHS
+TP
+
+//何十往復すればこんなことになるのだろう。
+This is what would happen when you go around and around many times.
+//This one's just rubbing it in reader's faces. -GHS
+TP
+
+//靴跡そのものを調べてみる。
+I investigate one of the shoeprints.
+TP
+
+//サイズは２７くらい。
+Size is around 27.
+//http://www.i18nguy.com/l10n/shoes.html there's no male size 27, but the "around" means it's not important. It's closer to a typical Western male size. Nice to see the comparisons: Europe size 43 (7), Mexican size 7, UK/US/Austrialia size ~8. Ah, is that why things look like 8 to American Taichi, but are 7 for the Japanese Sakuraba? That's a bit reaching, but the idea that Tanaka consulted these same charts when deciding this detail isn't exactly unbelievable. -GHS
+TP
+
+//俺と一緒だ。
+Same as mine.
+TP
+
+//メーカーもおそらく。
+Brand and model too, I would say.
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//俺と同じ靴。
+Same shoes as mine.
+TP
+
+//友貴の靴ではない。
+These are not Tomoki's shoes.
+TP
+
+//桜庭でもない。
+They are not Sakuraba's either.
+TP
+
+//女子に２７なんてのはいないはずだ。
+I can't really believe a woman would be a size 27.
+//From what little I can find, typical female Japanese shoe size ought be closer to half that. -GHS
+TP
+
+//全員の身体データを把握している俺が言うのだから間違いはない。
+I have a firm grasp on all members' body data, therefore I can say that with no mistake.
+//Creepy stalker. Just like Youko! -GHS
+TP
+
+//記憶喪失の俺か、俺の靴を使用した何者かが、つけた跡ということになる。
+Perhaps by me with memory loss, perhaps by someone using my shoes, but somehow these shoeprints were made.
+//Notice the lack of Youko or Miki footprints. Youko, OK, she's a ghost; Miki set up the traps. Her footprints MUST be there, period. More importantly, his first idea is memory loss... see CCC0007 -GHS
+TP
+
+//けど、祠にどんな用が。
+But to do what at the hokora?
+TP
+
+//思案に没頭しようとした時―――
+//太一「……！」
+I tried to immerse myself in thought---
+//HACK Cornholio must've been here. -GHS
+TP
+
+Taichi: "...!"
+TP
+
+WVP 1 bgm014.ogg 0 0 0
+
+
+//血が匂った。
+I caught a whiff of blood,
+TP
+
+//かすかな血臭。
+a faint smell of blood.
+//His sensitivity to the smell was established in CCC4007... and nowhere else. He can't smell Kiri's menses, or most oddly, the blood(?)stain in the corridor. -GHS
+TP
+
+//引き寄せられて、茂みに分け入っていく。
+Pulling myself towards it, I force my way into the thicket.
+TP
+
+//すぐ危険信号がした。
+Immediately a warning signal sounded.
+//see CCC0006A, CCC3002. That worked well in the past, didn't it? -GHS
+TP
+
+//太一袋からナイフを取り出す。
+I took out the knife from the Taichi bag.
+TP
+
+//クリスリーブの大型ナイフだ。
+It was a large Chris Reeve knife.
+//See CCC3019A, CCC3022. Maybe Youko bought two, or maybe there only ever was one. Or maybe, as with Kiri and Miki, it's just catspeak. -GHS
+TP
+
+//ここまで来ると短剣に近い。
+Large to the point where it is close to a dagger.
+//http://en.wikipedia.org/wiki/Chris_Reeve_Knives One Piece range goes up to 23cm, which is indeed big. "Dagger" might refer to many things: the † mathematical symbol, the cross, Taichi (name and physique, see CCZRooftop)... curiously, I can't source any name connection between the few types of Chris Reeve knives and Taichi. Or Youko. I'm not even sure what model this would be. -GHS
+TP
+
+//もちろん携行は犯罪だが。
+Of course carrying it is a crime, but,
+//Term used for 'carry' of gun etc, ownership is below. -GHS
+TP
+
+//犯罪という概念はなくなっている。
+the very concept of crime was no more.
+//See CCA0021 -GHS
+TP
+
+//俺も所持は禁じられている。
+I am also forbidden from being in possession of it,
+//Likely same as Kirihara and her own sword, with which she can't train. -GHS
+TP
+
+//けど。
+but,
+TP
+
+//認められはしないだろうが、護身のため俺はこれを必要としている。
+even if it won't be recognized, this is something I need for my own protection.
+//I strongly suspect that this is a diatribe on how individual weapon ownership should be unrestricted, even to those people classified as dangerous - "shall not be infringed". It'd still be less controversial than YMK is regarding the management of bullying (which, I remind, is not merely to humiliate/murder them, but to dump public school and its useless unhelpful teachers). -GHS
+TP
+
+//人に攻撃され続ける恐怖を知っているからだ。
+Because I know the horror of being repeatedly attacked by people.
+//The only person ever heard of explicitly attacking Taichi outside of the Mansion is Sakuraba. But let's go with paranoia. -GHS
+TP
+
+//耳を澄ます。
+I strained my ears.
+//What even for?!
+TP
+
+//感覚をとぎすませる。
+I make the perceptions sharper.
+TP
+
+GL 0 zzzCCC4010hokoraZ2
+GS 0 1
+SEF 109 0
+//HACK whatever you please... -GHS
+
+//ゆっくりと歩く。
+I walk slowly.
+TP
+
+//探すのは違和感だけだ。
+The only thing I can search for is the sense of physical discomfort.
+//There's that term again. -GHS
+TP
+
+//あった。
+Found it.
+TP
+
+//俺の目は違和感を逃がさない。
+That sense of physical discomfort will never escape from my eyes.
+//If the sense of physical discomfort is something that doesn't exist, then what IS he finding? -GHS
+TP
+
+//慎重に迂回して、根本に近づく。
+I prudently walk around it, to near the tree roots.
+TP
+
+//……ボウトラップか。
+...a crossbow trap?
+TP
+
+//小型のクロスボウを利用している。
+It uses a very small crossbow.
+TP
+
+//奥に入ろうとすると作動するわけだ。
+This would trigger on anyone trying to go any deeper.
+TP
+
+//未作動。
+It's not yet been fired.
+//This seems to be the only one. Of course it isn't necessarily the case, but... -GHS
+TP
+
+//こんなことをしそうな人物に、心当たりは一人しかない。
+I happen to know of only one person with the personality trait to do this sort of thing.
+TP
+
+//ワイヤーを切断し、クロスボウから矢を外す。
+Disconnect the wire, remove the bolt from the crossbow.
+TP
+
+//かなり慎重に隠蔽してあった。
+It was fairly cautiously concealed.
+TP
+
+//仕掛ける位置もうまい。
+Setup location is also skillful.
+TP
+
+//少し目視できる、段差の手前だ。
+Just in front of the tall step of the hokora, barely visible.
+//Same term used for the hokora's steps, though I remain fundamentally unconvinced it is necessarily the same since there's no direct reference to the hokora around here. -GHS
+TP
+
+//段差に注意をはらっていると、死ぬことになるわけだ。
+If I gone to the step without paying attention, I would have been dead.
+TP
+
+//陰湿で、確実さを求めた罠。
+That's reliable hunting trap, malicious in intent.
+TP
+
+//奥を確認してやろうじゃないか、曜子先生。
+How about ascertaining what's back there, then, Youko-sensei?
+TP
+
+//少し進むと、ワイヤートラップが仕掛けられていた。
+I advanced a bit, and found a wire trap laid out.
+TP
+
+//スネアだ。足を吊られると、頭上から石が落ちてくる。
+It's a snare. If feet tripped it, a rock would fall from overhead.
+//That's nearly insanely elaborate. -GHS
+TP
+
+//破壊。
+Disarmed.
+TP
+
+//危険信号が弱まった。
+The warning signal waned.
+TP
+
+//もうないってことか。
+Does this mean there's no more?
+//The only time the warning signal ever comes for anything is for Nanaka smacking into him and Miki trying to 'bow him. The first he can never avoid and is 100% not real, the latter may well be not real as well. Whatever's happening here can't be what it looks like. -GHS
+TP
+
+//それでも用心深く進む。
+I proceed warily nevertheless.
+TP
+
+GL 0 evcc0043
+//Well, you did give love a bad name. -GHS
+$CGevcc0043 = 1
+GS 0 1
+SEF 109 0
+
+WVS 1 0
+//HACK earlier CG -GHS
+
+//最後の草むらを抜けると、隠されるように、曜子ちゃんが死んでいた。
+I come out of the last bush and there, as if she were concealed, Youko-chan had died.
+//Let's say she wasn't concealed by someone. Let's. Regardless, she should not be visible from far away. -GHS
+TP
+
+//太一「……………………」
+Taichi: "............"
+TP
+
+//この感情をどう形容したらいいんだろう。
+What description could I even use for the emotion I have.
+TP
+
+//驚愕とも違う。
+It is different from shock.
+TP
+
+//怒りとも違う。
+It is different from anger.
+TP
+
+//悲しみでも、悲嘆でもない。
+Nor is it sadness, nor even grief.
+TP
+
+//形容不能の奔流。
+A torrent of something I can't describe,
+TP
+
+//俺の内部に渦巻く。
+that swirls inside of me into an eddy.
+//That recurring term. Perhaps what he's seeing is literally nothing. Miki acting weird because she doesn't play the game correctly + Youko not coming because of his confession last week which made her less... prominent + the hallucinated (see term) traps. -GHS
+TP
+
+//曜子ちゃんが、死んだ。
+Youko-chan... had died.
+TP
+
+//胸を中心に血が広がっている。
+Blood spread into the center of her chest.
+//Well, she gave love a bad name, so there. -GHS
+TP
+
+//古い血だ。
+It is stale blood.
+TP
+
+//かたまって変色し、黒ずんでいる。
+it's clumped and solidified, its color changed, darkened.
+TP
+
+//触れる。冷たい。
+I touch. Cold.
+TP
+
+//死後数日。硬直してしまっていた。
+Days after death. Rigor mortis it seems.
+//Rigor disappears in up to 60 hours, it seems, so if she died Monday morning it's just barely within that window. -GHS
+TP
+
+//しかし腐敗している様子はない。
+However, there's no trace of decay.
+//Remember: there's no decay in food because it's delivered fresh over and over, so... -GHS
+TP
+
+//それも奇妙な話だが……まあ置いておこう。
+That is also so very strange but... well, I'll set that aside.
+TP
+
+//太一「……曜子ちゃん、死んじゃったのか」
+Taichi: "...so you died after all, Youko-chan, did you."
+TP
+
+WVP 1 bgm020.ogg 0 0 0
+
+//美しい骸に、話しかける。
+I talk to this beautiful husk.
+TP
+
+//一番死とは遠かったはずなのに。
+But she should have been the furthest from death.
+//She's the closest to perfect... she's the first to die. -GHS
+TP
+
+//髪を整えてやる。
+I straighten her hair.
+TP
+
+//太一「油断したね」
+Taichi: "Careless weren't you."
+TP
+
+//しかし返答はない。
+Yet there is no reply.
+//Oh, just like normal then! -GHS
+TP
+
+//俺が話しかけたら、小動物みたく喜んだ。
+When I spoke to her, she was happy like a little animal.
+//Maybe she IS a cat. -GHS
+TP
+
+//邪険にしていたのに。
+Even though I was cruel,
+TP
+
+//小さなウサギみたいに。
+she was just like a tiny little rabbit.
+TP
+
+//……本当は、獅子にも狼にもなれた彼女だ。
+...truth is, she had become more like a lion or a big bad wolf.
+TP
+
+//太一「びっくりだ」
+Taichi: "What a surprise."
+TP
+
+SEF 10 0
+//HACK pixelate -GHS
+
+//視界が曇る。
+My sight clouded.
+TP
+
+//太一「……ん？」
+Taichi: "...hm?"
+TP
+
+//目尻に触れてみると。
+I try touching the outer corners of my eyes.
+TP
+
+//涙。
+Tears,
+TP
+
+//大量に。
+and plenty of them.
+TP
+
+//悲しみはない。
+There is no sadness,
+TP
+
+//ただ顔の筋肉だけが引きつって、涙を絞り出していた。
+just a cramp of the muscles of the face, that squeeze out tears,
+//Sure, like there wasn't for Touko in the previous route! What blatant lies. -GHS
+TP
+
+//とめどなく。
+without end.
+TP
+
+//太一「うわ、すげ……ぼろぼろ出てきてる」
+Taichi: "Whoa, 'mazing... they're coming out all rain-like!"
+//Annnd attempts to kill the mood. -GHS
+TP
+
+//不思議だ。
+Inexplicable.
+TP
+
+//肉体は悲しんでいるのかも知れない。
+The flesh appears sad, or something, I'm not sure,
+TP
+
+//心は……。
+but the heart...
+TP
+
+//ああ。
+Ahhh.
+TP
+
+//俺の半身が死んだ。
+Half of my body had died.
+//I guess this is the death of Taichi Of This World. -GHS
+TP
+
+WVP 0 vfCCC4010kri002
+//霧「……先輩……あなた……」
+Kiri: "...Senpai... you..."
+WVP 2 se093a 1 0
+//HACK earlier line & SFX. Now this is odd: Youko's body is hidden, it's the dead of night, and it's a grove in the mountains. She came close enough to see Youko, but not enough to see the huge bolt wound? It's astonishing she can see Youko at all! Less mysterious is what made her come: Miki. The most amusing bit of irony, however, is that this is what makes *Kiri* mad, not Taichi. -GHS
+TP
+
+GL 0 bgcc0016b
+GS 0 1
+SEF 152 0
+
+GL 1 TCSK0001c
+GP 1 220 0
+GI 1 1
+
+
+//霧！！
+KIRI!!!
+TP
+
+GL 2 TCYM0002c
+//HACK sadder Miki -GHS
+GP 2 0 0
+GP 1 340 0
+GS 2 1
+GS 1 1
+SEF 109 0
+//美希「……」
+Miki: "..."
+TP
+
+//美希も。
+And Miki too.
+//Who knew of this back on Monday, Tuesday at the latest. The only way this makes sense is if she was certain this would make Taichi flip out, and wants Kiri there to ensure she and Taichi duke it out. Which makes metasense given that the Hero and the Dragon need to fight, if only on a misunderstanding, to hopefully reconcile later... but Miki forgets her tropes: that usually happens when fighting the Man Behind The Man, which'd be HER. -GHS
+TP
+
+//咄嗟にナイフを……隠しても意味がない。
+Concealing my knife at once... is meaningless.
+TP
+
+//もう見られている。
+I was already seen.
+TP
+
+//そして……誤解されるだろう。
+And then... likely misunderstood.
+TP
+
+GL 1 TCSK0003c
+GI 1 0
+WVP 0 vfCCC4010kri003
+//霧「人……殺し……やっぱり……」
+Kiri: "Mur-... murderer... I knew it..."
+TP
+
+//やっぱり。
+I knew it.
+//Repeating what Kiri said + he knew Kiri would mistake this -GHS
+TP
+GL 1 TCSK0001c
+GI 1 0
+
+WVP 0 vfCCC4010kri004
+//霧「殺したんですか？」
+Kiri: "Are you the killer?"
+//Very interesting she doesn't ever mention Youko by name, isn't it? What the hell is she seeing? ...is she even seeing anything at all? -GHS
+TP
+
+//太一「……違うよ」
+Taichi: "...no I'm not!"
+TP
+
+WVP 0 vfCCC4010kri005
+//霧「だって、ナイフ持ってるじゃないですか……」
+Kiri: "But isn't that a knife in your hand...?"
+TP
+
+//太一「茂みに入るから、持ってただけだ」
+Taichi: "I had to get through the ticket, that's why I do, no other reason."
+TP
+
+//太一「ほら、彼女の傷口見てみろよ。矢傷だ」
+Taichi: "Look, come and see her wound. It's an arrow shot."
+//Leaving it for simplicity's sake. -GHS
+TP
+
+
+GL 1 TCSK0001c
+GI 1 0
+WVP 0 vfCCC4010kri006
+//霧「……行きませんよ……そっちには」
+Kiri: "...I will not be going... not there."
+//She'd just say he had a crossbow and was about to dismember her with the knife anyway. -GHS
+TP
+
+//遠巻きに。
+Making a wide circle at a distance,
+//I don't think one person can surround another... though, hmmm, penis and vagina... hum, hum... -GHS
+TP
+
+//霧は俺を注視していた。
+Kiri was observing me intently.
+TP
+
+//油断する気はないらしい。
+She has no intention of letting her guard down.
+TP
+
+WVP 0 vfCCC4010kri007
+//霧「……さっきまで……笑って話してたのに……裏では、平気でそういうことをするんだ……」
+Kiri: "...just until now... you were smiling and talking and then... but out of sight, you were doing this, in cold blood..."
+TP
+
+//吐き出される。
+She spat at me.
+TP
+
+GL 1 TCSK0021c
+GI 1 0
+WVP 0 vfCCC4010kri008
+//霧「どうか、してるっ」
+Kiri: "You are insane!"
+TP
+//GL 2 TCYM0002c
+//GI 2 0
+//HACK no need -GHS
+
+WVP 0 vfCCC4010mki003
+//美希「…………先輩」
+Miki: "......Senpai."
+TP
+
+//美希もショックを受けている。
+Miki also seems to have been shocked.
+TP
+
+//無念そうな、思い詰めたような。そんな顔だ。
+Regretful and tormented over this. That's what her face said.
+//Same term as the end of CCA0027. If that dash is real, what did she learn from it? Certainly she's not tormented over Youko's death... -GHS
+TP
+GL 1 TCSK0011c
+GI 1 0
+
+WVP 0 vfCCC4010kri009
+//霧「行こう、美希」
+Kiri: "Let's go, Miki."
+//"Well, we witnessed a murder. There's a guy with a knife like right behind us. I'm sure nothing's gonna happen if we, the only witnesses, just up and walk away." Kiri is the brains of the group, no doubt about it. It's more likely this is intended to mean that she doesn't believe this at all. -GHS
+TP
+
+WVP 0 vfCCC4010mki004
+//美希「あ、うん……」
+Miki: "Ah, yes..."
+TP
+GS 1 0
+GS 2 0
+SEF 109 0
+//二人は引き返していく。
+The two retrace their steps,
+TP
+
+//残される俺。
+leaving me behind.
+TP
+
+//太一「俺じゃないのに」
+Taichi: "But that wasn't me."
+TP
+
+//どうでもいいや、もう。
+Oh, whatever, who cares.
+TP
+
+WVS 1 1
+
+//曜子ちゃんが死んだ。
+Youko-chan had died.
+TP
+
+//存外、俺は衝撃を受けていたらしい。
+Unexpectedly, I too seem to have struck with a big impact.
+TP
+
+//思考はぼんやりとして、なかなか明晰さを取り戻してくれなかった。
+My thoughts were lax and aimless, and would not allow me a quick or ready return to clarity.
+TP
+
+//それが俺の、彼女に対する慟哭だった。
+And that... was the lamentation I held for her.
+TP
+
+RET

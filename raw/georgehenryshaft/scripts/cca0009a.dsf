@@ -1,0 +1,356 @@
+
+
+
+
+
+
+
+
+
+//太一「掃除、手伝おうか？」
+Taichi: "So, cleaning, can I help you?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfcca0009amki000
+//美希「今は優しいモードですね」
+Miki: "You're in nice guy mode right now."
+TP
+
+
+
+//太一「はい？」
+Taichi: "What?"
+TP
+
+
+GL 1 TCYM0011
+GI 1 0
+
+WVP 0 vfcca0009amki001
+//美希「先輩にはセクハラモードと優しいモードの二つの機能が備わっているんですよ。えっへり」
+Miki: "Because you come with two settings, Senpai, Sexual Harassment Mode and Nice Guy Mode. Eheh'ryh!"
+//Can't source anything on that, uhm, moeword? See CCC3025, Yutaka's father has two optionals installed himself. Notice the absolute lack of Mass Murderer mode. -GHS
+TP
+
+
+
+//寄せてあげることもままならない平らな胸を張った。
+She pushed out a chest that you couldn't fondle by putting your hands on it.
+TP
+
+
+
+//太一「む……」
+Taichi: "Mnuh..."
+TP
+
+
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfcca0009amki002
+//美希「あ、照れてる」
+Miki: "Ah, I've embarrassed you."
+TP
+
+
+
+//太一「照れてませんっ！」
+Taichi: "I am not embarrassed!"
+TP
+
+
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfcca0009amki003
+//美希「むきになるところが」
+Miki: "But you still took that so seriously."
+//And guess who taught her? -GHS
+TP
+
+
+
+//太一「それより掃除だ。急げ、時間がないぞ！」
+Taichi: "Let's just clean instead. Hurry, we don't have time!"
+//See CCC3027 -GHS
+TP
+
+
+
+GO 1 1
+
+WVP 0 vfcca0009amki004
+//美希「はーい」
+Miki: "Yessir!"
+TP
+
+
+
+//自分で捨てた雑巾を拾って、汚れに向かう。
+Grabbing back the rag that I had dropped earlier, I turn towards the uncleanliness.
+//Intentional. -GHS
+TP
+
+
+
+//血だった。
+It was blood.
+TP
+
+
+
+//太一「うわああああああああああああっ！！？？」
+Taichi: "EEEEEEEEEEEEEEEEK???!!!"
+//So it sounds more 'cutesy' now. Troll troll troll -GHS
+SEF 101 0
+TP
+
+
+
+WVP 0 vfcca0009amki005
+//美希「えっ？」
+Miki: "Eh?"
+TP
+
+
+
+//太一「血、血じゃないか！」
+Taichi: "A-, ain't that blood!"
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+//正視できない。
+I can't look straight at it.
+//But he otherwise has no problems. This is supposed to be his 'cutesy' thing. -GHS
+TP
+
+
+
+//雑巾で顔を隠す。
+I hide my face behind the rag.
+TP
+
+
+
+//太一「は、はやく拭き取ってぇーっ！」
+Taichi: "Hu-, hurry up and clean it awaaay!"
+//Fuki-totte, that last one's Youko's thing (Remove). -GHS
+TP
+
+
+
+WVP 0 vfcca0009amki006
+//美希「はいはい、待っててください」
+Miki: "Yes, yes, please wait."
+TP
+
+
+
+//ほどなくして。
+And before long,
+TP
+
+
+
+WVP 0 vfcca0009amki007
+//美希「はい、おしまい」
+Miki: "There, all done."
+TP
+
+
+
+//太一「もうきれい？」
+Taichi: "All clean now?"
+TP
+
+
+
+WVP 0 vfcca0009amki008
+//美希「大丈夫ですよ」
+Miki: "It's all done."
+TP
+
+GL 0 bgcc0008
+GS 0 1
+SEF 109 0
+
+//雑巾を顔から離す。
+I unhide my face from behind the rag.
+//Parallel to above.
+TP
+
+
+
+//太一「うー、血弱くてさ」
+Taichi: "Ngggh, I'm weak to blood."
+TP
+
+
+GL 1 TCYM0021
+GS 1 1
+SEF 109 0
+WVP 0 vfcca0009amki009
+//美希「そんな可愛い一面があったのですね」
+Miki: "So you had an adorable side to you."
+//This may be how she knows, see CCB0008A. -GHS
+TP
+
+
+
+//太一「正直、きついっす」
+Taichi: "Honestly, that's harsh..."
+//See CCA0004, he could be talking about her as well as the blood. -GHS
+TP
+
+
+
+//ちらっと見ただけで、まだ気分が悪い。
+I still feel sick despite having just glimpsed at it.
+//IOW he didn't really see if it's blood. And she wiped it away in like .3 seconds! This is ridiculous. -GHS
+TP
+
+
+
+//太一「役立たずでごめん」
+Taichi: "Sorry for being useless."
+TP
+
+
+
+//太一「豚とののしってくれ……」
+Taichi: "Please abuse this worthless pig..."
+//Connection that mascara thing was unintentional, but I guess it works too. Notice the pattern: see blood -> feel sick -> desires abuse. -GHS
+TP
+
+
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfcca0009amki010
+//美希「え……？」
+Miki: "Ehhh...?"
+TP
+
+
+
+//太一「どうか豚と」
+Taichi: "Like an oinker treat me."
+TP
+
+
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfcca0009amki011
+//美希「……じゃあ」
+Miki: "...theeen..."
+TP
+
+
+
+WVP 0 vfcca0009amki012
+//美希「豚は豚箱に行け？」
+Miki: "Piggy wants to pig out in the pigpen?"
+//Lit. "Pig wants to go into the prison cell", which is written "pig-box". Using "the pigs" for cops is too out of character for Miki. This oddly connects to Misato, who's the one who has all the jail and arrest stuff around her.
+TP
+
+
+
+//太一「ぐっ」
+Taichi: "Ngh!"
+TP
+
+
+
+//アレンジされた上、疑問形式なのが妙にきつかった。
+That arrangement being then put in the form of a question made it oddly painful.
+TP
+
+
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfcca0009amki013
+//美希「豚箱より保健室いきませんか？」
+Miki: "Rather than the pigpen, would you like to go the infirmary?"
+//Is there a law that requires calling it "health room"? No, seriously, I want to know. -GHS
+TP
+
+
+
+//太一「いや、平気だと思う」
+Taichi: "Naaah, I think I'll be alright."
+TP
+
+
+
+WVP 0 vfcca0009amki014
+//美希「……うーん」
+Miki: "...uh-huh."
+TP
+
+
+
+//太一「平気だって」
+Taichi: "I'll be alright!"
+TP
+
+
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfcca0009amki015
+//美希「そのまま一緒にお昼寝しましょう」
+Miki: "Let's take a nice daytime nap while we're there."
+TP
+
+
+
+//太一「ぐっ……」
+Taichi: "Guh..."
+TP
+
+
+
+//その提案は、後ろ髪を引きすぎる。
+That proposal made the hair on the back of my head stand way up.
+//This is supposed to be a Standard Perverted Protagonist thing, where they're all unflappable until they're actually put on the spot. In this sense, it's fairly straightforwards: he's only interested in the sport of it, the actual deed he's more than a little reluctant, understandably given his backstory.
+TP
+
+
+
+WVP 0 vfcca0009amki016
+//美希「ベッドも二つありますし」
+Miki: "There are at least two beds there."
+TP
+
+
+
+//太一「じゃあまた」
+Taichi: "Wellbye."
+//Compressed. -GHS
+TP
+
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfcca0009amki017
+//美希「あら……？」
+Miki: "Dear me...?"
+//Girly. Well, we've been assured she IS a girl, at least. -GHS
+TP
+
+
+GO 1 1
+
+
+RET

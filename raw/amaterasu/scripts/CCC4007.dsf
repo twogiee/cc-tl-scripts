@@ -1,0 +1,430 @@
+
+GL 0 bgcc0012
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 152 0
+
+
+GL 1 TCYM0004
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC4007mki000
+Miki: "Uuooooo, it stings when I shake it..."
+TP
+
+Taichi: "Bear with it. I'm summoning a famous doctor now."
+TP
+
+I opened the window and whistled.
+TP
+
+Come here! Youko!
+TP
+Taichi: "............"
+TP
+
+She won't come.
+TP
+
+I whistled once more.
+TP
+
+Come here!! Youko!!
+TP
+Taichi: "........................"
+TP
+
+Huuuh?
+TP
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfCCC4007mki001
+Miki: "My arm is torn so badly."
+TP
+
+Taichi: "Awawa."
+TP
+
+There's no choice, I have to dress the wound.
+TP
+
+I rolled up her sleeve.
+TP
+
+I looked at the open wound.
+TP
+
+Taichi: "Uu......"
+TP
+
+The smell of blood really is harsh.
+TP
+
+I put a laundry clothespin on my nose.
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4007mki002
+Miki: "What's that?"
+TP
+
+Taichi: "Diz zhud rurk (This should work)."
+//as usual, feel free to try other ways of adapting this. Å`IX
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC4007mki003
+Miki: "......that couldn't be part of the treatment... could it?"
+TP
+
+She accepted it on her own.
+TP
+
+Ummm......first, water......
+TP
+
+I washed off the blood with water from the drinking fountain.
+TP
+
+I was relieved.
+TP
+
+Miki: "........................"
+TP
+
+Miki gazed at me intently, as if trying to conjecture something.
+TP
+
+Disinfectant......
+TP
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCC4007mki005
+Miki: "Migyaa."
+TP
+
+It seems to have gotten in there.
+TP
+
+A little more.
+TP
+
+WVP 0 vfCCC4007mki006
+Miki: "Hagyaaa."
+TP
+
+Is this it?
+TP
+
+Gauze.
+TP
+
+Bandages.
+TP
+
+Tying bandages.
+TP
+
+I rolled her sleeve back down.
+TP
+
+Taichi: *sigh*
+TP
+
+I don't need the clothespin anymore.
+TP
+
+WVS 1 1
+
+Taichi: "Op finished."
+//yes, "op" is short for "operation" Å`IX
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4007mki007
+Miki: "......it stings. It feels like the wound is going numb."
+TP
+
+Taichi: "That's love."
+TP
+
+WVP 0 vfCCC4007mki008
+Miki: "Th-this is love?"
+TP
+
+Taichi: "And true love at that. Your love meter is at eighty nine percent. There's no mistaking it."
+//I know that's a rewrite but I didn't understand what "good feelings" meant.-Spin
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4007mki009
+Miki: "Iii seee. This is love......"
+TP
+
+WVP 1 bgm021.ogg 0 0 0
+
+Taichi: "How does it feel for your love to blossom?"
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC4007mki010
+Miki: "......I don't know. My life hasn't had love before."
+TP
+
+Taichi: "Ku! You're making me cry."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4007mki011
+Miki: "Now that I think about it, I'm sorry, Sempai, that you had to do this when blood is a weakness of yours."
+TP
+
+Taichi: "What? There's no doctor here, so injuries are a big deal. Take care of yourself."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4007mki012
+Miki: "I do take......great care of myself......"
+TP
+
+Taichi: "Then all is well."
+TP
+
+WVP 0 vfCCC4007mki013
+Miki: "I'll have to thank you somehow."
+TP
+
+Taichi: "You could give me a pair of underwear."
+TP
+
+GL 1 TCYM0041
+GI 1 0
+WVP 0 vfCCC4007mki014
+Miki: "......uuuooo, that's expensiiive......"
+TP
+
+Taichi: "It was a joke. Kiri-chin would kill me."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4007mki015
+Miki: "Is there some other commodity you desire?"
+TP
+
+Taichi: "Nnn, I already took your first kiss..."
+TP
+
+GL 1 TCYM0041
+GI 1 0
+WVP 0 vfCCC4007mki016
+Miki: "Gu, that's right......"
+TP
+
+Miki-Miki received a shock.
+TP
+
+Taichi: "Make it a memory."
+TP
+
+WVP 0 vfCCC4007mki017
+Miki: "I shall live on holding that memory whether I want to or not......"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4007mki018
+Miki: "What about something that isn't erotic?"
+TP
+
+Taichi: "Hmmm......date......"
+TP
+
+A flash of inspiration.
+TP
+
+Taichi: "Double date."
+TP
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC4007mki019
+Miki: "Eh? With who?"
+TP
+
+Taichi: "Aaah...me, Miki and Kiri-chin."
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC4007mki020
+Miki: "Isn't that just double girls?"
+TP
+
+Taichi: "So, please harass me enough for two."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4007mki021
+Miki: "Well, if you're fine with that."
+TP
+
+Taichi: "It's okay?"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4007mki022
+Miki: "It's okay."
+TP
+
+A flower in both hands.
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC4007mki023
+Miki: "......I was feeling like I'd have nooo ideeea what to do if I was going alone, but if Kiri-chin's with me I'm totally okay."
+TP
+
+Taichi: "It seems I'll be targeted."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4007mki024
+Miki: "You wiiill."
+TP
+
+WVP 0 vfCCC4007mki025
+Miki: "Because Sempai is dangerouuus."
+TP
+
+Taichi: "Hahahahaha."
+TP
+
+However, Miki doesn't know.
+TP
+
+That I really am dangerous.
+TP
+
+Urges.
+TP
+
+At times, they rouse.
+TP
+
+I'm fighting against them.
+TP
+
+Taichi: "I really have caused a lot of trouble for Mikicchi."
+TP
+GL 1 TCYM0000
+GI 1 0
+Miki: "?"
+TP
+
+Taichi: "You saved me on Monday as well......thank you."
+TP
+
+WVP 0 vfCCC4007mki027
+Miki: "......nn...well......that was just..."
+TP
+
+Taichi: "You moved so well when you saved Kiri-chin that I thought you were a different person."
+TP
+
+Taichi: "I really did......"
+TP
+
+So nimble that I could easily make that mistake.
+TP
+
+But...were Miki's senses that sharp?
+TP
+
+What about when she carried me back to my house?
+TP
+
+Is she that strong?
+TP
+
+Taichi: "Come to think of it......your kicks were sharp too......"
+TP
+
+I started thinking.
+TP
+
+Something bugged me.
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC4007mki028
+Miki: "Uh, ummm."
+TP
+
+Taichi: "Nn?"
+TP
+
+WVP 0 vfCCC4007mki029
+Miki: ......*kiss*
+TP
+
+On my cheek.
+TP
+
+The first time it's been done to me by anyone but Youko-chan.
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4007mki030
+Miki: "An advance payment on my thanks!"
+TP
+
+Taichi: "Y-y-you allured me, so I'm going to do this!!"
+TP
+
+I jumped onto Miki.
+TP
+GL 4 sgcc0015
+$CGsgcc0015 = 1
+GO 1 0
+GI 4 0
+WVP 2 se106 1 0
+SEF 101 0
+
+WVS 1 1
+
+WT 1000 0
+WT 500 1
+GL 4 sgcc0015s
+$CGsgcc0015s = 1
+GL 0 bgcc0012s
+GS 4 1
+GS 0 1
+SEF 109 0
+GL 0 bgcc0000d
+GS 0 1
+GS 4 0
+SEF 109 1
+WT 1000 0
+WT 500 1
+
+RET

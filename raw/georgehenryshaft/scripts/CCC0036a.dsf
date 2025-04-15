@@ -1,0 +1,100 @@
+//Wednesday September 9, 1998 -GHS
+
+
+
+
+
+WVP 1 bgm007.ogg 0 0 0
+
+GL 0 bgcc0005
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//水曜日。
+Wednesday.
+//CP CCC0007
+//... -GHS
+TP
+
+//ニュートンも失笑、惰性の法則に従って学校に行く。
+Even Newton would end up laughing at how I am going to school in obedience to the Law of Inertia.
+//Less funny considering a love for inertia is likely the cause for all of this. Moreso considering the new CCD0009. -GHS
+TP
+
+//坂を歩く。
+I walk the hills.
+TP
+
+//いつもながら勾配がきつい。
+The inclines are severe, as always.
+TP
+
+//歩みは遅くなる。
+Pace grows slower.
+TP
+
+//ようやっと平らな場所に出る。
+At last I come out into a flat place.
+TP
+GL 5 bgcc0000e
+GI 5 0
+WT 30 0
+GO 5 1
+//HACK stay on the white longer -GHS
+//太一「……！」
+Taichi: "...!"
+TP
+//>　　　　　　あぶ
+//予感に焙られて、意識が加熱した。
+Broiled by a premonition, awareness heats up.
+TP
+
+//理性よりはやく体は動く。
+The body moves faster than rationality.
+TP
+
+//振り返った！
+I turned around!
+TP
+//太一「…………いないか」
+Taichi: "......not there?"
+TP
+
+//人の気配を感じたのに。
+But I felt the presence of a person.
+TP
+
+//そう……七香のだ。
+Yes... Nanaka's.
+//See CCA0021, and contrast. Nanaka's the only character that's 100% not a 'person'. -GHS
+TP
+
+//祠に行ってから、一度も姿を見せていない。
+Since I went to the hokora she has not shown herself, not once.
+TP
+
+//彼女はこの世界に起こっていることを知っている。
+That girl knows what has happened in this world.
+TP
+
+//ではなぜ俺は、七香を捜さないのか。
+Then why am I not going searching for Nanaka?
+TP
+
+//おそらく……見つからないから。
+I would say... because I would not find her.
+//He knows she's not real. That's also why he never ever mentions her to anyone else, ever. -GHS
+TP
+
+//七香は見つからない。決して。
+I won't find Nanaka. Never.
+TP
+
+//そんな気がした。
+That was the feeling I had.
+TP
+
+WVS 1 1
+
+RET

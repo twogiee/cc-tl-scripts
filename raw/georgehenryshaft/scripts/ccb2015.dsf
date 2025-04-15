@@ -1,0 +1,1311 @@
+
+
+GL 0 bgcc0009a
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 0 1
+SEF 152 0
+TWS 0
+//HACK ADV mode -GHS
+
+WVP 1 bgm002.ogg 0 0 0
+
+//太一「おー、すいとる」
+Taichi: "Ohhh, smell that!"
+//CP CCA0022
+TP
+
+//警備員の数が少ない。
+The number of guards is pretty low.
+//CP CCA0022
+TP
+
+//というかいない。
+Or should I say, there ain't any.
+TP
+
+GL 1 TCKT0000b
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfccb2015fyu000
+//冬子「すいてると言うか、いないじゃない」
+Touko: "Look at how empty it is, you mean, there's no smell."
+//Originally she's confusing 'suitoru' with 'suiteru', which means "uncrowded", and saying there's no one at all rather than being not crowded. -GHS
+TP
+
+//太一「ふ……」
+Taichi: "Sigh..."
+TP
+
+//甘いな。それは俺が一瞬先に思ったことだ。
+So sweet. That's what I thought for just an instant earlier.
+//The smell and her? Well, olfactive hallucinations are par for the course here. -GHS
+TP
+
+//とにかく学食は、閑散としていた。
+Anyway, the cafeteria was deserted.
+//PCP CCA0022
+TP
+
+//おかげで競争率高めのメニューにも楽にありつける……わけではない。
+Thanks to that, even menus with a high rate of competition can't be comfortably obtained... at all.
+//PCP CCA0022
+TP
+
+//厨房の奥に、人の気配もなく。
+No sign of people in the depths of the kitchen either.
+TP
+
+WVP 0 vfccb2015fyu001
+//冬子「……で、こんなところに来てどうするの？」
+Touko: "...so we have come here, now what?"
+TP
+
+//太一「いや、コロッケパンだけじゃ飽きると思ってさ」
+Taichi: "Well, I thought we'd get tired with croquette bread alone 's all."
+TP
+GO 1 1
+//桜庭がいたあたり。
+I guess Sakuraba's here,
+TP
+
+//いた。
+there he was.
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//桜庭は死んでいた。
+Sakuraba had died.
+TP
+
+WVP 0 vmccb2015sku000
+//桜庭「……うう……」
+Sakuraba: "...ngh..."
+//Him still moving makes him a zombie. Tanaka's ability to straddle that line between the respectful and the skewering with jokes like this is absolutely amazing. -GHS
+TP
+
+//太一「ずっと食ってたのか」
+Taichi: "You've been eating all this time have ya."
+TP
+
+//アホだ。
+Dumbass.
+TP
+
+//カレーパンは大量に余っていた。
+There was a lot of curry bread left over.
+//No more croquette? -GHS
+TP
+
+//ケースを一つもらう。
+I grab one case,
+TP
+
+//中身をあけて、食べる。
+open one of its contents and eat it.
+TP
+
+//太一「ふむ」
+Taichi: "Hmmm."
+TP
+
+//腐っている形跡はない。
+No evidence of spoiling.
+TP
+
+//太一「……そういえば、月曜からあるってことは、搬入は日曜夜ってことだよな？」
+Taichi: "...come to think of it, if these have been here since Monday, that means they bring them here on Sunday right?"
+TP
+
+//その瞬間まで人類が生存していたとして、もう四日か。
+Up until this moment it had been over four days since the last time humanity had existed.
+//Or, around 10 AM. -GHS
+TP
+
+//食べ物が腐ってないのはなぜだ？
+Why has food not spoiled?
+TP
+
+//わからない。
+I don't know.
+TP
+
+//太一「ほら、腐ってないみたいだ」
+Taichi: "Look, it doesn't seem spoiled."
+TP
+GL 1 TCKT0001b
+GI 1 1
+WVP 0 vfccb2015fyu002
+//冬子「あ、毒味してたんだ……」
+Touko: "Ah, you did poison tasting..."
+TP
+
+//太一「なんだと思ったのさ？」
+Taichi: "What did you think I was doing?"
+TP
+
+//GL 1 TCKT0002b
+//GI 1 0
+//HACK no doll change -GHS
+
+WVP 0 vfccb2015fyu003
+//冬子「……う、ううん、なんでもないっ」
+Touko: "...ngh, ngggh, forget about it!"
+TP
+
+//独り占めするとか思ってたな、コイツ。
+This gal's thinking that I'm going to monopolize all of this, isn't she.
+//See CCB0022? Forced. -GHS
+TP
+
+//太一「人がおまえの美尻を保つのに苦労してやったというのに……」
+Taichi: "When people go to so much trouble to watch that no one smacks your rearside eggs..."
+//Bishiri = pretty ass, see CCB2013 for 'eggy ass'. -GHS
+TP
+
+//GL 1 TCKT0000b
+GL 1 TCKT0004b
+//HACK more shocked Touko instead -GHS
+GI 1 0
+
+
+WVP 0 vfccb2015fyu004
+//冬子「えっ、びしり……ってなに？」
+Touko: "Eh, rearside eggs... what?"
+TP
+
+//冬子デコを叩く。
+I deck Touko's for'head.
+TP
+
+//太一「びしり、びしり！」
+Taichi: "Smacks 'em, smacks 'em!"
+//Bishiri, smack. -GHS
+TP
+//GL 1 TCKT0004b
+GL 1 TCKT0003b
+//HACK angrier Touko -GHS
+GI 1 0
+
+WVP 0 vfccb2015fyu005
+//冬子「い、いたい、いたいわよっ」
+Touko: "Ow, owww, that hurts!"
+TP
+
+//太一「食え」
+Taichi: "Eat."
+TP
+GL 1 TCKT0005b
+GI 1 0
+
+WVP 0 vfccb2015fyu006
+//冬子「なにがなにやら……もう……」
+Touko: "What are you saying what are you doing... really..."
+//In a row. -GHS
+TP
+
+//困惑しつつ、ぱくつく。
+She bites down while perplexed.
+TP
+
+//GL 1 TCKT0001b
+GL 1 TCKT0002b
+//HACK less suspicious Touko -GHS
+GI 1 0
+
+WVP 0 vfccb2015fyu007
+//冬子「……からい」
+Touko: "...spicy."
+//Curry -GHS
+TP
+
+//太一「辛口なのだ」
+Taichi: "Bitter taste in your mouth, eh."
+TP
+
+//GL 1 TCKT0005b
+GL 1 TCKT0006b
+//HACK moe Touko -GHS
+GI 1 0
+WVP 0 vfccb2015fyu008
+//冬子「のみたい……」
+Touko: "Wanna drink..."
+TP
+
+//口を押さえる。
+She holds down her mouth.
+TP
+
+//舌の弱いやつだ。
+She's got a weak tongue.
+TP
+
+//水筒を持ってきている。
+I take out the canteen.
+TP
+
+//太一「ほれ」
+Taichi: "Here."
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+WVP 0 vfccb2015fyu009
+//冬子「あ」
+Touko: "Ah!"
+TP
+
+//むしり取って、飲み口を見つめる。
+She tears off the cap then stares at the neck.
+TP
+
+//太一「……どした？」
+Taichi: "...what is it?"
+TP
+
+WVP 0 vfccb2015fyu010
+//冬子「だいぶ減ってるね」
+Touko: "You're running low."
+TP
+
+//太一「？　いいよ、飲んで。俺はいらないし。水は蓄えあるし」
+Taichi: "? It's fine, drink up. I don't need it. I got water reserves."
+TP
+GL 1 TCKT0002b
+GI 1 0
+
+
+WVP 0 vfccb2015fyu011
+//冬子「……飲んだのよね？」
+Touko: "...did you drink before?"
+TP
+
+//太一「え、飲んだけど？」
+Taichi: "Eh, I did drink, what of it?"
+TP
+
+//GL 1 TCKT0000b
+GL 1 TCKT0005b
+//HACK closed-eyes Touko -GHS
+GI 1 0
+
+WVP 0 vfccb2015fyu012
+//冬子「…………そうなんだ」
+Touko: "......you did then."
+TP
+
+//なにを気にしているんだ？
+What's on her mind?"
+TP
+
+//まさか！？
+It can't be?!
+TP
+
+//間接キスを？
+The indirect kissing?
+//See CCA0026. -GHS
+TP
+
+
+//鼓動が強まった。
+Strong throbbing of the heart.
+//Not sure about the PS2 version, but this scene on the 360 has the controller vibrating throughout. -GHS
+TP
+
+//見るのは初めてだった。
+It was the first time I had seen this.
+TP
+
+GL 1 TCKT0006b
+GI 1 0
+WVP 0 vfccb2015fyu013
+//冬子「……間接キス、だね」
+Touko: "...it's an indirect kiss, is it."
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//太一「……………………」
+Taichi: "............"
+TP
+
+WVP 0 vfccb2015fyu014
+//冬子「……太一？」
+Touko: "...Taichi?"
+TP
+
+//太一「ぉぉぉおおおおおっ！！」
+Taichi: "oooOOOOOH!!!"
+//Total x8 -GHS
+TP
+
+GL 1 TCKT0004b
+GI 1 0
+
+WVP 0 vfccb2015fyu015
+//冬子「ちょ、どういうっ？」
+Touko: "B-, what's that mean?"
+TP
+
+WVS 1 1
+
+//乳首をひねった。
+I twisted her nipples.
+TP
+
+WVP 0 vfccb2015fyu016
+//冬子「きゃうんっ！？」
+Touko: "KyahUhnh?!"
+TP
+
+//太一「リプレイ、プリーズ」
+Taichi: "Replay, pleeze!"
+//That's the nose you damn virgin, first you press the self destruct button, now you mess with 'record' and 'channel change'! Dammit, it's not like women come without an instruction manual or anything. -GHS
+TP
+WVP 2 SE003 1 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+
+
+//SEF 101 0
+//沈む。
+Sunk.
+WVP 2 SE038 1 0
+//SEF 101 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+TP
+
+WVP 1 bgm006.ogg 0 0 0
+
+GL 1 TCKT0003b
+GI 1 0
+WVP 0 vfccb2015fyu017
+//冬子「……それはスイッチじゃないっ！！」
+Touko: "...those aren't switches!!!"
+TP
+
+//太一「そうね……」
+Taichi: "Right..."
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+
+WVP 0 vfccb2015fyu018
+//冬子「そもそもリプレイって……？」
+Touko: "And besides, what's even to 'replay'...?"
+TP
+
+//太一「今のセリフ、もう一回ってことだよ」
+Taichi: "That line you just said, I wanna hear it one more time!"
+TP
+
+//起きる。
+I get up.
+TP
+
+//太一「さあ、リプレイだ」
+Taichi: "So, a replay!"
+TP
+
+GL 1 TCKT0002b
+GI 1 0
+
+WVP 0 vfccb2015fyu019
+//冬子「…………やよ」
+Touko: "......nono."
+TP
+
+//やよ、と来たか。
+And now a 'nono' came out.
+//It's a moe word, ya-yo. Buuut according to the Curse of Mikaka, that's 7 and 9, i.e 16. -GHS
+TP
+
+//大盤振る舞いだな。
+A lavish banquet we have here.
+TP
+
+//太一「やっぱ必要だな」
+Taichi: "I knew it, I need that."
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+
+WVP 0 vfccb2015fyu020
+//冬子「何がよ？」
+Touko: "Need what?"
+TP
+
+//太一「待ってろ」
+Taichi: "Wait here."
+TP
+GL 5 bgcc0006a
+GS 5 1
+SEF 152 0
+//教室に行く。
+I go to the classroom,
+TP
+GS 5 0
+SEF 152 0
+//戻ってくる。
+and bring it back.
+TP
+
+//太一「ビデオカメラ」
+Taichi: "Videocamera!"
+TP
+
+//バッテリーはまだある。
+It still has batteries.
+TP
+
+//設置。
+Set up,
+TP
+
+//スイッチオン。
+switch on.
+TP
+
+//太一「さあ、もう一度さっきのセリフを、Ｑ」
+Taichi: "Now, if I may be Pressing to Yuu to say that line once more!"
+//急 kyuu 'urgently', adapted since it recalls that line, see CCB2010 -GHS
+TP
+
+GL 1 TCKT0003b
+GI 1 0
+
+WVP 0 vfccb2015fyu021
+//冬子「なにがしたいのよっ！」
+Touko: "What do you even want me to do here!"
+TP
+
+//太一「…………はあ？」
+Taichi: "......huh?"
+TP
+
+WVP 0 vfccb2015fyu022
+//冬子「唖然とするなあっ！」
+Touko: "Don't act dumbfounded!"
+TP
+
+GL 1 TCKT0002b
+GI 1 0
+
+WVP 0 vfccb2015fyu023
+//冬子「私がおかしいこと言ってるみたいじゃない」
+Touko: "You're making it look like I said something weird, aren't you!"
+TP
+
+//太一「え、だって……どうして記録したらいけないの？」
+Touko: "Eh, but... why can't I have a recording now?"
+TP
+
+GL 1 TCKT0003b
+GI 1 0
+WVP 0 vfccb2015fyu024
+//冬子「なぜ記録する必要があるのよ！」
+Touko: "Why do you even need to record this at all!"
+TP
+
+//太一「……保存しておきたいから？」
+Touko: "...because I want to save it?"
+//Specific 'save game' term. Toootally a coincidence, just like the sex scenes are called Recollections and are apparently recorded by Taichi on the camera. -GHS
+TP
+
+//と、小首をかしげる。
+And I lean my head to the side, looking doubtful.
+TP
+
+WVP 0 vfccb2015fyu025
+//冬子「なんで疑問形なのよあなたのすることでしょ！　それになぜ保存しておきたいのよ！？」
+Touko: "Why are you putting that like a question! And why would you even want to save this!"
+TP
+
+WVP 0 vfccb2015fyu026
+//冬子「なに？　私ヘンなこと言った！？　そんなに遠回りに馬鹿にするほどおかしかったの？　そんなに滑稽だったの！？　私……私、こんなに想ってるのに、そっちはこちらを笑い物にする程度しか興味ないんだっっっ！？」
+Touko: "What? Did I say something weird?! Something so funny that I need to be made look stupid in this roundabout way?! I... I think of you so much but do you have any level of interest in me whatsoever except as some laughingstooock?!"
+TP
+
+//点火してしまった。
+Complete ignition.
+TP
+
+//太一「あー、きみ、ちょっと落ち着きたまえ……」
+Taichi: "Ahhh, you, gladden me with calming down a bit..."
+//See CCC0026. -GHS
+TP
+
+WVP 0 vfccb2015fyu027
+//冬子「○×△□＄＃％＆○×△□＄＃％＆ッッッッッ！！」/*
+Touko: "○×△□＄＃％＆○×△□＄＃％＆!!!!!!!!"
+//CP CCB0004C.
+//Audio file also seems too compressed to recover. -GHS
+TP
+
+//うわあ。
+Whoooa!
+TP
+
+//仕方ない。
+Well, if it's gotta be this way.
+TP
+
+//太一「おまえとの思い出を、記録しておきたかったんだ！」
+Taichi: "My memories with you, that's all I wanted to record!"
+TP
+WVS 1 0
+//ぴたり、と冬子の口舌が止まる。
+Touko's curtain lecture stopped on the spot.
+TP
+
+GL 1 TCKT0006b
+GI 1 0
+
+WVP 0 vfccb2015fyu028
+//冬子「……そうなの？」
+Touko: "...you do?"
+TP
+
+//太一「今の幸せな時間を、いつか振り返れるようにさ」
+Taichi: "So that one day I could look back on the happy times we are having now."
+TP
+
+//太一「ハハ……まずかったかな？」
+Taichi: "Hahah... was that bad of me?"
+//ハ (katakana ha) vs　八 (kanji eight). No coincidence, of course. Since there's two, that's 16 1+6=7. -GHS
+TP
+
+//純朴青年『やっちゃった』風に、後頭部をかく。
+I scratch the back of my head in the style of a young unsophisticated "now I've done it" boy.
+TP
+
+//太一「僕、冬子のこと本当に好きだからそれは本当だから……いつまでも美しい思い出としてとどめておきたかったんだ」
+Taichi: "I'm just a young boy that truly likes you, Touko, so what I've said is true... I just wanted to freeze these beautiful memories to have them forever and ever!"
+TP
+WVP 1 bgm004.ogg 0 0 0
+
+WVP 0 vfccb2015fyu029
+//冬子「太一……好きっ！」
+Touko: "Taichi... likes...!"
+//Quoting him. -GHS
+TP
+GO 1 1
+
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+
+
+//ひしりっ
+R'eggd!
+//Hishiri. Imma start putting out a reward on the head of these lawless non-Joyo SFX... going with something びしり-ish. -GHS
+TP
+
+//抱きついてくる。
+Clingingly hugged.
+TP
+
+//太一「冬子！　あながち嫌いではないっ」
+Taichi: "Touko! I do not necessarily dislike you!"
+//See CCA0030, similar behavior. -GHS
+TP
+
+WVP 0 vfccb2015fyu030
+//冬子「…………ぇ？」
+Touko: "......eh?"
+TP
+
+//太一「嗚呼、冬子！」
+Taichi: "Ahhh (sigh of longing), Touko!"
+//Used this in CCB2007. He's so faking it. -GHS
+TP
+
+WVP 0 vfccb2015fyu031
+//冬子「あぁ……た、太一っ」
+Touko: "Ah... Ta-, Taichiii!"
+TP
+
+//鎮火成功。
+Extinguishing successful.
+TP
+WVS 1 0
+WVP 0 vfccb2013fyu125
+//冬子『あっ、ううう……イキ……あ、あ、あ……イキ、ます……んくぅっっっ！！』/*
+Touko: 『Ah, ngggh... come... ah! ah! ah!... I am, coming... nghkhhh!!!』
+//PCP CCB2013
+TP
+
+//緊急ファック。
+A pressing FUKING.
+//~FUKK~ it *chug* -GHS
+TP
+
+//ビデオカメラの再生機能だった。
+That was the videocamera's playback function,
+//Scene recollection function, hence the save game-like term. -GHS
+TP
+
+//しかも大ボリューム。
+and furthermore at a high volume.
+TP
+
+GL 1 TCKT0004b
+GI 1 1
+WVP 0 vfccb2015fyu032
+//冬子「……え……私の声？」
+Touko: "...eh... my voice?"
+TP
+
+WVP 0 vfccb2013fyu126
+//冬子『ん～～～っ、～～～～～～ッッッ』/*
+Touko: 『Nh~~~h, ~~~~~~!!!』
+TP
+
+//ぱぎゅうっ！？
+Pagyuh?!
+//http://black.sakura.ne.jp/~izmi/hensankutiguse.htm#8 seems like a Comic Party reference, but that's untranslated. See CCZDXC. -GHS
+TP
+
+//俺の思考は停止した。
+My thoughts came to a halt.
+TP
+
+WVP 0 vfccb2015fyu033
+//冬子「ち、ちょっとちょっと！！」
+Touko: "Ho-, hold on hold on!!!"
+TP
+
+//身を離す。
+She distances from me.
+TP
+WVP 1 bgm010.ogg 0 0 0
+
+GL 1 TCKT0003b
+GI 1 0
+//HACK angrier Touko -GHS
+
+WVP 0 vfccb2015fyu034
+//冬子「桜庭っ！？」
+Touko: "Sakuraba?!"
+TP
+
+GO 1 1
+//HACK out with 'er -GHS
+
+//桜庭がカメラの前に座って、じっくり映像を見ていた。
+Sakuraba was sitting in front of the camera, attentively watching the images.
+TP
+
+//桜庭「…………」
+Sakuraba: "......"
+TP
+
+//呼びかけても反応しない。
+Calling him yields no reply.
+TP
+
+//じっくり見ている。
+He's watching intently.
+TP
+
+//泣きそうな顔で、桜庭の背後から付属モニターをのぞきこむ冬子。
+A face as if to cry, Touko peeks into the built-in monitor over Sakuraba's back.
+TP
+
+WVP 0 vfccb2013fyu127
+//冬子『……あっ……イクっ……イク、イクのぉ…………あぉ…………イ……』/*
+Touko: 『...ah... come!... com-, cominnng...... Ah...... com...』
+//CP CCB2013
+TP
+
+//まぐわいリプレイ。
+Intercourse replay.
+TP
+
+GI 1 1
+//HACK and back -GHS
+
+WVP 0 vfccb2015fyu035
+//冬子「こっ、こっこっこっこっこっ？？」
+Touko: "Clu-, clu-clu-clu-clu-cluele-???"
+//PCP CCB2009 due to various reasons and science. 
+//"Clueless[ly]". -GHS
+TP
+
+//太一「ニワトリ？」
+Taichi: "Chicken?"
+//PCP CCB2009
+TP
+
+WVP 0 vfccb2015fyu036
+//冬子「これってこれってこれってっ！？」
+Touko: "That'sWhat-sqWhat-sqWhat?!"
+//...well I tried. -GHS
+TP
+
+//オウムだった。
+Then it was a parrot.
+TP
+
+WVP 0 vfccb2013fyu128
+//冬子『あう……あぅ……ぅぅ……』/*
+Touko: 『Ahgwh... ahw... ngh...』
+//CP CCB2013
+TP
+
+//太一「……あははは」
+Taichi: "Ahahahah!"
+TP
+
+//太一「実はさっきの撮影してたんだ……あははー！」
+Taichi: "Truth is I was shooting before... ahahaaah!"
+TP
+
+//GL 1 TCKT0001b
+GL 1 TCKT0005b
+//HACK eyes-closed Touko -GHS
+GI 1 0
+
+//冬子「……」
+Touko: "..."
+TP
+
+//冬子の気配が変わる。
+Touko's very presence changes.
+TP
+
+GO 1 1
+//HACK out again -GHS
+
+WVP 0 vfccb2013fyu129
+//冬子『…………はっ……はぅあ……ふわぁ……しん、ぢゃう……』/*
+Touko: 『......hah... haaah... fwhah... dy-, ying...』
+//CP CCB2013
+TP
+
+//モニターの中で、冬子はくてりと気絶していた。
+The Touko in the monitor comes hard enough to pass out.
+TP
+
+//彼女は見た。
+Then the girl looked and saw,
+//~invert~ -GHS
+TP
+
+//そのあとに何が起こったのか。
+what had happened after that.
+TP
+
+
+WVP 0 vfccb2013fyu131
+//冬子『……んっ……むちゅ……れろ……んっんっ……んー……』/*
+Touko: 『...nh... mcHk... rhrh... nHnh... nhhh...』
+TP
+
+//太一『尿道に残ったのも、吸っちゃって』
+Taichi: 『Suck it all out, even the one left in the urethra.』
+//CP CCB2013
+TP
+
+WVP 0 vfccb2013fyu132
+//冬子『……あむ……ん……んんん……ちゅう、ちゅう』/*
+Touko: 『...aHm... nh... nnnh... pchk, pchk.』
+//CP CCB2013
+TP
+
+WVP 0 vfccb2013fyu133
+//冬子『んれるっ……ちゅる……ちゅ……んっん……』/*
+Touko: 『nRhrh... pchrk... chk... nhn...』
+//CP CCB2013
+TP
+
+//太一『ばんざーい、ばんざーい』
+Taichi: 『Banzaaai, banzaaai!』
+TP
+WVS 1 1
+//太一「…………」
+Taichi: "......"
+TP
+
+//冬子「…………」
+Touko: "......"
+TP
+
+//対峙する二人。
+Standoff.
+//Taiji suru. -GHS
+TP
+GL 0 bgcc0009a
+GL 1 TCKT0001b
+GS 1 1
+GS 0 1
+SEF 10 0
+//This brings Touko back without need for changes. Way creepier... -GHS
+
+//ぐにゃり
+Squished,
+TP
+
+//空間が歪んだ。
+the air in the room warps.
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+//HACK the calm before the storm... -GHS
+
+//冬子がニィと笑う。
+Touko laughs with a smirk.
+TP
+WVP 1 bgm017.ogg 0 0 0
+
+//じ、獣臭っ！？
+Th-, the pheromones of a beast?!
+TP
+
+//つうか殺気！？
+Which is to say its thirst for blood?!
+TP
+
+//食堂全体に膨れあがってしまっているっ！！
+It's expanding to fill the entire cafeteria!!!
+TP
+
+WVP 0 vfccb2015fyu039
+//冬子「…………ーぃ」
+Touko: "......ai."
+TP
+
+//呟いている。
+Muttering.
+TP
+
+//気が触れたか？
+Did she lose her mind?
+TP
+
+//耳をすませた。
+I strain my ears.
+//As he did with Misato, see CCA0015B, and Touko, see CCB0014C. -GHS
+TP
+
+WVP 0 vfccb2015fyu040
+//冬子「……ざーぃ……ばんざーい、ばんざーい、ばんざーい、ばんざーい」
+Touko: "...zaaai... banzaaai, banzaaai, banzaaai, banzaaai."
+//Hum, just 6 total? -GHS
+TP
+
+//薄笑いを浮かべながら機械的に俺のセリフをっ！？
+Mechanically repeating my line while displaying a faint smile?!
+TP
+
+//まずい！
+This is bad!
+TP
+
+GL 2 TCSH0003b
+GP 2 180 0
+GS 2 1
+GS 1 0
+SEF 109 0
+
+WVP 0 vmccb2015sku002
+//桜庭「一つ、気になったことがあるんだ。真面目な話だ」
+Sakuraba: "One thing I'm curious about. Talking seriously."
+TP
+
+//桜庭が挙手した。
+Sakuraba raised his hand.
+TP
+//>キジ
+//雉も鳴かずば撃たれまいに。
+There is safety in silence. Remember, the pheasant would have lived but for its cry.
+//PCP CCA0021
+//Curiously, there was no furrying there. -GHS
+TP
+
+WVP 0 vmccb2015sku003
+//桜庭「これはスマタなのか？　それとも本番なの―――」
+Sakuraba: "Is this intercrural? Or is it main photograph---"
+//See CCA2012 - still works. Of course Sakuraba can't tell; look at the CG: not even the hint of mosaic! -GHS
+TP
+WVP 2 SE003 1 0
+//SEF 101 0
+
+GP 2 165 15
+GI 2 0
+GP 2 180 30
+GI 2 0
+GP 2 195 15
+GI 2 0
+GP 2 180 0
+GI 2 0
+//HACK independent doll shake -GHS
+
+//セリフの途中で突如、桜庭がくずおれた。
+Suddenly, in the middle of his line, Sakuraba collapsed,
+GO 2 1
+TP
+
+//起きてこない。
+and did not rise.
+TP
+
+//スイッチが切られてしまったかのように。
+It's as if his power switch had been toggled.
+//Cough cough. -GHS
+TP
+
+//見れば冬子の手が、桜庭に突き出されていた。
+On looking, Touko's hand is projected towards Sakuraba.
+TP
+
+//だが触れた様子はない。
+Yet there is no physical contact.
+TP
+
+//ただ手を突きつけただけだ。
+Merely her hand, out-thrust, nothing more.
+TP
+
+//太一「気で！？」
+Taichi: "Via chi?!"
+TP
+GL 1 TCKT0005b
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfccb2015fyu041
+//冬子「ばんざーい、ばんざーい、ばんざーい、ばんざーい……」
+Touko: "Banzaaai, banzaaai, banzaaai, banzaaai..."
+//No, that's 10. Unless we count the complete ones alone: then it's 8. -GHS
+TP
+
+//太一「は、はわわわっ」
+Taichi: "Ha-, haWahWahWah!"
+TP
+WVP 2 SE074 1 0
+
+//チン
+Clank!
+//CP CCB2009
+TP
+
+WVP 2 SE075 1 0
+GL 4 sgcc0017
+GL 5 bgcc0000e
+$CGsgcc0017 = 1
+GP 4 0 0
+GI 5 0
+GS 1 0
+GS 4 1
+GS 5 0
+SEF 109 0
+
+//いつの間にかハラキリ丸も召還されているッッッッッ！？
+When did she even summon the Harakiri Blaaaaaade?!
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+WVP 0 vmccb2015msa000
+//政宗『冬子の怒りが頂点に達したその時、４．３５光年の彼方から時空を越え、妖刀ハラキリ　ブレードはわずか０．０５秒で空間両断跳躍を果たすのである！』
+> 
+ 
+ 
+> 
+ 
+ 
+Masamune:
+『In those occasions when Touko's anger achieves
+ its peak, the Demonic Harakiri Blade crosses 4.35
+ light years of space and time in a Spatial
+ Bisecting Leap that it can accomplish in a mere
+ 0.05"!』
+//See CCA0006 and CCC3002 - that's 2x faster than Taichi's intercranial Ph*tosh*p and as fast as the Parachute Death Sentence! 4+3=7, but! 4+3+5+5=17 1+7=8 -GHS
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+//太一「誰だ貴様は！！」
+Taichi: "Who the hell are you!!!"
+TP
+
+//人類滅亡してんじゃないのかよ！
+Has mankind fallen or not dammit!
+//See CCA0027 -GHS
+TP
+
+WVP 0 vfccb2015fyu042
+//冬子「……ばんざーい、ばんざーい」
+Touko: "...banzaaai, banzaaai."
+//Now they are 10-12. -GHS
+TP
+
+//太一「お、お慈悲っ！」
+Taichi: "Ha-, have mercy!"
+//PCP CCA0012 -GHS
+TP
+
+//後期の梶原○輝作品に出てくるヒロインがよく使ってた屈服の言葉を吐いて、俺は土下座した。
+Spitting out the words of submissions repeatedly screamed by the heroines in a latter period work of Kajiw*ra Ik*i, I genuflect.
+//http://ja.wikipedia.org/wiki/%E6%A2%B6%E5%8E%9F%E4%B8%80%E9%A8%8E Last kanji's different, but can be pronounced the same way, see CCA0030. Unlike that one, I don't see any interesting other reading with this different kanji. See http://kohada.2ch.net/test/read.cgi/rcomic/1291035736/263 (and rest of thread). Don't think it's officially translated. -GHS
+TP
+
+//だが。
+However.
+TP
+
+GL 4 sgcc0017a
+$CGsgcc0017a = 1
+GP 4 0 0
+GS 1 0
+GS 4 1
+WVP 2 SE076 1 0
+SEF 109 0
+
+//太一「晴れていたのに一瞬で嵐にっ？」
+Taichi: "A clear day turned into a thunderstorm in instant?!"
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+
+WVP 0 vmccb2015msa001
+//政宗『抜けば必ず嵐呼ぶ、それが妖刀ハラキリ・ブレードなのである』
+> 
+ 
+ 
+> 
+ 
+ 
+Masamune:
+『Once drawn always a storm it summons, for that
+ truly is the Demonic Harakiri Blade!』
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+
+//太一「だから誰なんだ貴様は！」
+Taichi: "I said who the hell are you!"
+TP
+
+//幻聴風情が！
+You tasteless auditory hallucination!
+TP
+
+WVP 0 vfccb2015fyu043
+//冬子「黒須太一……」
+Touko: "Kurosu Taichi..."
+//PCP CCA0002
+TP
+
+//太一「だって！　冬子が俺のエロ本全部燃やしちゃうんだもん！　かわりのオカズが必要なんだってばよっ！！」
+Taichi: "Buuut! You burned all my porn books, Touko! I'm telling you, I need a replacement side dish!!!"
+//...see CCA0015? There's absolutely zero reason to keep 'dattebayo' as even a reference, since kawaii narUhto, unlike equally kawaii kingdom harts, started 1999. -GHS
+TP
+
+WVP 0 vfccb2015fyu044
+//冬子「二つにしてあげるわ」
+Touko: "I shall make two, yes."
+TP
+
+//二つにされる？
+Make two?
+TP
+
+//一つであっての俺なのに！
+But there's only one of me!
+TP
+
+//太一「こうなったら……俺も黙っていないぞ！　専守防衛だ！」
+Taichi: "If things have to be this way... I shall not be silent either! Mine is non-aggressive defense!"
+TP
+
+//同じ指針を掲げている国があるが、領海に堂々と侵入してきた不審船相手に威嚇一つ満足にできない俺ではない！
+There is a country that advocates this same policy, but in opposition to suspicious ships that boldly trespasses through territorial water I can't be satisfied with less than one single warning shot!
+//Whaaat country could that beee it's totally Spain. For the less philosophy-minded, the principle of non-aggression doesn't exclude violent self-defense. -GHS
+TP
+
+//カメラと一緒に持ってきた太一袋から、マイダガーを……。
+From the Taichi Bag that I brought with the camera I extract Mai Dagg...
+TP
+
+//あれ、ないよ？
+Eh, not here?!
+TP
+
+//家に忘れたのかぁぁぁぁーっ！？
+I forgot it hooooooome?!
+TP
+
+//かわりに俺はテレビのリモコンを取り出し、冬子に突きつけた。
+Instead, I took out the TV remote, and pointed it at Touko.
+//That sounds like a stupid thing to have, but see CCX0001. -GHS
+TP
+
+//太一「動けば微弱な赤外線を照射するぞ！」
+Taichi: "Move and I expose you to these pathetically weak infrared rays!"
+TP
+
+//……意味ねー！
+...pointleeess!
+TP
+
+//冬子「……」
+Touko: "..."
+TP
+
+//敵、攻撃態勢。
+Enemy performing attack preparations.
+TP
+
+//太一「ひいんっ！」
+Taichi: "HyYynh!"
+TP
+WVS 1 0
+//GL 5 bgcc0000e
+//GI 5 0
+//WT 500 0
+GS 5 0
+GS 4 0
+//GS 0 1
+GS 0 0
+//HACK blackout (and removed the flashing whiteout). This was totally a bug. -GHS
+SEF 109 1
+//リモコンを捨てて頭を抱えた。
+I tossed the remote and held my head, at wits' end.
+TP
+
+//しかし……斬撃はない。
+Yet... no attack.
+TP
+
+//目を開ける。
+I open my eyes.
+TP
+GL 0 bgcc0009a
+GS 0 1
+SEF 109 0
+//...since the background fades in pointlessly right afterwards. This I didn't add. -GHS
+//刀をおろす冬子の姿。
+The figure of Touko, her sword downward,
+TP
+
+//ビデオカメラがゆっくりと二つに折れた。
+the videocamera, slowly splitting into two.
+TP
+
+//切断されている。
+Perfect severance.
+TP
+WVP 1 bgm011.ogg 0 0 0
+
+//太一「はにゃ～ん！　俺のハイテク盗撮機材がーっ！！」
+Taichi: "HaNYA~N! My high-tech peeping tooool!"
+//See CCB0018, Youko. Hany~an is seemingly a Cardcaptor Sakura reference. No idea about offical/fan translation (if any, given this stuff is usually left untl'd). Therefore, nyan. -GHS
+//SEF 101 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+TP
+
+GL 1 TCKT0005b
+GI 1 1
+
+WVP 0 vfccb2015fyu046
+//冬子「……悪は滅びた」
+Touko: "...the wicked have been severed."
+TP
+
+//太一「そんなー！！」
+Taichi: "Come ooon!!!
+TP
+
+//首筋に刀。
+Her sword up to the scruff of my neck.
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+WVP 0 vfccb2015fyu047
+//冬子「……死ぬよりましでしょう？」
+Touko: "...is that not preferable to death?"
+TP
+
+//太一「オッシャルトーリデス」
+Taichi: "THIS ONE AGREES."
+TP
+
+WVS 1 1
+WT 500 0
+WT 1500 1
+
+RET

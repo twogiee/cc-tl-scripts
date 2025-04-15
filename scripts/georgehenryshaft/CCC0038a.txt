@@ -1,0 +1,19 @@
+I drop off my bags in the classroom.
+//Not the kaban, I suppose the Taichi Bag and/or more. -GHS
+
+[Taichi]
+"Well?"
+
+Touko's nowhere to be seen.
+But I thought she was coming.
+That window seat of always.
+Ojou-sama's figure was not there.
+I felt vaguely at unease.
+Never take actions different from the always.
+A thought that resembled a wish.
+Having laid the carryall bag, I go roam about the school.
+//Different name for it again. -GHS
+The beginning of the third day of The Always.
+IF $loop == 2 But in truth, I must have done this so many times.
+IF $loop != 2 And yet, what is that but being fulfilled by the hollow.
+//HACK they went to such a mess to have separate scripts... what for, even?! 11 lines saved. -GHS

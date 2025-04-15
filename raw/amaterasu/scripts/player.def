@@ -1,0 +1,46 @@
+// システム予約済み変数
+NUM $A 0
+NUM $D 0
+NUM $F 0
+NUM $G 0
+NUM $H 0
+NUM $I 0
+NUM $J 0
+NUM $L 0
+NUM $L 0
+NUM $M 0
+NUM $N 0
+NUM $O 0
+NUM $Q 0
+NUM $S 0
+NUM $T 0
+NUM $U 0
+NUM $V 0
+NUM $W 0
+NUM $X 0
+NUM $Y 0
+NUM $Z 0
+NUM $tlnote 0
+
+// 以降に変数定義
+NUM $roop 0
+NUM $roopD 0
+NUM $SB_FALSE 0
+
+//BADENDフラグ
+NUM $KIRIBAD 0
+
+//攻略フラグ
+NUM $KIRI 0
+NUM $MIKI 0
+NUM $MISATO 0
+NUM $YOKO 0
+NUM $TOKO 0
+
+//送還フラグ
+NUM $SB_KRI 0
+NUM $SB_MKI 0
+NUM $SB_MSA 0
+NUM $SB_YKO 0
+NUM $SB_TKO 0
+NUM $SB_SKU 0

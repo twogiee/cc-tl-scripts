@@ -1,0 +1,567 @@
+JMP 1
+:1
+CSQ 1 1 1 1 1
+Harakiri Fist reimplementation. PS2 screenshot rip.
+- Last
+- Next
+- Animate
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 61
+IF $B == 2 JMP 2
+IF $B == 3 JMP ANI
+IF $B == 4 RET
+:ANI
+The text onscreen is just that of the technique: Kirihara Style Hidden Motion Direct Strike. The SFX is just played at that point in every version. The graphics themselves may be rendered by the engine, at least on the 360 version.
+JMP 1
+:2
+CSQ 1 1 1 1
+Sleeping Touko. Originally a sex scene alternative.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 1
+IF $B == 2 JMP 3
+IF $B == 3 RET
+:3
+CSQ 1 1 1 1
+Youko in Taichi's bed 1. Xbox 360 exclusive.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 2
+IF $B == 2 JMP 4
+IF $B == 3 RET
+:4
+CSQ 1 1 1 1
+Youko in Taichi's bed 2. Xbox 360 exclusive.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 3
+IF $B == 2 JMP 5
+IF $B == 3 RET
+:5
+CSQ 1 1 1 1
+Kiri electricity fight 1.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 4
+IF $B == 2 JMP 6
+IF $B == 3 RET
+:6
+CSQ 1 1 1 1
+Kiri electricity fight 2.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 5
+IF $B == 2 JMP 7
+IF $B == 3 RET
+:7
+CSQ 1 1 1 1
+Crossbow bolt.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 6
+IF $B == 2 JMP 8
+IF $B == 3 RET
+:8
+CSQ 1 1 1 1
+Young Youko.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 7
+IF $B == 2 JMP 9
+IF $B == 3 RET
+:9
+CSQ 1 1 1 1
+Survival Game, Misato with the AK-47.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 8
+IF $B == 2 JMP 10
+IF $B == 3 RET
+:10
+CSQ 1 1 1 1
+Survival Game, Misato with the Uzi.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 9
+IF $B == 2 JMP 11
+IF $B == 3 RET
+:11
+CSQ 1 1 1 1
+Survival game fence rescue. Xbox 360 exclusive.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 10
+IF $B == 2 JMP 12
+IF $B == 3 RET
+:12
+CSQ 1 1 1 1
+Taichi/Kiri chase.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 11
+IF $B == 2 JMP 13
+IF $B == 3 RET
+:13
+CSQ 1 1 1 1
+'Nanaca' business card. It's oddly washed out.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 12
+IF $B == 2 JMP 14
+IF $B == 3 RET
+:14
+CSQ 1 1 1 1
+Youko with the sandwiches. The scene itself is new.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 13
+IF $B == 2 JMP 15
+IF $B == 3 RET
+:15
+CSQ 1 1 1 1
+Yusa cornered.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 14
+IF $B == 2 JMP 16
+IF $B == 3 RET
+:16
+CSQ 1 1 1 1
+Hasekura Mansion interior (sepia only).
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 15
+IF $B == 2 JMP 17
+IF $B == 3 RET
+:17
+CSQ 1 1 1 1
+Princess Carry.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 16
+IF $B == 2 JMP 18
+IF $B == 3 RET
+:18
+CSQ 1 1 1 1
+Powerpuff Girls CG alternate. Added for variety.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 17
+IF $B == 2 JMP 19
+IF $B == 3 RET
+:19
+CSQ 1 1 1 1
+Presented without comment.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 18
+IF $B == 2 JMP 20
+IF $B == 3 RET
+:20
+CSQ 1 1 1 1
+How big is that Carnation anyway?
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 19
+IF $B == 2 JMP 21
+IF $B == 3 RET
+:21
+CSQ 1 1 1 1
+Touko in the sleeping bag. Xbox 360 exclusive.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 20
+IF $B == 2 JMP 22
+IF $B == 3 RET
+:22
+CSQ 1 1 1 1
+Miki and Kiri 100% loli. Xbox 360 exclusive.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 21
+IF $B == 2 JMP 23
+IF $B == 3 RET
+:23
+CSQ 1 1 1 1
+Miki and Kiri 101% loli. Xbox 360 exclusive.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 22
+IF $B == 2 JMP 24
+IF $B == 3 RET
+:24
+CSQ 1 1 1 1
+Youko crying.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 23
+IF $B == 2 JMP 25
+IF $B == 3 RET
+:25
+CSQ 1 1 1 1
+Miki hug, originally a sex alternative.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 24
+IF $B == 2 JMP 26
+IF $B == 3 RET
+:26
+CSQ 1 1 1 1
+Bad End. Seemingly Xbox 360 exclusive.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 25
+IF $B == 2 JMP 27
+IF $B == 3 RET
+:27
+CSQ 1 1 1 1
+Youko beats down Taichi.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 26
+IF $B == 2 JMP 28
+IF $B == 3 RET
+:28
+CSQ 1 1 1 1
+Nanaka holding baby Taichi 1.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 27
+IF $B == 2 JMP 29
+IF $B == 3 RET
+:29
+CSQ 1 1 1 1
+Nanaka holding baby Taichi 2.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 28
+IF $B == 2 JMP 30
+IF $B == 3 RET
+:30
+CSQ 1 1 1 1
+Finale - Youko 1.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 29
+IF $B == 2 JMP 31
+IF $B == 3 RET
+:31
+CSQ 1 1 1 1
+Finale - Youko 2.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 30
+IF $B == 2 JMP 32
+IF $B == 3 RET
+:32
+CSQ 1 1 1 1
+Finale - Touko 1.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 31
+IF $B == 2 JMP 33
+IF $B == 3 RET
+:33
+CSQ 1 1 1 1
+Finale - Touko 2.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 32
+IF $B == 2 JMP 34
+IF $B == 3 RET
+:34
+CSQ 1 1 1 1
+Finale - Touko 3.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 33
+IF $B == 2 JMP 35
+IF $B == 3 RET
+:35
+CSQ 1 1 1 1
+Finale - Misato and Tomoki.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 34
+IF $B == 2 JMP 36
+IF $B == 3 RET
+:36
+CSQ 1 1 1 1
+Finale - Miki and Kiri 1.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 35
+IF $B == 2 JMP 37
+IF $B == 3 RET
+:37
+CSQ 1 1 1 1
+Finale - Miki and Kiri 2.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 36
+IF $B == 2 JMP 38
+IF $B == 3 RET
+:38
+CSQ 1 1 1 1
+Finale - Sakuraba.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 37
+IF $B == 2 JMP 39
+IF $B == 3 RET
+:39
+CSQ 1 1 1 1
+A leg of the Tower of Friends.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 38
+IF $B == 2 JMP 40
+IF $B == 3 RET
+:40
+CSQ 1 1 1 1
+Tower of Friends on fire.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 39
+IF $B == 2 JMP 43
+IF $B == 3 RET
+:43
+//;_; oh screw it I'm not fixing this. No one should be reading this anyway. -GHS
+CSQ 1 1 1 1 1
+Miki's Crucifixion Scene 1.
+- Previous
+- Next
+- Scroll & More Info
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 39
+IF $B == 2 JMP 44
+IF $B == 3 JMP MIKISCRL1
+IF $B == 4 RET
+:MIKISCRL1
+CIN 0 0 0 0 -200
+CR 3
+These seven, huge scrolling images were never seen in the actual scenario even in the Xbox 360 version.
+CIN 0 0 -200 0 0
+CR 3
+JMP 43
+:44
+CSQ 1 1 1 1 1
+Miki's Crucifixion Scene 2.
+- Previous
+- Next
+- Scroll & More Info
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 43
+IF $B == 2 JMP 45
+IF $B == 3 JMP MIKISCRL2
+IF $B == 4 RET
+:MIKISCRL2
+CIN 0 0 0 0 -200
+CR 3
+This scene contains an error: the wound on Miki's thigh is inflicted later. It's possible there was miscommunication on the first stab (the one about "installation"). The stab is normally never visible.
+CIN 0 0 -200 0 0
+CR 3
+JMP 44
+:45
+CSQ 1 1 1 1 1
+Miki's Crucifixion Scene 3.
+- Previous
+- Next
+- Scroll
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 44
+IF $B == 2 JMP 46
+IF $B == 3 JMP MIKISCRL3
+IF $B == 4 RET
+:MIKISCRL3
+CIN 0 0 0 0 -200
+CR 3
+Click to continue.
+CIN 0 0 -200 0 0
+CR 3
+JMP 45
+:46
+CSQ 1 1 1 1 1
+Miki's Crucifixion Scene 4.
+- Previous
+- Next
+- Scroll
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 45
+IF $B == 2 JMP 47
+IF $B == 3 JMP MIKISCRL4
+IF $B == 4 RET
+:MIKISCRL4
+CIN 0 0 0 0 -200
+CR 3
+Click to continue.
+CIN 0 0 -200 0 0
+CR 3
+JMP 46
+:47
+CSQ 1 1 1 1 1
+Miki's Crucifixion Scene 5.
+- Previous
+- Next
+- Scroll
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 46
+IF $B == 2 JMP 48
+IF $B == 3 JMP MIKISCRL5
+IF $B == 4 RET
+:MIKISCRL5
+CIN 0 0 0 0 -200
+CR 3
+Click to continue.
+CIN 0 0 -200 0 0
+CR 3
+JMP 47
+:48
+CSQ 1 1 1 1 1
+Miki's Crucifixion Scene 6.
+- Previous
+- Next
+- Scroll
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 47
+IF $B == 2 JMP 49
+IF $B == 3 JMP MIKISCRL6
+IF $B == 4 RET
+:MIKISCRL6
+CIN 0 0 0 0 -200
+CR 3
+Click to continue.
+CIN 0 0 -200 0 0
+CR 3
+JMP 48
+:49
+CSQ 1 1 1 1 1
+Miki's Crucifixion Scene 7.
+- Previous
+- Next
+- Scroll & More Info
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 48
+IF $B == 2 JMP 54
+IF $B == 3 JMP MIKISCRL7
+IF $B == 4 RET
+:MIKISCRL7
+CIN 0 0 0 0 -200
+CR 3
+The ones used in the reconstruction are mostly select cuts from the original sized files in order to have better quality during zooms, except for this one.
+CIN 0 0 -200 0 0
+CR 3
+JMP 49
+:54
+//;_; ibid -GHS
+CSQ 1 1 1 1
+Another Story Rooftop without the antenna.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 49
+IF $B == 2 JMP 55
+IF $B == 3 RET
+:55
+CSQ 1 1 1 1
+Rooftop with tarp-covered Tower of Friends.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 54
+IF $B == 2 JMP 56
+IF $B == 3 RET
+:56
+CSQ 1 1 1 1
+A Drink on the Rooftop - The Three Drunks.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 55
+IF $B == 2 JMP 57
+IF $B == 3 RET
+:57
+CSQ 1 1 1 1
+These were originally illustrations that accompanied...
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 56
+IF $B == 2 JMP 58
+IF $B == 3 RET
+:58
+CSQ 1 1 1 1
+...the story on the issue of P-Mate in which this was...
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 57
+IF $B == 2 JMP 59
+IF $B == 3 RET
+:59
+CSQ 1 1 1 1
+...originally published. They were ripped from a...
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 58
+IF $B == 2 JMP 60
+IF $B == 3 RET
+:60
+CSQ 1 1 1 1
+...med-res wallpaper and restored.
+- Previous
+- Next
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 59
+IF $B == 2 JMP 61
+IF $B == 3 RET
+:61
+CSQ 1 1 1 1
+Extra background from the Deus Ex Chaos trial edition.
+- Previous
+- Top
+- Back to Easter Eggs Menu
+IF $B == 1 JMP 60
+IF $B == 2 JMP 1
+IF $B == 3 RET
+You should not be here.

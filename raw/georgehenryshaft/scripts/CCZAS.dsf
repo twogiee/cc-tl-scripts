@@ -1,0 +1,5128 @@
+
+
+
+//This script is based on a fanmade scenario circling 'round the net, just like the Amaterasu Translation version was. All of the script commands have been rebuilt from the Xbox 360 release, however, and nothing remains of the fanmade version but about 95% of the original transcription. That's because even its latest edition had its share of typos, and the script in the 360 version was edited and lines here have been changed accordingly. This won't match the Materials Book entirely either.
+//The other big difference is that many voiced-only lines, which were introduced entirely arbitrarily by whoever did this originally, were never part of the story in the first place. This especially affects the ending, which was entirely added by whoever did this and was wholly non-canon.
+//There were some clever graphical effects, though, so kudos for those.
+//As for the technical side of this, the rebuilding is only about 95% accurate. Some effects are still relatively simplified, especially around Miki's crucifixion. The CGs will not fit the full screen, since Another Story was designed for the 360 and therefore for a 16:9 video ratio. Also missing are a few camera pans for BGs (useless with the full screen), and the dolls cut below the knee, which would've given the characters a bit more 'distance' from the screen than the average one here.
+//That's because those dolls look better in 16:9 ratio; the "normal" dolls seen in the PC version don't actually exist there. There's those distant dolls, dolls cut much higher than those on PC, and dolls that pretty much fill the screen. Curiously, they just made complete sets for all three for all characters, and at least in the main scenario and Another Story, 99% of those aren't used at all.
+//There ARE some distant dolls used sporadically in the main scenario, however. -GHS
+
+
+GL 0 BGCC0000A
+GS 0 1
+SEF 109 1
+WVP 1 bgm003.ogg 0 0 0
+
+
+//携帯電話のアンテナは三本立っていれば、電波状態も万全と言うことだ。
+They say that if the cellphone shows three antenna bars, the reception of EM waves will be perfect.
+//This isn't necessarily true in the West, especially in recent times (5 bars has the iPhone). And, admittedly, this does sound like it's talking about erecting antennas, given the rest of the story after all. Truth, of course, is that he's talking about the Three Penises that are Necessary to Fulfill Women(tm). -GHSecsiss
+TP
+//一本だと少々弱い。
+One bar and it's a little weak.
+TP
+//二本でもいまいち弱い。アンテナのゲージは、パワーを思わせる。
+Two bars and it's still sorta weak. The gauge of the antenna reminds me of power.
+//Although I can't find that word used to indicate that display, that's what he's obviously talking about. -GHS
+TP
+//三本ならフルパワー。通じるぞ、と言う感じがする。
+Three bars, and it's full power. Feels like it's saying, "I'm conveying!".
+TP
+//そんなことをぼんやりと考えたのがいつのことかは憶えていないのだけど……
+I don't recollect when it was that I was vaguely thinking on that, however...
+TP
+//平和で、退屈で、静かで、自動的で、思索するに足る気力がなかった頃の俺は、かような印象を増幅して脳内に新たなイメージを喚起するに至ったわけである。
+At the time when I had insufficient willpower to speculate in peace, tedium, quiet and automatism, I amplified these passing impressions I had and aroused new intracerebral images.
+//He refers to his time in the Mansion. This is the crap he was thinking as a little boy with too much time on his hands, too many books, and too little reason to have any level of adherence to reality. -GHS
+TP
+//だから三本超えたら、時空さえも超えてしまう!
+Meaning, if I go beyond three bars, I'll go beyond space-time itself!
+//Translation: "could I break through this incomprehensible phenomenon by increasing the emission strength?" This is exactly as nonsensical as attempting to reach Heaven (which is a place philosophically above mankind, not physically in the sky) by building a tower. This scenario is about the building of the Tower of Babel. The madness of mankind having barely survived the Flood is here represented by moege tropes and RPG delirium. This is for two reasons: 1) Cross Channel 2) Japan. -GHS
+TP
+//そんな中学生レベルの妄想で、死ぬまで暇を潰そうとか思っていた。
+I was thinking of wasting time with these middle schooler-level fantasies until the day I died.
+//Indeed, it's all chuunibyou here. -GHS
+TP
+//だが実際は、潰すまでもなかった。
+But in truth, I didn't even reach the point of waste.
+TP
+†
+//†x1 (keeping the count consistent for easy mass-search). These are in the 360 version too, unaltered. -GHS
+TP
+//雑草にまとわりついていた朝露が、鼻先に落ちた感触。
+The tactile sensation on the tip of my nose of the morning dew coiling about the grass that fell on it.
+//The edits to this line were so desperately needed. -GHS
+TP
+//太一「う、つめて……」
+Taichi: "Ngh, so cold..."
+TP
+
+GL 0 BGCC0001
+GS 0 1
+SEF 109 0
+
+//俺は目覚めた。
+I was awake.
+//In house in the grass, the insect. -GHS
+TP
+
+GL 1 TCMM0000
+GP 1 225 0
+GI 1 1
+
+//見里「……」
+???: "..."
+TP
+//近くに、少女がいた。こいつはみみみ。漢字で書くと美々美。義理の妹だ。
+Next to me was a girl. This is Mimimi. Written in kanji it's beauty, kanji repetition, beauty. She's my Imouto-in-law.
+//Some of the lines have been consolidated oddly to say the least, and so will my comments since they were mostly built on the fanmade edition's splitting. See CCD1001/B, especially the part where she wants to be a robot: the two are siblings in this way.
+//Tech term as this part is Taichi having VN delusions. Also see CCZDXC: "quantum theory", which is to say a pseudo-scientific troll that in actuality represents the author's idea of pre-chuuni denpa being still of use by Japanese young adults to escape in the Tolkenian sense from the prison that is the world fallen from the grace of the Christian God, permits it. -GHS
+TP
+//毎朝起こしに来てくれる。
+She comes every day to wake me up.
+TP
+WVP 0 vzzztof_MSA0_0908
+//美々美「もーお兄ちゃん、いいかげんに起きてよー」
+Mimimi: "Really, Onii-chan, wake up alreadyyy!"
+TP
+//わかったよ。
+I get it...
+TP
+
+GL 1 TCMM0001
+GI 1 0
+
+WVP 0 vzzztof_MSA0_0909
+//美々美「お兄ちゃんはみみみがいないと本当にダメなんだからー」
+Mimimi: "When Mimimi isn't here, you really go all bad, Onii-chan!"
+//Another VN/eroge cliche' that's never quite translated in a standard way, so the reference will have to stay like this until I translate every moege ever and finally have a standardized translation, as well as the undisputed dominion over the Universe that awaits anyone who does so. Seeing CCD1001 and CCD0002, however, this is also literally true. -GHS
+TP
+//太一「……ハハッ」
+Taichi: "...hah hah!"
+//PCP CCA3022
+//That's the Kiri bathroom scene. Nice. -GHS
+TP
+//俺は苦笑した。
+I made a bitter smile.
+TP
+//最近、少しおしゃまになってきたこいつの言動は、昔とは（略）―――
+Lately she's been acting somewhat precocious, but some time ago she(snip)---
+//Boring descriptions are boring, though the "time ago" usually means the Mansion. Remember Youko is technically also his older sister, besides childhood friend denpa super ninja with a sword she totally didn't steal from Touko. -GHS
+TP
+//学校に行かないと。自転車を引っ張り出す。
+We have to go to school. I take out the bike.
+TP
+//太一「置いて行くぞー」
+Taichi: "Imma leave you behiiind!"
+//Taichi will be waaay flat-out ruder here than he is normally. This is Nukige Protagonist Turned Moege Protagonist Taichi. -GHS
+TP
+
+GL 1 TCMM0005
+GI 1 0
+
+WVP 0 vzzztof_MSA0_0910
+//美々美「あーん、まってよー」
+Mimimi: "Awww, wait uuup!"
+TP
+
+GL 0 BGCC0000A
+GS 0 1
+GS 1 0
+SEF 109 0
+
+//義理の妹を後ろに乗せて、学校へ。
+My Imouto-in-law riding on the back, we head to school.
+//Stop here and reread the first few scenes of Kana: Little Sister. In case the little girl getting teased and then vomiting like Yusa, and the girl giving the protagonist a doll of herself didn't creep you out, this bike scene should. -GHS
+TP
+
+
+GS 0 0
+GS 1 0
+SEF 109 0
+
+WVP 3 seBIKE 0 0
+††
+//†x2 -GHS
+TP
+
+GL 0 BGCC0005
+GS 0 1
+SEF 109 0
+
+WVP 0 vzzztof_MSA0_0911
+//美々美「こうして乗せていってもらうの、久しぶりだね」
+Mimimi: "It's been so long since the last time you gave me a ride like this, hasn't it."
+TP
+//太一「そうか？」
+Taichi: "It has?"
+TP
+//そうだったかもしれない。
+It might just have been, perhaps.
+TP
+//太一「なんか……結構弾力が……」
+Taichi: "Really... so much elasticity, it's..."
+TP
+
+WVP 0 vzzztof_MSA0_0912
+//美々美「え？」
+Mimimi: "Eh?"
+TP
+//太一「胸が……その……」
+Taichi: "Breasts... well..."
+TP
+
+WVP 2 seQWIK 1 0
+//?????????? -GHS
+
+//結構大きい。ぐいぐいと当たる。こんなに大きかったっけ？
+They're quite big. They press on me insistently. Were they always this big?
+//See CCA0015B, CCA0026 -GHS
+TP
+
+//いつの間に育ったんだ。
+When did they even grow like this?
+TP
+
+WVP 0 vzzztof_MSA0_0913
+//美々美「えっち」
+Mimimi: "Perv!"
+TP
+
+WVP 2 se002 1 0
+
+//ごちん
+Thunk!
+TP
+//太一「あたっ」
+Taichi: "Awch!"
+TP
+//太一「冗談は抜きにして、別に毎日乗せていってもいいんだぞ？」
+Taichi: "All jokes aside, I don't really mind giving you a ride every day, you know?"
+TP
+WVP 0 vzzztof_MSA0_0914
+//美々美「朝練があるの！」
+Mimimi: "But there's morning practice!"
+//See CCA0005A, Taichi does have it. Whose it is left ambiguous. -GHS
+TP
+//太一「さいで」
+Taichi: "And all that."
+//"Indeed" + "(snip)", further hints that this is thrown together in his mind to avoid the boring parts. -GHS
+TP
+WVP 0 vzzztof_MSA0_0915
+//美々美「それにお兄ちゃん、あの人とばかり……」
+Mimimi: "And Onii-chan is always with that person..."
+TP
+//太一「あの人って……冬子か？」
+Taichi: "That person... Touko?"
+TP
+//美々美「……」
+Mimimi: "..."
+TP
+//太一「おいおい、俺と冬子はなんでもないって。変な勘ぐりはよせよ」
+Taichi: "Come on now, I told you me and Touko are like whatever. Stop with these weird suspicions already."
+TP
+WVP 0 vzzztof_MSA0_0916
+//美々美「そうなのかな」
+Mimimi: "But are you now..."
+TP
+//太一「そうだよ。だいたいあんなヒステリー、俺の好みじゃないっての」
+Taichi: "We are. The point is, I said, that hysteric isn't the kind of girl I like."
+TP
+WVP 0 vzzztof_MSA0_0917
+//美々美「お兄ちゃん、結構人気あるんだよ？」
+Mimimi: "Onii-chan, you're pretty popular aren't you?"
+//See CCD2002 - heh. -GHS
+TP
+†††
+//†x3 -GHS
+TP
+//太一「マジか！？」
+Taichi: "You serious?!"
+TP
+//そんな話、聞いたことない。
+That story, it's something I never heard before.
+//Very very intentional. -GHS
+TP
+WVP 0 vzzztof_MSA0_0918
+//美々美「うちのクラス、ファンクラブまであるんだから」
+Mimimi: "In our class you even have a fan club."
+//No, that's what popular GIRLS have. Like with the Taichi Bag and the Taichi Doll, Taichi is confusing himself for the popular GIRL character. Which is pretty much the point. -GHS
+TP
+†††††
+//†x5 -GHS
+TP
+//太一「だ、だって俺、一度も告白されたことないぞ？」
+Taichi: "B-, but I've never had anyone confess to me, not once!"
+TP
+WVP 0 vzzztof_MSA0_0919
+//美々美「だからぁ、牽制しあってるの！」
+Mimimi: "I'm telling you, they're restraining themselves!"
+//Misato's just looking for plausible deniability, Touko for Taichi to come talk to her, Kiri for him to settle things with Yutaka, Miki is just being unserious... even Yusa possibly wanted him. It's all literally true. -GHS
+TP
+//太一「たくさんのおにゃのこが俺を巡って牽制っ！？」
+Taichi: "Lots of gyarls are keeping in restraint... about me?!"
+//OnNYANoko-desu-nya, obviously a reference to Lucky Star (nyope). -GHS
+TP
+WVP 0 vzzztof_MSA0_0920
+//美々美「おにゃのこって言った……この人……」
+Mimimi: "'Gyarls' he said... this guy..."
+TP
+//太一「うーむ。どうも信じられないな」
+Taichi: "Yu-up. I just can't believe that."
+//...this could also refer to him having said "gyarls"
+TP
+WVP 0 vzzztof_MSA0_0921
+//美々美「……あたしだって信じたくないよ」
+Mimimi: "...I don't want to believe it either!"
+TP
+//太一「え？　なんだって？　聞こえないよ」
+Taichi: "Eh? Whatd'ja say? I can't hear you!"
+//PCP CCC0032
+//Hello. -GHS
+TP
+WVP 0 vzzztof_MSA0_0922
+//美々美「もう、馬鹿！」
+Mimimi: "Really, dummy!"
+TP
+
+WVP 2 se002 1 0
+//ばし、ばしし！
+Thump, thu-thump!
+//Guessing intentionally off from SFX. -GHS
+TP
+†††
+//†x3 -GHS
+TP
+//太一「いてっ！　いてーよ！」
+Taichi: "Owww! That huuurts!"
+TP
+//殴られた。
+I was punched.
+TP
+//わけわかばやし。
+Even Wakabayashi couldn't catch her point.
+//http://captaintsubasa.wikia.com/wiki/Genzo_Wakabayashi Another Captain Tsubasa/Flash Kicker reference, see CCA0019. Since he's the Super Goal Keeper, going with this. Also, hi Tomoki. -GHS
+TP
+//美々美「…………」
+Mimimi: "......"
+TP
+//それっきり義理の妹は、黙り込んでしまう。
+And after that, my Imouto-in-law sank into silence.
+TP
+
+GL 0 BGCC0000A
+GS 0 1
+SEF 109 0
+
+//俺はわけのわからないままペダルをこいだ。
+Still not understanding her point, I put my strength on the pedals.
+TP
+†
+//†x1 -GHS
+TP
+
+TS 2
+WVS 3 1
+GS 0 0
+SEF 109 0
+
+WT 1000 0
+
+WVP 2 seDOOR 1 0
+TS 3
+GL 0 BGCC0006
+GS 0 1
+SEF 109 0
+
+//いつもとかわりない教室の幾何学的な机の並びは、空気中に残った人の体温を剥奪する。
+The geometric alignment of the desks inside this ever unchanging classroom steals the body temperature of the people left inside its atmosphere.
+//Grinding repetition and perfect unchanging identity kill the soul. Also Touko's gonna die. -GHS
+TP
+//冬子の机に近寄る、冬子の赤い机に話しかける
+I draw near Touko's desk, then get close and talk to Touko's red desk.
+//Once more "get close and talk". This was weird in the original but this reads even weirder while not being that off-tone, so I agree with the change. -GHS
+TP
+//太一「よっ」
+Taichi: "Yoh."
+TP
+
+GL 1 TCKT0001
+GP 1 230 0
+GI 1 1
+
+WVP 0 vzzztof_FYU0_0401
+//冬子「あんたね、もうちょっと考えて行動しなさいよ」
+Touko: "Seriously you, you should start acting after you've given things some thought!"
+TP
+//太一「なんの話だよ。わけわかんねーぞ」
+Taichi: "What are you talking about now? I don't getcha!"
+TP
+WVP 0 vzzztof_FYU0_0402
+//冬子「あんまり妹とべたべたしてると、シスコンだって思われるわよ」
+Touko: "If you keep staying all glued to that little sister of yours, you'll look like a siscon."
+//If Tomoki were the protagonist, Misato'd totally be his non-blood-related imouto. -GHS
+TP
+//太一「はああ？　んだそりゃ？」
+Taichi: "Huuuh? The hell's that?"
+TP
+//太一「確かに美々美は義理の妹だけど、兄妹だぞ？」
+Taichi: "Of course, Mimimi's just my sister-in-law, but we're siblings you know?"
+TP
+//太一「肉親のこと自転車に乗っけた程度で……っておまえ、どうして知ってるんだよ」
+Taichi: "Just helping someone you have a blood relation with getting on the bike isn't... wait, how do you even know that?!"
+//He does literally say "placing her on the bike". "Blood relation" is contradictory; the kanji are "flesh" and "parents/kindness", maybe just "been nice to her body" (AKA kill/have sex)? Just reaching, sadly. -GHS
+TP
+
+GL 1 TCKT0004
+GI 1 0
+
+WVP 0 vzzztof_FYU0_0403
+//冬子「え？」
+Touko: "Eh?"
+TP
+//太一「自転車に乗せて通学してたの、どっかで見たのか？」
+Taichi: "So you saw us come to school in bicycle somehow?"
+TP
+//太一「けどおまえ俺よりはやく学校に来てたし……」
+Taichi: "But you come to school earlier than me..."
+//Still true. -GHS
+TP
+
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vzzztof_FYU0_0404
+//冬子「うるさいわね、聞いたのよ！」
+Touko: "Shut up, I just heard of it!"
+TP
+//太一「誰にだよ」
+Taichi: "From who!"
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vzzztof_FYU0_0405
+//冬子「友達に！」
+Touko: "A friend!"
+TP
+//太一「友達って、おまえいないとか言ってなかったか？　庶民とはつきあえないとか何とか？」
+Taichi: "A friend, now, didn't you say they didn't exist to you and stuff? You keeping company with the common folks now?"
+//Going with a nice literal "inai"; it's literally true, whether literally nonexistant or her simply ignoring them. It's all false here, yet it's all true. -GHS
+TP
+
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vzzztof_FYU0_0406
+//冬子「う、うきゅ……」
+Touko: "U-, ukyu..."
+TP
+†††††††††††††††††††††
+//†x21 7x3 - all the ones before this are 14 7x2 -GHS
+TP
+//太一「なにがうきゅ、だ。ゲームのヒロインみたいなこと口走りやがった」
+Taichi: "What's 'ukyu' now. You're blurting out stuff like the heroine of a videogame now."
+//Original had him questioning if she's gone insane. Too blunt, again. -GHS
+TP
+//太一「……おまえ、もしかして焼き餅焼いてるんじゃないか？」
+Taichi: "...you, you couldn't be burning in jealousy now?"
+//Literally true. Also see Youko. -GHS
+TP
+
+GL 1 TCKT0011
+GI 1 0
+
+WVP 0 vzzztof_FYU0_0407
+//冬子「もきーーーーーーーーーーっ！！！」
+Touko: "MokYYYYYYYYYY!!!"
+//PCP CCC3004
+//This has 3 exclamation marks, CCC3004 has two. This is so in every version. -GHSoOCD
+TP
+//怒り出した。いつものことである。
+And she fired into a rage. It's like always.
+TP
+
+WVP 2 seDOOR 1 0
+
+GL 0 BGCC0008
+GS 0 1
+GS 1 0
+SEF 109 0
+
+//授業が始まるまで、俺は廊下に避難した。
+I took shelter in the corridor until the beginning of classes.
+//Notice how the progress is nearly identical to how it normally is: leave home (here what looks like the Training Camp, complete with Imouto/Prez), school, annoy Touko, corridor, Tomoki (and Sakuraba), corridor again (though Kiri instead of Miki), rooftop. -GHS
+TP
+
+TS 2
+GS 0 0
+SEF 109 0
+WVP 2 seBELL 1 0
+WT 1500 0
+
+TS 3
+GL 0 BGCC0009
+GS 0 1
+SEF 109 0
+
+//昼休み。
+Lunch break.
+TP
+//友貴と桜庭。食事をしている。
+Tomoki and Sakuraba. They were eating in the cafeteria.
+//Yes, hmmm, it needs to be subtly OFF to better BE this SCAMOTIGRIPHICATIONING of NORMALCY hum, yes, yes, yes, hum! -GHSoArtistic
+TP
+//俺は仲間に加わる。
+I add myself to their Nakama.
+TP
+//太一「よう」
+Taichi: "Yoh."
+TP
+
+GL 1 TCSH0003
+GL 2 TCST0004
+GP 1 20 0
+GP 2 340 0
+GS 1 1
+GS 2 1
+SEF 109 0
+
+WVP 0 vzzztof_YKI0_0308
+//友貴「友情は見返りを」
+Tomoki: Friendship demands..."
+//CP CCB2006
+TP
+WVP 0 vmCCC0031csku007
+//桜庭「求めない」
+Sakuraba: "Nothing in return."
+//CP CCC0031C
+//Mercifully, these are the only lines of Sakuraba's in Another Story, and they already exist in the VN, so there's no need to insert the ones from the terrible terrible new VA. They're only slightly different in their delivery (and it's terrible in both cases). It's almost a small mercy I can't access the data and can't port After Story. -GHS
+TP
+//太一「昨日のテレビ見たか？」
+Taichi: "Did you all watch TV last night?"
+//PCP CCA0013
+//Yes, similar line to the one he uses with Touko there. -GHS
+TP
+
+GL 1 TCSH0001
+GL 2 TCST0006
+GS 1 1
+GS 2 1
+SEF 100 0
+
+WVP 0 vzzztof_YKI0_0309
+//友貴「友情は見返りを」
+Tomoki: Friendship demands..."
+//CP CCB2006
+//Writing male dialog sucks, so there it is, all of it. -GHS
+TP
+WVP 0 vmCCC0031csku007
+//桜庭「求めない」
+Sakuraba: "Nothing in return."
+//CP CCC0031C
+TP
+//太一「ははは、そうかそうか」
+Taichi: "Hahahah, that's right, that's so right."
+TP
+//太一「あとニュースサイト巡回してたらさー―」
+Taichi: "And then I went around the news sites-"
+//Odd. That's not two dashes; that's a vowel elongation and then a dash. See CCE0001? Maybe a typo, but it's like this in the 360 version too. -GHS
+TP
+
+GL 1 TCSH0003
+GL 2 TCST0004
+GS 1 1
+GS 2 1
+SEF 100 0
+
+WVP 0 vzzztof_YKI0_0310
+//友貴「友情は見返りを」
+Tomoki: Friendship demands..."
+//CP CCB2006
+TP
+WVP 0 vmCCC0031csku007
+//桜庭「求めない」
+Sakuraba: "Nothing in return."
+//CP CCC0031C
+TP
+//太一「で、とうとうメジャーデビューってわけだ」
+Taichi: "And, this is the Major Debut at last!"
+//See CCC0031B -GHS
+TP
+
+GL 1 TCSH0000
+GL 2 TCST0000
+GS 1 1
+GS 2 1
+SEF 100 0
+
+WVP 0 vzzztof_YKI0_0311
+//友貴「友情は見返りを」
+Tomoki: Friendship demands..."
+//CP CCB2006
+TP
+WVP 0 vmCCC0031csku007
+//桜庭「求めない」
+Sakuraba: "Nothing in return."
+//CP CCC0031C
+TP
+//楽しく会話した。
+We had a fun conversation.
+TP
+//悪友には違いないが、二人ともイイ奴だ。
+These guys are partners in crime, no mistake there, but both are good guys.
+TP
+//物語には参加してこないが、同性の友人代表という役目を嫌な顔一つせずに担ってくれる、得難い友だった。
+These are difficult friends to obtain, who don't participate to the story, but carry on their back the role of Male Friend Representatives without ever making one nasty face.
+//This only applies to average VNs, of course, not here where Sakuraba is more important than anyone except probably Taichi, and even then it's only probably. -GHS
+TP
+
+WVS 2 0
+GL 0 BGCC0008
+GL 1 TCSK0000
+GP 1 220 0
+GS 0 1
+GS 1 1
+GS 2 0
+SEF 109 0
+
+//霧を廊下で見つけた。
+I found Kiri in the corridor.
+//This was the same as CCC0011C, not anymore. -GHS
+TP
+//俺のことを慕っている下級生だ。
+She's an underclassman who really idolizes me.
+TP
+//太一「霧ー！」
+Taichi: "Kiriii!"
+//Not Kiri-chin... -GHS
+TP
+
+GL 1 TCSK0006
+GI 1 0
+
+//呼びかけると、霧は笑顔で駆け寄ってきた。
+Called out to, Kiri rushed over with a smile.
+//The 360 version has below-the-knee dolls, like the earlier Deus Ex Chaos P-Mate trial, which work better to give a three-stage distance to character in 16:9 screen size, although they look sorta like crap in 4:3. Unfortunately, I don't have access to the data and can't correctly recreate the effect of Kiri actually coming in closer. -GHS
+TP
+WVP 0 vzzztof_KRI0_0621
+//霧「先輩」
+Kiri: "Senpai."
+TP
+//太一「メシは？」
+Taichi: "Lunch?"
+TP
+
+GL 1 TCSK0000
+GI 1 0
+
+WVP 0 vzzztof_KRI0_0622
+//霧「食べました」
+Kiri: "Ate it."
+TP
+//太一「お弁当なんだよな、霧は。いいよなぁ」
+Taichi: "You have a bento haven't you, Kiri. Sooo nice..."
+//See CCC0031B and CCD3003B, she can cook it seems. -GHS
+TP
+
+WVP 0 vzzztof_KRI0_0623
+//霧「先輩は学食ですか？」
+Kiri: "You ate in the cafeteria, Senpai?"
+TP
+//太一「そうなんだ、学食でさ。さすがにそろそろ飽きてきた」
+Taichi: "That's right, in the cafeteria. And yeah, I just about got sick of it."
+TP
+WVP 0 vzzztof_KRI0_0624
+//霧「だったら･･････わたしがお作りしましょうか？」
+Kiri: "Therefore... how about I make some lunch for you?"
+TP
+†††††††††††††††††††
+//†x19 (9-1=8?) -GHS
+TP
+
+//太一「いやあ、そんなの悪いしさ」
+Taichi: "Naaah, no need to go that far."
+TP
+
+GL 1 TCSK0004
+GI 1 0
+
+WVP 0 vzzztof_KRI0_0625
+//霧「そうですかぁ？」
+Kiri: "Are you sure?"
+TP
+//太一「でもたまにはいいかな……霧の手料理も食べてみたいし」
+Taichi: "But once in while'd be nice... I wanna try eating your handmade food, Kiri!"
+//Him eating with her can only happen in the Miki route, or if having looped the Kiri route at least once. -GHS
+TP
+
+GL 1 TCSK0006
+GI 1 0
+
+WVP 0 vzzztof_KRI0_0626
+//霧「あはっ♪」
+Kiri: "Ahah!♪"
+TP
+//そう喜ばれると、こっちまで嬉しくなってくる。
+She's so delighted that she'll make even me become happy.
+//Still subtly off. -GHS
+TP
+
+GL 1 TCSK0000
+GI 1 0
+
+WVP 0 vzzztof_KRI0_0627
+//霧「じゃあ今度、作ってきますから」
+Kiri: "Then, next time I will be making some."
+TP
+//太一「ああ、楽しみにしてるよ」
+Taichi: "Yeah, I'll be looking forwards to it!"
+TP
+//太一「お礼に……そうだな……ゲーセンで取ったこの人形をやろう」
+Taichi: "And in thanks... right, yes... I'll give you this doll that I won at the arcade."
+//FACT: UFO Catchers are responsible for the disappearance of most of the cows in Japan, forcing them on their rice-and-imouto-tentacle-rape economy. -GHS
+TP
+
+GL 1 TCSK0006
+GI 1 0
+
+WVP 0 vzzztof_KRI0_0628
+//霧「わあ、ありがとうございます」
+Kiri: "Wah, thank you very much!"
+//And that's why she has it, not because of CCC3004. Even though she dies here, but it's no big deal; if Taichi is a witch, then she has a simple out of being killed by him. -GHS
+TP
+
+GL 1 TCSK0000
+GI 1 0
+
+WVP 0 vzzztof_KRI0_0629
+//霧「これ何の人形ですか？」
+Kiri: "What is this doll from?"
+TP
+//太一「さあ……何の人形だろうな。アニメか何かか？」
+Taichi: "Dunno... it's some doll. Something from an anime maybe?"
+//Taichi Goods. -GHS
+TP
+
+WVP 0 vzzztof_KRI0_0630
+//霧「わかりません……」
+Kiri: "...I do not know."
+//PCP CCC3029 (though it doesn't make sense in this context...) -GHS
+TP
+WVP 0 vzzztof_KRI0_0631
+//霧「でも先輩に似てるかも……ほら」
+Kiri: "But it resembles you a bit, Senpai... look!"
+TP
+//太一「俺に似てる？　そうかぁ？　だいたい俺、髪の毛白くないぞ」
+Taichi: "It looks like me? It does? But for starters, my hair isn't white at all!"
+//This is the ultimate in hair trolls. If he doesn't have white hair in Gunjou, then either he didn't have it from the start, meaning he's unlikely to have been picked as a Living Doll, or he didn't lose the pigment in the Massacre, meaning it didn't happen. And then he would have no reason to be broken the way he is, although there's always the Original Sin and all that. In short, he's replaying the updated CCA0022A. This is not a different Taichi in the obvious sense. -GHS
+TP
+
+WVP 0 vzzztof_KRI0_0632
+//霧「それもそうですね」
+Kiri: "Yes, that is true, but still."
+//uhmmm what's a hair troll -GHS
+TP
+
+GL 1 TCSK0006
+GI 1 0
+
+//霧は人形を抱きしめて、にっこり笑った。
+Kiri held the doll tight, and smiled brightly.
+TP
+
+WVP 0 vzzztof_KRI0_0633
+//霧「ありがとう先輩、宝物にします」
+Kiri: "Thank you, Senpai, I will treasure this!"
+TP
+
+†††††††††
+//†x9 this and the last make 28 7x4 -GHS
+TP
+//太一「いや、そんなたいしたものじゃないし……そこまで喜ばれるとこっちが困るよ」
+Taichi: "Nah, it's not like it's so important... you act that please, I'll get embarrassed!"
+TP
+WVP 0 vzzztof_KRI0_0634
+//霧「ごろごろ」
+Kiri: "Purr, purr."
+//PCP CCB2005
+//The tsunderes have been mate-ing again... -GHS
+TP
+//人形にほおずりする霧。
+And Kiri goes to rub her cheek on the doll's.
+TP
+//太一「あはは……」
+Taichi: "Ahahah..."
+TP
+//気が抜けた。
+I felt spent.
+//Hmmm, see CCE0001. -GHS
+TP
+
+GS 0 0
+GS 1 0
+SEF 109 0
+
+†
+//†x1 -GHS
+TP
+
+WVP 2 se044 1 0
+GL 0 zzzASrooftopNoA
+//360 exclusive again! -GHS
+GS 0 1
+SEF 109 0
+
+
+
+//放課後、屋上に来た。
+After school, I came to the rooftop.
+TP
+
+GL 1 TCHY0000
+GP 1 180 0
+GI 1 1
+
+//曜子姉がいる。彼女は俺の……姉みたいな人だ。
+Youko-nee is there. She's a... big sister-like person to me.
+//This scene, even in the "real" version, implies Youko is not a misanthrope. But more oddly, Taichi seems to see HER as a Big Sis, instead of Misato in the real (?) story. As said above, it's technically true. -GHS
+TP
+††††††††††††††††††††††
+//†x22 -GHS
+TP
+
+//近所に住んでいる。成績優秀、運動神経抜群。
+She lives near me. Brilliant academic results, preeminent motor skills.
+//First part's like Yusa, more Misato->Youko substitution. In fact, since she lives far enough from Taichi that Sakuraba would also be his neighbor, she might live in Yusa's house in the first place in this delusion. See CCA0007 for brilliant academic results, motor skills are Nanaka's stuff. That 'preeminent' is read with the same 'flock' kanji as Gunjou and more. -GHS
+TP
+//俺のことを昔から可愛がってくれるが、最近ちょっと恥ずかしい。
+She has been treating me with teasing affection since long ago, and of late that's become a little embarrassing.
+//This modification makes this be literally true, since that "long ago" once more means the Mansion massacre. -GHS
+TP
+//彼女は放送部の部長だ。能力を考えれば、当然だろう。
+She's the Broadcast Club President. Considering her skills, that's natural.
+//See CCC0045A: in the course of fixing the apparent characterizational discrepancy, Taichi points out the troll. Curiously, despite it all, she's only ever seen taking over for Misato in CCD1001, and even then that's very suspect. -GHS
+TP
+//二年生の頃から、早々に部長の立場を引き継がれている。
+She had promptly taken over the President's role from when she was in Second Year.
+//Although it's not certain she was president back when Gunjou was first recruited, back in the earliest flashbacks in CCC1001/B, Misato has otherwise alway been the president. -GHS
+TP
+//お気楽な三年生の人たちはさっさと引退したがっていたし。
+Our carefree Third Years went to retire shortly afterwards.
+//See CCB0001. Still no clue who these people would be. Perhaps that's the point. -GHS
+TP
+
+WVP 0 vzzztof_YOU0_0143
+//Curiously, a take much more in line with normal Youko existed in the final files, labeled 0142. Unsure if it's used anywhere, it's not used here. -GHS
+//曜子「太一だ」
+Youko: "It's Taichi!"
+TP
+
+GL 1 TCHY0003
+GI 1 0
+
+//彼女は俺を見つけると、子犬みたいに駆け寄ってきた。
+On spotting me, the girl rushed over like a little puppy.
+//teh gurlz all fall to his feet and he's the sex god to them all. Same as Kiri above, the actual movement is missing due to missing doll. -GHS
+TP
+
+WVP 0 vzzztof_YOU0_0144
+//曜子「部活に来てくれたの？」
+Youko: "Did you come for Club?"
+TP
+//太一「んー、ちょっと様子見に」
+Taichi: "Hmmm, I sorta wanna see how's things."
+//Still pretty much the same he always does. -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vzzztof_YOU0_0145
+//曜子「そうなんだ」
+Youko: "I see."
+TP
+//複雑な表情。
+A complicated expression.
+//PCP CCA0020
+//Well, Yusa IS as Misato in many ways, ergo Miki for Youko(?). -GHS
+TP
+
+GL 1 TCHY0005
+GI 1 0
+
+WVP 0 vzzztof_YOU0_0146
+//曜子「太一、部員なのにな……本当は毎日来ないといけないのにな」
+Youko: "Taichi, but you're a club member... you just have to come by every day!"
+TP
+//太一「うっ……そんな泣きそうな顔をされても」
+Taichi"Uh!......even if you make such a cryful face"
+//Still way intentional. -GHS
+TP
+//成績優秀で運動神経抜群な彼女、以外にも泣き虫だ。
+This girl with brilliant academic results and preeminent motor skills is unexpectedly a crybaby.
+//See CCA0010. Literally true, see CCD5001. -GHS
+TP
+WVP 0 vzzztof_YOU0_0147
+//曜子「だって、手伝ってくれるって言ってたのに……」
+Youko: "After all... I did tell you to come help us..."
+TP
+//太一「手伝うって……言ったけどさ……あのときは、まだ……」
+Taichi: "Help, now... you did say that, but... that time, well..."
+TP
+
+//太一「美希も生きてたし……」
+Taichi: "Miki was still alive..."
+//Miki seems to have become as Yutaka here. Given Taichi will crucify her near the end, that seems the whole point. I wonder if this alternate route was caused by Taichi snapping when he's led to realize, perhaps subconsciously, that Miki was manipulating him and the others. And this despite all being part of his 98 Game, meaning he'd be taking things waaaay too seriously. This is what Rampancy is to him, perhaps. -GHS
+TP
+
+//曜子姉の表情が凍る。
+The expression on Youko-nee's face freezes.
+TP
+GS 0 0
+GS 1 0
+SEF 109 0
+GL 2 TCYM0003
+GP 2 180 0
+GI 2 1
+//No need to do transparencies? YAY! NOTE TO SELF: GS goes AFTER GL [is looking at a leftover doll of Tomoki with the caption "Yamanobe Miki"] -GHS
+
+//山辺美希。
+Yamanobe Miki.
+TP
+//俺の彼女だった。
+She was my girlfriend.
+//WHOA! 'Her' can mean girlfriend, but it was impossible, in the original, to tell this was the meaning. Indeed, Miki's different from the rest as it's the closest to being Taichi's potential wife, or at least, permanent playing partner. There's the problem of whether it wouldn't just end up like Taichi and Youko, though. -GHS
+TP
+//よくできた彼女。いつも弁当を作ってくれた。けど……
+She was a very capable girl. She always made me a lunch box, hand made. And yet...
+//Miki can only sort-of cook even after an unknown length of Unreset, see CCC0017. I have no idea why whoever did the script added that Miki voice line, it isn't in the text. This contradicts the Kiri scene above, but it's very likely intentional. -GHS
+TP
+//事故で死んだ。
+...she died in an accident.
+//Perhaps in the Rooftop accident, instead of Kiri, triggering this mess? See CCC4006. If so, the conflation with Yutaka (also fallen from the rooftop) would make sense: he'd totally want to torture Yutaka, still, ergo the crucifixion later. -GHS
+TP
+//あのときの記憶は、未だに俺を胸を突き刺すことがある。
+My memories of that time still pierce at my heart from time to time.
+//Well, he'll repay the debt later. -GHS
+TP
+
+GO 2 1
+
+GS 0 1
+GS 1 1
+SEF 109 0
+
+WVP 0 vzzztof_YOU0_0148
+//曜子「あの……その……ごめんなさい……」
+Youko: "Uhm... well... I'm sorry..."
+TP
+//泣かしてしまった。
+I ended up making her cry.
+TP
+//罪悪感。
+Feelings of guilt.
+TP
+//太一「あ、別に曜子ちゃんのことが嫌いってわけじゃないよ？」
+Taichi: "Ah, this doesn't really mean I hate you or anything, Youko-chan, OK?"
+//Odd he calls her Youko-chan even here. -GHS
+TP
+
+GL 1 TCHY0003
+GI 1 0
+
+WVP 0 vzzztof_YOU0_0149
+//曜子「本当に？」
+Youko: "Really?"
+//Stop making such smiles, you suching such of a suching such, or I'll such you a such and call you a such - and then such you. -GHS
+TP
+//周囲を見渡して人がいないことを確かめる。
+I make sure that there's no one looking over around us.
+//See CCA0015B... when it was Youko, as confirmed in CCD1001. -GHS
+TP
+//太一「もちろん。大好きだよ」
+Taichi: "Of course. I love you!"
+TP
+
+GL 1 TCHY0004
+GI 1 0
+
+//曜子姉の顔がパッと輝く。
+Bam, Youko-nee's face went glittering.
+//Hasekura Youko version/nearly expressionless -GHS
+TP
+WVP 0 vzzztof_YOU0_0150
+//曜子「じゃあ……だっこしてくれる？」
+Youko: "Then... could you carry me?"
+//See CCD1001, told you someone was watching. -GHS
+TP
+//はじまったか。
+And there it begins...
+TP
+//太一「うん。おいでよ」
+Taichi: "OK. C'mere!"
+TP
+
+GL 1 zzzYoukoZoom3
+GP 1 90 0
+GI 1 1
+
+//甘えだすと、精神年齢低下しちゃうんだよなあ。
+Spoil her a bit, and her mental age just up and deteriorates, doesn't it.
+//See Touko... although this likely applies to Youko as well. -GHS
+TP
+//人に見られなければ、構わないんだけど。
+But if no one's looking, I don't mind.
+TP
+
+TS 2
+GL 0 BGCC0000A
+GS 0 1
+GS 1 0
+SEF 109 0
+WT 700 0
+WVS 1 1
+GL 0 BGCC0000B
+GS 0 1
+SEF 109 1
+WT 300 0
+GL 0 BGCC0000C
+GS 0 1
+SEF 109 1
+WT 1200 0
+//Of course she gets him to do that alllll day long. -GHS
+
+
+WVP 1 bgm002.ogg 0 0 0
+TS 3
+GL 0 BGCC0004A
+GS 0 1
+SEF 109 0
+//It's subtle, but there's a version of this BG with lights off (natural daylight only) and lights on (night, now). Power exists here. Of course, the whole thing's just his chuuni game. -GHS
+
+//はあ、疲れた。
+Sigh, so tired.
+TP
+//うちには両親はいない。
+Neither of my parents are at home.
+TP
+†††††††††††††††††
+//†x17 -GHS
+TP
+//両親とも外国に働ている。
+Both of them are working out of country.
+//Typical moege scenario. Interesting how Youko's father (that may or may not be Taichi's) is studying in a foreign country. -GHS
+TP
+†††††††††††††††††††
+//†x19 I have nothing out of the last few. -GHS
+TP
+//それでみみみは俺の保護者のように振舞っているわけだ。
+And because of that, Mimimi's been acting like she was my guardian.
+//Misato indeed does, and in many ways is closer to her guardian than Youko. -GHS
+TP
+//太一「けど……俺が守ってやらないとな……」
+Taichi: "But... if I didn't protect her..."
+TP
+†††††††††††††††††††††
+//†x21 7x3 -GHS
+TP
+//あいつが幸せになるまでは。
+Until she has found happiness,
+TP
+//いつか好きな男ができるまでは……。
+until some day when she's found a guy she likes...
+TP
+
+WVP 2 seHRT 1 0
+//This SFX sounds sorta creepy... -GHS
+
+//ドキン！
+Ba-dump!
+TP
+//太一「あれ？」
+Taichi: "Eh?"
+TP
+//なんだ？　この胸の痛みは？
+The hell? What's this pain in the heart?
+TP
+//俺……あいつのこと……？
+You mean, I... she, I...?
+TP
+††††††††††††††††††††††††††††
+//†x28 7x4 -GHS
+TP
+//太一「ええい、考えるのはやめだやめだ！」
+Taichi: "Hey! Thinking stops here, it stops!"
+TP
+//太一「寝ちまえ！」
+Taichi: "Get sleeping!"
+TP
+
+WVS 1 1
+GS 0 0
+SEF 109 0
+
+//……。
+...
+TP
+//…………。
+......
+TP
+//……………………。
+............
+//Have I mentioned how much I love the big fat period at the end of the sequences of ellipsis (nee "leader")? It just reads so wonderfully Engrish even if it technically isn't. -GHS
+TP
+TS 2
+GL 0 BGCC0000E
+GS 0 1
+SEF 109 4
+TS 3
+GL 0 BGCC0000A
+GS 0 1
+SEF 109 0
+//This part seems to be a dream. I'd say which, but I actually forgot what 'this' referred to between edits. -GHSoHelpful
+
+WVP 1 bgm003.ogg 0 0 0
+
+
+//紆余曲折あって、俺たちは仲直りした。
+With twists and with turns we had reconciled.
+//"There was more but it's boring so let's just CTRL to the end." -GHS
+TP
+//そしてアンテナを建てはじめた。
+And then we began erecting the antenna.
+TP
+//俺たちの思いを、友情を、電波に乗せて世界にまき散らすために。
+For the sake of letting these memories of ours, this friendship of ours, ride the electromagnetic waves of Denpa and scatter out into the world.
+//For SYMBOLISM!!!, but also see CCX0001 - the third flow may well be Denpa. Also, "otherwise we will be scattered over the face of the whole earth" Gen 11:4 -GHS
+TP
+//それは、素晴らしいことだった。
+That... was a splendid thing.
+TP
+
+
+//先輩───
+Senpai---
+TP
+
+//冬子───
+Touko---
+TP
+
+//霧───
+Kiri---
+TP
+
+//桜庭───
+Sakuraba---
+TP
+
+//友貴───
+Tomoki---
+TP
+
+//さあ、みんなの力で、やろう。
+Well then, with all of your strengths, we can do this!
+TP
+
+GL 0 zzzASrooftopTarp
+GS 0 1
+SEF 109 0
+//And another 360 exclusive. I'm SO glad I spent an hour compositing an ugly video screenshot on the 800x600 CG only to hit a 360 graphics file reconverter like two weeks before putting this out completely at random. I google for something like that at least five times dammit! And I still can't use the resulting doll files :-( -GHS
+
+//そして塔が建った。
+And then we erected a tower.
+//He does use a different term (tate) than usual (kumitateru). This is because he's going to build one from scratch, not assembling it. And now the term used is the same used in the Japanese Bible for the Tower of Babel, which I'm sure given this difference is a total coincidence... -GHS
+TP
+//俺たちの部活の象徴である……タワー。
+A tower... the symbol of our Club Activities.
+//See CCC4009. Bet someone thought the tower wasn't a dick. -GHS
+TP
+//今はシーツがかぶせられている。
+Right now, it's covered with a sheet.
+TP
+
+
+//そこにエイリアンが急襲してきた。
+And there, an a-l-i-e-n stormed in.
+//See CCC3012B. Oh, it's Alien Storm now? That one was fun. -GHS
+TP
+//俺はカラデで戦った。
+I fought it with Karade.
+TP
+//上下左右のスキテキシュと攻防を繰り広げた。
+Offense and defense developed with this Worthy Rival both vertically and horizontally.
+//See CCC3002, that term was used for Kiri and Taichi. See CCB0005: "The foundation of Karade includes offensive strikes for every direction [...] Similarly, in Karade there exist techniques to control directly above and directly below that could never be conjectured in ordinary martial arts". -GHS
+TP
+
+
+//そしてついにはエイリアンとも友情で結ばれた。
+And then, at last, I was united in friendship with the alien as well.
+//Developments too fast! Term used also reminds of 'marriage'. Appropriate, since it's Miki. -GHS
+TP
+//友情すげえ。不可能はないのか？
+Friendship's awesome! Is there anything it can't do?
+//fucking shonen shit -GHS
+TP
+//エイリアンは美希でもあった。量子力学的にそうだった。
+The alien was also Miki. Quantum Mechanically so.
+TP
+//だけどエイリアンは敵だ。悲しいことだ。
+However, aliens are Enemy. That's so sad.
+//See CCB0018. -GHS
+TP
+//だから殺すか殺されるかなのだった。
+Therefore, it was a thing of kill or be killed.
+TP
+//…………………。
+............
+TP
+
+GL 0 BGCC0000A
+GS 0 1
+SEF 109 0
+
+//さらに時は流れ、アンテナは成仏した。
+With the further flowing of time, the antenna achieved its highest purpose.
+//It's an odd "to attain" that's used in the sense of "entering Nirvana", as in, to attain the kind of peace that's wished to the dead. It's less odd when considering it's the Tower of Babel. -GHS
+TP
+//だけど俺は諦めない。戦い続ける。
+However, I will not surrender. I will continue the fight.
+TP
+
+//夢にまで見た、他愛ない部活動。
+Until I have that dream, about silly innocent club activities,
+//PCP CCA0030
+TP
+
+
+//普通のガクセーらしい日常。
+about an ordinary life as if ordinary students.
+//PCP CCA0030
+//Even in absolute madness he doesn't stop, as it's been said about the diaries. -GHS
+TP
+
+//人としての思い出。
+Memories of being as a person.
+TP
+
+
+//そして戦いは。
+And so the fight,
+//See CCA0029. Still looking for that wholesomeness. -GHS
+TP
+
+
+//続く―――
+continues---
+TP
+
+WVS 1 1
+TS 2
+GS 0 0
+SEF 109 0
+WT 1800 0
+
+//Wake up. -GHS
+TS 3
+GL 0 BGCC0001
+GS 0 1
+SEF 109 2
+
+//目が覚めた。だが、からだが動かない。
+I was awake. Yet, the body wouldn't move.
+TP
+//せっかくだから俺は二度寝するぜ。
+Been so hard now, so I'm gonna go back to sleep!
+TP
+//そして回想シーンに入ることにした。
+And then I ended to dive into a Recollection Scene.
+//Kaisou, precise exact term used for the sex scene review, you'll see it in scripts with sex scenes. His dreams are flashbacks, of course. But which is the truth and which is the fake... well in this case the answer is both, so it's not that complicated. -GHS
+TP
+
+WVS 1 1
+GS 0 0
+SEF 109 3
+//……。
+...
+TP
+//…………。
+......
+TP
+//……………………。
+............
+TP
+
+
+//Back to dream? It's more obvious that the 'evil' parts are just him hallucinating, not the other way around. -GHS
+TS 2
+GL 0 BGCC0000E
+GS 0 1
+SEF 109 4
+TS 3
+GL 0 BGCC0001
+GS 0 1
+SEF 109 0
+
+
+//俺はそこに立っていた。
+I was standing there.
+TP
+
+WVP 1 bgm014.ogg 0 0 0
+
+GL 1 TCMM0005
+GP 1 225 0
+GI 1 1
+
+
+//目の前に、見里先輩がいる。
+In front of my eyes was Misato-senpai.
+TP
+//見里先輩は『みみ』であり『みみみ』であり『美々美』である。
+Misato-senpai was Mimi, Mimimi, and Beauty kanji repetition beauty.
+//Due to Insaininess. -GHS
+TP
+//これ以前の記憶は判然としない。
+My memories of before this are indefinite.
+//Those are memories of the Training Camp, see below. -GHS
+TP
+//すでにモードが違ってしまっている。
+My Mode is already very much wrong,
+//Specific term, which makes even more sense considering it originally was part of the Miki route: Taichi doesn't have a Murderous Maniac mode according to her. -GHS
+TP
+//だが自分がかなり自動的になっていることがわかる。
+however, I understand that I have become fairly automatic.
+//See CCA0016: he won't do anything to Misato. -GHS
+TP
+//今まで積み重ねてきた知識と経験で、俺は擬態している。
+I am camouflaging, using the knowledge and the experience accumulated until now.
+//He is camouflaging himself with the experience he's gathered from Japanese pop art, anime and VNs especially. Indeed, but the camouflage is his murderous self! What a spoiler. -GHS
+TP
+//太一「……」
+Taichi: "..."
+TP
+
+GL 1 TCMM0004
+GI 1 0
+
+WVP 0 vzzztof_MSA0_0923
+//見里「ど、どうしたんです……いったい……わたしに何の用が……？」
+Misato: "Wh-, what is it... what could... you possibly need from me...?"
+TP
+//息切れしている。それにひどく緊張しているようだ。
+Panting, short breath. Furthermore, she seems to be horribly tense.
+TP
+//そりゃそうだ。追いかけっこをしたんだから。
+Right, 'course. It's because I've been playing tag chase with her.
+//See CCC0011C, and below. This is nonsense. Misato the drunkard being chased by Taichi all the way up the hokora? She'd die halfway through. -GHS
+TP
+//とうとう、追いつめた。
+And at last, I cornered her.
+//This is compatible with how Taichi describes the way Misato must've felt after the failed training camp he pushed her into. This is simply the same thing made literal. He's hallucinating that he's done all this literally; Another Story is the story of the training camp. -GHS
+TP
+//鬼交替のチャンス。
+A demon of a chance to change who is It.
+//Although not the identical term, the one Taichi uses above is nearly the same double meaning for "playing tag" and "chase" he uses against Kiri in CCC0011C. The 鬼 demon here is the It in the game of tag; tag itself is most often found as 'onigokko', lit. "playing demon", which is where it comes from. Of course, this is also meant literally, so this works... or given it's typical of Taichi to hide the most innocuous of things in the most apparently hideous of monstrosities (and NOT viceversa), is it really? -GHS
+TP
+
+GP 1 210 15
+GI 1 0
+GP 1 225 30
+GI 1 0
+GP 1 240 15
+GI 1 0
+GP 1 225 0
+GI 1 0
+//Not zooming in on this, it looks like crap. I wonder if the 360 edition has larger doll data files for this stuff, even recorded through mediocre equipment it looks way better than here. -GHS
+
+
+
+//俺が寄っていくと、ビクッと震えた。
+I approach, and she shakes with a start.
+TP
+
+GL 1 TCMM0005
+GI 1 0
+
+WVP 0 vzzztof_MSA0_0924
+//見里「こ、来ないで……お話すればね……ね？　ぺけくん……落ち着いて……」
+Misato: "S-, stay away... let us talk, OK... OK? Peke-kun... calm down..."
+TP
+
+WVP 2 seQUIP 1 0
+
+//気がつくと俺はナイフを『そうび』していた。
+And when I noticed, I had a knife 『equipped』.
+//RPG terms. He just switched from VNs to RPGs, so blatant! See CCX0001. -GHS
+TP
+
+//なんて魅力的なんだ先輩。
+Why are you so demonically attractive, my Senpai.
+//My my, is that another Higurashi reference I spot? 魅 is the first kanji in Mion's name, and the whole point of her name is that it has the kanji for Demon in it. It'd fit in the It/Demon pun above, as well as be further hints that the Mion/Shion confusion applies here. ToF is the Higurashi-est that Cross Channel gets, and as I'm fairly sure that Ryukishi got more than a few hints as to the meaning of Channel, I suspect Tanaka also had a hint or three about planned Higurashi event. -GHS
+TP
+
+
+//太一「……ハハッ」
+Taichi: "...hah hah!"
+//CP above
+TP
+
+TS 2
+GS 0 0
+GS 1 0
+SEF 10 0
+
+WVP 2 seSTAB 1 0
+WT 1000 0
+WVP 2 seFALL 1 0
+
+WT 1800 0
+
+
+WVP 3 seBIKE 0 0
+TS 3
+GL 0 BGCC0005
+GS 0 1
+SEF 109 0
+
+
+//デス見里「……………………」
+Dethmisato: "............"
+//These were changed to be a proper sister to Dethomoki, see CCC4025. Hey, still from the same route! But let's keep thinking that this is supposed to be a completely different world; that's totally not a troll. -GHS
+TP
+
+//先輩を後部座席にくくりつけて、自転車をこぐ。
+With Senpai tied to the back seat, I pedal the bike.
+//What's he doing with a bike all the way up there near the hokora? Ah, right, he's on the opposite side of town. Same question. How'd Misato manage to run even more than Kiri in the guesswhatroute? -GHS
+TP
+//学校に向かう。
+I head to the school.
+TP
+//あ、この場面、既視感。
+Ah, this scene setting... it gives me paramnesia.
+//See CCC3008. Told you it's his medical condition. Now begins him repeating the same stuff regardless of the situation, which is a typical behavior more or less of everyone in the cast. See CCC0045A for more, this may be inherited from his mother. How much repetition was there in those first days, maybe months, of his life? -GHS
+TP
+//そうだ、義理の妹との通学シーンだ。
+Right, that scene where I go to school with my Imouto-in-law.
+TP
+//朝起こしに来て、軽口を叩いて、朝食を作ってくれて、ほれぼれするタイミングで自転車の後部座席に乗ってくるのだ、義理の妹というやつは。
+That is, my Imouto-in-law that wakes me up in the morning, and cracks jokes at me, and makes me breakfast, and with charmful timing rides on the backseat of the bicycle.
+//...meaning she comes around too late? Maybe it's the boobs. Sorry: I mean to say, OF COURSE it's the boobs. -GHS
+TP
+//デス見里「……………………」
+Dethmisato: "............"
+TP
+//ノイズのないクリアな記憶。
+Recollections that are Clear and devoid of Noise.
+//Intentionally odd. -GHS
+TP
+//太一「そうか？」
+Taichi: "It has?"
+//CP above
+//I actually went and wondered why Tanaka didn't make these sentences match the new dialog anyway, but then I realized: this is the beginning of the languages of the Earth becoming confused. Taichi can already no longer understand what other people are saying. This will become literal with Miki. -GHS
+TP
+//太一「なんか……結構弾力が……」
+Taichi: "Really... so much elasticity, it's..."
+//CP above
+TP
+//デス見里「……」
+Dethmisato: "..."
+TP
+//太一「胸が……その……」
+Taichi: "Breasts... well..."
+//CP above
+TP
+//デス見里「……………………」
+Dethmisato: "............"
+TP
+WVP 2 seSPLAT 1 0
+//ごちん
+Thunk!
+//CP above
+SEF 101 0
+TP
+//脇に垂れた先輩の頭部が、電信柱を叩いた。
+Senpai's head, hanging off the flank, smacked into a telephone pole.
+//SYMBOLISM!!! Also what a coincidence... -GHS
+TP
+//そのペインはダイレクトに俺に伝わってきた。
+That Payn was transmitted to me in a Direct way.
+//Still intentionally odd. -GHS
+TP
+//太一「あたっ」
+Taichi: "Awch!"
+//CP above
+TP
+//太一「冗談は抜きにして、別に毎日乗せていってもいいんだぞ？」
+Taichi: "All jokes aside, I don't really mind giving you a ride every day, you know?"
+//CP above
+TP
+//太一「だいたいおまえが、毎朝一人でさっさと出て行くんじゃないか」
+Taichi: "Besides, don't you just go out every morning but quick and all alone?"
+//This wasn't above. -GHS
+TP
+//デス見里「……………………」
+Dethmisato: "............"
+TP
+//デス見里「……………………」
+Dethmisato: "............"
+//Notice the lack of "and all that." No (snip) needed here. -GHS
+TP
+//太一「あの人って……冬子か？」
+Taichi: "That person... Touko?"
+//CP above
+TP
+//デス見里「……」
+Dethmisato: "............"
+TP
+//太一「おいおい、俺と冬子はなんでもないって。変な勘ぐりはよせよ」
+Taichi: "Come on now, I told you me and Touko are like whatever. Stop with these weird suspicions already."
+//CP above
+TP
+//デス見里「……………………」
+Dethmisato: "............"
+TP
+//太一「そうだよ」
+Taichi: "We are."
+//PCP above
+TP
+//太一「だいたいあんなヒステリー、俺の好みじゃないっての」
+Taichi: "The point is, I said, that hysteric isn't the kind of girl I like."
+//PCP above
+//The repeat is not quite precise.
+TP
+//デス見里「……………………」
+Dethmisato: "............"
+TP
+//太一「マジか？」
+Taichi: "You serious?!"
+//CP above
+TP
+//デス見里「……………………」
+Dethmisato: "............"
+TP
+//太一「だ、だって俺、一度も告白されたことないぞ？」
+Taichi: "B-, but I've never had anyone confess to me, not once!"
+//CP above
+TP
+//デス見里「……………………」
+Dethmisato: "............"
+TP
+//太一「たくさんのおにゃのこが俺を巡って牽制っ！？」
+Taichi: "Lots of gyarls are keeping in restraint... about me?!"
+//CP above
+TP
+//デス見里「……………………」
+Dethmisato: "............"
+TP
+//太一「うーむ。どうも信じられないな」
+Taichi: "Yu-up. I just can't believe that."
+//CP above
+TP
+//デス見里「……………………」
+Dethmisato: "............"
+TP
+//太一「え？　なんだって？　聞こえないよ」
+Taichi: "Eh? Whatd'ja say? I can't hear you!"
+//CP above
+TP
+//デス見里「……………………」
+Dethmisato: "............"
+TP
+//太一「いてっ！　いてーよ！」
+Taichi: "Owww! That huuurts!"
+//CP above
+TP
+//デス見里「……………………」
+Dethmisato: "............"
+TP
+
+WVS 3 1
+
+TS 2
+GS 0 0
+SEF 109 0
+
+WT 1800 0
+
+//No door slide here. -GHS
+TS 3
+GL 0 BGCC0006
+GS 0 1
+SEF 109 0
+
+
+//学校。
+School.
+TP
+
+
+GL 1 TCKT0004
+GP 1 230 0
+GI 1 1
+
+//冬子。
+Touko.
+TP
+
+
+//太一「よっ」
+Taichi: "Yoh."
+//CP above
+TP
+
+WVP 0 vzzztof_FYU0_0408
+//冬子「太一……？　なに……その……血……？」
+Touko: "Taichi...? What... is that... blood...?"
+//See CCD0023. Is that error intentional? -GHS
+TP
+//太一「なんの話だよ。わけわかんねーぞ」
+Taichi: "What are you talking about now? I don't getcha!"
+//CP above
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vzzztof_FYU0_0409
+//冬子「何言ってるの？　その血……いったい……？」
+Touko: "What are you talking about? That's blood... what the devil...?"
+TP
+
+//太一「はああ？　んだそりゃ？」
+Taichi: "Huuuh? The hell's that?"
+//CP above
+TP
+//太一「確かに美々美は義理の妹だけど、兄妹だぞ？」
+Taichi: "Of course, Mimimi's just my sister-in-law, but we're siblings you know?"
+//CP above
+TP
+//太一「肉親のこと自転車に乗っけた程度で……っておまえ、どうして知ってるんだよ」
+Taichi: "Just helping someone you have a blood relation with getting on the bike isn't... wait, how do you even know that?!"
+//CP above
+TP
+
+GL 1 TCKT0004
+GI 1 0
+
+WVP 0 vzzztof_FYU0_0410
+//冬子「は？」
+Touko: "Huh?"
+TP
+//太一「自転車に乗せて通学してたの、どっかで見たのか？」
+Taichi: "So you saw us come to school in bicycle somehow?"
+//CP above
+TP
+//太一「けどおまえ俺よりはやく学校に来てたし……」
+Taichi: "But you come to school earlier than me..."
+//CP above
+//TL Note: this is how this VN should sound like to the typical person. 1 Cor 14:6-11 is the point. -GHS
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vzzztof_FYU0_0411
+//冬子「たい……ち？」
+Touko: "Tai... chi?"
+TP
+//太一「誰にだよ」
+Taichi: "From who!"
+//CP above
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vzzztof_FYU0_0412
+//冬子「ちょっと、嘘でしょ……しっかり、してよ」
+Touko: "Come on, you're kidding me... steadfast now!"
+//Dammit, it's Channelkakushi-hen scenario and I can't keep that "lie" literal. See CCD2002 for the point, CCX0001 for the first irony. -GHSob
+TP
+
+
+//太一「友達って、おまえいないとか言ってなかったか？　庶民とはつきあえないとか何とか？」
+Taichi: "A friend, now, didn't you say they didn't exist to you and stuff? You keeping company with the common folks now?"
+//CP above
+TP
+
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vzzztof_FYU0_0413
+//冬子「うわ、あぁ……」
+Touko: "Wah-, aaah..."
+TP
+//太一「なにがうきゅ、だ。ゲームのヒロインみたいなこと口走りやがって、気でも違ったか」
+Taichi: "What's 'ukyu' now. You're blurting out stuff like the heroine of a videogame now."
+//CP above
+TP
+
+WVP 2 seQUIP 1 0
+
+//ナイフを取り出す。
+Take out a knife.
+TP
+//太一「……おまえ、もしかして焼き餅焼いてるんじゃないか？」
+Taichi: "...you, you couldn't be burning in jealousy now?"
+//CP above
+TP
+
+GL 1 TCKT0004
+GI 1 0
+//Same, zoom's not happening. -GHS
+
+//近寄る。
+Approach.
+TP
+
+WVP 0 vzzztof_FYU0_0414
+//冬子「あ、やだ、いゃ…………っ！？」
+Touko: "Ah, don't, no......?!"
+//And Kirihara Touko just stands there terrified like a little girl, whether she can take him or not. That's so OOC it should come with a laugh track. -GHS
+TP
+
+TS 2
+GS 0 0
+GS 1 0
+SEF 10 0
+
+WVP 2 seSTAB 1 0
+WT 1000 0
+WVP 2 seFALL 1 0
+
+WT 1800 0
+
+TS 3
+GL 0 BGCC0009
+GL 1 TCSH0000
+GL 2 TCST0000
+GP 1 20 0
+GP 2 340 0
+GS 0 1
+GS 1 1
+GS 2 1
+SEF 109 0
+
+
+//友貴と桜庭。俺は二人の背後から近づく。
+Tomoki and Sakuraba. I approach from their back.
+//In a crowded cafeteria? No, in a deserted cafeteria? When are these two ever eating together??? Metaphorically, he'll backstab them. Well, literally-metaphorically-uhm you either get it or it doesn't get clearer, that's it. -GHS
+TP
+
+
+//太一「昨日のテレビ見たか？」
+Taichi: "Did you all watch TV last night?"
+//CP above
+TP
+
+//二人は何か口にしたようだった。
+The two seemed to be talking about something.
+//Words are not only incomprehensible, but male dialogue is just whatever. -GHS
+TP
+//太一「ははは、そうかそうか」
+Taichi: "Hahahah, that's right, that's so right."
+//CP above
+TP
+
+
+WVP 2 seSTAB 1 0
+
+GP 1 -5 15
+GI 1 0
+GP 1 20 30
+GI 1 0
+GP 1 35 15
+GI 1 0
+GP 1 20 0
+GI 1 0
+GO 1 1
+
+
+//桜庭を＊した。
+I ****ed Sakuraba.
+//Taichi approached from behind his friend Sakuraba, then thrust his big manly metal tool of foreign made inside of him. And then Sakuraba fell over, deaf. -GHS
+TP
+
+GL 2 TCST0001
+GI 2 0
+//see, HERE I totally agree they should be reacting to something that isn't their line. -GHS
+
+//太一「あとニュースサイト巡回してたらさー─」
+Taichi: "And then I went around the news sites-"
+//CP above
+TP
+//友貴がうめき声を漏らす。
+Tomoki let out a groaning voice.
+TP
+
+WVP 2 seSTAB 1 0
+
+GP 2 325 15
+GI 2 0
+GP 2 340 30
+GI 2 0
+GP 2 355 15
+GI 2 0
+GP 2 340 0
+GI 2 0
+GO 2 1
+
+
+//友貴を＊した。
+I ****ed Tomoki.
+//He just betrays him with his manga stuff and the like. Also, see CCD0022A: what is under that kanji isn't necessarily obvious. -GHS
+TP
+//太一「で、とうとうメジャーデビューってわけだ」
+Taichi: "And then I went around the news sites-"
+//CP above
+TP
+//デス桜庭「……」
+Dethsakuraba: "..."
+//Ohhh, triple. -GHS
+TP
+//デス友貴「……」
+Dethomoki: "..."
+//Aw, this one I already had. Trade with Dethyusa or Dethyouko! -GHS
+TP
+//楽しく会話した。
+We had a fun conversation.
+//CP above
+TP
+//悪友には違いないが、二人ともイイ奴だ。
+These guys are partners in crime, no mistake there, but both are good guys.
+//CP above
+TP
+
+TS 2
+GS 0 0
+SEF 10 0
+
+WT 1000 0
+
+TS 3
+GL 0 BGCC0008
+GL 1 TCSK0004
+GP 1 220 0
+GS 0 1
+GS 1 1
+GS 2 0
+SEF 109 0
+
+
+//霧がいた。
+Kiri was there.
+TP
+
+
+//太一「霧ー！」
+Taichi: "Kiriii!"
+//CP above
+TP
+
+GL 1 TCSK0003
+GI 1 0
+
+WVP 0 vzzztof_KRI0_0635
+//霧「……っ！」
+Kiri: "...!"
+TP
+
+
+WVP 2 SE035 1 0
+GO 1 1
+
+//呼びかけると、霧は逃げた。
+Called out to, Kiri ran away.
+//PCP above
+TP
+
+WVP 2 SE035 1 0
+
+//追いかける。
+Chase.
+//No 'tag' side meanings here. -GHS
+TP
+//太一「メシは？」
+Taichi: "Lunch?"
+//CP above
+TP
+WVP 0 vzzztof_KRI0_0636
+//霧「はっ、はっ……っ！」
+Kiri: "Hah, hah...!"
+//PCP CCC0011C
+//HINT HINT HINT THIS SCRIPT TAKES PLACE INSIDE THE MIKI ROUTE, NOT BEFORE THE STORY STARTS. -GHS
+TP
+//長い廊下を走る。
+We run in the long corridors.
+TP
+//太一「お弁当なんだよな、霧は。いいよなぁ」
+Taichi: "You have a bento haven't you, Kiri. Sooo nice..."
+//CP above
+TP
+WVP 0 vzzztof_KRI0_0637
+//霧「……来るなっ……来るなぁ！」
+Kiri: "...stay away... stay awaaay!"
+TP
+//太一「そうなんだ、学食でさ。さすがにそろそろ飽きてきた」
+Taichi: "That's right, in the cafeteria. And yeah, I just about got sick of it."
+//CP above
+TP
+//走る。走る。
+Run. Run.
+TP
+WVP 0 vzzztof_KRI0_0638
+//霧「はっ、はっ、はっ」
+Kiri: "Hah, hah, hah..."
+//PCP CCC0011C
+TP
+
+//どこか遠いところで警報が鳴っていた。
+Somewhere far away an alarm was ringing.
+//Nothing more than conjecture on this. The distant place should be the real world. Since she uses a fire extinguisher in this route, maybe she tripped a fire alarm. -GHS
+TP
+//太一「いやあ、そんなの悪いしさ……」
+Taichi: "Naaah, no need to go that far."
+//CP above
+TP
+WVP 0 vzzztof_KRI0_0639
+//霧「来るなっ……はっ、来る……っ」
+Kiri: "Stay away.... hah... stay...!"
+TP
+//太一「でもたまにはいいかな……霧の手料理も食べてみたいし」
+Taichi: "But once in while'd be nice... I wanna try eating your handmade food, Kiri!"
+//CP above
+TP
+WVP 0 vzzztof_KRI0_0640
+//霧「だ、誰かっ！」
+Kiri: "A-, anybody!"
+TP
+WVP 0 vzzztof_KRI0_0641
+//霧「殺されるっ、誰かっ！！」
+Kiri: "I'll be killed, anybody!!!"
+//But no one exists for her, that's one of her big plot points. It's telling she'd still call out. -GHS
+TP
+//太一「ああ、楽しみにしてるよ」
+Taichi: "Yeah, I'll be looking forwards to it!"
+//CP above
+TP
+//太一「お礼に……そうだな……ゲーセンで取ったこの人形をやろう」
+Taichi: "And in thanks... right, yes... I'll give you this doll that I won at the arcade."
+//CP above
+TP
+
+WVP 2 seQUIP 1 0
+WT 250 0
+WVP 3 seQUIP 1 0
+
+//ナイフを取り出す。二本だ。
+Take out knives. Two.
+//Why does he have two now? Because two knives is ni-hon *badum-tish*? And how is this related with the now-two flashbangs? (Probably isn't.) -GHS
+TP
+//両手にぶらさげて走る。
+Run while dangling them from both hands.
+TP
+
+WVP 0 vzzztof_KRI0_0642
+//霧「はっ……はっ、は、っ、はっ……」
+Kiri: "Hah... hah, ha-, hah, hah..."
+TP
+//追いかける。廊下を駆ける二人。
+Chase. Two people running in the corridors.
+//PCP above
+TP
+
+WVP 0 vzzztof_KRI0_0643
+//霧「はっ、ど、どうかしてるっ……」
+Kiri: "Hah, yo-, you're insane...!"
+//PCP CCC4010
+//And spin... -GHS
+TP
+//太一「さあ……何の人形だろうな。アニメか何かか？」
+Taichi: "Dunno... it's some doll. Something from an anime maybe?"
+//CP above
+TP
+WVP 0 vzzztof_KRI0_0644
+//霧「はっ、は……んっ……」
+Kiri: "Hah, ha... ngh...!"
+TP
+
+
+GI 1 0
+WVP 2 seFALL 1 0
+GP 1 205 15
+GI 1 0
+GP 1 220 30
+GI 1 0
+GP 1 235 15
+GI 1 0
+GP 1 220 0
+GI 1 0
+GO 1 1
+
+
+//蹴つまずく。
+She stumbles.
+//See CCC0011C yet once more. And once again I wonder if this timer girls have before they stumble when chased by monsters has a genetic cause, and why there have been no anime dedicated to researching this mysterious phenomenon. Schools need a Girls Tripping While Chased By Monsters Research Club! -GHS
+TP
+WVP 0 vzzztof_KRI0_0645
+//霧「ひゃっ！　あっ、ああ、はっ……」
+Kiri: "HyAH! Ah, aaah, hah..."
+TP
+
+//一気に距離が縮む。
+I shrink the distance in a single gulp.
+//PCP CCC0011C
+//And where's Nanaka/Youko/self restraint to keep him in check? Well, there's the Of This World thing, I guess, meaning this Taichi doesn't have a soul and is little more than a robot regardless. THIS is what it means for him not to be Taichi proper. -GHS
+TP
+//太一「俺に似てる？　そうかぁ？　だいたい俺、髪の毛白くないぞ」
+Taichi: "It looks like me? It does? But for starters, my hair isn't white at all!"
+//CP above
+TP
+
+WVP 0 vzzztof_KRI0_0646
+//霧「いや、いやぁぁっ」
+Kiri: "No, NO!"
+TP
+
+//This here zooms on the ground, or rather, scrolls the BG down to see more of the floor. Looks like crap in 4:3, leaving. -GHS
+
+//ZERO距離。
+Distance Z-E-R-O.
+//The 0 (circle) is gone; but zero has a nice big fat O, doesn't it. Nothing's changed, it's just gotten harder to see. -GHS
+TP
+//見下ろす。
+Look down,
+TP
+//両手にはナイフ。
+knives in both hands.
+TP
+WVP 0 vzzztof_KRI0_0647
+//霧「あは、ははは……はは……」
+Kiri: "Ahah, hahahah... hahah..."
+TP
+//俺も微笑む。
+I smile as well.
+TP
+//これなら、ナイフを使わずに済む。
+With this, I can end things without using the knives.
+TP
+
+//足首を掴んで、引き寄せる。
+I grab her ankle, and pull her to me.
+//Possibly to choke her like, yup, the Miki route. -GHS
+TP
+
+
+
+//霧は笑っている。
+Kiri is laughing.
+TP
+
+WVP 2 seNECK 1 0
+//俺はのしかかる。
+I lean forwards.
+TP
+
+//８４％───
+84%---
+//Conformity Coefficient, if someone forgot. -GHS
+TP
+
+WVP 2 seGLASS 1 0
+//どこかでガラスの割れる音がした。
+The sound of glass being cracked came from somewhere.
+//PCP CCC0101
+//asdfcxpiovjdoaih symbolgasm!!! -GHS
+TP
+
+
+//太一「いや、そんなたいしたものじゃないし……そこまで喜ばれるとこっちが困るよ」
+Taichi: "Nah, it's not like it's so important... you act that please, I'll get embarrassed!"
+//CP above
+TP
+//デス霧「…………」
+Dethkiri: "......"
+//We unfortunately never get Dethouko, Dethmiki or Dethyouko. -GHS
+TP
+//床に頬をくっつける霧。
+And Kiri goes to stick her cheek on the floor.
+//PCP above
+TP
+//ごろごろ。
+Purr, purr.
+//PCP above
+TP
+//太一「あはは……」
+Taichi: "Ahahah..."
+//CP above
+TP
+
+TS 2
+GS 0 0
+GS 1 0
+SEF 10 0
+
+WT 1000 0
+
+
+WVP 2 se044 1 0
+TS 3
+GL 0 zzzASrooftopNoA
+GL 1 TCHY0000
+GP 1 180 0
+GS 0 1
+GS 1 1
+SEF 109 0
+
+//放課後。屋上に来た。
+After school. I came to the rooftop.
+//PCP above
+TP
+//曜子ちゃんがいる。
+Youko-chan was there.
+TP
+WVP 0 vzzztof_YOU0_0151
+//曜子「太一……」
+Youko: "Taichi..."
+TP
+//太一「んー、ちょっと様子見に」
+Taichi: "Hmmm, I sorta wanna see how's things."
+//CP above
+TP
+WVP 0 vzzztof_YOU0_0152
+//曜子「……あなた…………」
+Youko: "...you......"
+TP
+//じっと俺を見つめている。
+She stares fixedly at me.
+TP
+
+GL 1 TCHY0001
+GI 1 0
+WVP 0 vzzztof_YOU0_0153
+//曜子「そう……もう戻れなくなったの」
+Youko: "Yes... you can't come back anymore."
+//Consider the new CCA0022A and this part becomes of fundamental importance: he's redoing here what he did there, but patterned over the failure of the camp. And he murders Youko as she, terrified of him, tells him he can't come back. Did she understand what she had done in those last few minutes? -GHS
+TP
+//太一「うっ……そんな泣きそうな顔をされても」
+Taichi"Uh!......even if you make such a cryful face"
+//CP above
+TP
+GL 1 TCHY0002
+GI 1 0
+WVP 0 vzzztof_YOU0_0154
+//曜子「あなたも長くない……人として生きる力さえ失って……死に引き寄せられるか、偶然に殺されるか」
+Youko: "You don't have long either... you lost even the strength to live as a person... will you be drawn to death, or will you be killed by coincidence?"
+//This is a very Nanaka thing to say. Notice that Youko here never uses "Taichi" as pronoun for him as she usually does, always "anata", which is uncharacteristic. Attracted to death is maybe what he does in the Kiri route, when he refuses to follow Kiri and doesn't have the Youko scene; considering Youko is the first killed by coincidence in Miki's route, that's a very odd thing to say for her. If she's been dead all along, these may be her last words. -GHS
+TP
+//太一「手伝うって……言ったけどさ……あのときは、まだ……」
+Taichi: "Help, now... you did say that, but... that time, well..."
+//CP above
+TP
+//太一「美希も生きてたし……」
+Taichi: "Miki was still alive..."
+//CP above
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+//曜子ちゃんの表情が凍る。
+The expression on Youko-chan's face freezes.
+//PCP above
+TP
+//太一「あ、別に曜子ちゃんのことが嫌いってわけじゃないよ？」
+Taichi: "Ah, this doesn't really mean I hate you or anything, Youko-chan, OK?"
+//CP above
+TP
+
+GL 1 TCHY0003
+GI 1 0
+
+WVP 0 vzzztof_YOU0_0155
+//曜子「本当に？」
+Youko: "Really?"
+//CP above
+//Imagine Taichi's just ranted insanely at her for having looked at him the way she did. And then she realized. And then he still tells her it's all right... -GHS
+TP
+//太一「もちろん。大好きだよ」
+Taichi: "Of course. I love you!"
+//CP above
+TP
+GL 1 TCHY0004
+GI 1 0
+WVP 0 vzzztof_YOU0_0156
+//曜子「なら……抱きしめて。優しくして」
+Youko: "If you do... then embrace me. Gently."
+//This still means to have sex & to hug. I don't remember if I've pointed it out, but since every third word in Japanese means something sexual, it's sort of a tired gag at this point. -GHS
+TP
+//太一「うん。おいでよ」
+Taichi: "OK. C'mere!"
+//CP above
+TP
+
+GL 1 zzzYoukoZoom3
+GP 1 90 0
+GI 1 1
+
+
+//彼女が寄ってくる。腕の中におさまる。
+She draws near. She settles inside my arms.
+TP
+
+GO 1 1
+
+//曜子ちゃんは声もなく泣く。
+Youko-chan cries while making no cry.
+//Koe mo naku naku. See CCD5001, same behavior. -GHS
+TP
+
+WVP 2 seNECK 1 0
+
+//強く、首をかき抱いた。
+I embraced her neck, with strength.
+TP
+
+GS 0 0
+SEF 10 0
+
+
+//……………………。
+............
+TP
+
+GL 0 BGCC0000A
+GS 0 1
+SEF 109 2
+
+//塔を建てよう。
+Let's erect a tower.
+TP
+//俺たちの塔を。
+Our tower.
+TP
+//天高く。
+That reaches the heavens.
+//Close, but not quite the same Biblical terms: 天に届かせよう. Still the same meaning, and so, here's a PCP from NIV. -GHS
+TP
+//愚かしく。
+Foolishly.
+TP
+//そうしたら……きっと寂しくない。
+If I do... I'm sure it won't be lonely.
+TP
+//一人でも、組み立ててみせる。
+I shall try to build it, even if alone.
+TP
+//そして世界中に呼びかける。
+And then, we shall be calling out to the whole Earth.
+//Same as above, similar meaning but not quite the same terms as Gen 11 (全地). Still using NIV. -GHS
+TP
+
+
+//そうすればきっと───
+And in so doing, certainly we---
+TP
+TS 2
+GS 0 0
+SEF 109 1
+WT 500 0
+TS 3
+GL 0 BGCC0014A
+GS 0 1
+SEF 109 0
+
+//帰宅途中、田崎による。
+En route back home, after visiting Tasaki.
+TP
+//作業ははかどった。
+Work has progressed.
+TP
+//まだ材料は少し足りないが、まず順調だ。
+The materials are still somewhat insufficient, but for now it's going well.
+TP
+//食料を仕入れる。ツケで買える
+I replenish my stock of food. I pay on credit.
+TP
+//だが世界が崩壊して久しいのに、ツケなんて無意味じゃないか？
+Though it's been long since the world has had its downfall, so isn't credit meaningless?
+//So everyone is gone. Except Sakakibara's still around. Sure! -GHS
+TP
+//太一「ね、曜子ちゃん？」
+Taichi: "Isn't it, Youko-chan?"
+TP
+
+GL 1 zzzASyoukofade
+GP 1 180 0
+GI 1 1
+
+WVP 0 vzzztof_YOU0_0157
+//曜子「ええ」
+Youko: "Yep."
+TP
+//彼女が微笑んでいる。あたたかい気持ちになる。
+The girl is smiling. It makes me feel so warm.
+//And right after killing her to produce the antenna, Youko is a literal ghost, no more real than Nanaka. No other character gets this treatment. -GHS
+TP
+
+GO 1 1
+
+//鬱陶しい。すぐ消す。
+Gloom. It vanishes soon.
+//Positive emotion -> negative emotion because of heavy sense of guilt. -GHSigmund
+TP
+//けどどうして。
+But why...
+TP
+//メモは、なおも張られていたんだろう───
+...do I post up the memo still---
+TP
+//一瞬だけ、胸が締め付けられた。
+My chest tightened, for one single instant.
+TP
+//その感情を判別することは、今の俺にはできない。
+Distinguishing which emotion did that is impossible for the me as I am now.
+//See CCX0001. Interesting. -GHS
+TP
+//もうじき暗くなる。心もろともに。
+Soon it shall be dark outside. To be one with the heart.
+//Where is it crawling now? Huh? WHERE? IN YOUR SKIN, that's where it's crawling, BITCH. -GHS
+TP
+
+TS 2
+WVS 1 1
+GS 0 0
+SEF 109 0
+
+WT 1800 0
+
+TS 3
+GL 0 BGCC0006
+GS 0 1
+SEF 109 0
+
+WVP 1 bgm018.ogg 0 0 0
+
+//翌日。
+Next day.
+TP
+//教室。
+Classroom.
+TP
+//待つ。
+Waiting.
+TP
+//日差しが強い。
+Sunlight is strong.
+TP
+//熱による影響、あとで調べておこう。塔はとても天に近いのだから。
+Will leave investigating if it's the influence of this heat later. The tower is getting pretty close to the heavens after all.
+//Either the sun's... or his fever. That's the term used even in the Bible. ...wait, is this a tower, or is it Prometheus? A new Prometheus??? Well, the tower WAS frankensteined together. *badum dish* -GHS
+TP
+//でも、これさえ完成すればタダで『人』という字は支えあっている。
+But once this is complete, the kanji for 'person' will be able to stand on its own.
+//See CCB2012. -GHS
+TP
+//電波代はいらない。青春に金なんて必要ないんだ。
+This kind of "electromagnetic generation" needs no fees. No such thing as money needed for one's adolescence.
+//This is where the confusion between EM waves and Denpa becomes a little hard to follow.
+TP
+//悪しき商業主義は滅びろ。このタワー型のが完成すれば！
+Evil commercialism can go get annihilated. For once I have completed making this take a tower shape...!
+//Evil Taichi, in his Typical Moege delusional state, speaks out against the Evils of Commerce. The contempt Tanaka has for this kind of writing is about as transparent as mine. Same word at times used for mankind in the main story. Second part is specific, since he's not constructing a "broadcast tower" in that sense. -GHS
+TP
+//電話みたいに『みかか』することはない。
+There's no Denpa equivalent of the Mikaka (NTT).
+//www.ntt.co.jp - it's written Mikaka because that's what typing NTT comes out like on a Kana input keyboard. This is the reading key for Miki's text, more below when this bout of insanity is described. More importantly, this is the reading key for the damn 'yu', see CCX0001, and more. Laterally it's all about differences of language and Babel, still. ...though I guess that by requiring this halfway language in a translation, the very need for which can be blamed on Babel, we're now into enough meta that the threat to the perduring existence of the space-time continuum have surpassed the Nyan Combined With Meow level. -GHS
+TP
+//無料配信だ。
+Transmitting those is free of charge.
+TP
+//この情報に溢れた現代社会を、さらに無料の情報で汚染するのだ！
+This modern society overflowing with information shall be furthermore polluted by free information!
+//See CCC0015B. "A deficiency in morals, an exaggerated selfish individualism, the utilization of fundamental human rights for the purpose of overindulging oneself in laziness". It's all there. -GHS
+TP
+//……………………。
+............
+TP
+//待つ。
+Waiting.
+//See CCD3003B. Hmmm. -GHS
+TP
+//だが変化はない。
+Yet there is no change.
+TP
+//太一「……ん？」
+Taichi: "...hm?"
+TP
+//美希の気配を感じた。
+I felt Miki's presence.
+//How? This is absurd! -GHS
+TP
+//美希のところに行くことにした。
+I ended up going to Miki's place.
+TP
+
+GS 0 0
+SEF 109 1
+
+GL 0 zzzASrooftopTarp
+GS 0 1
+SEF 109 1
+
+//音を立てずにドアを開ける。
+I open the door without making a sound.
+TP
+//That sounds impossible from the SFX... but that's absent here. -GHS
+//美希は屋上にいた。
+Miki was on the rooftop.
+TP
+//俺もそっと屋上に出た。
+I also silently came out on the rooftop.
+//This seems to be an expansion of what happens at the end of that first part similar to what the second was to the first. -GHS
+TP
+//美希は『塔』の前に立っている。
+Miki was standing in front of the "tower".
+TP
+//太一「美希」
+Taichi: "Miki."
+TP
+GL 1 TCYM0002
+GP 1 180 0
+GI 1 1
+
+WVP 0 vzzztof_MKI0_0618A
+//美希「ＰＹＦ［Ｅ……っ！」
+//* 先輩……っ！
+//といみせちに
+Miki: "Toimisachini...!"
+> 
+ 
+ 
+* "Senpai...!"
+//The 360 version has only the scrambled text without subtitles, but if you went in the backlog, you could read (and listen) to the real words. There's even an achievement for that. Like this it's... weak, but I can't imagine any way to make this decrepit old engine make it support anything similar short of having the reader reread the thing twice. -GHS
+TP
+//美希が何事か呟いた。
+Miki muttered something.
+TP
+//意味はわからない。
+I don't understand its meaning.
+//Because Scrambled By Babel, which in this case is the governmental media. See CCA0020 - someone REALLY doesn't like that stuff. This is different from his inability to understand the deeper meaning of things, however. -GHS
+TP
+//太一「ぴいわいえふ？　なに？」
+//Taichi: "Pee why eff? What?"
+Taichi: "To imi sachi? What?
+//What Miki says is the text that comes out if trying to write the Japanese text on a Kana keyboard, but outputting in Western characters.
+//P=se, Y=n, [F=pa E=i
+//where [ activates the Japanese accent that turns は ha into ぱ pa. GIS "kana keyboard" for a reference, though I guess it's useless if you can't read kana. -GHS
+TP
+
+GL 1 TCYM0004
+GI 1 0
+
+WVP 0 vzzztof_MKI0_0619A
+//美希「Ｕ＜ＵＩをＥｚＷ．ＹＷ＠Ｒ？」
+//* な、何を言ってるんです？
+//てくちほ,　てくちか　しにし　んらな　とちん
+Miki: "Dekuchiha, dekuchika did n'rana dochin?"
+> 
+ 
+ 
+* "Wha-, what did you say?"
+//Odd implication that she can't understand him, either. The 'did' is left straight, as is the 'wo' particle in the original. The audio is very slightly more comprehensible in that one part. Odd. -GHS
+TP
+//おかしいな。人の言葉に聞こえない。
+Inn'this weird. They don't sound like the words of a person.
+TP
+//人じゃない？確かにその可能性はある。
+Is this not a person? The possibility exists, definitely.
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vzzztof_MKI0_0620A
+//美希「Ｃ；ＩＣＫＴｚＢ４……」
+//* それにその格好……
+//ちみし　かくらとい　そりらかくいと
+Miki: "Chimishi kakuratoi sorirakakuito..."
+> 
+ 
+ 
+* And those clothes...
+//Japanese Kimono. Indeed he wears them throughout, see the fire CG just below. But isn't this odd? The point of the kimono is him being a writer (like Tanaka i.e. de-facto god) and a priest (which is foreshadowing for his final role). I suspect this is the troll. And if the kimono is on Taichi and it lies somewhere outside of town, how is it also in Taichi's bedroom? Too much making no sense. -GHS
+TP
+//太一「さては……地球外生命体だな」
+Taichi: "If so... that's an Extraterrestrial Life Form."
+TP
+//エイリアンだ！
+It's an Alien!
+TP
+
+GL 1 TCYM0004
+GI 1 0
+
+//美希の顔から笑みが消えた。
+The smile vanished from Miki's face.
+TP
+//俺が見抜いたのを見抜いたのか、美希の顔から笑みが消えた。
+Perhaps having seen through me having seen through her, the smile vanished from Miki's face
+//PCP above
+//Yeah, it doubled. -GHS
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vzzztof_MKI0_0621A
+//美希「……ＧＬＦＳ＠ＢＷ＠ＲＴ」
+//* 霧はどこですか
+//てくいすいけと　のにすに
+Miki: "...tekusuiketo nonisuni?"
+> 
+ 
+ 
+* "...where's Kiri?"
+TP
+//太一「そうか。それが宇宙語か」
+Taichi: "Right. Is that Spacese?"
+TP
+//太一「この俺に挑むというのか」
+Taichi: "And you came to challenge me?"
+TP
+//太一「だが……おまえがもし改心し、部活に加わるというのなら……」
+Taichi: "However... should you reform yourself, and come join into our Club..."
+TP
+//太一「俺たちの塔を建てる、この偉大な部活動に携わるというのなきしむ心をやさしく包み込む」
+Taichi: "Then we shall erect our Tower, and the greatness of these Activities can envelop our creaking hearts with gentleness."
+//PCP ED.AVI (yes, really) (NOTE: ED.AVI may be an MPG)
+TP
+WVP 0 vzzztof_MKI0_0622A
+//美希「……ＣＫＡ」
+//* ……その血
+//かくちか　こりららし
+Miki: "...kakuchika korirarashi..."
+> 
+ 
+ 
+* "...that blood..."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vzzztof_MKI0_0623A
+//美希「ＧＬＦ、Ｓ＠ＢＷ＠Ｒ」
+//* 霧は、どこです
+//のにすに!　てくいすい　にと　とくい!
+Miki: "Nonisuni! Tekuisui nito tokui!"
+> 
+ 
+ 
+* "Kiri! Where is she!"
+TP
+
+//GL 0 zzzASreallyuglytowerzoomthatmakesitobviousitsabadphotoshophackjob
+//GS 0 0
+//SEF 777 -151
+
+//俺は塔に向かう。
+I head to the tower.
+TP
+
+GL 1 TCYM0004
+GI 1 0
+GP 1 165 15
+GI 1 0
+GP 1 180 30
+GI 1 0
+GP 1 195 15
+GI 1 0
+GP 1 180 0
+GI 1 0
+GO 1 1
+
+//隣を通りかかると、美希は大きく飛び退いた。
+As I happened to pass next to her, Miki took a big leap backwards.
+//No suri-ashi? Admittedly this looks slightly better in the console version, as he literally approaches her and she's literally in the way. Contrast Kiri passing him undearm, see CCC3008/3009. -GHS
+TP
+
+WVS 1 1
+
+//太一「さあ、これが俺たちの塔……トモダチの塔だ！！」
+Taichi: "Come, see our Tower... the Tower of Friends!!!"
+//Gen 11: 4 "Come, let us build ourselves a city..." that "come" was translated as "saa" in Japanese, which is how this sentence starts. Adapted to fit. Left the triple exclamation marks, as he's pretty much gone at this point. -GHS
+TP
+
+WVP 1 bgm008.ogg 0 0 0
+WVP 2 se202 1 0
+
+GL 0 zzzASleg
+GS 0 1
+SEF 109 0
+//Black bars due to this existing only at 16:9 ratio. -GHS
+
+//シーツを取ると、未完成の『塔』が出てきた。
+I take off the sheet and the incomplete "Tower" came into sight.
+TP
+
+//みんなの力が一つになった逸品だ。
+This is the masterpiece that came from making the strengths of everybody into one.
+//See CCC3002, same word he uses for his uhmmm dick. -GHS
+TP
+//アンテナの形にするのは苦労した。みんなが硬直してくれたからこそ、はじめて実現できたと言える。
+It was hard to work to make it take the shape of an antenna. It could be said it's the first time that we've managed to realize this not despite but because everybody had grown so very rigid.
+//Same term used for Tomoki in CCD4025. Pun is because everyone's rigid in thinking and refuses to form into the whole demanded by Japanese culture, due to their human nature, culture which is with the ending of the VN as entirely rejected as the concept of the Harem Ending is in the metaVN reading in favor of the individualizing Christian (and Western) culture, at the cost of separating the Individual from the Group forever, but not in a manner so complete there's no communication. Also, the sky symbolizes sexual awakening. -GHS
+TP
+//美希「……………………」
+Miki: "............"
+TP
+//美希は惚けていた。
+Miki grew befuddled.
+TP
+//理解が訪れることもなく、停止していた。
+With understanding not coming to her, she had halted.
+TP
+//無理もない、他の星の文化をいきなり理解しろというのは酷だ。
+No wonder, just up and being told to understand the culture of another planet has to be rough.
+//This is so meta it almost hurts. And that was before I translated it. -GHS
+TP
+//太一「完成したあかつきには、世界に向けて語りかけることができる」
+Taichi: "And when the dawn will break on its completion, we shall be able to speak out towards the whole world."
+//Literal because insane. ...except the languages are confused so that ain't happening. -GHS
+TP
+//太一「これって、今の俺には必要なことだと思うから」
+Taichi: "Because... I think that's what I need to do for my sake, right now."
+//PCP CCA0002
+//This isn't just about how foreigners reading in this stuff will find it incomprehensible due to the language; not just about how non-otakus will find it incomprehensible due to the heavy lingo; not even just how most readers will find it incomprehensible because they don't grok the author; it's also how difficult it is for the non-Christians to comprehend Christianity, and for the Japanese in particular.
+//And all in a line that referred to Sakuraba conquering the mountain with his bike, i.e. reaching the outside world and understanding Christianity, because the outside world is Heaven unless it's Japanese Narnia, and the bike is the Way of God but Christianity is Curry, and Taichi is Jesus but purgatory is Gunjou, not the Cross World. -GHS
+TP
+//太一「らーららーらららーららーらららーらーらーらーらーらららーらーらーらららー」
+Taichi: "Laaa lalaaa lalalaaa lalaaa lalalaaa laaa laaa laaa laaa lalalaaa laaa laaa lalalaaa!"
+//What fun to TRIPLEcheck these... can't see a pattern, if there is, but numbers go らx23 (8x2 +7). Can't tell what song it is, if at all. Doesn't fit the ED that I can tell. So let's go with Morse code! Screw it, he's sending an SOS, right? But whether considering ら=. and ー=-, or ら=. and らー =-, there's little change: ET EET ET EET in unclear patterns. Oddly regular, but this doesn't seem to be it. The real code is more likely the same as with Miki, more below when it's stated more explicitly. -GHS
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+
+
+//『トモダチの歌』
+//　作詞／俺
+//　作曲／小生
+//　編曲／我
+> 
+ 
+ 
+> 
+ 
+ 
+                 The Song of Friends
+TL
+                     Lyrics: Me
+TL
+                Composition: Myself
+TL
+                   Arrangement: I
+TP
+//太一「らんららーらーらーららららーらーらーらー
+//らららーらーらーらーーらーらーらーらー
+//らららららーらーらーらららららららー」
+> 
+ 
+ 
+> 
+ 
+ 
+Lallalalaaa laaa laaa lalalalaaa laaa laaa laaa
+TL
+ lalalaaa laaa laaa laaaaaalaaa laaa laaa laaa
+TL
+    lalalalalaaa laaa laaa lalalalalalalaaa
+//らx37 (odd variants excluded). 5x8 + 7, total so far is 8x7 + 7x2 -GHS
+TL
+
+
+//<<Since you have nothing better to do than hang out here with me, listen to a tune that I've been working on>>
+//(Sung to the tune of Whirling Death Spike's "Big Blue Orchids, and Wild Blueberries")
+
+//Dur-dur-dur-dur-an-dal.
+//Dur-dur-dur-dur-an-dal.
+//He ain't no slouch, pal.
+
+//He'll make you smile,
+//Or cry,
+//Like Leela did baby:
+//Airlock love,
+//Big blue orchids,
+//Martian skies,
+//And wild Blueberries.
+
+//Dur-dur-dur-dur-an-dal.
+//Dur-dur-dur-dur-an-dal.
+//He ain't no slouch, pal.
+
+//Dur-dur-dur-dur-an-dal.
+//Dur-dur-dur-dur-an-dal.
+//He'll make you ouch, Hal.
+
+//He's got real guile,
+//Why Lady,
+//Did you have it daily?
+//Airlock Love,
+//No oxygen,
+//Suffocation.
+
+//Dur-dur-dur-dur-an-dal.
+//Dur-dur-dur-dur-an-dal.
+//He ain't no slouch, pal.
+
+//(Repeat Chorus 11 Times, changing key with each chorus)
+
+//Get lost, before I get annoyed and teleport you out into space!
+
+
+
+//太一「ららららららーららーらららーらーーらー
+//らららーらーらーらーらーらららー
+//らーらーらららららーらーらら」
+> 
+ 
+  lalalalalalaaa lalaaa lalalaaa laaaaaa laaa
+TL
+lalalaaa laaa laaa laaa laaa lalalaaa laaa laaa
+TL
+            lalalalalaaa laaa lalaaa
+//らx33, total らx70 in these two verses - hello. I knew all those Ranuki Kotoba would come back to haunt him... -GHS
+TP
+
+
+GO 5 1
+GL 0 zzzASrooftopTarp
+GL 1 TCYM0004
+GS 0 1
+GS 1 1
+SEF 109 0
+//Miki is well enough in the way to cover up any lack of change, as with the 360 edition. -GHS
+TWS 0
+//太一「どうか」
+Taichi: "Like that."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vzzztof_MKI0_0624A
+//美希「……ＲＢ＠ＥＷ＠Ｒ，」
+//* ……凄いですね
+//かくちかけと　ちもちつにみき
+Miki: "...kakuchikaketo chimochitsunimiki."
+> 
+ 
+ 
+* "...that's amazing."
+//She may be pretending, but did she actually hear him saying 'O' over and over (see below)? Then again, it's Miki; Miki plays along. Also see CCD0022A as redone: Miki may just continue to be a substitute for Yutaka, and this part here is where Taichi shows him the tower. I wonder if this is the same reaction Yutaka had. -GHS
+TP
+//美希は微笑んだ。
+Miki smiled.
+TP
+//言葉はわからないが、理解してくれたようだ。
+There's no understanding of words, but there seems to still be comprehension.
+//Shades of CCD0021, though the meaning is just literally the above: comprehension without words, i.e., a basic human nature that transcends culture. -GHS
+TP
+//これなら自慢のカラデを見せずに済みそうだ。
+With this, it seems I can end this without making a show of the Karade of my Pride.
+//See CCA0012. Looks like he gave up on "firearms", if you know what I mean, and you do because it's his dick. -GHS
+TP
+//平和万歳。平和を守るために軍隊を派遣してその費用は属国というか５２番目の州が持つのだ。
+Peace Banzai. The expense of the deployment of troops for the sake of the protection of the peace is had by the dependent nations or should I say the 52 States.
+//Evil Taichi is also sorta anti-American. Subtle. A rather obvious 7, plus a rather common error - google '52 states'. So very Taichi. -GHS
+TP
+
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vzzztof_MKI0_0625A
+//美希「３Ｋ……ＳＢ￥Ｗ＠ＧＬＡＹＴ＠Ｘ＠ＥＬ）４ＩＺＴ０；ＷＵＥＮＱＥＷ＠Ｒ：Ｓ＠……ＴＫＤ＠）ＦＳ＠ＢＩ？」
+//* あの……ところで霧ちんが材料に使われてないみたいですけど……彼女はどこに？
+//なくも...　こん　かくい　てちん, にか　りららのと　りにのい　んらな　しにしみけか　なとい　のにすにほそくにみみ　ちと　もちかいすにちりと, とら...　てくいすいけと　とくい?
+Miki: "Nakumo... kon kakui techin, nika riraranoto rininoi nrana shinishimakeka natoi nonisenihosokunimimi chito mochikaisunichirito, tora... tekuisuiketo tokui?"
+* "Uhm... by the way, it looks like you didn't use Kiri-chin as materials, so... where's she?"
+//He pulled off the sheet, showed her the whole damn thing - which is supposedly HUGE, see the next CG - and she didn't see Kiri despite the bodies being damn well visible? This is Shimura Phenomenon - she doesn't have the same image of this tower as Taichi does. Because the tower does not exist, and Taichi's just going "rampant". Hey, after all, this is not much different than using the self-destruct switch back in CCC3002, and she tried to "kill" him there, too. -GHS
+TP
+//なんとなく霧のことを問いただした気がする。
+For some reason, it feels like she's asking about Kiri.
+//He can totally hear her... -GHS
+TP
+//太一「……さあ。見てないな」
+Taichi: "...dunno. Haven't seen her."
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vzzztof_MKI0_0626A
+//美希「Ｃ４Ｗ＠ＲＴ」
+//* そうですか
+//しにし　んらな　みらて
+Miki: "Shinishi n'rana mirate."
+> 
+ 
+ 
+* "Did you now."
+TP
+//美希の膝が震えている。
+Miki's knees are trembling.
+TP
+//太一「あ」
+Taichi: "Ah!"
+TP
+//唐突に俺は気づいた。
+Suddenly, I realized:
+TP
+//霧はそこにいた。美希からは見えない、背後の部分に。
+Kiri was over there. She can't be seen from Miki, she's in a part in the rear.
+//...did even Taichi not have a correct image of the Tower as well? I can't imagine this making sense in other ways. See CCC3016. Kiri likes it back there(tm). -GHS
+TP
+//卍みたいな形に加工して組み込んである。
+She has been inserted after being machined into the fylfot shape of a swastika.
+//Since it's been used literally in CCB0002, here it goes again. -GHS
+TP
+//あちこち折れてるけど一応まだ霧だ。
+It's bent and folded here and there but we can say it's still Kiri.
+TP
+//霧後だけどね。
+It's After-Kiri, though.
+TP
+//でも美希はエイリアンなので話す必要はないと思った。
+But Miki is an alien therefore there's no need to speak of this, I thought.
+//This Settei's just changing at random, is it. And he's justifying not telling her about the change. This is why it becomes hollow to play with Taichi for her. He's just a two-year old kindergardener who just can't admit losing, ever. In that, he's the stereotype of pretentious pseudoliterate imbecile down to a perfect tee. -GHS
+TP
+//太一「寒いのか地球外の友よ？」
+Taichi: "You cold, perhaps, my friend from Outworld?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vzzztof_MKI0_0627A
+//美希「Ｅ５……Ｗ＠Ｆ０ＱＤＦＢ；Ｗ＠」
+//* いえ……ではわたしはこれで
+//みら...　ていりり　かくいみ,　に　かちのい　もん　りいちひい
+Miki: "Mira... teiriri kakuimi, Ni kachinoi mon riichihii."
+> 
+ 
+* "No... well then, I take my leave."
+TP
+//太一「…………」
+Taichi: "......"
+TP
+
+GL 1 TCYM0004
+GI 1 0
+GP 1 165 15
+GI 1 0
+GP 1 180 30
+GI 1 0
+GP 1 195 15
+GI 1 0
+GP 1 180 0
+GI 1 0
+GO 1 1
+
+//美希が背を向けたとたん、かくん、としゃがみ込む。
+The moment Miki turned her back on me, thump, she falls to a squat,
+TP
+//腰が抜けたように見える。
+seemingly as if she had lost her hips.
+//The limit on the Runaway From Monster timer is lowering. Global Decrese in Runaway Time is a phenomenon that NEEDS to be studied! I'm sure I'll get some $1.5bln on Startkicking to finance the research within a day! -GHS
+TP
+//何事か呟いている。
+She's muttering about something.
+TP
+//太一「どうした？　やっぱりエイリアンの故郷である月面より重力があるせいで歩きにくいのか？」
+Taichi: "What's up? I knew it, walking here's hard for you because the gravity is higher than in your birthplace, the surface of the Moon?"
+TP
+WVP 0 vzzztof_MKI0_0628A
+//美希「……４Ｂ＠：……４Ｂ＠：……４Ｂ＠：……４Ｂ：……０ＱＤＫ３Ｄ、４Ｂ＠：……」
+//* ……動け……動け……動け……動け……わたしの足、動け……
+//...もらひい... もらひい... もらひい... もらひい... もらひい...　もらひい,　もん　はいいか...
+Miki: "...morahii... morahii... morahii... morahii... morahii, mon haiika..."
+> 
+ 
+* "...move... move... move... move... move, my feet..."
+//Says below it's because she's in love; but just in a moment, she'll get her feet literally slashed. Is she even replaying Yutaka getting his psychological wound by being tossed down the stairs? -GHS
+TP
+//ぶつぶつと呟いている。危ないヤツだ。
+She mutters something with muttering mutter. This one here's dangerous.
+//1) Given below... 2) Naturally ambiguous. -GHS
+TP
+//太一「なあ、ところで良いエイリアンは死んだエイリアンかエイドリアンだけだと思わないか？」
+Taichi: "Ah, and by the way, don't you think the only good alien is either a dead alien or just an illegal one?"
+//It's just a bad pun born from pronunciation difficulties, see CCX0001 for more, in which eiDOrian (Adrian) becomes almost like eirian (alien). Replaced with another bad one. See CC4015, similar to one there. -GHS
+TP
+WVP 0 vzzztof_MKI0_0629A
+//美希「……４Ｂ＠：……４Ｂ＠：……４Ｂ＠：……４Ｂ＠：……４Ｂ＠：……４Ｂ＠：……４Ｂ＠……４Ｂ＠：……」
+//* ……動け……動け……動け……動け……動け……動け……動け……動け……
+//...もらひい... もらひい... もらひい... もらひい... もらひい... もらひい... もらひい... もらひい...
+Miki: "...morahii... morahii... morahii... morahii... morahii... morahii... morahii... morahii..."
+> 
+* "...move... move... move... move... move... move... move... move..."
+//x8. Ah, that's why it won't work. +x5 of above, that's still just 13. For want of an attempt... -GHS
+TP
+//太一「で、美希。おまえも部活に参加するだろ？」
+Taichi: "Well, Miki. You're going to participate to Club as well, right?"
+TP
+
+GL 1 TCYM0004
+GI 1 0
+GP 1 165 15
+GI 1 0
+GP 1 180 30
+GI 1 0
+GP 1 195 15
+GI 1 0
+GP 1 180 0
+GI 1 0
+GO 1 1
+
+
+//近寄って肩に手をかけようとすると、美希は弾かれたように立ち上がる。
+As I approach and go to put a hand on her shoulder, Miki stands up with the force of an explosion,
+TP
+
+GL 0 BGCC0000A
+GS 0 1
+GS 1 0
+SEF 109 0
+WVP 2 SE035 1 0
+
+
+//そのままぎこちない早足で校内に。
+and like that she goes into the school building, with an awkward but quick step.
+//The problem here was indeed psychological, IOW no change for all except maybe Tomoki. -GHS
+TP
+//太一「あ、おーい！」
+Taichi: "W-, wait!"
+TP
+//行ってしまった。
+And she's gone.
+TP
+
+GS 0 0
+SEF 109 3
+WVS 1 1
+
+//……………………。
+............
+TP
+
+WVP 1 bgm007.ogg 0 0 0
+
+GL 0 zzzRidgeNight
+GS 0 1
+SEF 109 0
+//Despite having nearly every variation of everything ever and the voices for that damn extra scenario, there's no image of this at night so this is from the 360 version. -GHS
+
+//俺は家に戻り、じゃがいもをかじり、水を飲み、寝台に横たわった。
+I returned home, gnawed at some potatoes, drank some water, and laid down on the bed.
+//Likely raw and to the bud. Now he got POISON!!! status, the moron. Interesting his home is still here, possibly to the west of town. -GHS
+TP
+//今日は異星人と出会った。
+Today I met a Non-Terran.
+//See CCB2010. So is Miki his hallucination, like Nanaka is...? After all, she's dead, wasn't she. -GHS
+TP
+//太一「けど……俺が守ってやらないとな……」
+Taichi: "Yet... I must protect it..."
+TP
+//この青い地球を。あの……キュートなエイリアンから。
+//...this green Earth of ours. From that... kyute Alien.
+...this blue Earth of ours. From that... kyute Alien.
+//Damn colorblind Japs, grumble grumble -GHS
+TP
+//太一「あれ？」
+Taichi: "What?"
+TP
+//俺はドキドキしていた。
+I was all a-flutter.
+TP
+//これは恋？　芽生えたのか？
+Is this love? Has it sprouted?
+TP
+//太一「ええい、考えるのはやめだやめだ！」
+Taichi: "Hey! Thinking stops here, it stops!"
+//CP above
+TP
+//太一「寝ちまえ！」
+Taichi: "Get sleeping!"
+//CP above
+//See above. The Settei has just changed, as it often does; see CCC3002 again. -GHS
+TP
+
+GS 0 0
+SEF 109 2
+
+//……。
+...
+TP
+//…………。
+......
+TP
+//……………………。
+............
+TP
+
+GL 0 BGCC0000C
+GS 0 1
+SEF 109 0
+
+//目が覚めた。
+And then I was awake.
+//Oh, this used to be a normal "I woke", which Taichi never uses. This change further stresses that this line is not quite intended to be read as it normally is. -GHS
+TP
+//まだ夜中だった。
+It was still the dead of night.
+TP
+//嫌な予感がした。
+I had a bad feeling about this.
+//PCP CCC3012A
+//More Star Wars? Oh well, chuuni's chuuni. -GHS
+TP
+//俺の意識はますます鋭敏になって、街を広く覆っていた。
+My awareness grew sharper and sharper, and spread to cover the entire town.
+//See CCX0001... though he's just chuunin'. -GHS
+TP
+
+GL 0 BGCC0005C
+GS 0 1
+SEF 109 0
+//No lights on this one. Well, it IS the dead of night. -GHS
+
+//……
+...
+TP
+
+GL 0 BGCC0014B
+GS 0 1
+SEF 109 0
+//…………
+......
+TP
+
+GL 0 BGCC0011C
+GS 0 1
+SEF 109 0
+//And there it is, right in front of everyone's faces for ten long years. They forgot to enable the layer with the gate on this one, so there's just the poor wheels down there. This has never been fixed in any version, and boy is it even more obvious in the Xbox 360 version when it's huge on the screen. Despite my uhmmm better efforts, I could not fix this. A minor gripe, certainly, but one nonetheless. -GHS
+
+//……………………。
+............
+TP
+
+TS 2
+GL 0 BGCC0008B
+GS 0 1
+SEF 109 0
+WT 500 0
+WVP 2 se044 1 0
+GS 0 0
+SEF 109 1
+
+WVP 1 bgm017.ogg 0 0 0
+WVP 2 seFIRE 1 0
+TS 3
+GL 0 zzzASfire
+GS 0 1
+SEF 109 0
+WT 400 0
+WVS 2 1 1
+//And so Miki destroys the Tower of Ba-- Friends. Meaning Miki is, if not God, then an angel? Sadly, it's hard to say if this CG shows something obviously absurd or if it's really really cheap graphics. That fire is GINORMOUS and the bodies don't seem to be laid in ways that make sense. And all the visible bodies are obvious, awful 3D models of adult males, when there's only two that could possibly near-fit into that category. Tower of Friends truly got the short end of the stick in every way. More interesting that this shows Taichi is wearing his kimono. But shouldn't he have only worn it twice total? -GHS
+
+//Below was removed in favor of visuals. Keeping commented out. -GHS
+
+////田崎食料。
+//Tasaki Groceries.
+////食事。
+//Meal.
+///At what, 1AM? -GHS
+////学校前に来て、見上げる。
+//I come to the front of the school, and look up.
+////太一「え？」
+//Taichi: "Eh?"
+////屋上から煙が。
+//Smoke from the rooftop...
+///See CCD5001. But he couldn't smell it when Touko can smell potatoes from halfway through town? -GHS
+//TP
+////……………………。
+//............
+//TP
+
+//太一「……………………」
+Taichi: "............"
+TP
+//燃えていた。
+It was burning.
+TP
+//トモダチの塔が燃えていた。
+The Tower of Friends was burning.
+TP
+//火柱だ。
+A blazing column.
+TP
+//ものすごい、匂い。圧力ある熱気。
+Smell unspeakable. Heat with pressure.
+TP
+//これはもうダメだ。消火できるレベルじゃない。灰になってしまう。
+This thing here's beyond help. This is not a fire at the level where it can still be extinguished. This had been cremated down to ash.
+//Word means both "burned down" and "cremated". See CCC4011: interesting he decides to cremate Youko, but no one smells that; if this is a 1:1 replay, as close as it can be, then at the end of all that he might have put Youko on the tower, after which he burned it down. -GHS
+TP
+//太一「まいったな」
+Taichi: "Fine, I give up."
+//CP CCC3023
+TP
+//作り直さないと。
+I have to rebuild it.
+TP
+//でも材料、そんなにあったかなあ？
+Buuut... do I still have materials for that?
+TP
+//トモダチでないといけない。
+They just must be friends.
+TP
+//トモダチはあとどれくらい残っていただろうか。
+Friends, but how much longer would they even remain so?
+//That only indicates time. If not betrayal or rejection, it's merely them moving on with life. -GHS
+TP
+//太一「いや」
+Taichi: "Well..."
+TP
+//どんなに困難でも、やらないと。
+However difficult this may be, I must do it.
+TP
+//頑張ればどんな夢だって叶う。信じれば力になる。
+If I do my best, all dreams can become true. Belief shall become my strength.
+//Full of madhouses, 'em self-believing. -GHS
+TP
+//希望は明日を作るんだ。
+Hope constructs the morrow.
+//Nothing to do with CCA0021. -GHS
+TP
+//これら美しき『普通』が汚され、蹂躙されることなどありえない。
+To let this beautiful Normalcy be filthied and then trampled is out of the question.
+//Normalcy is his complex; filthied as in what Youko taught him. -GHS
+TP
+//人として最高の決断であり、ありようなのだ。
+It is the most supreme decision that can be taken for a person, and that has to be the truth.
+TP
+//みんなが言うからきっとそうなのだ。
+Everybody says so, so it's gotta be that.
+//What a dumb faddish follower... -GHS
+TP
+//だから俺だって頑張れば───
+Therefore, if I give it all---
+TP
+
+GL 0 BGCC0000C
+GS 0 1
+SEF 109 0
+
+//感覚を広げる。
+I spread my perception.
+TP
+//自分の知覚力が神がかっているのがわかる。
+I know now that my powers of perception are divinely inspired.
+//PCP CCC4001
+//~troll~troll~troll~troll~troll~ (CP CCC4001) -GHS
+TP
+//校内に一人、外に向かっている。
+Alone in this school building, I head outside.
+TP
+//街の方にも誰かいる感じがする。
+I feel there's someone in the direction of the town.
+TP
+//都会の方は……さすがにわからない。
+In the direction of the City... I have no idea, expectably.
+//As it is Heaven. The Bible uses 町 machi for the 'city' that the Tower is to be built with, which isn't either term, though it's pronounced the same as 街 machi (which is used to identify the part of town between the mountains). -GHS
+TP
+//まずは手近なところから頑張ろう。
+First, let's begin doing our best from the places at hand.
+//Because he wants to Make Friends. -GHS
+TP
+
+//太一「らーららーらららーららーらららーらーらーらーらーらららーらーらーらららー」
+Taichi: "Laaa lalaaa lalalaaa lalaaa lalalaaa laaa laaa laaa laaa lalalaaa laaa laaa lalalaaa!"
+//CP above
+//PaPpaPpara pappa para... -GHS
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+
+
+//『トモダチの歌・二番』
+//　作詞／僕
+//　作曲／予
+//　編曲／我輩
+> 
+ 
+ 
+> 
+ 
+ 
+           The Song of Friends ~ Second
+TL
+           Lyrics: This Little Boy Here
+TL
+                 Composition: One
+//As in "One must refrain from using 'I' for One to be the Queen of England", not One Must Fall. -GHS
+TL
+              Arrangement: Ourselves
+TP
+//太一「らんららーらーらーららららーらーらーらー
+//らららーらーらーらーーらーらーらーらー
+//らららららーらーらーらららららららー」
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ Lallalalaaa laaa laaa lalalalaaa laaa laaa laaa
+TL
+  lalalaaa laaa laaa laaaaaalaaa laaa laaa laaa
+TL
+     lalalalalaaa laaa laaa lalalalalalalaaa
+//CP above
+//Yeah, it's just the exact same thing. Maybe the music changed? Ah, wait, yes it did. -GHS
+TP
+
+GS 0 0
+GS 5 0
+SEF 109 0
+TWS 0
+
+//……………………。
+............
+TP
+
+GL 0 BGCC0008B
+GL 1 TCYM0002C
+GP 1 180 0
+GS 0 1
+GS 1 1
+SEF 109 0
+
+//廊下で対象を捕捉。俺は無音となる。
+Target caught in the corridor. I become silent.
+//Right after he said he was alone and going out. Is he even trying to make sense? The Settei has changed yet again... to the absolute normality. How many times has Taichi found Miki in the corridor anyway? -GHS
+TP
+
+GO 1 1
+
+//低い姿勢で背後から忍び寄って、ナイフで足を刈る。
+I steal up to her back in a lowered position, and slash at legs with knife.
+TP
+
+WVP 2 seSWISH 1 0
+
+GL 5 BGCC0000E
+GP 5 0 0
+GI 5 0
+WT 1000 0
+GO 5 1
+
+//ぷちっ、とアキレス腱が切断された。
+Snap, and her Achilles' Heel is severed.
+//Definitely Tomoki now, but Tomoki's wounds (likely) laterally caused by Misato were always a mirror of Yutaka's. More interesting is that she was unable to move before. Unless cause and effect are inverting, something not unlikely to happen in this faux-MWI approach, it may be that above was Yutaka, and this is something else via Misato. -GHS
+TP
+
+
+WVP 0 vzzztof_MKI0_0630
+//美希「ぎゃっ！？」
+Miki: "GYAH?!"
+TP
+//悲鳴。これは理解できた。
+Scream. That one I could understand.
+//There's no distorted version at all of that voice. -GHS
+TP
+//美希は一歩も動くことができないまま、すとんと尻餅をつく。
+Miki falls straight down on her backside, unable to take so much as one step.
+TP
+//太一「あきれーす・かったぁー」
+Taichi: "Achilleees cutteeer!"
+//Special Move. -GHS
+TP
+//棒読みのヒーロー口調で技の名を告げた。
+I proclaimed the name of the technique in a flat monotone of a Heroic Voice.
+//See CCC0016A, where he was replicating the diary content. This is something he's already done. -GHS
+TP
+WVP 0 vzzztof_MKI0_0631
+//美希「……あ……あああ……」
+Miki: "...ah... aaah..."
+//No distortion here either. -GHS
+TP
+//だけどとても痛そうな尻餅じゃないか。かわいそうに。
+But still, don't that falling down on her butt look painful. So pitiful.
+//He's worried about her falling down, not the tendons. Probably because he didn't cut her down at all. He's just playing with her like they always do, but he's particularly gloomy so he thinks he's murdering everyone. -GHS
+TP
+//俺は無感情にホロリと来た。もうちょっとの辛抱だから。
+I was apathetically moved. And so I will be a bit more persevering.
+//Intentionally contradictory. -GHS
+TP
+//太一「だから、トモダチになってくれないか？」
+Taichi: "And so, won't you become my friend?"
+//Odd repetition of 'dakara'. Supposing WeirDz. But Miki IS his friend, isn't she? -GHS
+TP
+WVP 0 vzzztof_MKI0_0632A
+//美希「……ＰＹＦ［Ｅ？　５……４Ｃ？」
+//* ……先輩？　え……嘘？
+//...といみせちに?　いく...　みら　てちん?
+Miki: "...toimisachini? Iku... mira techin?"
+> 
+ 
+ 
+* "...Senpai? Eh... no way?"
+//Just can't keep that damn 'uso' as lie... -GHSob
+TP
+//美希は自分の足の状態も把握できてない様子だ。
+Miki appears unable to grasp the current condition of her feet.
+//Bad puns continue, as well as the idea that this is only psychological for her. No way she can't understand her tendons have been severed. Once more, cause and effect are completely nonsensical. -GHS
+TP
+//おそらくインプラントが原因だろう。間違いない。
+I dare say that the origin of that is some sort of Implant. Make no mistake.
+//Meaning she'd have some kind of Alien Implant that doesn't let her feel pain. -GHS
+TP
+//いや、原因はリバウンドだな。きっとそうだ。
+No, the origin is rebound. Definitely.
+//Whose? -GHS
+TP
+//そして実際は『みかか』の呪縛の犠牲者なのだと俺は知っている。
+And then, I knew: we were victims of the Curse of Mikaka, whereas our typing on a Kana keyboard is cursed to output to Romaji and viceversa.
+//There we go. This is even weirder and more absurd spelled out for the readers. -GHS
+TP
+//太一「らーららー」
+>                     Ooo       OOooo
+Taichi: "Laaa lalaaa!"
+//ら decrypts to the letter 'O'. 0, circle, loop, correct. Same as with how 'zero' is often kept in Western numeral. He's screaming "loop, loop" over and over and over and over and over. Furrygana'd for maximum weird. -GHS
+TP
+WVP 0 vzzztof_MKI0_0633
+//美希「……っ」
+Miki: "...!"
+//Clear voice -GHS
+TP
+//動かない足を引きずって、離れようとする。
+Limping on her unmoving feet, she works to gain distance.
+TP
+
+
+//And here begins the single messiest scene to recreate in Cross Channel: that Miki CG is HUGE and has seven variants (a number I'm sure is totally random, of course). Fortunately (or unfortunately), most of this stuff isn't actually seen. And that's why they're in the Extras directory! -GHS
+
+
+GL 0 zzzASmiki01
+GS 0 1
+SEF 109 0
+
+
+
+//太一「らーらーららーらららー」
+>                     Ooo       Ooo       OOooo           OOOooo
+Taichi: "Laaa laaa lalaaa lalalaaa!"
+//Just one last time, either the reader 'gets' it or who am I kidding they can just read the damn notes. -GHS
+TP
+WVP 0 vzzztof_MKI0_0634A
+//美希「ＥＱＥ……３Ｄ……ＥＱ＃……」
+//* 痛い……足……いたぁ……
+//くなすかと...　はいいか...　らててて...
+Miki: "Kunasukato... haiika... ratetete..."
+> 
+ 
+ 
+* "Hurts... feet... owww..."
+//Heh, the 'w' in "ow" ends up like the "te" that is in most of the original "ow"s. -GHS
+TP
+//太一「トモダチだよキミィ」
+Taichi: "You be a f-r-i-e-n-d!"
+TP
+//トモダチはナイフで。
+Friend by knife.
+TP
+//太一「一日１５分のトレーニングで全国の３０万人のトモダチが」
+Taichi: "You can gain 300,000 friends throughout the country with just 15 minutes of training a day!"
+//Must be Cross Channel Marketing. CCA0005, that's his morning practice after all. Hmmm, how many copies did Cross Channel sell...? Anyway, population of Japan in 1998 was 126,300,000 - number is pretty stable due to low birth numbers - meaning to win over Japan it'd take around 421 days 4+2+1=7. -GHS
+TP
+WVP 0 vzzztof_MKI0_0635A
+//美希「ＢＵＥＷ＠……ＢＵＥＷ＠％％％ｚ！！」
+//* 来ないで……来ないでぇぇぇっ！！
+//とかちん　こちその...　とかちん　こちちちちその!!!
+Miki: "Tokachin kochisono... TOKACHIN KOCHICHICHICHISONO!!!"
+> 
+ 
+* "Stay back... STAY BAAAACK!!!"
+TP
+
+
+WVP 2 seSTAB 1 0
+
+GL 1 zzzASmiki02
+GP 1 0 0
+GP 5 0 0
+GL 5 EFCC0003
+GS 1 1
+GS 5 1
+SEF 100 0
+WT 500 0
+GS 1 0
+GS 5 0
+SEF 109 3
+//This had a sort of the reverse of the flashback effect, where it grows into a circle at the center of the screen. It's cute, but it's not much different here. -GHS
+
+
+
+
+//俺は美希にナイフをインストールする。太もものあたり。
+I install a knife in Miki. Around the thigh.
+//And Miki, who is God by virtue of destroying the Tower of Babel, now gets tortured in what is effectively a crucifixion. ...it does sound stupidly blunt when said like that. Except, this should be a replay of the very end of the new CCD0022A. Who was being tortured there? Not Yutaka, he survived. If Miki was Yutaka above, then who is she now? Outside of Youko, getting brutally and sadistically murdered (but not forgiven) for what she did to him, I have no idea. -GHS
+TP
+//スロットがないので、新しく増設する必要があった。
+There was no slot, so it necessitated installing a new one.
+//You'll break your brand new PC, Misato! See CCD1001. -GHS
+TP
+WVP 0 vzzztof_MKI0_0636A
+//美希「３３＃＃＃ｚ！！」
+//* ああぁぁぁっ！！
+//ちちちちちく!!!
+Miki: "CHICHIchichichiku!!!"
+> 
+ 
+ 
+* "AAaaah!!!"
+TP
+//抜くと果てしなくジューシーだった。
+Juiciness without end on removal.
+TP
+
+WVP 2 se104 1 0
+GL 0 BGCC0008B
+GS 0 1
+SEF 109 0
+
+
+//顔面を狙って蹴りが来た。
+A kick came aimed at the face.
+TP
+//腱が切れているのにすごい。美希には才能がある。
+When her tendon is severed, amazing! Miki has some genius in her.
+//See CCD1001: more miracles? Or see CCD4022. Genius by fail. More likely, she's getting tired of this rough horseplay. There's no murdering, but he's passed the boundary. That's mass murder to him. Maybe. -GHS
+TP
+//だから俺は、足の裏を刃先で受け止めた。
+Therefore, I had the edge of the blade stop the sole of her foot.
+TP
+
+WVP 2 seSTAB 1 0
+GL 5 EFCC0003
+GI 5 0
+WT 500 0
+GS 5 0
+SEF 109 2
+
+//オート串刺しだ。
+Autoskewering.
+TP
+WVP 0 vzzztof_MKI0_0637A
+//美希「３…………」
+//* あ…………
+//ちく......
+Miki: "Chiku......"
+> 
+ 
+ 
+* "Ah......"
+TP
+//貫かれた自分の足を、呆然と見つめる美希。
+Miki goes to stare at her own pierced foot, dumbfounded.
+TP
+//ナイフを抜くと、美希の足は完全に死んだのか、ぱたりと床に落ちた。
+On removing the knife, Miki's foot fell down on the floor with a thump, as if it had perfectly died.
+//Or, as if their game called for it. She's not that much in pain, is she. She probably whined more in her sex scenes! -GHS
+TP
+//トモダチは簡単にできそうだ。
+Seems making friends is simple.
+TP
+
+WVS 1 1
+
+//俺はゆっくり事を進めることにした。
+I decided to slowly progress on the deed.
+TP
+//『コレ』がたいして恐ろしいものではないことはわかっている。
+I understand that "this" is not something to be so afraid of.
+TP
+//多少の才能はあるようだけど、一度だって恐怖を感じたことはない。
+But it seems I have some measure of talent for it, I haven't felt terror not once.
+//See CCD0022A: he broke himself first. -GHS
+TP
+
+WVP 1 bgm009.ogg 0 0 0
+GL 0 zzzASmiki01
+GS 0 1
+SEF 109 0
+
+
+//太一「らー……」
+Taichi: "Laaa..."
+TP
+//両手にそれぞれナイフを持つ。
+I hold a knife in each respective hand,
+//As with Kiri? -GHS
+TP
+//血抜きをしないと。
+I ought drain the blood.
+TP
+WVP 0 vzzztof_MKI0_0638A
+//美希「Ｓ＠４ＤＷ……Ｓ＠４ＤＷ？」
+//* どうして……どうして？
+//てくん...　てくん?
+Miki: "Tekun... tekun?"
+> 
+ 
+ 
+* "Why... why?"
+TP
+WVP 0 vzzztof_MKI0_0639A
+//美希「Ｓ＠４ＤＷ……０ＱＤＦ……ＲＨ＠ＩＩ＠ＵＴｚＱＫＴＵ……，ＰＹＦ［Ｅ？」
+//* どうして……わたしは……すぐに逃げなかったのかな……ね、先輩？
+//てくん...　しにしみけか　に...　まなとか　にももいしにちかいりん　すなみ　ちてちん...　んらな　のみらて,　といみせちに?
+Miki: "Tekun... shinishimikeka Ni... manatoka nimomoishinichikairin sunami chitechin... nrana nomirate, toimisachini?"
+* "Why... didn't I... just immediately run away... you know, Senpai?"
+//NOT "why are you doing this". Interesting. -GHS
+TP
+
+WVP 2 seSTRIP 1 0
+GL 0 zzzASmiki03
+GS 0 1
+SEF 109 0
+
+//まず衣服を剥ぐ。
+First, tear off the clothes.
+//"You're pretty, so off with the clothes". Hmmm. -GHS
+TP
+//すでに抵抗はなくなっていた。
+Opposition was already vanishing.
+TP
+WVP 0 vzzztof_MKI0_0640A
+//美希「Ｄ＠２＠ＹＴ＠Ｑ＠ＥＤ＠……ＵＫＩ……」
+//* 自分が大事……なのに……
+//てくいみ　に　くらりし　もんといりは...　とら　せすいそにらなと...
+Miki: "Tekuimi Ni kurarishi montoiriha... tora sesuisoniranato..."
+> 
+ 
+* "When I hold myself... so precious..."
+//Still her own route's arc. -GHS
+TP
+
+WVP 2 seSTAB 1 0
+GL 0 zzzASmiki04
+GL 5 EFCC0003
+GS 0 1
+GS 5 1
+SEF 100 0
+WT 500 0
+GO 5 1
+
+
+//†が閃く。
+The † flashes.
+//See above: was he flashing his knife then? See CCD0022A: was it there? Or is he just screaming "God help me" over and over? -GHS
+TP
+WVP 0 vzzztof_MKI0_0641A
+//美希「ｚ……ＥＱｚ……ＸｚＸＳ、Ｉ：＠Ｗ；Ｆ＠……３ＹＰ＠ＹＱ＠ｚＱＫｌＵ＃……３ff……」
+//This is the only changed line of hers, but not in a way that makes any difference. It's just a little more accurate to the text. -GHS
+//* っ……いたっ……さっさと、逃げてれば……安全だったのになぁ……あはは……
+//!　...らて...!　てくいみ　には　に　くちし　すなみ,　すにきくか　ちてちん...　に　てらなりしけひい　こいいみ　とちはい...　ちくちくちく...
+Miki: "! ...rate...! Tekuimi niha Ni kuchishi sunami, sunikikuka chitechin... Ni teranarishikehii koiimi tochihai... chikuchikuchiku..."
+* "! ...ow...! When if I had run, right away... I would've been safe... ahahah..."
+//Transcribing these felt like a kana reading exercise. I may have got a few wrong, for those -2 who care. -GHS
+TP
+
+WVP 2 seSTAB 1 0
+GL 0 zzzASmiki05
+GL 5 EFCC0003
+GS 0 1
+GS 5 1
+SEF 100 0
+WT 500 0
+GO 5 1
+
+
+
+//†。
+†.
+TP
+WVP 0 vzzztof_MKI0_0642A
+//美希「ＥＱｚ……４４＄……」
+//* いたっ……ううぅ……
+//らて! ...みきききく...
+Miki: "RATE! ...mikikikiku..."
+> 
+ 
+ 
+* "OW! ...ngggh..."
+TP
+WVP 0 vzzztof_MKI0_0643A
+//美希「……ＶＳＬＷ＠ＥＧ．Ｄ＠ＤＹＴ＠……ＵＴｚＱＴＯ……」
+//* ……一人で生きる自信が……なかったから……
+//...こいそちなとい　に　しにしみけか　くちひい　かくい　そらみはにしいみそい...　から　りにひい　ちりらみい...
+Miki: "...koisochinatoi Ni shinishimikeka kuchihii kakui soramihanishiimisoi... kara rinihii chiriramii..."
+> 
+* "...because I didn't have the confidence... to live alone..."
+//In the hokora, thematic concept, still see her route. Hey, if this is supposed to be the very beginning and an alternate universe, how come this is obviously Unreset Miki from her route? Troll troll trolllll. -GHS
+TP
+
+WVP 2 seSTAB 1 0
+GL 0 zzzASmiki06
+GL 5 EFCC0003
+GS 0 1
+GS 5 1
+SEF 100 0
+WT 500 0
+GO 5 1
+
+
+//†。
+†.
+TP
+WVP 0 vzzztof_MKI0_0644A
+//美希「Ｑ＠ＴＯＭＤＴＤＱＯＧＬＴ＠ＥＧＷ．ｚＷ、６ＭｚＷ……」
+//* だからもしかしたら霧が生きてるって、思って…
+//とら　に　かくらなきくか,　には　のにすに　てちと　ちりにひい,　かくいみ...
+Miki: "Tora Ni kakuranakikuka, niha nonisuni techito chirinihii, kakuimi..."
+> 
+ 
+* "So I thought, if Kiri was alive, then..."
+//Maybe it's killing Kiri early that would've triggered the bad end. Some parallels with Yutaka: if only he hadn't been happy, then... also see her Sendback, with Kiri gone, she goes bad quickly. -GHS
+TP
+
+WVP 0 vzzztof_MKI0_0645A
+//美希「Ｗ＠Ｍ０ＱＤ……７ＧＦＯ４Ｄ＠（ＹＶ＠ＭＤＷＧＷＱ……」
+//* でもわたし……焼き払う準備もしてきてた……
+//こなか　に...　に　ちりとら　せすいせちすいし　もんといりは　から　こなすみ　にか　ちりり　しらてみ...
+Miki: "Konaka Ni... Ni chiritora sesuisechisuishi montoiriha kara konasumi nika chiriri shiratemi..."
+> 
+ 
+* "But I... I also prepared myself to burn it all down..."
+//Notice she doesn't actually say she did, just that she was ready to. After all, there's no one there and the two are just playing a game. -GHS
+TP
+
+
+WVP 2 seSTAB 1 0
+GL 0 zzzASmiki07
+//It's sort of visible in other CGs that this stab was there already. In fact, it's there from when she's stripped. I think there was some miscommunication as to that first stab, the "knife installation" one. -GHS
+GL 5 EFCC0003
+GS 0 1
+GS 5 1
+SEF 100 0
+WT 500 0
+GO 5 1
+
+
+//†。
+†.
+TP
+
+WVP 0 
+//美希「－ＹＳ４ＦＤＹＷ＠．ｚＷ、ＵＹＳＵＨＧＺ＠ＥＷＱ」
+//* 本当は死んでるって、なんとなく気づいてた
+/* "Truth is, I had realized she was dead... somehow."
+//†。
+/†
+///These lines were deleted. Pace, I guess. -GHS
+
+
+WVP 0 vzzztof_MKI0_0646A
+//美希「３ＦＦＦＦＦＦＦＦＦ」
+//* あはははははははははは
+//ちくちくちくちくちくちくちくちくちくちくち!
+Miki: "Chikuchikuchikuchikuchikuchikuchikuchikuchikuchi
+kuchi!"
+> 
+ 
+* "Ahahahahahahahahahaha!"
+//F is the 16th value in hexadecimal. -GHS
+TP
+WVP 0 vzzztof_MKI0_0647A
+//美希「３ＦＦＦＦ、ＦＦ、ＦＦＦＦ……」
+//* あはははは、はは、はははは‥‥‥
+//ちくちくちくちくち,　くちくち,　くちくちくちくち...
+Miki: "Chikuchikuchikuchikuchi, kuchikuchi, kuchikuchikuchikuchi..."
+> 
+ 
+* "Ahahahahahah, hahah, hahahah......"
+//...but it's stretching it, 19xF + 3 + 3 = 25 2+5=7 -GHS
+TP
+WVP 0 vzzztof_MKI0_0648A
+//美希「４０３３３３３ｚｚｚ！！」
+//* うわあああああッッッ！！
+//くんちちちちちく!!!
+Miki: "kunCHICHICHICHICHIKU!!!"
+> 
+ 
+ 
+* "hyAAAAAH!!!"
+//4+time loop+3 -GHS
+TP
+
+
+WVP 2 seSMACK 1 0
+GL 5 BGCC0000E
+GI 5 0
+SEF 101 0
+GL 0 BGCC0008B
+GS 0 1
+GS 5 0
+SEF 109 0
+
+
+//太一「！？」
+Taichi: "?!"
+TP
+//美希の手が動いた。
+Miki's hand moved.
+TP
+//虚をつかれた。
+Attacked while off guard.
+//嘘をつかれた "I was lied to" looks so similar it may not be coincidental. -GHS
+TP
+//側頭部に重い衝撃。脳の中心まで抜けるほどの。
+A heavy impact on the side of the head, enough that the center of the brain could come out.
+//See CCX0001, as well as many parts of Week 1. That's where the Cover-Up Lobe(?) of his brain is. See CCD1001: that's where his automatism is. She's not attacking to kill him; she's attacking to make him regain his sense of reality. That's what the whole thing about universes changing and the Shimura Phenomenon means. -GHS
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+WT 100 0
+GO 5 1
+
+//太一「うっ……」
+Taichi: "Ngh..."
+TP
+//ぐらり、と傾く。視界が暗くなる。
+I lean over with a violent shake. Vision grows dark.
+TP
+//かろうじて意識は失わなかった。
+I just barely avoided losing consciousness,
+TP
+//が、思わずナイフを落として手をついてしまう。
+but, I unconsciously dropped the knife and laid the hand there.
+TP
+//太一「……あ、あー……」
+Taichi: "...ah, aaah..."
+TP
+//美希の手に警棒。
+There's a baton in her hand.
+//Supposing it's a foldable. Like the fan in the Touko blowjob scene, this is never heard or mentioned again; then again, this so damn metaphorical it's absurd to even think of taking this literally. What she did was similar to what Taichi does to Sakuraba: did Taichi literally beat Sakuraba's automatism out of him? If so, given Sakuraba doesn't recover 100%, that'd still be not enough, perhaps explaining why Taichi still goes mad after ejecting Youko, and why Sakuraba wanting to abandon the city equals death. -GHS
+TP
+//俺の頭を叩いたものだ。
+That is what smacked my head.
+TP
+//だけど下半身がふんばれなくては、威力も乗らない。
+However, she can't brace with the lower part of the body and convey her full strength.
+TP
+//太一「痛いじゃないか……っ」
+Taichi: "Well don't that hurt now...!"
+TP
+//呼吸をすると、ズキッと痛みが走る。
+I take a breath, and throb!, the pain runs.
+//See CCA0027. And around it goes. -GHS
+TP
+//触れると、血が出ていた。
+I touch, and blood is coming out.
+TP
+//太一「これはコブができちゃうな」
+Taichi: "This is gonna swell, you know!"
+TP
+//しかも疼痛がする。数時間後に嘔吐して死ぬ時間差トリックか。
+But still there's pain. Is it this that time-delay trick where I have a bout of emesis and die several hours later?
+//As in, the tip of the nightstick was poisoned? Perhaps he's rationalizing having eaten the potatoes raw to the bud (no I'm not letting that go, he started it!). -GHS
+TP
+//ま、それまでに見破れば死ぬことはないから平気だが。
+Well, if I've managed managed to find out that much I won't die, so I'll be alright.
+//Because he can cure the poison? -GHS
+TP
+
+//I suspect the above is when the game ends, as Taichi went a little too hard on Miki - see CCC3012A, when he does, she just smacks him hard, meaning this stopped just like it did in CCA0016. The below is just him still hallucinating he doesn't stop. -GHS
+
+GL 0 zzzASmiki08
+GS 0 1
+SEF 109 0
+
+//いいや。
+Naah.
+TP
+//いいや、いいや。
+Naah, naah.
+TP
+//もういいや。
+No more, now.
+TP
+//もう……トモダチにしてしまおう。
+Now... I'll be making you into a friend.
+TP
+//静かで安全なトモダチに。
+A silent safe friend.
+TP
+//俺の中で永遠に生き続けるトモダチにだ。
+A friend that will live on inside me for all eternity.
+//The kind he likes... the perfect kind, the one who never contradicts him or says anything annoying or pesters him when he doesn't want to. A thing. -GHS
+TP
+//†―――
+†---
+TP
+
+WVP 2 seSTAB 1 0
+GL 5 EFCC0003
+GI 5 0
+
+
+WVP 0 vzzztof_MKI0_0649A
+//美希「……４Ｈ＠ｚ」
+//* ……うぐっ
+//...なきなな!
+Miki: "...mikiku..."
+> 
+ 
+ 
+* "...ngh..."
+TP
+
+GL 0 zzzASmiki09
+GS 0 1
+GS 5 0
+SEF 109 2
+
+//血が広がる。
+The blood spreads.
+//It may be censorship, it may be bad design, but it's odd that there's a ton of blood below her yet all those stabs look no more than papercuts. May be whatever, but if it's intentional... -GHS
+TP
+//廊下に広がる。
+Throughout the corridor it spreads.
+TP
+//世界に広がる。
+Throughout the world it spreads.
+TP
+//どこまでも広がってすべてになる。まるで血袋。
+Throughout everywhere it spreads and everything it becomes. She's like a blood bag.
+//Women are convenient bloodbags for men. -GHS
+TP
+//トモダチには血はいらない。信じるしかないだろう。
+Friends don't need blood. Cannot do anything but believe, I guess.
+//See CCD5001: perfect Youko doesn't need love, just like Alter Egos don't need anything but reciprocal assertion. That's exactly the same as people not needing blood to be friends. -GHS
+TP
+//だけどまだ完全じゃない。
+However, this is still not perfect.
+TP
+//俺は最後に、渾身の力で†した。
+And I, with all my might, gave one last †.
+TP
+
+WVP 2 seSTAB 1 0
+GL 0 zzzASmiki10
+GP 0 0 -200
+GL 5 EFCC0003
+GS 0 1
+GS 5 1
+SEF 100 0
+WT 500 0
+GO 5 1
+
+
+//深々と。美希は細く長いうめき声をあげた。
+In the deepest depths. Miki released a narrow and long grunt.
+TP
+//そして。
+And then,
+TP
+WVP 0 vzzztof_MKI0_0650A
+//美希「……ＲＧＱ＠ｚＱＫＩ―――」
+//* 好きだったのに
+//...てくいみ　に　りらひいし　んらな---
+Miki: "...tekuimi Ni rirahiishi nrana---"
+> 
+ 
+ 
+* "...when I loved you---"
+TP
+
+CIN 0 0 -200 0 0
+CR 3
+//I never thought it could do this. -GHS
+
+//†が止まる。
+The † stops.
+TP
+//意志に反して。
+Against my will.
+TP
+WVP 0 vzzztof_MKI0_0651A
+//美希「……ＰＹＦ［ＥＫＢＳ、Ａ）ｚＳＲＧＱ＠ｚＱＫＩ……」
+//* ……先輩のこと、ちょっと好きだったのに……
+//...てくいみ　に　のにみし　らは　りらひいし　んらな,　といみせちに...
+Miki: "...tekuimi Ni nonimishi raha rirahiishi nrana toimisachini..."
+> 
+ 
+* "...when I kind of loved you, Senpai..."
+TP
+//太一「……………………」
+Taichi: "............"
+TP
+//体が動かない。
+Body doesn't move.
+TP
+//痺れているみたいに。
+As if it had been numbed.
+TP
+
+CIN 0 0 0 0 -200
+CR 3
+
+//けどゆっくりと、自由が戻る。動かせるようになる。
+But slowly, freedom returns. I become able to move.
+TP
+//だって俺の筋肉なんだから。
+After all, they're my muscles, aren't they.
+//His volition and freedom is now into the "evil". This contradicts much of what's been seen of him. Of This World indeed. -GHS
+TP
+//だから、部活を続けようじゃありませんか。
+And therefore, shall we not continue with our club activities?
+//Random formal. Seems inspired by Misato's words. -GHS
+TP
+//使う。
+I use.
+//The cross mark has been removed, how suspicious. -GHS
+TP
+//じょうずに使う。
+I use nice and well.
+TP
+WVS 1 1
+//そして。
+And then,
+TP
+
+WVP 2 seSTAB 1 0
+GL 0 EFCC0003
+GP 0 0 0
+GS 0 1
+SEF 109 0
+
+
+†
+TP
+
+//美希「……………………」
+Miki: "............"
+TP
+
+GS 0 0
+SEF 109 5
+
+//使い終えた。
+The use is finished.
+TP
+
+//太一「……………………」
+Taichi: "............"
+TP
+
+
+GL 0 BGCC0008
+GS 0 1
+SEF 109 1
+WVP 1 bgm018.ogg 0 0 0
+
+//どれくらい佇んでいたのだろう。朝になっていた。
+How long have I even stood there. It had become morning.
+//Since time has little meaning... an hour? -GHS
+TP
+//ひどく、気分が悪い。吐きそうだ。
+I feel sick, horribly so. As if to throw up.
+//PCP CCD2002
+//Hi, Touko. That's what the time-delay above means. -GHS
+TP
+//陽光に焙られるのを忌避する虫のように、俺はその場を離れる。
+Shirking from the scorching sunlight like an insect, I take distance from that spot.
+TP
+
+GS 0 0
+SEF 109 0
+
+//……………………。
+............
+TP
+
+GL 0 BGCC0014
+GS 0 1
+SEF 109 0
+
+//店で飢えを満たす。
+I satisfy my starvation at a shop.
+TP
+//メモを見る。
+I look at the memos.
+TP
+//そうだ、こうやってツケていた。
+Right, that's how you go post up credit bills..
+//I suspect that, in the simplest troll (that the Cross World is a physical place and ToF takes place in it, with a completely separate but overlapping cast), this is who posts up the memos. In various people's names. For no reason whatsoever. And he apparently mostly got vegetable juice. That, or time will mysteriously start looping from the previous Sunday when the parallel world people get here and then this Taichi puffs out of existence like everyone else for no explained reason. Or dies and falls into a ditch and doesn't get reset and somehow grows old for same. -GHS
+TP
+//すべてが、遠い過去の出来事めいて懐かしい。
+All those are as if events of a distant past, so nostalgic.
+TP
+//震える手で、ペンを取った。
+I took the pen with shaking hands.
+TP
+
+
+
+
+GL 0 BGCC0005
+GS 0 1
+SEF 109 0
+
+//彷徨う。
+Roaming.
+TP
+//太一「……………………」
+Taichi: "............"
+TP
+//とても静かだ。
+It's pretty quiet.
+TP
+//夏の熱気だけが、例年通りに降り注ぐ。
+Nothing but the zealous hot hair of Summer pouring on, as every year.
+//See CCA0015C
+TP
+//汗とともに、少し理性も戻ったのか、妙に冷静だった。
+Perhaps a bit of rationality has returned, together with the sweating, as I was oddly composed.
+TP
+//人類はあっという間に滅びてしまった。原因もわからないまま。
+Humanity had fallen in the blink of an eye. Origin remains not understood.
+//Pshaw, this is so obviously the Settei changing that it barely bears belaboring at this point. See CCC0006B, same trick as with Nanaka: although the term can imply either knowledge or understanding, Taichi knows, but doesn't necessarily understand. Plus, we had the Tower event, that comes AFTER the flood, not before! -GHS
+TP
+//人口が減少するのは、あっという間だった。
+The population declined in the blink of an eye.
+//Since he usually uses something to the effect of "fallen" or "annihilated", it's not often clear that it's also metaphorically talking about the birthrate and population decline of Japan - but it is here. -GHS
+TP
+//対処することもできなかった。
+It wasn't something that could be dealt with, either.
+//This can mean himself, but also as far as the political and cultural levels. -GHS
+TP
+//誰も生き残らないだろう。誰も。
+No one's survived, I guess. No one.
+TP
+
+GL 0 BGCC0002
+GS 0 1
+SEF 109 0
+
+//その構図が見えた時、俺は―――
+And the moment I saw that composition, I---
+//The Ironic Composition of just these eight damaged people being left, perhaps, except there's at least Sakakibara left. But it's also further hints that he possibly didn't kill anyone at the Hasekura mansion, he just began 'ignoring' people. -GHS
+TP
+//せいいっぱいの強さも、跡形もなく吹き飛んで。
+Even the strength to make my best effort flies away, leaving behind no trace.
+TP
+//家に入るのが怖い。
+I'm afraid to go inside the house,
+TP
+//そこに睦実さんの死体がないとは限らないからだ。
+because there's no certainty body of Mutsumi-san won't be in there.
+//Intended to be read that he murdered her. See CCC3012B, which is similar to this in many ways: he's actually afraid she's in there, perfectly alive, and since he can't deal with all that, the game'll be up and he'll be "dead". -GHS
+TP
+//記憶も定かではない。
+My recollections aren't definite on this.
+//This is among the most meaningless things that Taichi could ever say. -GHS
+TP
+//……入れない。
+...I can't go inside.
+TP
+//今の冷静さも、またすぐ消えてしまいそうだ。
+It feels like the composure I have now would, itself, quickly vanish as well.
+//...because she's there welcoming him and the game'd be up... -GHS
+TP
+
+GS 0 0
+SEF 109 0
+
+//……………………。
+............
+TP
+
+GL 0 BGCC0005
+GS 0 1
+SEF 109 0
+
+//坂道。どこに行けばいいのか、判断できない。
+The hill road. Wherever I should be going now I can't determine.
+TP
+//ぼんやりと、足を動かす。
+My feet move absent-mindedly.
+TP
+//暑い。
+Hot.
+TP
+//頭が痛い。
+Head hurts.
+TP
+//太一「……………………ら」
+Taichi: "............la."
+TP
+//ら？
+>  O
+La?
+//Reminder that this sentence is extremely meaningful. -GHS
+TP
+
+GS 0 0
+SEF 109 0
+
+//……………………。
+............
+TP
+
+GL 0 BGCC0014
+GS 0 1
+SEF 109 0
+
+
+//商店街。
+Shopping street.
+TP
+//誰もいない。
+There's no one.
+//It's a bedtown in the middle of the morning, of course there's no one. -GHS
+TP
+//誰か。
+Anyone...
+TP
+
+GS 0 0
+SEF 109 0
+
+//……………………。
+............
+TP
+
+GL 0 BGCC0001
+GS 0 1
+SEF 109 0
+
+//橋を越えた町はずれで、俺は佇立する。
+On the outskirts of town, passed the bridge, I stand still.
+//West town, should be around where Kiri practices. -GHS
+TP
+//緑の香りが、少しだけ心を包んでくれた。
+The fragrance of green enveloped the heart, if just a little.
+//Hum, this might be reminding him of Youko. See CCA0002. -GHS
+TP
+//なんだ、この世界は。
+The hell's up with this world.
+TP
+//唐突に搾り出されるイヤな気持ち。
+All of a sudden a really ugly feeling squeezes out of me,
+TP
+//甘い味をした歯磨きチューブの一番奥に詰められた、コールタールを味わう。
+and I taste the coal tar that had been stuffed at the deepest depths of this sweet flavored tube of toothpaste.
+//Lonely world's got a bitter aftertaste indeed.　See CCX0001: that'd be his deepest layer. -GHS
+TP
+//ああ、もう、どうしていつもこうなっちゃうんだろう。
+Ahhh, really, why does it always end up like this?
+TP
+//みんな狂ってるんだ。
+Everyone's gone mad.
+TP
+//そんで俺だけが正常なんだ、きっと。
+Therefore, I'm the only one that's normal, definitely.
+//Ironically... -GHS
+TP
+//人間になど生まれなければ良かった―――
+I wish I hadn't been born as anything remotely human---
+//More suggestions that his is just pretending to be an insect pretending to be human. -GHS
+TP
+
+GS 0 0
+SEF 109 0
+
+//……。
+...
+TP
+//…………。
+......
+TP
+//……………………。
+............
+TP
+
+GS 0 1
+SEF 109 0
+
+//気がつくと朝になっていた。原っぱに、俺は死んだみたいに転がっていた。頭痛によって叩き起こされたようなものだ。
+And then I noticed it had become morning. I was sprawled down, as if dead, in an open field. It felt like being slapped awake up by a headache.
+//See CCX0001 -GHS
+TP
+//太一「曜子ちゃん……曜子ちゃん……」
+Taichi: "Youko-chan... Youko-chan..."
+//That's the very last person he should be calling for! This is still replaying the end of the Shinkawas. -GHS
+TP
+
+GL 1 zzzASyoukofade2
+GP 1 180 0
+GI 1 1
+
+WVP 0 vzzztof_YOU0_0158
+//曜子「どうしたの？」
+Youko: "What is it?"
+TP
+//太一「頭、痛い……」
+Taichi: "Head... hurts..."
+TP
+//あのときのように。
+Just like that time.
+//Ibid. -GHS
+TP
+
+GL 5 evcc0063
+GI 5 0
+GO 5 1
+
+
+//太一「また俺……壊れちゃう」
+Taichi: "I got wrecked... again."
+TP
+//もう曜子ちゃんはいなかった。
+Youko-chan was already no more.
+//He's killed her here, did he kill her there? -GHS
+TP
+
+GL 0 BGCC0000A
+GS 0 1
+GS 1 0
+SEF 109 0
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+
+//『ＲＧＱ＠ｚＱＫＩ―――』
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+        『Tekuimi Ni rirahiishi nrana---』
+//PCP above
+TP
+
+GO 5 1
+TWS 0
+
+
+//なんだろう、このアルファベットは。
+What's even up with that weird romaji.
+//hee hee -GHS
+TP
+//意味がわからない。
+I don't get what it means.
+TP
+
+GS 0 0
+SEF 109 4
+
+//彷徨う。
+Wandering.
+//PCP ED.AVI (yes, again!)
+TP
+//彷徨う。
+Wandering.
+//CP 1
+TP
+//彷徨う。
+Wandering.
+//CP 2
+TP
+
+GS 0 1
+SEF 109 0
+
+//町中を歩き回って、坂道にさしかかったときだった。
+I was roaming about downtown, and when I approached the hill road,
+TP
+//背後から声をかけられた。
+someone called out to me from behind.
+TP
+//太一「……………………」
+Taichi: "............"
+TP
+//しばらく俺は停止していた。
+For a while I stood there, stopped.
+TP
+//気配を察することもできないほど、疲弊していた。
+I was exhausted, to the point where I could no longer evaluate presences.
+//He can no longer tell which is friend from which is not. This is where his game just breaks. -GHS
+TP
+//本能に従い、水分だけは補給していたが……。心はもう、とうの昔に配列を損なっていたのだ。
+Obeying instinct, I replenished fluids alone, but... my heart, by now, long since had its layout damaged.
+//Odd "alone" there, but see Touko, who subsists only on water. Is he starving himself as well? Ahhh I get it now! It's high noon and he'd sell his soul for water! Last part has sort of computer-ish terms still. -GHS
+TP
+//とにかく声をかけられた。
+Regardless, I was spoken to.
+//That voice happened how long ago now? The discrepancy is easily understood with the 0.108 ratio: people in the 'real' world would move around 7 times faster than him. He called him, but if he doesn't know these rules, he'd stand there still for minutes, unresponsive. -GHS
+TP
+//この声は……榊原先生。
+This voice... it's Sakakibara-sensei's.
+//See CCC4025. -GHS
+TP
+//そういえば生存者はまだいたんだ。
+Well then, this means there's still survivors.
+TP
+//トモダチではないけれど。
+He is not a Friend, however.
+//That doesn't mean any weird thing; see CCC0011A. Teachers won't be Friends, especially someone as antisocial as Sakakibara is (or might be, it's not like "his" diary is all that credible). -GHS
+TP
+//先生は、屋上がどうの美希がどうのと言っていたように思う。
+Sensei said something about the rooftop and something about Miki, I think.
+//"Don't go to the rooftop, also, you spooked poor little Miki dammit". He may be looking for him as he left school. -GHS
+TP
+//俺は乾いた唇を上下に引きはがして、声を出した。
+I parted my parched lower lip from the parched top lip and spoke to him.
+//He just said he replenished his fluids! He must've stood there for hours! -GHS
+TP
+//太一「先生、トモダチになってください」
+Taichi: "Teacher, please become my friend."
+TP
+//ずいぶんと待っていた。
+I wait for quite a while,
+TP
+//なのに返事はなかった。
+yet no answer came.
+TP
+
+GL 0 BGCC0005
+GS 0 1
+SEF 109 0
+
+
+//振り向くと、誰もいなかった。
+I turned around, and no one was there.
+//The guy likely left when he saw that Taichi wasn't responding. It's possible that what he said was nothing of what he said; we're post-Babel now. No one can understand others anymore. -GHS
+TP
+//先生の気配が見つからない。彼は俺に用事があったはずなのに。
+I could not find a trace of the teacher. But he would've had business with me, wouldn't he.
+//IOW, he didn't kill him at all, unless "started ignoring" (perhaps due to them not moving at his speed) means killing. Reminds of Nanaka, see CCA0023, and also of Youko. Very interesting, isn't it. -GHS
+TP
+//俺はどれくらいの時間、佇立していたんだろう。
+How much time have I even stood still there?
+//We're under "loop" effect, time is no longer coherent for him. Which hints that Teachers can't become Friends because they won't respect the Rules. -GHS
+TP
+//あるいは―――
+It's possible that---
+TP
+//そう、あるいは―――
+Yes, it's possible that---
+TP
+//太一「誰か」
+Taichi: "Anyone."
+//And still he seeks people. -GHS
+TP
+//もう無理だ。
+It's all done now.
+TP
+
+GS 0 0
+SEF 109 0
+
+//……………………。
+............
+
+GL 0 BGCC0015
+GS 0 1
+SEF 109 0
+
+TP
+//気がつくと、山道に踏み込んでいた。
+And then I noticed that I had treaded into the mountain path.
+//Same "and then I noticed" as above. He instinctively goes to the hokora, following the hint of his dead mother, although she isn't personified quite yet. -GHS
+TP
+//頭痛はまだおさまらない。
+The headache still hasn't lessened.
+//The memory center is stimulated, see CCX0001. -GHS
+TP
+//誰かに叩かれた側頭部が、ズキズキと疼く。
+The side of the head that a someone had smacked is now aching all throbby-throbby.
+//See CCA0027, the SFX is the same Miki uses there. It may just be that the smacking of his head all along was nothing but an attempt at replicating what he misremembers to have 'caused' Miki's happy face at the end of that scene, which got conflated with this. That still works since this entire thing is still supposed to be around the Miki route. -GHS
+TP
+//頭が破裂しそうだ。
+Head feels like it would blow up.
+TP
+//歩くごとに、頭に響く。
+Each step echoes in the head,
+TP
+//だけど彷徨うことをやめられない。
+but this wandering of mine I can't stop.
+TP
+//たぶん俺は、止まったら、止まる。
+Maybe if I were to stop I would come to a halt.
+//Laterally. See CCD5001: he moves onwards. -GHS
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+WT 100 0
+GO 5 1
+
+
+//太一「いたい」
+Taichi: "Hurts."
+TP
+
+WVP 0 vzzztof_MSA0_0925
+//見里「大丈夫ですか、ぺけくん？」
+???: "Are you alright, Peke-kun?"
+TP
+//誰もいなかった。
+There was nobody there.
+//Or was there? That'd explain what Misato is doing there at the start: it was always the start, it was always the camp, and it's just a metaphor for how he hurt her. He's reliving that moment. -GHS
+TP
+
+GS 0 0
+SEF 109 0
+
+//……………………。
+............
+TP
+
+GL 0 BGCC0016A
+GS 0 1
+SEF 109 0
+//Notice how it's evening now. No coincidence. -GHS
+
+//太一「……ここは？」
+Taichi: "...where am I?"
+TP
+
+GL 1 zzzASnanaka1
+GP 1 180 0
+GI 1 1
+
+WVP 0 vzzztof_NNK0_0000
+//七香「祠だよ」
+???: "At the ho-ko-ra!"
+//Tags were removed now that there's a visual guide. This Taichi here can't know who Nanaka is. -GHS
+TP
+//太一「そんなこと、知ってるよ。俺の知らないことを教えてよ」
+Taichi: "I know that much. Tell me something I don't know!"
+TP
+
+GL 1 zzzASnanaka2
+GI 1 0
+WVP 0 vzzztof_NNK0_0001
+//七香「知らなーい」
+???: "Something I don't know!"
+//Dammit mom! -GHS
+TP
+//太一「で、だれ？」
+Taichi: "Well, who're you?"
+TP
+
+GL 1 zzzASnanaka1
+GI 1 0
+WVP 0 vzzztof_NNK0_0002
+//七香「ななか」
+???: "Nanaka."
+//Half-jokes aside, the point here is that Nanaka doesn't know anything Taichi doesn't know, her being a memory and all... and she knows her name. This might've been more important before readers knew who and what she was, i.e. the Miki route. -GHS
+TP
+
+GO 1 1
+
+//太一「……………………」
+Taichi: "............"
+TP
+//いなくなっていた。
+She vanished.
+TP
+
+GS 0 0
+SEF 109 0
+
+//……………………。
+............
+TP
+
+GL 0 BGCC0000B
+GS 0 1
+SEF 109 0
+
+//場所もわからない道をふらふらと歩く。
+I was walking unsteadily down a road, off someplace I don't know,
+TP
+//頭痛と喪失感だけの俺だ。
+me with nothing but a headache and the memory of a sense of loss.
+//As it's written with the kind of 'loss' usually seen in 'memory loss'. -GHS
+TP
+//太一「……」
+Taichi: "..."
+TP
+//それは人ではないのだろう、きっと。
+That shouldn't be a person, definitely.
+//Likely speaking about himself, but he might be speaking about the people he sees/doesn't see right about now. -GHS
+TP
+//人がいなければ骸のような作法にのっとる必要はない。
+If there are no people, there is no need to follow this husk-like etiquette.
+TP
+//空虚な演出は、文字通り無意味になる。
+It would be a play with no script nor stage, literally meaningless.
+//Lateral... but not much. -GHS
+TP
+//聞く者もない。
+There'll be no one to listen, either.
+//Though there's no guarantee for people to listen to the "radio", which in Week 1 (and most weeks) didn't literally have a script either. I would suspect Tanaka sort of wings it and hopes, but with the mess of cross-references, it sounds hard to believe. -GHS
+TP
+//太一「…………」
+Taichi: "......"
+TP
+//消してくれ。
+Go and vanish.
+TP
+//みんな、消してくれ。
+Go and vanish, everybody.
+TP
+//俺は願った。
+That's what I wished for,
+TP
+//世界すべてを、俺の前から消してくれ。
+for all in the world to just vanish from in front of me.
+//With more than a little hint that, currently, it IS actually in front of his eyes. This is the end of the Training Camp. -GHS
+TP
+
+WVS 1 1
+WVP 2 SE035 1 0
+//走り出す。
+I break into a run.
+TP
+//途方もない苦痛が、頭の芯に響く。
+Extraordinary pain reverberates throughout the center of my head.
+TP
+//構わず走る。
+I don't care and run.
+TP
+
+GL 0 bgcc0001b0
+GS 0 1
+SEF 10 0
+
+//街を視た―――
+I looked over the town---
+TP
+
+GL 0 bgcc0001b1
+GS 0 1
+AL 8
+GL 0 bgcc0001b2
+GS 0 1
+AL 0
+GL 0 bgcc0001b3
+GS 0 1
+AL 0
+GL 0 bgcc0001b4
+GS 0 1
+AL 0
+GL 0 bgcc0001b5
+GS 0 1
+AL 0
+GL 0 bgcc0001b6
+GS 0 1
+AL 0
+GL 0 bgcc0001b7
+GS 0 1
+AL 0
+GL 0 bgcc0001b
+GS 0 1
+AL 0
+SEF 99 1
+//From CCA0002
+
+
+WVP 1 bgm023.ogg 0 0 0
+
+
+//その瞬間、何かが起こった。
+And that instant, something happened.
+//Very interesting the above, isn't it. Past and present collide, unless this was always the present, and so was that. This is where The Switch takes place. But what, exactly, switches? -GHS
+TP
+//何者かが、あるいは偶然という神が、二枚の紙を重ねて画鋲で射止めた。
+Someone, possibly the god called coincidence, overlapped two sheets of paper and shoots 'em dead with a thumbtack.
+//AKA the Christian God. This is supposed to be the Worlds Crossing... but this doesn't actually explain why everyone was gone before the worlds crossed, or why so many things change in ways that are consistent with the 'other' world. Outside of this being in Taichi's mind, at least. Paper is read Kami, in fact, "two sheets of paper" is read "the God of Japan". The reason for this is Japan. See CCX0001, this part has been integrated there now.
+//That last term is seen at the end of CCA0013, when Taichi wins over Yusa's favor with a single handkerchief (which is usually found folded, dot dot dot). Though it does literally mean "to shoot dead", it is most often used in this meaning of "conquering/overcoming" or "winning [over]". -GHS
+TP
+//すると８つの気配が出現した。
+And on that, 8 presences appeared.
+//Yu. Look at this troll: eight *presences*, not eight people. What's not immediately clear is that Nanaka is also inside of the Cross World, see CCD0023 for the most explicit hint. That's eight presences total with her, plus Taichi makes nine. That one or two of those presences are actually his delusions is not contradictory. -GHS
+TP
+//瞬間的に、俺は気配を断つ。本能だ。
+I instantaneously suppress my presence. It's instinct.
+//Also, God put the remaining people there for him, not his simple observation. This is consistent with CCC3009. -GHS
+TP
+//８つの気配。
+Eight presences.
+TP
+//いや……ありえない。
+No... it's impossible.
+TP
+//気配を具現するなんて器用なことはできない。
+I could never do something as skillful as incarnate a presence,
+TP
+//観念の虚像ならともかく。
+although the virtual image of a concept would be different.
+//No lies still: the embodiment of a presence would require others to see the person. No one sees Nanaka but him, and all he does for Youko is either dress up as her, or fake out people seeing her when she isn't there. Plus, no one but the six people known to play along with him ever even hint at seeing or hearing of her. Those are the virtual images of concepts, namely his own tragedy (Youko) and his own salvation (Nanaka). No more. However, the troll is that he's just hallucinating them after murdering everyone, but I suspect few will be fooled by that at this point. -GHS
+TP
+//太一「ううう……ううぅぅぅ……」
+Taichi: "Ngggh... ngGhhh..."
+//x8 -GHS
+TP
+
+GL 0 BGCC0015A
+GS 0 1
+SEF 109 0
+
+//山をおりる。足早に。
+I descend the mountain. With quick feet.
+//Remember how the Training Camp ends: with him running off ahead. The whole thing about them deciding to do things in reaction to the disappearance of mankind may be just his rationalization of things they had already settled on doing. -GHS
+TP
+//すべてがイッちゃってる。
+Everything's going to hell in a handbasket.
+TP
+//俺のための確かなものは何もない。
+There is nothing that I can rely on anymore.
+//Nothing that can save him... nothing he can be sure of. -GHS
+TP
+//もう気配は探るまい。
+I should probably not investigate presences anymore.
+//Well how convenient now! -GHS
+TP
+//こわいよ。
+I'm scared.
+TP
+//こわいんだ。
+Because it's scary.
+TP
+
+GS 0 0
+SEF 109 0
+
+//……………………。
+............
+TP
+
+GL 0 BGCC0011C
+GS 0 1
+SEF 109 0
+//Not once but twice. Just what the hell were they doing? -GHS
+
+//逃げ込むように学校に来ていた。
+I came to school so that I could run away into it.
+//Like Misato. The thing about the subdivision of duties probably happened long before. After all, there's no Fall of Mankind, is there. -GHS
+TP
+//美希と会うために廊下に行く。
+I go to the corridor, so that I could meet Miki.
+TP
+//移動していないなら、まだそこにいてくれるはずだった。
+If she did not move, then she should've still been there,
+//That if... -GHS
+TP
+
+GL 0 BGCC0008B
+GS 0 1
+SEF 109 0
+
+//だが。
+and yet.
+TP
+//美希は永遠になっていた。
+Miki had become eternal.
+//See CCC3022. Crystallized into a single moment... meaning she's looping and resetting... meaning she's not dead and never was. -GHS
+TP
+//永遠になったからには死体はない。
+When one becomes eternal, they have no cadaver.
+//So she was crucified, and then got up and walked away. Oh and the gate of school, which would be her tomb, was open. It's unclear how much time has passed, but assuming the murder is on the night of Wednesday, and the resurrection on the dawn of Saturday, that's three days. 72 hours outside of the loop would be between 7 and 8 inside, so that sounds right. And so, she's been crucified, and after roughly three days the tomb is found empty. All of this rings a bell. -GHS
+TP
+//必要ないからだ。
+It's not necessary.
+//But I have to love how Tanaka doesn't limit himself at trolling those who think this is sci-fi, but also those who'd resort to simplistic pseudoreligious explanations, like making the post-Flood word read so much like a post-apocalyptic (and un-Biblical) Rapture. -GHS
+TP
+//永遠とはそうしたものだ。
+For that is what eternity does.
+TP
+//永遠化したなら、移動できないはずの美希がいないのも納得できる。
+As she was Eternalized, Miki not being there when she shouldn't have been able to move is something I can accept.
+//Troll is the World Switch, see CCD0022A and 23, when the same thing happens. The simple answer is that, if she ever was there, she just got up and left many hours before. This was nothing but a weird corridor play like many in the main scenario. -GHS
+TP
+//だから良かったと思う。
+And so, I thought, that's good.
+TP
+//正直、美希後の美希を見るのはつらい。
+Honestly, it'd be tough to look at Miki's After-Miki.
+TP
+//美希前だったら良かったのに。
+But if it had been Before-Miki it'd have been nice.
+//Alive... but back when she was a loli might've been nice *hubba x2* -GHS
+TP
+//本当、そう思う。
+Truly, I thought that.
+TP
+//なぜ？
+Why?
+TP
+//なぜあの子が犠牲にならなきゃいけなかった？
+Why did that child just have to become a sacrifice?
+//I suspect the impersonal here means he's switched subjects from Miki to whoever Miki is representing in the mansion massacre, likely Youko, possibly Yutaka. -GHS
+TP
+//気持ち悪くなってくる。
+I begin to feel sick.
+TP
+//絶対にそんなことは許してはいけない。
+That is something absolutely out of the question to even think of forgiving.
+//Rather mangaesque now. Intentionally ambiguous as to whether he means having made her into sacrifice, or feeling sick about it. Both are valid: Miki's not dead, so feeling sick about something he hasn't done is meaningless; Youko did really horrible stuff to him, perhaps worse than Yutaka did, so in a sense him regretting it ought be at odds with secular morality. -GHS
+TP
+//ら抜き言葉を気にしすぎる保守的な連中と同じくらい、許してはいけないのである。
+This is las unforgivable las the grammar nazis would consider ladding "la" to lall the words that starts with l-a.
+//Ranuki kotoba, see CCC4010. That's where all the 'ra's come from. This sounds only moderately less insane in Japanese. -GHS
+TP
+
+
+
+//だから俺は高らかに『ら』だけを歌い続ける。
+Therefore I shall keep singing out and loud my "LA".
+TP
+//乾いた血が、懐かしい。全部こうなら良かったのに。
+Dried-up blood, that brings me back. But I wish all had become like this.
+//So the blood is actually there. Or is it? Miki's definitely not being honest on this being Sakakibara's blood, if she's being honest about it not being paint in the first place, see CCB0008A. -GHS
+TP
+//そのまま、屋上に足を向けた。
+And as I was, my feet moved towards the rooftop.
+TP
+
+WVP 2 se044 1 0
+GL 0 BGCC0007B
+GS 0 1
+SEF 109 0
+//Yes, the antenna is just right there. As it perhaps always was throughout. -GHS
+
+//トモダチの塔はない。
+There was no Tower of Friends.
+TP
+//燃えたから。
+Because it had burned down.
+TP
+//だけど、残骸さえもないのは？
+But then, there's no wreckage either, how come?
+//A word that turns up in pretty nice moments, that, in particular it's used to describe their friendship in CCA0030. -GHS
+TP
+//太一「……………………」
+Taichi: "............"
+TP
+//形跡さえない。
+Not even a trace of it.
+//The world we've seen so far had one very big oddity: it had not even the shell of the unbuilt antenna. And yet he placed his Tower just on the SAME SPOT where the Antenna would be. No coincidence, not when Miki's blood apparently persists in this Crossing. Wonder if that paint spill got somehow Fixed long before the story starts. Maybe there's just some girl in a class nearby who likes to spill paint. -GHS
+TP
+//理解も納得もできない。
+I could neither understand nor accept.
+TP
+//怖くなってくる。
+I became afraid.
+TP
+//怖い。怖い。
+I'm afraid. I'm afraid.
+TP
+//志村現象だ。
+It's the Shimura Phenomenon.
+//See CCC3019A. IOW, it's because he stopped seeing his own damn chuuni world. Miki smacking him in the head actually worked! -GHS
+TP
+//一度気づいたら、すべてが崩壊してしまう。
+Once you notice it, all is Downfall.
+//Meaning he was doing all that stuff to avoid accepting that his friends are no longer on good terms and that his 'eden' is lost. It's as upfront an admission as there are, here. This is why he doesn't want to go inside the house and meet Mutsumi, or why he must 'reset' if "shot" by Kiri, whatever that really means. Also, he has this possibly prophetic concept of them all coming back together to assemble the antenna, although the first version is less than healthy. -GHS
+TP
+
+GS 0 0
+SEF 109 0
+
+//……………………。
+............
+TP
+
+GL 0 BGCC0024
+GS 0 1
+SEF 109 0
+
+//濃密な夜が緋色さえも塗りつぶした頃、俺は自宅でもある町はずれの原っぱに横たわっていた。
+In this hour when the dense night has painted out even the brilliant scarlet, I sprawl out in my home that is also the field in the outskirts.
+//Scarlet = blood. Recreation of internal red via time aphasia to dodge the unmanageable real evening. -GHS
+TP
+//力が出ない。頭痛も酷い。動けない。
+I can't put strength into myself. Headache's terrible too. I can't move.
+//This was what he was at the start, when he began the recollection scene. Sooo... has it ended? -GHS
+TP
+//そんな俺にできることは、思い出すことだけだった。
+All that I could do was to remember, nothing more.
+//I suspect it has, and it has ended now. -GHS
+TP
+//記憶。ただそれだけが、救いではないか。
+Memories. Those and only those may be my salvation.
+//Term is also religious, of course. -GHS
+TP
+//徘徊し、彼らと出会いでもしたなら、どんな恐ろしい狂気が俺を襲うか知れない。
+If I wander about, and go meet them, I might just end up taken by some terrifying madness.
+//He's even scared to do harm to people he supposedly brutally murdered minutes ago. He knows nothing's happened, and what we saw are just his fears. That's what holds him afloat, in a sense, this regret for what he's done and for what he could do again - or at the very least, for what he imagines he could do, and might one day do for real. -GHS
+TP
+//もういい。終わりたい。
+This is enough. I want it to end.
+//See CCC3022. This isn't what Youko had in mind, I suspect. -GHS
+TP
+//もしかしたら楽しかった日々を夢想した。思い描いた。可能性を懐かしんだ。
+And it could be that I had a vision of pleasant fun days. And depicted them. And yearned for possibilities.
+//Vs. the fixed existence. -GHS
+TP
+//パッチワークのように貼り合わせた。ギャグを繰り出してセクハラをした。
+And I pasted together this Patchwork-like thing. And
+that I unleashed gags and that I sexually harassed.
+//This was added in CCX0001 as well. -GHS
+TP
+//完全ではないとしても、楽しい可能性であることに違いはない。
+Even if it wasn't perfect, there was no mistaking how these were fun possibilities.
+//A simple Trollsplanation is that he killed everyone and all that's happening in the main VN is him hallucinating from this point before he dies. But if he finds peace in his last moment before death, not much changes, philosophically speaking, making it a double troll regardless. -GHS
+TP
+//人間すげえ。
+Humans're amazing.
+TP
+//絆すげえ。
+Bonds're amazing.
+TP
+//人と人が支え合うってすげえ。
+Person and person supporting each other like the kanji're amazing.
+//This is repentance. -GHS
+TP
+//マジ、すげえ―――
+Truly... amazing---
+TP
+
+WVS 1 1
+TS 2
+GS 0 0
+SEF 109 4
+
+
+
+
+WT 1800 0
+TS 3
+GL 0 BGCC0000A
+GS 0 1
+SEF 109 2
+
+WVP 1 bgm021.ogg 0 0 0
+
+
+//あれから、どれだけの時間が経過したのか。
+And from then, how many hours did even elapse.
+//This may be where he wakes up from the dream waaay above. -GHS
+TP
+//俺はそのままの場所にいた。
+I remained there, in that place, as I was.
+TP
+//今日は何日だったっけ？
+What day was even today...?
+TP
+//曜日感覚がない。
+I lost my sense of weekday.
+//Long ago, given everything. Term still relates to Youko. Maybe she was just named after that, back at the Mansion. -GHS
+TP
+//自分が人間ではなくなってしまったかのような感覚さえある。
+This sensation like I've become something no longer human is all there is.
+TP
+//人でなければ何なのか。
+And if I'm not a person, what am I?
+//If this is 1, what is this? -GHS
+TP
+//神？
+A god?
+TP
+//そんな陳腐なことを、誰が言えるのだ。
+Who'd ever say that kind of stale hackneyed line.
+//Of course, he's no god; that'd be still Nietzscheianism. He's the representative of the technical equivalent, doing like said equivalent his best to follow the Real one. -GHS
+TP
+//神とは現象だ。
+God is a Phenomenon,
+//See CCD0009 now. This is simply assertion based on nothing. -GHS
+TP
+//だから俺は現象なのかも知れない。
+therefore, I might just be Phenomenon myself.
+//However, he's agreeing that he's a god with this. In other words, he's trolling himself. -GHS
+TP
+//その解釈は、美味だった。
+That explanation was a tasty delicacy.
+//Try empty calories. -GHS
+TP
+//暑い。
+Hot.
+TP
+//日差し。
+Sunlight.
+TP
+//焼かれる。
+Burning me.
+TP
+//俺は、焼かれる。
+I am burning.
+TP
+//罪人だから。
+Because I'm a sinner.
+//Welcome to hell. -GHS
+TP
+//当然の報い。
+Just recompense.
+TP
+//だけど、苦しい。
+But... it hurts.
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+
+//『ＲＧＱ＠ｚＱＫＩ―――』
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+        『Tekuimi Ni rirahiishi nrana---』
+//CP above
+TP
+
+GO 5 1
+TWS 0
+
+
+//この言葉だけが、妙に残っている。
+Those words alone, oddly, remain.
+TP
+//そう。俺は、ちゃんと聞いていたはずなのだ。
+Right. Because I should've heard those correctly.
+TP
+//思い出す。
+I remember,
+TP
+//ゆっくりと、慎重に。
+and slowly, carefully,
+TP
+//すくいあげるのだ。
+scoop them right up.
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+
+WVP 0 vzzztof_MKI0_0650B
+//『ＲＧだｚＱＫＩ―――』
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+         『Tekuimi I lohiishi nrana---』
+//PCP above
+TL
+WVP 0 vzzztof_MKI0_0650C
+//『ＲきだっＱＫに―――』
+           『Tekuen I lohiishi you---』
+//PCP above
+TL
+WVP 0 vzzztof_MKI0_0650
+//『好きだったのに―――』
+              『When I loved you---』
+//PCP above
+TP
+
+GO 5 1
+TWS 0
+
+//両手で形作った器に、その美しい言葉は、砂漠の水のようにきらめいた。
+In these hands of mine that I'd shaped into a bowl these beautiful words glittered and sparkled like water in the desert.
+//See CCC4023. She loves him, although he doesn't believe her love to be quite 'true', Miki's the closest to a proper wife as he'll find. More importantly, even as he is, he still finds someone who'll love and forgive him. And the peanut persimmon tree may be real. And the fruit it'll make is the fruit of knowledge. -GHS
+TP
+//太一「俺を……好き？」
+Taichi: "You loved... me?"
+TP
+//声がひりつく。
+Speaking smarts.
+TP
+//太一「こんな……俺を？」
+Taichi: "This... me here?"
+TP
+//太一「ああ……ああ……嬉しい……嬉しいな……」
+Taichi: "Ahhh... ahhh... so happy... I'm so happy..."
+TP
+//嬉しい。
+I'm so happy.
+TP
+//夢なら覚めないで……いや、むしろ覚めてくれ。
+Don't wake me if it's a dream... no, rather, wake me.
+TP
+//世界はこんなに嬉しいのだから。
+Because the world's making me this much happy.
+TP
+//また何でもない毎日を、続ける喜びがあるのだから。
+Because I now have the joy to persevere in this daily life of perfect normality again.
+TP
+//次はもうちょっとうまくやれると思うから。
+As I think I should be able to make things go well next,
+//See CCD0022A. He's not healed, not by far. -GHS
+TP
+//繰り返したい。
+I want to do this all over again.
+TP
+//転生するなら次は『たにし』になって何も考えずに暮らそうと考えもしたが、また人間になってもいいかなあと思う。
+And so even if I had this idea of wanting to reincarnate into a pond snail and live my life without having anything to think about at all, maybe it would just be nice if I were to be a human again, I think.
+//http://en.wikipedia.org/wiki/Viviparidae Pond snail = Tanishi, written with the same 'ta' as in Tanaka. -GHS
+TP
+//太一「はは……」
+Taichi: "Hahah..."
+TP
+//太一「…………は………………」
+Taichi: "......hah......"
+TP
+//頭痛と熱でもう。
+The headache and the heat, by now,
+TP
+
+GL 0 BGCC0000E
+GS 0 1
+SEF 109 2
+
+//俺はいろいろな幻覚を見た。
+are making me see all sorts of illusions.
+TP
+//自覚できないうわごとを発した。
+I fired off into ramblings, incapable of self-awareness.
+TP
+//熱に翻弄される。
+The heat makes sport of me.
+TP
+//脳がとける。
+The brain melts.
+TP
+//だけど最後に俺は少しだけ―――
+But at last, I will, just a little---
+TP
+
+WVS 1 1
+GS 0 0
+SEF 109 4
+
+//太一「…………………………………………………………………………………………………………」
+Taichi: "................................................
+.........................................................
+.........................................................
+.........................................................
+........................................................"
+//Original is x89 (yes, I counted, thank you), so I suspect it just fills the screen. -GHS
+TP
+
+
+TWS 7
+WT 3500 0
+
+//解説にかえて　田中ロミオ
+            Additional commentary
+               by Tanaka Romeo
+//この追加シナリオ「Cross†'Channel」は、もともとは没シナリオ構想していたものです。
+TL
+> 
+This additional scenario, Cross†'Channel, was
+originally a rejected scenario idea.
+//See CCA0016. Although called Another Story in the 360 menu (and here), the scenario name that pops up when starting is still that. -GHS
+TL
+//本来は「INVISIBLE MURDER INVISIBLE TEARS」編の、また別の可能性ルートとして検討していたものですが、これを投入すると美希ルートばかりが豪華になってしまうことと、視点トリックとしてたいした意味がないことを考慮し、仕様から外しました。
+It was initially considered as an alternate
+possible route for chapter "Invisible Murder,
+Invisible Tears", but had this been included,
+the Miki route alone would have become far too
+extravagant, and keeping in consideration how
+the viewpoint tricks didn't have much of a
+point, it was removed from the specs.
+//See CCX0001. This actually underlines what that line meant - it's lingo. The viewpoint tricks would be the beginning moege and the denpa moege, but also all the stuff above being just his hallucination isn't impossible. -GHS
+TL
+//また「川向こうの死体」「太一の白髪・着物」「みみみ」あたりの伏線回収も兼ねています。
+Furthermore, there are elements that also
+serve as payoff for foreshadowing such as
+the body beyond the river, Taichi's white
+hair and kimono, and "Mimimi".
+//Given the sentence above it's actually not quite clear whether any of those things are actually intended to have payoff here or whether these things are more troll. The body beyond the river being nonexistent makes more sense as it reveals Miki's lies and Kiri's credulity, though Taichi's white hair and kimono would be what makes Kiri and Miki think it's him in a simpler (but false) explanation; the name Mimimi doesn't have any meaning that's explained here. Curiously, 兼ねて also means "to find difficult", but outside of blatant troll, I can't see where that reading would fit. -GHS
+TP
+
+//美希ルート近辺は、もともとループ現象の妙味にサスペンス風味を加味するというコンセプトなのですが、つまり一同を殺害する犯人としてもう一人容疑者が用意されていたわけです。
+> 
+ 
+ 
+> 
+ 
+The Miki Route was, from the start, conceived to
+add a flavor of suspense to the taste of the loop
+phenomenon, in short it was arranged for there to
+be one more suspect for the identity of the killer
+of the members.
+TL
+//ここには書かれていませんが、　中期の構想には「太一Bが元気になって皆を……」という流れもありました。
+Around midway through plotting there was also this
+concept of "Taichi B recovers and then, with
+everyone..." However, this part has
+not been written.
+//Taichi B should be the Taichi we see here - which isn't a separate Taichi, if there's a separation it's between Taichi Full (spirit + body, sinner but redeemable) and Taichi Of This World (the pure irredeemable sinner).
+//The plan seems to have been that this Taichi would either participate with the rest, or be the actual killer. Of course, if this is just Real Taichi having a nervous breakdown and recovering, all that's not been written is the exact part where we'd see that. If the troll is that the "8" mentioned are just his hallucinations, then the entirety of CC takes place in his mind, and that's a valid if obviously inadequate troll of an explanation. Again, that part having not been written explicitly doesn't exclude it from being what happens.
+//Besides, it's still not as trolly as the Sakakibara diary. -GHS
+TP
+
+RET

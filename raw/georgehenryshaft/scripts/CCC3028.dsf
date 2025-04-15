@@ -1,0 +1,842 @@
+
+GL 0 bgcc0007a
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//太一「どもー」
+Taichi: "Hellooo!"
+TP
+
+WVP 1 bgm012.ogg 0 0 0
+
+//GL 1 TCYM0000b
+GL 1 TCYM0001B
+//HACK angrier Miki -GHS
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC3028mki000
+//美希「……お、おせえ～」
+Miki: "...l-, layyy～te"
+//"Late" in Koushuu-ben. -GHS
+TP
+
+//屋上に戻った。
+We returned to the rooftop.
+TP
+
+GL 1 TCYM0003b
+GI 1 0
+WVP 0 vfCCC3028mki001
+//美希「あ、霧ちんは連れてきたですね」
+Miki: "Ah, you brought Kiri-chin with you!"
+TP
+
+//太一「きたともさ」
+Taichi: "We came oh yes."
+//Miki-tachi (LOLOLOL ME JAPANEYSE-DESU) totally ought to have heard, given Kiri was apparently shouting out the damn window in what is allegedly a perfectly isolated facility. -GHS
+TP
+
+GL 2 TCMM0021b
+GS 2 1
+GS 1 0
+GP 2 225 0
+SEF 109 0
+WVP 0 vfCCC3028msa000
+//見里「なにやら……つやつやしているような……」
+Misato: "Somehow... you're looking all glossy and slick..."
+TP
+
+//太一「つやつやですさ」
+Taichi: "We are slick and we are glossy, yes."
+TP
+
+GL 1 TCYM0000b
+GS 1 1
+GS 2 0
+//GI 1 0
+SEF 109 0
+//HACK someone put an instant doll display together with the correct fade doll display. -GHS
+WVP 0 vfCCC3028mki002
+//美希「……どうしたの、霧ちん？」
+Miki: "...what is it, Kiri-chin?"
+TP
+
+GL 2 TCSK0002b
+GS 1 1
+GS 2 1
+GP 1 0 0
+GP 2 340 0
+SEF 109 0
+WVP 0 vfCCC3028kri000
+//霧「え、ううん、なんでもない……」
+Kiri: "Eh, naah, nothing really..."
+TP
+
+WVP 0 vfCCC3028mki003
+//美希「生理終わったんでしょ？」
+Miki: "Your things are over aren't they?"
+TP
+GL 2 TCSK0004b
+GI 2 0
+
+WVP 0 vfCCC3028kri001
+//霧「お、終わったけど……」
+Kiri: "O-, over, but..."
+TP
+
+//もじもじと脚をすりあわせる。
+Fidget-fidget she rubs her legs together.
+TP
+
+GL 3 TCMM0021b
+GS 3 1
+GS 2 0
+GS 1 0
+GP 3 235 0
+SEF 109 0
+
+WVP 0 vfCCC3028msa001
+//見里「……顔色が優れませんね、平気ですか？」
+Misato: "...the color of your face is less than full, are you alright?"
+TP
+
+GL 1 TCSK0002b
+GP 1 220 0
+GS 1 1
+GS 3 0
+SEF 109 0
+WVP 0 vfCCC3028kri002
+//霧「平気です。ちょっと、疲れが……夏ばてして」
+Kiri: "I am alright. Just a bit tired... Summer fatigue."
+TP
+
+//太一「それはいかん。夏バテ解消には俺特製白汁を飲まないとだめだ」
+Taichi: "That's way bad. You'll just have to liquidate your Summer fatigue by drinking my Special Brew White Juice!"
+TP
+
+//水筒を取り出す。
+I take out the canteen.
+TP
+GL 3 TCMM0002b
+GP 3 225 0
+GS 1 0
+//GS 3 0
+GS 3 1
+//HACK Actually display the doll. -GHS
+SEF 109 0
+WVP 0 vfCCC3028msa002
+//見里「ありがとうございます、ぺけくん」
+Misato: "Thank you very much, Peke-kun."
+TP
+
+//水筒を受け取る。
+She accepts the canteen.
+TP
+
+//この特製白汁は一見したところただの乳酸製品だが、隠し味に素敵な成分が入っているのである。
+This Special Brew White Juice is, on first sight, a normal brew of lactic acids; however, a splendid ingredient is sprinkled in to bring out its flavor.
+//Not quite the "wonderful" in "wonderful lives" (semen) -GHS
+TP
+GL 2 TCYM0021b
+GP 2 0 0 0
+GP 3 340 0 0
+GS 2 1
+GS 3 1
+SEF 109 0
+WVP 0 vfCCC3028mki004
+//美希「しろじる？」
+Miki: "White juice?"
+TP
+
+GL 3 TCMM0004b
+GI 3 0
+WVP 0 vfCCC3028msa003
+//見里「あ、あれはなんでしょう？」
+Misato: "Ah-, what is that thing?"
+TP
+
+GL 5 BGCC0000B
+GI 5 0
+//HACK snap to the sky -GHS
+
+//太一「えっ？」
+Taichi: "Eh?"
+TP
+
+//空を見る。
+I look at the sky.
+TP
+
+//なんだＵＦＯか？　アダムスキーか。
+Could it be a UFO? Where's Adamski?
+//http://en.wikipedia.org/wiki/George_Adamski -GHS
+TP
+WVP 0 vfCCC3028msa004
+//見里「…………どぼどぼどぼどぼ」
+Misato: "......glug-glug-glug-glug!"
+TP
+
+GL 2 TCYM0000B
+GL 3 TCMM0000b
+GS 2 1
+GS 3 1
+GS 5 0
+SEF 109 0
+//HACK doll changes here, back to the rooftop. Miki staying like she was looks odd, but in the console version she's obviously reacting to the wrong line (as typical...), so put a more neutral doll. -GHS
+
+//太一「なにもありませんよ？」
+Taichi: "But there is nothing there?"
+TP
+
+GL 3 TCMM0002b
+GI 3 0
+WVP 0 vfCCC3028msa005
+//見里「ふう、ごちそうさまでした！」
+Misato: "Whew, thank you very much for this!"
+TP
+
+//カラの水筒を返された。
+She returns an empty canteen.
+TP
+
+//太一「……もう飲まれましたか」
+Taichi: "...aw, you drank it all."
+TP
+
+GL 3 TCMM0000b
+GI 3 0
+WVP 0 vfCCC3028msa006
+//見里「ええ、三人でわけてたっぷりと」
+Misato: "Yes, we divided it among us all three."
+TP
+
+GL 2 TCYM0021B
+GI 2 0
+//HACK back to perplexed Miki. -GHS
+
+WVP 0 vfCCC3028mki005
+//美希「……え？　いつ？」
+Miki: "...eh? When?"
+TP
+
+//太一「はははは」
+Taichi: "Hahahahah."
+TP
+GL 3 TCMM0002b
+GI 3 0
+WVP 0 vfCCC3028msa007
+//見里「ふふふふ」
+Misato: "Heheheheh."
+//4+4 -GHS
+TP
+
+//太一「あはははははは」
+Taichi: "Ahhhahahahahah."
+TP
+
+WVP 0 vfCCC3028msa008
+//見里「ふふふふふふふ」
+Misato: "Hehehehehe."
+//7 (total) + 7 -GHS
+TP
+
+//よかったよかった。
+It's all good, it's all good.
+TP
+
+//GL 2 TCYM0001b
+GL 2 TCYM0002B
+//HACK sadder Miki -GHS
+GL 2 
+GI 2 0
+WVP 0 vfCCC3028mki006
+//美希「あの……わたしには捨ててたように見え……」
+Miki: "Uhm... it looked like you just tossed it away to mYAN---"
+TP
+
+GL 3 TCMM0006B
+GI 3 0
+//HACK foggy glasses Misato -GHS
+
+//みみ先輩は美希を抱きしめた。
+Mimi-senpai embraced Miki.
+TP
+
+GL 2 TCYM0004b
+GI 2 0
+WVP 0 vfCCC3028mki007
+//美希「むぐぐぐぐっ！」
+Miki: "MGuHGuHGuHGuH!"
+TP
+
+//美乳固めだ。
+Big Beautiful Breasts Clampdown.
+//See CCA0022 (same term) -GHS
+TP
+
+//太一「……捨てた？」
+Taichi: "...tossed?"
+TP
+GL 3 TCMM0002b
+GI 3 0
+
+WVP 0 vfCCC3028msa009
+//見里「さあ、見て下さいな！　だいぶ準備が整いましたよ！」
+Misato: "Say, look here please! Most of the preparations are in order!"
+TP
+
+GL 0 zzzrooftopduskzoom
+GS 0 1
+//HACK zoom rooftop as well. -GHS
+GS 3 0
+GS 2 0
+SEF 109 0
+//連れて行かれる。
+I was taken and brought with.
+TP
+
+//太一「は、はあ？」
+Taichi: "H-, huh?"
+TP
+
+WVP 0 vfCCC3028mki008
+//美希「霧ちんさあ」
+Miki: "Kiri-chin, say."
+TP
+
+WVP 0 vfCCC3028kri003
+//霧「うん、なに？」
+Kiri: "Yes, what?"
+TP
+
+WVP 0 vfCCC3028mki009
+//美希「……なんでもない」
+Miki: "...it's nothing."
+//Maybe she knows, maybe she doesn't. -GHS
+TP
+
+WVP 0 vfCCC3028kri004
+//霧「？」
+Kiri: "?"
+TP
+
+//背後の会話。
+A conversation at my back.
+TP
+
+//少し気にはなったが、意識はたちまちテントに向いた。
+I was a bit concerned, but my awareness was all at once directed towards the tent.
+TP
+
+//太一「あ、らばー」
+Taichi: "Ah, Saaack!"
+TP
+
+GL 4 TCSH0000b
+GP 4 190 0
+GI 4 1
+WVP 0 vmCCC3028sku000
+//桜庭「ラバー。つまり恋人のことだ」
+Sakuraba: "-Raba. In other words, the rest of me is a lover."
+//Ha, you thought it was going to be a problem. Curiously, 'roba' is donkey, while 'ruba' is mule. I know what you're thinking, but obviously 'reba' is gangrape and 'riba' is about ancient land controversies. -GHSomeOfTheseMayNotBeAccurate
+TP
+
+//桜庭はテントの下にいた。
+Sakuraba was under the tent.
+//See CCC3018: that makes him a dick. -GHS
+TP
+
+//太一「友貴は？」
+Taichi: "And Tomoki?"
+TP
+
+
+WVP 0 vmCCC3028sku001
+//桜庭「シスコンがこうじて帰宅した」
+Sakuraba: "Siscon grew troubled and went home."
+TP
+
+//太一「……さうか」
+Taichi: "...right."
+TP
+GL 4 TCSH0002b
+GI 4 0
+
+WVP 0 vmCCC3028sku002
+//桜庭「配線だけは整えていった。ヤツは仕事人だ」
+Sakuraba: "He just got the wiring in order. Guy's a working man."
+TP
+
+//太一「うむ」
+Taichi: "Mh-hm."
+TP
+
+//ま、ここまできたらもう心配はいらないか。
+Well, if we got this far we shouldn't need to worry.
+TP
+
+GL 3 TCMM0000b
+GS 3 1
+GP 3 225 0
+GS 4 0
+SEF 109 0
+WVP 0 vfCCC3028msa010
+//見里「休憩しましょうか。喉も渇きましたし」
+Misato: "Let's take a break then. My throat is parched."
+TP
+
+//先輩が小型冷蔵庫からお茶缶を取り出す。
+Senpai produces cans of tea from a small refrigerator.
+TP
+
+//太一「……え？　喉が乾いたって？」
+Taichi: "...eh? Did you say you're thirsty?"
+TP
+
+GL 3 TCMM0002b
+GI 3 0
+WVP 0 vfCCC3028msa011
+//見里「ほら、あまったバッテリーで文明の利器が復活です」
+Misato: "Look, with extra batteries we have resurrected the conveniences of civilization!"
+TP
+
+//部室にあるものより小型の冷蔵庫だった。
+It was a refrigerator even smaller than the one in the club room.
+TP
+
+//太一「へー」
+Taichi: "Ehhh."
+TP
+
+//友貴だな。
+From Tomoki, innit.
+TP
+
+WVP 0 vfCCC3028msa012
+//見里「久しぶりに冷たいのみものですー！」
+Misato: "It has been so long since the last cold drink!"
+//She probably keeps the alcohol in the shed. That's not gonna be good... -GHS
+TP
+
+GL 3 TCMM0000b
+GI 3 0
+WVP 0 vfCCC3028msa013
+//見里「はい、あなたの分ですよ」
+Misato: "Here, this is for you."
+TP
+
+//太一「それはいいんですけど……先輩さっき俺の白汁……」
+Taichi: "This is fine, however... Senpai, my White Juice, before..."
+TP
+GL 3 TCMM0002b
+GI 3 0
+
+WVP 0 vfCCC3028msa014
+//見里「かんぱーい！」
+Misato: "Bottoms uuup!"
+//Works better, given who she is (a drunkard) -GHS
+TP
+
+//太一「は、はあ、かんぱい……です」
+Taichi: "Ah, uh, bottoms up... of course."
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+
+//足りなかったのかな、白汁。
+Maybe that White Juice just wasn't enough.
+TP
+
+//乳酸飲料にレモン汁をまぜた特製ドリンクなのに……。
+And it was a Special Brew of a lactic acid drink mixed with lemon juice...
+TP
+
+//まあ、いい。
+Ah, whatever.
+//That'll teach you to be ambiguous. This was a nice reading key for a Cross Conversation. -GHS
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+//テントの下、日陰とお茶でほっと一息。
+We breathe a sigh of relief with tea and shade under the tent.
+TP
+
+//太一「ふいー、生き返るね、霧ちん」
+Taichi: "Wheeew, this is a return to life, innit Kiri-chin."
+TP
+GL 2 TCSK0000b
+GP 2 220 0
+GS 3 0
+GS 2 1
+SEF 109 0
+
+WVP 0 vfCCC3028kri005
+//霧「え……？」
+Kiri: "Eh...?"
+TP
+
+//太一「水分をたっぷり出したあとだけに」
+Taichi: "Right after losing all those fluids."
+TP
+GL 2 TCSK0003b
+GI 2 0
+WVP 0 vfCCC3028kri006
+//霧「けほっ、こほっ！」
+Kiri: "Cough, kaff!"
+TP
+
+GL 2 TCSK0001b
+GI 2 0
+WVP 0 vfCCC3028kri007
+//霧「せんぱいっ！！」
+Kiri: "SENPAI!!!"
+TP
+
+//太一「ははは」
+Taichi: "Ahahah!"
+TP
+
+GL 1 TCYM0021b
+GP 1 0 0
+GP 2 340 0
+GS 2 1
+GS 1 1
+SEF 109 0
+WVP 0 vfCCC3028mki010
+//美希「先輩たちもおしっこしてたんですか？」
+Miki: "Senpai, you two've wee-weed too?"
+TP
+
+//太一「二人で立ちションしてたんだ。どっちが飛ぶかって」
+Taichi: "'Twas the two of us standing and peeing, outdoors. Further flyer's winner."
+TP
+//GL 2 TCSK0001b
+GL 2 TCSK0021B
+//HACK angrier Kiri -GHS
+GL 2 
+GI 2 0
+WVP 0 vfCCC3028kri008
+//霧「してないですっ！　できないですっ！」
+Kiri: "We did not! I can not!"
+TP
+GL 1 TCYM0041b
+GI 1 0
+WVP 0 vfCCC3028mki011
+//美希「そ、そんな楽しそうなことをわたしにナイショで……」
+Miki: "Yo-, you kept something that seems so fun secret from me..."
+//Since she might not know, she might be sincere. -GHS
+TP
+
+GL 2 TCSK0002B
+GI 2 0
+//HACK closed eyes Kiri. -GHS
+
+WVP 0 vfCCC3028kri009
+//霧「美希……それは全然楽しそうじゃないから……」
+Kiri: "Miki... that doesn't seem fun at all for starters..."
+//Kiri, of course, wouldn't know that Miki knows, whether Miki knows or not. -GHS
+TP
+
+GL 1 TCYM0021b
+GI 1 0
+WVP 0 vfCCC3028mki012
+//美希「そーかなー？」
+Miki: "Doooes it nooow?"
+TP
+
+//近年、森林破壊並に急速にすれてきているが、美希は基本的にウブなはずだった。
+In recent years she has been losing it with a speed comparable to that of deforestation, but I still expected Miki would be fundamentally green.
+TP
+
+//……あれ。
+...wait.
+//Best guess, see CCC4004. Taichi's noticing something is wrong with Miki. -GHS
+TP
+
+//太一「それにそんな暴れてると、見えるぞ霧ちん」
+Taichi: "By the way, if you act all that flustered they'll notice, Kiri-chin."
+//She's still not wearing any panties. -GHS
+TP
+
+GL 2 TCSK0003b
+GI 2 0
+
+GP 2 325 15
+GI 2 0
+GP 2 340 30
+GI 2 0
+GP 2 355 15
+GI 2 0
+GP 2 340 0
+GI 2 0
+//HACK independent doll shake -GHS
+
+
+
+//霧「……………………」
+Kiri: "............"
+TP
+
+//スカートのはしを押さえて、大人しくなった。
+Pinning down the edge of her skirt, she became docile.
+TP
+
+//太一「ははは」
+Taichi: "Ahahah!"
+//CP for :effort:
+TP
+
+GL 4 TCSH0000b
+GP 4 190 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 1
+SEF 109 0
+WVP 0 vmCCC3028sku003
+//桜庭「ところで太一、明日の放送だが……部長先輩に言われて原稿を書いてみた」
+Sakuraba: "By the way, Taichi, broadcast's tomorrow, so... I tried to write the script that President-senpai asked for."
+//See CCX0001... as if that wasn't a meta reference. -GHS
+TP
+
+//太一「ほう、貴様がそんなことを？」
+Taichi: "Hoh, the bastard that you are managing something like that?"
+TP
+
+GL 4 TCSH0003b
+GI 4 0
+WVP 0 vmCCC3028sku004
+//桜庭「ちょっと見てくれ。意見が聞きたい」
+Sakuraba: "Please have a look. I wish to hear your opinion."
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//読めなかった。
+I couldn't read it.
+TP
+
+//太一「……何語だ？」
+Taichi: "...what language is this?"
+//Very good question. I still have no idea. Seems to be an unholy mix between Japanese, English, and Plain Weird. -GHS
+TP
+
+GL 4 TCSH0002b
+GI 4 0
+WVP 0 vmCCC3028sku005
+//桜庭「万が一傍受されても意味がわからないよう、多重に暗号化してある」
+Sakuraba: "In the thousand-to-one chance we are being monitored, they will not understand the meaning for it is encrypted with multiple ciphers."
+//18 months of work and I fear I still didn't break more than 95%. Monitored by who, however? The devil? Tanaka's superiors? Unqualified readers? All of the above? All of the above. -GHS
+TP
+WVP 2 SE003 1 0
+//SEF 101 0
+GP 4 175 15
+GI 4 0
+GP 4 190 30
+GI 4 0
+GP 4 205 15
+GI 4 0
+GP 4 190 0
+GI 4 0
+//HACK independent doll shake -GHS
+
+GO 4 1
+//殴った。
+Punched.
+TP
+
+//太一「意味ねーよ！」
+Taichi: "Meaningleeess!"
+//PCP OCD
+TP
+
+GL 3 TCMM0005b
+GP 3 225 0
+GI 3 1
+WVP 0 vfCCC3028msa015
+//見里「……あああ、桜庭君に振った時間がまるまる無駄に……」
+Misato: "...aaah, the time that I gave Sakuraba-kun was wholly and completely wasted..."
+//Why the hell did she even ask Sakuraba??? -GHS
+TP
+
+//太一「ＳＯＳで意味不明にしてどーすんだ！」
+Taichi: "The hell we'd be doing by sending an SOS without a message you can understand!"
+//That'd be my criticism of Cross Channel in a nutshell. -GHS
+TP
+
+//その時。
+And that moment,
+TP
+WVP 2 se090 1 0
+//太一「あれ？」
+Taichi: "Eh?"
+TP
+
+//風鈴が鳴った。
+wind bells chimed. 
+//Going by Week 1, this has nothing to do with the wind... -GHS
+TP
+
+//太一「風鈴じゃないか」
+Taichi: "Ain't that a wind chime?"
+TP
+GL 4 TCSH0000b
+GS 3 0
+GS 4 1
+GP 4 190 0
+SEF 109 0
+
+WVP 0 vmCCC3028sku006
+//桜庭「……つけた」
+Sakuraba: "...I put it there."
+TP
+
+GL 4 TCSH0002b
+GI 4 0
+WVP 0 vmCCC3028sku007
+//桜庭「これから、みんなでここにつるむようになるのなら、と思って」
+Sakuraba: "I thought that we would all be mate-ing together here, I think."
+//http://www.ecowindchimes.com/History-of-Wind-Chimes-s/59.htm "The principle behind a wind chime - one element meeting and affecting the other in one accord, and the resulting harmonious “song” carried by the force of the wind - was compatible with this philosophy." May be just that simple. Since these people coming together is no coincidence (see Sakuraba vs. Yutaka, Yutaka meeting Taichi after all that time and the next route), the master of the wind would simply be God. And so, the howling of the wind on this rooftop, rather than being the Pretense, would be Coincidence. -GHS
+TP
+WVP 2 se090 1 0
+
+//太一「…………う」
+Taichi: "......ngh."
+TP
+
+//たまに気のきいたことをする。
+Occasionally, he does do something nifty.
+//Same reaction as when he puts the Cross in Cross Channel, see CCA0030, ergo the significance should be similar. -GHS
+TP
+
+//人類もいなくなって。
+Humanity was no longer,
+TP
+
+//希望もあるかどうかわからない。
+but whether hope had gone as well, I have no idea.
+//He knows what Sakuraba's doing... he just doesn't 'get' it well enough. -GHS
+TP
+
+//なのに、本当に……のんきなヤツだ。
+Despite this, seriously, this guy's... happy-go-lucky.
+//Don't think this is the specific reference to the BGM, but it's in there somewhere at least. -GHS
+TP
+
+//太一「つるむともさ」
+Taichi: "Let's mate-ing."
+TP
+
+GL 4 TCSH0000b
+GI 4 0
+WVP 0 vmCCC3028sku008
+//桜庭「だな」
+Sakuraba: "Let's."
+TP
+
+GL 3 TCMM0002b
+GS 4 0
+GP 3 225 0
+GS 3 1
+SEF 109 0
+WVP 0 vfCCC3028msa016
+//見里「……お願いします」
+Misato: "...with pleasure."
+TP
+
+//太一「いつまででも」
+Taichi: "To the ends of time."
+TP
+
+//嬉しそうに、先輩は目尻を下げた。
+The corners of Senpai's lowered, seemingly in happiness.
+TP
+GL 1 TCYM0000b
+GP 1 180 0
+GS 1 1
+GS 3 0
+SEF 109 0
+
+
+WVP 0 vfCCC3028mki013
+//美希「にしても霧ちん元気ないねー」
+Miki: "Still, Kiri-chin, you don't look in spirits at all..."
+TP
+
+//GL 2 TCSK0002b
+GL 2 TCSK0003B
+//HACK sweatdrop Kiri -GHS
+GP 2 340 0 0
+GP 1 0 0 0
+GS 1 1
+GS 2 1
+SEF 109 0
+WVP 0 vfCCC3028kri011
+//霧「そ、そう？　そんなことないよ？」
+Kiri: "I-, don't? That's not true you know?"
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+GL 5 BGCC0000B
+GI 5 1
+//HACK to sky -GHS
+
+
+//やっぱり無理してるのかな。
+I knew it, this is just forced, is it?
+TP
+
+//真実も行為も、霧には負担すぎたのか。
+Were that truth and those acts still too much of a burden for Kiri?
+//See Misato. There's still looots to go... -GHS
+TP
+
+//けど。
+But.
+TP
+
+//あと一日しかない。世界は。
+In this world.... there is one more day and no more.
+TP
+
+//霧を癒してやる手段も可能性も、俺にはないのだ。
+I have neither chances nor methods to heal Kiri.
+//The all-consuming monster. He wants to hurt Kiri so bad he literally regrets not being able to help her further. Which telling her about Yutaka DID. -GHS
+TP
+
+//だから。
+Therefore,
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 0
+WVS 1 1
+//HACK earlier end music -GHS
+
+
+//だから―――
+therefore---
+TP
+
+WT 500 0
+WT 500 1
+RET

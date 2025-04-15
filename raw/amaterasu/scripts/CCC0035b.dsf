@@ -1,0 +1,43 @@
+GL 0 bgcc0004c
+GS 0 1
+SEF 152 0
+
+
+
+WVP 1 bgm018.ogg 0 0 0
+
+I returned to a house with nothing and no one.
+TP
+
+I heard no insectoid timbre.
+//Yeah, hyperliteral, I know. Å`IX
+TP
+
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 0
+
+
+
+I lit the candle.
+//CP ccc0035a
+TP
+
+There's nothing in particular to do.
+TP
+
+I wrote in the diary.
+//CP_S
+TP
+
+I wrote in detail.
+//CP_F
+TP
+
+It's nice to have something to do.
+TP
+
+WVS 1 1
+
+RET

@@ -1,0 +1,650 @@
+GL 0 bgcc0008
+GS 1 0
+GS 0 1
+SEF 152 1
+
+
+
+WVP 1 bgm002.ogg 0 0 0
+
+
+I found a virgin stooping down on the way back to my classroom. 
+//PCP cca0008
+TP
+
+It's Miki.
+TP
+
+Yamanobe Miki.
+TP
+
+Taichi: "Heya."
+TP
+
+GL 1 TCYM0001
+GP 1 180 0 0
+GI 1 1
+
+WVP 0 vfccb0007mki000
+Miki: "!!?"
+TP
+
+Miki stood up.
+TP
+
+Nimble movements.
+TP
+
+She turned around slowly.
+TP
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfccb0007mki001
+Miki: "Ah, Sempai......hellooo."
+TP
+
+She raised her head and greeted me.
+TP
+
+Miki gave no indication of being any different.
+TP
+
+A slight incongruity.
+TP
+
+Was Miki really this strong?
+TP
+
+It was in her nature to begin with, but she seemed to be an extra year or two more robust now.
+TP
+
+That's what it felt like.
+TP
+
+Taichi: "What're you doing?"
+TP
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfccb0007mki002
+Miki: "Cleaning."
+TP
+
+Taichi: "I've done cleaning too."
+TP
+
+WVP 0 vfccb0007mki003
+Miki: "With some superficial wordplay you're saying 'farewell speech' or 'geometrically similar.'"
+IF $tlnote != 0 (TL note: "Cleaning," "geometrically similar," and "farewell speech" are all pronounced "souji" but spelled with different kanji.)
+TP
+
+Taichi: "......I didn't say those things!"
+TP
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfccb0007mki004
+Miki: "Why are you mad?"
+TP
+
+Taichi: "......"
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb0007mki005
+Miki: "Why are you quiet?"
+TP
+
+Taichi: "Don't rush me when I don't have a comeback!!"
+TP
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfccb0007mki006
+Miki: "Yaaay, I wooon!"
+TP
+
+She was robust.
+TP
+
+Taichi: "Ah, I thought of something."
+TP
+
+I cleared my throat.
+TP
+
+Taichi: "......I've cleaned humanity."
+TP
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfccb0007mki007
+Miki: "You're the culprit!?"
+TP
+GO 1 1
+Taichi: "Haaa!"
+TP
+
+We fought each other.
+TP
+
+Taichi: "Yo!"
+TP
+
+Taichi: "Ho!"
+TP
+
+Taichi: "......ha!?"
+TP
+
+
+WVP 2 se003 1 0
+SEF 101 0
+Taichi: "Oooh!!!?"
+TP
+
+One attack hit me in the torso.
+TP
+
+Uu, she's strong.
+TP
+
+To hit me, one who has mastered karade.
+//on purpose? - pondrthis
+TP
+
+Taichi: "You..."
+TP
+
+I got just a little bit serious.
+TP
+
+WVP 0 vfccb0007mki008
+Miki: "Shu!"
+TP
+
+One of her pliant legs raised above her hips.
+TP
+
+I thought about going after her dominant leg, but then I glimpsed her bare panties.
+TP
+
+Attack canceled.
+TP
+
+For manly Taichi, there is no choice so effeminate as not looking at panties offered right before my eyes.
+TP
+
+CSQ 0 1 1 1
+  -Look at her panties
+  -Look at her panties
+  -Look at her panties
+
+Nope, none.
+TP
+
+I dropped my hips and lowered my line of sight.
+TP
+
+The kick came.
+TP
+
+I readied a karade-style mid-level block.
+TP
+
+Between my arms, her fingernails softly penetrated my guard.
+TP
+
+Taichi: "Huh?"
+TP
+
+Impossible.
+TP
+GL 5 bgcc0000d 
+GI 5 0
+WVP 2 SE071 1 0
+SEF 101 0
+A hit to the jaw.
+TP
+WVS 1 1
+Taichi: "Wha...?"
+TP
+
+I was speechless.
+TP
+
+
+......
+TP
+GS 5 0
+GS 1 0
+SEF 10 1
+............
+TP
+GL 0 bgcc0008
+GS 0 1
+SEF 10 0
+........................
+TP
+WVP 1 bgm002.ogg 0 0 0
+
+
+Taichi: "Ha!?"
+TP
+GL 1 TCYM0000
+GI 1 1
+
+WVP 0 vfccb0007mki009
+Miki: "Ah, thank God. You're awake now?"
+TP
+
+Taichi: "Uu, uuu. How long was I out?"
+TP
+
+WVP 0 vfccb0007mki010
+Miki: "Not even a minute."
+TP
+
+Taichi: "Aaah, did I lose to Miki!?"
+TP
+
+I hit my knee.
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfccb0007mki011
+Miki: "Taha."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfccb0007mki012
+Miki: "But didn't you let your guard down completely?"
+TP
+
+Taichi: "No...that was because there were no other choices for me."
+TP
+
+Taichi: "......it probably would've been the same even if my life had been at stake."
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfccb0007mki013
+Miki: "Your life for panties!?"
+TP
+
+Taichi: "Tsk, tsk, tsk."
+TP
+
+I wagged my finger.
+TP
+
+Taichi: "Seeing panties currently being worn by an inexperienced girl in real life."
+TP
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfccb0007mki014
+Miki: "That's not true......"
+TP
+
+Taichi: "As if. Watch this---"
+TP
+
+*grab*
+TP
+
+My loving fingers grabbed the edge of my beloved pupil's skirt.
+//"beloved" or "loving" haha? This is really funny if it's really beloved. - pondrthis
+TP
+
+But her fingers got in the way!!
+TP
+
+Taichi: "Ha!? You blocked it!?"
+TP
+
+GL 1 TCYM0005
+GI 1 0
+
+
+WVP 0 vfccb0007mki015
+Miki: "Huhuhu."
+TP
+
+Shock.
+TP
+
+Taichi: "Hmmm, tell everyone you've earned your license."
+TP
+
+I grabbed my knees and curled up like a fried shrimp.
+TP
+
+Taichi: "With that, I'll retire, yes."
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfccb0007mki016
+Miki: "Why'd you say 'yes'......?"
+TP
+
+She rocked me back and forth.
+TP
+
+WVP 0 vfccb0007mki017
+Miki: "Shishou, please cheer up."
+IF $tlnote != 0 (TL note: "Shishou" is how you address your master in a martial art.)
+TP
+
+Taichi: "It's okay. I'll go into seclusion."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb0007mki018
+Miki: "You've started that again?"
+TP
+
+WVP 0 vfccb0007mki019
+Miki: "......"
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfccb0007mki020
+Miki: "Even though......it's not at all..."
+TP
+
+Taichi: "Oui?"
+TP
+
+I asked like a Frenchman.
+TP
+
+WVP 0 vfccb0007mki021
+Miki: "Even though everyone's normal..."
+TP
+
+Her voice was shaking unexpectedly.
+TP
+
+Taichi: "Miki-Miki?"
+TP
+
+WVP 0 vfccb0007mki022
+Miki: "See, my hands are shaking so much."
+TP
+
+Her open hands were sweating, and seemed numb from cold.
+TP
+
+Almost as if she was afraid.
+TP
+
+Taichi: "......why?"
+TP
+
+
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfccb0007mki023
+Miki: "That's because, after seeing Sempai acting so gloomy, cowardly Miki can't help but be worried."
+TP
+
+Taichi: "......"
+TP
+
+
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfccb0007mki024
+Miki: "So please, cheer up."
+TP
+
+Taichi: "Nnn."
+TP
+
+Is she comforting me?
+TP
+
+Her weird behavior bugs me, but...
+TP
+
+Hmmm, isn't she getting fluffy?
+TP
+
+Taichi: "Okay, then why don't we tell everyone about your license?"
+TP
+
+I punched my palm.
+TP
+
+WVP 0 vfccb0007mki025
+Miki: "Eh?"
+TP
+
+Taichi: "Take out your notebook."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfcca0008mki012
+Miki: "......aah, aah......so that's it." 
+//CP_S cca0008
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfcca0008mki013
+Miki: "Haven't done that in a while..." 
+//PCP
+TP
+
+She made a truly pained face.
+TP
+
+In fact she seems (In fact she seems) like she's about to cry (about to cry). 
+//PCP_F
+//Why is the second 'In' capitalized? -VDZ
+TP
+
+I thought it through compoundly.
+//Just sounded weird.-Spin
+TP
+
+Miki took out her Matebook. 
+//PCP
+TP
+
+That's what they call the notebook which also doubles as the school's identification card and as the #1 popular high-class public bathhouse available behind the train station of this ÅwCityÅx.
+//[It] also doubles as [...a...] public bathhouse? Either this sentence is weird, or its grammar is messed up. -VDZ
+TP
+
+Why is it called that?
+TP
+
+It's really just a coincidence.
+TP
+
+WVP 0 vfccb0007mki026
+Miki: "......sun."
+TP
+
+Taichi: "What's wrong?"
+TP
+
+She's crying.
+TP
+
+In fact it seems (In fact it seems) like she's crying (like she's crying).
+//Again, why the capitalization of 'In'? -VDZ
+TP
+
+I thought that compoundly as well.
+TP
+
+Taichi: "......so, you were receiving quite a shock?"
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb0007mki027
+Miki: "Eh?"
+TP
+
+Taichi: "About the world becoming like this."
+TP
+
+WVP 0 vfccb0007mki028
+Miki: "Yeah......"
+TP
+
+There was a slight benefit.
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfccb0007mki029
+Miki: "That's right, maybe I am."
+TP
+
+Taichi: "You would be."
+TP
+
+Taichi: "It surprised me too."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb0007mki030
+Miki: "Sempai too?"
+TP
+
+Taichi: "Yeah."
+TP
+
+Taichi: "Now there will never be an opportunity for me to meet any new virgins at the ages of thirteen or fifteen."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfccb0007mki031
+Miki: "Is that what this is about?"
+TP
+
+Taichi: "It is."
+TP
+
+I took her notebook from her.
+TP
+
+Taichi: "You've nearly used up your notebook, Miki. It's falling apart." 
+//CP_S
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfcca0008mki021
+Miki: "Falling apart."
+TP
+
+
+Miki meaninglessly repeated my words as a form of agreement.
+TP
+
+As I flipped through the pages, I found my very large signatures already scribbled in the margins. 
+TP
+
+This continued over several pages.
+TP
+
+
+
+It was as if she was collecting my signatures.
+TP
+
+
+
+
+I found a blank page and wrote in a new signature. 
+//CP_F
+TP
+
+This has been how we played with one another for a long time now.
+TP
+
+For our own sakes.
+TP
+
+I returned her notebook.
+TP
+
+Miki took it and held it to her chest.
+TP
+
+Tightly.
+TP
+
+As if embracing her lost soul.
+//That sounds better and makes more sense.-Spin
+TP
+
+I even wiped away some of her tears.
+TP
+
+Waa...I'm a gentleman.
+TP
+
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfccb0007mki032
+Miki: "Thank you......"
+TP
+
+Taichi: "It was nothing."
+TP
+
+I looked around the hallway.
+TP
+
+Taichi: "Still, cleaning of all things."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb0007mki033
+Miki: "I was thinking that moving my body about might help me calm down."
+TP
+
+Taichi: "Hmmm."
+TP
+
+
+
+
+CSQ 0 1 1
+  -Help her clean
+  -Flip her skirt
+
+
+RET

@@ -1,0 +1,406 @@
+GL 0 bgcc0006a
+GS 0 1
+SEF 155 1
+
+
+//何気なく、入り口を振り返ってみた。
+Casually, I turned my head towards the entrance.
+TP
+GL 4 sgcc0018
+$CGsgcc0018 = 1
+GP 4 -640 0
+GS 4 1
+//SEF 109 0
+CIN 4 -640 0 0 0
+CR 1
+//HACK slide from left instead. Using CIN as the normal sliding keeps thinking the left corner of the image needs to go to the center of the screen, but all insert CGs are actually full 640x480 pre-centered pics with the rest in alpha transparency, so it doesn't work correctly and the insert ends up way to the right. So I compensate and sometimes it works as intended so the image ends up screwed up regardless, and therefore to hell with all that. -GHS
+
+WVS 1 0
+
+
+
+
+//ずーーーーーん
+Glaaare.
+//7 letters total -GHS
+TP
+
+
+//太一「…………ぶほうっっ！！？？」
+Taichi: ".....bfhwt?!?!"
+TP
+
+//水を噴きだした。
+I spat out water.
+TP
+
+WVP 1 bgm011.ogg 0 0 0
+
+//ひぃぃぃぃぃぃぃぃぃぃぃぃぃぃぃぃぃぃっ！？
+Hyyyyyyyyyyyyyyyyyyh?!
+//ぃx18, 8 is obvious and 8-1=7 -GHS
+TP
+
+//見られていた、見られていたぁぁぁぁぁっ！！
+We're being looked, we're being looked aaaaaat!!!
+TP
+
+//いつから、いつからなのっ！？
+Since when, since wheeeeen?!
+TP
+
+//太一「あわわわわわわ」
+Taichi: "AhWahWahWahWahWahWah!"
+TP
+
+//右往左往。
+Right and left and here and there, flapping about in confusion.
+TP
+
+//萎えたジュニアも右往左往。
+Junior (drooping) was also flailing about in confusion.
+TP
+
+//往年の名作映像スリラーのプロモビデオみたいな動きを、全身と逸物で再現しながら、俺はうろたえた。
+Like in that masterpiece music video thriller from some years ago, I lose my mind as I perform a full-body reproduction of a certain talented dancer.
+//No question http://en.wikipedia.org/wiki/Michael_Jackson%27s_Thriller Also, second zombie reference in the same day. -GHS
+TP
+
+//曜子「…………」
+Youko: "......"
+TP
+
+//唇が動く。
+Motion of the lips.
+TP
+
+//読めてしまった。
+I could only read it:
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+//う　ら　ぎ　り　も　の
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+                  T R A I T O R
+//no one's gonna save you from the beast about strike -GHS
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+//太一「ひぃぃぃっ」
+Taichi: "HyYyYh!"
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+TP
+
+//さらに動く。
+They move more.
+TP
+
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+//こ　の　う　ら　み　は　ら　さ　で　お　く　べ　き　か
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+            I   D O T H   B E L L O W
+              F O R   R E V E N G E
+//14 letters. http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1320283438 replaced wif some semi-random spear shakin'. -GHS
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+//や、殺られるっ！？
+I-, I'll be done in?!
+//Why would he be even remotely afraid of what Youko would do to him, at this point at least? -GHS
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 4 0
+SEF 109 0
+//顔を覆う。
+I cover my face.
+TP
+
+//だが、いつまで経っても呪殺攻撃はない。
+But however long passes, the killer curse does not strike.
+//Curiously, Megami Tensei tops the ranks for 呪殺攻撃. Unfortunately, MegaTen Wiki doesn't have much of a translation http://megamitensei.wikia.com/wiki/Dark_Skills so if it's a reference to that, there's no relevant official English term. I guess I'll just screw it and pretend it's a sort of Higurashi reference despite it obviously not being so (different kanji, not just because of the incompatible timeline). -GHS
+TP
+
+//太一「あれ？」
+Taichi: "Ehhh?"
+TP
+
+GL 0 bgcc0006a
+GS 1 0
+GS 0 1
+SEF 155 0
+
+//見ると、もう彼女はいなくなっている。
+As I look, she is nowhere to be seen anymore.
+TP
+
+//太一「……見逃してくれたか……」
+Taichi: "...she let it go this time...?"
+TP
+
+//彼女という恐怖の監視者を忘れていた。
+I had forgotten the dreadful watchdog that had hers as a name.
+TP
+
+//母親が息子のエロ本を見つけるに匹敵する感知能力を持った、超強敵なのだ。
+What an Hyper Adversary she makes, with sensing skills matching those of a mother who is searching for her son's porn books.
+//See CCB2009. See say how come it's pronounced Touko instead of Fuyuko it's like confusing with Youko around... -GHS
+TP
+
+//太一「とりあえず助かった」
+Taichi: "At least I survived for now."
+TP
+
+//改めて、水筒を口に含む。
+I put my mouth to the canteen anew.
+TP
+
+//喉がカラカラだ。
+My throat is as arid as a desert.
+TP
+
+//何気なく冬子に目を向ける。
+Casually, I turned my attention towards Touko.
+//See above. -GHS
+TP
+
+//剥き出しのヒップに、マジックで落書きされていた。
+On her bare buttocks, magic marker scribbling.
+TP
+
+//太一「ぶほうっ！」
+Taichi: "Bfhwt!"
+//PCP above
+TP
+
+
+//再噴出。
+Re-spitting.
+TP
+
+//あんな短時間で！
+In that flash of an instant!
+TP
+
+//しかもまったく気配なかった！
+And without any sign of her presence at all!
+//And who's sitting riiight next to Touko? Why, Taichi of course! -GHS
+TP
+
+//スーパー忍者か？
+A Super Ninja?
+//See CCA0030. -GHS
+TP
+
+//何を書いたんだろう……。
+What did she even write...
+TP
+
+//見てみる。
+I give a look.
+TP
+
+
+//『いんらんおんな　せいえきべんじょ』
+『Worthless whore』 『Cum dumpster』
+//One word per buttcheek? Split as it's better visible. Console: "Pervert Woman / Enemy of Taichi". Latter's interesting. -GHS
+TP
+
+
+//太一「陰湿っ！！」
+Taichi: "Spiteful!!!"
+TP
+
+//女の嫉妬は恐ろしい……。
+Hell hath no fury...
+//Not even bothering with literal here, especially since we already shaken 'em spears (and it won't be the last time). -GHS
+TP
+
+//とりあえず、冬子の身支度を調えてあげることにした。
+First things first, let's put poor Touko back in order,
+TP
+
+//体液をぬぐって、衣服を整えて。
+cleaning her of bodily fluids, straightening her dress.
+TP
+
+//下着は……もらっておくことにした。
+Underwear... I shall be keeping those.
+TP
+
+//あー、お尻の文字……油性だ。
+Ah, the writing on her butt... oil-based.
+TP
+
+//太一「うーむ」
+Taichi: "Ooh-key."
+TP
+
+//自分では見えないから、放置しておいてもいいのだけど。
+Since she can't see them by herself, it'd be fine leaving them there, but,
+TP
+
+WVP 0 vfccb2014fyu000
+//冬子「……んっ…………たい、ち……」
+Touko: "...nh...... Tai, chi..."
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+GL 4 bgcc0000d
+GP 4 0 0
+GS 4 1
+SEF 52 0
+//HACK wipe to black... -GHS
+
+//美術室に行く。
+I go to the Art room.
+TP
+
+GS 4 0
+SEF 52 0
+//HACK ...and back. -GHS
+
+//教員用控え室から、シンナーを取って戻ってくる。
+I grab the paint thinner from the teacher's ready room and return.
+TP
+
+
+//In a single natural motion I unscrew the bottle of paint thinner and bring it to my nose.
+
+//i aM tRippIng BALlS
+
+//~~~~w~~e~~e~~e~~e~~e~~e~~e~~~~
+
+
+//>きしゃく
+//稀釈して布に含ませた。
+I diluted and soaked a rag in it.
+TP
+
+//拭く。
+Wipe.
+TL
+//拭く。
+Wipe.
+//CP thulhu -GHS
+TL
+//拭く。
+Wipe.
+//CP fhtagn -GHS
+TP
+//HACK now on the same page (this was likely always intended) -GHS
+
+//つるりとした卵尻が復活。
+With a slip and a slide I resurrect her eggy ass.
+//At least it's not 50% rebuilt from the 800x600 data, 20% PS2 emulator screenshots and 30% Xbox 360 video capture, eh? See next script for payoff. -GHS
+TP
+WVS 1 1
+//太一「ごめんな……冬子」
+Taichi: "Apologies... Touko."
+TP
+
+
+WVP 2 SE027 1 0
+
+//がるるるるるるるる
+GlRlRlRlRlRlRlRlR!
+//PCP CCA0021
+//No, really, it's 8 る instead of 9. I WONDER WHY. -GHS
+TP
+
+
+//腹の虫だ。
+It's my belly bug.
+//CP CCA0021
+//Juuust moments after "seeing" Youko. Two routes in a row! What a coincidence. -GHS
+TP
+
+//野獣のようだ。
+It's like a wild beast.
+//CP CCA0021
+TP
+
+//腹の獣とでも言おうか。
+Should I just call it my belly beast then.
+//CP CCA0021
+TP
+
+//太一「腹減った……」
+Taichi: "Hungry..."
+TP
+
+//と。
+And,
+TP
+WVP 2 SE077 1 0
+
+//くるるるるる
+PoPoPoPoPoing.
+TP
+
+
+//冬子の腹部からだった。
+That came from Touko's belly.
+TP
+
+//太一「……ぷ」
+Taichi: "...heh."
+TP
+
+//WT 500 
+//WT 1000 1
+//These are useless with the new flashback opening -GHS
+
+RET

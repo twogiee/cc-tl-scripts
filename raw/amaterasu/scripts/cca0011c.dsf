@@ -1,0 +1,695 @@
+
+
+
+WVP 3 se020 0 0 1
+GL 0 bgcc0005a
+GS 0 1
+SEF 152 1
+WVP 1 bgm004.ogg 0 0 0
+
+
+
+Even in the evening, the ground was hot.
+TP
+
+
+
+The heat penetrated the soles of my shoes.
+TP
+
+
+
+But it wasn't unbearable.
+TP
+
+
+
+Compared to the heat of a Kantou metropolis, clouds and dirt couldn't be more different.
+IF $tlnote != 0 (TL note: Tokyo fills up much of the Kantou region.)
+TP
+
+
+
+After all, there's a nice breeze. I can handle this temperature.
+TP
+
+
+
+That is, I could if I didn't have to keep climbing these hills.
+TP
+
+
+
+The din of the cicadas only further amplified the heat.
+TP
+
+
+
+Like a band that's only active during the summer, these guys stake everything on one season.
+TP
+
+
+
+WVP 0 vmcca0011bshi000
+Boy: "Gya!"
+TP
+
+
+
+Taichi: "Eh?"
+TP
+
+
+
+Someone fell over nearby.
+TP
+
+
+WVP 2 se014 1 0
+He made a dry sound against the ground, and stainless steel crutches fell down by his feet.
+TP
+
+
+
+Taichi: "What's this?"
+TP
+
+
+
+A person had collapsed.
+TP
+
+
+
+I tried approaching him.
+TP
+
+
+
+Taichi: "......umm, are you okay?"
+TP
+
+
+
+WVP 0 vmcca0011bshi001
+Boy: "Ah, sorry. I'm fine."
+TP
+
+
+
+At times like these, Japanese people will always say they're fine.
+TP
+
+
+
+I couldn't be sure whether that was true or not.
+TP
+
+
+
+I lost my temper.
+TP
+
+
+
+Taichi: "Are you really okay?! Can you really be sure you're fine in an instant like that?!"
+TP
+
+
+
+WVP 0 vmcca0011bshi002
+Boy: "Oh, oooh......aah."
+TP
+
+
+
+This particular Japanese person felt pressured into nodding uncomfortably.
+TP
+
+
+
+Taichi: "For all we know you could have multiple bone fractures!!"
+TP
+
+
+
+WVP 0 vmcca0011bshi003
+Boy: "I can tell by looking that it's not broken......"
+TP
+
+
+
+Taichi: "I shall bring retribution down upon you for making light of humanity!"
+TP
+
+
+
+WVP 0 vmcca0011bshi004
+Boy: "What are you talking about?!"
+TP
+
+
+
+WVP 0 vmcca0011bshi005
+Boy: "Anyway, I'm not hurt at all."
+TP
+
+
+
+He pulled himself up with a wry smile.
+TP
+
+
+
+I handed him his crutches.
+TP
+
+GL 1 TCSY0000b
+GP 1 180 0
+GS 1 1
+SEF 109 0
+
+WVP 0 vmcca0011bshi006
+Boy: "Ah, thanks."
+TP
+
+
+
+Taichi: "Don't mention it. It's my fault, anyway."
+TP
+
+
+
+Taichi: "Are you hurt?"
+TP
+
+
+
+WVP 0 vmcca0011bshi007
+Boy: "Doesn't seem like it."
+TP
+
+
+
+Using his crutches, he managed to regain some of his balance.
+TP
+
+
+
+One of his legs wasn't moving so well......
+TP
+
+
+
+Taichi: "Broken leg?"
+TP
+
+
+GL 1 TCSY0001b
+GI 1 0
+
+WVP 0 vmcca0011bshi008
+Boy: "I wish it was."
+TP
+
+
+
+A calm, carefree smile.
+TP
+
+
+
+The face of a human who has toiled long and hard.
+TP
+
+
+
+GL 1 TCSY0000b
+GI 1 0
+
+WVP 0 vmcca0011bshi009
+Boy: "Huh, your......your hair..."
+TP
+
+
+
+Taichi: "Aah, this?"
+TP
+
+
+
+I pinched my own bangs.
+TP
+
+
+
+Taichi: "It's no wig."
+TP
+
+
+GL 1 TCSY0002b
+GI 1 0
+WVP 0 vmcca0011bshi010
+Boy: "No, I didn't doubt that."
+TP
+
+GL 1 TCSY0000b
+GI 1 0
+
+WVP 0 vmcca0011bshi011
+Boy: "But did you dye it? It's white all the way to the root."
+TP
+
+
+
+Taichi: "Nope, this is natural."
+TP
+
+
+
+WVP 0 vmcca0011bshi012
+Boy: "Wooow."
+TP
+
+
+
+WVP 0 vmcca0011bshi013
+Boy: "It's perfectly white."
+TP
+
+
+
+That's right.
+TP
+
+
+
+My hair has always been pure white.
+TP
+
+
+
+A person once told me it was the color of down feathers.
+TP
+
+
+
+Not the white of senility.
+TP
+
+
+
+Snow white hair which keeps its luster.
+TP
+
+
+
+White hair so natural it's slightly disturbing.
+TP
+
+
+
+......that's the biggest reason I draw people's eyes.
+TP
+
+
+
+The second biggest reason is the gap between that hair and my face. Dammit.
+//Another line I don't really understand. Å`IX
+//He's saying he has an unattractive forehead. They make jokes like that in "Kodomo no Jikan", one of the manga I read occasionally. - pondrthis
+TP
+
+
+
+WVP 0 vmcca0011bshi014
+Boy: "Ah, sorry. Does it bother you?"
+TP
+
+
+
+But this guy was good.
+TP
+
+
+
+He knows how to be considerate.
+TP
+
+
+
+So I'll be considerate as well.
+TP
+
+
+
+Taichi: "Oh no, not at all."
+TP
+
+
+
+Taichi: "It used to, a bit. But since I'm in that school..."
+TP
+
+
+
+WVP 0 vmcca0011bshi015
+Boy: "Aah......Gunjou Institute?"
+IF $tlnote != 0 (TL note: "Gunjou" literally means the color "ultramarine.")
+TP
+
+
+
+Taichi: "Yeah."
+TP
+
+
+GL 1 TCSY0001b
+GI 1 0
+
+WVP 0 vmcca0011bshi016
+Boy: "I'm a student there too."
+TP
+
+
+
+He cracked a wide smile.
+TP
+
+
+
+Taichi: "Oh, how old are you?"
+TP
+
+
+
+The Japanese guy gave his date of birth.
+TP
+
+
+
+He's the same age as me.
+TP
+
+
+
+And maybe, a friend.
+TP
+
+
+
+Taichi: "I hope we get along well."
+TP
+
+
+
+GL 1 TCSY0000b
+GI 1 0
+
+WVP 0 vmcca0011bshi017
+Boy: "Same here. Please teach me what you can."
+TP
+
+
+
+WVP 0 vmcca0011bshi018
+Boy: "One of my legs doesn't move very well."
+TP
+
+
+
+Taichi: "......I see."
+TP
+
+
+
+WVP 0 vmcca0011bshi019
+Boy: "It's a mental thing. The wound healed ages ago."
+TP
+
+
+
+Taichi: "That's a pain. Since when?"
+TP
+
+
+
+WVP 0 vmcca0011bshi020
+Boy: "Ages ago. It's perfectly natural."
+TP
+
+
+
+WVP 0 vmcca0011bshi021
+Boy: "Look, one's thicker than the other."
+TP
+
+
+
+He rolled up his jeans, showing me both ankles.
+TP
+
+
+
+Taichi: "Uwa, amazing."
+TP
+
+
+
+WVP 0 vmcca0011bshi022
+Boy: "Since I don't use it at all, the muscles just disappeared."
+TP
+
+
+
+Taichi: "That's bad. Go train it."
+TP
+
+
+
+WVP 0 vmcca0011bshi023
+Boy: "I said it doesn't move well. I do still shift it manually sometimes though."
+TP
+
+
+WVP 0 vmcca0011bshi024
+Boy: "It's a real pain."
+TP
+
+
+
+Taichi: "Hey, hey!"
+TP
+
+
+
+GL 1 TCSY0001b
+GI 1 0
+
+WVP 0 vmcca0011bshi025
+Boy: "Ahahaha, joking, joking."
+TP
+
+
+
+Taichi: "So you're a wielder of self-deprecating gags."
+TP
+
+
+
+I can't take this man's arrival lightly.
+TP
+
+
+
+GL 1 TCSY0000b
+GI 1 0
+
+WVP 0 vmcca0011bshi026
+Boy: "What do you mean?"
+TP
+
+
+
+WVP 0 vmcca0011bshi027
+Boy: "I hope that's a good school."
+TP
+
+
+
+Taichi: "It's good."
+TP
+
+
+
+Taichi: "For those like us."
+TP
+
+
+
+WVP 0 vmcca0011bshi028
+Boy: "That's great."
+TP
+
+
+
+Taichi: "There are a lot of cute girls."
+TP
+
+
+GL 1 TCSY0001b
+GI 1 0
+
+WVP 0 vmcca0011bshi029
+Boy: "Seriously!?"
+TP
+
+
+
+Though you can't hold a decent conversation with the majority of them.
+TP
+
+
+
+Taichi: "Especially Machiko-sensei, she's the best."
+TP
+
+
+
+WVP 0 vmcca0011bshi030
+Boy: "Just the name's great! I wanna see her now..."
+TP
+
+
+
+Taichi: "When we get the chance I'll let you see my treasured Machiko-sensei album."
+TP
+
+
+
+Taichi: "It's rank A."
+TP
+
+
+GL 1 TCSY0000b
+GI 1 0
+WVP 0 vmcca0011bshi031
+Boy: "Rank A? Is that the highest?"
+TP
+
+
+
+Taichi: "No, there's an S above it."
+TP
+
+GL 1 TCSY0002b
+GI 1 0
+
+WVP 0 vmcca0011bshi032
+Boy: "Uwa, the same rankings I use......"
+TP
+
+
+
+Taichi: "Y-You too!?"
+TP
+
+
+
+What's with this guy matching me so naturally?
+TP
+
+GL 1 TCSY0001b
+GI 1 0
+
+WVP 0 vmcca0011bshi033
+Boy: "Okay, I get the feeling this'll work somehow."
+TP
+
+
+
+Taichi: "Gunjou is a magnanimous, delicious and erotic place."
+TP
+
+
+
+WVP 0 vmcca0011bshi034
+Boy: "Get out! Erotic!? A prosperous life has just opened up for me!!!"
+TP
+
+
+
+Taichi: "Go for it!!!"
+TP
+
+
+GL 1 TCSY0000b
+GI 1 0
+
+WVP 0 vmcca0011bshi035
+Boy: "Ooooh, here I go!"
+TP
+
+GL 1 TCSY0001b
+GI 1 0
+
+WVP 0 vmcca0011bshi036
+Boy: "Come to think of it, this doesn't feel like our first meeting."
+TP
+
+
+
+Taichi: "I also have a feeling that I'll need to settle a score with you someday."
+TP
+
+GL 1 TCSY0000b
+GI 1 0
+
+WVP 0 vmcca0011bshi037
+Boy: "And I'll accept the challenge."
+TP
+
+
+
+He said with confidence.
+TP
+
+
+
+WVP 0 vmcca0011bshi038
+Boy: "......but before that, give me your data on Machiko-sensei."
+TP
+
+
+
+Taichi: "Very well, comrade-in-arms."
+TP
+
+
+
+Taichi: "We may not be of the same race, but I wish you good luck."
+TP
+
+
+GL 1 TCSY0002b
+GI 1 0
+WVP 0 vmcca0011bshi039
+Boy: "......no, you're definitely Japanese too."
+TP
+
+
+GL 0 bgcc0000d
+GS 1 0
+GS 0 1
+SEF 109 0
+
+WVS 1 1
+
+
+
+This was how I met Shinkawa Yutaka---
+TP
+WVS 3 1
+
+
+
+RET

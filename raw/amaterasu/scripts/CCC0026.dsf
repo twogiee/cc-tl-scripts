@@ -1,0 +1,454 @@
+WVP 1 bgm012.ogg 0 0 0
+
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+
+GL 1 TCSK0000
+GP 1 220 0
+GI 1 1
+
+Kiri was standing in the hallway.
+TP
+
+Taichi: "Kiri-chin......"
+TP
+
+
+GL 1 TCSK0001
+GI 1 0
+
+She glared at me.
+TP
+
+I glared back, unyielding.
+TP
+WVP 1 bgm011.ogg 0 0 0
+
+
+*bam* *bam* *bam* *bam* *bam* *bam* *bam* *bam!!!* (Psychological Effect)
+//Any reason why it's "Psychological Effect" instead of something like "psychological effects"?
+TP
+
+
+A repartee of gazes.
+TP
+
+Our pressurized animosities clashed and swirled at midpoint.
+//I actually loled as I tled this. Å`IX
+TP
+
+Damn you little girl!!!
+TP
+My hand entered my breast pocket.
+//It's here! My favorite comedy scene in the entire game! You'd better rofl at this (it lasts multiple scripts though). Å`IX
+TP
+
+Telling her I was going to pull out a weapon.
+TP
+
+Actually I just needed to scratch my nipple.
+TP
+
+WVP 0 vfCCC0026kri000
+Kiri: "......!!!"
+TP
+
+Kiri watched me oversensitively.
+TP
+
+And slipped her hand in her pocket.
+TP
+
+She also has a weapon!!
+TP
+
+Taichi: "Ku."
+TP
+
+With my hand still in my pocket, I further increased my eye strength.
+TP
+
+
+*crackle* *crackle* *crackle* *crackle* *crackle!!!!!*
+TP
+
+She didn't take her hand out of her pocket either.
+TP
+
+Deadlock.
+TP
+
+Quick & Draw.
+//NAT, Taichi just failed at Engrish again.
+//You mean, failed at English? His Engrish is perfect. -VDZ
+TP
+
+Whoever moved first would be killed.
+TP
+
+Then into that came Miki, wiping her hands on her way out of the bathroom.
+TP
+
+GL 2 TCYM0041
+GS 1 1
+GS 2 1
+GP 1 00 0
+GP 2 290 0
+SEF 109 0
+
+
+WVP 0 vfCCC0026mki000
+Miki: "Waaaaan! It became a battlefield while I was in the bathroom---!!!"
+TP
+
+Taichi: "I'll save you, Miki!"
+TP
+
+GL 2 TCYM0002
+GI 2 0
+WVP 0 vfCCC0026mki001
+Miki: "Someone decided that I'm being imprisoned......"
+TP
+
+WVP 0 vfCCC0026kri001
+Kiri: "Back up, Miki."
+TP
+
+GL 2 TCYM0000
+GI 2 0
+WVP 0 vfCCC0026mki002
+Miki: "No, I mean......"
+TP
+
+Kiri lowered her hips.
+TP
+
+Taichi: "......hu!"
+TP
+
+I relaxed my shoulders.
+TP
+
+I took out my hand.
+TP
+
+WVP 0 vfCCC0026kri002
+Kiri: "......!"
+TP
+
+An empty hand.
+TP
+
+I showed her my defenseless state.
+TP
+
+Taichi: "The bluffs end here, Kiri-chin."
+TP
+
+Taichi: "I'm not armed. I say, you too must stop these meaningless acts of bravado."
+TP
+
+I'm endlessly cool when I start a line with 'I say.'
+TP
+
+My alias as a pure love aristocrat isn't just for show.
+TP
+
+Kiri: "............"
+TP
+
+Kiri took out her hand.
+TP
+
+She was gripping a crossbow.
+//lol where did that come from? XD - Sheeta
+TP
+
+Taichi: "......wha?"
+TP
+GL 0 evcc0024a
+$CGevcc0024a = 1
+GS 0 1
+GS 1 0
+GS 2 0
+
+SEF 155 0
+WVP 2 SE100 1 0
+Buckmaster's Mark Point Crossbooooooooow!!
+//That picture has been bugging me for a while now. There is no way she could hold a crossbow like that with one hand. Especially since it's wood.(in archery club)-Spin
+TP
+
+Taichi: "Wait-wait-wait-wait."
+TP
+
+Taichi: "That's just too weird! There's no way something so big could fit in your pocket!"
+TP
+
+WVP 0 vfCCC0026kri004
+Kiri: "............"
+TP
+
+She held the crossbow up silently.
+TP
+
+I could tell that, on the other side of the scope, Kiri was aiming for my heart.
+TP
+
+I felt a keen gaze.
+TP
+
+Taichi: "You're aiming at the heart the Tin Man wanted so badly!!?"
+TP
+
+WVP 0 vfCCC0026kri005
+Kiri: "Please don't move. I'll shoot."
+TP
+
+WVP 0 vfCCC0026mki003
+Miki: "Awawawa!"
+TP
+
+Miki-Miki lost her head as well.
+TP
+
+Taichi: "Surrender! Surrender!"
+TP
+
+I raised both hands.
+TP
+
+WVP 0 vfCCC0026kri006
+Kiri: "Ah, it got easier to aim......"
+TP
+
+She reestablished her aim.
+TP
+
+Taichi: "Nooo! Nooo! Stooop!"
+TP
+
+I shook my head violently.
+TP
+
+I felt like crying.
+TP
+
+Actually I was crying.
+TP
+
+WVP 0 vfCCC0026mki004
+Miki: "Kiri-chin, Kiri-chin! This is bad, you'll get arrested!"
+TP
+
+WVP 0 vfCCC0026kri007
+Kiri: "The police are gone."
+TP
+
+WVP 0 vfCCC0026mki005
+Miki: "Ah! That's right."
+TP
+
+WVP 0 vfCCC0026mki006
+Miki: "Poeee......"
+TP
+
+She went quiet.
+TP
+
+Taichi: "Don't agree with that!"
+TP
+
+WVP 0 vfCCC0026kri008
+Kiri: "Get on your knees, with your hands behind your head."
+TP
+
+Taichi: "Yes..."
+TP
+
+I obeyed.
+TP
+
+WVP 0 vfCCC0026kri009
+Kiri: "......what to do next..."
+TP
+
+She whispered with Miki.
+TP
+
+I could hear it.
+TP
+
+WVP 0 vfCCC0026mki007
+Miki: "Disarmament?"
+TP
+
+WVP 0 vfCCC0026kri010
+Kiri: "He doesn't seem to be carrying anything."
+TP
+
+WVP 0 vfCCC0026mki008
+Miki: "......"
+TP
+
+Thinking.
+TP
+
+WVP 0 vfCCC0026mki009
+Miki: "Then, how about this?"
+TP
+
+Whispering.
+TP
+
+WVP 0 vfCCC0026kri011
+Kiri: "......understood."
+TP
+
+Kiri nodded.
+TP
+
+She looks cool, but she's really stuck fast to Miki.
+TP
+
+And she'll do whatever she says.
+TP
+
+That's my way out.
+TP
+
+Since it's Miki-Miki, there's no mistake she'll let me escape because of all the long years that I've loved her.
+//It sounded so weird that it just had to be reworded. Not too sure about "that" but something in that second part needed to be changed. I have no idea what else I could have done though.-Spin
+TP
+WVS 1 1
+
+
+WVP 0 vfCCC0026kri012
+Kiri: "Please crawl around on the floor like a dog."
+TP
+
+Taichi: "Miki-Mikiiii!!!"
+TP
+WVP 1 bgm006.ogg 0 0 0
+
+WVP 0 vfCCC0026mki010
+Miki: "Heheheh."
+TP
+
+An evil smile.
+TP
+
+I'm being punished for my sexual harassment.
+TP
+
+
+
+WVP 0 vfCCC0026kri013
+Kiri: "Hurry up."
+TP
+
+Taichi: "Gu...guu......"
+TP
+
+There's no stopping her.
+TP
+
+I crawled around on the floor.
+TP
+
+Taichi: "......woof."
+TP
+
+WVP 0 vfCCC0026mki011
+Miki: "I couldn't feel your motivation. Retake."
+TP
+
+Taichi: "Gyaaa!!"
+TP
+
+A final coating of shame.
+TP
+
+I guess it's a basic tenant of torture...
+TP
+
+But having it done to me is rough.
+TP
+
+WVP 0 vfCCC0026kri014
+Kiri: "Retake, Sempai."
+TP
+
+Taichi: "Woof, woof-woof-woof!"
+TP
+
+Taichi: "How can you complain about that!?"
+TP
+
+WVP 0 vfCCC0026mki012
+Miki: "Who told you to woof four times?"
+TP
+
+Taichi: "Hey!"
+TP
+
+
+WVP 0 vfCCC0026kri015
+Kiri: "Did someone tell you to woof four times?"
+TP
+
+Taichi: "Okay, I get it. Now, which of your shoes should I lick? Nn?"
+TP
+
+WVP 0 vfCCC0026mki013
+Miki: "Lick?"
+TP
+
+Taichi: "Please let me lick them, Hime-kun."
+TP
+
+I touched my forehead to the floor.
+TP
+
+WVP 0 vfCCC0026mki014
+Miki: "No thanks, they'd get dirty."
+TP
+
+Taichi: "Oh-hey!"
+TP
+
+WVP 0 vfCCC0026mki015
+Miki: "......now...next up is a nude showÅÙ"
+TP
+
+Miki has...Miki has become a demon!!
+//sorry Nagato Å`IX
+TP
+WVP 0 vfCCC0026mki016
+Miki: "Strip from the bottom."
+TP
+
+Taichi: "Noooo, not my bodyyyy!"
+TP
+
+WVP 0 vfCCC0026mki017
+Miki: "Life or chastity, which is more precious to you, Sempai?"
+TP
+
+Miki had awakened to the perks of the strong.
+TP
+
+Taichi: "Hiiiin!"
+TP
+
+I was down to one layer of panties.
+//PANTIES?! Is Taichi wearing girl's underwear?! - Sheeta
+//If the original word was 'pantsu', couldn't it also be men's underpants? -VDZ
+TP
+
+
+
+RET

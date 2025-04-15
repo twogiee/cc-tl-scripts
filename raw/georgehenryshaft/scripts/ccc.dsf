@@ -1,0 +1,607 @@
+
+
+
+
+
+
+CALL ccc0000
+
+IF $loop == 2 JMP RC_0003
+IF $loop > 2 JMP RC_0004
+JMP RC_0003
+
+
+
+
+:RC_0003
+//This is only played on the first access to Route 3 -GHS
+CALL ccc0001
+CALL ccc0003a
+IF $B == 1 JMP LC0004A
+IF $B == 2 JMP LC0004B
+
+:LC0004A
+CALL ccc0004a
+JMP LC0005
+
+:LC0004B
+CALL ccc0004b
+JMP LC0005
+
+:LC0005
+CALL ccc0005
+CALL ccc0006a
+
+JMP RC_TP0001
+
+
+
+
+:RC_0004
+//This is played on second and further accesses to the route -GHS
+CALL ccc0002
+CALL ccc0003b
+CALL ccc0006b
+JMP RC_TP0001
+
+
+
+
+:RC_TP0001
+
+IF $KIRI != 1 JMP LC0006C
+IF $MISATO != 1 JMP LC0006C
+IF $TOKO != 1 JMP LC0006C
+JMP LC0006D
+
+:LC0006C
+CALL ccc0006c
+IF $B == 1 JMP RC_KIRI
+IF $B == 2 JMP RC_MF
+//Heh, Misato-Fuyuko. -GHS
+
+:LC0006D
+CALL ccc0006d
+IF $B == 1 JMP RC_KIRI
+IF $B == 2 JMP RC_MF
+IF $B == 3 JMP RC_MIKI
+
+
+
+:RC_KIRI
+CALL ccc0007
+
+IF $loop < 4 JMP LC0008A
+JMP LC0008B
+
+:LC0008A
+CALL ccc0008a
+JMP LC0010A
+
+:LC0008B
+CALL ccc0008b
+//This requires at least two repeats of the route. It's never called anywhere else. -GHS
+JMP LC0010A
+
+:LC0010A
+CALL ccc0010a
+IF $B == 1 JMP LC0011A
+IF $B == 2 JMP LC0011B
+
+
+:LC0011A
+CALL ccc0011a
+JMP LC0015
+
+
+:LC0011B
+CALL ccc0011b
+IF $B == 1 JMP LC0013A
+IF $B == 2 JMP LC0013B
+
+:LC0013A
+CALL ccc0013a
+JMP LC0014
+
+:LC0013B
+CALL ccc0013b
+JMP LC0014
+
+:LC0014
+CALL ccc0014
+
+:LC0015
+CALL ccc0015
+IF $B == 1 JMP LC0016A
+IF $B == 2 JMP LC0016B
+
+:LC0016A
+CALL ccc0016a
+JMP LC0017
+
+:LC0016B
+CALL ccc0016b
+JMP LC0017
+
+:LC0017
+CALL ccc0017
+IF $B == 1 JMP LC0018A
+IF $B == 2 JMP LC0018B
+
+:LC0018A
+CALL ccc0018a
+JMP LC0019
+
+:LC0018B
+CALL ccc0018b
+JMP LC0019
+
+:LC0019
+CALL ccc0019
+CALL ccc0022
+
+CALL ccc0020
+CALL ccc0021
+CALL ccc3001
+
+IF $loop == 2 JMP LC0023A
+IF $loop > 2 JMP LC0023B
+
+
+:LC0023A
+CALL ccc0023a
+JMP LC0024
+
+:LC0023B
+CALL ccc0023b
+JMP LC0024
+
+:LC0024
+CALL ccc0024
+CALL ccc0025
+CALL ccc0026
+CALL ccc3002
+CALL ccc0027
+CALL ccc0028
+IF $B == 1 JMP LC0029A_1
+IF $B == 2 JMP LC0029B_1
+
+:LC0029A_1
+CALL ccc0029a
+JMP LC0030_1
+
+:LC0029B_1
+CALL ccc0029b
+JMP LC0030_1
+
+:LC0030_1
+CALL ccc0030
+IF $B == 1 JMP LC0031AB
+IF $B == 2 JMP LC0031C_1
+
+:LC0031AB
+
+IF $loop == 2 JMP LC0031A_1
+JMP LC0031B_1
+
+:LC0031A_1
+CALL ccc0031a
+JMP LC0032
+
+:LC0031B_1
+CALL ccc0031b
+JMP LC3003
+//Repeating the route at least once removes the Youko sandwiches thing, since he would've eaten together with Miki and Kiri. Curiously, his lunch also changes to onigiri. -GHS
+
+:LC0031C_1
+CALL ccc0031c
+JMP LC0032
+
+:LC0032
+CALL ccc0032
+IF $B == 1 JMP LC0033A
+IF $B == 2 JMP LC0033B
+
+:LC0033A
+CALL ccc0033a
+JMP LC0034
+
+:LC0033B
+CALL ccc0033b
+JMP LC0034
+
+:LC0034
+CALL ccc0034
+
+:LC3003
+CALL ccc3003
+CALL ccc0035a
+CALL ccc0036a
+CALL ccc0037
+
+//IF $loop == 2 JMP LC0038A
+//JMP LC0038B
+//:LC0038A
+CALL ccc0038a
+//This script is ONLY called if $loop is 2. This script differs from the B variant by one single line. Take a guess at how to avoid 11 lines of copypasta! -GHS
+//JMP LC0039
+//:LC0038B
+//CALL ccc0038b
+//JMP LC0039
+
+:LC0039
+CALL ccc0039
+CALL ccc0040
+CALL ccc0041
+CALL ccc3004
+CALL ccc3005
+CALL ccc3006
+CALL ccc0042
+CALL ccc3007
+CALL ccc0043
+CALL ccc0044
+CALL ccc3008
+CALL ccc3009
+CALL ccc3010
+CALL ccc0045a
+CALL ccc3011
+IF $B == 1 JMP LC3012A
+IF $B == 2 JMP LC3012B
+
+:LC3012A
+CALL ccc3012a
+$KIRIBAD = 0
+JMP LC3013
+
+:LC3012B
+CALL ccc3012b
+$KIRIBAD = 1
+JMP LC3013
+
+:LC3013
+CALL ccc3013
+CALL ccc3014
+CALL ccc3015
+CALL ccc3016
+CALL ccc3017
+CALL ccc3018
+IF $B == 1 JMP LC3019B
+IF $B == 2 JMP LC3019C
+
+//:LC3019A
+//JMP LC3020
+//Label's never called and contains nothing but skipping either of the following scripts. Possibly something at the end of CCC3018 was removed, sort of how the same was done in Touko's route. -GHS
+
+:LC3019B
+CALL ccc3019a
+JMP LC3020
+
+:LC3019C
+CALL ccc3019b
+JMP LC3020
+
+:LC3020
+CALL ccc3020
+CALL ccc3021
+CALL ccc3022
+CALL ccc3023
+IF $B == 1 JMP LC30XX
+IF $B == 2 JMP LC3024
+
+
+:LC30XX
+CALL ccc0101
+
+$END = 1
+JMP RC_END
+
+
+:LC3024
+CALL ccc3024
+JMP LC3025
+
+:LC3025
+CALL ccc3025
+CALL ccc3026
+CALL ccc3027
+CALL ccc3028
+CALL ccc3029
+CALL ccc3030
+
+$KIRI = 1
+$END = 1
+JMP RC_END
+
+
+
+
+
+
+:RC_MIKI
+
+CALL ccc0009
+
+//There's a nice script called CCC010B, that's never called, and contains the choice to go to the first years' classroom, or return to Tasaki. -GHS
+
+:LC0011C
+CALL ccc0011c
+CALL ccc0022
+//Kiri route shared script -GHS
+CALL ccc4001
+//This script is where Miki's route formally begins. It shows off the name onscreen on the 360 version, and autosaves on the PS2 version. Except, by this point it's already irreversible. -GHS
+CALL ccc0023b
+//Kiri route shared script -GHS
+CALL ccc4002
+CALL ccc0026
+//Kiri route shared script -GHS
+CALL ccc4003
+CALL ccc0028
+//Kiri route shared script -GHS
+IF $B == 1 JMP LC0029A_2
+IF $B == 2 JMP LC0029C_2
+
+:LC0029A_2
+CALL ccc0029a
+//Kiri route shared script -GHS
+JMP LC0030_2
+
+:LC0029C_2
+CALL ccc0029c
+JMP LC0030_2
+
+:LC0030_2
+CALL ccc0030
+//Kiri route shared script -GHS
+IF $B == 1 JMP LC0031B_2
+IF $B == 2 JMP LC0031C_2
+
+:LC0031B_2
+CALL ccc0031b
+//Kiri route shared script -GHS
+JMP LC4004
+
+:LC0031C_2
+CALL ccc0031c
+//Kiri route shared script -GHS
+JMP LC4004
+
+:LC4004
+CALL ccc4004
+CALL ccc4005
+CALL ccc0035b
+CALL ccc0036b
+CALL ccc0037
+//Kiri route shared script -GHS
+//CALL ccc0038b
+CALL ccc0038a
+//Kiri route shared script (now) -GHS
+CALL ccc4006
+CALL ccc4007
+CALL ccc4008
+CALL ccc4009
+CALL ccc4010
+CALL ccc4011
+CALL ccc0042
+//Kiri route shared script -GHS
+CALL ccc4012
+//CALL CCC4013
+//Script file exists, but is a single 'RET' command. Demoted to inaccessible and removed. -GHS
+CALL ccc0043
+//Kiri route shared script -GHS
+CALL ccc0044
+//Kiri route shared script. Curiously, Misato's wounds are never seen in the Miki route, and in fact, the very next script has Taichi wondering about Misato's absence. -GHS
+CALL ccc4014
+CALL ccc4015
+CALL ccc0045b
+CALL ccc4016
+CALL ccc4017
+CALL ccc4018
+CALL ccc4019
+CALL ccc4020
+CALL ccc4021
+CALL ccc4022
+CALL ccc4023
+CALL ccc4024
+CALL ccc4025
+
+$MIKI = 1
+$END = 1
+JMP RC_END
+
+
+
+:RC_MF
+//Complete repetition of Week 2, same scripts (mercifully). See CCB for changes made there, rest is copypasta with RB_END modified to RC_END as appropriate. -GHS
+
+CALL ccb0003
+IF $B == 1 JMP LB0004B
+IF $B == 2 JMP LB0004C
+
+:LB0004B
+CALL CCA0005B
+JMP LB0005
+
+:LB0004C
+CALL ccb0004c
+JMP LB0005
+
+:LB0005
+CALL ccb0005
+CALL ccb0006
+CALL ccb0007
+IF $B == 1 JMP LB0008A
+IF $B == 2 JMP LB0008B
+
+:LB0008A
+CALL ccb0008a
+JMP LB0009
+
+:LB0008B
+CALL ccb0008b
+JMP LB0009
+
+:LB0009
+CALL ccb0009
+IF $B == 1 JMP LB0010A
+IF $B == 2 JMP LB1001
+
+:LB0010A
+CALL ccb0010a
+IF $B == 1 JMP LB2001
+IF $B == 2 JMP LB1001
+
+:LB2001
+CALL ccb2001
+JMP LB0011
+
+
+:LB1001
+CALL CCA0010
+IF $B == 1 JMP LB1002A
+IF $B == 2 JMP LB1002B
+
+:LB1002A
+CALL cca0011a
+JMP LB0011
+
+:LB1002B
+CALL cca0011b
+JMP LB0011
+
+:LB0011
+//CALL ccb0011
+CALL CCA0011C
+CALL ccb0012
+CALL ccb0013
+CALL CCA0013B
+IF $B == 1 JMP LB0015AB
+IF $B == 2 JMP LB0015C
+
+:LB0015AB
+CALL ccb0015b
+JMP RB_TOUKO
+
+:LB0015C
+CALL cca0014b
+JMP RB_MISATO
+
+
+
+
+:RB_MISATO
+CALL ccb1003
+CALL cca0015B
+CALL cca0015C
+CALL cca0016
+IF $B == 1 JMP LB1007A
+IF $B == 2 JMP LB1007B
+
+:LB1007A
+CALL cca0017a
+JMP LB1008
+
+:LB1007B
+CALL cca0017b
+JMP LB1008
+
+:LB1008
+CALL cca0018
+CALL CCA0018B
+CALL cca0019
+CALL ccb0018
+CALL cca0021
+CALL CCA0022
+CALL CCA0022B
+CALL cca0023
+CALL cca0024
+IF $B == 1 JMP LB1014A
+IF $B == 2 JMP LB1014D
+
+:LB1014A
+CALL cca0025a
+IF $B == 1 JMP LB1014B
+IF $B == 2 JMP LB1014D
+
+:LB1014B
+CALL cca0025b
+IF $B == 1 JMP LB1101
+IF $B == 2 JMP LB1014D
+
+:LB1101
+CALL CCA0025C
+$MISATO = 1
+
+JMP LB0020
+
+:LB1014D
+CALL cca0025d
+CALL cca0026
+JMP LB0020
+
+:LB0020
+CALL ccb0020
+CALL ccb0021
+CALL cca0028B
+CALL ccb1102
+CALL ccb0022
+CALL ccb0023
+
+$END = 1
+JMP RC_END
+
+
+
+
+:RB_TOUKO
+CALL ccb2002
+JMP LB2003A
+
+:LB2003A
+CALL ccb2003a
+JMP LB2005
+
+
+:LB2005
+
+CALL ccb2005
+CALL ccb2006
+
+CALL CCA0018B
+
+CALL ccb2007
+CALL ccb2008
+CALL ccb2009
+
+CALL ccb0018
+
+CALL ccb2010
+CALL ccb2011
+CALL ccb2012
+CALL ccb2013
+CALL ccb2014
+
+CALL CCA0022
+
+CALL ccb2015
+CALL ccb2016
+
+CALL ccb0020
+
+CALL ccb2017
+CALL ccb2101
+CALL ccb2019
+CALL ccb2102
+CALL ccb2020
+CALL ccb0022
+CALL ccb2021
+
+$TOKO = 1
+$END = 1
+JMP RC_END
+
+
+
+
+
+:RC_END
+RET

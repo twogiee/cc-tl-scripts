@@ -1,0 +1,1998 @@
+
+
+WVP 3 se001 0 0 1
+
+
+GL 0 bgcc0003
+GL 1 zzzblackblend
+GP 1 0 0
+GS 0 1
+GS 1 1
+//HACK dim screen -GHS
+SEF 109 1
+
+WVP 1 bgm011.ogg 0 0 0
+//HACK earlier music. -GHS
+
+//桜庭に押し倒される夢を見た。
+I dreamed of Sakuraba pushing himself on me.
+//This is a conflation of his Great Pattern together with that theater incident. -GHS
+TP
+
+
+GL 5 zzzsakulaugh
+GI 5 1
+//HACK giant sakuraba RIGHT IN YOUR FACE TRYING TO RAPE YOU WAAAAAAAAAAAAAAAAAAAAAAAAAAAA -GHS
+
+
+WVP 0 vmcca0013sku000
+//桜庭『男でもいい』
+Sakuraba: 『A MAN IS FINE TOO!』
+//Since the meme is from a Kagetsu Tohya doujin (and a good enough translation of this form anyway), it's so appropriate. -GHS
+//SEF 101 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+TP
+
+GO 5 1
+//HACK out sakuraba (whew) -GHS
+
+
+//と叫びつつ、襲いかかる金髪の貴公子。
+So shouts the gold-haired noble young man that's swooping down on me.
+//More Pattern conflation: Taichi's the Aristocrat of Love. -GHS
+TP
+
+
+
+//しかしそれはおかしいじゃないか。
+Wait, isn't that weird?
+TP
+
+
+
+//当時、やつは金髪ではなかったのだから。
+Because at that time the guy wasn't blond.
+//Referring back to the theater incident, which is before the blond Sakuraba. Not exactly sure what a first-time reader should make of this: maybe dream logic? blond, pushes him down, no longer blond. -GHS
+TP
+
+
+
+//でもどうでもいいことだ。
+But that's just whatever.
+//Well, it's strong evidence that Taichi didn't have silver hair back when he was in the mansion, so whatever my full-width asterisk. -GHS
+TP
+
+
+
+//最強の矛と無敵の楯を装備している桜庭は、もとより理屈の通じない相手だ。
+Sakuraba is equipped with a lance that can pierce any shield and a shield that can stop any lance, so from the very start he was never an opponent that could be reached through reason.
+//This refers to the (supposed) origin of the Japanese word for contradiction, 矛楯 mujun, lit. "lance shield". If you've played Ace Attorney (I think it's #2), you've heard it. "Equip" is very RPG-ish, it's not random but evocative of his memory leak. -GHS
+TP
+
+GL 5 zzzsakulaugh
+GI 5 1
+//HACK giant sakuraba in -GHS
+
+WVP 0 vmcca0013sku001
+//桜庭『避妊するから』
+Sakuraba: 『IT'S CONTRACEPTIVE!』
+//SEF 101 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+TP
+
+GO 5 1
+//HACK out sakuraba -GHS
+
+
+//と言い訳がましく迫りくる。
+That's the justification-like thing he tells me as he approaches.
+TP
+
+
+
+//避妊すると言いつつ肉体関係を強要してくる、桜庭自体を否認したかった。
+If Sakuraba was going to force carnal relationships while saying it's contraceptive, then I wanted to reject him from the very body.
+//自体 means "himself" as in "Sakuraba himself", but the sarcastic undertone of the overliteral, as often in Tanaka, can't be missed. Taichi rejecting this Broken Sakuraba - who's himself in a similar Pattern to what Taichi has - is itself interesting, but there's more. I suppose the anti-gay message is sorta unsubtle, but the real point is the rejection of contraceptives as the excuse for sexual relationships. That's pretty damn Catholic, considering. -GHS
+TP
+
+
+
+//どうしてこんなことに？
+Why is this happening to me?
+//He honestly wants you to marry his sister, though he could've foregone all that crap about the Chinese mafia really, but then certain metaphors might not have worked anymore. Anyway, the family's not about the incest but Mankind, put together by whims of the author (self-insertion mixed with god-figure, complete with having gone mad) and the Good Fortune that is still the God of Coincidences e.g. the Christian one. Hum, that'll need a new translation too, won't it. Crap. -GHS
+TP
+
+
+
+//日記にひどいことを書いたせいか？
+Are the mean things I wrote in my diary?
+//See CCA0012, exact same word that referred to what he did to Touko. Touko's name conspicuous in its absence. He was keeping a diary BEFORE his exchange diary with Yusa, meaning it's not his exchange with her that causes this. In short, Sakakibara is most the likely source. -GHS
+TP
+
+
+
+//天罰か？
+Wrath of God?
+TP
+
+
+
+//応報か？
+Just recompense?
+TP
+
+
+
+//ハンムラビ法典か？
+The Code of Hammurabi?
+TP
+
+
+
+//そりゃ微妙に違うか？
+Aren't they only slightly different?
+//Well, they are. I hope I don't need to make tedious explanations as to why the ancient Code of Hammurabi (and its refinement of Eye for an Eye) isn't metaphorically incompatible with a Christian Divine Retribution. -GHS
+TP
+
+
+
+//俺はと言うと、どこかで夢だと知りつつも、パニック状態になっていた。
+Whatever it may be, while I still know it's a dream that came from somewhere, I still slip into panic mode.
+//Interesting to notice that he's having a flashback/dream about a dream, so it's legitimate to compare this to the previous dream seen in the route with Nanaka. -GHS
+TP
+
+SEF 101 0
+//HACK shake screen -GHS
+
+//太一『からだはいやーっ』
+Taichi: 『My body, you caaan't!』
+//PCP CCA0012
+//The simple joke is that he's having done to him what he's done to her in his imagination; the more complex less-joke is that this nukige-ish writing at least matches his encounter with Sakuraba, meaning it hints at the Mansion; the most complex is how, as said, Sakuraba is implement The Pattern on him. -GHS
+TP
+
+SEF 101 0
+//HACK shake screen -GHS
+
+
+//太一『お慈悲！』
+Taichi: 『Have mercy!』
+//PCP CCA0012
+TP
+
+SEF 101 0
+//HACK shake screen -GHS
+
+
+//太一『けだもの～っ！』
+Taichi: 『Animaaa～l!』
+//PCP CCA0012
+TP
+
+
+
+//などと叫びながら、桜庭の体を突き飛ばそうとする。
+And all that sort of shouts I make while I try to thrust Sakuraba's body away.
+//This sounds so di--- oh. -GHS
+TP
+
+
+
+//純潔をかけたレスリング。
+A wrestling match with my chastity at stake.
+TP
+
+
+
+//……純潔でもないが。
+...not that I'm chaste.
+//See CCC0000... but also CCD0002. -GHS
+TP
+
+
+
+//敵は本気で、鼻息も荒い。
+My opponent is serious, so wildly snorting in excitement.
+//Anger, sexual excitement... also Yutaka's sneer. -GHS
+TP
+
+
+
+//殺すかと本気で思う。
+There's some serious thoughts of murder here.
+//Ambiguous as to from whom, if I got the sneer thing right it should be obvious why: Sakuraba's transitioning into Yutaka. -GHS
+TP
+
+
+
+//ぼかぼかと殴る。
+Strikes that go thunk, thunk.
+//Curiously, there's a SFX that would go perfectly with this, but there's no SFX in any console versions, only the shakes that I've added. -GHS
+TP
+
+SEF 101 0
+//HACK shake screen -GHS
+
+
+//一発がうまくクリーンヒット。
+One of them is a skillful clean hit.
+//See CCA0002 -GHS
+TP
+
+
+
+//桜庭は横転する。
+Sakuraba flips over.
+TP
+
+
+//>ぎょうが
+//仰臥して意識を失った桜庭の股間が、不意に暴発した。
+Supine, his sense lost, Sakuraba's nethers unconsciously discharged.
+TP
+
+
+
+//射精したのかと思ったら、桜庭の荷電粒子砲（自称）の先端からは、手品さながらに花束が突きだしていた。
+While I thought whether he'd ejaculate, from the pointed tip of Sakuraba's Charged Particle Cannon (self-named) out blows a bundle of flowers, as in a magician's trick.
+//Yutaka's fallen down the stairs, he thought he was dead, but whoops, he just hurt his leg and lost his memories. And here's die Zubkonshous cenZoring it. -GHSigmund
+TP
+
+
+
+//ああ。
+Aw.
+TP
+
+
+
+//なんて悪趣味な展開なんだ。
+What a development in bad taste.
+TP
+
+GL 5 bgcc0000d
+GS 0 0
+GS 1 0
+GS 5 1
+SEF 109 0
+//HACK fade to black -GHS
+
+//目を覆う。
+I cover my eyes.
+TP
+WVS 1 1
+
+
+GL 0 bgcc0003
+GS 0 1
+GS 1 0
+GS 5 0
+SEF 109 0
+//HACK return -GHS
+
+
+//そこで目が覚めた。
+And that was when I was awake.
+//Literally means to just wake up, of course; but the kanji for "eye" and the one usually used in the verb "memorise" are of course pointers to major portions of the story. Stuff like "I remembered my eyes" sounds too silly, besides being technically incorrect, and this kind of sentence is too minor for that kind of overadaptation anyway, so I'm going with something that just sounds a little off. -GHS
+TP
+
+
+
+
+//太一「……シュールすぎる」
+Taichi: "...way too surreal."
+TP
+
+
+
+//だいたいあいつに、人を押し倒す度胸なんてあるはずないのだ。
+Besides, I wouldn't expect that guy to have the pluck to push himself on somebody.
+//See CCA0011A. -GHS
+TP
+
+
+
+//気弱なお坊ちゃんなのだ。
+He's a fainthearted obou-chan.
+//His molestations towards the ojou-san would get punished by her male counterpart, even if it's in a double-nested dream. -GHS
+TP
+
+
+
+//どうせなら見里先輩に逆レイプされる夢ならよかったのに。
+But if I have to have one, I wish it was a dream where I'm reverse-raped by Misato-senpai.
+//This was before the nickname then? But so was CCA0027, which is odd. -GHS
+TP
+
+
+
+
+WVP 0 vfcca0013msa000
+//見里『……こんなに大きくなってしまう悪いお肉には、この鞭でたっぷりとおしおきしなければいけませんね！』
+Misato 『...this nasty little meat has gotten so very big, that I cannot but punish it most thoroughly with this whip!』
+//Miyasumi Misato is dead. Witness the birth of rape demon Misato!!! Seriously, Misato the Rape Demon just doesn't work. Except, thematically... -GHS
+TP
+
+
+
+
+//素敵すぎる……。
+Way too awesome...
+TP
+
+
+
+//うっとりしながら着替えた。
+I change my clothes while still spellbound.
+TP
+
+
+
+
+
+GL 0 bgcc0004
+GS 0 1
+SEF 152 0
+WVP 1 bgm002.ogg 0 0 0
+//HACK started song earlier again. -GHS
+
+//朝食が用意してある。
+Breakfast had been prepared,
+TP
+
+
+
+//メモもあった。
+and there was also a note.
+TP
+
+
+
+
+//『しっかり食べて行ってらっしゃい』
+> 
+ 
+            『Eat properly and have a nice day』
+//This is likely intended to fit with the passive-aggressive, weirdly written notes by Youko. Pretty interesting that the two would share this habit. Well, more like convenient to the point of it being inordinately suspicious. -GHS
+TP
+
+
+
+
+//美人でキャリアな睦美おばさんは、料理もうまい。
+Beautiful career woman Mutsumi-obasan is also good at cooking.
+TP
+
+
+
+//忙しくて家にはほとんどいないけど。
+She's so busy that she's almost never home, though.
+//This is pretty normal in Japan; not for the host families of a know psychopath, however. -GHS
+TP
+
+
+
+//頭が下がる。
+I bow my head to that.
+TP
+
+
+
+//お言葉に甘えて、分厚いサンドイッチを野菜ジュースで流し込んだ。
+Presuming upon her kind offer, I wash down a thick sandwich with some vegetable juice.
+//Wait a second 分厚い !!!MUTSUMI'S SANDWICHES ARE SAKAKIBARA'S DIARY AND HE JUST ATE THEM NOOOOOO!!! but seriously, Mutsumi's sandwiches seem few, while Youko's many. She also doesn't provide drinks, meaning CCA0004 should be Youko, again making sense of him visiting Tasaki. -GHS
+TP
+
+
+
+//時間がない。
+I don't have time.
+//But he wakes up so regularly, and Yusa's just about to leave...? -GHS
+TP
+
+
+
+//残りはラップに包んでポケットに入れた。
+I pack back the leftovers in the wrapping and put them into my pocket.
+//No bag, few leftovers. -GHS
+TP
+
+
+
+//途中で食べていこう。
+I'll eat on the way.
+TP
+
+
+
+
+GL 0 bgcc0002
+GS 0 1
+SEF 152 0
+
+//さんさんと自己主張する日差し。
+//The rays of the sun assert themselves with a sun-sun, due to the fact of Japan.
+The rays of the sun assert themselves with brilliance.
+TP
+
+
+
+//朝からこれだ。
+This starts all the way from morning.
+TP
+
+
+
+//気が滅入る。
+I feel depressed.
+//Here I got nothing. Maybe he just hates the sunlight. I sure do *current time 2AM* -GHS
+TP
+
+
+
+
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+
+//しばらく歩いていると、
+And after I've been walking for a while,
+TP
+
+
+
+WVP 0 vmcca0013sku002
+//桜庭「あぎゃらおーーーーーーーーっ！！」
+Sakuraba: "Ah'gyarooooooooow!!!"
+//8xー -GHS
+TP
+
+
+
+//桜庭の悲鳴だ。
+That's Sakuraba's scream.
+TP
+
+//わりと近い。
+It's relatively near.
+TP
+WVP 2 se102 1 0
+
+
+
+//犬の吠え声と、悲鳴がさらに重なる。
+The howl of a dog further overlaps the scream.
+TP
+WVS 2 1
+
+
+//遠ざかっていく。
+And then they fade away.
+TP
+
+
+
+//太一「なるほど……」
+Taichi: "I get it..."
+TP
+
+
+
+//得心した。
+I was satisfied.
+//The puzzle solved, he loses interest. -GHS
+TP
+
+
+
+//と、そこに―――
+Then, right there---
+TP
+GL 2 tcdy0003
+GP 2 240 0
+GS 2 1
+SEF 109 0
+
+WVP 0 vfcca0013ysa000
+//少女「はれ？　太一さん？」
+Girl: "Oh my? Taichi-san?"
+//Oddly, not Senpai. He probable talked her into this. -GHS
+TP
+
+
+
+//太一「おはよう」
+Taichi: "'Morning."
+TP
+
+
+GL 2 tcdy0001
+GI 2 0
+
+WVP 0 vfcca0013ysa001
+//少女「あ、おはようですっ」
+Girl: "Ah, good morning, yes!"
+TP
+
+
+
+//ぺこりと頭を下げる。
+She bows her head with a sharp bob.
+TP
+
+
+
+//近所に住む美少女の遊紗ちゃん。
+This is Yusa-chan, the beautiful young girl that leaves near me.
+//She lives on the other side of the road from him, technically. For the curious, she dropped the second 'u' because when she transferred from Upper Misaka she decided to eliminate all 'u'gly things (sorry, but the Higurashi joke is irresistible). -GHS
+TP
+
+
+
+//上見坂いい街。
+Nice town Kamisaka.
+TP
+
+
+
+//説明不要なほど可愛い遊紗ちゃんの、両手にカレーパンが揺れていた。
+Yusa-chan, so cute it doesn't require exposition, held a loaf of curry bread swaying in her hands.
+//Someone seems tired of exposition... anyway, Yusa is holding Christianity in her hands, and as for its swaying, see below. -GHS
+TP
+
+
+GO 2 1
+//HACK remove doll as per console version -GHS
+
+
+//二人で並んで歩き出す。
+The two of us line up and set out to walk.
+TP
+
+
+
+//別に今日にはじまったことでもない。
+It's not really something that began today,
+//Trollsplanation as to why this didn't happen the day before. -GHS
+TP
+
+
+
+//なにせ同じ学校に向かうのだから。
+it's because the two of us are going towards the same school anyway.
+TP
+
+
+
+//後ろから、『い゛っでら゛っしゃーい！！』というハスキーな声が聞こえた。
+From behind us I could hear a 『Habe a nice daaaaaaaay!』 in a husky voice.
+TP
+
+
+
+//遊紗ちゃんの母君だ。
+That is Yusa-chan's mother.
+//Somewhat polite, though not haha-ue-sama. First-time readers could be thinking that she is the one making him dinner. -GHS
+TP
+
+
+
+//ちょっと重くていらっしゃる。
+She's sort on the heavy side,
+//Suuuper important. -GHS
+TP
+
+
+
+//が、毎日楽しそうに生きておられるから、よしとしよう。
+but it's all fine, since she lets me have something enjoyable every day.
+//Same as above, the food, not just Yusa. -GHS
+TP
+
+
+
+//平凡な家庭に生まれた美少女。
+A beautiful girl that was born to a family this mediocre...
+TP
+
+
+
+//ただ一つ難点があるとすれば、世間を知らなすぎること。
+If I had to find a just one blemish in her, it'd be that she is completely clueless of all things worldly.
+TP
+
+
+
+//そんな遊紗ちゃんの、異性の先輩として一番身近な俺に課せられた責任は小さくない。
+As the most familiar Senpai of opposite sex to little Yusa-chan, the responsibility given me is no little thing.
+TP
+
+
+
+WVP 0 vfcca0013ysa002
+//遊紗「いってきまーす！」
+Yusa: "I am going ooout!"
+TP
+
+
+
+//手を振り返す、その顔に反抗期の陰もなく。
+She returns a wave of the hand, on her face not a shadow of that rebellious age.
+//As in adolescence. -GHS
+TP
+
+
+
+//どころか、第一次性徴さえまだなのではないかと思われる節もある。
+Far from it, as it appears we're also at a time where even her primary sexual characteristics might not be there yet.
+//As in adolescence. -GHS
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode. This is actually always left split in all version, which is just... wow, what the hell were they thinking?! This is Taichi's superficial mud-throwing in a single sentence! -GHS
+
+//この真っ白なキャンバスを俺色に染めあげたいと思ってしまうのは男として至極当然のことだが中等コースの一年で身長は前から三番目で憶えたての敬語がたどたどしくも初々しい遊紗ちゃんの純正は宝石にも増して煌びやかで我が妄想も汚すか否かの瀬戸際でいつも切なげかつ悩ましげに揺れているのであるがその反復思考自体すでにペド狂人のものであるという自覚はある。あるんだってば
+> 
+ 
+Regardless of how the want to thoroughly dye a
+snow white canvas of one's rough color is a most
+thoroughly natural thing to have for a man We
+are however conscious that repeatedly experiencing
+thoughts that endlessly sway with ardentness and
+furthermore seductiveness on the brink of whether
+to also stain with Our delusions the purity of a
+dazzle so far greater than a precious gem's that
+is possessed by this innocent third-tallest first
+year middle-grade dish so faltering in remembering
+her keigo named Yusa-chan or to refrain from such
+is itself something that more pertains to a crazed
+pedophile.
+//This is the longest single-sentence line in the VN, in both languages. The meaning? "I'm not sure if I wanna rape her in my mind". Yeah, this one is style with little substance, though considering Taichi, that his thoughts are swaying at all is interesting.
+//See CCC0000 for the filthying thing, of course it's sexual but considering the Pattern, it's still very specific. 'Course' is also technically innocent, but given the devouring he'll be (trying to?) do later, putting a suspicious-sounding 'dish' in there for good measure. Majestic plural because he's the Prince of Atlantis. And most interesting of all, those delusions of his. Is he confirming the sex scenes are just his delusions? -GHS
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+Seriously, We are.
+//Moved it here, better effect. -GHS
+TP
+
+//ま、とにかく揺れているのだ。
+Well, for now they're swaying.
+TP
+
+
+//そう、遊紗ちゃんが手に持つカレーパンの袋のように。
+Yes, just like that bag of curry bread that Yusa-chan has in her hands.
+//His sexual delusions are swaying just like the symbol of Christianity held by a pure child that is actually quite filthy inside. Pshaw, Cross Channel is so obvious. -GHS
+TP
+
+
+//太一「カレーパンだね」
+Taichi: "Isn't that curry bread?"
+TP
+
+GL 2 tcdy0000
+//GI 2 0
+GI 2 1
+//HACK make the doll fade in instead of snapping in -GHS
+WVP 0 vfcca0013ysa003
+//遊紗「です」
+Yusa: "It is!"
+TP
+
+
+//歩くたびに前後にゆらゆら揺れる。
+With each step a sway, back and forth, back and forth.
+//Thought and bread. -GHS
+TP
+
+
+//両手を幽霊みたいに掲げて、誇示するかのように進む。
+As if being cradled by a ghost, the sway nothing but a manifestation of its existence.
+//Still about the sway of the bread AND his thoughts. The ghost is Nanaka, the Holy Spirit, who is hinting that his delusions are uhm, no, wait, Nanaka IS in his delusions so the two sway the same, though if there's a sway you gotta bring in Youko, because the sway gotta be between two points right?, so it's between Youko and Nanaka (Eve and Mary in Christian symbolism), whether Youko exists or not, which is another loaf of bread. Uhm, horrid sex joke that implies overfamiliarity with rape nukige here. -GHS
+TP
+
+
+//太一「それは……朝食？」
+Taichi: "Is that... breakfast?"
+TP
+
+
+GL 2 tcdy0003
+GI 2 0
+
+WVP 0 vfcca0013ysa004
+//遊紗「あの、さっきそこに桜庭さんがいて」
+Yusa: "Uhm, Sakuraba-san was there earlier."
+TP
+
+
+//太一「うん、いたね」
+Taichi: "Yep, was is the word."
+TP
+GL 2 tcdy0000
+GI 2 0
+
+
+WVP 0 vfcca0013ysa005
+//遊紗「会いましたか？」
+Yusa: "Did you meet him?"
+TP
+
+
+//太一「いや、形跡があった」
+Taichi: "No, there was some evidence left."
+TP
+
+GL 2 tcdy0003
+GI 2 0
+
+WVP 0 vfcca0013ysa006
+//遊紗「けいせき？」
+Yusa: "Evidence?"
+TP
+
+
+//太一「ま、俺が来たときにはいなかったけど」
+Taichi: "Well, by the time I came around he wasn't among us anymore."
+//Ah, what a world of difference a bit of tone makes. -GHS
+TP
+
+GL 2 tcdy0001
+GI 2 0
+
+WVP 0 vfcca0013ysa007
+//遊紗「困っちゃいました」
+Yusa: "Oh, what a problem."
+TP
+
+GL 2 tcdy0000
+GI 2 0
+
+WVP 0 vfcca0013ysa008
+//遊紗「カレーパンあげようと思ったのですけど」
+Yusa: "I thought I would give him this curry bread."
+TP
+
+
+//餌付けしようとしてたらしい。
+Seems like she was going to feed the wild animal to train it to human contact.
+//More importantly, Yusa is already learning to (over) feed people, like her own mother, who is the likely source of the bread anyway. -GHS
+TP
+
+
+//太一「あいつ、コンバットに嫌われてるからさ」
+Taichi: "It's because Combat hates that guy."
+TP
+GL 2 tcdy0003
+GI 2 0
+
+
+WVP 0 vfcca0013ysa009
+//遊紗「吉田さんちの猛犬コンバットですね」
+Yusa: "That ferocious dog Combat, at Yoshida-san's house?"
+TP
+
+
+//太一「やつは凄いぞ。自力で鎖の繋がった楔を引き抜くことができる」
+Taichi: "That guy's awesome. He can uproot the wedge where his chain is fastened on his own."
+//With the chain and all. Keep this absolutely irrelevant detail about an absolutely irrelevant non-character that is only ever mentioned two more times in the entire VN well in mind. -GHS
+TP
+
+
+//太一「外出したい時に出ていき、戻りたい時に戻るのだ」
+Taichi: "When that guy wants to leave he leaves, when he wants to return he returns."
+//This and what follows is pretty much a description of Taichi. -GHS
+TP
+GL 2 tcdy0000
+GI 2 0
+
+
+WVP 0 vfcca0013ysa010
+//遊紗「コンバットは一般のひとは攻撃しませんよ」
+Yusa: "But Combat doesn't normally attack people!"
+TP
+
+
+//太一「本物の極道ってのはそういうものさ」
+Taichi: "And a true gangster is exactly that sort."
+//Gokudou is also a cinema genre in Japan. More material for the Settei, I guess. -GHS
+TP
+GL 2 tcdy0003
+GI 2 0
+
+
+WVP 0 vfcca0013ysa011
+//遊紗「ごくどう……だったのか……」
+Yusa: "True... gangster...?"
+TP
+
+
+//太一「今は恰幅が良くなってしまったが、奴には軍人の血が流れてるからな」
+Taichi: "Today his physique has improved, but the blood of soldiers flows inside that guy."
+//Because he ate soldiers and his owner is Adolph Hitler. Waitasec oh crap I can't find the name of Marmaduke's owners in Japanese... whoa I just realized what I was trying to do, NVM. -GHS
+TP
+
+
+//太一「人間で言えば、戦争帰りの古き良き親分といったところか」
+Taichi: "To put it in human terms, I'd say he's sort of like a good ol' criminal boss having returned home from the war."
+//IOW, it's Taichi. -GHS
+TP
+
+
+
+//太一「しかし桜庭にだけは攻撃をする」
+Taichi: "Yet he only ever attacks Sakuraba."
+TP
+
+
+
+WVP 0 vfcca0013ysa012
+//遊紗「不思議です」
+Yusa: "That's inexplicable."
+TP
+
+
+
+//太一「不思議だねぇ」
+Taichi: "Inexplicable it is."
+//Maybe Sakuraba should not try to push him down wailing "a dog is fine too! it's contraceptive!". -GHS
+TP
+
+
+
+//ゆったりとしたペースで歩く。
+We walk at a leisurely pace.
+//Weren't they nearly late? -GHS
+TP
+
+
+
+GL 2 tcdy0000
+GI 2 0
+WVP 0 vfcca0013ysa013
+//遊紗「これどうしたら……」
+Yusa: "What will I do with this..."
+TP
+
+
+
+WVP 0 vfcca0013ysa014
+//遊紗「おなか、すいてますか？」
+Yusa: "Would you be hungry, maybe?"
+TP
+
+
+
+//太一「一個ずつ食べようか？」
+Taichi: "Wanna eat half each?"
+//And his sandwich...? -GHS
+TP
+
+
+
+GL 2 tcdy0001
+GI 2 0
+WVP 0 vfcca0013ysa015
+//遊紗「はい」
+Yusa: "Yes!"
+TP
+
+
+
+//二人でカレーパンを食べた。
+The two of us ate the curry bread.
+//No protests? Shouldn't be the bread from the cafeteria then. -GHS
+TP
+
+
+
+//太一「ガッコー慣れた？」
+Taichi: "You fitting in at school?"
+TP
+
+
+GL 2 tcdy0000
+GI 2 0
+
+WVP 0 vfcca0013ysa016
+//遊紗「まだちょっと」
+Yusa: "Well, a bit."
+//No definite "yes". -GHS
+TP
+
+
+
+//太一「いじめは？」
+Taichi: "Bullying?"
+TP
+
+
+
+GL 2 tcdy0001
+GI 2 0
+WVP 0 vfcca0013ysa017
+//遊紗「全然ないんです！　よかったですー！」
+Yusa: "None there is none! I'm so lucky!"
+//Conversely, an oddly direct straightforward answer. She might be lying through her teeth. -GHS
+TP
+
+
+
+//太一「だろうねぇ」
+Taichi: "Ain't that nice."
+TP
+
+
+
+//天下群青学院。群青上等である。
+Gunjou Institute the lone in the world. A first-rate Gunjou this is.
+//Should be a reference to how what we just saw was part of Yusa's ultramarine... -GHS
+TP
+
+
+
+//太一「もし何かあったら、あたしには高等コースに知り合いがいっぱいいるんですますー、とか言って牽制してやりたまえ」
+Taichi: "If anything bad happens, gladden me by feinting with something like, 'I know a looot of people in classes above that will payback you!'."
+//...odd he'd give this suggestion otherwise, since according to CCC3007, there's no bullying. I'm sure what the Newspaper Club did to Sakuraba in CCA0002 wasn't bullying either, nor is what Taichi does bullying at all, and not just according to Kiri, although I would suspect shooting upperclassmen with crossbows is sort of a bullying, in a sense. IOW, it's a load. -GHS
+TP
+
+
+GL 2 tcdy0001
+GI 2 0
+
+WVP 0 vfcca0013ysa018
+//遊紗「はい」
+Yusa: "Yes!"
+TP
+
+
+
+//超嬉しそう。
+She looks hyper happy.
+TP
+
+
+
+GL 2 tcdy0003
+GI 2 0
+WVP 0 vfcca0013ysa019
+//遊紗「もう、ですます、とか言いませんけど……」
+Yusa: "But really, I don't say things like 'will payback you'..."
+//"De sumasu" means sort of what I adapted above, while "-desumasu" tossed at the end of the sentence sounds like a really bad moe affectation. See CCC4022 when it returns, copied off by Miki, so it's gotta be visible. Given below and how she phrases it, I suspect this was got her bullied. Also see CCD0008D, when he teases Touko on her own affectations, which she never come up either. Although not visible here, he also used 'atashi' in the sentence above, which isn't the pronoun Yusa uses. -GHS
+TP
+
+
+
+//照れる。
+Shyness.
+TP
+
+
+
+//太一「はっはっは」
+Taichi: "Hah hah hah!"
+TP
+
+
+
+//昔ちょっとからかったのを根に持ってるな。
+There's this resentfulness due to having been bullied some time ago.
+//That "long ago" will soon mean "the Hasekura incident", meaning this is Taichi equally as Yusa. It's half the explanation for his grudge against Yutaka. Culprit vague even if it wasn't, as Yusa may well have been bullied (and likely still is) by others, at the very least back when she had taken the test, as Kiri and Touko were. -GHS
+TP
+
+
+
+//太一「担任は榊原先生だっけ？」
+Taichi: "Homeroom teacher's Sakakibara-sensei, right?"
+//Oddly enough, although 榊 looks like tree-altar-humbly say in most fonts I tried, it's actually written tree-god (which is what it means). This threw me off, as in the console versions that's much more obvious. -GHS
+TP
+
+
+GL 2 tcdy0000
+GI 2 0
+
+WVP 0 vfcca0013ysa020
+//遊紗「はい」
+Yusa: "Yes."
+TP
+
+
+
+//太一「いい先生だよ。君はついてる」
+Taichi: "He's a good teacher! You're in luck."
+TP
+
+
+
+//趣味は美少女フィギュアとちょっと終わりかけだが。
+Hobby's Bishoujo Figurines so he's sorta near the end, tho.
+//And maybe that's why he chuunis in the diary (that's not grammatically incorrect, chuuni is a verb I've decided now). -GHS
+TP
+
+
+GL 2 tcdy0001
+GI 2 0
+
+WVP 0 vfcca0013ysa021
+//遊紗「あはあは、どーも」
+Yusa: "Ahah ahah, thanks!"
+TP
+
+
+
+GL 2 tcdy0000
+GI 2 0
+WVP 0 vfcca0013ysa022
+//遊紗「……クラスのみんなも一生懸命生きてて、わたし楽しいです」
+Yusa: "...everybody in my class gives it all they have, so they can have fun with me!"
+//"everybody in class is living to their hardest, so I enjoy myself" + "everybody in class is doing their damnest to make fun of me". -GHS
+TP
+
+
+
+//太一「そっか」
+Taichi: "Do they now."
+TP
+
+
+
+WVP 0 vfcca0013ysa023
+//遊紗「おかーさんもいてくれるし」
+Yusa: "Mommy's also always trying to help me."
+//Overprotective, LOUD, plays favorite, works at the cafeteria where the meal tickets are limited... -GHS
+TP
+
+
+
+//太一「だな」
+Taichi: "Isn't she."
+TP
+
+
+
+//太一「いざとなったらあの人が出張るか。いや遊紗ちゃん、きみの生活安泰だ」
+Taichi: Ah, but when things get tough that woman truly stands out. Well, Yusa-chan, yours is a life of peace!"
+//fat joke^2, that hides how her mom is not exactly a subtle presence at Gunjou. -GHS
+TP
+
+
+GL 2 tcdy0000
+GI 2 0
+
+WVP 0 vfcca0013ysa024
+//遊紗「それと……あの……」
+Yusa: "And then... uhm..."
+TP
+
+
+
+//太一「ん？」
+Taichi: "Hm?"
+TP
+
+
+
+WVP 0 vfcca0013ysa025
+//遊紗「先生が、交換日記しろって」
+Yusa: "The teacher had us do exchange diaries..."
+TP
+
+
+
+//太一「そんな授業あったなあ、昔」
+Taichi: "I had that too class too, long ago."
+//Definitely why he keeps the diary. Odd 'long ago' now. -GHS
+TP
+
+
+
+//交流ＨＲだっけ。
+Homeroom Exchange, was it.
+TP
+
+
+
+//太一「俺、クラスであぶれちゃってさ、高等コースの人とやったよ」
+Taichi: "Me, I didn't really find anyone in my class, so I did it with someone from a higher grade."
+//He had this in first year middle school, possibly second, meaning the upperclassman was Youko. Who might not exist. Not that Sakakibara would care, if only because he's chuunin' it like nobody's business with those figurines, at least. Alternative is that he did this in third year with Misato, but that's a little odd given that's just the previous year, even considering how Taichi's memories and sense of time are not exactly reliable. -GHS
+TP
+
+
+
+GL 2 tcdy0001
+GI 2 0
+WVP 0 vfcca0013ysa026
+//遊紗「あ、わたしもあぶれました」
+Yusa: "Ah, I did not find anyone either!"
+//With everyone having sooo much fun in her class? -GHS
+TP
+
+
+
+//太一「え？」
+Taichi: "Eh?"
+TP
+
+
+GL 2 tcdy0000
+GI 2 0
+
+WVP 0 vfcca0013ysa027
+//遊紗「うち、奇数なんで」
+Yusa: "We are an odd number in class."
+//That's not an explanation. Anyone could've been left out. -GHS
+TP
+
+
+
+//太一「ああ……じゃ先生と？」
+Taichi: "Ahhh... so, how about the teacher?"
+TP
+
+
+
+WVP 0 vfcca0013ysa028
+//遊紗「いえ、あの、それでです」
+Yusa: "No, see, it is this here."
+TP
+
+
+
+//鞄の中から、ごそごそとノートを取り出す。
+With a rustling, she takes out a notebook from inside her bag.
+//She doesn't use it as padding. Yes, the Signature Exchange Diary is very similar to this. -GHS
+TP
+
+
+
+WVP 0 vfcca0013ysa029
+//遊紗「太一さんに、お願いできませんか？」
+Yusa: "Taichi-san, couldn't I entrust you with this?"
+TP
+
+
+
+//カラフルグリーンのノート。
+A neon-green notebook,
+TP
+
+//ほのかにミントの香り。
+a faint scent of mint.
+//Mint returns. Taichi seems to really like it, the smell fetishist. -GHS
+TP
+
+
+
+//太一「よし、やろう！」
+Taichi: "Yeah! I'll do it!"
+TP
+
+
+
+//両拳を突きあげて叫ぶ。
+I shout with both fists thrust in the air.
+TP
+
+
+GL 2 tcdy0004
+GI 2 0
+WVP 0 vfcca0013ysa030
+//遊紗「……」
+Yusa: "..."
+TP
+
+
+
+//太一「どうしたのだ、娘」
+Taichi: "What's the problem, little girl?"
+//There goes the Prince of Atlantis... -GHS
+TP
+
+
+
+WVP 0 vfcca0013ysa031
+//遊紗「は、え、あの……いいんですか？　もっとよく考えなくて？」
+Yusa: "Ah, eh, uhm... is this alright? You don't want to think on this more?"
+//More suspect: she does NOT expect him to do this, i.e., she reflexively expects him to reject her. She expects him to not like her, or at least, to only tolerate her. This is a fixed behavior that speaks of past traumas. -GHS
+TP
+
+
+
+//太一「無論だ」
+Taichi: "Unnecessary."
+TP
+
+
+
+WVP 0 vfcca0013ysa032
+//遊紗「あっさり……」
+Yusa: "So quickly..."
+//She absolutely expected to have to try to convince him, and likely to fail. -GHS
+TP
+
+
+
+//太一「そのノートが日記？　もう第一回目は書いてあるの？」
+Taichi: "This notebook is the diary? You already wrote the first entry, right?"
+//Because he uses Bulky Diary Notebooks of suspect consequences now...? -GHS
+TP
+
+
+
+GL 2 tcdy0000
+GI 2 0
+WVP 0 vfcca0013ysa033
+//遊紗「は、はい、いろいろと」
+Yusa: "Ah, yes! About lots and lots."
+TP
+
+
+
+//太一「いろいろと？」
+Taichi: "Lots and lots?"
+TP
+
+
+
+//性徴未満の美少女のいろいろ。
+The lots and lots of a pretty girl with insufficient sexual characteristics.
+TP
+
+
+
+//この駄目な単語の並び方が、俺をたやすく狂わせる。
+This really bad sequence of words easily drives me mad.
+TP
+
+
+
+//だが遊紗ちゃんの前では、少しでも格好をつけて好かれなくては。
+But in front of Yusa-chan I must put up a front, even if only a little bit, so as not to be disliked.
+//See CCD1001B for the exact nuance. THIS is what she's about to react to! -GHS
+TP
+
+//名付けて理性背水の陣である。
+The name I give to it is, The Waterloo of Rationality.
+TP
+
+
+
+//太一「それは楽しみだね」
+Taichi: "I'm looking forwards to that!"
+TP
+
+
+
+//前髪を『ふぁさぁっ』と払う。
+I sweep my bangs with a 'fwasah'.
+//The sound of the wind. Damn I regret not using that 'bluffing'. -GHS
+TP
+
+
+
+//少女のまなざしがじっと我が白髪に注がれる。
+The maiden's gaping pours fixed on Our snowy mane.
+//Hideously purple. Remember CCA0012; purple = nukige. This is NOT going to make him look cooler if she gets him, and she does! -GHS
+TP
+
+
+
+//気がつくと、よく顔やら髪やらを見られている。
+When I come to notice, my hair or maybe my face were stared at intently.
+//Shift is intentional. Notice the apparent redundancy: that "when I come to notice" is nearly commented on in CCX0001, meaning he just gotten off automation. Was she actually looking at him in the previous sentence? Certainly, she is looking at how odd he must be looking at this moment. -GHS
+TP
+
+
+
+//そういえば以前、コ○ルトな小説に出てくる王子様が確か白髪の美形だったとか。
+Now that I think of it, there was once a prince that appeared in a Co**lt novel that I'm sure was handsome despite his snow-white hair.
+//Want to 'censor' it as C****t, but it obviously reads cunt. I know it's three and a half letters too many, but most people can't count. Hum, a certain Yoshida Midori is published under them... -GHS
+TP
+
+
+
+//熱く語っていた。
+So much passion around that one.
+//"She told me all excited" (she reads the novels, see CCA0020) + "he spoke passionately" + "the tale was passionate". Besides -GHS
+TP
+
+
+
+//してみると俺は、王子様とイメージしているのだろうか。
+Well then, I should have that same princely image myself, right?
+//Depression as he knows his facade won't work. But what could Yusa be thinking of this? -GHS
+TP
+
+
+
+//だったらいいなぁ……。
+That'd be great wouldn't it...
+TP
+
+
+
+//いや……顔がさ……ダメじゃん……。
+Naaah... with my face... ain't happening...
+TP
+
+
+
+//所詮は願望に過ぎない。
+In the end, this'll never be more than a wish of mine.
+TP
+
+
+
+GL 2 tcdy0003
+GI 2 0
+WVP 0 vfcca0013ysa034
+//遊紗「ちょっと恥ずかしいです……」
+Yusa: "It is a bit embarrassing..."
+//The entries, or what he's doing? -GHS
+TP
+
+
+
+//太一「真面目に書いたことを笑ったりしないよ」
+Taichi: "I would never laugh about things written seriously!"
+TP
+
+
+GL 2 tcdy0001
+GI 2 0
+
+WVP 0 vfcca0013ysa035
+//遊紗「……」
+Yusa: "..."
+TP
+
+
+
+//お、今のはポイント高かったんじゃないか？
+Oh, this one was worth lots of points wasn't it?
+TP
+
+
+
+//美希では耳年増にさせすぎてちょっと失敗したからな。
+I made Miki too much of a mimidoshima, gave her too much superficial knowledge about the world, so I sorta failed that one.
+//Crap, doesn't google. Since Miki takes Taichi's chuuni altogether too seriously, this is very important. -GHS
+TP
+
+//俺の底も割れてしまったし。
+She quickly split through my actions and found the real motives on the bottom.
+//Visuals. OK, Miki splitting Taichi's bottom may not be the best, but at least it's not yet jokes about Taichi's inevitable yearning for the curry filling of Sakuraba's br-GHS
+TP
+
+
+
+//今じゃただの遊び相手と化してしまった。
+And now, I've been turned into just her playmate.
+//遊 vs 遊紗, not played too hard (see CCA0027), but there it is. More importantly it's again how Miki's seen through his chuuni stuff and is playing with him. And more of what a Great Experiment and Evil and Stuff he's performing on people, although if one takes Miki to be  -GHS
+TP
+
+
+
+//シット！
+Fuck!
+//ner. No, seriously, original can also mean "I'm so jealous" pretty much as obviously as "fuck" here can mean "I wanted to have actual sex with her". -GHS
+TP
+
+
+
+//思い返せば返すほど惜しいぜ！
+If I return my thoughts on that, my regret will be proportional to that return!
+//Not only does it merge with the 'jealousy' thing (Miki was NTR'd by Kiri), but it's also well into the theme of memories. The more he remembers... -GHS
+TP
+
+
+
+//今度こそうまくやって、あわよくば据え膳の美処女だ（意味不明）。
+But this time I swear I'll make it go well, and with luck, it'll end up as a full-course feast of the overtures of a beautiful maiden with emphasis on the maiden (meaning unclear).
+//Term means both "women's advances" and "meal set before me", see CCD0021. The "make things go well" is just the cherry on top. Meaning clarified! -GHS
+TP
+
+
+
+//理性理性、紳士紳士。
+Rationality, rationality! Gentlemanly, gentlemanly!
+//The mask, such as it is, is slipping. -GHS
+TP
+
+
+
+//太一「それ、受け取ってもいいかい、フロイライン？」
+Taichi: "Then is it fine if I take this, fr{a}ulein?"
+//More formal than his average, but not purple. -GHS
+TP
+
+
+
+GL 2 tcdy0003
+GI 2 0
+WVP 0 vfcca0013ysa036
+//遊紗「風呂いらいん？」
+Yusa: "Frow line?"
+//See CCD4003. Original means "does not take baths". Only really plays in that one script, though Taichi being dirty will be a running gag. -GHS
+TP
+
+
+
+//太一「サマーウップス」
+Taichi: "Summer Whoops."
+TP
+
+
+
+//つい難しい単語を使ってしまった自分に対し、常夏仕様で戒めの言葉を吐いた。
+I spat out words of admonishment with Everlasting Summer specs towards my self who unconsciously made use of a difficult word.
+//Specs/way, see CCX0001. Yeah, OMFG HARD KANJI's: The Sentence. The time loop is the eternal reward for him spewing this kind of sewage unconsciously: he knows. Term turns up in the Tale of Genji too, so see CCA0020. -GHS
+TP
+
+
+
+//太一「可愛いお嬢さんってことさ」
+Taichi: "That means a cute young lady."
+TP
+
+
+
+//少女の涙を優しくぬぐう。
+Gently the girl's tears get wiped off.
+//Intentionally ambiguous. -GHS
+TP
+
+
+
+GL 2 tcdy0000
+GI 2 0
+WVP 0 vfcca0013ysa037
+//遊紗「どうしたんです？　わたしの目になにかついてましたか？」
+Yusa: "What is it? Was there something in my eyes?"
+//Rev 21:4. He may have a really big trunk in his eyes, but... -GHS
+TP
+
+
+
+//泣いてなかった。
+She wasn't crying.
+TP
+
+
+
+//太一「愛しいお嬢さんってことさ」
+Taichi: "It means a lovable young lady."
+//Still that frow line. Pattern Interruptus, he's skipping. *record scratch* that means computers with chuuni MWI act like records! -GHS
+TP
+
+
+
+WVP 0 vfcca0013ysa038
+//遊紗「え……」
+Yusa: "Eh..."
+TP
+
+
+
+//平然と仕切り直す俺。
+I calmly restore our boundaries.
+//He knows he went too far. -GHS
+TP
+
+
+
+//遊紗ちゃんの顔から、洗い落としたように表情が消えた。
+Expressions vanished from Yusa-chan's face as if washed off.
+//And not after he touches her with obviously incoherent and certainly impure thoughts, but after he withdraws from that instead of going all the way through with what he wanted to...
+TP
+
+
+
+//そして薔薇が咲き誇るほどに赤々とした羞恥の色に―――染まらず、
+And then, the color of embarrassment that is as red as a rose in the full of its bloom dyed her face--- naught.
+//Purple and silly. -GHS
+TP
+
+
+
+WVP 0 vfcca0013ysa039
+//遊紗「ぐじゅんっ！！」
+Yusa: "Bwakhaah!"
+//Ah, there's the Sneeze That Means Stuff. ぐじゅん gujun literally means "stupid/dumb", and is written with the kanjis 愚 foolish and 純 pure. The timing puts this as an allergic reaction to Taichi. Now it's BAKAAA because Japaneyse translations-desu. See CCC0025 for the reading key. -GHS
+GO 2 0
+SEF 101 0
+TP
+
+
+
+//くしゃみをした。
+Out came a sneeze,
+//くしゃみ kushami, sneeze, reminds sort of gujun, doesn't it? That's the coverup. This is intended to not be looked at seriously without the reading key. -GHS
+TP
+
+//濁ったくしゃみだった。
+a dirty, soiling sneeze.
+TP
+
+
+
+WVP 0 vfcca0013ysa040
+//遊紗「あ、ごめんらはい……ぁ」
+Yusa: "Ah, shorry... ah!"
+TP
+
+
+
+//最後の『ぁ』は敏感な部分を擦られてついつい漏らした桃色清純吐息では断じてない。
+The peach-pink purity-tinged sigh that one unconsciously vents on rubbing the sensitive parts had absolutely nothing in common with that last 'ah'.
+TP
+
+
+
+//彼女の目が、あるものを注視したためにこぼれた、小さな驚きだった。
+It was a tiny exclamation of surprise caused by the subject of the girl's fixed gaze.
+TP
+
+
+
+
+//俺と遊紗ちゃんの間に、橋がかかっている。
+The gap between me and Yusa-chan was spanned by a bridge.
+TP
+
+
+
+
+//片方は俺の制服の、ちょうど腹部あたり。
+One side was on my uniform, in the precise middle of my abdomen,
+//Right above his dick. -GHS
+TP
+
+//もう片方は、遊紗ちゃんの鼻。
+the other side on Yusa-chan's nose.
+TP
+
+
+
+//つまり。
+In short,
+TP
+
+
+
+WVP 0 vfcca0013ysa041
+//遊紗「は、はれ？」
+Yusa: "Wha, whaD?"
+//Clogged nose. -GHS
+TP
+
+
+
+
+//鼻汁橋できた。
+it was a snot bridge.
+TP
+
+
+
+
+//粘度の高い液体が、
+This high-viscosity fluid had, with a
+TP
+
+//のびろーん
+-streeeeiaaatch-
+//slightly icky-fied, matches original better. -GHS
+TP
+
+//と吊り橋をかけていたのだ。
+dangled a suspension bridge between us.
+TP
+
+
+
+//俺の推理はこうだ。
+This is my inference.
+//Begin Scientific Trolls! -GHS
+TP
+
+
+
+//くしゃみをした拍子に、打ち出された鼻汁弾は新幹線よりも速い初速で（本当）こちらの制服に打ち込まれた。
+On the very downbeat of the sneeze, the launched glob of mucus fired onto to my uniform with a nuzzle velocity superior to even that of the Shinkansen (no, seriously).
+//Only laterally a musical reference, but it's close enough to keep. Sneezes aren't anywhere near the order of magnitude of that speed, see Mythbusters. -GHS
+TP
+
+//粘着力の強い液体は、弾丸に引っ張られて少女の鼻腔から引きずり出され、普通なら切れてしまう接続部を運良く保持し、橋の完成と相成った。
+This mightily adhesive fluid was drawn by the fired bullet and dragged from the girl's nasal cavity, and this connection that normally would break had fortunately held, thus completing the bridge.
+//This is not severance; this is a connection. The 'idiot' above wasn't in reaction to his ulterior motives, but to his dressup! Notice that 'luck': it's still God, which further returns to why Sakuraba was made into the reading key, as it's the same connection that there exists with him and Taichi - remember the stage. -GHS
+TP
+
+
+
+WVP 0 vfcca0013ysa042
+//遊紗「…………」
+Yusa: "......"
+TP
+
+
+
+//その事態が、ようやく遊紗ちゃんにも理解できたようだ。
+And it seems that, at last, Yusa-chan has also understood the event.
+TP
+
+
+
+//顔色が青ざめていく。
+The color in her face grows pale.
+TP
+
+
+
+//身動き一つ取らない。
+She does not make one movement.
+TP
+
+
+
+//いや、取れないのだ。
+No, she cannot make one.
+TP
+
+
+
+//うら若すぎる彼女にとって、己のはなぢるを異性の……しかも快男児と誉れ高い貴公子（俺幻想）の……衣服に顔射してしまったのだ。
+//※一部、不適切な表現があります。
+For this too young maiden's very own nasal discharge had, on a boy of the opposite gender... specifically a most excellent aristocratic boy with a strong sense of honor (self-delusion)... performed a thorough uniform bukkake.
+* One of these parts is expressed inappropriately.
+//Technical term, which ironically isn't bukkake in Japanese. -GHS
+TP
+
+
+//下手をすれば、
+If this is handled tactlessly,
+TP
+
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//『はなぢる姫』
+> 
+ 
+                    『Princess Cumnose!』
+//Consider Taichi's nickname was Ichiko. -GHS
+TP
+
+
+
+//『はなぢる子ちゃん』
+> 
+ 
+                      『Cumnose-chan!』
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+//などの極めて小児的かつ残酷さに満ちた称号を授与されかねない。
+and many other extremely infantile, cruelty-filled titles are very likely to be bestowed to her.
+//Whether she is bullied or not, this could likely be enough to trigger Step One of the Pattern. Notice that he immediately assumes that Gunjou, with its No Bullying, actually HAS bullying? -GHS
+TP
+
+
+
+//子供はいつだって笑う対象を求めている。
+Children constantly seek targets to ridicule,
+//He means children that aren't necessarily at the age of children, I would suspect. Yutaka was more or less a child, but it's enough to go to any Internet forum to see this hideous behavior. -GHS
+TP
+
+//相手が弱ければ弱いほど。
+the weaker they are, the more the ridicule.
+TP
+
+
+
+//どこまでも、どこまでも。
+Constantly, just constantly.
+TP
+
+
+
+WVP 0 vfcca0013ysa043
+//遊紗「あぅ……あっ、これは……あの……っ」
+Yusa: "Aw... ah, this... uhm...!"
+TP
+
+
+
+//極度の緊張によるものか。
+I wouldn't know if it's because of the extreme mental strain,
+TP
+
+//見開いたままの瞳に、一気に涙が溢れた。
+but her pupils, eyes still wide open, in a single instant were overflowing with tears.
+TP
+
+
+
+//いかん！
+This is bad!
+TP
+
+
+
+//この子に新たなトラウマを植えつけてはならない。
+Planting new psychological traumas in this poor girl is out of the question.
+TP
+
+
+
+//アトランティスの血を引く美形白髪王子の出番だった。
+It was all down to this stunningly beautiful snow-maned prince of Atlantean descent.
+//He gets all the chicks at Hogwarts plus he's from space with space powers and also now an official part of the Sonic comicverse so he totally can appear in your fanfics. Next, five paragraphs of ghastly descriptions of clothes (his medalliAn looks like it's made of metOl, but it's actually LEDs) and a random change of setting while leaving current events dangling and unresolved forever. -GHS
+TP
+
+
+
+//少女が錯乱するよりはやく、冷静にハンカチを取り出す。
+Faster than the girl could lose her mind, I calmly produce a handkerchief.
+//See CCC0025. "Lose her mind", naturally, meant altogether too literally. -GHS
+TP
+
+
+
+//それでまず、遊紗の鼻先を包んだ。
+With it I first cover Yusa's nose.
+//No honorific. -GHS
+TP
+
+
+
+WVP 0 vfcca0013ysa044
+//遊紗「……うゅ？」
+Yusa: "...nmyu?"
+TP
+
+
+
+//変な声をあげる。
+She makes a weird voice.
+TP
+
+
+
+//根本を断ち切ってから、幾度か折り返して鼻下をぬぐう。
+I tear apart the root then, alternating the clean spots on the hanky, wipe the subnasal so many times.
+TP
+
+
+
+//それから鼻汁橋を回収しつつ、自分の制服を軽く拭いた。
+After that comes the collection of the snot bridge while very carefully wiping down my own uniform.
+TP
+
+
+
+//ハンカチをポケットに戻す。戻そうとする。
+I return the hanky to pocket. And as I try,
+TP
+
+
+
+GL 2 tcdy0005
+GI 2 1
+WVP 0 vfcca0013ysa045
+//遊紗「あ、だめ、だめですよっ！？」
+Yusa: "Ah, you can't, you can't do that!"
+TP
+
+
+
+//太一「んー？」
+Taichi: "Hmm?"
+TP
+
+
+
+WVP 0 vfcca0013ysa046
+//遊紗「そんなききき汚いっ、あ、それはだめ、捨てないと、あ、あのっ」
+Yusa: "It's di-di-di-dirty, ah, you can't, must throw it away, ah, uhm!"
+//What comes from inside her is filthy. A normal reaction, but not in this circumstance. -GHS
+TP
+
+
+
+WVP 0 vfcca0013ysa047
+//遊紗「べんしょーしますっ！」
+Yusa: "I'll reimburse it!"
+TP
+
+
+
+//太一「いいんだよ」
+Taichi: "It's fine."
+TP
+
+
+
+//朗らかに笑って。
+So I say with a bright smile.
+TP
+
+
+
+//太一「さ、行こうか」
+Taichi: "Well, shall we go?"
+TP
+
+
+
+WVP 0 vfcca0013ysa048
+//遊紗「だから、その、ごめんなさっ、でもハンカチっ」
+Yusa: "But I said, that's, so sorry, your handkerchief!"
+TP
+
+
+
+//今度こそ、親指の腹で涙をぬぐいつつ。
+This time I can indeed wipe her tears with the belly of my thumbs.
+//But was it accidental, or did her own Internal Demon set this up? -GHS
+TP
+
+
+
+//太一「可愛い後輩を、困らせたままにしておくようなハンカチじゃないんだよ」
+Taichi: "Leaving a cute Kouhai in trouble is not worth a handkerchief."
+TP
+
+
+GL 2 tcdy0004
+GI 2 0
+WVP 0 vfcca0013ysa049
+//遊紗「……っっっ！！」
+Yusa: "...!!!"
+TP
+
+
+
+//少女は大きなショックを受けた。
+That struck her greatly.
+TP
+
+
+
+//太一「弁償はいいけど、風邪には気をつけた方がいいな、遊紗君」
+Taichi: "Reimburse is no problem, but you'd better watch out for colds, Yusa-kun."
+//Intentional mis-honorific. He normally doesn't use -kun period, and it tends to come out when he's in sort of a panic. IOW, he's not all quite there right now. -GHS
+TP
+
+
+
+//ぽん、と頭を軽く叩いて、歩き出す。
+Tok, I gently give her a light poke on the face, and resume walking.
+TP
+
+
+
+//遊紗ちゃんは、茫然としていた。
+Yusa-chan stood dumbfounded.
+TP
+
+
+
+//太一「ヘイ、学校だ、お嬢さん」
+Taichi: "Hey, to school, ojou-san!"
+TP
+
+GL 2 tcdy0000
+GI 2 0
+
+
+WVP 0 vfcca0013ysa050
+//遊紗「……は」
+Yusa: "...ye-..."
+TP
+
+
+
+GL 2 tcdy0001
+GI 2 0
+WVP 0 vfcca0013ysa051
+//遊紗「はいっ」
+Yusa: "Yes!"
+TP
+
+
+
+//小走りで駆けてきて、
+She comes over at half run.
+TP
+
+
+
+GL 2 tcdy0000
+GI 2 0
+WVP 0 vfcca0013ysa052
+//遊紗「……」
+Yusa: "..."
+TP
+
+
+
+//太一「ん？」
+Taichi: "Hm?"
+TP
+
+
+
+//手を握ってきた。
+She grabbed my hand.
+TP
+
+
+
+//耳までまっ赤にして、俯いたまま。
+Her face is cast downwards, vivid red up to her ears.
+//Easier to see in Japanese, but the OMFG HARD KANJI's have been continuing for a while. This should perhaps be even more overwrought. -GHS
+TP
+
+
+
+//可愛いもんだ。あれだけのことで。
+So damn adorable. Just because of that little thing!
+TP
+
+
+
+//ハンカチ一枚で射止められた少女の好意を、べつだん安いとは思わなかった。
+I didn't think the the goodwill of this girl that I made all mine with a single handkerchief to be particularly cheap,
+//See CCZAS, this is the "shoot dead" used there for the Cross World. -GHS
+TP
+
+
+
+//だが同時に彼女におもいっきり子供生ませたいと思ってしまった俺は脳が腐っていること間違いなかった。死ね、死んでしまえ。
+but simultaneously wanting for this girl to birth me a baby with all her heart meant my brain was rotten, and no mistake. Die, just die.
+//As usual, he is not kidding. -GHS
+TP
+WVS 1 1
+
+WVS 3 1
+WT 500
+WT 1000 1
+
+RET

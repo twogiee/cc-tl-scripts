@@ -1,0 +1,7208 @@
+
+
+
+
+
+
+
+
+WVP 3 SE001 0 0
+
+GL 0 evcc0011s
+$CGevcc0011s = 1
+GS 0 1
+SEF 10 2
+The first time Touko came to Gunjou,
+TP
+
+
+She was surrounded by high walls.
+//There has to be a better expression for personal fortress, being estranged, unattainable, isolated by (...) -Neko
+TP
+
+
+She obeyed like a subordinate.
+//Complied seems more accurate. Alt. "She was obedient, like a subordinate".
+TP
+
+
+I liked her the moment I saw her.
+TP
+
+
+Call it my cat-like disposition.
+TP
+
+
+Taichi: "Hey."
+TP
+
+
+WVP 0 vfCCD2001fyu180
+Touko: "......what is it?"
+TP
+
+
+Taichi: "Are you rich?"
+TP
+
+
+Touko: "............"
+TP
+
+
+I was ignored.
+TP
+
+
+Taichi: "Hey."
+TP
+
+
+WVP 0 vfCCD2001fyu182
+Touko: "......what?"
+TP
+
+
+Taichi: "You're a beauty."
+TP
+
+
+Touko: "........................"
+TP
+
+
+Her cheeks tightened faintly.
+TP
+
+
+From that, I understood her general texture.
+TP
+WVS 3 1
+GL 0 evcc0011
+$CGevcc0011 = 1
+GS 0 1
+SEF 10 2
+And now, Touko was there Åwas always.Åx
+//?????? - Sheeta
+//It says "as always." in game, this is fine. But the period was inside of the brackets.
+//It's supposed to be in the brackets right?-Spin
+TP
+
+
+Every week, every single week.
+TP
+
+
+I'd contacted an unlimited number of Toukos.
+//Endless seems better here, as it's standing an infinite number of outputs. Unlimited sounds more numerical, something that can't be exhausted. -Neko
+TP
+
+
+I had only seen conclusions that were far from happiness.
+//You use I'd too much -Neko
+TP
+
+
+Touko and I were repeating.
+TP
+
+
+Nothing but failures. It makes me laugh.
+//"We're" would be a harmless, more fluid additions. This could be read two ways "Touko and I" or "The situations consisted of". We're eliminates the discrepancy. -Neko
+TP
+
+
+......words might not be needed.
+TP
+
+
+It may be okay to just look at her.
+//Might redundancy without any sense repitive enforcement. -Neko
+TP
+
+
+That might be a bond.
+TP
+
+
+Taichi: "......"
+//CP_S ccb0004c
+TP
+
+
+Touko: "......"
+TP
+
+
+Taichi: "............"
+TP
+
+
+Touko: "............"
+TP
+
+
+Taichi: ".................."
+TP
+
+
+Touko: ".................."
+TP
+
+
+Taichi: "............................................."
+//Too many periods leading to game crash. Fixed to working amount - Raide
+TP
+
+GL 1 TCKT0003
+GP 1 230 0
+GL 0 bgcc0006
+GS 0 1
+GS 1 1
+SEF 109 0
+
+WVP 0 vfccb0004cfyu005
+Touko: "......what is it with you!!?"
+TP
+
+
+She suddenly stood up.
+//CP_F
+TP
+
+
+Taichi: "You're beautiful."
+TP
+
+
+GL 1 TCKT0004
+GI 1 0
+WVP 0 vfCCD2001fyu004
+Touko: "Wh---whwhwhwh-!?"
+TP
+
+
+Taichi: "Hahahaha."
+TP
+
+
+
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+SEF 152 0
+
+......I was chased out.
+TP
+
+
+Taichi: "Guess that's no good."
+TP
+
+
+This is very hard.
+TP
+
+
+Taichi: "The same ending as always......"
+//Result or Conclusion would enforce definition here. Ending is vague. -Neko
+TP
+
+
+Whatever.
+TP
+
+
+I figured I could take this lightly.
+TP
+
+
+
+WVS 1 1
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+
+WT 1000 0
+WT 2000 1
+
+
+
+
+GL 0 evcc0011
+$CGevcc0011 = 1
+GS 0 1
+SEF 109 0
+
+
+
+WVP 1 bgm020.ogg 0 0 0
+
+
+As usual, Touko was absentmindedly sitting in the classroom.
+//CP ccb0010a
+TP
+
+
+Just simply being there, with no objective.
+//CP
+TP
+
+
+Because she can't do anything.
+TP
+
+
+A Touko with nothing but inertia.
+TP
+
+
+Taichi: "Touko."
+TP
+
+
+WVP 0 vfCCD2001fyu005
+Touko: "......eh......?"
+TP
+
+
+She hesitated because I called her 'Touko.'
+TP
+
+
+Taichi: "Hold out your hands."
+TP
+
+
+WVP 0 vfCCD2001fyu006
+Touko: "......no."
+TP
+
+
+Okay, she's taking the bait.
+TP
+
+
+Taichi: "I can imagine what you're being wary of,"
+TP
+
+
+Taichi: "But this time's different."
+TP
+
+
+WVP 0 vfCCD2001fyu007
+Touko: "Didn't you say that last time!?"
+TP
+
+
+WVP 0 vfCCD2001fyu008
+Touko: "You think I'll be fooled by that!?"
+TP
+
+
+Taichi: "......this is a problem."
+TP
+
+
+WVP 0 vfCCD2001fyu009
+Touko: "You obviously want to make me hold your......"
+TP
+
+
+Taichi: "Just a greeting; nothing like what you're thinking."
+TP
+
+
+WVP 0 vfCCD2001fyu010
+Touko: "I don't want it."
+TP
+
+
+Muu, she's tough.
+TP
+
+
+I'll forcibly violate her.
+TP
+
+
+Taichi: "Hands."
+TP
+
+
+I took her hands by force.
+TP
+
+
+The impulse to make her grip it boiled up, but I held back.
+//I assume 'it' = Taichi's penis, so I changed it accordingly. - Sheeta
+//This should be reverted to it. The implication is specific, while "me" could imply gripping his hands, his body, anything really. -Neko
+TP
+
+
+WVP 0 vfccb2001fyu017
+Touko: "Hey......"
+//CP ccb2001
+TP
+
+
+Her face went pale.
+TP
+
+
+She must have thought that her hands would be raped.
+TP
+
+
+I would like to, but I won't do it now.
+TP
+
+
+Taichi: "Eat mother's flavor."
+//CP
+TP
+
+
+
+*plop* *plop* *plop*
+//CP
+TP
+
+
+
+Three round candies rolled around on the palm of her hand.
+//CP_S
+TP
+
+
+WVP 0 vfccb2001fyu018
+Touko: "Ah."
+TP
+
+
+Taichi: "Be at ease. My two hundred million small wonderful lives aren't inside those."
+//Does he say it the same way he said it to Misato pre-hscene? If so, they should match each other.
+//Who the hell is leaving these comments? It's been bugging me for a while.-Spin
+TP
+
+
+Taichi: "They're on vacation (alol)."
+TP
+
+
+WVP 0 vfccb2001fyu019
+Touko: "......of course they are."
+TP
+
+
+*squeeze*
+TP
+
+
+Touko gripped the candies.
+TP
+
+
+Taichi: "You should be able to live for a while with enough sugar intake."
+TP
+
+
+Cheap jokes should also be forgiven if done three at a time.
+TP
+
+
+Taichi: "Even if you don't have an appetite, make sure you practice putting things in your mouth."
+TP
+
+
+Touko glared at her fist.
+TP
+
+
+WVP 0 vfccb2001fyu020
+Touko: "......you're...always like that."
+TP
+
+
+WVP 0 vfccb2001fyu021
+Touko: "Pretending to be kind, being an idiot, being cold and distant, being scary."
+TP
+
+
+WVP 0 vfccb2001fyu022
+Touko: "I don't understand."
+TP
+
+
+She covered her face.
+TP
+
+
+WVP 0 vfccb2001fyu023
+Touko: "......I'm begging you, leave me alone."
+TP
+
+
+Taichi: "Ooohhh."
+TP
+
+
+She's mad at me.
+//CP_F
+TP
+
+
+But I achieved my objective, so I won't worry about it.
+TP
+
+
+WVS 1 1
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 1
+
+WT 1000 0
+WT 2000 1
+
+
+
+GL 0 bgcc0003e
+GS 0 1
+GS 1 0
+
+SEF 152 0
+
+
+WVP 1 bgm013.ogg 0 0 0
+
+
+Taichi: "Pretending to be kind......hmm..."
+TP
+
+
+She hadn't said it with much thought, but it hit the mark.
+//"Target" isn't exactly right. I remember hearing this saying before but I don't remember if it was "mark" or "bullseye."-Spin
+TP
+
+
+Touko was like this last year too.
+TP
+
+
+And I am acting the same as always after all---
+TP
+
+WVP 3 SE001 0 0
+GL 0 evcc0011s
+$CGevcc0011s = 1
+GS 0 1
+SEF 10 2
+Kurosu Taichi's harassment of Touko continued.
+TP
+
+
+No one besides me ever tried to talk to her.
+TP
+
+
+That wasn't because of malice.
+TP
+
+
+There were those at Gunjou who could have held a conversation, but Touko herself rejected them.
+TP
+
+
+Because everyone was sensitive to malice---
+TP
+
+
+But I practically feed on it.
+//Malice redundancy is ineffective here. Such things or it would suffice. -Neko
+TP
+
+
+Taichi: "Kirihara, where's your lunch?"
+TP
+
+
+WVP 0 vfCCD2001fyu184
+Touko: "......I don't need one."
+TP
+
+
+WVP 2 SE077 1 0
+
+Kuu...
+TP
+
+
+
+Taichi: "But......your stomach's growling."
+TP
+
+
+WVP 0 vfCCD2001fyu185
+Touko: "......shut up!!"
+TP
+
+
+Taichi: "You're cute when you're angry. Kirihara's face looks better when it's full of rage."
+TP
+
+
+I used a variant of the pickup line ÅwYou're cute when you're smiling. Kirihara's face looks better with a smile on it.Åx
+TP
+
+
+WVP 0 vfCCD2001fyu186
+Touko: "Be quiet."
+TP
+
+
+It shouldn't produce any development.
+//It's implication is obscure here. You lost me -Neko
+TP
+
+
+Taichi: "You're rich, why don't you have a bentou at least?"
+TP
+
+
+WVP 0 vfCCD2001fyu187
+Touko: "......I said I don't need one."
+TP
+
+
+Taichi: "Hmmm."
+TP
+
+
+Right before her eyes, I was greedily devouring my bentou.
+TP
+
+WVP 2 SE077 1 0
+
+
+Kuu...
+TP
+
+
+
+Touko: "............"
+TP
+
+
+Her face was already red.
+TP
+
+
+Taichi: "By the way, do you not know how the cafeteria works or something?"
+TP
+
+
+Touko had been looking down the whole time, but she finally nodded slightly.
+TP
+
+
+WVP 0 vfCCD2001fyu188
+Touko: "......I've always been in dorms until now."
+TP
+
+
+Taichi: "So you've only used dormitories and butlers."
+TP
+
+
+WVP 0 vfCCD2001fyu189
+Touko: "Why do you have to line up to get food......it's meaningless."
+TP
+
+
+Taichi: "It's amazing that you can honestly say that."
+TP
+
+
+She's not ordinary. That's what I thought.
+TP
+
+
+Taichi: "Okay, come with me."
+TP
+
+
+I pulled her hand.
+TP
+
+GL 0 bgcc0006s
+GS 0 1
+GL 1 TCKT0004s
+GS 1 1
+SEF 109 0
+
+WVP 0 vfCCD2001fyu190
+Touko: "Eeeh!? Th-that's okay......"
+TP
+
+
+Taichi: "Don't worry about it. I try to be friendly to beauties."
+TP
+
+GL 1 TCKT0002s
+GI 1 0
+
+WVP 0 vfCCD2001fyu191
+Touko: "A-again you say things that make me want to grind my teeth......"
+TP
+
+
+Taichi: "If Kirihara opened her heart more, I think she'd be able to have a fun life."
+TP
+GL 1 TCKT0000s
+GI 1 0
+
+
+Touko: "............"
+TP
+
+
+Taichi: "Now, let's go."
+TP
+
+GL 1 TCKT0004s
+GI 1 0
+WVP 0 vfCCD2001fyu193
+Touko: "I-I said wait!!"
+TP
+
+
+A one-sided relationship like that based on curiosity...
+//With seems unnecessary here. "It was like that", or simply ditch with. -Neko
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+........................
+TP
+
+WT 1000 0
+WT 1000 1
+
+
+
+GL 0 evcc0011s
+$CGevcc0011s = 1
+GS 0 1
+SEF 10 2
+
+Taichi: "I heard you got in trouble with the teacher again."
+TP
+
+
+WVP 0 vfCCD2001fyu194
+Touko: "......that has nothing to do with you."
+TP
+
+
+Taichi: "About you not wearing the uniform."
+TP
+
+
+WVP 0 vfCCD2001fyu195
+Touko: "I never accepted becoming a student here."
+//Decided may be better here. It's stronger, stating 'she never really had a choice.'
+//Now I get why he/she put the period outside. Damn Brits always ruining English.-Spin
+TP
+
+
+Taichi: "But, wasn't that decision made by the exam?"
+TP
+
+
+WVP 0 vfCCD2001fyu196
+Touko: "That thing......"
+TP
+
+
+Taichi: "Which means there's a possibility that Kirihara will hurt people."
+TP
+
+
+WVP 0 vfCCD2001fyu197
+Touko: "I've never done such a thing!"
+TP
+
+
+Taichi: "I think so too."
+//I believe you may be better. But then again, there is nothing wrong with this, it just takes away power from Touko's conviction, implying Taichi is the judge.
+TP
+
+
+WVP 0 vfCCD2001fyu198
+Touko: "......haa?"
+TP
+
+
+Taichi: "I think so too."
+TP
+
+
+If she had,
+TP
+
+
+Touko would probably just destroy herself.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+........................
+TP
+
+
+GL 0 evcc0011s
+$CGevcc0011s = 1
+GS 0 1
+SEF 10 2
+
+
+Taichi: "......Kirihara, do you hate Gunjou?"
+TP
+
+
+WVP 0 vfCCD2001fyu199
+Touko: "Of course I hate it. After all, I'm perfectly fine."
+TP
+
+
+WVP 0 vfCCD2001fyu200
+Touko: "This is all a bad joke."
+TP
+
+
+Taichi: "......really? I find it fun."
+TP
+
+
+Taichi: "It's easy."
+TP
+
+
+WVP 0 vfCCD2001fyu201
+Touko: "How?......We're being watched every day......and treated as abnormals..."
+TP
+
+
+Taichi: "But it's nothing to be afraid of."
+TP
+
+
+WVP 0 vfCCD2001fyu202
+Touko: "......that has nothing to do with me."
+TP
+
+
+Taichi: "Then, do you hate me?"
+TP
+
+
+WVP 0 vfCCD2001fyu203
+Touko: "I hate you."
+TP
+
+
+Taichi: "Ahahahahaha."
+TP
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+........................
+TP
+
+
+
+GL 0 evcc0011s
+$CGevcc0011s = 1
+GS 0 1
+SEF 10 2
+
+
+Taichi: "You really are......alone all the time."
+TP
+
+
+Taichi: "You can't make friends like that."
+TP
+
+
+WVP 0 vfCCD2001fyu204
+Touko: "Don't need 'em."
+TP
+
+
+Taichi: "Why not join a club?"
+TP
+
+
+WVP 0 vfCCD2001fyu205
+Touko: "......I won't."
+TP
+
+
+Taichi: "Nnn...but they're fun..."
+TP
+
+
+WVP 0 vfCCD2001fyu206
+Touko: "Why are you inviting me? Aren't there plenty of others?"
+TP
+
+
+Taichi: "Kirihara's fine."
+TP
+
+
+WVP 0 vfCCD2001fyu207
+Touko: "......wh-why......?"
+TP
+
+
+Taichi: "Because I like Kirihara."
+TP
+
+
+WVP 0 vfCCD2001fyu208
+Touko: "......that's bothersome."
+TP
+
+
+'I warm up to people because I like them, I'm harmless, and I want to be their friend.'
+//Massive adaptation here. I can only pray I understood the line correctly. Å`IX
+TP
+
+
+I continued putting out such an aura.
+TP
+//It fits better with previous and following line if Taichi is the one putting out the aura.
+
+
+It was nearly brainwashing.
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+........................
+TP
+
+
+
+
+
+GL 0 evcc0011s
+$CGevcc0011s = 1
+GS 0 1
+SEF 10 2
+At some point, Touko asked me,
+TP
+
+
+WVP 0 vfCCD2001fyu209
+Touko: "Kurosu, why are you here?"
+TP
+
+
+Taichi: "......because my heart is sick."
+TP
+
+
+WVP 0 vfCCD2001fyu210
+Touko: "I don't think that's it."
+TP
+
+
+Taichi: "In a part you can't see."
+TP
+
+
+In a part I can't show.
+TP
+
+
+Touko held her head.
+TP
+
+
+WVP 0 vfCCD2001fyu211
+Touko: "......I...can't take this place...anymore......"
+TP
+
+
+WVP 0 vfCCD2001fyu212
+Touko: "I'm scared......of this Institute......I want to return to......"
+TP
+
+
+Where do you want to return to?
+TP
+
+
+I'm sure she doesn't mean her old school.
+TP
+
+
+Back to days that have long since passed.
+TP
+
+
+Taichi: "I said it's fine. It's fun once you get used to it."
+TP
+
+
+WVP 0 vfCCD2001fyu213
+Touko: "I can't get used to it."
+TP
+
+
+Taichi: "Aren't you just deciding that you can't?"
+TP
+
+
+Taichi: "Kirihara's cute, so if she wanted to she could have as fun a life as she wanted."
+TP
+
+
+WVP 0 vfCCD2001fyu214
+Touko: "Th-that's not what we're talking about."
+TP
+
+
+Taichi: "Cute, cute."
+TP
+
+
+I rubbed her head.
+TP
+
+
+WVP 0 vfCCD2001fyu215
+Touko: "......stop that! You idiot!"
+TP
+
+
+She threw me off.
+TP
+
+
+But if she really didn't like it, would she be red all the way up to her ears?
+TP
+GL 0 bgcc0000d
+GS 0 1
+WVS 3 1
+SEF 109 1
+
+
+WT 1000 0
+WT 1000 1
+
+
+GL 0 bgcc0003e
+GS 0 1
+SEF 109 1
+
+Taichi: "......nn......"
+TP
+
+
+And then, I had a dream about Touko---
+TP
+
+
+Taichi: "......"
+TP
+
+
+WVS 1 1
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+
+
+
+
+
+
+
+
+
+WT 500 0
+WT 1000 1
+
+
+
+
+
+
+
+
+
+WVP 1 bgm018.ogg 0 0 0
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 0
+
+
+I woke up.
+//CP_S ccd1001
+TP
+
+
+Sunlight was penetrating through the window.
+TP
+
+
+I must have been sleeping soundly. I didn't have a single dream.
+TP
+
+
+The time......7 A.M.
+TP
+
+
+I have to go to school.
+//CP_F The text that appears in multiple routes I'm copying from my raw, unsplit English file, so there's a slight possibility this stuff got edited and I don't remember it. Å`IX
+TP
+
+
+
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+I looked inside the classroom.
+TP
+
+
+Touko was there.
+TP
+
+
+Taichi: "Morning."
+TP
+
+GL 1 TCKT0002
+GP 1 220 0
+GI 1 1
+
+
+WVP 0 vfcca0013fyu000
+Touko: "......(hmph)"
+//CP cca0013
+TP
+
+
+Taichi: "You don't look well."
+TP
+
+
+WVP 0 vfCCD2001fyu011
+Touko: "......that has nothing to do with you, Kurosu."
+TP
+
+
+That's curt.
+TP
+
+
+Taichi: "Why are you coming to school?"
+TP
+
+
+WVP 0 vfCCD2001fyu012
+Touko: "That also has nothing to do with you."
+TP
+
+
+Taichi: "I know."
+TP
+
+
+Taichi: "It's because you want someone to talk to you."
+TP
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfCCD2001fyu013
+Touko: "......that's not it!"
+TP
+
+
+Her voice became rough.
+TP
+
+
+Taichi: "That's why I spoke to you."
+TP
+
+
+WVP 0 vfCCD2001fyu014
+Touko: "What are you......isn't that just something Kurosu thought up on his own!?"
+TP
+
+
+Taichi: "This makes it two days in a row. If you just drink water, you'll die."
+TP
+
+
+Taichi: "I'll give you this."
+TP
+
+
+I held out Youko's bentou.
+TP
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfcca0014afyu001
+Touko: "What, is this?"
+//CP cca0014
+TP
+
+
+Taichi: "It's definitely not underwear or a bottle of wonderful lives."
+TP
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfCCD2001fyu015
+Touko: "......I can't trust that at all."
+TP
+
+
+WVP 0 vfCCD2001fyu016
+Touko: "You never think about anything but semen."
+TP
+
+
+Taichi: "That's a ridiculous overstatement."
+TP
+
+
+I was shocked.
+//You were? Å`IX
+TP
+
+
+Taichi: "It's food!"
+TP
+
+
+Taichi: "There's sandwiches and sweet bean bread in it."
+//Various English purality conventions clash here, and I'm not quite sure what to do about it. Å`IX
+TP
+
+
+Taichi: "......the sweet bean bread was even steamed in a basket."
+TP
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfCCD2001fyu017
+Touko: "I don't need this......I don't."
+TP
+
+
+Taichi: "No, you need it. Eat."
+TP
+
+
+
+*nudge*
+TP
+
+
+
+I poked her with the bread.
+TP
+
+
+WVP 0 vfCCD2001fyu018
+Touko: "......stop that."
+TP
+
+
+She threw me off her violently.
+TP
+
+
+The bread fell.
+TP
+
+
+I picked it up.
+TP
+
+
+I ignored the parts that had picked up dirt and ate it myself.
+TP
+
+
+Then I held out another one.
+TP
+
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfCCD2001fyu019
+Touko: "You......"
+TP
+
+
+The secret technique of becoming the pupil of your parents' murderer.
+//SOS
+//Not a clue O.o - Sheeta
+//Me neither.-Spin
+TP
+
+
+Touko should fall for it easily.
+TP
+
+
+Taichi: "Take it."
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfCCD2001fyu020
+Touko: "......a......"
+TP
+
+
+She accepted it.
+TP
+
+
+With the bread in her hands, she gazed at me agape.
+TP
+
+
+Taichi: "Isn't it painful to have no one besides yourself to worry about you?"
+//CP_S cca0014a
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfcca0014afyu005
+Touko: "I don't understand what you're saying."
+TP
+
+
+Taichi: "You want people to worry about you."
+TP
+
+
+Taichi: "You want them to complete you."
+TP
+
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfcca0014afyu006
+Touko: "......"
+//CP_F
+TP
+
+
+She became quiet.
+TP
+
+
+Taichi: "And I, for one, do worry a little."
+//CP_S
+TP
+
+
+She surely despises me.
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfcca0014afyu007
+Touko: "You sure can talk."
+TP
+
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfcca0014afyu008
+Touko: "If you're really worried about me, then why, why!?"
+TP
+
+
+She suddenly stood up.
+//CP_F
+TP
+
+
+Taichi: "Ah, I wasn't trying to make you mad or anything."
+//CP_S ccb0015b
+TP
+
+WVP 2 se048 1 0
+
+
+*smack*
+TP
+
+
+GO 1 1
+I toppled.
+TP
+
+
+It didn't hurt at all.
+TP
+
+
+WVS 1 0
+
+
+WVP 0 vfccb0015bfyu000
+Touko: "......uuuu......"
+TP
+
+
+After attacking me, Touko collapsed.
+//PCP
+TP
+
+
+Taichi: "Hello?"
+TP
+
+
+WVP 0 vfccb0015bfyu001
+Touko: "......nn............"
+TP
+
+
+She was rubbing her eyes. Her face looked pale.
+TP
+
+
+Taichi: "......Touko."
+TP
+
+
+I stooped down beside her.
+TP
+
+
+WVP 0 vfccb0015bfyu002
+Touko: "Don't say my name without an honorific......"
+TP
+
+
+She seemed to be straining her voice.
+//CP_F
+TP
+
+
+Taichi: "This is an emergency. Let's call a truce."
+//PCP
+TP
+
+
+WVP 1 bgm020.ogg 0 0 0
+
+
+
+WVP 0 vfccb0015bfyu004
+Touko: "I can't see......"
+//CP
+TP
+
+
+Taichi: "You're fine. Your blood flow is just bad right now."
+TP
+
+
+WVP 0 vfCCD2001fyu021
+Touko: "I feel drained......like I'm gonna hurl."
+//PCP_S
+TP
+
+
+Taichi: "You need to puke?"
+TP
+
+
+WVP 0 vfccb0015bfyu006
+Touko: "......yeah."
+TP
+
+
+Taichi: "Then lie on your side."
+//CP_F
+TP
+
+
+I rested her head in my lap.
+TP
+
+
+WVP 0 vfCCD2001fyu022
+Touko: "Nn......my head...is spinning......like I stood up too fast......"
+TP
+
+
+Taichi: "You'll be able to see again soon."
+TP
+
+WVP 0 vfCCD2001fyu023
+Touko: "How do you know that? You don't know any doctors."
+TP
+
+
+Taichi: "I know all about Touko."
+TP
+
+
+WVP 0 vfccb0015bfyu011
+Touko: "Ah......"
+//CP
+TP
+
+
+Taichi: "Can you see now?"
+TP
+
+
+WVP 0 vfCCD2001fyu024
+Touko: "......yeah."
+TP
+
+
+Taichi: "Anemia. That sort of thing can happen sometimes."
+//In the scene in ccb you were translating this as "low blood pressure".  Did the JP change here? ~Bal
+TP
+
+
+WVP 0 vfccb0015bfyu015
+Touko: "It's gotten......a bit better......"
+//CP
+TP
+
+
+Taichi: "Open your mouth."
+TP
+
+
+WVP 0 vfCCD2001fyu025
+Touko: "You'll put something weird in it, so no."
+TP
+
+
+Taichi: "Just water. Pure water."
+TP
+
+
+
+
+
+Taichi: "I'm just going to make you drink it."
+TP
+
+
+Touko: "......"
+TP
+
+
+She opened her mouth.
+TP
+
+
+I poured it in.
+TP
+GL 1 TCKT0004
+GI 1 1
+
+WVP 0 vfCCD2001fyu028
+Touko: "Wapu!!?"
+TP
+
+
+Taichi: "Ah, sorry."
+TP
+
+GL 1 TCKT0003
+GI 1 0
+WVP 0 vfCCD2001fyu029
+Touko: "Forget it, I'll drink on my own! Give me that!"
+TP
+
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfCCD2001fyu030
+Touko: "Nn! Nn! Nn!......"
+TP
+
+
+Touko drained it with the manners of a sports club's vice president who never stops worrying about her teammates.
+TP
+
+
+Was her stomach being stimulated?
+TP
+
+WVP 2 SE077 1 0
+
+
+Kuu...
+TP
+
+
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfCCD2001fyu031
+Touko: "......that was......a mistake."
+TP
+
+
+Taichi: "I know."
+TP
+
+
+Taichi: "And that's why you should eat."
+TP
+
+
+Touko: "............"
+TP
+
+
+She blushed easily.
+TP
+
+
+
+
+
+GL 0 bgcc0009s
+GS 0 1
+GS 1 0
+WVP 3 SE001 0 0
+SEF 10 2
+
+
+A while after Touko finished eating lunch,
+TP
+
+GL 1 TCKT0002s
+GI 1 1
+WVP 0 vfCCD2001fyu216
+Touko: "......I'll line up today."
+TP
+
+
+She said that.
+TP
+
+
+She'd gotten used to the cafeteria.
+TP
+
+
+But Touko always hid behind my back.
+TP
+//youko?
+
+
+Because there were many strange people.
+TP
+
+
+I even escorted her to the bathroom.
+TP
+
+
+Touko's job was taking attendance.
+TP
+
+
+But even that she did half scared.
+TP
+
+
+Taichi: "By 'line up' you mean......on your own?"
+TP
+
+
+GL 1 TCKT0000s
+GI 1 0
+WVP 0 vfCCD2001fyu217
+Touko: "......I'm always making you line up for me...... so today I'll do it."
+TP
+
+
+
+She headed to the counter, meal ticket in hand.
+TP
+
+
+Taichi: "My, my......"
+TP
+WVS 3 1
+
+WVS 1 1
+
+
+
+
+
+
+
+
+WVP 1 bgm016.ogg 0 0 0
+
+
+GL 0 evcc0022
+$CGevcc0022 = 1
+GS 1 0
+GS 0 1
+SEF 10 1
+
+WVP 0 vfccb0015bfyu023
+Touko: "......it's too fluffy."
+//CP_S
+TP
+
+
+Taichi: "They were made this morning."
+TP
+
+
+WVP 0 vfccb0015bfyu024
+Touko: "It's too big to eat easily."
+TP
+
+
+Taichi: "They were made for me."
+TP
+
+
+WVP 0 vfccb0015bfyu025
+Touko: "There's too much mustard."
+TP
+
+
+Taichi: "I like them bitter."
+TP
+
+
+Touko: "............"
+TP
+
+
+Taichi: "So, is it bad?"
+TP
+
+
+WVP 0 vfccb0015bfyu027
+Touko: "............it's good."
+TP
+
+
+Taichi: "Then take your time eating it."
+TP
+
+
+WVP 0 vfccb0015bfyu028
+Touko: *sniff*
+TP
+
+
+She was sniffling.
+//CP_F
+TP
+
+
+Taichi: "Take your time, so your stomach won't reject it."
+TP
+
+
+Taichi: "I have another piece of bread, do you need it?"
+//Is it still obvious that "bread" = "sweet bean bread"? Because I'd really like to not write that all out any more than I have to. Å`IX
+//Yeah, I think it is - Sheeta
+//Double affirmation, plus, who cares. -Neko
+TP
+
+
+WVP 0 vfCCD2001fyu033
+Touko: "......I do."
+TP
+
+
+Taichi: "The servants in your house prepared all your meals, right?"
+TP
+
+
+WVP 0 vfCCD2001fyu034
+Touko: "......yes."
+TP
+
+
+Taichi: "What happens when they're gone?"
+TP
+
+
+WVP 0 vfCCD2001fyu035
+Touko: "Nothing happens. There's just no food."
+TP
+
+
+Taichi: "Since Touko can't cook, I guess that would equal death."
+TP
+
+
+WVP 0 vfCCD2001fyu036
+Touko: "......why......do you know...I can't cook......?"
+TP
+
+
+Taichi: "Don't worry about that."
+TP
+
+
+WVP 0 vfCCD2001fyu037
+Touko: "That bothers me......"
+TP
+
+
+Taichi: "How do you feel?"
+TP
+
+
+WVP 0 vfCCD2001fyu038
+Touko: "It's gotten better......a little."
+TP
+
+
+Taichi: "If you get hungry, come to my place."
+TP
+
+
+Taichi: "I don't have any caviar, but there are plenty of potatoes."
+TP
+
+
+WVP 0 vfCCD2001fyu039
+Touko: "............but..."
+TP
+
+
+I know what she wants to say.
+TP
+GL 2 efcc0003
+GL 1 evcc0032
+GP 1 0 0 0
+GP 2 0 0 0
+GI 2 0
+GI 1 0
+GS 2 0
+GS 1 0
+SEF 109 0
+
+
+She fears betrayal.
+TP
+
+
+Taichi: "......more importantly,"
+TP
+
+
+Taichi: "How do you think humanity was destroyed?"
+//CP_S ccb0015b
+TP
+GL 0 bgcc0000a
+GS 0 1
+SEF 152 0
+
+
+She looked out the window.
+TP
+
+
+I didn't expect to get anything out of asking her.
+TP
+
+
+WVP 0 vfccb0015bfyu046
+Touko: "They weren't destroyed."
+//CP_F
+TP
+
+
+WVP 0 vfCCD2001fyu040
+Touko: "......no one was ever here."
+//Eh? Why don't I remember this!? I must've ctrled too much... ;_; Å`IX
+TP
+
+
+WVP 0 vfCCD2001fyu041
+Touko: "Thinking that doesn't irritate me."
+TP
+
+
+WVP 0 vfCCD2001fyu042
+Touko: "Nor does it discourage me."
+TP
+
+
+Taichi: "For the same reason you ignored me?"
+TP
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+I turned to face her.
+TP
+
+Touko averted her line of sight.
+TP
+
+GL 1 TCKT0002
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfCCD2001fyu043
+Touko: "......that's right."
+TP
+
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfCCD2001fyu044
+Touko: "And yet, you came and talked to me......that's not right...and you knew it all along!"
+TP
+
+
+Taichi: "Sorry."
+TP
+
+
+WVP 0 vfCCD2001fyu045
+Touko: "Why are you apologizing!?"
+TP
+
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfCCD2001fyu046
+Touko: "I can't understand you at all......Taichi......"
+TP
+
+
+Silent weeping.
+TP
+
+
+Time passed.
+TP
+
+
+WVS 1 1
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 1
+
+
+
+
+
+
+
+WT 500 0
+WT 500 1
+
+
+
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 0
+WT 200 0
+WT 800 1
+
+
+
+
+WVP 1 bgm003.ogg 0 0 0
+
+
+GL 0 bgcc0004c
+GS 0 1
+SEF 152 0
+
+I brought potatoes to the garden.
+TP
+
+
+With survival manga as my guide, I prepared the rice cooker.
+//CP_S ccb2002
+TP
+
+
+Taichi: "Finished......"
+TP
+
+
+Steaming them is a pain, so I just cooked them.
+//CP_F
+TP
+
+
+A double serving of potatoes.
+TP
+
+
+I waited.
+TP
+
+
+A person collapsed at my front door.
+TP
+
+
+GL 0 bgcc0002c
+GS 0 1
+SEF 152 0
+
+
+It was Kirihara Touko.
+TP
+
+
+WVP 0 vfccb2002fyu000
+Touko: "Uuuuuu."
+//CP
+TP
+
+
+Taichi: "......"
+TP
+
+
+I carried Touko on my shoulders.
+TP
+
+
+WVP 0 vfCCD2001fyu047
+Touko: "......Ta-Taichi......?"
+TP
+
+
+I brought her with me.
+TP
+
+
+WVP 0 vfCCD2001fyu048
+Touko: "Ah, aau......"
+TP
+
+
+I sat her down.
+TP
+
+
+I put a potato in her mouth.
+TP
+
+
+WVP 0 vfCCD2001fyu049
+Touko: "Uuuuu! Umumumumumumu!!?"
+TP
+
+
+WVP 0 vfCCD2001fyu050
+Touko: "I can eat it myself!!!"
+TP
+
+
+She screamed while spitting out potato scraps.
+TP
+GL 0 evcc0022a
+$CGevcc0022a = 1
+GS 0 1
+GS 1 0
+SEF 155 0
+
+*gobble* *gobble* *gobble*
+TP
+
+
+Taichi: "Here's the salt."
+TP
+
+
+WVP 0 vfCCD2001fyu051
+Touko: "Put it on."
+TP
+
+
+Taichi: "......very well."
+TP
+
+
+Touko ate with all her strength.
+TP
+
+
+WVP 0 vfccb2002fyu012
+Touko: "......nku!"
+//CP_S
+TP
+
+
+Her limbs tightened.
+//CP_F
+TP
+
+
+Just as planned (not that I planned it).
+//Short of Romeo being a time traveller, we can assume this isn't a DeathNote reference, but it sorta becomes one ex post facto, so if anyone knows a slightly more well-recognized English phrasing for this line, go right ahead. Å`IX
+//Alternatively we could say 'exactly as I planned', but I'm all for keeping it as it is! - sheeta
+//This is fine, and doesn't need to be changed. The above wouldn't worked because it's going all according to plan, not necessarily his plan. -Neko
+TP
+
+
+Taichi: "Here, water."
+//CP_S
+TP
+
+
+I passed her a PET bottle.
+TP
+
+
+WVP 0 vfccb2002fyu013
+Touko: "Nn! Nn! Nn!......"
+TP
+
+
+She gulped it down.
+TP
+
+WVP 0 vfccb2002fyu014
+Touko: "Hafu, hafu."
+TP
+
+
+She devoured again.
+//CP_F
+TP
+
+
+After flattening seven or eight of them, Touko finally took a breath.
+//CP_S
+TP
+GL 0 bgcc0002c
+GS 0 1
+SEF 155 0
+
+GL 1 TCKT0005c
+GI 1 1
+
+
+WVP 0 vfccb2002fyu015
+Touko: "......I've calmed down."
+TP
+
+
+Taichi: "That's good to hear."
+TP
+
+
+Touko corrected her sitting posture.
+//CP_F
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfCCD2001fyu052
+Touko: "......and eaten enough."
+TP
+
+
+Taichi: "Okay."
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfCCD2001fyu053
+Touko: "Also......th-thank you."
+TP
+
+
+It was awkward.
+TP
+
+
+Taichi: "That aside, please look at this."
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfCCD2001fyu054
+Touko: "What is this?"
+TP
+
+
+Taichi: "It's called canned food."
+TP
+
+
+WVP 0 vfCCD2001fyu055
+Touko: "Hmmm."
+TP
+
+
+Taichi: "You open it, and there's food inside. Moist preservatives, to be precise."
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfCCD2001fyu056
+Touko: "......aaah, I get it."
+TP
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfCCD2001fyu057
+Touko: "Where is it sold?"
+TP
+
+
+Taichi: "Convenience stores and the like."
+TP
+
+
+WVP 0 vfCCD2001fyu058
+Touko: "Conveni......?"
+TP
+
+
+Taichi: "You don't even know about convenience stores!?"
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfCCD2001fyu059
+Touko: "I-I know about them......it's just that I've never done anything more than look at them."
+TP
+
+
+Taichi: "I'm cumming!!"
+TP
+
+
+I climaxed.
+TP
+
+
+And fell over.
+TP
+
+GL 1 TCKT0004c
+GI 1 0
+
+WVP 0 vfCCD2001fyu060
+Touko: "Kyaa!!? Wh-what happened?"
+TP
+
+
+Taichi: "Your richness is over ninety-eight percent."
+TP
+
+
+WVP 0 vfCCD2001fyu061
+Touko: "Eh?......Am I?......I don't know......?"
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfCCD2001fyu062
+Touko: "Besides, even if you bring up money now......"
+TP
+
+
+Taichi: "Well, that's true."
+TP
+
+
+Taichi: "Aaah, I should've become a son-in-law in that household when I had the chance."
+TP
+
+
+I was angry.
+TP
+
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfCCD2001fyu063
+Touko: "......with such an impure motive......"
+TP
+
+
+Taichi: "Not just me. You were trying to stealthily introduce me to your parents."
+TP
+
+
+WVP 0 vfCCD2001fyu064
+Touko: "......I did do that......but Taichi ran away."
+TP
+
+
+Taichi: "You know, Touko..."
+TP
+
+
+Taichi: "I'm Gunjou Institute's Most Wanted."
+TP
+
+
+Taichi: "If you introduced such a person to them......there's no way your godfather would accept that, right?"
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfCCD2001fyu065
+Touko: "......Taichi's not strange."
+TP
+
+
+Taichi: "If you can say that, there's still a long way to go."
+TP
+
+
+Taichi: "Before you lose your Mongolian spot."
+//I'm leaving this one to be wikied. Å`IX
+TP
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfCCD2001fyu066
+Touko: "You said that once before."
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfCCD2001fyu067
+Touko: "But you don't make any sense to me......since I'm an idiot......"
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfCCD2001fyu068
+Touko: "If you'd just be kind, that's all I need......"
+TP
+
+
+Taichi: "Hmm."
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfccb2002fyu040
+Touko: "......this is a pain. To think that you have to work just to stay alive."
+//CP
+TP
+
+
+Taichi: "Kirihara can't live on her own."
+//CP_S
+TP
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfccb2002fyu041
+Touko: "......-hut up."
+//CP_F
+TP
+
+
+Taichi: "You automatic girl......"
+//CP_S
+TP
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfccb2002fyu042
+Touko: "Hey."
+TP
+
+
+Taichi: "Nn?"
+TP
+
+GL 1 TCKT0006c
+GI 1 0
+
+WVP 0 vfccb2002fyu043
+Touko: "......can I live here?"
+//CP_F
+TP
+
+
+Taichi: "Sure."
+TP
+
+
+GL 1 TCKT0004c
+GI 1 0
+
+WVP 0 vfCCD2001fyu069
+Touko: "......okay......eh, eh? It's...okay?"
+TP
+
+
+Taichi: "Sure."
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2003afyu004
+Touko: "Ah, umm, I'll bring a change of clothes right away!"
+//CP ccb2003a
+TP
+GO 1 1
+
+Taichi: "I've got fabric scissors, so you don't have to bring those."
+TP
+
+
+WVP 0 vfCCD2001fyu070
+Touko: "......nngaguku!!?"
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+
+SEF 109 0
+
+
+GL 0 bgcc0002c
+GS 0 1
+SEF 152 0
+She came right back.
+TP
+
+
+Her bag was bulging with belongings.
+TP
+
+
+Her knees were bent, and she was sweating.
+TP
+
+
+I remembered a time when I mocked her by saying she'd never carried anything heavier than chopsticks.
+TP
+
+
+Then, with a serious face, she retorted that she used a knife and fork.
+TP
+
+
+Taichi: "You overdid it."
+TP
+GL 1 TCKT0000c
+GI 1 1
+
+WVP 0 vfCCD2001fyu071
+Touko: "Th-there's too much to carry by myself---"
+TP
+
+
+She opened her eyes wide and made vigorous gestures as she explained.
+TP
+
+
+This side of her was really cute.
+TP
+
+
+Taichi: "Let's use a car tomorrow."
+TP
+
+
+WVP 0 vfCCD2001fyu072
+Touko: "You have a license?"
+TP
+
+
+Taichi: "Do I need one?"
+TP
+
+
+WVP 0 vfCCD2001fyu073
+Touko: "Ah, that's right......"
+TP
+
+
+WVP 0 vfCCD2001fyu074
+Touko: "For now, I brought a minimal change of clothes, so I'll be staying here starting tonight."
+TP
+
+
+
+
+
+GL 0 bgcc0003e
+GS 0 1
+GS 1 0
+SEF 152 0
+
+Taichi: "Would you mind sharing my room?"
+TP
+
+
+GL 1 TCKT0006c
+GI 1 0
+WVP 0 vfCCD2001fyu075
+Touko: "I'd prefer it that way......"
+TP
+
+
+Taichi: "It's small, so don't complain."
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfCCD2001fyu076
+Touko: "......I prefer small......because I can stay near you......"
+TP
+
+
+Taichi: "Eh......?"
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfCCD2001fyu077
+Touko: "N-nothing......"
+TP
+
+Touko looked the other way as her nose turned red (I can't tell in this darkness, but it probably did).
+TP
+
+
+Damn coquetting.
+TP
+
+
+I'll deal with this calmly using adult charms.
+TP
+
+
+Taichi: "N-n-n-n-now, s-s-s-s-since we have nothing to do, let's s-s-s-s-s-s-s-sleep."
+TP
+
+
+Uwaaan!
+TP
+
+
+No good, calm down, me.
+TP
+
+GL 1 TCKT0006c
+GI 1 0
+
+WVP 0 vfCCD2001fyu078
+Touko: "Uh, umm......"
+TP
+
+
+Taichi: "Nn? Yes? What?"
+TP
+
+
+WVP 0 vfCCD2001fyu079
+Touko: "I want to take a bath."
+TP
+
+
+Taichi: "Nnn, there is overnight water left in there......if you don't mind pouring it over yourself."
+//Last time, he told her about a neighbor's house or something that had the water.-Spin
+TP
+
+
+There wasn't much of it, but with only one week, it's just fine for the pace we'll be living at.
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfCCD2001fyu080
+Touko: "That's fine, I'll use that."
+TP
+
+
+WVS 1 1
+
+GO 1 1
+
+Taichi: "......okay."
+TP
+
+
+I sat in a seiza position on top of my bed and thought.
+TP
+
+
+Not good.
+TP
+
+
+She's really into it.
+TP
+
+
+Easy to understand.
+TP
+
+
+So simple it's just too cute.
+TP
+
+
+A flat, ungarnished heart.
+TP
+
+
+She can do such things......because she's so pure.
+TP
+
+
+GL 4 evcc0032
+GI 4 0
+GO 4 1
+
+This is hard.
+TP
+
+
+What should I do?
+TP
+
+
+......that's the only answer, isn't it?
+TP
+
+
+Yes.
+TP
+
+
+For Touko to remain Touko,
+TP
+
+
+Shouldn't I live with her for that reason?
+TP
+
+
+But......I do want......at least a little.
+TP
+
+
+Could I attain something healthy?
+TP
+
+
+That's what these days are: a holy battle.
+TP
+
+
+WVP 1 bgm004.ogg 0 0 0
+
+GL 1 TCKT0006c
+GI 1 1
+
+WVP 0 vfCCD2001fyu081
+Touko: "Taichi......"
+TP
+
+
+She returned.
+TP
+
+
+Taichi: "Touko......"
+TP
+
+
+WVP 0 vfCCD2001fyu082
+Touko: "......I'm all clean now......"
+TP
+
+
+I felt like I'd embrace her the moment I stood up.
+TP
+
+
+Fast. And fragile.
+TP
+
+
+A long time ago, there was a famously stupid couple living near us that broke up and clung to each other all the time.
+//I can only imagine that was a typo. ~Bal
+TP
+
+
+Even though they argued enough for their angry voices to reach the neighbors, they'd untangle everything in no time.
+TP
+
+
+......I never imagined I might become like that.
+TP
+
+
+And now Touko is saying something as embarrassing as ÅwI'm all clean nowÅx right in front of me.
+TP
+
+
+Taichi: "Yeah, that's right."
+TP
+
+
+I showed her the best smile.
+TP
+
+
+Taichi: "Then...here."
+TP
+
+
+I handed her a sleeping bag.
+TP
+GL 1 TCKT0004c
+GI 1 0
+
+WVP 0 vfCCD2001fyu083
+Touko: "........................what's this cylinder?"
+TP
+
+
+As a bag for sleeping purposes that had been rolled up, it was indeed cylindrical.
+TP
+
+
+Taichi: "You probably don't know, but this is called a sleeping bag. It's a bag for sleeping in."
+TP
+
+
+Question marks danced above Touko's head.
+TP
+GL 1 TCKT0000c
+GI 1 0
+WVP 0 vfCCD2001fyu084
+Touko: "How do I get in the bag to sleep?"
+TP
+
+
+Taichi: "Because women aren't just bags for men."
+//Probably referencing a past argument of theirs which required a tl note for some famous Japanese feminist advocate. But I have no idea how to make it sound natural in English. Å`IX
+//......I have no idea either O.o - Sheeta
+TP
+GL 1 TCKT0002c
+GI 1 0
+
+
+WVP 0 vfCCD2001fyu085
+Touko: "......this is hard...I don't quite get it."
+TP
+
+
+How could you?
+TP
+
+
+Taichi: "If you use this then the floor won't hurt as much. There you go, Touko!"
+//It hurts anyway regardless of sleeping bag, I'm afraid - Sheeta
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfCCD2001fyu086
+Touko: "Isn't there a bed right there......?"
+TP
+
+
+Taichi: "This is mine."
+TP
+
+GL 1 TCKT0001c
+GI 1 0
+
+Touko: "......"
+TP
+
+
+Taichi: "......"
+TP
+
+
+We cut into each others' faces with our glares.
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfCCD2001fyu088
+Touko: "Your incomprehensibility just rose......"
+TP
+
+
+Taichi: "I said I'd let you stay over, but I didn't promise anything else."
+TP
+
+
+Taichi: "So good night."
+TP
+
+
+I sunk my body into the soft bed.
+TP
+
+
+It's dark, and there's nothing to do besides sleep.
+TP
+
+GL 1 TCKT0004c
+GI 1 0
+
+
+WVP 0 vfCCD2001fyu089
+Touko: "Eh!? Wait......we still haven't......done...any..."
+TP
+
+
+Taichi: *snore*
+TP
+
+GL 1 TCKT0001c
+GI 1 0
+
+
+WVP 0 vfCCD2001fyu090
+Touko: "H-how could......"
+TP
+
+
+Taichi: *snore*
+TP
+
+GL 1 TCKT0003c
+GI 1 0
+
+WVP 0 vfCCD2001fyu091
+Touko: "Idiot-idiot-idiot! Taichi you idiot."
+TP
+
+
+Taichi: *snore*
+TP
+GO 1 1
+WVP 2 se203 1 0
+*rustle* *rustle*
+TP
+WVP 2 se202 1 0
+
+
+The sound of a sleeping bag being rolled out.
+TP
+WVP 2 se203 1 0
+
+
+The sound of a body sliding inside.
+TP
+
+
+WVP 0 vfCCD2001fyu092
+Touko: "Uuuuu......the floor...hurts......"
+TP
+
+
+Dissatisfied malcontent.
+TP
+
+
+Touko: "............"
+TP
+
+
+WVP 0 vfCCD2001fyu094
+Touko: "Too hot!! I can't sleep in something like this in the summer!"
+TP
+
+
+WVP 0 vfCCD2001fyu095
+Touko: "Forget it, I'll sleep directly on the floor......"
+TP
+
+
+WVP 0 vfCCD2001fyu096
+Touko: "......*sob*......it's haaard...it huuurts......"
+TP
+
+
+She continued weeping quietly until she fell asleep.
+TP
+
+
+Taichi: "......you are noisy......"
+TP
+
+
+Until Touko fell asleep, I couldn't sleep.
+TP
+
+
+Even so,
+TP
+
+
+I stretched out my hand and softly wiped the corners of her eyes.
+TP
+
+
+WVS 1 1
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 1
+
+When I woke up, Touko was sleeping on the floor.
+TP
+
+
+An expression of agony.
+TP
+
+
+WVP 0 vfCCD2001fyu097
+Touko: "......uuu......"
+TP
+
+
+I felt sorry for her.
+TP
+
+
+Maybe she had a bad dream or something.
+TP
+
+
+Anyway, I got changed and headed for school.
+TP
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+
+
+A gate to prevent running away.
+//CP_S ccd1001
+TP
+
+
+It didn't seem to be protecting the students so much as protecting the outside world from us.
+TP
+
+
+That's the impression it held.
+//CP_F Again, copied from my raw, so someone please make sure this matches the current versions of the lines from the edited scripts. Å`IX
+TP
+
+
+
+
+
+
+WVP 1 bgm002.ogg 0 0 0
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+Like a gangster from a previous era, I sat down in my chair and crossed my legs on top of my desk.
+TP
+
+
+My chair leaned back and forth.
+TP
+
+
+There's nothing to do. Absolutely nothing.
+TP
+
+
+GL 1 TCKT0000
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfCCD2001fyu098
+Touko: "Taichi......"
+TP
+
+
+Touko came, rather late.
+TP
+
+
+She was out of breath.
+TP
+
+
+Taichi: "Oh, you're late."
+TP
+
+
+GL 1 TCKT0001
+GI 1 0
+WVP 0 vfCCD2001fyu099
+Touko: "......I searched for you......everywhere......"
+TP
+
+
+Taichi: "I see, so that's why you're late."
+TP
+
+
+Taichi: "Laaate, laaate!"
+TP
+
+
+I mocked her, and her expression turned to anger.
+TP
+
+
+No, it'd probably have done that even if I hadn't.
+TP
+
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfCCD2001fyu100
+Touko: "Why did you go by yourself!? Why didn't you wake me up!?"
+TP
+
+
+Taichi: "Because you were sleeping."
+TP
+
+
+WVP 0 vfCCD2001fyu101
+Touko: "Wake me up!"
+TP
+
+
+Taichi: "......(thought)"
+TP
+
+
+Taichi: "Sorry, I wasn't being considerate enough."
+TP
+GO 1 1
+
+Touko fell to her knees.
+TP
+
+
+WVP 0 vfCCD2001fyu102
+Touko: "......I feel......like crying......"
+TP
+
+
+Taichi: "You're such a crybaby."
+TP
+
+
+Taichi: "More importantly, let's go and collect some food and eat it. I'm hungry."
+TP
+
+
+WVP 0 vfCCD2001fyu103
+Touko: "......haaa......"
+TP
+
+GL 0 bgcc0000a
+GS 0 1
+SEF 152 0
+
+We searched for various types of food after that.
+TP
+
+
+In nearby residences and stores.
+TP
+
+
+Seeking provisions.
+TP
+
+
+Touko looked sad the whole time.
+TP
+
+
+Since we avoided living things, all we had were packaged and dried foods.
+TP
+
+
+I also spent a lot of time explaining every last detail of instant food to Touko.
+TP
+
+
+Even so, by the time we were eating our cheap meal, we felt better.
+TP
+
+
+
+
+
+
+
+
+
+WVP 3 SE001 0 0
+
+GL 0 evcc0011s
+$CGevcc0011s = 1
+GS 0 1
+SEF 10 2
+
+WVP 0 vfCCD2001fyu218
+Touko: "......Kurosu...a lot of your friends are girls."
+TP
+
+
+Taichi: "Ha? What's your point?"
+TP
+
+
+WVP 0 vfCCD2001fyu219
+Touko: "Today, I passed by the club room and saw everyone making a commotion."
+TP
+
+
+Taichi: "Yeah, that happens."
+TP
+
+
+WVP 0 vfCCD2001fyu220
+Touko: "You're popular."
+TP
+
+
+We were just making noise as usual.
+TP
+
+
+Taichi: "......why are you getting bent out of shape?"
+TP
+
+
+WVP 0 vfCCD2001fyu221
+Touko: "I'm not bending!"
+TP
+
+
+She got mad.
+TP
+
+
+Taichi: "They are club members, so calling them my friends is a bit......weren't there guys there too?"
+TP
+
+
+WVP 0 vfCCD2001fyu222
+Touko: "I didn't see them......"
+TP
+
+
+Taichi: "There should've been a few. Still, if I really was popular with the ladies, don't you think I'd have at least one girlfriend?"
+TP
+
+
+WVS 1 1
+
+
+WVP 0 vfCCD2001fyu223
+Touko: "Yeah...you don't......"
+TP
+
+
+Taichi: "If I did, I wouldn't talk to Kirihara like this."
+TP
+
+
+WVP 0 vfCCD2001fyu224
+Touko: "........................eh?"
+TP
+WVS 3 1
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+My invasion was steadily progressing.
+TP
+
+
+
+
+GL 0 bgcc0010
+GS 0 1
+SEF 152 0
+
+I spent the afternoon in the club room.
+TP
+
+
+The breeze was nice, so it was more refreshing than the classroom.
+TP
+
+
+Taichi: "This brings back memories."
+TP
+
+GL 1 TCKT0000
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfccb0021fyu000
+Touko: "......eh?"
+TP
+
+
+Taichi: "Of how hard it was to get you to come and visit the club room."
+TP
+
+
+WVP 0 vfcca0002fyu011
+Touko: "............"
+TP
+
+
+
+
+WVP 3 SE001 0 0
+
+
+WVP 1 bgm015.ogg 0 0 0
+
+
+GL 0 bgcc0010s
+GS 0 1
+GS 1 0
+SEF 10 1
+She started coming to club activities once in a while.
+TP
+
+
+Taichi: "......yo, there you are."
+TP
+
+GL 1 TCKT0002s
+GI 1 1
+
+WVP 0 vfCCD2001fyu225
+Touko: "I just happened to be bored."
+TP
+
+
+Taichi: "So Kirihara comes when no one else is here."
+TP
+
+
+WVP 0 vfCCD2001fyu226
+Touko: "......that's a coincidence."
+TP
+
+
+Taichi: "Well, sit. I'll bring out the cheap coffee."
+TP
+GL 1 TCKT0006s
+GI 1 0
+
+WVP 0 vfCCD2001fyu227
+Touko: "......okay."
+TP
+
+
+
+........................
+TP
+
+
+
+It was an experiment.
+TP
+
+
+How far could a human like me go in the normal world by acting sociable?
+TP
+
+
+How much could I deceive them?
+TP
+
+
+Based on the results, I might decide how I'll live.
+TP
+
+
+Could I blend in?
+TP
+
+
+By imitating the pity form called a 'bond?'
+TP
+
+
+Is life possible?
+TP
+
+
+To do that, one needs a certain degree of power to control people's wills.
+TP
+
+
+Because I'm an oddity.
+TP
+
+
+I can't not be feared.
+TP
+
+
+My foulness can't not be of concern.
+TP
+
+
+The ugliness at my foundation directly connected to the image of a witch.
+TP
+
+
+The cause......probably some story I heard when I was a kid.
+TP
+
+
+From what I read in books, witch hunting has historically been quite severe, and that might be due to the idea that ÅwWitches really are evil people.Åx
+TP
+
+
+I could imagine white hair holding magical properties.
+TP
+
+
+Same goes for the sparkles in these eyes.
+TP
+
+
+There's no limit of things to worry about.
+TP
+
+
+Taichi: "Here's yours, Touko."
+TP
+
+
+I handed her a cup of coffee.
+TP
+
+
+It might be cheap, but there's still a certain trick to getting Blue Mountain Tea to come out right.
+TP
+
+GL 1 TCKT0002s
+GI 1 0
+
+WVP 0 vfCCD2001fyu228
+Touko: "......hey."
+TP
+
+
+Taichi: "Nn?"
+TP
+
+GL 1 TCKT0006s
+GI 1 0
+
+WVP 0 vfCCD2001fyu229
+Touko: "I'll call you Taichi."
+TP
+
+
+I was a little surprised.
+TP
+
+
+That was the first time I'd felt Touko deviate from my understanding of her.
+TP
+
+
+Taichi: "......sure, but that's a bit sudden."
+TP
+
+GL 1 TCKT0002s
+GI 1 0
+
+WVP 0 vfCCD2001fyu230
+Touko: "But you keep calling me 'Touko, Touko.' That's unfair."
+TP
+
+
+GL 1 TCKT0001s
+GI 1 0
+
+WVP 0 vfCCD2001fyu231
+Touko: "So this is payback."
+TP
+
+
+She smiled brightly.
+TP
+
+
+Taichi: "......feel free to."
+TP
+
+
+I tried forcing a smile.
+TP
+WVS 3 1
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+........................
+TP
+
+
+
+
+WVP 3 SE001 0 0
+GL 0 bgcc0010s
+GS 0 1
+SEF 10 1
+Taichi: "What's this?"
+TP
+
+GL 1 TCKT0002s
+GI 1 1
+
+WVP 0 vfCCD2001fyu232
+Touko: "......I-I made......a bentou."
+TP
+
+
+Taichi: "Whoa, you were able to make something this plebeian."
+//Since "commoner-ish/like/esque" just won't sound right here, I fell back on a semi-obscure synonym. Å`IX
+//This is a 6th grade vocab word, so it's fine and shouldn't be changed. -Neko
+TP
+
+GL 1 TCKT0005s
+GI 1 0
+
+WVP 0 vfCCD2001fyu233
+Touko: "Of course. I happen to be good at cooking."
+TP
+
+
+Taichi: "Isn't there a bit too much in here?"
+TP
+GL 1 TCKT0002s
+GI 1 0
+
+WVP 0 vfCCD2001fyu234
+Touko: "......that's true......I made too much......so, Taichi, you have special permission to partake."
+TP
+
+
+Taichi: "Ah, I see......"
+TP
+
+
+I'd had enough of that.
+TP
+
+GL 1 TCKT0006s
+GI 1 0
+
+WVP 0 vfCCD2001fyu235
+Touko: "......is it good?"
+TP
+
+
+Taichi: "Yes, it's truly delicious."
+TP
+
+GL 1 TCKT0006s
+GI 1 0
+
+WVP 0 vfCCD2001fyu236
+Touko: "H-how is......that omelette?"
+TP
+
+
+Taichi: "Somehow, this one seems strangely off......even though everything else is fine..."
+TP
+
+GL 1 TCKT0002s
+GI 1 0
+
+WVP 0 vfCCD2001fyu237
+Touko: "Uu......"
+TP
+
+
+I see.
+TP
+
+
+I sensed the truth from her reaction and chose an appropriate action.
+//Damn accidental rhymes looking like I put them in intentionally. Å`IX
+//Could use 'an appropriate response' just to be safe. It wouldn't be wrong. Added 'an' to make this grammatically correct none the less. -Neko
+TP
+
+
+Taichi: "Nn......aaah, but this one's the best of all."
+TP
+
+GL 1 TCKT0006s
+GI 1 0
+
+WVP 0 vfCCD2001fyu238
+Touko: "Really!?"
+TP
+
+
+Taichi: "Yeah. It really is delicious."
+TP
+
+
+Taichi: "Somehow, it feels like it has feelings put into it. Yes, tasty, tasty."
+TP
+
+
+Actually, it was the worst.
+TP
+
+
+Just as it looked.
+TP
+
+
+
+I politely repeated those days.
+TP
+
+
+WVS 1 1
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+........................
+TP
+
+
+
+WT 500
+WT 500 1
+
+GL 0 bgcc0010a
+GS 0 1
+SEF 152 0
+
+
+WVP 1 bgm003.ogg 0 0 0
+
+
+Half a day passed by.
+TP
+
+
+Casual time.
+TP
+
+
+Unaltruistic time.
+//Wow, I never get to tl this word literally. Å`IX
+TP
+
+
+Is that what 'priceless' means?
+TP
+
+
+No.
+TP
+
+
+Someday I'll think back on the time I spent fooling around with Touko in this school.
+TP
+
+GL 1 TCKT0006b
+GI 1 1
+
+WVP 0 vfCCD2001fyu104
+Touko: "Hey, come home with me......didn't you promise?"
+TP
+
+
+She said that when I started walking down the stairs to go home.
+TP
+
+
+Taichi: "Aaah, it's fine, it's fine."
+TP
+
+
+GL 0 bgcc0011a
+GS 0 1
+SEF 152 0
+The car had a spot on it.
+TP
+
+
+Taichi: "Kukuku."
+TP
+
+
+Today, I shall take the principal's Ferrari.
+TP
+
+
+I swiped the key from the principal's office.
+TP
+
+
+It's true that I have no driving skill.
+TP
+
+
+But, in place of that I can make an overabundance of effort.
+TP
+
+
+Through the days of this ever repeating week, I've touched cars countless times and mastered them.
+TP
+
+
+Those skills were now formulaic (?) indeed.
+//Might be a reference to F1. Å`IX
+//I agree - Sheeta
+TP
+
+
+
+*vroom* *vroom* *vroom!*
+TP
+
+
+
+Taichi: "Now, let's go."
+TP
+
+GL 1 TCKT0006b
+GI 1 1
+
+WVP 0 vfCCD2001fyu105
+Touko: "You're like a race car driver, hu."
+TP
+
+
+She got into the passenger seat.
+TP
+
+
+Taichi: "Please fasten your seat belt."
+TP
+
+
+WVP 0 vfCCD2001fyu106
+Touko: "......okay...there we go......"
+TP
+
+
+Taichi: "Then we're off!"
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+
+........................
+TP
+
+WT 500 0
+WT 500 1
+
+
+GL 0 bgcc0005a
+GS 0 1
+SEF 152 1
+WVP 0 vfCCD2001fyu107
+Touko: "......from now on......I'm not driving with Taichi......"
+TP
+
+
+Taichi: "Agreed."
+TP
+
+
+It didn't really go that well.
+TP
+
+
+Once again, I'd badly damaged the Ferrari.
+TP
+
+
+Taichi: "That thing's hard to drive. It shakes right away when I turn the wheel, and the clutch is so heavy I can't change gears......on top of that when I decelerate and shift down it lurches......is it a defective vehicle?"
+TP
+
+
+Do I......have no skill whatsoever?
+TP
+
+
+For now we had no choice but to throw it away after use.
+TP
+
+
+We headed to Touko's mansion.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+
+........................
+TP
+GL 0 bgcc0019a
+GS 0 1
+SEF 152 0
+
+GL 1 TCKT0005b
+GI 1 1
+
+WVP 0 vfccb2005fyu006
+Touko: "I was wondering, 'What should I bring?' and searched all over the place."
+//CP_S ccb2005
+TP
+
+
+GL 1 TCKT0006b
+GI 1 0
+WVP 0 vfccb2005fyu007
+Touko: "And I found these old pictures."
+//Matches following context. ~Bal
+TP
+
+
+She said happily.
+//CP_F
+TP
+
+GL 1 TCKT0005b
+GI 1 0
+
+WVP 0 vfccb2005fyu009
+Touko: "Good thing we didn't throw them away......I think I'll put them up on a wall."
+//CP
+TP
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfccb2005fyu010
+Touko: "There are enough to completely cover one."
+TP
+
+
+Taichi: "Ooohhh."
+//CP_F
+TP
+
+GL 1 TCKT0006b
+GI 1 0
+
+WVP 0 vfccb2005fyu011
+Touko: "Huhu!"
+//CP_S
+TP
+
+
+She folded her arms around mine.
+//CP_F
+TP
+
+
+I took an item out of my tool bag and equipped it.
+//PCP
+TP
+
+
+Taichi: "Look at this, Kirihara."
+//CP_S
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfccb2005fyu012
+Touko: "An armband?"
+TP
+
+
+The noblewoman strained her eyes.
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+
+WVP 0 vfccb2005fyu013
+Touko: "......I oppose......stupid couples......"
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+
+
+WVP 0 vfccb2005fyu014
+Touko: "I oppose stupid couples."
+TP
+
+
+Touko deciphered the words.
+TP
+
+
+Taichi: "That's right. From my position, I see the grave influence that stupid couples exert on their surroundings, and make every effort to control their firmly unregulated attitude."
+TP
+
+
+Taichi: "Unfold your arms."
+TP
+
+
+I shook her off.
+TP
+GL 1 TCKT0002b
+GI 1 0
+
+WVP 0 vfccb2005fyu015
+Touko: "Not that this is unusual......but I don't understand what you're saying."
+TP
+
+
+Taichi: "Refrain from public displays of senseless affection."
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfccb2005fyu016
+Touko: "But...there aren't any people......"
+TP
+
+
+Taichi: "There are a few."
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+
+WVP 0 vfccb2005fyu017
+Touko: "Uuu."
+TP
+
+
+She was unsatisfied.
+TP
+
+
+Taichi: "Kirihara, you're good as a reverse competitive girl."
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfccb2005fyu018
+Touko: "Haa?"
+TP
+
+
+Taichi: "But you're going way too far with the sweetness! You have too much juice! Go on with a more thoroughly competitive spirit! Carefully select times to be embarrassed. That's far more moe......and it's for your sake as well, Kirihara."
+TP
+GL 1 TCKT0001b
+GI 1 0
+
+WVP 0 vfccb2005fyu019
+Touko: "Ha? Haa......"
+TP
+
+
+Taichi: "You're the sort of girl who's like a precious jewel."
+//CP_F
+TP
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfccb2005fyu020
+Touko: "Eh?! (heartbeat)"
+//CP_S
+TP
+
+
+Taichi: "That sparkle surpasses the diamond......yet it is sad, for diamonds are carbon to be burned up in flames. Goddamn! I fully understand how foolish it is to hold one's hard-earned wealth in diamonds."
+//CP_F
+TP
+
+
+WVP 0 vfccb2005fyu021
+Touko: "???"
+//CP_S
+TP
+
+
+Taichi: "You have good and bad points. Please understand that, my wonderful maiden."
+TP
+GL 1 TCKT0005b
+GI 1 0
+
+WVP 0 vfccb2005fyu022
+Touko: "I don't really understand...but I get it."
+TP
+
+
+Taichi: "So now you know?"
+TP
+GL 1 TCKT0006b
+GI 1 0
+
+WVP 0 vfccb2005fyu023
+Touko: "......Taichi, it's embarrassing to be clingy in front of people."
+//CP_F
+TP
+
+
+WVS 1 0
+
+
+Taichi: "Ei!"
+TP
+
+
+I lowered her panties.
+TP
+
+
+
+WVP 1 bgm011.ogg 0 0 0
+
+
+GL 4 sgcc0012
+$CGsgcc0012 = 1
+GL 5 bgcc0000e
+GI 5 0
+WVP 2 SE106 1 0
+GS 4 1
+GS 1 0
+GS 5 0
+SEF 109 0
+
+WVP 0 vfCCD2001fyu108
+Touko: "Fugiii!"
+TP
+
+
+Taichi: "Fugiii."
+TP
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 4 0
+SEF 109 0
+
+WT 500 0
+WT 500 1
+
+
+
+GL 0 bgcc0002a
+GS 0 1
+SEF 152 0
+
+
+On the way home we used the Kiriharas' RV.
+TP
+
+
+And got in an accident on the way.
+TP
+
+
+Only a few hundred meters away from my house.
+TP
+
+
+Fortunately, I already had a key to one of the cars parked nearby.
+TP
+
+GL 1 TCKT0004
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfCCD2001fyu109
+Touko: "......somehow......you're well-prepared......"
+TP
+
+
+Taichi: "This isn't what I'd planned."
+TP
+
+WVS 1 1
+
+
+
+WT 1000
+WT 1000 1
+
+
+
+
+WVP 1 bgm012.ogg 0 0 0
+
+
+GL 0 bgcc0003e
+GS 0 1
+GS 1 0
+SEF 152 0
+Taichi: "Aaah!! I'm exhausted!!"
+//CP_S ccb2009
+TP
+
+
+GL 1 TCKT0000c
+GI 1 1
+
+WVP 0 vfccb2009fyu000
+Touko: "......thank you for doing all that."
+//CP_F
+TP
+
+
+Taichi: "No problem."
+TP
+
+
+GL 1 TCKT0006c
+GI 1 0
+WVP 0 vfCCD2001fyu110
+Touko: "Can we take a bath together?"
+TP
+
+
+Taichi: "If there's no sex."
+TP
+
+
+GL 1 TCKT0000c
+GI 1 0
+
+Touko: "......"
+TP
+
+
+She was expressionless, but what sort of emotions were swirling underneath...?
+TP
+
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfCCD2001fyu112
+Touko: "I'll go in first."
+TP
+
+Taichi: "Seeee youuu laaater."
+TP
+GO 1 1
+
+
+Now then,
+TP
+
+
+I searched her belongings.
+TP
+
+
+Harakiri Blade discovered.
+TP
+
+
+GL 0 bgcc0002c
+GS 0 1
+GS 1 0
+SEF 152 0
+I went out to the garden.
+TP
+
+
+I broke it.
+//Oh shit! ~Bal
+TP
+
+
+In its place I put a carnation.
+TP
+
+
+Flowers are a symbol of peace after all.
+TP
+
+
+
+GL 0 bgcc0003e
+GS 0 1
+SEF 152 0
+
+
+
+GL 1 TCKT0000c
+GI 1 1
+WVP 0 vfCCD2001fyu113
+Touko: "......refreshing..."
+TP
+
+
+Taichi: "Yep, you're refreshed."
+TP
+
+GL 1 TCKT0006c
+GI 1 0
+WVP 0 vfCCD2001fyu114
+Touko: "I feel incredibly clean right now, but......hey?"
+TP
+
+
+Taichi: "Here it comes."
+TP
+
+
+A straighter approach than yesterday.
+TP
+
+
+That's why people with stupid couple skills......
+TP
+
+
+WVP 0 vfCCD2001fyu115
+Touko: "Hey...you really can't hold it in any longer, right? Taichi, you're perverted after all."
+TP
+
+
+Taichi: "I just happened to become impotent."
+TP
+
+
+GL 1 TCKT0001c
+GI 1 0
+
+Touko: "............"
+TP
+
+
+Taichi: "Impotence is a German word. Weren't we taught that? 'Impo' is too direct, so why not shorten it to 'poten?'"
+TP
+
+
+Touko: "........................"
+TP
+
+GL 1 TCKT0006c
+GI 1 0
+
+WVP 0 vfCCD2001fyu117
+Touko: "Do you hate me?"
+TP
+
+
+Taichi: "I love you to pieces."
+TP
+
+GL 1 TCKT0003c
+GI 1 0
+
+WVP 0 vfCCD2001fyu118
+Touko: "Then why!?"
+TP
+
+
+Taichi: "Because I love you."
+TP
+
+GL 1 TCKT0004c
+GI 1 0
+
+WVP 0 vfCCD2001fyu119
+Touko: "???"
+TP
+
+
+By which I mean, putting my hands on you won't accomplish anything anyway.
+TP
+
+
+There's a need to continue holding myself back.
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfCCD2001fyu120
+Touko: "......fine. I'll wash and go to bed."
+//I haven't seen this usage of "wash up" in forever, so please tell me if I got it right. Actually, even if I did, please suggest other ways to say it. There might be one that works better with the gag five lines below. Å`IX
+//I got rid of the 'up' part. Hopefully it works better now - Sheeta
+TP
+
+
+Wash? Does that involve her skin?
+TP
+
+
+My interest was pulled.
+TP
+
+
+Taichi: "That side of you truly is a girl!"
+TP
+
+
+Taichi: "Take care of your girlishness---"
+TP
+
+
+She was washing her sword.
+//I thought she is going to wash her sword - Raide
+TP
+
+
+Taichi: "......or not."
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfCCD2001fyu121
+Touko: "Now,"
+TP
+
+
+My deep and silent denouncement hadn't reached her.
+TP
+
+
+*slide*
+TP
+
+
+Her favorite blade peeked out from the scabbard.
+TP
+
+
+
+A carnation.
+TP
+GL 1 TCKT0004c
+GI 1 0
+
+
+WVP 0 vfCCD2001fyu122
+Touko: "My soul---------!!??"
+SEF 101 0
+TP
+
+
+*shake* *shake* *shake* *shake!!!*
+TP
+
+
+She convulsed.
+TP
+GO 1 1
+
+WVP 0 vfCCD2001fyu123
+Touko: "Aau, aau, aau, aau!!!"
+TP
+
+
+Something came out of her mouth.
+*Something = Ectoplasm
+TP
+
+
+Taichi: "Not good!"
+TP
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfCCD2001fyu124
+Touko: "Nnnnnnnnnnnnn!!?"
+TP
+
+
+She pushed it back in.
+//Not really sure about this one. Å`IX
+TP
+
+GL 1 TCKT0001c
+GI 1 0
+
+
+
+WVP 0 vfCCD2001fyu125
+Touko: "......haa, haa, haa."
+TP
+
+
+She came back to her senses.
+TP
+
+GL 1 TCKT0003c
+GI 1 0
+
+
+WVP 0 vfCCD2001fyu126
+Touko: "Hey, what's the meaning of this!!?"
+TP
+
+
+Taichi: "Possession of bladed weapons is prohibited, you idiot!!"
+TP
+
+
+WVP 0 vfCCD2001fyu127
+Touko: "Aren't you the idiot! Didn't you know that this blade is a part of my soul, you ruffian!!?"
+TP
+
+
+Taichi: "Yes, I did it knowingly."
+TP
+
+
+I spat out.
+TP
+
+
+Taichi: "You need no weapon!"
+TP
+GL 1 TCKT0004c
+GI 1 0
+
+WVP 0 vfCCD2001fyu128
+Touko: "Uu......uuuuu......my sword......"
+TP
+
+
+Taichi: "Make sure you don't get a new one."
+TP
+
+
+GO 1 1
+
+Touko slept timidly.
+TP
+
+
+
+WVS 1 1
+
+
+But,
+TP
+
+
+But---
+TP
+
+
+
+WVP 3 SE001 0 0
+
+
+WVP 1 bgm013.ogg 0 0 0
+
+
+GL 0 bgcc0010s
+GS 0 1
+GS 1 0
+SEF 10 1
+
+
+GL 1 TCKT0001s
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfCCD2001fyu239
+Touko: "Hey......I want to visit Taichi's house."
+TP
+
+
+Taichi: "Fine by me."
+TP
+GL 1 TCKT0000s
+GI 1 0
+
+WVP 0 vfCCD2001fyu240
+Touko: "......what about your family?"
+TP
+
+
+Taichi: "My mother lives in an apartment near her job and only comes home once in a while."
+//I'm assuming 'she' = his mother. If I'm wrong, please revert it ^^ - Sheeta
+//Having 'she' here would be redundant since the subject is identified. Leave Sheeta's correction. -Neko
+TP
+
+
+Taichi: "I'm pretty much alone."
+TP
+
+GL 1 TCKT0002s
+GI 1 0
+WVP 0 vfCCD2001fyu241
+Touko: "......oh...I see......then, maybe I'll come over."
+TP
+
+
+The time had come.
+TP
+
+
+For evidence.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+
+........................
+TP
+
+
+
+
+WVP 0 vfCCD2001fyu242
+Touko: "Taichi......it's...my first time......so......be gentle......"
+TP
+
+
+Taichi: "Yeah, I know."
+TP
+
+
+WVP 0 vfCCD2001fyu243
+Touko: "......I......love you......"
+TP
+
+
+Taichi: "Yeah, I know---"
+TP
+
+
+Because I induced you to.
+TP
+
+
+With the conviction that I could do well in the world.
+TP
+
+
+I embraced Touko, along with relief.
+TP
+
+
+WVP 0 vfCCD2001fyu244
+Touko: "......ah......aaaaah!......"
+TP
+WVS 3 1
+
+
+The experiment was a success.
+TP
+
+
+That's what I thought.
+TP
+
+
+I'd forgotten.
+TP
+
+
+That both Touko and I held uncontrollable selves.
+TP
+
+
+Guiding us to break down with the epitome of decadence.
+TP
+
+WVP 3 SE001 0 0
+
+GL 0 bgcc0003s
+GS 0 1
+SEF 109 1
+Taichi: "......how do you usually do it with yourself?"
+TP
+
+
+WVP 0 vfCCD2001fyu245
+Touko: "Eh?......I don't......"
+TP
+
+
+Taichi: "You do. Touko does do it. I know."
+TP
+
+
+WVP 0 vfCCD2001fyu246
+Touko: "I don't do that......"
+TP
+
+
+Taichi: "Show me, using my fingers."
+TP
+
+
+WVP 0 vfCCD2001fyu247
+Touko: "Sh-show you what?"
+TP
+
+
+Taichi: "Masturbation. Show me what you look like when you cum."
+TP
+
+
+WVP 0 vfCCD2001fyu248
+Touko: "............o-okay......"
+TP
+
+
+WVP 0 vfCCD2001fyu249
+Touko: "Like this......nn......Taichi's fingers...they're long......"
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+........................
+TP
+GL 0 bgcc0003s
+GS 0 1
+SEF 109 0
+
+WVP 0 vfCCD2001fyu250
+Touko: "Today......what should I do?"
+TP
+
+
+Taichi: "Good question. First, squeeze it with your hands."
+TP
+
+
+WVP 0 vfCCD2001fyu251
+Touko: "......nn."
+TP
+
+
+Taichi: "How is it?"
+TP
+
+
+WVP 0 vfCCD2001fyu252
+Touko: "Hot......"
+TP
+
+
+Taichi: "Because the blood's gathering there."
+TP
+
+
+Taichi: "You can do it rougher."
+TP
+
+
+WVP 0 vfCCD2001fyu253
+Touko: "......ah......aaah......"
+TP
+
+
+Taichi: "Hold it like this, and your grip strength---"
+TP
+
+
+I taught her every little thing.
+TP
+
+
+I wanted to defile her.
+TP
+
+
+Because a girl's shame stimulates my instincts.
+TP
+
+
+I wanted to see it directly.
+TP
+
+
+That's why I carved into her.
+TP
+
+
+Taichi: "......I'm going to cum. Hold out your palm."
+TP
+
+
+WVP 0 vfCCD2001fyu254
+Touko: "......eh? Like this?"
+TP
+
+
+Taichi: "Yeah."
+TP
+
+
+WVP 0 vfCCD2001fyu255
+Touko: "Kya......no......it's......a lot of it...is coming out......"
+TP
+
+
+Taichi: "Try licking it."
+TP
+
+
+WVP 0 vfCCD2001fyu256
+Touko: "......licking this?"
+TP
+
+
+Taichi: "Yes."
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+........................
+TP
+GL 0 bgcc0007s
+GS 0 1
+SEF 109 0
+
+
+WVP 0 vfCCD2001fyu257
+Touko: "Aan, aaah!......Aaaaah!......Nnah!......No, someone might come!......"
+TP
+
+
+Taichi: "I don't care."
+TP
+
+
+WVP 0 vfCCD2001fyu258
+Touko: "Uuuu!......Ah! Aaaah......kyan!"
+TP
+
+
+WVP 0 vfCCD2001fyu259
+Touko: "......ah! Nn! Taichi......Taichiii......"
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+........................
+TP
+
+
+
+
+
+
+
+
+
+WVS 1 0
+
+
+The change came suddenly.
+TP
+
+GL 0 bgcc0006s
+GL 1 TCKT0001s
+GP 1 220 0
+GS 0 1
+GS 1 1
+SEF 109 0
+
+WVP 0 vfCCD2001fyu260
+Touko: "......stop talking to Miyasumi-sempai."
+TP
+
+
+WVP 1 bgm014.ogg 0 0 0
+
+
+Taichi: "Why?"
+TP
+
+
+I narrowed my eyes and conjectured.
+TP
+
+
+Taichi: "We're not doing anything we shouldn't be."
+TP
+GL 1 TCKT0006s
+GI 1 0
+
+WVP 0 vfCCD2001fyu261
+Touko: "I don't like it. Stop it. And stay near me."
+TP
+
+
+Taichi: "......aren't I near you right now?"
+TP
+
+
+WVP 0 vfCCD2001fyu262
+Touko: "More......"
+TP
+
+
+Taichi: "More......?"
+TP
+
+
+Taichi: "In the first place, I'm in the club so conversations with Sempai are......"
+TP
+GL 1 TCKT0001s
+GI 1 0
+
+WVP 0 vfCCD2001fyu263
+Touko: "Drop the club."
+TP
+
+
+Taichi: "You're being unreasonable."
+TP
+GL 1 TCKT0005s
+GI 1 0
+
+WVP 0 vfCCD2001fyu264
+Touko: "Miyasumi-sempai...she's in the way......"
+TP
+
+
+Taichi: "Touko?"
+TP
+
+
+Dangerous.
+TP
+
+
+WVP 0 vfCCD2001fyu265
+Touko: "Maybe she should just go away."
+TP
+
+
+That's dangerous.
+TP
+
+
+Taichi: "Hey, keep it together."
+TP
+GL 1 TCKT0000s
+GI 1 0
+
+WVP 0 vfCCD2001fyu266
+Touko: "......eh?"
+TP
+
+
+She came back to her senses.
+TP
+
+
+Taichi: "Maintain yourself properly. You felt weird just now."
+TP
+GL 1 TCKT0002s
+GI 1 0
+
+WVP 0 vfCCD2001fyu267
+Touko: "Aaah, I'm sorry......"
+TP
+GL 1 TCKT0006s
+GI 1 0
+
+WVP 0 vfCCD2001fyu268
+Touko: "Huhu......hey, is there anything else you want to do?"
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 10 0
+
+That was the beginning of an inclination.
+TP
+
+
+WVS 1 1
+
+
+
+WVS 3 1
+
+
+
+
+WT 500 0
+WT 500 1
+
+
+
+
+
+
+
+
+
+WVP 1 bgm005.ogg 0 0 0
+
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+A fun walk to school.
+//CP_S ccb2010
+TP
+
+
+And yet,
+TP
+
+
+Touko was sullen the whole way there.
+TP
+
+
+Taichi: "......"
+TP
+
+GL 1 TCKT0002
+GP 1 220 0
+GI 1 1
+
+Touko: "......"
+TP
+
+
+Taichi: "............"
+TP
+
+
+Touko: "............"
+TP
+
+
+Taichi: "Hey."
+TP
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfccb2010fyu002
+Touko: "......hmph."
+TP
+
+
+She'd put up a barrier.
+TP
+
+
+Taichi: "Hmmm."
+TP
+
+
+She'd been this way all morning.
+//CP_F
+TP
+
+
+Taichi: "Heeey."
+//CP_S
+TP
+
+
+Touko: "......"
+TP
+
+
+It's hopeless.
+TP
+
+
+Touko rushed ahead of me.
+TP
+
+
+I closed in on her.
+TP
+
+
+And lined up next to her.
+TP
+
+
+The proud and haughty Touko didn't look at me at all.
+//CP_F
+TP
+
+
+I extended one hand and tried gripping her breast.
+//CP_S
+TP
+GL 1 TCKT0004
+GI 1 0
+
+WVP 0 vfccb2010fyu004
+Touko: "Ii!?"
+TP
+
+
+Taichi: "You don't have any boobs at all!"
+TP
+
+
+GL 4 sgcc0012
+$CGsgcc0012 = 1
+GL 5 bgcc0000e
+GI 5 0
+WVP 2 SE105 1 0
+GS 4 1
+GS 5 0
+SEF 109 0
+
+
+WVP 0 vfccb2010fyu005
+Touko: "Sileeeeence!!!"
+TP
+
+
+Taichi: "Ojou-samaaaaaa!!!"
+//CP_F
+TP
+
+
+WVS 1 1
+
+
+
+
+
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+GS 4 0
+SEF 152 0
+
+
+
+WVP 1 bgm018.ogg 0 0 0
+
+
+The gate had been left open.
+//CP_S
+TP
+
+
+As if waiting to let me inside.
+TP
+
+
+I used to think of this place as a prison.
+TP
+
+
+But right now, it was a reassuring place, like a womb.
+TP
+
+
+There aren't any people.
+TP
+
+
+None, nowhere.
+TP
+
+
+Only at school, only at Gunjou Institute, could we naturally gather together and see one another.
+TP
+
+
+We were pulled in and made to carry on the past.
+TP
+
+
+Actually, this annihilation of humanity is quite harsh.
+TP
+
+
+I think it was the final straw for most humans.
+TP
+
+
+It was good news for me, but for them it was a disheartening and lax death.
+TP
+
+
+And Touko had no choice but to come to my house.
+TP
+
+
+It's ironic.
+//CP_F
+TP
+
+
+
+
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+WT 500 0
+
+GL 0 evcc0011
+$CGevcc0011 = 1
+GS 0 1
+SEF 152 0
+
+
+
+Sure enough, Touko was right there.
+//CP_S
+TP
+
+
+Taichi: "You got here fast."
+TP
+
+
+WVP 0 vfcca0004fyu001
+Touko: "......"
+TP
+
+
+Taichi: "And yet you're in casual wear again?"
+TP
+
+
+Taichi: "I'm impressed you can wear something so warm."
+TP
+
+
+Ignore.
+TP
+
+
+Taichi: "Hey, hey."
+TP
+
+
+I shrugged my shoulders and sat down in my seat......right next to Touko's.
+TP
+
+
+I stared at her profile.
+TP
+
+
+She appeared to take no notice of me, but I knew she was paying attention to me.
+TP
+
+
+Taichi: "Sorry about last night."
+//CP_F
+TP
+
+
+WVP 0 vfCCD2001fyu129
+Touko: "......you're not reflecting on it at all......"
+TP
+
+
+Taichi: "Weeell..."
+TP
+
+
+WVP 0 vfccb2010fyu014
+Touko: "......Taichi's always like that."
+//CP_S
+TP
+
+
+WVP 0 vfccb2010fyu015
+Touko: "As if you can't even see me."
+TP
+
+
+WVP 0 vfccb2010fyu016
+Touko: "Always running off......acting on your own."
+TP
+
+
+Taichi: "You're right. I'm reflecting on that."
+TP
+
+
+WVP 0 vfccb2010fyu017
+Touko: "I just want you to care about me a little more."
+TP
+
+
+Taichi: "I thought you'd say that......so I came prepared."
+TP
+
+
+WVP 0 vfccb2010fyu018
+Touko: "Prepared?"
+TP
+
+
+
+
+WVS 1 0
+
+
+
+Croquette bread landed on the top of Touko's desk.
+TP
+
+
+Taichi: "Now, satisfy your hunger!"
+TP
+
+
+WVP 0 vfccb2010fyu019
+Touko: "That's not it!!"
+TP
+
+
+WVP 2 SE077 1 0
+
+*growlll*...
+TP
+
+
+
+However, Touko's stomach growled.
+TP
+
+
+WVP 0 vfccb2010fyu020
+Touko: "Hafu!!?"
+TP
+
+
+Taichi: "Your stomach bug."
+TP
+
+
+WVP 0 vfccb2010fyu021
+Touko: "Th-this is different!"
+TP
+
+
+WVP 2 SE077 1 0
+
+*growl* *growlll*...
+TP
+
+
+
+Her stomach bug.
+TP
+
+
+Taichi: "Your stomach bug again."
+TP
+
+
+WVP 0 vfccb2010fyu022
+Touko: "I'm telling you this is a different issue!"
+TP
+
+
+Taichi: "There's no point in hiding it. I can talk to stomach bugs, you know?"
+TP
+
+
+WVP 0 vfccb2010fyu023
+Touko: "............uh, what?"
+TP
+
+
+Taichi: "Anyway, you're hungry."
+TP
+
+
+Taichi: "And so am I, by the way."
+TP
+
+
+Taichi: "So, our first period class will be croquette bread."
+TP
+
+
+I tore open a package and dug into the first one.
+TP
+
+
+Thankfully, they hadn't spoiled.
+TP
+
+
+Taichi: "And this will also be our time to make up."
+TP
+
+
+Taichi: "......I guess that'd be ethics."
+TP
+
+
+Touko was amazed.
+//CP_F
+TP
+
+
+
+
+
+WVP 1 bgm021.ogg 0 0 0
+
+
+
+WVP 0 vfCCD2001fyu130
+Touko: "......hey, Taichi."
+TP
+
+
+Taichi: "Nnmu?"
+TP
+
+
+WVP 0 vfCCD2001fyu131
+Touko: "......Taichi...do you need me?"
+TP
+
+
+Taichi: "Of course I do."
+TP
+
+
+WVP 0 vfCCD2001fyu132
+Touko: "......then......why won't you touch me?"
+TP
+
+
+WVP 0 vfCCD2001fyu133
+Touko: "It's not like......but I already said I don't want you to......isn't that part of living together?"
+TP
+
+
+Taichi: "......I don't want to degenerate."
+TP
+
+
+I bit into the bread.
+TP
+
+
+Taichi: "I don't want to let go of my tense rationality."
+TP
+
+
+WVP 0 vfCCD2001fyu134
+Touko: "......rationality......"
+TP
+
+
+Taichi: "Do you have the confidence to maintain yourself?"
+TP
+
+
+Within this situation.
+TP
+
+
+WVP 0 vfCCD2001fyu135
+Touko: "......I don't have to maintain myself."
+TP
+
+
+Taichi: "You haven't forgotten what you did back then, right?"
+TP
+
+
+WVP 0 vfCCD2001fyu136
+Touko: "That was Taichi's......"
+TP
+
+
+Taichi: "Regardless of whatever I did, that wasn't something you'd normally do."
+TP
+
+
+Touko: "......"
+TP
+
+
+Taichi: "I do love you Touko."
+TP
+
+
+WVP 0 vfCCD2001fyu138
+Touko: "Then......"
+TP
+
+
+Taichi: "But I love the normal Touko."
+TP
+
+
+Taichi: "The Touko that fights the world with her cold shoulder."
+//Always fun to adapt these usages of "tsun" Å`IX
+TP
+
+
+Taichi: "And I'm not an escape route for Touko."
+TP
+
+
+Taichi: "Which is why that can't be love."
+TP
+
+
+Even if I don't really mind,
+TP
+
+
+Touko will eventually have to live on her own.
+TP
+
+
+That's why she needs the strength to fight.
+TP
+
+
+WVP 0 vfCCD2001fyu139
+Touko: "That's why......I waved......"
+TP
+
+
+Taichi: "Well..."
+TP
+
+
+Taichi: "I'm not good at depending on people or being depended on by people."
+TP
+
+
+Taichi: "That's why I don't want Touko to drown."
+TP
+
+
+Taichi: "But because I love you, I'll help make sure you can't break."
+TP
+
+
+Taichi: "That's how simple this really is."
+TP
+
+
+Touko: "............"
+TP
+
+
+She silently chewed her bread.
+TP
+
+
+WVP 0 vfccb2010fyu057
+Touko: ......*sob*
+TP
+
+
+She was moved to tears.
+TP
+
+
+WVP 0 vfCCD2001fyu141
+Touko: "*hic*......uku!......Uu, uuuuuuu......"
+TP
+
+
+In order to grow her wings...
+//imo, the metaphor works in English, but I'm not sure if that's just me thinking too Japanesey again. Å`IX
+TP
+
+
+WVS 1 1
+
+
+
+
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+I went to the bathroom.
+TP
+
+
+Taichi: *sigh*
+TP
+
+
+WVP 1 bgm006.ogg 0 0 0
+
+
+WVP 0 vfCCD2001you000
+Youko: "......Taichi."
+TP
+
+
+There she is.
+TP
+GL 0 evcc0009
+$CGevcc0009 = 1
+GS 0 1
+SEF 155 0
+
+WVP 0 vfCCD2001you001
+Youko: "I oppose stupid couples."
+//How in god's name do I not remember a line this awesome? I really was overzealous with ctrl... Å`IX
+TP
+
+
+Taichi: "Eh......?"
+TP
+
+
+WVP 0 vfCCD2001you002
+Youko: "I oppose stupid couples too. Just like Taichi."
+TP
+
+
+Taichi: "......ah, I see."
+TP
+
+
+She looked expressionless, but there was resolve in her eyes.
+TP
+
+
+Taichi: "I understand what you're trying to say."
+TP
+
+
+Taichi: "So, was that all you came here for?"
+TP
+
+
+WVP 0 vfCCD2001you003
+Youko: "......yes."
+TP
+
+
+Taichi: "Still......"
+TP
+
+
+What about you?
+TP
+
+
+Taichi: "Youko-chan."
+TP
+
+
+WVP 0 vfCCD2001you004
+Youko: "What?"
+TP
+
+
+Taichi: "I love you. Can I have a kiss?"
+TP
+
+
+WVP 0 vfCCD2001you005
+Youko: "......Taichi!"
+TP
+
+
+She came and embraced me like a sticky snake.
+TP
+
+
+Iron Claw.
+TP
+
+
+Taichi: "Have a taste of your own medicine."
+//Yay convenient English idiom. This has happened maybe three times in the entire tl, so each instance is rather cool from my perspective. Å`IX
+TP
+
+
+WVP 0 vfCCD2001you006
+Youko: "Aaaaah......ow......that hurts......this......I'm sorry, sor-!......"
+TP
+
+
+WVS 1 1
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 152 0
+
+
+WT 500 1
+
+
+GL 0 bgcc0005a
+GS 0 1
+SEF 152 0
+
+GL 1 TCKT0002b
+GP 1 220 0
+GI 1 0
+
+
+
+WVP 1 bgm003.ogg 0 0 0
+
+
+
+WVP 0 vfCCD2001fyu142
+Touko: "............haa."
+TP
+
+
+How many times has she done that?
+TP
+
+
+I sighed heavily.
+TP
+
+
+My stomach was getting heavy just by sitting next to her.
+TP
+
+
+Taichi: "Hey, let's go to the beach."
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfCCD2001fyu143
+Touko: "Eh......?"
+TP
+
+
+Taichi: "Just the two of us, tomorrow."
+TP
+
+GL 1 TCKT0002b
+GI 1 0
+
+WVP 0 vfCCD2001fyu144
+Touko: "......but......Taichi, you don't want to go with me, right......?"
+TP
+
+
+It was a mystery how her aura of ignorance could turn into this within a single bound.
+TP
+
+
+Taichi: "I do want to."
+TP
+
+
+I showed her a smile.
+TP
+
+
+Taichi: "As long as a perky Touko will come with me."
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfCCD2001fyu145
+Touko: "......perky......"
+TP
+GL 1 TCKT0005b
+GI 1 0
+
+WVP 0 vfCCD2001fyu146
+Touko: "Taichi says difficult things......"
+TP
+
+
+Taichi: "Love is a complex thing."
+TP
+
+
+I said something apt with Oscar-class acting.
+TP
+
+GL 1 TCKT0006b
+GI 1 0
+
+WVP 0 vfCCD2001fyu147
+Touko: "Then I need to ask......do you love me?"
+TP
+
+
+Taichi: "I do indeed!"
+TP
+
+
+I radiated a million-dollar smile with blinding white teeth.
+TP
+
+
+WVP 0 vfCCD2001fyu148
+Touko: "Haaa."
+TP
+
+
+A charmed noblewoman.
+TP
+GL 1 TCKT0002b
+GI 1 0
+
+WVP 0 vfCCD2001fyu149
+Touko: "I don't really understand......but whatever."
+TP
+GL 1 TCKT0005b
+GI 1 0
+
+WVP 0 vfCCD2001fyu150
+Touko: "You said you loved me, after all."
+TP
+
+
+She said vacantly.
+TP
+
+
+Taichi: "You're too simple."
+TP
+
+
+The whisper I threw in the opposite direction of Touko disappeared behind the trees.
+TP
+
+
+WVP 0 vfCCD2001fyu151
+Touko: "......I've fallen in love with a weird man."
+TP
+
+
+Touko stretched, and seemed to be having a bit of fun.
+TP
+
+
+She really is whimsical.
+TP
+
+
+
+WVS 1 1
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+WT 500 1
+
+
+
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 152 0
+
+Taichi: "Friday, huh?"
+//CP_S ccd1001
+TP
+
+
+Three days left until the world swings back.
+TP
+
+
+Today as well, I'll do what I should do.
+//CP_F
+TP
+
+
+
+
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 152 0
+
+
+
+WVP 1 bgm005.ogg 0 0 0
+
+
+
+Taichi: "Even so......"
+TP
+
+
+I looked at the floor.
+TP
+
+
+Touko was asleep.
+TP
+
+
+At night she's been moaning 'It hurts, it hurts,' but it looks like she'd finally gotten used to it.
+TP
+
+
+She was sleeping soundly.
+TP
+
+
+Today I'll be going to the beach with this girl.
+TP
+
+
+Since the beach gives a great mood.
+TP
+
+
+There are a lot of things I have to be careful of.
+TP
+
+
+I don't have the confidence to control myself if I end up doing something erotic.
+TP
+
+
+Taichi: "I'll do my best."
+TP
+
+
+
+GL 0 bgcc0017
+GS 0 1
+SEF 152 0
+When I persistently evade touching her bare skin, we get into an argument.
+TP
+
+
+Touko shrank back and went somewhere on her own.
+TP
+
+
+Taichi: "......I'm not letting that happen again."
+TP
+
+
+
+WVS 1 1
+
+
+
+That...
+TP
+
+
+Following the inclination---
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+........................
+TP
+
+
+
+
+
+
+
+
+
+
+
+
+WVP 3 SE001 0 0
+
+GL 0 bgcc0010s
+GS 0 1
+SEF 10 1
+
+
+WVP 1 bgm014.ogg 0 0 0
+
+
+
+Taichi: "What's this about, Touko?"
+TP
+
+
+I closed in on Touko.
+TP
+
+
+Taichi: "In front of everyone......I never thought you'd do such a thing..."
+TP
+
+GL 1 TCKT0002s
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfCCD2001fyu269
+Touko: "......but, what does it matter?"
+TP
+
+
+Taichi: "It doesn't matter?"
+TP
+
+
+GL 1 TCKT0006s
+GI 1 0
+WVP 0 vfCCD2001fyu270
+Touko: "Can't it just be us?"
+TP
+
+
+Taichi: "Come on......you know that's......"
+TP
+
+
+I was pierced.
+TP
+//I wonder what he means by that...
+
+
+In front of the public.
+TP
+
+
+Taichi: "This is far worse than kissing me on the train."
+TP
+
+
+WVP 0 vfCCD2001fyu271
+Touko: "Isn't it just fine to do it right here?"
+TP
+
+
+Taichi: "Come on..."
+TP
+GL 1 TCKT0005s
+GI 1 0
+
+
+
+WVP 0 vfCCD2001fyu272
+Touko: "Though it is embarrassing..."
+TP
+
+
+Taichi: "Listen to me."
+TP
+
+GL 1 TCKT0006s
+GI 1 0
+
+WVP 0 vfCCD2001fyu273
+Touko: "Then, I think everyone would understand."
+TP
+
+
+Taichi: "......Touko, you've been strange lately."
+TP
+
+
+WVP 0 vfCCD2001fyu274
+Touko: "Didn't Taichi become strange?"
+TP
+
+
+Noisy laughter.
+TP
+
+
+Taichi: "............"
+TP
+
+
+I realized it.
+TP
+
+
+Touko also has something that brought her to Gunjou...... it was so obvious.
+TP
+
+
+I can't determine whether it's jealousy or madness.
+TP
+
+
+But bit by bit, Touko was getting out of my hands.
+TP
+
+
+I was the first to come to my senses.
+TP
+
+
+I easily understood that it would become more horrible as this went on.
+TP
+
+
+It was best to move before it was too late.
+TP
+
+
+Everyone understood that and couldn't take action.
+TP
+
+
+They decided to restore their defaults.
+//See what is currently line 6354 and the scene following it before messing with this line. Å`IX
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+
+........................
+TP
+
+
+WVS 1 1
+
+
+
+WVS 3 1
+WT 500 0
+
+
+GL 0 bgcc0017b
+GS 0 1
+SEF 152 0
+
+
+WVP 1 bgm002.ogg 0 0 0
+
+
+In the evening, I touched the shrunken and timid Touko, just a little.
+TP
+
+
+Really, just a little.
+TP
+
+
+We touched shoulders and looked at the sea.
+TP
+
+
+Her style of anger couldn't break.
+TP
+
+
+I felt like our hearts were contradicting.
+TP
+
+
+I could understand a girl's heart that well.
+TP
+
+
+
+
+GL 0 bgcc0003e
+GS 0 1
+SEF 152 0
+Taichi: "Now then, why don't we go to bed?"
+//CP_S ccb2017
+TP
+
+WVP 1 bgm010.ogg 0 0 0
+
+GL 1 TCKT0000c
+GI 1 1
+WVP 0 vfccb2017fyu000
+Touko: "Woof."
+TP
+
+
+Taichi: "Nnn, for an ojou-sama, Touko, you're weak at chess."
+TP
+
+
+I stretched.
+TP
+
+GL 1 TCKT0001c
+GI 1 0
+WVP 0 vfccb2017fyu001
+Touko: "......woof."
+TP
+
+
+10 Wins, 0 Losses.
+TP
+
+
+When we came back from the beach, Touko had withered for some reason, so I challenged her to a game in order to take her mind off of whatever it was.
+TP
+
+
+Taichi: "Do you need a snack?"
+TP
+
+
+GL 1 TCKT0005c
+GI 1 0
+WVP 0 vfccb2017fyu002
+Touko: "Woof."
+TP
+
+
+She shook her head.
+TP
+
+
+Taichi: "Then let's sleep."
+//CP_F
+TP
+
+
+I gave my body to the fluffy bed.
+TP
+
+
+WVP 0 vfCCD2001fyu152
+Touko: "......wooof......(crying)"
+TP
+GO 1 1
+
+Touko lay down on the rough floor.
+TP
+
+
+Stillness snuck in and filled the room.
+TP
+
+
+I wonder if Touko fell asleep.
+TP
+
+
+Taichi: "......sorry."
+TP
+
+
+No answer.
+TP
+
+
+But at long last,
+TP
+
+
+WVP 0 vfccb2017fyu022
+Touko: "Hey......Taichi......"
+//CP_S
+TP
+
+
+She spoke behind me.
+TP
+
+
+Taichi: "Nn?"
+TP
+
+
+WVP 0 vfccb2017fyu023
+Touko: "Do you think we can be together forever......?"
+//CP_F
+TP
+
+
+Taichi: "......I'm always inside Touko's heart."
+TP
+
+
+WVP 0 vfccb2017fyu024
+Touko: "......huhu, then maybe it's fine."
+//CP_S
+TP
+
+
+Taichi: "Why are you asking that?"
+TP
+
+
+WVP 0 vfccb2017fyu025
+Touko: "But, people have disappeared. Someday, won't we......?"
+TP
+
+
+Taichi: "......"
+//CP_F
+TP
+
+
+'We'...
+TP
+
+
+WVP 0 vfccb2017fyu026
+Touko: "If we're going to disappear, I'd at least like it to be......together......"
+//CP
+TP
+
+
+Her words silently narrowed. Touko fell asleep.
+TP
+
+
+For a while I couldn't sleep.
+TP
+
+
+I couldn't not think about it.
+TP
+
+
+When Touko is alone again, how long will it take for her to stand up once more?
+TP
+
+
+Is it even possible for her to stand up on her own?
+TP
+
+
+But......even if it isn't......my decision won't change.
+TP
+
+
+WVS 1 1
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+Taichi: "Sorry."
+TP
+
+
+My repeated apology was sucked into the darkness.
+TP
+
+
+
+
+
+WT 500 0
+WT 500 1
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 152 0
+
+Saturday.
+//CP_S ccd1001
+TP
+
+
+WVP 1 bgm013.ogg 0 0 0
+
+
+......one day left.
+TP
+
+
+There's one day left.
+//CP_F
+TP
+
+
+
+
+Taichi: "Fuwaa......"
+//CP_S ccb2018 Yeah, I'm copy-pasting from a non-existant file. Apparently what I mistook for an unused script ended up here.
+TP
+
+
+Waking up.
+TP
+
+
+WVP 0 vfccb2018fyu000
+Touko: "Kuu...kuu..."
+TP
+
+
+Touko was sleeping next to me.
+TP
+
+
+Lightly breathing.
+TP
+
+
+She seemed to be sleeping soundly.
+//CP_F
+TP
+
+
+Taichi: "......"
+TP
+
+
+She'd crawled in here in the middle of the night.
+//CP
+TP
+
+
+WVP 0 vfCCD2001fyu153
+Touko: "......suu, suu."
+TP
+
+
+She was sleeping easy.
+TP
+
+
+Taichi: "......hu."
+TP
+
+
+Her sleeping face was like a child's.
+TP
+
+
+Well, that aside,
+TP
+
+
+
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 0
+I went outside alone.
+TP
+
+
+The atmosphere was clear.
+TP
+
+
+It wasn't refreshing, but it wasn't hot either.
+TP
+
+
+Maybe the heat had been stolen.
+TP
+
+
+There's no way to confirm it.
+TP
+
+
+About Touko and I...
+TP
+
+
+Taichi: "It's not like......we made any particularly huge memories......"
+TP
+
+
+Without attaching or separating.
+TP
+
+
+A week passed only with an idealistic sense of distance.
+TP
+
+
+Touko neither broke nor became dependent.
+TP
+
+
+Because she's not dependent......there's no need to restore her to her default.
+//Any suggestions on how better to adapt what I decided to call "restore" are welcome. Å`IX
+TP
+
+
+Restore......yes, that was my miscalculation.
+TP
+
+
+I misread the human called Touko.
+TP
+
+
+Even now, I felt a shudder.
+TP
+GL 0 bgcc0000d
+GS 0 1
+
+........................
+TP
+
+
+
+
+
+
+WVP 3 SE001 0 0
+
+GL 0 bgcc0010s
+GS 0 1
+SEF 10 1
+
+I decided to restore her.
+TP
+
+
+........................
+TP
+
+
+GL 0 bgcc0006s
+GS 0 1
+SEF 10 1
+
+WVP 0 vfCCD2001fyu275
+Touko: "Eh---?"
+TP
+
+
+Restoration in progress.
+TP
+
+GL 1 TCKT0000s
+GI 1 1
+WVP 0 vfCCD2001fyu276
+Touko: "What did you just say?"
+TP
+
+
+Restoration in progress.
+TP
+
+
+GL 1 TCKT0001s
+GI 1 0
+WVP 0 vfCCD2001fyu277
+Touko: "......that's...a lie, right?"
+TP
+
+GL 1 TCKT0006s
+GI 1 0
+WVP 0 vfCCD2001fyu278
+Touko: "That's one of your usual jokes, right?"
+TP
+
+
+Restoration in progress.
+TP
+
+
+WVP 0 vfCCD2001fyu279
+Touko: "......aha, what are you saying, you idiot?"
+TP
+
+
+WVP 0 vfCCD2001fyu280
+Touko: "I won't be fooled, you know."
+TP
+
+
+Touko: "............"
+TP
+
+
+GL 1 TCKT0000s
+GI 1 0
+WVP 0 vfCCD2001fyu282
+Touko: "......are you serious?"
+TP
+
+
+Restoration in progress.
+TP
+
+
+GL 1 TCKT0005s
+GI 1 0
+WVP 0 vfCCD2001fyu283
+Touko: "......but...aren't you in love...with me?"
+TP
+
+
+Restoration in progress.
+TP
+
+GL 1 TCKT0002s
+GI 1 0
+WVP 0 vfCCD2001fyu285
+Touko: "......wai-......you......"
+TP
+
+
+WVP 0 vfCCD2001fyu286
+Touko: "Do you understand......what you're saying?"
+TP
+
+
+Restoration in progress.
+TP
+
+
+WVP 0 vfCCD2001fyu287
+Touko: "I absolutely......won't accept that......I won't accept that."
+TP
+
+GL 1 TCKT0003s
+GI 1 0
+
+WVP 0 vfCCD2001fyu288
+Touko: "I'll tear them apart! Everyone in the club!"
+TP
+// She says 2 lines later " I'll tear them appart" so maybe this should be future tense too.
+
+
+WVP 0 vfCCD2001fyu289
+Touko: "And your family and everyone in this Institute!"
+TP
+
+
+WVP 0 vfCCD2001fyu290
+Touko: "All of them, whatever they did, I'll tear them apart!"
+TP
+
+
+Restoration in progress.
+TP
+
+GL 1 TCKT0006s
+GI 1 0
+
+
+WVP 0 vfCCD2001fyu291
+Touko: "......Taichi......stop this......I don't like this......"
+TP
+
+
+WVP 0 vfCCD2001fyu292
+Touko: "Hey, let's go shopping? I'll buy you some clothes."
+TP
+GL 1 TCKT0001s
+GI 1 0
+
+WVP 0 vfCCD2001fyu293
+Touko: "Taichi......?"
+TP
+
+GL 1 TCKT0000s
+GI 1 0
+
+WVP 0 vfCCD2001fyu294
+Touko: "Wa......it......"
+TP
+WVS 3 0
+GO 1 0
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 efcc0001
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 1
+GL 0 bgcc0000d
+GI 0 0
+
+
+
+
+My restoration failed---
+TP
+
+
+
+And then---
+TP
+
+WVP 3 SE001 0 0
+
+
+GL 0 evcc0032
+$CGevcc0032 = 1
+GS 0 1
+SEF 10 2
+WVP 0 vfCCD2001fyu295
+Touko: "......Taichi......look......"
+TP
+//Definitely should look at this cg while editing. Å`IX
+
+WVP 0 vfCCD2001fyu296
+Touko: "I got...injured......Taichi......owow......it hurts......"
+TP
+
+
+WVP 0 vfCCD2001fyu297
+Touko: "It really hurts. I might die......"
+TP
+
+
+WVP 0 vfCCD2001fyu298
+Touko: "......there's lots of blood coming out......"
+TP
+
+
+WVP 0 vfCCD2001fyu299
+Touko: "So......be gentle......Taichi......"
+TP
+
+
+WVP 0 vfCCD2001fyu300
+Touko: "Be more gentle......stay by my side......"
+TP
+
+
+WVP 0 vfCCD2001fyu301
+Touko: "It......hurts......"
+TP
+
+
+WVP 0 vfCCD2001fyu302
+Touko: "Taichiiii......come ouuuut......!!"
+TP
+
+
+WVP 0 vfCCD2001fyu303
+Touko: "Look at meee, at my blood......would you just looook..."
+TP
+
+
+WVP 0 vfCCD2001fyu304
+Touko: "Because when you do, you'll want to be nice to me again."
+TP
+
+
+WVP 0 vfCCD2001fyu305
+Touko: "Taichiii, come ouuuuut......"
+TP
+
+
+If Youko-chan hadn't been there...
+TP
+
+
+Touko probably wouldn't have lived and the situation would have been even more serious.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+Touko left the hospital and returned to school.
+TP
+
+
+As thorough as before......no, more thorough than before---
+TP
+
+
+She'd become beautiful.
+TP
+
+
+I'd thought of Touko's lonely behavior as beautiful.
+TP
+WVS 3 1
+
+
+
+GL 0 bgcc0002
+GS 0 1
+SEF 109 1
+I covered my face.
+TP
+
+
+Vivid, raw red blood.
+TP
+
+
+It seemed as if it would ooze into my retinas.
+TP
+
+
+I am in love.
+TP
+
+
+With her.
+TP
+
+
+It's just that my ethics aren't so great when it won't work.
+TP
+
+
+If it was Sempai or Miki or Kiri......
+TP
+
+
+I show the same tender eyes to all the humans around me.
+TP
+
+
+Even for Touko there's an equal portion of love.
+TP
+
+
+That's not the form of ÅwloveÅx she wishes for.
+TP
+
+
+Taichi: "......it would be nice if this ended quickly."
+TP
+
+
+It was like my heart had swollen up from the impatience of being unable to come to a conclusion.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+And tomorrow is Sunday---
+TP
+
+
+WVS 1 1
+
+
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 152 0
+
+
+WVP 1 bgm021.ogg 0 0 0
+
+
+When I woke up, Touko was crying in her sleep.
+TP
+
+
+WVP 0 vfCCD2001fyu154
+Touko: "......hu......*sob*......"
+TP
+
+
+She must be lonely.
+TP
+
+
+I softly brushed aside the hair stuck to her forehead.
+TP
+
+
+I can't fulfill everything by myself.
+TP
+
+
+The time was before noon.
+TP
+
+
+I'd overslept.
+TP
+
+
+Taichi: "Touko, Touko."
+TP
+
+
+I woke her up.
+TP
+
+
+WVP 0 vfCCD2001fyu155
+Touko: "Nnnya......?"
+TP
+
+
+Taichi: "Wake up. We're heading out."
+TP
+
+
+WVP 0 vfCCD2001fyu156
+Touko: "......eh......where?"
+TP
+
+
+GL 0 bgcc0001
+GS 0 1
+SEF 152 1
+
+
+GL 1 TCKT0000
+GP 1 220 0 0
+GI 1 1
+WVP 0 vfCCD2001fyu157
+Touko: "Wait, where are you going to take me?"
+TP
+
+
+Taichi: "To a nice place."
+TP
+
+
+........................
+TP
+
+
+
+GL 0 bgcc0016
+GS 0 1
+SEF 152 1
+WVP 0 vfCCD2001fyu158
+Touko: "Where are we......?"
+TP
+
+
+Taichi: "Dunno."
+TP
+
+
+I stood a confused Touko in the prescribed location.
+TP
+
+
+Taichi: "......"
+TP
+
+
+I stared at her.
+TP
+
+
+GL 0 evcc0057
+$CGevcc0057 = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+WVP 0 vfCCD2001fyu159
+Touko: "Hey......what's going to happen?"
+TP
+
+
+Taichi: "I have a question. Please answer honestly."
+TP
+
+
+WVP 0 vfCCD2001fyu160
+Touko: "O-okay......"
+TP
+
+
+Taichi: "Are you lonely?"
+TP
+
+
+WVP 0 vfCCD2001fyu161
+Touko: "Eh?......Hmm, I wonder about that......"
+TP
+
+
+Taichi: "Were you lonely when all the people went away?"
+TP
+
+
+WVP 0 vfCCD2001fyu162
+Touko: "......I'm not sure about lonely......anxious, I guess......"
+TP
+
+
+Taichi: "Do you want to return? To your home?"
+TP
+
+
+WVP 0 vfCCD2001fyu163
+Touko: "......well......if I could return to that time... ......wouldn't anyone want to?"
+TP
+
+
+WVP 0 vfCCD2001fyu164
+Touko: "Hey, what's this all about?"
+TP
+
+
+Taichi: "Next question."
+TP
+
+
+Taichi: "Touko has always been alone. Why is that?"
+TP
+
+
+WVP 0 vfCCD2001fyu165
+Touko: "......why?......Even if you ask that......I just don't know......"
+TP
+
+
+WVP 0 vfCCD2001fyu166
+Touko: "But......I was frustrated......being made an abnormal......just for that, I was pulled out......no one came and talked to me......"
+TP
+
+
+WVP 0 vfCCD2001fyu167
+Touko: "Were there any other choices besides being alone......?"
+TP
+
+
+WVP 0 vfCCD2001fyu168
+Touko: "But, because Taichi spoke to me......"
+TP
+
+
+Taichi: "......sorry."
+TP
+
+
+I just couldn't do anything but apologize.
+TP
+
+
+Taichi: "Then, my last question."
+TP
+
+
+Taichi: "Do you love me?"
+TP
+GL 0 evcc0057a
+$CGevcc0057a = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+
+
+WVP 0 vfCCD2001fyu169
+Touko: "......ummm......"
+TP
+
+
+WVP 0 vfCCD2001fyu170
+Touko: "Yes, I love you......"
+TP
+
+
+Because those were going to be her last words?
+TP
+
+
+They may be ordinary, but they reached my heart.
+TP
+
+
+Yes.
+TP
+
+
+This is about right.
+TP
+
+
+Taichi: "Then, Touko, don't misunderstand me."
+TP
+
+
+Taichi: "I'm not abandoning you this time, I mean that."
+TP
+
+
+Taichi: "I give you my word."
+TP
+
+
+WVP 0 vfCCD2001fyu171
+Touko: "......Taichi, I can't understand what you've been saying, but......"
+TP
+
+
+WVS 1 0
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+*click*---
+TP
+
+
+I closed my eyes.
+TP
+
+
+I'm the only one who can see through the distortion.
+TP
+
+
+I'm the one who decides whether that place is on this side or the other side.
+TP
+
+
+Just like how I guided everyone here at first,
+TP
+
+
+I was able to send them back again.
+TP
+GL 0 bgcc0016c
+GS 0 1
+SEF 109 1
+I opened my eyes and took another look.
+TP
+
+
+Touko had disappeared.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+WT 2000 0
+WT 2000 1
+GL 0 bgcc0000b
+GS 0 1
+SEF 109 1
+
+WVP 0 vfCCD2001fyu172
+Touko: "......just what on Earth......eh? Huh?"
+TP
+
+
+WVP 0 vfCCD2001fyu173
+Touko: "Taichi?"
+TP
+
+WVP 3 SE099 0 0
+
+WVP 0 vfCCD2001fyu174
+Touko: "Kya!!?"
+TP
+
+
+WVP 0 vfCCD2001fyu175
+Touko: "Eh?......The radio? When did he put this in my pocket......?"
+TP
+
+
+WVP 0 vfCCD2001fyu176
+Touko: "......why can I hear it?"
+TP
+
+
+WVP 0 vfCCD2001fyu177
+Touko: "Taichiii, the radio, it's-!"
+TP
+
+
+WVP 0 vfCCD2001fyu178
+Touko: "Ah, come on......where did you go!? Idiot!"
+TP
+
+
+WVP 0 vfCCD2001fyu179
+Touko: "Taichi, where are you!?"
+TP
+WT 500 0
+WT 1000 1
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+WT 3000 0
+WT 1000 1
+
+
+
+
+
+WVS 3 0
+
+WVP 1 bgm023.ogg 0 0 0
+
+GL 0 bgcc0016b
+GS 0 1
+SEF 109 0
+
+Taichi: "Farewell, Touko."
+TP
+
+
+With this, many more possibilities disappeared.
+TP
+
+
+Touko will no longer be in the classroom.
+TP
+
+
+I won't be cut with a blade for all perpetuity.
+TP
+
+
+Nor will I be clinging to her or clung to by her.
+TP
+
+
+Nor punched by her.
+TP
+
+
+All the routes Touko gave me......they've all been exhausted.
+TP
+
+
+From now on, I can only hold my memories dear.
+TP
+
+
+I can only ruminate and live on.
+TP
+
+
+Taichi: "Don't pity me."
+TP
+
+
+Or yourself.
+TP
+
+
+I held back tears by pushing against the corners of my eyes.
+TP
+
+
+I used all my strength not to worry.
+TP
+
+
+It goes on.
+TP
+
+
+Because there are still things that I have to do.
+TP
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+
+Next week---
+TP
+
+
+WVS 1 1
+
+
+WT 1500
+WT 1500 1
+
+
+
+RET
+

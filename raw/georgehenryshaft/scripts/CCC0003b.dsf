@@ -1,0 +1,914 @@
+//Monday September 7, 1998 -GHS
+
+GL 0 bgcc0003
+GS 0 1
+SEF 152 0
+
+//月曜日……か。
+Monday... then.
+TP
+
+WVP 1 bgm016.ogg 0 0 0
+
+
+//朝七時。
+Seven AM.
+TP
+
+//起床の時間だ。
+It's time to rise.
+TP
+
+//だが！
+However!
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+
+//起きなくて良いんだよ、坊や―――
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+   It's fine if you do not wake up, my boy---
+//Taichi is hallucinating being a Little Red Riding Hood (who is usually a girl, of course), told by the Big Bad Wolf (who's generally identified with HIM) to stay in bed, so the wolf can eat him. If he doesn't get up, something very bad will come and devour him. And moments later... -GHS
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+//>　　　　　　　　　　　　　　　　　　　　　　　　　ヴォイス
+//そんな優しいグランドマザー声が響く。
+>                                                                      grandmother
+The resounding voice of a gentle obaa-chan.
+//IT'S DELIRIUM TIIIME! Original has the 'voice' kanji needlessly ruby texted as the English 'voice'; that's a pretty chuuni thing to do... but generally not with elementary kanjis like this one. Did the same with something equally useless to keep untranslated. -GHS
+TP
+
+//俺は内心で応じる。
+I respond to it in my innermost thoughts.
+//HACK new line, expanding this otherwise hasty scene. This is even worse considering the new lines in CCC0002, which put Taichi's hallucinations on much firmer grounds (badum-tish?). He is claiming, here, that his RESPONSE is what's inside of him, with the implication that the voice isn't. -GHS
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+//本当かい？ どうしてだい？
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+           Truly now? How come then?
+//HACK new line. -GHS
+TL
+//それはおまえを食べてしまうためだよ！―――
+> 
+   It's all the better to eat you up with!---
+//PCP Little Red Riding Hood http://www.pitt.edu/~dash/type0333.html#perrault
+//This should be the closest to the original fable, i.e. no hunter comes to rescue her; interesting (and creepy) that the wolf asks her to get into bed with him before eating her in this version. -GHS
+TL
+//それババア違う。ウルフ。
+> 
+            That's no hag. 's wolf.
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+//ということで寝て良し。
+And therefore, sleeping's no problem.
+TP
+
+GO 0 1
+//HACK out with everything. -GHS
+
+//太一「フフフ」
+Taichi: "Hoh hoh hoh!"
+TP
+
+//幸せだ。
+So happy.
+TP
+
+//人類とか滅亡したのか知らんけど、今この瞬間、俺の幸福感は限りなく神に近い。
+Mankind and all that may have fallen or something, but at this moment here, my euphoria is endlessly close to a god's.
+//Random comparisons not random. -GHS
+TP
+
+//GL 1 TCHY0000
+//GP 1 200 0
+//GI 1 1
+//HACK No more need. -GHS
+
+WVP 0 vfCCC0003byou000
+//曜子「……太一」
+Youko: "...Taichi."
+//PCP CCA0001
+//...and speak of the wolf. Also see CCD5001, when he can't move from that bed for a whole week. Youko's intentions are not necessarily to get him to go to school. -GHS
+TP
+
+WVP 0 vfCCC0003byou001
+//曜子「太一。起きて」
+Youko: "Taichi. Wake up."
+TP
+
+//太一「う～～～んっ」
+Taichi: "Nooo～～～oooh."
+TP
+
+WVP 0 vfCCC0003byou002
+//曜子「起きないとエッチなことをすると思う」
+Youko: "No waking means perversion will ensue, I believe."
+//See CCB2101. -GHS
+TP
+
+//太一「……ぐう」
+Taichi: "...zzz..."
+TP
+
+//GL 1 TCHY0001
+//GI 1 0
+//HACK again. -GHS
+WVP 0 vfCCC0003byou003
+//曜子「……そう」
+Youko: "...then."
+TP
+WVP 2 SE080 1 0
+GO 1 1
+
+//ばさっ
+Flomp!
+TP
+
+
+//ごそごそごそっ
+Rustle, rustle, rustle!
+TP
+
+
+WVP 0 vfCCC0003byou004
+//曜子「ん……んむ……」
+Youko: "Nh... nhm..."
+TP
+
+WVP 0 vfCCC0003byou005
+//曜子「ちゅっ、ちゅううううううううううううううううううううっっっ！！」
+Youko: "Pch, pcHHHHHHHHHHHHHHHHHHHH!!!!!"
+//damn. 7x3 う counting the one in... ゆ. -GHS
+TP
+
+WVS 1 0
+//HACK end music here. -GHS
+
+//太一「ぐわあああああああああっ！！」
+Taichi: "gh'WHAAAAAAAAA!!!"
+TP
+
+//下半身に爆発的な官能が。
+An explosion of carnality in the lower half of the body.
+TP
+
+//瞬時に導かれる。
+In an instant I was led there.
+TP
+
+WVP 2 se067 1 0
+SEF 101 0
+WVP 1 bgm010.ogg 0 0 0
+//HACK Music: Tight Skirt -GHS
+
+//太一「……おっ……おぶおぶおぶ」
+Taichi: "...oh... oBhoBhoBh..."
+//Contrast CCD5001 again: there she'll do her best to avoid actually having him come. -GHS
+TP
+
+GI 0 1
+//HACK back with the BG. -GHS
+
+//あれ、俺……夢精した。
+Dear dear, myself... you were having a wet dream.
+TP
+
+//なんかすごい刺激があったような。
+There's some really strong arousal to boot.
+TP
+
+WVP 0 vfCCC0003byou006
+//曜子「……んっ……んくっ……ぁふ……」
+Youko: "...nh... nKh... aHfh..."
+TP
+
+//太一「え？」
+Taichi: "Eh?"
+TP
+
+//布団の中に誰かいる！
+Someone lies in my futon!
+TP
+
+//太一「何やつ！」
+Taichi: "Who is it!"
+//HACK new lines from here. -GHS
+TP
+//と、蹴りを繰り出す。
+And with that, I lunge out a kick.
+TP
+//はっし
+Clank!
+TP
+//カラデ（不方向とかに強い）で鍛えられたかかとの一撃が、難なくキャッチされた。
+My attack with the heel, forged in Karade (strong regardless of direction), was caught without difficulty.
+//Or he just kicked the wall right next to his bed. -GHS
+TP
+//太一「！？」
+Taichi: "?!"
+TP
+//衝撃を逃がしながら、ひねりこんでくる。
+As the impact is dodged, I am twisted down.
+TP
+//動きを封じる気か？
+Is the intent to seal my movements?
+//Still in Karade Mood, plus Youko preventing all of Taichi's movements. -GHS
+TP
+//太一「ッ！！」
+Taichi: "!!!"
+TP
+//機先を制して身体をひねる。同時に、もう片方の足を打ち込む。
+I forestall, and twist my body. Simultaneously, the other foot is dispatched,
+TP
+//かかとは空を切った。
+but the heel only slashed air.
+//Or he actually lunges at the air. -GHS
+TP
+
+//The below had a replacement, with Youko just blowing in Taichi's ears... hmmm, another translingual pun? -GHS
+
+WVP 2 vfCCC0003byou005 1 0
+//ちゅうぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅっ！！
+Youko: "pCHhhhhhhhhhhhhh!!!"
+//No text tags in the original, which is odd. Adding. Considering the one in the 'yu', it's 17 'u' 1+7=8. Otherwise, 16 (7). Which is obvious, since 'yu' is 8. -GHS
+TP
+
+
+//快楽の爆発。二度目。
+An explosion of pleasure. Second time.
+TP
+
+//太一「あごあああああああああああああっ！！」
+Taichi: "AGHAaAaAaAaAaAaAh!!!"
+//7x2 あ (interrupted by a 'go', 5 - hmmm 19, 9-1=8). -GHS
+TP
+
+//俺はエビっぽく仰け反った。
+I shrimply threw my head back.
+TP
+//太一「や、やめれーっ！」
+Taichi: "Sh-, steeop thiiis!"
+//Seems to be Hakata-ben. Why? Because Japan. -GHS
+TP
+
+
+////布団をはぐ。
+//I rip off the futon.
+////曜子ちゃんがいた。
+//Youko-chan was there.
+////太一「わーっ！？」
+//Taichi: "Waaah?!"
+////蹴る。
+//Kick.
+//WVP 0 vfCCC0003byou007
+////曜子「うっ」
+//Youko: "Ngh."
+////ころん、と背後に転がるが受け身を取った。
+//Tumble! And she rolls backwards with ukemi.
+
+//HACK replaced the above, useless given the fight has been moved earlier. In part because the new fight is more appropriately silly, in part because it makes no sense for Taichi to be able to so easily push away Youko, in part because Taichi bumps his head right before seeing Youko (again)... -GHS
+
+//暴れて、ベッドから転げ落ちる。
+In the struggle, I tumble down the bed,
+TP
+SEF 101 0
+//頭を打つ。
+and hit my head.
+TP
+//太一「い、痛い……」
+Taichi: "O-, ouch..."
+TP
+//ショックで、何か自分の中にあるとんがった部分を失った気がする。
+It feels that, in the shock, I had lost a part inside of me that had tapered to a point.
+//That's likely an unusually colorful euphemism for 'dick'. Unusually not because Japan, but because Console Version. Last of the new lines. -GHS
+TP
+
+
+//パンツとパジャマをあげる。
+I raise up underpants and pajamas.
+TP
+
+//太一「なんばしよっと！！」
+Taichi: "Whatch'ye be doin'!!!"
+//http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1130346201 Hakata-ben for sure. It has been replaced with something. Just "something". -GHS
+TP
+//GL 1 TCHY0000
+//GI 1 1
+
+GL 5 zzzCCC0003Byouko1
+GI 5 1
+//HACK ...in part to set up some cheesecake for you Oedupus Complex fetishists who still don't get that Youko is intended to be read as Taichi's psychologically and sexually abusive mom. This is a 360 exclusive, one of the rare new CGs for the main game. -GHS
+
+
+WVP 0 vfCCC0003byou008
+//曜子「フェラチオ」
+Youko: "Fellatio."
+TP
+
+//太一「こういうことしないでって言ったろ！」
+Taichi: "I told you, don't do that kind of stuff!"
+TP
+
+WVP 0 vfCCC0003byou009
+//曜子「……性行為はしないって言ったけど、フェラチオは含まれていなかったもの」
+Youko: "...you said not to have sexual acts, however fellatio is not included in that."
+//The word can mean "sexual act" in general, but it is usually used for simple "intercourse". It's pure sophistry, hers, and so very Taichi-like. -GHS
+TP
+
+//太一「普通はフェラチーオも性行為なんだよ！」
+Taichi: "Fella-chew is also a sex act!"
+//Hakata-ben again? That's an odd way of writing fellatio, but then again, odd transliteratertiterationmanji--- "counter-romanizations" are the norm. It's odd enough that Cross Channel is on the third page of results. チー=7... somehow. -GHS
+TP
+
+//GL 1 TCHY0001
+//GI 1 0
+
+GL 5 zzzCCC0003Byouko2
+GI 5 1
+
+//HACK IMO she looks like she's like asking Taichi for a kiss, but no, the console line is "she looks unsatisfied", and comes just before when they're talking about how there's no need for her to come wake him up, most of which is transcribed below. -GHS
+
+WVP 0 vfCCC0003byou010
+//曜子「……ルールをあとずけするのは卑怯だと思う」
+Youko: "...appendixes to rules are unfair I think."
+TP
+
+//太一「どっちが卑怯か！」
+Taichi: "Which of us is unfair here!"
+TP
+
+//くそっ、俺の子種を抜き取られてしまった。
+Dammit, all my childseed had been extracted out.
+//Nukitori is sort of what a nukige tries to do, after all. -GHS
+TP
+
+//夢魔め！
+Damn succubus!
+TP
+
+
+//うかうか寝てもいられないぜ！
+Won't let me sleep all careless and inattentive!
+TP
+
+//太一「だいたい誰もなくなっちゃったんだから、起きなくたっていいじゃないか」
+Taichi: "Besides, there ain't nobody anymore, so isn't it just fine if you don't wake me up?"
+//HACK a couple new lines. -GHS
+TP
+GL 1 TCHY0000
+GP 1 200 0
+GS 0 1
+GS 1 1
+GS 5 0
+SEF 109 0
+//HACK return to normal (sorry). -GHS
+
+WVP 0 vfzzzCCC0003Byouko
+//曜子「念のため」
+Youko: "Just to be sure."
+//Very interesting, and very vague. -GHS
+TP
+
+//太一「なにしにきた！」
+Taichi: "What'cha come here for then!"
+//This sounds odd to keep, but not as odd as the line here in the console version ("all tired straight after waking up..."), which already has a funnier version below anyway. -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC0003byou011
+//曜子「……お弁当」
+Youko: "...o-bento."
+//Adapted. -GHS
+TP
+
+//紙袋を掲げる。
+She sets out a paper bag.
+TP
+
+//太一「アンタんとこでは、弁当届けにきてフェラッチーオするのかね？　ん？」
+Taichi: "Whass'even with you coming here to deliver lunch and doing fella-chew, really? Hm?"
+//Hakata-ben again? Same odd way of writing fellatio. Console version turns this formal. -GHS
+TP
+
+WVP 0 vfCCC0003byou012
+//曜子「なぜか二人分」
+Youko: "Somehow enough for two."
+//See CCC0003A. Well now this is interesting. -GHS
+TP
+
+//太一「聞けよ！」
+Taichi: "You listening or not!"
+TP
+
+//太一「……いや、いいや……常識ない人に常識説いても仕方ないし」
+Taichi: "...nah, naaah... preaching common sense to a person without common sense is pointless."
+TP
+
+//どっと疲れた。生気を抜かれたせいだ。
+I was suddenly tired. That' because my vitality had been extracted.
+//!FLUIDS! -GHS
+TP
+
+GL 1 TCHY0001
+GI 1 0
+//HACK closed-eyes Youko. -GHS
+
+WVP 0 vfCCC0003byou013
+//曜子「報告が」
+Youko: "Have a report."
+TP
+
+//太一「……あに？」
+Taichi: "...'hat?"
+TP
+
+//着替えることにした。
+I decided to change clothes.
+//No one's listening to anyone or even responding to anything that even remotely resembles other people's actions. Welcome to the Internet. -GHS
+TP
+
+//太一「うー、パンツがヨダレと精液で……」
+Taichi: "Ughhh, my underpants are all saliva and semen..."
+TP
+
+//脱ぎ捨てる。
+I fling 'em off.
+TP
+
+//別に彼女に見られるのは恥ずかしくない。
+Being seen by her is not exactly embarrassing.
+TP
+
+//というかどうでもいい。
+Or should I say, it's like whatever.
+TP
+
+GO 1 1
+//HACK out with the doll (Creepier) -GHS
+
+WVP 0 vfCCC0003byou014
+//曜子「拭いてあげる」
+Youko: "I will wipe."
+TP
+
+//太一「え、いいよそんなの……自分ででき……」
+Taichi: "Eh, don't bother now... I can do it alone..."
+TP
+
+//曜子ちゃんの手にローションボトルが握られていた。
+Youko-chan's hands were grasping a bottle of lotion.
+TP
+
+//太一「俺の半径２メートル以内に近寄るんじゃねぇ！！」
+Taichi: "Don'tcha approach me within a radius of 2 meters!!!"
+//Does he have a restraining order out on her now? Consistent with CCC0032, oddly enough. -GHS
+TP
+
+//ぴたり、と足が止まる。
+Feet stop moving, on the dot.
+TP
+
+//太一「……前立腺マッサージをしようとしたな？」
+Taichi: "...were you trying to give me a prostate massage?"
+TP
+
+GL 1 TCHY0001
+GI 1 1
+//HACK letting her come back. -GHS
+WVP 0 vfCCC0003byou015
+//曜子「いいえ」
+Youko: "No."
+TP
+
+//太一「普段いじめられてるから仕返しですか」
+Taichi: "Were you trying to get revenge for my usual bullying then?"
+TP
+
+GL 1 TCHY0001
+GI 1 0
+WVP 0 vfCCC0003byou015
+//曜子「いいえ」/*
+Youko: "No."
+//CP even the voice!
+TP
+
+
+//太一「じゃあどうしてそういうことをするんですか、あなたは」
+Taichi: "Well then why are you even trying do all this stuff, you?"
+TP
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC0003byou016
+//曜子「……好きだから」
+Youko: "...because of love."
+TP
+
+//太一「うそジャー！！」
+Taichi: "Ya LIEEE!!!"
+//Ryugu Taichi RITAANZU -GHS
+TP
+
+//俺は某人工衛星に積まれた人類とその歴史を示すプレートに描かれた全裸の成人男性のようなポーズを取りながら、彼女の言葉を否定した。
+I repudiated her words while striking the pose of the nude adult male depicted on the plate portraying mankind and its history applied on that one man-made satellite.
+//The http://en.wikipedia.org/wiki/Pioneer_plaque doesn't actually portray the history of mankind, just has the people and origin information, and neither does its All Ages version, the Golden Records on the Voyager satellites. Taichi's talking out of his currently-naked ass. This sounds even weirder when considering the two return in Jintai. Somehow. -GHS
+TP
+
+//太一「前立腺マッサージで俺を虜にしようとしたな？」
+Taichi: "Did you attempt to make me a slave to lust via prostate gland massage?"
+//He talks as if it would work... -GHS
+TP
+
+GL 1 TCHY0001
+GI 1 0
+WVP 0 vfCCC0003byou015
+//曜子「いいえ」/*
+Youko: "No."
+//CP again
+TP
+
+
+//太一「くっ、雌豹め……罪を認めようとしない」
+Taichi: "Gah, damn this leopardess... unwilling to admit her sins!"
+//Seems like a specific sexual pose on all-fours. Once again, Japanese never betrays my expectations of every word having a specific sexual undertone. Technically, since Youko is older, 'cougar' could fit but... more importantly, admission of sins makes more sense consider just how much Youko is actually refusing to concede, mainly that she's more scared than in love of Taichi. -GHS
+TP
+
+//太一「もういいよっ」
+Taichi: "Oh, whatever!"
+TP
+
+//新しいパンツを探す。
+I search for new underpants.
+TP
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC0003byou017
+//曜子「はい、出してある」
+Youko: "Yes, here you go."
+TP
+
+//太一「ん」
+Taichi: "Hm."
+TP
+
+//受け取る。
+I accept them.
+TP
+
+//ヒヤリとしたが、構わず履く。
+I feel a chilly dread, yet uncaring I wear.
+//Both dread AND the cold feel of metal -GHS
+TP
+
+//太一「……え？」
+Taichi: "...eh?"
+TP
+
+//それは金属製の下着だった。
+These underwear were made of metal.
+TP
+
+//カチン、と尻の方から施錠するような音。
+Click, a sound as if locking from the direction of the ass.
+TP
+
+//振り返ると曜子ちゃんが、しゃがみ込んでなにかしていた。
+I look over my shoulder, and there Youko-chan is squatting down and doing something.
+TP
+
+//太一「なんしとん……」
+Taichi: "What'cha even..."
+TP
+
+WVP 0 vfCCC0003byou018
+//曜子「鍵……かけた」
+Youko: "Lock... engaged."
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//太一「なんで？」
+Taichi: "What for?"
+TP
+
+WVP 0 vfCCC0003byou019
+//曜子「鍵をしないと外れてしまうから」
+Youko: "So that it cannot be undone without key."
+TP
+
+//太一「だからどうしてパンツに鍵を！？」
+Taichi: "I mean why do these underpants have a lock?!"
+TP
+
+WVP 0 vfCCC0003byou020
+//曜子「貞操帯だから」
+Youko: "Because it's a chastity belt."
+TP
+
+//太一「て……」
+Taichi: "Cha-..."
+TP
+
+//ていそうたい。
+Chastity belt.
+TP
+
+//太一「はおっ、脱げない！？」
+Taichi: "Awww, I can't take it off?!"
+//Regression to idiot -GHS
+TP
+
+WVP 0 vfCCC0003byou021
+//曜子「鍵がないと脱げない」
+Youko: "No key, no taking it off."
+TP
+
+//太一「鍵！」
+Taichi: "Key!"
+TP
+
+//襲いかかる。
+Assaulting.
+TP
+GL 1 TCHY0001
+GI 1 0
+WVP 0 vfCCC0003byou022
+//曜子「ごっくん」
+Youko: "Gu-ulp."
+TP
+
+//舌にのっけて呑んだ。
+Placed on the tongue and swallowed.
+TP
+
+//太一「おわー！？」
+Taichi: "oH'whaaah?!"
+TP
+
+//太一「なんで、どうしてっ！？」
+Taichi: "What for, why?!"
+TP
+
+WVP 0 vfCCC0003byou023
+//曜子「……先週の太一はＨだった」
+Youko: "...last week Taichi was lewd."
+//Maybe she's just read in the diaries... maybe she's already unreset. -GHS
+TP
+
+WVP 0 vfCCC0003byou024
+//曜子「だめ、そんなの」
+Youko: "That... is not nice."
+TP
+
+//太一「先週は自慰しかしとらんですばい！」
+Taichi: "But last week I din'n't not but self-console!"
+//STILL Hakata-ben. -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCC0003byou025
+//曜子「その先週じゃない」
+Youko: "Not that last week."
+TP
+
+WVP 0 vfCCC0003byou026
+//曜子「とにかく目に余る所業、断固阻止」
+Youko: "Regardless, unpardonable deeds are now conclusively restricted."
+TP
+
+//太一「……わけわかんないよ……だいたい鍵……呑んじゃって……」
+Taichi: "...I don't get you at all... but still the key... swallowed didn't you..."
+TP
+
+WVP 0 vfCCC0003byou027
+//曜子「もう外れない」
+Youko: "It's not removable anymore."
+TP
+
+//太一「浣腸するぞこのアマ」
+Taichi: "I'm gonna enema you, bitch."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+WVP 0 vfCCC0003byou028
+//曜子「……いいけど、今しても無駄だと思う。それでいいなら、どうぞ」
+Youko: "...that is fine, but right now I think it would be pointless. If you do wish to, please go on."
+//Key's not in the digestive system yet, likely. Notice she has no problem with it. -GHS
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//やられた。
+I was caught.
+TP
+
+//この人、たぶん自力で吐き出せるんだな。
+This person here could maybe throw it up of her own accord.
+TP
+
+//金魚を生きたまま呑み込んで吐き出すおじさんみたくだ。
+Like that guy that threw up a still living goldfish that he had swallowed.
+//TIL: http://en.wikipedia.org/wiki/Goldfish_swallowing -GHS
+TP
+
+//ハメられた。
+Caught in a trap.
+TP
+
+//ハメられすぎた。
+Way too caught in a trap.
+TP
+
+//ハメられあげた。
+Made to be caught in a trap.
+//See CCC0041. -GHS
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC0003byou029
+//曜子「落ち着いて私の太一。貞操帯をつけたのには理由があるの」
+Youko: "Be calm, my Taichi. There is a reason why you are wearing a chastity belt."
+//See CCC0028: "My Kiri". Did he describe the sex scene to that extent in the diary? Maybe he still wrote 'my Kiri'... and maybe Youko just saw. -GHS
+TP
+
+//太一「苦楽をともにしてきた戦友に貞操帯をつけなければならないほどの理由があるとでも？」
+Taichi: "So there is a reason big enough that you necessarily had to go all the way to installing a chastity belt on a comrade-in-arms with whom you have shared joys and sorrows?"
+TP
+
+WVP 0 vfCCC0003byou030
+//曜子「……今朝、少し調べてみたのだけれど」
+Youko: "...this morning, I tried doing a bit of research."
+TP
+
+//何事もなかったように話しだす夢魔。
+The succubus speaks out as if not a thing had happened.
+//Though technically she's answering him. -GHS
+TP
+
+WVP 0 vfCCC0003byou031
+//曜子「発電所に行けなくなっていたの」
+Youko: "I could not go to the power plant."
+//See CCC0003A again. She's playing it awfully close to just have read about it... -GHS
+TP
+
+//太一「貞操帯をつけた理由」
+Taichi: "Reason for the chastity belt."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+//HACK closed eyes Youko -GHS
+
+WVP 0 vfCCC0003byou032
+//曜子「それと祠の情報で、だいたい把握できた」
+Youko: "With that and the information at the hokora I was able to understand the outline."
+TP
+
+//太一「貞操帯をつけた理由！」
+Taichi: "Reason for the chastity belt!"
+//PCP
+TP
+
+//曜子ちゃんは荷物をあさりだした。
+Youko-chan began rummaging in her bag.
+TP
+
+//わけわからん。
+I don't get this.
+TP
+
+GL 1 TCHY0002
+GI 1 0
+WVP 0 vfCCC0003byou033
+//曜子「太一、これを」
+Youko: "Taichi, here."
+TP
+
+//新品のノートを束で渡された。
+I was handed over a bundle of brand-new notebooks.
+//Her figuring out that the notebooks would vanish, too, is far too suspicious. -GHS
+TP
+
+//太一「……今提示された情報そしてアイテムは、互いにまったく繋がろうとはしない」
+Taichi: "...the information and the items you have presented me now I just can't in no damn way connect with each other."
+TP
+
+//説明不足にもほどがある。
+This is an excessively inadequate level of explanation.
+//Oh YOU stop whining now. -GHS
+TP
+
+WVP 0 vfCCC0003byou034
+//曜子「それと……いろいろヘン。だからもう少し本格的に調査してみたい」
+Youko: "There is... much that is strange. Therefore, I would like to do a bit of full-scale investigation."
+TP
+
+WVP 0 vfCCC0003byou035
+//曜子「……で見守っていない間、太一がヘンなことしないように貞操帯を」
+Youko: "...in the time where I am not guarding closely, chastity belt so Taichi will not do anything strange."
+//Actually supposing this is why she didn't go to the power station. The question is why she goes to the hokora again NOW, and only NOW gets caught in the trap. She should have no need to know more than what she already knows, which from the above, is a hell of a lot. -GHS
+TP
+
+//太一「ああ……」
+Taichi: "Ahhh...."
+TP
+
+//がっくり。
+Crestfallen.
+TP
+
+//そういうことか。
+Was that the reason then.
+TP
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC0003byou036
+//曜子「昼は戻ってくるから」
+Youko: "But I will be back at noon."
+TP
+
+WVS 1 1
+
+//だから二人分の弁当か。
+Hence lunch for two I guess.
+TP
+
+//……なんか曜子ちゃんが能動的だ。
+//……なんか曜子ちゃんが久しぶりに能動的だ。
+...somehow, Youko-chan's being active for the first time in a long while.
+//HACK tweaked line in the console version. -GHS
+TP
+
+//なんかあったか。
+Somehow something happened perhaps.
+TP
+
+//特に刺激するようなことしてないのに。
+But I haven't done anything in particular to 'stimulate' her.
+//Sexual and non-sexual. -GHS
+TP
+GO 1 1
+//頬に唇を押しつけて、部屋を出て行った。
+She pressed the lips against my cheek, then went out of the room.
+TP
+WT 500 0
+WT 500 1
+
+
+RET

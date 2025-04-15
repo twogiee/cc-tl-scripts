@@ -1,0 +1,233 @@
+
+GL 0 bgcc0010
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+SEF 152 0
+
+
+WVP 1 bgm007.ogg 0 0 0
+
+Tomoki was fixing the camouflage on the hallway-facing window.
+TP
+
+
+Taichi: "Heeey."
+TP
+
+
+GL 1 TCST0001
+GP 1 190 0
+GI 1 1
+
+WVP 0 vmCCD0001yki013
+Tomoki: "Uu, Taichi......"
+TP
+
+
+He moved away from the window, embarrassed.
+TP
+
+
+The club room was built with a window on the side facing the hallway.
+TP
+
+
+So that one could conduct surveillance from the outside.
+TP
+
+
+You can figure out why.
+TP
+
+
+Taichi: "......is there any meaning in fixing it?"
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmCCD0001yki014
+Tomoki: "It bothered me. There's no particular meaning to it."
+TP
+
+
+Meaningless...huh...
+TP
+
+
+That's certainly true. In practical terms.
+TP
+
+
+But what about with regards to the heart?
+TP
+
+
+GL 1 TCST0003
+GI 1 0
+WVP 0 vmCCD0001yki015
+Tomoki: "Stiiill, there really isn't anyone here."
+TP
+
+
+Taichi: "Yeah, it seems like it really is just us eight."
+TP
+
+
+WVP 0 vmCCD0001yki016
+Tomoki: "But still, this is just......"
+TP
+
+
+That's right, Tomoki hated Mimi-sempai.
+TP
+
+
+Even though she's his sister.
+TP
+
+
+There seem to be a lot of circumstances causing their surnames to be different.
+TP
+
+
+Family matters.
+TP
+
+
+Taichi: "Were you serious last night?"
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmCCD0001yki017
+Tomoki: "Nn?"
+TP
+
+
+Taichi: "When you said you would handle the food problem."
+//Sounds kinda awkward in this situation to use his name like that. In others, it's fine but this one is really off.-Spin
+TP
+
+GL 1 TCST0004
+GI 1 0
+
+WVP 0 vmCCD0001yki018
+Tomoki: "Yeah, I'll get on that this afternoon. I just came to see what was going on at school."
+TP
+
+
+Taichi: "Food..."
+TP
+
+
+It's not needed.
+TP
+
+
+The world's going to revolve in a week anyway.
+TP
+
+
+Even if I died, I'd recover.
+TP
+
+
+Taichi: "......"
+TP
+
+
+My heart quivered.
+TP
+
+
+No good......
+TP
+
+
+I have to calm down.
+TP
+
+
+Taichi: "Friendship wishes for-"
+//or was it "desires" nothing? Å`IX
+//It's "Besides, friendship asks for---" "Nothing at all." at cca0019, and "Friendship desires-" "Nothing." at CC0031c - Raide
+TP
+
+
+WVP 0 vmCCD0001yki019
+Tomoki: "Nothing."
+TP
+
+
+Gu!
+TP
+
+
+We gave each other a thumbs-up.
+TP
+
+GL 1 TCST0003
+GI 1 0
+
+WVP 0 vmCCD0001yki020
+Tomoki: "......you're sudden."
+TP
+
+
+Taichi: "Hey, Tomoki."
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmCCD0001yki021
+Tomoki: "Nn?"
+TP
+
+
+Taichi: "Are you......fighting with Mimi-sempai?"
+TP
+
+
+WVP 0 vmCCD0001yki022
+Tomoki: "Yeah......"
+TP
+
+
+Taichi: "Is that going to continue even in these times?"
+TP
+
+
+WVP 0 vmCCD0001yki023
+Tomoki: "......not really."
+TP
+
+He darkened.
+TP
+GL 1 TCST0004
+GI 1 0
+
+WVP 0 vmCCD0001yki024
+Tomoki: "I don't care about that person."
+TP
+
+
+Tough words.
+TP
+
+
+Taichi: "Though you seem to destroy a lot of things quarreling with her about manga and such."
+//quarrelling with double l is UK - Raide
+TP
+
+
+Tomoki made a horribly sullen face.
+TP
+
+WVS 1 1
+
+RET

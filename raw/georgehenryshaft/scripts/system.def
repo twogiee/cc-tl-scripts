@@ -1,0 +1,11 @@
+// システム予約済み変数
+NUM $B 0
+NUM $E 0
+NUM $R 0
+NUM $KAISOU 0
+
+// 以降に変数定義
+NUM $CIA 0
+NUM $CIB 0
+NUM $CIC 0
+NUM $CID 0

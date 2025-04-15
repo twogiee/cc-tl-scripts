@@ -1,0 +1,177 @@
+
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+
+SEF 152 0
+Today was hot.
+TP
+
+I felt like going to the beach.
+TP
+
+Come to think of it, we all went together last year.
+//It was either this or a comma after "last year". -Spin
+TP
+
+
+GL 0 bgcc0017s
+GS 0 1
+SEF 10 1
+
+
+WVP 3 se001 0 0 1
+
+
+WVP 1 bgm005.ogg 0 0 0
+
+The beach was fun.
+//CP_S ccb0020
+TP
+
+Even now, I can remember everyone frolicking around.
+TP
+
+
+GL 4 sgcc0009s
+$CGsgcc0009s = 1
+GP 4 0 0
+GI 4 1
+
+WVP 0 vfcca0027fyu004
+Touko: "Kiaaa!!? Where are you grabbing on to!!?"
+TP
+
+Taichi: "The part of your swimsuit covering your butt."
+TP
+GL 1 TCMM0000as
+GS 1 1
+GS 4 0
+SEF 109 0
+WVP 0 vfcca0027msa004
+Misato: "Hasekura-san......just what kind of relationship does she have with Kurosu-kun?"
+TP
+
+Taichi: "Nn? Youko-chan?"
+TP
+GL 1 TCKT0004as
+GL 2 TCMM0004as
+GL 3 TCYM0001as
+GP 1 -40 0
+GP 2 210 0
+GP 3 420 0
+GS 1 1
+GS 2 1
+GS 3 1
+SEF 109 0
+
+
+
+
+
+WVP 0 vfcca0027doz000
+Touko: "Youko-chan!?"
+Misato: "Youko-chan!!?"
+Miki: "Youko-chan!!!?"
+Tomoki: "Youko-chan!!?"
+SEF 101 0
+TP
+
+GL 4 TCYM0000as
+GP 4 180 0
+GS 4 1
+GS 3 0
+GS 2 0
+GS 1 0
+SEF 109 0
+
+WVP 0 vfcca0027mki016
+Miki: "Now you're the yakuza."
+TP
+GL 1 TCMM0005as
+GP 1 235 0
+GS 4 0
+GS 1 1
+SEF 109 0
+
+
+WVP 0 vfcca0027msa013
+Misato: "No-not my body..."
+TP
+
+GL 2 TCDY0000as
+GP 2 240 0
+GS 1 0
+GS 2 1
+SEF 109 0
+
+
+
+WVP 0 vfcca0027ysa001
+Yuusa: "Ummm, excuse, excuse, excuse, me!!!!!"
+TP
+
+GL 0 evcc0007s
+$CGevcc0007s = 1
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 155 0
+WVP 0 vfcca0027fyu024
+Touko: "Iiidiot."
+TP 
+WVP 0 vfcca0027ysa015
+Yuusa: "Ah! Spin! Spinning!?"
+TP
+WVP 0 vfcca0027mki029
+Miki: "Ow, owwww, my forehead hurts..."
+TP
+WVP 0 vfcca0027msa026
+Misato: ......*muttering*
+TP
+Taichi: "But it was fun."
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+Our fun sea bath ended there.
+TP
+
+Miki's wound left a very small scar.
+TP
+
+Even so, she was bright and cheerful on the way home.
+TP
+
+As if she'd gained something through being hurt.
+TP
+
+It was that kind of face.
+TP
+
+Afterward, Misato-sempai returned to school to help carry the Broadcasting Club's newly delivered antenna.
+TP
+
+Tomoki, who still hadn't broken off relations with his sister, said something sarcastic.
+TP
+
+That siscon behavior of his was made fun of by Miki ever since, even into their third year at Gunjou.
+TP
+
+Yuusa-chan, for the first time, opened her heart a little toward a group of other people.
+TP
+
+That's what the beach meant to us.
+TP
+
+
+
+WVS 3 1
+
+WVS 1 1
+
+
+RET

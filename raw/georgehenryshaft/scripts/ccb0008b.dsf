@@ -1,0 +1,682 @@
+//This script seems to be the major inspiration for CCZDXC. Pretty similar in format and contents. -GHS
+
+
+
+
+//微笑む少女の胸元に、自然な挙措で手が伸びた。
+With manners nonchalant my hand extended towards the chest of this smiling girl.
+//CP CCA0009BB
+//Dunno why it's copypasta, since he's not going towards the chest. Intentionally confusing maybe. -GHS
+TP
+
+//隙を突かれたのか、美希は笑顔のまま身動き一つしなかった。
+Perhaps because it caught her unaware, Miki didn't make one movement as she stood there smiling.
+//CP CCA0009BB
+TP
+
+WVP 2 SE072 1 0
+//キイィ
+Creeeak.
+//This is read "kii" (pr0nounced "key"). -GHS
+TP
+
+//なぜか扉の開く音がした。
+For some reason there was the sound of a door opening.
+TP
+GL 0 evcc0021a
+//BTW, in the 360 and reprint edition that sign's legible, so if you're wondering (...), it says "ろーか　はしんな", "no running in the corridors!". Though I'd totally translate that as Runn'nt in da CorridarZ because (looks left) (looks right) (ends comment here) -GHS
+$CGevcc0021a = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+
+//事実、それは地球上の男子２５億にとって（現在三人）の、施錠されていない神秘の扉。
+Verily, that, for the 2.5 Billion Males Walking the Earth (currently existing: three), it is the Neverlocked Door of Mystery.
+//Unfortunately it doesn't seem to imply "three billion", just the three of them. -GHS
+TP
+
+//全人類に足蹴にされることを運命づけられた不幸なる大地と床だけが覗き見ることを許される、秘儀たる領域。
+It is a territory worthy of being called a Sancta Sanctorum this, which is allowed to be peeked only by what is predestined to the misfortune of being stepped upon by all mankind, the ground and the floor.
+TP
+
+//だが、そんなたいそうなものでありながら、チェッリー・ティーンがスイorアマイバインディングヤングアダルトになるために誰もがくぐるべき入り口でもある。
+But, while being that as well, it is also the entranceway through which all Cherry Teens must pass to become Young Adults who make binding of both the Bitter OR the Sweet.
+//That 'or' is almost certainly intentionally wrong, as it combines Taichi's intentionally half-assed English with his bullcrap about Young Adults (that have tasted both bitter AND sweet). -GHS
+TP
+
+//ただしそのドアは、四角形ではなく三角形ではあるが（米笑）。
+//※米笑＝太一表記。（笑）の亜種。米国風の笑いを意味する。
+That provided, this door is no tetragon, but rather a three-angled polygon (ULOL)
+> 
+* ULOL = Taichian lolspeak. A subspecies of the common
+  LOL, meaning an U.S. American style laughter.
+TP
+
+
+
+//米国人はギャグを言い終わると自分で笑う（それがどんなに寒々しくても！）まこと奇怪な習性があることから、特にしょうもない言い回しを使った際に天然で使ったと思われぬよう自虐的な意図も込めて使用する。
+  When Americans finish saying a joke (no matter how
+  lame!), they have the truly strange habit of laughing
+  by themselves. Because of this, their use of 
+  less-than-exceptional material does not appear as
+  spontaneous, but rather as having a masochistic intent.
+//インカ帝国はいいんか？ (untranslatable, and mercifully so) http://www.geocities.jp/sabu1117/samsam.htm This isn't exactly anti-American, isn't it. In fact, it makes Taichi sound even more foreign. -GHS
+TP
+
+
+WVP 0 vfcca0009bmki000
+//美希「……しまった」/*
+Miki: "...dammit."
+//CP CCA0009B
+TP
+
+//笑顔のまま、口元を引きつらせる。
+Still smiling, the edge of her lips begin to twitch.
+//CP CCA0009B
+TP
+
+//太一「ごめん、無意識に手が」
+Taichi: "Sorry, alien hand syndrome, it just went on its own."
+//CP CCA0009B
+TP
+
+WVP 0 vfcca0009bmki001
+//美希「いえ、うっかりしていたわたしが悪いのです」/*
+Miki: "No, it's my bad for having been careless."
+//CP CCA0009B
+TP
+
+
+//太一「あの、こんなこと俺が言うのもなんだけど……そのランジェリー、とってもセクシーだね。お兄ちゃんちょっびっくりしてる。いい意味で」
+Taichi: "Uhm, I shouldn't exactly be saying this but... that lingerie is veeery sexy innit. Onii-chan is hyyyper surprised. In a good sense."
+//PCP CCA0009B
+TP
+
+WVP 0 vfcca0009bmki002
+//美希「恐縮です。いつ手を離していただけますでしょうか」/*
+Miki: "Much obliged. When will this hand finally distance itself?"
+//CP CCA0009B
+TP
+
+//太一「そ、その、その下着は、美希の清楚な、下着っ、デルタが、清楚な、体は正直っ、色がっ、しっとり包んでっ、こうっ、子猫ちゃんがっ」
+Taichi: "Th-, that, that underwear, pure and clean Miki, underwear, the delta, pure and clean, body has evidence, the color, gracefully enclosed, like this, that little kitten...!"
+TP
+
+//思考が千々に乱れる。
+Thoughts come out in disorganized fragments.
+TP
+
+WVP 0 vfccb0008bmki000
+//美希「さー、それ以上は精神的にも危険ではありませんでしょうか？」
+Miki: "Sah! Since any further of this would be mentally dangerous, how about we let that be all?"
+TP
+
+
+
+//太一「いや、とても無理だ。この手は我が手ではないかのように石化してしまった。鍵っ子が自宅の鍵をキーピックするみたいに気軽に解除することはできない」
+Taichi: "Nope, totally impossible. This hand is as if it were no longer a hand of mine, petrified as it got. Like a young child entrusted with the keys to home yet picking said home's lock, there is no possibility of simple interruption."
+//Best guess it's about pussy (oh, really, no, you don't say), coming out of one -> latchkey kid, going back into another = picking the lock. Ergo, lockpick is now also a word for dick. You're welcome. See CCC0011C (maybe) -GHS
+TP
+
+//太一「しかし……美しいものだ」
+Taichi: "But still... really beautiful, they are."
+TP
+
+WVP 0 vfccb0008bmki001
+//美希「は、ありがたきお言葉。そろそろお離しいただければ幸いです」
+Miki: "Ah, my appreciation for your courteous words. I would be happy if I could be granted your slow but steady distancing."
+TP
+
+//太一「どんな美少女フィギュアよりも、この生気ある瑞々しさは再現できまい。あの教師にしてフィギュア界にその名を轟かせる一流造形師である榊原潔教諭の腕をもってしてもだ！」
+Taichi: "No Bishoujo Figurine could ever reproduce this vibrant vitality. Not even the skills of licensed teacher Sakakibara Kiyoshi, whose name is yet well-known in the Figurine community as a first-class molding expert, could do it!"
+//Second appearance of Sakakibara-sensei (he taught Yusa's class). There's a good handful of readings for his first name, I went with this because it's the most typical. It's also nearly identical to kyoushi, which means 'teacher' (specifically of classrooms). Curiously, http://www.official.jimu.juen.ac.jp/teacher/j_kyo_info.php?j_id=730 - but I think it's unrelated. -GHS
+TP
+
+WVP 0 vfccb0008bmki002
+//美希「……殺すぞ」
+Miki: "...I'll kill yah."
+TP
+
+GL 0 bgcc0008
+GS 0 1
+SEF 109 0
+//HACK back a line earlier. -GHS
+
+//太一「ひぃぃぃぃぃぃっ、本気の目ですね！？」
+Taichi: "HyYyYyYy, what's with those serious eyes?!"
+//Regression into bad translation. If blah blah ぃx7. -GHS
+TP
+
+
+//狩人の目だった。
+Those were the eyes of a hunter.
+TP
+
+//離れる。
+I distanced myself.
+TP
+
+//太一「あ、でもずいぶん大人っぽいのを履いてらっしゃるんですね、そのう」
+Taichi: "Ah, but, those are some extremely adult things you've come to wear, most assuredly."
+TP
+
+//敬語になってしまう。
+I started speaking a little more politely than usual with her.
+//Adapted due to duh -GHS
+TP
+//GL 1 TCYM0021
+GL 1 TCYM0001
+//HACK More serious Miki -GHS
+GI 1 1
+
+WVP 0 vfccb0008bmki003
+//美希「……ええ、まあ」
+Miki: "...yeah, well."
+TP
+
+//少し赤面して美希。
+Miki grows a bit embarrassed.
+TP
+
+WVP 0 vfccb0008bmki004
+//美希「その、水とか出ないんで、洗濯とかできないですし」
+Miki: "It's that, since there's no running water I cannot do the laundry."
+TP
+
+GL 1 TCYM0021
+GL 1 0
+//HACK doubty Miki -GHS
+
+WVP 0 vfccb0008bmki005
+//美希「お店に行けば新しいのはありますし」
+Miki: "If you go to the store they have new ones."
+//That's a load. She's just poor, and likely pilfers them. Or maybe her mother just buys them, and she stole them from her. -GHS
+TP
+
+//しかもタダだ。
+And free of charge.
+TP
+
+//太一「それで……普段は買えないようなセクシーなやつを持って来ちゃったの？」
+Taichi: "Therefore... you've brought with the sexy stuff you normally can't buy, right?"
+//Curiously, in the 360 version the "brought with" part was eliminated. This line has always bothered me for the same reason, but it sounds too much like censoring rather than actual fixing. -GHS
+TP
+
+GL 1 TCYM0002
+GI 1 0
+//HACK ...with this doll change things work much smoother regardless. Without it, it's nowhere near clear enough that Miki understands her panties are sexy - just not that they're a sex aid. -GHS
+
+WVP 0 vfccb0008bmki006
+//美希「……はい」
+Miki: "...yes."
+TP
+
+//うーん。
+Ohhh-key.
+TP
+
+//けどどうしよう、教えた方がいいのかな。
+So, what to do, how should I tell her this?
+TP
+
+//放置しておいてあげるべきなのか。
+Would it perhaps be best to leave it as is?
+TP
+
+//太一「あ、あのね、美希りん」
+Taichi: "Ah, say now, Miki-rin..."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb0008bmki007
+//美希「美希りんです。なんですか？」
+Miki: "Miki-rin I am. What is it?"
+TP
+
+//太一「その下着さ……俺ちょっと知ってるんだけど」
+Taichi: "That underwear... I just sort of know about it, but,"
+TP
+
+//太一「えーと」
+Taichi: "weeell,"
+TP
+
+//太一「あのね、それって玩具下着なんだよ。オープンショーツとかホーニーショーツとか言う」
+Taichi: "say now, those'd be sorta totally play underwear. Open Shorts, or Horny Shorts, they're called."
+//still girly -GHS
+TP
+
+GL 1 tcym0021
+GI 1 0
+//HACK doubty Miki -GHS
+
+WVP 0 vfccb0008bmki008
+//美希「は？」
+Miki: "Huh?"
+TP
+
+//太一「えーとね、大人のね、玩具のね、下着なのね」
+Taichi: "Well you see, sort of adult, yes, sort of plaything, eh, sort of underwear, yes..."
+//girrrrliest -GHS
+TP
+
+//つんつんと指先を見合わせる。
+My fingertips bounce off of each other in the manner of someone aloof and easily irritated.
+//Tsun-tsun. -GHS
+TP
+
+//太一「だから……まーつまり、脱がずにＨできちゃうよう秘密の部分に切れ込みが入ってたりするんだわ」
+Taichi: "Therefore... weeell so to say, there might be a slit in there around the secretmost parts so you can have sex without taking them off, yes."
+TP
+
+//太一「これって、一種のショートカットとも言えるよね！」
+Taichi: "It could be possibly said that this is a kind of shortcut!"
+TP
+
+//人差し指を立てつつ、満点の笑顔を向ける。
+Raising the index finger, I show her a perfect-score smile.
+TP
+
+//と。
+And,
+TP
+
+WVP 0 vfccb0008bmki009
+//美希「……………………」
+Miki: "............"
+TP
+GO 1 1
+
+WVP 2 SE073 1 0
+//ダダダダダダダダダッ
+TrampleTrampleTrample!
+SEF 101 0
+TP
+
+
+//走り去った。
+She ran away.
+TP
+
+//トイレに消えて一分。
+She stays vanished in the toilet for one minute.
+TP
+WVP 2 SE073 1 0
+//戻ってきた。
+And she returns.
+TP
+GL 1 TCYM0004
+GI 1 1
+
+WVP 0 vfccb0008bmki010
+//美希「こここコレコレコレコレッッッ！？」
+Miki: "Th-Th-This it's it's it's iiiit's?!?!"
+TP
+
+//太一「たぶん君はアトミック雑貨（旧木村雑貨店）から下着調達したんだと思うけど、あそこ普通の下着とアダルト下着並べて売ってるんだよね。ほら、そばが団地じゃん？　若奥様相手のラインナップなんだろうね」
+Taichi: "I think that maybe you went for underwear procurement to Atomic General Store (formerly Kimura General Store), because they sell normal underwear and adult underwear side-by-side there."
+//Line split -GHS
+TP
+Taichi: "Say, isn't that just near that apartment building? Must be the lineup for the partners of those young wives!"
+//Odd that Taichi wouldn't know that that's where Miki lives... maybe he's being sarcastic, i.e., the hint is that Miki's mother bought those for her husband, perhaps same with the elephant wear, and Miki just pilfered them? Miki's parents would also be pretty frisky. That, or see CCC4003: the hint may be that the shop still works. -GHS
+TP
+
+//太一「俺もよく利用してまーす」
+Taichi: "It is my favorite shop in Kamisaka!"
+//This seems intended to sound like a testimonial, so even if it's sooorta old-memeish this should work as intended. -GHS
+TP
+WVP 2 SE100 1 0
+
+//歯を輝かせて親指を立てた。
+Shining my teeth, I flicked out my thumb.
+TP
+
+WVP 0 vfccb0008bmki011
+//美希「うひーーーーっ！？」
+Miki: "uHYYyYY?!"
+//SEF 101 0
+GP 1 165 15
+GI 1 0
+GP 1 180 30
+GI 1 0
+GP 1 195 15
+GI 1 0
+GP 1 180 0
+GI 1 0
+//HACK independent doll shake -GHS
+TP
+
+//股間を前後からがっしとおさえた。
+She held down her nethers front and back tightly.
+//ガッシ? -GHS
+TP
+
+//太一「落ち着き」
+Taichi: "Calm down."
+TP
+
+//太一「でもそんなの履いて痴漢に遭遇したら大変なことになるね」
+Taichi: "Though if you were to have a random encounter with a perverted molester while wearing that, things would become really problematic wouldn't they."
+TP
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfccb0008bmki012
+//美希「ふわわわわ」
+Miki: "F'WahWahWahWah!"
+//4 dashes above, 4 'wa' here. -GHS
+TP
+
+//美希は股間を押さえて、もじもじ脚をすりあわせた。
+Continuing to hold her nethers down she starts rubbing her knees together with a nervous twitch.
+TP
+
+//太一「……さて」
+Taichi: "...but then."
+TP
+
+//太一「霧ちんがこのことを知ったらどうなるかなー」
+Taichi: "If Kiri-chin were to learn of this here, how would she react I wonder."
+TP
+
+//架空の煙草を吸った。
+I smoked an Imaginary cigarette.
+TP
+//GL 1 TCYM0001
+GL 1 TCYM0004
+//HACK shocked Miki -GHS
+GI 1 0
+WVP 0 vfccb0008bmki012-2
+//美希「なっ、せんぱい、まさか！？」
+Miki: "No, Senpai, you wouldn't?!"
+TP
+
+//太一「あの潔癖性の霧が知ったら、うひ」
+Taichi: "If that neat freak Kiri were to learn of this, whooa!"
+TP
+
+//太一「フラワーズも解散か？」
+Taichi: "Would the Flowers break up?"
+TP
+
+GL 1 TCYM0041
+GI 1 0
+
+WVP 0 vfccb0008bmki013
+//美希「にゃごー！？」
+Miki: "Mewgooo?!"
+//Catspeak. -GHS
+TP
+
+//すがりついてくる。
+She clings on to me.
+TP
+
+//太一「……ミキミキがこぉんなＨな下着を履いているなんて。不潔」
+Taichi: "...that Miki-Miki would wear something this perverted under her skirt. Filthy!"
+TP
+
+//太一「お弁当交換もなしだね」
+Taichi: "Trading of boxed lunches would cease."
+TP
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfccb0008bmki014
+//美希「それだけはー！」
+Miki: "But that's insaaane!"
+//PCP CCA0015
+TP
+
+//太一「ならば言うこときくか！」
+Taichi: "Then you shall do what I say!"
+TP
+
+WVP 0 vfccb0008bmki015
+//美希「処女よこせとか以外だったら～」
+Miki: "Only if it doesn't involve handing over my virgiii～nity!"
+TP
+
+//太一「いいだろう。では命じる」
+Taichi: "Don't worry. So, this is my command!"
+TP
+
+//頭に手を乗せる。
+I place my hand on her head.
+TP
+
+//美希は少しびくっとしたが。
+Miki gave a little start, but,
+TP
+
+//嫌がらない。
+there's no hate.
+TP
+
+//太一「掃除をするんだ」
+Taichi: "Keep scrubbing."
+//See CCB0007 -GHS
+TP
+
+//GL 1 TCYM0000
+GL 1 TCYM0004
+//HACK surprised Miki -GHS
+GI 1 0
+WVP 0 vfccb0008bmki016
+//美希「……ゑ？」
+Miki: "...{ae}h?"
+//Alternative: "I HAVE READ YOUR DIARIES, TAICHI" -GHS
+TP
+
+//太一「いや、二者択一だな」
+Taichi: "No, I'll give you two possible selections."
+TP
+
+//太一「掃除か、まふまふかだ！」
+Taichi: "Cleaning, or Mof Mof!"
+TP
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfccb0008bmki017
+//美希「まふまふとは？」
+Miki: "And Mof Mof is...?"
+TP
+
+//太一「うむ、まふまふとは……」
+Taichi: "Well, Mof Mof would be..."
+TP
+WVP 2 se100 1 0
+GL 5 i0034
+//http://vndb.org/v4965 yes, I checked that out, yes, I own a copy, yes, it's important. Because Cross Channel. -GHS
+GI 5 0
+GS 5 0
+SEF 109 0
+//太一「と、このような行為だな」
+Taichi: "Yes, an act sort of like that."
+TP
+
+//太一「脚と脚の間に顔をつっこんで、まふまふ、まふまふ……」
+Taichi: "You thrust the head in the space between left leg and right leg, then Mof Mof, Mof Mof..."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfccb0008bmki018
+//美希「ペッティングっす！」
+Miki: "That's heavy petting!"
+TP
+
+WVP 0 vfccb0008bmki019
+//美希「まふまふとか可愛く称してもだめっす！　ペッティングっす！」
+Miki: "You can't just stick a cute name like Mof Mof to it! It's heavy petting!"
+TP
+
+//太一「したいなー、まふまふ」
+Taichi: "Wanna dooo it yeees, Mof Mof..."
+TP
+
+GL 1 TCYM0041
+GI 1 0
+WVP 0 vfccb0008bmki020
+//美希「いやーーーっ、まふまふはいやーーーーーっ！！」
+Miki: "NoOoO! Mof Mof gets a nOOOooo!!!"
+//ーx3+ーx5=8 -GHS
+TP
+
+//太一「霧に嫌われるか、それともまふまふか！　開戦か、和平か！」
+Taichi: "Being hated by Kiri, or Mof Mof! Outbreak of war, or maintaining the peace!"
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfccb0008bmki021
+//美希「はい、あの、掃除って？　掃除はだめなんですか？」
+Miki: "Yes, uhm, cleaning? Is cleaning not an option now?"
+TP
+
+//涙目で挙手。
+She holds up a hand with eyes full of tears.
+TP
+
+//太一「ふむ。掃除を選ぶのかね？」
+Taichi: "Hum! You choose cleaning, then?"
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb0008bmki022
+//美希「掃除って……ただの掃除ですよね？」
+Miki: "Cleaning... the normal kind of cleaning, right?"
+TP
+
+//太一「いや、掃除には違いないんだけど、洗う場所がね……フフフ」
+Taichi: "Nope, the cleaning is no special thing, but, where you shall be cleaning... hoooh hoh hoh!"
+//Noblewoman's laugh -GHS
+TP
+GO 1 1
+WVP 0 vfccb0008bmki023
+//美希「貞操終了」
+Miki: "Chastity terminated."
+//This line in the console version is Misato's "owatta". -GHS
+TP
+
+//美希は屈した。
+Miki yielded.
+TP
+
+WVP 0 vfccb0008bmki024
+//美希「風が語りかける。長いようで短かった処女の日。今日、わたしは一歩大人になる。もっとも望まないかたちで―――」
+Miki: "The wind is talking to me. The days of virginity are short, long though they appear. This day, in one step I will become adult. In a way that I absolutely did not wish for or expect..."
+//See CCA0016. -GHS
+TP
+
+//架空番組のナレーションを読みだした。
+She reads the narration for an Imaginary broadcast program.
+//Because of all the radio stuff, specifying "TV" seems just erroneous. -GHS
+TP
+
+//太一「冗談だ」
+Taichi: "That was a joke."
+TP
+
+GL 1 TCYM0002
+GI 1 1
+
+WVP 0 vfccb0008bmki025
+//美希「えぐえぐ、せめて優しくしてください……」
+Miki: "Sob, sob... at least be gentle, pleeease..."
+TP
+
+//太一「冗談だというのに」
+Taichi: "I told you it was a joke."
+TP
+
+//太一「ほれ、モップだ」
+Taichi: "Come one, here's the mop."
+TP
+
+//手渡す。
+I hand it over.
+TP
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb0008bmki026
+//美希「……？」
+Miki: "...?"
+TP
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfccb0008bmki027
+//美希「モッププレイを？」
+Miki: "Mop playacting?"
+TP
+
+//太一「エロから離れて良い」
+Taichi: "You may distance yourself from the erotic."
+TP
+
+//まだ美希はきょとんとしていた。
+Miki was still looking on in blank puzzlement.
+TP
+
+//太一「掃除してたんだろう？」
+Taichi: "Weren't you cleaning?
+TP
+
+//こくと頷く。
+Bob, she nods.
+TP
+
+//太一「では、すみやかに掃除を続けたまえ」
+Taichi: "Therefore, gladden me with a most prompt continuation of cleaning!"
+//See CCC0026. -GHS
+TP
+
+//太一「望むままにだ」
+Taichi: "That is my desire."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb0008bmki028
+//美希「は……」
+Miki: "Ah..."
+TP
+
+WVP 0 vfccb0008bmki029
+//美希「ども」
+Miki: "Thanks."
+TP
+
+//なんのことはない。
+I didn't do enough to cause her problems.
+TP
+
+//自分ではたき落として自分で引き上げただけだ。
+She struck down herself, then she raised back up by herself.
+//Erroneous reaction to a pattern that was expected but did not occur, continuing the idea that this unreset Miki doesn't yet understand that Taichi's a variable, not a constant. This stuff'd have been so much more obvious if there'd been more choices... -GHS
+TP
+
+//太一「この黒須太一に惚れることを許可する」
+Taichi: "You have authorization to fall in love with Kurosu Taichi here!"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfccb0008bmki030
+//美希「申請取り消します」
+Miki: "Petition nullified."
+TP
+
+//太一「ガッデム！」
+Taichi: "Goddamn it!"
+TP
+RET

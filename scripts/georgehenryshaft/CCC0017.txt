@@ -1,0 +1,34 @@
+
+[Miki]
+"...?"
+
+[Taichi]
+"Say say, you do have some proper food?"
+//"yeppy yep" doesn't seem to fit here. -GHS
+
+[Miki]
+"Yes. It's completely all right."
+//Plural neutral -GHS
+[Miki]
+"But when it comes to handmade cooking, it's a bit like, you know..."
+//She can't cook worth crap, though Kiri can. See CCZAS. -GHS
+
+A bitter smile.
+
+[Taichi]
+"Lunch is therefore canned food."
+
+[Miki]
+"Exactly, bread and canned food."
+//Unless she goes for procurement, then it's mostly junk food, see CCC3019A. -GHS
+
+[Taichi]
+"...that's one damn destitute lunch."
+
+[Miki]
+"Tahahah."
+//(She's poor.) -GHS
+
+CSQ 0 1 1
+ - Give sandwiches
+ - Don't give

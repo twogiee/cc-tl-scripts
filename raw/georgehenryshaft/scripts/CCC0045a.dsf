@@ -1,0 +1,810 @@
+
+
+GL 0 bgcc0005a
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//帰り道。
+On the way home,
+TP
+GL 1 TCCN0100b
+GP 1 180 0
+GI 1 1
+WVP 0 vfCCC0045annk000
+//七香「へーい」
+Nanaka: "Heeey!"
+TP
+
+//そばに七香がいた。
+Nanaka was right next to me.
+TP
+
+//忽然と立ち現れたような……。
+As if manifested all of a sudden...
+//Like Youko does. -GHS
+TP
+
+//太一「あ、七香……」
+Taichi: "Ah, Nanaka..."
+TP
+
+WVP 0 vfCCC0045annk001
+//七香「お元気ー？」
+Nanaka: "In spirits?"
+//I actually don't think there's a law that demands ghosts to always ask this question, but let's say it's totally gonna happen in the near future. It's forwards-compatible thinking, mine. -GHS
+TP
+
+//太一「そんなことより、あの祠って―――」
+Taichi: "More importantly, that hokora---"
+TP
+
+GL 0 evcc0010a
+$CGevcc0010a = 1
+GS 0 1
+GS 1 0
+SEF 155 0
+//HACK CG earlier -GHS
+//抱きしめられた。
+I was embraced.
+TP
+
+//太一「うぐっ？」
+Taichi: "N'uguh?"
+//Almost-Kanon again. -GHS
+TP
+
+WVP 1 bgm021.ogg 0 0 0
+
+WVP 0 vfcca0023nnk031
+//七香「楽しいって、言えるなら、いいじゃん」/*
+Nanaka: "You said fun, and if you can say that, 's all right."
+//CP CCA0023
+TP
+
+//太一「いや、言ってないし」
+Taichi: "No, I didn't say that."
+TP
+
+//つうか会話に脈絡ないんですけど。
+There is no chain of logical connection going through this conversation, however,
+//Oddly formal -GHS
+TP
+
+//なんなんだこの唐突感動イベントは……。
+what is even with this sudden Emotionally Moving Event...
+//Technical term. It's got a CG and everything! -GHS
+TP
+
+//しかし、それはそれとして。
+Anyway, be that as it may.
+TP
+
+//あいまいな胸の柔らかさ。
+The ambiguous softness of a breast.
+//CP CCA0023
+TP
+
+//少女の香り。
+The scent of a girl.
+//CP CCA0023
+TP
+
+//不思議と、猥雑なものは感じない。
+Inexplicably, I feel nothing out of order.
+//CP CCA0023
+TP
+
+//抱かれた時の感覚が、曜子ちゃんとは違った。
+The feeling at the moment of embrace was so different from Youko-chan's.
+//CP CCA0023
+//Honorific was already fixed in this script, must be a newer edit pass. There'll be a few, mostly around new text. I suspect Tanaka wrote the whole thing, copy-pasted what he had, and then fixed things haphazardly. -GHS
+TP
+
+WVP 0 vfcca0023nnk032
+//七香「その言葉は、嬉しいんだ。すごく」/*
+Nanaka: "Those words... they make me happy. Really."
+//CP CCA0023
+TP
+
+//太一「なにも言ってないが……」
+Taichi: "But I didn't say anything..."
+TP
+
+WVP 0 vfcca0023nnk033
+//七香「強くならないと生きる資格がないわけじゃないから」/*
+Nanaka: "Because never becoming strong is not a disqualification from living."
+//CP CCA0023
+TP
+
+//太一「聞いちゃいねぇ」
+Taichi: "Listen to what you're being told!"
+TP
+
+WVP 0 vfcca0023nnk034
+//七香「弱いままでも、いいんだよ」/*
+Nanaka: "Remaining weak is... still fine."
+//CP CCA0023
+TP
+
+//太一「聞けよ！」
+Taichi: "You listening or not!"
+//CP CCC0003B (and that's the second time)
+TP
+GL 0 bgcc0005a
+GS 0 1
+GS 1 0
+SEF 155 0
+
+//わけがわからなかった。
+I didn't understand any of this.
+TP
+
+//太一「胸の感触はすごくよかった」
+Taichi: "I'm really glad to have experienced the tactile feeling of your chest."
+//That sounds sooo sweet if you think about it. -GHS
+TP
+
+GL 1 TCCN0100b
+GP 1 180 0
+GI 1 1
+
+
+WVP 0 vfCCC0045annk002
+//七香「……正直すぎる」
+Nanaka: "...too honest."
+//Yeah, Taichi, don't spoil it. -GHS
+TP
+
+//太一「ただわけはわからなかった」
+Taichi: "It's just that I didn't get this at all."
+TP
+
+WT 1000 0
+//HACK wait for a second. -GHS
+GL 1 TCCN0101b
+GI 1 0
+
+WVP 0 vfCCC0045annk003
+//七香「ごめん、間違えたよ」
+Nanaka: "Sorry, I mistook you, 's all."
+TP
+
+//太一「なにと？」
+Taichi: "For what?"
+TP
+
+//七香は頭をかいた。
+Nanaka scratched her head.
+TP
+GL 1 TCCN0102b
+GI 1 0
+WVP 0 vfCCC0045annk004
+//七香「別のと」
+Nanaka: "A different one."
+//So if Nanaka is a memory, and therefore the error is Taichi's... -GHS
+TP
+
+//太一「理解できるように説明して」
+Taichi: "Explain in ways I can understand."
+TP
+
+GL 1 TCCN0100b
+GI 1 0
+WVP 0 vfCCC0045annk005
+//七香「キミってアンテナ設営の方、着手したみたいだけど、進捗はどう？」
+Nanaka: "Say you, it looks like you're setting out on helping the construction on that antenna, but how's progress?"
+TP
+
+//太一「あのな」
+Taichi: "Listen here."
+TP
+
+WVP 0 vfCCC0045annk006
+//七香「んい？」
+Nanaka: "W'at?"
+//Unlistenable moe affectations. -GHS
+TP
+
+//太一「わかるように話そう。まず……まずだ」
+Taichi: "Let's talk so that I can understand. First... first up is..."
+TP
+
+WVP 0 vfCCC0045annk007
+//七香「まず？」
+Nanaka: "First?"
+TP
+
+//太一「そうだな、いろいろあるんだが」
+Taichi: "Of course, there's a lots and a lots, but..."
+TP
+
+GL 1 TCCN0101b
+GI 1 0
+WVP 0 vfCCC0045annk008
+//七香「じゃあ一個だけ質問に答えてあげる。どんなことでも答えるよ？」
+Nanaka: "Theeen one single solitary question I'll give you an answer to. Ask me anything and I'll answer, OK?"
+//一個 -GHS
+TP
+
+//太一「パ、パンツの色はっ？」
+Taichi: "Co-, color of your panties?"
+TP
+GL 1 TCCN0100b
+GI 1 0
+WVP 0 vfCCC0045annk009
+//七香「今日は白。でもちょっとかわいいの。ブラとおそろいのやつなんだ」
+Nanaka: "Today they're white. But they're reeeally cute tho. They totally match the bra!"
+//Buruma are worn OVER panties, so she's not lying. And since her talks with Taichi were all one-sided (Taichi couldn't speak as a baby), the question she's asking and the answer she's giving are all a thing of hers. That's some sexual pranking. -GHS
+TP
+
+//太一「純白かぁ」
+Taichi: "Pure whiiite..."
+TP
+
+//少女の下着に思いを馳せた。
+I reflect nostalgically on the girl's underwear.
+//Do I even have to write a note here. -GHS
+TP
+
+GL 1 TCCN0100b
+GI 1 0
+//HACK normal Nanaka instead of redisplaying current doll. -GHS
+
+WVP 0 vfCCC0045annk010
+//七香「じゃ質問はこれで打ち切ります」
+Nanaka: "Well, the questioning round is with this brought to a close."
+TP
+
+//太一「うおー、しまったー、世界の謎がー！」
+Taichi: "Woooooh, dammiiiit, what about the mystery of this wooorld!!!"
+TP
+
+//反射的に質問してしまったぁ！
+I fired off a question by refleeex!
+TP
+//太一「俺は馬鹿だぁ！」
+Taichi: "I am so stupiiid!"
+TP
+GL 1 TCCN0101b
+GI 1 0
+//HACK closed-eyes Nanaka instead of redisplaying now-current doll -GHS
+WVP 0 vfCCC0045annk011
+//七香「そしてエロい」
+Nanaka: "Also perverted."
+TP
+
+//太一「……取り消しだめ？」
+Taichi: "...takebacks are a nope?"
+TP
+
+GL 1 TCCN0102B
+GI 1 0
+//HACK slightly serious Nanaka -GHS
+
+
+WVP 0 vfCCC0045annk012
+//七香「ダメー」
+Nanaka: "Nooo-ooope."
+TP
+
+//腕でバッテンを作る七香。
+Nanaka crosses her arm into a X, making the Batten mark of denial and failure.
+//See CCD1001, was a nickname proposal. It's also possibly a reference to the prescient diatribe Nyoro~n Churuya-san, which warned about the perils of consuming smoked cheese. Unfortunately they went unlistened, and that caused the great Smoked Collapse Event of 2007, which caused the daily intake of psychotropics in the average Japanese to effectively doubled, curiously to no apparent effect. -GHS
+TP
+
+WVP 0 vfCCC0045annk013
+//七香「次の機会だね」
+Nanaka: "Next chance, 'K."
+TP
+
+//太一「次って、俺もうこの会話忘れちゃってんじゃん」
+Taichi: "Next? But I'll have forgotten this conversation by then, won't I."
+TP
+
+WVP 0 vfCCC0045annk014
+//七香「ほう。気づかれましたか」
+Nanaka: "Hoh. You have noticed then."
+//法 law? -GHS
+TP
+
+//太一「気づくさ。けど気づいただけで、どうしてこんなことになったとか、人類どうなったとか、わかんないことだらけだ」
+Taichi: "Noticed I did. But even noticing that I'm still full of stuff I dun'no, like, say, why has this all ended up like this, or what happened to humanity."
+//But if this is a replay of a previous conversation, what exactly does she want him to 'notice', exactly? Given her pointing to the hokora means religion, and the hokora is full of the history of the world, what she's asking him is to notice the power of the Bible as a predictor of human behavior and history. -GHS
+TP
+GL 1 TCCN0101b
+GI 1 0
+WVP 0 vfCCC0045annk015
+//七香「どうしてこうなったか、なんてあたしにもわからんよ」
+Nanaka: "As to why this all ended up like this, I don't understand it myself either."
+//Understand. Not necessarily not know... -GHS
+TP
+
+//太一「……そ、そうなのでちゅか？」
+Taichi: "...is-, icchat so now?"
+//If he's gonna talk like a baby... -GHS
+TP
+
+//小首を傾けて、可愛らしく問いかける。
+Tilting my neck, I ask the question in an adorable way.
+TP
+GL 1 TCCN0100b
+GI 1 0
+WVP 0 vfCCC0045annk016
+//七香「そうなのでちゅよ」
+Nanaka: "'Cchat is so!"
+//...but who was actually doing the baby talk there? This is more evidence that this is a scene replay, though whether there's something more filtered in it is harder to say. -GHS
+TP
+
+//小首を傾けて、可愛らしく返された。
+Tilting her neck, she answered the question in an adorable way.
+TP
+
+WVP 0 vfCCC0045annk017
+//七香「まあ……こうなったとしか言えない」
+Nanaka: "Well... besides that it did get like this I can't say."
+//Well, it's not like anything more happened. Or that she physically *can* tell him anything. -GHS
+TP
+
+GL 1 TCCN0101b
+GI 1 0
+WVP 0 vfCCC0045annk018
+//七香「理由を考えようにも、ぜーんぜんわかりまっせーん」
+Nanaka: "I think about the reason but still I don't understand aaaanything at aaall."
+TP
+
+//太一「えー」
+Taichi: "Awww."
+TP
+GL 1 TCCN0100b
+GI 1 0
+WVP 0 vfCCC0045annk019
+//七香「花も恥じらう女学生に何を期待しておるのかね」
+Nanaka: "What could you expect from a schoolgirl whose beauty would make even flowers blush!"
+//Remember all those vague Nanaka half-quotes from Miki? Now Nanaka's talking flowers. Hmmm. -GHS
+TP
+
+//太一「だいたいさあ、おかしいんだよ！」
+Taichi: "Well, first of all, that's kinda weird innit!"
+TP
+
+WVP 0 vfCCC0045annk020
+//七香「む、何が？」
+Nanaka: "Mnuh, what is?"
+TP
+
+//太一「普通、キミみたいな役割はもっと大人しい電波っぽい娘がやるものだろ！」
+Taichi: "Normally, roles like yours would be assigned to a much more docile Denpa-emitter of a crazy girl, definitely."
+//Nanaka's role as the Mysterious Phenomenon Explainer is indeed odd... until one notices the Mysterious Phenomenon is not scientific in nature, as it'd be in your normal anime or VN, but religious. Normally, the role would be Youko's, in fact, which means when SHE explains it it has to be troll. See CCZAS when Taichi (mis)"fixes" this discrepancy by making Youko the Club President. -GHS
+TP
+
+WVP 0 vfCCC0045annk021
+//七香「……はあ？」
+Nanaka: "...huuuh?"
+TP
+
+//太一「キミは勝ち気な幼なじみっぽいんだから、造形にふさわしく物語からの要請事項に従って俺の隣にでも住んで毎朝起こしに来いよ！」
+Taichi: "You're the unyielding childhood friend type, therefore, obey the matters demanded from stories suitable to be molds and live next door to me and come wake me up every day!"
+//"Be like an eroge character ripoff". Ironically, Youko (the real osananajimi) does come wake him, except... but even stranger, this same term 要請事項 returns in Youko's sendback route, see CCD5001 - this unfortunately demands a sort of odd translation so the term can be consistent. See CCZDXC for more molding. -GHS
+TP
+
+//指を突きつけた。
+I thrust a finger at her.
+TP
+
+WVP 0 vfCCC0045annk022
+//七香「……アホかおまいは」
+Nanaka: "...an idiot ya are."
+TP
+
+//太一「とんだミスキャストだ！」
+Taichi: "You're totally miscast!"
+TP
+
+//太一「ただ配置を変えれば特別なことをしてるとでも思ったか、低脳短絡が」
+Taichi: "If you think you're doing something special just by making changes from the normal arrangements, you're a short-cutting imbecile!"
+//VN writing criticism, consistent with CCA0023: no making simplistic changes and hoping for great twists. Tanaka takes the suggestion to heart: all the simple twists (characters that would be broken in real life are actually really broken in story) are actually not the real ones, and everything is way more complex. Such as the post-apocalyptic setting being pre-apocalyptic in the extreme, or the sci-fi setting being fantasy with religious subtext. -GHS
+TP
+
+//太一「そーいうのを表層的な思考と言うんだ」
+Taichi: "For that may certainly be said to be a surface-level reasoning!"
+TP
+
+//太一「変わったことがしたければ、根底からやってみろ。今まで誰もしたことがないようなやつをだ！」
+Taichi: "If you wanna make a change, try doing it from the grounds up. Do something that no one has ever done up until now!"
+TP
+GL 1 TCCN0101b
+GI 1 0
+
+WVP 0 vfCCC0045annk023
+//七香「その言葉全部返す」
+Nanaka: "All those words riiight back at ya."
+//As said, unless one actually looks deeper, nothing in Cross Channel seems like anything deeper than a simplistic subversion of stereotypes, so the above would be hypocritical. But after all, whenever Taichi tells the truth he does so without his knowledge... -GHS
+TP
+
+//太一「俺は表層的なアンチテーゼにばかり目を奪われた低脳短絡ですーっ！！」
+Taichi: "I am a short-cutting imbecile who is exclusively enthralled by superficial antithesiiiis!!!"
+//See CCZDXC. Also, Tanaka just called anyone who thought this was about plot twists a moron. Condolences. -GHS
+TP
+
+//泣き伏した。
+I broke down crying.
+TP
+GL 1 TCCN0100b
+GI 1 0
+
+WVP 0 vfCCC0045annk024
+//七香「泣くな泣くな、若者」
+Nanaka: "Cry not, cry not little one."
+//Mommy consoling her crying baby... as he, uhm, fails to design an eroge??? -GHS
+TP
+
+//太一「……ま、こうなったら次の機会に同じ質問をしてくれることを祈るのみだな」
+Taichi: "...well, if it turns like this, I pray that the next time we meet I'll ask just the same question."
+TP
+
+WVP 0 vfCCC0045annk025
+//七香「コレがまた意外と違うんだなぁ」
+Nanaka: "This one's already unexpectedly different, yes."
+TP
+
+//太一「え、そうなの？」
+Taichi: "Eh, it is?"
+TP
+
+GL 1 TCCN0102b
+GI 1 0
+WVP 0 vfCCC0045annk026
+//七香「他の人たちは日曜夜の時点でもう気持ちが決まってるから、毎回似たような行動取るんだけどさ」
+Nanaka: "The other guys, their emotions are already decided on that point on Sunday night, so they take similar actions every time."
+//Now that's a complete load. -GHS
+TP
+
+GL 1 TCCN0101b
+GI 1 0
+WVP 0 vfCCC0045annk027
+//七香「太一は毎回けっこう違う」
+Nanaka: "But you, Taichi, you're pretty different every time."
+//But since we're discussing metaVN, this means that the protagonist changes due to the reader's choices. This, I think, is done better in YMK: the protagonist's personality is not fixed, but is determined by the choices made by the reader, and so are the girls he fall for. This continues to the religious theme: people are made by choices, the personality is not fixed by some weird thing at the beginning, even if all begin flawed in some way. -GHS
+TP
+
+GL 1 TCCN0100b
+GI 1 0
+WVP 0 vfCCC0045annk028
+//七香「……ことを重大に受け止めてないというか」
+Nanaka: "...you never take things seriously, more like."
+TP
+
+//太一「うーん」
+Taichi: "Naaah."
+TP
+
+//あるかも。
+Or maybe that's true.
+TP
+
+//俺自身のことを考えると、他人は少ない方がいい。
+When I think about myself, I'm fine with there being few other people.
+TP
+
+//だから今の状況は、そう悪くないと思ってる。
+Therefore I don't think the way things are right now are all that bad.
+TP
+
+//まったく不安がないといえば嘘になるが……。
+If I said there was no anxiety at all that'd be lying, but...
+TP
+
+//太一「わがらんなぁ」
+Taichi: "Dunnnow."
+//Why "dunnow" isn't the correct spelling is one of the many mysteries of Japanese. Yes. I blame Japan for this. I blame it for everything. -GHS
+TP
+GL 0 evcc0003a
+$CGevcc0003a = 1
+//As said, Buruma are worn over panties so she wasn't necessarily lying. -GHS
+GS 0 1
+GS 1 0
+SEF 109 0
+WVP 0 vfCCC0045annk029
+//七香「そ」
+Nanaka: "So."
+TP
+
+//とりあえず今の会話。
+For the present, that is the conversation.
+TP
+
+//自転車でウイリーを試みている七香を見やる。
+I stare at Nanaka trying out a wheelie on her bicycle.
+TP
+
+//この人……記憶リセットかかってないってこと。
+This person here... does not have her memories reset.
+//And if she's part of Taichi's memories, then there is no memory reset at all. -GHS
+TP
+
+//太一「あのさ……」
+Taichi: "Uhm, say..."
+TP
+
+WVP 0 vfCCC0045annk030
+//七香「質問は禁止」
+Nanaka: "Questions forbidden."
+TP
+
+//太一「うっ」
+Taichi: "Guh..."
+TP
+
+WVP 0 vfCCC0045annk031
+//七香「言ったことは守ろう」
+Nanaka: "What I say I'll do."
+TP
+
+WVP 0 vfCCC0045annk032
+//七香「別に隠しているわけではないんだけど……ね」
+Nanaka: "It's not that I'm hiding something or the likes tho... 'K."
+TP
+
+WVP 0 vfCCC0045annk033
+//七香「……ちょっと、恐いんだ」
+Nanaka: "...just... I'm a bit scared."
+TP
+
+//太一「こわい？」
+Taichi: "Scared?"
+TP
+
+WVP 0 vfCCC0045annk034
+//七香「全部教えることが、こわい」
+Nanaka: "Telling you everything, that's scary."
+//*ears whist---* sorry, I mean, *sneeze* -GHS
+TP
+
+WVP 0 vfCCC0045annk035
+//七香「太一が追いつめられるような気がして」
+Nanaka: "There's this feeling like it will drive you into a corner, Taichi."
+TP
+
+//快活だった表情が、危惧を形作る。
+The expression on her face that was cheerful now takes the shape of apprehension.
+TP
+
+//太一「……そう」
+Taichi: "...well."
+TP
+
+//まあ約束は約束だ。
+Well, a deal's a deal.
+TP
+
+//七香「……」
+Nanaka: "..."
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//湿っぽくなっちゃいました。
+This had become wholly gloomy.
+//See CCA0003 -GHS
+TP
+
+//和ませることにした。
+I decided to soften this down.
+TP
+
+//太一「あの……質問じゃないんだけど、さっきの下着の件さぁ」
+Taichi: "Uhm... it's not a question, but, about that underwear thing from before..."
+TP
+
+WVP 0 vfCCC0045annk037
+//七香「ん、なに？」
+Nanaka: "Hm, what?"
+TP
+
+//太一「ブラはフロントホックをつけて欲しいんですけど」
+Taichi: "I would sure like for the bra to be front hook."
+//Formal -GHS
+TP
+
+//七香は訝しげに眉をよじった。
+Nanaka twisted her eyebrows quizzically.
+TP
+
+WVP 0 vfCCC0045annk038
+//七香「フロントホックって……この花も恥じらう女学生である七香さんに？」
+Nanaka: "Front hook bra you say... on Nanaka-san, this schoolgirl whose beauty would make even flowers blush?"
+//Now she's explaining to the baby why she has to take so long to take off her bra every time he's crying for food. -GHS
+TP
+
+//太一「そうだ」
+Taichi: "Indeed."
+TP
+
+WVP 0 vfCCC0045annk039
+//七香「……理由は？」
+Nanaka: "...reason?"
+//So it'll be easier to breastfeed. -GHS
+TP
+
+//太一「こう、女の子と初夜った時にさ、ブラを外すじゃないですか」
+//※初夜る＝太一語。初Ｈのこと。
+Taichi: "So I can remove said bra when I am found Bridalnighting with a girl, what else?"
+> 
+ 
+* Bridalnighting = Taichian for first-time sex.
+TP
+
+//太一「フロントホックであれば、こう谷間に差し入れた指で小粋にフィンガースナップを奏でつつホックを外したその瞬間、いましめから解放されたたわわな母なる双丘がたわわんと」
+Taichi: "If a front hook is present, then fingers can be inserted in the cleavage's ravine and sound out a stylish fingersnap as they undo the hook, and on that very instant, the boioingy twin hills of a mother shall be released from bondage and boioioingly..."
+//母なる hahahnaru a pretty formal Mother, Mother Nature for example. More interesting: 父なる chichinaru is Father as in God the Father. This is definitely intentional. Also see CCB0002. Given what たわわ both sounds like ("tawawa") and GISes to, it's not even worth thinking of adapting to anything else. More curious considering the Self-Destruct Button prank, see CCD0008C and more, may be a derivative of exactly this primal want for her mother to hurry with the milking already. -GHS
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//太一「たわわなのがたわわん、と―――」
+Taichi: "Boioingly will boioiong, and---"
+TP
+
+WVP 0 vfCCC0045annk040
+//七香「繰り返すな」
+Nanaka: "Don't say it over again."
+TP
+
+WVP 0 vfCCC0045annk041
+//七香「自分で思っているほど、たいしたギャグじゃない」
+Nanaka: "That's not as funny a joke as you think it is inside yourself."
+//And she knows exactly. -GHS
+TP
+
+//太一「つ……つまりその、揺れる様を鑑賞することかできるから、です！」
+Taichi: "In-... in other words, because it allows the artistic appreciation of the act of swaying, indeed!"
+TP
+
+WVP 0 vfCCC0045annk042
+//七香「却下」
+Nanaka: "Veto."
+//See Misato -GHS
+TP
+
+//そんな馬鹿なことを話していると。
+And while we were talking about these stupid little things,
+TP
+GL 0 bgcc0002a
+GS 0 1
+SEF 152 0
+//じきに我が家。
+//we were getting jiki wif mah home, bro.
+we ended up at my house.
+TP
+
+//太一「……よってく？」
+Taichi: "...coming in?"
+TP
+
+WVP 0 vfCCC0045annk043
+//七香「ううん、帰る」
+Nanaka: "Nuh-huh, going home."
+TP
+
+//ふと思う。
+And abruptly I thought,
+TP
+
+//どこに帰っているんだろう、七香は。
+where would Nanaka even go home to?
+//In Heaven, DUH. -GHS
+TP
+
+//太一「じゃあ、また」
+Taichi: "Well, see ya."
+TP
+
+WVP 0 vfCCC0045annk044
+//七香「太一！」
+Nanaka: "Taichi!"
+TP
+
+//呼ばれて。
+I was called.
+TP
+
+//頭だけ巡らせて、背後を視野におさめた。
+I turned the head alone, laying the rear in my field of vision.
+TP
+
+GL 0 evcc0053
+$CGevcc0053 = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+//HACK CG later (that's rare!) -GHS
+
+
+//七香は坂の上にいた。
+Nanaka was on top of the hill.
+//坂の上(top of the hill) <-> 上見坂 (Kamisaka) IOW: SYMBOLISM!!! -GHS
+TP
+
+//ひどく遠い。
+Horribly distant,
+TP
+
+//瞬時に移動したような。
+as if she had moved in an instant.
+TP
+
+WVP 0 vfCCC0045annk045
+//七香「たーいちっ」
+Nanaka: "Taaaichi!"
+TP
+
+//離れているにもかかわらず、声は冴え冴えと耳に届いた。
+Her voice carried clear and crisp in spite of being so distant, as if it had fangs that bit into my ears.
+//See CCC0000. Sarcastic remark on how this has to be coincidental when, obviously, it is not. -GHS
+TP
+
+//太一「え、あ、なに？」
+Taichi: "Eh, ah, what?"
+TP
+
+//狼狽えてしまう。
+I lose my presence of mind.
+TP
+
+//七香は間違いなく―――
+Nanaka is, and no mistake---
+//"My mother", but not yet... -GHS
+TP
+
+//自転車の脇に立ち、片手を高々とあげる。空を支えて、笑顔。
+Standing at the side of her bicycle, raising one hand high and higher. Holding up the sky. Smiling.
+TP
+
+WVP 0 vfCCC0045annk046
+//七香「また来週」
+Nanaka: "See you next week!"
+TP
+
+//手を振る。
+She waves the hand.
+TP
+
+//太一「あ、うん……」
+Taichi: "Ah, ok..."
+TP
+
+//俺も振り返した。
+I also asserted back,
+//Multiple meanings -GHS
+TP
+
+//太一「また、来週」
+Taichi: "See you... next week."
+//Given he's a baby, and he'll therefore have a sleep-eat cycle that's much faster than normal, a day would be a week to him, or thereabouts. -GHS
+TP
+
+//七香は自転車に乗る。
+Nanaka rides on the bike.
+TP
+
+//走り出すと、少女の姿は坂の窪みを滑り降りて見えなくなる。
+Setting out to ride, the figure of the girl begins to descend into the valley between hills, and vanishes from sight.
+TP
+//GL 0 bgcc0000d
+GL 0 BGCC0000B
+//HACK sky instead -GHS
+GS 0 1
+SEF 109 0
+
+//いくら待っても、向こう側の斜面をよじのぼる姿を見ることはできなかった―――
+I never could see the figure of her climbing up on the slope on the opposite side, however long I waited---
+TP
+
+WVS 1 1
+
+RET

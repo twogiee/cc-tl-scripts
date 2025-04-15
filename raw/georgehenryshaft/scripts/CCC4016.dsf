@@ -1,0 +1,1556 @@
+
+WVP 1 bgm018.ogg 0 0 0
+
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 0
+
+//太一「さてと」
+Taichi: "Well then now."
+//CP CCC3011
+TP
+
+//蝋燭に火を。
+Fire in the candle.
+//CP CCC3011
+TP
+
+//日記を書きながら、一日を振り返る。
+While writing in the diary, I look back on the day.
+TP
+
+//昨日は曜子ちゃんが死んだ。
+Yesterday, Youko-chan had died.
+TP
+
+//そして今日、冬子が死んだ。
+And today, Touko-chan has died.
+TP
+
+//他殺。
+Murder.
+TP
+
+//誰が殺したのかは不明。
+Who was it that killed them is unknown.
+TP
+
+//霧は違うと思われる。
+Kiri doesn't seem to be it.
+TP
+
+//となると……残りは俺を抜いて四人。
+Which means... one of the remaining four people, me excluded.
+TP
+
+//この中に、仲間殺しがいる。
+Among them there is one who would kill a close companion.
+TP
+
+//太一「……ヘビィだ」
+Taichi: "...this is heavy."
+//You keep saying heavy, heavy... is the gravity different in the Cross World? -GHS
+TP
+
+//しかしわからん。
+But I don't get it.
+TP
+
+//思いつきもしない。
+Nothing comes to my mind.
+TP
+
+//……犯人はどういう目的で、二人を殺害したのだろう。
+...the culprit has murdered two people for whatever motive.
+//BTW: even knowing who the killer is, the motive remains something worth thinking about. -GHS
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 0 0 0
+GP 1 0 0
+GP 2 0 0
+GP 3 0 0
+GP 4 0 0
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+GL 4 zzzCCC4016youko
+GI 4 1
+//HACK these are always a pain to make... -GHS
+
+//曜子ちゃん。
+> 
+ 
+Youko-chan.
+TL
+//矢傷だった。
+> 
+Bolt wound.
+TL
+//つまり罠の一つにかかったということだ。
+In other words, she has fallen for one
+of the traps.
+TL
+//百に一度くらいは、ミスをすることもあるだろう。
+Over a hundred there might be only one, but
+it is certain that she will eventually make
+a mistake.
+//IOW, she's not perfect. Like he wished her to be. -GHS
+TL
+//罠を仕掛けた者が、曜子ちゃんを殺したということになる。
+Whoever set up the traps ended up killing
+Youko-chan.
+TL
+//狙って殺したのか、たまたま曜子ちゃんが飛び込んだのかはわからない。
+Whether she was the intended target, or
+Youko-chan just unexpectedly fell victim,
+I don't know.
+TP
+
+GL 4 zzzCCC4016touko
+GI 4 1
+//HACK and now Touko. -GHS
+
+
+//冬子。
+> 
+ 
+ 
+Touko.
+TL
+//短剣による刺殺だ。
+> 
+Stabbed to death via dagger.
+TL
+//抵抗した痕跡はなかった。
+There was no evidence of struggle,
+TL
+//眠るように死んでいた。
+she had died as if in her sleep.
+TP
+
+GS 4 0
+GS 5 0
+SEF 109 0
+TWS 0
+//HACK ADV mode -GHS
+
+//太一「……」
+Taichi: "..."
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+
+
+//祠の前の足跡。
+> 
+ 
+ 
+> 
+The footprints in front of the hokora,
+TL
+//俺の靴。
+my shoes,
+TL
+//そして俺に、祠の前をうろちょろした記憶はない。
+and, inside me, no recollection of
+hanging around the hokora at all.
+TL
+//記憶喪失でもない。
+This isn't memory loss, either.
+TL
+//誰かが俺の靴をはいて、うろちょろした。
+Someone was around there, and wearing my shoes.
+TL
+//あるいは同じ靴をはいたヤツが。
+Or, possibly, someone with identical shoes.
+TL
+//ぞっとするような考えがよぎる。
+A thought crosses through me as if a shiver.
+TP
+
+//もし俺が理性を失ってしまったら。
+> 
+ 
+ 
+> 
+Suppose I had lost my rationality.
+TL
+//攻撃性が他者に対して向けられてしまったら。
+I could be redirecting my entire
+aggressiveness towards others.
+//Insert Tower of Friends. But what does redirecting his aggressiveness towards others mean to Taichi? I still don't believe all that Taichi A/B stuff means anything of what it looks like. -GHS
+TL
+//……動機なんていらないんじゃないか。
+...I wouldn't need any motive, would I.
+TL
+//そもそも四人の容疑者に、曜子ちゃんを欺くほどの罠が作れるだろうか。
+In the first place, of the four suspect, who
+could even construct a trap that could trick
+Youko-chan?
+TL
+//スキルを隠し持っていた者がいるのか。
+Is there someone who has some skill they've
+kept secret?
+//We're talking about the traps, not the killing, so this refers only to Miki. -GHS
+TL
+//一番納得できる犯人像。
+The person that fits most convincingly
+the criminal's profile...
+TL
+//……それは俺自身だ。
+...would be myself.
+TP
+
+
+//①夢遊病
+//②二重人格
+> 
+ 
+1) Somnambulism;
+TL
+2) Split personality.
+TL
+//仕掛けられた精密な罠から、①はないと判断できた。
+> 
+From the care with which the traps had
+been laid, I can say 1) is not it.
+TL
+//冷静な知能を保持していなければ、あんなトラップは作れない
+//②か。
+Traps like that could never be laid without retained calm intelligence.
+//That CR is always eliminated in the console versions, but that doesn't seem to make much sense. I suspect there was a period missing and the "typo" was fixed by erroneously joining two lines. Regardless, there's no functional difference. -GHS
+TL
+Is it 2) then?
+TL
+//俺は実は二重人格だった、と。
+The fact that I have a split personality,
+so to say.
+//dat と -GHS
+TL
+//確かに記憶がない理由も説明できる。
+Certainly, with this it would be possible to
+explain the reason why I have no recollections.
+TL
+//しかし……我ながら陳腐だな、ソレハ。
+However... if I say so myself, it's a bit
+hackneyed, seriously.
+//Well, of course; it wasn't his split personality that laid the traps. A previous himself taught someone who's playing him at his game, and his split personality died in them. Not a single thing he says here is a lie. And once again, there's no denial that he has a split personality; he just calls it hackneyed. Telling no one who (s)he is, and in fact going through the entire story without ever stating it or even having any non-strongly metaphorical need for a split personality to exist, however, is far from it. -GHS
+TL
+//こんなんだったらまだ俺が二人いたとかの方がいい。
+If it's gotta be like that, it'd be better
+if there were two of me or something.
+//That would work better if there was "Taichi B"'s viewpoint interspersed, as probably the original intent (see CCZAS, the final message). Regardless, since Youko is technically seen as another person due to Shimura Phenomenon (AKA Taichi's Settei), this is technically still the truth. All that "I am Taichi and Taichi is me" was simply to be read literally. The first scene was the literal truth all along. -GHS
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+//太一「……わからん」
+Taichi: "...dunno."
+TP
+
+//日記は『現時点では詳細不明』と結ぶ。
+I conclude the diary with, "at this point in time, the specifics remain unknown."
+TP
+
+//太一「ん？」
+Taichi: "Hm?"
+//CP CCC3005
+TP
+
+
+GL 0 BGCC0003E
+GS 0 1
+SEF 109 0
+//HACK away candle -GHS
+
+//咄嗟に蝋燭を消す。
+I promptly extinguish the candle.
+//CP CCC3011
+TP
+
+//外に、軽い足音。
+There's the sound of light footsteps outside.
+//PCP CCC3005
+TP
+
+//窓から顔を出す。
+I lean out the window.
+//CP CCC3011
+TP
+
+GL 0 BGCC0000C
+GS 0 1
+GS 1 0
+SEF 109 0
+//HACK to starry sky -GHS
+
+
+//……霧だ。
+...it's Kiri.
+//CP CCC3011
+TP
+
+//無人の街を足蹴にしていく。
+Nonchalantly walking around this uninhabited city.
+//CP CCC3011
+TP
+
+//昨日も見たな。
+I saw her yesterday too, didn't I.
+TP
+
+//怪しい行動。
+Suspicious behavior.
+TP
+
+//迫真の俺への憎悪で、一番最初に容疑者から外した霧だが……。
+Being that her hatred towards me is the real deal, I removed Kiri from the suspects from the very beginning, and yet...
+TP
+
+//よし、追いかけよう。
+Right, I wanna follow her.
+TP
+GL 0 bgcc0002c
+GS 0 1
+SEF 152 0
+
+
+//途中、自転車を拝借。
+On the way, I borrow a bicycle.
+TP
+
+//効率良く追跡。
+High efficiency pursuit.
+//Taichi's insanely bad on a car, but he can ride a bike like nobody's business. He's riding the hills (see CCA0004 - he himself calls it absurdly hard!), and chasing hyper-suspicious Kiri without her noticing. -GHS
+TP
+
+//やがて霧は、雑木林に面した原っぱに入った。
+Before long, Kiri entered a field in front of a grove of trees.
+//Descriptions and details keep changing, but perhaps  that's the point. -GHS
+TP
+
+//ここからは自転車は目立ちすぎて使えない。
+The bicycle would stand out way too much in there, so I don't use it.
+//He seems to imply he has no problem riding the bike in off-road woods-like terrain. -GHS
+TP
+
+//身を低くして、そっと忍び寄る。
+I lower my posture and steal up quietly.
+//No more "kill my presence"? -GHS
+TP
+
+WVS 1 0
+
+//霧は荷物からソレを取り出した。
+Kiri takes 'it' out from the package.
+TP
+
+GL 0 evcc0024b
+$CGevcc0024b = 1
+GS 0 1
+SEF 152 0
+//クロスボウ―――
+A crossbow---
+//CP CCC3005
+TP
+
+WVP 1 bgm017.ogg 0 0 0
+
+//断じて玩具ではなかった。
+It was absolutely not a toy.
+//CP CCC3005
+TP
+
+//この国で手に入る、強力無比な武器だ。
+Coming into possession of that in this country means to have a weapon of power without compare.
+//CP CCC3005
+TP
+
+//連射こそできないが。
+It is not capable of rapid fire, but,
+//CP CCC3005
+TP
+
+//静音性に優れ、破壊力に富む。
+it has its edge in quietness, and is rich in destructive power.
+//CP CCC3005
+TP
+
+//霧は引き金を引いた。
+Kiri pulls the trigger.
+//CP CCC3005
+TP
+
+//枯れ木に矢が刺さった。
+A bolt pierced a withered old tree.
+//CP CCC3005
+TP
+
+//風切り音が耳に残る。
+The sound of slashed air remains in the ears.
+//CP CCC3005
+TP
+
+//霧は新しい矢をつがえる。
+Kiri nocks a new bolt.
+//CP CCC3005
+TP
+
+//コッキング装置で、装填を済ませる。
+She completes the load via the crank cocking aid.
+//CP CCC3005
+TP
+
+//ぎこちない。
+Awkwardly.
+//CP CCC3005
+TP
+
+//が、知っていた。
+But... I knew:
+//CP CCC3005
+TP
+
+//これは訓練だ。
+This is practice.
+//CP CCC3005
+TP
+
+//戦うための。
+For combat.
+//CP CCC3005
+TP
+
+//では、誰と。
+Well then, who with?
+//CP CCC3005
+TP
+
+//誰と……だろう……。
+Who with... indeed...
+//CP CCC3005
+TP
+
+//霧から黒いオーラが出ているようだ。
+It's as if a dark, wicked aura is coming from Kiri.
+TP
+
+//情感を失った瞳。
+Her eyes had lost emotion.
+TP
+
+//機械的な動作。
+Mechanical motions.
+//She went Automatic. -GHS
+TP
+
+//当たろうが外れようが、変わらない表情。
+Whether she hits or whether she misses, the expression on her face does not change.
+TP
+
+GL 5 zzzblackblend
+GL 4 zzzCCC4016kiri
+GS 4 1
+GS 5 1
+SEF 109 0
+//HACK Kiri zoomed -GHS
+
+WVP 0 vfCCC4016kri000
+//霧『だからっ、どうして仲良くするのっっ！？』
+Kiri: 『I'm saying, why are you acting all friendly?!』
+//PCP CCC4015
+TP
+
+
+WVP 0 vfCCC4016kri001
+//霧『……誰が、あんたなんかにっ！！』
+Kiri: 『...who would ever do anything of the sort to you!!!』
+//PCP CCC4015
+TP
+
+
+WVP 0 vfCCC4016kri002
+//霧『人殺し！　次は誰を殺すの！？』
+Kiri: 『Murderer! Who are you going to kill next?!』
+//PCP CCC4014 
+TP
+
+GS 4 0
+GS 5 0
+SEF 109 0
+//HACK back -GHS
+
+//曜子ちゃんと冬子の件は、まだ謎が多い。
+Mysteries still abound as far as what happened to both Youko-chan and Touko.
+TP
+
+//けど。
+However,
+TP
+
+//霧の動機は、わかりすぎるくらいで。
+as far as Kiri's motive is concerned, I seem to have altogether too much understanding.
+TP
+
+//一時間ほど、そうして訓練を続けていた。
+She continued to practice for about an hour.
+TP
+GL 0 bgcc0000c
+GS 0 1
+SEF 109 0
+
+//気を張ってだいぶ消耗したのか、のろのろと後かたづけをして、引き上げた。
+Perhaps exhausted after steeling herself for so long, she sluggishly cleans up after herself, and withdraws.
+TP
+
+//平原に出て、的になっていた樹のあたりを調べる。
+Coming out into the open space, I examine around the timber that was turned target.
+//PCP CCC3012A
+//Hmmm, odd change. Might just be an older revision. -GHS
+TP
+
+WVS 1 0
+
+GL 4 sgcc0022
+$CGsgcc0022 = 1
+GP 4 0 0
+GS 4 1
+SEF 109 0
+
+WT 1000 0
+WT 2000 1
+
+GL 0 bgcc0000d
+GS 0 1
+GS 4 0
+SEF 109 0
+
+WT 1000 0
+WT 2000 1
+
+GL 0 bgcc0004c
+GS 0 1
+SEF 152 0
+//自宅に戻る。
+I return home.
+TP
+
+//気疲れしてしまった……。
+I felt really fatigued mentally...
+TP
+
+//桜庭がいた。
+Sakuraba was there.
+TP
+
+//太一「……こら」
+Taichi: "...the hell!"
+TP
+
+//尻に蹴り。
+Kick in the ass.
+TP
+GL 1 TCSH0000c
+GP 1 190 0
+GI 1 1
+
+WVP 0 vmCCC4016sku000
+//桜庭「おお、太一」
+Sakuraba: "Ohhh, Taichi."
+TP
+
+//桜庭はきゅうりを食っていた。
+Sakuraba was eating Tomoki's cucumber,
+TP
+//友貴のさしいれきゅうりだ。
+fresh from his supply drop.
+//No, seriously, that literally also says "a cucumber put in by Tomoki". Edited for more Fujoshi Appeal. -GHS
+TP
+
+//太一「で？」
+Taichi: "Well?"
+TP
+
+GL 1 TCSH0003c
+GI 1 0
+WVP 0 vmCCC3012bsku001
+//桜庭「聞いてくれ」/*
+Sakuraba: "Listen here."
+//CP CCC3012B
+TP
+
+//太一「なんだ？」
+Taichi: "What now?"
+//CP CCC3012B
+TP
+
+WVP 0 vmCCC3012bsku002
+//桜庭「カレーパンに飽きてきた」/*
+Sakuraba: "I got sick of curry bread."
+//CP CCC3012B
+TP
+
+WVP 1 bgm010.ogg 0 0 0
+
+
+//太一「……あのな」
+Taichi: "...listen here now."
+//CP CCC3012B
+TP
+GL 1 TCSH0002c
+GI 1 0
+WVP 0 vmCCC4016sku002
+//桜庭「そこでおまえの家に来てみたら、きゅうりがあるじゃないか」
+Sakuraba: "Therefore I came to your house, because aren't there cucumbers here."
+//PCP CCC3012B
+//fnarr, fnarr goes here, however. Indeed there's a cucumber here; one brought by Tomoki, the other's in Taichi's Biological Tent. -GHS
+TP
+
+//太一「だからどうしてうちに来る」
+Taichi: "And why did you come to my house for that!"
+//CP CCC3012B
+TP
+
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC3012bsku004
+//桜庭「友貴に食料はいらないと言ってしまった」/*
+Sakuraba: "I seem to have told Tomoki that I would not need food."
+//CP CCC3012B
+TP
+
+//太一「な、なぜだ？」
+Taichi: "Wh-, why even?"
+//CP CCC3012B
+TP
+GL 1 TCSH0003c
+GI 1 0
+WVP 0 vmCCC3012bsku005
+//桜庭「カレーパンがあったからだ」/*
+Sakuraba: "Because I had curry bread."
+//CP CCC3012B
+TP
+
+//その場限りの人生だな。
+Ad hoc living, his.
+//CP CCC3012B
+TP
+
+//太一「にしても、その超巨大な荷物は何だ？」
+Taichi: "Fine, still, what's that hyper ginormous bag?"
+TP
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC4016sku003
+//桜庭「ああ。俺は旅に出る」
+Sakuraba: "Ah. I'm going on a journey."
+TP
+
+//太一「……………………あんだって？」
+Taichi: "............yer doin' what?"
+//lisp??? -GHS
+TP
+
+WVP 0 vmCCC4016sku004
+//桜庭「旅だ」
+Sakuraba: "Journey."
+TP
+
+//太一「おまえ……こんな状況で……トラベリング行為にふけるってのか？」
+Taichi: "You... when things're like this... you're indulging in the act of Traveling?"
+TP
+GL 1 TCSH0002c
+GI 1 0
+
+WVP 0 vmCCC4016sku005
+//桜庭「そうだ。旅はいい」
+Sakuraba: "Indeed. Journeys are good."
+TP
+
+//桜庭はうっとりとした。
+Sakuraba was way off in a world of his own.
+//...a world called Reality? -GHS
+TP
+GL 1 TCSH0000c
+GI 1 0
+
+WVP 0 vmCCC4016sku006
+//桜庭「こんな時代だからこそ、旅は必要だと思わないか？」
+Sakuraba: "In these times journeys are necessary, don't you think so?"
+TP
+
+//太一「じっとしとけとは思うが……」
+Taichi: "But I think that staying still..."
+TP
+
+WVP 0 vmCCC4016sku007
+//桜庭「逆転の発想だ」
+Sakuraba: "Mine is reversal thinking."
+//Design perspective again? -GHS
+TP
+
+//太一「そ、そうか！」
+Taichi: "Is-, is it now!"
+TP
+
+//あえて、あえて旅に出る。
+To dare... to dare to go on a journey.
+//Ohhh, it was like, like that famous anime, that hideously badly written and overwrought one about moe harems with characters that had no personality and visuals that were like having a cattle prod taken to the visual cortex, but with some crap about the supernatural tossed in to delude idiots that it was actually deep or meaningful, what was it called... Da Capo 3, I think. -GHS
+TP
+
+//桜庭が勝ち組に思えてきた。
+Sakuraba looked like he was on the winner's side.
+//COUGH COUGH COUGH -GHS
+TP
+
+WVP 0 vmCCC4016sku008
+//桜庭「で、食料をわけてもらいたい」
+Sakuraba: "And so, I want to get part of the food from you."
+TP
+
+//太一「……まあそれは構わないけど」
+Taichi: "...well that's not a problem, though."
+//Mat 7:7-10 -GHS
+TP
+
+//友貴箱（差し入れのダンボール）から、二人で食物をよりわける
+We take food out of the Tomoki-bako (the supply drop cardboard box) and we sort it out.
+//Complete Box, Yume Bako, Kizuna Bako... now there's the Tomoki Bako. It's all about the Tsuki-bako I tell you. -GHS
+TP
+
+//太一「で、どこ行くんだ？」
+Taichi: "So, where ya going?"
+//btw they took the cucumbers that Tomoki laid in for them out of Tomoki's Box, and they split it between them. There are no words. Well, no, there are seven words: this is obviously a gay sex metaphor. -GHS
+TP
+
+WVP 0 vmCCC4016sku009
+//桜庭「決めてない。隣の街に行ってから、また考える」
+Sakuraba: "Haven't decided. I'll get to the next town over, then think it over again."
+TP
+
+GL 1 TCSH0003c
+GI 1 0
+WVP 0 vmCCC4016sku010
+//桜庭「それにもしかしたら人と会えるかも知れない」
+Sakuraba: "Besides it could even be that I'll meet people there."
+//Indeed he will. Indeed he will. -GHS
+TP
+
+//太一「……ふーん」
+Taichi: "...hmmm."
+TP
+
+//考えてないわけじゃないのか。
+That just means he hasn't thought through this at all, doesn't it.
+TP
+
+//太一「ハンディ（無線機）は持って行けよ。電波、どこからも出てないみたいだし、たぶん通じるだろ」
+Taichi: "Bring hAndy (not just the Capp, the radio as well) with you. It doesn't look like there's radio waves anywhere, but maybe you'll catch some."
+//ハンディ is also short for handicap. Anthropomorphized because Sakuraba is as Yutaka. And also Taichi thinks him retarded. -GHS
+TP
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC4016sku011
+//桜庭「ああ、入ってる」
+Sakuraba: "Yah, packed it."
+TP
+
+//太一「ＳＳＢだろ？　一応、海越え用のアンテナ貸してやるから、ちょっと待ってろ」
+Taichi: "It's an SSB, right? Say, just in case, you can borrow an antenna that broadcast overseas, wait a while."
+//http://en.wikipedia.org/wiki/Single-sideband_modulation The rest is about the crap he's about to give him. -GHS
+TP
+
+WVP 0 vmCCC4016sku012
+//桜庭「悪いな」
+Sakuraba: "Thanks, then."
+TP
+
+//ワッチの知識はちょっぴり持ってる俺だった。
+As one who engages in Wacchi, I had just a smidgen of knowledge 'bout radio monitoring.
+//See CCA0018 (as remade). -GHS
+TP
+
+//割り箸とニクロム線で作った、超遠距離通信用のアンテナ。
+This is a Hyper Long Distance Telecommunication Antenna, built with disposable wooden chopsticks and nichrome wire.
+//Google the wire type if you don't know it for extra lols. It's basically a brick. Now, maybe he's just trolling him, as usual, but... what if he actually thinks it'd work? I mean, he DID make it or something. -GHS
+TP
+
+//それを持ってくる。
+That is what I went to grab.
+TP
+
+//太一「ほれ」
+Taichi: "Catch."
+TP
+
+WVP 0 vmCCC4016sku013
+//桜庭「ああ、すまん。これで外人ともペラペラだな」
+Sakuraba: "Ah, thanks. I can chat all fluent with foreigners with this one."
+TP
+
+//太一「ハハハ、言葉が通じればな。桜庭、残念ながら貴様の知能では―――」
+Taichi: "HA! HA! HA! If only your words were understandable! It is most unfortunate, Sakuraba, you bastard, but your knowledge of---"
+TP
+
+WVP 0 vmCCC4016sku014
+//桜庭「Could you pay me back the shipping charge.（お願いします、返品の送料を払ってください）」
+Sakuraba: "(...)"
+//The only better way to translate this would be to find some way to add furigana. ...oddly he sounds sorta-french-ish here, and so does the new actor. -GHS
+TP
+//太一「……え゛？」
+Taichi: "...EH?"
+TP
+
+WVP 0 vmCCC4016sku015
+//桜庭「What a fiasco it is!（それはなんとひどい事件なのでしょう）」
+Sakuraba: "(...)"
+//He's also obviously reading from some phrasebook. The new actor isn't even trying on this, he sounds "what! fiasco! it is." -GHS
+TP
+
+//太一「……ＭＡＪＩ？」
+Taichi: "...MAJI?" (Seriously?)
+//If I could use kana...
+//>                            Maji
+//Taichi: "...まじ？"
+//Translation Note: Maji means serious.
+//
+//Me-sama in the middle of status of being awesome maybe probably? -GHS
+TP
+
+//いや、これ英語じゃないだろ。
+Uhm, that's even less English, isn't it.
+//Translation Note: this line was adapted from Japanese. -GHS
+TP
+
+GL 1 TCSH0002C
+GI 1 0
+//HACK closed-eyes Sack -GHS
+
+WVP 0 vmCCC4016sku016
+//桜庭「まあ英語だったらなんとかなるだろう」
+Sakuraba: "Well, as long as it's English I'll get something done."
+TP
+
+WVP 0 vmCCC4016sku017
+//桜庭「……昔はアメリカに住んでいたし、少しは話せる」
+Sakuraba: "...I have lived in America long ago, I can speak a little."
+TP
+
+//なんと！
+What!
+TP
+//こいつ……まさか……なにげバイリン。
+This idiot... you're kidding me... he's a Casual Bilingual!
+//Not that uncommon. -GHS
+TP
+
+//太一「あ、ああ、俺って実はロシア語の方が得意なんだよね！」
+Taichi: "Ah, yes, truth is I'm much better with Russian, yes!"
+TP
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC4016sku019
+//桜庭「そうか」
+Sakuraba: "Right."
+//HACK moved last two lines up here. Makes more sense now. -GHS
+TP
+
+
+//GL 1 TCSH0002c
+//GI 1 0
+//HACK no need -GHS
+WVP 0 vmCCC4016sku018
+//桜庭「ロシア人だったらおまえに任せる」
+Sakuraba: "If there's Russians I'll leave them to you."
+//See CCC4001 (you had to remember that one for this to make sense in the original). -GHS
+TP
+
+
+//太一「は、ははは、まあ頑張れ、か、帰りはいつになるんだ？」
+Taichi: "Ha, hahahah, well do your best, and wh-, when are you coming back?"
+//Now he's his mom -GHS
+TP
+
+WVP 0 vmCCC4016sku020
+//桜庭「帰りたくなったとき」
+Sakuraba: "When I want to come back."
+TP
+
+//なるほど。
+I see.
+TP
+
+WVP 0 vmCCC4016sku021
+//桜庭「それとおまえには金を借りていたよな」
+Sakuraba: "And, I borrowed some money from you have I."
+TP
+
+//太一「ああちょっとな」
+Taichi: "Ahhh a bit yes."
+TP
+
+WVP 0 vmCCC4016sku022
+//桜庭「いくらだったかな？」
+Sakuraba: "How much was it even?"
+TP
+
+//もう金なんて意味ないのにな。
+Even if money's meaningless now, really.
+TP
+
+//おかしなヤツだ。
+So weird, this guy.
+TP
+
+//太一「さあ、金額は記憶してないなぁ」
+Taichi: "Dunno, I have nooo memory of how much."
+//Greedy bastard. -GHS
+TP
+GL 1 TCSH0003c
+GI 1 0
+WVP 0 vmCCC4016sku023
+//桜庭「とりあえず小銭入れごと渡そう」
+Sakuraba: "For now I'm handing over my coin purse."
+TP
+
+//財布を取り出す。
+He takes out his wallet.
+//CP CCC3012B
+TP
+
+//受け取る。
+I take it from him.
+//CP CCC3012B
+TP
+
+//チャリチャリ音がした。
+There's a jingle-jingle sound.
+//CP CCC3012B
+TP
+
+//太一「はは、なにげバイリンのぼんにも貧乏な時があるようだな」
+Taichi: "Hahah, looks like Mister Bilingual has moments of poverty too, eh."
+//PCP CCC3012B
+TP
+
+GL 1 TCSH0000c
+GI 1 0
+//HACK moved doll change here -GHS
+//桜庭は穏やかに笑った。
+Sakuraba smiled peacefully.
+//CP CCC3012B
+TP
+WVP 0 vmCCC3012bsku023
+//桜庭「まあな。金持ちと言っても、そんなもんさ」/*
+Sakuraba: "Well yeah. You can call me rich, but it's like that."
+//CP CCC3012B
+TP
+
+//太一「ははは」
+Taichi: "Hahahah."
+//CP CCC3012B
+TP
+
+WVP 0 vmCCC3012bsku025
+//桜庭「ハハッ」/*
+Sakuraba: "Hahah!"
+//CP CCC3012B
+TP
+
+/笑い合う。
+An exchange of laughs,
+//CP CCC3012B
+TP
+
+//ガッ、と腕を交差させた。
+thump, arms are crossed,
+//CP CCC3012B
+TP
+
+//友情が深まった。
+and friendship was deepened.
+//CP CCC3012B
+TP
+
+//太一「どれどれ、いくら入ってるんだ？」
+Taichi: "Well now well now, how many have you got in here?"
+TP
+
+//財布を開く。
+I open the wallet.
+//CP CCC3012B
+TP
+
+//案の定、紙幣は入ってなかった。
+Sure enough, there was no paper money inside.
+//CP CCC3012B
+TP
+
+//十万円金貨が十五枚入っていた。
+Inside there were fifteen gold coins, ten thousand yen each.
+//CP CCC3012B
+TP
+
+GS 0 0
+GS 1 0
+SEF 109 0
+//HACK to black. -GHS
+
+
+//太一「ミスター円！！」
+Taichi: "Mister Yeeen!!!"
+//CP CCC3012B
+TP
+
+//卒倒。
+Swooned.
+//CP CCC3012B
+TP
+
+WVP 0 vmCCC3012bsku029
+//桜庭「どうした？」/*
+Sakuraba: "What is it?"
+//CP CCC3012B
+TP
+
+//太一「ひぃぃぃぃぃぃぃぃぃぃぃぃぃぃぃっっっ」
+Taichi: "Hyyyyyyyyyyyyyyyyhhh!!!"
+//CP CCC3012B
+TP
+
+//芋虫のようにのたうちまわった。
+I thrashed around like a caterpillar.
+//CP CCC3012B
+TP
+
+//なにこのサイフっ！
+The hell's this walleeet!
+//CP CCC3012B
+TP
+
+//こんなスッゴイの初めて！！
+First time I see something this impossibleee!
+//CP CCC3012B
+TP
+//よく見たら十万円金貨だけではなかった。
+Looking closely, they weren't only ten thousand yen gold coins.
+//CP CCC3012B
+TP
+
+TWS 7
+//HACK NVL mode. -GHS
+
+//昭和天皇ご在位６０年１０万円金貨×８
+> 
+ 
+ 
+> 
+ 8 x 100,000 yen gold coins commemorating the
+60th year of the Showa Emperor on the Throne.
+//CP CCC3012B
+TL
+//天皇ご即位記念１０万円金貨×７
+ 7 x 100,000 yen gold coins commemorating the
+enthronement of the Emperor.
+//CP CCC3012B
+TL
+//皇太子殿下御成婚記念５万円金貨×２
+ 2 x 50,000 yen gold coins commemorating the
+Wedding of His Imperial Highness the Crown Prince.
+//CP CCC3012B
+TL
+//国際花と緑の博覧会５千円貨×４
+ 4 x 5,000 yen silver coins commemorating the
+International Garden and Greenery Exposition.
+//CP CCC3012B
+TL
+//皇太子ご成婚５千円銀貨×３
+ 3 x 5,000 yen silver coins commemorating the
+Wedding of the Crown Prince.
+//CP CCC3012B
+TP
+
+TWS 0
+//HACK ADV mode -GHS
+
+//それだけしかない。
+All these and no more.
+//CP CCC3012B
+TP
+
+GS 0 1
+GS 1 1
+SEF 109 0
+//HACK back to Sakuraba -GHS
+
+
+//太一「アホか！」
+Taichi: "You stupid or something!"
+//CP CCC3012B
+TP
+
+
+GL 1 TCSH0002c
+GI 1 0
+WVP 0 vmCCC3012bsku030
+//桜庭「なかなか買い物に使えなかった」/*
+Sakuraba: "I couldn't really use them to do shopping."
+//CP CCC3012B
+TP
+
+//太一「当たり前だ！」
+Taichi: "Well, obviously!"
+//CP CCC3012B
+TP
+
+//こいつ……こんなにあっさり大金を……。
+This guy... this much money and so readily...
+//CP CCC3012B
+TP
+
+//まさか桜庭の中では……十万円は大金ではない……ではない……ではない……？（エコー）
+Could it be that, when it comes to money, inside Sakuraba's head... 100,000 yen are not much... not much.. not much...? (echo)
+//CP CCC3012B
+TP
+
+//太一「はっ？」
+Taichi: "But?"
+//CP CCC3012B
+TP
+
+//人類滅亡前、まだ金が意味のある時代に一度でもせびっていたら。
+If, before the Fall of Mankind, in the times when money still had significance, I had only just once extorted him some money...
+//CP CCC3012B
+TP
+
+//太一「おうおうおうおう！」
+Taichi: "oUUoUUoUUoUU!"
+//CP CCC3012B
+TP
+
+
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC3012bsku031
+//桜庭「なぜ泣く？」
+Sakuraba: "Why crying?"
+//CP CCC3012B
+//another /* missing -GHS
+TP
+
+//太一「おおおおおぉぉぉぉっ！」
+Taichi: "OOOOOOooooh!"
+//CP CCC3012B
+TP
+
+//神はいじわるであらせられる！
+God exists as my personal bully!
+//CP CCC3012B
+TP
+//後悔しまくりの俺だった。
+That was the earnest regret spree of mine.
+//CP CCC3012B
+TP
+
+WVP 0 vmCCC4016sku025
+//桜庭「あと足りない分はこれで補ってくれ」
+Sakuraba: "And, I'll be supplementing the amount that's missing with this."
+TP
+
+//荷物から木箱を取り出す。
+He takes out a wooden box from the bag.
+TP
+
+//転げると古めかしい山水図だった。
+All around its sides are drawn with old-fashioned landscapes, Shan Shui style.
+//Seems to run through the sides of the box. http://en.wikipedia.org/wiki/Shan_shui -GHS
+TP
+
+//太一「これは？」
+Taichi: "This'd be?"
+TP
+
+WVP 0 vmCCC4016sku026
+//桜庭「高そうなヤツを適当に選んだ」
+Sakuraba: "I picked one that looks adequately expensive."
+TP
+
+//太一「作者は……ええと……鑑定書があるな。伝周文筆さんか」
+Taichi: "Author... uhmmm... there's an expert certification. A certain Assumed Tensho Shubun-san?"
+//http://en.wikipedia.org/wiki/Tensh%C5%8D_Sh%C5%ABbun this one I had to cross-reference Wikipedia in English and Japanese to figure out; 伝 intermediary for "assumed XXX" is not really a common meaning. And there's the kanji 筆 for 'brush' after the actual name (周文 shubun) that's confusing. It simply means "attributed to the brush of". -GHS
+TP
+GL 1 TCSH0003c
+GI 1 0
+WVP 0 vmCCC4016sku027
+//桜庭「有名なのか？」
+Sakuraba: "Is he famous?"
+TP
+
+//太一「調べよう」
+Taichi: "I'll look him up."
+TP
+
+GS 0 0
+GS 1 0
+SEF 52 0
+//HACK wipe to black -GHS
+
+//睦美さんの部屋から、それ系の図鑑を持ってくる。
+I bring over an illustrated book on the topic from Mutsumi-san's room.
+//Why does she have that...? -GHS
+TP
+
+GS 0 1
+GS 1 1
+SEF 52 0
+//HACK wipe back -GHS
+
+//太一「安物だったら掲載されてもいないだろうが」
+Taichi: "If it's a cheap one it shouldn't be published in here I guess."
+TP
+GL 1 TCSH0000c
+GI 1 0
+
+WVP 0 vmCCC4016sku028
+//桜庭「それは困ったな。一番高そうなやつだったんだが」
+Sakuraba: "That would be a problem. 'Cause this is the one that looks the most expensive."
+TP
+
+//太一「伝周さんよ、アンタいったいどんだけきばってくれるんだい？」
+Taichi: "Oh Assumed-san, how much have you been straining yourself down on this Earth of ours?"
+//A bit sing-y. Taichi's assuming that the first two kanjis are the surname of the author. -GHS
+TP
+
+
+//国宝と重要文化財。
+National Treasure and Important Cultural Property.
+TP
+
+
+//太一「――――――――――――」
+Taichi: "------------"
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+//気絶。
+Loss of consciousness.
+TP
+
+WVP 0 vmCCC4016sku029
+//桜庭「おい、太一！　太一！」
+Sakuraba: "Ohi, Taichi! Taichi!"
+TP
+GL 0 bgcc0004c
+GS 0 1
+SEF 109 0
+
+//……………………。
+............
+TP
+
+
+//太一「おまえ……これは本物だとしたら……国に対する冒涜になるんじゃないか？」
+Taichi: "You... this is the real deal... isn't what you're doing an affront to the Country?"
+TP
+GL 1 TCSH0000c
+GI 1 1
+WVP 0 vmCCC4016sku030
+//桜庭「そうか？　焚き火のネタにしかならないと思うけどな」
+Sakuraba: "Is it? I thought this was only good as fuel for a fire."
+//Of course. He may carry their patriotic currency, but he doesn't put his treasures in anything of this world. -GHS
+TP
+
+//文化破壊者……こいつは文化破壊者っっ。
+Destroyer of Culture... this guy is nothing but a Destroyer of the Cultuuure!
+//Compare Touko, 芸術の破壊者 Destroyer of Arts -GHS
+TP
+
+//俺は子猫みたいに震えるだけだった。
+I was just shaking like a little kitten.
+//PCP CCB0002, CCC3022 for reasons unclear -GHS
+TP
+
+//震えていると、桜庭は唐突に言った。
+And while shaking, all of a sudden Sakuraba said,
+TP
+
+GL 1 TCSH0003c
+GI 1 0
+WVP 0 vmCCC4016sku031
+//桜庭「それで……おまえも一緒に行かないか？」
+Sakuraba: "By the way... why don't you come together with me?"
+//Oh, don't worry, Sack, he'll come too when his time is done. Uhm, let's just not bother with subtlety here. -GHS
+TP
+
+//太一「え……俺も旅に？」
+Taichi: "Eh... me, traveling with you?"
+TP
+
+WVP 0 vmCCC4016sku032
+//桜庭「友貴も誘ったんだけどな。あいつはここでやることがあるそうだ」
+Sakuraba: "I invited Tomoki too though. Seems like that guy has something to do here."
+TP
+
+//太一「まあなぁ」
+Taichi: "Ahhh well."
+TP
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC4016sku033
+//桜庭「どうだ？」
+Sakuraba: "How 'bout?"
+TP
+
+WVS 1 1
+
+//太一「……面白そうだけど」
+Taichi: "...seems interesting, but."
+TP
+
+//みんなの顔がよぎる。
+Everybody's faces run by me,
+TP
+
+//幾多の謎とともに。
+together with the many mysteries.
+//Until the mysteries are solved, he'll stay. If there were no more mysteries, he'd just leave. -GHS
+TP
+
+//太一「パスしとく」
+Taichi: "I best pass."
+TP
+
+WVP 0 vmCCC4016sku034
+//桜庭「そうか」
+Sakuraba: "Well then."
+TP
+
+//さして残念でもなさそうに、桜庭。
+Doesn't seem like you're that disappointed, Sakuraba.
+//...because he knows... -GHS
+TP
+
+WVP 1 bgm016.ogg 0 0 0
+
+WVP 0 vmCCC4016sku035
+//桜庭「ならもう行こう」
+Sakuraba: "With that, I should go."
+TP
+
+//太一「せめて明日にしたらどうだよ、山越えるなら危ないぞ？」
+Taichi: "At least do this tomorrow! Isn't crossing the mountain dangerous?"
+TP
+
+WVP 0 vmCCC4016sku036
+//桜庭「今行きたい気分でな」
+Sakuraba: "I feel like going now."
+TP
+
+//太一「あー、遭難するタイプ」
+Taichi: "Ahhh, you're the type that'll just get stranded."
+//See CCA0002, same term. This idiot can find the way. Hooo boy can he. -GHS
+TP
+
+WVP 0 vmCCC4016sku037
+//桜庭「じゃあ食い物もわけてもらったし、行くことにする」
+Sakuraba: "Then, I will be taking my part of the food, and will be going."
+TP
+
+//太一「うむ」
+Taichi: "Yep."
+TP
+
+
+
+GL 0 bgcc0013bz
+GS 0 1
+GS 1 0
+SEF 152 0
+//HACK disable doll -GHS
+//見送る。
+I see him off.
+TP
+
+//太一「あ、そうだ、訊いていいか？」
+Taichi: "Ah, right, can I ask you something?"
+TP
+
+GL 1 TCSH0000c
+GI 1 1
+//HACK fade doll. -GHS
+WVP 0 vmCCC4016sku038
+//桜庭「ん？」
+Sakuraba: "Hm?"
+TP
+
+//太一「おまえ、放送部の中で殺したいほど嫌いな奴いる？」
+Taichi: "You, do you got someone in the Broadcast Club you hate so much you'd kill?"
+TP
+
+GL 1 TCSH0002c
+GI 1 0
+WVP 0 vmCCC4016sku039
+//桜庭「いない。みんな好きだ」
+Sakuraba: "No one. I really like everybody."
+TP
+
+//太一「お盛んだな」
+Taichi: "Just going all out aren't you."
+TP
+
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC4016sku040
+//桜庭「そういう意味じゃない。俺は精神的には不能だから、そっちの欲望はほとんどない」
+Sakuraba: "That's not what I mean. I have a mental incompetency, so I don't have desires of that kind."
+//Vs. want. -GHS
+TP
+
+//実はそうなんです。
+That is indeed the truth.
+TP
+
+WVP 0 vmCCC4016sku041
+//桜庭「俺の性欲は、あの日、あの時のおまえに奪われたままさ」
+Sakuraba: "You stole my sexual desire, that day, that time, and that's how it's still is."
+TP
+
+//嬉しそうに。
+And he looks happy.
+TP
+
+//太一「キモいからやめれ」
+Taichi: "That's disgusting so cut it out."
+TP
+GL 1 TCSH0002c
+GI 1 0
+WVP 0 vmCCC4016sku042
+//桜庭「いや、俺みたいな突発的な人間には、強すぎる性欲なんてない方がいい」
+Sakuraba: "Nah, being without strong sexual desires is for the best for a spontaneous human like me."
+//This is sort of what makes Sakuraba a "fixed" Taichi. If your ears give you scandal, best to go without them, after all. -GHS
+TP
+
+WVP 0 vmCCC4016sku043
+//桜庭「その分、他でしたいことをしてるしな」
+Sakuraba: "What I want to do I just do, outside of that."
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//桜庭の鼓膜が破れたあの日。
+On the day Sakuraba's eardrum broke, that very day,
+TP
+
+//こいつは嘘のように落ち着いたという。
+this guy calmed down in a way that would sound almost like a lie.
+//Very literally like one. -GHS
+TP
+
+//そして同時に、性欲も失われた。
+And, at the same time, his sexual desires also vanished.
+TP
+
+//何が原因なのかは不明。
+What caused that? Unknown.
+TP
+
+//失恋の痛手か、悟りを開いたのか。
+Maybe the hard blow of a broken heart, maybe the achievement of enlightenment.
+//Yes. -GHS
+TP
+
+//それは桜庭にもわからない。
+What it was Sakuraba doesn't understand either.
+//Which is why Taichi got to send him back; he can't just leave the valley on his own. He'll never find the way and just die. None leave but through Him, even if the Him here is an ignorant chuuni-addled ass. -GHS
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+//太一「もう一つ質問」
+Taichi: "One more question."
+TP
+
+//太一「おまえ、人殺したことある？」
+Taichi: "Have you ever murdered anyone?"
+TP
+
+GL 1 TCSH0000c
+GI 1 0
+WVP 0 vmCCC4016sku044
+//桜庭「いいや、ない」
+Sakuraba: "No, I haven't."
+//Dunno, I think English is still hurting from that thing above. -GHS
+TP
+
+//太一「……そうか」
+Taichi: "...right then."
+TP
+
+//太一「わかった。行ってこい」
+Taichi: "Got it. See you later."
+TP
+
+WVP 0 vmCCC4016sku045
+//桜庭「ああ、じゃあな……」
+Sakuraba: "Yeah, bye then..."
+TP
+GO 1 1
+//見送りながら思う。
+I think, as I see him off,
+TP
+
+//あいつが犯人だとしたら、みすみす逃がすことになるんだよなぁ。
+that if this guy were to the culprit, then I have juuust let him escape from under my nose.
+TP
+
+//でもまぁ、いいか。
+But, ah, it should be fine.
+TP
+
+//たぶん違うだろうし。
+I'm probably wrong.
+TP
+
+
+//こうして。
+And so it was,
+TP
+
+WVS 1 1
+
+//桜庭はいなくなった。
+that Sakuraba was no longer among us.
+TP
+
+//あっさり……いなくなっちまった。
+He just plainly... disappeared.
+//HACK new line. Ohh, reminds very much of CCC3004. -GHS
+TP
+
+RET

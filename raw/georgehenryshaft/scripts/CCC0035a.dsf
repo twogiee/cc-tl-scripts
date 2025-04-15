@@ -1,0 +1,184 @@
+GL 0 bgcc0004b
+GS 0 1
+SEF 109 0
+//HACK better flashback exit -GHS
+
+
+WVP 1 bgm016.ogg 0 0 0
+
+
+//相変わらず、睦美おばさんの姿はない。
+As it always is, Mutsumi-obasan is nowhere to be seen.
+//CP CCA0015C
+TP
+
+//当たり前である。
+That's obvious,
+TP
+
+//死んだんだから。
+because she has died.
+TP
+
+//いや、死んだのだろうか。
+No, wait, has she actually died?
+TP
+
+//人類全員かくれんぼ説もまだ生きている。
+The theory that the whole of mankind is playing hide-and-seek still survives.
+//See CCC0020. Interesting he'd agree with Sakuraba. See CCD1001: he will again. And the theory not only survives but thrives, or rather, given the setting of psychological and physical isolation, actively festers. -GHS
+TP
+
+//脳だいぶヒビ割れちゃってるんじゃない？と思わんばかりにくだらない説だが、比定する根拠はない。
+"Didn't your brain split nice and clean now?", is how worthless that theory is if I think about it, but I have no grounds to make a competing hypothesis.
+//See CCA0002. I don't either. Neither the religious nor intrapsychical explanations are actually competing hypotheses. -GHS
+TP
+
+//産業もエネルギーも報道もうっちゃってかくれんぼとは、人類も弾けたものである。
+A game of hide-and-seek in which manufacture, energy production, and information services are abandoned means mankind's gotta have snapped as well.
+TP
+
+//滅亡滅亡言っているが、実際は消失なわけで。
+Fallen, it's fallen I can say all day, but fact is that it's just a case of disappearance.
+TP
+
+//さておき、優しい睦美おばさんが出てこないわけだ。
+Regardless, gentle Mutsumi-obasan does not turn up.
+TP
+
+//家にまったく家族臭が感じられない。
+Damn if I just can't feel that flavor of family in this house.
+TP
+
+//もともと希薄だったが、まったくなくなってしまった。
+It was thin and sparse from the start, but now it's all entirely damnably gone.
+TP
+
+//洗い場をのぞく。
+I peek in the laundry room.
+TP
+
+//水を張ったタライの中に、トマトがみっつ浮いていた。
+In a washtub filled to the brim with water, tomatoes, three, were floating.
+//See CCB0023, must be the washtub he asked for. -GHS
+TP
+
+//太一「トマトじゃ」
+Taichi: "Tomatoes, ain't they."
+TP
+
+//驚いた。
+I was surprised.
+TP
+
+//俺が入れたものではない。
+I didn't put them there.
+//This should be Tomoki. See CCC3012B, Sakuraba expects them. Of course, he never did this before... and Tomoki shouldn't come in this early either. It's never even hinted who puts them there; in fact, it may well be Mutsumi herself. -GHS
+TP
+
+//さっそく食う。
+I promptly eat.
+//EWWWW vegetmbales. -GHS
+TP
+
+//新鮮なトマトだ。
+They're fresh tomatoes.
+//Term GISs overwhelmingly to red tomatoes. Didn't he have a problem with that color...? Perhaps that's the point. -GHS
+TP
+
+//口の中で、詰まった実がじゅわっと潰れた。
+The dense fruit crushes juicily inside the mouth.
+TP
+
+//頬がひきつるほどうまい。
+Delicious enough to want to suck on the cheeks.
+TP
+
+//とにかくこの家に食い物はないのだ。
+Regardless, there's nothing to eat at home.
+TP
+
+//いつも睦美さんが会社帰りにできあいを買ってきてくれた。
+Mutsumi-san would always buy and bring something ready-made on the way back from the company.
+//However, she rarely comes home since she often sleeps in the dormitory. The rest of the times he just orders takeout. This is a lie by omission. -GHS
+TP
+
+//だから料理の機会は少なく、材料も常備されていない。
+With opportunities for cooking therefore rare, there is no reserve of ingredients.
+TP
+
+//そういやじゃがいもだけはあった気がする……。
+But come to think of it, it feels as if there's potatoes...
+//It's as if he's no more forgotten this pre-loop thing than he'd forgotten Yutaka. -GHS
+TP
+
+//机の上を見ると、メモが置いてあった。
+Looking on top of the table, there was a note set there.
+TP
+
+
+//『夕食がないこともない』
+> 
+ 
+            『There may be no absence of dinner.』
+//CP CCA0015C
+TP
+
+
+//曜子ちゃんか。
+Youko-chan then.
+TP
+
+//食い物で釣ろうとしている。
+Trying to lure me in, using food as bait.
+TP
+
+//ありありと。
+Veeery obviously too.
+TP
+
+//そんな手に俺が乗るか、冷静に考えればわかることだ。
+If I think calmly I will understand whether I should fall for that trick.
+TP
+
+//太一「いってきます」
+Taichi: "I'm going out!"
+//Literal truth laterally said, inexplicable tomatoes, possibly no reaction to red, remembering something he shouldn't know, lies by omission, and now an obvious contradiction. The subtle subtle weirdness continues. -GHS
+TP
+
+//行くに決まっていた。
+I had decided to go.
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+
+SEF 109 0
+
+WT 1000 0
+WT 500 1
+
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 109 0
+
+//蝋燭に火を灯す。
+I ignite the wick of a candle.
+//PCP CCA0012
+TP
+
+//日記を書く。
+I write the diary.
+TP
+
+//克明に書く。
+I write thoroughly, diligently.
+TP
+
+//来週のために―――
+For the sake of next week---
+TP
+
+WVS 1 1
+RET

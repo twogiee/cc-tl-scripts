@@ -1,0 +1,709 @@
+WVP 1 bgm003.ogg 0 0 0
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 1
+
+//太一「……うーむ」
+Taichi: "...mhhh-hm."
+TP
+
+
+//夜は原稿書きだ。
+The night is for writing this script.
+TP
+
+
+//いまいちはかどらない。
+It's progressing in ways unsatisfactory.
+TP
+
+
+//ありきたりな内容。
+Content is predictable.
+TP
+
+
+//けど、とりあえずは進めておかないと。
+But, for the time being, I must simply advance it.
+TP
+
+
+//太一「おもしろみに欠けるねぇ」
+Taichi: "This thing's lacking on the fun, innit."
+TP
+
+
+//そうだ。
+Right!
+TP
+
+
+//先輩に見てもらうか。
+Should I let Senpai look it over?
+TP
+
+
+//思い立ったが吉日。
+As the saying goes, the right moment to do things is the moment you think of them.
+//Tweaked proverb a bit so it fits circumstances better. Boku everything in adapteeshion-desu -GHS
+TP
+
+
+//すぐに家を出た。
+I left the house straight away.
+TP
+
+
+GL 0 bgcc0000c
+GS 0 1
+SEF 152 0
+
+
+//先輩の家だ。
+This is Senpai's house.
+//Try to imagine it. Reeeally hard. -GHS
+TP
+
+
+//ノックをしてみるが、反応がない。
+I try to knock, but there is no reply.
+TP
+
+
+//太一「せんぱーい！」
+Taichi: "SENPAAAI!"
+TP
+
+
+//やはりレスポンスがない。
+As expected, no response.
+//There's no one in the house, as her father's been in jail for months now. -GHS
+TP
+
+
+//太一「あなたの太一が来ましたよー！」
+Taichi: "Your Taichi has cooome!"
+TP
+
+
+//シーン
+Loud silence.
+//CP CCA0027
+TP
+
+
+
+//留守かな。
+She absent, maybe?
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+WVS 1 1
+
+//まさか、まだ学校にいる？
+Are you kidding me, she's still as school?
+TP
+
+
+GL 0 bgcc0007b
+GS 0 1
+SEF 152 1
+
+//太一「うわー、いるし！」
+Taichi: "Whoooa, she is!"
+TP
+WVP 1 bgm012.ogg 0 0 0
+
+GL 0 zzzrooftopnightzoom
+GS 0 1
+GL 1 TCMM0004c
+GP 1 220 0
+GS 1 1
+SEF 109 1
+//GI 1 1
+//HACK the usual zoomed rooftop BG, with simultaneous doll. -GHS
+
+WVP 0 vfcca0028msa000
+//見里「わっ、ぺけくん？」
+Misato: "Wah, Peke-kun?"
+TP
+
+
+//太一「無茶しすぎ！」
+Taichi: "You're pushing yourself way too far!"
+TP
+
+GL 1 TCMM0005c
+GI 1 0
+WVP 0 vfcca0028msa001
+//見里「ご、ごめんなさい」
+Misato: "A-, apologies!"
+TP
+
+
+//太一「はー」
+Taichi: "Sigh..."
+TP
+
+
+//例によってというか、アンテナを組み立てていたようだ。
+As is her habit, I should say, she seemed to be assembling the antenna.
+TP
+
+
+//太一「こんな暗くて作業も何もないでしょーが」
+Taichi: "There's no working at all in this pitch black darkness!"
+//It should be about 4 PM. -GHS
+TP
+
+
+WVP 0 vfcca0028msa002
+//見里「気になっちゃって……ダメですか？」
+Misato: "It worried me... is that bad?"
+TP
+
+
+//太一「ダメ」
+Taichi: "It's bad."
+TP
+
+
+//太一「そんなことしてる暇があったら、原稿見てくださいよ」
+Taichi: "If you have free time to do that, then please check the script."
+TP
+
+
+GL 1 TCMM0000c
+GI 1 0
+
+WVP 0 vfcca0028msa003
+//見里「おや、もうできましたか？」
+Misato: "My, you managed it already?"
+//Literal because hyperformal Misato. -GHS
+TP
+
+
+//太一「途中です。でも意見聞きたくて」
+Taichi: "It is on the way. But I would still like to hear your opinion."
+TP
+
+GL 1 TCMM0005c
+GI 1 0
+
+WVP 0 vfcca0028msa004
+//見里「あー、でもこう暗いと……読めないですね」
+Misato: "Ahhh, but with this darkness... I cannot read this."
+TP
+
+
+//太一「そですね」
+Taichi: "So you cannot."
+//HE can't read in the dark either, what the hell is he thinking? -GHS
+TP
+
+
+//太一「もういいですから帰りましょう」
+Taichi: "Well, this is enough already, so let us head home."
+TP
+
+
+GL 1 TCMM0000c
+GI 1 0
+WVP 0 vfcca0028msa005
+//見里「あ、でも……もうちょっと」
+Misato: "Ah, but... I still want to..."
+TP
+
+
+//太一「みみ先輩……」
+Taichi: "Mimi-senpai..."
+TP
+
+
+GL 1 TCMM0005c
+GI 1 0
+WVP 0 vfcca0028msa006
+//見里「だってぇ～」
+Misato: "Buuu～t..."
+TP
+
+
+//太一「焦って進めても、得るものはないんですよ」
+Taichi: "If you rush forwards you will not obtain what you want."
+TP
+
+
+GL 1 TCMM0000c
+GI 1 0
+WVP 0 vfcca0028msa007
+//見里「……」
+Misato: "..."
+TP
+
+
+//太一「ゆっくりやればいいんです。違いますか？」
+Taichi: "You would do better to take things slow. Am I wrong?"
+TP
+
+
+//太一「時間はたっぷりあるんですから」
+Taichi: "Because we have sooo much time still."
+//They have their whole lives ahead of them; they have infinite time due to the Cross World etc.; who knows how long until the End of All. -GHS
+TP
+
+
+//太一「それに急げば……それだけはやく終わってしまう」
+Taichi: "If you hurry this... then this is the only thing that will end faster."
+TP
+
+
+//太一「先輩、それに耐えられるんですか？」
+Taichi: "Senpai, would you even be able to stand that?"
+TP
+WVP 1 bgm015.ogg 0 0 0
+
+
+GL 1 TCMM0003c
+GI 1 0
+WVP 0 vfcca0028msa008
+//見里「……っ」
+Misato: "...!"
+TP
+
+
+//泣きそうな顔。
+A tearful face.
+TP
+
+
+//背筋が痺れた。
+My spinal column goes numb.
+TP
+
+
+//つい、自分が禁忌を口走っていたことに気づく。
+And I realize that, accidentally, I let my mouth run to the taboo.
+TP
+
+
+WVP 0 vfcca0028msa009
+//見里「……わたし、逃げてるんでしょうか」
+Misato: "...I... I am running away, then?"
+TP
+
+
+//太一「そですね」
+Taichi: "You are."
+TP
+
+
+
+WVP 0 vfcca0028msa010
+//見里「そう、見えちゃいますか？」
+Misato: "Is it... that noticeable?"
+TP
+
+
+
+//太一「見えちゃいます」
+Taichi: "It is that noticeable."
+TP
+
+
+
+//太一「作業に没頭することで、逃げてる」
+Taichi: "You are running away by sinking into work."
+TP
+
+
+//アンテナを見あげる。
+I look up at the antenna.
+TP
+
+
+
+//太一「無理矢理、仕事を作るようにして……わざと手間がかかるやり方で」
+Taichi: "By hook or by crook, you find work to do... and in the most time-consuming way, intentionally."
+TP
+
+GL 1 TCMM0005c
+GI 1 0
+WVP 0 vfcca0028msa011
+//見里「……見抜かれてましたか」
+Misato: "...did you see through me?"
+TP
+
+
+
+//太一「それが普通だと思ったんです」
+Taichi: "I thought it was normal."
+TP
+
+
+//GL 1 TCMM0000c
+GL 1 TCMM0004c
+GI 1 0
+//HACK shocked Misato -GHS
+
+WVP 0 vfcca0028msa012
+//見里「え？」
+Misato: "Eh?"
+TP
+
+
+
+//太一「先輩のしていることは、そうおかしなことじゃない」
+Taichi: "If Senpai was doing it, it couldn't be that strange."
+//Less formal. Continues the "I thought...". Of course Taichi would have a skewed idea of what's normal. -GHS
+TP
+
+
+
+//太一「逃避をしたことのない人間なんていませんよ」
+Taichi: "There is no such thing as a human who has never run away!"
+TP
+
+
+
+//太一「けど先輩みたいに、必死に逃避しなければならないのは……つらいことだ」
+Taichi: "But to be like you, Senpai, being unable to do anything but run away as if your life depended on it... that is heart-breaking."
+TP
+
+
+
+//太一「もちません、心は」
+Taichi: "It can't last, that heart of yours."
+TP
+
+
+
+GL 1 TCMM0003c
+GI 1 0
+WVP 0 vfcca0028msa013
+//見里「…………」
+Misato: "......"
+TP
+
+
+
+//太一「あなたは……３０を越えているはずだ」
+Taichi: "You... must've gone above 30 by now."
+TP
+
+
+
+WVP 0 vfcca0028msa014
+//見里「…………」
+Misato: "......"
+TP
+
+
+
+//太一「強度の自傷症状」
+Taichi: "Symptoms: intense self-injury." 
+TP
+
+
+
+WVP 0 vfcca0028msa015
+//見里「…………」
+Misato: "......"
+TP
+
+
+
+//無言という肯定。
+A silence called assent.
+TP
+
+
+
+//俺はただ、言葉を重ねる。
+I merely kept piling word on word.
+TP
+
+
+
+//太一「一人で作業するのはいい。けど追いつめられているなら……このまま単独で没頭するのは危険だ」
+Taichi: "Hard labor on your own is fine. But letting yourself be cornered by it... you keep sinking into this on your own, that's dangerous."
+TP
+
+
+
+//太一「……弾けたとき、ここが屋上だってことが、危険だ」
+Taichi: "...when that explodes, you being here on this rooftop is dangerous."
+//The heart. "She does do so" in CCC4021 and CCD0022A. Or it's just this moment becoming Fixed. -GHS
+TP
+
+
+
+//太一「わかってますか？」
+Taichi: "Do you understand this?"
+TP
+
+
+
+WVP 0 vfcca0028msa016
+//見里「わかって、ますよ」
+Misato: "I under... stand."
+TP
+
+
+
+//ぽつ、と言う。
+Fragmentary, to say.
+//CP CCA0018
+//This refers to that pause, I think. -GHS
+TP
+
+
+
+//太一「たいへん心配です」
+Taichi: "This is a really big worry for me."
+TP
+
+
+
+//先輩は眼鏡を外した。
+Senpai took off her glasses.
+TP
+
+
+
+//涙ぐんだ瞳に、指の背を添える。
+The back of her fingers accompany themselves to her tear-filled eyes.
+TP
+
+
+GL 1 TCMM0003c
+GI 1 0
+
+WVP 0 vfcca0028msa017
+//見里「ぺけくんに、心配されるくらい……不安定だったんですね、わたし」
+Misato: "I make even you worry, Peke-kun... I am so unstable, that is why."
+//See CCA0003. Seems specific enough. -GHS
+TP
+
+
+
+//太一「はは……その言い方は、失礼だなあ」
+Taichi: "Hahah... saying it that way's a bit impolite!"
+TP
+
+
+
+WVP 0 vfcca0028msa018
+//見里「あはは」
+Misato: "Ahahah!"
+TP
+
+
+
+WVP 0 vfcca0028msa019
+//見里「君にこんなこと言われるなんてびっくりしました」
+Misato: "But I am surprised at you telling me this."
+//Seems Misato either doesn't expect Taichi to do anything but try to have his messy fun, or to ever call on her bullshit. Perhaps Taichi's not the only one here who thinks the counterpart's a moron. -GHS
+TP
+
+
+
+//涙をぬぐう。
+She wipes her tears.
+TP
+
+
+
+GL 1 TCMM0002c
+GI 1 0
+WVP 0 vfcca0028msa020
+//見里「……ありがとう」
+Misato: "...thank you."
+TP
+
+
+
+//太一「いいえ」
+Taichi: "'s nothing."
+TP
+
+
+
+WVP 0 vfcca0028msa021
+//見里「だって……みんなバラバラで……このまま霧散するみたいで」
+Misato: "But... we are broken up and scattered around here and there... soon, it will be as if we had all vanished into the fog."
+//霧. バラバラ will return... -GHS
+TP
+
+
+
+//太一「俺は霧散してないですよ」
+Taichi: "I will not vanish into the fog!"
+//Since she's the #1 source of death in the story for Taichi, that is almost too perfect not to be intended. -GHS
+TP
+
+
+
+GL 1 TCMM0000c
+GI 1 0
+WVP 0 vfcca0028msa022
+//見里「だって、君はなんだか……動機が不純」
+Misato: "But you have... less than pure motives, so to say."
+TP
+
+
+
+//ばれてた。
+Exposed.
+TP
+
+
+
+//太一「まあ」
+Taichi: "Well."
+TP
+
+
+
+GL 1 TCMM0031c
+GI 1 0
+WVP 0 vfcca0028msa023
+//見里「でも確かにわたし、意固地になっていたのかも」
+Misato: "But it is true that I have become obstinate, perhaps."
+//Very strong 'fixed thing' implication. -GHS
+TP
+
+
+
+//太一「それに厳密には一人じゃないみたいですよ？」
+Taichi: "Besides, strictly speaking it seems you were not alone, you know?"
+TP
+
+
+
+//GL 1 TCMM0000c
+GL 1 TCMM0004c
+GI 1 0
+//HACK shocked Misato again -GHS
+WVP 0 vfcca0028msa024
+//見里「え？」
+Misato: "Eh?"
+TP
+
+
+
+//太一「これ」
+Taichi: "Here."
+TP
+
+
+
+//先ほど、給水塔の下でひろった包みを見せる。
+I show her the parcel that I found earlier at the foot of the water tower.
+//So the water tower is NOT above the stairwell? I don't get this. -GHS
+TP
+
+
+
+GL 1 TCMM0021c
+GI 1 0
+WVP 0 vfcca0028msa025
+//見里「差し入れ？」
+Misato: "A supply drop?"
+//Lots of those around. -GHS
+TP
+
+
+
+//太一「イエス」
+Taichi: "Yess'uh."
+TP
+
+
+
+//太一「ただし中身はカレーパン」
+Taichi: "However, contents are curry bread."
+//"He just stole a crateful from Sakuraba" (fnarr fnarr). This may be his way of being passive-aggressive, but remembering what curry bread means (Christianity), the joke's on him. -GHS
+TP
+
+
+GL 1 TCMM0000c
+GI 1 0
+
+WVP 0 vfcca0028msa026
+//見里「…………あ」
+Misato: "......ah!"
+TP
+
+
+
+//気づいて、口元を押さえる。
+Realizing, she pins down her mouth.
+TP
+
+
+
+//太一「あいつも最近、ちょっとナーバスみたいでなかなか顔見せないですけど、ね」
+Taichi: "Lately, that guy seemed nervous enough that he would just not show face either, right."
+TP
+
+
+
+//太一「あのバカ、自分の仲間が追い込まれるの、見てられない性格してますから」
+Taichi: "That idiot, he has the kind of personality that just cannot stand even looking at close friends being driven into a corner."
+TP
+
+
+
+//太一「こんな傷みかけのカレーパン持ってきて」
+Taichi: "And he brought you some near-spoiling curry bread."
+//For first read it should probably be read as a tone change joke. How can it be near-spoiling? Well, it's at least half a day old. Of course, things will no longer be spoiling when Taichi realizes there are no germs (which is his way of accepting there is fresh stuff being brought in). -GHS
+TP
+
+
+
+GL 1 TCMM0002c
+GI 1 0
+WVP 0 vfcca0028msa027
+//見里「でもぺけくん、嬉しそう」
+Misato: "But you seem happy, Peke-kun."
+TP
+
+
+
+//太一「食べます？」
+Taichi: "Shall we eat?"
+TP
+
+
+
+GL 1 TCMM0000c
+GI 1 0
+//先輩は小さくうなずいた。
+Senpai made a tiny nods.
+TP
+
+
+
+WVS 1 1
+
+
+//二人で、カレーパンを食べた。
+We ate curry bread, the two of us.
+TP
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 152 1
+WT 1000 0
+WT 1000 1
+
+
+RET
+
+

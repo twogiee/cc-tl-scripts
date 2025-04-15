@@ -1,0 +1,407 @@
+
+Taichi: "It...It's all good."
+TP
+
+WVP 0 vfccb2003afyu000
+Touko: "Eh?!"
+TP
+
+The one who'd put the idea forth was surprised.
+TP
+
+WVP 0 vfccb2003afyu001
+Touko: "It's...it's okay?"
+TP
+
+Taichi: "......"
+TP
+
+Taichi: "There's no way I can let Touko starve to death."
+TP
+
+WVP 0 vfccb2003afyu002
+Touko: "For now......"
+TP
+
+Taichi: "Otherwise, the Hungry Harakiri Wolf possessed by the temptation of food would be released from the bonds of this world."
+TP
+
+Touko: "............"
+TP
+
+I defended myself.
+//Shouldn't it be Taichi since he just made a statement about Touko?-Spin
+TP
+
+Taichi: "......nn?"
+TP
+
+No attack came.
+TP
+GL 0 bgcc0002c
+GL 1 TCKT0006c
+GS 0 1
+GS 1 1
+GP 1 230 0
+SEF 152 0
+
+WVP 0 vfccb2003afyu004
+Touko: "Ah, umm, I'll bring a change of clothes right away!"
+TP
+
+Taichi: "What?!"
+TP
+
+WVP 0 vfccb2003afyu005
+Touko: "I'll be right back!"
+TP
+GO 1 1
+
+She ran away.
+TP
+
+Taichi: "Ueitsu! (Wait!)"
+TP
+WVS 1 0
+
+I grabbed her ankles.
+TP
+WVP 2 se038 1 0
+SEF 101 0
+
+*smack!*
+TP
+
+
+WVP 0 vfccb2003afyu006
+Touko: "Obuobuobu......"
+TP
+
+Touko kissed the ground.
+TP
+
+Good thing this is grass.
+TP
+
+Taichi: "Good thing this is grass."
+TP
+
+We drew near each other through our true intentions.
+TP
+
+WVP 1 bgm010.ogg 0 0 0
+
+WVP 0 vfccb2003afyu007
+Touko: "My nose......the nose I shape every day wif clothespins......"
+//She's referring to one of many ways people make various body parts grow differently through very long and frequent applications of pressure. Lip discs are the only one I know the name of. The point being, if anyone can adapt this better to make that intent more obvious, please do so. Å`IX
+//I think the point is brought across nicely. I also like that it's her nose, which may be the cause of her "distinct intonation" XD - pondrthis
+TP
+
+You've done that?
+TP
+GL 1 TCKT0003c
+GI 1 1
+
+WVP 0 vfccb2003afyu008
+Touko: "Wut're yu doin!!?"
+TP
+
+Taichi: "Are you really going to live here?"
+TP
+
+WVP 0 vfccb2003afyu009
+Touko: "I will! It's already been decided!"
+TP
+
+Taichi: "Yet you won't even show your shame......"
+TP
+
+Taichi: "When it comes to others you're a competitive girl who beats the crap out of everyone, but your sculpted features aside, around me you shall be a strange and conveniently flattering heroine!!!"
+TP
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfccb2003afyu010
+Touko: "......I don't understand."
+TP
+
+I brushed my bangs aside.
+//I'm starting to imagine this movement with the classic anime sparkles and other exaggerations Å`IX
+TP
+
+Taichi: "Even though you were praiseworthy until just a moment ago!"
+TP
+
+GL 1 TCKT0021c
+GI 1 0
+
+WVP 0 vfccb2003afyu011
+Touko: "But now that I have your pledge, there's no longer any need to sweeten the deal."
+TP
+
+Taichi: "Aaah! Aaaaaaaaah! You tricked meee!!"
+TP
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfccb2003afyu012
+Touko: "Since there aren't any police, I'll be able to carry my blade openly."
+TP
+
+Taichi: "---!?"
+TP
+
+That Demon Harakiri Blade in my house!?
+TP
+
+
+Taichi: "Hiiiiiiii! Someone!! There's a warrior girl here who's incredibly good with her blade!!!"
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2003afyu013
+Touko: "There's no 'someone' left."
+TP
+
+That's right!
+TP
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfccb2003afyu014
+Touko: "Besides, if you think about it, this is a just and proper civil right."
+TP
+
+Taichi: "Eh!?"
+TP
+GL 1 TCKT0003c
+GI 1 0
+
+WVP 0 vfccb2003afyu015
+Touko: "If you can't handle that, then give 'it' back."
+TP
+
+
+*slip*
+TP
+
+
+My hand was broken through.
+TP
+
+Taichi: "I've already returned ÅwThe 18-Year-Old Perverted Little Sister Next DoorÅx......"
+//"little sister" should be together, I think, and I added an extra hyphen there - pondrthis
+//It's the title of a video right? Added the capitalization because it made me think he was being literal also.-Spin
+TP
+
+WVP 0 vfccb2003afyu016
+Touko: "I never loaned you an erotic video!"
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfccb2003afyu017
+Touko: "Something more important. Come on, give it back."
+TP
+
+
+*s-slip!*
+TP
+
+
+Something more important.
+TP
+
+Taichi: "I should've returned ÅwExtreme School Bloomer TwirlsÅx too......"
+//Wth...you capitalized this one but not that other one...-Spin
+TP
+GL 1 TCKT0003c
+GI 1 0
+
+WVP 0 vfccb2003afyu018
+Touko: "I didn't loan you any 'special interest' videos either!!!"
+//The flow of that sentence went way too fast. It made me wonder why she said "either" when it was also a video. Added those to make it stand out.-Spin
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+WVP 0 vfccb2003afyu019
+Touko: "My precious thing! That you stole!"
+TP
+
+Taichi: "Aaah."
+TP
+
+I nodded deeply.
+TP
+
+Taichi: "What was it?"
+TP
+
+
+GL 1 TCKT0011c
+GI 1 0
+
+WVP 0 vfccb2003afyu020
+Touko: "Do you have dementia!?"
+TP
+GL 1 TCKT0001c
+GI 1 0
+WVP 0 vfccb2003afyu021
+Touko: "........................it's my virginity."
+TP
+
+Taichi: "Hymen?"
+//The "hymen" would be the part linked to virginity. If "vulva" was used in Japanese though, then just change it back.-Spin
+TP
+GL 4 sgcc0012
+$CGsgcc0012 = 1
+GP 4 0 0
+WVP 2 se105 1 0
+GO 1 0
+GI 4 0
+SEF 101 0
+*ka-blam!*
+TP
+
+
+WVP 0 vfccb2003afyu022
+Touko: "Go change your eardrums!!!"
+TP
+
+Taichi: "Gyaa."
+TP
+
+Reckless Courage Bursting Explosion.
+//enjoy adapting further. Å`IX
+//Done, now it's her special move. Probably not what you're looking for but works just as well.-Spin
+TP
+GL 1 TCKT0003c
+GS 4 0
+GS 1 1
+SEF 109 0
+WVP 0 vfccb2003afyu023
+Touko: "Anyway I'll live here! I'll live around here! I'll live in here! I'll live up here......I'll live in here! It's decided! Ratified!"
+TP
+
+Taichi: "You've got a majority with only half!!?"
+TP
+
+WVP 0 vfccb2003afyu024
+Touko: "I'll be coming here with my things very soon!"
+TP
+GO 1 1
+
+She turned on her heels.
+TP
+
+Taichi: "Wait, wait."
+TP
+GL 1 TCKT0001c
+GI 1 1
+
+WVP 0 vfccb2003afyu025
+Touko: "You're not done yet?"
+TP
+
+Taichi: "......nnn."
+TP
+
+Is there nothing I can do to stop this?
+//I think this is a little better. - pondrthis
+TP
+
+Taichi: "......somehow......I'm starting to see your point......yeah, okay."
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2003afyu026
+Touko: "You're mumbling."
+TP
+
+Taichi: "Okay, I'll recognize your immigration."
+TP
+
+Taichi: "However, it doesn't have to be today. Why not tomorrow?"
+TP
+
+Taichi: "I'll have to clean my room after all."
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfccb2003afyu027
+Touko: "Th-that's true......"
+TP
+
+Taichi: "If you wait until tomorrow, I'll help you carry your stuff."
+TP
+
+GL 1 TCKT0006c
+GI 1 0
+
+WVP 0 vfccb2003afyu028
+Touko: "Really?"
+TP
+
+Touko's smile suddenly turned on.
+TP
+
+Taichi: "......yeah."
+TP
+
+My acting skills have......
+TP
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2003afyu029
+Touko: "Either way, I have to go home and prepare things."
+TP
+
+Taichi: "Yeah."
+TP
+
+WVP 0 vfccb2003afyu030
+Touko: "I'm going home."
+TP
+GO 1 1
+She left with a spring in her step.
+TP
+
+WVP 0 vfccb2003afyu031
+Touko: "See you tomorrow then. I'll go to school as usual."
+TP
+
+Taichi: "Yes, yes."
+TP
+
+WVP 0 vfccb2003afyu032
+Touko: "Make sure you come!"
+TP
+
+Taichi: "Yes, yes."
+TP
+
+Touko was getting smaller and smaller.
+TP
+
+The whole time I was waving my hand.
+TP
+WVS 1 1
+
+This is getting troublesome......
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 2
+WT 1000 0
+WT 1000 1
+
+RET

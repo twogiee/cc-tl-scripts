@@ -1,0 +1,74 @@
+//Friday, September 11, 1998 -GHS
+
+WVS 1 1
+//GL 0 bgcc0000b
+GL 0 bgcc0005a
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 1
+//HACK fade to sunset road (he totally imagined that while going home from school was he) -GHS
+
+//海水浴……か。
+A beach outing... then.
+TP
+
+
+//美希には悪いけど、思い出にはなった。
+Too bad about Miki, but it did become a memory.
+TP
+
+
+//思い出は、心を豊かにしてくれる。
+Memories become the abundance of the heart.
+//豊 -GHS
+TP
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 109 1
+//HACK back to the sunset sky -GHS
+
+
+
+//だから、こんなことも言えてしまう。
+And that is why I can say this:
+//I think the real context is CCB0021. -GHS
+TP
+
+
+//太一「気にくわないこともあるだろうけど、明日から部活、来てみないか？」
+Taichi: "I know you can't really stomach it, but couldn't you try coming to Club starting tomorrow?"
+//"Stomach it" heee heee me so crubler- clevsder- cruller. Mmmh hungry nau. What were we talking about again? -GHS
+TP
+WVP 1 bgm013.ogg 0 0 0
+
+
+WVP 0 vfcca0028fyu000
+//冬子「……え？」
+Touko: "...eh?"
+//I guess the line above is where the flashback ends. -GHS
+TP
+
+
+//困惑と戸惑いを貼りつけて、彼女は伏していた顔をあげた。
+Gluing puzzlement to bewilderment, she brought up her prostrate head.
+//From the desk. -GHS
+TP
+
+
+//憔悴したその面差しが、緋色に色づけされてどこか悲壮な印象を与えた。
+Her emaciated features turned a bright scarlet, and left me with an impression in some respects tragic.
+TP
+WT 500 0
+GL 0 bgcc0000d
+GS 0 1
+WVS 1 1
+SEF 109 0
+
+WT 1000 0
+RET
+

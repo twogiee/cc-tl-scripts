@@ -1,0 +1,77 @@
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+SEF 152 0
+
+WVP 1 bgm016.ogg 0 0 0
+
+WVP 0 vfCCC0015mki000
+Miki: "Sempai!"
+TP
+
+Someone called me from behind.
+TP
+
+Taichi: "Yo."
+TP
+
+Taichi: "Done cleaning?"
+TP
+
+Miki was surprised.
+TP
+
+GL 1 TCYM0004
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC0015mki001
+Miki: "I'm...impressed that you knew I was cleaning......"
+TP
+
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfCCC0015mki002
+Miki: "Did you see me?"
+TP
+
+Crap.
+TP
+
+Diary information. Top-secret.
+TP
+
+Taichi: "......is there a reason to keep it secret?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC0015mki003
+Miki: "Keep what secret?"
+TP
+
+Taichi: "Ah, never mind, personal stuff."
+TP
+
+No, I'll keep it to myself for a while.
+TP
+
+I'm supposed to sexually harass her here.
+TP
+
+......I'm quite active.
+TP
+
+What should I do?
+TP
+
+
+
+
+CSQ 0 1 1
+  ...Harass & Sign
+  ...Dead or Alive
+//No one touch these. It was katakana, I swear. Å`IX
+
+RET

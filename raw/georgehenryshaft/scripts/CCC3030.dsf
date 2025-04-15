@@ -1,0 +1,1390 @@
+
+
+
+
+
+GL 0 bgcc0000a
+GS 0 1
+SEF 152 1
+
+WVP 1 bgm002.ogg 0 0 0
+
+//そして日曜。
+And then, Sunday.
+//PCP CCA0030
+TP
+
+//快晴。
+Clear skies.
+TP
+
+//日記にはない未知の領域でもある。
+And the unknown territory not in the diaries, as well.
+TP
+
+//この日、どのように世界が終わるのか、俺は知らない。
+In what way the world will end on this day, I have no idea.
+TP
+
+//一週間……短かった。
+A week was... short.
+TP
+
+//霧を攻略するためだけの日々になってしまった。
+The days ended up all being spent to finish the Kiri route.
+//Since 'capture' is in that sense... -GHS
+TP
+
+//それでも。
+And yet,
+TP
+
+//>　　　　　　　　　　　　　　　　　　　　　　ぎょうこう
+//部活を立て直せたのは、僥倖だ。
+the restart of club activities being was a godsend.
+//Nooot eeeven tryyyiiing. -GHS
+TP
+
+//続く俺がノートを目にすれば、立て直しのヒントになるはずだった。
+If my next self lays eyes on the notebooks, he will certainly have hints on how to arrange this all over again.
+TP
+
+//どうか幾度でも、幸せな時をと願う。
+I beg for there to be happy times often and in so many ways,
+TP
+
+//この救われない箱庭の中で。
+inside this miniature garden beyond all salvation.
+//See CCC0000. -GHS
+TP
+
+GL 0 bgcc0007f
+GS 0 1
+SEF 155 0
+//太一「まだ誰もいないや」
+Taichi: "Still nobody here, nope."
+TP
+
+//見渡す。
+I pass my gaze on the surroundings.
+TP
+
+//広い屋上にパイプテントと、機材。
+On the spacious rooftop, a pipe canopy tent and machine parts,
+//It's more like the one you get by googling パイプテント than the simple 'pipe tent'. -GHS
+TP
+
+//そそり立つアンテナ。
+and the soaring antenna.
+TP
+
+//電波一つ飛び交わない青空。
+A blue sky crossed by not one radio wave.
+TP
+GL 1 TCSK0000
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfCCC3030kri000
+//霧「……青い」
+//Kiri: "...green."
+Kiri: "...blue."
+TP
+
+//空を見あげて、霧。
+Kiri was looking up at the sky.
+TP
+
+//太一「雲一つないな」
+Taichi: "Not one cloud."
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3030kri001
+//霧「はい」
+Kiri: "Indeed."
+TP
+
+//だが霧の面差しは、まだどこか曇天を思わせた。
+But Kiri's face still somehow reminded me of a dull cloudy gray sky.
+TP
+
+//二人でフェンスに張り付く。
+The two of us cling to the fence,
+TP
+
+//会話もなく並んでいた。
+shoulder to shoulder, with no conversation.
+TP
+
+//やがて。
+Eventually,
+TP
+
+GL 2 TCMM0002
+GP 2 225 0
+GS 2 1
+GS 1 0
+SEF 109 0
+WVP 0 vfCCC3030msa000
+//見里「おはようございます」
+Misato: "Good morning."
+TP
+
+//皆がやってきた。
+everybody came by.
+TP
+
+
+GL 3 TCST0000
+GP 3 190 0
+GS 3 1
+GS 2 0
+SEF 109 0
+
+WVP 0 vmCCC3030yki000
+//友貴「……ＯＫ」
+Tomoki: "...okieh."
+TP
+
+//みみ先輩には決して話しかけなかったが、友貴はやってきた。
+Tomoki came, but he did definitely not talk to Mimi-senpai.
+TP
+
+//太一「サンクス……いつはじめます？」
+Taichi: "Thankee... when do we begin?"
+TP
+
+GL 2 TCMM0031
+GS 2 1
+GS 3 0
+SEF 109 0
+WVP 0 vfCCC3030msa001
+//見里「ええと、特に決まってはいないので、今からでも」
+Misato: "Uhmmm, I did not decide a specific time, but it is hereafter."
+//Should be around 10, then, as usual. -GHS
+TP
+GL 4 TCSH0000
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 1
+GP 4 190 0
+SEF 109 0
+WVP 0 vmCCC3030sku000
+//桜庭「ＤＪ」
+Sakuraba: "DJ?"
+TP
+
+//太一「うむ、ＤＪ……やるひとー」
+Taichi: "Hum, DJ indeed... who could do it...?"
+TP
+
+//誰も手をあげなかった。
+No one raised their hand.
+TP
+
+//太一「みみーせんぱいは？」
+Taichi: "You, Mimi-senpai?"
+TP
+GL 2 TCMM0004
+GS 4 0
+GS 2 1
+SEF 109 0
+
+WVP 0 vfCCC3030msa002
+//見里「えっ、私ですか？　だめですよ、だめだめ、無理です、噛みますっ」
+Misato: "Eh, should I? No way, noway-noway, out of the question, I would swallow my tongue!"
+//Not, necessarily saying she'd bite her tongue and die rather than do it but... interesting that she has no problem doing intraschool DJ, see CCD1001. Of course, this is the position as protagonist, it has nothing to do with being DJ at the antenna. -GHS
+TP
+
+//太一「美希は？」
+Taichi: "Miki?"
+TP
+
+GL 3 TCYM0021
+GP 3 180 0
+GS 2 0
+GS 3 1
+SEF 109 0
+
+WVP 0 vfCCC3030mki000
+//美希「……ほよ？」
+Miki: "...yhesh?"
+TP
+
+//ビーフジャーキーを引きちぎっている最中だった。
+She was in the very middle of tearing off a piece of beef jerky.
+//Junk food for breakfast... at ten AM? Junk food for snack... this is totally what happens if Kiri's not there to hold her in place (sexual subtext). -GHS
+TP
+
+//美しくない。
+Unbeautiful.
+//美希しくない。 -GHS
+TP
+
+//……クビ。
+...decruited.
+//Euphemism for 'you're fired', should be a Dilbertism so it's acceptably '90s. -GHS
+TP
+
+//太一「友貴」
+Taichi: "Tomoki."
+TP
+
+GL 1 TCST0004
+GP 1 190 0
+GS 1 1
+GS 3 0
+SEF 109 0
+WVP 0 vmCCC3030yki001
+//友貴「いいけどいくら出すの？」
+Tomoki: "No problem, but how much do I get?"
+//Is Tomoki Jun from Family Project in drag...? -GHS
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//金とかいう問題じゃない。
+This is not what you'd call a problem of money.
+TP
+
+//太一「桜庭……」
+Taichi: "Sakuraba..."
+TP
+GL 2 TCSH0002
+GP 2 190 0
+GS 1 0
+GS 2 1
+SEF 109 0
+WVP 0 vmCCC3030sku001
+//桜庭「俺に理路整然としたことが話せると思うか？」
+Sakuraba: "Do you think I of all people have any ability to talk about well-reasoned things?"
+//Given the mess that was decoding his sermons... -GHS
+TP
+
+//太一「……よくわかってんじゃねぇの」
+Taichi: "...ya know that well, don'tcha now, yes."
+TP
+
+//太一「じゃあ……霧か」
+Taichi: "So then... Kiri?"
+TP
+
+GL 1 TCSK0003
+GS 2 0
+GS 1 1
+GP 1 220 0
+SEF 109 0
+WVP 0 vfCCC3030kri002
+//霧「……えっ」
+Kiri: "...eh!"
+TP
+
+//顔色が変わった。
+The color of her face changed.
+TP
+
+//瞬時に嫌な汗をかいている。
+Instantly she produces a most disagreeable sweat.
+TP
+
+//太一「ＤＪ」
+Taichi: "DJ!"
+TP
+
+WVP 0 vfCCC3030kri003
+//霧「あっ、だめっ、無理です、人前で話すなんてっ」
+Kiri: "Ah, no way, out of the question, it's talking in front of people!"
+TP
+
+//太一「なぁに。どうせ全滅してるから平気」
+Taichi: "Whaaat? They've all been wiped out anyway, so you're safe."
+TP
+
+GL 2 TCST0004
+GS 1 0
+GS 2 1
+SEF 109 0
+WVP 0 vmCCC3030yki002
+//友貴「希望はどうした！」
+Tomoki: "What happened to the hope!"
+TP
+
+WVP 2 SE003 1 0
+//SEF 101 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+
+//太一「げふっ」
+Taichi: "Geh'fuh!"
+TP
+
+//チョップされた。
+I had a chop implemented on me.
+//See CCC3004, callback to his sister. -GHS
+TP
+
+GL 1 TCSK0003
+GS 1 1
+GS 2 0
+GP 1 220 0
+SEF 109 0
+WVP 0 vfCCC3030kri004
+//霧「まずいですっ、だめですむりです……奇妙なことになりますっ」
+Kiri: "It's absurd, just no way it's impossible... it'll become all weird!"
+//Imagine Cross Channel seen from Kiri's viewpoint. Damn. -GHS
+TP
+
+//怖じ気づきまくりダネ。
+She's jumping into stage fright with cold feet is-she-not.
+//It just means 'recklessly abandoning herself' to stage fright, but that sounds silly in English. -GHS
+TP
+
+//太一「奇妙な霧ちんも見てみたい」
+Taichi: "I'd like to see Kiri-chin all weird."
+TP
+
+//手を引く。
+I pull her hand.
+TP
+
+WVP 0 vfCCC3030kri005
+//霧「だめーっ！」
+Kiri: "NO WAAAY!"
+TP
+
+//腰を引く。
+I pull her hips.
+TP
+
+//太一「……パンツ見えるぞ」
+Taichi: "...I can see your panties yannow."
+//More Touko -GHS
+TP
+
+GL 1 TCSK0002
+GI 1 0
+
+GP 1 205 15
+GI 1 0
+GP 1 220 30
+GI 1 0
+GP 1 235 15
+GI 1 0
+GP 1 220 0
+GI 1 0
+//HACK independent doll shake -GHS
+
+
+//霧「っ！？」
+Kiri: "!?!"
+TP
+
+//慌ててスカートをおさえる。
+Becoming panicked, she holds down her skirt.
+//Still going nobread -GHS
+TP
+
+//体勢の崩れた霧。
+Kiri's stance broke apart.
+TP
+
+//引っ張っていく。
+I pull and drag her in.
+TP
+
+//太一「ＤＪデビューおめでとう」
+Taichi: "Congratulations on your debut as DJ!"
+//Actively debating whether it should be "congralutaion". -GHS
+TP
+GL 1 TCSK0003
+GI 1 0
+
+WVP 0 vfCCC3030kri007
+//霧「たすけてーっ！」
+Kiri: "HELP MEEEE!"
+TP
+
+//ダメか。
+Not happening then?
+TP
+GO 1 1
+//解放する。
+Emancipated.
+//Given that she's a slave'n all. -GHS
+TP
+
+//霧はさっと美希の背後に隠れた。
+Kiri zoomed to behind Miki's back, concealing herself.
+TP
+
+//精神的小動物め。
+Damn that highly emotive small animal!
+TP
+
+//太一「わかった……やるか」
+Taichi: "I get it... then I'll do it."
+TP
+
+//俺しかいなかった。
+There wasn't anyone left but me.
+//Touko's dead, of course, but Youko is conspicuously missing. Or is she? Look at the counts below... -GHS
+TP
+
+
+GL 2 TCST0000
+GP 2 190 0
+GI 2 1
+WVP 0 vmCCC3030yki003
+//友貴「いつでも平気だよ」
+Tomoki: "Whenever's alright."
+TP
+
+//GO 2 1
+GL 0 zzzrooftopantennazoom
+GS 0 1
+GS 2 0
+SEF 109 0
+WVS 1 1
+//HACK stop music here, zoom rooftop -GHS
+
+//何を話そうか。
+What should I even talk about?
+TP
+//思いつかない。
+I can't think of anything.
+TP
+
+//意味のないＳＯＳ。
+The SOS is meaningless,
+TP
+
+//けど誰もそんなこと思ってはいない。
+but no one would think that.
+TP
+
+//自分の体が、他人の感覚で、勝手に動く。
+My body, feeling like a stranger's, moves on its own.
+//~PILOTED BY JESAS~ seriously, an interesting automatism. If this is him being sincere, then... -GHS
+TP
+
+//椅子に座り、マイクを握った。
+The person who sits in the chair, taking the microphone,
+TP
+
+//自動的な俺だ。
+is an automatic me.
+TP
+
+//いつだって俺は自動的だったように思う。
+I believe I have always been automatic.
+TP
+
+//周囲との接触が、今の俺を形作った。
+The contacts I had with my surroundings have molded who I am now.
+//Meaning he believes he can't surpass his upbringing. But he has already done so: he has demonstrated ability to talk to people in perfectly normal ways. What he can't surpass is his nature. -GHS
+TP
+
+WVP 1 bgm001.ogg 0 0 0
+
+//太一「ええと……この放送を聞いてる生存者の人、いますか？」
+Taichi: "Uhmmm... are there survivors listening to this broadcast?"
+//After that last sex scene, that's a good question. -GHS
+TP
+
+//太一「こちらは群青学院放送部です」
+Taichi: "This is the Gunjou Institute Broadcast Club."
+//PCP (technically) CCA0030. -GHS
+TP
+
+//太一「生きている人、いますか？」
+Taichi: "Are there people still living out there?"
+//CP efcca0030.png
+TP
+
+//太一「こちらは群青学院放送部、生存者は八名」
+Taichi: "This is the Gunjou Institute Broadcast Club, we have eight survivors."
+//...but the first words out of his mouth are a lie. Or is it? After all, Touko is not dead at all. Except Youko doesn't exist. But in his mind she's real. -GHS
+TP
+
+//太一「生存者は八人」
+Taichi: "We have eight survivors."
+//PCP because you have to tag it
+//Repeated means this is not a coincidence. -GHS
+TP
+
+//人は大切だろう。
+People should be important,
+TP
+
+//家族や友人は大切だろう。
+family and friends should be important,
+TP
+
+//自分が人である限り。
+as long as the self is a person.
+TP
+
+//太一「……全員、健康状態は良好です」
+Taichi: "...all members are in satisfactory health conditions."
+TP
+
+//人でなくてもいいのなら、孤独という生き方もある。
+If one is fine without being a person, then there does exist a way to live, called solitude.
+TP
+
+//でも俺は人が良かった。
+But I'm glad to be a person.
+TP
+
+//本能じゃなくて、理性の怪物になりたかった。
+I wanted to become a monster, not of instinct, but of rationality.
+//Nietzscheian philosophy again. See CCD5001, Youko is one. -GHS
+TP
+
+//そうすれば、もっと完璧に無害なものになれたはずなのに。
+Because if I did, I would certainly have been able to become more perfectly harmless and domesticated, but,
+TP
+
+//足りなかった。
+I didn't have enough.
+TP
+
+//接触が。触れあいが。
+Of contact. Of reciprocal touching.
+//Irrelevant, of course. There can NEVER be enough. That's not the reason he couldn't become a monster of rationality, that's the reason why doing so is absolutely impossible. -GHS
+TP
+
+//太一「ええと……」
+Taichi: "Uhmmm..."
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+
+//家族は。
+> 
+ 
+ 
+Family.
+TL
+//……いない。
+...don't have one.
+TL
+//箱庭の楽園で、空気みたいに薄い人々との交友。
+> 
+In that miniature Garden of Eden, my relationships
+were with people as thin as air itself.
+//I still think this is a rejection of the incestuous undertones of Kana and Family Project. More importantly, he seems to assume the people of his youth aren't dead or gone... -GHS
+TL
+//……顔さえ忘れそうだ。
+...I seem to have even forgotten their faces.
+//MEMORY HUNTER. -GHS
+TL
+//曜子ちゃんとの出会い。
+> 
+My meeting with Youko-chan.
+TL
+//……彼女は俺を他人とは見ない。
+...she doesn't see me as a separate person.
+TL
+//新川の人々。
+> 
+The people of the Shinkawas.
+//BTW: a "new river" comes in, and drowns everything. -GHS
+TL
+//……人間が敵だということを学ばされた。
+...I was made to learn that humans were the enemy.
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+//幼少期の、もっとも多感な時期、俺は人に触れなかった。
+In early childhood, in that most delicate of times, I was never in contact with people.
+TP
+
+//太一「昔、俺は罪を犯しました」
+Taichi: "Once upon a time, I committed a sin."
+TP
+WVP 2 SE090 1 0
+//リン、と鈴が鳴った。
+Tingle, the bells chimed.
+//Not randomly. -GHS
+TP
+
+//六対の視線が集まる。
+Six pair of sights gather.
+//But that would imply Youko is there! -GHS
+TP
+
+
+GL 0 BGCC0023
+GS 0 1
+SEF 109 0
+//HACK to antenna -GHS
+
+//太一「友達を、死なせてしまいました」
+Taichi: "I made a friend of mine... die."
+TP
+
+WVP 0 vmCCC3030sku002
+//桜庭「……太一？」
+Sakuraba: "...Taichi?"
+TP
+
+//太一「直接手を下したわけじゃないけど……結果的に死なせました」
+Taichi: "My own hands were not what made it happen, but... the result is that I made him die."
+TP
+
+//太一「その友達は昔、俺を傷つけた人間の一人で」
+Taichi: "That friend was, long ago, one of the humans who hurt me."
+//The metaphor, as said in CCC3025, is that Shinkawa was Taichi's elementary school bully. The people of the Shinkawas taught him that Humans are the enemy, he had no contact with People, and Yutaka is a Human. The terms human/person aren't used anywhere near as consistently as I hoped, but here they flow together very well. -GHS
+TP
+
+//太一「記憶を失って、俺の前にあらわれました」
+Taichi: "He then just appeared right in front of me, having lost his memory."
+TP
+
+//太一「記憶とともに罪も消えてしまったかのように、振る舞って」
+Taichi: "And he acted as if his sin had disappeared together with those memories."
+//There it is, the single most important theme of the storyline. -GHS
+TP
+
+//太一「最初は俺も気づかなかったんです。何年も前のできごとだったんで」
+Taichi: "At the beginning I did not realize either. Those were events of so many years before."
+TP
+
+//空気が変わる。
+The mood changes.
+TP
+
+//六人の人間の、不安や疑問が渦巻く。
+The unease and the doubts of six humans swirl into an eddy.
+//See CCC0000 (hey, bookends!), CCC0026, CCC3003. The insistence proves this isn't a typo: Youko is here... or is she? -GHS
+TP
+
+//じき、落ち着くだろう。
+It should settle down soon,
+TP
+
+//つらい空気になるかも知れないが。
+but it might perhaps end up as a bitter mood.
+TP
+
+//太一「けどある時、はずみで気づきました」
+Taichi: "But once, on the spur of some moment, I recognized him."
+TP
+
+//太一「実際、そいつに受けた傷なんて、今の俺には全然たいしたものじゃないはずでした」
+Taichi: "Truth is, the pain I got from him should not have been that much of a big deal at all to me, as I am now."
+//That is true. Combine with what he still told him. Just forgetting still isn't enough. -GHS
+TP
+
+//太一「不肖黒須太一、酸いも甘いも噛み分けたヤングアダルトを目指しております」
+Taichi: "I, Kurosu Taichi, this unworthy reject I am, have my eyes set on the goal of becoming a young adult who is experienced in the ways of the world, having tasted its bitter and its sweet."
+//Expanding -GHS
+TP
+
+//太一「けど」
+Taichi: "But."
+TP
+
+//霧が身じろぎした。
+Kiri stirred,
+TP
+
+//口元に手を当てた。
+put her hand straight over her mouth.
+TP
+GL 0 evcc0046
+$CGevcc0046 = 1
+GS 0 1
+SEF 155 0
+
+//太一「けど俺は、どうしてもそいつを友達として見ることが、できなくなりました」
+Taichi: "But I... I attempted to see that person as a friend at all costs, but eventually I could not do so anymore."
+TP
+
+WVP 0 vfCCC3030kri008
+//霧「……う……」
+Kiri: "...ngh..."
+TP
+
+WVP 0 vfCCC3030mki001
+//美希「霧……？」
+Miki: "Kiri...?"
+TP
+
+//太一「ものみたいに、見てしまうようになりました」
+Taichi: "I ended up seeing him like... a thing."
+TP
+
+//太一「許せない、という感情論とは違うと思うんですが」
+Taichi: "I think it was different from an emotional argument like 'I cannot forgive him', but,"
+TP
+
+//太一「俺の中で、そいつの価値が変わってしまったのは確かです」
+Taichi: "inside of me, the worth of that person changed completely, it certainly did."
+TP
+
+//太一「いや……変わったなんてものじゃない……無価値になったんです」
+Taichi: "No... changed is not the correct word... he became worthless to me."
+TP
+
+//太一「興味が失せたんです」
+Taichi: "My interest in him disappeared."
+//Making him part of the Ignorables... -GHS
+TP
+
+//太一「そいつが自分の記憶を取り戻した時、許してくれと言いました」
+Taichi: "When the guy recovered his memories, he came and asked me to forgive him."
+//...so it wasn't Taichi who pushed him into remembering? Not that Yutaka ever forgot. Unfortunately the specifics on this are contradictory, and given his "eight survivors" above, much of what he's saying here is not trustworthy. -GHS
+TP
+
+//太一「もしかしたら……許してくれなんて言わなければ、結果は違ったのかも知れません」
+Taichi: "Could it even be... that if he had not come to ask forgiveness, that the result would've been different? I do not know."
+//It's also possible Taichi would've grown angrier and killed him, so that Yutaka's suicide prevented Taichi from having further blood on his hands. -GHS
+TP
+
+//霧「……！」
+Kiri: "...!"
+TP
+
+//太一「どうやったって、過去は改ざんできないからです」
+Taichi: "Whatever happens, the past is impossible to alter."
+//This is a hint that the time loop simply must not exist for the story to make complete thematic sense. -GHS
+TP
+
+//太一「罪は受け入れるか敵視するか、それだけだと思います」
+Taichi: "Sin, I believe, is something you either just accept or respond to with hostility, nothing else."
+//See CCB0018. Forgive or not, tertium non datur. He didn't forgive and here he admits it. Lines like this are where the contrast between Cross Channel's fundamental Christian nature and typical time travel stories show through best: with time travel, sin could be taken back. Not so here, and not just in the parts outside of time travel. -GHS
+TP
+
+//太一「……そいつの罪自体は……別に、たいしたことじゃありませんでした」
+Taichi: "...his sin, itself, was... not much, not that big a deal at all."
+//What actually happened at the Mansion is very much ambiguous, from what exactly was Taichi made to do to whether he actually killed everyone. Certainly what Youko did to him is far worse than what these people did, given how badly it broke him. The ambiguity is still the point here, whether Taichi actually thinks the sin was big or not, and whether the sin was actually big or not, are all intentional irrelevancies. -GHS
+TP
+
+//太一「いつもみたいに冗談で流して、友達づきあいしていけばよかったんです」
+Taichi: "I wish I had just flowed into some joke like always, and just kept being a friend to him."
+TP
+
+WVP 0 vfCCC3030kri010
+//霧「……せん、ぱい……」
+Kiri: "...Sen... pai..."
+TP
+
+//涙。
+Tears.
+TP
+
+//涙か。
+Tears?
+TP
+
+//それもまた、俺にはないものだ。
+Those are something that I, myself, do not have.
+//This starts around here: Taichi keeps talking as if he didn't have tears period, but he was seen tearing up repeatedly in the past, in ways not necessarily dishonest. These tears he lacks are the ones for Yutaka. And this moment, Kiri and Taichi are, in a sense, halves; but unfortunately, she can't cry for him. This route is still a failure. -GHS
+TP
+
+//太一「どうしてその時、気にするなよ、って言ってやれなかったのか……自分でもよく考えます」
+Taichi: "Why didn't I just tell him, at that time, something like, don't worry about it... that is something I have thought about often myself."
+TP
+
+//太一「……それは俺が、いびつだからです」
+Taichi: "...it is because I am... warped."
+TP
+
+//太一「いびつな心をしているからです」
+Taichi: "Because I have a warped heart and a distorted mind."
+TP
+
+//太一「理性が足りません」
+Taichi: "I do not have enough rationality."
+TP
+
+//太一「けど理性を培うためには、他者が必要です」
+Taichi: "But for the sake of fostering one's rationality, others are a necessity."
+TP
+
+//太一「せめぎあいなくして、育つものではないと思います」
+Taichi: "Without reciprocal conflict, I do not think it is possible to be raised properly."
+//I still disagree with this, but this is about analysis, not picking at philosophical nits. -GHS
+TP
+
+//太一「けど俺は、せめぎあうための友達を傷つけてなくしました」
+Taichi: "But I hurt and made go away a friend I had for this reciprocal conflict."
+//He could very well mean what happened at the Mansion... or at any time. -GHS
+TP
+
+//太一「……それが……俺のジレンマです」
+Taichi: "...that... is my dilemma."
+//This is a bit sloppy. The dilemma would be that he needs other people, but he can't hang around them well enough; written like this it sounds like he needed Yutaka and killed him instead, which isn't a dilemma. -GHS
+TP
+
+//友貴「……」
+Tomoki: "..."
+TP
+
+//桜庭「……」
+Sakuraba: "..."
+TP
+
+//太一「記憶がなくなっても、過去に起こったことは消えない」
+Taichi: "Recollections can go away, but what happened in the past does not disappear."
+//Further cementing that the loop is just the effect of time on memory, not an actual reset. -GHS
+TP
+
+//太一「けど傷つけられても、傷つけても」
+Taichi: "But being hurt, and hurting someone..."
+TP
+
+//太一「……向き合った者同士でいられたはずなんです」
+Taichi: "...it has to be between two people who are opposite but equal to each other."
+//The difference between Taichi/Tomoki and Taichi/Yutaka, or Tomoki/Taichi and Tomoki/Misato. Also see CCC3022: this is the meaning of that "living opposite of you", and why Taichi can't do it. -GHS
+TP
+
+WVP 0 vfCCC3030kri011
+//霧「うっ……く……」
+Kiri: "Ngh... sob..."
+TP
+
+//嗚咽。
+A fit of crying.
+TP
+
+WVP 0 vfCCC3030msa003
+//見里「……佐倉さん」
+Misato: "...Sakura-san."
+TP
+
+//ここにいる者たちは悟っているだろう。
+All the ones here must have realized by now,
+TP
+
+//豊と俺のことについて。
+that this is about me and Yutaka.
+TP
+
+//誰も声をかけてこない。
+No one calls to me,
+TP
+
+//止めもしない。
+no one tries to stop me.
+TP
+
+//太一「……自分がこわくなりました」
+Taichi: "...I had become horrifying."
+TP
+
+//太一「けど自殺はできません。自決だけは」
+Taichi: "But I could not kill myself. That is self-determination!"
+//自決 "self-determination" is used in the blatant concept, but also literally means suicide. For a pseudo-Nietzscheian like Taichi, it's definitely an odd term to bring up, especially if he meant it just as a flat synonym. -GHS
+TP
+
+//太一「いっそ人がいなければいいと思ったこともあります」
+Taichi: "And I also had this thought that it would have been better of there were no other people."
+//Screeeam it at the reader, screeeam it, they won't listeeen. -GHS
+TP
+
+//太一「傷つくたびに、そう思います」
+Taichi: "Every time there was hurting, I thought that."
+//From as well as to him. -GHS
+TP
+
+//太一「世界から人がいなくなって……一週間」
+Taichi: "One week has passed... since the moment people have vanished from this world."
+TP
+
+//太一「もしかしたら自分のせいかなどと、考えたこともありました」
+Taichi: "And I have thought, too, that it could have all been my fault somehow."
+//This is another random thought that becomes fossilized as the Settei marches on. -GHS
+TP
+
+//見里「……」
+Misato: "..."
+TP
+
+//美希「……」
+Miki: "..."
+TP
+
+//太一「ろくでもないですから、俺」
+Taichi: "Because I'm just a good-for-nothing, I am."
+//It's almost time for him to pilot a giant robot with the soul of his mother against--- you know what let's not give this any ideas. This is also what Touko believes, see CCB2016. -GHS
+TP
+
+//太一「そんな俺と、いつもつきあってくれてる仲間のみんなには、いわゆる感謝というものをしてなくもないです」
+Taichi: "And that is the kind of person I am, I haven't but never given something that could be called gratitude to all the people who are always around me."
+TP
+
+WVP 0 vmCCC3030sku004
+//桜庭「どっちだよ」
+Sakuraba: "Which is it?"
+TP
+
+//珍しい桜庭のツッコミ。
+A rare straight-man from Sakuraba.
+TP
+
+WVP 0 vmCCC3030yki005
+//友貴「否定の連続」
+Tomoki: "Multiple negatives."
+TP
+
+//友貴の機械的なツッコミ。
+A mechanical straight-man from Tomoki.
+TP
+
+//太一「……自分のためでいい」
+Taichi: "...I'm fine with doing things for myself."
+TP
+
+//太一「自分のために、人を大切にして構わない」
+Taichi: "I don't have a problem with cherishing people for the sake of my self."
+TP
+
+//太一「明日……少しは、ましな自分になるために」
+Taichi: "For the sake... of becoming just a little better the next day."
+//And given the week is a day... -GHS
+TP
+
+//太一「俺にはまだ仲間がいます」
+Taichi: "I still have true companions."
+TP
+
+//太一「築き上げることは、心を傷だらけにすることでもあります」
+Taichi: "Building oneself up also means filling one's heart with wounds."
+TP
+
+//太一「つらいばかりで、美しくないことです」
+Taichi: "It is something merely painful, with no beauty to it."
+TP
+
+//太一「でも人には人が、必要だと思いました」
+Taichi: "But for a person, I thought, people are necessary."
+TP
+
+//太一「だから、この放送を聞いている人もまだどこかにいると信じます」
+Taichi: "That is why I believe there are still living people listening to this broadcast, somewhere."
+TP
+
+//太一「こちらの住所は―――」
+Taichi: "Our address is---"
+//What's even the point? As long as they know it's inner Kamisaka... -GHS
+TP
+
+//無線連絡の際の手順も告げる。
+I also announce the procedure to contact us via radio.
+//We can go without a proclaim here. -GHS
+TP
+
+//これでよし。
+And this is all.
+TP
+
+//からっぽになるまで話せた、かな。
+I've talked until I was empty, have I.
+TP
+
+//……まあこんなものか。
+...well, that's how it is.
+TP
+
+//太一「こちら群青学院放送部、生存者は八名」
+Taichi: "This is the Gunjou Institute Broadcast Club, we have eight survivors."
+TP
+
+//太一「生きている人、いますか？」
+Taichi: "Are there people still living out there?"
+//CP efcca0030.png
+TP
+
+//太一「また来週」
+Taichi: "See you next week."
+//PCP CCC0045A
+//Nanaka to the last. -GHS
+TP
+
+//終わった。
+Finished.
+//Technically it'd be a PCP CCA0016 and CCA0027, but... -GHS
+TP
+
+//ほう、と息をつく。
+//I take a break with THE LAWWWRGH!!1
+I take a rest with a sigh.
+TP
+//GL 0 bgcc0007f
+GL 0 zzzrooftopantennazoom
+//HACK keep the zoom -GHS
+GS 0 1
+SEF 155 0
+WVP 2 SE091 1 0
+//拍手。
+Applause.
+TP
+WVP 2 SE092 2 0
+
+//まずみみ先輩。そして続いて他のみんな。
+First was Mimi-senpai. Then everybody follows.
+//See final week. Or this one. Same thing. -GHS
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//茶化す気にはならなかった。
+//I could not bring myself to transform them into tea.
+I couldn't bring myself to make fun of things.
+TP
+
+//気恥ずかしさに包まれる。
+I am engulfed by embarrassment.
+TP
+
+//その甘い拷問を耐えるため、俺は頬をかいた。
+I scratched my cheek to bear this sweet torture.
+TP
+
+GL 1 TCMM0002
+GP 1 225 0
+GS 1 1
+SEF 109 0
+WVP 0 vfCCC3030msa005
+//見里「はい、よくできました」
+Misato: "Good, very well done!"
+TP
+
+//太一「……はぁ」
+Taichi: "...huh."
+TP
+
+GL 2 TCSH0000
+GP 2 20 0 0
+GL 3 TCST0000
+GP 3 330 0
+GS 1 0
+GS 2 1
+GS 3 1
+SEF 109 0
+//HACK Tomoki doll immediately... this looked so wrong. Tweaked the positions, as they're a bit too far to the right. -GHS
+WVP 0 vmCCC3030sku005
+//桜庭「来週、なのか？」
+Sakuraba: "Next week, you said?"
+//Also literally "next week, seven days?" -GHS
+TP
+
+//太一「ああ、まあ……適当に」
+Taichi: "Ahhh, well... seemed appropriate."
+TP
+
+WVP 0 vmCCC3030yki006
+//友貴「いいんじゃないの。細かいことは」
+Tomoki: "You sure it was right? All those details, I mean."
+TP
+
+WVP 0 vmCCC3030sku006
+//桜庭「……だな」
+Sakuraba: "...don't they."
+TP
+GL 1 TCYM0003
+GS 2 0
+GS 3 0
+GS 4 0
+GS 1 1
+GP 1 180 0
+SEF 109 0
+
+WVP 0 vfCCC3030mki003
+//美希「かっこよかったっすー」
+Miki: "You look'd so awesooome!"
+//Intentional'd -GHS
+TP
+
+//使い捨てカメラでバシバシ撮ってくる。
+Click after click she was taking pictures with a disposable camera.
+//Pictures that likely end up in the wall on "onee-chan"'s room, except they shouldn't survive the loop. And there's not a shred of doubt she's not reset here. How odd. -GHS
+TP
+
+//太一「……やめれー」
+Taichi: "...c'mon stop iiit."
+TP
+
+WVP 0 vfCCC3030mki004
+//美希「照れてる照れてる」
+Miki: "Embarrassed! Embarrassed!"
+TP
+
+//太一「うーせーっ」
+Taichi: "Shaaaddeeeep!"
+TP
+
+//そして。
+And then,
+TP
+
+
+GL 2 TCSK0000
+GS 1 0
+GS 2 1
+GP 2 220 0
+SEF 109 0
+WVP 0 vfCCC3030kri012
+//霧「……先輩」
+Kiri: "...Senpai."
+TP
+
+//霧が立った。
+Kiri stood.
+TP
+
+//何を言うのだろうか。
+What will she even say?
+TP
+
+//緊張して待つ。
+I wait, tense.
+TP
+GL 2 TCSK0004
+GI 2 0
+WVP 0 vfCCC3030kri013
+//霧「お」
+Kiri: "Go."
+TP
+
+//お。
+Go.
+TP
+
+GL 2 TCSK0002
+GI 2 0
+
+WVP 0 vfCCC3030kri014
+//霧「お疲れ……さまでした」
+Kiri: "Good... job out there."
+TP
+
+//頭を下げた。
+A bow of the head.
+//TWU WUV (read in 4bit audio sampling please) -GHS
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//感慨が湧き起こる。
+A burst of strong feelings and deep emotions,
+TP
+
+//言語化はできない。
+that I cannot make into words.
+TP
+
+//不可解な、それでいてほっとする、そんな感覚だ。
+Something incomprehensible, yet at the same time a relief, a feeling like that.
+TP
+
+//心の水位が増した気がする。
+There's the feeling that the level of the water in my heart is rising,
+//See CCC3015. But also see CCC3012A: is this necessarily a good thing...? -GHS
+TP
+
+//微量。
+an extremely small amount.
+TP
+
+//太一「……さんきゅ」
+Taichi: "...thank ye."
+TP
+
+WVS 1 1
+
+GL 5 bgcc0000e
+GP 5 0 0
+GI 5 0
+GO 5 1
+//空が一瞬白んだ。
+The sky flashed white for an instant.
+TP
+
+//太一「……！」
+Taichi: "...!"
+TP
+
+//ああ、このタイミングか―――
+Awww, it's gotta have this timing---
+TP
+
+//急におそろしくなる。
+I quickly become terrified,
+TP
+
+//けど取り乱すわけにはいかない。
+but I cannot afford to lose composure.
+TP
+
+GO 2 1
+//HACK out with the doll. -GHS
+
+//霧に抱きつく。
+I hug Kiri.
+TP
+
+//膝をついて、腹部に顔を埋める。
+I fall to my knees, and bury my head in her belly.
+TP
+
+//GL 2 TCSK0000
+//GI 2 0
+WVP 0 vfCCC3030kri015
+//霧「きゃっ、ど、どうしたんですっ？」
+Kiri: "Kyah, wh-, what do you think you're doing?!"
+TP
+
+
+WVP 0 vfCCC3030mki005
+//美希「おわ、だいたんなことを……」
+Miki: "Whoa, that's so bold..."
+TP
+
+WVP 0 vfCCC3030msa006
+//見里「ふ、不純異性停学……」
+Misato: "I-, illicit sexual suspensionship..."
+//A play on 不純異性交遊 (illicit sexual relationship) -GHS
+TP
+
+WVP 0 vmCCC3030sku007
+//桜庭「斬新な言葉だ、部長先輩」
+Sakuraba: "That's a neologism, President-senpai."
+TP
+
+WVP 0 vmCCC3030yki007
+//友貴「……やっぱ太一はエロいなぁ」
+Tomoki: "...Taichi's really a perv innhe."
+TP
+
+//太一「気が抜けたんじゃー！　慰めてくれー！」
+Taichi: "I'm just exhausteeed! I'm being comforteeed!"
+TP
+
+//恐ろしい。
+Frightening.
+TP
+
+//自分がなくなるのが恐ろしい。
+That I will no longer be is frightening.
+TP
+
+//セーブは土曜の夜が最後。
+Last save point was Saturday night.
+//See CCC3013. There'll be nothing here he can reflect on, then. -GHS
+TP
+
+//今日のこの喜びも懺悔も微量の心の成長も、全部無駄になる。
+Today's happiness and repentance and the small amount of growth in the heart, too, will all be to waste.
+TP
+
+//こわい、こわい、こわい。
+I'm scared, scared, scared.
+TP
+
+WVP 0 vfCCC3030kri016
+//霧「……先輩……泣いて？」
+Kiri: "...Senpai... you're crying?"
+//For himself, still not for Yutaka. -GHS
+TP
+
+WVP 0 vfzzzCCC3030miki
+//美希「…………霧ちん」
+Miki: "......Kiri-chin."
+//HACK new line. It's sorta pointless, but it's a reminder of something very wrong with this sequence of events: Miki, despite being blatantly unreset, is still on the rooftop as the reset comes. Her last line wasn't long ago, but this is now the last spoken line before the reset comes. She either doesn't know about the reset, or no reset is coming. Notice that, like Week 1, no one seems to be worried by the sudden evening or the sequence of events in the absolute slightest. -GHS
+TP
+
+GL 5 bgcc0000e
+GI 5 0
+GS 2 0
+GO 5 1
+
+
+//耳鳴り。
+Buzzing in the ears.
+TP
+
+GL 1 zzzCCC0041blend1
+GP 1 0 0
+GS 1 1
+SEF 109 0
+//HACK recycling the blends -GHS
+
+//胸に埋めた双眼の端、世界が白んでいく。
+Near the edge of my eyes buried in the chest, the world was growing bright.
+TP
+
+//GL 0 bgcc0000e
+//GS 0 1
+//SEF 109 1
+
+GL 1 zzzCCC0041blend2
+GI 1 1
+//HACK Blend 2 -GHS
+
+
+//白んでいく―――
+Growing bright---
+TP
+
+GL 1 zzzCCC0041blend3
+GI 1 1
+//HACK Blend 3 -GHS
+
+
+//太一「……畜生」
+Taichi: "...fuck me."
+//Although that looks just like an invective, as it often is it's nothing of the sort. It also literally means "monster"... which is what he still (thinks he) is. This is, perhaps, the realization that all above had sincerity, but also lies in possibly even equal measure. Going with another rare swearword. -GHS
+TP
+
+GL 1 bgcc0000e
+GI 1 1
+//HACK and now pure white. -GHS
+
+
+//往生際の言葉となった。
+Those ended up being the last words before my end.
+TP
+
+TS 2
+SEF 109 2
+WT 1500 0
+WT 1000 1
+
+CALL ndemo0002
+TS 1
+
+RET

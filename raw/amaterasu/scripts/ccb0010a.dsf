@@ -1,0 +1,180 @@
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+WT 500 0
+
+GL 1 evcc0011
+$CGevcc0011 = 1
+GP 1 0 0
+GS 1 1
+SEF 155 0
+
+
+
+
+
+WVP 1 bgm013.ogg 0 0 0
+As usual, Touko was absentmindedly sitting in the classroom.
+TP
+
+Not talking to anyone.
+TP
+
+Not participating in the club.
+TP
+
+Just simply being there, with no objective.
+TP
+
+Taichi: "......"
+TP
+
+She's correct.
+TP
+
+Fulfilled as a person.
+TP
+
+Everything had disappeared suddenly.
+TP
+
+She has inertia, but she has to power herself.
+TP
+
+It's ironic if you think about it.
+TP
+
+All the decent humans went and got annihilated all at once, leaving only us behind.
+TP
+
+Taichi: "Kirihara."
+TP
+
+Touko: "......"
+TP
+
+Hmmm.
+TP
+
+Taichi: "Dialogue."
+TP
+
+WVP 0 vfccb0010afyu001
+Touko: "?"
+TP
+
+Her face became dubious for a moment, but quickly closed itself off into a private train of thought (or so it seemed).
+TP
+
+Taichi: "Dialogue!"
+TP
+
+I moaned like a zombie.
+//Zombies moan :P
+TP
+
+Taichi: "Dialogue, dialogue."
+TP
+
+Taichi: "Dialogue!"
+TP
+
+WVP 0 vfccb0010afyu002
+Touko: "What is it with you!!?"
+TP
+
+A monster of dialogue.
+TP
+
+No, a monster-like dialogue.
+TP
+
+......wha?
+TP
+
+Whatever.
+TP
+
+Taichi: "Conversation conversation dialogue dialogue needed needed."
+TP
+
+I emphasized it by adding body language.
+TP
+
+WVP 0 vfccb0010afyu003
+Touko: "......not needed."
+TP
+
+Taichi: "It won't come to be without dialogue."
+TP
+
+WVP 0 vfccb0010afyu004
+Touko: "......I don't understand."
+TP
+
+WVP 0 vfccb0010afyu005
+Touko: "Don't talk to me."
+TP
+
+WVP 0 vfccb0010afyu006
+Touko: "Aren't I completely meaningless to you!?"
+TP
+
+Taichi: "That's not true."
+TP
+
+Taichi: "I like Kirihara when she snaps."
+TP
+
+WVP 0 vfccb0010afyu007
+Touko: "Is that it!? Do you just want a toy to play with!!?"
+//Never heard "nice target" used in that context.-Spin
+TP
+
+Taichi: "Yes."
+TP
+
+WVP 0 vfccb0010afyu008
+Touko: "Liar!"
+TP
+
+Taichi: "It's true."
+TP
+
+WVP 0 vfccb0010afyu009
+Touko: "But, but, but......"
+TP
+
+She was hard-pressed for words.
+TP
+
+WVP 0 vfccb0010afyu010
+Touko: "Don't talk to me."
+TP
+
+Her furious argument halted for the moment.
+TP
+
+An incomplete combustion.
+TP
+
+If you tell me not to talk to you with such a bitter tongue, that just makes me want to talk more.
+//CP_S cca0013
+TP
+
+But when I speak to her again, her bitter tongue once more tells me not to talk.
+//CP_F
+TP
+
+Taichi: "Hmmm."
+TP
+
+
+CSQ 0 1 1
+  -Talk to her
+  -Go to club
+
+RET

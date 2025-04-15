@@ -1,0 +1,675 @@
+//I have to admit, there are a number of lines here I'm very unconfident about as I was unable to figure out the exact continuity for some parts of this script. Hopefully it all makes sense, but if not just start guessing and maybe that'll help me figure it out. Å`IX
+
+GL 0 bgcc0022
+GS 0 1
+GS 1 0
+SEF 109 2
+
+
+WVP 1 bgm021.ogg 0 0 0
+
+
+She was always alone.
+TP
+
+She didn't try to interact with anyone, family or servant.
+//I think in that context "servant" would already imply all of them.-Spin
+TP
+
+Oh august you---
+TP
+
+I called her that inside my mind.
+TP
+
+I'd never exchanged words with her.
+TP
+
+It'd been bugging me.
+TP
+
+I didn't know what sort of people maintained the mansion, or what particulars brought it to this state of being.
+TP
+
+But that place was like a paradise separated from the flow of time.
+TP
+
+The people who lived here were all outside the norm.
+TP
+
+At times, I was beckoned by her, and was treated to sweet drinks.
+TP
+
+Clothing accessories, enjoying tea, beckoning people, taking a stroll.
+TP
+
+Every month a large number of academic books, clothes and luxury items came to her.
+TP
+
+A vast garden.
+TP
+
+There were people called gardeners.
+TP
+
+Even considering that the land was cheap and remote, it was expansive.
+TP
+
+To me, that mansion was none other than a boundless world.
+TP
+
+Actually, I have no memories from before the mansion period.
+TP
+
+The world and the mansion were the same size.
+TP
+
+At some point, it seems the ladies took a liking to me.
+TP
+
+About me having a face like a girl.
+TP
+
+And because of my white hair, and the mysterious pattern drawn in my eyes one could see from up close, I didn't bore them.
+TP
+
+I was made to wear a dress (a particularly gaudy one) like that a girl would wear.
+TP
+
+And then the tea parties.
+TP
+
+A child couldn't discern the flavor of tea.
+TP
+
+But I played along.
+TP
+
+Against people as sweet as sugar snacks, there was no choice but to obey.
+TP
+
+......and I didn't dislike it.
+TP
+
+Like that, I was separated from my business of being a toy who was ridden and had his hair pulled by the young children, and I entered the new business of working as a doll.
+TP
+
+She......august you, looked at me with an indifferent gaze.
+TP
+
+No, she didn't even look at me.
+TP
+
+She seemed uninterested, as her gaze always passed me by.
+TP
+
+Hasekura Youko.
+TP
+
+The youngest daughter.
+TP
+
+There was no sign of her being adored by her family.
+TP
+
+In fact, she was being neglected.
+TP
+
+She certainly had been living in a different world from the ladies who resided in fantasies.
+TP
+
+......in the world called reality.
+TP
+
+Once, there was a time when I was chased out by the housecleaning laborers.
+TP
+
+That was before I was introduced to being a doll.
+TP
+
+I participated in the servants' duties.
+TP
+
+Perhaps because it was their policy not to use anyone outside the mansion, they used many borrowed hands.
+TP
+
+While inserting tea breaks every hour from ten to three, I cleaned all the rooms in order.
+TP
+
+By evening I reached her room.
+TP
+
+I heard her voice for the first time.
+TP
+
+WVP 0 vfCCC3025you000
+Youko: Åw......here is fine.Åx
+TP
+
+Short and blunt.
+TP
+
+Functional.
+TP
+
+But, it was enchanting.
+TP
+
+I glanced inside her room, but I couldn't really think of it as hers.
+TP
+
+A number of personal computers.
+TP
+
+All four walls covered up by bookshelves, and so many academic books that many of them were piled up on the floor.
+TP
+
+A heavy work bench and used tools.
+TP
+
+Miscellaneous knowledge and skills completely buried that large private room, making me associate it with a secret base.
+TP
+
+It's true that those with unique heterogeneity live in different worlds.
+TP
+
+There was a time when I'd asked about Hasekura Youko while wearing beautiful wardrobe and speaking like a girl at a tea party.
+TP
+
+A quiet old lady answered.
+TP
+
+That she's the daughter of the youngest son.
+TP
+
+A young and cheerful lady answered.
+TP
+
+That she was an unwanted daughter.
+TP
+
+The three clamorous sisters twittered.
+TP
+
+The whole story of the secret love between one of the young husbands and a rather young servant.
+TP
+
+The burden of a daughter who didn't know love and grew attached to no one, and her likely tragic conclusion.
+TP
+
+Though she has Hasekura blood she isn't one of the Hasekuras. They lamented that stain.
+TP
+
+The point being that she was a taboo child.
+TP
+
+There was no one who spoke to her, and she never spoke to anyone.
+TP
+
+She was a blemish.
+//Good example of where you need a good tler to get a decent adaptation. The literal was "boil/lump/swelling" but since I'm quite sure this was meant figuratively, I went with a similar word that was vague enough to sound figurative in English. Å`IX
+TP
+
+It seems that her real father, that 'young husband' person, had left to study abroad.
+TP
+
+Her mother, the servant......was dead.
+TP
+
+A girl who can't become anyone.
+TP
+
+A girl who isn't desired by anyone.
+TP
+
+She's hurt.
+TP
+
+No, she isn't hurt.
+TP
+
+Hasekura Youko was strong.
+TP
+
+She didn't take it to heart.
+TP
+
+I think she probably had noticed.
+TP
+
+The world was a miniature garden.
+//Out of place feeling again. Well, in-game it's more noticeable. -Spin
+TP
+
+
+
+During my life as a doll, I passed through the library.
+TP
+
+I might have been influenced by her.
+TP
+
+I had learned about etiquette and tea from the ladies.
+TP
+
+However, wisdom and skill and truth were not there.
+TP
+
+To make up for that, I went to the library that few used.
+TP
+
+I often met Youko-chan there.
+TP
+
+As before, no conversation.
+TP
+
+Since it had somehow become a habit, I never approached her.
+TP
+
+I had thought that she was agreeable, but I didn't wish to become friends with her.
+TP
+
+It seems that my aesthetic inclination was established around this time.
+TP
+
+How should I say it......I was captivated by things which were independent.
+TP
+
+Captivated by things which live independently, and by strength.
+TP
+
+Whether it's knowledge or skill, there is that side of things.
+TP
+
+People gather.
+TP
+
+They long to gather.
+TP
+
+And at the same time, they try to preserve a sanctuary.
+TP
+
+They desire an unencroached place just for them.
+TP
+
+However, contacting people makes the boundary line waver.
+TP
+
+Territory lessens and increases.
+TP
+
+Displeasure.
+TP
+
+Contradiction.
+TP
+
+From the general sense of values, a lone hero is preferred to a thousand stately troops.
+TP
+
+A sole absolute entity. A hero.
+TP
+
+What people wish for.
+TP
+
+It's nothing more than a wish in the form of admiration.
+TP
+
+Do you want to live alone? Or in the crowd?
+TP
+
+But I digress.
+TP
+
+In the library, I read the books she read.
+TP
+
+Because I admired her.
+TP
+
+Or perhaps I was envious of how perfect she was.
+TP
+
+The contents of the books were too high-level, so I didn't understand much.
+TP
+
+But I continued reading.
+TP
+
+Hundreds of, not meetings, but passings by, in the library.
+//lol, I've never seen it in plural form so I don't know what to do with it.-Spin
+TP
+
+We continued to coexist in that space without one conversation.
+TP
+
+That period continued for a few years.
+TP
+GL 0 bgcc0022a
+GS 0 1
+SEF 109 0
+
+
+Then,
+TP
+
+That which brought breakdown to paradise.
+TP
+
+Because this was humanity's first paradise, it was thought of as unavoidable Providence.
+TP
+
+Breakdown.
+TP
+
+Concretely speaking, it was the radical decline of the Mr. Hasekura who owned the mansion.
+TP
+
+It was the beginning of the tragedy.
+TP
+
+The graceful Hasekuras all disappeared.
+TP
+
+The servants were left behind.
+TP
+
+In Hasekura's place entered a newly rich upstart and his relatives by blood and marriage.
+//Isn't a newly rich person always an upstart? -VDZ
+TP
+
+They were wild people.
+TP
+
+Young and old, men and women, all came together.
+TP
+
+Each one held the nature of rotten clam meat.
+TP
+
+Within three days, one of the servants was assaulted.
+TP
+
+It became an incident.
+TP
+
+But this was a miniature garden.
+TP
+
+A closed space.
+TP
+
+It produced its own order.
+TP
+
+Being enclosed in extensive mansion grounds was close to being extraterritorial.
+TP
+
+What sort of banquets took place on those days?
+TP
+
+There was one room of the mansion that had been used as a hall for evening parties.
+TP
+
+The Hasekura people loved small parties, so it was used a lot.
+TP
+
+The wild people held different evening parties here.
+TP
+
+Without elegant conversation or fine quality cooking.
+TP
+
+Instead, they were filled with depravity and decadence.
+TP
+
+......I'm sure there were many victims.
+TP
+
+For instance, there was a young servant and his wife.
+TP
+
+The wife was gang raped.
+//Thank you cross channel for teaching me the kanji for "gang rape." I totally needed to know that. Å`IX
+TP
+
+No,
+TP
+
+She was continually gang raped.
+TP
+
+Her body was filled with holes through many and varied means, and she was made to obey.
+TP
+
+The husband resisted.
+TP
+
+He tried to save his wife by contacting the police.
+TP
+
+The police didn't come to intervene.
+TP
+
+They probably felt it'd be too much trouble.
+TP
+
+They probably weren't bribed or anything.
+TP
+
+I tried looking up this mansion on the internet.
+TP
+
+There were innumerable crimes like this overlooked by the police.
+TP
+
+When a private citizen's awareness of their own rights enlarged, it was no longer possible to simply say, 'Hey, stop!' and intervene.
+TP
+
+There were an increasing number of people who would scream bloody murder over trivial mistakes.
+TP
+
+So it's best not to move.
+TP
+
+Although it's negligent,
+TP
+
+As an organization of incomplete people, I think this was their limit.
+TP
+
+Although sincerity is needed,
+TP
+
+To save oneself, there are only one's own capabilities.
+TP
+
+......when I thought that, I could control my temper.
+TP
+
+As long as they don't cause any real damage, I could control my temper despite other people's bungling and shallow judgment.
+TP
+
+It became such that I was entrusting a part of my heart to other people.
+TP
+
+But that's normal.
+TP
+
+Being normal is,
+TP
+
+To leave your person within unjust and incomplete rules as a result of people's limits.
+TP
+
+......it wasn't meant to be a gentle cradle.
+TP
+
+And in this closed space, normal logic grew hazy.
+TP
+
+It's easy for one's daily life to change into wild things.
+TP
+
+To stand and face that, one needs a firm ego.
+TP
+
+One needs an unwavering system for oneself.
+TP
+
+......like hers.
+TP
+
+Now then,
+TP
+
+The wife was made into a plaything, made pregnant and made to get an abortion.
+TP
+
+Many ways by which the men could be pleased were beaten into her body.
+TP
+
+She stopped smiling.
+TP
+
+She stopped participating in the servants' duties.
+TP
+
+She was prohibited from wearing clothing, and she obeyed.
+TP
+
+She was engraved with tattoos.
+TP
+
+Obscene tattoos.
+TP
+
+They pointed to her genitalia, showing that her husband no longer possessed her.
+TP
+
+The wild people were competent in that aspect.
+TP
+
+Her heart gradually sunk.
+TP
+
+Her husband employed his last-ditch method.
+TP
+
+He ran away with his wife.
+TP
+
+They were brought back in three days.
+TP
+
+The husband was killed.
+TP
+
+Next to his wife being gang raped.
+TP
+
+His corpse was buried in the garden.
+TP
+
+The men buried him at the foot of a sakura tree while roaring with laughter.
+TP
+
+Well, they were a group with broken logic.
+TP
+
+At some point, one of the men brought his family here.
+TP
+
+The introduction of new characters.
+TP
+
+He was a pedophile. He was equipped with the two settings of fencer and sadist.
+TP
+
+Since he was a sadist, I called him S.
+TP
+
+I caught S' eye.
+TP
+
+I was once again forced into girl's clothes and made to participate in the evening parties.
+TP
+
+This time, not for tea, but for S' desires.
+TP
+
+S also liked being done by others.
+TP
+
+I, who was like a young girl, was made the partner of this man.
+TP
+
+The better half of those who did it, did it half as a joke.
+TP
+
+Every so often one of them would awaken.
+TP
+
+Whatever mean things were done at the evening parties, they made a point of standing out.
+TP
+
+Something not unlike elementary school bullying took place there.
+TP
+
+Within the group, this sort of thing had a relatively high probability of occurring.
+TP
+
+Well, that's what you'd call a demerit.
+TP
+
+All things are sure to have merits and demerits.
+TP
+
+It surpassed one-sided good and evil.
+TP
+
+Eventually, S' sadism escalated.
+TP
+
+He brought another child.
+TP
+
+S' son.
+TP
+
+He'd been a bully in his school......I think.
+TP
+
+He looked at me, and for a moment I was pressured by an atmosphere of promiscuity, then he scoffed at me.
+TP
+
+Because of abnormal excitement?
+TP
+
+As was demanded of him, though in fact of his own volition, he participated.
+TP
+
+He soon began to show a talent that could make one's blood run cold.
+//The blood draining is a metaphor for going pale ofc, but I think there's a better way to say it in English that I've forgotten. Å`IX
+//Tried 'make one's blood run cold' - Sheeta
+TP
+
+It must have been partly because of his precociously thorough knowledge.
+TP
+
+He soon became mad.
+TP
+
+Everyone laughed at me.
+TP
+
+Weeks passed as I was laughed at.
+TP
+
+I continued receiving their attacks.
+TP
+
+RET

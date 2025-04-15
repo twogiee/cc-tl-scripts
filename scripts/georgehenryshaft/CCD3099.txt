@@ -1,0 +1,30 @@
+And then I escaped back to where I came from.
+//HACK music "Deep Inside" -GHS
+Failures are impermissible.
+In every way.
+I must proceed carefully, without fail.
+
+[Taichi]
+"Siiigh..."
+
+It was a momentary swelling of malice.
+It is something so like the sexual desire of puberty that, and vomiting it out is not trivial.
+//It IS the sexual desire of puberty you dumb 17 year old! Interesting he'd use words to the effect of 'vomit', given Yusa. He means the opposite, technically - not pushing it out onto her, but purging it from himself instead of keeping it inside and brewing more malice. This is part of why the Youko Sendback works that way. -GHS
+I spent the leftover days at my home.
+I had no contact with anybody,
+because I did want to take the risk of trespassing into something dangerous.
+And then... Sunday.
+I waited for the time in silence.
+How all the ones that remained passed their time after that, I have no idea.
+How many times has everyone's individuality been erased by now?
+The weight of that truth dazzled and disoriented me.
+//HACK end music -GHS
+And then---
+$B = 1
+IF $SB_FALSE < 19 JMP L_INC
+JMP L_DODGE
+//HACK I've tweaked it. Watch out now. -GHS
+:L_INC
+$SB_FALSE + 1
+:L_DODGE
+IF $SB_FALSE > 17 $B = 2

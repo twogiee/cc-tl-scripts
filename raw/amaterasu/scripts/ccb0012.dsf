@@ -1,0 +1,135 @@
+WVP 1 bgm016.ogg 0 0 0
+
+GL 0 bgcc0004b
+GS 1 0
+GS 0 1
+SEF 152 0
+
+Taichi: "Hmm?"
+//CP_S cca0012
+TP
+
+There was a note left on top of the table.
+TP
+
+
+ÅwThere might be dinner.Åx
+TP
+
+
+Taichi: "Yaaay, I'm going, I'm going!"
+TP
+
+I didn't have to make it myself.
+TP
+
+I took three minutes to change, then went to her house without delay.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+Dinner was quite delicious.
+TP
+
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 109 0
+
+
+I lit the candle.
+TP
+
+The solitary glimmer shone upon the inside of the room.
+TP
+
+I liked candles.
+TP
+
+The raw flame captivated me.
+TP
+
+The wavering flame captured my soul as I watched it, allowing me to doze on forever and ever.
+TP
+
+I once burnt my bangs doing that.
+TP
+
+That was just three minutes ago.
+TP
+
+Taichi: "......it burnt......damn it."
+TP
+
+I wanted to cry.
+TP
+
+But now for my diary.
+TP
+
+I opened up the bulky notebook.
+TP
+
+A record of one's life is a precious thing.
+//CP_F
+TP
+
+
+I went to school.
+TP
+
+Even though all of humanity was gone, everyone showed up.
+Since there weren't any classes, we all hung around idly.
+TP
+
+Touko was especially harsh today.
+Maybe she's getting nervous because she can't fully grasp the situation.
+//PCP
+TP
+
+
+Mimi-sempai had her club on the roof.
+She was constructing the abandoned antenna.
+TP
+
+It's not something you can simply put aside and come back to once in a while.
+It's painful work.
+But it's that pain...that saves Sempai.
+TP
+
+
+As I walked down the hallway, Miki was doing some cleaning.
+Is Miki doing her cleaning in the same way that Sempai is running her club?
+I don't know.
+//PCP
+TP
+
+Did I force Miki to wake up to the reality of this critical situation, i.e. humanity's annihilation?
+I also got hit by one of Miki's attacks.
+This is a grave situation, Mr. Principal!
+//PCP
+TP
+
+But seeing my pupil become more skilled does make me happy.
+The day she'll surpass her master draws near.
+//CP
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+A lot of other stuff happened, too, but overall it was a good day.
+//CP
+TP
+
+WVS 1 1
+
+
+WT 500 0
+WT 500 1
+
+
+RET

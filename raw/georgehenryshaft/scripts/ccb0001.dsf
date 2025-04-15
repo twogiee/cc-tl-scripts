@@ -1,0 +1,252 @@
+TS 0
+
+//TWS 0
+
+GL 0 bgcc0001b
+GS 0 1
+GS 1 0
+
+SEF 10 1
+TS 2
+WVP 1 bgm007.ogg 0 0 0
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+
+
+//放送部の合宿だった。
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+     It was the Broadcast Club Training Camp.
+TP
+
+
+//俺たち一年生が進級し、幸せな三年生が引退して。
+> 
+    Among us the freshmen are being promoted,
+    while the happy third years are retiring.
+//Hum. Japan school year starts in Spring, and there isn't much to say that Gunjou is any different. Taichi is halfway through second year by the Camp scene, so I can't make this make much sense outside of really blatant trolling. Unless he's actually a delayed First Year, it's the norm at Gunjou. Same for the third years: Misato (and Youko FWIW) should be dropping club to focus on graduation and university entrance exams. There's never been mention of there ever having been any member in the Broadcast Club outside of the eight except for Miyuki. See CCC3004. -GHS
+TL
+//新しい一年生が入ってきて。
+           New freshmen have joined.
+TL
+//新たな面子は七人で。
+        A fresh line-up of seven faces.
+TL
+//でも本当は八人で。
+         But actually there were eight.
+//Trolllllllll
+TL
+//７／８ならまあＯＫか、と俺は思っていた。
+     7/8, well, we should be OK, I thought.
+//Oh, yeah, YOU will be OK, *I* will have 18 months of trying to actually prove this is a reading key!
+TL
+//彼女は……どうせ呼べばすぐにやってくる。
+Her... after all, she'll turn up quick if called.
+TL
+//７人集めるのに。
+          For this gathering of seven,
+TL
+//支払った代価は安くない。
+        there was no cheap price to pay.
+TL
+//そりゃもう大騒ぎさ。
+       That is, it was already an uproar.
+TL
+//一因として、教員が参加しなかったことがある。
+      One of the causes was how there was
+       no teaching staff participating.
+TP
+
+
+//なぜならこれプライベートな部活動だったからだ。
+> 
+ 
+ 
+> 
+ 
+         Because these club activities
+          are intended to be private,
+TL
+//学院には内緒のオチャメ。
+    a mischief kept away from the Institute.
+TL
+//公になれば、ちょっとした騒ぎになる。
+         If this was turned public, it
+         would become quite the uproar.
+TL
+//けど平気だと思った。
+         But I thought we'd be alright.
+TL
+//……………………。
+> 
+                   .........
+TL
+//そうして、合宿が終わり。
+> 
+     Finally, the Training Camp is ending.
+TL
+//七人は帰路に着いた。
+    Seven people reached the way of return.
+TP
+
+
+
+
+
+GL 0 bgcc0015b
+GS 0 1
+GS 5 0
+SEF 152
+TWS 0
+//HACK back to ADV mode -GHS
+
+//途中で日が暮れた。
+En route, the day grew darker.
+TP
+
+//ひどく長い時間、歩いていた気がする。
+There was this feeling of having walked for horribly long hours.
+TP
+
+//何時間も。
+A countless number of hours.
+//6.5 isn't "countless", though since Taichi never reaches that answer, nor cares... -GHS
+TP
+
+//普段は一時間もかからない道だ。
+On a path that ordinarily never takes more than an hour.
+TP
+
+//疲労のせいか。
+Was it fatigue?
+TP
+
+//誰も何も言わなかった。
+No one said even one word.
+TP
+
+//七つの足音だけの世界だった。
+The sound of seven pairs of footsteps was the entire world.
+TP
+
+//異様に静かな山道。
+An unnaturally quiet mountain trail.
+TP
+
+//虫の音さえも耳に届かない。
+Not even the sound of insects reaches the ears.
+//Should it be there? Shouldn't it? Who knows! Welcome to troll. -GHS
+TP
+
+//空気までも冷たく感じさせる。
+A chilling sensation made by the mood alone,
+TP
+
+//夏だというのに。
+when however it is Summer.
+TP
+GL 0 bgcc0015b
+GS 0 1
+SEF 10 0
+
+
+//暗くても、見えたから。
+Because I could see, even if it was dark.
+TP
+
+//道が見えたから。
+Because I could see the way.
+TP
+
+//俺は昔から夜目がきいた。
+For a long time now I have been capable of seeing through the dark.
+//Of course, all three are intended laterally. -GHS
+TP
+
+//道を間違えたのかなと思い出した頃、町に出た。
+At the time when thoughts turned to wondering if we had gone the wrong way, we turned up in town.
+TP
+WVS 1 0
+TWS 7
+//HACK NVL Mode -GHS
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 3
+//HACK slower fade -GHS
+
+
+
+//人類は滅亡していた。
+//Humanity had declined.
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+               Mankind had fallen.
+//Literally it's closer to extinction, but it follows in the sense of downfall, of a clan a family etc. - the sense is pretty much that of the actual Fall of Mankind. Curiously, 人類は滅亡しました (jinrui wa metsubou shimsashita) googles to Jintai. No autocorrections or "did you mean", googl that with quotes around it and it literally googles to Jintai, big banner on the right about the series included. -GHS
+TP
+WT 500 0
+WT 500 1
+
+TS 2
+SEF 109 0
+
+WT 1000 0
+
+
+
+GL 0 TITLE2
+GS 0 1
+WVP 1 seeye002 1 0 0
+SEF 10 1
+WT 5000 1
+
+
+
+
+
+
+
+RET
+
+
+
+
+
+
+
+
+
+
+
+
+
+//thousands are sailing
+//the same self the only self
+
+//self willed the peril of a thousand fates
+
+//a line of infinite ends finite finishing
+//the one remains oblique and pure
+
+//arching to the single point of
+//consciousness
+
+//find yourself
+//starting back

@@ -1,0 +1,459 @@
+WVP 3 se001 0 0 1
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0013as
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+
+//GL 0 bgcc0013as
+//GS 1 0
+//GS 0 1
+//SEF 10 1
+
+
+WVP 2 SE021 1 0
+
+//太一「はいはーい」
+Taichi: "Cooo-ming!"
+//CP CCA0020
+TP
+
+//太一「どちら様で？」
+Taichi: "Who might it be?"
+//CP CCA0020
+TP
+
+WVP 0 vfcca0020ysa000
+//遊紗「あ、あの、堂島です」/*
+Yusa: "Ah, uhm, it's Doujima!"
+//CP CCA0020
+TP
+
+//太一「その極道みたいな苗字とは裏腹にキュートな声は……遊紗ちゃん？　あいてるからどーぞ」
+Taichi: "A gangster-like surname associated with a conversely kyute voice... Yusa-chan? It's open, do come in!"
+//CP CCA0020
+TP
+
+GL 0 bgcc0013azs
+GS 0 1
+GL 1 TCDY0000s
+GS 0 1
+GS 1 1
+GP 1 230 0
+SEF 109 0
+WVP 1 bgm003.ogg 0 0 0
+//HACK music starts a sentence later -GHS
+
+//ドアがおそるおそる開き、美少女が立っていた。
+Slowly and carefully the door opens, and there stood a beautiful girl.
+//CP CCA0020
+TP
+
+WVP 0 vfcca0020ysa001
+//遊紗「どうも、こんばん……わ」/*
+Yusa: "Hello, good eve... ning."
+//CP CCA0020
+TP
+
+GL 0 bgcc0004s
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//座らせて、麦茶を出す。
+I let her sit, and lay out some barley tea.
+//CP CCA0020
+TP
+
+//いろいろ会話をして。
+We converse on many subjects.
+TP
+GL 1 TCDY0000s
+GI 1 1
+
+WVP 0 vfcca0020ysa019
+//遊紗「あの、わたし今日が誕生日なんです」/*
+Yusa: "Uhm, it's that today would be my birthday."
+//CP CCA0020
+//WHYYY would you want anyone to hear this obvious miscut thing twice?! -GHS
+TP
+
+//太一「へえ、そうだったのか」
+Taichi: "Ohhh, it was, right."
+//CP CCA0020
+TP
+GL 1 TCDY0001s
+GI 1 0
+
+WVP 0 vfcca0020ysa020
+//遊紗「それでですね、これ……お誕生日プレゼントです」/*
+Yusa: "So then, here... a birthday present!"
+//CP CCA0020
+TP
+
+//太一「ええと……とりあえず、ありがとう。でも、あれ？」
+Taichi: "Uhmmm... first of all, thank you. But, uh...?"
+//CP CCA0020
+TP
+GL 1 TCDY0000s
+GI 1 0
+
+WVP 0 vfcca0020ysa022
+//遊紗「それと、交換日記を明日提出できたらなと思ったので……」/*
+Yusa: "And also, I thought, so I could hand in the exchange diary tomorrow..."
+//CP CCA0020
+TP
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 155 0
+
+WT 1000 1
+
+GL 0 bgcc0004s
+GS 0 1
+GS 1 0
+SEF 155 0
+//太一「じゃあとりあえず交換日記と、それとこれは俺からの誕生日プレゼント」
+Taichi: "So, first of all your exchange diary, and also, this is a birthday present from me."
+//CP CCA0020
+TP
+GL 1 TCDY0004s
+GI 1 1
+WVP 0 vfcca0020ysa027
+//遊紗「…………」/*
+Yusa: "......"
+TP
+
+//この娘は驚くと絶句する癖があった。
+This young lady has the bad habit of losing words when surprised, don't she.
+//PCP CCA0020
+//Another older revision, this was slightly more formal. -GHS
+TP
+
+//HACK lots of new lines to fill some gaps! -GHS
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+//許容量オーバーーーー
+> 
+ 
+ 
+Maximum permitted dosage exceeded---
+//...of each other. -GHS
+TL
+//そう、だから。
+> 
+Yes, therefore,
+TL
+//だからプレゼントの説明はまた今度、と思った。
+therefore explanations for the present are best
+left for some other time, I thought.
+//PCP CCA0020
+TL
+//二度とそんな機会はなかった。
+That future opportunity never came.
+//This fills a timeline gap, which is when he tried to push down Yusa. Since I suspect that happened because of Yutaka's death, that could well be as soon as one-two days after this. -GHS
+TL
+//進呈したハンディ無線機を、その後彼女がどのように活用したのか……俺は知らない。
+As to what use she later made of the wireless 
+radio I had presented her... I don't know.
+//...and as promised in the interview, here's the present. But ah, worry not little thing; in my heart of hearts, you will always be a vibrator. -GHS
+TP
+
+//この機材は比較的安価に購入できる、言ってみれば無線機であり、さらに言ってみれば無差別盗聴に便利なアイテムだ。
+This model, which can be acquired comparatively
+cheaply, on one hand could be said to be a
+wireless radio; on the other hand it's also an
+item convenient for indiscriminate radio signal 
+interception.
+//Half of this sentence only exists in the 360 version. This AT LAST makes that sentence in CCA0020 make sense. -GHS
+TL
+//中空を飛び交う、人と人の繋がりの証し。
+What flies free through the air are proofs
+of the connections between person and person.
+TL
+//電波を無作為に捕まえれば、携帯の会話であったり、無線搭載トラック同士の通話だったりする。
+If one were to catch radio waves at random,
+there one would find cellphone conversations, or
+calls between radio-equipped transport trucks.
+//Last one should be CB. This line came totally out of the blue on the PS2 version. Did Tanaka always just assume people would understand this? Maybe "illegal signal interception" isn't something that's all ages enough for the PS2. -GHS
+TL
+//ワッチ（注音深く聞く）と呼ばれるこの行為を、娯楽として楽しむ者は少なくない。
+Those radio monitoring enthusiasts, these people 
+who find pleasure in engaging in the conduct of 
+very careful listening to radio signals that here
+in Japan takes the name of Wacchi, are not few.
+//Severely expanded. This would have made translating CCC4016 so much easier! Well, I had found the term well before this edit pass anyway, but good to have some explanation in-story. "Monitoring enthusiast" seems to be the closest English term, or at least, it googles. -GHS
+TP
+
+//Cutting here, too low into the screen. -GHS
+
+//俺がワッチに惹かれた理由を……考えるのは気怠いものがある。
+The reason I am so attracted to Wacchi is... it's
+something so listless to think about.
+//BTW, compare Youko the stalker. Another tiny subtext is clarified! -GHS
+TL
+//電波はどこにだってある。
+Electromagnetic waves are everywhere and anywhere.
+TL
+//空に。
+In the sky.
+//Until that day... -GHS
+TL
+//当たり前に存在し、聞くことはできる。
+An expected existence that one can listen to.
+TP
+
+//だがーーー
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+                   However---
+//See CCA0022. Hmmm. -GHS
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+//end new lines -GHS
+
+
+
+
+
+
+
+
+
+//太一「さてと、じゃ家まで送ろうか」
+Taichi: "Well then, let's see you home."
+//CP CCA0020
+TP
+
+WVP 0 vfcca0020ysa028
+//遊紗「……………………っっ！？」/*
+Yusa: "............!!!?!?"
+GP 1 245 15
+GI 1 0
+GP 1 230 30
+GI 1 0
+GP 1 215 15
+GI 1 0
+GP 1 230 0
+GI 1 0
+//HACK independent doll shake -GHS
+//CP CCA0020
+TP
+
+//さっきの倍くらいに絶句した。
+Her loss of words about doubled from before.
+//PCP CCA0020
+TP
+
+//太一「もう夜だし、ちょっと危ない人もいるからね」
+//Taichi: "Well, it's night now, and there's kinda dangerous people out there."
+//太一「もう夜だし、ね」
+Taichi: "Well, it's night now, isn't it."
+//HACK line changed further in console version. -GHS
+//PCP CCA0020
+TP
+
+//特にこの街には。
+//特にこの街にはなぁ。
+//And especially in this town, oh yes.
+//CP CCA0020
+//HACK line removed. -GHS
+
+//太一「行こうか？」
+Taichi: "Shall we go?"
+//CP CCA0020
+TP
+GL 1 TCDY0001s
+GI 1 0
+WVP 0 vfcca0020ysa029
+//遊紗「は、はいっ」
+Yusa: "Ye-, yes!"
+//CP CCA0020
+TP
+
+//GL 0 bgcc0005bs
+GL 0 BGCC0005CS
+//HACK, no that's the evening BG. Better than the day one that they used in CCD1001, but... -GHS
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//そして、送った。
+And so, I took her home.
+TP
+//GL 1 TCDY0000s
+//GL 1 TCDY0001s
+GL 1 zzzCCD1001yusaSN1
+GI 1 1
+//HACK The sepia doll is obviously the day doll, and they just don't fit here at all. It's possibly why they used these BGs. Sadly there's no darker sepia dolls, so I made them. Time taken: about 5 minutes. Also, different doll. -GHS
+GI 1 1
+
+WVP 0 vfcca0020ysa032
+//遊紗「その質問、毎回しますよね、太一さん？」/*
+Yusa: "That question... you just ask me that every time, right Taichi-san?"
+//CP CCA0020
+TP
+//GL 1 TCDY0004s
+GL 1 zzzCCD1001yusaSN2
+//HACK darker doll, and different one too. -GHS
+GI 1 1
+
+WVP 0 vfcca0020ysa037
+//遊紗「難しくてよくわかりませんですけど……はい」/*
+Yusa: "That is a bit complicated so I do not really understand but... yes!"
+//CP CCA0020
+TP
+//GL 1 TCDY0001s
+GL 1 zzzCCD1001yusaSN1
+//HACK darker doll -GHS
+GI 1 1
+
+WVP 0 vfcca0020ysa040
+//遊紗「きょーしゅーです」/*
+Yusa: "Trainingful then!"
+//CP CCA0020
+TP
+
+TWS 7
+//HACK NVL mode
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+WVS 1 1
+
+
+//きょーしゅーです。
+> 
+ 
+ 
+              It is indeed training.
+TL
+//きょーしゅー。
+                  Calisthenics.
+//Oh dear, adapting. Should now tie to CCA0030, as well as many themes of the story, as likely intended. Except, see CCA0020: this is just her misreading becoming fixed. -GHS
+TL
+//郷愁？
+             To reduce homesickness?
+//Another homonym, but as the term fits strongly in the religious sense, overadapted. -GHS
+TL
+//違う。
+                 Not even close.
+TL
+//強襲。
+                    Violence.
+TL
+//強襲。
+                    Violence.
+TL
+//そう、強襲。
+               Training in violence.
+TL
+//激しく、攻めること。
+          Intense, turbulent, or furious
+           and often destructive action.
+//PCP Merriam-Webster
+TP
+WVS 3 1
+
+TWS 0
+//HACK ADV mode -GHS
+
+//ああ。
+Ahhh.
+TP
+
+//俺はこの言葉が、好きだな。
+I really love those words, don't I!
+TP
+
+//>　　　　　　　　わら
+//夢の中で嗤う。
+I laugh so hard within my dream.
+//Context is below so didn't go too specific on this. -GHS
+TP
+
+//とめどなく。
+Without end.
+TP
+
+//>ちょうろう
+//嘲弄。
+Mockery.
+TP
+
+//沈んだ感情はすぐに深淵に呑まれる。
+Sinking sentiments that are quickly swallowed by the abyss.
+TP
+
+//シニシズムの虚無を思わせるメッキは溶解し、むきだしになっ
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ざ
+//たカケラが……巨大な母体にまざって、戯れる。
+The plating of a pretension that reminds of the nihility of cynicism dissolves, and the fragments that become bare... gather around the bodies of giant mothers and frolic.
+//The plating of pretension etc. is Taichi's big worded language and pseudo-Third Reich stuff, so that's simply about shedding the obvious superficial reading. The rest sounds odd, but we have two huge mothers here already if you'll notice; one is Yusa's, and besides looks she was defined giant most explicitly, the other is Nanaka - back when he was a child, she was necessarily gigantic. 
+//Reciprocal sexual harassment is well seen in most Nanaka encounters; having a different kind of fun with Yusa's mother, seen again in this route, also matches. Leaving it literal. -GHS
+TP
+
+//思考は一つ。
+One single thought:
+TP
+
+//敵は敵。
+an enemy is an enemy.
+TP
+
+//殺さば殺す。
+If killing needs be, killing it will be.
+//...though the figure of speech seems closer to "I defy you". See CCZAS. Aliens are enemy, even if aliens are Miki. -GHS
+TP
+
+TWS 7
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+TWS 0
+//HACK flashback exit whiteout -GHS
+//WT 1000 0
+//WT 1000 1
+
+RET

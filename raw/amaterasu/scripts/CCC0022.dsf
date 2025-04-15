@@ -1,0 +1,317 @@
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+WT 500 0
+
+I pushed the door open.
+TP
+
+There was resistance.
+TP
+
+It was being pushed from the other side.
+TP
+WVP 2 se044 1 0
+
+Pushed strongly.
+TP
+
+On the far side of the door there was a little turbulence.
+TP
+
+It was the wind.
+TP
+
+
+WVP 1 bgm015.ogg 0 0 0
+
+WVP 2 se009 1 0
+
+GL 1 efcc0000
+GL 0 bgcc0007 1 0
+GP 1 0 0
+GI 1 0
+GI 0 0
+GO 1 1
+
+The antenna.
+TP
+WVP 3 se010 0 0
+
+It was taking shape.
+TP
+
+A lot of tuning was needed, for directionality and wavelength and so on.
+TP
+
+But, I don't have that knowledge.
+TP
+
+Sempai wasn't an expert, but I think she'd studied it.
+TP
+
+That Sempai......wasn't here.
+TP
+
+Tools.
+TP
+
+Stepladder.
+TP
+
+Books.
+TP
+
+An empty bag of bread blown around by the wind.
+TP
+
+Only traces of her work were left.
+TP
+
+So I guess she's not working twenty four hours a day.
+TP
+
+I looked up at the antenna.
+TP
+
+A tall structure, open to its surroundings.
+TP
+
+Apparently you need just the right environment to send out EM waves.
+TP
+
+It's a strictly local radio broadcast called community FM.
+TP
+
+That's not a low enough goal for a school club to aim for.
+TP
+
+But,
+TP
+
+The favorable location, the history of Gunjou Institute, and the goodwill of interested local people.
+TP
+
+Those things tied together into this.
+TP
+
+The preparations still continued, but due to a certain incident with loose ends, it had become rather indefinite.
+TP
+
+The antenna was delivered, but then left alone for a year.
+TP
+
+Those were the circumstances.
+TP
+
+Most likely, the items requested for Gunjou FM were filled with hopes and dreams for healthy young boys and girls.
+TP
+
+Sorry, but Gunjou is no such thing.
+//I don't get how this line ties in with the rest. It isn't what? He was just talking about how the people in the community gave the students the antenna.-Spin
+//The line makes sense to me. - Sheeta
+TP
+
+You could say the result was all right.
+TP
+
+Misato-sempai plans to send an SOS.
+TP
+
+She said that on Sunday night.
+TP
+
+After we split up and confirmed that humanity had disappeared.
+TP
+
+Since the antenna has some altitude, an attempt to complete it so we can send a dispatch...... was certainly lacking in a sense of realism.
+TP
+
+Honestly, I thought Sempai was falling apart.
+TP
+
+Fleeing makes people weaker.
+TP
+
+And Sempai was weak enough to begin with.
+TP
+
+
+WVP 0 vfCCC0022msa000
+Misato: "Peke-kun?"
+TP
+
+Behind me.
+TP
+
+I turned to face her.
+TP
+
+Taichi: "Hello there, Sempai."
+TP
+GL 1 TCMM0021
+GP 1 225 0
+GI 1 1
+
+WVP 0 vfCCC0022msa001
+Misato: "Hello there......ummm, what's going on?"
+TP
+
+Taichi: "I came to see how things were going."
+TP
+
+Sempai smiled softly.
+TP
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfCCC0022msa002
+Misato: "Is that so?"
+TP
+
+Taichi: "I haven't come here for a while, but it's quite a ways along."
+TP
+
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfCCC0022msa003
+Misato: "I've been doing bits and pieces of it for a long time."
+TP
+
+Yes,
+TP
+
+After the Broadcasting Club broke down naturally,
+TP
+
+Sempai's done everything on her own.
+TP
+
+The lunch break DJ.
+TP
+
+Various broadcasts.
+TP
+
+Everything.
+TP
+
+No one helps her anymore.
+TP
+
+Kiri started being hostile toward me,
+TP
+
+Tomoki started avoiding his sister,
+TP
+
+Miki started smiling nervously,
+TP
+
+Touko started ignoring me,
+TP
+
+Splendid rubble.
+TP
+
+Only Sakuraba didn't change.
+TP
+
+As always, he never showed up.
+TP
+
+Although I hung around Sempai despite all that,
+TP
+
+She refused my help.
+TP
+
+Taichi: "......is that so?"
+TP
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfCCC0022msa004
+Misato: "Even so, I was really surprised."
+TP
+
+Taichi: "I'd bet."
+TP
+
+WVP 0 vfCCC0022msa005
+Misato: "For all the people to go away at once..."
+TP
+
+Taichi: "It's quiet."
+TP
+
+GL 1 TCMM0003
+GI 1 0
+WVP 0 vfCCC0022msa006
+Misato: "Very very quiet."
+TP
+
+Taichi: "Where were you?"
+TP
+
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfCCC0022msa007
+Misato: "I'd just......gotten a bit hungry."
+TP
+
+Taichi: "It's midday. Were you able to find any good food?"
+//Any particular reason why he says "It is midday" instead of just "it's midday". It sounds awkward, as if he's trying to be formal or something. -VDZ
+//I just changed it anyway lol - Sheeta
+TP
+
+WVP 0 vfCCC0022msa008
+Misato: "Yeah, I returned to my house. Getting food isn't especially inconvenient."
+TP
+
+Taichi: "Aaah, you cut school, the prez was cutting."
+TP
+GL 1 TCMM0004
+GI 1 0
+WVP 0 vfCCC0022msa009
+Misato: "Th-that's not it! That's not cutting!"
+TP
+
+She became worried.
+TP
+
+Sempai values the rules highly.
+TP
+
+Taichi: "Suspension, that's suspension."
+TP
+
+GL 1 TCMM0005
+GI 1 0
+WVP 0 vfCCC0022msa010
+Misato: "I don't want suspension, there'll be a mark on my record..."
+TP
+
+Taichi: "Suspension! Suspension!"
+TP
+
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfCCC0022msa011
+Misato: "I can't be suspended..."
+TP
+
+We frolicked together.
+TP
+
+This was the shortest distance between any of us right now.
+TP
+
+
+
+WVS 3 1
+WVS 1 1
+
+RET

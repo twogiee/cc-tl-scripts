@@ -1,0 +1,723 @@
+WVP 1 bgm004.ogg 0 0 0
+
+GL 0 bgcc0008s
+GS 0 1
+GS 1 0
+SEF 10 1
+WVP 3 se001 0 0 1
+
+The cicadas are noisy. 
+//CP_S cca0007
+TP
+
+Even in this heat.
+TP
+
+Those guys are always giving it their all.
+TP
+
+Taichi: "Even so,"
+TP
+
+
+What am I going to do from now on?
+TP
+
+With the roasting sun above the roof, there weren't many places I could go to cool down.
+TP
+
+I tried peeking into a nearby classroom, but as I feared, there was a class in session.
+TP
+
+Year 1, Class E. Machiko-sensei is teaching in there. 
+//PCP_F
+TP
+
+Taichi: "......"
+TP
+
+I was never able to initiate even a superficial exchange with her.
+TP
+
+It was all too normal.
+TP
+
+Now she's a stranger.
+TP
+
+Anyway, if I keep loitering in the hallways, someone's going to find me. 
+//CP
+TP
+
+
+GL 0 bgcc0009s
+GS 0 1
+SEF 152 0
+In the vacant cafeteria, I bought a meal ticket.
+TP
+
+GL 0 bgcc0010s
+GS 0 1
+SEF 152 0
+
+
+
+To the club room.
+TP
+
+Tomoki was reading a manga magazine.
+TP
+
+We made small talk.
+TP
+
+In the middle of it, Mammoth passed by and we panicked.
+TP
+
+After he moved on,
+TP
+
+WVP 0 vmcca0007yki028
+Tomoki: "That was dangerous." 
+//CP_S
+TP
+
+WVP 0 vfcca0007myk012
+Miyuki: "We ought to put a curtain up on the window facing the hallway."
+TP
+
+WVP 0 vmcca0007yki029
+Tomoki: "That's prohibited. The school's onto that trick."
+TP
+
+Taichi: "I've got an idea."
+TP
+
+WVP 0 vfcca0007myk013
+Miyuki: "......"
+TP
+
+WVP 0 vmcca0007yki030
+Tomoki: "......"
+TP
+
+Taichi: "Aah, I'm well aware of what you both think of me, but this is no stupid joke. This is a seriously good idea."
+TP
+
+WVP 0 vfcca0007myk014
+Miyuki: "What is it?"
+TP
+
+Taichi: "Tomoki, start up the machines. And get me a digital camera."
+TP
+
+Tomoki: "Haan?" 
+//CP_F
+TP
+
+......
+TP
+
+............
+TP
+
+........................
+TP
+
+Taichi: "How does that look?"
+TP
+
+GL 1 TCST0000s
+GP 1 190 0
+GI 1 1
+
+WVP 0 vmccb0006yki000
+Tomoki: "Ah, camouflage..."
+TP
+
+I taped a full color print titled ÅwEmpty RoomÅx to the inside of the window glass.
+TP
+
+The viewing angle is a little off, but it's enough to fool passing glances.
+TP
+GL 1 TCST0004s
+GI 1 0
+
+
+WVP 0 vmccb0006yki001
+Tomoki: "Yeah, with this we might not get caught."
+TP
+
+Taichi: "Wahaha."
+TP
+
+I was proud.
+TP
+
+Then Miyuki returned from the bathroom.
+TP
+
+Taichi: "How was the bathroom?"
+TP
+
+WVP 0 vfccb0006myk000
+Miyuki: "Aaan!!"
+TP
+
+She cried.
+TP
+
+WVP 0 vfccb0006myk001
+Miyuki: "I never even said I was going to the restroom!"
+//Too many uses of that word too quickly.-Spin
+TP
+
+Taichi: "If you come back wiping your hands on a handkerchief, anyone can figure it out!"
+TP
+
+GL 1 TCST0005s
+GI 1 0
+
+WVP 0 vmccb0006yki002
+Tomoki: "You really-"
+TP
+
+WVP 0 vfccb0006myk002
+Miyuki: "Even if you notice it, please don't say it."
+TP
+
+Taichi: "No good! No good! You're too full of openings!"
+TP
+
+Taichi: "You can't have too many openings! Nor too few!"
+TP
+GL 1 TCST0003s
+GI 1 0
+
+WVP 0 vmccb0006yki003
+Tomoki: "What kind of standard is that......?"
+TP
+
+Taichi: "Guidelines for a proper lady."
+TP
+
+WVP 0 vfccb0006myk003
+Miyuki: "I don't want to be one."
+TP
+
+I was amazed.
+TP
+
+Taichi: "Wh-what a loose thing to say."
+TP
+
+Taichi: "You need punishment, punishment! Punishment! Punishment!"
+TP
+
+I circled Miyuki while making noises.
+TP
+
+WVP 0 vfccb0006myk004
+Miyuki: "Uuuu."
+TP
+
+Miyuki was afraid.
+TP
+
+Damn this plain girl.
+TP
+
+That plainness only stoked my fire.
+TP
+
+Taichi: "Punishment! Punishment! Punishment!"
+TP
+
+So I slowly flipped her skirt.
+TP
+
+GL 1 TCST0001s
+GI 1 0
+
+WVP 0 vmccb0006yki004
+Tomoki: "H-hey, hey."
+TP
+
+Taichi: "If thou art wearing woolen panties, thine sins may be forgiven."
+TP
+
+Taichi: "However! If you are insolently wearing something like thin shorts, theeeen-"
+TP
+
+WVP 0 vfccb0006myk005
+Miyuki: "Auuuuu!"
+TP
+
+WVS 1 0
+
+WVP 0 vfccb0006kri000
+Kiri: "Hii-yaa!!"
+TP
+
+This voice?
+TP
+GL 4 sgcc0013s
+$CGsgcc0013s = 1
+GP 4 0 0
+GO 1 0
+GI 4 0
+WVP 2 SE106 1 0
+SEF 101 0
+
+
+Taichi: "Gaaa!!?"
+TP
+
+WVP 1 bgm011.ogg 0 0 0
+
+
+WVP 0 vfccb0006kri001
+Kiri: "You enemy of women!!!"
+TP
+
+Was that an axe kick from behind yes it was.
+//NAT
+//As in, it doesn't need the question mark?-Spin
+TP
+
+My consciousness slowly muddied......then it revived the moment before departing.
+//Are you sure 'departing' is the right word? From the context, it seems like he's regaining consciousness right before crashing into the ground, rather than when leaving the ground. -VDZ
+TP
+WVP 2 SE038 1 0
+
+*splat*
+SEF 101 0
+TP
+
+If I had passed out, I wouldn't have felt the sharp pain of banging my face into the floor.
+TP
+GS 4 0
+SEF 109 0
+
+Taichi: "......kuu......that hurts...underclassman."
+//he didn't say kouhai, in case you were wondering Å`IX
+TP
+
+Her glaring eyes forced me to take cover.
+TP
+GL 1 TCSK0002s
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfccb0006kri002
+Kiri: "You can tell at a glance who's at fault here."
+TP
+
+WVP 0 vfccb0006myk006
+Miyuki: "Uh, umm, and you are...?"
+TP
+
+WVP 0 vfccb0006kri003
+Kiri: "A transfer student just passing by."
+TP
+
+Taichi: "Oh, oh, this is a scene to be painted, Tomoki."
+TP
+
+WVP 0 vmccb0006yki005
+Tomoki: "Please, for my sake, don't talk to me like we're friends."
+TP
+
+Tomoki coldly distanced himself from me.
+TP
+
+Taichi: "Damn you, you hypocrite."
+TP
+
+Whatever.
+TP
+
+Taichi: "Hey, underclassman, tell me your name before I send you to your grave."
+TP
+GL 1 TCSK0001s
+GI 1 0
+
+WVP 0 vfccb0006kri004
+Kiri: "Molester!"
+TP
+
+Taichi: "You're replacing me!?"
+TP
+
+WVP 0 vmccb0006yki006
+Tomoki: "Your idiocy is endless."
+TP
+GL 1 TCSK0011s
+GI 1 0
+
+WVP 0 vfccb0006kri005
+Kiri: "I'll report this to the teachers."
+TP
+
+Taichi: "Ho, the teachers. I wonder which teacher you intend to upset, ozeu-san?"
+//Ozeu-san? Was this explained before with a TL note? If not, TL note here? -VDZ
+TP
+GL 1 TCSK0002s
+GI 1 0
+
+WVP 0 vfccb0006kri006
+Kiri: "It doesn't matter who."
+TP
+
+GL 1 TCSK0001s
+GI 1 0
+
+WVP 0 vfccb0006kri007
+Kiri: "Besides, wasn't that sexual harassment!?"
+TP
+
+WVP 0 vmccb0006yki007
+Tomoki: "......I haven't known Kurosu that long, but-"
+TP
+
+WVP 0 vmccb0006yki008
+Tomoki: "I'm glad to say that the number of times I've heard the phrase 'sexual harassment' has increased by leaps and bounds. Thank you."
+TP
+
+Taichi: "Don't mention it, my friend. It is a natural virtue."
+TP
+GL 1 TCSK0011s
+GI 1 0
+WVP 0 vfccb0006kri008
+Kiri: "To flip a girl's skirt in broad daylight...... you're despicable!"
+//Two of the words here I got pretty creative with. ì∞ÅX or "grandly" I adapted as "in broad daylight," while ç≈í· or "the worst" I adapted as "despicable." Å`IX
+TP
+
+Taichi: "Oooh? Aren't you high and mighty."
+TP
+
+Taichi: "So are you going to tell that to the teachers?"
+TP
+GL 1 TCSK0021s
+GI 1 0
+WVP 0 vfccb0006kri009
+Kiri: "Yes I am!"
+TP
+
+Taichi: "Now, I wonder if our heroine-chan of justice has thought about this:"
+TP
+
+Taichi: "Why would I be flipping someone's skirt slowly, in front of witnesses and in broad daylight?"
+TP
+
+WVP 0 vmccb0006yki009
+Tomoki: "......didn't you just want to enjoy her reaction!?"
+TP
+WVP 2 se003 1 0
+SEF 101 0
+Mid-level straight punch.
+TP
+
+Taichi: "And, why this Discipline Board Chairman, Shima Tomoki, made no effort to stop me."
+TP
+
+WVP 0 vmccb0006yki010
+Tomoki: "What!?"
+TP
+
+GL 1 TCSK0003s
+GI 1 0
+
+WVP 0 vfccb0006kri010
+Kiri: "It, couldn't be......"
+TP
+
+Taichi: "It can, and it is." 
+//"masaka" statements are always fun to adapt. Å`IX
+TP
+
+Taichi: "That is to say, I possess the greatest authority within this institution!!" 
+TP
+
+Taichi: "Right, Tomoki?"
+TP
+
+WVP 0 vmccb0006yki011
+Tomoki: "Don't turn to me."
+TP
+
+GL 1 TCSK0001s
+GI 1 0
+
+WVP 0 vfccb0006kri011
+Kiri: "You two...!!"
+TP
+
+WVP 0 vmccb0006yki012
+Tomoki: "Hey!! I'm not part of this!"
+TP
+
+WVP 0 vfccb0006kri012
+Kiri: "Unforgivable. Absolutely, absolutely unforgivable!"
+TP
+
+WVP 0 vmccb0006yki013
+Tomoki: "I'm not even on the Discipline Board in the first pla-!?"
+TP
+WVP 2 se003 1 0
+SEF 101 0
+Mid-level straight punch.
+//Seriously dude, karade has more than one move in it. Although I guess this might be the best move for picking off weaklings in a flash. Å`IX
+TP
+
+Taichi: "Hu-hu-hu."
+TP
+
+I stuck my hand into my pocket, closed my eyes as if meditating and with the bearing of a villain,
+TP
+
+
+Taichi: "That is to say, I possess the greatest authority within this institution!!" 
+TP
+
+My eyes flashed open along with the ending of the final word.
+TP
+
+WVP 0 vmccb0006yki014
+Tomoki: "You already said that."
+TP
+
+Taichi: "......"
+TP
+
+WVP 0 vmccb0006yki015
+Tomoki: "Although I guess the first time you said it was a little too early."
+//When you say, "used it" you think "line", but Tomoki doesn't say, "you already used that line", so it was a little awkward. - pondrthis
+TP
+
+Taichi: "............"
+TP
+GL 1 TCSK0002s
+GI 1 0
+
+WVP 0 vfccb0006kri013
+Kiri: "I'd been told that the Gunjou Institute didn't allow bullying......"
+TP
+
+WVP 0 vfccb0006myk007
+Miyuki: "Umm, I'm not being bullied or anything."
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+
+WVP 0 vfccb0006kri014
+Kiri: "......eh?"
+TP
+
+WVP 0 vfccb0006myk008
+Miyuki: "These people are always like that. They don't have any bad intentions."
+TP
+
+WVP 0 vmccb0006yki016
+Tomoki: "People? Not person?"
+TP
+
+Tomoki was unnerved.
+TP
+
+Taichi: "People......"
+TP
+
+I was unnerved.
+TP
+GL 4 sgcc0001s
+$CGsgcc0001s = 1
+GP 4 0 0
+GO 1 0
+WVP 2 se003 1 0
+GI 4 0
+SEF 101 0
+
+WVP 0 vmccb0006yki017
+Tomoki: "What reason is there for you to be unnerved by that!?"
+TP
+
+Taichi: "I'm no hypocrite!"
+TP
+
+WVP 0 vmccb0006yki018
+Tomoki: "And I have nothing to do with this!"
+TP
+
+Taichi: "You think that'll work!?"
+TP
+
+During that struggle,
+TP
+
+WVP 0 vmccb0006yki019
+Tomoki: "Lightly-seasoned Machiavellist!"
+SEF 101 0
+TP
+
+Taichi: "Siscon Murder Incident!"
+SEF 101 0
+TP
+
+WVP 0 vmccb0006yki020
+Tomoki: "Lower classes, lower income!"
+SEF 101 0
+TP
+
+Taichi: "Earth debris!"
+SEF 101 0
+TP
+
+WVP 0 vmccb0006yki021
+Tomoki: "Lone survivor of the stock market crash!"
+SEF 101 0
+TP
+
+Taichi: "D-d-d-don't talk about my stocks!!"
+SEF 101 0
+TP
+
+WVP 0 vfccb0006kri015
+Kiri: "Is their friendship breaking!!?"
+TP
+
+WVP 0 vfccb0006myk009
+Miyuki: "Aaaaah......"
+TP
+
+WVP 0 vmccb0006yki022
+Tomoki: "You're the one trumpeting around lies that I'm a professional siscon masturbator!"
+TP
+
+Taichi: "You said it! You said it in front of girls! Everyone, rejoice!"
+TP
+
+WVP 0 vmccb0006yki023
+Tomoki: "Since then you've started calling me a professional!"
+TP
+
+Taichi: "But it's the truth!"
+TP
+
+WVP 0 vmccb0006yki024
+Tomoki: "What I'm saying is also true!"
+TP
+
+Taichi: "Damn you!"
+TP
+
+WVP 0 vmccb0006yki025
+Tomoki: "What did you-!?"
+TP
+
+WVP 2 se039 1 0
+*bop* *bop* *bop* *bop!!!*
+SEF 101 0
+TP
+GO 4 1
+
+And then,
+TP
+
+We both self-destructed.
+TP
+
+WVP 0 vmccb0006yki026
+Tomoki: "Uuuuuu."
+TP
+
+Taichi: "Gugugu."
+TP
+
+We both collapsed face-up in the hallway.
+TP
+
+WVP 0 vfccb0006myk010
+Miyuki: "......should I take you to the health room?"
+//I don't know why she said "we" since it was just Tomoki and Taichi.-Spin
+TP
+
+Taichi: "Wh-what about the ally of justice?"
+TP
+GL 1 TCSK0000s
+GI 1 1
+WVP 0 vfccb0006kri016
+Kiri: "Sakura Kiri. I'm no ally of justice."
+TP
+
+She said while looking down at us.
+TP
+
+GL 1 TCSK0011s
+GI 1 0
+
+WVP 0 vfccb0006kri017
+Kiri: "......also, both of you understand that evil is undeserving of admiration."
+TP
+
+Tomoki exploded abundantly.
+TP
+
+WVP 0 vmccb0006yki027
+Tomoki: "I-I have nothing to do with this. It's all Taichi's......"
+TP
+
+Tomoki curled up like a beetle larva.
+TP
+
+WVP 0 vmccb0006yki028
+Tomoki: "It's okay. I'll go into seclusion."
+TP
+
+He was sobbing.
+TP
+
+WVP 0 vfccb0006myk011
+Miyuki: "That's not......"
+TP
+
+GL 1 TCSK0002s
+GI 1 0
+
+WVP 0 vfccb0006kri018
+Kiri: "She says it's okay, so I'll overlook this ungainliness just this once."
+TP
+
+Taichi: "......when my body can move again......I'll remember......what you did to me, Kiri."
+TP
+
+Kiri sneered.
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+
+WVP 0 vfccb0006kri019
+Kiri: "Go right ahead."
+TP
+
+
+WVS 3 1
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+That was how I met Sakura Kiri.
+TP
+
+WVS 1 0
+
+WT 500 0
+WT 500 1
+
+
+RET

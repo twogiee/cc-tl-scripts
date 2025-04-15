@@ -1,0 +1,927 @@
+
+
+GL 0 bgcc0009a
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 0 1
+SEF 152 0
+
+
+WVP 1 bgm002.ogg 0 0 0
+
+Taichi: "Oooh, what a smell..."
+TP
+
+There were very few guards.
+TP
+
+I mean none.
+TP
+
+GL 1 TCKT0000b
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfccb2015fyu000
+Touko: "What smell are you talking about?"
+TP
+
+Taichi: "Hu......"
+TP
+
+Naive. That's something I'd thought of a moment earlier.
+TP
+
+Anyway, the cafeteria was quiet.
+TP
+
+Thanks to that I easily obtained a highly sought-after menu......or not.
+//"Sought-after" was what we used before.-Spin
+TP
+
+Deep within the kitchen, I sensed no presence.
+TP
+
+WVP 0 vfccb2015fyu001
+Touko: "......so, what are we going to do here?"
+TP
+
+Taichi: "Well, I thought we'd get sick of just croquette bread, so..."
+TP
+GO 1 1
+I figured Sakuraba would be here.
+TP
+
+He was.
+TP
+
+Taichi: "............"
+TP
+
+Sakuraba had died.
+TP
+
+WVP 0 vmccb2015sku000
+Sakuraba: "......uuu......"
+TP
+
+Taichi: "Have you been eating this whole time?"
+TP
+
+Moron.
+TP
+
+There was a huge amount of curry bread left over.
+TP
+
+I took a case.
+TP
+
+I opened it, and ate it.
+TP
+
+Taichi: "Hmm."
+TP
+
+There were no signs of spoilage.
+TP
+
+Taichi: "......come to think of it, if these have been here since Monday, then wouldn't they have been delivered on Sunday night?"
+TP
+
+Since humanity was alive until that moment...it's been four days already.
+TP
+
+Why wasn't the food spoiling?
+TP
+
+I don't know.
+TP
+
+Taichi: "Hey, looks like it hasn't spoiled."
+TP
+GL 1 TCKT0001b
+GI 1 1
+WVP 0 vfccb2015fyu002
+Touko: "Ah, you tasted it for me......"
+//She used a word explicitly referring to the "food taster" person kings used to employ so they'd know their food hadn't been poisoned. If there's a way to adapt this so that's more obvious, please do so. Å`IX
+//Seems good enough to me - pondrthis
+TP
+
+Taichi: "What did you think I was doing?"
+TP
+
+GL 1 TCKT0002b
+GI 1 0
+
+WVP 0 vfccb2015fyu003
+Touko: "......n-nothing, nothing at all!"
+TP
+
+You thought I was monopolizing it, didn't you?
+TP
+
+Taichi: "And I worked to preserve the beauty of your butt......"
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+
+
+WVP 0 vfccb2015fyu004
+Touko: "Eh!? My......butt?"
+TP
+
+I hit Touko's forehead.
+TP
+
+Taichi: "Smack, smack!"
+IF $tlnote != 0 (TL note: The words Taichi uses here for "smack" and "beautiful butt" happen to be perfect homonyms.)
+TP
+GL 1 TCKT0004b
+GI 1 0
+
+WVP 0 vfccb2015fyu005
+Touko: "Ow, that hurts, you know!"
+TP
+
+Taichi: "Eat."
+TP
+GL 1 TCKT0005b
+GI 1 0
+
+WVP 0 vfccb2015fyu006
+Touko: "What is it with you......seriously......"
+TP
+
+Perplexed, she took some.
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+
+WVP 0 vfccb2015fyu007
+Touko: "......this is too hot."
+TP
+
+Taichi: "And your tongue is too bitter."
+//Same figurative meaning from the bottom of cca0013, though it's not as obvious. Again, rephrase if you can make that intent clearer. Å`IX
+TP
+
+GL 1 TCKT0005b
+GI 1 0
+WVP 0 vfccb2015fyu008
+Touko: "I want a drink......"
+TP
+
+She covered her mouth.
+TP
+
+Her tongue was weak.
+TP
+
+I brought her a water bottle.
+TP
+
+Taichi: "Here."
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+WVP 0 vfccb2015fyu009
+Touko: "Ah."
+TP
+
+She tore off the top and stared at the hole.
+TP
+
+Taichi: "......what is it?"
+TP
+
+WVP 0 vfccb2015fyu010
+Touko: "It's getting pretty low."
+TP
+
+Taichi: "That's fine, drink. I don't need it since I store water naturally."
+//That pause really did not belong there. Change it up a little more if you want since this messes with the intent. I just can't think of anything else to put.-Spin
+TP
+GL 1 TCKT0002b
+GI 1 0
+
+
+WVP 0 vfccb2015fyu011
+Touko: "......so you drank it?"
+TP
+
+Taichi: "Yeah, I drank it."
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfccb2015fyu012
+Touko: "............I see..."
+TP
+
+What is she thinking about?
+TP
+
+Could it be!?
+TP
+
+The indirect kiss?
+TP
+
+
+My heartbeat strengthened.
+TP
+
+I'd never seen one before.
+TP
+
+GL 1 TCKT0006b
+GI 1 0
+WVP 0 vfccb2015fyu013
+Touko: "......this is an indirect kiss."
+TP
+
+Taichi: "............"
+TP
+
+Taichi: "........................"
+TP
+
+WVP 0 vfccb2015fyu014
+Touko: "......Taichi?"
+TP
+
+Taichi: "oooOOOOO!!!"
+//It looks odd to start this with a lowercase O. -VDZ
+TP
+
+GL 1 TCKT0004b
+GI 1 0
+
+WVP 0 vfccb2015fyu015
+Touko: "Wh-what is it!?"
+TP
+
+WVS 1 1
+
+I twisted her nipples.
+TP
+
+WVP 0 vfccb2015fyu016
+Touko: "Kyaun!!?"
+TP
+
+Taichi: "Replay, please."
+TP
+WVP 2 SE003 1 0
+SEF 101 0
+I sunk.
+WVP 2 SE038 1 0
+SEF 101 0
+TP
+
+WVP 1 bgm006.ogg 0 0 0
+
+GL 1 TCKT0003b
+GI 1 0
+WVP 0 vfccb2015fyu017
+Touko: "......that's not a switch!!!"
+TP
+
+Taichi: "You're right......"
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+
+WVP 0 vfccb2015fyu018
+Touko: "And what do you mean 'replay'......?"
+TP
+
+Taichi: "I wanted to hear you say that line again."
+TP
+
+I got up.
+TP
+
+Taichi: "Now, replay."
+TP
+
+GL 1 TCKT0002b
+GI 1 0
+
+WVP 0 vfccb2015fyu019
+Touko: "............I don't want to."
+TP
+
+She said, 'I don't want to.'
+TP
+
+She's lavishing her cuteness upon me.
+TP
+
+Taichi: "We really do need that."
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+
+WVP 0 vfccb2015fyu020
+Touko: "Need what?"
+TP
+
+Taichi: "Wait here."
+TP
+GL 5 bgcc0006a
+GS 5 1
+SEF 152 0
+I went to the classroom.
+TP
+GS 5 0
+SEF 152 0
+I returned.
+TP
+
+Taichi: "A video camera."
+TP
+
+It still has batteries.
+TP
+
+Position.
+TP
+
+Switch on.
+TP
+
+Taichi: "Now, say that line again, Q."
+IF $tlnote != 0 (TL note: This is the same Q from the QI earlier, which meant "want.")
+//I feel the odds of remember the QI tl note in enough detail to get this callback are low enough to justify another tl note. Feel free to disagree. Å`IX
+//I agree with another tl note. I'd forgotton all about the QI thing - Sheeta
+TP
+
+GL 1 TCKT0003b
+GI 1 0
+
+WVP 0 vfccb2015fyu021
+Touko: "What do you want from me!!?"
+TP
+
+Taichi: "............haa?"
+TP
+
+WVP 0 vfccb2015fyu022
+Touko: "Don't be shocked!!"
+TP
+
+GL 1 TCKT0002b
+GI 1 0
+
+WVP 0 vfccb2015fyu023
+Touko: "That makes it look like I'm saying something weird."
+TP
+
+Taichi: "Eh? But......why can't I record it?"
+TP
+
+GL 1 TCKT0003b
+GI 1 0
+WVP 0 vfccb2015fyu024
+Touko: "Why do you need to record it!?"
+TP
+
+Taichi: "......because I wanted to preserve it?"
+TP
+
+I tilted my head.
+TP
+
+WVP 0 vfccb2015fyu025
+Touko: "Why are you answering with an interrogative sentence!? And why do you want to preserve it!?"
+//Seeing as English speakers don't know their grammar terms, we might want to simplify that sentence by just saying "question." Up to you guys. Å`IX
+//Hopefully this makes it clearer for the player - Sheeta
+//I was actually wondering precisely this line when I read the last line, so I understood it just peachy. - pondrthis
+TP
+
+WVP 0 vfccb2015fyu026
+Touko: "What? Did I say something weird!? Something so weird that you have to mock me in a roundabout way? Was it that comical!? No matter......no matter how much I think about you, do you only see me as something to laugh at!!!!?"
+TP
+
+She ignited.
+TP
+
+Taichi: "Aaah, you, calm down a bit......"
+TP
+
+WVP 0 vfccb2015fyu027
+Touko: "ÅõÅ~Å¢Å†ÅêÅîÅìÅïÅõÅ~Å¢Å†ÅêÅîÅìÅï-----!!"
+TP
+
+Uwaa...
+TP
+
+It's hopeless.
+TP
+
+Taichi: "I wanted to record my memories with you!"
+TP
+WVS 1 0
+Touko's mouth froze on the spot.
+TP
+
+GL 1 TCKT0006b
+GI 1 0
+
+WVP 0 vfccb2015fyu028
+Touko: "......really?"
+TP
+
+Taichi: "I want to be able to revisit these happy days in the future."
+TP
+
+Taichi: "Haha......was that a bad idea?"
+TP
+
+Like a young, naive ÅwI've really done it now...Åx boy, I scratched the back of my head.
+TP
+
+Taichi: "I really do like you Touko, and because I really like you......I want to keep this as a beautiful memory forever."
+//The usual "suki" dilemma: "like" or "love"? I went with "like" only because Taichi isn't actually that serious. Your opinions may vary. Å`IX
+//I like the 'like' usage. It doesn't sound unatural either - Sheeta
+//I support like in this context. - pondrthis
+TP
+WVP 1 bgm004.ogg 0 0 0
+
+WVP 0 vfccb2015fyu029
+Touko: "Taichi......I love you!!"
+TP
+GO 1 1
+*jump*
+TP
+
+She hugged me.
+TP
+
+Taichi: "Touko! Weren't you against it!?"
+TP
+
+WVP 0 vfccb2015fyu030
+Touko: "............eh?"
+TP
+
+Taichi: "Cry, Touko!"
+TP
+
+WVP 0 vfccb2015fyu031
+Touko: "Aaa......Ta-Taichi!"
+TP
+
+Fire successfully put out.
+TP
+WVS 1 0
+WVP 0 vfccb2013fyu125
+Touko: ÅwAh! Uuuu......I'm......ah, ah, ah......I'm, cumming......nkuuuu!!Åx
+//PCP ccb2013  Yes I actually bothered to find the exact line and copy it in here.
+//Should I add it to my list? XD - Sheeta
+TP
+
+Emergency fuck.
+TP
+
+The video camera's playback function.
+TP
+
+And on high volume.
+TP
+
+GL 1 TCKT0004b
+GI 1 1
+WVP 0 vfccb2015fyu032
+Touko: "......eh......my voice?"
+TP
+
+WVP 0 vfccb2013fyu126
+Touko: ÅwNnnnnn! ------!!!Åx
+//PCP
+TP
+
+Pagyuu!!?
+TP
+
+My thoughts were canceled.
+TP
+
+WVP 0 vfccb2015fyu033
+Touko: "W-wait! Hang on!!"
+TP
+She let go.
+TP
+WVP 1 bgm010.ogg 0 0 0
+
+WVP 0 vfccb2015fyu034
+Touko: "Sakuraba!!?"
+TP
+
+Sakuraba was sitting in front of the camera and closely watching the image.
+TP
+
+Sakuraba: "............"
+TP
+
+He didn't respond to his name.
+TP
+
+Closely watching.
+TP
+
+Touko, with a face on the verge of tears, walked behind Sakuraba and peeked at the view screen.
+//"video screen" is likely an incorrect adaptation. Maybe someone here uses a video camera often enough to know. Å`IX
+TP
+
+WVP 0 vfccb2013fyu127
+Touko: Åw......ah!......I'm!......cum, miiing............ ao............I......Åx
+//PCP
+TP
+
+Copulation replay.
+TP
+
+WVP 0 vfccb2015fyu035
+Touko: "Co! Co-co-co-co-co!??"
+TP
+
+Taichi: "You're a chicken?"
+//Isn't this the "coo, coo" thing again, in which case it should be "coo"? - pondrthis
+TP
+
+WVP 0 vfccb2015fyu036
+Touko: "This is-!? This is-!? This is-!?!?"
+TP
+
+She's a parrot.
+TP
+
+WVP 0 vfccb2013fyu128
+Touko: ÅwAu......au......uu......Åx
+//PCP
+TP
+
+Taichi: "......ahahaha."
+TP
+
+Taichi: "Actually, I taped what we did earlier......ahaha!"
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+
+Touko: "......"
+TP
+
+Touko's presence changed.
+TP
+
+WVP 0 vfccb2013fyu129
+Touko: Åw......ha!......haua......fuwaa......I'm...dying...Åx
+//PCP
+TP
+
+On the monitor, Touko collapsed, unconscious.
+TP
+
+Then she saw,
+TP
+
+What happened after that.
+TP
+
+WVP 0 vfccb2013fyu131
+Touko: Åw......nn!......*kiss*......*lick*......nn! Nn!......nnn......Åx
+//PCP_S
+TP
+
+Taichi: ÅwSuck up what's left in the urethra.Åx
+TP
+
+WVP 0 vfccb2013fyu132
+Touko: Åw......aam......nn......nnnnn......*kiss* *kiss*Åx
+TP
+
+WVP 0 vfccb2013fyu133
+Touko: Åw*lick*......*kiss*......*kiss*......nn! Nn......Åx
+TP
+
+Taichi: ÅwBanzaaai, banzaaai.Åx
+//PCP_F
+TP
+WVS 1 1
+Taichi: "............"
+TP
+
+Touko: "............"
+TP
+
+We faced off.
+TP
+GL 0 bgcc0009a
+GL 1 TCKT0001b
+GS 1 1
+GS 0 1
+SEF 10 0
+
+*gu-nyari*
+//No clue what to do with this one. Å`IX
+TP
+
+Space warped.
+TP
+
+Touko smirked.
+TP
+WVP 1 bgm017.ogg 0 0 0
+
+The smell of a beast!!?
+TP
+
+And its murderous intent!?
+TP
+
+It's swelling up through the entire cafeteria!!!
+TP
+
+WVP 0 vfccb2015fyu039
+Touko: "............aai."
+TP
+
+She's whispering.
+TP
+
+Is she irritated?
+TP
+
+I cleared my ears.
+TP
+
+WVP 0 vfccb2015fyu040
+Touko: "......zaaai......banzaaai, banzaaai, banzaaai, banzaaai."
+//Another of the lines I really like. Å`IX
+TP
+
+She's mechanically repeating my words with a soft smile!!?
+TP
+
+This is bad!
+TP
+
+GL 2 TCSH0003b
+GP 2 180 0
+GS 2 1
+GS 1 0
+SEF 109 0
+
+WVP 0 vmccb2015sku002
+Sakuraba: "There's one thing that bugged me. Something serious."
+TP
+
+Sakuraba raised his hand.
+TP
+
+The silent pheasant remains unshot.
+//CP cca0021
+TP
+
+WVP 0 vmccb2015sku003
+Sakuraba: "Is this a sumata? Or is it real---"
+//Why is there no TL note on this? Otaku level please, or at the very least noob level. -VDZ
+TP
+WVP 2 SE003 1 0
+SEF 101 0
+Sakuraba abruptly broke down in the middle of his line.
+GO 2 1
+TP
+
+He isn't getting up.
+TP
+
+As if his switch had been turned off.
+TP
+
+It looked like his face had been hit by Touko's hand.
+TP
+
+But there was no movement near him.
+//"To touch"? That's pretty weird wording. "Near" isn't exactly right either but I can't think of anything else. Any ideas?-Spin
+TP
+
+Her hand just hit him...
+TP
+
+Taichi: "With qi!?"
+IF $tlnote != 0 (TL note: "Qi" or "spirit" is a Japanese and Chinese word best known to English speakers through the martial arts teachings that controlling your "qi" (pronounced "chi") can improve your skill and focus.)
+//Is this a noob tl note? Å`IX
+//I would noob-level it, but others might disagree. - pondrthis
+TP
+GL 1 TCKT0005b
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfccb2015fyu041
+Touko: "Banzaaai, banzaaai, banzaaai, banzaaai......"
+IF $tlnote == 1 (TL note cont: In Eastern pop fiction, it isn't uncommon for characters to be able to control their "qi" well enough to attack others more or less telekinetically.)
+TP
+
+Taichi: "Ha, hawawawa!"
+TP
+WVP 2 SE074 1 0
+
+*ting*
+TP
+
+GL 4 sgcc0017
+GL 5 bgcc0000e
+$CGsgcc0017 = 1
+GP 4 0 0
+GI 5 0
+GS 1 0
+GS 4 1
+GS 5 0
+WVP 2 SE075 1 0
+SEF 109 0
+
+She's summoned the Harakiri Blade-----!?
+TP
+
+
+WVP 0 vmccb2015msa000
+Masamune: ÅwAt the moment Touko's rage attains its zenith, the Demon Harakiri Blade can leap a distance of 4.35 lightyears through spacetime in a mere 0.05 seconds!Åx
+IF $tlnote != 0 (TL note: "Masamune" is the surname of many famous Japanese swordsmiths.)
+TP
+
+
+Taichi: "Who the hell are you!!?"
+TP
+
+Wasn't humanity annihilated!?
+TP
+
+WVP 0 vfccb2015fyu042
+Touko: "......banzaaai, banzaaai."
+TP
+
+Taichi: "H-have mercy!!"
+TP
+
+I prostrated myself and uttered the words of submission frequently used by heroines in the later works of Kajiwara ***teru.
+//For the life of me, I cannot find anything on this äÅå¥ÅõãP person. Å`IX
+//I'm sure you know why I changed that one.-Spin
+TP
+
+But,
+TP
+
+GL 4 sgcc0017a
+$CGsgcc0017a = 1
+GP 4 0 0
+GS 1 0
+GS 4 1
+WVP 2 SE076 1 0
+SEF 109 0
+
+Taichi: "You'd just gotten bright and cheerful again, but now you're back to being stormy in an instant!?"
+TP
+
+
+WVP 0 vmccb2015msa001
+Masamune: ÅwIf unsheathed, a storm shall be called. That is the nature of the Demon Harakiri Blade.Åx
+TP
+
+
+Taichi: "I said, who the hell are you!?"
+//Went to fast.-Spin
+TP
+
+You tasteless auditory hallucination!
+TP
+
+WVP 0 vfccb2015fyu043
+Touko: "Kurosu Taichi......"
+TP
+
+Taichi: "But! Touko, didn't you burn all of my erotic books!? I need something to replace them, dattebayo!!"
+IF $tlnote != 0 (TL note: The use of "dattebayo" to end sentences with extreme emphasis is a trademark of Naruto. It was infamously adapted in the English anime as "Believe it!")
+TP
+
+WVP 0 vfccb2015fyu044
+Touko: "I'll make it two."
+TP
+
+Make it two?
+TP
+
+But I only have the one!
+//Why 'the'? If he's correcting Touko on the amount (not two, but one) it should be "But I only have one!" The entire sentence is confusing, though. -VDZ
+TP
+
+Taichi: "If it's come down to this......I won't stay quiet! Defensive stance!"
+TP
+
+Though if there's a country upholding similar standards of conduct, I can only be satisfied with a single warning shot against a suspicious ship in territorial waters! 
+//SOS?
+//Gave it a try. -Shiki
+TP
+
+Out of the Taichi Bag I brought along with the camera, I pulled out my dagger......
+//Since I didn't read that H-scene yet, did he bring the bad "with" the camera or the camera "with" the bad? I would have assumed it was the opposite way around.-Spin
+TP
+
+Huh? It's gone?
+TP
+
+Did I leave it at hooooome!!?
+TP
+
+In place of that, I took out a TV remote and held it out towards Touko.
+TP
+
+Taichi: "Move and I'll irradiate you with this feeble infrared light!"
+//I love this line. I know I say that a lot, but Taichi's just that awesome. Å`IX
+//This is a great line, but he's still an abusive scumbag. - pondrthis
+TP
+
+......what'll that do!?
+TP
+
+Touko: "......"
+TP
+
+Enemy: Attack stance.
+TP
+
+Taichi: "Hiin!!"
+TP
+WVS 1 0
+GL 5 bgcc0000e
+GI 5 0
+WT 500 0
+GS 5 0
+GS 4 0
+GS 0 1
+SEF 109 1
+I threw the remote away and held my head.
+TP
+
+But......I wasn't sliced.
+TP
+
+I opened my eyes.
+TP
+GL 0 bgcc0009a
+GS 0 1
+SEF 109 0
+Touko lowered her blade.
+TP
+
+The video camera slowly fell down in two.
+TP
+
+It'd been bisected.
+TP
+WVP 1 bgm011.ogg 0 0 0
+
+Taichi: "Hanyaan! My high-tech peeping equipment-!!!"
+SEF 101 0
+TP
+
+GL 1 TCKT0005b
+GI 1 1
+
+WVP 0 vfccb2015fyu046
+Touko: "......the evil has been destroyed."
+TP
+
+Taichi: "That's-!!"
+TP
+
+A blade at my neck.
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+WVP 0 vfccb2015fyu047
+Touko: "......it's better than dying, right?"
+TP
+
+Taichi: "It is as you say."
+TP
+
+WVS 1 1
+WT 500 0
+WT 1500 1
+
+RET

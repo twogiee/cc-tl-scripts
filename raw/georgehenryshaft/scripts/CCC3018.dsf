@@ -1,0 +1,1656 @@
+//Saturday September 12, 1998 -GHS
+
+
+
+//GL 0 bgcc0007
+GL 0 zzzrooftopzoom
+GS 0 1
+SEF 152 1
+//HACK rooftop zoom -GHS
+
+WVP 1 bgm015.ogg 0 0 0
+
+//HACK this first part of the script used to be a complete copypasta from CCA0029, which has been mercifully cut in the console versions. Curiously, it now reads like a recapped flashback. Also, the non-copypasta lines are new (for what it's worth since they're all really short and to the point). -GHS
+
+//屋上
+Rooftop.
+TP
+
+//作業を進めていると
+I'm continuing work, when...
+TP
+
+
+GL 1 TCST0000
+GP 1 200 0
+GI 1 1
+
+WVP 0 vmcca0029yki002
+//友貴「部活か」/*
+Tomoki: "Club activities?"
+//CP CCA0029
+TP
+
+//太一「そうそう」
+Taichi: "Yeppy yep."
+//CP CCA0029
+TP
+
+//友貴が来た。
+Tomoki had come.
+TP
+
+GL 1 TCST0004
+GI 1 0
+WVP 0 vmcca0029yki021
+//友貴「……わかんないよ、太一の考え」/*
+Tomoki: "...I just don't get the way you think, Taichi."
+//CP CCA0029
+TP
+
+//友貴はそう言った
+So Tomoki said.
+TP
+
+//だがーーー
+However---
+//And now see CCB0018 and CCA0022. As far as hint that even the non-sepia scenes may be flashbacks in a sense post Week 1, this is almost pathetically blunt. -GHS
+TP
+
+GL 1 TCST0000
+GI 1 0
+
+WVP 0 vmcca0029yki024
+//友貴「僕にわかるのは……このアンテナとモービル用機材の結線だけだ」/*
+Tomoki: "What I know is... just how to wire this antenna to the mobile equipment."
+//CP CCA0029
+TP
+
+GL 5 bgcc0000a
+GS 5 1
+SEF 109 1
+
+//楽しい部活ごっこ。
+Fun pretend-a-club-activities.
+//CP CCA0029
+TP
+
+//大切な思い出となりえる。
+They may become precious memories.
+//CP CCA0029
+TP
+
+WVS 1 1
+
+//End of the edits. These below are NOT new lines from the console version. -GHS
+
+
+//記憶に残りはしないけど。
+There will be nothing left in the memories, however.
+TP
+
+//そんな可能性があったことを、日記に残しておこうと思った。
+I thought I would leave behind, in the diary, that a possibility like this exists.
+TP
+
+
+
+WVP 1 bgm004.ogg 0 0 0
+
+WVP 0 vfCCC3018mki000
+//美希「おはよーございーまーす」
+Miki: "Goood mooorniiing!"
+TP
+
+GS 5 0
+GS 1 1
+GL 1 TCYM0003
+GP 1 180 0
+GS 1 1
+SEF 109 0
+//HACK out the sky after Miki comes by -GHS
+
+
+//太一「部室行って新しい軍手持ってきてくれる？」
+Taichi: "Could you go to the club room and bring me a new pair of gloves?"
+TP
+
+
+GL 1 TCYM0002
+GI 1 0
+
+
+WVP 0 vfCCC3018mki001
+//美希「いきなり使われるわたし……」
+Miki: "Just exploited out of the blue I am..."
+TP
+GO 1 1
+//校内に消える。
+She vanishes inside the building.
+TP
+
+GL 1 TCMM0000
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfCCC3018msa000
+//見里「おはようです」
+Misato: "Morning everyone!"
+TP
+
+//太一「肩揉んでください」
+Taichi: "Backrub, please."
+TP
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfCCC3018msa001
+//見里「あ、はい」
+Misato: "Ah, yes!"
+TP
+
+WVP 0 vfCCC3018msa002
+//見里「もみもみ」
+Misato: "Rubby, rubby."
+TP
+
+//肩をマッサージさせながら作業。
+Work continues while shoulders are massaged.
+TP
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfCCC3018msa003
+//見里「あまりこってませんね」
+Misato: "They are not very stiff are they."
+//Must be all the shrugging he made in CCC0014. -GHS
+TP
+
+//太一「気分の問題で」
+Taichi: "It is a question of mood."
+TP
+
+WVP 0 vfCCC3018msa004
+//見里「もみもみ」
+Misato: "Rubby, rubby!"
+TP
+
+GL 1 TCMM0006
+GI 1 0
+WVP 0 vfCCC3018msa005
+//見里「って、どうして私が肩もみをっ」
+Misato: "Wait, why am I rubbing your shoulders!"
+TP
+
+//気づいた。
+She noticed.
+TP
+
+//太一「つい」
+Taichi: "Unconsciously."
+//Answers her question. -GHS
+TP
+GL 2 TCSK0002
+GP 2 340 0 0
+GP 1 20 0 0
+GS 1 1
+GS 2 1
+SEF 109 0
+WVP 0 vfCCC3018kri000
+//霧「……来ました」
+Kiri: "...I am here."
+TP
+
+//太一「おはようのキスをしろ」
+Taichi: "Give me a good morning kiss."
+TP
+
+GL 2 TCSK0003
+GI 2 0
+//HACK now it tried to display the wrong layer... -GHS
+WVP 0 vfCCC3018kri001
+//霧「え……………………？」
+Kiri: "Eh............?"
+TP
+GL 4 sgcc0014
+$CGsgcc0014 = 1
+GO 1 0
+GO 2 0
+GP 4 0 0
+GI 4 0
+
+WVP 2 se106 1 0
+//SEF 101 0
+
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+
+
+WVP 0 vfCCC3018msa006
+//見里「そんなこと強要したらだめですー」
+Misato: "Coercing that kind of things is not acceptable!"
+TP
+
+//太一「はぎゃー！」
+Taichi: "Hah'gyaaah!"
+TP
+
+//軽く見えてヘビィな一撃だった。
+It looks light but that fist was heavy.
+//It's likely one of the many less-than-common transliterating, but like it happens several times, "heavy" is written with ヘビ(snake)+ィ instead of more common ways. Let's leave it at a "hmmm". -GHS
+TP
+//GL 0 bgcc0000d
+GL 0 zzzrooftopzoom
+GL 0 
+GS 0 1
+GS 1 0
+GS 4 0
+SEF 109 0
+//WT 1000 0
+//GL 0 bgcc0007
+GL 5 zzzblackblend
+//HACK screen dim throughout the scene, stay on zoomed rooftop, no waits. -GHS
+GS 0 1
+GS 5 1
+SEF 10 1
+
+
+
+GL 1 TCYM0003
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC3018mki002
+//美希「軍手、取ってきましたー」
+Miki: "I have fetched the gloooves!"
+TP
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC3018mki003
+//美希「はっ、寝てる！？」
+Miki: "Huh, he's asleep?!"
+//Don't fall asleep yourself - she's serious, Taichi didn't get struck, he DID fall asleep! This is one of his bouts of narcolepsy. -GHS
+TP
+
+WVP 0 vfCCC3018mki004
+//美希「人を使っておいて、自分は寝ているっっっ」
+Miki: "He just uses people, and then he himself sleeeeeeeps!"
+//See Tomoki vs. Misato. -GHS
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC3018mki005
+//美希「……ズボンおろしの刑に処します」
+Miki: "...sentenced to the removal of trousers."
+//ZUBOOOOOOON? -GHS
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC3018mki006
+//美希「ずるずるー」
+Miki: "Slip, sliiip!"
+//See CCA0027 - zuru again! -GHS
+TP
+
+GL 2 TCMM0004
+GP 1 0 0
+GP 2 340 0
+GS 2 1
+GS 1 1
+SEF 109 0
+WVP 0 vfCCC3018msa007
+//見里「ちょっと山辺さん、パンツもおりてますよっ」
+Misato: "Wait Yamanobe-san, you are taking off his underwear too!"
+TP
+
+WVP 0 vfCCC3018mki007
+//美希「ずるずるずるー」
+Miki: "Slip, slip, sliiip!"
+TP
+
+GL 2 TCMM0007
+GI 2 0
+//HACK X Misato -GHS
+
+WVP 0 vfCCC3018msa008
+//見里「ちょっとちょっとっ！」
+Misato: "Wait, waaait!"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC3018mki008
+//美希「だって、もう女がここまで来たらおさまりがつかないですよ」
+Miki: "After all, once a woman has gotten this far, she cannot stay unsatisfied!"
+//See CCA0012. -GHS
+TP
+
+GL 1 TCYM0011
+GI 1 0
+WVP 0 vfCCC3018mki009
+//美希「このまま貫くしかありませんです」
+Miki: "I shall do nothing but penetrate through to the end!"
+//Not actually a quote, though see CCC0041. -GHS
+TP
+
+GL 2 TCMM0005
+GI 2 0
+//HACK swatdrop Misato -GHS
+
+WVP 0 vfCCC3018msa009
+//見里「言ってることぺけくんっぽいですよ……」
+Misato: "Those are very Peke-kun-ish things you say..."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC3018mki010
+//美希「師匠と弟子っすから」
+Misato: "We are teacher and pupil, that is why."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC3018mki011
+//美希「霧ちん霧ちん、ほらほら、なんか見えてるよ？」
+Miki: "Kiri-chin Kiri-chin, c'mon c'mon, do you see it?"
+TP
+
+WVP 0 vfCCC3018kri002
+//霧「見たくないってば！」
+Kiri: "I said I don't want to see it!"
+//See CCC3002 (she literally did). -GHS
+TP
+
+WVP 0 vfCCC3018mki012
+//美希「そーれそーれ……」
+Miki: "Soo'reh, soooo'reh..."
+//"Thattity thattity" is, perhaps, beneath even me. -GHS
+TP
+
+WVS 1 0
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC3018mki013
+//美希「うわー、出たーっ、ぽろんって、なんか出たーっ！！」
+Miki: "Bwaaah, it's ooout, it just went plonk, it's aaall out!!!"
+TP
+
+
+WVP 1 bgm011.ogg 0 0 0
+
+
+WVP 2 SE086 1
+GS 1 0
+GS 2 0
+SEF 109 0
+
+WVP 0 vfCCC3018mki014
+//美希「出ちゃいましたー！」
+Miki: "It has appeareeed!"
+TP
+
+WVP 0 vfCCC3018msa010
+//見里「だから言ったのにー！」
+Misato: "And that is why I told youuu!"
+TP
+
+WVP 0 vfCCC3018kri003
+//霧「なんかかぶせといてよー！　気になるー！」
+Kiri: "Cover that up with something, reallyyy! It's making me siiick!"
+TP
+
+
+//ぎゃーすかぎゃーすか
+Noisy, noisy, loud and noisy.
+//Seems to be just an onomatope (that I can't source, natch) for loud chattering. Not the origin or connected at all... OR IS IT: http://ja.wikipedia.org/wiki/%E3%81%A8%E3%82%82%E3%81%A0%E3%81%A1%E3%81%84%E3%81%A3%E3%81%B1%E3%81%84 Voiced by Tanaka............... Mayumi. Since Tanaka, like John Smith, is very much a rare name, this is obviously connected. -GHS
+TP
+
+GL 0 1
+GS 5 0
+SEF 10 0
+//HACK pixalate back to rooftop -GHS
+
+
+//太一「……う、ううん……」
+Taichi: "...ngh, nngh..."
+TP
+
+//騒がしくて目を覚ました。
+The loud noises made me awake.
+TP
+
+WVP 0 vfCCC3018mki015
+//美希「にゃごー、もう近寄れないですー！」
+Miki: "Myeeegow, I can't get close anymooore!"
+TP
+
+WVP 0 vfCCC3018msa011
+//見里「と、取り返しのつかないことをっ」
+Misato: "Th-, that is something that can never be put right again!"
+TP
+
+WVP 0 vfCCC3018kri004
+//霧「美希がやったんじゃない、責任取ってしまってきてよ！」
+Kiri: "Didn't you do this, Miki! Take responsibility now!"
+TP
+
+WVP 0 vfCCC3018mki016
+//美希「むりむり、物理的に無理！　処女ですし。ここは年長者の部長先輩が」
+Miki: "Impossible impossible, physically impossible! I am a virgin! This is something for our senior President-senpai!"
+TP
+
+WVP 0 vfCCC3018msa012
+//見里「わ、わたしだって処女です！　年長者とか関係ないですよー！」
+Misato: "Bu-, but I am a virgin too! That has nooothing to do with seniority!"
+TP
+
+WVP 0 vfCCC3018mki017
+//美希「……先輩も未経験なんですか？」
+Miki: "...Senpai is also inexperienced then?"
+TP
+
+WVP 0 vfCCC3018kri005
+//霧「わ、わたしもだからね……ゼッタイ無理だからね……」
+Kiri: "I-, I am, too, so... it's absolutely impossible, and..."
+TP
+
+WVP 0 vfCCC3018mki018
+//美希「乙女には、あの物体は手厳しすぎます！」
+Miki: "To us maidens, that bodily part is waaay to hard to handle!"
+TP
+
+//騒がしいなあ。
+Boisterously noisy aren't they.
+//Three girls are a crowd. -GHS
+TP
+
+//立ち上がる。
+I stand up.
+TP
+
+//妙に涼しかった。
+It was unusually cool.
+//Why is Omata all breezy??? See CCA0015B. -GHS
+TP
+
+//風が肌に突き刺さるほどに感じられた。風邪かな。
+A sense as if the wind is piercing directly through to the skin. Did I get a fever?
+TP
+
+//太一「あのー？」
+Taichi: "Uhmmm?"
+TP
+
+GL 1 TCMM0004
+GL 2 TCYM0004
+GL 3 TCSK0003
+GP 1 -10 0
+GP 2 170 0
+GP 3 430 0
+GS 1 1
+GS 2 1
+GS 3 1
+SEF 109 0
+//HACK aggggg getting these three correctly positioned was a PITA... -GHS
+
+//三人の目線が、一斉にこっちを向いた。
+In unison, the sights of the three turned towards me.
+TP
+
+//そして一斉にぎょっとした。
+And then, in unison, all three were startled.
+//That's probably when they realize he got hard. -GHS
+TP
+
+//太一「どうしました、お嬢さんがた、フッ」
+Taichi: "What has happened, my three Ojou-sama?"
+//Moved the "fu!" down here -GHS
+TP
+
+//紳士口調で問いかけた。
+I asked with gentlemanly tones and a smirk.
+TP
+
+
+GS 1 0
+GS 2 0
+GS 3 0
+SEF 109 0
+//HACK and out -GHS
+
+
+WVP 0 vfCCC3018goo000
+
+
+
+//三人「きゃあぁぁぁぁぁぁぁぁぁぁぁっ！？」
+Trio: "KYAAAaaaaaaaaaah!?!"
+TP
+
+//耳をつんざく悲鳴×３。
+Ear-pearcing scream x 3.
+TP
+
+//脱兎の如く逃げだした。
+They ran away with the speed of a scared rabbit.
+//Normally it just means "at top speed", but... -GHS
+TP
+
+GL 0 bgcc0007
+GS 0 1
+GI 0 1
+//HACK to normal rooftop. -GHS
+
+
+
+//そこで俺も、脱兎の如く追いかけた。
+Therefore, I ran after them with the speed of a scared rabbit.
+TP
+
+//太一「どうしたというのです、娘さん？」
+Taichi: "What has happened, nee-san?"
+//See CCA0016 -GHS
+TP
+
+GL 1 TCMM0004
+GP 1 230 0
+GI 1 1
+//HACK don't just pop in -GHS
+
+
+WVP 0 vfCCC3018msa014
+//見里「こ、こないでくださーい！　近寄らないで、いやー、気持ち悪いーっ！！」
+Misato: "Do-, don't come near pleeease! Don't get any close, noooo, disgustiiing!!!"
+TP
+
+GO 1 1
+WVP 2 SE035 1 0
+//HACK out with the doll, footsteps SFX -GHS
+
+//太一「えーーーーーーーーーーーっ！！」
+Taichi: "Ehhhhhhhhhhhh!!!"
+TP
+
+//拒絶。
+Rejected.
+TP
+
+//拒絶されてる。
+I was rejected.
+TP
+
+//俺またまた、拒絶されちゃってる。
+Again and again I was completely rejected.
+//See CCA0010. Not necessarily a comedy scene for him. -GHS
+TP
+
+//人にキモがられる運命。
+To be treated as disgust itself is my lot in life.
+TP
+
+//太一「ちっくしょーーーーーーーーーーっ！」
+Taichi: "DAMMIIIIIIIIIIIIT!"
+TP
+
+//むきになって追いかける。
+The chase turns frantic and desperate.
+TP
+
+//泣きそうだった。
+It was to cry.
+TP
+
+//太一「髪が白いのがそんなにおかしいかー！」
+Taichi: "Is it that weird that my hair is whiiite!"
+TP
+GL 2 TCYM0004
+GS 1 0
+GS 2 1
+GP 2 180 0
+SEF 109 0 
+
+
+WVP 0 vfCCC3018mki020
+//美希「全然そんなこと責めてないですー！　あー、きちゃだめー！　きあーっ！」
+Miki: "That is not the thing at fault at all! AHHH, don't get neaaar! Keyaaaah!"
+TP
+
+GO 2 1
+WVP 2 SE035 1 0
+//HACK out with the doll, footsteps SFX -GHS
+
+
+//太一「俺はそんなに不気味かーっ！」
+Taichi: "Am I that ghastlyyy?!"
+TP
+
+//GL 2 TCYM0003
+//GI 2 0
+//HACK no doll -GHS
+
+WVP 0 vfCCC3018mki021
+//美希「あっはははははははははっ！！　きゃーきゃーきゃー！！　揺れてるー！！　揺れてるよーっ！！」
+Miki: "Ahahahahahahahahahah!!! Kyaaah-kyaaah-kyaaah!!! It's shakiiing!!! It's totally shakiiing!!!"
+TP
+
+//こいつだけは楽しそうだな。
+She seems to be the only one having fun.
+TP
+
+//太一「俺の心も切なげに揺れとんのじゃー！！」
+Taichi: "But my heart is also shaking in heartrending sadneeess!!!"
+TP
+
+GL 3 TCSK0004
+GS 2 0
+GS 3 1
+GP 3 220 0
+SEF 109 0
+
+
+WVP 0 vfCCC3018kri007
+//霧「ちょ、やだ、やだやだやだやだっ、やだーーーーーーーーーーっ！」
+Kiri: "Wa, you don't, don'tdon'tdon'tdon't, you dooooOOOOOON'T!"
+TP
+
+GO 3 1
+WVP 2 SE035 1 0
+//HACK out with the doll, footsteps SFX. Someone did a big mess with this SFX in the 360 version, which keeps repeating like 20 times. Maybe it's simulating running around... but it continues well beyond it making any sense. -GHS
+
+
+//太一「そんなにいやかー！」
+Taichi: "Don't-ed so muuuch!"
+//I'm learning so many new verbs. -GHS
+TP
+
+//太一「人格面で嫌われるならそりゃ仕方ないが、外見に嫌悪感を示すなんて人として最低だーっ！」
+Taichi: "Being hated in terms of personality, well, what can one do, but people who show revulsion at physical appearances are the wooorst!"
+TP
+
+//目標を切り替える。
+I foggedly change target.
+//KIRIkaeru -GHS
+TP
+
+//太一「どっしゃらーーーーーーーっ！！」
+Taichi: "Whasshadonnaaaaaaaaw!!!"
+//Angranese. "What shall I do now" + "whatcha doin' now" -GHS
+TP
+
+WVP 0 vfCCC3018kri008
+//霧「いやーーーーーーーーーーーーーっっ」
+Kiri: "NOOOOOOOOOOOOOO!!!"
+TP
+
+//太一「おらおら、手が届きそうだ霧さんよぉ！」
+Taichi: "Oh yes oh YES, you are within reach Kiri-saaan!"
+//Hokuto no Taichi now??? -GHS
+TP
+
+GL 2 TCYM0001
+GS 2 1
+GP 2 180 0
+GS 3 0
+SEF 109 0
+
+WVP 0 vfCCC3018mki022
+//美希「あー、霧ちんが陵辱されるー！」
+Miki: "Ahhh, Kiri-chin is being rape assaulteeed!"
+//That's a nukige term if I've ever read one, so here's a high class reference to the masterpiece that is http://vndb.org/v1292. (Yes, it's the same term.) -GHS
+TP
+
+GL 1 TCMM0007
+GS 1 1
+GS 2 1
+GP 1 40 0
+GP 2 340 0
+SEF 109 0
+WVP 0 vfCCC3018msa015
+//見里「行ってはダメ！」
+Misato: "You cannot go!"
+TP
+
+WVP 0 vfCCC3018mki023
+//美希「でも霧ちんが……霧ちんがー！」
+Miki: "But Kiri-chin will... Kiri-chiiin!"
+TP
+
+GL 1 TCMM0003
+GI 1 0
+WVP 0 vfCCC3018msa016
+//見里「もう助からないわ……」
+Misato: "We cannot save her anymore, no..."
+TP
+GL 2 TCYM0002
+GI 2 0
+
+WVP 0 vfCCC3018mki024
+//美希「そんなっ、このままじゃ霧ちんの貞操が……」
+Miki: "But if this continues Kiri-chin's chastity will be..."
+TP
+
+WVP 0 vfCCC3018msa017
+//見里「佐倉さんの犠牲を無駄にしないためにも、逃げましょう！」
+Misato: "Let us escape, so that Sakura-san's sacrifice will not have been in vain!"
+//Although Kiri has no problem, it's Misato the first to want to run. After all, she knows Taichi's not going to do anything, does she. -GHS
+TP
+
+WVP 0 vfCCC3018mki025
+//美希「霧ちん……ごめん……きみのこと忘れないっ」
+Miki: "Kiri-chin... sorry... I shall never forget you!"
+TP
+GL 2 TCSK0001
+GP 2 220 0
+GS 3 0
+GS 1 0
+GS 2 1
+SEF 109 0
+
+WVP 0 vfCCC3018kri009
+//霧「ちょっと嘘でしょう！？　先輩！　美希ー！　ひとでなしーっ！」
+Kiri: "Wait, are you kidding?! Senpai! Mikiii! You aren't humaaan!"
+//Her sorta-catchphrase it seems. -GHS
+TP
+
+//太一「観念するんだな佐倉霧……いや……愛奴隷・佐倉霧！」
+Taichi: "Resigned to your fate, are you, Sakura Kiri... no... Love Slave Sakura Kiri!"
+TP
+
+//フェンスぎわに追いつめた。
+I corner her next to the fence.
+TP
+GL 2 TCSK0004
+GI 2 0
+WVP 0 vfCCC3018kri010
+//霧「ぐ、ぐ、ぐ～」
+Kiri: "Ngh, ngh, ghhh～..."
+TP
+
+//半泣きだ。
+She's half-crying.
+TP
+
+//ますますそそられる。
+I am more and more excited.
+TP
+
+WVP 0 vfCCC3018kri011
+//霧「ぐ、ぐ、ぐ……さ、さわるな痴漢ーーーーーーーーっ！！」
+Kiri: "Ngh, ngh, ngh... do-, don't touch me molesteeeEEEEEER!!!"
+TP
+WVS 1 1
+//HACK stop music -GHS
+GL 5 bgcc0000d
+GP 5 0 0
+WVP 2 se003 1 0
+GI 5 0
+SEF 109 0
+//太一「ぐあーっ！」
+Taichi: "Gw'haaa!"
+TP
+
+//キレた霧に蹴倒された。
+Kiboshlessly kickdowned by Kiri.
+//This one's just poetic license through and through. Also, not zubaaan'd... ah, the CG has him with pants so it's inconsistent. NOW he notices! -GHS
+TP
+
+GL 0 bgcc0007
+GS 0 1
+GS 5 0
+GS 4 0
+GS 3 0
+GS 2 0
+GS 1 0
+SEF 109 1
+//太一「ぐぬう」
+Taichi: "Gw'nuh."
+TP
+
+//身を起こすと、三人はあたふたと校内に消えていくところだった。
+As I was getting up, the trio were vanishing inside the school building with feverish haste.
+TP
+
+//太一「……うう……ううう」
+Taichi: "...ngh... ngggh..."
+TP
+
+//泣いた。
+I cried.
+//...meaning he can... -GHS
+TP
+
+//屈辱の涙だった。
+These were the tears of humiliation.
+//...for himself. -GHS
+TP
+
+GL 5 BGCC0000A
+GI 5 1
+WVP 1 bgm016.ogg 0 0 0
+//HACK to sky, BGM "Fated". This is officially not intended to be funny anymore, although Taichi still isn't being serious enough. -GHS
+
+
+//こんな悲しいことがあるだろうか。
+Is this sorrowful thing the truth then?
+TP
+
+//人間の価値は外見なのか。
+Is the value of a human in the looks?
+TP
+
+//普段は可愛いとか言ってくれたのも……全部嘘なのか。
+I'm always being called 'cute' and 'adorable' and all that... are they all lies, then?
+//This is also unserious of him; he always has a problem being called 'cute', as that's not manly. -GHS
+TP
+
+//白い髪。独特な虹彩を持つ瞳。鼻も少し曲がってるかも。
+White hair. Pupils with a peculiar iris. Nose maybe a little crooked.
+TP
+
+//奇異な風貌に見えるのは仕方ない。
+With an appearance this bizarre it has to be expected.
+TP
+
+//だが、変えようがないじゃないか！
+However, there's no way I can change that can I?!
+TP
+//マイケルのように、整形しろとでも。
+Like Michael, there's still plastic surgery, but...
+//I think the reason this is being drilled in so hard (by this thing's standards) is because of the irony of Taichi being already de-facto albino. -GHS
+TP
+
+//だいたい目も髪も整形なんてできない。
+There's no plastic surgery possible for eyes or hair in the first place.
+TP
+
+//それに……負けを認めているみたいでいやだ。
+And then... it would be unacceptably close to admitting defeat.
+TP
+
+//ああ～。
+Awww～.
+TP
+
+//人に拒絶されるのは本当につらいなあ……。
+Being rejected by people is truly heartbreaking innit...
+//Desire for acceptance... -GHS
+TP
+
+//なんのために道化を演じているのか、たまにわからなくなる。
+Sometimes, I just stop understanding why I keep putting on all this buffoonery.
+//...threats of moral blackmail... -GHS
+TP
+
+//俺は物語の主人公のように皆に愛される存在を目指しているだけなのになぁ。
+But I got no aim except to be a being loved by everyone, like the hero of a tale, nothing else!
+//...impossible goals... -GHS
+TP
+
+//少し誇張しすぎてカリカチュアライズな面もあるにはあるが。
+Well, I often exaggerate things a slight bit, and it's true that there's also a side of this that's a caricature, but...
+//...inadequate admissions of errors... (left generalized because it's also his problems that he's exaggerating/caricaturing, saying without saying) -GHS
+TP
+
+//ある……けど……さ……。
+There is... but... dunno...
+//...and perseverance on the wrong road. Splendidly human. -GHS
+TP
+
+//太一「おおう」
+Taichi: "CoOoOovEeEr... diIiIsguiIiIse..."
+//覆う oou. Of course it's "sob". Of course... -GHS
+TP
+
+//嗚咽。
+Odd sobbing moans.
+TP
+
+//世界はどこまでも残酷だった。
+The world was harshness, anywhere, anytime.
+TP
+
+GO 5 1
+//HACK to rooftop -GHS
+
+//うなだれる。
+I hang my head.
+TP
+
+//チ○ポ出てた。
+My p0n00 was out.
+//Wall of text justifying why references to Fate/Stay Night doujins are every bit as perfectly appropriate as ones to Kagetsu Tohya doujins. -GHS
+TP
+
+WVS 1 1
+SEF 101 0
+//HACK stop music, shake screen -GHS
+
+
+//太一「なんだそりゃあっ！」
+Taichi: "What the hell is this!"
+TP
+
+//しかも精神的に虐げられたせいで、ギンギンになっているではないか。マゾだから。
+And furthermore, didn't it grow all twangy in ecstasy because I was being emotionally oppressed! Of course, I'm a masochist.
+//And finally, the real monster is out. The scene above is actually the real reason why Taichi gets rejected: too much blatant sex drive. There's no other monster. -GHS
+TP
+
+//ズボンとパンツは。
+Trousers and undies where...
+TP
+
+//太一「うおっ、あんなところに？」
+Taichi: "Whoa, all the way over there?"
+TP
+
+//倒れていた箇所。
+That's the spot I was collapsed in.
+TP
+
+//身につける。
+I wear them back.
+TP
+
+//太一「そうか……おてぃむちむを出してたせいか……」
+Taichi: "I get it... it's because the pyy-pyy was out then..."
+//O-timchim, pee-pee in a weird cutesy way -GHS
+TP
+
+//少し救われた。
+That helped me feel a little better about all this.
+TP
+
+//太一「にしても、どうして下半身脱いでたのかな……俺」
+Taichi: "Even then, why did you go and strip off the lower half of the body... me."
+//He does that on the TOP half multiple times, such as CCA0002. He certainly believes he does that unconsciously, see CCB2010, CCA0017A. One of the rare times when readers are explicitly shown how wrong he can get with his self-diagnosis. -GHS
+TP
+
+//謎が多い事件だった。
+This was an incident with many mysteries.
+TP
+
+//と言いますか。
+Or should I say,
+TP
+
+//太一「……見られた……三人に」
+Taichi: "...I was seen... by all three."
+TP
+
+//死にたくなった。
+I wanted to die.
+TP
+
+//こんな時こそポジティブ・シンキング！
+And in occasions like these: Positive Thinking!
+TP
+//太一「フルスロットルになっていればこそ、火星人であることが露見しなかったのではないか！」
+Taichi: "Wasn't it because I become Full Throttle that my Martianhood was discovered?!"
+//See the beginning of this scene. That's him FT. -GHS
+TP
+
+WVP 1 bgm006.ogg 0 0 0
+GL 1 TCSH0000
+GL 2 TCST0000
+GP 1 20 0
+GP 2 340 0
+GS 1 1
+GS 2 1
+SEF 109 0
+//HACK music "happy-go-lucky", Tomoki doll, and actually show the Sakuraba doll that's loaded here -GHS
+WVP 0 vmCCC3018sku000
+//桜庭「仮性なのか？」
+Sakuraba: "Is that because of the symbol of Mars that you have?"
+//TL Note: ♂ -GHS
+TP
+
+//太一「成長期だからな」
+Taichi: "That's just because it's in a period of growth."
+//I think the pun involves 性徴期 "period of sexual characteristics" (sic), actually, but this should still work. For those who get there late, the discussion involves Taichi's dick. -GHS
+TP
+
+//GL 2 TCST0000
+//GP 1 20 0
+//GP 2 340 0
+//GS 2 1
+//SEF 109 0
+//HACK no need here.
+
+WVP 0 vmCCC3018yki000
+//友貴「ふーん。知らなかったよ。大変だね」
+Tomoki: "Huuuh. Didn't know that. How troublesome."
+TP
+
+//太一「いつ来たっ」
+Taichi: "How long you've been there!"
+TP
+
+//よよと泣き崩れた。
+I break down crying profusely.
+TP
+
+//……見られたばかりか聞かれた……。
+...not only seen but heard...
+TP
+
+//もう俺のシモ関係はズタボロだ。
+Now the connections with my underneathers are but shredded tatters.
+//Not a real word (.........), but it has to mean both "those below me in rank" and "TAKE A GUESS". -GHS
+TP
+
+WVP 0 vmCCC3018yki001
+//友貴「今だよ。ほら、こんなところだろう？」
+Tomoki: "Just now. So... here, right?"
+TP
+
+//二人は機材を抱えていた。
+The two were bringing in equipment.
+TP
+
+GL 1 TCSH0003
+GI 1 0
+
+WVP 0 vmCCC3018sku001
+//桜庭「案ずるな太一」
+Sakuraba: "Be unconcerned Taichi."
+TP
+
+//太一「なにがいね……」
+Taichi: "'bout what now..."
+TP
+GL 1 TCSH0002
+GI 1 0
+
+WVP 0 vmCCC3018sku002
+//桜庭「サイズと膨張率の関係で、きっとどうしても皮が余ってしまうんだ」
+Sakuraba: "Within that size and expansion ratio there is certainly skin to spare."
+//This doesn't make much sense, but being Sakuraba, it's likely he's actually not talking about his penis. ...wow, I actually can't believe that sentence has to contain a 'not'. -GHS
+TP
+
+//太一「嬉しくねぇよそんな慰められ方！」
+Taichi: "It don't make me happy being consoled like that!"
+TP
+
+WVP 0 vmCCC3018yki002
+//友貴「とりあえずこれどうする？」
+Tomoki: "Anyway, how's this for now?"
+TP
+
+//太一「お、サンクス。適当に置いといて。で、責任もって接続してくれ」
+Taichi: "Oh, thanks. Put them somewhere proper. Then take your responsibility and connect them."
+//Seems to have odd undertones (odd = transparently sexual). Since the whole thing above was cut, and the two just ignore his questions because recording new audio = :money:, Taichi in the console version's a lot more pissed. -GHS
+TP
+GL 2 TCST0003
+GI 2 0
+
+WVP 0 vmCCC3018yki003
+//友貴「使われる……いいように使われる……」
+Tomoki: "I'm being exploited... just exploited as convenient..."
+//See Miki above... -GHS
+TP
+
+
+GL 2 TCST0000
+GI 2 0
+WVP 0 vmCCC3018yki004
+//友貴「あとは何がいりそう？」
+Tomoki: "What'cha need next?"
+TP
+
+//太一「バッテリーがいるんじゃないかな。校内にあったっけ？」
+Taichi: "We need batteries don't we now. Got any at school?"
+TP
+
+WVP 0 vmCCC3018yki005
+//友貴「合宿で使ったやつがあったかな？」
+Tomoki: "The ones we used for training camp, don't we got those?"
+//So they don't rob them from the cars? How did Misato forget? Maybe it's just a minor plot hole, but given how the bread in the cafeteria goes from "discarded by Sakuraba" to "never brought in in the first place"... -GHS
+TP
+
+//太一「あとテントがいる。機材が熱でやられるし、雨振ったらあれだし」
+Taichi: "Next we need a tent. The heat'll damage the equipment, and it'll get washed down if it rains."
+TP
+
+//GL 1 TCSH0002
+//GI 1 0
+//HACK Yes, thanks for reloading the same doll that's displayed. -GHS
+WVP 0 vmCCC3018sku003
+//桜庭「テントならここに三つあるけどな」
+Sakuraba: "But if tents we need, there are three right here."
+TP
+
+//太一「なんだってジョン？　どこにだい？」
+Taichi: "What did you say, John? Where they are?"
+//Unsure of the reference if any... unless he means "a" john? Maybe it's still John Lennon, see CCA0027. -GHS
+TP
+
+//わざとらしく問いかける。
+I forced out the question.
+TP
+
+GL 2 TCST0004
+GI 2 0
+WVP 0 vmCCC3018yki006
+//友貴「悪いけどオチは読めてる」
+Tomoki: "Sorry, but I already get the punchline to that."
+TP
+
+//俺も。
+Me too.
+TP
+
+WVP 0 vmCCC3018sku004
+//桜庭「俺たちの……ズボンの中にな」
+Sakuraba: "They are... inside our trousers."
+TP
+
+//太一「わはははは！」
+Taichi: "Wahahahah!"
+TP
+GL 2 TCST0005
+GI 2 0
+
+WVP 0 vmCCC3018yki007
+//友貴「あはははっ」
+Tomoki: "Ahahahah!"
+TP
+
+GL 1 TCSH0000
+GI 1 0
+WVP 0 vmCCC3018sku005
+//Sakuraba: "Sob, this conversation's going nowhere..."
+//桜庭「フフフ」
+Sakuraba: "Heheheh."
+TP
+
+//でも受ける。
+But it still works.
+TP
+
+//三馬鹿、下ネタだーいすき。
+Us Three Stooges, we reaaally love blue jokes.
+//See CCZAS -GHS
+TP
+
+GL 2 TCST0000
+GI 2 0
+
+WVP 0 vmCCC3018yki008
+//友貴「じゃあれだね？」
+Tomoki: "Then it's that, innit?"
+TP
+
+//太一「え、なになに？」
+Taichi: "Eh, what what?"
+TP
+GL 2 TCST0005
+GI 2 0
+WVP 0 vmCCC3018yki009
+//友貴「ぷぷっ……ふ、普段はたたんでしまってある」
+Tomoki: "Pffft... no-, normally they are always folded."
+TP
+
+//太一「わははははは！」
+Taichi: "Wahahahahahah!"
+TP
+
+GL 1 TCSH0000
+GI 1 0
+WVP 0 vmCCC3018sku006
+//桜庭「はははっ」
+Sakuraba: "Hahahah!"
+TP
+
+//芋蔓式に受ける。
+We make 'em one after another.
+TP
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCC3018sku007
+//桜庭「で、高さに個人差があったりな」
+Sakuraba: "And, there's an individual difference in height."
+TP
+
+WVP 0 vmCCC3018yki010
+//友貴「ぷぷ！！」
+Tomoki: "(Snort)!!!"
+TP
+
+//太一「あとさ、ワンタッチのテントってあるじゃん。ポンッって弾けるみたいに組み上がる小さなテント。あれみたいに興奮したら瞬間的ににょっきり設営―――」
+Tomoki: "And, and, they are One-Touch Tents ain't they. Tiny tents that assemble themselves by bursting open with a 'pop'. Add some excitement and just like that, up they rise as if instantly erected---"
+TP
+
+WVP 0 vmCCC3018yki011
+//友貴「……っ……っ！！」
+Tomoki: "...pft... pft!!!"
+TP
+
+WVP 0 vmCCC3018sku008
+//桜庭「……くくくっ」
+Sakuraba: "...(snooort snort snort)!"
+TP
+
+//互いの肩を叩きながら、腹を抱えた。
+We slap our shoulder reciprocally as we hold our sides in laughter.
+TP
+
+//太一「特許取れ特許」
+Taichi: "Patent 'em! Patent!"
+TP
+
+WVP 0 vmCCC3018sku009
+//桜庭「バイオ技術を応用したテントだな」
+Sakuraba: "Our tents are applied biotechnology."
+TP
+
+WVP 0 vmCCC3018yki012
+//友貴「お、おなか痛いんですけど」
+Tomoki: "M-, my stomach's hurting now..."
+TP
+
+//太一「で、ヒット商品になってインタビューとかで発想の元とか訊かれてさ……ち○ぽですって答えんのな―――プッ！」
+Taichi: "And, if it becomes a hit and we're like asked in interviews where we got the inspiration from... we can answer, 'our dicks'--- pfft!"
+TP
+
+//自分で吹いてしまった。
+Damn, I laughed at it myself.
+TP
+
+WVP 0 vmCCC3018sku010
+//桜庭「……っっっ」
+Sakuraba: "...(snort)"
+TP
+
+WVP 0 vmCCC3018yki013
+//友貴「もっ、やめっ、やめ、腹筋の限界……」
+Tomoki: "Enough, stop!, stop, my abs are at the limit..."
+TP
+
+//WVS 1 1
+//HACK no need to stop music here -GHS
+
+//三人で息を整えた。
+The three of us reset our breathing.
+TP
+
+//太一「とりあえず、ちゃんとしたテントだな」
+Taichi: "Anyway, we need a proper tent don't we."
+TP
+
+//話を元に戻す。
+The conversation returns to its origin.
+TP
+
+GL 2 TCST0000
+GI 2 0
+WVP 0 vmCCC3018yki014
+//友貴「あー……そういや去年の部費の使用予定にあったよな。あれって買ったのかな？」
+Tomoki: "Ahhh... didn't we have some some club budget reserved just for that last year. Did we even buy it after all?"
+//Their first response still isn't "let's go to Atomic GS and pilfer some". Interesting. -GHS
+TP
+
+//太一「すまん……それ俺のせいで流れたんだ」
+Taichi: "Sorry... that was flushed away and I'm to blame."
+TP
+
+WVP 0 vmCCC3018yki015
+//友貴「え？」
+Tomoki: "Eh?"
+TP
+
+WVS 1 1
+//HACK stop music here -GHS
+
+
+GL 1 TCSH0003
+GI 1 0
+WVP 0 vmCCC3018sku011
+//桜庭「……新川豊の件だな」
+Sakuraba: "...the Shinkawa Yutaka accident."
+TP
+
+//その一言で、粛とした空気。
+Those few words made the air solemn.
+//See CCC0007. -GHS
+TP
+GL 2 TCST0004
+GI 2 0
+WVP 0 vmCCC3018yki016
+//友貴「……そうだったね」
+Tomoki: "...that's what it was."
+TP
+
+//太一「まあ、俺はいろいろいわくもあるしなぁ」
+Taichi: "Well, there's been my involvement too, in many ways."
+//They probably don't know he was there on the rooftop. -GHS
+TP
+
+GL 1 TCSH0000
+GI 1 0
+WVP 0 vmCCC3018sku012
+//桜庭「気にするな」
+Sakuraba: "Don't worry."
+TP
+
+WVP 1 bgm002.ogg 0 0 0
+
+WVP 0 vmCCC3018sku013
+//桜庭「おまえは一人でやり遂げる男だと、俺は信じている」
+Sakuraba: "You are a man that can get things done on his own, I believe that."
+//Probably some of the most touching words of encouragement Taichi will ever get in his life. No, he's not talking about the antenna. The penis jokes were before. -GHS
+TP
+
+//太一「一人でやらせる気なのかよ！」
+Taichi: "You're just trying to get me to do this stuff on my own don't you!"
+TP
+
+//太一「というかなんのためにハガキを出したんだよ俺は！」
+Taichi: "Do I even need to say why I sent those postcards dammit!"
+TP
+
+GL 1 TCSH0002
+GI 1 0
+WVP 0 vmCCC3018sku014
+//桜庭「信頼。美しい言葉だ」
+Sakuraba: "Trust. What a beautiful word."
+//See CCC3015. He's just never responding to his idiocies at all. -GHS
+TP
+
+GL 2 TCST0003
+GI 2 0
+WVP 0 vmCCC3018yki017
+//友貴「めちゃめちゃずるい使い方だよ……」
+Tomoki: "The way you use that is messed up and dishonest tho..."
+TP
+
+//太一「ええい、いいからテントとバッテリーをひろってこい！」
+Taichi: "Cooome now, listen up and go get me a tent and some batteries!"
+TP
+
+
+GL 1 TCSH0000
+GI 1 0
+
+WVP 0 vmCCC3018sku015
+//桜庭「では俺はバッテリーを」
+Sakuraba: "Then I will get batteries."
+TP
+GL 2 TCST0000
+GI 2 0
+
+WVP 0 vmCCC3018yki018
+//友貴「僕はテントか……一人で持てるのか？」
+Tomoki: "I'll get a tent then... but do I got to bring it alone?"
+//Source unsaid, but assumed Atomic. No mention of whether they'll pay for it, of course. -GHS
+TP
+
+//太一「車使えば？」
+Taichi: "How 'bout a car?"
+TP
+
+WVP 0 vmCCC3018yki019
+//友貴「……免許持ってない……って、そうか」
+Tomoki: "...don't got a license... wait, right!"
+TP
+
+//太一「フフフ、ポリはいないんだぜマイフレン」
+Taichi: "Hoh hoh hoh, the pigs ain't anymore, Mai Furendo!"
+TP
+
+//そもそも勝手に放送局作ってしまうことがすでに犯罪である。
+In the first place, just up and making a broadcast channel would already be a crime.
+//Though if Student Council President Mizum-- Club President Misato could get approval for 84% Taichi to join, the odds she doesn't have a license for this already are close to zero. It's to stare in disbelief at how easily everything fits. -GHS
+TP
+
+WVP 0 vmCCC3018yki020
+//友貴「運転してみたい。車のことはよく知らないけど」
+Tomoki: "I wanna try driving! But I'm not really familiar with cars 's all."
+//He doesn't say he's TOTALLY unfamiliar with them. Of course: he's practically normal. -GHS
+TP
+
+//太一「マニュアル車って方が簡単だぞ」
+Taichi: "Manual transmission cars are simple yannow."
+//See CCA0011C, CCA0018B. And this is why Taichi can't drive. Though it doesn't matter, since he can ride a bike, even if he doesn't make much of a big deal about it. -GHS
+TP
+
+WVP 0 vmCCC3018yki021
+//友貴「マニュアル？」
+Tomoki: "Manual?"
+TP
+
+//太一「ああ。ペダルが三つある方」
+Taichi: "Yeah. The ones with three pedals."
+TP
+
+//太一「職員用の駐車場ですぐ見つかると思う。ペダル二つの方はダメだぞ。あれは素人が動かすとかなり危険だからな」
+Taichi: "I think you'll find some quick if you look in the faculty members parking lot. Just don't get the ones with two pedals, 'K. Those are fairly dangerous for an amateur to operate, so you know."
+//It only looks like he's trolling him, because he truly believes this. And so... does he truly believe his lavatory is 8 tatami mats? Because he seems to truly believe there's 8 people around here. -GHS
+TP
+
+GL 2 TCST0004
+GI 2 0
+WVP 0 vmCCC3018yki022
+//友貴「おーけー」
+Tomoki: "Okkey."
+TP
+
+//太一「じゃラバはバッテリーな」
+Taichi: "So, Sack's with batteries."
+TP
+GL 1 TCSH0001
+GI 1 0
+//HACK smily Sakuraba (instead of reloading the same doll) -GHS
+WVP 0 vmCCC3018sku016
+//桜庭「ああ、任せておけ」
+Sakuraba: "Yeah. Leave it to me, K."
+//Damn translingual-sounding non-puns... -GHS
+TP
+
+GL 1 TCSH0003
+GI 1 0
+WVP 0 vmCCC3018sku017
+//桜庭「一つ質問なんだが」
+Sakuraba: "Got one question though."
+TP
+
+//太一「ん？」
+Taichi: "Hm?"
+TP
+
+WVP 0 vmCCC3018sku018
+//桜庭「それはどんな形をしているんだ？」
+Sakuraba: "What shape do those have?"
+TP
+
+//太一「友貴、桜庭も連れて行けよ。でテントとバッテリー両方な」
+Taichi: "Tomoki, take Sakuraba with you. You both get tent and batteries."
+TP
+
+GL 2 TCST0003
+GI 2 0
+WVP 0 vmCCC3018yki023
+//友貴「……ああ、そうするよ」
+Tomoki: "...ah, I guess so."
+TP
+
+//桜庭はスタンドアローンで使うと泣きをみるしょっぱい男だった。
+Sakuraba was the kind of overspicy guy who will just make a mess of things when used stand-alone.
+//"He fails at everything" + "that's why he loves curry bread without loving curry*" + "he's too hard to use". *=curry is Christianity, so being too obvious about it won't work. -GHS
+TP
+GS 2 0
+GS 1 0
+SEF 109 0
+//二人は去った。
+The two left.
+TP
+
+//太一「さて」
+Taichi: "So then."
+TP
+
+//そろそろ昼だろうか。
+It should be noon just about now.
+TP
+
+//腹が減った。
+Tummmy felt empty.
+TP
+
+//曜子ちゃんの弁当があるわけだが……例によって二人分だな。
+Youko-chan's bento's there but... it's for two, as her usual.
+TP
+
+//誰かと食うか。
+Who should I eat this with.
+TP
+
+WVS 1 1
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+//二年教室……不在。
+Second year room... uninhabited.
+TP
+GL 0 evcc0011a
+$CGevcc0011a = 1
+GS 0 1
+SEF 155 0
+//冬子は本当にどうしたんだろう。
+I really want to know what's up with Touko.
+TP
+
+//ハガキ見なかったのか。
+Didn't she see the postcard?
+TP
+
+//……お嬢様だから自分でポストとか確認しないのかもしれない。
+...being an ojou-sama then she wouldn't check the post on her own perhaps.
+//But she'll check a frickin' arrow letter, see CCB0022. Admittedly, that one might have been fired right into her bedroom as she was sleeping. -GHS
+TP
+
+//あとこんなご時世に、まさか郵便が来るとは考えないか。
+And, could it be she just doesn't even think that the mail would be delivered in times like this?
+//Tomoki and Sakuraba sure did, and Sakuraba's even more of a wealthy ass than Touko is. -GHS
+TP
+//あとで様子、見に行ってみるか。
+I should just go see how's things later on.
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+WT 500 0
+WT 500 1
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+
+WVP 1 bgm003.ogg 0 0 0
+
+//で、一年教室。
+So, the first years' classroom.
+TP
+
+//張り紙の位置とか同じだけど、たまたまだろう。
+The position of the posters is the same, but that's just accidental.
+//See BG -GHS
+TP
+
+//フラワーズはいない。
+The Flowers aren't here.
+TP
+
+//別の教室も見てみるか。
+I try looking in another classroom.
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+WT 500 0
+WT 500 1
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+//いない。
+Not here.
+TP
+
+//ここも一緒だ。
+Here's the same.
+TP
+
+//本の傾き具合まで似ている。
+Even the inclination of the books is similar.
+//Left, near the window -GHS
+TP
+
+//次は、と。
+Next then.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+WT 500 0
+WT 500 1
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+//黒板消しの位置まで一緒である。
+Even the position of the blackboard eraser is the same.
+//Good questions to be had over this sequence. This is "Class X" and he's never leaving the room, is he? It's just masqueraded as an odd joke with regards to budget limitations, like the oddities in CCC3021. -GHS
+TP
+
+//こういうのを同一性があると言うな。
+It can be said that there is identity, can't it.
+//I suspect it should be unclear whether this is rhetorical or not. -GHS
+TP
+
+//でも、偶然なのだ。そうなのだ。
+But it is assuredly coincidence. Assuredly it is.
+//Sure. After all, the weeks aren't all the same, are they. -GHS
+TP
+
+//とりあえず美希も霧もいない。
+For the time being, there is neither Kiri nor Miki.
+TP
+
+//……本気で逃げやがって。
+...they really ran away.
+TP
+
+//どこで食べよう。
+So where to go eating.
+//Possible choice removed here, see main script flow file -GHS
+TP
+
+
+
+
+
+
+IF $KIRIBAD == 0 $B = 1
+IF $KIRIBAD == 1 $B = 2
+
+
+
+RET

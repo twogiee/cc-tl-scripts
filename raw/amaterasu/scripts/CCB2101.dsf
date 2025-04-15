@@ -1,0 +1,1160 @@
+
+TWS 0
+
+IF $KAISOU == 1 JMP SCENE001
+
+
+
+
+GL 0 bgcc0003
+GS 1 0
+GS 0 1
+SEF 155 1
+WT 500 0
+
+
+WVP 1 bgm004.ogg 0 0 0
+
+Taichi: "Fuwaa......"
+TP
+
+
+Waking up.
+TP
+
+
+WVP 0 vfCCB2101fyu000
+Touko: "Kuu...kuu..."
+TP
+
+
+Touko was sleeping next to me.
+TP
+
+
+Lightly breathing.
+TP
+
+
+She seemed to be sleeping soundly.
+TP
+
+
+Taichi: "Nuu."
+TP
+
+
+She'd crawled in here in the middle of the night.
+TP
+
+
+A woman with deep sins.
+TP
+WVS 11
+
+I needed to sexually harass her as I'd promised.
+TP
+
+
+I had morning wood anyway, so that quasi-sexual desire was making my hips ache.
+TP
+WVP 1 bgm010.ogg 0 0 0
+
+
+
+
+
+
+
+
+
+
+JMP N_SCENE001
+:SCENE001
+
+WVP 1 bgm010.ogg 0 0 0
+GL 0 bgcc0003
+GS 0 1
+SEF 109
+
+
+
+:N_SCENE001
+
+
+
+
+
+Taichi: "............"
+TP
+
+IF $nonero == 1 JMP tokoHend3
+
+GL 4 sgcc0020
+$CGsgcc0020 = 1
+GP 4 0 0
+GS 4 1
+SEF 109 1
+
+I did this.
+TP
+
+
+Taichi: "......nn......"
+TP
+
+
+I don't think she'll bite.
+TP
+
+
+I tried moving back and forth.
+TP
+
+
+WVP 0 vfCCB2101fyu001
+Touko: "Nn......nnfu......"
+TP
+
+
+I didn't feel that good.
+TP
+
+
+Since there's no direct stimulus.
+TP
+
+
+But it was incredibly exciting.
+TP
+
+
+My biological phenomenon changed into lust itself.
+TP
+
+
+I touched her short tongue with the tip.
+TP
+
+
+WVP 0 vfCCB2101fyu002
+Touko: "Nn...*kiss*......nn, *kiss*......"
+TP
+
+
+She sucked on it.
+TP
+
+
+A happy miscalculation.
+TP
+
+
+When I slowly moved in and out, she sucked as if to keep it from escaping.
+TP
+
+
+Is this one of Touko's infantile instincts?
+//The sucking reflex in mammals is classified as either a "primitive", "infant", "infantile", or "newborn relfex". Alternatively consider "instincts" as a happy medium between what it is scientifically and what Taichi said in your TL (habit). - pondrthis
+//That's kinda disturbing.... - Sheeta
+TP
+
+
+She sucked strongly, the way one would suck their thumb.
+//Technically, not "their". "His or her". Dunno if you think it's worth the awkwardness. - pondrthis
+TP
+
+
+I've heard breast-feeding babies can suck surprisingly hard.
+TP
+
+
+That was how it felt.
+TP
+
+
+WVP 0 vfCCB2101fyu003
+Touko: "Nnn, nnmu, nn, nn!......uuun."
+TP
+
+
+When I tried to pull out, she sucked harder.
+TP
+
+
+When I pushed in, it slid inside easily.
+TP
+
+
+Her saliva had begun to leak onto the pillow.
+TP
+
+
+WVP 0 vfCCB2101fyu005
+Touko: "Nnn, nnn......nnnnn......nnn......"
+TP
+
+
+This feels pretty good.
+TP
+
+
+Partly because this excited me, it felt like I'd cum really quickly.
+TP
+
+
+Taichi: "There you go, there you go."
+TP
+
+
+WVP 0 vfCCB2101fyu004
+Touko: "Nnpu......nn, nnmu......nnn, nnn, nnuuu."
+TP
+
+
+Her tongue reminded me of the clapper inside a bell.
+TP
+
+
+She was trying quite forcefully to make me penetrate her.
+TP
+
+
+Taichi: "Uu."
+TP
+
+
+Strong.
+TP
+
+
+But that's good.
+TP
+
+
+I pulled back my hips.
+TP
+
+
+Slowly, to avoid waking her.
+TP
+
+
+WVP 0 vfCCB2101fyu005
+Touko: "Nnnnn, nnnnnnn..."
+TP
+
+
+Touko disliked that.
+TP
+
+
+I entered.
+TP
+
+
+WVP 0 vfCCB2101fyu010
+Touko: "Nn, nnfu! Nnn, nnnnnnnnn..."
+TP
+
+
+Touko was content.
+TP
+
+
+I tried pushing against her cheeks.
+TP
+
+
+The sudden interruption of pressure made Touko's eyebrows narrow.
+TP
+
+
+When I tried to go in a perpendicular direction, her mouth moved against me.
+TP
+
+
+I rubbed against the rough part on her upper jaw.
+TP
+
+
+That was a good sensation.
+TP
+
+
+WVP 0 vfCCB2101fyu006
+Touko: "Nnn! Nnfu! Nn! Nn!......nnn......nnnn?"
+TP
+
+
+She was puzzled.
+TP
+
+
+I touched the bottom of the tongue she held up.
+TP
+
+
+WVP 0 vfCCB2101fyu007
+Touko: "Nnpu!"
+TP
+
+
+She disliked that.
+TP
+
+
+She must be uneasy if I'm not on top.
+TP
+
+
+I returned to that position.
+TP
+
+
+WVP 0 vfCCB2101fyu008
+Touko: "Nnnnn, nnn, nnu, uu! Nnn, nn, *kiss* *lick*... nnnnnn..."
+//Multiple onomatopoeia
+TP
+
+
+WVP 0 vfCCB2101fyu009
+Touko: "*kiss* *kiss* *lick!* Nnn, nnfu!......*kiss*...... aamu......nn!......"
+//Multiple onomatopoeia
+TP
+
+
+WVP 0 vfCCB2101fyu010
+Touko: "Nn, nnn, *lick* umun......fuaa......nnmu......nn, *kiss*......"
+TP
+
+
+Touko obeyed her instincts and continued sucking.
+TP
+
+
+Taichi: "......nn."
+TP
+
+
+Again her tongue tried to poke into me.
+TP
+
+
+The sensation of being pried open made the core of my hips ache.
+TP
+
+
+......she's really good when she's asleep......
+TP
+
+
+WVP 0 vfCCB2101fyu011
+Touko: "Aamu......*kiss!* *kiss* *kiss*......*lick!*......"
+//Multiple onomatopoeia
+TP
+
+
+Taichi: "Aaah."
+TP
+
+
+I moaned.
+TP
+
+
+My lower abdomen was faintly warm.
+TP
+
+
+Perhaps I should say it was permeating my organs.
+TP
+
+
+I was happy.
+TP
+
+
+WVP 0 vfCCB2101fyu012
+Touko: "Nnn, nnu, nn! Nn! Nnmu......hamu......*lick* *lick*......fua."
+//Multiple onomatopoeia
+TP
+
+
+She spat it out once, then moved the tip in and out between narrowed lips.
+TP
+
+
+A movement used to taste stick candies.
+TP
+
+
+Though this shouldn't have a flavor.
+TP
+
+
+WVP 0 vfcca0030fyu016
+Touko: "*lick* *lick*......nnmunnmu......nnnnn......"
+//onomatopoeia
+TP
+
+
+She swallowed again.
+TP
+
+
+Covering its entirety, and numbing it.
+TP
+
+
+WVP 0 vfCCB2101fyu013
+Touko: "Nnn, nnn, nnnnn, *kiss!*......ku!......fun...... nn......"
+TP
+
+
+Taichi: "Uuu..."
+TP
+
+
+WVP 0 vfCCB2101fyu014
+Touko: "Fua, aaun, nn! Nnnnn, nnnnnnnnnnn......*lick!*"
+TP
+
+
+I could tell I was gradually becoming more sensitive.
+TP
+
+
+Like this, in her mouth......
+TP
+
+
+I used my hips.
+TP
+
+
+I matched my rhythm with her sucking to produce the greatest stimuli.
+TP
+
+
+The part of her mouth I was entering and leaving became coated in saliva.
+TP
+
+
+WVP 0 vfCCB2101fyu015
+Touko: "Nnnnn, nnnn, mua, nn! *kiss*......*kiss* *kiss* *lick*"
+//Multiple onomatopoeia
+TP
+
+
+Sometimes she bit sweetly.
+TP
+
+
+Even that sharp pain was beautiful to me.
+TP
+
+
+Within those minute caresses, the sensations of her teeth, tongue and lips mixed together into chaos.
+TP
+
+
+Taichi: "......Touko."
+TP
+
+
+Somehow I need to save these naturally accelerating hips.
+TP
+
+
+WVP 0 vfCCB2101fyu016
+Touko: "Nn, nnmu! Fuuu......nnn......nnn......*kiss* *kiss*......*lick* nnmu......nnnnnnn, nnnnnnnnnnn!......"
+//Multiple onomatopoeia
+//In hindsight, the first time I noticed this was in a later script. This seems to be an H-scene, and I don't QC those.
+//Other H-scenes will probably also have tons of this. -VDZ
+TP
+
+
+Her suction increased.
+TP
+
+
+As if she was getting impatient with a mother's breast that wasn't producing.
+TP
+
+
+She earnestly licked up the little bit of fluid that came out of my tip.
+TP
+
+
+WVP 0 vfCCB2101fyu017
+Touko: "Nn, ru! *lick* *kiss* *kiss*......"
+//Multiple onomatopoeia
+TP
+
+
+As before, her tongue tried to pry inside my urethra to get at more of it.
+TP
+
+
+Taichi: "Waooo."
+TP
+
+
+This feels remarkably good.
+TP
+
+
+So much that my hips might give out.
+TP
+
+
+WVP 0 vfCCB2101fyu018
+Touko: "Nnnnnnnuu!"
+TP
+
+
+Touko seemed unsatisfied when the fake nipple ran away.
+TP
+
+
+I gently inserted it in deeply.
+TP
+
+
+WVP 0 vfCCB2101fyu019
+Touko: "Aau, nnmu, mun......*kiss* *kiss*"
+//Multiple onomatopoeia
+TP
+
+
+She was getting used to these back-and-forth motions.
+TP
+
+
+Touko seemed to be matching a vacuum cleaner's cycles.
+//I know zlich about vaccuum cleaners, so I'm sure that plurality or possessiveness are wrong. Å`IX
+TP
+
+
+If I pull back, she sucks it down, but if I push in she uses her tongue.
+TP
+
+
+Truly hibernation study. Instincts banzai!
+TP
+
+
+I'd already passed seven eighths of my limit.
+//He wouldn't say "It's almost time" if he's only passed "an eighth."-Spin
+TP
+
+
+It's almost time.
+TP
+
+
+Taichi: "It's almost time for your milk."
+TP
+
+
+I whispered, and as if she understood, Touko's cheeks loosened.
+TP
+
+
+Taichi: "Suck even stronger now."
+TP
+
+
+WVP 0 vfCCB2101fyu020
+Touko: "Fuu......nn, *kiss* *kiiiisssss!*"
+//Multiple onomatopoeia
+TP
+
+
+Uwa, intense.
+TP
+
+
+WVP 0 vfCCB2101fyu021
+Touko: "*kiss* *kiss* *kiiiiisssss*......*lick!*......nn! *kiiiisss!*"
+//Multiple onomatopoeia
+TP
+
+
+Aaah, I could cum anytime now.
+TP
+
+
+I made a mild piston motion.
+TP
+
+
+WVP 0 vfCCB2101fyu022
+Touko: "*kiss* *kiss*......nnnnn! *kiss*"
+//Multiple onomatopoeia
+TP
+
+
+The inside of my urethra felt like a vacuum.
+TP
+
+
+WVP 0 vfCCB2101fyu023
+Touko: "Nn, nnn......nnmu!......nnn!"
+TP
+
+
+WVP 0 vfCCB2101fyu024
+Touko: "*kiss* nnnnnnnnn! Nnnnnnnnnnnnnnnnnn!"
+TP
+
+
+I was being pushed into her mouth, being caressed by her, and being made to penetrate her.
+TP
+
+
+WVP 0 vfCCB2101fyu025
+Touko: "Nn! Nnfu!......*lick!*"
+TP
+
+
+At the same time her tongue pulled back, I released.
+TP
+
+
+WVP 0 vfCCB2101fyu026
+Touko: "......nnnnnnn! Nnnnnnnnnnnnnn!"
+TP
+
+
+With no hesitation, her throat began oscillating.
+TP
+
+
+That high-viscosity fluid, which should be hard to drink, was guided down her esophagus along with her saliva.
+TP
+
+
+WVP 0 vfCCB2101fyu027
+Touko: "*kiss* *kiss* *kiss!*"
+//Multiple onomatopoeia
+TP
+
+
+She was trying to take out all of it, even what was left in my urethra.
+TP
+
+
+I went dizzy from the pleasure.
+TP
+
+
+My hips narrowed slightly.
+TP
+
+
+WVP 0 vfCCB2101fyu028
+Touko: "Nn!......nnn!"
+TP
+
+
+My tip touched her throat.
+TP
+
+
+Down there where Touko's tongue wouldn't reach, her sphincter squeezed down on me.
+TP
+
+
+My remaining semen gushed out vigorously.
+TP
+
+
+WVP 0 vfCCB2101fyu029
+Touko: "......nnbu!......nn! Nn! Nn!......"
+TP
+
+
+As it had wished for that, her snow-white throat moved.
+TP
+
+
+Taichi: "......haa."
+TP
+
+
+That was great.
+TP
+
+
+I pulled out.
+TP
+
+
+My rod had gotten sticky from the mixed fluids, so I wiped it off with a tissue.
+TP
+
+
+
+
+$SNCCB2101 = 1
+
+
+
+IF $KAISOU == 0 JMP N_SCENE101
+RET
+
+
+:N_SCENE101
+
+
+
+
+WVS 1 1
+GS 4 0
+SEF 109 0
+
+IF $nonero != 1 JMP tokoHend4
+:tokoHend3
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+......
+TP
+
+............
+TP
+
+........................
+TP
+
+......she's really good when she's asleep......
+TP
+//Go ahead and call me a perv for thinking this is an important line. Å`IX
+
+:tokoHend4
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 1
+
+WVP 0 vfCCB2101fyu030
+Touko: "............nnn."
+TP
+
+Touko dimly opened her eyes.
+TP
+
+
+I pulled my pants back up like a flash of lightning.
+TP
+WVP 1 bgm003.ogg 0 0 0
+
+
+WVP 0 vfCCB2101fyu031
+Touko: "......Taichi......where are you?"
+TP
+
+
+Taichi: "In front of you."
+TP
+
+
+WVP 0 vfCCB2101fyu032
+Touko: "Nnn?"
+TP
+
+
+I stood by the side of the bed and changed the angle of my neck as I looked at her.
+TP
+
+
+WVP 0 vfCCB2101fyu033
+Touko: "......good morning, Taichi."
+TP
+
+
+Taichi: "Yeah."
+TP
+
+
+Okay, she doesn't know.
+TP
+
+GL 1 TCKT0006
+GP 1 235 0
+GI 1 1
+
+
+WVP 0 vfCCB2101fyu034
+Touko: "Nn......Taichiii."
+TP
+
+
+She stood up.
+TP
+
+
+She hugged me.
+TP
+
+
+Taichi: "!?"
+TP
+
+
+WVP 0 vfCCB2101fyu035
+Touko: "......TaaaichiÅÙ"
+TP
+
+
+Her kiss closed in.
+TP
+WVS 1 1
+
+
+Taichi: "ÅïÅìÅîÅïÅìÅîÅì!!?"
+SEF 101 0
+TP
+
+GL 1 TCKT0001
+GI 1 0
+WVP 0 vfCCB2101fyu036
+Touko: "......eh?"
+TP
+
+
+A dubious face.
+TP
+
+
+Not good.
+TP
+
+
+One step before displeasure.
+TP
+WVP 1 bgm011.ogg 0 0 0
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfCCB2101fyu037
+Touko: "Why'd you dodge meeee?"
+TP
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfCCB2101fyu038
+Touko: "It's just a morning kiss."
+TP
+
+
+She closed in again.
+TP
+
+
+Taichi: "Yeah, a morning kiss......okay, okay, please wait a bit."
+TP
+
+
+I threw back my head to run away.
+TP
+
+
+Since she was holding my neck I couldn't actually run.
+TP
+
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfCCB2101fyu039
+Touko: "Heeey, don't flee."
+TP
+
+
+I kissed Touko's forehead.
+TP
+
+
+Taichi: "Now, let's get changed."
+TP
+
+
+WVP 0 vfCCB2101fyu040
+Touko: "That's not enough. Do it right."
+TP
+
+
+Ku!......
+TP
+
+
+Taichi: "Right?"
+TP
+
+
+WVP 0 vfCCB2101fyu041
+Touko: "A kiss on the mouth. That's what you do in the mornings."
+TP
+
+
+Taichi: "Aaah, the mouth......the mouth, the mouth......"
+TP
+
+
+The mouth I ejaculated in.
+TP
+
+
+Taichi: "Okay, I'll do it. Close your eyes."
+TP
+
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfCCB2101fyu042
+Touko: "......nn, okay."
+TP
+
+
+Touko's upward face was a chestnut brown flower full of dreams and happiness.
+TP
+
+
+I touched my lips to her nose.
+TP
+
+
+Taichi: "Kiss."
+TP
+
+
+WVP 0 vfCCB2101fyu043
+Touko: "......Taichi, that's my nose."
+TP
+
+
+Taichi: "I'm sooorrry. I can't quite tell where your mouth is."
+TP
+
+
+WVP 0 vfCCB2101fyu044
+Touko: "What are you saying?"
+TP
+
+
+Taichi: "Is it here?"
+TP
+
+
+Her cheek.
+TP
+
+
+WVP 0 vfCCB2101fyu045
+Touko: "Taaaiiichiii, cut it out already......"
+TP
+
+
+Taichi: "Okay, it's right here, see?"
+TP
+
+
+The corner of her lips. The limit line.
+TP
+
+
+WVP 0 vfCCB2101fyu046
+Touko: "............nnn."
+TP
+
+
+Consequently, an unsatisfied face.
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfCCB2101fyu047
+Touko: "I get it, you want to brush your teeth first. You're trying to be sensitive."
+TP
+
+
+Taichi: "Thaaat's riiiight, Miss Touko. It's a bad habit I got from being born in France, hahahaha."
+TP
+
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfCCB2101fyu048
+Touko: "It's okay. Let's go brush together."
+TP
+
+
+Taichi: "Yes, let's brush our teeth until they're extra-sharp!"
+TP
+
+
+WVP 0 vfCCB2101fyu049
+Touko: "Dropped your guard!"
+TP
+WVS 1 0
+GO 1 1
+*kiss*
+TP
+
+Taichi: "........................!!"
+TP
+
+
+Tongue to tongue in an instant!?
+TP
+WVP 1 bgm011.ogg 0 0 0
+
+Uwaaaaaaaa!!
+SEF 101 0
+TP
+
+But I couldn't even scream.
+TP
+
+
+WVP 0 vfCCB2101fyu050
+Touko: "Nn! Taichiii......I love you......nn! Nnmu! *lick!*......"
+TP
+
+
+Uooooooo!!!
+TP
+WVP 0 vfCCB2101fyu051
+Touko: "*lick* *lick* *lick* *lick* *lick*..."
+//Multiple onomatopoeia
+TP
+
+Whisking.
+TP
+
+
+Taichi: "Nnnnnnnnnnnnnn!!?"
+TP
+
+
+WVP 0 vfCCB2101fyu052
+Touko: "Nnnnnnnn, nn! Nn! Nn!"
+TP
+
+
+As I shook my head left and right, she bit deeply into our lips.
+TP
+
+
+Taichi: "Nnbubu!!?"
+TP
+
+
+Karmic retribution.
+TP
+
+
+Those two words rushed around my brain.
+TP
+
+
+And at the end,
+TP
+
+Taichi: "......nn, *lick*......"
+TP
+
+
+Her saliva flowed into my mouth.
+TP
+
+
+Taichi: "........................ooa."
+TP
+WVS 1 1
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+I passed out.
+TP
+
+
+WVP 0 vfCCB2101fyu053
+Touko: "H-huh? Taichi? Hey, Taichi, hey!?"
+TP
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+WVP 1 bgm010.ogg 0 0 0
+
+GL 1 TCKT0005
+GP 1 235 0
+GI 1 1
+
+
+WVP 0 vfCCB2101fyu054
+Touko: "......but I'm surprised......to think Taichi would faint from my kiss..."
+TP
+
+
+Taichi: "Is that what happened......?"
+TP
+
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfCCB2101fyu055
+Touko: "Huhuhu."
+TP
+
+
+Touko was in an abnormally good mood.
+TP
+
+
+WVP 0 vfCCB2101fyu056
+Touko: "Maybe Taichi's just sensitive?"
+TP
+
+
+Taichi: "Ku!......"
+TP
+
+
+Humiliation.
+TP
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfCCB2101fyu057
+Touko: "You were pretty masochistic."
+TP
+
+
+Taichi: "......shut up you fellatio machine."
+TP
+
+
+GL 1 TCKT0001
+GI 1 0
+WVP 0 vfCCB2101fyu058
+Touko: "Eh? What's that?"
+TP
+
+
+Taichi: "It's nothing!"
+TP
+WVS 1 1
+WT 1000 0
+WT 1000 1
+
+RET

@@ -1,0 +1,254 @@
+GL 0 evcc0025
+//Sadly the previous script doesn't indicate much, but this is like Touko taking an arrow for Taichi, see CCB0023 when she doesn't jump to save him. -GHS
+$CGevcc0025 = 1
+GS 4 0
+GS 3 0
+GS 2 0
+GS 1 0
+GS 0 1
+SEF 10 0
+
+WVS 1 0
+
+//何が起こったのか。
+What could have happened?
+TP
+
+//理解できない。
+I cannot understand.
+TP
+
+//ただ。
+Just,
+TP
+
+//解析もできない感情に、翻弄されていた。
+I was at the mercy of emotions that could not be analyzed.
+TP
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 evcc0025
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 5
+//＊＊「＊＊＊＊！？」
+???: "****?!"
+//HACK All tags have been put to question marks in the console versions. The next one, for example, had to be necessarily Kiri. -GHS
+TP
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 evcc0025
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 5
+
+//＊「＊＊……」
+???: "**..."
+TP
+
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 evcc0025
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 5
+//＊＊「＊＊＊＊＊＊＊」
+???: "*******"
+TP
+
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 evcc0025
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 5
+//＊＊「＊＊＊＊＊＊……」
+???: "******..."
+TP
+
+//無数のノイズ。
+Interferences without number.
+TP
+
+//聞き取れない。
+Cannot understand what is being said.
+//CP CCB0022
+TP
+
+//俺は移動する。
+I move away.
+TP
+
+//その気にならなかった。
+I could not bear this.
+TP
+
+//ノイズから離れようと思った。
+I thought I had to distance myself from the interference.
+TP
+
+//フェンスに触れる。
+I touch the fence.
+TP
+
+//押すと、網目状の壁がゆっくりと除去される。
+With a push, the reticulate barrier is slowly removed.
+TP
+
+//空。
+The sky.
+TP
+
+//空に行こうと考えた。
+I was thinking that I wanted to go to the sky.
+TP
+
+
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 evcc0025
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 5
+//＊＊「＊＊＊＊＊＊っ！！」
+???: "******!!!"
+TP
+
+//一際大きなノイズが、背後から届いた。
+A noticeably large interference approached from behind.
+TP
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 10 0
+
+WVP 1 bgm021.ogg 0 0 0
+//世界が緋色に包まれた。
+The world was clad in a brilliant scarlet color.
+TP
+
+//色。
+Color.
+TP
+
+//緋色という色を、俺は見て取った。
+I did perceive the color known as 'brilliant scarlet'.
+//He's just looking upwards as he's fallen down on the rooftop, having had an attack. -GHS
+TP
+
+//耳元に風。
+Wind in my ears.
+TP
+
+//風を切って、飛んでいく俺。
+Cutting through the air, I fly.
+TP
+
+//太一「……はは」
+Taichi: "...hahah."
+TP
+
+//飛んでる違う。落ちてる。
+This isn't flying, I am falling.
+//Toy Story was 1995, though that's probably stretching it. -GHS
+TP
+
+//しかもコントじゃない。
+And this isn't a comedy sketch either.
+TP
+
+//リアル落下だ。
+This is a real-life drop.
+TP
+
+//イノセンス十代の得意技、ライフダイブ　アピールだ。
+The finishing move of the Innocent Teenager, the Life Dive Appeal.
+//The "appeal" here seems to be close enough to the English meaning. -GHS
+TP
+
+//別に俺、アピールすることないんだけど……。
+It's not like I'm really trying to appeal all that much though...
+TP
+
+//まったく。
+Dammit.
+TP
+
+//どうしてこんなことになったのやら。
+Why did it even get to this point I don't know!
+TP
+
+//やり直したいよ、本当に。
+I want to start over, seriously!
+TP
+
+//本当に。
+Seriously.
+TP
+
+//そろそろ激突かな？
+About time for that crash, perhaps?
+TP
+
+//くそー、そばに誰かいれば。
+Craaap, if only I had someone next to me, then,
+TP
+
+//『俺の走馬燈がはじまるんだ』
+『As if gazing into a revolving lantern all my memories begin to flash in front of my eyes!』
+//...though all this considered, this'd work just as fine literally. What's this but a revolving lantern that's about to make a full 360? Curiously the more common Japanese term is 走馬灯, this one is much more Chinese. Must be that Chinese mafia thing again... -GHS
+TP
+
+//などとヤングアダルトに相応しいクール台詞を吐きながら、ゆっくりと目を閉じてそりゃもう漢っぷりを発揮しながらスクリーンの向こうにアッピールしていくことができ
+is among the suitably cool Young Adult lines I could spout off while I would slowly close the eyes and give an excellent impression of an Honorable Man Among Men (the kind written with the kanji for 'China') so that making an appeal to the other side of the screen would be poss
+//漢 sorta-recurs. He's totally breaking into meta. -GHS
+TP
+GL 0 bgcc0000d
+WVS 1 0
+WVP 2 SE079 1 0
+GI 0 0
+SEF 101 0
+WT 1500 0
+WT 1000 1
+
+TS 2
+GL 0 bgcc0000e
+GS 0 1
+SEF 109 3
+//HACK fade to white afterwards, black looks really bad with the loop video. This originally just faded to white, but I'm assuming that's censorship of Taichi's jumper death. That or someone was a bit too trigger happy when implementing this graphical tweak in both endings. -GHS
+
+
+CALL ndemo0002
+
+
+RET

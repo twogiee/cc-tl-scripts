@@ -1,0 +1,561 @@
+
+//太一「い、いいっちゃ」
+Taichi: "Y-, yessorta."
+TP
+
+GL 1 TCKT0004C
+GI 1 0
+//HACK dolls continue from CCB2002 -GHS
+
+WVP 0 vfccb2003afyu000
+//冬子「え！」
+Touko: "Eh!"
+TP
+
+//提案した当人が驚きやがった。
+Even the very person who suggested it was surprised.
+TP
+
+WVP 0 vfccb2003afyu001
+//冬子「い、いいの？」
+Touko: "It-, it's fine?"
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//太一「冬子を餓えさせるにはいかないだろう？」
+Taichi: "I can't just starve you, Touko, can I?"
+TP
+
+GL 1 TCKT0001C
+GI 1 0
+
+
+WVP 0 vfccb2003afyu002
+//冬子「今の間は……」
+Touko: "That pause there..."
+TP
+
+//太一「食の誘惑に取り憑かれたハラヘリハラキリ餓狼を世に解きはなつことになるしな」
+Taichi: "We can't get to the point where the Hankerin' Harakiri Hungry Wolf becomes possessed by the allure of food and is unleashed on the world."
+//Original is just a play on haraheriherihara, cutesy way of saying hunger, and harakiri. Lots of SYMBOLISM!!! of course. -GHS
+TP
+
+GS 0 0
+GS 1 0
+SEF 109 0
+//HACK out with the screen (so the scene makes sense at last!) -GHS
+
+//冬子「…………」
+Touko: "......"
+TP
+
+//ガードした。
+On guard.
+TP
+
+//太一「……ん？」
+Taichi: "...hm?"
+TP
+
+//攻撃は来なかった。
+No attack came.
+TP
+GL 0 bgcc0002c
+GL 1 TCKT0006c
+GS 0 1
+GS 1 1
+GP 1 230 0
+SEF 152 0
+//And that's it for the scene rebuilding, whew. Given the choice to reject Touko at this point was removed so last-minute that the scripts for it are still present, I wonder if that's the cause for this scene to have nearly all its dollwork unimplemented on release. -GHS
+
+WVP 0 vfccb2003afyu004
+//冬子「あ、あの、すぐ着替えとか持ってくるからっ」
+Touko: "Ah, uhm, I'm just going to bring back a change of clothes!"
+//See CCA0010 -GHS
+TP
+
+//太一「なに！？」
+Taichi: "What?!"
+TP
+
+WVP 0 vfccb2003afyu005
+//冬子「すぐ戻るからっ」
+Touko: "I'll come back right away!"
+TP
+GO 1 1
+
+//走り出した。
+She ran off.
+TP
+
+//太一「ウエイツ！（待て！）」
+Taichi: "Matte! (Wait!)"
+//Same as CCB2002. -GHS
+TP
+WVS 1 0
+
+//足首を掴んだ。
+I grabbed her ankle.
+TP
+WVP 2 se038 1 0
+SEF 101 0
+
+//びたーん！
+Smaaack!
+//CP CCA0014A for some reason
+TP
+
+
+WVP 0 vfccb2003afyu006
+//冬子「おぶおぶおぶ……」
+Touko: "GlbGlbGlb..."
+//Well, she sunk too. -GHS
+TP
+
+//冬子は地面にキスした。
+Touko implemented a kiss with the ground.
+//See CCA0002 -GHS
+TP
+
+//良かったね芝生で。
+Good thing that we're on the lawn.
+TP
+
+//太一「良かったね芝生で」
+Taichi: "Good thing that we're on the lawn."
+//CP above
+TP
+
+//本音で接した。
+I directly contacted my true intentions.
+//Should be ambiguous enough, see CCX0001. -GHS
+TP
+
+WVP 1 bgm010.ogg 0 0 0
+
+WVP 0 vfccb2003afyu007
+//冬子「鼻が……毎日洗濯ばさみで高くしているわらひの鼻がぁ……」
+Touko: "My nose... my pDecious nose Dat I Daise wif a cloDespin eBery day...!"
+//Clogged nose. わらひ=ならい -GHS
+TP
+
+//そんなことしてましたか。
+//She does such things as those things???
+So she has been doing that as well?
+TP
+GL 1 TCKT0003c
+GI 1 1
+
+WVP 0 vfccb2003afyu008
+//冬子「わにすんのよっ！？」
+Touko: "WhaDD are you doing?!"
+TP
+
+//太一「本当にここに住むの？」
+Taichi: "You really want to stay here?"
+TP
+
+WVP 0 vfccb2003afyu009
+//冬子「住むわよ！　もう決めたの！」
+Touko: "I will be staying here! It's already decided!"
+TP
+
+//太一「しかも羞恥さえ見せない……」
+Taichi: "And you don't even show any shyness..."
+TP
+
+//太一「おまえは、人のことをポンポン殴る勝ち気娘なんだけど鑑賞面においては俺に妙に都合の良い追従的なヒロインであれよっ！！」
+Taichi: "You, you're always that unyielding spirit that punches people left and right, but in terms of artistic appreciation you're a heroine that finds an oddly convenient subservience in me!!!"
+//See CCE0001 -GHS
+TP
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfccb2003afyu010
+//冬子「……意味がわからないわ」
+Touko: "...I don't get what you're saying, no."
+TP
+
+//ふぁさぁっと後ろ髪をはらった。
+With a 'fwasah' I sweeped my bangs.
+//PCP CCB0009
+TP
+
+//太一「さっきまで殊勝だったのに！」
+Taichi: "When you were so very admirable until moments ago!"
+//I think it means he likes 'em tsun and not dere. -GHS
+TP
+
+GL 1 TCKT0021c
+GI 1 0
+
+WVP 0 vfccb2003afyu011
+//冬子「言質を取ったらもうしおらしくする必要なんてないでしょ」
+Touko: "Once I got your commitment, being all meek is not necessary anymore is it."
+TP
+
+//太一「あーっ、ああああーっ、たばかったなーっ！」
+Taichi: "Ahhh, AAAAAH, I was taken iiin!"
+TP
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfccb2003afyu012
+//冬子「警察がいないなら刀も堂々と持ってこられるわね」
+Touko: "Since there's no police anymore, I can carry my sword openly now."
+TP
+
+//太一「っっっ！？」
+Taichi: "!!!?!?"
+TP
+
+//あの妖刀ハラキリ丸を我が家に！？
+The Demon Blade Harakiri, in my house!?
+TP
+
+
+//太一「ヒィィィィィィィッ、誰かーっ！　ここに刃物をすごく上手に使いこなす武士っ娘がいますっ！！」
+Taichi: "HYYYYYYH! SOMEBODYYY! There's a samurai girl with great skill in the handling of cutting implements heeeere!!!"
+//7xィ
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2003afyu013
+//冬子「誰か、なんてもういないでしょ」
+Touko: "There's no 'somebody' anymore."
+TP
+
+//そうでした！
+Indeed there wasn't!
+TP
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfccb2003afyu014
+//冬子「だいたい、よく考えたらこれは正当な権利じゃない」
+Touko: "Besides, thinking hard about it, this is no unwarranted privilege."
+TP
+
+//太一「えっ？」
+Taichi: "Eh?"
+TP
+GL 1 TCKT0003c
+GI 1 0
+
+WVP 0 vfccb2003afyu015
+//冬子「駄目だっていうなら、返してよ」
+Touko: "If you say I cannot, then give it back."
+TP
+
+
+//ずいっ
+Shove.
+TP
+
+
+//片手を突きつけられる。
+One hand was thrust before me.
+TP
+
+//太一「『隣に住むＨな妹１８歳』ならもう返却済みだ……」
+Taichi: "I've already returned 'My Neighbor Is An 18 Years Old Ecchi Imouto'..."
+//Fetishistic archetype in this case. -GHS
+TP
+
+GL 1 TCKT0011c
+GI 1 0
+//HACK angry Touko -GHS
+
+WVP 0 vfccb2003afyu016
+//冬子「エロビデオなんて貸してない！」
+Touko: "I didn't lend you a porn video!"
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfccb2003afyu017
+//冬子「もっと大切なものよ。ほら、返して」
+Touko: "This is something more precious. Come on, give it back."
+TP
+
+
+//ずずいっ
+ShoShove.
+TP
+
+
+//もっと大切なもの。
+Something much more precious.
+TP
+
+//太一「『すこぶるスクブルすくぅる』も返却したはずだ……」
+Taichi: "I think I have returned 'Blooming Boardschool Bloomers'..."
+//Just assonance. -GHS
+TP
+//GL 1 TCKT0003c
+GL 1 TCKT0011c
+GI 1 0
+//HACK ibid -GHS
+
+WVP 0 vfccb2003afyu018
+//冬子「マニアビデオも貸してないっ！！」
+Touko: "I didn't lend you a fetish video either!!!"
+TP
+
+//GL 1 TCKT0002c
+GL 1 TCKT0001c
+//HACK more suspicious Touko -GHS
+GI 1 0
+WVP 0 vfccb2003afyu019
+//冬子「私の大切なもの！　あなたが奪ったでしょ！」
+Touko: "My most precious thing! The one you took from me by force!"
+//Lying, of course. -GHS
+TP
+
+//太一「ああ」
+Taichi: "Ahhh."
+TP
+
+//大きく頷いた。
+A very big nod.
+TP
+
+//太一「なんだっけ？」
+Taichi: "What was that?"
+TP
+
+
+GL 1 TCKT0011c
+GI 1 0
+
+WVP 0 vfccb2003afyu020
+//冬子「痴呆なのあなたは！？」
+Taichi: "Have you got dementia, you?!"
+TP
+//GL 1 TCKT0001c
+GL 1 TCKT0006c
+//HACK shy Touko -GHS
+GI 1 0
+WVP 0 vfccb2003afyu021
+//冬子「……………………処女よ」
+Touko: ".........my virginity."
+TP
+
+//太一「ボボ？」
+Taichi: "Sexual?"
+TP
+GL 4 sgcc0012
+$CGsgcc0012 = 1
+GP 4 0 0
+//WVP 2 se105 1 0
+WVP 2 seGAROU
+//HACK Hankerin' Harakiri Wolf returns! -GHS
+GO 1 0
+GI 4 0
+//SEF 101 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+//どかーん！
+SMAAAACK!
+//Nee "boom" due to the SFX, now of course changed. -GHS
+TP
+
+
+WVP 0 vfccb2003afyu022
+//冬子「鼓膜を張り替えろーっ！！」
+Touko: "Reupholster your eardruuums!!!"
+//Hence he has no ears that can hear. -GHS
+TP
+
+//太一「ぎゃー」
+Taichi: "G'yaaah!"
+TP
+
+//蛮勇炸裂。
+Explosion of Brute Courage.
+TP
+GL 1 TCKT0003c
+GS 4 0
+GS 1 1
+SEF 109 0
+WVP 0 vfccb2003afyu023
+//冬子「とにかく住むの！　住みまくるの！　住みこんで住みあげて……住みぬくの！　もう決定！　可決！」
+Touko: "Anyway, I'll be staying! Recklessly staying! Diving into staying to granting you my staying... thoroughly staying! Already decided! Ratified!"
+//sumuNUKU -GHS
+TP
+
+//太一「半分で過半数ってことかーっ！？」
+Taichi: "How did you get a majority when you're only haaalf?!"
+TP
+
+WVP 0 vfccb2003afyu024
+//冬子「すぐに荷物持ってきてやるんだから！」
+Touko: "So I'll be bringing over my luggage right quick!"
+TP
+GO 1 1
+
+//きびすを返す。
+She spins back on a heel.
+TP
+
+//太一「待て待て」
+Taichi: "Wait, wait!"
+TP
+GL 1 TCKT0001c
+GI 1 1
+
+WVP 0 vfccb2003afyu025
+//冬子「まだ何か？」
+Touko: "Something else now?"
+TP
+
+//太一「……んー」
+Taichi: "...ermmm."
+TP
+
+//やむを得ないか。
+Is this unavoidable?
+TP
+
+//太一「……なんとか……その線で納得してもらって……うん、よし」
+Taichi: "...it's just... getting consent with that line... yes, got it."
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2003afyu026
+//冬子「ブツブツ言ってる」
+Touko: "You're all mumbling to yourself."
+TP
+
+//太一「ＯＫ、君の入国を認めよう」
+Taichi: "Okieh, I will recognize your immigration."
+//Literal for reasons that should be obvious, otherwise u dont get CC lol kill yourself. -GHS
+TP
+
+//太一「ただし今日ってこたないだろ。明日でいいじゃないか」
+Taichi: "However, today's a bit of a problem. Isn't it better tomorrow?"
+//Supposing that's what he was mumbling about above. -GHS
+TP
+
+//太一「部屋の掃除だってしないとならんし」
+Taichi: "I gotta clean out the room at least, after all."
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfccb2003afyu027
+//冬子「そ、そうね……」
+Touko: "R-, right..."
+TP
+
+//太一「明日だったら、俺も荷物運ぶの手伝ってやるから」
+Taichi: "If we do this tomorrow, I can help you carry over the bags."
+TP
+
+GL 1 TCKT0006c
+GI 1 0
+
+WVP 0 vfccb2003afyu028
+//冬子「ほんと？」
+Touko: "Really?"
+TP
+
+//ぱっと点灯する冬子スマイル。
+Touko smiles with the suddenness of a light bulb turned on.
+TP
+
+//太一「……ああ」
+Taichi: "...yah."
+TP
+
+//俺の芸術が……。
+My poor work of art...
+//See CCA0004C, but likely what's going on near the start of the script. -GHS
+TP
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2003afyu029
+//冬子「どっちにしても、すぐ帰って用意しないと」
+Touko: "Regardless, I must go home and prepare things."
+TP
+
+//太一「んだね」
+Taichi: "So you do."
+TP
+
+WVP 0 vfccb2003afyu030
+//冬子「帰るわ」
+Touko: "Going home now."
+TP
+
+GL 0 bgcc0000c
+GS 0 1
+GS 1 0
+SEF 109 0
+//GO 1 1
+//HACK to starry sky -GHS
+
+//いそいそ。
+With alacrity.
+TP
+
+WVP 0 vfccb2003afyu031
+//冬子「じゃあ明日ね。普通に学校に行くから」
+Touko: "See you tomorrow then. Since I'll be going to school as normal."
+TP
+
+//太一「はいはい」
+Taichi: "Yes, yes."
+TP
+
+WVP 0 vfccb2003afyu032
+//冬子「ちゃんと来てね！」
+Touko: "You make sure to come!"
+TP
+
+//太一「はいはい」
+Taichi: "Yes, yes."
+//CP above
+TP
+
+//小さくなっていく冬子。
+Touko grows smaller and smaller as she goes.
+TP
+
+//俺はいつまでもゆるゆると手を振っていた。
+I kept constantly, loosely, slowly waving a hand.
+//See CCA0011B -GHS
+TP
+WVS 1 1
+
+//厄介なことになったなぁ……。
+This has become awkward, didn't it...
+//Actually problematic + problematic as in 'guest is staying over'. -GHS
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 2
+WT 1000 0
+WT 1000 1
+
+RET

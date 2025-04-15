@@ -1,0 +1,144 @@
+GL 0 bgcc0006a
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+
+SEF 152 0
+
+No one's here.
+TP
+
+I have a feeling I haven't seen Touko here for a few days.
+TP
+
+Taichi: "I know you don't like it, but would you try coming to the club tomorrow?"
+//CP ccb0021
+TP
+
+I had a soliloquy.
+TP
+
+I had been planning to say that if Touko was here.
+TP
+
+If we're going to enjoy our youth, we should all do it together.
+TP
+
+GL 0 bgcc0003b
+GS 0 1
+GS 1 0
+SEF 152 0
+
+WVP 1 bgm004.ogg 0 0 0
+
+Diary writing will be worthwhile today.
+TP
+
+By the way, 『diary writing』 isn't a grammatical mistake.
+TP
+
+Since 'diary' is a noun.
+TP
+
+I scratched my head as I wove together such things that I could color my forehead with.
+TP
+
+*Color my forehead with = Taichian for 'learn from.' Taichi made this mistake when he thought that 『Knowledge colors the self like a picture frame.』
+IF $tlnote != 0 (TL note: One of the kanji for "picture frame" also means "forehead")
+//This might just be the single most untranslatable line I have ever seen. ～IX
+//Tried to make it make sense by turning 'put in my forehead' into 'color my forehead with' O.o - Sheeta
+TP
+
+
+If possible, I'd like everyone to gather on Sunday.
+TP
+
+Aaah, I can't record Sunday in the diary.
+TP
+
+But, I want to see that scene at least once.
+TP
+
+The reset just might be a very scary phenomenon.
+TP
+
+Identical to death.
+TP
+
+That's why......at least......
+TP
+
+Taichi: "I'll try inviting her......"
+TP
+
+I headed for the post office.
+TP
+
+
+GL 0 bgcc0000c
+GS 0 1
+SEF 152 0
+I stormed the post office.
+TP
+
+I robbed it of about thirty postcards.
+TP
+
+On the way home, I passed in front of the kouban defiantly.
+TP
+
+Since I felt like it, I also stormed the kouban.
+TP
+
+This is the first time I've been in one.
+TP
+
+Taichi: "Hoo, so this is the inside of a kouban..."
+TP
+
+I wonder if there are any handguns.
+TP
+
+There were handcuffs.
+TP
+
+There was nothing else of value.
+TP
+
+Taichi: "Not good."
+TP
+
+I don't have time to be doing this.
+TP
+
+I hurried home.
+TP
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 0
+I wrote a postcard.
+TP
+
+
+
+GL 0 bgcc0002c
+GS 0 1
+SEF 152 0
+
+Taichi: "Now then......"
+TP
+
+All around,
+TP
+
+It was a busy night.
+TP
+
+WVS 1 1
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+RET

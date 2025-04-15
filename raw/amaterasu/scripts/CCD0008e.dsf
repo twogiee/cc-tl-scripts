@@ -1,0 +1,223 @@
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+The door wouldn't open.
+TP
+
+
+I pushed hard, but there was turbulence before me.
+TP
+
+
+WVP 2 SE009 1 0
+
+GL 0 bgcc0007
+
+GL 5 bgcc0000e
+GI 5 0
+GS 0 1
+GS 5 0
+SEF 109 0
+
+A pathway of wind.
+TP
+
+
+
+
+
+
+WVP 3 SE010 0 0
+
+
+My ears rang.
+TP
+GL 0 evcc0004
+$CGevcc0004 = 1
+GS 0 1
+SEF 155 0
+
+WVP 1 bgm015.ogg 0 0 0
+
+And, Sempai.
+TP
+
+
+Taichi: "Good morning."
+TP
+GL 0 bgcc0007
+GL 1 TCMM0000
+GS 0 1
+GS 1 1
+GP 1 225 0
+SEF 109 0
+
+
+WVP 0 vfCCD0001msa000
+Misato: "Oh, good morning."
+TP
+
+
+Taichi: "How's the antenna?"
+TP
+
+
+WVP 0 vfCCD0001msa001
+Misato: "I guess it's getting pretty close."
+TP
+
+
+Taichi: "The plan was to use this on Sunday, right?"
+TP
+
+GL 1 TCMM0004
+GI 1 0
+
+WVP 0 vfCCD0001msa002
+Misato: "......you remember well."
+TP
+
+
+Taichi: "That much at least."
+TP
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCD0001msa003
+Misato: "That's right. If nothing had happened, we were......"
+TP
+
+
+WVP 0 vfCCD0001msa004
+Misato: "But, since all people are gone, it can't be helped......ah, I'm sorry."
+TP
+
+
+Taichi: "It's nothing."
+TP
+
+
+There's really no need to apologize.
+TP
+
+
+I'm not even hurt.
+TP
+
+
+Taichi: "Well, because of that, going to the roof became prohibited."
+TP
+
+GL 1 TCMM0001
+GI 1 0
+
+WVP 0 vfCCD0001msa005
+Misato: "......though you all seem to come here pretty often anyway."
+TP
+
+
+Taichi: "On that note, so is Sempai right now."
+TP
+
+
+Two faces exchanging glances. Our cheeks relaxed at the same time.
+TP
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfCCD0001msa006
+Misato: "Then we're both suspended. Yellow suspension."
+TP
+
+
+Taichi: "That's harsh."
+TP
+
+
+Taichi: "......Sempai, did you...do all this on your own?"
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCD0001msa007
+Misato: "I had some sketches, so I managed."
+TP
+
+GL 1 TCMM0031
+GI 1 0
+
+WVP 0 vfCCD0001msa008
+Misato: "But, it was tough. At one time it was falling apart."
+TP
+
+
+Even so, Sempai didn't desire help from anyone.
+TP
+
+
+Exposing her body to the merciless sunlight, she'd been continuing club activities by herself.
+TP
+
+
+Taichi: "......if I asked to help now, that'd be pretty selfish, wouldn't it?"
+TP
+
+
+Sempai's happy face broke.
+TP
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCD0001msa009
+Misato: "Thank you."
+TP
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfCCD0001msa010
+Misato: "It's the thought that counts."
+TP
+
+
+Well, that's what this is.
+TP
+
+
+Taichi: "You could have used me any time, you know."
+TP
+
+
+Please use me for your flight.
+TP
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCD0001msa011
+Misato: "Ah, that's okay, that's okay, I'm just fine."
+TP
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfCCD0001msa012
+Misato: "In place of that, let's have some tea together sometime."
+TP
+
+
+Taichi: "Okay."
+TP
+
+
+
+WVS 3 1
+WVS 1 1
+
+
+
+
+RET

@@ -1,0 +1,380 @@
+
+GL 0 bgcc0006
+GS 0 1
+SEF 10 1
+Taichi: "That son was Yutaka."
+TP
+
+Kiri: "........................"
+TP
+
+Kiri wasn't able to react.
+TP
+
+Her hand had stopped shaking.
+TP
+
+She'd calmed down......no, that wasn't it.
+TP
+
+She was looking at me with a shocked expression.
+TP
+
+She didn't notice the arrowhead was no longer pointing at me.
+TP
+
+Taichi: "You might have figured this out already, but S was also the initial for Shinkawa."
+//Wow. I'm speechless...-Spin
+TP
+
+
+GL 1 TCSK0003
+GP 1 220 0
+GI 1 0
+
+WVP 0 vfCCC3026kri001
+Kiri: "......wh-what are you saying......?"
+TP
+
+Half-smiling.
+TP
+
+She seems unable to even control her emotions.
+TP
+
+Taichi: "Even though he was also a child, he knew those things. I'd thought he could never have a decent life."
+TP
+
+Taichi: "I thought he'd end up as a pervert or a drug addict."
+TP
+
+GL 1 TCSK0021
+GI 1 0
+WVP 0 vfCCC3026kri002
+Kiri: "That's a lie!!!!"
+TP
+
+A shrill voice.
+TP
+
+WVP 0 vfCCC3026kri003
+Kiri: "Lies, lies, lies, lies!! Don't lie to me! Are you insane!? Such nonsense......"
+TP
+
+Taichi: "It's the truth."
+TP
+
+Kiri's hand once again began to shake.
+TP
+
+WVP 0 vfCCC3026kri004
+Kiri: "That can't be true! There's no way Yutaka could have done such things!"
+TP
+
+Taichi: "That is true, and Yutaka did do such things."
+TP
+
+Taichi: "He was the most enthusiastic."
+TP
+
+She smiled.
+TP
+
+Taichi: "Well, he was a kid, so it must have been painful to rape adult women. That part of a woman would be a big shock to---"
+TP
+
+WVP 0 vfCCC3026kri005
+Kiri: "Be quiet!!"
+TP
+
+Her voice burst open.
+TP
+
+WVP 0 vfCCC3026kri006
+Kiri: "I've never heard about that! I lived with him so long, it's impossible......it's unthinkable---"
+TP
+
+Taichi: "Memory loss."
+TP
+
+Kiri shut her mouth.
+TP
+
+She felt like a detective now.
+TP
+
+Taichi: "The mysteries are revealed, Kiri-chin."
+TP
+
+GL 1 TCSK0004
+GI 1 0
+WVP 0 vfCCC3026kri007
+Kiri: "......that's......something he had no memory of......"
+TP
+
+Taichi: "Also, I know why his legs got hurt."
+TP
+
+WVP 0 vfCCC3026kri008
+Kiri: "......eh?"
+TP
+GL 5 evcc0063
+$CGevcc0063 = 1
+GI 5 0
+GS 5 0
+SEF 109 0
+Taichi: "Because I was there when it happened."
+TP
+
+WVP 0 vfCCC3026kri009
+Kiri: "......then......Sempai......you knew that when...?"
+TP
+
+Taichi: "What do you mean?"
+TP
+
+Taichi: "I hadn't thought Yutaka had lived through that......I'd even forgotten the name Yutaka."
+TP
+
+Taichi: "......meeting him was a coincidence."
+TP
+
+Taichi: "Since I was made to cross-dress......it looks like he didn't know either."
+TP
+
+But Yutaka lived through it.
+TP
+
+Taichi: "Well, a lot happened and I was released......and for complicated reasons I came here."
+TP
+
+Taichi: "If you think about it it's perfectly natural."
+TP
+
+Taichi: "Neither my heart nor Yutaka's should have broken from that."
+TP
+
+Taichi: "I wonder if we met by necessity."
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3026kri010
+Kiri: "......that's......he's not a cruel person......I can't believe that."
+TP
+
+Taichi: "I realized who Yutaka was after I became closer to him."
+TP
+
+GL 1 TCSK0004
+GI 1 0
+WVP 0 vfCCC3026kri011
+Kiri: "......that's why......you killed him?"
+TP
+
+Well, I can't fool her any more.
+TP
+
+I wanted to spit it out anyway.
+TP
+
+Taichi: "It's not like I immediately wanted to kill him."
+TP
+
+Taichi: "It's all in the past after all."
+TP
+GL 1 TCSK0001
+GI 1 0
+WVP 0 vfCCC3026kri012
+Kiri: "Then......!"
+TP
+
+Our conversation started to flow in the reverse direction.
+TP
+
+Her swelling of emotions dashed waves against me, drenching me and turning me backwards.
+TP
+
+Kiri.
+TP
+
+You're the one who came to attack me.
+TP
+
+Taichi: "I thought I'd overlook it if he was suffering."
+TP
+
+Taichi: "But when he was hanging out with me, he seemed happy."
+TP
+
+GL 1 TCSK0003
+GI 1 0
+WVP 0 vfCCC3026kri013
+Kiri: "......!!!"
+TP
+
+WVP 0 vfCCC3026kri014
+Kiri: "That day......you asked me......is he happy......?"
+TP
+
+Taichi: "Good memory."
+TP
+
+Taichi: "That's right. That's what I meant."
+TP
+
+Now, once again, I threw the same question at her.
+TP
+
+Taichi: "Hey, Kiri......was Yutaka happy?"
+//CP_S ccc3008 Holy shit, I tled five lines of this before realizing it was an exact quote, and then when I looked all the lines were identical. Å`IX
+TP
+
+An ordinary question.
+TP
+
+But,
+TP
+
+The meaning was exactly the opposite.
+TP
+
+GL 1 TCSK0021
+GI 1 0
+WVP 0 vfCCC3026kri015
+Kiri: "......he's always been in pain!"
+TP
+
+WVP 0 vfCCC3026kri016
+Kiri: "His relatives were in danger......and he would lose his temper......"
+TP
+
+Taichi: "Always? Are you sure?"
+//CP_S
+TP
+
+Taichi: "There wasn't even a moment of happiness?"
+TP
+
+GL 1 TCSK0004
+GI 1 0
+WVP 0 vfCCC3026kri017
+Kiri: "That's......"
+//CP_F
+TP
+
+Taichi: "There were, weren't there?"
+TP
+
+Kiri didn't answer. She looked downward.
+TP
+
+She pointed her weapon downward too.
+TP
+
+Her animosity and murderous intent had withered. A dried flower.
+TP
+
+Her slender body filled with the toxin known as doubt.
+TP
+
+Taichi: "That's right, isn't it? If we could cleanly forget stuff that happened a long time ago, all our hearts would be squeaky clean. We could become as happy as we wanted!"
+TP
+
+Taichi: "That's why I made him remember."
+TP
+
+WVP 0 vfCCC3026kri018
+Kiri: "......stop it......"
+TP
+
+Kiri tried to cover her ears.
+TP
+
+Taichi: "Listen!"
+TP
+
+I stopped her hands.
+TP
+
+Taichi: "It was a sunny day."
+TP
+
+Taichi: "Just as you saw, I told him everything on the roof at the time."
+TP
+
+WVP 0 vfCCC3026kri019
+Kiri: "......uu......"
+TP
+
+Taichi: "Then he said, 'What can do I to be forgiven?'"
+TP
+
+Taichi: "There's no forgiving. The sins he committed remain for eternity. He can't even touch them, much less change them. And I didn't feel like reproaching him for them."
+TP
+
+Taichi: "......I had just one question."
+TP
+
+Taichi: "And I asked him."
+TP
+
+
+Taichi: "'Hey, I have a question for you......why won't you go die already?'"
+//That should be right, right? Since he's quoting himself afterall. I'm not sure since the quote is the entire line and there isn't anything before or after it. Just that one line.-Spin
+//PCP ccc3009
+TP
+
+
+Taichi: "......that's what I said."
+TP
+GO 1 1
+WVP 0 vfCCC3026kri020
+Kiri: "Aaaaa......"
+TP
+
+Taichi: "When I did that......he really went and killed himself."
+TP
+
+Kiri broke and fell.
+TP
+
+She sat down immobile.
+TP
+
+A pitiful smile was carved on my face.
+TP
+
+Taichi: "In any event, there's only one truth."
+TP
+
+Just one last push will break her.
+TP
+
+Even though I knew that, I...
+TP
+
+Whispered in her ear.
+TP
+
+To run her through with the true blade.
+TP
+
+Taichi: "Your nii-san was a horrible, filthy rapist."
+TP
+
+Kiri: "........................"
+TP
+
+*twang*
+TP
+
+I knew a thread had been cut inside Kiri.
+TP
+
+It definitely won't be tied back together.
+TP
+
+WVS 1 1
+
+RET

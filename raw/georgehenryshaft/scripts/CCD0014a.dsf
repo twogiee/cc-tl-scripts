@@ -1,0 +1,402 @@
+
+GL 0 bgcc0006
+GS 0 1
+GS 1 0
+SEF 152 0
+
+WT 500 0
+
+GL 0 evcc0011
+$CGevcc0011 = 1
+GS 0 1
+SEF 152 0
+
+
+WVP 1 bgm004.ogg 0 0 0
+
+//太一「よ、来てるなー」
+Taichi: "Yo, I've cooome!"
+TP
+
+
+WVP 0 vfCCD0001fyu015
+//冬子「……つーん」
+Touko: "...tsuuun."
+//TL Note: tsun is short for tsundere. Often said by tsundere characters, it means they're being the tsun-tsun part of their tsundere character. Just kidding it's another word for rape aren't you glad -GHS
+TP
+
+
+//太一「……つーん」
+Taichi: "...tsuuun."
+TP
+
+
+//と、胸をつついた。
+And with that I poked her chest.
+TP
+
+
+GL 5 bgcc0000d
+WVP 2 SE053 1 0
+GI 5 0
+SEF 101 0
+//ごっ！！
+G'oh!!!
+TP
+GL 0 bgcc0006
+
+GL 1 TCKT0001
+GS 0 1
+GS 1 1
+GS 5 0
+GP 1 230 0
+SEF 109 0
+
+WVP 0 vfCCD0001fyu016
+//冬子「……………………あんたは……死にたいの？」
+Touko: "............do you... want to die?"
+TP
+
+
+//太一「も、もう死にそうになってマス……」
+Taichi: "It-, it's like I've died already..."
+//-desu. -GHS
+TP
+
+
+//一撃で地面にキス。
+I kissed the earth after one blow.
+//See CCA0002, but it's not in Western character so... -GHS
+TP
+
+
+//太一「そう怒るな。プレゼントがあるんだ」
+Taichi: "Don't be so angry. I come bearing a present!"
+//Because greeks are evil or some stuff. -GHS
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfCCD0001fyu017
+//冬子「いらない」
+Touko: "Don't want it."
+TP
+
+
+//太一「まあまあ、見てから言ってくれよ」
+Taichi: "Come now, come now, please have a look before you say that!"
+TP
+
+
+//太一「きっと気に入ると思うんだ」
+Taichi: "I think you will be interested."
+TP
+
+
+GL 1 TCKT0003
+GI 1 0
+WVP 0 vfCCD0001fyu018
+//冬子「いらないってば」
+Touko: "I said I don't want it."
+TP
+
+
+//太一「いろいろ悪いと思ってるからさ」
+Taichi: "Because, I believe I've been in the wrong in many ways."
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfCCD0001fyu019
+//冬子「嘘ばっかり」
+Touko: "All lies."
+TP
+
+
+//太一「俺には冬子が必要なんだよ」
+Taichi: "But you're something necessary to me, Touko."
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfCCD0001fyu020
+//冬子「……嘘ばっかり」
+Touko: "...all lies."
+//PCP C++
+TP
+
+
+//太一「ほら」
+Taichi: "Here."
+TP
+
+
+//机の上に、指輪ケースを置く。
+I lay a ring case onto her desk.
+TP
+
+GL 1 TCKT0004
+GI 1 0
+//HACK shocked Touko -GHS
+
+//冬子「……！」
+Touko: "...!"
+TP
+
+
+WVP 0 vfCCD0001fyu022
+//冬子「これって？」
+Touko: "What's this?"
+TP
+
+
+//太一「俺の、気持ち」
+Taichi: "My... feelings."
+TP
+
+//照れたように視線をそらして。
+With my gaze averted in embarrassment,
+TP
+
+
+//太一「こんな時代だから」
+Taichi: "Because the times are like this."
+TP
+
+
+//鼻の下をこする。
+and rubbing under the nose.
+TP
+
+
+//太一「俺のブロークンハート、受け取ってくれるだろ？」
+Taichi: "Will you... accept my Broken Heart?"
+TP
+
+
+GL 1 TCKT0005
+GI 1 0
+WVP 0 vfCCD0001fyu023
+//冬子「……私……でも！」
+Touko: "...I... but!"
+TP
+
+
+//太一「いいんだ、何も言うな。俺の気持ちは、言葉じゃ伝わらない」
+Taichi: "It's fine, don't say anything. My feelings... cannot be conveyed with words."
+TP
+
+GL 1 TCKT0006
+GI 1 0
+//HACK earlier doll change -GHS
+
+WVP 0 vfCCD0001fyu024
+//冬子「太一……本当に？」
+Touko: "Taichi... you serious?"
+TP
+
+
+//無言で頷く。
+A wordless nod.
+TP
+
+
+WVP 0 vfCCD0001fyu025
+//冬子「じゃあ……もらおう……かな」
+Touko: "Then... I'll accept it... maybe."
+//And, maybe, I will say maybe. -GHS
+TP
+
+
+//そっとケースを持ち上げる。
+She raises up the ring case delicately.
+TP
+
+
+WVP 0 vfCCD0001fyu026
+//冬子「あけるね？」
+Touko: "I'll open it, OK?"
+TP
+
+
+//太一「ああ。俺が、身につけさせてあげるよ」
+Taichi: "Yep. And then, I will be the one to put this on you."
+//Wearing term of course ambiguous. -GHS
+TP
+
+//GL 1 TCKT0005
+//GI 1 0
+//HACK no change -GHS
+WVP 0 vfCCD0001fyu027
+//冬子「……やだ、キザ」
+Touko: "...but no, so classy!"
+TP
+
+
+//太一「ははは」
+Taichi: "Hahahah!"
+TP
+
+GL 1 TCKT0021
+GI 1 0
+//HACK classy -GHS
+
+WVP 0 vfCCD0001fyu028
+//冬子「ふふふ」
+Touko: "Hoh hoh hoh."
+TP
+
+
+//そして冬子はゆっくりとケースをあけた。
+And then slowly Touko opened the ring case.
+TP
+
+
+//冬子「……」
+Touko: "..."
+TP
+
+GL 5 bgcc0000e
+GL 4 sgcc0012
+$CGsgcc0012 = 1
+WVP 2 se106 1 0
+GI 5 0
+GS 5 0
+GS 1 0
+GS 4 1
+SEF 100 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+WVP 0 vfCCD0001fyu030
+//冬子「指輪ケースにどうしてパンツが入ってるのよ！」
+Touko: "It's a ring case so whyyy are there panties inside!"
+TP
+
+
+//太一「ほげーっ！」
+Taichi: "Hoh'geeeh!"
+TP
+
+
+//殴られた。
+Punched.
+GO 4 1
+
+TP
+
+GL 1 TCKT0011
+GI 1 1
+//HACK NOW she's pissed -GHS
+
+WVP 0 vfCCD0001fyu031
+//冬子「あああああああっ、この男はーっ！！　きーーーーーーーーーっ！！」
+Touko: "AAAAAAAH, THIS MAAAN!!! KYYYYYYYYYYH!!!"
+//7xあ -GHS
+TP
+
+
+//頭をかきむしる。
+She nearly tears the hair off her head.
+TP
+
+
+//太一「待て冬子」
+Taichi: "Wait, Touko."
+TP
+
+GL 1 TCKT0003
+GI 1 0
+//HACK only slightly less pissed -GHS
+
+WVP 0 vfCCD0001fyu032
+//冬子「なによ！」
+Touko: "What now!"
+TP
+
+
+//太一「これはただのショーツではない」
+Taichi: "These are no normal short panties."
+TP
+
+
+//落ちた下着を拾い上げる。
+I pick back up the underwear she tossed.
+TP
+
+
+//股間に指を通す。
+I pass a finger in the nether spot.
+TP
+
+
+//本来は存在しないはずのスリットから、指はすんなり貫通した。
+Because there is a slit that should not normally be there, the finger readily pierces through.
+//See CCB0008B. Did she get them from the Atomic GS before Miki could? -GHS
+TP
+
+
+//太一「プレイショーツなのだ。脱がずにできる」
+Taichi: "These are Sex Play Shorts. You can do it without stripping."
+TP
+
+
+//先をくいくいと曲げた。
+I crook the fingertip, tug tug!
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfCCD0001fyu033
+//冬子「……フフ」
+Touko: "...heh heh."
+TP
+
+
+//あ、やばい。
+Ah, this is bad.
+TP
+WVP 2 SE074 1 0
+GL 4 sgcc0017
+$CGsgcc0017 = 1
+GS 1 0
+GS 4 1
+WVP 3 SE075 1 0
+SEF 109 0
+
+WVP 0 vfCCD0001fyu034
+//冬子「すみやかに死んで、太一」
+Touko: "Make haste to your death, Taichi."
+TP
+
+
+//太一「ぎゃー！」
+Taichi: "Ghyaaah!"
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 4 0
+SEF 109 0
+
+//学校中を追いかけられた。
+I was given chase throughout the school.
+TP
+
+WVS 1 1
+
+
+RET

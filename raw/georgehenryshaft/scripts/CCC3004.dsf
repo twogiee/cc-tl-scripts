@@ -1,0 +1,2951 @@
+
+//GL 0 bgcc0000d
+//GS 0 1
+//GS 1 0
+//GS 2 0
+//SEF 109 0
+
+//GL 0 bgcc0005s
+//GS 0 1
+//GS 1 0
+//GS 2 0
+//SEF 10 1
+
+WVP 3 SE001 0 0
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0005s
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+WVP 1 bgm004.ogg 0 0 0
+
+//新川豊は元気だった。いつもだいたい。
+Shinkawa Yutaka was in high spirits. Almost always.
+TP
+
+//レスポンスが早い。
+Replies came quick.
+//This sounds like a problem in Gunjou. -GHS
+TP
+
+//話していてキレが良かった。
+The way he talked was sharp and clever.
+TP
+
+//ノリも良かった。
+Quite good on the back-and-forth of jokes, too.
+TP
+
+//その新川が、ある時こんなことを言った。
+Shinkawa once said this:
+TP
+GL 1 TCSY0000s
+GP 1 180 0
+GI 1 1
+
+WVP 0 vmcca0018shi012
+//新川『姪がさー、やっぱ群青行くんだけどさ、いろいろ教えてやらんと』/*
+Shinkawa: 『Got a niece, ya know, 'course she goes to Gunjou, ya know, so she's telling me lots and lots of stuff.』
+//PCP CCA0018B
+TP
+
+//揉めた。
+We discussed it harshly.
+//揉 used only literally. Wait, no, only laterally. Wait, no, uhmmm -GHS
+TP
+
+//しかも相当に可愛いとのこと。
+How she was fairly cute, for starters.
+TP
+
+//さらに揉めた。羨望と嫉妬だった。
+And we furthermore discussed. It was envy with jealousy.
+//See CCA0018B, it's just more remembering of how he didn't exactly look at girls with pure eyes... possibly ever. Not that Taichi isn't being a hypocrite here, but his fears that Yutaka would do bad stuff to Kiri are the source of his jealousy. -GHS
+TP
+
+//この二つが揃えば、だいたいどんな相手でも憎める。人間は。
+If both of those are present, hatred would normally ensue, and regardless of who's their target. It's human.
+TP
+
+//俺は憎みはしなかった。
+I did not have hatred.
+//See CCC3026, CCC3030 -GHS
+TP
+
+//続く豊の発言が、よりさらなる衝撃を引き起こしたからだ。
+But the next remark by Yutaka provoked even further jolts in me:
+//It's just "I received a shock" written high... -GHS
+TP
+
+
+WVP 0 vmcca0018shi024
+//新川『本気で、妹みたいなもんなんだよ。同居してるし』/*
+Shinkawa: 『Seriously, she's kinda like a little sister, 's all. 's just cohabitation.』
+//PCP CCA0018B
+TP
+
+//可愛い血の繋がらない妹的存在と暮らしている。
+He is living together with a Cute Non-Blood Related Imouto-like being.
+//Fetishist term -GHS
+TP
+
+//しかも後に聞いたところでは、両親はほとんど家に帰らないらしい。
+And also, some time later I heard that their parents seemed to almost never be home.
+//The typical VN trope of absent parentage (see Misato and Taichi, for starters). It's all but a recipe for your typical nukige, and Yutaka's backstory is that of Rapist Protagonist already. It's very possible that Taichi, at this point, genuinely fears for whoever the cousin is, even if he doesn't recognize Yutaka consciously at this point. -GHS
+TP
+
+//こういうシチュを、逸般的に同棲と言います。
+The abovementioned 'chewation is ungenerally referred to as 'sharing the house'.
+//The opposite of 一般的 (and still pronounced 'ippanteki'), see below -GHS
+TP
+
+//二人とも群青に通うことになる。
+The two of them ended up both going to Gunjou.
+TP
+GL 1 TCSY0001s
+GI 1 0
+WVP 0 vmcca0018shi037
+//新川『おー、姪のことも紹介してやるよ』/*
+Shinkawa: 『Oh, I'll be introducing you to the niece then!』
+//PCP CCA0018B
+TP
+GL 1 TCSY0002s
+GI 1 0
+WVP 0 vmcca0018shi038a
+//新川『……たいしたもんじゃないんだけどな……あんま期待すんなよ？』/*
+Shinkawa: 『...it ain't much of a big deal so... don't expect much, will ya?』
+//PCP CCA0018B
+TP
+GO 1 1
+//たいしたものじゃない。
+Not much of a big deal.
+//CP CCA0018B
+TP
+
+//後に俺は、実際に彼女と会うことになった。
+Later on, I ended up meeting her for real.
+//Taichi met Kiri before the scene in CCA0018B, but was only properly introduced here. -GHS
+TP
+GL 0 bgcc0018s
+GL 1 TCSK0001s
+GP 1 190 0
+GS 0 1
+GS 1 1
+
+SEF 152 0
+
+WVP 0 vmCCC3004shi000
+//新川「じゃ紹介すると、こいつが佐倉霧。家族みたいなモン」
+Shinkawa: "Introductions then, this here's Sakura Kiri. She's sorta like family."
+TP
+
+//一般的にこれを青天の霹靂と言います。
+The abovementioned is generally referred to as a 'thunderbolt out of the blue'.
+//Opposite of that 'ungenerally'. And now, pattern recognition time! What comes next after 霹 thunder and 靂 lightning? Obvious: 霧 fog. -GHS
+TP
+
+WVP 0 vmCCC3004shi001
+//新川「どうした、二人とも黙っちゃって？　もしかして二人とも、照れちゃってるのか？　おいおい霧はともかく太一、こんな山猿に照れる必要ねーって」
+Shinkawa: "What's it, you guys just shut up? Don'tcha tell me, you guys're all shy? C'mon, c'mon, I understand Kiri, but Taichi, no need to be all shy in front of this bumpkin, right!"
+TP
+
+GL 1 TCSK0002s
+GI 1 0
+WVP 0 vfCCC3004kri000
+//霧「豊、うるさい……」
+Kiri: "Yutaka, shut up..."
+//What respect Kiri has for Yutaka. Of course, she's tsundere, but... see CCA0018B -GHS
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+WVP 0 vfCCC3004kri001
+//霧「……佐倉霧、です」
+Kiri: "...I am Sakura Kiri."
+TP
+
+//太一「く、黒須太一です」
+Taichi: "I-, I am Kurosu Taichi."
+TP
+
+//ぎこちなく頭を下げる。
+I bow my head in awkward embarrassment.
+//He's more terrified of her than she is of him. Oh, it's an act, of course... see CCC3027. -GHS
+TP
+
+//太一「お、お噂はかねがね」
+Taichi: "He-, heard quite a lot about you."
+TP
+
+GL 1 TCSK0002s
+GI 1 0
+WVP 0 vfCCC3004kri002
+//霧「……はー」
+Kiri: "...huh."
+TP
+//>　　　　　　　　　　かかと
+//あの戦慄の踵使い……だったのだ。
+It was her... that terrifying heel user.
+//Contrast CCC3002. -GHS
+TP
+
+//確か復讐を誓って別れた。
+We certainly parted with vows of revenge.
+TP
+
+//霧の目に、好意のかけらさえ、まったく見受けられない。
+I could not catch a glint of favoritism in Kiri's eyes.
+//That's the word generally used for Youko's feelings for Taichi. -GHS
+TP
+
+//というか、ジト目である。
+Or should I say, she's staring at me scornfully.
+TP
+GL 1 TCSK0002s
+GI 1 0
+
+WVP 0 vfCCC3004kri003
+//霧「こちらもいろいろと噂、聞いてます」
+Kiri: "I have also heard a lot about you, heard indeed."
+TP
+
+//太一「そ、そう？」
+Taichi: "Ha-, have you?"
+TP
+
+//俺は緊張しつつ、ティーカップを口につけた。
+I put the teacup to my mouth despite the mental strain.
+//He's a multiple murderer who'd take three seconds to crush her if he ever got serious, and the only competition in there's a cripple. Why would he have a mental strain? At least part of this must be pretension. -GHS
+TP
+
+//太一「いやー、この紅茶、甘いなー！　まるで砂糖みたい、うん。それになんだかざらざらするね。新食感ってやつか」
+Taichi: "Wooow, this black tea's sweet ain't iiit! It's just like sugar, yes. And somehow just a little coarse and granular. It's a novel food texture ain't it."
+//He just gulped down a teacup with nothing but sugar in it, didn't he. -GHS
+TP
+
+//霧「…………」
+Kiri: "......"
+TP
+
+//きつい。
+Harsh.
+//See CCA0015
+TP
+
+//ことほどさようにツッコミとは、ある意味慈愛でもあるのだ。
+The performance of a Straight-Man Retort is, in a certain sense, a representation of reciprocal kindness.
+TP
+
+WVP 0 vmCCC3004shi002
+//新川「つうか、ナチュラルに砂糖じゃん、それ」
+Shinkawa: "Right, naturally, ain't it sugar that."
+//Seems he spotted him drinking a cup of sugar. Pun is "it's natural sugar" + "of course, moron, that's just sugar". -GHS
+TP
+
+//太一「……いたみいる」
+Taichi: "...I am greatly obliged."
+//For the tsukkomi. Even if it's sub-Tomoki level. -GHS
+TP
+
+//身に染みた。
+It's something that went all the way down to the heart.
+//See CCC3027 - black sugar sediments in the heart... -GHS
+TP
+
+GL 1 TCSK0002s
+GI 1 0
+WVP 0 vfCCC3004kri005
+//霧「……なんでも、手当たり次第にセクハラをしてらっしゃるとか」
+Kiri: "...I am told that you perform sexual harassment on anyone and everyone you can lay your hands on."
+TP
+
+WVP 0 vmCCC3004shi003
+//新川「そーなんだよコイツ、やることすげーの。かなりびびるよ」
+Shinkawa: "Doooes 'e now, this guy, that's some weeeird stuff he does. Pretty freaky!"
+TP
+
+//太一「ああ、いや、それはね、セクハラといいますか……その……性的愛情表現って感じで決してやましい意図ではないという」
+Taichi: "Ahhh, no, that would be well, calling it something like sexual harassment... it is... a sexual related expression of endearment that has no guilty intent whatsoever!"
+//I think he meant "mean intent" there, but... cross conversation! -GHS
+TP
+
+GL 1 TCSK0001s
+GI 1 0
+WVP 0 vfCCC3004kri006
+//霧「そういうの、セクハラって言います」
+Kiri: "And that is called, 'sexual harassment'."
+TP
+
+//太一「あー、そうだったけかな！　ハハハ……」
+Taichi: "Ahhh, that is what it seemed like! HA. HA. HA..."
+//Mechanical laugh + continuing cross conversations. While the metasuggestions are that this his awkwarndness is real, from Kiri's side, Taichi is being a dangerous sociopath. That's why Kiri hates his guts. -GHS
+TP
+
+//見えないナイフが、ざくざく突き刺さってくる。
+A knife I could not see pierced me with slashes and thrusts.
+//PCP CCC0014
+//Origins of the Knife (tune in tonight for part one, only on The History Channel). -GHS
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+WVP 0 vfCCC3004kri007
+//霧「……嫌がってる子も、いますよね？」
+Kiri: "...but you do it to the reluctant ones as well, do you?"
+TP
+
+//太一「あー、嫌がる相手にはちゃんと慎んでるよ？　その、心の底から嫌がる相手は、わかるんで、ハイ」
+Taichi: "Ahhh, I'm properly prudent with reluctant partners you know? That is, I can tell when a partner is disagreeing from the bottom of the heart, yesss!"
+//Ambiguity continues -GHS
+TP
+
+WVP 0 vfCCC3004kri008
+//霧「じゃあ、みゆきはセクハラを望んでいるんですか？」
+Kiri: "Did Miyuki wish to be sexually harassed then?"
+//Did you see the goalpost move? -GHS
+TP
+
+//太一「あー、まあ嫌がってる、かな？　けどそれは表面的でしてな、お嬢さん。ホレ、口ではなんといっても体は正直みたいな」
+Taichi: "Ahhh, was she reluctant, maybe I wonder? But that's just on the surface it is, ojou-san. Yes, because even if her mouth doesn't say it, her body has evidence."
+//See CCA0012. Recurring ain't it. Right now, the reader should be thinking that he wasn't being funny when he wrote that, which is why it was repeated right at the start of this route. Kiri certainly doesn't. -GHS
+TP
+
+
+GL 1 TCSK0002s
+GI 1 0
+WVP 0 vfCCC3004kri009
+//霧「……最低」
+Kiri: "...disgusting."
+TP
+
+//吐き捨てるような小声。
+In a low voice, as if spitting my way.
+//See parts of Week 1... right around before meeting Kiri, actually. -GHS
+TP
+
+//俺には聞こえた。
+I heard it, but,
+TP
+
+//バームクーヘンの縞模様を薄くはがすことに熱中している豊には、聞こえない。
+Yutaka did not hear, lost as he is his enthusiastic tearing apart a Baumkuchen by thin stripes.
+//great now I'm hungry again. This way of eating it seems to be the subject of at least one moe slice of life scene. I wouldn't know since I'm a teh litfags or something so I don't watch Animuhs unless they have like 300000 Hard Kanji's per scene or stuff. More on the topic: does Yutaka have ears that know how to hear? This is important, see Sakuraba below. -GHS
+TP
+
+//このガキ、空気を読むということをしないのか。
+Can't this ghoul of a brat just not read the mood?
+//Another absolutely normal term that is also the name of a traditional Japanese monster, see CCA0018B. -GHS
+TP
+
+//アイサインをばちばち送る。
+Crackle, crackle an electric eye-sign is sent.
+//See CCC0026 -GHS
+TP
+
+WVP 0 vmCCC3004shi004
+//豊「！」
+Shinkawa: "!"
+//This used the wrong nametag, fixed in the console version. -GHS
+TP
+
+//豊が気づく。
+Yutaka notices.
+TP
+
+//そうだよ、助けてくれ！
+Yes, help me please!
+TP
+//俺は目で雄弁に語った。
+I speak with eloquence via eyes.
+//See CCA0027, CCB0022 -GHS
+TP
+
+WVP 0 vmCCC3004shi005
+//豊「！！」
+Shinkawa: "!!!"
+//Idem. -GHS
+TP
+
+//豊は部長クラスの誇らしげな顔で、任せておけとばかりに小さく頷く。
+With a face that's Club President Class as far as pride, Yutaka signaled a "leave it all to me!" with a tiny nod.
+//I think this means his disattention is Misato class, i.e. he's wilfully disregarding what's going on. All he's reading is that Taichi likes Kiri; unfortunately, he isn't wrong in the slightest. Like Sakuraba, he tends to react to what Taichi means, not to what he says. -GHS
+TP
+
+WVP 0 vmCCC3004shi006
+//新川「あ……やべ、生理はじまった。俺、ナプキン買ってくるから、その間二人で話しててくれよな？」
+Shinkawa: "Ah... no way, my period's begun. I gotta put on a pad, so in the while you two get chatting will you?"
+//As far as bad lies, this is Taichi level. Of course, they have the same backstory, likely the same teacher(s). However, what you're now wondering if whether Shinkawa, due to his backstory, has regular blood leaks from his being repeate-GHS
+TP
+
+WVP 0 vfCCC3004kri010
+//霧「いて」
+//太一「いてくれ、頼む」
+Kiri: "Stay."
+> 
+Taichi: "Please stay, I beg you."
+TP
+
+WVP 0 vmCCC3004shi007
+//新川「？」
+Shinkawa: "?"
+TP
+
+//何も理解していなかった。
+He didn't understand anything at all.
+TP
+
+//二人きりになったら、気まずさの爆弾が炸裂しそうだ。
+This bomb of unpleasantness might just explode if it's just the two of us alone.
+//The explosive birth of the Humanity Annihilation Bomb? Also, futari-KIRI. -GHS
+TP
+
+GL 1 TCSK0001s
+GI 1 0
+WVP 0 vfCCC3004kri011
+//霧「わたしには、みゆきがスカートをめくられたがってる……とは思えないです」
+Kiri: "Miyuki wanted her skirt flipped you say... that did not appear to be the case to me."
+TP
+
+//太一「んー、そ、そう？」
+Taichi: "Mmmh, re-, really?"
+TP
+
+//豊は再び、バームクーヘンを解体しはじめる。
+Yutaka begins once more his disassembly of the Baumkuchen.
+TP
+
+//アカン……この人……。
+Hopeless... this guy is just...
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+WVP 0 vfCCC3004kri012
+//霧「だから黒須先輩のしてることは、どうかと思います」
+Kiri: "Therefore, what you have done, Kurosu-senpai, is something I have a problem with."
+TP
+
+//ハッキリ言う。
+So she says sharply.
+//HakKIRI. Damn puns... -GHS
+TP
+
+//冷静に見ると、嫌いなタイプじゃない。
+Looked at calmly, she is not the disliking type.
+TP
+
+//むしろ好ましい……近づきたいと思わせる少女だった。
+Rather, the likeable one... a girl that leaves me the sense of a desire to approach.
+//Also be a measure of what she is (dere with a cover of tsun due to circumstances, like Touko), not just that she's his type... if only because his type is "attractive human females". ...well, "attractive aloof females", but... -GHS
+TP
+
+//少し気が抜けた。
+I felt a bit relaxed.
+TP
+
+//ちゃんと話したくなった。
+I wanted to talk frankly to her.
+TP
+
+//太一「……佐倉さんは、正義漢だな」
+Taichi: "...Sakura-san, you're a woman among women, a Woman of Justice."
+//漢. -GHS
+TP
+
+//むっとしたようだった。
+She seemed to grow testy.
+//Of course, she probably knows this Ally of Justice stuff is just shonen manga crap. -GHS
+TP
+
+GL 1 TCSK0001s
+GI 1 0
+WVP 0 vfCCC3004kri013
+//霧「それがなにか？」
+Kiri: "What would that even be?"
+TP
+
+//太一「いや、いいんだ。そういう人間は、どこにだって必要だと思うし」
+Taichi: "Welll, it's a good thing. I think that's the kind of human that's necessary anywhere and everywhere."
+TP
+
+GL 1 TCSK0002s
+GI 1 0
+//HACK eyes closed Kiri -GHS
+WVP 0 vfCCC3004kri014
+//霧「……おっしゃる意味がわかりません」
+Kiri: "...I do not understand the meaning of your words."
+TP
+
+//太一「馬鹿にしてるんじゃないよ」
+Taichi: "I'm not ridiculing you here!"
+TP
+
+//太一「今まで、キミみたいなタイプ、俺のそばにいなかったからさ」
+Taichi: "Just, up until now, there's never been your kind of type around me."
+//This only also refers to tsunderes. Only 'also'. -GHS
+TP
+
+GL 1 TCSK0011S
+GI 1 0
+//HACK uhm... -GHS
+
+WVP 0 vfCCC3004kri015
+//霧「……そうですか」
+Kiri: "...so you say."
+TP
+
+//見たら豊は座ったまま寝ていた。
+Looking over, Yutaka had fallen asleep while still sitting.
+//Juuust as the conversation turns somewhat serious, Yutaka falls asleep. Were Taichi to have this convenient 'off' switch as well it'd serve as a quick explanation for most of the weirdness here, especially if he can also keep his body moving sort of automatically while he has his flashbacks. Now see CCC3009, CCD1001. -GHS
+TP
+
+//さすがマイフレン。大物である。
+Just what I expected, my friend. A VIP you are.
+TP
+
+//おかげで少しつっこんだ話ができそうだ。
+And because of that, it seems we can now talk a little more in depth.
+//Now he wants him gone... but then again, Yutaka can read him correctly, so he could've just done the right thing both times. -GHS
+TP
+
+//太一「群青はどう？」
+Taichi: "How's Gunjou?"
+TP
+
+GL 1 TCSK0000S
+GI 1 0
+//HACK normal Kiri -GHS
+
+WVP 0 vfCCC3004kri016
+//霧「……どうといいますと？」
+Kiri: "...'how' in what sense?"
+TP
+
+//太一「クラスに編入されてさ、いろんなタイプのヤツがいる。言葉の通じないヤツ、周囲が目に入らないヤツ、突発的に暴れるヤツ、まったく普通人みたいなヤツ」
+Taichi: "There's all sorts of types that get put into classes. The type who can't understand your language, the type who doesn't see what's around them, the type that fires into rage suddenly, and the damnably normal-ish types."
+//Misato and Miki are the first, Taichi is the second, Touko and Kiri are the third, Sakuraba and Tomoki are the fourth. Where Youko fits? Well, it should be obvious: the second. In other words, she's like Taichi. So very much that. -GHS
+TP
+
+//太一「けどみんな、世間に適応できなくて弾かれたのばっかりだ」
+Taichi: "But all, to the last, have been repelled by society for being unable to conform to it."
+TP
+
+//太一「みんな、日本で屈指のどうかしてる人間なんだ。もちろん、俺もキミもだよ」
+Taichi: "Everybody there's one of Japan's foremost damaged humans. Of course, me and you too."
+TP
+
+GL 1 TCSK0002S
+GI 1 0
+//HACK eyes closed Kiri -GHS
+
+//霧「……」
+Kiri: "..."
+TP
+
+//太一「会話できる人間が何人いる？　友達と呼べる関係を築ける相手が何人いた？」
+Taichi: "How many humans there that can manage a conversation? How many that can be party to building something that can be called friendship?"
+//This "human" was censored in the PS2 version, furthering the idea that it should be left literal as often as possible. -GHS
+TP
+
+//太一「仮に会話が成立しても、そいつがどんなはずみで暴走するかわからない。不安はいつもつきまとう」
+Taichi: "Even if we were to say that a conversation was established, you couldn't even begin to guess what spur would make them explode. Anxiety is always on your heels."
+TP
+
+//太一「たとえば……ガラスの割れる音を聞くと、異常に攻撃的になるヤツとかさ。うちのクラスにいるんだけど」
+Taichi: "For example... someone who, when he hears the sound of glass being shattered, starts being abnormally aggressive. He's right in my class, you know."
+//See CCC0011B, CCC0014. Glasswork gets cracked and he grows aggressive, hum, yes he's in Taichi's class indeed. Don't ask him whether Karade is a ripoff of Karate, either. -GHS
+TP
+
+GL 1 TCSK0001s
+GI 1 0
+WVP 0 vfCCC3004kri018
+//霧「さっきの話と、どう関係があるんです？」
+Kiri: "How is this related to what we were discussing earlier?"
+TP
+
+//太一「キミは俺に正義を説いた」
+Taichi: "You preached justice to me."
+TP
+
+//太一「……道理をわきまえた相手として、俺を見ている」
+Taichi: "...you see me as someone who can tell right from wrong, who is reasonable."
+//Overliteralized due to how if you still don't get it I don't know what to do really. -GHS
+TP
+
+GL 1 TCSK0003s
+GI 1 0
+//HACK sooner doll -GHS
+//小ぶりの眉根が寄った。
+The tiny gap between her eyebrows grew tighter.
+TP
+
+WVP 0 vfCCC3004kri019
+//霧「そういう意味では……」
+Kiri: "But I did not mean..."
+TP
+
+//太一「そういう意味でしょ」
+Taichi: "You meant exactly that."
+TP
+
+//太一「俺の行動をどうかと思う。そう指摘して弾劾する。直してもらわなければならないと思う」
+Taichi: "You have a problem with my conduct. You point it out and denounce it. It is absolutely unthinkable for you not to come and fix me."
+TP
+
+//太一「群青でふりかざす考え方じゃないなぁ」
+Taichi: "That ain't a way of thinking you can bandy around at Gunjou ya know."
+//IOW this is her Ultramarine. -GHS
+TP
+
+//太一「キミがただの鈍い子なのか、それとも逆に、鋭く俺の性根を見抜いているのかはわからない」
+Taichi: "Whether you're just dumb, or conversely, you very sharply saw through my character I can't tell."
+//Choice of training spot, hypocrisy, being exploited by Miki, and being in love with Taichi and expressing it like this. Touko's nowhere near as dumb as her. In fact, the only one dumber than her are possibly Taichi and, by extension, Youko. -GHS
+TP
+
+//太一「けど……久しぶりに、新しい出会いの中で人間扱いされた気がした」
+Taichi: "But... it felt like a long time since I've been treated like a human by someone I just met."
+//...and yet, by implicitly believing he can improve, despite her Stereotypical Doomsaying Priest attitude, she still understands a little bit of him better than he does. To be able to understand this is the point of the the CS Lewis quote I open the book with. -GHS
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+//霧「…………」
+Kiri: "......"
+TP
+
+//ぽかん、と口を開く。
+She opens her mouth, agape.
+TP
+
+//気を抜くと、なるほど歳相応に可愛らしい。
+When she loses focus a bit, she has the cuteness suitable for a girl her age.
+TP
+
+//豊の目は節穴だな。
+Yutaka's eyes are knotholes indeed.
+TP
+
+GL 1 TCSK0021s
+GI 1 0
+//HACK shouty Kiri -GHS
+WVP 0 vfCCC3004kri021
+//霧「……そーいう話をしているのではなく！」
+Kiri: "...that isn't what we are talking about!"
+TP
+
+//太一「みゆきは」
+Taichi: "Miyuki, she..."
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+//HACK normal Kiri -GHS
+
+//激昂が凍りつく。
+Her indignation freezes.
+TP
+
+//太一「あれで結構、重いんだ」
+Taichi: "She was quite serious... in that regard."
+TP
+
+//太一「詳しくは知らないけど、本人が孤独を感じすぎると、発症するみたい」
+Taichi: "I don't know the details, but, it seems that when she starts feeling excessively lonely her symptoms come out."
+TP
+
+//太一「外界失認ってやつだ。世界の輪郭があいまいになる。一種のトリップだな。もっとも屋上から落ちやすいタイプ」
+Taichi: "She has External World Agnosia. The outline of the world becomes fuzzy and unclear. Kind of a drug trip. She's the type that'd fall from the rooftop easily."
+//http://www.britannica.com/EBchecked/topic/9353/agnosia See CCA0016. This is exactly what Taichi has. The part about the rooftop is particularly ironic given Yutaka. -GHS
+TP
+
+GL 1 TCSK0002S
+GI 1 0
+//HACK closed eyes Kiri -GHS
+
+//霧「…………」
+Kiri: "......"
+TP
+
+//太一「知ってた？」
+Taichi: "Did you know?"
+TP
+
+GL 1 TCSK0011S
+GI 1 0
+//HACK supposing it's showing off the doll, since the sepia variant of this pose is never seen outside of CCB0006 otherwise. -GHS
+WVP 0 vfCCC3004kri023
+//霧「……いえ」
+Kiri: "...no."
+TP
+
+//太一「たぶんあの子は、移動になっちゃうと思うよ」
+Taichi: "I think that she'll end up transferred, maybe."
+//Interesting uncertainty. -GHS
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+WVP 0 vfCCC3004kri024
+//霧「え……移動というのは……？」
+Kiri: "Eh... what do you mean, transferred...?"
+TP
+
+//太一「ちゃんとした病院施設に送られるってこと」
+Taichi: "That she'll be sent to a proper hospitalization facility."
+//This is the only indication that Class X isn't just another classroom. Then again, there's no certainty that Taichi knows, at this point, where she'll be transferred exactly, or even what Class X entails. It could even be "the" Research Building of CCA0013. This may be a plot hole, intentional deception, plot relevant or simply the character hazarding a guess with pretty much equal probability. -GHS
+TP
+
+GL 1 TCSK0003s
+GI 1 0
+WVP 0 vfCCC3004kri025
+//霧「それって……」
+Kiri: "But that's..."
+TP
+
+//霧は絶句したようだった。
+Kiri appeared speechless.
+TP
+
+//太一「ホラ、学校だとどうしても孤独な時間ってあるだろ？　周囲が全員健常者なら気づかってあげられるけどさ……みんな自分のことで精一杯だし」
+Taichi: "Come now, it's a school, aren't there hours where we're alone as a matter of course? If all around us there were healthy people they'd worry about it but... everyone's just doing what they can about themselves."
+TP
+
+//太一「みゆきのもっとも嫌う、孤独な時ってのが、どこにでもある」
+Taichi: "Those hours of solitude, what Miyuki hated most, they're everywhere."
+TP
+
+//たとえば放課後。誰もいない教室。
+For example, after school. A classroom with no one inside.
+//Also see CCA0015C. -GHS
+TP
+
+//たとえば校庭。無人のトラック。
+For example, the courtyard. The sports track left depopulated.
+//See CCA0007. For example, the interior of the broadcast room. In which she was sealed despite Tomoki being right nearby for no apparent reason. Very likely, her condition is similar to present Taichi's: she just daydreams a lot. Later on, however... -GHS
+TP
+
+//たとえば教室。人がいても人同士の接続がない、断絶空間。
+For example, the classroom. There are people, but no one to have a connection or a fellowship with; it is a space of disintegration.
+//Do you feel it, beating over your head yet? How about now? -GHS
+TP
+
+//太一「どこにだって空白はあるのさ」
+Taichi: "Wherever you go there are vacuums, you know."
+TP
+
+GL 1 TCSK0002S
+GI 1 0
+//HACK closed eyes Kiri -GHS
+
+
+//太一「彼女が放送部に入ってるのは、ウチが自意識を保持している連中の集団だからだ」
+Taichi: "She had joined the Broadcast Club because this in-group was an assembly of people maintaining a sense of self."
+TP
+
+//太一「そういう意図のもとで放送部は成立してる」
+Taichi: "The Broadcast Club had been established with that intention as foundation."
+//Now this is odd. Was this official? -GHS
+TP
+
+//太一「他に部活なんていくつもないからね」
+Taichi: "'Cause there's not much activity in the club besides that, you know."
+TP
+
+//肩をすくめた。
+I shrugged my shoulders.
+//PCP CCC0014
+TP
+
+//太一「友達を作るのは大変だ。でも作らずにはいられない。どうしてかわかる？」
+Taichi: "Making friends is a hassle. But going without making some is unacceptable. Do you know why?"
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+WVP 0 vfCCC3004kri026
+//霧「……いえ」
+Kiri: "...no."
+TP
+
+//太一「必要だからだ。心を育てるためには」
+Taichi: "Because they're necessary. Necessary for the rearing of a heart."
+TP
+
+GL 1 TCSK0002S
+GI 1 0
+//HACK closed eyes Kiri -GHS
+
+//霧「…………」
+Kiri: "......"
+TP
+
+//太一「豊とは友人になれた。これはいいことだよな」
+Taichi: "Yutaka became a friend. That's a good thing."
+//See CCC3030. Actually, see CCZAS and CCD0021. Yeah, he became a friend. -GHS
+TP
+
+//太一「みゆきともなりたいと思った。けど、ちょっとやり方がまずかったかもしれない」
+Taichi: "I thought I would also have Miyuki become one. But the way I used wasn't quite the right one, maybe."
+//Meaning she is NOT a friend. That's why she doesn't appear in the Cross World: they're not close enough. -GHS
+TP
+
+//太一「けど俺は、こんなことくらいしか知らなくてなぁ」
+Taichi: "But me, outside of that I don't really know what to do!"
+//See CCD3003 for this coming full circle. -GHS
+TP
+
+//苦笑する。
+A wry smile.
+TP
+
+//太一「やっぱ俺もクレバーだもんでさ」
+Taichi: "I'm really so clevah aren't I."
+//They'll call him Mister Clever and blah blah blah Doctor Who reference. -GHS
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+//HACK less suspecting Kiri -GHS
+WVP 0 vfCCC3004kri028
+//霧「……じゃあ……セクハラしてたのって……わざとですか？」
+Kiri: "...so... that sexual harassment... it is on purpose?"
+TP
+
+//太一「下心もあるよ」
+Taichi: "There's an ulterior motive too."
+TP
+
+//正直に答える。
+I answer honestly.
+TP
+
+GL 1 TCSK0001s
+GI 1 0
+//HACK more suspecting Kiri -GHS
+
+WVP 0 vfCCC3004kri029
+//霧「ぐっ」
+Kiri: "Ngh..."
+TP
+
+//太一「俺って理性が異常に脆くてさ」
+Taichi: "Me, my rationality's unusually fragile."
+//The word typically used for Kiri. -GHS
+TP
+
+//太一「けど、意識的な部分もある」
+Taichi: "But there's a part of it that is deliberate."
+TP
+
+//太一「あの地味子ちゃんの、思い出の一つにでもなればなぁと」
+Taichi: "I wanted to make that plain girl into one of my memories, that's it."
+TP
+
+GL 1 TCSK0002s
+GI 1 0
+//HACK eyes closed Kiri -GHS
+
+
+//コゼーからポットを取り出す。
+I took the pot from the tea cozy.
+TP
+
+//まだ熱い。いいコゼーを使っていた。
+Still hot. They were using a good cozy.
+TP
+
+//紅茶をカップに注いで、そのまま飲む。
+I pour black tea into the cup and drink it straight.
+//Further confirming the joke at the start. He has to be used to doing this, given his Tea Companion background, see CCC0000. -GHS
+TP
+
+//太一「みんな繋がりが欲しい」
+Taichi: "We all desire connection."
+//See CCD1001. -GHS
+TP
+
+//太一「俺たちだけじゃない。誰だって欲しい」
+Taichi: "It's not just the likes of us. Everybody does."
+TP
+
+//太一「携帯、ネット、手紙、友達」
+Taichi: "Telephone, the 'net, letters, friendship."
+//See CCA0017A, CCX0001 -GHS
+TP
+
+//太一「みんな繋がりじゃないか」
+Taichi: "All connections, aren't they?"
+TP
+
+//太一「そこに誰かいると期待して、言葉や情報や電波を発信するんじゃないか」
+Taichi: "we dispatch language and information and radio waves because of that expectation that someone'll be there, isn't it?"
+//We read to know we are not alone. See CCB0018: much more sensical now. -GHS
+TP
+
+//太一「俺は自分が触れる相手が、がらんどうだなんて思いたくない」
+Taichi: "Me, I don't want to think that the partner I'm touching is just a human-shaped hollow."
+TP
+
+//HACK doll reaction to below line removed... -GHS
+
+//太一「だからセクハラする。し続ける」
+Taichi: "Therefore I perform sexual harassment. And I will continue to."
+TP
+
+//太一「……キミがどんなに止めてもやーめない」
+Taichi: "...you can stop me however much you like but I'll neeever stop forever!"
+TP
+
+//飲み干す。
+I drink the cup empty.
+TP
+
+//太一「止めたかったら、止めれば。キックでも腕ひしぎでもシックスナインでも」
+Taichi: "Try to stop me if you want me to stop. With kicks or face grabs or sixty-nine."
+//I think it's the same "arm push" as in CCA0030, so tweaked to fit again -GHS
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+WVP 0 vfCCC3004kri030
+//霧「……シックスナイン？」
+Kiri: "...sixty-nine?"
+TP
+
+//太一「またそうすることで、キミと俺との繋がりができれば、いいなと思うよ。キミは迷惑かも知れないけど」
+Taichi: "Because if you and me manage to be connected by doing that again, I think it'd be a good thing. It might be annoying to you, however."
+//Precise nature of 'that' intentionally suspect. But he's being honest here, even if not to himself. -GHS
+TP
+
+GL 1 TCSK0002s
+GI 1 0
+//HACK eyes closed Kiri -GHS
+
+
+//霧「……………………」
+Kiri: "............"
+TP
+
+//うつむいて。
+Downcast,
+TP
+
+//少女は思索にふけった。
+the girl lost herself in meditation.
+TP
+
+//俺が突き落とした、思考の迷宮に。
+Into the labyrinth of thoughts that I pushed her down into.
+TP
+
+//自分の吐いた言葉を反芻する。
+Thinking over and over the words I lied out,
+//Whoops, I toootally meant "laid". Yes, the term is compatible with 'lie'. -GHS
+TP
+
+//まるで自分が『不健全ながらも頑張ってる』みたいな。
+it's just like there's something there that says, "he's hardworking, unwholesomeness notwithstanding".
+TP
+//>　　　　　　ぎまん
+//そんな欺瞞さえ呑み込んで、奥底に隠そうとする意識があった。
+There was intent to swallow that deceit, hiding it in the very bottom of the heart.
+//Ambiguous on exactly what is the lie, see next scene. -GHS
+TP
+
+GL 1 TCSK0001S
+GI 1 0
+//HACK suspicious Kiri -GHS
+WVP 0 vfCCC3004kri032
+//霧「納得は、できません」
+Kiri: "I... cannot agree to that."
+TP
+
+//やがて霧は決然と言った。
+So said Kiri not long afterwards, resolute.
+TP
+
+//GL 1 TCSK0000s
+//GI 1 0
+//HACK removed doll change -GHS
+WVP 0 vfCCC3004kri033
+//霧「今は、それくらいしか……」
+Kiri: "Right now, I have nothing more than that..."
+TP
+
+//太一「そう」
+Taichi: "Well."
+TP
+
+//それで良かった。
+Then that's good.
+TP
+
+//簡単に騙されてはダメだ。
+Being easily deceived is unacceptable.
+//Still ambiguous as to what she wasn't deceived about. -GHS
+TP
+
+//世界はあまりにも汚れているのだから。
+The world is far too dirty for that.
+TP
+
+GL 1 TCSK0000s
+GI 1 0
+//HACK normal Kiri -GHS
+
+WVP 0 vfCCC3004kri034
+//霧「それはそれとして、改めまして佐倉霧です」
+Kiri: "Be that as it may, once again, I am Sakura Kiri."
+//And from her reaction, it seems she's already getting to like him 'that way'. Ergo, she's seen through his bluff... at some level. -GHS
+TP
+
+//礼儀正しく頭を下げた。
+She bows her head with thorough politeness.
+TP
+
+//太一「へ？」
+Taichi: "Eh?"
+TP
+
+WVP 0 vfCCC3004kri035
+//霧「佐倉……霧です」
+Kiri: "I am Sakura... Kiri."
+TP
+
+//太一「あ、うん。黒須太一です」
+Taichi: "Ah, yes. I am Kurosu Taichi."
+TP
+
+//結局、ぎこちない対面式だった。
+In the end, it was an awkward embarrassed face-to-face meeting.
+TP
+
+//太一「さて、じゃ俺はそろそろ帰るけど……豊も寝てるし……」
+Taichi: "So then, it's about time I get on the way home, but... Yutaka's still sleeping..."
+TP
+
+//立ち上がる。
+I rise.
+TP
+
+GL 1 TCSK0002s
+GI 1 0
+//HACK closed eyes Kiri -GHS
+
+WVP 0 vfCCC3004kri036
+//霧「すいません。よく、寝るんです」
+Kiri: "Apologies. He is a... frequent sleeper."
+//Narcolepsy. Taichi is very likely similar. -GHS
+TP
+
+//太一「そうそう、もし潤いが欲しかったら、放送部に来るといい」
+Taichi: "Right, right, so if want a little enrichment to your heart, do come to the Broadcast Club."
+TP
+
+WVP 0 vfCCC3004kri037
+//霧「……はい」
+Kiri: "...yes."
+TP
+
+//太一「けど来たら、いじるぞ。覚悟の上、それなりに対策してから来るように」
+Taichi: "But if you come, there'll be fiddling. Come only after having figured out countermeasures."
+TP
+
+GL 1 TCSK0000S
+GI 1 0
+//HACK normal Kiri -GHS
+
+//霧「…………」
+Kiri: "......"
+TP
+
+//霧は皮肉げに笑った。
+Kiri sneered sarcastically.
+TP
+
+//俺が見た、はじめての笑顔がそれだった。
+And that the first smile of hers that I had seen.
+TP
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 2
+//HACK flashback exit whiteout+blackout -GHS
+
+
+
+WVS 3 1
+WVS 1 1
+
+
+
+//みゆきは、一年待たずにいなくなってしまった。
+Miyuki was no longer among us not even a year later.
+//Leaving this suspiciously specific. -GHS
+TP
+
+
+
+
+
+//後に美希と知り合った霧は、二人そろって放送部に入ることになった。
+Having subsequently been acquainted with Miki, it became that her and Kiri came to the Broadcast Club together.
+//They haven't joined yet, see CCZRooftop for when they do officially join. That sequence takes place after this scene. -GHS
+TP
+
+//さらに意識は飛び、当時を克明に思い出す。
+And further my awareness flies, remembering those days in detail.
+//See CCX0001, this scene is very very very important. -GHS
+TP
+
+
+WVP 3 SE001 0 0
+TWS 7
+GL 5 bgcc0000e
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GP 5 0 0
+GS 5 1
+SEF 109 5
+
+GL 0 bgcc0010s
+GS 0 1
+GS 5 0
+SEF 54 4
+TWS 0
+
+//HACK Flashback intro. -GHS
+
+
+
+//GL 0 bgcc0010s
+//GS 0 1
+//GS 1 0
+//GS 2 0
+//GS 3 0
+//SEF 10 1
+
+
+
+
+
+WVP 1 bgm003.ogg 0 0 0
+
+//太一「おー、来たなー」
+Taichi: "Ohhh, you caaame!"
+TP
+GL 1 TCYM0003s
+GL 2 TCSK0000s
+GS 0 1
+GS 1 1
+GS 2 1
+GP 1 0 0
+GP 2 320 0
+SEF 109 0
+
+WVP 0 vfCCC3004mki000
+//美希「おいっす」
+Miki: "Oi there!"
+//PCP CCA0003
+TP
+
+WVP 0 vfCCC3004kri039
+//霧「……ども」
+Kiri: "...hi."
+//CP CCA0015
+//Now aren't these two the height of interesting. -GHS
+TP
+
+//二人は花壇に植えられた、二輪の花のようだった。
+The two were like a pair of flowers as grown in a flowerbed.
+TP
+
+//太一「ＦＬＯＷＥＲ’Ｓ！」
+Taichi: "FLOWER'S!"
+//Sic. -GHS
+TP
+
+GL 3 TCMM0031s
+GP 3 225 0
+GS 1 0
+GS 2 0
+GS 3 1
+SEF 109 0
+WVP 0 vfCCC3004msa000
+//見里「それは？」
+Misato: "What is that?"
+TP
+
+//太一「二人の芸名ですよ。放送部では芸名が必要なんだ。みんな持ってる」
+Taichi: "The stage name of these two of course. In the Broadcast Club, a stage name is necessary. Everyone has one."
+//More on the Shakespearian All Life is a Stage, see CCC4009, CCD1001. The payoff is simple, but quite important. -GHS
+TP
+
+GL 1 TCYM0004s
+GL 2 TCSK0002s
+GS 0 1
+GS 1 1
+GS 2 1
+GS 3 0
+GP 1 0 0
+GP 2 320 0
+SEF 109 0
+WVP 0 vfCCC3004mki001
+//美希「ふぁ～」
+Miki: "Ohhh～."
+TP
+
+GL 4 TCST0000s
+GP 4 190 0
+GS 4 1
+GS 1 0
+GS 2 0
+
+SEF 109 0
+WVP 0 vmCCC3004yki000
+//友貴「またそんな嘘ンガッ」
+Tomoki: "Again those liNGH!"
+TP
+WVP 2 SE003 1 0
+//SEF 101 0
+GP 4 175 15
+GI 4 0
+GP 4 190 30
+GI 4 0
+GP 4 205 15
+GI 4 0
+GP 4 190 0
+GI 4 0
+GO 4 1
+//HACK independent doll shake before vanishing -GHS
+
+
+//なんとか嘘のあたりで殴り飛ばせた。
+Halfway through saying lies he was struck down somehow.
+//Lack of quotes seems significant. -GHS
+TP
+
+//太一「友貴はインモラル、桜庭がミスター自警団、そして俺は愛貴族」
+Taichi: "Tomoki is Immoral, Sakuraba is Mistah Vigilante, and I am The Aristocrat of Love."
+//Ai Kizoku. Not The Aristocrat of Pure Love, see CCC0026. 愛帰属 (same pronunciation), Belonging to Love. Clever. Sakuraba's nick is never really explained, or mentioned again for that, but that that's what's Charles Bronson gets called at least in Death Wish 3. Haven't seen the actual movie in Japanese so I can't say more. http://en.wikipedia.org/wiki/Death_Wish_3 No other leads. -GHS
+TP
+
+
+GL 1 TCYM0021s
+GL 2 TCSK0002s
+GS 0 1
+GS 1 1
+GS 2 1
+GS 3 0
+GP 1 0 0
+GP 2 320 0
+SEF 109 0
+WVP 0 vfCCC3004mki002
+//美希「本当ですか？」
+Miki: "Is that true?"
+TP
+
+//太一「いかにも！」
+Taichi: "Extremely so!"
+TP
+
+GL 1 TCYM0000s
+GI 1 0
+WVP 0 vfCCC3004mki003
+//美希「それで会話してみてください」
+Miki: "Show me a conversation with those, please."
+TP
+
+//太一「ヘイ、インモラル、シスコン具合はどうなってるよ？　相変わらず愛変わらずって感じなんだろ？」
+Taichi: "HEI, Immoral, how's that Siscon condition of yours been doing? Losing heart in having lost your heart to her, aren't you?"
+//Ai kawarazu pun. 相変わらず as always, unchangingly / 愛変わらず love-unchanging -GHS
+TP
+GL 3 TCMM0031s
+GP 3 225 0
+GS 3 1
+GS 1 0
+GS 2 0
+SEF 109 0
+WVP 0 vfCCC3004msa001
+//見里「しすこん？」
+Misato: "Shis-kon?"
+TP
+
+WVP 0 vmCCC3004yki001
+//友貴「黙ってくれぇぇぇ」
+Tomoki: "SHUT YER MOOOOUTH!"
+//SEF 101 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+TP
+
+//首を締められた。
+My neck was being wrung.
+TP
+
+//本人がいるので、友貴も必死だ。
+As the person being referred to was there, Tomoki also seems panicked on the brink of death.
+TP
+
+//太一「……わがっだ……ごうざん……ごうざん……じぬ……」
+Taichi: "...Ah geDDit... unGle... unGle... dyiMg..."
+TP
+
+GL 5 TCSH0000s
+GP 5 190 0
+GS 5 1
+GS 3 0
+SEF 109 0
+WVP 0 vmCCC3004sku000
+//桜庭「愛貴族だけに愛に死ぬのか？」
+Sakuraba: "You are the Aristocrat of Love, so are you dying in love?"
+//May be the pun pointed out above. -GHS
+TP
+
+//太一「天国のママンに『会い』に死ぬことになりそうだ……」
+Taichi: "Seems more that I am more about to meet my mother in Heaven due to my neck being wrung with a gLove..."
+//会い ai meet 愛 ai love, ay ay ay ay... I think he's still being strangled. Curiously ママン has only ever been used to refer to Yusa's mom, but I can't get 天国のママン to refer to any specific religious personage (though admittedly search results got dominated by Maria†Holic - hmmm - which is 2006 and therefore can't be the reference). -GHS
+TP
+GL 3 TCMM0006s
+GS 3 1
+GS 5 0
+SEF 109 0
+
+WVP 0 vfCCC3004msa002
+//見里「こら！　ぼーりょくは停学ですよ」
+Misato: "Come on! Violence means suspension!"
+TP
+
+//友貴の頭を、みみ先輩がチョップする。
+Mimi-senpai implemented a chop on Tomoki's head.
+//See CCC3030. Hmmm, this is the only mention of Taichi and Misato having nicknames, but they didn't have anything in the (later) CCA0027, may be an error. -GHS
+TP
+
+GL 5 TCST0001s
+GP 3 20 0
+GP 5 340 0
+GS 3 1
+GS 5 1
+SEF 109 0
+
+WVP 0 vmCCC3004yki002
+//友貴「あ、うん……」
+Tomoki: "Ah, ok..."
+TP
+
+//太一「……死ぬかと思った」
+Taichi: "...I thought I was gonna die."
+TP
+
+GL 5 TCST0004s
+GI 5 0
+WVP 0 vmCCC3004yki003
+//友貴「自業自得なんだ」
+Tomoki: "You reap what you sow."
+//The Biblical quote works best given the Seeds of Persimmon below -GHS
+TP
+
+GL 2 TCSK0002s
+GP 2 220 0
+GS 3 0
+GS 5 0
+GS 2 1
+SEF 109 0
+WVP 0 vfCCC3004kri040
+//霧「……はぁ」
+Kiri: "...sigh."
+TP
+
+//霧はいきなり疲れていた。
+All of a sudden Kiri was fatigued.
+TP
+
+//太一「なんだなんだその虚弱っぷりは」
+Taichi: "Whassit whassit with that weaknessism!"
+TP
+
+//太一「放送部は名義上運動部なんだからな？」
+Taichi: "Don't you know the Broadcast Club is nominally a sports club?"
+//For his calisthenics, see CCA0005A, CCA0030 -GHS
+TP
+
+GL 3 TCMM0005s
+GP 3 225 0
+GS 2 0
+GS 3 1
+SEF 109
+
+WVP 0 vfCCC3004msa003
+//見里「……またそんなことを……」
+Misato: "...that thing again..."
+TP
+
+//太一「三年生の方々がめでたくご卒業となり、その穴を埋めるかのように入ってきた君たち二人に、桜庭先生はたいへん期待しておられる」
+Taichi: "The genteel third years will be happily moving on, therefore Sakuraba-sensei has worrisomely high expectations in regards to you both participating in the club for the purpose of filling that hole."
+//See CCB0001. Still guessing he means that Misato is going towards third year, so she'll be moving on towards graduation... except club is flight for her, so she'll stick around until the Training Camp one year from this flashback. Taichi of this time can't know this, of course, so I guess he's assuming she'll relinquish the club within months. Or maybe he's just trolling. -GHS
+TP
+GL 5 TCSH0003s
+GP 5 190 0
+GS 5 1
+GS 3 0
+SEF 109 0
+WVS 1 1
+WVP 0 vmCCC3004sku001
+//桜庭「ああ」
+Sakuraba: "Yeah."
+TP
+
+//桜庭はクールな物事で立ち上がると、突っ込んだまま抜けなくなった指からビンをぶらさげたまま、語り出した。
+Sakuraba stood like something cool, dangling an empty bottle stuck in his finger in ways seemingly unextractable, and begins to speak.
+//Ohhh here it comes. -GHS
+TP
+WVP 1 bgm006.ogg 0 0 0
+
+GL 5 TCSH0000s
+GI 5 0
+
+WVP 0 vmCCC3004sku002
+//桜庭「今日はみんなに、柿の種の教訓を話したいと思う」
+Sakuraba: "Today, I would like to hold a lesson with everyone regarding the Kaki, or Japanese persimmon."
+//http://en.wikipedia.org/wiki/Kaki_no_tane - the term can very nearly translate to 'parable' here, but let's not be TOO explicit... -GHS
+TP
+
+//太一「いいぞ先生！」
+Taichi: "Awesome, sensei!"
+TP
+
+WVP 0 vfCCC3004msa004
+//見里「指、鬱血しますよ」
+Misato: "You are cutting off circulation to your finger."
+//I admit to not getting the point of doing this with a finger stuck in a bottle. I could imagine it's a metaphor for how he's choking down his own penis, but that seems weird even by the standards of this thing. -GHS
+TP
+
+GL 5 TCSH0003s
+GI 5 0
+WVP 0 vmCCC3004sku003
+//桜庭「柿の種にピーナッツ入っているものがある。知っているな」
+Sakuraba: "There is a type of seed of persimmon, or Kaki no Tane, that is actually a peanut-based snack usually served with beer. Did you know?"
+TP
+
+//無視して桜庭は話す。というか聞こえてない。
+Sakuraba speaks, ignoring us. Or should I say, unable to hear us.
+//THIS! IS! IMPORTANT!!! -GHS
+TP
+
+//美希はこくこくと頷く。
+Bob bob steady nod goes Miki.
+//PCP CCB0002
+TP
+
+//素直だ。
+How upfront.
+//See CCA0004 -GHS
+TP
+
+GL 5 TCSH0000s
+GI 5 0
+WVP 0 vmCCC3004sku004
+//桜庭「そのピーナッツが許せないという奴は、意外と多い」
+Sakuraba: "And people that won't accept these peanuts being referred to as Kaki no Tane are unexpectedly many."
+TP
+
+WVP 0 vfCCC3004mki004
+//美希「そうですね」
+Miki: "True that."
+TP
+
+GL 5 TCSH0003s
+GI 5 0
+WVP 0 vmCCC3004sku005
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　ぎまん
+//桜庭「オレはつねづね、その欺瞞が許せなかった。なぜだと思う？」
+Sakuraba: "But I, myself, do not normally accept that as anything but a deceit. Why do you think that is?"
+//欺瞞, same word Taichi used in the scene above. Remember that Sakuraba understands everything, whether he understands that or not. -GHS
+TP
+
+//太一「は、ピーナッツが入ってこそ、ピーナッツ入り柿の種であるからですな？」
+Taichi: "Ah, because certain peanuts are called Seeds of Persimmon, that would mean there are necessarily some peanuts that are of the genus of persimmon, and therefore persimmon trees that grow from these peanuts?"
+//The logic is inescapable. The peanut snack are the humans, while the Seeds of Persimmon is the Blood of Christ. Can something that's not even remotely similar even become of Christ on the word of someone (hint, that's God)? That's the point of this parable. The most frustrating thing is that Taichi understands all this but just. won't. get. it. -GHS
+TP
+
+GL 5 TCSH0002s
+GI 5 0
+WVP 0 vmCCC3004sku006
+//桜庭「そうだ。イヤなら純正の柿の種を食えばいい。ピーナッツ入り柿の種を手にピーナッツがイヤなどという弱音は、ピーナッツ入り柿の種の尊厳を損なうものだからだ」
+Sakuraba: "Indeed. If you don't like that, then go eat actual persimmon seeds. Complaining that in peanut-based Kaki no Tane there should not be peanuts is to undermine the dignity of the persimmon-genus peanut."
+//This might make a bit more sense after the cut scene of their drinking alcohol... but considering this has nothing to do with actual persimmon or peanuts, maybe not. -GHS
+TP
+
+WVP 0 vmCCC3004sku007
+//桜庭「欺瞞だ」
+Sakuraba: "That's a deceit."
+//Starting to feel like this should be translated as "troll". -GHS
+TP
+
+//太一「おっしゃる通り！」
+Taichi: "Hear, hear!"
+TP
+
+GL 5 TCSH0000s
+GI 5 0
+WVP 0 vmCCC3004sku008
+//桜庭「だからオレは、あえて柿の種のピーナッツだけを食っている」
+Sakuraba: "Therefore, I dare venture to only eat Kaki no Tane made of peanuts that grow from persimmon trees that have grown from persimmon-genus peanuts."
+//And this all, somehow, ends up into curry. I used to end that with "because Cross Channel", but I since tried Kaki no Tane, and they're damn spicy - ergo the connection! -GHS
+TP
+
+//太一「……馬鹿かおまえは」
+Taichi: "...you stupid or something?"
+TP
+
+//醒めた。
+I sober up.
+TP
+
+GL 5 TCSH0002s
+GI 5 0
+WVP 0 vmCCC3004sku009
+//桜庭「わかってくれたか」
+Sakuraba: "Do you understand now?"
+//... -GHS
+TP
+
+//太一「聞けよ」
+Taichi: "You listening or not!"
+//PCP CCC0003B (for whatever reason)
+TP
+
+GL 5 TCSH0000s
+GI 5 0
+WVP 0 vmCCC3004sku010
+//桜庭「たまに右の耳が遠い」
+Sakuraba: "Sometimes I can't hear well from the right ear."
+TP
+
+//これは本当だ。
+That is true.
+TP
+
+//日常生活に支障はないのだが。
+There's no impediment in normal life, though.
+//PCP CCC0021
+TP
+
+//太一「オレを素に戻らせたおまえの引かせパワー、許し難い」
+Taichi: "Your Pulling Power caused me to return to unembellishment, irremissible!"
+//Hmmm, see CCA0006, CCA0015B, CCX0001. This may be referring to his admission above that he understands his argument perfectly, even metaphorically, perhaps even better than Sakuraba himself does... -GHS
+TP
+
+//太一「おまえのサクラバという苗字から、女王陛下の名においてクの文字を剥奪する」
+Taichi: "I shall take your first name of Hiroshi, feminize it adequately, and make it in a name fit to be an appellation of Her Majesty the Queen!"
+TP
+GL 5 TCSH0003s
+GI 5 0
+
+WVP 0 vmCCC3004sku011
+//桜庭「なに？」
+Sakuraba: "What?"
+TP
+
+//太一「おまえは今日からサラバだ。さらば桜庭。こんにちはサラバ」
+Taichi: "From this day you will be known as Hirochelle. Hirochelle Sakuraba. Fare thee well, Hi-rochelle."
+//1) needs to be queenly so it fits with Taichi the 一姫 (see CCC0000) 2) needs to sort of be a greeting 3) still needs to be an adequate mangling of Sakuraba Hiroshi 4) still have some unique referral that still doesn't sound silly due to 'saraba' being the farewell he often gives at the end of Sendback, see CCD2002 and more.
+//This one has point 2 a bit forced, but fits point 1 much more strongly (feminization) as well as satisfying 3. 4 is a bit of a wash, but given that most won't connect Saraba with that anyway, as it's a reference that demands a precise understanding of what Sakuraba represents in terms of interpretation, I guess I can just fudge. -GHS
+TP
+
+//言葉って面白い。
+Language is so much fun.
+//TL Note: XXXXXXXXXXXXXXXXXXXX you. -GHS
+TP
+
+GL 5 TCSH0002s
+GI 5 0
+WVP 0 vmCCC3004sku012
+//桜庭「わかった」
+Sakuraba: "Got that."
+TP
+GL 4 TCST0005s
+GP 4 20 0
+GP 5 350 0
+GS 5 1
+GS 4 1
+SEF 109 0
+
+WVP 0 vmCCC3004yki004
+//友貴「いや、認めるなってば」
+Tomoki: "No, don't just agree to it..."
+TP
+
+WVP 0 vmCCC3004sku013
+//桜庭「オレの話はこれで終わりだ」
+Sakuraba: "My talk is with this concluded."
+TP
+GO 5 1
+//再び座り込むと、ビンを抜くため指をひねりはじめた。
+Flopping down again, he begins to twist his finger to disentangle it from the bottle.
+//There was a bottleneck in here? -GHS
+TP
+
+GL 3 TCMM0005s
+GP 3 225 0
+GS 5 0
+GS 4 0
+GS 3 1
+SEF 109 0
+WVP 0 vfCCC3004msa005
+//見里「……こんな人たちです」
+Misato: "...seriously, you people."
+TP
+
+//まとめていた。
+Collectively.
+//Meaning she included them all. Same joke as the one Tomoki'll use, see CCA0007 -GHS
+TP
+GL 1 TCYM0003s
+GL 2 TCSK0002s
+//HACK eyes closed Kiri -GHS
+GS 1 1
+GS 2 1
+GP 1 40 0
+GP 2 345 0
+GS 3 0
+SEF 109 0
+
+WVP 0 vfCCC3004mki005
+//美希「よくわかりました」
+Miki: "I learned a lot."
+TP
+
+//霧「……」
+Kiri: "..."
+TP
+GL 3 TCMM0021s
+GS 1 0
+GS 2 0
+GS 3 1
+SEF 109 0
+
+
+WVP 0 vfCCC3004msa006
+//見里「やっていけそうですか？」
+Misato: "Does it seem like you could get along here?"
+TP
+GL 1 TCYM0003s
+GL 2 TCSK0002s
+//HACK same -GHS
+GS 1 1
+GS 2 1
+GP 1 40 0
+GP 2 345 0
+GS 3 0
+SEF 109 0
+
+WVP 0 vfCCC3004mki006
+//美希「なんとか、平気そうです。ね、さくちん？」
+Miki: "For some reason, I feel alright here. Don't you, Saku-chin?"
+//Still on sorta-last name basis. -GHS
+TP
+
+GL 2 TCSK0003s
+GI 2 0
+
+WVP 0 vfCCC3004kri042
+//霧「……やっていけと先生に言われましたんで」
+Kiri: "...I was told by the teachers to work with this."
+//"Make this work" seems better, but given her personality that'd be an intentionality that doesn't seem to be in the original. See CCC4009: there's difficulties in joining the club, even for them; seems more sensical that the teacher(s) would tell her to 'work with this' in general, not just to get in the club. -GHS
+TP
+
+GL 3 TCMM0002s
+GS 1 0
+GS 2 0
+GS 3 1
+SEF 109 0
+
+WVP 0 vfCCC3004msa007
+//見里「まあ、無理強いではないので……イヤだったら抜けてもいいですから」
+Misato: "Well, compulsion is not right, so... if you dislike it here, it is fine for you to leave."
+//Paraphrasis: "please get the hell out of here so I can have my escape already" -GHS
+TP
+
+//太一「あん、だめぇ……職場には花がいるのぉ」
+Taichi: "Awww, no waaay... the workplace needs floweeers!"
+TP
+
+GL 3 TCMM0000s
+GI 3 0
+WVP 0 vfCCC3004msa008
+//見里「……だそうです」
+Misato: "...so it seems to."
+TP
+
+//買収するか。見ればまだガキだし、もので釣るのがいいだろ。
+Should we bribe them? Looking at them, they seem to be still brats, so we should be fine fishing with a lure.
+//You insipid machiavellist. -GHS
+TP
+
+//太一「買収するか。見ればまだガキだし、もので釣るのがいいだろ。入部祝い作戦だ」
+Taichi: "Should we bribe them? Looking at them, they seem to be still brats, so we should be fine fishing with a lure. The Congratulatory Gift for Club Joinance Strategy."
+//PCP above, one suuubtle addition. -GHS
+TP
+
+GL 4 TCST0003s
+GP 3 20 0
+GP 4 360 0
+GS 4 1
+GS 3 1
+SEF 109 0
+WVP 0 vmCCC3004yki005
+//友貴「また口に出してるから、太一」
+Tomoki: "You passed thoughts through the mouth again, Taichi."
+//See CCA0023. Wait, how does HE know?! Then again, right around here things get weird. It's very possible that he's not seeing things straight right now, and his memories are beginning to jumble. See CCX0001: a scene like this is right how it begins. -GHS
+TP
+GL 1 TCYM0000s
+GL 2 TCSK0002s
+GS 1 1
+GS 2 1
+GP 1 40 0
+GP 2 345 0
+GS 3 0
+GS 4 0
+SEF 109 0
+
+//美希「……」
+Miki: "..."
+TP
+
+//霧「……」
+Kiri: "..."
+TP
+
+//太一「んー、よしこれだ」
+Taichi: "Hum, these would be right."
+TP
+
+//太一袋から二つのアイテムを取り出す。
+From the Taichi Bag I extract but two [ITEM]s.
+//Equippable RPG objects, not random items. -GHS
+TP
+
+//太一「ヤマンバ美希隊員！」
+Taichi: "Private 『Mountain Witch * Yamanba』 Miki!"
+//山姥. This is, naturally, wholly unimportant for the alien magician of words that's a Harry Potter and Charmed reference with supernatural powers derived from reset avoidance who is also the pupil turned villain and an angel or maybe Lucifer and gets crucified for destroying the Tower of Bab-- friends. This is never going to sound credible, is it. -GHS
+TP
+
+GL 1 TCYM0003s
+GI 1 0
+
+WVP 0 vfCCC3004mki008
+//美希「おす、ヤマノベです。はい！」
+Miki: "Oss, this is Yaman-O-be. Yes!"
+TP
+
+//アイテムの一つは色紙。
+One of the [ITEM]s is an elegant colored card.
+TP
+
+//太一「君にはあの大スターにして整形のプロ、ちょっとやんちゃんな少年だいすきマイルドロボ、マイ○ル・ジャク○ン―――」
+Taichi: "For you, from that superstar turned plastic surgery expert, that Mild Robot who just a bit loves 'em mischievous little boys, Mic**el Jack**n's---
+//The origin of the MateBook game? http://www.theoldrobots.com/smallbot43e.html it's really just called Mild Robot. Yes, he just called MJ a pedo. Lolicon is a Disease, Michael! Well, it's dated material anyway. -GHS
+TP
+GL 1 TCYM0004s
+GI 1 0
+WVP 0 vfCCC3004mki009
+//美希「サ、サイン色紙っすか！？」
+Miki: "A-, autograph card?!"
+TP
+
+//太一「を心の師と仰ぐ愛貴族・黒須太一のサインをあげよう」
+Taichi: "...most fervent admirer and heartfelt inspiree, the autograph of the 『Aristocrat of Love * Kurosu Taichi』."
+//Full sentence is "From that Michael Jackson's inspiree, the autograph of Kurosu Taichi". Yeah, grammar's forced. -GHS
+TP
+
+//押しつけた。
+I impose it on her.
+TP
+
+GL 1 TCYM0002S
+GI 1 0
+//HACK sadder Miki -GHS
+
+WVP 0 vfCCC3004mki010
+//美希「ぁゃゃ」
+Miki: "(Ayaya)"
+TP
+
+//太一「ぉょょ」
+Taichi: "(Oyoyo)"
+//I can't find much credible on this pair. They seem to just be cutesy sounds. -GHS
+TP
+
+//太一「で、佐倉霧隊員！」
+Taichi: "Next, Private Sakura Kiri!"
+TP
+GL 1 TCYM0000s
+GL 2 TCSK0000s
+GI 2 0
+GI 1 0
+
+WVP 0 vfCCC3004kri044
+//霧「……え？」
+Kiri: "...eh?"
+TP
+
+//太一「君にはベースボールを今たらしめたビックマン、ベー○・ルース―――」
+Taichi: "To you, from the Big Man who is right now baseball himself, Ba*e Luth's---
+//See CCA0025B. Intentional mislomanization. AFAIK 'bikkuman' is just an alternate transliterating for big man (instead of bigguman), except... http://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E6%98%A0%E5%83%8F Look who's down there. -GHS
+TP
+GL 2 TCSK0002s
+GI 2 0
+
+//霧「……」
+Kiri: "..."
+TP
+
+//太一「太一人形を進呈しよう」
+Taichi: "You are presented with a Taichi Doll."
+//See CCC0000, CCC3025. Once more Taichi thinks he's the Popular Heroine. Want even more meta creepy? Compare a certain girl in Kana: Little Sister... -GHS
+TP
+
+GL 3 TCMM0005s
+GP 3 225 0
+GS 1 0
+GS 2 0
+GS 3 1
+SEF 109 0
+
+WVP 0 vfCCC3004msa009
+//見里「繋がってないじゃないですか」
+Misato: "Those two sentences are not connected are they."
+TP
+
+GL 3 TCMM0000s
+GI 3 0
+WVP 0 vfCCC3004msa010
+//見里「も、ぜんぜんですよ、ぜんぜん」
+Misato: "Really, they are not, not at all."
+TP
+
+//先輩は眼鏡をつけていることからもわかる通り（？）規則の人。
+Senpai, exactly as understandable from her vision magnified by glasses(?), is a person of rules.
+//Glasses also literally means discernment, not exactly a small detail with her character given how clearly she sees through Taichi's act (and, by reflection, how Yusa does). I'd almost say "of course", but while I'm aware of the fetishism, I'm still reeling in shock that there isn't a directly sexual meaning in this Japanese word. How many does that make now? Five? -GHS
+TP
+
+//無秩序なものは気になるらしい。
+She appears to feel unease with all that is disordered.
+//Which explains her annoyance in CCA0027, which Miki imitates in CCA0015. This apparently random detail is important in the context of the Kiri route, as this is Kiri's behavior as well. Just like everyone's much more tsun in Touko's route. -GHS
+TP
+
+GL 4 TCST0000s
+GP 3 20 0
+GP 4 360 0
+GS 4 1
+GS 3 1
+SEF 109 0
+
+WVP 0 vmCCC3004yki006
+//友貴「さては反応がなかったからはしょったな」
+Tomoki: "That was because there wasn't any reaction, so he cut it short."
+TP
+
+//太一「……さあ、佐倉君。明けても暮れてもこの人形を肌身離さずかき抱き泣き濡れる夜の小さな友にしても良い」
+Taichi: "...well then, Sakura-kun. Carry this doll with you always, day in and day out, that you may clasp it to your bosom for it to be your tiny pal on those tear-filled nights."
+//It should be most revealing that she does hang on to it. -GHS
+TP	
+GL 2 TCSK0002s
+GP 2 190 0
+GS 2 1
+GS 3 0
+GS 4 0
+SEF 109 0
+
+//霧「…………」
+Kiri: "......"
+TP
+
+//手も出さなかったので、ひもで首にかけた。
+So as it will not slip from the hand, I had hung its neck with a cord.
+//...not even subtext... -GHS
+TP
+GL 1 TCYM0021s
+GP 1 180 0
+GS 2 0
+GS 1 1
+SEF 109 0
+
+WVP 0 vfCCC3004mki011
+//美希「ご自分で作られたので？」
+Miki: "Did you make this all by your own?"
+TP
+
+//太一「そうとも」
+Taichi: "Exactly right."
+//I'd still bet on Youko. -GHS
+TP
+
+GL 5 TCSH0000s
+GP 5 190 0 0
+GS 1 0
+GS 5 1
+SEF 109 0
+
+WVP 0 vmCCC3004sku014
+//桜庭「まめなやつだ」
+Sakuraba: "Produceful guy him."
+//まめ mamu = assiduous, legume -GHS
+TP
+
+GL 1 TCYM0003s
+GS 5 0
+GP 1 180 0
+GS 1 1
+SEF 109 0
+WVP 0 vfCCC3004mki012
+//美希「ピーナッツ専門なだけに、言うことも穀物的なんですね～」
+Miki: "If the peanuts expert says it, it must be cereally so～!"
+//Bounce on the above. -GHS
+TP
+
+
+GL 5 bgcc0000E
+GP 5 0 0
+GI 5 0
+WT 25 0
+GO 5 0
+//HACK Sorry again, epileptics. -GHS
+
+
+WVP 0 vmCCC3004goo000
+//三人「！！！」
+Trio: "!!!"
+TP
+
+
+
+
+//俺と桜庭と友貴は、顔を見合わせた。
+Me and Sakuraba and Tomoki's gazing faces met.
+TP
+
+//このギャグは気に入った。
+That was a very pleasing gag.
+TP
+
+//太一「合格」
+Taichi: "Pass."
+TP
+
+WVP 0 vmCCC3004yki008
+//友貴「うん」
+Tomoki: "Yeah."
+TP
+
+WVP 0 vmCCC3004sku016
+//桜庭「いい」
+Sakuraba: "Fine."
+TP
+
+//美希に親指を立てた。
+We stuck our thumbs up at Miki.
+//PCP CCA0019
+TP
+GL 1 TCYM0004s
+GI 1 0
+
+WVP 0 vfCCC3004mki013
+//美希「え……あれ、はい？」
+Miki: "Eh... what, yes?"
+TP
+
+GL 2 TCSK0002s
+GS 1 0
+GS 2 1
+GP 2 190 0
+SEF 109 0
+
+WVP 0 vfCCC3004kri047
+//霧「…………ぽいっと」
+Kiri: "......and, toss."
+TP
+GL 2 TCSK0003s
+GI 2 0
+
+WVP 0 vfCCC3004kri048
+//霧「あれ、取れない？」
+Kiri: "What, it won't come off?"
+//She's still wearing the wrist strap, isn't she. -GHS
+TP
+
+//霧は人形を捨てようとしていた。
+Kiri was trying to discard the doll.
+//See below, RPG term. Now he's definitely conflating stuff with videogames. -GHS
+TP
+
+//太一「待てーい！」
+Taichi: "Waaaity!"
+TP
+
+GL 2 TCSK0001s
+GI 2 0
+WVP 0 vfCCC3004kri049
+//霧「むっ」
+Kiri: "Mngh!"
+TP
+
+//しまったという顔。
+"Dammit", says her face.
+TP
+
+//太一「捨てようとしたのか？　捨てようとしたんだろう？」
+Taichi: "Were you trying to throw it away? Did you believe you could throw it away?"
+TP
+
+//勝ち誇る。
+Gloating.
+TP
+
+//太一「残念だったな、『たいちにんぎょうをすてるなんてとんでもない！』のだ！」
+Taichi: "It is most unfortunate, for 『DISCARDING THE TAICHI DOLL IS UNTHINKABLE!』"
+//I should probably force the slowest autoread and have an SFX for every letter for proper effect. This system message is about to become Fixed. -GHS
+TP
+
+GL 2 TCSK0002s
+GI 2 0
+WVP 0 vfCCC3004kri050
+//霧「意味がわかりません」
+Kiri: "I do not understand what you mean."
+TP
+
+//太一「すげー重要なアイテムなんだよ！」
+Taichi: "It's a reeeally important [KEY ITEM] that's what!"
+//That's how typically these items are categorized in old RPGs, like kawaii kingdom harts, beath of flam, faunal fantasy and dragon forceps -GHS
+TP
+
+//太一「だから捨てようとしても無理なのだ」
+Taichi: "Therefore, even if you want to discard it, it's impossible to do so."
+TP
+GL 2 TCSK0001s
+GI 2 0
+
+WVP 0 vfCCC3004kri051
+//霧「……呪いですか」
+Kiri: "...is it cursed?"
+TP
+
+GL 1 TCYM0004s
+//HACK shocked Miki -GHS
+GP 1 180 0
+GS 1 1
+GS 2 0
+SEF 109 0
+
+WVP 0 vfCCC3004mki014
+//美希「わー、じゃこのサインも！」
+Miki: "Bwaaah, then this autograph too!"
+//...and she's just playing along... -GHS
+TP
+
+//美希はサインを窓から捨てようとする。
+Miki tries to toss the autograph out the window.
+TP
+
+//どこからともなく声が響く。
+A voice resounds suddenly from nowhere.
+//Hallucination. -GHS
+TP
+
+TWS 7
+GL 5 zzzblackblend
+GP 5 0 0
+GI 5 1
+//HACK NVL mode -GHS
+
+//『らぶきぞくのサイン』はすてられない！
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+    『LOVE ARISTO ATGRPH』 CANNOT BE DISCARDED!
+//it's precisely 2x9 characters, so it fits in the ROM hack. -GHS
+WVP 2 se108 1 0
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+
+GL 1 TCYM0001s
+GI 1 0
+GP 1 165 15
+GI 1 0
+GP 1 180 30
+GI 1 0
+GP 1 195 15
+GI 1 0
+GP 1 180 0
+GI 1 0
+//HACK independent doll shake -GHS
+
+WVP 0 vfCCC3004mki015
+//美希「はゃんっ！？」
+Miki: "Whmeow?!"
+TP
+
+//太一「わはははははは！」
+Taichi: "Wahahahahahahah!"
+TP
+GL 3 TCST0003s
+GP 3 190 0
+GS 3 1
+GS 1 0
+SEF 109 0
+
+
+WVP 0 vmCCC3004yki009
+//友貴「魔法使いかおまえは」
+Tomoki: "You a Magician or something?"
+//See Yamanba. No, this is just him hallucinating. He's probably fast asleep by now. Going with Nasuverse reference, it fits with his Reality Manipulation skills and all. -GHS
+TP
+GL 4 TCMM0005s
+GP 3 20 0
+GP 4 360 0
+GS 4 1
+GS 3 1
+SEF 109 0
+
+WVP 0 vfCCC3004msa011
+//見里「入部祝いどころか……入部呪いじゃないですか」
+Misato: "Congratulatory Gift for Club Joinance... it is more like the Congratulatory Curse for Club Joinance is it not!"
+//祝 vs 呪. That's kinda weak, nee-chan. But I suppose good ol' Monk had it right: it's a gift... and a curse. -GHS
+TP
+
+//前後の扉が同時に開く。
+Front and rear doors open simultaneously.
+//So it has two doors like a classroom I guess? This is never clarified. I don't think Yutaka came in from the broadcast room, and Touko doesn't seem to be angry that she was locked into someplace as she justly deserves the damn tsundere amirite amirite. Also this is now a double entendre for double penetration because Japan. -GHS
+TP
+
+GL 1 TCSY0000s
+GL 2 TCKT0003s
+GP 1 20 0
+GP 2 340 0
+GS 1 1
+GS 2 1
+GS 3 0
+GS 4 0
+SEF 109 0
+WVP 0 vmCCC3004shi008
+//新川「ちーす、霧って来てるかー？」
+Shinkawa: "'ullo, Kiri came din't she?"
+TP
+
+
+WVP 0 vfCCC3004fyu000
+//冬子「ちょっと太一！　待っててって言ったじゃないの！　どうして一人で行っちゃうのよ！」
+Touko: "Seriously, Taichi! Did I not tell you to wait did I not! Whyyy did you go on alone now!"
+//She seems in the middle of her too-sticky period, likely not long before the format. -GHS
+TP
+
+//同時の来客。
+Simultaneous visitors.
+TP
+
+GL 1 TCMM0002s
+GP 1 225 0
+GS 1 1
+GS 2 0
+SEF 109 0
+
+WVP 0 vfCCC3004msa012
+//見里「まあ、いらっしゃい」
+Misato: "Ahhh, welcome!"
+TP
+
+WVP 0 vfCCC3004msa013
+//見里「二人もお客さん。冷たいお茶を出しましょう」
+Misato: "Two more guests. Let us serve some cold tea."
+//Besides her, that's Kiri, Miki, Taichi, Sakuraba, Tomoki, Touko, Yutaka - seven total. That seems to be as many as she can manage. -GHS
+TP
+GO 1 1
+//あたふたと冷蔵庫に。
+In a flurry to the refrigerator.
+TP
+
+GL 5 TCSH0000s
+GP 5 190 0
+GI 5 1
+
+WVP 0 vmCCC3004sku017
+//桜庭「今日の冷蔵庫はカラだぞ、部長先輩」
+Sakuraba: "Today the fridge is emptiness, President-senpai."
+TP
+
+GL 1 TCMM0005s
+GP 1 30 0
+GP 5 340 0
+GS 1 1
+GS 5 1
+SEF 109 0
+
+WVP 0 vfCCC3004msa014
+//見里「はうっ」
+Misato: "Haw!"
+TP
+
+GL 1 TCMM0002s
+GI 1 0
+
+
+WVP 0 vfCCC3004msa015
+//見里「ちょっと買ってきますんで、ひきとめておいてください！」
+Misato: "I will go buy a bit, please detain them!"
+//Doesn't seem to actually have a positive meaning... -GHS
+TP
+
+//太一「らじゃる」
+Taichi: "Roger that."
+//"Rogering" is a bit too much. -GHS
+TP
+GL 2 TCKT0002s
+GP 2 230 0
+GS 2 1
+GS 1 0
+GS 5 0
+SEF 109 0
+
+WVP 0 vfCCC3004fyu001
+//冬子「あ、いいです……そんなの……」
+Touko: "Ah, I am fine... there is no need..."
+TP
+GL 1 TCMM0002s
+GP 1 230 0
+GS 1 1
+GS 2 0
+SEF 109 0
+WVP 0 vfCCC3004msa016
+//見里「絶対ですよー！」
+Misato: "There is absolute need!"
+//Flight -GHS
+TP
+GO 1 1
+//ぱたぱた腕を振りながら、廊下に消えた。
+Her swaying arms flapping around, she vanishes in the corridor.
+TP
+GL 2 TCSK0000s
+//GP 2 190 0
+//GI 2 1
+GL 3 TCSY0000s
+GP 2 40 0 0
+GP 3 340 0 0
+GS 2 1
+GS 3 1
+SEF 109 0
+//HACK both dolls right away. -GHS
+
+WVP 0 vfCCC3004kri052
+//霧「……豊、なにしにきたの？」
+Kiri: "...Yutaka, what did you come here for?"
+//What respect Kiri has for Yutaka/bis. -GHS
+TP
+
+WVP 0 vmCCC3004shi009
+//新川「いちおう挨拶に。その……身内が世話になるわけだしよ」
+Shinkawa: "Just giving my greetings as far as it goes. Well... gotta be nice to the people who take care of your relatives."
+TP
+
+GL 2 TCSK0002s
+GI 2 0
+WVP 0 vfCCC3004kri053
+//霧「いらない。帰ってよ」
+Kiri: "Unnecessary. Leave."
+//What respect Kiri has for Yutaka/ter. -GHS
+TP
+
+//押し出そうとする。
+She tries to push him out.
+TP
+WVP 0 vmCCC3004yki010
+//友貴「新川も入部するんだ？」
+Tomoki: "You joining the club too, Shinkawa?"
+TP
+
+GL 3 TCSY0002s
+GI 3 0
+WVP 0 vmCCC3004shi010
+//新川「えっ、俺野球部だし」
+Shinkawa: "Eh, I'm in the Baseball Club me."
+TP
+
+
+GL 1 TCYM0021s
+GS 1 1
+GS 2 0
+GP 1 0 0 0
+SEF 109 0
+
+
+WVP 0 vfCCC3004mki016
+//美希「野球部なんてありましたっけ？」
+Miki: "We actually have have a Baseball Club?"
+TP
+
+
+WVP 0 vmCCC3004sku018
+//桜庭「ひたすら野球盤を遊ぶ、部員三人だけの組織だ」
+Sakuraba: "They're playing Baseball Pinball with all they have, even if their entire club strength is three people."
+//http://ja.wikipedia.org/wiki/%E9%87%8E%E7%90%83%E7%9B%A4 -GHS
+TP
+
+GL 1 TCYM0001s
+GI 1 0
+WVP 0 vfCCC3004mki017
+//美希「……はえー、ふぁにーな」
+Miki: "...haeeeh, fuanny that."
+//Looks odd in hiragana, but that's still read "funny". ...though it probably means more the "weird" kind of "funny". -GHS
+TP
+
+//太一「この学校自体ふぁにーだからな」
+Taichi: "That's because this school itself is fuanny."
+TP
+
+GL 2 TCKT0003s
+GS 1 0
+GS 2 1
+GS 3 0
+GP 2 230 0
+SEF 109 0
+
+WVP 0 vfCCC3004fyu002
+//冬子「あー、太一！　あんたいったいどういうつもりで約束すっぽかして……」
+Taichi: "Ahhh, Taichi! What the devil do you think you are doing, making arrangements and then standing people up..."
+//Same as above. Curiously, she gets very possessive *before* she joins. Or maybe, since this part seems to be Taichi's hallucination, maybe she's tsundere here for the same reason Sakuraba was blonde in his dream: he just confuses future with past. -GHS
+TP
+
+//太一「アイテムは人に譲ることはできるぞ」
+Taichi: "It is possible to bestow [ITEM]s to people."
+//...and that's possibly the reason this is where things get odd. Now he has Touko playing along! -GHS
+TP
+
+GL 1 TCYM0003s
+GS 1 1
+GS 2 0
+GP 1 180 0
+SEF 109 0
+WVP 0 vfCCC3004mki018
+//美希「あの、桐原先輩、これあげます！」
+Miki: "Uhm, Kirihara-senpai, I am giving you this!"
+TP
+GL 2 TCKT0001s
+GP 2 230 0
+GS 1 0
+GS 2 1
+SEF 109 0
+
+WVP 0 vfCCC3004fyu003
+//冬子「え？」
+Touko: "Eh?"
+TP
+
+//受け取る。
+Received.
+TP
+
+GL 2 TCKT0004s
+GI 2 0
+WVP 0 vfCCC3004fyu004
+//冬子「やだコレ？　手から離れないわよ？　え、接着剤？」
+Touko: "What the yuck is this? I can't even release it from my hand?! Eh, is it glue?"
+TP
+
+//ぷんぷん振るが離れない。
+Angry angry shaking, but there's no dropping it.
+TP
+
+
+WVP 0 vfCCC3004fyu005
+//冬子「ちょっと、どういうことよっ！？」
+Touko: "Hold on, whaaat's the meaning of this?!"
+TP
+
+
+TWS 7
+GL 5 zzzblackblend
+GP 5 0 0
+GI 5 1
+//HACK NVL mode -GHS
+
+//『らぶきぞくのサイン』はすてられない！
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+    『LOVE ARISTO ATGRPH』 CANNOT BE DISCARDED!
+WVP 2 se108 1 0
+//CP two lines below
+TP
+//『らぶきぞくのサイン』はすてられない！
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+    『LOVE ARISTO ATGRPH』 CANNOT BE DISCARDED!
+//CP some lines above
+WVP 2 se108 1 0
+TP
+//『らぶきぞくのサイン』はすてられない！
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+    『LOVE ARISTO ATGRPH』 CANNOT BE DISCARDED!
+//CP two lines above
+WVP 2 se108 1 0
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+
+//太一「無意味にすてるコマンドを繰り返すな。システムメッセージがうるさい」
+Taichi: "Don't just keep wailing on that Discard command over and over. System messages are annoying."
+TP
+
+GL 2 TCKT0003s
+GI 2 0
+WVP 0 vfCCC3004fyu006
+//冬子「わけわかんないし聞こえないそんなメッセージ」
+Touko: "I don't understand at all I can't hear any messages!"
+//Sorta-unconnected. Very interesting that she can't toss it but she can't hear the chuuni stuff either... -GHS
+TP
+
+//太一「人にあげるしかないな」
+Taichi: "You gotta give it to someone, that's it."
+TP
+
+WVP 0 vfCCC3004fyu007
+//冬子「じゃあアンタが責任取ってもらいなさいよ！」
+Touko: "Than youuu go and take it as your responsibility!"
+TP
+
+TWS 7
+GL 5 zzzblackblend
+GP 5 0 0
+GI 5 1
+//HACK NVL mode -GHS
+
+//たいちにはあげられない！
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+          CANNOT BE GIVEN TO "Taichi"!
+WVP 2 se108 1 0
+//Ah, that one for some reason goes to read the speaker labels, so it works properly. Never a l33t r0m h@ck3r when you need one, grumble grumble -GHS
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+WVP 0 vfCCC3004fyu008
+//冬子「どうしてよ！」
+Touko: "Why even!"
+TP
+
+//太一「仲間でないと受け渡しはできないんだ」
+Taichi: "If they're not part of your Nakama, then handing it over is impossible."
+//TVTropes switched this to True Companions, I won't forgive this!! except at times because that's an adequate adaptation. Hum, this would mean that Miki and Touko are Nakama... or that Taichi makes rules up as he goes, yeah. -GHS
+TP
+
+//太一「おまえと俺とは他人も同然だから、受け渡しはできない」
+Taichi: "You and I are no better than strangers, so you can't hand it over to me."
+//It's also the term he uses to identify someone he doesn't recognize as Alter Ego, as when he teases Youko in CCC3012B. -GHS
+TP
+
+GL 2 TCKT0004s
+GI 2 0
+//冬子はぱくぱくと口を開閉させた。金魚みたい。
+//Paku paku Touko snaps open and shut her mouth. Just like Puck-man.
+Pak-pak, she makes her mouth open and close. Just like a goldfish.
+//PCP CCA0016
+//Told you it had to do with arcade games. -GHS
+TP
+
+GL 2 TCKT0003s
+GI 2 0
+WVP 0 vfCCC3004fyu009
+//冬子「な、な、なんですってー！！」
+Touko: "Wha-, wha-, WHAAAT did you SAAAY!!!"
+TP
+
+//太一「あきらめて部員になるのだな」
+Taichi: "Give it up and become a club member already."
+TP
+
+GL 2 TCKT0011S
+GI 2 0
+//HACK pissed off Touko
+
+WVP 0 vfCCC3004fyu010
+//冬子「もきーーーーーーーーーーっ！！」
+Touko: "MokYYYYYYYYYY!!!"
+//Also used by Taichi in CCA0030. See CCZAS: she acts very close to the way she does in what is explicitly Taichi's moege hallucination. Perhaps Touko's True Tsundere Period predated their actual relationship, perhaps it's another hint that this part doesn't (quite) happen. -GHS
+TP
+
+GL 1 TCSK0003s
+GP 1 40 0
+GS 1 1
+GL 2 TCSY0001s
+GP 2 360 0
+GS 2 1
+SEF 109 0
+//HACK both dolls in right away -GHS
+WVP 0 vfCCC3004kri054
+//霧「いいからはやくかえってよー！　恥ずかしいんだから！」
+Kiri: "We're fine so hurry and leave! This is embarrassing!"
+TP
+
+
+WVP 0 vmCCC3004shi011
+//新川「だってうまくやってんのかどうか心配じゃんかー……おっまえ頼りないしさ……」
+Shinkawa: "But I gotta be worried that this ain't going well ain't I? ...yer so unreliable..."
+//Ouch. -GHS
+TP
+GL 1 TCSK0002s
+GI 1 0
+WVP 0 vfCCC3004kri055
+//霧「うまくやるから。かえって、へいきだから」
+Kiri: "This is going well. So go away, we're fine."
+//See CCD0021/22A. Nothing good's associated with this. -GHS
+TP
+GL 3 TCSH0002s
+GS 2 0
+GS 1 0
+GP 3 190 0 0
+GS 3 1
+SEF 109 0
+WVP 0 vmCCC3004sku019
+//桜庭「ふ、賑やかだな、今日は」
+Sakuraba: "Hu, bustling day today."
+TP
+
+//ぽつりと、桜庭が呟く。
+Sakuraba muttered with a sigh.
+//See CCC0041. Hum, maybe this is meant literally... -GHS
+TP
+GL 4 TCST0000s
+GP 4 360 0 0
+GP 3 10 0 0
+GS 4 1
+GS 3 1
+SEF 109 0
+WVP 0 vmCCC3004yki011
+//友貴「お、ビン抜けたんだ」
+Tomoki: "Oh, you got the bottle off."
+TP
+
+WVP 0 vmCCC3004sku020
+//桜庭「石けん水の力でな」
+Sakuraba: "With the power of soap water."
+//He....... washed his hands of it? Of course I assume metaphorical meaning in his having a bottle stuck in his finger, why do you ask. -GHS
+TP
+
+//先輩がお盆にコップをのせて、よたよたと戻ってきた。
+Senpai came back in a wobbling waddle, carrying a tray with cups on top.
+//Unstable, as her usual. -GHS
+TP
+
+GL 5 TCMM0002s
+GS 5 1
+GP 5 235 0
+GS 4 0
+GS 3 0
+SEF 109 0
+
+WVP 0 vfCCC3004msa017
+//見里「お茶がなくて、コップに水くんできましたー！」
+Misato: "There was no tea, so I poured water in cups and here I aaam!"
+//It's all about the form of respecting, not about the contents. She's not so much hypocritical as unable to follow the meaning of the rules no matter how hard she tries. It's still the Christian perspective of the fallen nature of man. -GHS
+TP
+
+//太一「意味ねー！」
+Taichi: "Meaningleeess!"
+//PCP CCC0025
+TP
+
+GL 1 TCYM0003s
+GP 1 340 0
+GP 5 20 0
+GS 1 1
+GS 5 1
+SEF 109 0
+
+WVP 0 vfCCC3004mki019
+//美希「あはははは」
+Miki: "Ahahahahah."
+TP
+
+GL 5 BGCC0000AS
+GP 5 0 0
+GI 5 1
+//HACK to sky -GHS
+
+
+//笑ったり怒ったり。
+With laughter, with anger,
+TP
+
+//ちょっとしたお祭り騒ぎ。
+and quite a bit of a festival's revelry.
+TP
+
+//こういうのがいい。
+It's good like this.
+TP
+
+//思い出はこうあるべきだった。
+This is what memories were supposed to be like.
+//More weirdness after the cut!
+TP
+
+GS 5 0
+GS 1 0
+SEF 109 0
+//HACK to 'empty' room -GHS
+
+
+//太一「みんな見てくれ！　大変なんだ！」
+Taichi: "Look over here everybody! We have trouble!"
+TP
+
+
+//視線が集まる。
+The sights gather.
+//PCP CCA0002
+TP
+
+//太一「ストリーキングが出たぞー！！」
+Taichi: "A streaker has appeeeared!!!"
+TP
+
+//素早く服を脱いでいく。
+I rapidly strip off my clothes.
+//See CCA0002. -GHS
+TP
+GL 2 TCST0004s
+GP 2 190 0
+GS 1 0
+GS 5 0
+GS 2 1
+SEF 109 0
+WVP 0 vmCCC3004yki012
+//友貴「おまえだよ！」
+Tomoki: "That'd be you!"
+TP
+WVP 2 SE003 1 0
+
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+
+//蹴飛ばされた。
+Kicked away.
+TP
+
+//冬子の尻に抱きつく。
+I hug Touko's butt.
+//PCP CCA0030
+//See CCA0030. Miki imitative behavior. -GHS
+TP
+
+GL 1 TCKT0004s
+GP 1 230 0
+GS 1 1
+GS 2 0
+SEF 109
+
+WVP 0 vfCCC3004fyu011
+//冬子「きああああああああっ！？」
+Touko: "KyhAAaAAAaAAA!?!"
+//Ax8 -GHS
+TP
+
+//太一「ちょっと薄いな。骨盤が当たる。もっと肉感的になれよ」
+Taichi: "Sorta bony innit. I can touch the pelvis. Get more voluptuous you!"
+//That's different from Miki's reaction in that script, though. -GHS
+TP
+
+
+GL 1 TCKT0011s
+GI 1 0
+WVP 0 vfCCC3004fyu012
+//冬子「きええええええええっ！！」
+Touko: "KyheeEEEEEE!!!"
+//8xE -GHS
+TP
+
+//気合いだった。
+That was a fierce scream.
+TP
+
+GO 1 0
+GL 4 sgcc0012s
+$CGsgcc0012s = 1
+GP 4 0 0
+GI 4 0
+
+
+
+WVP 2 se106 1 0
+//SEF 101 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+
+//太一「ぐふーっ！」
+Taichi: "G'buuuh!"
+//PCP CCA0011A
+TP
+
+//霧に抱きついた。
+I clung to Kiri.
+TP
+
+GL 4 sgcc0013s
+$CGsgcc0013s = 1
+GP 4 0 0
+GI 4 0
+WVP 2 se106 1 0
+//SEF 101 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+WVP 0 vfCCC3004kri056
+//霧「男に触られたーーーーーーーっ！！」
+Kiri: "Touched by a maAAAAAAAN!!!"
+//ーx7 -GHS
+TP
+
+//太一「ぎゃふーっ！」
+Taichi: "Gh'ya'fuuuh!"
+TP
+GL 4 sgcc0015s
+$CGsgcc0015s = 1
+GP 4 0 0
+GI 4 0
+WVP 2 se106 1 0
+//SEF 101 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+WVP 0 vfCCC3004mki020
+//美希「わーい！！」
+Miki: "Weeee!!!"
+TP
+
+//太一「ぐおーっ！？」
+Taichi: "G'oooh?!"
+TP
+
+WVP 0 vfCCC3004fyu013
+//冬子「宮澄先輩もどうぞ」
+Touko: "Please have a go, Miyasumi-senpai."
+TP
+
+WVP 0 vfCCC3004msa018
+//見里「え、で、でも？」
+Misato: "Eh, bu-, but?"
+TP
+
+WVP 0 vfCCC3004fyu014
+//冬子「地面に落ちたら負けですよ」
+Touko: "If he touches the ground you lose."
+TP
+
+//ボールか俺は。
+What am I a ball now?
+TP
+
+WVP 0 vfCCC3004msa019
+//見里「まあ大変」
+Misato: "Ahhh what a problem."
+TP
+GL 4 sgcc0014s
+$CGsgcc0014s = 1
+GP 4 0 0
+GI 4 0
+WVP 2 se106 1 0
+//SEF 101 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+WVP 0 vfCCC3004msa020
+//見里「こ、こうですか？」
+Misato: "Li-, like this?"
+TP
+
+GL 5 BGCC0000AS
+GI 5 1
+WVP 2 se106 1 0
+SEF 101
+//HACK to sky, repeat sound effect, shake screen -GHS
+
+
+//太一「せりゃー！！」
+Taichi: "Seh'ryaaah!!!"
+TP
+
+WVP 0 vmCCC3004yki013
+//友貴「最後は特に気合い入ってるなー」
+Tomoki: "Last one was especially fierce innit."
+TP
+
+WVP 0 vmCCC3004sku021
+//桜庭「あれは太一の特別サービスと見た」
+Sakuraba: "I saw that as special service for Taichi."
+TP
+
+WVP 0 vfCCC3004mki021
+//美希「男っす！」
+Miki: "Yamman!"
+//Might be a reference, but she might just be copying Kiri here. -GHS
+TP
+
+//楽しかった。
+It was fun.
+TP
+
+//どこまでも楽しかった。
+It was fun in every way.
+TP
+
+//良質の思い出。
+A superior quality memory.
+TP
+
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 0
+//HACK flashback exit whiteout into blackout -GHS
+WVS 3 1
+
+//決して忘れたくはない。
+Never want to forget.
+//Given that it's a wish, and the time loop/memory stuff, it seems to be ambiguous like this. -GHS
+TP
+
+//そう願った。
+That is what I wished.
+TP
+
+WVS 1 1
+
+
+RET

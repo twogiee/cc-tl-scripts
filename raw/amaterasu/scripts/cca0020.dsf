@@ -1,0 +1,1321 @@
+
+WT 500 0
+WT 1000 1
+
+
+GL 0 bgcc0003a
+GL 5 efcc0000
+WVP 2 se019 1 0
+GI 5 0
+GI 0 0
+GO 5 0
+WVP 3 SE020 0 0 1
+
+I returned to my room and turned on the lights.
+TP
+
+
+
+A lot had happened, and I was tired.
+TP
+
+
+
+Taichi: "It's still hot..."
+TP
+
+
+
+I need to get my AC repaired soon.
+TP
+
+
+
+There's another AC in the living room downstairs, but for some reason I can't relax down there.
+TP
+
+
+
+Taichi: "Maybe I should take a bath."
+TP
+
+
+GO 0 1
+
+I did take a bath.
+TP
+
+
+WVP 2 SE021 1 0
+
+Taichi: "Nnna?"
+TP
+
+
+
+
+The bath felt so good that my consciousness had been going to the other side, then the doorbell called me back.
+TP
+WVS 2 0
+
+
+
+WVP 2 SE021 1 0
+
+Taichi: "Crap."
+TP
+
+
+
+I got out in a hurry and wiped my body.
+TP
+
+
+
+I put on my kimono and went for the door.
+TP
+
+
+
+Taichi: "Yes-yeees."
+TP
+
+
+
+
+GL 0 bgcc0013a
+GS 0 1
+SEF 152 0
+
+Taichi: "Who might you be?"
+TP
+
+
+
+WVP 0 vfcca0020ysa000
+Yuusa: "Uh, umm, I'm Doujima."
+TP
+
+
+WVP 1 bgm003.ogg 0 0 0
+
+Taichi: "That cute voice hiding underneath a gangster-like surname......Yuusa-chan? It's open, come in."
+TP
+
+GL 0 bgcc0013az
+GS 0 1
+GL 1 TCDY0000c
+GS 0 1
+GS 1 1
+GP 1 230 0
+SEF 109 0
+
+The door opened timidly, and a pretty girl was standing there.
+TP
+
+
+GL 1 TCDY0004c
+GI 1 0
+
+WVP 0 vfcca0020ysa001
+Yuusa: "Good eveni......ng."
+TP
+
+
+
+Her eyes opened wide.
+TP
+
+
+
+Her formerly black pupils now reflected my form.
+TP
+
+
+
+Taichi: "Good evening."
+TP
+
+
+
+WVP 0 vfcca0020ysa002
+Yuusa: "That's a...kimono."
+TP
+
+
+
+Taichi: "Oh, this thing? Surprised?"
+TP
+
+
+
+WVP 0 vfcca0020ysa003
+Yuusa: "It did surprise me......"
+TP
+
+
+
+Taichi: "I like priests."
+TP
+
+
+GL 1 TCDY0003c
+GI 1 0
+
+WVP 0 vfcca0020ysa004
+Yuusa: "Haa."
+TP
+
+
+
+Taichi: "That and it's comfortable."
+TP
+
+
+
+GL 1 TCDY0001c
+GI 1 0
+WVP 0 vfcca0020ysa005
+Yuusa: "Umm...it suits you."
+TP
+
+
+
+
+Taichi: "Really?"
+TP
+
+
+
+GL 1 TCDY0000c
+GI 1 0
+WVP 0 vfcca0020ysa006
+Yuusa: "That is, since your hair happens to be white......it matches that color."
+TP
+
+
+
+
+Taichi: "Maybe so, but black hair is best for kimonos."
+TP
+
+
+
+
+I gave a wry smile.
+TP
+
+
+
+
+Taichi: "I think someone like Yuusa-chan would be better suited to one."
+TP
+
+
+
+
+GL 1 TCDY0004c
+GI 1 0
+WVP 0 vfcca0020ysa007
+Yuusa: "Th-that's......hic!"
+TP
+
+
+
+
+At the moment her voice rose up, she hiccuped.
+TP
+
+
+
+GL 1 TCDY0000c
+GI 1 0
+
+SEF 101 0
+WVP 0 vfcca0020ysa008
+Yuusa: "Hic......hic......hic."
+SEF 101 0
+TP
+
+
+
+
+Taichi: "Arara."
+TP
+
+
+
+
+SEF 101 0
+WVP 0 vfcca0020ysa009
+Yuusa: "Hic......I'm sorry, hic......"
+SEF 101 0
+TP
+
+
+
+Taichi: "It doesn't seem to be stopping."
+TP
+
+
+
+From what I've heard, I just have to surprise her.
+TP
+
+
+
+If this was Kirihara, then I'd just open up the front of my kimono without hesitation.
+TP
+
+
+
+But to surprise this girl......
+TP
+
+
+
+Taichi: "Hmmm."
+TP
+
+
+
+Taichi: "Yuusa-chan, look this way."
+TP
+
+
+
+WVP 0 vfcca0020ysa010
+Yuusa: "Hic?"
+TP
+
+
+
+I closed in on the pretty girl's face that looked up at me.
+TP
+
+
+
+I approached within five centimeters, and whispered,
+TP
+
+
+
+Taichi: "Let's get married."
+TP
+
+
+GL 1 TCDY0004c
+GI 1 0
+SEF 101 0
+WVP 0 vfcca0020ysa011
+Yuusa: "------!!??"
+SEF 101 1
+TP
+
+
+
+Yuusa-chan froze.
+TP
+
+
+
+For a whole minute, she didn't budge.
+TP
+
+
+
+Her hiccups stopped.
+TP
+
+
+
+WVP 0 vfcca0020ysa012
+Yuusa: "Uh, umm, that was...?"
+TP
+
+
+
+Taichi: "Well, it just came out."
+TP
+
+
+
+WVP 0 vfcca0020ysa013
+Yuusa: "Umm, just now?"
+TP
+
+
+
+Taichi: "Make yourself at home."
+TP
+
+
+
+WVP 0 vfcca0020ysa014
+Yuusa: "......just now, what exactly happened......?"
+TP
+
+
+
+GL 0 bgcc0004a
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+I sat her down and served her wheat tea.
+TP
+
+GL 1 TCDY0000
+GS 1 1
+SEF 109 0
+
+
+WVP 0 vfcca0020ysa015
+Yuusa: "Where are your parents?"
+TP
+
+
+
+Taichi: "I don't think they'll be coming home tonight."
+TP
+
+GL 1 TCDY0004
+GI 1 0
+
+WVP 0 vfcca0020ysa016
+Yuusa: "Eh!?"
+TP
+
+
+
+Her expression became complex.
+TP
+
+
+
+Undoubtedly, she was imagining complex circumstances.
+TP
+
+
+
+Though they actually are rather complex.
+TP
+
+
+
+Taichi: "They always stay at company hotels when they're this busy with work."
+TP
+
+
+GL 1 TCDY0003
+GI 1 0
+
+WVP 0 vfcca0020ysa017
+Yuusa: "Aaah, I see......"
+TP
+
+
+
+Taichi: "So, what exciting news have you brought for me today?"
+TP
+
+
+GL 1 TCDY0001
+GI 1 0
+
+WVP 0 vfcca0020ysa018
+Yuusa: "That tone sounds like a character in a foreign novel."
+TP
+
+GL 1 TCDY0000
+GI 1 0
+
+
+WVP 0 vfcca0020ysa019
+Yuusa: "Umm, today's my birthday."
+TP
+
+
+
+Taichi: "Oooh? It was today?"
+TP
+
+
+
+I didn't know that.
+TP
+
+
+
+Taichi-kun, careless.
+TP
+
+
+GL 1 TCDY0001
+GI 1 0
+
+WVP 0 vfcca0020ysa020
+Yuusa: "About that, this is......my birthday present."
+TP
+
+
+
+As I unconsciously accepted the thing covered in wrapping paper, the inside of my head filled with 『?』s.
+TP
+
+
+
+Taichi: "Ummm......anyway, thanks. But, why?"
+TP
+
+
+
+A birthday present?
+TP
+
+
+
+WVP 0 vfcca0020ysa021
+Yuusa: "It's thanks for always looking after me."
+TP
+
+
+
+I've definitely been looking after something good then.
+TP
+
+
+
+Or maybe, she's trying to make me like her. Tentatively.
+TP
+
+
+
+I thought that I could mitigate the minus of my appearance by kindly interacting with her throughout her childhood.
+TP
+
+
+
+My plan for a 『Grand investigation into whether Hikaru Genji was ever really satisfied』 had now gathered enough data to make a favorable judgment.
+IF $tlnote != 0 (TL note: Hikaru Genji is the protagonist of The Tale of Genji, which is primarily about his epic womanizing.)
+TP
+
+
+
+I finally noticed something that I hadn't thought much of after I'd succeeded at it.
+IF $tlnote != 0 (TL note: This is most likely a reference to Genji's effort to raise a little girl into his perfect wife.)
+TP
+
+
+GL 1 TCDY0000
+GI 1 0
+
+WVP 0 vfcca0020ysa022
+Yuusa: "Also, I thought the exchange diary was due tomorrow, so......"
+TP
+
+
+
+She twiddled her fingers strenuously in her lap to try and calm down.
+TP
+
+
+
+She looked down, and the part of her neck I could see was perfectly red.
+TP
+
+
+
+Her heart seemed full to the brim with something.
+TP
+
+
+
+Taichi: "Moe..."
+IF $tlnote == 1 (TL note: The slang term "moe" is related to the Japanese words for "burning" and "budding" and refers to something irresistably cute.)
+TP
+
+GL 1 TCDY0003
+GI 1 0
+
+
+WVP 0 vfcca0020ysa023
+Yuusa: "......eh?"
+TP
+
+
+
+Taichi: "Aah, I've been writing in it. I'll go get it."
+TP
+
+
+GL 1 TCDY0000
+GI 1 0
+
+WVP 0 vfcca0020ysa024
+Yuusa: "O-okay."
+TP
+
+
+
+I went upstairs.
+TP
+
+
+GL 0 bgcc0003a
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+Her diary, and...
+TP
+
+
+
+I looked around the room.
+TP
+
+
+
+For something I could give to Yuusa-chan.
+TP
+
+
+
+It'd be nice if I had some stuffed animals here, but my room had no history with fairy tales or the like.
+TP
+
+
+
+Fairy tales...
+TP
+
+
+
+
+Only sensual.
+TP
+
+
+
+
+Taichi: "Not good, not good-"
+TP
+
+
+
+I tried thinking about what I'd want if it was me.
+TP
+
+
+
+
+Yuusa-chan's raw panties.
+TP
+
+
+
+
+My hands naturally untied her obi, and while maintaining rationality with an iron will, they peeled off even more.
+IF $tlnote != 0 (TL note: An obi is the thick belt of fabric tied around the waist of a kimono or similar garment.)
+TP
+
+
+
+What would I do if I blew away this thing I'd been building up for so long to the horizon in an instant?
+TP
+
+
+
+Taichi: "Not good..."
+TP
+
+
+
+Something fitting for a birthday. Isn't there anything?
+TP
+
+
+
+Taichi: "Ah."
+TP
+
+
+
+Would this really...?
+TP
+
+
+
+No, it's just not suited for her character.
+TP
+
+
+
+I can't let her become aware of my real interests.
+TP
+
+
+
+Taichi: "Hmmm."
+TP
+
+
+
+Would this have shock value?
+TP
+
+
+
+Might it work?
+TP
+
+
+
+Taichi: "Hhhhmmmmmm."
+TP
+
+
+
+From the first floor,
+TP
+
+
+
+WVP 0 vfcca0020ysa025
+Yuusa: "Ummm, Taichi-saaan, I'm going to have to go home soon..."
+TP
+
+
+
+Taichi: "Nuuu."
+TP
+
+
+
+There's no time to hesitate.
+TP
+
+
+
+I found and repackaged the box and manual, then stuck it into a paper bag.
+TP
+
+
+
+
+
+GL 0 bgcc0004a
+GS 0 1
+SEF 152 0
+
+Taichi: "Sorry for keeping you waiting."
+TP
+
+
+
+GL 1 TCDY0000
+GS 1 1
+SEF 109 0
+
+WVP 0 vfcca0020ysa026
+Yuusa: "Ah......"
+TP
+
+
+
+Her face turned to the color of relief.
+TP
+
+
+
+Taichi: "So here's your exchange diary, and on top of that, a birthday present from me."
+TP
+
+GL 1 TCDY0004
+GI 1 0
+
+WVP 0 vfcca0020ysa027
+Yuusa: "............"
+TP
+
+
+
+This girl is always at a loss for words when she's surprised.
+TP
+
+
+
+I guess I'll explain the present later.
+TP
+
+
+
+Taichi: "Now then, why don't I walk you back home?"
+TP
+
+
+
+WVP 0 vfcca0020ysa028
+Yuusa: "........................!!!?"
+TP
+
+
+
+She was at an even worse loss for words than before.
+TP
+
+
+
+Taichi: "It's already nighttime, so there are quite a few dangerous people out there."
+TP
+
+
+Especially in this town.
+TP
+
+
+
+Taichi: "Shall we go?"
+TP
+
+
+
+GL 1 TCDY0001
+GI 1 0
+WVP 0 vfcca0020ysa029
+Yuusa: "Y-yes!"
+TP
+
+GL 0 bgcc0002b
+GS 0 1
+GS 1 0
+SEF 152 0
+
+WT 500 0
+
+
+GL 0 bgcc0005b
+GS 0 1
+GS 1 0
+SEF 152 0
+
+We walked down the night road together.
+TP
+
+
+
+Yuusa-chan's stride was short, so time flowed by without a care.
+TP
+
+
+
+Taichi: "That's right, tell your okaa-san I'm grateful for all the food."
+TP
+GL 1 TCDY0000c
+GI 1 1
+
+
+
+WVP 0 vfcca0020ysa030
+Yuusa: "My mom?"
+TP
+
+
+
+
+Taichi: "She's always preparing banquets for me."
+TP
+
+
+
+WVP 0 vfcca0020ysa031
+Yuusa: "......well, that's true."
+TP
+
+
+
+Taichi: "Have you gotten used to school?"
+TP
+
+
+
+GL 1 TCDY0000c
+GI 1 0
+WVP 0 vfcca0020ysa032
+Yuusa: "You always ask that question, don't you, Taichi-san?"
+TP
+
+
+
+Taichi: "Hmm, do I?"
+TP
+
+
+
+Now that you mention it, I do.
+TP
+
+
+
+Taichi: "It's like a ritual phrase. It's a cushion for the conversation."
+TP
+
+
+
+Taichi: "Still, you've grown up, Yuusa-chan."
+TP
+
+
+
+GL 1 TCDY0004c
+GI 1 0
+WVP 0 vfcca0020ysa033
+Yuusa: "Ta-Taichi-san, how would you know what I was like as a child......?"
+TP
+
+
+
+Taichi: "I might say the same thing to you in the years that follow."
+TP
+
+
+
+GL 1 TCDY0001c
+GI 1 0
+WVP 0 vfcca0020ysa034
+Yuusa: "Taha, you've already been saying it."
+TP
+
+
+
+Taichi: "Still, I think you've grown since the first time I met you. At least from my perspective."
+TP
+
+
+
+Taichi: "Although one part's still undeveloped♪"
+TP
+
+
+
+GL 1 TCDY0000c
+GI 1 0
+WVP 0 vfcca0020ysa035
+Yuusa: "......huh?"
+TP
+
+
+
+Taichi: "Take good care of yourself. Physically."
+TP
+
+
+
+Though that's impossible.
+TP
+
+
+
+GL 1 TCDY0004c
+GI 1 0
+WVP 0 vfcca0020ysa036
+Yuusa: "Eh!? Ea!?"
+TP
+
+
+
+WVP 0 vfcca0020ysa037
+Yuusa: "That's too hard for me to really understand, but......okay."
+TP
+
+
+
+WVP 0 vfcca0020ysa038
+Yuusa: "If Taichi-san says so, I'll give it my all."
+TP
+
+
+
+She squeezed both hands into fists.
+TP
+
+
+
+Taichi: "Yes, yes."
+TP
+
+
+
+GL 1 TCDY0000c
+GI 1 0
+WVP 0 vfcca0020ysa039
+Yuusa: "Umm, I'm sorry for making you walk me home."
+TP
+
+
+
+Taichi: "It's a natural thing for I, a young adult who's tasted both the sweets and sours of life."
+TP
+
+
+
+I proclaimed while holding up my index finger.
+TP
+
+
+GL 1 TCDY0001c
+GI 1 0
+
+WVP 0 vfcca0020ysa040
+Yuusa: "It's training."
+TP
+
+
+
+Taichi: "Ha-ha-ha."
+TP
+
+
+
+Is she misreading her obligations in this situation?
+TP
+
+
+
+So cuuuteee...
+TP
+
+
+
+Taichi: "I would love to assault a girl like you in my bedroom at night."
+TP
+
+
+
+GL 1 TCDY0003c
+GI 1 0
+WVP 0 vfcca0020ysa041
+Yuusa: "Your bedroom at night?"
+TP
+
+
+
+Taichi: "Ha-ha-ha, well, forget it, forget it."
+TP
+
+
+
+GL 1 TCDY0000c
+GI 1 0
+WVP 0 vfcca0020ysa042
+Yuusa: "I'd thought getting walked home like this was the sort of thing which only happens in novels."
+TP
+
+
+
+Taichi: "Really?"
+TP
+
+
+
+Come to think of it, this girl liked the Co**lt novels.
+TP
+
+
+
+WVP 0 vfcca0020ysa043
+Yuusa: "I'm a bit surprised."
+TP
+
+
+
+Taichi: "I did just say it, but it's a natural thing."
+TP
+
+
+
+Taichi: "Because there's a group in this world which prevents any combination of the big and the small."
+TP
+
+
+
+Taichi: "They're a pitiful bunch."
+TP
+
+
+
+Both big and small have their good points.
+TP
+
+
+
+My philosophy is that, ultimately, either one's fine.
+TP
+
+
+
+GL 1 TCDY0003c
+GI 1 0
+WVP 0 vfcca0020ysa044
+Yuusa: "......"
+TP
+
+
+
+Her face said 'Sempai really does talk about difficult things, since he's an adult.'
+TP
+
+
+
+Something was stimulated.
+TP
+
+
+WVS 1 0
+
+
+Taichi: "But 『I』 do not want to become a man with nothing but a long shooting range."
+*Rough translation......'That's not to say I'm only into younger women.'
+TP
+
+
+
+
+Taichi: "I want to become a human who looks far ahead into the distance while still paying attention to their feet."
+*Rough translation......'It'd be nice if 『little girls』 spoilt by their elders could also be loved.'
+TP
+
+
+
+
+Taichi: "The enlightenment I have for the microists might be called a kind of rags to riches story."
+*Rough translation......'I want to talk to the diehard lolicons and show them the error of their ways.'
+TP
+
+
+
+
+Taichi: "There's certainly something fresh about a flat board. I'll admit that. But not all is told through that alone. Whether few or many, people are confronted with problems of mass and shape.
+TP
+
+
+
+"Whether from lack of life experience, or childhood traumas......the failure of wishing to revolve them all back to nothing out of fear is something I can only see as running away from the problem."
+TP
+
+
+
+*Rough translation......'They're definitely flat (the rest has been omitted)'
+TP
+
+
+
+
+Taichi: "Through a concrete set of values, the many and varied things that 『are』 can be classified within a number of models.
+TP
+
+
+
+
+"『Bowl-form』, 『Rocket-form』 and such on top of the list, then 『Tsurigane-form』, 『Drooping-form』, 『Blood-form』, many more like that. With viewpoints penetrating subtler matters, things like 『Spearhead collapse-form』 can be reported on......"
+TP
+
+
+
+IF $tlnote != 0 (TL note: Tsurigane are traditional East Asian bronze ceremonial bells, and the Spearhead Taichi mentions is likely the military tactic.)
+IF $tlnote != 0 TP
+
+
+
+I looked down at Yuusa-chan to find that she was writing all this down.
+TP
+
+
+WVP 1 bgm006.ogg 0 0 0
+
+Taichi: "Uwaaaaaa! No! You can't--!!!"
+TP
+
+
+
+GL 1 TCDY0004c
+GI 1 0
+WVP 0 vfcca0020ysa045
+Yuusa: "Eh? What's wrong!?"
+TP
+
+
+
+Taichi: "You can't record that!"
+TP
+
+
+
+WVP 0 vfcca0020ysa046
+Yuusa: "Well, it was pretty hard, so I thought I'd try and figure it out later..."
+TP
+
+
+
+What did she say!?
+TP
+
+
+
+If she went and researched those dangerous words on the internet...!!
+TP
+
+
+
+Taichi: "It's coming! Take cover!"
+TP
+GS 1 0
+SEF 109 0
+
+
+I pulled her close and hid in the shadow of a telephone pole.
+TP
+
+
+
+WVP 0 vfcca0020ysa047
+Yuusa: "Wh-what!!?"
+TP
+
+
+
+Taichi: "Stay quiet. This is a battlefield."
+TP
+
+
+
+WVP 0 vfcca0020ysa048
+Yuusa: "This place, which looks like nothing but a peaceful Japanese street, is a battlefield!!?"
+TP
+
+
+
+Taichi: "Yes. And I just felt a hostile soldier's presence."
+TP
+
+
+
+WVP 0 vfcca0020ysa049
+Yuusa: "A soldier!?"
+TP
+
+
+
+Taichi: "Maybe the CIA, or the KGB, there's even the possibility he's from the N*K."
+IF $tlnote != 0 (TL note: NHK = Nippon Housou Kyoku = Japan Broadcasting Network, ie one of the biggest TV networks over there.)
+TP
+
+
+
+Taichi: "They're all intelligence networks with extreme military power."
+TP
+
+
+
+Taichi: "That last group in particular is so utterly heinous, they've been known to employ guerilla tactics to raid private residences and forcefully rob them of their cash."
+TP
+
+
+
+WVP 0 vfcca0020ysa050
+Yuusa: "Hieee."
+TP
+
+
+
+Taichi: "......he's gone. Okay, it should be fine now."
+TP
+
+
+
+We returned to the road.
+TP
+
+
+
+The salaryman we'd happened to pass by on his way home looked at us with a dubious face.
+TP
+
+
+
+We could make out the sounds of late-night sports broadcasts from various directions on that pastoral night road.
+TP
+
+
+
+Taichi: "I'm sorry. For those reasons, the content of our conversation is classified information. Recording it would put your pure body in danger."
+TP
+
+
+
+GL 1 TCDY0004c
+GI 1 1
+WVP 0 vfcca0020ysa051
+Yuusa: "Wh-what?"
+TP
+
+
+
+Taichi: "I'm sorry, but would you mind destroying the pertinent entries?"
+TP
+
+
+GL 1 TCDY0000c
+GI 1 0
+
+WVP 0 vfcca0020ysa052
+Yuusa: "Uh, yeah, I'll erase them, I'm sorry!"
+TP
+
+
+
+With the eraser on the back of her pencil, she rubbed the face of the paper back to default status.
+TP
+
+
+
+Aah, she'd taken out and used that unstained eraser for this......
+TP
+
+
+
+Taichi: "My apologies."
+TP
+
+
+
+GL 1 TCDY0001c
+GI 1 0
+WVP 0 vfcca0020ysa053
+Yuusa: "It's all right. I was at fault."
+TP
+GS 1 0
+GS 0 0
+SEF 109 0
+WVS 3 1
+WVS 1 1
+
+
+My chest hurt.
+TP
+
+
+
+Or perhaps, I hurt.
+TP
+
+WT 500 0
+
+WT 1000 1
+
+
+
+RET

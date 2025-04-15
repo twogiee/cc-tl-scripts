@@ -1,0 +1,70 @@
+
+
+
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfCCC0017mki000
+//美希「……？」
+Miki: "...?"
+TP
+
+//太一「そーそー、食い物はちゃんとありますか？」
+Taichi: "Say say, you do have some proper food?"
+//"yeppy yep" doesn't seem to fit here. -GHS
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCC0017mki001
+//美希「はい。全然平気です」
+Miki: "Yes. It's completely all right."
+//Plural neutral -GHS
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfCCC0017mki002
+//美希「手料理といいますと、ちとアレなのですが」
+Miki: "But when it comes to handmade cooking, it's a bit like, you know..."
+//She can't cook worth crap, though Kiri can. See CCZAS. -GHS
+TP
+
+//苦笑い。
+A bitter smile.
+TP
+
+//太一「昼飯は缶詰だったりして」
+Taichi: "Lunch is therefore canned food."
+TP
+
+GL 1 TCYM0011
+GI 1 0
+WVP 0 vfCCC0017mki003
+//美希「まさに食パンと缶詰です」
+Miki: "Exactly, bread and canned food."
+//Unless she goes for procurement, then it's mostly junk food, see CCC3019A. -GHS
+TP
+
+//太一「……貧乏くさい弁当だな」
+Taichi: "...that's one damn destitute lunch."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfCCC0017mki004
+//美希「たはは」
+Miki: "Tahahah."
+//(She's poor.) -GHS
+TP
+
+CSQ 0 1 1
+//　・サンドイッチあげる
+//　・あげない
+ - Give sandwiches
+ - Don't give
+
+RET

@@ -1,0 +1,632 @@
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+WVP 1 bgm007.ogg 0 0 0
+
+Kiri should be trying to catch me off guard.
+TP
+
+In the cafeteria and on the roof, I noticed her sooner than she hoped.
+//I didn't really want to do it but "too soon" was just WAY too obscure. It makes sense this way because of the next line anyway.-Spin
+TP
+
+That's why she didn't attack.
+TP
+
+......I think it'll be easy to lure her in.
+TP
+
+I entered the bathroom.
+TP
+
+When I left, I felt killing intent for a moment......but it soon faded.
+TP
+
+I walked slowly down the hallway.
+TP
+
+I don't think she'll keep preparing to attack over and over.
+TP
+
+She should set something up,
+TP
+
+In a more surefire place.
+TP
+
+......nothing happened in the hallway.
+TP
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+Today was hot.
+TP
+
+I felt like going to the beach.
+TP
+
+Come to think of it, we all went there together last year.
+TP
+
+
+GL 0 bgcc0017s
+GS 0 1
+SEF 10 1
+
+
+
+WVP 3 se001 0 0 1
+
+
+WVP 1 bgm005.ogg 0 0 0
+
+The beach was fun.
+//CP_S ccb0020
+//lol, that change in music was just TOO drastic.-Spin
+TP
+
+Even now, I can remember everyone frolicking around.
+TP
+
+
+GL 4 sgcc0009s
+$CGsgcc0009s = 1
+GP 4 0 0
+GI 4 1
+
+WVP 0 vfcca0027fyu004
+Touko: "Kiaaa!!? Where are you grabbing on to!!?"
+TP
+
+Taichi: "The part of your swimsuit covering your butt."
+TP
+
+GL 1 TCMM0000as
+GS 1 1
+GS 4 0
+SEF 109 0
+
+WVP 0 vfcca0027msa004
+Misato: "Hasekura-san......just what kind of relationship does she have with Kurosu-kun?"
+TP
+
+Taichi: "Nn? Youko-chan?"
+TP
+GL 1 TCKT0004as
+GL 2 TCMM0004as
+GL 3 TCYM0001as
+GP 1 -40 0
+GP 2 210 0
+GP 3 420 0
+GS 1 1
+GS 2 1
+GS 3 1
+SEF 109 0
+
+
+WVP 0 vfcca0027doz000
+Touko: "Youko-chan!?"
+Misato: "Youko-chan!!?"
+Miki: "Youko-chan!!!?"
+Tomoki: "Youko-chan!!?"
+SEF 101
+TP
+
+GL 4 TCYM0000as
+GP 4 180 0
+GS 4 1
+GS 3 0
+GS 2 0
+GS 1 0
+SEF 109 0
+
+
+WVP 0 vfcca0027mki016
+Miki: "Now you're the yakuza."
+TP
+GL 1 TCMM0005as
+GS 1 1
+GS 4 0
+GP 1 235 0
+SEF 109 0
+
+WVP 0 vfcca0027msa013
+Misato: "No-not my body..."
+TP
+GL 1 TCDY0000as
+GP 1 240 0
+GS 1 1
+SEF 109 0
+
+WVP 0 vfcca0027ysa001
+Yuusa: "Ummm, excuse, excuse, excuse, me!!!!!"
+TP
+
+GL 0 evcc0007s
+$CGevcc0007s = 1
+GS 0 1
+GS 1 0
+SEF 155 0
+
+
+WVP 0 vfcca0027fyu024
+Touko: "Iiidiot."
+TP
+
+WVP 0 vfcca0027ysa015
+Yuusa: "Ah! Spin! Spinning!?"
+TP
+
+WVP 0 vfcca0027mki029
+Miki: "Ow, owwww, my forehead hurts..."
+TP
+
+WVP 0 vfcca0027msa026
+Misato: ......*muttering*
+TP
+
+Taichi: "But it was fun."
+TP
+
+
+
+
+WVS 3 1
+
+
+GL 0 bgcc0000a
+GS 0 1
+SEF 109 0
+
+
+
+Our fun sea bath ended there.
+TP
+
+Miki's wound left a very small scar.
+TP
+
+Even so, she was bright and cheerful on the way home.
+TP
+
+As if she'd gained something through being hurt.
+TP
+
+It was that kind of face.
+TP
+
+Afterward, Misato-sempai returned to school to help carry the Broadcasting Club's newly delivered antenna.
+TP
+
+Tomoki, who still hadn't broken off relations with his sister, said something sarcastic.
+TP
+
+That siscon behavior of his was made fun of by Miki ever since, even into their third year at Gunjou.
+TP
+
+Yuusa-chan, for the first time, opened her heart a little toward a group of other people.
+TP
+
+That's what the beach meant to us.
+//CP_F
+TP
+
+
+
+GL 0 bgcc0011
+GS 0 1
+SEF 10 1
+......and yet, that unity had broken down to the point where we were killing each other.
+TP
+
+My heart shook.
+TP
+
+Why did it turn out like this?
+TP
+
+I couldn't contain my irritation.
+TP
+
+Thus,
+TP
+
+I thought that everything should just go away.
+TP
+
+WVS 1 1
+
+
+
+
+GL 0 bgcc0000a
+GS 0 1
+SEF 152 0
+Afterward, I wandered about the town to kill time.
+TP
+
+There was no attack.
+TP
+
+She's a weakling.
+TP
+
+GL 0 bgcc0011a
+GS 0 1
+SEF 152 0
+
+So,
+TP
+
+I returned.
+TP
+
+Not being in a familiar space might actually be a hardship.
+TP
+
+Aaah, however,
+TP
+
+Just what am I doing?
+TP
+
+
+GL 0 bgcc0006a
+GS 0 1
+SEF 152 0
+
+WVP 1 bgm015.ogg 0 0 0
+
+No one's here.
+TP
+
+Not that long ago, Touko was here.
+TP
+
+Touko, who never renewed her conduct even after people disappeared.
+TP
+
+......though she had been desperately fighting with self-reliance.
+//"Independance" gave me the wrong impression. Maybe that's just because of our background.-Spin
+TP
+
+Taichi: "I know you don't like it, but would you try coming to the club tomorrow?"
+//CP_S ccc3017
+TP
+
+I had a soliloquy.
+TP
+
+I had been planning to say that if Touko was here.
+//CP_F
+TP
+
+WVS 1 1
+
+
+Those words were too late.
+TP
+
+
+GL 0 bgcc0007a
+GS 0 1
+SEF 152 0
+And then I came to the roof again.
+TP
+
+Sempai was working.
+TP
+
+WVP 0 vfCCC4020msa000
+Misato: "There...there we go."
+TP
+
+She was working hard with gloves on.
+TP
+
+Sorry for coming during the war.
+TP
+
+I softly closed the door.
+TP
+
+
+GL 0 bgcc0010
+GS 0 1
+SEF 152 0
+Around here somewhere?
+TP
+
+I sat in a chair and stood by.
+TP
+
+I read a manga magazine to kill time.
+TP
+
+But my awareness was on my surroundings.
+TP
+
+WVP 1 bgm017.ogg 0 0 0
+
+It's coming closer.
+TP
+
+Softly, softly.
+TP
+
+The killing intent.
+TP
+
+She's scattering the very malice she hates into her surroundings.
+TP
+
+A thread of tension had been tightened.
+TP
+
+Don't come.
+TP
+
+The door silently opened five centimeters.
+TP
+
+But I knew.
+TP
+
+With this much murderous intent, even a normal person would feel it coming.
+TP
+
+The shining black arrowhead pointed toward me.
+TP
+
+The murderous intent hitting me.
+TP
+
+WVS 1 0
+
+I made an intentional and well-timed roll to one side.
+TP
+
+WVP 0 vfCCC4020kri000
+Kiri: "......ah!"
+TP
+
+The arrow passed through where I'd been sitting a moment ago.
+TP
+
+I jumped up and flew out into the hallway.
+TP
+
+Kiri's back was running away.
+TP
+
+Taichi: "Haha......"
+TP
+
+WVP 1 bgm019.ogg 0 0 0
+
+I gave chase.
+TP
+
+This game of tag is different from Monday's, Kiri.
+TP
+
+I was writhing in joy.
+TP
+GL 0 bgcc0008a
+GS 0 1
+SEF 152 0
+
+I gave chase.
+TP
+
+Kiri ran. Sometimes she turned to look behind her.
+TP
+
+She saw me, and increased her speed further.
+TP
+
+......you're just going to wear yourself out, Kiri.
+TP
+GL 0 bgcc0011a
+GS 0 1
+SEF 152 0
+
+We passed through the front gate.
+TP
+
+She wants to go into town?
+TP
+GL 0 bgcc0000b
+GS 0 1
+SEF 152 0
+Kiri's speed while holding the weapon definitely wasn't fast.
+TP
+
+I thought about my pace as I chased.
+TP
+
+Just right to deny her rest, so as not to give her a chance to ready another arrow.
+//I like this reworked line a lot better. Only thing I'm not 100% on is "rest" which I'm also thinking "repose."
+TP
+
+GL 0 bgcc0015a
+GS 0 1
+SEF 152 0
+At long last Kiri reached the mountain trail.
+TP
+
+Don't perish, I thought.
+TP
+
+And then,
+TP
+GL 0 bgcc0016a
+GS 0 1
+SEF 152 0
+
+
+Kiri ran out of strength at the hokora.
+TP
+
+She was hiding in the grass.
+TP
+
+Taichi: "......finally......Kiri, you really did it."
+TP
+
+A declaration of war,
+TP
+
+A fight,
+TP
+
+With me.
+TP
+
+Taichi: "You became my enemy."
+TP
+
+WVP 0 vfCCC4020kri001
+Kiri: "Ha, ha! Ha......"
+TP
+
+She desperately tried to control her rough breathing.
+TP
+
+And hurried to load another arrow.
+TP
+
+On the other side of the grass.
+TP
+
+I can imagine Kiri as her time is being taken up by that.
+TP
+
+If you're not very proficient, it's not something that will go smoothly when you need it to.
+TP
+
+It's game over for Kiri now.
+TP
+
+I took out my knife.
+TP
+
+I don't think there's a need to kill her.
+TP
+
+But I took it out.
+TP
+
+For some reason.
+TP
+
+Rather strong instincts had moved me to do so.
+TP
+
+The remnants of rationality.
+TP
+
+If you become a little uneasy, it ceases to be of use.
+TP
+
+Now, in order to scare her further, I cut my way through the grass fence with my blade.
+TP
+
+WVP 0 vfCCC4020kri002
+Kiri: "......kya......ha, haaa."
+TP
+
+With just that, she turned the color of terror.
+TP
+
+And then, I...
+TP
+
+Taichi: "--!!"
+TP
+
+Bent back my upper body using all my joints.
+TP
+
+A second shot. The jet black arrow shot through the space where my forehead had been 0.1 seconds ago.
+//it looks better in numerical digits imo - Sheeta
+TP
+
+What timing!
+TP
+I was amazed for a while.
+TP
+
+For five seconds.
+TP
+
+Admiration and shock.
+TP
+
+Kiri had deceived me perfectly.
+TP
+
+I cut my way through the grass.
+TP
+
+On the other side......she was no longer there.
+TP
+
+I only heard the sound of tall grass being parted as she returned to the mountain path.
+TP
+
+I no longer felt like giving chase.
+TP
+
+Taichi: "......haha, amazing..."
+TP
+
+I'd nearly died.
+TP
+
+Death.
+TP
+
+Taichi: "This is exciting."
+TP
+
+I put my hand on my chest to confirm it.
+TP
+
+This stimulation.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+I'd tasted the joy of living by dark means.
+TP
+
+WVS 1 1
+
+
+
+
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 0
+I wrote in my diary and went to bed.
+TP
+
+Will Kiri come and attack me tonight?
+TP
+
+Will I be able to sense her?
+TP
+
+It feels like I'll have good dreams.
+TP
+
+RET

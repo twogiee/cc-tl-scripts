@@ -1,0 +1,3992 @@
+//Welcome to the 809 lines TRIPLE SEX SCENE SCRIPT OF DOOM! MWAHAHAHAHAHAHAHA! seriously this is like the second longest non-sendback script in the game. It's nearly 10% of the route alone! -GHS
+TWS 0
+
+
+IF $KAISOU == 0 JMP N_START001
+IF $CIA == 101 JMP SCENE001
+IF $CIA == 102 JMP SCENE002
+IF $CIA == 103 JMP SCENE003
+
+:N_START001
+
+
+
+GS 0 0
+SEF 109 1
+GS 0 1
+SEF 109 1
+//HACK fade to black then back. -GHS
+
+
+
+//五分ほど静かな時が流れた。
+Time flowed quietly for about five minutes.
+TP
+
+//霧は泣きもしなかった。
+Kiri did not even cry.
+TP
+
+//涙はストレスを体外に流すのだという説がある。
+A theory says that tears are the stress that flows outside of the body.
+TP
+
+//霧は泣けない。
+Kiri is not crying.
+TP
+
+//……深く絶望が沈殿してしまって。
+...a very deep despair is precipitating.
+TP
+
+//心の底にたまり、胸中の澱は沈殿していく。
+The sediments of her feelings, accumulated at the deepest of her heart, are precipitating.
+TP
+
+//俺は優しく待った。
+I waited, gently,
+TP
+
+//すぐ近くで。
+in the immediate vicinity,
+TP
+
+//長い時間。
+for a long time.
+TP
+
+WVP 1 bgm018.ogg 0 0 0
+
+GL 1 TCSK0004
+GP 1 220 0
+GI 1 1
+//HACK fade doll -GHS
+
+WVP 0 vfCCC3027kri000
+//霧「……どうして……」
+Kiri: "...how come..."
+TP
+
+//太一「ん？」
+Taichi: "Hm?"
+TP
+
+WVP 0 vfCCC3027kri001
+//霧「どうして……言わなかったんですか」
+Kiri: "How come... he never said anything?'
+TP
+
+//太一「霧に？」
+Taichi: "To you, Kiri?"
+TP
+
+WVP 0 vfCCC3027kri002
+//霧「……はい」
+Kiri: "...yes."
+TP
+
+//太一「霧があまりにも豊のこと、慕ってたから」
+Taichi: "Because you adore Yutaka too much, Kiri."
+TP
+
+//太一「それがまたすごく純粋でさ」
+Taichi: "And that adoration is completely pure, as well."
+TP
+
+//太一「ピュアというか、儚いというか」
+Taichi: "...maybe it's pure, or maybe it's just fleeting."
+TP
+
+//太一「けど……磨かれてなかった。錆びついてた」
+Taichi: "But... it wasn't polished. It was eaten by rust."
+//Is he mixing metaphors now? Same term as the ending lyrics. -GHS
+TP
+
+//太一「中途半端だった」
+Taichi: "It was just half-finished."
+//They weren't True Halves. I think it means they hadn't had sex or, at least, hadn't admitted it to each other... not that it matters since, for all we know, Yutaka's attraction to Kiri exists entirely in Taichi's mind. -GHS
+TP
+
+//霧「……？」
+Kiri: "...?"
+TP
+
+//霧には理解できていない。
+For Kiri that is impossible to understand.
+TP
+
+//当然か。
+Naturally.
+TP
+
+//太一「脆いくせに攻撃的で」
+Taichi: "Aggressiveness in spite of tender-heartedness."
+TP
+
+//太一「そういうの、俺は好きなんだ」
+Taichi: "That is something I like."
+//See Taichi? Whoops. This is part of what he likes underneath the aloofness. -GHS
+TP
+
+//太一「わかる？　霧のこと、好きなんだよ」
+Taichi: "Get it? I like you, Kiri!"
+TP
+
+GL 1 TCSK0003
+GI 1 0
+WVP 0 vfCCC3027kri004
+//霧「……先輩……が？　嘘……」
+Kiri: "...Senpai... you? Lies..."
+//She can't believe Taichi, the guy she actually likes, would like her. -GHS
+TP
+
+//太一「俺さっきから真実しか言ってないじゃん」
+Taichi: "I've been telling just the truth for a while now haven't I."
+TP
+
+GL 1 TCSK0004
+GI 1 0
+WVP 0 vfCCC3027kri005
+//霧「だって……おかしいです……豊のこと恨んで……じゃあわたしのことをどうして？」
+Kiri: "But... this is weird... you have a grudge with Yutaka... so why this for me?"
+TP
+
+//太一「恨んでなんかない」
+Taichi: "I had no grudge whatsoever."
+TP
+
+WVP 0 vfCCC3027kri006
+//霧「……え？」
+Kiri: "...eh?"
+TP
+
+//太一「それよりさ、霧はずっと俺のこと、人殺し扱いしてくれたよね」
+Taichi: "More like, Kiri, you've always treated me like I was some murderer, haven't you."
+TP
+
+//表情が翳る。
+Her face darkens.
+TP
+
+GL 1 TCSK0003
+GI 1 0
+WVP 0 vfCCC3027kri007
+//霧「……それは……しょうがなかった、から……」
+Kiri: "...that was... because... there was nothing else I could do..."
+//See CCD1001: it's automatic for her. -GHS
+TP
+
+WVP 0 vfCCC3027kri008
+//霧「誰も本当のことなんて教えてくれなくて……自分で考えるしかなくて」
+Kiri: "Nobody would tell me the truth... I could only think about this by myself."
+//There is no space for her to ever asked Taichi. Or anyone. He didn't want to hurt her (the fool), so he kept it hidden, plus his stupid repeat of his Alter Ego Pact and this result. -GHS
+TP
+GL 1 TCSK0004
+GI 1 0
+WVP 0 vfCCC3027kri009
+//霧「それに……まだ信じられないです。あの豊が……」
+Kiri: "And still... I still can't believe it. That Yutaka would..."
+TP
+
+//太一「子供の倫理観に、全能的なものを期待する方が悪い」
+Taichi: "It is a bad thing for children's ethical values to include an expectation of omnipotence."
+//Not in the children themselves, but for the children to expect this from others. -GHS
+TP
+
+//教師然と言う。
+So I say, teacher-like.
+TP
+
+//太一「おかげで蹴られたり嫌われたり大変だったぞ」
+Taichi: "It's gonna be a mess if there's rejection or hatred because of that."
+//Like how Youko rejected him the moment he followed her orders... or how Kiri expected Yutaka to be perfect. -GHS
+TP
+
+//霧「…………」
+Kiri: "......"
+TP
+
+//長い沈黙。
+A lengthy hush.
+TP
+
+//霧の中で、精神状態が応急処置されるのがわかる。
+I understand that, inside Kiri, her mental condition is taking emergency measures.
+TP
+
+//方向が定まる。
+A direction is decided.
+TP
+
+WVP 0 vfCCC3027kri011
+//霧「……どうしたら……？」
+Kiri: "...what can I do...?"
+//Nothing, because SHE can't repay the sins of Yutaka. Not that anybody can. See CCD1001 for a more explicit example of why this route will necessarily end in failure. -GHS
+TP
+
+//太一「はぁい？」
+Taichi: "Yeees?"
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3027kri012
+//霧「どうしたら……いいんですか？」
+Kiri: "What is the... right thing to do?"
+TP
+
+//太一「どうかしたいの？」
+Taichi: "Was anything wrong?"
+TP
+
+GL 1 TCSK0004
+GI 1 0
+WVP 0 vfCCC3027kri013
+//霧「だって……わたしは、わたしたちは、先輩に、不当な……」
+Kiri: "But... I, us, we were unjust... to Senpai..."
+TP
+
+//わたしたち、か。
+Us, she says.
+TP
+
+//豊の責任まで背負って。
+She even burdens herself with Yutaka's part of responsibility.
+TP
+
+//太一「そうだねぇ」
+Taichi: "You were, yes."
+TP
+
+//どうしようか。
+What to do?
+TP
+
+WVP 0 vfCCC3027kri014
+//霧「あやまったら、許してくれますか」
+Kiri: "If I apologize, will you forgive?"
+TP
+
+//太一「別に謝らなくてもいいけど」
+Taichi: "I don't have a particular need for apologies, but..."
+TP
+
+//太一「そうだな、じゃあ」
+Taichi: "Right, then."
+TP
+
+//太一「……俺の言うこと、なんでもきく？」
+Taichi: "...will you do as I say, whatever it is?"
+TP
+
+//霧「……」
+Kiri: "..."
+//You know, I suddenly get the most horrifying feeling that this... this might be the single most important arc word not just of Cross Channel, but of the entire universe of VNs. I'll elaborate on this tomorrow, as it's work day and it's waaay past midnight, a fact that I'm sure is unrelated. -GHS
+TP
+
+//コクン。首を下方に振る。
+Nod. Her head swings downwards.
+TP
+
+//霧の頭に手を置く。
+I place my hands on Kiri's head.
+TP
+
+//そのまま側面を撫でつけ、耳に指を入れる。
+And like that, I slide down and caress her profile, then put fingers in her ears.
+//See CCA0007 -GHS
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3027kri016
+//霧「ん……」
+Kiri: "Ngh..."
+TP
+
+//どうせあと一日だけの世界。
+Because after all, this is a world of only one day.
+//He spoiled iiit -GHS
+TP
+
+//ほつれて果てよう。
+Let's become frayed until it ends.
+TP
+
+//もう、何者になる必要もないのだから―――
+There is no need to become anyone, anymore---
+//There it is! Becoming means changing, and like just about everyone Taichi hates change. -GHS
+TP
+
+WVS 1 1
+
+
+//太一「本当に？」
+Taichi: "Seriously?"
+TP
+
+WVP 0 vfCCC3027kri017
+//霧「……それで……許されるのなら」
+Kiri: "...if you... give forgiveness."
+//See CCC3019B. That's how we know she is serious. -GHS
+TP
+
+//太一「どっかのランプの精みたく、願い事は三つまでとか言わないよね？」
+Taichi: "Like to the Genie of the Lamp, I might have three desires that I could ask, you know?"
+//And the reason Kiri's hair is so blue-ish is, therefore, because it's reference to Aladdin. But unfortunately, Tanaka couldn't get Robin Williams to play her part. And something precious was lost forever. -GHS
+TP
+
+WVP 0 vfCCC3027kri018
+//霧「……はい」
+Kiri: "...yes."
+TP
+
+GL 1 TCSK0004
+GI 1 0
+WVP 0 vfCCC3027kri019
+//霧「わたしに……できることなら」
+Kiri: "If it's... something I can do."
+TP
+
+//弱気になっちゃってまあ。
+She got all weak-kneed dinn'she.
+TP
+
+//太一「俺はマニアだから、霧のＵＳＥＤ制服をよこしなさいとか要求するかもよ？」
+Taichi: "I am a fetishist, therefore could I even firmly demand you to hand over your 『CHUUKO * USED』 uniform or the like, right Kiri?"
+//It's Jagranese anyway(tm). -GHS
+TP
+
+WVP 0 vfCCC3027kri020
+//霧「……は……い……お好きに」
+Kiri: "...y... yes... as you like."
+TP
+
+WVP 1 bgm013.ogg 0 0 0
+
+
+//うおー。
+Woooh.
+TP
+
+//可愛いー。
+Cuuute.
+TP
+
+//太一「身につけている下着と着画もダゾ」
+Taichi: "And even the underwear your are using, with a picture proving it's actually been worn o-f-c-o-u-r-s-e."
+//See CCC0003A, CCC3019B again. -GHS
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3027kri021
+//霧「……そんなもの、欲しがる……」
+Kiri: "...if that's the sort of thing... you want..."
+TP
+
+//涙ぐむ。が。
+She's tearing up. But,
+TP
+
+WVP 0 vfCCC3027kri022
+//霧「……わかり、ました……」
+Kiri: "...I... understand..."
+TP
+
+//……愛奴隷爆誕。
+...the explosive birth of a love slave.
+//Wooooh, haven't seen this one in a while. See CCA0006, CCA0007, CCA0019, CCB2005 -GHS
+TP
+
+//まさか本当にそんなものが持てるとは。
+No way, seriously, to have come into that, it's...
+TP
+
+//太一「生きてみるものだ」
+Taichi: "It's something to live on for."
+TP
+
+//しかし残り時間はあと一日。
+However, the time remaining is but one day.
+TP
+
+//太一「……やばい」
+Taichi: "...crap."
+TP
+
+//急がないと。
+I must hurry.
+TP
+
+//俺は性急に次のステップを目指した。
+I impatiently set my sights on the next step.
+TP
+
+//太一「じ、じゃあ、Ｈなことを強要しようかな？」
+Taichi: "We-, well, maybe I ought to force you to some perverted stuff?"
+TP
+
+
+GP 1 205 15
+GI 1 0
+GP 1 220 30
+GI 1 0
+GP 1 235 15
+GI 1 0
+GP 1 220 0
+GI 1 0
+//HACK independent doll shake -GHS
+
+
+
+//霧はびくりと震えた。
+Kiri shook with a start.
+TP
+
+GL 1 TCSK0004
+GI 1 0
+WVP 0 vfCCC3027kri023
+//霧「……どのくらい……えっちなことを？」
+Kiri: "...what level... of perverted?"
+TP
+
+//太一「ええと……」
+Taichi: "Uhmmm..."
+TP
+
+//太一「肉肉しい感じで、かな」
+Taichi: "Something that would make us into a gut-to-gut, maybe."
+//nikunikushii 肉肉しい "meat meatful" = 憎々しい "detestable", see below. -GHS
+TP
+
+GL 1 TCSK0000
+GI 1 0
+WVP 0 vfCCC3027kri024
+//霧「……は？」
+Kiri: "...huh?"
+TP
+
+//太一「き、霧が俺を憎々しく思っていたことにかけてねっ」
+Taichi: "Th-, that means there's how you really had a gut feeling that made you hate my guts, I sweeear!"
+//ugh the pun -GHS
+TP
+
+//強引すぎた。
+That was too pushy.
+TP
+
+GL 1 TCSK0004
+GI 1 0
+WVP 0 vfCCC3027kri025
+//霧「わたしを……その……抱くんですか？」
+Kiri: "Was I... is that like... 'embracing'?"
+//Another euphemism for youguessedit. though going by Youko, she might mean "I was enveloped in anger". -GHS
+TP
+
+//太一「み、未定だ」
+Taichi: "Th-, that's pending!"
+//Celebrating the 250th recorded example of stuttering (margin of error pending someone on the planet caring). !FEEL THE EXCITEMENT! -GHS
+TP
+
+//抱くに決まっていた。
+I had decided on embracing (sex),
+//Let's avoid turning this into ANOTHER running gag FFS. -GHS
+TP
+
+//けど言いにくい。
+but saying it is difficult.
+//He's SO DAMN EVIL he can't even play the role of Dark Nukige Protagonist right, and instead ends up playing that of Damn Moege Protagonist, where he can't spit it out until the actual act, where he's vaguely-OOC aggressive. -GHS
+TP
+
+//太一「とりあえず、そこに立って」
+Taichi: "First of all, go stand over there."
+TP
+
+WVP 0 vfCCC3027kri026
+//霧「い、今から？」
+Kiri: "R-, right now?"
+TP
+
+//時間はないのだ。
+There is no time.
+TP
+
+//可及的速やかにドエロシーンにＧＯ。
+Superquickly hyperswiftly filthy sex scene GOOO.
+//Curse "breakneckly" for not being a word! Also, as I am in the business of providing the necessary facts for all of you who took the time to read this commentary, here's a page of around 20 puns between clown (piero) and filthy sex (doEro). http://www.logsoku.com/r/news4vip/1285740570/ -GHS
+TP
+
+//教壇に立たせる。
+I make her take the teacher's stand.
+//It's the wooden elevated platform on which the teacher's desk lies, see BG, but the expression is also literally "to be a teacher". -GHS
+TP
+
+
+
+
+
+
+JMP N_SCENE001
+:SCENE001
+WVP 1 bgm013.ogg 0 0 0
+
+GL 0 bgcc0006
+GL 1 TCSK0004
+GP 1 220 0 0
+GS 0 1
+GS 1 1
+SEF 109
+
+
+:N_SCENE001
+
+
+
+
+
+//太一「じゃあ、これからエロいことをします」
+Taichi: "So, from this onwards I shall be doing sexual things."
+//I suppose the budget didn't cover for Kiri to cosplay as a teacher. I'd boo, but then we'd see *shudder* vertical stripes teacher uniform (somehow). That image will haunt me at night... -GHS
+TP
+
+GL 1 TCSK0007
+GI 1 0
+//霧「……っ」
+Kiri: "...!"
+TP
+
+//霧は無言だ。
+Kiri is speechless,
+TP
+
+//羞恥で耳まで赤い。
+and red to the ears in embarrassment.
+TP
+
+//これからどんな破廉恥体験を強いられるのか、不安そうにしている。
+Seeming uneasy, as if wondering what shameless infamy she will be forced to experience hereafter.
+TP
+
+//俺も不安だった。
+I was also uneasy.
+TP
+
+//人間一人を公認で好き放題するというのは、けっこうプレッシャーがあるものだ。
+A human, one, giving me permission to do what I want with her, is something that puts me in quite the pressure.
+TP
+
+//弱気モード入りつつある。
+I'm entering weak-kneed mode.
+TP
+
+//さっきみたいな強気モードは短時間しかもたないのだ！
+The cocksure mode I had a short while ago is something I can only hold for a short time!
+//There we go, some honesty at last. he's definitely, certainly, absolutely serious. See CCC3004, too, but this continues what Miki says: Taichi has a Perverted and a Nice Guy mode. Nothing more... -GHS
+TP
+//太一「さ、さあ、霧」
+Taichi: "W-, well then, Kiri."
+TP
+
+//鬼畜トークも拙い。
+My Brutespeech is also clumsy.
+TP
+
+//太一「ええと……じゃ、まずは告白タイムだ」
+Taichi: "Uhmmm... OK, first it's Confession Time."
+TP
+
+GL 1 TCSK0003
+GI 1 0
+WVP 0 vfCCC3027kri028
+//霧「告白？」
+Kiri: "Confession?"
+//The term is usually found used as "confession of love"
+TP
+
+//太一「俺が今から質問するから、ちゃんと答えるんだぞ？」
+Taichi: "All the questions I ask from here on you will answer clearly, got it?"
+//See CCC3022. He's just doing the same thing! -GHS
+TP
+
+WVP 0 vfCCC3027kri029
+//霧「は、はい」
+Kiri: "Y-, yes."
+TP
+
+//太一「えーと……初潮が来たのは？」
+Taichi: "Theeen... when'd you have your menarche?"
+//Told ya. Console (after embarassed silence): "when did your primary characteristics develop?" Supposing it parallels Yusa there. -GHS
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3027kri030
+//霧「……じゅ、１３です」
+Kiri: "...at th-, at thirteen."
+//(FWIW: she answers 11 to 13.) -GHS
+TP
+
+//太一「そう」
+Taichi: "Indeed."
+TP
+
+//霧「……」
+Kiri: "..."
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//会話が続かん……。
+Conversation ain't proceeding...
+TP
+
+//もっと大げさに驚いて恥ずかしがらせなければイカン。
+If there's no further exaggerated astonishment and embarrassment this will be bad!
+//See CCC3002. -GHS
+TP
+
+//太一「１３で生理か！　ずいぶん早熟だな！」
+Taichi: "Having your things at 13! That's so precocious innit!"
+TP
+
+GL 1 TCSK0004
+GI 1 0
+WVP 0 vfCCC3027kri032
+//霧「……え……そう、ですか？」
+Kiri: "...eh... it-, it is?"
+TP
+
+//太一「この淫乱Ｄカップボディが……って、そ、そうじゃないの？　１３ってはやくないの？」
+Taichi: "Your salacious D-cup body is so... wait, is-, is it true, no? 13's early, no?"
+TP
+
+//弱気な俺。
+Weak-kneed me.
+//Also girly, no. See CCX0001, no. -GHS
+TP
+
+WVP 0 vfCCC3027kri033
+//霧「わかりません……あんま人に言うものでもないので……」
+Kiri: "I do not know... it is not really something to discuss with other people, so..."
+//That would mean she doesn't talk about this with Miki. Now this is really odd... -GHS
+TP
+
+WVP 0 vfCCC3027kri034
+//霧「あと……Ｄカップじゃないので……」
+Kiri: "And... I'm not a D-cup either..."
+//Though he's correct to wonder: after all, in animesque design, any girl who shows any sign of having breasts at all while clothed is at least a D cup. -GHS
+TP
+
+//太一「ううむ」
+Taichi: "Hm-hmmm."
+TP
+
+//質問を変えよう。
+Let's change the question.
+TP
+
+//太一「はじめて男をくわえこんだのはいつだ、ん？」
+Taichi: "When was the first time you went and held a man in your mouth, hm?"
+//Console: "where do you begin to wash yourself when you're in the tub?" -GHS
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3027kri035
+//霧「……た、たぶん……これから」
+Kiri: "...ma-, maybe... soon."
+//"From the belly". !EXCITING! -GHS
+TP
+
+//そうだった。
+Indeed so it is.
+TP
+
+//他に女の子の恥ずかしがりそうなこと。
+Other things that could embarrass a girl...
+//Five minutes ago: "ku ku ku imma totally break you!" Now: "HOW DO I EMBARAS GURL" -GHS
+TP
+
+//太一「そうだ、自慰だ！　自慰はどうなのだ！　週に何回するのだ？」
+Taichi: "Right, self-consolation! How's your 'self-consolation'! How many times a week?"
+//It's a running gag <- the universal excuse -GHS
+TP
+
+GL 1 TCSK0000
+GI 1 0
+WVP 0 vfCCC3027kri036
+//霧「じいって……なんですか？」
+Kiri: "Self-con... what is that?"
+//See, it works better if it's like that! I'm not doing it on purpose (<- lies) -GHS
+TP
+
+//太一「後ろの味まで知っているとはこのミス・セルフプレジャーが……って、え、今なんて言った？」
+Taichi: "Are you even acquainted with the flavor of the rear side, eh, you Miss Self-Plejah--- wait, eh, what'd you just say?"
+//I know this makes it seem like she licks her fingers after anal masturbation, but... I just have the horrible feeling that's exactly what it means. Though it might just mean "the taste of the dark side". -GHS
+TP
+
+WVP 0 vfCCC3027kri037
+//霧「じいって？」
+Kiri: "What's this 'consolation'?"
+TP
+
+//俺はフォフォフォと笑った。
+I laughed with a noblewoman's hoooh-hoh-hoh laugh.
+//Hopefully improving the odds anyone'll recognize how girly Taichi gets... -GHS
+TP
+
+//太一「ご冗談をお嬢様」
+Taichi: "Ojou-sama is a kidder!"
+TP
+
+//霧「……？」
+Kiri: "...?"
+TP
+
+//太一「……いやだから……オナニー」
+Taichi: "...come on... onanism!"
+TP
+
+WVP 0 vfCCC3027kri039
+//霧「おなにい？」
+Kiri: "O'nanysm?"
+TP
+
+//太一「しらないの？」
+Taichi: "Totally unaware of it, then."
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3027kri040
+//霧「……はい」
+Kiri: "...yes."
+//I'm sorry, but adapting "yes" to "no" sounds like crap. -GHS
+TP
+
+//性にうとい属性か。
+The Distanced from Gender Issues Character Attribute perhaps?
+TP
+
+//太一「ひとりえっちといえばわかるか」
+Taichi: "If I say 'pervy things on yourself' do you get it now?"
+//Cutesy. Console: "what shampoo do you use?" -GHS
+TP
+
+GL 1 TCSK0000
+GI 1 0
+WVP 0 vfCCC3027kri041
+//霧「あれのこと……ですか」
+Kiri: "It's 'that' thing... is it?"
+//Kiri: "Low acidity". -GHS
+TP
+
+//太一「どうなのだ」
+Taichi: "So it seems."
+//Taichi: "Same as mine" -GHS
+TP
+
+GL 1 TCSK0004
+GI 1 0
+WVP 0 vfCCC3027kri042
+//霧「あ、あります……」
+Kiri: "I-, I have..."
+//Kiri: "I use the same brand for the rinse." -GHS
+TP
+
+//いいぞ。いい感じ。
+Niiice. Feels nice.
+//Taichi: "ME TOO!!!" -GHS
+TP
+
+//太一「フフフ、週に何回だ？」
+Taichi: "Hoh hoh hoh, how many times a week?"
+//Taichi: "...no, wait, I don't wanna hear about this stuff..." -GHS
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3027kri043
+//霧「今までの人生で二回だけ……」
+Kiri: "Up to now just twice, in my life..."
+TP
+
+//太一「週六とはまたずいぶん熱心なことだな週休二日制をも返上する勤労っぷりにボーナスを出してしまいそうだぞこの猥褻フロ淫乱イン（フロイラインとかけてる）……って、人生二回っ！？　マジか！？」
+Taichi: "Six weekly is quite the very zealous thing innit it's as if expecting a nice bonus for acting like a worker who gives up a five-day work week oh perverted frauLicentiouSain (it's inserted into fraulein) that... wait, twice in your LIFE?! You serious?!"
+//Of course only six weekly, on the seventh she rests. 6 (Weekly) + 2 (in five day workweek, it's written "2 weekly rest days) = 8. Fraulein again, last seen with Yusa. Console: Taichi: "Uhm, are you having a balanced diet?" -GHS
+TP
+
+//叫ぶ。
+I shouted.
+TP
+
+GL 1 TCSK0003
+GI 1 0
+WVP 0 vfCCC3027kri044
+//霧「は、はい……」
+Kiri: "Y-, yes..."
+//Kiri: "...when the family was around... recently, I'm not so sure..." - but like in CCC3019A, this means little: her family is almost never home, see CCC3004. -GHS
+TP
+
+//太一「どうしてそんな少ないんだ！　貞淑娘かおまえは！」
+Taichi: "Whyyy so few times! You wanna be Miss Chastity or something?!"
+//He then gives her vitamin supplements, which I take to also be in the Taichi Bag. Well, no change then; although here, the supplement is only of iron *badum-tish*. -GHS
+TP
+
+WVP 0 vfCCC3027kri045
+//霧「……そ、そう言われても……あまり、気持ちよくなかったし……」
+Kiri: "...y-, you can say that, but... it didn't... really didn't feel very good..."
+//...and then he tells her how she must eat her vegetables and not just eat retort pouch stuff, and how they must maintain their bodies, and HE asks HER if HE can do something more. Dammit, that's funnier than this. -GHS
+TP
+
+//太一「がーん！」
+Taichi: "Disappointmeeent!"
+//"Literal". Console: "Wait, whyyy did I become all nice now!!!!". He then hugs her (d'awww), calls her adorable, and asks her to get married. -GHS
+TP
+
+//無萌。
+Unmoe.
+TP
+
+//いかん、どうも調子が出ない。
+This is bad, we're still not getting into the mood.
+TP
+
+//太一「……よ、よし。次のステップ行くぞ次」
+Taichi: "...o-, OK. Next step, let's go to the next step!"
+TP
+
+GL 1 TCSK0000
+GI 1 0
+WVP 0 vfCCC3027kri046
+//霧「は、はい」
+Kiri: "Y-, yes."
+TP
+
+//太一「小粋な笑（ショウ）タイムは終わった。ここからは本番だぞ。おまえの恥じらいと俺の肉欲、どちらが本物か試されるんだ」
+Taichi: "The stylish hoh!-time (pronounced showtime) has ended. Hereafter is principal photography (sex), oh indeed. The shyness in you and the animal passions in me: which of the two is the real deal shall be put to test!"
+//Same weirdo term used in the Touko route, and is kept same in the console version. Might's well keep that as a running gag as well. (Told you it explains everything.) -GHS
+TP
+
+//霧「？？？」
+Kiri: "???"
+TP
+
+//うむ。俺も言っててわけわからん。
+Hum. I understood nothing of what I said either.
+TP
+
+//だが、行くぞ！
+Whatever, let's go!
+TP
+//太一「ス、スカート……マイナス……キック……イコール、何だ？」
+Taichi: "SK-, SKIRTO... MAINAS... KIKKU... EKUARU, what?"
+//He asks to see the "coloring" (English) of her panties here. Notable because it's the damn question he asks Nanaka instead of anything useful. -GHS
+TP
+GL 1 TCSK0000
+GI 1 0
+WVP 0 vfCCC3027kri048
+//霧「……マイナス？　キック？」
+Kiri: "...'mainas'? 'Kikku'?"
+TP
+
+//太一「以下の設問に答えよというやつだ」
+Taichi: "It's about answering the following question for X:"
+//OH NOES I DIDN'T STUDY FOR THE TEST plus a dog hate my homework so he ate it. -GHS
+TP
+
+//太一「スカート－キック＝？」
+Taichi: "SKIRT - KICK = X"
+//Skirt = x+kick -> futanari*skirt = (x+kick)/futanari -> futanari = (x+kick)/(futanari*skirt) -> x = penis. It's math; it has like equal signs and shit. -GHS
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3027kri049
+//霧「え、えっと……む、難しいですね……」
+Kiri: "Eh, uhmm... th-, that is a difficult one...."
+TP
+
+//太一「霧は、俺がスカートめくりしたら蹴っただろ。だから……」
+Taichi: "If I were to go flip Kiri's skirt, I would get kicked. Therefore..."
+//LOGIC PUZZLES NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOdies -GHS
+TP
+
+GL 1 TCSK0000
+GI 1 0
+WVP 0 vfCCC3027kri050
+//霧「普通、蹴ります……」
+Kiri: "Kicking is... normal...?"
+TP
+
+//太一「ふ、普通そうなのかな？」
+Taichi: "I-, is it really normal now?"
+TP
+
+WVP 0 vfCCC3027kri051
+//霧「スカートをめくりたい、んですか？」
+Kiri: "You want to flip my skirt... right?"
+//Here console rejoins. -GHS
+TP
+
+//太一「いや、霧がめくってくれ」
+Taichi: "Nope, you'll be flipping it for me, Kiri."
+TP
+
+GL 1 TCSK0003
+GI 1 0
+WVP 0 vfCCC3027kri052
+//霧「い？」
+Kiri: "Yh?"
+//Another suspicious 'I'. -GHS
+TP
+
+//太一「自分で見せるんだ。さあ！」
+Taichi: "Show me by yourself. Come on!"
+TP
+
+WVP 0 vfCCC3027kri053
+//霧「自分でって……」
+Kiri: "By myself you say..."
+TP
+
+//太一「急ぐんだ。時間がない！」
+Taichi: "Hurry it up. Got no time!"
+TP
+
+//霧はスカートを押さえつけるようにして逡巡していたが、やがて覚悟を決めた。
+Kiri seemed to push down on her skirt in hesitation, but, soon, steadied her resolve.
+TP
+
+//緞帳があがるほどのスローな動作で、スカートをたくしあげていく。
+With the slow movement of the raising of a theater's curtain, she rolled up the skirt.
+//Console: "The boundaries of religious exultation!" reported as it's even more lateral evidence. Then, "I shout loudly at the heavens, having taken a Limbo Dance-like pose". -GHS
+TP
+GL 0 evcc0017
+$CGevcc0017 = 1
+//At least the vertical stripes are hard to see... sob. -GHS
+GS 0 1
+GS 1 0
+SEF 109 1
+//太一「……おお、ぱんつだ……」
+Taichi: "...oooh, pawntys..."
+//cutesy -GHS
+TP
+
+//苦労した分、喜びも大きい。
+Joy commensurate to the hardship.
+TP
+
+WVP 0 vfCCC3027kri054
+//霧「も、もういいですか？」
+Kiri: "I-, is this enough?"
+TP
+
+//太一「何を言う！　まだまだ序章ではないか！」
+Taichi: "The hell you say! We're still but still in the prologue aren't we!"
+TP
+
+//太一「エンディングまで、長い道のりが待っているぞ。そら、あげたまま保持するのだ」
+Taichi: "A lengthy itinerary awaits us before the ending! Come now, keep that thing lifted up!"
+TP
+
+WVP 0 vfCCC3027kri055
+//霧「こ、こんなこと……おかしい、です」
+Kiri: "Th-, this is... weird."
+TP
+
+//太一「いい下着だな」
+Taichi: "Nice underwear innit."
+//Taichi is an enemy of underwear taste. -GHShimaPantsNeedToBeHorizontalHORIZONTALDAMMIT
+TP
+
+WVP 0 vfCCC3027kri056
+//霧「……どうも」
+Kiri: "...thanks."
+//CP CCC3003
+TP
+
+//太一「よく似合ってる。実に霧らしい、清楚さと若々しさが同居した履きっぷり。若鮎のような両脚の付け根で、丸みを帯びた臀部をしおらしく包み込む構成はすがすがしくあり、人に清涼感を与える佇まい、大変よろし」
+Taichi: "They fit you well. Truly Kirish to wear something that makes youthfulness and tidy properness coexist."
+//Line split -GHS
+TP
+Taichi: "They create a refreshing composition at the root that connects these two legs as vital as a young sweetfish, meekly wrapping these gluteals barely tinged with roundness, a figure that bestows a feeling of freshness to others... almost problematically marvelous."
+//No clue if this time it's intended to be like the snack or the f--- you know what I'm going whatever with this, while grumbling against Kinoko Nasu: *grumble* *grumble* kinoko nasu *grumble* -GHS
+TP
+
+WVP 0 vfCCC3027kri057
+//霧「……評論しないでください……」
+Kiri: "...do not give it a critique please..."
+TP
+
+//太一「さて」
+Taichi: "Well then,"
+TP
+
+//次だ。
+Next.
+TP
+
+//パンチラの次と言えば決まっていた。
+Next up after the panchira is something very clear.
+TP
+
+//太一「……下着をダウンロードします」
+Taichi: "...I shall download your panties."
+//he has a hard drive -GHS
+TP
+
+WVP 0 vfCCC3027kri058
+//霧「えっ？　ダウンロードって？」
+Kiri: "Eh? Download, what?"
+TP
+
+//太一「パンツずりおろします」
+Taichi: "I will slip your panties downwards."
+TP
+
+WVP 0 vfCCC3027kri059
+//霧「ええっ？」
+Kiri: "EEEH?"
+TP
+
+//太一「何を驚く」
+Taichi: "What'cha shocked for?"
+TP
+
+WVP 0 vfCCC3027kri060
+//霧「そんなことまで……」
+Kiri: "All the way to that..."
+TP
+
+//太一「するさ。俺はする。もっとじっくりやってもいいんだが、時間がないしな」
+Taichi: "Slip, yeah. I will slide. I'd love to do this waaay mooore slowly, but, we got no time."
+//Also "fog up in frost", among several other vaguely-related puneanings throughout the sentence. -GHS
+TP
+
+WVP 0 vfCCC3027kri061
+//霧「時間って……さっきからいったい？」
+Kiri: "Time you say... you said that before, what is it about?"
+TP
+
+//太一「こっちのことだ。それより君には今日中に俺の愛人形になってもらわないと」
+Taichi: "Just a thing of mine. More importantly, you will, before this day is over, become my love doll."
+//See Taichi doll. Oh, and Taichi as living doll. I highlight the obvious to meet your levels of intellectuality(tm). -GHS
+TP
+
+WVP 0 vfCCC3027kri062
+//霧「あ、愛人形……」
+Kiri: "Lo-, love doll..."
+TP
+
+//太一「手はそのままにしておくんだぞ」
+Taichi: "Keep your hands like that now."
+TP
+
+//霧の下着、はじっこに指をかける。
+I hang my fingers on the ends of Kiri's underwear.
+TP
+
+//太一「対象をファイルに保存だ」
+Taichi: "Save target as..."
+//This is, unsurprisingly, precisely what IE calls it - all the way to the latest versions as of writing. -GHS
+TP
+
+//ゆっくりと確実に引き下げていく。
+Slowly and steadily slipping downwards,
+//damn dialup like an hour to download the Darklight Conflict demo to discover it's not the sequel to Cybermage: Darklight Awakening dammit -GHS
+TP
+
+//まるで賃金や金利のように。
+precisely like wages and interest rates.
+//I think at this point even Tanaka was going mad with boredom at the sex scenes. -GHS
+TP
+
+//下着が傾いで、するすると臀部を滑り降りる。
+The underwear trends downward, smoothly sliding down the ass.
+TP
+
+WVP 0 vfCCC3027kri063
+//霧「い、いやぁ……見えちゃ……」
+Kiri: "N-, nooo... you'll see it..."
+TP
+
+//太一「どこが？」
+Taichi: "See What?"
+TP
+
+WVP 0 vfCCC3027kri064
+//霧「だ、だいじなところ……」
+Kiri: "T-, the secret place..."
+//I'll never get why girls think this 野老 is so precious -GHS
+TP
+
+//乗ってきた。
+We were getting on,
+TP
+
+//まだ秘部は露出していない。
+but the nethers were not exposed yet.
+TP
+
+//片側の横紐が、かろうじて腰骨にかかっている。
+The side string on one side just barely rests on the hipbone.
+//Damn, any slower and it'll be the contraption that lowers people into acid from an Adam West Batman episode... -GHS
+TP
+
+//中心部は股間に密着し、まとわりついている。
+The very center is closely glued to the nethers, clinging hard to them.
+TP
+
+//こころなしか食い込み、形状を浮き彫りにしていた。
+It's just barely wedged into the vulva, putting the shape into relief.
+TP
+
+//一センチ、指を落とす。
+I lower the fingers one centimeter.
+TP
+
+//ぐいと布地が下方に引かれる。
+Yank, and the fabric is drawn below.
+//May be just in his humble opinion, though. -GHS
+TP
+
+//脱げちゃう感が強まり、霧の全身がきゅっと強ばった。
+With the sensation of being stripped getting stronger, Kiri stiffens tightly throughout her body.
+TP
+
+//太一「……ここまでで勘弁してやるか」
+Taichi: "...I think I'll forgive you everything with this."
+//Even this isn't him being straightforwards and manipulative: he DID say he doesn't see it as anything to be forgiven. Of course he's lying... but at least as much to himself as to her. -GHS
+TP
+
+//霧からほっとした様子が伝わってくる。
+I can feel a sense of relief coming from Kiri.
+TP
+
+//その瞬間。
+That instant,
+TP
+
+//俺は一気に指を足首まで落とした。
+I yank my fingers all the way to the ankles in one stroke.
+TP
+GL 0 evcc0017b
+$CGevcc0017b = 1
+GS 0 1
+SEF 109 0
+WVP 0 vfCCC3027kri065
+//霧「きゃあっ！？」
+Kiri: "KYAAH?!"
+TP
+
+//出たあっ！！
+It's in vieeeew!!!
+TP
+//太一「フフフ、あれが太陽系第三惑星・恥丘か……」
+Taichi: "Hoooh hoh hoh, is that not the third planet of the Solar System, Mons Venus..."
+//Sun was spelled right, oddly enough. The word he uses seems to explicitly exclude the sun. According to one of the many pages that somehow exist on the Internet: http://wiki.answers.com/Q/Is_venus_the_third_planet_from_the_sun I am going with one of the great many intentional mishaps of knowledge Taichi is known for. Pun is with Veneris Mons, you eternal virgins. -GHS
+TP
+
+WVP 0 vfCCC3027kri066
+//霧「……は、恥ずかしい……うぅ、ひくっ……」
+Kiri: "...so-, so embarrassing... ngh, sob..."
+TP
+
+//泣いたか。
+She's crying?
+TP
+
+//脆いことだ。
+What a brittle thing.
+TP
+
+//太一「霧って、すごく毛が薄いね」
+Taichi: "Well, Kiri, your hair is quite sparse."
+TP
+
+WVP 0 vfCCC3027kri067
+//霧「そんなこと、言わないでください……」
+Kiri: "That's... please don't talk about that..."
+TP
+
+//太一「けどあまり縮れてなくて、すらっと下に流れて……キレイだよ。まるで櫛でも入れてるみたいだ」
+Taichi: "But it's not really curly, it all flows straight down... it's beautiful. It's just like it's been combed."
+TP
+
+WVP 0 vfCCC3027kri068
+//霧「うううっ」
+Kiri: "Ngggh..."
+TP
+
+//太一「それに、ふっくらとしたパンケーキみたいな恥丘……ついつい平和を守ってしまいそうだよ」
+Taichi: "Besides, this Mons Veneris is all soft and fluffy like a pancake... it's like it's unconsciously defending its peace!"
+//The hair. -GHS
+TP
+
+//俺はまじまじと至近距離で、霧の秘部を観察した。
+I study Kiri's nethermosts staring, fixedly, at point-blank range.
+TP
+
+WVP 0 vfCCC3027kri069
+//霧「……ん……そんなっ……」
+Kiri: "...ngh... reallyyy..."
+TP
+
+//息を吹きかける。
+I blew breath on them.
+TP
+
+WVP 0 vfCCC3027kri070
+//霧「んくっ、息、だめ、だめ、です」
+Kiri: "NGH!, breath, don't, don't, please!"
+TP
+
+//大腿部が震える。
+Femurs shaking.
+TP
+
+//俺は口をすぼめ、息を針状にして霧のスロットに刺激を加えていく。
+I narrow my mouth so that the needle of breath adds further stimulus to Kiri's slot.
+//coinopか. -GHS
+TP
+
+WVP 0 vfCCC3027kri071
+//霧「んん……そんなの、おかしい……ヘン……ヘン……っ」
+Kiri: "Nnh... that's... weird... odd... odd...!"
+TP
+
+//こそばゆいのか、もじもじと下半身を揺する。
+Perhaps tickled, the lower half of the body fidget and shakes.
+TP
+
+//太一「だって、霧のココ、全然成長してない子供みたいなんだもん」
+Taichi: "But Kiri, your down-theres haven't grown up at all, they still look like a child's don't they."
+//Just like much of her uptheres... -GHS
+TP
+
+//カッと赤面の度合いが増す。
+Whoosh, and the amount of red in the face increases.
+TP
+
+WVP 0 vfCCC3027kri072
+//霧「そ、それって、どういう？」
+Kiri: "Wh-, what does that... mean?"
+TP
+
+//太一「ぴったり閉じてて、オンナノコって感じだ。ぴらっとした部分もほとんど出てないなんて……」
+Taichi: "It closes so tight, feels just like a baby girl's. The flappy part is just barely even visible..."
+TP
+
+WVP 0 vfCCC3027kri073
+//霧「ふ、普通は違う……と？」
+Kiri: "It-, it's not normal... then?"
+//She's got a Normalcy Complex even bigger than Taichi's... -GHS
+TP
+
+//太一「もっとラフレッシアーンな形してるよ。ふー」
+Taichi: "They should have much more of a rafflesian shape. *Puff!*"
+//http://en.wikipedia.org/wiki/Rafflesia ew -GHS
+TP
+
+WVP 0 vfCCC3027kri074
+//霧「きゃんっ」
+Kiri: "KyAhnh!"
+TP
+
+//うは、可愛いすぎる。惚れそう。
+Wah, way too cute. I'm in love.
+TP
+
+//だめだ、欲しくなってきた。
+Dammit, now I just want it.
+TP
+
+//太一「……霧の処女、もらっていい？」
+Taichi: "...your virginity, Kiri, may I have it?"
+TP
+
+WVP 0 vfCCC3027kri075
+//霧「っ」
+Kiri: "!"
+TP
+
+//一瞬言葉に詰まる。けど気丈に、
+She's momentarily at a loss for words. But then, stout-heartedly,
+TP
+
+
+WVP 0 vfCCC3027kri076
+//霧「そうなるって、思ってましたから」
+Kiri: "I knew... that it would end like this."
+TP
+
+WVP 0 vfCCC3027kri077
+//霧「恥ずかしいトコロを見せて……抱かれて……それで、許してくれるなら……」
+Kiri: "Showing you my embarrassing spot... and being embraced... if that... makes you give your forgiveness..."
+//...clear yet that this is just a slight variant on the toilet scene? -GHS
+TP
+
+//太一「……別に俺は」
+Taichi: "...not really, I..."
+TP
+
+//許すとか、許さないとか……。
+To forgive, to not forgive...
+TP
+
+//けど。
+But,
+TP
+
+//どうなんだろう。
+however it goes,
+TP
+
+//俺は豊のことを―――
+Yutaka, to me he's---
+TP
+
+//疑問は強制的に沈殿させた。
+The question was made to precipitate forcibly.
+//Same as at the start above. He's still jealous of Yutaka... or more likely, see CCC3004 again: he's afraid Yutaka will do to Kiri what he did himself, and wants to break it off. The error is that Yutaka would have very likely never have done anything to Kiri; Taichi only thinks this because he hasn't forgiven the guy. He's making the exact same error with Yutaka that Kiri has made with Taichi. -GHS
+TP
+
+//太一「もうおろしていいよ」
+Taichi: "Just lower it already."
+//No double meaning (that's as clear as it is in English). -GHS
+TP
+
+//霧はスカートをおろす。
+Kiri lets her skirt fall off.
+TP
+
+//太一「足上げて」
+Taichi: "Raise your feet."
+TP
+
+//片方ずつ足をあげさせて、下着を抜き取る。
+She raises her feet one after the other, and I remove her panties.
+TP
+
+//くしゃっと一握りに、鼻先にあてがう。
+Scrunching them up into a handful, I apply them to the tip of the nose.
+TP
+
+WVP 0 vfCCC3027kri078
+//霧「だ、だめっ」
+Kiri: "No-, NOOO!"
+TP
+
+//太一「んー、いい香り」
+Taichi: "Mmmh, nice smell."
+TP
+
+WVP 0 vfCCC3027kri079
+//霧「やめて、お願いやめて」
+Kiri: "Stop it, I beg you stop!"
+TP
+
+//太一「……はいはい」
+Taichi: "...fine, fine."
+TP
+
+//太一「でもこれはもらうよ。ダウンロードしたのだから」
+Taichi: "But these I'll be keeping! Because they've been downloaded."
+TP
+
+//右ポケットに保存した。
+I save them in the right pocket.
+TP
+
+//太一「それに、もっと恥ずかしいことをするんだよ？」
+Taichi: "And also, we'll be doing something far more embarrassing, OK?"
+TP
+GL 0 bgcc0006
+GL 1 TCSK0003
+GS 0 1
+GS 1 0
+SEF 109 0
+
+WVP 0 vfCCC3027kri080
+//霧「…………あ、あの……ここで？」
+Kiri: "......ah, uhm... in here?"
+//Still suspecting the sex scenes do not actually happen at all, but... -GHS
+TP
+
+//太一「ああ」
+Taichi: "Mh-hm."
+TP
+
+GL 1 TCSK0004
+GI 1 1
+//HACK fade doll. -GHS
+WVP 0 vfCCC3027kri081
+//霧「水浴び、したいんですけど……」
+Kiri: "But I want to... take a bath before that..."
+TP
+
+//太一「ダメだ」
+Taichi: "Not happening."
+TP
+
+//一番おいしい部分だぞ。
+That's the most delicious part dammit.
+//Oh, there goes Touko again. -GHS
+TP
+
+//太一「窓際に行って」
+Taichi: "Go to the window."
+TP
+
+WVP 0 vfCCC3027kri082
+//霧「は、はい……」
+Kiri: "Y-, yes..."
+TP
+
+
+//窓際に立たせる。
+She stands by the window.
+TP
+
+//太一「……今、霧ちんはパンツ履いてないんだよね」
+Taichi: "...right now, you are not wearing any panties, are you Kiri-chin."
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3027kri083
+//霧「あなたが……脱がせたから……」
+Kiri: "Because you... took them off..."
+TP
+
+//視線をそらす。
+She averts the sight.
+TP
+
+//太一「これから、霧ちんはずっと俺と一緒にいること。いいね？」
+Taichi: "From here onwards, you will always be together with me, Kiri-chin. Right?"
+TP
+
+WVP 0 vfCCC3027kri084
+//霧「……はい」
+Kiri: "...yes."
+TP
+
+//太一「今夜からうちに泊まるんだよ」
+Taichi: "You'll be staying at my house from tonight."
+TP
+
+WVP 0 vfCCC3027kri085
+//霧「わかり、ました」
+Kiri: "I... understand."
+TP
+
+//太一「で、下着はもうつけたらダメ」
+Taichi: "Also, you cannot be wearing panties from now on."
+//See CCC3025. Repeat 'em patterns. -GHS
+TP
+
+GL 1 TCSK0003
+GI 1 0
+WVP 0 vfCCC3027kri086
+//霧「……ダメって……じゃあ、どうしたら？」
+Kiri: "...cannot... then, what will I do?"
+TP
+
+//太一「ずっとノーパンでいるんだよ」
+Taichi: "You'll always go no-pan of course."
+//Sakuraba ate it all anyway. -GHS
+TP
+
+//当然のように告げる。
+So I proclaim as if it was a matter of course.
+TP
+
+//太一「霧ちんはパンツ履く権利を凍結されたんだよ」
+Taichi: "Kiri-chin's right to bear panties has been suspended."
+//Not a typo... maybe. She's old for bear panties too. BUT THEY'D BE AN IMPROVEMENT ON THESE. -GHS
+TP
+
+GL 1 TCSK0000
+GI 1 0
+WVP 0 vfCCC3027kri087
+//霧「そ、そんなっ、もし誰かに見られたらっ」
+Kiri: "Se-, seriously, but what if somebody sees me!"
+TP
+
+//太一「……ドキドキする？」
+Taichi: "...will your heart go all boom, boom?"
+TP
+
+WVP 0 vfCCC3027kri088
+//霧「しませんっ」
+Kiri: "It will NOT!"
+TP
+
+//太一「きっと、すると思うよ」
+Taichi: "It will and definitely, I think."
+//Trying to give her an exhibitionist streak. -GHS
+TP
+
+WVP 0 vfCCC3027kri089
+//霧「しません。そんなこと、あるはずありません」
+Kiri: "It will not, nothing of the sort, it just can not!"
+TP
+
+//俺は笑いを噛み殺した。
+I kill a laugh in my teeth.
+//See Misato route. -GHS
+TP
+
+//かたくなさが、可愛らしい。
+Unsteadfastness is so lovely.
+TP
+
+//太一「さてと」
+Taichi: "Well then now."
+TP
+
+//スカートの中に指を入れた。
+I insert my fingers inside of her skirt,
+TP
+
+//割れ目に指を置く。
+and put a finger on the chasm.
+TP
+
+//太一「……うん。わずかな隙間から熱気が吹き出してきてる」
+Taichi: "...yes. Seems like there's a little bit of hot air coming in from this fissure."
+TP
+
+//太一「押し割るね」
+Taichi: "I'll widen it."
+//...is he trying to escape from a cave-in now? -GHS
+TP
+
+//ゆるゆるとスライドさせつつ、指を押しつけていく。
+Very slowly and gently I slide while pushing the finger in.
+TP
+
+//めらっ、と肉が割れた。
+Spltch, and the meat split.
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3027kri090
+//霧「……んっ！」
+Kiri: "...nh!"
+TP
+
+//霧は爪先立ちになる。
+Kiri ends up standing on her tiptoes.
+TP
+
+//逃げようと腰を浮かす。
+Her waist rises up as if to escape.
+TP
+
+//でも逃げられない。
+But it won't escape.
+//See CCC3022, among others -GHS
+TP
+
+//指を肉に沈ませていく。
+I make the finger sink into the flesh.
+TP
+
+WVP 0 vfCCC3027kri091
+//霧「……あ、こわい、こわい」
+Kiri: "...ah, scary, it's scary!"
+TP
+
+//こっちの肩にしがみついて。
+She clings to my shoulders.
+TP
+
+//太一「大丈夫」
+Taichi: "It's all right."
+TP
+
+WVP 0 vfCCC3027kri092
+//霧「痛そう、それ痛そうで……」
+Kiri: "It'll hurt, feels like it'll hurt..."
+TP
+
+//太一「平気だってば」
+Taichi: "It's fine, believe me."
+TP
+
+//指は刺激が強すぎるかな。
+Finger stimulus is too strong, then.
+TP
+
+//引き抜く。
+I pull out.
+TP
+
+//帰り際、クリトリスを指の腹がかすめる。
+On the way out, I graze the clitoris with the thick of the finger.
+TP
+
+WVP 0 vfCCC3027kri093
+//霧「きゃうっ」
+Kiri: "KyaUhhh!"
+TP
+
+//敏感だ。
+She's sensitive.
+TP
+
+//太一「じゃあ、もっと優しくやってあげるよ」
+Taichi: "Well, I'll be doing this in a much gentler way then."
+TP
+
+GL 1 TCSK0004
+GI 1 0
+WVP 0 vfCCC3027kri094
+//霧「……え……え、なに？」
+Kiri: "...eh... eh, what?"
+TP
+
+//俺は霧のスカートの中、頭を潜り込ませた。
+I dive my head inside Kiri's skirt.
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3027kri095
+//霧「あ、あああ……うそぉ……」
+Kiri: "Ah, AAAH... you're kidding me..."
+TP
+
+//舌を出して、たっぷりと唾液を乗せて。
+I stick out the tongue, with plenty of saliva laid on top.
+TP
+GL 0 evcc0027b
+$CGevcc0027b = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+WVP 0 vfCCC3027kri096
+//霧「ふああああっ！？」
+Kiri: "fWaaaah?!"
+TP
+
+//肉にねじこんだ。
+I shove into the flesh.
+TP
+
+//ディープキス。
+~Deep kiss~
+TP
+
+//舌先が熱い空間に包まれている。
+The tip of the tongue tucks into a hot space.
+TP
+
+//なんて体温だ。
+What body temperature!
+//Like Touko. Who'd have thought tsunderes were cold on the outside but on the inside they--- ohhh. -GHS
+TP
+
+//霧の両脚を広げさせ、頭を動かす。
+Spreading out Kiri's legs, I move the head.
+//Mof, mof -GHS
+TP
+
+//舌のカッターで、霧に切れ目を入れる。
+With a tongue made into a cutter, I insert myself into Kiri's rift.
+//...see CCA0007? -GHS
+TP
+
+//むわりとした、少女の性臭がした。
+There it was, the undiluted smell of a girl's sex.
+TP
+
+WVP 0 vfCCC3027kri097
+//霧「……うううううっ」
+Kiri: "...ngUuuuh..."
+TP
+
+//呻いている。
+Moaning.
+TP
+
+//クンニの感覚ははじめてなのだろう。
+This is definitely the first time she's felt cunnilingus.
+TP
+
+//舌先は霧のヒダをていねいに開いていく。
+The tip of my tongue politely opens Kiri's folds.
+TP
+
+//俺の口で、女の性器に変えてしまう。
+I make it into a woman's sexual organ using my mouth.
+//Because it didn't look like one before, I guess. -GHS
+TP
+
+
+
+
+WVP 0 vfCCC3027kri098
+//霧「ひあっ、ひぁぁ……あっ、ああっ、んくっ！」
+Kiri: "hYAh, hYaah... ah, aaah, ngh!"
+TP
+
+//頭上からか細い声。
+A thin voice from high overhead.
+TP
+
+
+
+
+WVP 0 vfCCC3027kri099
+//霧「あっ、す、吸わないでっ、吸っちゃいやぁぁぁ」
+Kiri: "Ah, do-, don't suck, no, sucking noooo!"
+TP
+
+//太一「吸ってビラビラを出してあげようかなって」
+Taichi: "You're saying that sucking makes you go all aflutter, are you."
+TP
+
+WVP 0 vfCCC3027kri100
+//霧「そ、そんなの、ない……」
+Kiri: "Th-, that's not... true..."
+TP
+
+//ないことはない。
+Untrue that it's not true.
+//coconut = coconut THE END -GHS
+TP
+
+//太一「剥いてやるからな」
+Taichi: "I'll just peel it off."
+TP
+
+//キスを再開する。
+Kiss resumption.
+TP
+
+WVP 0 vfCCC3027kri101
+//霧「ふっくぅぅ、あう、あぁぁ……は、は、お、奥に入って……きちゃ……んーっ！」
+Kiri: "fKKuuuh, ahuh, aaah... hah, hah, inside so deep... kCHaah... nnnh!"
+TP
+
+//頭が押さえられる。
+My head is pressed down.
+TP
+
+//止められるものではない。
+It isn't to get me to stop.
+TP
+
+//ねろねろと舐める。
+Lick with plenty of spit.
+//nero nero to nameru. So much troll. -GHS
+TP
+
+//シチューを作る動きで、かき回す。
+A motion as if to brew stew, stirring in a circle.
+TP
+
+//ぐるぐると内壁が洗われる。
+I thoroughly wash the interior wall with spin after spin.
+//Wash + investigate. Nice. -GHS
+TP
+
+//洗浄でもしたのか、おりものの残り香はほとんどない。
+Perhaps she'd cleaned it, as there is almost no lingering scent of the menstrual discharge.
+//She did that before Taichi started licking, of course. Just keep telling yourself that. -GHS
+TP
+
+WVP 0 vfCCC3027kri102
+//霧「はっ、はんっ、んんんっ」
+Kiri: "Hah, hahnh, nnnh."
+TP
+
+//時折、ぬるりと奥まで潜る。
+At times, I pass with a slimy spltch as far back as I can.
+//Seriously stop it -GHS
+TP
+
+WVP 0 vfCCC3027kri103
+//霧「うううぅぅぅぅぅぅっ……」
+Kiri: "NgggUhhhhhh...!"
+TP
+
+//反応は初々しい。
+Her answer is so innocent.
+TP
+
+//尿道を吸ってみたり。
+I'll try to suck the urethra.
+TP
+
+WVP 0 vfCCC3027kri104
+//霧「きゃっ！？　きゃ、やだ、だめ、だめですっ」
+Kiri: "Kyah?! Kyah, no way, you can't, you cannot!"
+TP
+
+//大慌て。
+Panic.
+TP
+
+WVP 0 vfCCC3027kri105
+//霧「出ちゃ、出ちゃうからっ……ゆ、許して……汚いから……」
+Kiri: "Out, it comes out from there...! L-, leave it I beg... it's dirty..."
+TP
+
+//中断する。
+Interrupted.
+TP
+
+//俺は変態だから汚いとは思わないが。
+As I am a filthy pervert, I don't think it dirty, but,
+//~urolasagna~ -GHS
+TP
+
+//まあ……お楽しみはあとにしておこう。
+well... let's leave that as a pleasure to be enjoyed later.
+TP
+
+//尿道の上。
+Above the urethra,
+TP
+
+//ビーンズを発見。
+I discover a bean.
+//But humans don't have beans! Damn Taichi and his unscientific trolls, next he'll tell us that women exist. -GHS
+TP
+
+//吸いつく。
+I suck.
+//~~~ -GHS
+TP
+
+WVP 0 vfCCC3027kri106
+//霧「っ！！？？」
+Kiri: "???!!!"
+TP
+
+//埋もれていたそこを、霧は知っていただろうか。
+Kiri should know what is buried way down there, but does she?
+TP
+
+WVP 0 vfCCC3027kri107
+//霧「あ、あ、あ……？」
+Kiri: "A-, ah-, AH-...?"
+TP
+
+//ねぶる。
+Lick.
+TP
+
+//すぼませた先端で、ぐるぐるなぞった。
+Making the tip narrow, I licked in circles.
+TP
+
+WVP 0 vfCCC3027kri108
+//霧「きゃあっ、きゃっ、はっ、は、はんっ、な、何ぃっ？」
+Kiri: "KyAh, kyah, hah, ah, hahn, wh-, whaaat?"
+TP
+
+//太一「……クリトリスだよ。ジーザス。びびびびび」
+Taichi: "...it's the clitoris! Jesus. LkLkLkLkLk!"
+//Even here... -GHS
+TP
+
+//タップする。
+Tapping.
+//He's trying to FC TTFatF on Expert. *checks temperature* yes I do have a fever as I write this, thank you. -GHS
+TP
+
+WVP 0 vfCCC3027kri109
+//霧「ひゃっ……あんっ！　あーーーーーーーーっ！」
+Kiri: "hYAh... anh! AAAAAAAAH!"
+//ーx8 (still keeping track of these are you?) -GHS
+TP
+
+//腰が逃げる。
+Hips run away.
+TP
+
+//両腕で尻を抱える。
+I hug her butt with both arms.
+TP
+
+//逃がさないってば。
+I said no escape!
+TP
+
+//攻撃を加速した。
+I accelerated the attack.
+TP
+
+WVP 0 vfCCC3027kri110
+//霧「……はひゃっ、んやあぁああぁっ」
+Kiri: "...aHyah, nhyahAaAAah!"
+TP
+
+//腰がうちふるえる。
+Her waist trembles and vibrates,
+TP
+
+//だけど。
+and yet,
+TP
+
+//太一「濡れが弱いかな？」
+Taichi: "You weak to being moistened then?'
+TP
+
+//はじめてだからか。
+Maybe because it's her first time.
+TP
+
+WVP 0 vfCCC3027kri111
+//霧「はー、はー……」
+Kiri: "Hah, hah..."
+TP
+
+//感じてはいるようだけれど。
+However, she seems to feel it.
+TP
+
+//試しに指を入れてみる。
+I test with a finger insertion.
+TP
+
+WVP 0 vfCCC3027kri112
+//霧「……っ、いた……」
+Kiri: "...!, ow..."
+TP
+
+//痛がるか。
+Does it hurt?
+TP
+
+//いったん、身を離す。
+I release her body at once.
+TP
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 109 0
+//HACK this scene doesn't flow "right" technically, same as CCC0000, so I'm tweaking this segue a bit. The smelling salts are over there. -GHS
+
+//スカートから出てきた俺。ほっとする霧。
+I come out from the skirt. Kiri sighs with relief.
+TP
+
+//気分的な問題かしら。
+Hoh, might it be a question of mood I wonder.
+//girly -GHS
+TP
+
+//太一「……保健室とかに移動して、しますか」
+Taichi: "...how about we go to the infirmary, is that fine?"
+//Formal -GHS
+TP
+
+WVP 0 vfCCC3027kri113
+//霧「そのほうが……いいと……」
+Kiri: "That would be... better..."
+TP
+
+//ちゃんとしないと無理そうだ。
+If we don't do things properly it seems it's not gonna happen.
+TP
+
+//太一「その前にコレを忘れてた」
+Taichi: "Before that, I forgot this."
+TP
+
+
+
+
+
+
+GL 0 evcc0049
+$CGevcc0049 = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+WVP 0 vfCCC3027kri114
+//霧「え……んんんっ？」
+Kiri: "Eh... NNNH?"
+//Console: KISSKISSKISSKISSKISS--- (In Western letters.) -GHS
+TP
+
+//本物のキスをした。
+I gave her a real-deal kiss.
+//He just went vagina-to-mouth. Just pointing out she doesn't seem to be all that flustered with it ~lesbians~ -GHS
+TP
+
+//太一「？」
+Taichi: "?"
+TP
+
+//感触が違う。
+The tactile sensation is wrong.
+TP
+
+//異質だった。
+It was heterogeneous.
+//Not an arc word this one I suspect. -GHSarc
+TP
+
+//軽いキスで済ませようと思っていたが。
+I thought I could just get away with a light kiss, but...
+TP
+
+//舌を差し入れてみる。
+I try inserting the tongue.
+TP
+
+WVP 0 vfCCC3027kri115
+//霧「んんんんんんんっ！」
+Kiri: "NNNNNNNH!"
+//...and still it sevens -GHS
+TP
+
+//歯を食いしばり、首を左右に振る。
+Clenching her teeth, she shakes her head right and left.
+TP
+
+//片手でぐっと下顎を掴む。
+I grasp her lower jaw with one hand, fast.
+TP
+
+//太一「だめ、あけて」
+Taichi: "Nope, open up."
+TP
+
+WVP 0 vfCCC3027kri116
+//霧「……き、きもちわる……」
+Kiri: "...f-, feels icky..."
+TP
+
+//太一「傷つくことを言ってくれる」
+Taichi: "You say things that wound me."
+//To her defense, he DID just suck on her urethra... -GHS
+TP
+
+//太一「あけて」
+Taichi: "Open up."
+TP
+
+//噛みしめるように告げる。
+So I proclaim as if chewing on her.
+TP
+
+WVP 0 vfCCC3027kri117
+//霧「……」
+Kiri: "..."
+TP
+
+//歯並びの良い門扉が開く。
+The amenable gated doors of the dentition open.
+//??? -GHS
+TP
+
+//舌が訪れる。
+The tongue is coming to visit.
+//???????? -GHS
+TP
+
+//まず、どろっとしていた。
+Ugh, it was like mud.
+//Supposing it's short for "mazui", given what the rest means.
+TP
+
+//唾液だ。
+It's saliva,
+TP
+
+//量が多い。
+in large quantity,
+TP
+
+//粘度も高い。
+as well as high viscosity.
+TP
+
+WVP 0 vfCCC3027kri118
+//霧「んふっ、んん……あふっ」
+Kiri: "nFhuh, nnh... ahfhuh!"
+TP
+
+//ねっとりとかき回す。
+Soggily I stir.
+TP
+
+//柔らかい唇。舌。
+Soft lips. Soft tongue.
+TP
+
+//絡めて、押しつぶす。
+I twine, squish and flatten.
+TP
+
+WVP 0 vfCCC3027kri119
+//霧「ふっ、ふっ、んん、んふっ……んーっ」
+Kiri: "hFhuh, hfuh, nnh, nfhuh... nnnh!"
+TP
+
+//目を白黒させている。
+I make her eyes go monochrome in surprised fluster.
+//Left the literal in because eyes. -GHS
+TP
+
+//ファーストからディープじゃなぁ。
+First and also deep innit.
+TP
+
+//舌を吸飲。
+I suck on the tongue.
+TP
+
+WVP 0 vfCCC3027kri120
+//霧「んんんんんんんっ！？」
+Kiri: "NNNNNNNH?!"
+//7x -GHS
+TP
+
+//反射的に、がっしと両肩に手を置く。
+Reflexively, my hands tighten on her shoulders.
+TP
+
+//舌は粘液みたいだった。
+Her tongue was viscous like mucilage.
+TP
+
+//薄い皮膜で覆われた、溶けたゼリー。
+It's melted jelly, covered by a thin membrane.
+TP
+
+//ぷつと歯を立てたら破れてしまいそう。
+It feels like it would crack if I dug into it with the teeth.
+TP
+
+//甘く咀嚼してみる。
+I try some sweet chewing.
+TP
+
+WVP 0 vfCCC3027kri121
+//霧「んふっ、んぉっ、んむむっ、ん、んっ、ん～～～～っ」
+Kiri: "nFhwuh, nhoh, nmHmH, nh, nhh, NHHHHH!"
+TP
+
+//かくん、と腰が落ちた。
+Waddle, and the hips fell.
+TP
+
+//咄嗟に股間に手を入れて支える。
+Promptly I insert a hand in the nethers to support.
+TP
+
+//逆向きの一本釣りの形だ。
+It's in the direction just opposite the Fishing with a Pole technique,
+TP
+
+//背後から迫り、股間に手を入れて持ち上げる荒技。
+a Power Art where one approaches from the back, then inserts the hand in the nethers and pulls up.
+//See CCC0016B -GHS
+TP
+
+//女の子にやると最高に楽しい。
+Doing that to a girl is the height of fun.
+//"Also, I'd rather write about this than a sex scene". -GHS
+TP
+
+//そして確実に停学になる。
+And then, it's certain it'll end with a suspension.
+//At least we get a good hint about what it was that he did to Miss Machiko. -GHS
+TP
+
+//太一「ほらほら、どうしちゃったの？」
+Taichi: "C'mon c'mon, what's going on here?"
+TP
+
+WVP 0 vfCCC3027kri122
+//霧「……ふぁ……あふ……あ……」
+Kiri: "...fhwah... aHfhuh... ah..."
+TP
+
+//あれ。
+Whaaat?
+TP
+
+//片手に意識を集める。
+I gather awareness in the supporting hand.
+TP
+
+//……濡れていた。
+...it was damp.
+//Vulnerable to tongue. Hey, just like Touko! I wonder if that has anything to do with this beyond their both being tsundere... -GHS
+TP
+
+//太一「……？」
+Taichi: "...?"
+TP
+
+//さっきまであまり濡れなかったのに。
+Even if it wasn't really wet just moments ago.
+TP
+
+//思うところがあり、再度キスしてみる。
+As I think on this, I try a kiss a second time.
+TP
+
+
+//ちゅうちゅうじゅるるねろねろねろねろ
+PchuhChuhJhrhUjrhShckLichShckLichShckLich!
+//A random reminder that many (if not most) of the explicit moods set in the story are trolls. -GHS
+TP
+
+
+WVP 0 vfCCC3027kri123
+//霧「んんんっ、んっ、はふっ、んんん～っ、ちゅ、んん、んっ、はっ、あはぁ……」
+Kiri: "NNNH, nh, ahfhuh, nnn～, pch, nnh, nh, hah, ahaaah..."
+TP
+
+//ほんと、唾液がねっとりとしてる。
+Seriously, this saliva is viscously sticky.
+TP
+
+//ローションみたいだ。
+Just like lotion.
+TP
+
+//上唇をはみはみする。
+Bite, bite on that upper lip.
+TP
+
+WVP 0 vfCCC3027kri124
+//霧「あっ、ふぁ、ひやぁ……」
+Kiri: "Ah, hfuh, HYAaah..."
+TP
+
+//涙目。
+Teary eyes.
+TP
+
+//というよりこれは。
+And from that I can say,
+TP
+
+//感じている。
+that she is feeling this.
+TP
+
+//性欲を焙られたような顔をしていた。
+Her face said that her sexual desires had been warmed.
+TP
+
+WVP 0 vfCCC3027kri125
+//霧「はふ、は、あん……」
+Kiri: "Ahfuh, hah, ahnh..."
+TP
+
+//下唇をはみはみしながら考えた。
+Bite, bite on that upper lip while I think,
+TP
+
+//キスに弱いのかな。
+could she be weak to kissing?
+TP
+
+//口腔に舌を入れる。
+I insert my tongue in her oral cavity.
+TP
+
+//ろうと状にして、唾液を流し込む。
+I make it into a funnel shape, and pour saliva in.
+TP
+
+WVP 0 vfCCC3027kri126
+//霧「んっ？　んんんんんっ！？」
+Kiri: "Nh? NNNNNH?!"
+TP
+
+//太一「飲む」
+Taichi: "Drink."
+TP
+
+//口を手で塞ぐ。
+I gag her via hand.
+TP
+
+//霧は左右に首を振る。
+Kiri shakes her head left and right.
+TP
+
+//いやらしい。
+She seems to dislike this.
+TP
+
+//太一「だめ。飲む」
+Taichi: "Not happening. Drink."
+//Love how nukige characters can talk normally when their mouths are full. -GHS
+TP
+
+//観念してか、顎を突き出した。
+Resigned, perhaps, she jutted out the jaw,
+TP
+
+//咽が上下する。
+and gulps down what is in her mouth.
+TP
+
+//太一「じゃ第二弾♪」
+Taichi: "Round 2 next!♪"
+TP
+
+WVP 0 vfCCC3027kri127
+//霧「んんんんんん～っ！！」
+Kiri: "NNNNNN～!!!"
+//No, they're not always seven. Or are they? Counting the ~ as one... and it's 8 characters excluding the exclamation marks. Only in CC that's not obvious fanwanking. -GHS
+TP
+
+//俺も体液は多い方だった。
+I, too, had plenty of bodily fluids.
+TP
+
+//太一「はい、飲む」
+Taichi: "Come, drink."
+TP
+
+//嚥下。
+Deglutition.
+TP
+
+//太一「第三弾～」
+Taichi: "Round three～."
+TP
+
+WVP 0 vfCCC3027kri128
+//霧「やめて、ください……こんなの、変態です……んぷっ、ん、ちゅる……おぅぅぅ……」
+Kiri: "Stop, please... this is... perverted... nPh, nh, pchrh... owww..."
+TP
+
+//そうです。
+Most certainly it is.
+TP
+
+WVP 0 vfCCC3027kri129
+//霧「んっ……んくっ、ごく……」
+Kiri: "Nh... nKh, gulp..."
+TP
+
+//唇を離す。
+I distance from her lips.
+TP
+
+GL 0 bgcc0006
+GL 1 TCSK0002
+GP 1 220 0 0
+GS 0 1
+GS 1 1
+SEF 109
+//HACK Again, this doesn't flow quite 'right' so tweaking it. -GHS
+
+//霧はほーっとため息。
+Kiri drew a looong sigh of relief.
+//319 actual lines to go ;______; -GHSigh
+TP
+
+
+
+
+
+IF $KAISOU == 0 JMP N_SCENE101
+RET
+
+
+:N_SCENE101
+
+
+
+$SNCCC3027_1 = 1
+
+
+
+
+
+
+
+
+
+
+//太一「おいしい？」
+Taichi: "Tasty?"
+TP
+
+WVP 0 vfCCC3027kri130
+//霧「……おいしくは、ないです」
+Kiri: "...not tasty... at all."
+TP
+
+//太一「だろうねえ」
+Taichi: "'Course."
+TP
+
+GL 1 TCSK0004
+GI 1 0
+//HACK eyebrows-up Kiri looks appropriate. -GHS
+
+WVP 0 vfCCC3027kri131
+//霧「あの……保健室に行くというのは」
+Kiri: "Uhm... about going to the infirmary..."
+TP
+
+//太一「うん。やっぱやめたよ。かわりにして欲しいこともできたし」
+Taichi: "Yeah, in the end I've abandoned that. Instead, there's something I want you to do."
+//See CCB2012. It's another Touko rerun. Considering how many of those are reruns of his Hasekura backstory and his rape at the hands of Youko, this is a point. -GHS
+TP
+
+WVP 0 vfCCC3027kri132
+//霧「してほしいこと？」
+Kiri: "Something you want?"
+TP
+
+//俺は股間を露出する。
+I expose my nethers.
+TP
+
+
+
+
+
+
+
+
+
+JMP N_SCENE002
+:SCENE002
+WVP 1 bgm013.ogg 0 0 0
+
+//GL 0 evcc0049
+//$CGevcc0049 = 1
+//GS 0 1
+//SEF 109
+GL 0 bgcc0006
+GL 1 TCSK0002
+GP 1 220 0 0
+GS 0 1
+GS 1 1
+SEF 109
+//HACK setting up the scene in the replay as above. -GHS
+
+:N_SCENE002
+
+
+
+
+
+
+//太一「しゃぶって」
+Taichi: "Suck it."
+TP
+
+GL 1 TCSK0003
+GI 1 0
+//HACK panicky Kiri looks appropriate. -GHS
+
+WVP 0 vfCCC3027kri133
+//霧「……………………はい？」
+Kiri: "............what?"
+TP
+
+//太一「しゃぶって」
+Taichi: "Suck it."
+//CP OCD
+TP
+
+WVP 0 vfCCC3027kri134
+//霧「そ、それを……ですか？　だってそれ……ソレは……」
+Kiri: "O-, on that... you say? But that's... that thing is..."
+TP
+
+//太一「いかにも。アラブ圏ではティティームと呼ばれる男性象徴にして、ファロス信仰における崇拝対象であり偶像であり、男そのものを指し示す呪的器官なのだ」
+Taichi: "Indeed it is. Amongst Arabs it is a symbol of manhood called Pehanis, in the Pharrus Creed it is both object of worship and idolization: it is an accursed organ that signifies and indicates maleness itself."
+//"Titiim" Does not seem to be an Arab word for dick. And I googled that and all. Sigh. Supposing it's just a play on 'chinchin', so going with that. Same with phallus/Pharos (going with something more pharric). Suspecting 呪的器官 is a spoof of some real term, but I can't find much. -GHS
+TP
+
+//嘘である。
+These are lies.
+//The problems begin when he starts talking that exact kind of crap as if he seriously believed it was true... -GHS
+TP
+
+WVP 0 vfCCC3027kri135
+//霧「だってそれってそれって男の人のソレがアレでナニの……ぐぶぅっ！？」
+Kiri: "Buuut that's that's a man's That and it's It because this is a This and... g'buh?!"
+//This is this; that is that; and it's all a penis. And that concludes my lesson on Japanese. -GHS
+TP
+
+GL 0 evcc0048
+$CGevcc0048 = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+//HACK earlier CG switch. -GHS
+
+//強引に突っ込んだ。
+I ram it in forcibly.
+TP
+//太一「平気だよ。害はない」
+Taichi: "It's alright. You won't hurt it."
+TP
+
+WVP 0 vfCCC3027kri136
+//霧「んんんんんっ！？」
+Kiri: "NNNNNH?!"
+TP
+
+//吐き出そうとしている。
+She attempts to spit it out.
+TP
+
+//太一「……癒してくれないのか？」
+Taichi: "...won't you heal me?"
+//Exploitative, see CCC3012A, CCC3004... but what is his demon but his dick? -GHS
+TP
+
+//動きが止まった。
+Motions stopped.
+TP
+
+//太一「俺はひどいヤツだから、ひどいことはするよ。そりゃ」
+Taichi: "I'm a horrible guy, therefore, I do horrible things. Veeery much so."
+TP
+
+//太一「けど……痛い思いをしてもらいたくないから、こうしてるんだぞ」
+Taichi: "But... because I don't want you to feel in pain, I do it like this."
+TP
+
+//これは本当。
+This is truth.
+//Contrasts above in more ways than one: the pseudocredible crap he often spits out as truth, while these blatant lies to get her to service him sexually are far more likely to not be what he believes. Except, of course, since Tanaka's a true bastard, those about the Pharrus were actually lies, while he in truth doesn't want Kiri to feel bad. Truth and lies are and remain a complex thing here, even in sex scenes. -GHS
+TP
+
+//太一「……なあ、頼むよ」
+Taichi: "...c'mon, please!"
+TP
+
+WVP 0 vfCCC3027kri137
+//霧「……ううう」
+Kiri: "...ngggh."
+TP
+
+//観念したか。
+Resigned, maybe,
+TP
+
+//霧は動きを止めた。
+Kiri stopped moving.
+TP
+
+//太一「ええと、歯は立てないでね。あと……」
+Taichi: "Uhm, no biting, OK. And..."
+TP
+
+//基本をレクチャーした。
+Just the trunk of the lecture.
+//Ugh, the puns... -GHS
+TP
+
+//太一「じゃ、やってごらん？」
+Taichi: "So, gonna do it?"
+TP
+GL 0 evcc0048a
+$CGevcc0048a = 1
+GS 0 1
+SEF 109 0
+
+WVP 0 vfCCC3027kri138
+//霧「んん……んっ、んむ……んんん」
+Kiri: "Nnnh... nh, nmh... nnnh."
+TP
+
+//のろのろと霧は律動をはじめる。
+Slowly, Kiri began a slow rhythmic motion.
+TP
+
+//前後に、頭がスライドする。
+Her head slides back and forth.
+TP
+
+//男の生理など知るよしもなく、その動きは必要を満たさず緩慢だった。
+Not knowing male physiology that well, the motion was unsatisfyingly slow.
+TP
+
+//でも、気持ちいいことはいい。
+But it feels good, and that's good.
+//Good things are good. -GHS
+TP
+
+WVP 0 vfCCC3027kri139
+//霧「ん、んむ、ちゅるっ……んむ……あふ、じゅるる、ちぅ……んっ、はふっ、んんんん」
+Kiri: "Nh, nmh, pchrh... nmh... aHfhuh, jHurhrh, pch... nh, hahfuh, nnnnh!"
+TP
+
+//舌が絡みつく。
+Tongue entangles.
+TP
+
+//竿にまとわる、唾液の重みが感じられる。
+I can feel the weight of the saliva following around the pole.
+TP
+
+//本当、ローションだった。
+Truly, that thing was lotion.
+TP
+
+//滑りよい。
+Nice and slippery.
+TP
+
+WVP 0 vfCCC3027kri140
+//霧「んむ、んん……んふっ、ふぁ、ふ、んんん…………ちゅ、ちゅ……れろれる……」
+Kiri: "Nmh, nnnh...nfhuh, fhah, hfh, nnnh...... pch, pch... hrohrheh..."
+TP
+
+//吸ってくれる。
+I am sucked,
+TP
+
+//教えたとおりに。
+exactly as I instructed.
+TP
+
+//拙いが、素直だ。
+Clumsily, but obediently,
+TP
+
+//佐倉霧。
+by Sakura Kiri.
+TP
+
+//俺は君の大切な家族を、奪ったようなものなのに。
+Despite how I all but stole a precious member of your family.
+TP
+
+//俺と豊との関係に、霧は本来関係ないはずなのに。
+//Even though my relation with the rich should originally no relationship with the fog?
+Despite how my relationship with Yutaka had originally nothing to do with Kiri.
+//One can joke about Silent Hill, but the situation here is nearly exactly inversed: the Taichi as seen from Kiri (fog) is the dark one, while the one seen from outside seems a lot less evil. Both are still not quite the true thing. -GHS
+TP
+
+//たくさん背負って俺に許しを乞う。
+You beseeched me with forgiveness with so much burden on your shoulders.
+TP
+
+//……ごめんな。
+...sorry!
+TP
+
+//狩りをするライオンは、もしかしたらウサギと仲良くなりたいのかも知れない。
+A lion on the hunt could perhaps maybe even want to lay down with the rabbit, I don't know.
+//At least he switches from lupine to feline at times. This is Isaiah 11:6, and important because it speaks of the reign of Jesus - which is what Taichi is calling when he wishes for the sky to go away. -GHS
+TP
+
+//食べたあと、後悔してしまうのかも知れない。
+After eating it, he could feel regret, I don't know.
+TP
+
+//けど目の前ではしっこく動かれたら、襲うしかない。
+But if something moves fast in front of his eyes, he'll attack without fail.
+//But Taichi likes the immutable from a distance... -GHS
+TP
+
+//本能だからだ。
+Because it's an instinct.
+TP
+
+WVP 0 vfCCC3027kri141
+//霧「んちゅ、ねろっ……ん、んっんっんっ……」
+Kiri: "Nchuh, hrhroh... nh, nhhhnhnh..."
+TP
+
+//太一「そう、顎が疲れるまではそうしてリズミカルに……」
+Taichi: "Like that, rhythmically, until your jaw is tired..."
+TP
+
+WVP 0 vfCCC3027kri142
+//霧「……んっ、んっんっんっんっんっんっんっん……ぷはっ、んんん、んっんっんっ……んんん～」
+Kiri: "...nh, nHnHnHnHnHnHnHnH... phwah, nnnh, nHnHnH... nnnh～"
+//x8 -GHS
+TP
+
+//時折、首を捻りながら。
+At times, while she twists her neck a little,
+TP
+
+WVP 0 vfCCC3027kri143
+//霧「んっんっんっんっんっんっんっ」
+Kiri: "nHnHnHnHnH"
+//x7 -GHS
+TP
+
+//ぬるぬるの口内が往復する。
+the slippery wet inside of her mouth goes around and around.
+//See CCA0015C, again -GHS
+TP
+
+//太一「……気持ちいいよ、霧」
+Taichi: "...feels good, yes, Kiri."
+TP
+
+//ぬめる粘膜。
+Slimy membranes.
+TP
+
+//いつまでもたゆたっていたい。
+I want to swing and sway inside them for all time.
+TP
+
+//いったん引き抜く。
+I pull out all at once,
+TP
+
+//とろみのある唾液が、糸を引いた。
+That thickness of the saliva lingered and formed strings.
+//Now see Yusa. -GHS
+TP
+
+//頬に押しつける。
+I pressed into a cheek.
+//From the outside -GHS
+TP
+
+WVP 0 vfCCC3027kri144
+//霧「……はぁ、は、はぁ……」
+Kiri: "...hah, ah, haaah..."
+TP
+
+//拒絶はない。
+No refusal.
+TP
+
+//肉棒が頬を変形させるのを、黙って受け入れている。
+She accepts in silence the change in the cheek's shape caused by the meatpole.
+//What's with the nukige terminology? He asked, knowing the answer very well -GHSoliloquy
+TP
+
+//太一「疲れた？」
+Taichi: "Tired?"
+TP
+
+WVP 0 vfCCC3027kri145
+//霧「……いえ」
+Kiri: "...no."
+TP
+
+//太一「じゃ、あーん」
+Taichi: "Then, say 'aaah'"
+TP
+
+//口を開く。従順に。
+Mouth opens. Obediently.
+TP
+
+//ペニスを挿入する。
+Penis insertion.
+TP
+
+//七分ほどで限界だ。これ以上は負担になる。
+70% is about the limit. Any more and it'll be burdensome.
+//There we go again. 七分 is a type of pantaloons, too. (Pantaloons, as the word avenues, are pants worn by loons. No, I'm not wearing any; I translate without pants.) -GHS
+TP
+
+//太一「吸いながら、さっきみたいに動いて」
+Taichi: "While you suck, move like you were doing before."
+TP
+
+//頭を撫でる。
+I gently stroke her head.
+TP
+
+//霧が動いた。
+Kiri moved.
+TP
+
+WVP 0 vfCCC3027kri146
+//霧「ぁうぅぅ……」
+Kiri: "aHuhhh..."
+TP
+
+//前後のスライド。
+Sliding, back and forth,
+TP
+
+//合わせて、鼻息が竿の上部を撫でていく。
+and on top of that, the nasal breathing gently strokes the top of the pole.
+TP
+
+//興奮と快楽が膨れあがる。
+Arousal and pleasure both swell.
+TP
+
+//霧にさせているということが、大きい。
+And that it is Kiri making them do this makes it a huge swell.
+//His d-- the above. -GHS
+TP
+
+//あの霧に。
+That very Kiri.
+TP
+
+//霧に飲ませたくなった。
+I wanted to make Kiri drink.
+TP
+
+//太一「……一度イッちゃうかも。イッていい？」
+Taichi: "...I might be coming this once. Mind if I come?"
+TP
+
+//太一「霧の口に、出しちゃっていい？」
+Taichi: "Can I release in your mouth, Kiri?"
+//On continuing to reread this stuff, I begin to wonder if Taichi simply doesn't feel much pleasure from orgasming at all. Psychological frigidity doesn't seem so unlikely for someone like him. -GHS
+TP
+
+WVP 0 vfCCC3027kri147
+//霧「……うう」
+Kiri: "...uhh..."
+TP
+
+//くわえたまま、霧は切なげに頷く。
+Her mouth still full, Kiri gives a sharp nod.
+TP
+
+//出すということの意味さえ、ほとんど理解できていないだろうが。
+But she is seriously likely not even able to comprehend the meaning of that 'release'.
+TP
+
+//太一「じゃ、出すね」
+Taichi: "Then, releasing!"
+TP
+
+//腰を小刻みに振る。
+I shake the hips, twitching.
+TP
+
+//口内のざらみに、先端を擦りつけていく。
+The tip rubs in the coarse flesh of the inside of her mouth.
+TP
+
+//唾液の粘度からか。
+Maybe it's because of the thickness of the saliva,
+TP
+
+//粘膜の上に、厚さ五ミリもの樹液が塗布されているようだ。
+but over her mucous membranes there's something like a coat of sap, five millimeters thick.
+//The ミ　mi in milliliters is written sort of like the number 3 三, and read the same, so 8. If katakana Ha is eight... -GHS
+TP
+
+WVP 0 vfCCC3027kri148
+//霧「ん、んん……んんんっ、んむっ、れるっ、んくっ、ふぁ……いやぁ」
+Kiri: "Nh, nnh... nnnnh, nhmuh, hrhuh, nKh, hfah... NOoo."
+TP
+
+//抜けそうになった竿の先端で、口紅を塗ってやる。
+I nearly take the pole outside entirely, and apply it to her like lipstick.
+//WTF -GHS
+TP
+
+WVP 0 vfCCC3027kri149
+//霧「あ、そんな、のぉ……」
+Kiri: "Ah, really, nooo..."
+TP
+
+//押し込んだ。
+I pushed inside.
+TP
+
+WVP 0 vfCCC3027kri150
+//霧「んぶぅ……」
+Kiri: "N'buh..."
+TP
+
+//太一「ほら、吸って」
+Taichi: "C'mon, suck!"
+TP
+
+WVP 0 vfCCC3027kri151
+//霧「ふぁ……んっ、んん、はむ……ちゅ、れろっ……ちゅう～」
+Kiri: "hFah... nh, nnh, hAhmh... pch, hrhuh... pchhh～"
+TP
+
+//もうかなり来ていた。
+She'd come quite far by now.
+TP
+
+//吸いやすいように、ゆるく動く。
+I move slower to make sucking easier.
+TP
+
+//口内の吸着が良い。
+Excellent adhesion in the inside of the mouth.
+TP
+
+//そして射精。
+And then, semen.
+//PCP CCA0030.
+//...
+//...
+//...
+//...you guys are no fun. -GHS
+TP
+GL 0 evcc0048b
+$CGevcc0048b = 1
+GL 5 bgcc0000e
+GI 5 0
+GS 5 0
+GS 0 1
+SEF 109 0
+
+WVP 0 vfCCC3027kri152
+//霧「んぶっ……ん、んく……んんんっ……んくっ、ごく……ごく……」
+Kiri: "nBuh... nh, nkh... nnnh... nGh, gLp... glP..."
+TP
+
+//飲んでいる。
+She's drinking.
+TP
+
+//どうせ飲まされると思っていたのか。
+Did she think she would've been made to drink regardless?
+TP
+
+//精液は霧の唾液と、変わらない粘度だ。
+There is no difference in viscosity between my semen and Kiri's saliva,
+TP
+
+//抵抗は薄かったかも知れない。
+perhaps resistance was just very light.
+TP
+
+WVP 0 vfCCC3027kri153
+//霧「……んくく、こくん……」
+Kiri: "...nKhKh... gulp..."
+TP
+
+//全部飲み終えた。
+She drank all, to the last.
+TP
+
+
+
+
+
+
+
+IF $KAISOU == 0 JMP N_SCENE102
+RET
+
+
+:N_SCENE102
+
+
+
+$SNCCC3027_2 = 1
+
+
+
+
+
+
+
+
+
+
+
+//太一「……飲めたね」
+Taichi: "...you drank dinn'cha."
+//This transition is brief enough that there's no need for further guerrilla hacks. -GHS
+TP
+
+WVP 0 vfCCC3027kri154
+//霧「ふぁい……」
+Kiri: "fHahyh..."
+TP
+
+//含んだまま応じる。
+Agreement with the mouth full.
+TP
+
+//太一「良かったよ」
+Taichi: "So nice!"
+TP
+
+//頭を撫でる。
+I stroke her head.
+TP
+
+//霧は感情を見せずに目を閉じた。
+Kiri closed her eyes, showing no emotion.
+TP
+
+//霧の口は……性器そのものだ。
+Kiri's mouth is... a sexual organ itself.
+//Like Misato's! No, wait, I mean, of course, Youko. And Touko's too. He's just masturbating, isn't he. -GHS
+TP
+
+//だけどこれは、言わないでおこう。
+But this is something I won't say to her.
+TP
+
+//抜く。
+I pull out.
+TP
+
+//トロトロに濡れていた。
+Stickily syrupily wetted.
+//More implied, but the Touko connections yet continue. -GHS
+TP
+
+//太一「これなら平気かな」
+Taichi: "This should be alright I think."
+TP
+
+//窓際に手をつかせる。
+I lead her hands to the window.
+TP
+
+
+
+
+
+
+
+
+
+JMP N_SCENE003
+:SCENE003
+WVP 1 bgm013.ogg 0 0 0
+
+:N_SCENE003
+
+
+
+GL 0 evcc0047
+$CGevcc0047 = 1
+GS 0 1
+SEF 109 0
+WVP 0 vfCCC3027kri155
+//霧「こ、こんな格好で……？」
+Kiri: "I-, in this position...?"
+//In case some haven't noticed that a third(ish)-floor window at Suicide High is EASILY OPENABLE. Trolly troll trollity troll. Unfortunately, it's hard to see much of the outside or whatever step outside of the window where her crossbow would've been put. Oh well. -GHS
+TP
+
+//太一「うん」
+Taichi: "Yep."
+TP
+
+//小さなソコに、押し当てた。
+I was pushing against her tiny little privates.
+TP
+
+WVP 0 vfCCC3027kri156
+//霧「や……こわい……です」
+Kiri: "No... it is... scary."
+TP
+
+//太一「うん」
+Taichi: "Yep."
+//CP abeast
+TP
+
+//そうだろうなと思う。
+It would be so, I think.
+TP
+
+//軽く触れてみる。
+I try using a light touch.
+TP
+
+//準備はできていた。
+Preparations were complete:
+TP
+
+//薄く開いて、熱を持って、ほぐれて。
+thinly open, full of heat, and loose.
+TP
+
+//……滴って。
+...dripping wet.
+TP
+
+WVP 0 vfCCC3027kri157
+//霧「そっと……そっと、そっとして……お願い……」
+Kiri: "Slow... slow, slowly... I beg you..."
+TP
+
+//懸命に懇願してくる。
+She supplicates as if her very life were at stake.
+TP
+
+//しかし何を言われても。
+But no matter what she says to me,
+TP
+
+//太一「うん」
+Taichi: "Yep."
+//CP abeast
+TP
+
+//としか返せない。
+is the only thing I can respond with.
+//See CCD2002. More Touko references. -GHS
+TP
+
+//差し込んでいく。
+I flow inside.
+TP
+
+WVP 0 vfCCC3027kri158
+//霧「あッ……あ、ああ……」
+Kiri: "AH... ah, aah..."
+TP
+
+//一定の速度で。
+At a constant speed.
+TP
+
+WVP 0 vfCCC3027kri159
+//霧「いあ゛っ！」
+Kiri: "NOO--!"
+TP
+
+//突き抜けた。
+I broke on through,
+TP
+
+//向こう側に。
+to the other side.
+//You know the day destroys the night, night divides the day. Hey, it totally fits! -GHS
+TP
+
+WVP 0 vfCCC3027kri160
+//霧「……あ……はいった……はい……た……」
+Kiri: "...ah... it's inside... it's... inside..."
+TP
+
+//霧の唾液と愛液が、通過の抵抗を取っていた。
+Kiri's saliva and sex fluids took away all resistance to passage,
+TP
+
+//それほど痛がっている様子はない。
+to the point where she has no complaints about pain.
+TP
+
+//太一「よかったね、痛くなくて」
+Taichi: "It doesn't hurt, that's good."
+TP
+
+WVP 0 vfCCC3027kri161
+//霧「はぁ、は、はぁ……」
+Kiri: "Hah, ah, hah..."
+TP
+
+//それでも霧はショックでぐったりしていた。
+Nevertheless, Kiri fell limp from the shock.
+TP
+
+//微速で前後開始。
+I begin a back and forth motion at slow speed.
+TP
+
+//分厚いぬめりが感じられた。
+I could feel the massively thick slime.
+TP
+
+//膣内に空気がなく、吸い込まれる感じだ。
+There is no air in the vagina, so it feels as if I'm being sucked inside.
+TP
+
+WVP 0 vfCCC3027kri162
+//霧「いうっ……は、はっ、あ……あっ、あっ……おっ」
+Kiri: "Yhuh... hah, ha, ah... ah, ah... oh."
+TP
+
+//ほぐす感覚で、四方をなぞる。
+A sense of unraveling as I trace in every direction.
+TP
+
+WVP 0 vfCCC3027kri163
+//霧「あうっ、い゛っ、うぅ……あうっ！」
+Kiri: "Auhhh... yYy, uh.... auh!"
+TP
+
+//奥に触れてみる。
+I try touching the very depth.
+TP
+
+//浅い。
+Shallow.
+TP
+
+//完全にはおさまりきらない。
+It's not perfect satisfaction all the way to the end,
+TP
+
+//だが霧の全てを征服できた。
+but I was able to subjugate all of Kiri.
+//He is not, of course, talking about his dick in her shallow pussy. -GHS
+TP
+
+//太一「……ちょっとはなじんだ？」
+Taichi: "...getting used to this a bit?"
+TP
+
+WVP 0 vfCCC3027kri164
+//霧「わから、ない……はっ……はぁ」
+Kiri: "I don't... know... hah... hah!"
+TP
+
+//太一「もう少しこねようか」
+Taichi: "Should I just give it a bit more kneading?"
+TP
+
+WVP 0 vfCCC3027kri165
+//霧「え？　……あう゛……お……はぁんっ！」
+Kiri: "Eh? ...aUUh! ...oh... hAhnh!"
+TP
+
+//霧の狭くて熱い穴。
+Kiri's hole is narrow and hot,
+TP
+
+//俺は夢中になって触れていく。
+and I grow engrossed as I come in contact with it.
+//Same term used to describe Yutaka's behavior in the mansion after a while. Parallels are definitely intended here. -GHS
+TP
+
+//ただの生物的な凹凸に過ぎない器官を、幾度となく組み合わせる。
+It's just the combination of organs that are no more than irregular biological shapes, repeated a countless number of times.
+//This would perhaps require font fuckery to properly return. I decided against large-form ASCII art out of the magnanimity of my generous heart. -GHS
+TP
+
+//幼い子供が、ブロックをそうするように。
+Little children do the same with toy blocks and their /\/\ and \/\/ shapes.
+//If the damn engine still displayed kanjis I'd just use the kanjis for concave and convex, 凹 and 凸, just like Tanaka used in the line above. It's not like the kanji pun is any...... deeper! (fnarr, fnarr). Also, little children playing with blocks are actually having loli/shota sex. Seriously, what the hell? -GHS
+TP
+
+WVP 0 vfCCC3027kri166
+//霧「んぁ……あ、あぁ……はぁん！　あぁ……んは、あぁ……んっ、ぁ……うっ、んっ」
+Kiri: "nAh... ah, Aah... aHahnh! Ah... nAh, aAh... nh, a-... uh, nh..."
+TP
+
+WVP 0 vfCCC3027kri167
+//霧「はっ、はぁ、んっ……はぁんっ……ん……あぅ、あっ、あぁっ、あっ……んっ、んっ、んっ、あぁっ！」
+Kiri: "Ah, hah, nh... hAhNh... nh... ah, AH, Aah, Ah... nh, nh, nh, aAh!"
+//Going with a bit more adaptation on this: none. -GHS
+TP
+
+//次第に声質が潤んでいく。
+//Next chapter, the quality of voice will sink?
+Gradually, the quality of her voice dampens and muddies.
+TP
+
+//鼻にかかって、こころなしかハスキーに。
+It hangs around the nose, somewhat huskily.
+TP
+
+//貫かれる行為に、急速に慣れていく。
+She's rapidly boring the act of penetration into habit.
+//貫 pierce -> 慣 get used to. This is just cringeworthy, but at least it alleviates the boredom. Ha ha I made it a triple pun. -GHS
+TP
+
+//肺腑から空気を追い出すリズムも、整えられて。
+She arranges and orders the rhythm of the air expelled from the lungs, too.
+TP
+
+//そんな霧を崩したくなって、深々と刺す。
+I want to break down this reordered Kiri, so I stab very deeply.
+TP
+
+WVP 0 vfCCC3027kri168
+//霧「きゃうっ！」
+Kiri: "KYaUh!"
+TP
+
+//喉をそらす。
+Throat bends.
+TP
+
+//奥に届いた。けどさらに押し込む。
+I reached in to the end. But I push in even more.
+TP
+
+WVP 0 vfCCC3027kri169
+//霧「……あはぁっ」
+Kiri: "...aHaHah..."
+TP
+
+//腰と腰が密着する。
+Hip glues to hip.
+TP
+
+WVP 0 vfCCC3027kri170
+//霧「き、きつい……あんまり、強くしないでください……」
+Kiri: "H-, harsh... not that... strong, please..."
+TP
+
+//深くに打ち込んだまま、文字を描くように左右に揺する。
+Remaining driven in deep, I sway left and right as if to draw letters.
+//OK, OK, this is too silly! Too silly! -GHS
+TP
+
+WVP 0 vfCCC3027kri171
+//霧「あ、ふぁ……ぁんっ……あ、だめ、やんっ……や、やぁ、やんっ」
+Kiri: "Ah, hFah... aHn... ah, no, not... no-, noo, not!"
+TP
+
+//幼子になる霧。
+Kiri returns to infancy.
+//Lolicon is a fog. -GHS
+TP
+
+WVP 0 vfCCC3027kri172
+//霧「こ、こんなのだめっ、ふ、深すぎてっ、んんっ、あっ」
+Kiri: "Th-, not thaaat, hFuh, too deep! nnh, ah."
+TP
+
+
+//太一「霧」
+Taichi: "Kiri."
+TP
+
+//背後から耳元を舐めて、促す。
+I lick around her ear from the back, urging her on.
+TP
+
+//こちらを向いた小さな唇。
+Tiny lips turn the way of mine,
+TP
+
+//求めて、結ぶ。
+they seek, and link.
+TP
+
+WVP 0 vfCCC3027kri174
+//霧「ん……んむっ……れろっ、れるる、はぁんっ、んむっ」
+Kiri: "Nh... nhm... hruh, hrhuh, hAhnh, nMhuh..."
+TP
+
+//ぽってりとした舌。
+A plump, fat tongue.
+TP
+
+//ゼリーのようなそれを、口内に導いて弄ぶ。
+A jellylike thing that I lead inside my mouth and play with.
+TP
+
+WVP 0 vfCCC3027kri175
+//霧「んふっ、んんん～っ」
+Kiri: "Nhfh, nnnh～."
+TP
+
+//霧が鼻を鳴らす。
+Kiri coos, breathing out of her nose.
+TP
+
+//脳を灼かれて、俺の下腹部が発熱する。
+My brain scorches, my lowermosts heat up.
+TP
+
+WVP 0 vfCCC3027kri176
+//霧「あっ、あっ、ああっ、んっ、あんっ、あぅぅぅ～っ」
+Kiri: "Ah, ah, aaah, nh, aHn, auuuu～h!"
+TP
+
+WVP 0 vfCCC3027kri177
+//霧「は、はやい……先輩、はやいっ……あーっ！」
+Kiri: "Fa-, fast... Senpai, too fast... AHHH!"
+TP
+
+//窓枠に乗り出して、霧は破廉恥な悲鳴をあげる。
+Leaning onto the windowsill, Kiri emits shameless screams.
+//There's no way they can't hear her two floors above in what should be a world with absolutely no one else! -GHS
+TP
+
+//突き落とす勢いで貫く。
+I pierce her with enough for to push her outwards.
+TP
+
+//ぐいと上体が外に露出した。
+And the upper body became exposed to the outside with a sliding motion.
+//Again, might just be 'is 'umble opinion. (randomly British) -GHS
+TP
+
+//霧は窓枠の柱にしがみついて、嬌声とはまた違う声を発する。
+Kiri clings to the window post, emitting a voice of yet different loveliness.
+TP
+
+WVP 0 vfCCC3027kri178
+//霧「お、落ちるっ、落ちそ……きゃっ、先輩、落ち……あああああっ！？」
+Kiri: "I-, I'll fall, fall... kYAH, Senpai, fall... AAAAAH?!"
+//Very rape nukige, this. How do I know, you ask? ...people don't learn Japanese with rape nukige? Huh? Don't be absurd now. It's not like he's still having her imitate Yutaka, who fell down the roof. -GHS
+TP
+
+//ぷち、と膣が爆ぜたようだった。
+Her vagina seemed ready to burst open with a pop.
+TP
+
+//太一「うわ、締まった」
+Taichi: "Whoa, you tightened up!"
+TP
+
+//内部が収縮している。
+Her insides were constricting.
+TP
+
+//恐怖が全身を萎縮させていた。
+Terror makes the whole body shrink down.
+TP
+
+//酔いしれて、さらに小突く。
+Intoxicated, I poke even more.
+TP
+
+WVP 0 vfCCC3027kri179
+//霧「あっ、きゃ、きゃ、こわいっ……こわい、こわい……やめてぇぇっ！」
+Kiri: "Ah, kyah, kayh... scary! ...scary, scary... STOOOP!"
+TP
+
+//太一「ちゃんと締めたら落ちないよ」
+Taichi: "If you hold tight you won't fall."
+//To the pillars. -GHS
+TP
+
+WVP 0 vfCCC3027kri180
+//霧「締める……って？」
+Kiri: "Hold... tight?"
+TP
+
+//呆けた顔で。
+With disgust on her face.
+TP
+
+//太一「コ・コ」
+Taichi: "He - re."
+TP
+
+//８の字を描く。
+I draw a figure-8.
+//Yu. 8=8 -GHS
+TP
+
+WVP 0 vfCCC3027kri181
+//霧「くぅぅぅっ、ひくっ、きゃっ！！」
+Kiri: "Ghuuuh, hYkh, KYAH!!!"
+TP
+
+//太一「ほら、お尻に力入れて」
+Taichi: "C'mon, put strength in that ass."
+//The amazing writing of Romeo Tanaka. -GHS
+TP
+
+WVP 0 vfCCC3027kri182
+//霧「は、はう、はうっ」
+Kiri: "Hah, haw, hawww!"
+TP
+
+//太一「そうそう」
+Taichi: "Yep yep."
+TP
+
+//動きを止め、はだけた制服の隙間、透過しそうな地肌を味わう。
+I stop moving, and taste of the skin that seems to penetrate through the gaps of her half-stripped uniform.
+//Hum, nothing to do with CCC3022 then? -GHS
+TP
+
+WVP 0 vfCCC3027kri183
+//霧「……はぁぁ……ひくっ、っ、ん……」
+Kiri: "...ahahh... hYhk, h, nh..."
+TP
+
+//ほっとしているのか。
+Perhaps relieved,
+TP
+
+//膣がふわりと弛緩する。
+her vagina relaxes gently.
+TP
+
+//だから、また腰全体で押し出す。
+Therefore, I push in again, hips and all.
+TP
+
+WVP 0 vfCCC3027kri184
+//霧「きゃあああっ！」
+Kiri: "kYAAAH!"
+TP
+
+//柱にしがみつく霧。
+And Kiri holds to the pillar fast.
+TP
+
+//その内部も、しがみついてくる。
+And her interior, too, clings fast.
+//Wait, so the above wasn't a pun??? -GHS
+TP
+
+//押しつぶされそうな圧迫感。
+A sense of pressure that makes me feel as if crushed.
+TP
+
+//隙間がない感じが独特で、心地よい。
+Gaplessness has a peculiar feeling, and it's so comfortable.
+TP
+
+WVP 0 vfCCC3027kri185
+//霧「はふぁ、おちちゃう、おちちゃいます……んくっ！」
+Kiri: "Ahguh, I'll faaall, I will faaall... nKh!"
+TP
+
+//太一「じゃあ、もっときつく締めないと」
+Taichi: "Well then, hold even tighter."
+TP
+
+WVP 0 vfCCC3027kri186
+//霧「も、無理……ちから、抜けちゃ……きゃうっ！」
+Kiri: "I-, impossible... strength... failing... kYahUh!"
+TP
+
+//すでに表情はゆるんで、悦楽とも虚脱ともつかない。
+Her expression had already loosened, and I couldn't associate it with neither pleasure nor despondency.
+TP
+
+//弛みは全身を麻痺させていく。
+The slackening was paralyzing her whole body.
+TP
+
+//仕方ない。
+No avoiding this,
+TP
+
+//霧の口に指を突っ込む。
+I thrust fingers inside Kiri's mouth.
+//oh like touko quelle surpriszzzzzzzz -ghs
+TP
+
+WVP 0 vfCCC3027kri187
+//霧「あふぁ、あう、れるっ、るっ、んふっ」
+Kiri: "aFhuh, ah, hruh, hroh, nFuh!"
+TP
+
+//指先がねっとりと粘液に包まれる。
+The fingertips become enveloped in sticky viscous fluid,
+TP
+
+//糸を引くほどに。
+enough that they seem to be holding a puppet's strings.
+//Is she a doll or a marionette now?????? MAKE UP YOUR MIND AGGGGH INSANE RAGE DUE TO IRRELEVANT DETAIL CREATED BY READING LATERALLY WHAT IS MEANT TO BE READ LITERALLY or was it viceversa. See CCD0022A. -GHS
+TP
+
+//そのぬめった指先を、霧のもうひとつのすぼまりにあてがう。
+And those slimy fingertips I thrust into Kiri's other narrow spot.
+//#yaoi #ass -GHS
+TP
+
+WVP 0 vfCCC3027kri188
+//霧「ひゃ……な、なにを？」
+Kiri: "hYah... wh-, what are-?
+TP
+
+//回転させて押し込むと、すんなり挿入できた。
+Pushing with rotation, I insert without difficulty.
+TP
+
+WVP 0 vfCCC3027kri189
+//霧「ふっくっ！？」
+Kiri: "FhNgh?!"
+//Fukku? "fuck"? -GHS
+TP
+
+//劇的な効果があった。
+There was a dramatical effect.
+//Obviously another reference to DRAMAtical Murder, because ass. Also see CCA0017B meaning glasses + ass = tsukihime although Curry has nothing to do with anythARE WE THERE YEEEET -GHS
+TP
+
+//太一「……うわ、すご」
+Taichi: "...whoa, 'mazing!"
+TP
+
+//ただでさえ狭い膣内が、さらに細く。
+The vaginal interior, already pretty tight, narrows even further.
+TP
+
+//太一「ほら、こうして二箇所でひっかけておけば落ちない」
+Taichi: "There, now you're properly held in two spots, and you won't fall."
+//He means 3? -GHS
+TP
+
+WVP 0 vfCCC3027kri190
+//霧「……ダメぇ……ダメ、そこは、そこはぁっ！　あぁぁっ！」
+Kiri: "...you caaan't... you can't, back there, back theeere! Aaah!"
+TP
+
+//小さな臀部。
+Tiny buttocks.
+TP
+
+//親指の根本までおさめた。
+I push in to the root of the thumb.
+//He apparently only inserted the thumb, but the above says fingers. This is a most grave matter that will be subjected to damn I don't care enough to get to the end of that thought. -GHS
+TP
+
+WVP 0 vfCCC3027kri191
+//霧「はぁぁぁ……いやぁぁ……抜いてよぉ、ぬい……」
+Kiri: "Ahhh... NOOoo... take it out nooow, out..."
+TP
+
+//動く。
+Movement.
+TP
+
+//再び霧はせり出す。
+Once more Kiri juts to outside.
+TP
+
+WVP 0 vfCCC3027kri192
+//霧「うぐっ……うっ、あうっ、あぁあぁぁぁぁっ、はんっ、さっきより、きつくてっ、はふっ！」
+Kiri: "Ngh... uh, Ahuh... AaAaaah, hahn, worse, than before, haFh!"
+TP
+
+//それは霧自身が締めつけているせいだ。
+That's because Kiri's entire body is tightening.
+TP
+
+WVP 0 vfCCC3027kri193
+//霧「あっ、あぁ。あぁぁっ！　あぁぁん、はあぁぁん……はん、ふぁんっ、あっ、も、もう許して……ひゃあっ」
+Kiri: "Ah, aah, aAah! Aaahnh, hahaahnh... hahnh, fAhnh, ah, l-, let me go already... hYah..."
+TP
+
+//止める。
+Stop.
+TP
+
+WVP 0 vfCCC3027kri194
+//霧「はーっ、はーっ、はぁぁぁ……」
+Kiri: "Haaah, haaah, hahhh..."
+TP
+
+//膣口がリズミカルに搾ってくる。
+I am wrung rhythmically by the vaginal opening.
+TP
+
+//うなじの汗を舌ですくい取りながら囁く。
+I wipe off the sweat on her nape with the tongue, while I whisper:
+TP
+
+//太一「……霧のわかりやすく収縮してる」
+Taichi: "...your contractions are so easy to read, Kiri."
+TP
+
+WVP 0 vfCCC3027kri195
+//霧「やぁぁ……しらないです、そんなの……んっ……」
+Kiri: "Nooo... I do not care, about that... nh..."
+//Half-formalzzzzzz -GHS
+TP
+
+//唇から涎が垂れる。
+Drool drips from her lips.
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//吸い寄せられて、口を吸う。
+I draw the mouth in, and suck on it.
+TP
+
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　　　すす
+//霧のかわりに、たまった唾液を啜り取ってやる。
+//I quaff the SHIT out of Kiri's saliva.
+I gladly quaff the saliva in Kiri's stead.
+TP
+
+WVP 0 vfCCC3027kri196
+//霧「あむっ、ん、んん、ちゅる、るっ……んんんんん……んっ……ぇう……」
+Kiri: "Ahmuh, nh, nnnh, pchruh, hrh... nnnnh... nh... eUh..."
+TP
+
+//顎の先までキレイにする。
+I make her clean down to the tip of her chin.
+TP
+
+WVP 0 vfCCC3027kri197
+//霧「あん……せんぱい……」
+Kiri: "Ahn... Senpai..."
+TP
+
+//目を閉じて、受け入れる。
+She closes her eyes, and accepts,
+TP
+
+//もうすっかり俺の霧だ。
+that by now she is My Kiri.
+TP
+
+//太一「お尻の中も熱いよ」
+Taichi: "You're hot inside your butt too!"
+TP
+
+//親指をくいと曲げる。
+I bend and tug my thumb.
+TP
+
+WVP 0 vfCCC3027kri198
+//霧「きゃっ！　そ、そんなこと言わない、で……ひっ！？」
+Kiri: "Kyah! Do-, don't say it out... loud... HY?!"
+TP
+
+//太一「そろそろ……いきそうなんだ、霧」
+Taichi: "It'll be soon... I'm gonna come, Kiri."
+TP
+
+//ゆっくりと動く。
+Moving with gentleness.
+TP
+
+WVP 0 vfCCC3027kri199
+//霧「はーっ、はっ、はんっ、あぁんっ、いく……？」
+Kiri: "Haaah, hah, hahnh, aaahn, come...?"
+TP
+
+//太一「霧は？　いきそう？」
+Taichi: "You, Kiri? Gonna come?"
+TP
+
+WVP 0 vfCCC3027kri200
+//霧「わかん、ないっ……そんなこと、わかんないですっ、ああっ！」
+Kiri: "Don't... know... that... I wouldn't know, AAAH!"
+//It's literally true given her Attributes. -GHS
+TP
+
+//太一「中に出すよ」
+Taichi: "I'm coming inside!"
+TP
+
+//よじりながら突き入れる。
+I twist while thrusting in.
+TP
+
+WVP 0 vfCCC3027kri201
+//霧「あぅんっ、おっ、おっ……いやぁ、なかは……妊娠しちゃう……」
+Kiri: "AhNh, oh, oh... nooo, inside, you'll... get me pregnaaant..."
+TP
+
+//太一「……じゃあ、俺の子供、生んでよ」
+Taichi: "...then, bear my child!"
+//see CCA0015 -GHS
+TP
+
+WVP 0 vfCCC3027kri202
+//霧「……え……子供って……？」
+Kiri: "...eh... child...?"
+TP
+
+//官能にとろける顔に、不安がよぎる。
+Carnality melts from her face, which is crossed by unease.
+TP
+
+//太一「アダムとイブになろうぜ」
+Taichi: "Let's become Adam and Eve!"
+//See CCC3027. Jesus, Isaiah, and now this. All hidden in a sex scene that's him replaying the Sodom and Gomorrah used to indicate the Fall of Eden. -GHS
+TP
+
+//きゅっ、と膣が締まった。
+Squeeeze, the vagina contracted.
+TP
+
+WVP 0 vfCCC3027kri203
+//霧「……それは……わたしと……先輩が……？」
+Kiri: "...then... me with... Senpai...?"
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//何を言ってるんだろう、俺は。
+The hell are you saying, me.
+TP
+
+//この世界で。
+In this world?
+TP
+
+//この空の下に。
+Under this sky?
+TP
+
+//どんな希望が。
+What sort of wish is even that?
+TP
+
+//猛然と腰を律動させた。
+I give my hips a savage rhythm.
+TP
+
+WVP 0 vfCCC3027kri204
+//霧「あぅっ！　くはっ、んっ……あっ！　あっ、んっ、はっ、はん！　きゃっ、激し、いぅぅぅぅぅぅ～～～っっ！」
+Kiri: "Ahuh! gWah, nh... ah! Ah, nh, hah, hAhn! kYah, too hard, hAAA～～～!"
+TP
+
+//太一「……ん」
+Taichi: "...nh!"
+TP
+GL 0 evcc0047a
+$CGevcc0047a = 1
+GL 5 bgcc0000e
+GI 5 0
+GS 5 0
+GS 0 1
+SEF 109 0
+//達すると同時に、膣奥に放つ。
+The same instant she reaches the peak, I release into her depths.
+TP
+
+WVP 0 vfCCC3027kri205
+//霧「きゃうっ、は、ひあ……あああっ！　あーっ！！」
+Kiri: "KyahUh, hah, hyah... aaah! AAAH!!!"
+TP
+
+//小柄な体を背後から抱く。
+I embrace her petite body from the back,
+TP
+
+//強く抱く。
+embrace tightly.
+TP
+
+WVP 0 vfCCC3027kri206
+//霧「は、ひゃ……あう……あっ……ぁ……」
+Kiri: "Hah, hyah... ahuh... ah... ah..."
+TP
+
+//しゃっくりをするように、呼吸を刻む霧。
+Kiri's breath becomes choppy, as if coughing.
+TP
+
+//二人して床に座り込む。
+We both end up sitting on the floor.
+TP
+
+GS 0 0
+SEF 109 0
+WVS 1 1
+WT 500 0
+GL 0 bgcc0006
+GS 0 1
+SEF 109 0
+//HACK Console versions rejoin here. Putting some pauses so the music can fade less abruptly. -GHS
+
+
+
+WVP 1 bgm003.ogg 0 0 0
+WVP 0 vfCCC3027kri207
+//霧「ひ……うっ、う、うううう……」
+Kiri: "Hy... uh, uh, uwaaah..."
+TP
+
+//泣き出す。
+Crying out.
+TP
+
+//太一「……霧？」
+Kiri: "...Kiri?"
+TP
+
+//振り返る顔に、大粒の涙。
+Her head turns back to me, big thick tears on it.
+TP
+
+GL 1 TCSK0004
+GP 1 220 0
+GI 1 1
+//HACK Dat Eyebrow. -GHS
+
+WVP 0 vfCCC3027kri208
+//霧「豊は……死ぬしかなかったん……ですよね？」
+Kiri: "Yutaka... just had to die... did he?"
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+WVP 0 vfCCC3027kri209
+//霧「……それだけのことをしたから……死ぬしか……ないから……」
+Kiri: "...because he could only do that... to die... nothing else..."
+TP
+
+//太一「俺は」
+Taichi: "To me,"
+TP
+
+//豊のことを―――
+Yutaka is---
+//He still doesn't know... and he'll never learn explicitly either, since the meaning is purely religious. -GHS
+TP
+
+WVP 0 vfCCC3027kri210
+//霧「せんぱい」
+Kiri: "Senpai."
+TP
+
+//霧からキスを求めてきた。
+A demand for a kiss comes from Kiri.
+//See CCD3003. This is no sudden characterizational 180: she was always in love with him, just like she always suspected Yutaka. -GHS
+TP
+
+GL 0 evcc0049
+$CGevcc0049 = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+//HACK back to the kiss CG... -GHS
+
+//重なるや否や、舌を献上してくる。
+No sooner than we overlap, she presents the tongue.
+TP
+
+//俺が先にした行為にならって、唇全体を甘く噛んでくる。
+Repeating what I was doing before, I give sweet bites to the full of the lips.
+TP
+
+//戯れるよう、愛おしむよう。
+Playfully, cherishingly.
+TP
+
+//……諦めるよう。
+...resignedly.
+TP
+
+//こうして。
+And this,
+TP
+
+//霧は俺のものになった。
+is how Kiri became my property.
+TP
+
+WVS 1 1
+
+
+
+
+$SNCCC3027_3 = 1
+
+RET

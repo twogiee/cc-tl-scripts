@@ -1,0 +1,315 @@
+
+
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+WT 500 0
+WT 500 1
+
+
+GL 0 evcc0011
+$CGevcc0011 = 1
+GS 0 1
+SEF 152 0
+
+WVP 1 bgm016.ogg 0 0 0
+
+Touko was in the classroom.
+TP
+
+
+Faithful to the records.
+TP
+
+
+I'm sure this girl doesn't have any other place to go.
+TP
+
+
+She's not strong enough to coop herself up alone at home.
+TP
+
+
+Taichi: "Touko, are you eating well?"
+TP
+
+
+
+Touko: "......"
+TP
+
+
+She shot me one glance, then looked elsewhere.
+TP
+
+
+It was as if innumerable messages were contained in only that action.
+TP
+
+
+I couldn't feel the atmosphere she was pushing on me with the corners of her eyes.
+TP
+
+
+It just looked like pouting to me.
+TP
+
+
+Taichi: "Don't ignore me."
+TP
+
+
+I pinched her cheek.
+TP
+
+
+WVP 0 vfCCD0001fyu001
+Touko: "Stop that!"
+TP
+
+WVP 2 se048 1 0
+She brushed me off.
+TP
+
+
+Taichi: "But you're ignoring me."
+TP
+GL 0 bgcc0006
+GL 1 TCKT0003
+GP 1 230 0
+GS 1 1
+GS 0 1
+SEF 109 0
+
+
+WVP 0 vfCCD0001fyu002
+Touko: "Figure it out!"
+TP
+
+
+She's mad.
+TP
+
+
+I've known that that's Touko's first step towards interaction.
+TP
+
+
+Taichi: "Squeeze!"
+TP
+
+
+GL 1 TCKT0011
+GI 1 0
+WVP 0 vfCCD0001fyu003
+Touko: "Stooop thaaat!"
+TP
+
+
+Taichi: "That was fast. Today's the opening ceremony so there aren't any classes."
+TP
+
+
+GL 1 TCKT0003
+GI 1 0
+WVP 0 vfCCD0001fyu004
+Touko: "There's no opening ceremony either!"
+TP
+
+
+Taichi: "You came in casual clothing again."
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfCCD0001fyu005
+Touko: "I don't want to wear this school's uniform."
+TP
+
+
+Taichi: "Why not?"
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfCCD0001fyu006
+Touko: "Won't I look like an idiot!?"
+TP
+
+
+Taichi: "Such cruel talk."
+TP
+
+
+She's misunderstanding.
+TP
+
+
+Taichi: "Everyone's just a little unusual in the head, that's all."
+TP
+
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfCCD0001fyu007
+Touko: "Isn't that why society would see me as an idiot!?"
+TP
+
+
+Taichi: "Isn't that why you fight?"
+TP
+
+GL 1 TCKT0001
+GI 1 0
+WVP 0 vfCCD0001fyu008
+Touko: "......haa?"
+TP
+
+
+Taichi: "How do you protect yourself from attack?"
+TP
+
+
+Taichi: "You behave the same as them, behave normally, you have to blend into them."
+TP
+
+
+Taichi: "Isn't that an option?"
+TP
+
+
+GL 1 TCKT0002
+GI 1 0
+WVP 0 vfCCD0001fyu009
+Touko: "......why are you talking so seriously? And this early in the morning..."
+TP
+
+
+GL 1 TCKT0005
+GI 1 0
+WVP 0 vfCCD0001fyu010
+Touko: "......in the first place, there aren't any other people any more. Everything we do is useless."
+TP
+
+
+Taichi: "Are you going to do nothing like that, every week?"
+//It was a little hard to tell what was being said.-Spin
+TP
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfCCD0001fyu011
+Touko: "Every week?"
+TP
+
+
+I slipped up.
+TP
+
+
+I need to distract her.
+TP
+
+
+Taichi: "Reserve army of old ladies that say 'ever so.'"
+TP
+
+
+GL 1 TCKT0003
+GI 1 0
+WVP 0 vfccb0004cfyu008
+Touko: "Whaaat did you sayyyy!!?"
+//CP ccb0004c
+TP
+
+
+Taichi: "There, that's it."
+TP
+
+
+Can I give life to Touko by following the ignitions mentioned in the notebooks?
+TP
+
+
+Taichi: "Touko's old ladyness is now at ninety-two percent. The average is twenty-five percent so you're in mortal danger. On top of that, it increases one percent with every added year, so you'll be a complete, scathing old lady before reaching thirty."
+TP
+
+GL 1 TCKT0005
+GI 1 0
+
+Touko: "........................"
+TP
+
+
+Begin counting seconds. Three......two......one......
+TP
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfccb0004cfyu015
+Touko: "ÅõÅ~Å¢Å†ÅêÅîÅìÅïÅõÅ~Å¢Å†ÅêÅîÅìÅï-----!!"
+//The voice during this is awesome.-Spin
+TP
+
+
+She burned, she burned.
+TP
+
+
+Combustion becomes Touko's power to live.
+TP
+
+
+......whether that's true or not, good luck.
+TP
+
+
+Inside my mind, I yelled her on.
+TP
+
+GL 1 TCKT0011
+GI 1 0
+
+WVP 0 vfCCD0001fyu013
+Touko: "Say somethiiiing!"
+TP
+
+
+Taichi: "Wa!!"
+TP
+
+
+I evaded attack.
+TP
+
+
+Is it time?
+TP
+
+
+Taichi: "See you."
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 152 0
+
+WVP 0 vfCCD0001fyu014
+Touko: "Ah! W-wait right there!!"
+TP
+
+
+WVS 1 1
+
+
+
+
+
+RET

@@ -1,0 +1,1656 @@
+
+WT 500 0
+WT 1000 1
+
+
+GL 0 bgcc0003a
+GL 5 efcc0000
+WVP 2 se019 1 0
+GI 5 0
+GI 0 0
+GO 5 0
+WVP 3 SE020 0 0 1
+
+//部屋に戻って、電気をつけた。
+I returned to the room and turned on the light.
+TP
+//いろいろあって疲れた。
+So much had happened, therefore I was tired.
+//I wonder if today's the day Yutaka died... -GHS
+TP
+
+
+
+//太一「しかしあっつい」
+Taichi: "But damn it's hot."
+TP
+
+
+
+//エアコン、はやく修理してもらわないと。
+I gotta get the air conditioning repaired quickly.
+TP
+
+
+
+//一階のリビングにはエアコンもあるのだが、なんなく落ち着かない。
+The ground floor living room has air conditioning, but I just can't settle down there.
+//He wants privacy for his porn. Maybe. -GHS
+TP
+
+
+
+//太一「水風呂にでも入るか」
+Taichi: "Should I just take a cold bath."
+//It's a flashback because he pretty much never does in the main story. -GHS
+TP
+
+
+GO 0 1
+
+//入ることにした。
+I decided to do so.
+TP
+
+
+WVP 2 SE021 1 0
+
+//太一「んあー？」
+Taichi: "'wat...?"
+TP
+
+
+
+
+//あまりの気持ちよさにちょっと向こう側に行っていた意識を、ドアベルが呼び戻す。
+The doorbell called back an awareness that had nearly left for the pleasant comfortableness of the other side.
+TP
+WVS 2 0
+
+
+
+WVP 2 SE021 1 0
+
+//太一「やべ」
+Taichi: "No way."
+//Though it's not exactly an uncommon wording, here it's sorta Yutaka's catchphrase. -GHS
+TP
+
+
+
+//急いで出て、体を拭く。
+I hurriedly get out and wipe myself down.
+TP
+
+
+
+//着物を身につけて、玄関に。
+With a Kimono over me, I head to the entryway.
+TP
+
+
+
+//太一「はいはーい」
+Taichi: "Cooo-ming!"
+TP
+
+
+
+
+GL 0 bgcc0013a
+GS 0 1
+SEF 152 0
+
+//太一「どちら様で？」
+Taichi: "Who might it be?"
+TP
+
+
+
+WVP 0 vfcca0020ysa000
+//遊紗「あ、あの、堂島です」
+Yusa: "Ah, uhm, it's Doujima!"
+TP
+
+
+WVP 1 bgm003.ogg 0 0 0
+
+//太一「その極道みたいな苗字とは裏腹にキュートな声は……遊紗ちゃん？　あいてるからどーぞ」
+Taichi: "A gangster-like surname associated with a conversely kyute voice... Yusa-chan? It's open, do come in!"
+//see CCA0013 -GHS
+TP
+
+GL 0 bgcc0013az
+GS 0 1
+GL 1 TCDY0000c
+GS 0 1
+GS 1 1
+GP 1 230 0
+SEF 109 0
+
+//ドアがおそるおそる開き、美少女が立っていた。
+Slowly and carefully the door opens, and there stood a beautiful girl.
+TP
+
+
+GL 1 TCDY0004c
+GI 1 0
+
+WVP 0 vfcca0020ysa001
+//遊紗「どうも、こんばん……わ」
+Yusa: "Hello, good eve... ning."
+TP
+
+
+
+//瞳が開かれる。
+Her pupils go wide.
+TP
+
+
+
+//黒々とした瞳孔に、俺の姿が映る。
+The reflection of my figure on her deep dark pupils.
+//See CCA0001 -GHS
+TP
+
+
+
+//太一「こんばんわ」
+Taichi: "Good evening."
+TP
+
+GL 1 TCDY0000c
+GI 1 0
+//HACK normal Yusa -GHS
+
+WVP 0 vfcca0020ysa002
+//遊紗「着物、なんですね」
+Yusa: "A Kimono... yes it is."
+TP
+
+
+
+//太一「ああ、これ？　驚いた？」
+Taichi: "Ahhh, this? Astonished?"
+TP
+
+
+
+WVP 0 vfcca0020ysa003
+//遊紗「びっくりしたです……」
+Yusa: "Surprised, yes..."
+//Not quite the same acceptation. -GHS
+TP
+
+
+
+//太一「ソーセキが好きでね」
+Taichi: "It's because I like dem Soseki."
+//See CCA0019 for the pun. -GHS
+TP
+
+
+GL 1 TCDY0003c
+GI 1 0
+
+WVP 0 vfcca0020ysa004
+//遊紗「はー」
+Yusa: "Huh?"
+TP
+
+
+
+//太一「それに着心地が良いのでね」
+Taichi: "And it feels very good on me."
+//Cooough. -GHS
+TP
+
+
+
+GL 1 TCDY0001c
+GI 1 0
+WVP 0 vfcca0020ysa005
+//遊紗「あのっ、似合います」
+Yusa: "Uhm, it suits you."
+//Coooough. -GHS
+TP
+
+
+
+
+//太一「本当？」
+Taichi: "Really?"
+TP
+
+
+
+GL 1 TCDY0000c
+GI 1 0
+WVP 0 vfcca0020ysa006
+//遊紗「そのー、お髪がお白くていらっしゃられるので……色合いとかが」
+Yusa: "Well, the hair is indeed giving it some white and... it suits you, I think."
+TP
+
+
+
+
+//太一「それでも、着物は黒髪が一番だよ」
+Taichi: "But still, dark hair is the best with a kimono."
+//I wonder if that was the hair he used to have. I suspect it was the same color as the Youko wig he has. -GHS
+TP
+
+
+
+
+//苦笑いを浮かべ。
+Rise a bitter smile to the surface.
+//Imperative and specific, remember he molds smiles. This is pure resentment. If Yutaka isn't dead, he's about to die. -GHS
+TP
+
+
+
+
+//太一「遊紗ちゃんなんか、もっと似合うんじゃないかな」
+Taichi: "Wouldn't it'd fit you a lot better, Yusa-chan?"
+TP
+
+
+
+
+GL 1 TCDY0004c
+GI 1 0
+WVP 0 vfcca0020ysa007
+//遊紗「そ、そんなっ……ひっくっ」
+Yusa: "B-, but it's... hic!"
+//And there it goes, right on cue. -GHS
+TP
+
+
+
+
+//声を張り上げた拍子に、しゃっくりが出た。
+On the downbeat of her raising her voice, out came a hiccup.
+//See CCA0013, exact same term. -GHS
+TP
+
+
+
+GL 1 TCDY0000c
+GI 1 0
+
+//SEF 101 0
+WVP 0 vfcca0020ysa008
+//遊紗「ひっく……ひっく……ひっく」
+Yusa: "Hic! ...hic! ...hic!"
+//SEF 101 0
+GP 1 215 15
+GI 1 0
+GP 1 230 30
+GI 1 0
+GP 1 245 15
+GI 1 0
+GP 1 230 0
+GI 1 0
+//HACK independent doll shake -GHS
+TP
+
+
+
+
+//太一「あらら」
+Taichi: "Oh my my."
+//CP CCA0006
+TP
+
+
+
+
+//SEF 101 0
+WVP 0 vfcca0020ysa009
+//遊紗「ひっく……、すいません、ひっく……」
+Yusa: "Hic!... sorry, hic!..."
+//SEF 101 0
+GP 1 215 15
+GI 1 0
+GP 1 230 30
+GI 1 0
+GP 1 245 15
+GI 1 0
+GP 1 230 0
+GI 1 0
+//HACK independent doll shake -GHS
+TP
+
+
+
+//太一「止まらないみたいだね」
+Taichi: "Doesn't look like it's gonna stop."
+TP
+
+
+
+//驚かせるといいんだっけ。
+But it should be fine if I give are fright, right.
+TP
+
+
+
+//相手が桐原とかだったら、遠慮なく着物の前を全開にするのだけど。
+If this was Kirihara, I'd just jerk open the front of the kimono without a second thought, but,
+//Meaning he's holding himself back. But is that what he should be doing, really? -GHS
+TP
+
+
+
+//この子を驚かすというのは……。
+to scare this girl, well...
+TP
+
+
+
+//太一「うーん」
+Taichi: "Uh-huh."
+TP
+
+
+
+//太一「遊紗ちゃん、こっち見て」
+Taichi: "Yusa-chan, look at me."
+TP
+
+
+
+WVP 0 vfcca0020ysa010
+//遊紗「ひっく？」
+Yusa: "Hic?"
+TP
+
+
+
+//見上げた美少女面に、顔を寄せていく。
+The head of the pretty girl looks up to my approaching face.
+TP
+
+
+
+//五センチまで接近して、囁く。
+I draw near to five centimeters of distance, and whisper:
+//See CCA0030. -GHS
+TP
+
+
+
+//太一「結婚しよう」
+Taichi: "Let's get married."
+//I suspect she takes this seriously. I admit, part of the evidence is how Umineko handled this, and by that I mean committed one of the most grandiose crimes against writing, but think about it: her Ultramarine/Split Personality/True Persona calms down after this. -GHS
+TP
+
+
+GL 1 TCDY0004c
+GI 1 0
+//SEF 101 0
+WVP 0 vfcca0020ysa011
+//遊紗「っっっっっっ！！？？」
+Yusa: "!!!!!!?!?!?!?!"
+//Hmmm, just 6? -GHS
+//SEF 101 1
+GP 1 215 15
+GI 1 0
+GP 1 230 30
+GI 1 0
+GP 1 245 15
+GI 1 0
+GP 1 230 0
+GI 1 0
+//HACK independent doll shake -GHS
+TP
+
+
+
+//遊紗ちゃんは凍った。
+Yusa-chan froze.
+TP
+
+
+
+//一分くらい、身じろぎ一つしなかった。
+For about one minute, there was not the faintest of stirs.
+//That's... ouch. This is more than a little shock. -GHS
+TP
+
+
+
+//しゃっくりは止まった。
+The hiccups stopped.
+TP
+
+
+
+WVP 0 vfcca0020ysa012
+//遊紗「あ、あの、今？」
+Yusa: "Ah, uhm, now?"
+//And... -GHS
+TP
+
+
+
+//太一「ま、とりあえずあがって」
+Taichi: "Well, first of all come inside."
+TP
+
+
+
+WVP 0 vfcca0020ysa013
+//遊紗「あの、今？」
+Yusa: "But, now?"
+TP
+
+
+
+//太一「遠慮なくどーぞ」
+Taichi: "Please, make yourself at home!"
+TP
+
+
+
+WVP 0 vfcca0020ysa014
+//遊紗「……今、なにが起こったんだろう……？」
+Yusa: "...now, what just happened now...?"
+//...something wrong has happened. Did this event happen? Did she get replaced for a moment? Did her Real Self come up? Harder to answer. -GHS
+TP
+
+
+
+GL 0 bgcc0004a
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+//座らせて、麦茶を出す。
+I let her sit, and lay out some barley tea.
+//So he DOES have tea in the house. -GHS
+TP
+
+GL 1 TCDY0000
+GS 1 1
+SEF 109 0
+
+
+WVP 0 vfcca0020ysa015
+//遊紗「おうちの方は？」
+Yusa: "And the people at home?"
+TP
+
+
+
+//太一「帰ってこないんじゃないかな、今夜は」
+Taichi: "Don't think she's gonna be coming back, tonight at least."
+TP
+
+GL 1 TCDY0004
+GI 1 0
+
+WVP 0 vfcca0020ysa016
+//遊紗「えっ？」
+Yusa: "Eh?"
+TP
+
+
+
+//複雑な表情を浮かべる。
+A complicated expression rises to the surface.
+//Same term as his more than a little suspicious one above, not imperative of course. See CCC4012, hmmm. -GHS
+TP
+
+
+
+//複雑な事情を想像したに違いない。
+She guesses complicated circumstances, no mistake.
+//She probably guesses his host family isn't his actual family. -GHS
+TP
+
+
+
+//実際、多少は複雑なのだけど。
+But truth is, they are more or less complicated.
+TP
+
+
+
+//太一「仕事が忙しい時期は社員寮に泊まりっぱなしなんだ」
+Taichi: "It's that she always keeps staying at the company dormitory when she's busy with work."
+TP
+
+
+GL 1 TCDY0003
+GI 1 0
+
+WVP 0 vfcca0020ysa017
+//遊紗「ああ、そうですか……」
+Yusa: "Ahhh, that is what..."
+TP
+
+
+
+//太一「それで今日はどんなわくわくするようなニュースを持ってきてくれたのかな？」
+Taichi: "So, what thrilling news may you be bringing me bring here on this day?"
+TP
+
+
+GL 1 TCDY0001
+GI 1 0
+
+WVP 0 vfcca0020ysa018
+//遊紗「なんだか外国の小説の登場人物みたいな口調ですね」
+Yusa: "That's so very much how a character from some foreign novel talks."
+//Told you some of this stuff should sound backtranslated. -GHS
+TP
+
+GL 1 TCDY0000
+GI 1 0
+
+
+WVP 0 vfcca0020ysa019
+//遊紗「あの、わたし今日が誕生日なんです」
+Yusa: "Uhm, it's that today would be my birthday."
+//This seems cut from two very different parts of a take, or two takes. Unfortunately, there's been no pickups for Yusa (she has not a single line in After Story either), so this is still like this as far as the 360 version. -GHS
+TP
+
+
+
+//太一「へえ、そうだったのか」
+Taichi: "Ohhh, it was, right."
+TP
+
+
+
+//知らなかった。
+I didn't know.
+TP
+
+
+
+//太一くん、迂闊。
+That was sloppy, Taichi-kun.
+TP
+
+
+GL 1 TCDY0001
+GI 1 0
+
+WVP 0 vfcca0020ysa020
+//遊紗「それでですね、これ……お誕生日プレゼントです」
+Yusa: "So then, here... a birthday present!"
+//That doesn't happen even in Japan as far as I can see. But is she scared of him so much he can't even ask him for the diary back without somehow appeasing him, or is this just what her mother taught him? -GHS
+TP
+
+
+
+//包装紙に包まれたそれを無意識に受け取る俺の、頭の中は『？』で満ちた。
+I unconsciously accept a something packed inside wrapping paper as "?" fill the inside my head.
+//fucking metal gears -GHS
+TP
+
+
+
+//太一「ええと……とりあえず、ありがとう。でも、あれ？」
+Taichi: "Uhmmm... first of all, thank you. But, uh...?"
+TP
+
+
+
+//誕生日プレゼントって？
+A birthday present, she said?
+TP
+
+
+
+WVP 0 vfcca0020ysa021
+//遊紗「いつもお世話になってるお礼です」
+Yusa: "A little gratitude for always taking care of me."
+TP
+
+
+
+//確かに、かなり積極的にお世話している。
+Certainly, I'm taking care of her quite proactively.
+TP
+
+
+
+//というか、惚れさせようとしている。試験的に。
+Or should I say, I'm trying to make her fall for me. Experimentally.
+//See CCD2002. It's no more an experiment here than it is there. -GHS
+TP
+
+
+
+//若い頃から優しく接していれば、容姿のマイナス面は緩和できると思ったからだ。
+Because, I thought, if she received gentle attention from the time of youth, then that 'minus' that is my appearance could be mitigated.
+//OTOH, this is closer to what he really thinks his problem is. -GHS
+TP
+
+
+
+//『光源氏は本当にウハウハなのか大検証』というこの企画は、今のところ順調と判断できるデータが揃いつつある。
+The Super Was Hikari Genji Truly All Satisfied Smiles Experiment, as I call my plan, has presently assembled sufficient data to produce a judgment of 'favorable'.
+//See CCA0013. -GHS
+TP
+
+
+
+//成功したあとについてあんまり考えていなかったことには、今気づいた。
+As to how I hadn't given much thought what to do after a success, I realized it just now.
+//What does a dog do after it's caught a car? -GHS
+TP
+
+
+GL 1 TCDY0000
+GI 1 0
+
+WVP 0 vfcca0020ysa022
+//遊紗「それと、交換日記を明日提出できたらなと思ったので……」
+Yusa: "And also, I thought, so I could hand in the exchange diary tomorrow..."
+TP
+
+
+
+//膝の上、なかなか落ち着こうとしない指を、懸命にあやしている。
+She rocks back and forth above her lap fingers that don't wish to readily settle down.
+TP
+
+
+
+//うつむいて、のぞく首筋がすっかり赤い。
+She bows, and all but the nape of the neck is completely red.
+TP
+
+
+
+//いっぱいいっぱいのご様子。
+She looks like she's full, full to the brim.
+TP
+
+
+
+//太一「萌える」
+Taichi: "Moe!"
+TP
+
+GL 1 TCDY0003
+GI 1 0
+
+
+WVP 0 vfcca0020ysa023
+//遊紗「……え？」
+Yusa: "...eh?"
+TP
+
+
+
+//太一「ああ、できてるよ。取ってこよう」
+Taichi: "Ah, it's all done! I'll go get it."
+TP
+
+
+GL 1 TCDY0000
+GI 1 0
+
+WVP 0 vfcca0020ysa024
+//遊紗「は、はい」
+Yusa: "Ah, yes!"
+TP
+
+
+
+//二階に向かう。
+I head upstairs.
+TP
+
+
+GL 0 bgcc0003a
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+//彼女の日記と、それと。
+The girl's diary, and...
+TP
+
+
+
+//室内を見渡す。
+I survey the room.
+TP
+
+
+
+//遊紗ちゃんに贈れるようなもの。
+Something that I could present Yusa-chan...
+TP
+
+
+
+//ぬいぐるみでもあればいいのに、メルヘンとは無縁なマイ部屋。
+You should've had a stuffed animal or something in you, dear my room so indifferent to the Marchen.
+//http://www.britannica.com/EBchecked/topic/364221/Marchen -GHS
+TP
+
+
+
+//メルヘンどころか。
+Anything but fairy-tales here.
+TP
+
+
+
+
+//官能ＯＮＬＹ。
+CARNAL ONLY.
+//Kannou even sounds sort-of like 'carnal' (written kaanaru). -GHS
+TP
+
+
+
+
+//太一「いかん、いかんなー」
+Taichi: "Cut it out, cut it ooout!"
+TP
+
+
+
+//自分だったらなにが欲しいか考えてみる。
+Let's try thinking about what I'd want if it were for me.
+TP
+
+
+
+
+//遊紗ちゃんの生パンツ。
+...Yusa-chan's just-stripped underpants...
+TP
+
+
+
+
+//自然と帯をほどきだす己の手を、理性が鉄の意志力をもって引きはがす。
+The self's hand that with spontaneity goes to unfasten the kimono's belt is torn off via rationality and the iron will it possesses.
+//Reminder that it's technically not his hand. Interesting he's going for HIS kimono, isn't it? Now look at CCD0021. Whose clothes is he taking off there? -GHS
+TP
+
+
+
+//今まで築き上げたものを、一瞬で地平の彼方へ飛ばしてどうする。
+What would I do if what was built up 'til this moment were to be cast towards the horizon in an instant?
+TP
+
+
+
+//太一「いかん」
+Taichi: "Cut it out."
+TP
+
+
+
+//誕生日にふさわしいもの。なにかないのか。
+Something suitable for a birthday present. Is there nothing?
+TP
+
+
+
+//太一「あ」
+Taichi: "Ah!"
+TP
+
+
+
+//いや、これはどうだろう。
+Nah, how could I use this.
+TP
+
+
+
+//キャラ違いすぎるし。
+It's way out of character.
+TP
+
+
+
+//変な趣味に目覚めたら困るし。
+If she awakens to this weird hobby I'm in trouble.
+//SHE LISTENS TO RADIO BURN THE WITCH. This line hasn't made any damn sense for nearly ten years since the full identity of the present hasn't been revealed until the Xbox 360 version. The radio he's giving her has listening device capabilities, and of course there's otakus of that. See CCB0018, which used to be just a copypasta of this script until the console versions rewrote that. -GHS
+TP
+
+
+
+//太一「うーん」
+Taichi: "Uhhh-huh."
+TP
+
+
+
+//意外性は、あるかな。
+It does have that it's unpredictable, doesn't it.
+TP
+
+
+
+//行けるかも？
+Could it work?
+TP
+
+
+
+//太一「ううう～ん」
+Taichi: "Nnnaaa～h."
+TP
+
+
+
+//階下から、
+And from downstairs,
+TP
+
+
+
+WVP 0 vfcca0020ysa025
+//遊紗「あのー、たいちさーん、わたしそろそろもどらないといけない時間なんですー」
+Yusa: "Uhmmm, Taichi-saaan, it's that it is just about time and I just must head back..."
+TP
+
+
+
+//太一「ぬう」
+Taichi: "Ngh!"
+TP
+
+
+
+//迷っている暇はない。
+Got no time for indecisiveness.
+TP
+
+
+
+//箱とマニュアルを探して詰め直し、紙袋に突っ込んだ。
+Search for manual and box, repackage, and cram into a paper bag.
+TP
+
+
+
+
+
+GL 0 bgcc0004a
+GS 0 1
+SEF 152 0
+
+//太一「お待たせ」
+Taichi: "Sorry for the wait!"
+TP
+
+
+
+GL 1 TCDY0000
+GS 1 1
+SEF 109 0
+
+WVP 0 vfcca0020ysa026
+//遊紗「あ……」
+Yusa: "Ahh..."
+TP
+
+
+
+//ほっとする色が浮かぶ。
+The color of relief rises to the surface.
+//It continues. -GHS
+TP
+
+
+
+//太一「じゃあとりあえず交換日記と、それとこれは俺からの誕生日プレゼント」
+Taichi: "So, first of all your exchange diary, and also, this is a birthday present from me."
+TP
+
+GL 1 TCDY0004
+GI 1 0
+
+WVP 0 vfcca0020ysa027
+//遊紗「…………」
+Yusa: "......"
+TP
+
+
+
+//この娘は驚くと絶句する癖があるな。
+This young lady has the bad habit of losing words when surprised, don't she.
+TP
+
+
+
+//プレゼントの説明は、また今度かな。
+Explanations for the present are best left for some other time.
+//It'll never come, according to CCB0018, so him attempting to push her down will likely come not days after this. -GHS
+TP
+
+
+
+//太一「さてと、じゃ家まで送ろうか」
+Taichi: "Well then, let's see you home."
+TP
+
+
+WVP 0 vfcca0020ysa028
+//遊紗「……………………っっ！？」
+Yusa: "............!!!?!?"
+GP 1 245 15
+GI 1 0
+GP 1 230 30
+GI 1 0
+GP 1 215 15
+GI 1 0
+GP 1 230 0
+GI 1 0
+//HACK independent doll shake -GHS
+TP
+
+
+
+//さっきの倍くらいに絶句する。
+Her loss of words about doubles from before.
+//This isn't moe; this is a girl who is utterly and honestly astonished at being treated as anything but worthless. -GHS
+TP
+
+
+
+//太一「もう夜だし、ちょっと危ない人もいるからね」
+Taichi: "It's night by now, and there's kinda dangerous people out there."
+//That would seem extraordinarily unlikely, given the difficulty of access, but considering Gunjou... -GHS
+TP
+
+
+//特にこの街にはなぁ。
+And especially in this town, oh yes.
+//...and this is a hint that that's what he means. And two of them are about to run about unsupervised at night. Great job, Japanese government. -GHS
+TP
+
+
+
+//太一「行こうか？」
+Taichi: "Shall we go?"
+TP
+
+
+
+GL 1 TCDY0001
+GI 1 0
+WVP 0 vfcca0020ysa029
+//遊紗「は、はいっ」
+Yusa: "Ye-, yes!"
+TP
+
+GL 0 bgcc0002b
+GS 0 1
+GS 1 0
+SEF 152 0
+
+WT 500 0
+
+
+GL 0 bgcc0005b
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//夜道を並んで歩く。
+We walk side by side in the streets at night.
+TP
+
+
+
+//遊紗ちゃんの歩幅は短くて、のんびりよたよた時間は流れた。
+Yusa-chan's stride is short, and the flow of time waddled by leisurely.
+//Random cough-cough stuff, ain't it. -GHS
+TP
+
+
+
+//太一「そうそう、お母さんにごちそうさまって伝えといて」
+Taichi: "Ah, of course, please extend my thanks to your mother."
+//Gotta leave it a bit vague for below -GHS
+TP
+GL 1 TCDY0000c
+GI 1 1
+
+
+
+WVP 0 vfcca0020ysa030
+//遊紗「母にデスカ？」
+Yusa: "But, to mother?"
+//Suddenly tense. Possibly because her mother is partially to blame for her bullying. -GHS
+TP
+
+
+
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　きょう
+//太一「いつもおいしい食事を饗してくださる」
+Taichi: "For always allowing me to feast on delicious food."
+//There we are, this is intended to misguide readers into thinking the notes are from Yusa's mother, not Youko. Second misreading, see CCD0021: dish'd be Yusa. Real reading is CCA0022, he's overfeeding him (and her, and badly teaching her too), with all the consequences of bullying etc. -GHS
+TP
+
+GL 1 TCDY0003c
+GI 1 0
+//HACK puzzled Yusa -GHS
+
+WVP 0 vfcca0020ysa031
+//遊紗「……まあ、そうですねぇ」
+Yusa: "...well, if you say so."
+TP
+
+
+
+//太一「学校慣れた？」
+Taichi: "You fitting in well at school?"
+//PCP CCA0013
+//though for some reason this 'school' is kanji and that was katakana. Since subtle differences are sort of a point, altered accordingly. -GHS
+TP
+
+
+
+//GL 1 TCDY0000c
+GL 1 TCDY0001c
+GI 1 0
+//HACK happy Yusa. -GHS
+WVP 0 vfcca0020ysa032
+//遊紗「その質問、毎回しますよね、太一さん？」
+Yusa: "That question... you just ask me that every time, right Taichi-san?"
+//Besides his fixed behavior, notice she refused to answer. -GHS
+TP
+
+
+
+//太一「んー、そう？」
+Taichi: "Hmmm, do I?"
+TP
+
+
+
+//言われてみれば、確かに。
+Now that she mentions it, I sure do.
+TP
+
+
+
+//太一「定型句みたいなものだからさ。会話のクッションだよ」
+Taichi: "It's sort of like a fixed form for me. A cushion for conversations."
+//Focusing on Fixed for reasons obvious, at this point. This is evidence he's known to repeat the same questions, and perhaps the exact same conversations, over and over and over. As if every day was the same. -GHS
+TP
+
+
+
+//太一「しかし遊紗ちゃん大きくなったねぇ」
+Taichi: "Still, you've gotten sooo big now, Yusa-chan!"
+//Annoying grandmother style. -GHS
+TP
+
+
+
+GL 1 TCDY0004c
+GI 1 0
+WVP 0 vfcca0020ysa033
+//遊紗「た、太一さんわたしの子供の頃のことしらないはずでは……」
+Yusa: "Ta-, Taichi-san, I believe you don't know about when I was a child..."
+//She's not being naive, she's serious. She really fears he knows. -GHS
+TP
+
+
+
+//太一「なんてことを、君はこれからの数年間を言われて過ごすんだよ」
+Taichi: "What are you saying, you will be so many years after this being told that!"
+//By annoying grandmothers, given the answer above doesn't seem to imply he already says this often. -GHS
+TP
+
+
+
+GL 1 TCDY0001c
+GI 1 0
+WVP 0 vfcca0020ysa034
+//遊紗「たは、もうずっと言われてます」
+Yusa: "Teheh, I've been told that for a long while now."
+//By her annoying parents (unseen), or by him? -GHS
+TP
+
+
+
+//太一「はじめて会ったときより育ってると思うよ。俺の目から見ても」
+Taichi: "You've grown up a lot since the time we first met, I think. From what I see with my eyes."
+//Now he's ogling her. -GHS
+TP
+
+
+
+//太一「一部はまだ未発達だけど♪」
+Taichi: "But one part's still undeveloped♪."
+TP
+
+
+
+//GL 1 TCDY0000c
+GL 1 TCDY0003c
+GI 1 0
+//HACK Puzzled Yusa -GHS
+WVP 0 vfcca0020ysa035
+//"遊紗「……はれ？」
+Yusa: "...eh?"
+TP
+
+
+
+//太一「今の自分を大切にしたまえ。肉体的に」
+Taichi: "Gladden me with holding yourself more precious. Physically, I mean.."
+//Ah, there we begin with the 'holding the self precious', see Miki route. "Gladden" is that damn running gag, see CCC0026 for payoff. -GHS
+TP
+
+
+
+//無理だが。
+Though that ain't happening.
+TP
+
+
+
+GL 1 TCDY0004c
+GI 1 0
+WVP 0 vfcca0020ysa036
+//遊紗「えっ？　えぁっ？」
+Yusa: "Eh? Ehhh?"
+//Technically the second is an 'ea', which is sorta Mikish. -GHS
+TP
+
+
+
+WVP 0 vfcca0020ysa037
+//遊紗「難しくてよくわかりませんですけど……はい」
+Yusa: "That is a bit complicated so I do not really understand but... yes!"
+//She seems to understand about as much as Misato does. -GHS
+TP
+
+
+GL 1 TCDY0001c
+GI 1 0
+//HACK happy Yusa -GHS
+
+WVP 0 vfcca0020ysa038
+//遊紗「太一さんが言うなら、がんばってみます」
+Yusa: "If Taichi-san says so, then I will try my best!"
+//Motto-like. -GHS
+TP
+
+
+
+//ぐっと両の拳を握りしめた。
+She squeezed both fists tightly.
+TP
+
+
+
+//太一「うんうん」
+Taichi: "Yes-yes."
+TP
+
+
+
+GL 1 TCDY0000c
+GI 1 0
+WVP 0 vfcca0020ysa039
+//遊紗「あの、すみません、送ってもらって」
+Yusa: "Uhm, sorry for having to take me home."
+TP
+
+
+
+//太一「酸いも甘いも噛み分けたヤングアダルトの俺には、当たり前のことさ」
+Taichi: "I am a young adult who is experienced in the ways of the world, having tasted both its bitter and its sweet, so it is expected of me."
+//See CCA0008. Taichi's around a year younger here. -GHS
+TP
+
+
+
+//指を立ててそう告げると。
+So I proclaim with a finger raised.
+//See CCX0001 -GHS
+TP
+
+
+GL 1 TCDY0001c
+GI 1 0
+
+WVP 0 vfcca0020ysa040
+//遊紗「きょーしゅーです」
+Yusa: "Trainingful then!"
+TP
+
+
+
+//太一「はっはっは」
+Taichi: "Hah hah hah!"
+TP
+
+
+//恐縮を読み間違えているんだろうなぁ。
+She's really mispronounced that 'grateful'.
+//Literally it's kyoushuu vs. kyoushuku. This is either the misreading that becomes fixed into the OH NO ME SO VIOLENT AND MAD in CCB0018, or, she's not misreading anything as practicing to be normal IS training to him. This trends heavily towards the latter, unfortunately, but it's still on the topic at least. -GHS
+TP
+
+
+
+//かわええなぁ。
+Sooo kyute.
+TP
+
+
+
+//太一「ぜひ君のような娘に、夜の寝室で強襲されたいものだ」
+Taichi: "Certainly, a Nightly Bedroom Assault is something one wishes to do to a girl like you."
+//Cats seem to top the topic, so I'm not sure if it's a specific type of fet-- ah, dammit, forgot it's Japan. Of course it's a specific type of fetishism. -GHS
+TP
+
+
+
+GL 1 TCDY0003c
+GI 1 0
+WVP 0 vfcca0020ysa041
+//遊紗「夜の寝室でですか？」
+Yusa: "Why in the bedroom at night?"
+TP
+
+
+
+//太一「はっはっは、ま、いいからいいから」
+Taichi: "Hah hah hah, well, forget it, forget it!"
+TP
+
+
+
+GL 1 TCDY0000c
+GI 1 0
+WVP 0 vfcca0020ysa042
+//遊紗「こういう、送ってもらったりするのって、小説の中だけの話かと思ってました」
+Yusa: "Being walked home at night like this I thought would only happen in the story of a novel.
+TP
+
+
+
+//太一「そお？」
+Taichi: "Innit?"
+TP
+
+
+
+//そういえば、この子はコ○ルトな小説が大好きだった。
+Ah, right, this girl really loved Co**lt novels.
+//See CCA0013 -GHS
+TP
+
+
+
+WVP 0 vfcca0020ysa043
+//遊紗「ちょっと驚きました」
+Yusa: "I was a bit surprised."
+TP
+
+
+
+//太一「さっきも言ったけど、当然のことだよ」
+Taichi: "But I told you before, this is absolutely normal."
+TP
+
+
+
+//太一「世の中には、大は小を決して決して兼ねないとする一派がいるからね」
+Taichi: "Because in this world, there are some parties that will never, ever allow the small to coexist with the big."
+//Remember that Taichi's not anti-loli, just anti-pure lolicons. -GHS
+TP
+
+
+
+//太一「哀れな連中さ」
+Taichi: "Pitiful fellas."
+TP
+
+
+
+//大には大の、小には小の良さがある。
+In the big the virtue is the big, in the small it is the small.
+//Makes more sense remembering that, to the first reader, Taichi's going after big boobed Misato AND small-breasted Yusa at the same time. -GHS
+TP
+
+
+
+//究極的にはどんなものでもいいものなんだ、というのがマイ哲学だ。
+Ultimately, either choice is a good choice, and that is Mai Philosophy.
+TP
+
+
+
+GL 1 TCDY0003c
+GI 1 0
+WVP 0 vfcca0020ysa044
+//遊紗「……」
+Yusa: "..."
+TP
+
+
+
+//さすが先輩は大人だから難しいことを言うなあ、という顔をしている。
+'Senpai, adult that he is, has expectedly said something difficult', says her face.
+TP
+
+
+
+//なにかが刺激された。
+Something is stimulated.
+//There he goes... -GHS
+TP
+
+
+WVS 1 0
+
+
+//太一「だが『私』は、射程距離が長いだけの男にはなりたくないんだ」
+//※意訳……俺はお姉さま属性オンリーってわけじゃない
+Taichi: "However, 『this one』 does not wish to become a man whose operative striking range is exclusively long."
+> 
+* Paraphrasis: I ain't an Onee-sama Character Attribute
+  Only guy.
+//Consider it's impossible to go after any other girl right now... -GHS
+TP
+
+
+
+
+//太一「ずっと先を見据えつつ足下にも気を配る人間になりたい」
+//※意訳……年上に甘えつつ『よう女』も愛でられたらいいなぁ
+Taichi: "My desire is to become a human who focuses on what's ahead, while also being careful about what is underfoot."
+* Paraphrasis: I'd looove to get spoiled by the older
+  while being loved by the nice young ones.
+//You-jo, nice girl + young girl (幼女) -GHS
+TP
+
+
+
+
+//太一「ミクロ主義者に対するそんな私の啓蒙というのは、いわゆる一つのメイクドラマなのだと言える」
+//※意訳……ロリコンにでかいこと言って違いを見せつけたい
+Taichi: "The enlightenment this one shall provide with regards to the Microists is what is called a Make Drama, a dramatic result reversal at the finish line!
+* Paraphrasis: I wanna say it waaay loud and clear to
+  Lolicons and show them the error of their ways.
+//http://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%BC%E3%82%AF%E3%83%89%E3%83%A9%E3%83%9E make drama (J only). See CCA0015B. Noticing that the VN is telling you to read between the lines, and giving you a very nice example? When you 'get' into the flow of this, it's full of reading keys. -GHS
+TP
+
+//太一「確かにフラットなボードには瑞々しいものがある。認めよう。がそれだけでは全ては語れない。多かれ少なかれ、人は質量・形状問題に直面することになる。人生経験上の失敗からか、はたまた幼児体験か……それを恐れるあまりいっそ無に回帰することを望む流れというのは、私には逃避にしか見えないのだよ」
+//※意訳……確かにつるぺ（略）
+Taichi: "Certainly, there is something of the freshness of youth in the flatness of a board. Let's admit that. Yet to speak of that alone is not to speak of everything."
+TP
+
+Taichi: "To a greater or to a smaller extent, people will end up confronting problems of mass and shape. Perhaps it's because of their experiences of failure in life, or perhaps again it is from trials of childhood..."
+TP
+
+Taichi: "...yet, this popular wishing to return once more to the absolute nothing out of those fear is something this one cannot see but as flight!"
+> 
+* Paraphrasis: Sure, they may be tsurpet(snip)
+//Very interesting in multiple meta senses. These lines are split sorta-random in order to avoid NVL mode. -GHS
+TP
+
+
+//太一「形而下的価値観によれば、あらゆる『有』はいくつかのモデルに分類できる。『椀型』『ロケット型』などを筆頭に『釣り鐘型』『下垂れ型』『皿型』なども多い。微にいり細を穿つ観点で『先端陥没型』といった例も報告されて……」
+Taichi: "According to materialistic values, each and every one of those 'existences' can be classified into into a number of models. Bowl Type and Rocket Type top the list, while Temple Bell Type, Hang-down Type and Platter Type are also common."
+TP
+Taichi: "From the viewpoint of those who bore down into the most minute of details there have been cases like Caved-In Tip Type also reported---"
+//Same. -GHS
+TP
+
+
+
+//ふと遊紗ちゃんを見ると、メモっていた。
+Casually my glance fell on Yusa-chan, and she was taking notes.
+TP
+
+
+WVP 1 bgm006.ogg 0 0 0
+
+//太一「うわあああああっ、だめ、ダメェ～っ！！？？」
+Taichi: "Bwaaaaaah! You can't, you CAAA～N'T!?!?!?"
+TP
+
+
+
+GL 1 TCDY0004c
+GI 1 0
+WVP 0 vfcca0020ysa045
+//遊紗「え、どうしましたですっ？」
+Yusa: "Eh? What is wrong with that?"
+TP
+
+
+
+//太一「記録してはいけないのっ」
+Taichi: "Making recordings is out of the question!"
+TP
+
+
+
+WVP 0 vfcca0020ysa046
+//遊紗「あ、あんまり難しかったので、あとで調べようと思ったですが……？」
+Yusa: "Ah, but the words are kind of difficult, so I was thinking I'd look them up later...?"
+TP
+
+
+
+//なんですとぅ！？
+WHAAAT'd she SAAAY?!
+//Random tsundere-like. Won't be the last. -GHS
+TP
+
+
+
+//今のデンジャラスワードをインターネットなどでリサーチされたりしたら！！
+She wants to implement the act of Research on these Dangerous Words on the Internet etc.!!!
+//Engrish-y = flat translation -GHS
+TP
+
+
+
+//太一「危ない！　伏せろ！」
+Taichi: "Watch out! Ambush!"
+//Feint. Or is it? -GHS
+TP
+//GS 1 0
+//SEF 109 0
+GL 5 bgcc0000c
+GI 5 1
+//HACK sky at night -GHS
+
+
+//抱き寄せて、電柱の陰に隠れる。
+I embrace her, and we hide behind an utility pole.
+TP
+
+
+
+WVP 0 vfcca0020ysa047
+//遊紗「はらーっ！？」
+Yusa: "Bwha--?!"
+TP
+
+
+
+//太一「静かにしろここは戦場だ」
+Taichi: "Quiet and be still, this is a battlefield."
+TP
+
+
+
+WVP 0 vfcca0020ysa048
+//遊紗「平和な日本の街並みにしか見えないここが、戦場っ！？」
+Yusa: "This place I can't see as anything but a peaceful townscape of Japan is now a battlefield?!"
+//Yeah, she's toootally buying it... -GHS
+TP
+
+
+
+//太一「うむ。今、ソルジャー兵士の殺気を感じた」
+Taichi: "So it is! Just now I felt the blood thirst of a Heishi Soldier!"
+//Simply redundant and Engrishy. Of course, there goes Taichi making up stuff about the identity of people on the streets... -GHS
+TP
+
+
+
+WVP 0 vfcca0020ysa049
+//遊紗「そるじゃー兵士！？」
+Yusa: "But then, it's a soldier?!?"
+TP
+
+
+
+//太一「ＣＩＡかＫＧＢ、あるいはＮ○Ｋという可能性もある」
+Taichi: "From the CIA or the KGB, but there is the possibility of the N*K as well."
+//That may sound like a North Korean espionage agency, but I can't find anything that's more likely than the NHK. -GHS
+TP
+
+
+
+//太一「どれも極めて武力的な諜報機関だ」
+Taichi: "Any of them is an extraordinarily militarized intelligence agency."
+TP
+
+
+
+//太一「特に最後のグループは、極めて凶悪で、民家を急襲して現金を強奪していくというゲリラ的凶行に及ぶことで知られている」
+Taichi: "That last group, in particular, is of a brutality so extreme that it is known for guerrilla-like violence, resorting even to assaulting private homes and pillaging cash."
+//SOMEONE hates public TV. This is only one of many strongly and sorta-explicit anti-government messages. -GHS
+TP
+
+
+
+WVP 0 vfcca0020ysa050
+//遊紗「ひぇぇぇ」
+Yusa: "Hyyy!"
+TP
+
+
+
+//太一「……行ったか。よし、もういいだろう」
+Taichi: "...he's gone. Good, we should be safe now."
+TP
+
+GS 1 0
+GS 5 0
+SEF 109 0
+//道に戻る。
+Back to the street.
+//HACK back to, uhm, the street. -GHS
+TP
+
+
+
+//たまたま通りかかった帰宅中のサラリーマンが、怪訝な顔でこちらを見ていた。
+That salaryman on his way home that we accidentally happened to pass looked at us with doubt on his face.
+//Maybe the guy works for the NHK...? How many times has he done this? This is so Settei-like it's less uncanny and more telling. -GHS
+TP
+
+
+
+//どこからかナイターの中継なども聞こえてきたりして、牧歌的な夜道であった。
+An idyllic journey at night, where one could even hear the relay broadcast of the night's game from somewhere.
+//Should be specifically Baseball. -GHS
+TP
+
+
+
+//太一「すまないね。そんなわけで、君に話した内容は機密情報なんだ。記録すると君の清純ボディが危ない」
+Taichi: "My apologies. As you saw, the subjects I discussed are confidential information. Recording them would be perilous to your innocent body."
+TP
+
+
+
+GL 1 TCDY0004c
+GI 1 1
+WVP 0 vfcca0020ysa051
+//遊紗「な、なんと」
+Yusa: "Wo-, whoa."
+TP
+
+
+
+//太一「すまないが、該当する部分を削除してはもらえまいか？」
+Taichi: "My apologies, but may I ask you to erase the relevant parts?"
+TP
+
+
+//GL 1 TCDY0000c
+GL 1 TCDY0005c
+GI 1 0
+//HACK very worried Yusa -GHS
+
+WVP 0 vfcca0020ysa052
+//遊紗「は、はい、消します、ごめんなさいっ」
+Yusa: "Y-, yes, I will erase, I'm sorry!"
+TP
+
+
+
+//シャーペンの背についてる消しゴムで、こすこすと紙面にリセットをかける。
+And with the eraser attached to the back of the pencil, scrub scrub the page is reset.
+//Specific term. Interesting. -GHS
+TP
+
+
+
+//ああ、汚れのないその消しゴム、使わずにとっておいたのだろうに……。
+Ahhh, that eraser so unsullied, likely kept in reserve unused...
+//SYMBOLISM!!! -GHS
+TP
+
+
+
+//太一「申し訳ない」
+Taichi: "My deepest apologies."
+TP
+
+
+
+GL 1 TCDY0001c
+GI 1 0
+WVP 0 vfcca0020ysa053
+//遊紗「いいんです。わたしが悪いんです」
+Yusa: "It is all right! It is my bad!"
+//She probably means that literally. -GHS
+TP
+GS 1 0
+GS 0 0
+SEF 109 0
+WVS 3 1
+WVS 1 1
+
+
+//胸が痛かった。
+My heart was in pain.
+TP
+
+
+
+//というか、俺が痛かった。
+Or should I say, I was in pain.
+TP
+
+WT 500 0
+
+WT 1000 1
+
+
+
+RET

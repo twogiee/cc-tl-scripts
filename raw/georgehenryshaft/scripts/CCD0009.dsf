@@ -1,0 +1,630 @@
+
+
+GL 0 bgcc0009
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+WVP 1 bgm016.ogg 0 0 0
+
+//適当なところで、休憩することにした。
+At a suitable time, I decided to take a break.
+TP
+
+
+//食堂でサンドイッチを食べる。
+Eating sandwiches in the cafeteria,
+TP
+
+
+//食べながら考える。
+and while eating, thinking.
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+
+
+//一週間の世界。
+> 
+ 
+ 
+> 
+A world of one week.
+TL
+//不思議と抵抗がない。
+Inexplicably, no repulsion.
+TL
+//俺にとっては、ずっと先まで続いている世界より、生きやすいと思うからだ。
+Because as far as I'm concerned, I think it a far
+easier thing to live in than a world that
+continues ahead forever.
+//And here's the reason he likes the loop. How lucky for him that people's relationships never really improve or change, that Japan's been stuck in a decades-long rut, and that no one cares about this open-air prison. -GHS
+TL
+//繰り返される日々。
+Days that repeat over and over again...
+TL
+//ふと考えた。
+Accidentally, a thought,
+TL
+//考えてしまった。
+a damnable thought.
+TP
+
+//幾度となく紡がれる一週間。その中で、全員が和解する可能性はないのか？
+> 
+ 
+The yarn of this one week has been spun so many
+times. Within that, is there no possibility that
+all of us could be reconciled?
+TL
+//放送部八人の結束はバラバラだ。
+The unity of the eight of the Broadcast Club
+is all broken up.
+//Curious same term as used CCD0008E for the antenna. Given Tomoki, likely not a coincidence. -GHS
+TL
+//誰か一人と和解しようと思っても、簡単にはいかない。
+But even if I intend to be reconciled with
+a single person, it isn't going to be simple.
+//These have been the routes so far. -GHS
+TL
+//日記から読み取れたことでもある。
+That is also something I have taken from
+reading the diaries.
+TL
+//もしあるなら。
+Suppose there is a way.
+TL
+//……見てみたい。
+...I want to see it.
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+//GL 1 TCHY0001
+//GI 1 1
+//HACK No doll yet -GHS
+
+
+WVP 0 vfCCD0001you022
+//曜子「はい、お茶を召し上がれ」
+Youko: "Here, tea is served."
+//And speaking of obstacles... -GHS
+TP
+
+
+//太一「……んー」
+Taichi: ...hmmm."
+TP
+
+
+//太一「んっんっんっ……ぷはーっ！　冷たくてうまいな、おかーり」
+Taichi: "gLpgLpgLp... pwaaah! Cold'n'tasty, seconds pleeease!"
+TP
+
+
+//プラスチックのコップを差し出す。
+I hold out a plastic tumbler.
+TP
+
+
+//彼女はコップを受け取ると無言で水筒の中身を注い支倉曜子がそこにいた。
+She who accepts the cup and wordlessly pours the contents of a canteen into it is Hasekura Youko, who was standing there.
+//~realtime monologue~? -GHS
+TP
+
+
+//太一「……気配を消すな」
+Taichi: "...don'tcha erase your presence."
+TP
+
+GL 1 TCHY0000
+GP 1 180 0
+GI 1 1
+//HACK fade doll now -GHS
+
+WVP 0 vfCCD0001you023
+//曜子「どうして？」
+Youko: "Why?"
+TP
+
+
+//太一「いきなりそばに来られると驚くから」
+Taichi: "Because you just suddenly coming to people's side is startling."
+//See CCA0010. -GHS
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you024
+//曜子「別に消してるわけじゃない。自然にそうなるのよ」
+Youko: "There's no particular erasing on my side. It's naturally like that."
+//She's normally a ghost. -GHS
+TP
+
+
+//太一「……唐突に声をかけられたら、誰だって驚くんだ」
+Taichi: "...anyone would be startled at being addressed abruptly."
+//In Youko's bad behavior, he knows what he's doing wrong. -GHS
+TP
+GL 1 TCHY0000
+GI 1 0
+
+
+WVP 0 vfCCD0001you025
+//曜子「油断？」
+Youko: "Off guard?"
+//A reminder that Youko, as we are repeatedly told, does not say more than what's needed to be understood... often by herself alone. -GHS
+TP
+
+
+//太一「いや、油断したいから」
+Taichi: "Yeah, because I wanna be off guard."
+TP
+
+WVP 0 vfCCD0001you026
+//曜子「怠慢？」
+Youko: "Negligent?"
+TP
+
+
+//太一「のんびり生きたいって意味だよ」
+Taichi: "It just means I wanna live more leisurely!"
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you027
+//曜子「……もったいない」
+Youko: "...blasphemy."
+//Religious term because crass channels is a bible games w0p w0p -GHS
+TP
+
+
+//太一「疲れるよ。いつも刺々しく気を張りつめてさ」
+Taichi: "I'm tired. Of always being under this sharp mental strain."
+TP
+GL 1 TCHY0000
+GI 1 0
+
+
+WVP 0 vfCCD0001you028
+//曜子「そういうのを日常化すればいいと思う」
+Youko: "Making that the ordinary would be best, I think.
+//See CCD1001. Interesting. -GHS
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you029
+//曜子「太一のは、ただのさぼり癖」
+Youko: "Taichi simply has the bad habit of playing truant."
+//With the mental strain... perhaps with school. -GHS
+TP
+
+
+//太一「絶交しますよ」
+Taichi: "We will be through, permanently."
+//See CCC4015. And this is how Taichi sees Youko. -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you030
+//曜子「……撤回するわ」
+Youko: "...I withdraw that, yes."
+TP
+
+
+//口論が発生しない。
+No quarrel break outs,
+TP
+
+
+//駆け引きが成立しない。
+no bargaining comes to be,
+TP
+
+
+//トラブルが起こらない。
+no trouble occurs.
+TP
+
+
+//受けるばかりで、何も与えられない。
+Only receiving, never giving.
+TP
+
+
+//心の交流がない。
+There is no reciprocal interchange of the heart.
+TP
+
+
+//太一「自分の一部を、愛でるような感覚なんだよね」
+Taichi: "That feels like you're just loving a part of yourself, you know."
+//NO SHIT. -GHS
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you031
+//曜子「……違う」
+Youko: "...wrong."
+TP
+
+
+//理解ははやい。
+She's quick to understand,
+TP
+
+
+//けど、俺を理解してはくれない。
+yet she lets me have no understanding of myself.
+TP
+
+GL 1 TCHY0002
+GI 1 0
+
+WVP 0 vfCCD0001you032
+//曜子「私は太一を愛でてるだけ」
+Youko: "I just love you, Taichi."
+TP
+
+
+//太一「……ま、そういうことにしとくよ」
+Taichi: "...well, that's what you decided to do."
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//面倒になった。
+This became annoying.
+TP
+
+
+//どうせ何言ってもこたえないし。
+Whatever I say she doesn't answer.
+TP
+
+
+//俺が彼女に対して、効果的な一撃を加えるとしたら。
+What if I were to inflict an effective attack on her?
+//That "if" is no "if", of course, see CCD5001. -GHS
+TP
+
+
+//……一つ。
+...a single solitary one?
+TP
+
+
+//それは小さな刃。
+It would be a tiny blade,
+TP
+
+
+//だが確実に、崩せる。
+but it would certainly be her destruction.
+//The point seems to be that, more than it being 'that' attack that destroys her, ANY successful attack would destroy her. Youko is strong like glass; she keeps pressure like nobody's business, but one good strike and she shatters. She's more Kiri-like that Kiri. -GHS
+TP
+
+
+//曜子ちゃんもその存在を知っている。
+Youko-chan also knows of its existence.
+TP
+
+
+//だから警戒してる。
+That is why she is wary.
+TP
+
+
+//牽制しあいつつ、俺たちは生きている。
+We live by playing a game that keeps us in reciprocal check.
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+
+//太一「まったくなぁ」
+Taichi: "Dammit all."
+TP
+
+
+//パクつく。
+I chug down.
+//The tea she gave him, the sandwiches come below. -GHS
+TP
+WVP 2 SE077 1 0
+
+//くぅ
+Gulp.
+TP
+
+
+
+//曜子「…………」
+Youko: "......"
+TP
+
+
+//太一「……座ったら？」
+Taichi: "...wanna sit?"
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD0001you034
+//曜子「……いいの？」
+Youko: "...may I?"
+TP
+
+
+//太一「ご自由に」
+Taichi: "Feel free to."
+TP
+
+
+//ぴったりと身を寄せてきた。
+She snugly sits next to me.
+TP
+
+
+//二人分あるサンドイッチ、半分放る。
+I toss over half of the double portion of sandwiches.
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD0001you035
+//曜子「ありがとう」
+Youko: "Thank you."
+TP
+
+
+//太一「自分で作ったものでしょ」
+Taichi: "You just did these yourself anyway."
+TP
+
+
+WVP 0 vfCCD0001you036
+//曜子「ええ。ありがとう」
+Youko: "Yes. Thank you."
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+GL 0 zzzYoukoSandwiches
+GS 0 1
+GS 1 0
+SEF 109 0
+//HACK new CG, and a mother of a new dialogue to go with it. -GHS
+
+//……………………
+............
+TP
+WVP 0 vfzzzCCD0009youko1
+//曜子「あじはどう？」
+Youko: "How's the taste?"
+TP
+//太一「うまいよちくしょう」
+Taichi: "It's delicious, dammit."
+TP
+WVP 0 vfzzzCCD0009youko2
+//曜子「そう」
+Youko: "Indeed."
+TP
+WVP 0 vfzzzCCD0009youko3
+//曜子「はい、お茶」
+Youko: "Here, tea."
+TP
+//太一「あいよ……」
+Taichi: "Yeah, yeah..."
+TP
+WVP 0 vfzzzCCD0009youko4
+//曜子「楽しいわね」
+Youko: "This is fun, yes."
+TP
+//太一「そうかなぁ」
+Taichi: "Is it nooow."
+TP
+WVP 0 vfzzzCCD0009youko5
+//曜子「とても」
+Youko: "Very much."
+TP
+//太一「ま、いいけどね」
+Taichi: "Well, but no problem."
+//Empty words, empty verbiage, empty everything. -GHS
+TP
+WVP 0 vfzzzCCD0009youko6
+//曜子「ずっとこんな風に、現象のような在り続けられたらいいのに」
+Youko: "But it would be good if we were to continue existing like this, like a phenomenon."
+//Ahhh, earlier now. See CCD0021 for more. -GHS
+TP
+//太一「現象？」
+Taichi: "Phenomenon?"
+TP
+WVP 0 vfzzzCCD0009youko7
+//曜子「ずっと昔から、思ってた」
+Youko: "Ever since a time, I had a thought."
+//That "mukashi" that so often means "the Hasekura massacre". -GHS
+TP
+WVP 0 vfzzzCCD0009youko8
+//曜子「上を目指せば神に辿り着く。そして神というものは現象だから」
+Youko: "If I aim at the top, I will, eventually, reach God. And then, as God itself is Phenomenon..."
+//This God is a single one and sits at the top, outside of time. At the most skeptical it could be said it's a monotheistic God completely compatible with the Christian one. Basically Youko wants to be God. Not delusional at all! -GHS
+TP
+//太一「？」
+Taichi: "?"
+TP
+WVP 0 vfzzzCCD0009youko9
+//曜子「人はいつか、物理の地平にたどりついて、神を目指すと思う」
+Youko: "People will, someday, finally reach the horizon of physics, and set their aims on God, I think."
+//It's so blatantly insane it almost bears no commenting. Considering the "horizon" (though metaphorical) of physics to be reachable is quite the failure of understanding what she's saying herself. Naturally, if God were to sit outside or above physics, not even reaching this horizon would allow humans to aim for Godhood. -GHS
+TP
+WVP 0 vfzzzCCD0009youko10
+//曜子「そのための手段は、おそらく一つしかない」
+Youko: "The means for that objective are, I would say, only one."
+TP
+//太一「……いやぁ、全然意味わかんないわ」
+Taichi: "...welll, I don't get what you mean at all, no."
+TP
+WVP 0 vfzzzCCD0009youko11
+//曜子「ありとあらゆる法則はそこにあって不変である限り、当初から許容された常識の範疇を出ず、つまり人間がしていることは物理を生み出しているわけではない」
+Youko: "As long as all sorts and all kinds of laws exist in there and remain eternally unchanging, the order of common-sense acts permitted from the beginning is not the outset, in other words, what humans do is not what brings about physics."
+//That's a contorted and twisted way of saying it if I ever saw it. And it supplements, but not entirely gels, with CCD0021's concept of deterministic world made by choices. -GHS
+TP
+WVP 0 vfzzzCCD0009youko12
+//曜子「……許されたことをしているだけ」
+Youko: "...it's only what is allowed."
+TP
+WVP 0 vfzzzCCD0009youko13
+//曜子「そこが上限」
+Youko: "That is the upper limit."
+//"Do what thou wilt is not the whole of the law" is a less confused way of putting it. -GHS
+TP
+//太一「……」
+Taichi: "..."
+TP
+WVP 0 vfzzzCCD0009youko14
+//曜子「よって神になるための選択肢は、全知全能というベクトルにはない」
+Youko: "Thus, the choice to become God does not exist on the vector of omnipotence and omniscience."
+//That means you can't study yourself to Godhood, ergo God exists outside or at least beyond the ground rules of the universe. She's contradicting herself: that means humanity cannot reach this horizon of physics or set their aims on God, ever. Perhaps she thinks that's all she can do with the limited time given to her? -GHS
+TP
+WVP 0 vfzzzCCD0009youko15
+//曜子「現象化するしかない、という結論」
+Youko: "Phenomenization and nothing else, that is the conclusion."
+//This would make more sense if she defined what she means with the damn word in ways specific and understandable. CCD0021 is only vaguely clearer; best I can tell, she's talking about staying as a single point in history, ever unchanging. If my theory is correct, and the Cross World and its time loop are exclusively metaphorical, then Phenomenization is actually not possible and any attempt must be hallucination. Even then it fails: look at how leaky Taichi's 98 Game is, just this route. Even if phenomenization *appears* to be permitted, it's no more so than the flight that exists when one jumps off a building: it lasts only until the bottom is reached. -GHS
+TP
+//太一「……んー」
+Taichi: "...hmmm."
+TP
+//太一「えー、あー……」
+Taichi: "Ehhh, ahhh..."
+//More Western-style filler words, see CCC4025. -GHS
+TP
+//さっぱしわからん。
+I totally don't get this.
+TP
+WVP 0 vfzzzCCD0009youko16
+//曜子「二人で、ね」
+Youko: "Just the two of us, right?"
+//The problems begin if Youko takes Taichi's game seriously. Always easier if she doesn't exist and is merely the side of him that holds on to the game most desperately, but... -GHS
+TP
+//優しい微笑み、口元についてハムのかけらをついばんだ。
+Smiling gently, she pecked at a piece of ham that had stuck to the edge of the mouth.
+//With her superlong tongue, the damn chameleon. -GHS
+TP
+//太一「……ん」
+Taichi: "...hmmm."
+TP
+WVP 0 vfzzzCCD0009youko17
+//曜子「他者との相互完全理解、群体化という発想、新しいステージへの移行」
+Youko: "Perfect reciprocal understanding of others, this idea of becoming as a colony, moving to a new Stage."
+//Colony as in biology. More Stage stuff, see CCD5001 as well (for what sense THAT one makes). I think she means an even bigger codependency than the Alter Ego thing, which itself was impossible, so it's more nonsense. Either that, or as I suspect, the Stage is Taichi's chuuni. All the world's that. -GHS
+TP
+WVP 0 vfzzzCCD0009youko18
+//曜子「けど……虚しいでしょう？」
+Youko: "But... it's hollow, isn't it?"
+TP
+//太一「……どうだろうね」
+Taichi: "...isn't it now."
+//He's as confused as the reader should be. -GHS
+TP
+WVP 0 vfzzzCCD0009youko19
+//曜子「たとえ世界中の人間を接続できたとしても……神は生まれない」
+Youko: "Suppose all humans throughout the world were to connect... even that would not create a god."
+//Sometimes I can't tell when a character is rambling and when Tanaka is. Anyway, no gods from this hypothetical Perfect Connection Sorta-Collective Unconscious(?) Machine. -GHS
+TP
+WVP 0 vfzzzCCD0009youko20
+//曜子「ヒトはそれで助かるかも知れないけれど……」
+Youko: "But that may just be what saves these 'people', perhaps..."
+//No gods from the connection, but perhaps a better humanity. Still sorta Collective Unconscious. -GHS
+TP
+WVP 0 vfzzzCCD0009youko21
+//曜子「私は太一がいてくれたら、それでいいから」
+Youko: "Because as long as Taichi is there for me, I will be fine."
+TP
+//太一「ま、光栄ですけどね……」
+Taichi: "Well, it's an honor, but, yeah..."
+TP
+
+//Whew, done! -GHS
+
+
+
+
+
+
+//こんな交流。いくら重ねたって。
+Interchanges like this... however many we may repeat,
+TP
+
+
+//ただ形をなぞっているだけだ。
+it is simply the mere tracing of the outline.
+//NOW this makes sense. The above was just Youko rambling on incomprehensible, implausible and contradictory garbage without a glance at whether Taichi understands a word. This, at least, is very telling of their relationship. -GHS
+TP
+
+
+//それは……俺もか。
+And is that... what I do as well?
+//Indeed, and it definitely shows who he learned it from. In fact, him describing his talks of this sort as "playing like a tape recorder" (see CCB0005) makes an interesting parallel with his rambles and his "conversations" with Nanaka. -GHS
+TP
+
+
+//太一「まあ、なんとかなるよな……」
+Taichi: "Well, somehow we'll manage..."
+TP
+
+WVS 1 1
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 152 0
+//……………………。
+............
+TP
+
+
+//…………。
+......
+TP
+
+
+//……。
+...
+TP
+
+
+
+
+RET

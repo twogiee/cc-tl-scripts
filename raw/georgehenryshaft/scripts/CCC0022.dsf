@@ -1,0 +1,438 @@
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+WT 500 0
+
+//扉を押し開ける。
+I push the door open.
+TP
+
+//抵抗があった。
+There was opposition,
+TP
+
+//向こう側から押さえられている。
+a push back from the opposite side.
+TP
+WVP 2 se044 1 0
+
+//強く押す。
+I push with strength.
+TP
+
+//扉の向こうで、小さな乱気流が霧散した。
+On the other side of the door, a tiny bit of foggy turbolence dispersed.
+//霧 -GHS
+TP
+
+//風だったのだ。
+It was the wind.
+TP
+
+
+WVP 1 bgm015.ogg 0 0 0
+
+WVP 2 se009 1 0
+
+GL 1 efcc0000
+GL 0 bgcc0007 1 0
+GP 1 0 0
+GI 1 0
+GI 0 0
+GO 1 1
+
+//アンテナ。
+An antenna.
+TP
+WVP 3 se010 0 0
+
+//それなりに形になっている。
+That's what it's acquiring the shape of.
+TP
+
+//指向性や波長など、いろいろな調整が必要だ。
+Directionality and wavelength and more, all sorts of tuning is required.
+//See CCA0029 -GHS
+TP
+
+//が、そういう知識は俺にはない。
+However, I am not an expert on any of those things.
+//PCP CCA0006
+TP
+
+//先輩も詳しくはなかったが、勉強したらしい。
+Senpai also wasn't particularly well-informed, but she seemed to be studying diligently.
+//He just said he barely even remembers! And it doesn't matter since he read the diary, so he should know she can put this together. -GHS
+TP
+
+GL 0 zzzrooftopzoom
+GI 0 1
+//HACK zoom rooftop -GHS
+
+//その先輩だが……いない。
+And that Senpai... is not here.
+TP
+
+//工具。
+Tools,
+TP
+
+//脚立。
+stepladder,
+TP
+
+//書物。
+books,
+TP
+
+//風で飛び散った、菓子パンの空袋。
+empty packets of sweet bread, scattered around by the wind.
+//See CCX0001. Ah, she likes the sweet things because Still a Child then? -GHS
+TP
+
+//作業をしていた痕跡だけが残されている。
+All that is left behind are the vestiges of fatigue work.
+TP
+
+//２４時間作業しているわけでもないのか。
+She hasn't even worked for 24 hours after all.
+TP
+
+//アンテナを見あげた。
+I look up at the antenna.
+TP
+
+//周囲が開けていて、背の高い建物。
+The surroundings are open, the building is tall.
+//Except for the mountains that look taller than the antenna. Not that it matters. -GHS
+TP
+
+//電波を飛ばすには、うってつけの環境らしい。
+This seems an ideal environment to make electromagnetic waves fly out.
+TP
+
+//コミュニティＦＭという、地域密着型のラジオ放送がある。
+A Community FM, to clarify, is a local-based radio broadcast.
+TP
+
+//本来、学校の部活でやるほど敷居の低いものでもない。
+By nature, this is not something at the low threshold of the accomplishments achievable in a school club.
+TP
+
+//が。
+But.
+TP
+
+//立地と、群青学院のなりたちと、地元有志の善意溢れる意向。
+The location, the purpose of Gunjou Institute, the ideas of local volunteers overflowing with good intentions:
+TP
+
+//そういったものが、今回の話に結びついた。
+all those things join together into this here.
+TP
+
+//準備が進められていたが、とあるやむを得ない事件によって、うやむやになっていた。
+The assembly was proceeding, but, because of a certain inevitable incident, it was all left incomplete.
+//He could be meaning that the incident couldn't be overlooked or anything else... but Taichi telling Yutaka to kill himself wasn't avoidable in the slightest. It was simply fate. It is also where the end for the Broadcast Club was first really visible, and for those who haven't paid attention yet, the inevitability of downfall of the status quo is kinda an important thing here. -GHS
+TP
+
+//搬入されたアンテナは、一年、そのまま放置されることになった。
+This antenna had been brought in and, for a year, left in this condition.
+TP
+
+//そんな事情があるのだった。
+Those were the circumstances and the reasons for this.
+TP
+
+//おそらくＦＭ群青に求められていたものは、健気に生きる少年少女たちの希望に満ちた愛コンテンツ、だったのだろうけど。
+Perhaps the item boldly demanded of the Gunjou FM had, as contents, a love filled with the aspirations of brave boys and girls, but,
+//See CCA0015B (keeping some terms consistent) -GHS
+TP
+
+//ごめん、そんなものは群青にはありません。
+sorry, that's something that doesn't exist in Gunjou.
+TP
+
+//結果オーライだと言える。
+It could be said it turned out awright in the end.
+//Some lines I really don't know if Tanaka's trolling or just trying too hard. -GHS
+TP
+
+//見里先輩は、ＳＯＳ計画を立てた。
+Misato-senpai started her SOS Project.
+//計画 -GHS
+TP
+
+//日曜の夜に彼女はそう言った。
+She said she would on the night of Sunday,
+TP
+
+//人類が消失してしまったことを、手分けして確認してからだ。
+after we had split up and verified that mankind had completely vanished.
+TP
+
+//高所にアンテナがあるのだから、完成させて発信してみようという試みは……いかにも現実味が乏しい。
+Because of the heights involved in the antenna, trying to complete it and attempting to send out a transmission... are actions that manifest an exceedingly scarce sense for the materially possible.
+//Curious that no one here is acrophobic... but I doubt that's meaningful. -GHS
+TP
+
+//正直、先輩はほつれてしまった、と思った。
+Honestly, I thought Senpai had just become frayed.
+//Recurring term for diving into one's ultramarine -GHS
+TP
+
+//逃避は次第に人を弱くする。
+Flight gradually makes a person weak.
+TP
+
+//そして先輩はもともと十分に弱かった。
+And Senpai was more than weak enough from the start.
+TP
+
+
+WVP 0 vfCCC0022msa000
+//見里「ぺけくん？」
+Misato: "Peke-kun?"
+TP
+
+//背後。
+From behind.
+TP
+
+//向き直る。
+I turn around.
+TP
+
+//太一「はろーです。先輩」
+Taichi: "Hullo, Senpai."
+//OHAROO GOZAIMASU -GHS
+TP
+GL 1 TCMM0021
+GP 1 225 0
+GI 1 1
+
+WVP 0 vfCCC0022msa001
+//見里「はろーです……えーと、どうしました？」
+Misato: "Hullo then... uhm, what do you need?"
+TP
+
+//太一「様子を見に来ました」
+Taichi: "I came to see how things are."
+TP
+
+GL 1 TCMM0002
+GI 1 0
+//HACK earlier doll -GHS
+
+//先輩はふんにゃりと微笑む。
+Senpai makes a fluffy and enervated smile.
+TP
+
+
+WVP 0 vfCCC0022msa002
+//見里「そうでしたか」
+Misato: "So you did."
+TP
+
+//太一「しばらく来てなかったんですけど、だいぶできてますね」
+Taichi: "I did not come in for a while, but still this is some considerable progress."
+TP
+
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfCCC0022msa003
+//見里「けっこう前からコツコツとやってますから」
+Misato: "I have been doing things like this steadily and diligently for quite a while."
+//Both the antenna and being on her own. Interesting continuing implications that was working on the antenna long before the training camp as well. -GHS
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+//そう。
+True.
+TP
+
+//放送部が自然崩壊してからこっち。
+Since the natural downfall of the Broadcast Club to now,
+//Title of Week 2. -GHS
+TP
+
+//先輩は一人ですべてをこなしていた。
+Senpai has been doing everything all alone.
+TP
+
+//昼休みのＤＪ。
+Manning the intrascholastic radio on lunch break,
+TP
+
+//各種放送。
+with broadcasts of all sorts.
+TP
+
+//すべて。
+Everything.
+TP
+
+//誰も手伝わなくなった。
+There was no longer any help from anyone.
+TP
+
+//霧は俺を敵視するようになり、
+Kiri came to see me as an enemy,
+TP
+
+//友貴は姉を避けるようになり、
+Tomoki came to avoid his sister,
+TP
+
+//美希はおろおろと苦笑い、
+Miki made forced nervous smiles,
+TP
+
+//冬子も俺を無視しはじめ、
+Touko also began to ignore me.
+TP
+
+//見事、瓦解。
+A collapse, a magnificent one.
+TP
+
+//桜庭だけがいつもと変わりなかった。
+Sakuraba alone never changed from his always.
+TP
+
+//変わりなく、サボっていた。
+And, unchangingly, he cut club.
+TP
+
+//俺はそれでも先輩の周囲をうろちょろしていたけど。
+I nevertheless hung around Senpai, but,
+TP
+
+//彼女の方が、手伝いを拒んだ。
+it was her who refused assistance.
+//heee heee ass -GHS
+TP
+
+GO 5 1
+//HACK restore screen -GHS
+
+//太一「……そうでしたね」
+Taichi: "...so you did."
+//Similar to her own filler words, this one seems contrast-y enough to be worth pointing out. -GHS
+TP
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfCCC0022msa004
+//見里「びっくりしましたねぇ、それにしても」
+Misato: "This was surprising, all things considered."
+TP
+
+//太一「ですなー」
+Taichi: "Really now."
+TP
+
+WVP 0 vfCCC0022msa005
+//見里「人が一斉にいなくなるなんて」
+Misato: "People vanished, and all at once."
+//I.e. there's a surprise among a surprise, ergo her previous line. -GHS
+TP
+
+//太一「静かですよね」
+Taichi: "So quiet, is it not?"
+TP
+
+GL 1 TCMM0003
+GI 1 0
+WVP 0 vfCCC0022msa006
+//見里「すごくすごく静かです」
+Misato: "Very but very quiet it is."
+//We should be hunting wabbits perchanche. -GHS
+TP
+
+//太一「どこ行ってたんです？」
+Taichi: "Where did you just go?"
+TP
+
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfCCC0022msa007
+//見里「ちょっと……おなかがすいたので」
+Misato: "Well... I was a bit hungry, so."
+TP
+
+//太一「昼ですしね。うまく食料見つけられました？」
+Taichi: "This is noon. Were you able to find food without problems?"
+TP
+
+WVP 0 vfCCC0022msa008
+//見里「ああ、家に戻ってました。食べ物は特に不自由してないですし」
+Misato: "Ahhh, I had to go back home. I have no particular shortage of food."
+TP
+
+//太一「あー、学校サボリー。部長がさぼりー」
+Taichi: "Aaah, you cut schooool. Prez is a cutteeer!"
+TP
+GL 1 TCMM0004
+GI 1 0
+WVP 0 vfCCC0022msa009
+//見里「ち、違いますよっ、これはさぼりではありませんっ」
+Misato: "N-, not true!, this is not cutting at all!"
+TP
+
+//焦る。
+Flustered,
+TP
+
+//規則重視の人なのだ。
+because she is a person that stresses regulations.
+TP
+
+//太一「停学、停学です」
+Taichi: "Suspension, there will be a suspension!"
+//PCP CCA0002
+TP
+
+GL 1 TCMM0005
+GI 1 0
+WVP 0 vfCCC0022msa010
+//見里「停学はいやー、履歴に傷がー」
+Misato: "Suspension is baaad, it will stain my recooord!"
+TP
+
+//太一「停学！　停学！」
+Taichi: "Suspension! Suspension!"
+TP
+
+//GL 1 TCMM0000
+//GI 1 0
+//HACK no change in doll -GHS
+
+WVP 0 vfCCC0022msa011
+//見里「停学はだめですー」
+Misato: "Suspension is unacceptableee!"
+TP
+
+GL 5 bgcc0000a
+GI 5 1
+//HACK sky -GHS
+
+//二人ではしゃいでいた。
+We made merry with the two of us.
+//bout time there was some frolickin'. -GHS
+TP
+
+//これが今の俺たちの、最短距離だった。
+That was the shortest of distances for us as we are now.
+TP
+
+
+
+WVS 3 1
+WVS 1 1
+
+RET

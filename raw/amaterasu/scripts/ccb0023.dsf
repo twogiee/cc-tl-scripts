@@ -1,0 +1,217 @@
+GL 5 efcc0003
+GI 5 0
+SEF 109 0
+//Again, you must see the backgrounds. Fortunately this one's simple; just the previous one with a layer of red over it.
+
+
+WVS 1 0
+
+It felt like my body had been pushed into the ground with a thud.
+TP
+
+Taichi: "......nn."
+TP
+
+'That's right,' I thought.
+TP
+
+I came to a strange understanding.
+TP
+
+One arrow piercing through my own chest.
+TP
+
+That's right.
+TP
+
+That's right, that's right.
+TP
+
+I must have moved.
+TP
+
+So Kiri shot me.
+TP
+
+It was actually easy to understand.
+TP
+
+*****: "**************---!?"
+TP
+
+WVP 1 bgm021.ogg 0 0 0
+
+
+
+Who is that?
+TP
+
+I wonder who's worrying about me?
+TP
+
+Maybe Sempai?
+TP
+
+Maybe Touko?
+TP
+
+Maybe Miki?
+TP
+
+If it's Sakuraba or Tomoki......that'd be painful...
+TP
+
+Sorry, I'm going to die.
+TP
+
+I wasn't able to keep......the vow of the peach park......
+TP
+
+Well, I'd actually broken it a long time ago.
+TP
+
+Hahaha.
+TP
+
+Hahahaha.
+TP
+
+I wanted to laugh but I had no voice.
+TP
+
+From my chest, a hazy pressure welled up.
+TP
+
+Looking at my chest, I saw that the blood I'd thrown up had flowed down to my feet.
+TP
+
+This is a big deal.
+TP
+
+Shit, I'm really going to die.
+TP
+
+I don't want to die...
+TP
+
+I really, really want to live.
+TP
+
+I want to do a lot of perverted things, and watch television, even see the conclusions of several serialized manga. 
+//I'm pretty sure 'manga' is both singular and plural. - Sheeta
+//Too many "and"s but it sounded so wrong when I deleted one so I changed it to "even."-Spin
+TP
+
+No...I don't wanna die...
+TP
+
+Aaah, but I'm a young adult candidate, so I wonder if I can bring myself back to life with some magical power.
+TP
+
+A pretty girl will cling on to my remains, letting her tears fall, and when those drops touch me they'll sparkle brightly for a moment and resurrect me.
+TP
+
+That'd be emotional.
+TP
+
+Then, for now I guess I'll try to meet my death with some kind of gag.
+TP
+
+It's a cool thing for a guy to do.
+TP
+
+I can't talk, and I can't move most of my body......so I can't do anything that flashy.
+TP
+
+Hey, I can't do a damn thing.
+TP
+
+Uwaa, am I going to die like this!? I can't stand it!
+TP
+
+Someone please drop a washtub on my head!!
+TP
+
+Give me...give me a laugh!
+TP
+
+Dowaa, blood is horrible!
+TP
+
+It's even wider than before. The whole surface is bloody.
+TP
+
+For this much blood to flow out of one human......there must be a lot in them.
+TP
+
+Everything was red.
+TP
+
+If I can still recognize color, then I'm still me.
+TP
+
+Had I ÅwreturnedÅx by the skin of my teeth?
+TP
+
+Yes.
+TP
+
+It's a good thing.
+TP
+
+Suddenly, sensation returned to me above the neck.
+TP
+
+It's probably temporary.
+TP
+
+The shock is restoring muscles in every part of my body.
+TP
+
+......although it won't last that long.
+TP
+
+My consciousness was already dim.
+TP
+
+My breathing was already unnaturally short and shallow.
+TP
+
+I couldn't even tell if I was in pain.
+TP
+
+When I looked up...
+//Switch to evcc0026
+TP
+GL 0 evcc0026
+$CGevcc0026 = 1
+GS 5 0
+GS 1 0
+GS 0 1
+SEF 109 0
+
+
+The red had expanded without end.
+TP
+
+
+......'Not bad,' I thought.
+//I'm assumed Taichi's last word is referring to Youko-chan's handling of the situation, and adapted it accordingly. Å`IX
+TP
+
+WVS 1 1
+
+
+At that moment, I died.
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+WT 1000 0
+WT 2000 1
+
+CALL ndemo0002
+
+WT 1000 1
+
+RET

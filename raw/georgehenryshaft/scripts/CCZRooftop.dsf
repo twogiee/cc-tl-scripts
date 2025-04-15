@@ -1,0 +1,894 @@
+
+
+//According to the Materials Book, this was published in P-Mate in the August 2003 issue, meaning at least a month before game release, and possibly simultaneously with the updated "Deus Ex Chaos" trial edition, see CCZDXC. This is fairly obviously a deleted flashback that has been revised to read as a short story; at times, it reads blatantly first person.
+//There's multiple reasons for the cut that I see. The scene serves little real purpose outside seeing the characters have a drink and chat about nothing. Miki and Kiri's joining has big impacts in CCC3004, and having it again here is pointless. The characterizations are off: Misato and Touko, in particular, are rather off character, and Taichi just ignoring Kiri's antics even more so. Maybe preliminary, maybe troll.
+//There's at least two positives with keeping this in the VN: one, it clarifies a certain line in CCA0013, hinting that what Taichi wanted in there wasn't "juice" but alcohol; two, it explicitly describes Taichi as a 'dagger', clarifying another interpretation for the † symbol, as well as a line in CCX0001 - when he stops being this 'dagger'.
+//This scene wasn't reinserted or reused in any version, and therefore doesn't have associated voices. The fanmade reimplementation was sort of heavy-handed with its effects at times, so I edited it even heavily in parts. In particular, I removed the voices as they sound off when the rest is silent, and added graphics from the original text version. Still, credit to whoever did it! -GHS
+
+WVP 3 se001 0 0 1
+GL 0 bgcc0000a
+GS 0 1
+SEF 109 2
+
+WVP 1 bgm002.ogg 0 0 0
+
+//屋上を風が駆け抜ける。
+The rooftop is swept by the wind.
+WVP 2 SE009 1 1 0
+TP
+
+
+//強い。圧力のある風だ。
+It's strong. It's a wind with pressure.
+TP
+//自殺ならびに落下事故防止用の頑丈なフェンスは、それでも微動だにしない。
+Yet the firm fence for suicide prevention, and prevention of falls as well, does not so much as quiver in it.
+//Not even that one part...? -GHS
+TP
+//網目からは景観。
+It's a view through a mesh pattern.
+TP
+//遠く、片雲さえない紺青の画布に、なまめかしい曲線を描く尾根。
+From far away, in this canvas of navy blue with nary a speck of a cloud, ridges depict captivating curves.
+TP
+//黒須太一は景色に射竦められ佇んでいた。
+Kurosu Taichi was standing, still, pinned down in awe by the sight.
+//Wonder if his mountain pass gaze is just a gaze from here. -GHS
+TP
+//白髪の少年だ。
+He's a boy with white hair,
+TP
+//だが染めている風ではない。
+but it's not because he dyes it.
+TP
+//筋張った体つきは、異様に細く見える。
+His brawny build looks strangely slender.
+TP
+//痩せているというより、とぎすまされた体つきである。
+More than slimmed, his body looks like it has been sharpened, made keen.
+TP
+//一振りの、短剣のように―――
+Just like he was one, living, dagger---
+//† -GHS
+TP
+
+WVP 2 SE044 1 0
+
+//やがて背後で鉄扉が開く音を、その耳がとらえる。
+Before long, his ears catch the sound of the iron door opening behind his back.
+TP
+
+GL 0 zzzASrooftopNoA
+//This is well before the Antenna. How fortunate, then! -GHS
+GS 0 1
+SEF 109 0
+
+
+//太一「よー」
+Taichi: "Yoh."
+TP
+//声をかけた。
+He called out.
+TP
+
+GL 1 tcsh0000
+GP 1 10 0
+GS 1 1
+GL 2 tcst0000
+GP 2 330 0
+GS 2 1
+SEF 109 0
+
+//友貴と桜庭だった。
+It was Tomoki and Sakuraba,
+TP
+//太一の悪友だ。
+Taichi's partners in crime.
+//Same term as in CCZAS, though it's never used in the main VN. -GHS
+TP
+//太一「して、ブツは？」
+Taichi: "Got them, the 'goods'?"
+//The implication is that he went to eg Tasaki to procure them. But since this is supposed to be class hours, where exactly did he find it? Well, maybe he just brought them from home. Maybe, even, from the same place Misato gets 'em. -GHS
+TP
+
+GL 1 TCSH0001
+GI 1 0
+
+//桜庭「ここにある」
+Sakuraba: "It's in here."
+TP
+//桜庭が前に出た。
+Sakuraba came forwards,
+TP
+//毅然とした声色。
+voice firm and resolute.
+TP
+//外見も三人の中で一番大人びている。
+Even from the outwards he was the most grown-up of the three.
+//This sounds like a troll (Sakuraba grown up???), but then again, he did procure alcoholics while underage. But because of Curry*, he is still the most adult.
+//*=Curry--- Tanakan for Christianity. -GHS
+TP
+//桜庭「この大事な場所にな」
+Sakuraba: "They're in this very precious place."
+//Very ambiguouhis balls. -GHS
+TP
+
+GL 1 tcsh0002
+GI 1 0
+
+//精悍な少年は、精悍な股間に精悍に手を突っ込んだ。
+The intrepid boy intrepidly thrust a hand in his intrepid nethers.
+//But does he do so intrepi-- yeah, actually, he does. But his hand isn't intrepid, isn't it! -GHS
+TP
+
+WVS 1 0
+GL 2 tcst0001
+GI 2 0
+
+//太一と友貴の表情が凍てついた。
+Taichi and Tomoki's faces froze.
+//Tomoki wasn't with him during procurement, then? -GHS
+TP
+
+//桜庭の手が陰部のあたりをまさぐる。
+Sakuraba's hand gropes around the genitals.
+TP
+
+GL 1 TCSH0001
+GI 1 0
+
+//桜庭「ん……よし、つかんだ」
+Sakuraba: "Ngh... right, got it."
+TP
+//何をだ。
+But what,
+TP
+//そんな詰問をしたい気分に、傍観者の二人は包まれていた。
+is the question that the two bystanders possess a will to ask.
+TP
+//やがて手が引き戻される。
+Eventually, the hand returns back.
+TP
+
+GL 1 tcsh0003
+GI 1 0
+
+//桜庭「そら、出るぞ」
+Sakuraba: "There, it's out."
+TP
+//何がだ。
+But what?!,
+TP
+//そんな詰問をしたい気分に、傍観者の二人は引き続き包まれていた。
+is the question that the two bystanders once more possess a will to ask.
+//PCP above
+TP
+//出てきたのは酒瓶。
+What came out was a bottle of sake.
+//One, because what Sakuraba's whipped out of his pants' gotta be pretty big that the rest can share of its precious liquid contents. -GHS
+TP
+
+WVP 1 bgm010.ogg 0 0 0
+GL 1 tcsh0001
+GI 1 0
+
+//桜庭「大吟醸、美少女。どうだ」
+Sakuraba: "Daiginjo, 'Battle Mania'. How's that."
+//Says "daiginjo" (high-quality sake) plus "pretty girl". The two together lead to Battle Mania 2: Daiginjou, with no other leads. Game seems to be pretty famous, though. Doesn't google to the sake with the final 'u', but both terms together lead to BM2, so adapted to this. -GHS
+TP
+
+GL 2 TCST0003
+GI 2 0
+
+
+//太一「死ね」
+//友貴「死ね」
+Taichi: "Die."
+Tomoki: "Die."
+TP
+
+WVP 2 SE003 1 0
+GL 1 tcsh0002
+GI 1 0
+GP 1 -5 15
+GI 1 0
+GP 1 10 30
+GI 1 0
+GP 1 25 15
+GI 1 0
+GP 1 10 0
+GI 1 0
+
+//SEF 101 0
+
+
+//声が重なり、蹴りも重なった。
+Voices overlapped, and kicks also overlapped.
+TP
+GO 1 1
+
+//桜庭は低く呻いてうずくまる。
+Sakuraba squatted with a lowering groan.
+TP
+
+GL 2 TCST0001
+GP 2 190 0
+GS 2 1
+SEF 109 0
+
+
+//友貴「あーあ」
+Tomoki: "Ahhh, ahhh..."
+TP
+//友貴は汚物を扱う手つきでこわごわと拾う。
+Tomoki fearfully recovers the item, using his hands as if forced to touch something filthy.
+TP
+//消毒が必要だ。
+Sterilization is needed.
+TP
+WVS 1 1
+//太一はため息をついた。
+Taichi heaved a sigh.
+TP
+
+GS 0 0
+GS 1 0
+GS 2 0
+SEF 155 1
+
+WT 500 0
+
+WVP 1 bgm002.ogg 0 0 0
+GL 0 zzzASrooftopNoA
+GS 0 1
+SEF 155 1
+
+//手近な場所で、三人は車座に。
+The three sit in a circle in a spot nearby.
+TP
+
+GL 4 zzzdrink3Drunks
+GP 4 0 0
+GI 4 4
+//These were made as official illustrations for the short story in the magazine this was published in, and still exist in a (not exactly super-high-res) wallpaper that's still around the 'net. Cut 'em and slapped them in. Curiously, there's evidence this specific one actually used to be a CG that was merely cut along with the scene: when Tomoki comes up in the ending (even this new one), the right part of the rough sketch of this is in the background. -GHS
+
+WVP 2 SE045 1 0
+
+//酒宴である。
+It's a drinking bout,
+TP
+//しめしあって、授業を早引けしての酒盛り。
+a prearranged merrymaking with alcohol after leaving classes too early.
+//No bizarrely giant bandit bosses around though, see CCA0022. -GHS
+TP
+//太一「巨乳につぐ巨乳、ニプルにつぐニプルが俺を―――」
+"Big boob after big boob, nipple after nipple, and I---"
+//These are untagged in the original, as all are, and some of the tags are obviously wrong. I suspect they're fragments, so leaving this as untagged. This may be Taichi or Sakuraba. -GHS
+TL
+//友貴「その水着ってのがさぁ、また面積が小さくて―――」
+"That swimsuit, damn, that surface area's so small and---"
+//This may be Tomoki or Sakuraba. -GHS
+TL
+//桜庭「ネット通販でブルマを買おうとすると１万円以上する昨今―――」
+"These days when you go to buy some Buruma mail order off the 'net, and gotta pay over 10.000 yen---"
+//This is obviously Taichi, see CCC3012B, I doubt Tomoki can afford them or Sakuraba would care for the price. -GHS
+TP
+//男の酒盛りなんてこんなものである。
+This is how a drinking bout among men will be.
+TP
+//酒は進む。
+The alcohol flows on.
+TP
+//太一「誓いの日をおぼえてるか、友貴、桜庭」
+Taichi: "You remember that day of the Vow, right, Tomoki, Sakuraba?"
+//See CCD0001 -GHS
+TP
+
+GL 0 bgcc0000a
+GS 0 1
+GS 4 0
+SEF 109 0
+
+//太一はそよぐ風に洗われた青空を見あげた。
+Taichi raised his eyes to this sky, awash as it was in the fluttering wind.
+TP
+//爽やかなブルー。
+A refreshing blue.
+TP
+//友貴「ああ……こんな日だったね」
+Tomoki: "Yeah... it was a day like this, wasn't it."
+TP
+//桜庭「忘れるはずがない」
+Sakuraba: "Forgetting'd be preposterous."
+TP
+//三人は穏やかに微笑した。
+The three smiled gently.
+TP
+//そう。それは大切な思い出。
+Right. That is a precious memory.
+TP
+//当時を再現するかの如く、みっつの手を重ねた。
+As if to replicate that very time, three hands overlapped.
+//PCP CCD0001
+TP
+
+//三人「我ら生まれた日は違えども、（童貞と学校）卒業する時は同じ日、同じ時を願わん」
+Trio: "Although we have been born on a different day, we merely wish to graduate (from virginity and school) on the same day and the same time."
+//CP CCD0001 -GHS
+TP
+//桃園の誓いと呼ばれている。
+They called it The Oath of the Peach Garden,
+TP
+//ピーチランドという特殊高級浴場があるのだった。
+because of the special high-class public bath-house called PeachLand.
+//This explains an odd line in CCD0001. Wonder if this used to be that scene before it was cut down and/or maybe expanded to contain the rest. -GHS
+TP
+//きらめくほどに馬鹿だった。
+It was so stupid it could just sparkle.
+//PCP CCC3020
+TP
+//友貴「僕、もう相手は決めてある」
+Tomoki: "Me, I've already picked who with."
+TP
+
+GL 0 zzzASrooftopNoA
+GS 0 1
+GS 4 1
+SEF 109 0
+
+//太一「誰？」
+Taichi: "Who?"
+TP
+
+//友貴「ゆみこちゃん」
+Tomoki: "Yumiko-chan."
+TP
+
+
+//有名ソープ嬢。
+A famous Soapland "employee"
+//As with "massage parlor", that's not scare quotes, it's actually part of the name. May be a manga/anime reference, but there's too little to go on. -GHS
+TP
+
+WVS 1 1
+//太一「あー、あーっ、駄目！ゆみこちゃんは俺が指名するの！」
+Taichi: "Ahhh, ahhh!, you can't! Yumiko-chan is who I nominate, yes!"
+TP
+WVP 1 bgm010.ogg 0 0 0
+
+//太一は両手をバタバタと振る。
+Taichi wildly flaps his hands around.
+//Regression to child. -GHS
+TP
+
+//桜庭「オレは……ゆみこちゃんかな」
+Sakuraba: "Me... maybe Yumiko-chan."
+TP
+//太一「かちあってんじゃん！」
+Tomoki: "This's a conflict here!"
+//This sounds more Tomoki-sh to me. -GHS
+TP
+//太一「おまえ別の娘にしろよ！」
+Taichi: "You go pick a different girl!"
+TP
+
+GO 4 4
+WT 250 0
+GL 4 zzzdrinkAyaka
+GI 4 4
+//clone stamps hiragana away -> pencil -> "Ayaka-chan" -> zooms out -> CTRL+Z many times -> google "handwritten font" -GHS
+
+//友貴「僕は清楚系が好きなの。太一と桜庭はそうだな……いつも巨乳巨乳言ってるんだからあやかちゃんとか指名すればいいだろ」
+Tomoki: "I like 'em neat and clean. You and Taichi... you're always going on about big boobs here and big boobs there, so you should go pick Ayaka-chan, Sakuraba."
+//He likes 'em neat and clean, like his sister... and he's in denial about boobs. -GHS
+TP
+
+//桜庭「ダメだ。オレは巨乳は困る」
+Sakuraba: "No good. Big boobs bother me."
+TP
+//友貴「なんで？」
+Tomoki: "Why even?"
+TP
+//桜庭「胸が激しく揺れているのを見てると、突然意識がなくなるからだ」
+Sakuraba: "Because when I see a chest swaying tempestuously, all of a sudden my awareness vanishes."
+//See Taichi. -GHS
+TP
+//太一「乳輪催眠にかかってるんだよきっと」
+Taichi: "You're susceptible to Mammarian Hypnotism, definitely."
+//That's one rape nukige subgenre I didn't find... -GHS
+TP
+//太一はよく特定局面専用造語をでっちあげて適当なことを言う。
+So appropriately said Taichi, making up a Special Situational Use Only Neologism as he often does.
+TP
+//友貴「……キミら馬鹿すぎ」
+Tomoki: "...you two are way too dumb."
+TP
+//必然、友貴はツッコミ係になることが多い。
+It's often a necessity for Tomoki to take the Straight-Man role.
+TP
+
+//太一「とにかく俺がゆみこちゃんなのっ」
+Taichi: "Whatever, me's with Yumiko-chan, yes and yes!"
+//Sooo girly. -GHS
+TP
+
+GO 4 1
+WT 250 0
+GL 1 tcsh0003
+GP 1 10 0
+GS 1 1
+GL 2 TCST0004
+GP 2 330 0
+GS 2 1
+SEF 109 0
+
+//友貴「僕だっ」
+Tomoki: "I am!"
+TP
+
+GL 1 TCSH0002
+GI 1 0
+
+//桜庭「いや、オレだ」
+Sakuraba: "No, I am."
+TP
+//三人は醜く争った。
+The three entered into an unsightly dispute.
+//Crap, no CG for this... -GHS
+TP
+//台無し。
+It all came to nothing.
+TP
+
+GL 4 zzzdrinkTouko
+GS 1 0
+GS 2 0
+GS 4 1
+SEF 109 0
+
+//冬子「三馬鹿……お酒くらい隠したら？」
+Touko: "The three stooges... you'd be hiding alcohol, no less, right?"
+TP
+//冷たい声が頭上から降ってきた。
+A cold voice descended from above.
+TP
+
+//太一「む、ハラキリ冬子」
+Taichi: "Ngh, Harakiri Touko!"
+TP
+
+//冬子「桐原冬子っ！脳癌にでもなってるんじゃないのっ？」
+Touko: "KIRI-HARA Touko! Did you end up with brain cancer now?"
+//It's not funny in that it may well be true. Something's on the side of his head, definitely. Hum, it's consistent with CCA0002, however, maybe it's not Taichi making it up and she's just that ignorant. -GHS
+TP
+//長髪の美姫めいた少女は、短気だった。
+The long-haired girl, so like a beautiful princess, had short temper.	
+TP
+
+//太一「どうして酒を隠すと？」
+Taichi: "Why would we be hiding alcohol?"
+//This line was missing in the transcript (and the Amaterasu version). -GHS
+TP
+//冬子「う……酒臭い……」
+Touko: "Ngh... you smell of it..."
+TP
+//冬子は三人から顔をそむけた。
+Touko averted her face from the trio.
+TP
+//冬子「これじや駄目ね。黒須の大好きな宮澄先輩が来るのに、嫌われ確定ね」
+Touko: "That there is bad. When your precious Miyasumi-senpai comes in, Taichi, she'll totally decide to hate you."
+//She originally says "Kurosu". But this is necessarily after CCC3004, where she refers to him as Taichi, so changed it. Supposing old revision. Touko wouldn't know Misato's a drunkard, of course - not that it'd stop her from doing this, as she's through her Manipulative Bitch period. -GHS
+TP
+
+WVS 1 1
+
+//太一「なにぬーっ！？」
+Taichi: "Whattettynh?!"
+//Ick. -GHS
+TP
+
+WVP 1 bgm011.ogg 0 0 0
+
+GO 4 1
+
+
+//太一は慌てて酒瓶を友貴の股間にねじこむ。
+Taichi panics, and screws the bottle of alcohol into Tomoki's groin.
+//Well, it's more like "thrust", but let's face it, that's not much better. -GHS
+TP
+
+GL 2 TCST0001
+GP 2 190 0
+GS 2 1
+SEF 109 0
+
+WVP 2 se103 1 0
+//ごりっ
+Grind!
+GP 2 175 15
+GI 2 0
+GP 2 190 30
+GI 2 0
+GP 2 205 15
+GI 2 0
+GP 2 190 0
+GI 2 0
+TP
+
+//友貴「ぐほうっ！？」
+Tomoki "G'fhou?!"
+GO 2 1
+TP
+//太一「頼む、耐えてくれ！」
+Taichi: "Please endure, I beg you!"
+TP
+//友貴「…………」
+Tomoki: "......"
+TP
+//友貴は喋られなくなった。
+Tomoki did not speak.
+TP
+
+GL 1 TCKT0002
+GP 1 230 0
+GI 1 1
+
+
+//冬子「下劣……」
+Touko: "Indecorous..."
+TP
+//令嬢である冬子には、正視いたしかねた。
+Directly looking at this was difficult for Touko, the august youth.
+TP
+
+//WVS 1 1
+
+GO 1 1
+//見里「あら、みんな集まってたんですか？」
+Misato: "My, everyone has gathered here already?"
+//This must be after classes now, therefore. -GHS
+TP
+
+//三人の少女。
+Three girls.
+TP
+
+GL 4 zzzdrinkMisato
+GI 4 4
+//This looks like it would've gone beyond the top, but the wallpaper cuts there. There's far bigger illustrations in the Materials Book, but they're obviously preliminary, and the color of Misato's hair is too different to be used there. -GHS
+
+//その先頭が、群青学院放送部部長・宮澄見里その人だ。
+Their vanguard was the Gunjou Institute Broadcast Club President herself, Miyasumi Misato.
+TP
+//とても温厚ではあるが、規則の人である。
+She is fairly gentle, however, she is a person of rules,
+TP
+//眼鏡の人でもある。
+and a person of glasses, as well.
+TP
+//太一「あ、みみ先輩……」
+Taichi: "Ah, Mimi-senpai..."
+TP
+//みやす『みみ』さと。
+Miyasu『Mi Mi』sato.
+TP
+
+
+//見里「あれ……お酒臭くありません？」
+Misato: "Eh... is that not smell of alcohol?"
+//This should be suspicious: how does gentle Misato who can't tell dirty jokes (that she'll let Taichi know) know that smell? -GHS
+TP
+//太一は冷や汗をかく。
+Taichi sweats cold,
+TP
+//友貴も青い顔で汗をかいている。
+and Tomoki also sweats with a blue face...
+TP
+//これは別の種類の汗だ。
+...but that's a different species of sweat.
+//It's Pokinhisballs Sweat. -GHS
+TP
+//太一「コレハ我々ノ汗ノ匂イデス」
+Taichi: "THIS BE NAUGHT BUT THE SMELL OF OUR SWEAT."
+//Spoken robotically. -GHS
+TP
+//太一は強引に誤魔化しにかかる。
+Taichi goes for the forceful hoax.
+TP
+
+
+//見里「そうだったんですか……お風呂にちゃんと入らないといけませんね」
+Misato: "So it is then... you ought be properly taking baths, yes."
+//This would probably have served as coverup for Taichi being smelly, though there's no instances of that joke in Week 1. -GHS
+TP
+//天然ボケの人でもあった。
+She was also a natural airhead.
+//False... -GHS
+TP
+//属性盛りだくさん。
+She has loads of Character Attributes.
+//...but this was troll anyway. Yes, she does; everyone here does. -GHS
+TP
+//ついでに言えば美巨乳属性でもあり、太一にはいろいろたまらない。
+While we're on the subject, it can be said that she also had the Beautiful Big Boobs Character Attribute, which Taichi found unbearable in many and varied ways.
+//See? This should be first person. -GHS
+TP
+
+//見里「それより、すごいお知らせがダブルですよ～」
+Misato: "More importantly, I have a twin of amazing announceme～nts!"
+TP
+//えっへんとタブルの胸を張る。
+She stretches out a twin of a chest with an 'ahem'.
+//It actually says "taburu" instead of "daburu" even in the original, assuming typo. -GHS
+TP
+//ブラウスがツンと張る。
+Her blouse stretches out with a 'tug'.
+TP
+//男の視線は釘付けだ。
+The men cannot avert their sights,
+TP
+//友貴「……………………」
+Tomoki: "............"
+TP
+//友貴以外。
+except for Tomoki.
+TP
+//太一「お知らせとは？」
+Taichi: "What are the announcements?"
+TP
+//太一は美乳に問いかけた。
+So Taichi asked to her beautiful boobs.
+TP
+
+
+//見里「一つは、この二人……佐倉霧さんと山辺美希さんが、正式に放送部に入ることになったというニュースです」
+Misato: "First, the news that these two... Sakura Kiri-san and Yamanobe Miki-san are now with due form joining the Broadcast Club."
+TP
+
+GO 4 4
+WVS 1 1
+WT 250 0
+WVP 1 bgm002.ogg 0 0 0
+
+WT 250 0
+GL 4 zzzdrinkKiriMiki
+GI 4 4
+
+//美希「どもー、結局わらじを預けることになりました」
+Miki: "Hellooo, in the end I shall tree everything to you."
+//"Entrust my straw sandals to you", though the typical one is "entrust my Geta to you", meaning "I leave everything to you". Meaning should be the same, but given below, it's now a Back to the Future reference because Lybians sell you weapons-grade plutonium, your argument is invalid. -GHS
+TP
+//ソバージュヘアが可愛らしい美希が、ぺこりと快活に頭をさげた。
+Miki, with her cute-ish Sauvage Hair, gave a sharp and cheerful bob of the head.
+//It doesn't quite google, but with the dolls it's pretty obvious anyway what's meant. -GHS
+TP
+//苦笑いが似合いそうな少女だった。
+She was a girl to whom a bitter smile seemed to suit best.
+//...? Early characterization, maybe. -GHS
+TP
+//太一「うむ。俺が存分にそのわらじをあっためてやろう、美希君」
+Taichi: "Indeed. I shall be warming up what you tree here to my heart's content, Miki-kun."
+TP
+
+//美希「よろしくお頼み申す」
+Miki: "I formally adjure you to do so."
+TP
+//太一「……最高にホットなメンズ・ポジションでな」
+Taichi: "...it shall be with the most Hot of all Men's Positions, yep."
+TP
+
+//美希「と？　それはどこでありましょうや？」
+Miki: "Wh-? Where would that be?"
+TP
+//太一「なぁに、ちょいと血液を集中させるだけでたちまちマグマ・スポットさ」
+Taichi: "Whaaat, it's the Magma Spot that readily stands via naught but blood centralization, of course!"
+//Adapted this a little bit to work with 'tree'. It didn't take much. In fact, it's far worse now. Thank you, no need to unpraise me. -GHS
+TP
+
+//美希「はぁ」
+Miki: "Sigh."
+TP
+//太一「ま、よろしくだ。霧ちんもな」
+Taichi: "Well, let's get along then. You too, Kiri-chin."
+TP
+//いつも美希のそばにいる、ショートヘアの少女にも愛想を振りまく。
+He also makes pleasantries to the short-haired girl always find at Miki's side.
+TP
+//霧「……はー」
+Kiri: "...sigh."
+TP
+//霧は男性があまり得意ではない。
+Men are not really Kiri's forte.
+TP
+//気の入らない返事に、しかし太一は咎めるでもなくニコニコしていた。
+To her dispirited answer, however, Taichi gave a broad grin with no reprimand.
+//Interesting how he's not being an ass to her now... maybe too many people to do so? -GHS
+TP
+//太一「で、もう一つのお知らせというのは？」
+Taichi: "Well, what was the other announcement?"
+TP
+
+GL 1 TCMM0000
+GP 1 210 0
+GS 1 1
+GS 2 0
+GS 3 0
+GS 4 0
+SEF 109 0
+
+//見里「はい。市のＣＦが今度開局されるんですけど、そのアンテナがここの屋上に設置されます。ご存じですね？」
+Misato: "Yes, it has been decided that a municipal CF will be established, and its antenna will be set up here on the rooftop. Did you know?"
+//That last one is just off-character. -GHS
+TP
+//太一と桜庭はカクカクと頷く。
+Taichi and Sakuraba gave a glorious nod.
+TP
+//ＣＦというのはコミュニティＦＭの略。
+CF is short for Community FM.
+TP
+//地域密着型のラジオ放送。
+It's a local, community-based radio broadcast.
+//PCP CCC0022
+
+GL 1 TCMM0002
+GI 1 0
+
+TP
+//見里「で、私たちの放送部でも番組を作ってみないかということになって……ほら、群青っていい噂ないじゃないですか。で、少しでもそういった世情を緩和できたらという……」
+Misato: "And so, I have decided that our Broadcast Club will be taking care of producing a radio program... you see, are there not some bad rumors going around Gunjou? And so, if it can relax people's opinion of it even just a little..."
+//This sounds so little like Misato. This sort-of contradicts CCC0022, where the people of the city seem intent on doing this, rather than Gunjou with the administration to assuage the populace. -GHS
+TP
+//見里は語る。
+Misato speaks,
+TP
+//身振り手振りをばたばたと可愛らしくまじえて。
+adorably mixing in flapping gesticulation.
+//See CCC3004, however, as well as CCC0015B. Those are seemingly the last leftovers of this part of her character. -GHS
+TP
+//その動作で、美乳は揺れたり傾いたり寄ったり離れたり変形したり切ない風に身をよじらせたり童女のような無邪気さで跳ね回ったり淑女のようになったり娼婦のようになったりした。
+With those motions her beautiful boobs swayed and drooped and came close and grew distant and warped and twisted her flesh around in painful ways and leaped about with the innocence of a little girl and became like a lady's and became like a harlot's.
+//Somewhere in Japan, Team Ninja is smiling. -GHS
+TP
+//桜庭「ぐうぐう」
+Sakuraba: "Zzz... zzz..."
+TP
+//桜庭は寝ていた。
+Sakuraba was sleeping.
+//Impotence more than hypnotism here. -GHS
+TP
+//友貴「…………………………………………」
+Tomoki: "........................"
+TP
+//友貴は唇の端から泡を。
+Bubbles came from the edge of Tomoki's lips.
+//See CCA0027. -GHS
+TP
+//太一「ふやふや～」
+Taichi: "Softy softy~."
+//"Fuyafuya" is an actual adjective, on the dictionary and all. Japanese is creepy, hold me. -GHS
+TP
+//太一は唇の端からヨダレを。
+From the edge of Taichi's lips came drool.
+TP
+
+GL 1 TCKT0011
+GP 1 230 0
+GS 1 1
+SEF 109 0
+
+//冬子「エロ猿！」
+Touko: "You monkey in heat!"
+//See CCA0027 -GHS
+TP
+
+
+WVP 2 se003 1 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//This had Zubaaan, but since this is "W1"-ish, that seems off. -GHS
+
+//太一「ごっ！？」
+Taichi: "Goh-?!"
+TP
+//冬子が太一を殴る。
+Touko punched Taichi,
+TP
+//一本拳だった。
+with the exact knuckletip of a fist.
+//See CCA0009B. So that's where Miki copied it from... -GHS
+TP
+
+GL 1 TCMM0002
+GP 1 210 0
+GS 1 1
+SEF 109 0
+
+
+//見里「……というそれはもうゴイスな計画が……」
+Misato: "...so in short, this is a Going Suzui! of a Project and..."
+//See CCA0003. -GHS
+TP
+
+GL 1 TCMM0021
+GI 1 0
+
+//見里「……って、どうしました？　桐原さん？」
+Misato: "...wait, what happened? Kirihara-san?"
+TP
+
+GP 1 60 0
+GP 2 360 0
+GL 2 TCKT0005
+GS 1 1
+GS 2 1
+SEF 109 0
+
+//冬子「いいえ」
+Touko: "Nothing!"
+TP
+//素っ気なく冬子は顔を伏せた。
+Touko curtly turned her face away.
+TP
+//人付き合いは苦手なのだ。
+Socializing with others is a weak spot for her.
+TP
+
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 1
+
+//そんなぎこちない冬子の態度を、内心微笑ましく思いながら、太一は気絶した。
+And while thinking this awkward manner of Touko's as charming inside his mind, Taichi lost consciousness.
+TP
+
+WVS 1 1
+WVS 3 1
+TS 2
+SEF 109 1
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 10 1
+
+TS 3
+SEF 109 1
+
+//そして目が覚めて。
+And then he was awake.
+//This part is incomprehensible on its face: no way Misato and the rest would let him lay on the ground for who knows how long. The above was a flashback, and this is reality. The question now becomes whether CCA0030 was the same or simply a recycled troll. -GHS
+TP
+//黒須太一は一人だった。
+Kurosu Taichi was alone.
+TP
+
+GL 0 bgcc0007a
+//Leaving the antenna here, see above. -GHS
+GS 0 1
+SEF 109 0
+
+//太一「んんー」
+Taichi: "Nnnngh."
+TP
+//伸びをする。
+He stretched,
+TP
+//ホコリをはらい、帰宅した。
+dusted himself off, and headed back home.
+TP
+
+WT 5000 0
+WT 2000 0
+
+RET

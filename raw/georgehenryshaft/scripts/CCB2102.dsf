@@ -1,0 +1,46 @@
+
+
+GL 0 bgcc0013c
+GS 1 0
+GS 0 1
+SEF 152 0
+//帰るなり。
+Home we are.
+TP
+WVP 1 bgm013.ogg 0 0 0
+
+GL 1 TCKT0006
+GP 1 230 0
+GI 1 1
+WVP 0 vfCCB2102fyu000
+//冬子「太一ぃ……っ！」
+Touko: "Taichiii...!"
+TP
+//玄関で挑んできた。
+Solicited at the entrance.
+TP
+//太一「はいはい」
+Taichi: "Yes, yes."
+TP
+WVP 0 vfCCB2102fyu001
+//冬子「……ん、はぁん♪」
+Touko: "...nh, aHnh♪"
+TP
+//服を脱ぐのももどかしく、キスをして、繋がった。
+Taking off our clothes so frustratingly slow, we kissed, and we connected.
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+//三度交わって、冬子は気絶した。
+After the third time, Touko passed out.
+TP
+WVS 1 1
+//夜になるまで目覚めなかった。
+She was not awake until it had become night.
+TP
+
+
+RET

@@ -1,0 +1,277 @@
+
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+GL 1 TCYM0002
+GP 1 180 0
+GI 1 1
+
+WVP 1 bgm003.ogg 0 0 0
+
+WVP 0 vfCCD0001mki013
+Miki: "Suempuaaai......"
+TP
+
+
+A voice called to me from behind.
+TP
+
+
+Taichi: "Miki......"
+TP
+
+
+The corners of her eyes were red.
+TP
+
+
+She'd cried her eyes out.
+TP
+
+
+Taichi: "Uu, are you okay?"
+TP
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfCCD0001mki014
+Miki: "Somehow..."
+TP
+
+
+Taichi: "So you're living toooo, Mikiii."
+TP
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCD0001mki015
+Miki: "This is baaaad."
+TP
+
+
+The tension of this conversation is going under.
+TP
+
+
+WVP 0 vfCCD0001mki016
+Miki: "Meals, and clothes, and television...what's going to happen to them?"
+//I'm gonna assume that first "and" is put there for emphasis.-Spin
+TP
+
+
+Taichi: "Well...it seems they'll all be reset, so..."
+TP
+
+
+WVP 0 vfCCD0001mki017
+Miki: "Uueh?"
+TP
+
+
+Taichi: "Well it'll work out somehow. Don't worry."
+TP
+
+
+GL 1 TCYM0041
+GI 1 0
+WVP 0 vfCCD0001mki018
+Miki: "......uuu."
+TP
+
+
+She lost heart.
+TP
+
+
+Taichi: "Cheer up. You're still my pupil."
+TP
+
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCD0001mki019
+Miki: "But......this is all strange......"
+TP
+
+
+Taichi: "This world is strange."
+TP
+
+
+WVP 0 vfCCD0001mki020
+Miki: "I'm anxious."
+TP
+
+
+Taichi: "Liven up already."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCD0001mki021
+Miki: "Pickled cake?"
+IF $tlnote != 0 (TL note: Homonyms again.)
+TP
+
+
+Touch chest.
+TP
+
+
+*fu-nya*
+TP
+
+
+GL 1 TCYM0004
+GI 1 0
+
+WVP 0 vfCCD0001mki022
+Miki: "Fu-nya!?"
+TP
+
+
+I fondled her frankly.
+TP
+
+
+I extended a hand to her butt.
+TP
+
+
+*mu-nyu*
+TP
+
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCD0001mki023
+Miki: "Uueah!!?"
+TP
+
+
+Delicate. Soft. It felt good.
+TP
+
+
+Fragile. Too fragile.
+TP
+
+
+Taichi: "Detonation switch!"
+TP
+
+
+I pushed the hook on her back.
+TP
+
+
+Fingertips' pressure and vibration. I undid the hook in a single millisecond.
+TP
+
+
+*slide*
+TP
+
+GL 1 TCYM0004
+GI 1 0
+
+WVP 0 vfCCD0001mki024
+Miki: "Naoooh!!?"
+TP
+
+
+She held her breasts.
+TP
+
+
+No bra is needed for that flat, boyish chest.
+TP
+
+
+Single hook fishing......I'll skip that since I'd feel too sorry for her.
+TP
+
+
+Taichi: "Final blow!"
+TP
+
+
+GL 4 evcc0021
+$CGevcc0021 = 1
+GL 5 bgcc0000e
+GI 5 0
+WVP 2 se100 1 0
+GS 4 1
+GS 5 0
+GS 1 0
+SEF 109 0
+
+
+*gabachooo!!*
+TP
+
+
+
+WVP 0 vfCCD0001mki025
+Miki: "Nyaaaaaaaaaaaaaaaaaaaaaaa!!!??"
+TP
+
+
+All the moves I sent out hit.
+TP
+
+
+Miki was so unguarded it felt good.
+TP
+
+GL 0 bgcc0008
+GS 0 1
+GS 4 0
+SEF 155 0
+Taichi: "Feeling better?"
+TP
+
+
+GL 1 TCYM0001
+GP 1 180 0
+GI 1 1
+WVP 0 vfCCD0001mki026
+Miki: "Yeees Iiii aaam!!"
+TP
+
+
+She's mad.
+TP
+
+
+Taichi: "Then all is well."
+TP
+
+
+As a result I was also supplied with energy.
+TP
+
+
+WVP 0 vfCCD0001mki027
+Miki: "I stick my tongue out at you!"
+GO 1 1
+TP
+
+
+She stuck out her short tongue and ran off.
+TP
+
+
+Taichi: "Wahaha."
+TP
+
+WVS 1 1
+
+
+
+RET

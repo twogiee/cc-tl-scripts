@@ -1,0 +1,384 @@
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+//さてと。
+Well then now.
+TP
+
+//部活の方は、他の人々に任せて、と。
+Club activities are left in the hands of others, so,
+TP
+
+//冬子を拾ってきますか。
+shall I not go recover Touko?
+//formal for some reason -GHS
+TP
+
+//車で行こう。
+I'll go by car.
+TP
+
+//職員室から鍵をあさり、合う車を探す。
+I scrounged a key from the staff room, and I now search for the matching car.
+TP
+
+//太一「おわ……」
+Taichi: "Ouch..."
+TP
+
+WVP 1 bgm011.ogg 0 0 0
+
+//駐車場は惨劇になっていた。
+A tragedy had taken place in the parking area.
+TP
+
+//まるで暴走車が、当て逃げを繰り返したみたいに。
+It's as if a rampant driver had performed repeated hit-and-runs, over and over.
+//暴走. Remember it... -GHS
+TP
+
+//太一「全部凹んでる……」
+//Taichi: "They all got pussies..."
+Taichi: "They're all dented..."
+TP
+
+//こっちはバンパーがもげてる。
+Here we have a torn-off bumper,
+TP
+
+//木が折れてる。
+there a tree was splintered,
+//Hard to tell without seeing much about the kind of trees, but if it were to be cut in half or something the odds the car would still work are low. -GHS
+TP
+
+//フロントに放射状にヒビが。
+cracks in that front radiator...
+TP
+
+//太一「……友貴先生……」
+Taichi: "...Tomoki-sensei..."
+TP
+
+//神々しいまでに運転の才能がない友貴だった。
+Tomoki had a lack of driving talent that reached the divine.
+//Literally, as he still drove off with what is implied to be zero instructions or practice at all. The reason he's "normal" is that he can learn to drive manual pretty damn quickly, all things considered. He shares this with Yutaka, who also has a foot on 'manual' (see CCA0011C, where this driving metaphor properly began). Sakuraba rides the bike, so it's unlikely he asked him. -GHS
+TP
+
+//太一「やっぱ素人にミッションは無理か、ククク」
+Taichi: "Truly, amateurs on that 'mission aren't gonna make it, keh keh keh!"
+//Mission OR transmission, see CCA0003 - amateurs rejected! -GHS
+TP
+
+//そこへ行くと俺なんか、ちゃんと乗り方知ってるもんね。
+When it comes to myself, however, I really know how to ride these things.
+TP
+
+//人間としての格の違いってやつか。
+Is it just the difference in our levels of humanity?
+//17% vs 84%. Likely. -GHS
+TP
+
+//キーの合った車に乗り込む。
+I get on the car that fits the key.
+//The whole scene was massacred in the PS2 version because they removed him actually getting on a car and driving. Taichi, there, is apparently somehow driving his own self, and is utterly surreal idea. -GHS
+TP
+
+//男だから当然ミッションだ。
+I am a man, therefore the 'mission, naturally,
+TP
+
+//オートマ。
+is automatic.
+TP
+
+//女子供の乗り物だな。
+It's a vehicle for women and children, they say.
+TP
+
+//太一「ケッ、見せてやるぜよ！」
+Taichi: "Pah, I'm gonna show you now!"
+TP
+
+//荒々しい俺だった。
+I was rough and wild.
+TP
+
+//ちょっと龍馬入ってる。
+There's also a bit of the war horse, gallant in the face of battle.
+//I can only suspect it's also a reference to [龍馬/竜馬]のつまずき, "even the best horse stumbles". -GHS
+TP
+
+
+//半クラッチから見事にアクセルを繋いだ。
+I magnificently accelerate from a half-clutch position.
+//That's a manual gear driving technique. -GHS
+TP
+WVP 2 SE057 1 0
+SEF 101 0
+
+//いかん、目の前の車にぶつけてしまった。
+Dammit, I just bumped into that car in front of me!
+TP
+
+//シートベルトしててよかった。
+Good thing I fastened my seatbelt.
+TP
+
+//とりあえず後退しよう。
+For now let's back out.
+TP
+
+//太一「バック石松、バック石松っと……」
+Taichi: "Back Isshimatsu, Back Isshimatsu, and..."
+//Can't find anything but a pun on this: http://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%83%E3%83%84%E7%9F%B3%E6%9D%BE (English term returns it within first few results) -GHS
+TP
+
+WVP 2 se056 1 0
+SEF 101 0
+
+//タイヤ止めを乗り越えて背後の樹木をへし折ってしまったぞ。
+Overcoming the tire stops I break into the shrubbery on the back.
+//I think it's just part of the parking space, only specifically intended to prevent, well, the above. -GHS
+TP
+
+//太一「バッドだぜ～」
+Taichi: "Baddo this is～"
+TP
+
+//こんなミス、百万回に一度もない。超レアイベントだ。
+This kind of mistake isn't a one in a million. A Hyper Rare Event.
+TP
+
+//リトライ。
+Reee-try.
+TP
+
+WVP 2 SE062 1 0
+SEF 101 0
+//しまった、ギアがバックのままだった。
+Dammit, it was still in reverse gear.
+TP
+
+//百万分の一に百万分の一をかけると……いくつだ。
+Multiply one in a million by one in a million... how much's even that.
+//Either 1 in a billion or 2 in a hundred. Dunno; math is hard. -GHS
+TP
+
+//まあいい。
+Ah, who cares.
+TP
+
+//きらめくほどに俺は奇跡的なのだ。
+I'm so miraculous I could just sparkle.
+//This is likely literally true. -GHS
+TP
+
+//高そうな車なのに……すまん、今は亡き榊原教諭。
+And that car even looks so expensive... sorry, Currently-Deceased Professor Sakakibara.
+TP
+
+//前に出る。
+I head forwards.
+TP
+
+
+WVP 2 SE061 1 0
+SEF 101 0
+//おっとっと、サイドブレーキ入れたままだった。
+Whoa, whoa, woah the handbrake was still engaged.
+//He had to have pressed that accelerator down to the metal to get it to move at all so far. Handbrake is "sidebrake" in Japanese, so in the PS2 version it reads "the side was still engaged". WTF. -GHS
+TP
+
+//戻す。
+Disengage.
+TP
+
+//がくん、と車が急加速する。
+Boom, the car accelerates suddenly.
+//Although automatic cars crawl forwards when not in brake, he likely had the accelerator down. -GHS
+TP
+
+WVP 2 SE059 1 0
+
+SEF 101 0
+//横一列に並んでいた車の鼻先をかすめながら、バンパーをもぎっていく。
+Grazing the noses of the cars parked in the rows, and ripping off the bumper.
+TP
+
+//かなり効率よく破壊してしまったぞ。
+I'm pretty efficient at destruction dammit.
+TP
+
+//やべー、校長のフェラーリもひどいことに。
+No waaay, I did something really nasty to the headmaster's Ferrari.
+//Shinkawa's catchphrase... PS2 version talks about "that expensive war horse". ...then again, since this likely happens only in his mind... -GHS
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//ま、いっか。こんな危険な学校でフェラる方が悪い。
+Ah, who cares. F'ing in this dangerous school is improper.
+//※フェラる＝太一語。二つの意味が。①フェラーリのオーナーになること。②（全略）
+> 
+* F'ing = Taichian. Two meanings:
+   1) being an owner of a Ferrari;
+   2) (complete snip).
+//I guess it now sounds more like 'fucking' than 'fellatio', but, eh, who gives a blowjob. -GHS
+TP
+
+
+//ゆっくりと前進。右折。
+Slow forwards. Turn right.
+TP
+
+//太一「いいぞ」
+Taichi: "Awesome."
+TP
+
+//エンストした。
+Engine stalled.
+//I can't even think how that would happen in automatic transmission short of catastrophic engine dam-- ohhh. -GHS
+TP
+
+//太一「…………」
+Taichi: "......"
+//...one in a quadrillion? -GHS
+TP
+
+//リスタート。
+Start again.
+TP
+
+//バックした。
+Reverse.
+TP
+
+WVP 2 SE056 1 0
+//太一「……」
+Taichi: "..."
+TP
+
+//つくづく思うけど、シートベルトって必須だよな。
+But I think that, through and through, seatbelts really are indispensable.
+//Remember kids: don't be Taichi and drive! -GHS
+TP
+
+//太一「くじけずＧＯ！」
+Taichi: "Undauntedly GO!"
+TP
+
+WVP 2 SE056 1 0
+WVP 2 SE057 1 0
+WVP 2 SE058 1 0
+//"Boom". -GHS
+
+//車が動かなくなった。
+The car did not move anymore.
+TP
+
+//太一「……うーむ」
+Taichi: "...hm-hmmm."
+TP
+
+//バイオリズムが不調らしい。
+My biorhythms seem to be off today.
+//Judging by the extent of the Wikipedia JP article (stub), this stuff doesn't seem particularly popular in Japan. So more Japanese vs. American thing. -GHS
+TP
+
+//太一「しかし日本車のもろいことよ」
+Taichi: "But damn, Japanese cars are so fragile!"
+TP
+
+//こんな車で西部の警察に配属されることなど、夢のまた夢。
+The idea that this car would ever be deployed to the police in the West is but dream within dream.
+TP
+
+//せいぜいが放水車で破壊されるが関の山。
+The best they could do is get wrecked by water cannon fire engines, and no more.
+//Term's relatively generic, but: http://ja.wikipedia.org/wiki/%E7%A0%B4%E5%A3%8A%E6%A9%9F%E6%95%91%E9%9B%A3%E6%B6%88%E9%98%B2%E8%BB%8A <- guessing. It sounds like a movie reference, no idea. Some of those fire engines that I see GISing around look like they could just trample on cars, too. -GHS
+TP
+WVP 2 SE063 1 0
+
+
+//曜子ちゃんが窓を叩いていた。
+Youko-chan knocked on the window.
+TP
+
+//太一「……なに？」
+Taichi: "...what?"
+TP
+
+//窓をあけて。
+I open the window.
+TP
+
+GL 1 zzzYoukoZoom1
+GP 1 100 0
+GI 1 1
+//HACK zoomed Youko -GHS
+
+WVP 0 vfCCC3020you000
+//曜子「おりて」
+Youko: "Get out."
+TP
+
+//おりる。
+I get out.
+TP
+
+WVP 0 vfCCC3020you001
+//曜子「待ってて」
+Youko: "Wait here."
+TP
+
+GO 1 1
+//HACK and out -GHS
+
+//太一「……うん」
+Taichi: "...'k."
+TP
+
+//地面に『の』の字を書きながら待っていると、奥からするすると車が走ってきた。
+I pass the time by embarrassedly spiraling my finger in the ground in the shape of the 'no' hiragana, until a car came smoothly riding out from the back.
+//Unsure how popular that is to do these days, I actually haven't seen it done that often, so specified a bit. See CCX0001. -GHS
+TP
+
+//淀みのない運転で、目の前に停車。
+Driving without hesitation, it stops right in front of me.
+TP
+
+WVP 0 vfCCC3020you002
+//曜子「乗って」
+Youko: "Get on."
+TP
+
+//助手席に乗る。
+I get in the passenger's seat.
+TP
+
+WVP 0 vfCCC3020you003
+//曜子「どこに行きたいの？」
+Youko: "Where do you want to go?"
+TP
+
+//太一「……桐原城ですお世話になります」
+Taichi: "...castle Kirihara, if I may graciously impose."
+//Well and formal. -GHS
+TP
+
+//連れて行ってもらった。
+I was being taken there.
+TP
+
+//悲しい気持ちでいっぱいになった。
+And so it was that I became filled with sad feelings.
+TP
+
+WVS 1 
+
+RET

@@ -1,0 +1,71 @@
+GP 0 0 0
+GP 1 0 0
+GP 2 0 0
+GP 3 0 0
+GP 4 0 0
+GP 5 0 0
+//...you never know... -GHS
+
+JMP START
+
+:EXTRA
+//This particular room cleaning and fade to black is only for when the reader returns from a side scenario.
+GP 0 0 0
+GP 1 0 0
+GP 2 0 0
+GP 3 0 0
+GP 4 0 0
+GP 5 0 0
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 1
+JMP START
+
+
+:START
+GL 0 bgcc0023
+GL 1 T1
+GS 0 1
+GS 1 1
+SEF 109 1
+//Final image of the VN -GHS
+
+TWS 0
+CSQ 1 1 1 1 1
+Select scenario
+ - CrossÅıChannel
+ - Another Story - CrossÅı'Channel
+ - A Drink on the Rooftop
+ - Deus Ex Chaos
+
+GS 0 0
+GS 1 0
+SEF 109 0
+WVS 2 0
+//Clears off everything before handling the choice. -GHS
+IF $B == 1 RET
+//Just returns to main script file. -GHS
+IF $B == 2 JMP ANOTHERSTORY
+IF $B == 3 JMP ROOFTOP
+IF $B == 4 JMP DXC
+
+:ANOTHERSTORY
+CALL CCZAS
+JMP EXTRA
+//Merged all scripts and removed the extra menu from the fanmade version. -GHS
+
+:ROOFTOP
+CALL CCZRooftop
+JMP EXTRA
+
+:DXC
+CALL CCZDXC
+JMP EXTRA
+//All the side scenarios will return to the scenario menu instead of quitting to the main menu. -GHS
+
+
+

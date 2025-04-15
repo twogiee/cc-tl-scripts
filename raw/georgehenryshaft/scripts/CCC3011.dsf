@@ -1,0 +1,138 @@
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 2
+GL 0 BGCC0003B
+GS 0 1
+SEF 109 0
+//HACK slow to black, then to the bedroom. Someone forgot the BG... again. -GHS
+
+
+
+
+
+
+
+
+WVP 1 bgm007.ogg 0 0 0
+
+
+
+//太一「さてと」
+Taichi: "Well then now."
+TP
+
+//蝋燭に火を。
+Fire in the candle.
+//Fire! Fire! Fire! Fire! Fire! -GHS
+TP
+
+//日記を開く。
+Open the diary.
+//Wanted to make these flow, but they're CP'd in CCC4016 where it wouldn't work. -GHS
+TP
+
+//今日起きたことを記していく。
+I go record all that has happened today,
+TP
+
+//黙々と。
+silently,
+TP
+
+//可能な限り克明に。
+detailed within the limits of the possible.
+TP
+
+//太一「？」
+Taichi: "?"
+TP
+
+GL 0 BGCC0003E
+GS 0 1
+SEF 109 0
+//HACK the change is still suspect, but... -GHS
+
+
+//咄嗟に蝋燭を消す。
+I promptly extinguish the candle.
+TP
+
+//今度は外に、軽い足音。
+This time, there's the sound of light footsteps outside.
+//See CCC3005, seems there was more sound last time. -GHS
+TP
+
+//窓から顔を出す。
+I lean out the window.
+TP
+
+GL 0 BGCC0000C
+GS 0 1
+GS 1 0
+SEF 109 0
+//HACK to starry sky -GHS
+
+
+//……霧だ。
+...it's Kiri.
+TP
+
+//無人の街を足蹴にしていく。
+Nonchalantly walking around this uninhabited city.
+TP
+
+//いずれにしても、やることは昨日と同じだろう。
+In any event, what she's doing would be the same as yesterday.
+TP
+
+//丑の刻参りさながら、太一人形は哀れ憎悪の対象に。
+Just like in the ritual of Ushi no Koku Mairi, she makes the Taichi Doll into an object of pitiable hatred.
+//http://ranmarelated.blogspot.it/2008/05/ushi-no-koku-mairi-japanese-voodoo.html - nothing to do with Ranma, but that's in English. -GHS
+TP
+
+//見ても虚しいだけだろう。
+Watching would be just pointless, I guess.
+TP
+
+//太一「……っ」
+Taichi: "...!"
+TP
+
+//前触れなく、背筋が冷え切った。
+Without harbinger, my spine growing frozen.
+TP
+
+//ぞわぞわと、脊髄を撫で上げられる感覚。
+It's a hustling, bustling sensation that crawls up the spinal cord.
+TP
+
+//忍び寄る恐怖。
+Fear creeping close like a ninja up to an enemy.
+//Visuals. See CCB2011. Guess who it is! -GHS
+TP
+
+//だがそれも一瞬。
+But that's just for a moment.
+TP
+
+//嘘のように、悪寒は霧消してしまった。
+Incredibly enough, the chill vanished in the fog.
+//Can literally be read "it's almost a lie: the chill erased Kiri". Left odd. -GHS
+TP
+
+//部屋の生ぬるさが戻り、じんわりと身を包む。
+The room returning to half-hearted lukewarmth, I begin to dress myself.
+TP
+
+//今の……は。
+And now... I,
+TP
+
+CSQ 0 1 1
+//　・霧を追う
+//　・追わない
+ - Follow Kiri
+ - Don't follow her
+
+RET
+

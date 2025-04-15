@@ -1,0 +1,64 @@
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+Was Kiri coming to school?
+TP
+
+It wasn't mentioned in the records I saw for Monday.
+TP
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+The fourth floor. The first year classroom.
+TP
+
+Kiri was there.
+TP
+GL 0 evcc0027
+$CGevcc0027 = 1
+GS 0 1
+SEF 153 0
+
+WVP 1 bgm020.ogg 0 0 0
+
+She was staring at the scenery.
+TP
+
+A small physique.
+TP
+
+She was filling herself with fresh vitality without becoming stiff.
+//SOS?
+TP
+
+From what I could see of her face, there was a pinch of anxiety there.
+TP
+
+Her black hair rippled, habitually covering her forehead.
+TP
+
+Her young vitality covered by a fragile film of glass......a girl who ought to be loved.
+//Yes, that's "film" instead of "pane." Å`IX
+TP
+
+Being hurt breaks off fragments, so she sometimes hurts others.
+TP
+
+But the back holding her slender shoulders up was delicate, and even looked defenseless.
+TP
+
+......so much so that I might attack it.
+TP
+
+She appeared to have not noticed my presence.
+TP
+
+
+
+CSQ 0 1 1
+  -Draw near to her
+  -Call out to her
+
+RET

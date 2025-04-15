@@ -1,0 +1,1621 @@
+//Sunday September 13, 1998 -GHS
+
+
+
+TWS 7
+//HACK NVL mode, no dim -GHS
+
+GL 0 bgcc0000d
+GS 0 0
+GS 1 0
+SEF 109 4
+GL 0 bgcc0000a
+GS 1 0
+GS 0 1
+//SEF 152 0
+SEF 109 1
+//HACK Slow fade to black then fade to sky. -GHS
+
+//そして、日曜日。
+> 
+ 
+ 
+> 
+               And then, Sunday.
+//CP CCA0030
+TL
+//屋上。
+                   Rooftop.
+//CP CCA0030
+TL
+//すべての準備が整う。
+               All preparations
+                 are in order.
+//CP CCA0030
+TL
+//……はずだった。
+> 
+ 
+             ...or so we expected.
+TP
+
+TWS 0
+//HACK ADV mode -GHS
+
+//GL 0 bgcc0007c
+GL 0 zzzrooftopbrokenzoom
+//HACK zoom'em in. -GHS
+GS 0 1
+SEF 152 0
+
+//アンテナは、破壊されていた。
+The antenna had been wrecked.
+TP
+
+WVP 1 bgm008.ogg 0 0 0
+
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+//一瞬、我が眼を疑った。
+For a moment I couldn't believe my eyes.
+TP
+
+//先輩があんなに一生懸命組み立てていたものが。
+That thing that Senpai had put together with all her strength...
+TP
+
+//一瞬で。
+For a moment.
+TP
+
+//すぐに思考の一部が、感情から離脱する。
+Immediately afterwards a thought split off from emotions,
+TP
+
+//冷静な思考に浸るために。
+so that I could indulge in that one thought calmly:
+TP
+
+
+//誰がやった？
+who did this?
+TP
+
+
+//世界には８人しかいない。
+In the world there are no more than 8 people.
+TP
+
+//８人しか、いないのに。
+No more than 8 people, yet...
+//No more than. No! More! Than! -GHS
+TP
+
+//太一「先輩！」
+Taichi: "Senpai!"
+TP
+//GL 1 TCMM0000
+//GP 1 190 0
+//GI 1 1
+//HACK not yet. Seriously, could this doll be less appropriate...? Ah, it could be a swimsuit doll. *thinks of making a swimsuit patch* -GHS
+
+WVP 0 vfccb0022msa000
+//見里「…………」
+Misato: "......"
+TP
+
+//彼女は破壊された尖塔の足下にいた。
+She was standing underfoot the wrecked spire.
+TP
+
+//太一「先輩？」
+Taichi: "Senpai?"
+TP
+
+GL 1 TCMM0001
+GP 1 190 0
+GI 1 1
+//HACK doll now. -GHS
+
+
+WVP 0 vfccb0022mki000
+//見里「……っ」
+Misato: "...!"
+TP
+
+//振り返る。
+She turns around,
+TP
+
+//鋭く神経質な挙措。
+in a sharply high-strung manner.
+TP
+
+//肩に触れるはずだった手が空を切る。
+My hand that expected to touch a shoulder cuts empty air.
+TP
+
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfccb0022msa001
+//見里「……ぺけ、くん」
+Misato: "...Peke... kun."
+TP
+
+//押し出すように言った。
+Words that felt like they were shoving me away.
+TP
+
+//胸が軋んだ。
+The heart creaks,
+TP
+
+//イントネーションにこめられた真意が、垣間見えたから。
+because I could glimpse the true intent loaded in her intonation.
+TP
+
+WVP 0 vmccb0022yki000
+//友貴「太一！」
+Tomoki: "Taichi!"
+TP
+
+WVP 0 vmccb0022yki001
+//友貴「どうしたんだ、これ？」
+Tomoki: "What happened here?"
+//Look at this baldfaced liar! Or is he? -GHS
+TP
+
+//桜庭「……」
+Sakuraba: "..."
+TP
+
+//連れだって、二人がきた。
+The two had come together.
+TP
+
+//太一「俺もさっぱり」
+Taichi: "Beats me too."
+TP
+
+//三人の視線が、先輩に向く。
+Three sightlines turn to Senpai.
+TP
+
+GL 1 TCMM0001
+GI 1 0
+//HACK more distrusty Misato -GHS
+
+WVP 0 vfccb0022msa002
+//見里「……私なわけないじゃないですか」
+Misato: "...it cannot be me can it now?"
+TP
+
+//震える声が答えた。
+So she answered in a shaking voice.
+TP
+
+WVP 0 vfccb0022msa003
+//見里「……自分で作って、自分で壊す人がいるわけないでしょう？」
+Misato: "...there are no people who would build something themselves, then tear it down themselves you know?"
+TP
+
+//太一「まあ」
+Taichi: "Well."
+TP
+
+//そういう人もいたが。
+There would have been people that act like that,
+TP
+
+//人類が生存していた頃は。
+at the time when humanity was still in existence.
+TP
+
+//いや？
+Well then?
+TP
+
+//先輩自身が壊した？
+Did Senpai wreck this by herself?
+TP
+
+//可能性はあるのか。
+That possibility seems to exist.
+TP
+GL 2 TCST0004
+GP 2 340 0
+GP 1 40 0
+GS 1 1
+GS 2 1
+SEF 109 0
+
+WVP 0 vmccb0022yki002
+//友貴「……姉貴、自分で壊したんじゃないのか？」
+Tomoki: "...Aneki, you tore this down by yourself didn't you?"
+//More lies. Or are there? -GHS
+TP
+
+GL 1 TCMM0004
+GI 1 0
+//HACK surprised Misato -GHS
+
+WVP 0 vfccb0022msa004
+//見里「え？」
+Misato: "Eh?"
+TP
+
+WVP 0 vmccb0022yki003
+//友貴「完成したら、逃避先がなくなるから」
+Tomoki: "Because once it's completed, there's nowhere ahead to escape to."
+TP
+
+WVP 0 vmccb0022yki004
+//友貴「また自分で０に戻すために」
+Tomoki: "So you did this to return everything to 0 yourself."
+//The real reason why Tomoki does this. Zero in number because round therefore a loop... though the font's a bit off for that. -GHS
+TP
+
+//そう。
+Indeed.
+TP
+
+//そういうこともあり得る。
+That is something that can be.
+TP
+
+//特に先輩は。群青の人間だから。
+Especially with Senpai. Because she's one of the ultramarines of Gunjou.
+//The word 'human' will be seeing you later. -GHS
+TP
+
+WVP 0 vmccb0022yki005
+//友貴「逃げるために、逃げ道を作ったんだ」
+Tomoki: "You created a way to escape so that you could still escape."
+TP
+GL 1 TCMM0005
+GI 1 0
+
+WVP 0 vfccb0022msa005
+//見里「ちょっと待って。いくらなんでもそんな……」
+Misato: "Wait a second! Things might be somewhat like that but this..."
+TP
+WVP 2 se044 1 0
+
+//鉄扉が開く。
+The iron door opens.
+TP
+//GS 1 0
+//GS 2 0
+//SEF 109 0
+//HACK don't remove them here... -GHS
+
+//会話が止まる。
+Conversation stops.
+TP
+GL 1 TCKT0000
+GP 1 230 0
+GS 1 1
+GS 2 0
+//GI 1 1
+SEF 109 0
+//HACK ...but here. -GHS
+
+WVP 0 vfccb0022fyu000
+//冬子「……？」
+Touko: "...?"
+TP
+
+//冬子だった。
+It was Touko.
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfccb0022fyu001
+//冬子「……げ、三馬鹿」//*
+Touko: "...yuck, the three stooges."
+//CP CCA0030
+//Nice consistency with her route, here. Budget problems? Eh, let's take it to mean the usual: plus ca change... -GHS
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+WVP 0 vmccb0022yki006
+//友貴「……」
+Tomoki: "..."
+TP
+
+//桜庭「……」
+Sakuraba: "..."
+TP
+
+//反応がないのを奇異に感じたのか、冬子は近づいてきた。
+Probably feeling that the lack of a reaction was strange, Touko came closer.
+TP
+
+//太一「どうしてここに？」
+Taichi: "Why are you here?"
+//See CCB2019. Yeeeah... -GHS
+TP
+GL 1 TCKT0000
+GI 1 0
+
+
+WVP 0 vfccb0022fyu002
+//冬子「支倉先輩が……話あるって矢文を……」
+Touko: "Hasekura-senpai sent me a letter attached to an arrow, saying she needs to... talk to me."
+//So she has a bow, at least. See CCA0027. -GHS
+TP
+
+//破壊されたアンテナを見あげる。
+She looks up at the wrecked antenna.
+TP
+
+GL 1 TCKT0004
+GI 1 0
+//HACK surprised Touko -GHS
+
+
+WVP 0 vfccb0022fyu003
+//冬子「壊れた、の？」
+Touko: "It's... broken?"
+TP
+
+//太一「壊されたんだ」
+Taichi: "It's been broken."
+TP
+
+//太一「……誰かによって」
+Taichi: "...by someone."
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+
+WVP 0 vfccb0022fyu004
+//冬子「壊されたって……誰が？」
+Touko: "Been broken... but who by?"
+TP
+
+WVP 0 vmccb0022yki007
+//友貴「決まってる」
+Tomoki: "Obvious."
+TP
+
+WVP 0 vmccb0022yki008
+//友貴「ここにいる誰かにだよ」
+Tomoki: "By someone who is here right now."
+TP
+
+GL 1 TCKT0003
+GI 1 0
+//HACK doll change moved up here -GHS
+
+//冬子の眉根が寄る。
+The gap between Touko's eyebrows grows tighter.
+TP
+
+
+
+
+WVP 0 vfccb0022fyu005
+//冬子「それって」
+Touko: "But then..."
+TP
+
+//太一「あまり愉快な話じゃないよな」
+Taichi: "It's not a really pleasant story at all."
+TP
+GO 1 1
+
+GL 1 TCMM0003
+GP 1 225 0
+GS 1 1
+SEF 109 0
+
+WVP 0 vfccb0022msa006
+//見里「そうですよ、愉快なわけない……自分で壊すなんて……ありえない……」
+Misato: "It is not, not pleasant at all... that I would have broken it... cannot be..."
+TP
+
+WVP 0 vfccb0022msa007
+//見里「絶対、違います」
+Misato: "It is... absolutely mistaken."
+TP
+
+//ブツブツと呟きだす。
+She mutters, grumbling.
+TP
+
+//太一「このアンテナな、もとは放送部の活動用だったけど……救援信号を出すために使う予定だったんだよ」
+Taichi: "This antenna was originally intended just for the Broadcast Club activities... but we were planning to use it to send an SOS signal."
+TP
+GO 1 1
+//HACK Stay until Touko -GHS
+
+GL 1 TCKT0000
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfccb0022fyu006
+//冬子「え、そうなの？」
+Touko: "Eh, you were?"
+TP
+
+//太一「そうでしょう、先輩？」
+Taichi: "Is that right, Senpai?"
+TP
+GO 1 1
+
+
+GL 1 TCMM0003
+GP 1 225 0
+GI 1 1
+
+WVP 0 vfccb0022msa008
+//見里「……え、あ、そうです」
+Misato: "...eh, ah, it is."
+TP
+
+//話を向けられて、少し戸惑う先輩。
+When the conversation turns towards her, Senpai grows a little bewildered.
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfccb0022msa009
+//見里「そういう意図もありました」
+Misato: "There was also that intent."
+TP
+
+//太一「それが先輩にとっての部活動だった」
+Taichi: "These were club activities as far as Senpai is concerned."
+TP
+
+//太一「あながち逃避とも言えない。先があるからな」
+Taichi: "It can't be said it was entirely flight. Because there's also a destination."
+TP
+
+WVP 0 vmccb0022yki009
+//友貴「…………」
+Tomoki: "......"
+TP
+
+//太一「だから先輩のことを、俺は全然疑ってません」
+Taichi: "Therefore, I have no suspicions whatsoever regarding you, Senpai."
+//...except he's lying. -GHS
+TP
+
+GL 1 TCMM0003
+GI 1 0
+
+
+WVP 0 vfccb0022msa010
+//見里「ぺけくん」
+Misato: "Peke-kun."
+TP
+
+//太一「あまり思い詰めないで」
+Taichi: "Do not concern yourself too much about this."
+TP
+
+WVP 0 vfccb0022msa011
+//見里「……ええ」
+Misato: "...yes."
+TP
+GO 1 1
+
+GL 1 TCKT0003
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfccb0022fyu007
+//冬子「ちょっと、なにどさくさにまぎれて耳触ってるのよ！」
+Touko: "Wait, what are you whispering niceties in her ears under the cover of all this confusion!"
+//Although I still want to read 耳触 (touching her ears) literally, because, well, Mimi-senpai. -GHS
+TP
+
+//太一「こうすると落ち着くんだよ」
+Taichi: "To make her calm down of course."
+TP
+GL 1 TCKT0001
+GI 1 0
+WVP 0 vfccb0022fyu008
+//冬子「そういうのは恋人同士でやることでしょう！」
+Touko: "That's something that lovers would do you know!"
+//And also because of this. This is likely the only reference to the Touko route, see CCB2019. -GHS
+TP
+
+//肩をすくめる。
+I shrug my shoulders.
+TP
+
+//太一「ふふふ、俺と先輩はいわば魂の恋人ソウルフルラブラバーなのだ」
+Taichi: "Hoh hoh hoh, me and Senpai are what you would call Lovers of the Soul ~ Soul Rubber(s)!"
+//"Soulful Love-Lovers" but... that doesn't sound too wrong or distinct. Gratuitous and totally off-tone Beatles reference instead, anyone? No one? Well then, Bueller. Harrumph. See CCA0027(?) -GHS
+TP
+
+//桜庭「……」
+Sakuraba: "..."
+TP
+
+//友貴「……」
+Tomoki: "..."
+TP
+
+WVP 0 vfccb0022msa012
+//見里「……」
+Misato: "..."
+TP
+
+//誰も笑わなかったし、ツッコミもなかった。
+No one laughed, and there was no straight man retort either.
+//See CCA0002. -GHS
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//寒い。
+Lame.
+TP
+
+//冬子に目線を送る。
+I send eye signals to Touko.
+TP
+
+//太一（冬子）（冬子）（頼む！）
+Taichi: (Touko) (Touko) (Please!)
+//See CCA0027. Once more, refuge in successful pattern repetition due to stressful situation. -GHS
+TP
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfccb0022fyu009
+//冬子「……え？　なに？　ウインクなんてしてどうしたの？」
+Touko: "...eh? What? You're winking at me, what's wrong?"
+TP
+
+//超鈍かった。
+Hyper obtuse.
+TP
+
+//太一「もういい！」
+Taichi: "Oh, whatever!"
+TP
+
+//GL 1 TCKT0002
+GL 1 TCKT0003
+//HACK angrier Touko -GHS
+GI 1 0
+WVP 0 vfccb0022fyu010
+//冬子「どうして怒られないといけないわけ……」
+Touko: "What is it that you even have to get angry for now..."
+TP
+
+//太一「ＯＫ、犯人捜しはもうやめだ！　さってと皆の衆、こいつをチャチャッと修理すればＳＯＳでヒューマンドラマだぞ！」
+Taichi: "Okay, culprit search stops here!"
+//HACK split line, does look better like this. -GHS
+TP
+Taichi: "Welll then, dear audience, here begins the Human Drama film of us fixing this interruption but quick and sending the SOS!"
+//3xl. See you after the ads. -GHS
+TP
+GO 1 1
+
+GL 1 TCMM0003
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfccb0022msa013
+//見里「……無理です」
+Misato: "...impossible."
+TP
+
+//太一「どうして！」
+Taichi: "Why!"
+TP
+
+WVP 0 vfccb0022msa014
+//見里「必要な機材が燃やされています。修理はできません」
+Misato: "Necessary equipment has been burned. Repairs cannot be performed."
+//Going with a similar matter-of-fact tone as with CCA0016 -GHS
+TP
+
+//太一「燃やされてるって……」
+Taichi: "Burned you say..."
+//Also see Tower of Friends. -GHS
+TP
+
+//足下の機材を指す。
+She points at equipment right to her underfoot.
+TP
+
+//GL 1 TCMM0000
+GL 1 TCMM0001
+//HACK you just can tell the design of some scenes was rushed by the amount of default dolls thrown around tunelessly. That's likely why this scene clashes with the Touko route despite everything -GHS
+GI 1 0
+
+WVP 0 vfccb0022msa015
+//見里「ガソリンっぽい臭いがします。かけて、燃やしたんです」
+Misato: "There is a smell like gasoline. It was doused then lit on fire."
+//See CCZAS. Ohhh... -GHS
+TP
+
+//言葉がなかった。
+There were no words.
+TP
+
+//そんな徹底してるとは。
+That thoroughness means...
+TP
+
+//太一「ま、まあ犯人なんて追求しても仕方ないなーっと」
+Taichi: "Well, weeell even if we go after whoever did this, it won't change, that's what it means."
+TP
+WVS 1 0
+WVP 0 vfccb0022msa016
+//見里「私は」
+Misato: "I,"
+TP
+
+//GL 1 TCMM0003
+GL 1 TCMM0006
+//HACK oooh we're in trouble now. -GHS
+GI 1 0
+WVP 0 vfccb0022msa017
+//見里「犯人が誰か、知りたいですね」
+Misato: "I do want to know who was it that did this."
+TP
+
+//太一「い……？」
+Taichi: "Y...?"
+//It's sorta a question now...? -GHS
+TP
+
+WVP 0 vfccb0022msa018
+//見里「少なくとも私じゃない。だとすれば、あなたたちの誰かじゃないですか」
+Misato: "At the very least it ain't me. So in other words, it is one of you people is it not?"
+//Shaken enough to drop a desu. -GHS
+TP
+WVP 1 bgm008.ogg 0 0 0
+
+//言葉は銃弾に似ている。
+Words that resemble bullets.
+TP
+
+//一度放てば、取り返しがきかない。
+Once fired, there is no taking them back.
+TP
+
+//外れるか、傷つけるか。
+Whether they miss, whether they wound.
+TP
+
+//だが見里先輩の言葉は、ことによく理解に届いた。
+But Misato-senpai's words well carried her understanding.
+TP
+
+
+WVP 0 vfccb0022msa019
+//見里「あなたたちの誰かが裏切った」
+Misato: "One of you people betrayed us."
+TP
+
+//優しいはずの眼鏡の先輩だった。
+This was the bespectacled Senpai one would expect to be kind.
+TP
+
+//怒られることはあったけど。
+There are times when she did get angry, however,
+TP
+
+//告発されることはないと思っていた。
+I never thought she would make accusations.
+TP
+GO 1 1
+
+GL 2 TCST0004
+GP 2 190 0
+GI 2 1
+
+WVP 0 vmccb0022yki011
+//友貴「人を……裏切り者呼ばわりしてさぁ！」
+Tomoki: "You... calling people TRAITORS!"
+TP
+
+//唐突に友貴が叫ぶ。
+Tomoki shouts, suddenly.
+TP
+
+WVP 0 vmccb0022yki012
+//友貴「あんたが、裏切りとか言うってことは―――」
+Tomoki: "You of all people, saying even the word 'betrayal'---"
+TP
+
+WVP 2 SE053 1 0
+//SEF 101 0
+GP 2 175 15
+GI 2 0
+GP 2 190 30
+GI 2 0
+GP 2 205 15
+GI 2 0
+GP 2 190 0
+GI 2 0
+//HACK independent doll shake -GHS
+
+
+GO 2 1
+
+//桜庭が動いた瞬間、友貴が倒れた。
+In the instant Sakuraba moved, Tomoki was struck down.
+TP
+
+GL 1 TCSH0003
+GP 1 190 0
+GI 1 1
+
+
+//桜庭「……」
+Sakuraba: "..."
+TP
+
+//殴った？
+A punch?
+TP
+
+//桜庭が友貴を？
+From Sakuraba to Tomoki?
+TP
+
+//太一「おいおいおいおい」
+Taichi: "Come now, come now, come now, come now!"
+TP
+
+//展開についていけない。
+I can't keep up with the developments.
+//At least the trolls are clearly marked. -GHS
+TP
+GL 2 TCST0002
+GP 1 20 0
+GP 2 340 0
+GS 0 1
+GS 1 1
+GS 2 1
+SEF 109 0
+
+WVP 0 vmccb0022yki013
+//友貴「いてて、なにするん……」
+Tomoki: "OwChCh, whass'at for..."
+TP
+
+WVP 0 vmccb0022sku004
+//桜庭「……どうして、壊した」
+Sakuraba: "...why did you destroy it?"
+TP
+
+//言葉は友貴に向けられていた。
+The words had been aimed at Tomoki.
+TP
+GL 2 TCST0004
+GI 2 0
+
+//友貴「……」
+Tomoki: "..."
+TP
+
+//太一「壊したって言ったか？」
+Taichi: "Did you say he destroyed it?"
+TP
+
+WVP 0 vmccb0022sku005
+//桜庭「どうして壊す必要があったんだ」
+Sakuraba: "Why did you even need to destroy it."
+//Still not even questioning. -GHS
+TP
+
+//シリアスに桜庭は言う。
+So said Sakuraba, seriously.
+TP
+GL 2 TCST0005
+GI 2 0
+
+WVP 0 vmccb0022yki015
+//友貴「……何言ってんだ。知らないよ」
+Tomoki: "...what are you talking about. I don't know anything!"
+TP
+WVS 1 0
+WVP 0 vmccb0022sku006
+//桜庭「俺は見た」
+Sakuraba: "I saw it."
+TP
+
+WVP 0 vmccb0022sku007
+//桜庭「おまえがアンテナを壊す瞬間を、見たんだ」
+Sakuraba: "The moment when you smashed the antenna, I saw it."
+//And he didn't act so far because...? And he saw it, when...? Divine revelation? Just guessing? Troll? Troll. -GHS
+TP
+
+GL 2 TCST0004
+GI 2 0
+
+
+WVP 0 vmccb0022yki016
+//友貴「……」
+Tomoki: "..."
+TP
+
+WVP 0 vfccb0022msa020
+//見里「友貴、あなた……」
+Misato: "Tomoki, you..."
+TP
+GL 2 TCST0006
+GI 2 0
+
+WVP 0 vmccb0022yki017
+//友貴「…………」
+Tomoki: "......"
+TP
+
+//友貴の口元が、不自然に歪んだその瞬間。
+Tomoki's lips deformed unnaturally, and that very instant,
+TP
+WVP 2 se044 1 0
+
+
+
+//再び、扉が開く。
+once again the door opens.
+TP
+
+//音は甲高く、静寂に亀裂を入れた。
+The sound is a high-pitched shrill that forms cracks into the silence.
+TP
+
+//霧と美希だった。
+It was Kiri with Miki.
+TP
+
+//そして。
+And,
+TP
+WVP 1 bgm019.ogg 0 0 0
+
+GL 0 evcc0024
+$CGevcc0024 = 1
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 109 0
+//霧は武装していた。
+Kiri had a weapon.
+TP
+
+WVP 0 vfccb0022kri000
+//霧「動かないで！」
+Kiri: "Do not move!"
+TP
+
+//全員の動きが止まる。縫い止められた。
+All stopped their movement. As if sewed into place.
+//See CCB0013 -GHS
+TP
+
+//霧が手にするクロスボウ、そのこめられた矢によって。
+Kiri's hands held a crossbow, and it was loaded with a bolt.
+//CROSS-bow, just not to forget why there's a weapon that unwieldy and useless, especially since there's a pretty decent probability at least someone around here would have a gun they could pillage. If only the police. -GHS
+TP
+
+WVP 0 vfccb0022kri001
+//霧「動けば撃ちます。これ玩具じゃありませんから」
+Kiri: "Move and I shoot. I warn you that this is not a toy."
+TP
+
+//その通りだ。
+It is as she says.
+TP
+
+//バックマスター社製・マックスポイントクロスボー。
+It's a Buckmaster Manufacture Maxpoint Crossbow.
+//Actually Excalibur make, Buckmaster was the client. Doesn't seem that important. Can't source much information because it's well over a decade old and long discontinued. I can't conclusively find it being around 1998, but it was in 2002/2003 at the absolute very least of course, so it's the right one. -GHS
+TP
+
+//オプションのコッキング装置がついている。
+Crank cocking aid optional is installed.
+//Should be the term. See CCC3025. -GHS
+TP
+
+//女性仕様といったところか。
+Is it woman spec then?
+//Interesting how Taichi manages to recognize a rare odd model of crossbow with an uncommon attachment pretty much on sight. -GHS
+TP
+
+//とはいえ狩猟用の強力な武器。癖のない使用感。十二分な殺傷力。
+That said, it's still a powerful weapon for hunting. Seems usable even without training. More than enough killing power.
+//See CCC3007 -GHS
+TP
+
+//おそらく誰かの家屋にあったものだろう。
+It perhaps was in somebody's house, I guess.
+TP
+
+//にわか成金の多い街ならではの、無防備さで。
+It is the defenselessness of a town characterized by many overnight millionaires.
+//That's a curious thing to emphasize, if you think about it. After all, the town is uninhabited during the day, so her just stealing it wouldn't be a problem regardless of the presence of people. -GHS
+TP
+
+//太一「……霧ちん」
+Taichi: "...Kiri-chin."
+TP
+
+WVP 0 vfccb0022kri002
+//霧「黒須太一は特に動くな！」
+Kiri: "Kurosu Taichi in particular will not move!"
+//Third person, colder -GHS
+TP
+
+WVP 0 vfccb0022kri003
+//霧「わたしがもっとも、うっかり殺してしまいたい相手だから、あなたは」
+Kiri: "Because the one of you I would most extremely like to just accidentally kill would be you."
+TP
+
+//冷笑する。
+Mocking smile.
+TP
+
+//太一「…………ぉぃぉぃ」
+Taichi: "......(dear dear)"
+TP
+
+WVP 0 vfccb0022fyu011
+//冬子「ちょっと、どういうことなの？　全然わからない？」
+Touko: "Really, what are you doing? I don't get this at all you know?"
+TP
+
+WVP 0 vfccb0022fyu012
+//冬子「佐倉もちょっと落ち着きなさいよ」
+Touko: "Calm down a little already, Sakura!"
+TP
+
+//一歩踏み出しかけた冬子を、左に１５度スライドしたボウの先端が制した。
+As soon as Touko takes half one step out, the pointed end of the bow turned to the left by 15 degrees and put her in check.
+//Bad at chess, Touko. Interesting use of 'pointed end', see Yutaka's fear of those things. -GHS
+TP
+
+WVP 0 vfccb0022kri004
+//霧「動かないでください」
+Kiri: "Do not move, please."
+TP
+
+WVP 0 vfccb0022fyu013
+//冬子「ちょっと！　私は関係ないでしょ！」
+Touko: "Really! I have nothing to do with this I don't!"
+TP
+
+WVP 0 vfccb0022kri005
+//霧「あるんです」
+Kiri: "But you do!"
+TP
+
+//全員に向けて、霧は甲高い声を張り上げる。
+Kiri shouts at the top of her voice towards all of us.
+TP
+
+WVP 0 vfccb0022kri006
+//霧「私たち、独立します」
+Kiri: "We are declaring independence."
+//See CCA0015, CCA0015B, CCA0016. The metaphor is still countries, so maybe "secession" would be more precise. -GHS
+TP
+
+//独立？
+Independence?
+TP
+
+WVP 0 vmccb0022sku008
+//桜庭「……つまり？」
+Sakuraba: "...which means?"
+TP
+
+WVP 0 vfccb0022kri007
+//霧「上見坂市の団地坂から、市役所までのライン……ここが私たちの領土ってことです」
+Kiri: "The borderline runs from the hill of the Kamisaka City Apartment Complex to the City Hall... therefore this is our possession."
+//The City Hall is not on the map, though there's building that seems to be it. Should be the entire eastern part of the town: Miki and Kiri's houses, Gunjou, the shopping district of which Tasaki is at the top of, the Kirhara Estate... and the hokora. -GHS
+TP
+
+//太一「領土ぉ？」
+Taichi: "Possessiooon?!"
+TP
+
+WVP 0 vfccb0022kri008
+//霧「そこにある食料や水、衣類やその他の雑貨類も、当然こちら側のものってことです」
+Kiri: "All the food and water that is there, clothes and other miscellaneous goods naturally belong to our side."
+//Sounds a bit off, but this is likely a well-rehearsed speech so it should sound unnatural. -GHS
+TP
+
+WVP 0 vfccb0022fyu014
+//冬子「独り占めってこと！？」
+Touko: "You mean monopolization?!"
+//See CCB2015, but also CCB2102 and above. She has a... problem with monopolization. Or with sharing, rather. -GHS
+TP
+
+WVP 0 vfccb0022kri009
+//霧「そうじゃありませんよ」
+Kiri: "That it is not."
+TP
+
+WVP 0 vfccb0022kri010
+//霧「食料品やその他の店は、設定した国境の反対側にも存在しますから」
+Kiri: "Because grocery and miscellaneous stores do exist on the other side of the established national border."
+//Again, stress on nations. Extremely important. -GHS
+TP
+
+WVP 0 vfccb0022kri011
+//霧「だいたい三割くらいです」
+Kiri: "Approximately 30% or thereabouts."
+TP
+
+WVP 0 vfccb0022kri012
+//霧「妥当な取り分ですよ」
+Kiri: "It is an appropriate share."
+//seven-ty percent they take, so, yes, it very much is. -GHS
+TP
+
+//太一「妥当なのはわかった。けど理由は？」
+Taichi: "Appropriate, fine, I get it. But for what reason?"
+TP
+
+//問いかけに、鼻白む霧。
+Asking the question daunts Kiri.
+TP
+
+WVP 0 vfccb0022kri013
+//霧「あなたがたが信頼できないからです」
+Kiri: "Because we cannot trust you people."
+//がたって. Look to Tomoki's response as well, this is all but a replay of CCB0006. -GHS
+TP
+
+//冬子「……」
+Touko: "..."
+TP
+
+WVP 0 vfccb0022kri014
+//霧「峰南町の向こう、坂井橋を越えた雑木林の中で……」
+Kiri: "Heading through Hounan Ward, in a grove just past the Sakai Bridge..."
+//峰南町 is apparently in http://en.wikipedia.org/wiki/Himeji,_Hy%C5%8Dgo, Sakaibashi http://ja.wikipedia.org/wiki/%E5%9D%82%E4%BA%95%E6%A9%8B%E9%A7%85 (just the station, damn railroad maniacs editing Wikipedia *random irrelevant grumbling*). There's no ward names on the city map, but I guess it refers to the south-western side of the town, where Sakuraba lives and where the City Hall may be. "Ward" is not exactly correct, but it's probably more recognizable. Sakai is the name of the bridge on the West of the map. See CCA0002 and CCA0004. -GHS
+TP
+
+WVP 0 vfccb0022kri015
+//霧「死体がありました」
+Kiri: "There was a corpse."
+TP
+
+//声なき衝撃が走る。
+An impact runs through, voiceless.
+TP
+
+//太一「死体……」
+Taichi: "Corpse..."
+TP
+
+WVP 0 vfccb0022kri016
+//霧「老人の死体でした。詳しくは確認してません」
+Kiri: "It was the body of an older person. Details were not ascertained."
+//= "I didn't see anything, Miki just ran over to me and told me that just to hurry and get this done before the loop comes." See CCA0004 and more. Insistent, manipulation-oriented dishonesty. And given her Ultramarine is imitative behavior, generally of Taichi... -GHS
+TP
+
+//簡潔な説明で質問を封じて、霧はさらに続けた。
+Sealing all questions with a concise explanation, Kiri pressed onwards.
+TP
+
+WVP 0 vfccb0022kri017
+//霧「犯人は……この中にいるとわたしは考えてます」
+Kiri: "The culprit is... among you, I conclude."
+TP
+
+//太一「突拍子もない話だな」
+Taichi: "Ain't that just an extraordinary story."
+//Going with "he takes this unseriously". Because he does. -GHS
+TP
+
+WVP 0 vfccb0022kri018
+//霧「あなたが一番疑わしい！」
+Kiri: "And you... are the most suspicious!"
+TP
+
+//俺にクロスボウが向く。
+The crossbow turns towards me.
+TP
+
+//今にも矢が飛び出しそうだ。
+It felt that a bolt could fly out of it any moment.
+TP
+
+WVP 0 vfccb0022kri019
+//霧「前科のあるあなたが……一番の容疑者なんですよ！」
+Kiri: "You have a previous offense... you are therefore suspect number one!"
+//Yutaka -GHS
+TP
+
+WVP 0 vmccb0022sku009
+//桜庭「前科……？」
+Sakuraba: "Previous offense...?"
+TP
+
+//前科、か。
+A previous offense, have I.
+TP
+
+//確かにそうだ。
+That is very much true.
+//She knows about Yutaka, but he's taking it as his thing about the Shinkawas. -GHS
+TP
+
+WVP 0 vfccb0022kri020
+//霧「他の人だって、可能性はあります」
+Kiri: "And it could be someone else, there is the possibility."
+TP
+
+//霧の隣、美希が小さく顔を伏せている。
+Next to Kiri, Miki's face was looking down a little.
+TP
+
+//発言する気配はない。
+There's no indication that she will speak.
+TP
+
+//早く終わってほしいと、ただ願っているような。
+As if all she wanted was for this to be over soon.
+TP
+
+//太一「あー、きみたちの言い分はよくわかった」
+Taichi: "Ahhh, I totally got what your point is."
+TP
+
+//太一「だが我々は同じグループの仲間であり、人類最後の生き残りで―――」
+Taichi: "But all of us are in the same group of True Companions, the last survivors of mankind, and---"
+//It will become more evident later that he really means that Nakama in the most trite Power Of Friendship way possible. -GHS
+TP
+
+//霧の言葉が、切り裂いた。
+Kiri's words tore me to shreds.
+TP
+
+WVP 0 vfccb0022kri021
+//霧「仲間だと思ったことは、一度たりともない」
+Kiri: "I never thought we were close friends, not even once."
+TP
+
+//シン、と屋上は冷え切った。
+The rooftop chilled. Audibly.
+TP
+
+WVP 0 vmccb0022yki018
+//友貴「まあ、いい機会なんじゃないかな」
+Tomoki: "Well, isn't this a nice opportunity then."
+TP
+
+//ひどく冷静な言葉。
+Horribly calculated words.
+TP
+
+WVP 0 vmccb0022yki019
+//友貴「どうせさ、何したってうまく行くはずもないんだし」
+Tomoki: "Because whatever we did, I never expected things to go well."
+TP
+
+WVP 0 vmccb0022yki020
+//友貴「僕もこの人と仲良くなんて、考えたくもないし」
+Tomoki: "I never even wanted to think of being on good terms with this guy here either."
+//See CCA0029: guy's in love with him! Except, see CCD0002: not a good first start. Now see CCD1001: the two don't get quite well together. -GHS
+TP
+
+//太一「アンテナ、壊したんだ？」
+Taichi: "Were you the one who broke the antenna?"
+TP
+
+WVP 0 vmccb0022yki021
+//友貴「まあね」
+Tomoki: "Eh, well."
+//Yes, it's *technically* a yes, and he's seen doing so in CCD1001. But that's no reason to not leave this unambiguous. -GHS
+TP
+
+WVP 0 vmccb0022yki022
+//友貴「姉貴が逃げるのが、許せなかった」
+Tomoki: "Aneki was running away, that can't be allowed."
+TP
+
+WVP 0 vfccb0022msa021
+//見里「……」
+Misato: "..."
+TP
+
+WVP 0 vmccb0022yki023
+//友貴「人の逃げ場を奪っておいて、自分だけ逃げるのかって」
+Tomoki: "If she steals refuges from others, she can be only one to run away, that's what she thinks."
+//By severing his tendons she stole him from the sports he was taking refuge in. He was likely sent to Gunjou as a favor of sorts to his sister, so he couldn't even be away from her. -GHS
+TP
+
+WVP 0 vmccb0022yki024
+//友貴「人に厳しいなら、自分にも厳しくしないとな」
+Tomoki: "If you're strict with others, then be strict with yourself too, 'K."
+//See CCA0027 -GHS
+TP
+
+//淡々とした言葉。
+Unemotional words,
+TP
+
+//親しげに語りかけるようでもある。
+but also spoken as if they were amicable.
+//Hum, literally a parent's? That's totally what their mother would've said. -GHS
+TP
+
+WVP 0 vmccb0022yki025
+//友貴「独立。いいんじゃないかな、佐倉」
+Tomoki: "Independence. That's fine with me, Sakura."
+TP
+
+WVP 0 vfccb0022kri022
+//霧「……あなたたちは、信頼できない」
+Kiri: "...you people cannot be trusted."
+TP
+
+WVP 0 vmccb0022sku010
+//桜庭「それでいいのか、みんな？」
+Sakuraba: "We all OK with this, everyone?"
+TP
+
+//見里「……」
+Misato: "..."
+TP
+
+//冬子「……」
+Touko: "..."
+TP
+
+//友貴「……」
+Tomoki: "..."
+TP
+
+//美希「……」
+Miki: "..."
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//七人の平常。
+The usual of seven people.
+//PCP CCA0030
+TP
+
+//失われたはずのもの。
+It's something that should have been lost.
+//PCP CCA0030
+TP
+
+//友情の残骸でしかなかったそれも、今、完全に破壊されて。
+What was never anything more than the wreckage of friendships is, now, being completely destroyed.
+//PCP CCA0030
+TP
+
+//決裂。ないしは断絶。
+Breakdown. Or disintegration.
+TP
+
+//それは最初からあって、ただ、見えなかっただけなのだ。
+It was there from the start, just, it was merely not seen.
+//Ergo Week 1. -GHS
+TP
+
+//友達の演技を、ひとりひとりがしていたのだとしたら。
+If every single one of us was acting in the role of friend then...
+//See CCB0005 -GHS
+TP
+
+
+GL 5 evcc0008a
+$CGevcc0008a = 1
+GS 5 1
+SEF 10 0
+TWS 1
+//HACK NVL mode -GHS
+//違った。
+> 
+ 
+ 
+                 It was wrong.
+TL
+//こんなことを、夢想していたのではなかった。
+            This, what I was seeing,
+              was never my vision.
+TL
+//俺がほんのりと期待していたのは。
+               What I was merely
+             faintly expecting was,
+TL
+//違う。
+                   mistaken.
+//"Different" of course, but the "wrong" is very strong in this one. -GHS
+TL
+//こうじゃない。
+                 Not like this.
+TL
+//断絶じゃない。
+              Not disintegration.
+TL
+//他愛ない部活動でよかった。
+     Just those silly innocent afterschool
+           activities, those I wanted.
+//See CCA0030 -GHS
+TL
+//どこで間違えたのだろう。
+       Where was the mistake made, even.
+TL
+//そもそもにして、全てが壮大な間違いだったとも思える。
+     I think that, from the very beginning,
+      everything had been one majestic and
+              wonderful mistake.
+TP
+
+//俺という存在。
+           The existence known as me.
+TL
+//群青という学校。
+           The school known as Gunjou.
+TL
+//上見坂という街。
+           The town known as Kamisaka.
+TL
+//田崎商店という雑貨屋。
+        The grocery store known as Tasaki.
+//The trolling known as Tanaka's Writing. -GHS
+TL
+//世界という全能。
+        The omnipotence known as the world.
+//See CCX0001 -GHS
+TL
+//太一「狂ってる」
+> 
+                  "Gone mad."
+//Tag removed. See CCA0003. -GHS
+TL
+//俺は小さく呟いた。
+> 
+          That was my tiny muttering.
+TL
+//黒いシルエットに支配される視界。
+            Dark black silhouettes
+          dominate my field of vision.
+//hmmm 黒 支... -GHS
+TL
+//影法師たちが言い争っている。
+        The shadow people are quarreling.
+TL
+//終わらせたい。
+             I want to make it end.
+TL
+//すべて終わらせたい。
+           I want to make it all end.
+TP
+
+
+//>ざんし
+//残滓でしかない今でさえ、耐え難い苦痛だった。
+> 
+ 
+ 
+> 
+ 
+        Even if all that remains now are
+        dregs, the agony was unbearable.
+TL
+//人が滅んで、人との摩擦がなくなったと思った。
+        Once people were gone, I thought,
+       the friction between people would be
+                    no more.
+TL
+//けどこの有様はどうだ。
+       Then how can things be like this.
+TL
+//八人だ。
+                Eight people,
+TL
+//たった八人で。
+        no more than eight people, and,
+TL
+//争い、憎しみあうのか。
+   there's conflict, perhaps reciprocal hate.
+TP
+
+//Splitting it here, too much on the same screen otherwise -GHS
+
+//そうか。
+> 
+ 
+                   Of course.
+TL
+//俺は真実を知った。
+               I knew the truth.
+TL
+//悟った。
+                  I realized,
+TL
+//ひとりじゃないと駄目なんだ。
+              all is pointless if
+                you're not alone.
+TL
+
+
+//複数ではいけない。
+              Plurality must not be.
+TL
+//個でなければ、人は人のまま。
+            If one is not Individual,
+           the person stays a person.
+//See CCA0021 -GHS
+TL
+//個。
+                  Individual.
+//One who looks at, uhm, a graveyard? I don't understand the visuals well enough here. -GHS
+TL
+//個。
+                  Individual.
+//CP 1
+TL
+//個。
+                  Individual.
+//CP 2
+TL
+//個にするには？
+          Individual, but to become one...?
+TL
+//目眩がした。
+                 I felt dizzy.
+TP
+GS 5 1
+SEF 10 0
+TWS 0
+//HACK pixelate back to this scene, ADV mode -GHS
+
+
+WVP 1 bgm014.ogg 0 0 0
+
+WVP 0 vfccb0022mki002
+//美希「……殺して、あいつを殺して！」
+Miki: "...kill, kill that one!"
+//Almost certainly Taichi. Or Youko. Same. -GHS
+TP
+
+//美希が叫ぶ。もうどうでもいい。
+Miki is shouting. I don't care anymore.
+TP
+
+WVP 0 vfccb0022kri023
+//霧「美希？」
+Kiri: "Miki?"
+TP
+
+WVP 0 vfccb0022mki003
+//美希「はやく、はやくあいつを！」
+Miki: "Hurry, hurry, that one!"
+TP
+
+WVP 0 vfccb0022mki004
+//美希「今殺さないと！」
+Miki: "If you don't kill now...!"
+//"...I'll kill you, Kiri" might be the response. -GHS
+TP
+
+//……どうでもいい。殺し合えばいい。
+...I don't care anymore. Killing each other is fine.
+TP
+
+//好きにしてくれ。
+Do as you like.
+TP
+
+//なんだったかな。
+What was even this.
+TP
+
+//そう、優しい世界。
+Yes, it's a kind world.
+TP
+
+//優しい世界だよ。
+A kind world, I say.
+TP
+
+//俺のような人間モドキでも生きていける、慈愛に満ちあふれた世界。
+It's a world filled to overflowing with compassion, where even a praying mantis dressed up as a human like me can be allowed to live.
+TP
+
+//その実現。
+And to make that real.
+//Individuality...? -GHS
+TP
+GL 0 bgcc0007cm
+/The pixellated version's been left alone. It looks like crap when zoomed, of course. -GHS
+GS 0 1
+GS 5 0
+
+SEF 10 0
+
+//……どうやって？
+...what do I do?
+TP
+
+//決まっている。
+That is certain.
+TP
+
+//動いているものを。
+Things are in motion,
+TP
+
+//この眼で。
+so with these eyes,
+//KEY SENTENCE -GHS
+TP
+
+//世界には動か静しかない。
+in this world of motion or stillness nothing else,
+TP
+
+//動を静にする。
+I make the motion still.
+TP
+
+//そういう思考が、確かにあった。
+I was thinking that, I definitely was.
+TP
+
+//知らずに歩き始めていたのかも知れない。
+I may have started walking without realizing, maybe.
+TP
+
+WVP 0 vfccb0022kri024
+//＊「＊＊＊＊＊＊＊」
+*: "********"
+TP
+
+//誰かの声。
+Somebody's voice.
+//Ha ha, voice file says it's Kiri. Possibly shouting as she decides to shoot? -GHS
+TP
+
+//聞き取れない。
+Cannot understand what is being said.
+TP
+
+//＊「＊＊＊＊！」
+*: "****!"
+//Still Kiri. -GHS
+TP
+
+//誰かさえわからない。
+Even just the who is incomprehensible.
+TP
+
+//振り返ると。
+And I look back.
+TP
+WVP 2 SE066 1 0
+
+
+
+RET

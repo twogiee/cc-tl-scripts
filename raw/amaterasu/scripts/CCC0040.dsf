@@ -1,0 +1,272 @@
+GL 0 bgcc0008a
+GS 0 1
+GS 1 0
+SEF 152 0
+
+WVP 1 bgm002.ogg 0 0 0
+
+
+Tomoki was there.
+TP
+
+Inside the health room.
+TP
+
+Taichi: "Tomokiii."
+TP
+
+I spoke up, and his back leaped.
+TP
+GL 1 TCST0001b
+GP 1 190 0
+GI 1 1
+
+WVP 0 vmCCC0040yki000
+Tomoki: "Ta-Taichi......?"
+TP
+
+Taichi: "So you were at school."
+TP
+
+GL 1 TCST0000b
+GI 1 0
+WVP 0 vmCCC0040yki001
+Tomoki: "Aaah, I came to see how things were......come here for a minute."
+TP
+
+Taichi: "Oh?"
+TP
+
+I was taken along.
+TP
+
+WVP 0 vmCCC0040yki002
+Tomoki: "I think this will work."
+TP
+
+Taichi: "Why are we in the corner?"
+TP
+
+WVP 0 vmCCC0040yki003
+Tomoki: "......well..."
+TP
+
+He faltered.
+TP
+
+Taichi: "So, how's the Active Peace Maintenance Club?"
+TP
+
+GL 1 TCST0004b
+GI 1 0
+WVP 0 vmCCC0040yki004
+Tomoki: "Active Life Maintenance Club. It's working out."
+TP
+GL 1 TCST0000b
+GI 1 0
+WVP 0 vmCCC0040yki005
+Tomoki: "Taichi's had plenty of food, right?"
+TP
+
+Taichi: "Well yeah, I'm in no trouble right now."
+TP
+
+Taichi: "It'd be nice if that lasted a week."
+TP
+
+WVP 0 vmCCC0040yki006
+Tomoki: "Ha?"
+TP
+
+Taichi: "That's my business."
+TP
+
+Taichi: "Do you need something in the health room?"
+TP
+
+Tomoki's face tightened.
+TP
+GL 1 TCST0001b
+GI 1 0
+WVP 0 vmCCC0040yki007
+Tomoki: "No...nooo."
+TP
+
+Why's he using English?
+TP
+
+Taichi: "I see you're hiding something."
+TP
+
+GL 1 TCST0000b
+GI 1 0
+
+WVP 0 vmCCC0040yki008
+Tomoki: "I don't see that."
+TP
+
+Taichi: "......health room, Tomoki, after school, virginity......the conclusion these four keywords lead us to is......"
+TP
+
+It was time for deduction.
+TP
+
+WVP 0 vmCCC0040yki009
+Tomoki: "No, virginity is unrelated."
+TP
+
+Taichi: "That's a difficult question. It's time for meta-deduction."
+TP
+GL 1 TCST0003b
+GI 1 0 
+
+WVP 0 vmCCC0040yki010
+Tomoki: "You've said something weird again."
+TP
+
+
+Taichi: "Multiple Worlds Expatiating Deduction!"
+//Wow, I learned a new word in English. That doesn't happen often. Å`IX
+TP
+
+Taichi: "Line up all the countless possibilities derived from each element and think, such that you extract 'that' sort of option from within the infinite choices......it's a quantum computer-ish deduction method."
+TP
+
+GL 1 TCST0005b
+GI 1 0
+WVP 0 vmCCC0040yki011
+Tomoki: "Can't you call that guesswork?"
+TP
+
+Taichi: "Sugar content is needed to activate those thoughts. Please loan me some."
+TP
+
+Tomoki: "............"
+TP
+
+Taichi: "Give me gum, give me chocolate."
+TP
+
+GL 1 TCST0000b
+GI 1 0
+WVP 0 vmCCC0040yki013
+Tomoki: "......Taichi, you're always carrying candies around with you......"
+TP
+
+Taichi: "Those are to be used in the event of an emergency drop in blood sugar levels."
+TP
+
+GL 1 TCST0003b
+GI 1 0
+WVP 0 vmCCC0040yki014
+Tomoki: "Are you diabetic?"
+TP
+
+Tomoki shuffled around in his pocket.
+TP
+
+If I needed food right now, Tomoki's here.
+//It sounded like he was saying that he could eat Tomoki but he just tought that up in the next line so this one needed to be changed. It still sounds that way but I can't come up with anything else.-Spin
+TP
+
+No, at this point, Tomoki is food!
+TP
+......that's stupid.
+TP
+GL 1 TCST0000b
+GI 1 0
+WVP 0 vmCCC0040yki015
+Tomoki: "Here."
+TP
+
+Gum and chocolate really came out.
+TP
+
+Taichi: "You are an amazing guy."
+TP
+
+WVP 0 vmCCC0040yki016
+Tomoki: "Eh?......How so? And didn't you say you wanted them?"
+TP
+
+Taichi: "With this my peculiar brains will be at peace."
+//Gonna assume that's intentional.-Spin
+TP
+
+WVP 0 vmCCC0040yki017
+Tomoki: "???"
+TP
+
+Gum and chocolate.
+TP
+
+I put them in my mouth at the same time.
+TP
+
+GL 1 TCST0001b
+GI 1 0
+WVP 0 vmCCC0040yki018
+Tomoki: "Whoa!"
+TP
+
+Taichi: "Tasting them at the same time is great."
+TP
+
+GL 1 TCST0003b
+GI 1 0
+WVP 0 vmCCC0040yki019
+Tomoki: "Th-......"
+TP
+
+He was sickened.
+TP
+
+Taichi: "As for the rest of the deduction,"
+TP
+
+Taichi: "Did someone get hurt?"
+TP
+
+Tomoki was a bit surprised.
+TP
+
+That was soon replaced by an ironic expression.
+TP
+
+GL 1 TCST0004b
+GI 1 0
+WVP 0 vmCCC0040yki020
+Tomoki: "Yes......someone got hurt."
+TP
+
+WVP 0 vmCCC0040yki021
+Tomoki: "......it felt good."
+TP
+
+Taichi: "What?"
+TP
+
+WVP 0 vmCCC0040yki022
+Tomoki: "......it's nothing. See you."
+TP
+GO 1 1
+He left.
+TP
+
+Taichi: "Hmmm."
+TP
+
+I swallowed the gum that was also chocolate.
+TP
+
+I'm the type who swallows gum.
+TP
+
+Taichi: "......was it not a physical wound?"
+TP
+
+WVS 1 1
+
+
+
+RET

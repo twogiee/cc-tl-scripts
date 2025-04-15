@@ -1,0 +1,285 @@
+//太一「おい、反転属性つき勝ち気娘」
+Taichi: "Hey, unyielding girl with the Reversible Character Attribute!"
+//Tsundere, modern type. See CCB2005. -GHS
+TP
+
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfcca0014afyu000
+//冬子「はぁ……？」
+Touko: "Huh...?"
+TP
+
+
+
+//太一「これをやる」
+Taichi: "I'm giving you this."
+TP
+
+
+
+//朝のサンドイッチを差し出す。
+I present her with the sandwich from this morning.
+//Bait and switch there, since a first time reader should think he's eaten the curry bread with Yusa rather than having in excess via Youko. And viceversa, if these aren't Youko's at all. -GHS
+TP
+
+
+GL 1 TCKT0000
+GI 1 0
+
+//ぽかんと、見つめる冬子。
+Touko gazes at it, flabbergasted.
+TP
+
+
+
+WVP 0 vfcca0014afyu001
+//冬子「なに、コレ」
+Touko: "What's this, even?"
+TP
+
+
+
+//太一「あんまん」
+Taichi: "Anman."
+TP
+
+
+
+GL 1 TCKT0003
+GI 1 0
+WVP 0 vfcca0014afyu002
+//冬子「んなわけないでしょ！！　サンドイッチでしょ！」
+Touko: "'s not that at all you know!!! It's a sandwich you know!"
+//lisp -GHS
+TP
+
+
+
+//太一「知ってるじゃないか」
+Taichi: "So you do know don't you."
+//Both the anman and the sandwich. Rich girl joke I guess. -GHS
+TP
+
+
+
+//太一「ほれ」
+Taichi: "Have it."
+TP
+
+
+
+
+//ずい
+Slid over,
+TP
+
+
+
+
+GL 1 TCKT0002
+GI 1 0
+WVP 0 vfcca0014afyu003
+//冬子「……やめて」
+Touko: "...stop this."
+TP
+
+
+//手を払われる。
+a swat of her hands,
+WVP 2 se048 1 0
+TP
+
+//サンドイッチが落ちた。
+the sandwich fell,
+TP
+
+//拾う。
+recovered.
+TP
+
+
+
+//太一「ちゃんと食べてるのか？」
+Taichi: "Are you eating properly?"
+TP
+
+
+
+GL 1 TCKT0002
+GI 1 0
+WVP 0 vfcca0014afyu004
+//冬子「あんたに、関係ない」
+Touko: "That's... none of yer business."
+TP
+
+
+
+//そっぽを向く。
+Uncooperative.
+//Ohhh man it begins. -GHS
+TP
+
+
+
+//太一「自分しか、自分の心配をしてくれる人間がいないのは、つらいだろ？」
+Taichi: "Having no human alive, none outside of you, that worry about you... it's painful, right?"
+//Hyperliteral as this is either her refusal to see mankind or, well, meant hyperliterally. See CCC0000: this is The Sentence. -GHS
+TP
+
+
+
+WVP 0 vfcca0014afyu005
+//冬子「何言ってるのかわからない」
+Touko: "What's that even mean I don't know."
+TP
+
+
+
+//太一「人に心配されたい」
+Taichi: "You want people to worry about you."
+TP
+
+
+
+//太一「満たされたい」
+Taichi: "You want to be fulfilled."
+TP
+
+
+
+WVP 0 vfcca0014afyu006
+//冬子「……」
+Touko: "..."
+TP
+
+
+
+//太一「俺、ちょっとは心配なんだけどな」
+Taichi: "And me, I'm getting somewhat worried here."
+TP
+
+
+
+GL 1 TCKT0000
+GI 1 0
+//きっと俺を睨む。
+She sternly glares at me.
+//...with a stare that could explode heads. I can't be the only one to see the kanji as that. -GHS
+TP
+
+
+
+GL 1 TCKT0001
+GI 1 0
+WVP 0 vfcca0014afyu007
+//冬子「よく、言う」
+Touko: "Look... who's talking."
+//See CCA0005A -GHS
+TP
+
+
+GL 1 TCKT0003
+GI 1 0
+WVP 0 vfcca0014afyu008
+//冬子「心配してるなら、どうして、どうしてっ！」
+Touko: "If you're worried, then why, why!"
+//"...did you break up with me?" -GHS
+TP
+
+
+
+//いきり立つ。
+She loses her temper.
+TP
+
+
+
+//太一「……桐原」
+Taichi: "...Kirihara."
+TP
+
+
+
+WVP 0 vfcca0014afyu009
+//冬子「なによ！」
+Touko: "What now!"
+TP
+
+
+
+//太一「顔色悪いな。生理か？」
+Taichi: "Your face looks off-color. Menses?"
+//It sounds like he's ridiculing her, and that definitely is what she thinks, but he may be seriously worried. He does the same in CCD0020B. -GHS
+TP
+
+
+
+WVP 2 se005 1 0
+
+//びたーん！
+Smaaack!
+//SEF 101 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+TP
+
+
+
+
+WVP 0 vfcca0014afyu010
+//冬子「馬鹿じゃないの！」
+Touko: "Aren't you stupid!"
+TP
+GO 1 1
+WVS 1 1
+
+
+//呪詛を吐いて、出て行く。
+That curse spat out, she leaves.
+//She does not make HIM leave... -GHS
+TP
+
+
+
+//太一「あ、サンドイッチ……」
+Taichi: "Ah, the sandwich..."
+TP
+
+
+
+//ため息。
+I sigh.
+TP
+
+
+
+//太一「……あんまいい死に方できないぞ」
+Taichi: "...that ain't a really good way to die ya know."
+//It's like he knows that she's starving herself, despite never figuring it out in most routes until he sees her pass out in front of him. Suspecting it's another thing he knows - it's certainly not the first summer he's known her - and its origin is simply going to become detached as the Game starts.
+//There's also some stuff about 'anma'/'anman' that strike me as a pun, given how 'anma' also means blind person (who traditionally gave the 'anma' massages), especially given that Touko goes blind. But that may be overthinking things.
+//Finally, see CCD0020B, where this line refers to himself. May be just an older revision, though. -GHS
+TP
+
+
+
+//仕方ないので、包みをといて自分でかぶりついた。
+Nothing I can do, so I undid the wrapping and bit into it myself.
+TP
+
+
+
+
+
+RET

@@ -1,0 +1,1727 @@
+
+
+TWS 0
+IF $KAISOU == 1 JMP SCENE001
+
+
+
+
+
+Taichi: "We would......work well together?"
+TP
+
+
+Taichi: "You say......it'd work well between us?"
+TP
+
+
+WVP 0 vfCCD0001you123
+Youko: "Yes."
+TP
+
+
+Taichi: "Hahaha, that's amazing."
+TP
+
+
+Taichi: "Then, why don't you make it work well?"
+TP
+
+
+Malice penetrated familiarity.
+TP
+
+WVS 1 1
+
+........................
+TP
+
+
+............
+TP
+
+
+......
+TP
+GL 0 bgcc0000b
+GS 0 1
+GS 1 0
+SEF 109 0
+
+WT 500 0
+WT 500 1
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+
+
+WT 500 0
+WT 500 1
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 0
+Sunday.
+TP
+
+
+However, any sense of the date had disappeared from my head.
+TP
+
+
+Taichi: *cough*
+TP
+
+GL 1 TCMM0000
+GP 1 225 0
+GI 1 1
+
+WVP 0 vfCCD0001msa041
+Misato: "Oh, nice to see you. Ah, Hasekura-san."
+//This is voiced in two distinct sentences, with Misato drawing a breath between, clearly surprised after her initial comment (to Taichi presumably), by seeing Youko.  At least as I hear it. ~Bal
+TP
+
+WVP 1 bgm012.ogg 0 0 0
+
+GL 1 TCMM0002
+GI 1 0
+
+WVP 0 vfCCD0001msa042
+Misato: "It's been a long time."
+TP
+
+
+Sempai stuck her mop into a bucket and turned to meet us.
+TP
+GL 2 TCHY0001
+GP 2 0 0
+GP 1 340 0
+GS 2 1
+GS 1 1
+SEF 109 0
+
+
+Youko: "......"
+TP
+
+
+Taichi: "Greeting."
+TP
+
+GL 2 TCHY0000
+GI 2 0
+
+WVP 0 vfCCD0001you125
+Youko: "......hey."
+TP
+
+GL 1 TCMM0000
+GI 1 0
+
+WVP 0 vfCCD0001msa043
+Misato: "Why are you so close together?"
+TP
+
+
+Youko-chan and I had come to the roof together.
+TP
+
+
+
+
+
+IF $nonero == 1 JMP yokoHend1
+
+
+
+JMP N_SCENE001
+:SCENE001
+WVP 1 bgm010.ogg 0 0 0
+
+:N_SCENE001
+
+
+GL 0 evcc0018
+$CGevcc0018 = 1
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+
+
+Taichi: "We were just wandering around."
+TP
+
+
+Taichi: "Do you mind if we watch?"
+TP
+
+
+WVP 0 vfCCD0001msa044
+Misato: "It won't be that fun to watch, really."
+TP
+
+
+She smiled with a tired face.
+TP
+
+
+Taichi: "No, I also want to talk to Sempai."
+TP
+
+
+WVP 0 vfCCD0001you126
+Youko: "......nn!......"
+TP
+
+
+WVP 0 vfCCD0001msa045
+Misato: "Aaah, then you're welcome here."
+TP
+
+
+WVP 0 vfCCD0001you127
+Youko: "......!......nn............"
+TP
+
+
+Youko-chan's voice leaked out.
+TP
+
+
+Taichi: "You've progressed quite far."
+TP
+
+
+While making small talk, I writhed my fingers.
+TP
+
+
+Taichi: "The antenna's mostly done, isn't it?"
+TP
+
+
+Sempai lost her expression for a moment.
+TP
+
+
+WVP 0 vfCCD0001you128
+Youko: "........................!"
+TP
+
+
+WVP 0 vfCCD0001you129
+Youko: "......!......"
+TP
+
+
+WVP 0 vfCCD0001you130
+Youko: "......ah......"
+TP
+
+
+Even Sempai soon knew she was acting strange.
+TP
+
+
+WVP 0 vfCCD0001msa046
+Misato: "Eh? What is it?"
+TP
+
+
+WVP 0 vfCCD0001you131
+Youko: "It's......nothing......"
+TP
+
+
+Taichi: "What about the broadcast channel?"
+TP
+
+
+WVP 0 vfCCD0001msa047
+Misato: "Eh? Aaah, that's right......I've nearly got it."
+TP
+
+
+I crossed and bent two fingers.
+TP
+
+
+WVP 0 vfCCD0001you132
+Youko: "Nn......haa......nn............!......"
+TP
+
+
+I inserted only my middle finger into her deepest parts, and rubbed against her rough pleats.
+TP
+
+
+WVP 0 vfCCD0001you133
+Youko: "......no............that's......!!......!!"
+TP
+
+
+I twisted my fingertips around her labia and touched one other narrow region.
+TP
+
+
+WVP 0 vfCCD0001you134
+Youko: "......nn......nnn."
+TP
+
+
+I lightly flicked her clitoris.
+TP
+
+
+WVP 0 vfCCD0001you135
+Youko: "---!"
+TP
+
+
+I pushed into it.
+TP
+
+
+WVP 0 vfCCD0001you136
+Youko: "Hi!"
+TP
+
+
+WVP 0 vfCCD0001msa048
+Misato: "Hi?"
+TP
+
+
+I weakened the stimulus.
+TP
+
+
+Taichi: "Can we broadcast yet?"
+TP
+
+
+WVP 0 vfCCD0001msa049
+Misato: "Aaah, it's not that we can't connect all the equipment at this point......but I wanted to do it according to the original plans."
+TP
+
+
+Taichi: "Since there's no interference from other EM waves, why not arrange them to our convenience?"
+TP
+
+
+WVP 0 vfCCD0001msa050
+Misato: "If we were near the sea, I'd do that......"
+TP
+
+
+WVP 0 vfCCD0001msa051
+Misato: "On the other hand, an antenna this high up with twenty watts of output should be strong."
+TP
+
+
+Taichi: "What does Youko-chan think?"
+TP
+
+
+While my fingers were securely devoured, I stopped moving them to ask her.
+TP
+
+
+WVP 0 vfCCD0001you137
+Youko: "......I-I think that's-!......fine......uuu......"
+TP
+
+
+WVP 0 vfCCD0001msa052
+Misato: "Aaah, with Hasekura-san's seal of approval, I feel much better."
+TP
+
+
+Restart.
+TP
+
+GL 0 evcc0018a
+$CGevcc0018a = 1
+GS 0 1
+SEF 109 0
+WVP 0 vfCCD0001you138
+Youko: "Hyau!"
+TP
+
+
+She momentarily stood on her tiptoes.
+TP
+
+
+WVP 0 vfCCD0001msa053
+Misato: "?"
+TP
+
+
+Taichi: "So, the fact that we haven't detected any EM waves nearby really did mean---"
+TP
+
+
+I pulled Sempai's focus into the conversation.
+TP
+
+
+All of my nerves were directed toward caressing.
+TP
+
+
+My fingers traced her vaginal erogenous zone and vibrated with pinpoint accuracy.
+TP
+
+
+WVP 0 vfCCD0001you139
+Youko: "Aaah......no......no......Taichi......"
+TP
+
+
+Effective cotton.
+//"cotton?"-Spin
+TP
+
+
+Her pelvic muscles contracted.
+//"Crotch" just sounds so vugar.-Spin
+TP
+
+
+Her whole body shook slightly.
+TP
+
+
+The hair on the back of her neck stood up, and goosebumps appeared.
+TP
+
+
+I pushed her even farther.
+TP
+
+
+I stopped my attack on her weak point for the time being and pushed the whole inside of her vagina with my fingers.
+TP
+
+
+WVP 0 vfCCD0001you140
+Youko: "Nn......nn......!......fua......nn............"
+TP
+
+
+A damp feeling came down from her core and built up in my palm.
+TP
+
+
+As I rolled up her flesh, I bent my fingertips into hooks.
+TP
+
+GL 0 evcc0018b
+$CGevcc0018b = 1
+GS 0 1
+SEF 109 0
+
+WVP 0 vfCCD0001you141
+Youko: "Nnnnn!!! Uuuuuu!!"
+TP
+
+
+She came.
+TP
+
+
+WVP 0 vfCCD0001you142
+Youko: "O-one......"
+TP
+
+
+WVP 0 vfCCD0001msa054
+Misato: "One?"
+TP
+
+
+Taichi: "A habit of hers. It means nothing so don't worry about it."
+TP
+
+
+WVP 0 vfCCD0001msa055
+Misato: "Haa......"
+TP
+
+
+Youko-chan doesn't show herself in front of people much, so some degree of odd behavior would be allowed.
+TP
+
+
+Since there was no doubt that she was a member of Gunjou.
+TP
+
+
+Her degree of perfection on that exam was truly wonderful.
+TP
+
+
+Knowing that an abnormal person definitely won't be overlooked---
+//This adaptation is based on my personal guess that the line is implying Youko-chan "bombed" the exam on purpose. If anyone can think of a vaguer way to adapt it that doesn't add this implication, please mention it. Å`IX
+TP
+
+
+Now then,
+TP
+
+
+I took a machine out of my rear pocket.
+TP
+
+
+An ultra rotor using four AA batteries.
+TP
+
+
+That silver object entered Youko-chan's vagina.
+TP
+
+
+Since she was drenched, it slid in nicely.
+TP
+GL 0 evcc0018a
+$CGevcc0018a = 1
+GS 0 1
+SEF 109 0
+
+
+WVP 0 vfCCD0001you143
+Youko: "......it's!......co...ld......"
+TP
+
+
+WVP 0 vfCCD0001msa056
+Misato: "Hasekura-san, you don't seem well."
+TP
+
+
+Taichi: "She's always fidgeting and mumbling like this."
+TP
+
+
+Taichi: "Please don't worry about it. Well......this is her ultramarine after all."
+//Hopefully I don't need a reminder tl note this time. Å`IX
+TP
+
+
+WVP 0 vfCCD0001msa057
+Misato: "Aaah, I see."
+TP
+
+
+She easily accepted it.
+TP
+
+
+So, switch on.
+TP
+
+WVP 2 se096 1 0
+WVP 0 vfCCD0001you144
+Youko: "......!!!?"
+TP
+
+
+Her legs squeezed closed.
+TP
+
+
+It made me think, Åwbe careful.Åx
+TP
+
+
+WVP 0 vfCCD0001you145
+Youko: "Uuaaa......nn!......stro......"
+TP
+
+
+I set the motor to its lowest setting.
+TP
+
+
+Even that was a significant oscillation.
+TP
+
+
+Not gently raising her pleasure, but forcefully taking her to the summit.
+TP
+
+
+I adjusted it as I pushed it in to make contact with her weak point.
+//Old line made it seem like he was adjusting the thing itself to make contact but really, he's adjusting the intensity of it.-Spin
+TP
+
+
+WVP 0 vfCCD0001you146
+Youko: "Nn......!......!---!!"
+TP
+
+
+She isn't acting like herself.
+TP
+
+
+WVP 0 vfCCD0001msa058
+Misato: "That must be tough."
+TP
+
+
+Taichi: "Well, I'm here too."
+TP
+
+
+Sempai gave a friendly smile.
+//Not too sure about this one but "showed" sounded just a little off.-Spin
+TP
+
+
+Thankfully, the wind was loud enough to wipe out the sound of the motor.
+TP
+
+
+She seemed completely unaware of the rotor's existence.
+//Oh, if anyone's wondering, I'm not getting "rotor" and "motor" mixed up. Both words are being used. Å`IX
+TP
+
+
+Ah, it came out.
+TP
+
+
+I'll push it back in.
+TP
+
+
+WVP 0 vfCCD0001you147
+Youko: "......kyafu!!......!!!"
+TP
+
+
+She stood on her tiptoes for a while.
+TP
+
+
+I pushed it in further.
+TP
+GL 0 evcc0018b
+$CGevcc0018b = 1
+GS 0 1
+SEF 109 0
+
+
+WVP 0 vfCCD0001you148
+Youko: "......nnnnnnnnn!!?"
+TP
+
+
+Standing on her tiptoes even more.
+TP
+
+
+Switch to maximum.
+TP
+
+WVP 2 se097 1 0
+WVP 0 vfCCD0001you149
+Youko: "......nnnnnn!......Nn......--------!!!!!!"
+TP
+
+
+She came, she came.
+TP
+
+
+In one moment.
+TP
+
+
+She'd climaxed as if being chased up to a high place.
+TP
+
+
+With her heels held up, unable to return to the floor.
+TP
+
+
+WVP 0 vfCCD0001you150
+Youko: "......hii......t-two-o!......!!!!"
+TP
+
+
+I'd ordered her to report the number of times she cums.
+TP
+
+
+Still, this rotor really is amazing.
+TP
+
+
+Normally, rotors use two batteries, but this one uses four.
+TP
+
+
+On the maximum setting, it rumbles like an earthquake.
+TP
+
+
+And that's what was inside her vagina.
+TP
+
+
+WVP 0 vfCCD0001msa059
+Misato: "Your face...it's red......and...you're sweating..."
+TP
+
+
+Taichi: "That's normal. In fact, it's evidence she's in good condition."
+TP
+
+
+WVP 0 vfCCD0001msa060
+Misato: "Is that so......"
+TP
+
+
+Taichi: "If she got worse, there aren't any doctors, so I want her to stay well."
+TP
+
+
+WVP 0 vfCCD0001msa061
+Misato: "For only us to have been left alive......it's distressing."
+TP
+
+
+Taichi: "It really is."
+TP
+
+
+The two of us nodded.
+TP
+
+
+WVP 0 vfCCD0001you151
+Youko: "......nnnnn, nnnnn, nnnnnnnn! --!!"
+TP
+
+
+WVP 0 vfCCD0001you152
+Youko: "Th-three......"
+TP
+
+
+She's cumming again.
+TP
+
+
+Her intervals are short.
+TP
+
+
+I turned it off.
+TP
+
+
+WVP 0 vfCCD0001you153
+Youko: "......haa, haa."
+TP
+
+
+On.
+TP
+
+
+I changed it to a mode that alternated between the strongest and weakest settings every five seconds.
+TP
+
+
+WVP 0 vfCCD0001you154
+Youko: "......uu!......Uuu......haa......aau......uuu..."
+//It sounds so much hotter this way. Seriously though, the dialogue appeared right below the "Youko:". Hope this makes it fit in 1 line.-Spin
+//Fixed to be multiples of 3.  Still fits, though looks like just barely. ~Bal
+TP
+
+
+Taichi: "We must live on, even in these times."
+TP
+
+
+WVP 0 vfCCD0001msa062
+Misato: "That's true, it'll be hard."
+TP
+
+
+WVP 0 vfCCD0001you155
+Youko: "A......ya......nn!......Taichiii......"
+TP
+
+
+A crying voice.
+TP
+
+
+I started to pull it out again.
+TP
+
+
+But pushed it back in.
+//Makes it sound more masochistic.-Spin
+TP
+
+
+WVP 0 vfCCD0001you156
+Youko: "......aaoh!......Nn!......"
+TP
+
+
+I intentionally pulled it almost all the way out.
+TP
+
+
+WVP 0 vfCCD0001you157
+Youko: "---nnn!!?"
+TP
+
+
+But yet again inserted it as deep as possible.
+TP
+
+
+WVP 0 vfCCD0001you158
+Youko: "Uuuuu!......Aaaa......"
+TP
+
+
+She's amazingly wet.
+TP
+
+
+I tried flipping the rear of her skirt.
+TP
+
+
+It was flowing down from her haunches to her inner thighs, becoming quite provocative.
+TP
+
+
+Countless drops fell to the ground, making a small puddle.
+TP
+
+
+And while I thought that, she made even more of them.
+TP
+
+
+I pushed in.
+TP
+
+
+WVP 0 vfCCD0001you159
+Youko: "............hi!!!?"
+TP
+
+
+A momentary convulsion. A short scream.
+TP
+
+
+Sempai showed her reaction a beat late.
+TP
+
+
+She appeared to be rather overwhelmed.
+TP
+
+
+WVP 0 vfCCD0001msa063
+Misato: "Wh-what's wrong?"
+TP
+
+
+Taichi: "That's a hiccup."
+TP
+
+
+WVP 0 vfCCD0001you160
+Youko: "That was......fo-ur......"
+TP
+
+
+WVP 0 vfCCD0001you161
+Youko: "......haa, uuu......tight......no......I... can't......"
+TP
+
+
+She's felt all she can.
+TP
+
+
+As I caressed her haunches, her muscles convulsed as if they had a mind of their own.
+TP
+
+
+WVP 0 vfCCD0001you162
+Youko: "......f-five......nn!......-----!!"
+//Oh how I envy girls and their almost nonexistent refractory periods.-Spin
+TP
+
+
+She's breathing out sweat.
+TP
+
+
+If I looked down now, I'd probably find she'd suffered incontinence.
+TP
+
+
+It fell to the ground from her inner thighs, sparkling.
+TP
+
+
+WVP 0 vfCCD0001you163
+Youko: "......nn!......no......weaken...it......aku......"
+TP
+
+
+WVP 0 vfCCD0001msa064
+Misato: "Somehow......this is making my heart throb...... umm..."
+TP
+
+
+Sempai began to feel something obscene.
+TP
+
+
+Taichi: "You'll get used to it. She didn't mean anything like that anyway."
+TP
+
+
+WVP 0 vfCCD0001msa065
+Misato: "I see......I guess that's okay."
+TP
+
+
+WVP 0 vfCCD0001you164
+Youko: "......haan, nn, uu!......Haahaa...nn......a......"
+TP
+
+
+Convulsions.
+TP
+
+
+WVP 0 vfCCD0001you165
+Youko: "Six......"
+TP
+
+
+She just keeps cumming.
+TP
+
+
+WVP 0 vfCCD0001you166
+Youko: "......u......uuu......seve......n......nii!!!"
+TP
+
+
+WVP 0 vfCCD0001you167
+Youko: "Nn! Haa, ha!......Aau---"
+TP
+
+
+WVP 0 vfCCD0001msa066
+Misato: "My, you're sweating."
+TP
+
+
+WVP 0 vfCCD0001msa067
+Misato: "Please use this."
+TP
+
+
+A handkerchief.
+TP
+
+
+WVP 0 vfCCD0001you168
+Youko: "Haa, haa, haa, haa......"
+TP
+
+
+Youko-chan can't move.
+TP
+
+
+She's holding herself and stiffening up.
+TP
+
+
+Taichi: "Come on, take it."
+TP
+
+
+WVP 0 vfCCD0001you169
+Youko: "Haa......im-possible......if I moved even a little......I'd......hau!......Nna!!?"
+TP
+
+
+WVP 0 vfCCD0001you170
+Youko: "......eigh-t!............"
+TP
+
+
+WVP 0 vfCCD0001msa068
+Misato: "What might this counting mean......?"
+TP
+
+
+Taichi: "She actually has a heavy mental sickness that makes her mentally unstable when she's not stretching."
+TP
+
+
+WVP 0 vfCCD0001msa069
+Misato: "......haa."
+TP
+
+
+Taichi: "She looks like she standing here, but she's actually stretching right now."
+TP
+
+
+WVP 0 vfCCD0001msa070
+Misato: "I see, all the mysteries are solved!"
+TP
+
+
+Sempai was relieved.
+TP
+
+
+WVP 0 vfCCD0001msa071
+Misato: "That strange fidgeting is stretching, and she's counting those stretches, and her face is red because that exercise is working. Is that it?"
+TP
+
+
+Taichi: "That's my Sempai! Mostly correct answers."
+TP
+
+
+WVP 0 vfCCD0001msa072
+Misato: "Eh-heh-heh."
+TP
+
+
+'Mostly' since her body is fidgeting because her pu**y feels good.
+TP
+
+
+And she's counting the number of orgasms.
+TP
+
+
+And her face is red because the rotor is putting too much force into her sphincter for it to close.
+TP
+
+
+......although, she's actually close.
+TP
+
+
+WVP 0 vfCCD0001msa073
+Misato: "I understand. So I will not worry about Hasekura-san's behavior in the slightest. I respect her."
+TP
+
+
+Taichi: "That's great, Youko-chan! Here's someone who can understand you well."
+TP
+
+
+I massaged her anus.
+TP
+
+
+WVP 0 vfCCD0001you171
+Youko: "......uuuuuu............sto-! Noo......It won't, stooop......for......giv............-----!!!!"
+TP
+
+
+WVP 0 vfCCD0001you172
+Youko: "Nine............uuu! And again......teeen......"
+TP
+
+
+Repeated cumming.
+TP
+
+
+WVP 0 vfCCD0001msa074
+Misato: "I'll wipe off that sweat for you."
+TP
+
+
+WVP 0 vfCCD0001you173
+Youko: "......ah, no......if you touch me......"
+TP
+
+
+Sempai's handkerchief softly touched her neck (erogenous zone).
+TP
+
+
+At the same time, the rotor I'd turned off touched the deepest part of her vagina.
+TP
+
+
+And then---ignition.
+TP
+
+
+WVP 0 vfCCD0001you174
+Youko: "......kya!......Ah!............e-leven......nnoh! Uu......uuuuu......-----!!"
+TP
+
+
+She held herself, continuing to climax while standing.
+TP
+
+
+At the same time, her physical body renounced consciousness.
+TP
+
+
+
+
+
+
+
+
+$SNCCD0022a = 1
+
+IF $KAISOU == 0 JMP N_SCENE101
+RET
+
+:N_SCENE101
+IF $nonero != 1 JMP yokoHend2
+:yokoHend1
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 109 1
+
+......
+TP
+
+............
+TP
+
+........................
+TP
+
+With a powerful rotary device, I induced eleven sequential orgasms within Youko-chan until she could no longer remain conscious, much less stand up.
+//Should this be phrased "in Youko-chan until she" or something? For some reason I don't remember. Å`IX
+//Ah, I changed it to that automatically. I've become psychic! - Sheeta
+TP
+
+I wove intricate and laughable lies to prevent Sempai from noticing the entire time. She seemed to accept them wholeheartedly.
+//As usual, please tell me if you can suggest any improvements to these lines. Especially since this transition is the most awkward thus far, simply because the hscene ends so abruptly. Å`IX
+TP
+
+:yokoHend2
+
+
+
+
+
+
+GL 0 bgcc0007
+GL 1 TCMM0004
+GP 1 225 0
+GS 0 1
+GS 1 1
+SEF 155 0
+
+
+WVP 0 vfCCD0001msa075
+Misato: "Ah, Hasekura-san!"
+TP
+
+She collapsed.
+TP
+
+
+I caught her.
+TP
+
+
+I stealthily recovered the rotor.
+TP
+
+
+Taichi: "Aaah, she did it again......this happens a lot when she stretches too much."
+TP
+
+GL 1 TCMM0000
+GI 1 0
+WVP 0 vfCCD0001msa076
+Misato: "Yeah, stretching is pretty tough."
+TP
+
+
+Taichi: "I'll take her to the health room so she can rest. Bye."
+TP
+
+WVS 1 1
+
+GL 1 TCMM0002
+GI 1 0
+WVP 0 vfCCD0001msa077
+Misato: "Okay, see you later."
+TP
+
+
+I carried her on my back and left.
+TP
+GL 0 bgcc0012
+GS 0 1
+GS 1 0
+SEF 152 0
+
+I laid Youko-chan down in the health room.
+TP
+
+
+She'd completely lost consciousness.
+TP
+
+
+Taichi: "Hahaha."
+TP
+
+
+This was strange.
+TP
+
+
+Anger reacts to strangeness.
+TP
+
+
+When people understand one another.
+TP
+
+
+Taichi: "I might go berserk at some point, but let's make this work as best as we can."
+TP
+
+
+
+........................
+TP
+GL 0 bgcc0011a
+GS 0 1
+SEF 152 0
+
+
+Before leaving the school, I looked up at the roof.
+TP
+
+
+That was when Mimi-sempai jumped off.
+TP
+
+
+Taichi: "........................"
+TP
+
+
+I saw the moment when the soft Sempai was sucked into and broken by the hard ground.
+TP
+
+GL 0 bgcc0000d
+GI 0 1
+SEF 101 0
+
+My emotions flew into an uncontrollable domain.
+TP
+
+
+
+........................
+TP
+
+WT 500 0
+WT 1000 1
+
+
+GL 5 efcc0003
+GP 5 0 0 0
+GS 5 1
+SEF 10 0
+GS 5 0
+SEF 10 0
+
+Taichi: "Uu......"
+TP
+
+
+I felt like vomiting.
+TP
+
+
+Several times it felt like my stomach acid was coming up.
+TP
+
+
+The red scenery was simply dazzling.
+TP
+
+
+That's not physical, is it?
+TP
+
+
+Even so, a mental......it doesn't seem that way either.
+TP
+
+
+It's a scene of reality, and ÅwsomethingÅx staining my vision. I was inside a whirlpool of those two things.
+TP
+
+
+Obviously, I hate red.
+TP
+
+
+Seeing it places a high burden on my mind.
+TP
+
+
+It's nearly torture.
+TP
+
+
+That feeling of wanting to vomit was brought on by that burden, which was also my......what could be called, my defense mechanisms for protecting my character.
+TP
+
+
+Pure red eroded away the parts of my consciousness not covered in static.
+TP
+
+
+This sense of abhorrence fulfills the role of a filter.
+TP
+
+
+My body's five senses were dull. I mean they were gone.
+TP
+
+
+I felt like I was sleepwalking, and was conscious of a dull listlessness as if I was lying down.
+TP
+
+
+I'll begin the lecture.
+TP
+
+
+
+
+1) Regarding Mimi-sempai
+TP
+
+
+
+Had she noticed the shameful play I'd done with Youko-chan?
+That question has no meaning whatsoever.
+TP
+
+
+
+2) Regarding Sakuraba
+TP
+
+
+
+Sakuraba didn't resist.
+He might not have been able to understand the situation.
+TP
+
+
+
+3) Regarding Kiri and Miki
+TP
+
+
+
+The first thing I should be careful of is Kiri's weapon.
+Since they're a pair, Miki might also be carrying a similar weapon.
+TP
+
+
+Normally I'd start with Kiri.
+Since she's the one with attack strength.
+TP
+
+
+But since Miki's threat level is an unknown number, I need to be wary of her as well.
+I'll investigate how much battle strength Miki has. I established that as the first step in the sequence.
+TP
+
+
+I did it, and it went well.
+TP
+
+
+
+4) Regarding Touko
+TP
+
+
+
+She'd died.
+TP
+
+
+
+5) Regarding Tomoki
+TP
+
+
+
+He'd died.
+His corpse had been moved and hidden inside the prefab structure.
+The water inside the mop bucket on the roof was blackish red.
+TP
+
+
+That was all.
+TP
+
+
+
+6) Regarding Youko-chan
+TP
+
+
+
+She didn't resist.
+TP
+
+GL 4 evcc0063
+$CGevcc0063 = 1
+GI 4 0
+GO 4 1
+
+
+Taichi: "Ah......"
+TP
+
+
+This sort of thing happened before---
+TP
+
+
+
+........................
+TP
+
+
+............
+TP
+
+
+......
+TP
+
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 109 1
+
+
+Taichi: "Ah......"
+TP
+
+
+The sun went down.
+TP
+
+
+Together with my rationality.
+TP
+
+
+Have I been growing senile this whole time?
+TP
+
+
+I confirmed the situation I was left in.
+TP
+
+
+First, what day is this?
+TP
+
+
+It's obvious.
+TP
+
+
+Because it was evening when I went out the front gate.
+TP
+
+
+I passed another whole day.
+TP
+
+
+One day passed, and I---
+//These two lines are likely this vague on purpose. I have no idea if these are the same day or not. Å`IX
+TP
+
+
+Aaah...an amazing sunset.
+TP
+
+
+A faint shading with a vermillion keynote could be seen through the atmosphere.
+TP
+
+
+I looked down at myself. My shirt was stained black.
+TP
+
+
+The blood of four people.
+TP
+
+
+Taichi: "......uuu......uu! Uuuu!......"
+TP
+
+
+I opened my mouth like a beast, and from the bottom of my lungs,
+TP
+
+
+Wrung out a voiceless cry.
+TP
+
+
+
+The red spread out everywhere---
+TP
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 109
+
+Sunday...at least, it should be.
+//Not sure if he's refering to when time restarts or if he meant the current day. I chose the latter.-Spin
+TP
+
+
+I stood alone on the roof.
+TP
+
+
+Youko-chan had hardly resisted at all.
+TP
+
+
+I looked at her hand.
+TP
+
+
+Both hands, dripping red.
+TP
+
+
+Taichi: "............"
+TP
+
+
+It wasn't just Youko-chan lying down.
+TP
+
+
+Everyone was here.
+TP
+
+
+Wait, why did it turn out like this?
+TP
+
+
+It's true the antenna was broken, and everyone gathered, and Tomoki was the culprit, and Kiri held up a crossbow.
+TP
+
+
+Youko-chan ****ed Kiri.
+//hehe
+TP
+
+
+She tried to do the same to everyone who tried to stop her.
+TP
+
+
+Like a ****ing machine.
+//hehehe
+TP
+
+
+So I had no choice but to **** Youko-chan.
+//hehehehe
+TP
+
+
+I said ÅwIt's all rightÅx to everyone who lived through it, then......who was it......that picked up the knife and pointed it toward me?
+TP
+
+
+As if I was a monster.
+TP
+
+
+I'm not a monster.
+TP
+
+
+Then, I ****ed despite myself.
+TP
+
+
+I ****ed everyone.
+TP
+
+
+I ****ed Miki before she ****ed me.
+TP
+
+
+I broke.
+TP
+
+
+I broke a lot. It was tough.
+TP
+
+
+I have a feeling I ****ed one or two more after that...
+TP
+
+
+Did I **** them because they ****ed?
+//hehehehehehehehe
+TP
+
+
+The other way around?
+TP
+
+
+Which is worse?
+TP
+
+
+It's not in my memory.
+TP
+
+
+Just what was I doing yesterday?
+TP
+
+
+I can't remember anymore.
+TP
+
+
+It's a trivial thing. Compared to today.
+TP
+
+
+Aaah, I did **** everyone.
+//God I'm loving this.-Spin
+TP
+
+
+Is there someone who will **** me?
+TP
+
+
+Is there no one?
+TP
+
+
+I lay down.
+//Not sure if it's past tense or present but if it's present then switch that with "lie" instead.-Spin
+TP
+
+
+GL 0 bgcc0000a
+GS 0 1
+SEF 109
+
+The sky was beautiful.
+TP
+
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 109
+
+The sky was filthy.
+TP
+
+
+Taichi: "Red---"
+TP
+
+
+Even from me, tears came out.
+TP
+
+
+........................
+TP
+
+
+............
+TP
+
+
+......
+TP
+
+
+
+GO 0 1
+
+WT 3000
+WT 3000 1
+
+
+RET
+

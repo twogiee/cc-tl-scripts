@@ -1,0 +1,103 @@
+
+
+//太一「さて」
+Taichi: "So then."
+TP
+
+//ふぁさぁっと前髪を払う。
+With a 'fwasah' I sweep my bangs.
+//PCP CCA0013
+TP
+
+//太一「邪魔したな」
+Taichi: "Sorry for the interruption."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfccb0009mki000
+//美希「おつとめご苦労様です」
+Miki: "Thank you very much for everything!"
+//PCP CCA0021
+//...though the difference's a held vowel. -GHS
+TP
+
+//太一「そうだ、美希」
+Taichi: "Ah, yes, Miki."
+//CP CCA009C
+TP
+
+//立ち止まる。
+I stop.
+//CP CCA009C
+TP
+
+//大切なことを伝え忘れていた。
+I forgot to tell her something very important.
+//CP CCA009C
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfccb0009mki001
+//美希「はい」
+Miki: "Yes?"
+//CP CCA009C
+TP
+
+//太一「そろそろ部活、活動再開するってさ」
+Taichi: "I'm hearing that Club is going to be starting up again any time now."
+//CP CCA009C
+//And here's where she's learned that って. -GHS
+TP
+
+GL 1 tcym0021
+GI 1 0
+//HACK doubty Miki -GHS
+
+WVP 0 vfccb0009mki002
+//美希「部活ですか？」
+Miki: "Club activities, you say?"
+TP
+
+//太一「どうしても心がきつくなったら、顔を出してみるといい」
+Taichi: "If your heart grows hard no matter what you do, please show face."
+TP
+
+//太一「そういうための、部活だろうから」
+Taichi: "Because club activities exist just for that."
+TP
+
+//ゆっくりと、美希の顔に理解がさした。
+Slowly, understanding dawned on Miki's face.
+TP
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfccb0009mki003
+//美希「……はい」
+Miki: "...yes!"
+TP
+GO 1 1
+//喜びだけでないなにかが、そこには混入していた。
+Something that was more than just happiness was mixed in that face.
+TP
+
+
+
+WVS 1 1
+
+
+
+
+
+
+CSQ 0 1 1
+//　・教室に行く
+//　・屋上に行く
+- Go to classroom
+- Go to rooftop
+
+RET
+

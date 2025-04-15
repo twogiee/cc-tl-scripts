@@ -1,0 +1,117 @@
+GL 0 bgcc0006
+GS 1 0
+GS 0 1
+GS 2 0
+SEF 152 0
+WT 500 0
+WT 1000 1
+
+
+GL 1 evcc0011
+$CGevcc0011 = 1
+GP 1 0 0
+GS 1 1
+SEF 109 0
+Touko was there.
+//CP_T cca0013
+TP
+WVP 1 bgm013.ogg 0 0 0
+
+
+
+Come to think of it, isn't she always the first to show up here?
+TP
+
+Taichi: "Morning."
+TP
+
+WVP 0 vfcca0013fyu000
+Touko: "......(hmph)"
+TP
+
+Cold shoulder?
+TP
+
+You're giving me the cold shoulder?
+TP
+
+Taichi: "Panties......"
+TP
+
+WVP 0 vfcca0013fyu001
+Touko: "Tedious."
+TP
+
+Taichi: "Would you buy my panties?"
+TP
+GL 0 bgcc0006
+GL 1 TCKT0003
+
+WVP 2 se006 1 0
+GP 1 230 0
+GS 0 1
+GS 1 1
+SEF 109 0
+
+WVP 0 vfcca0013fyu002
+Touko: "Whyyy do I have to buy your panties!?"
+TP
+
+Touko shoved her desk aside as she stood up.
+TP
+
+Taichi: "You're hot-tempered in the morning."
+TP
+
+I gave her a thumbs-up.
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfcca0013fyu003
+Touko: "......"
+TP
+
+Touko grabbed my thumb and jerked it sharply to one side.
+TP
+
+Taichi: "Gieeeeeeee!!!"
+TP
+
+Taichi: "You moron! What if you broke it!? How am I supposed to masturbate now!?"
+TP
+
+I'm just glad I didn't lose my whole hand.
+TP
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfcca0013fyu004
+Touko: "Don't talk to me."
+TP
+
+Taichi: "Did you watch the TV yesterday?"
+TP
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfcca0013fyu005
+Touko: "Don't talk to me!"
+TP
+
+Taichi: "......muu."
+TP
+
+If you tell me not to talk to you with such a bitter tongue, that just makes me want to talk more.
+TP
+
+But when I speak to her again, her bitter tongue once more tells me not to talk.
+TP
+
+
+
+CSQ 0 1 1
+  -Talk to her
+  -Go to club
+RET

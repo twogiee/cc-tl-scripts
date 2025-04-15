@@ -1,0 +1,2226 @@
+
+TWS 0
+
+IF $KAISOU == 1 JMP SCENE001
+
+
+
+
+GL 0 bgcc0003b
+GS 0 1
+GS 1 0
+SEF 10 2
+
+
+
+
+Taichi: "Ouchhhh......"
+TP
+
+WVP 1 bgm021.ogg 0 0 0
+
+I was beaten awake by aches and pains.
+//That's how it's said.-Spin
+TP
+
+Taichi: "Ha! This is my.......secret room?"
+//Without that, it seemed like he was being literal. I'm assuming he's just being normal Taichi and making a joke.-Spin
+TP
+
+Ah, the clothes I'm wearing aren't part of my uniform.
+TP
+
+My wounds have been dressed. And quite well.
+TP
+
+Youko-chan......she died, didn't she?
+TP
+
+GL 1 TCYM0000c
+GP 1 180 0
+GI 1 1
+WVP 0 vfCCC4022mki000
+Miki: "Ah, good morning."
+TP
+
+Miki came in.
+TP
+
+Taichi: "Miki is Micchi!?"
+TP
+GL 1 TCYM0003c
+GI 1 0
+WVP 0 vfCCC4022mki001
+Miki: "I am Micchi. Though that's pretty forced."
+TP
+
+
+GL 1 TCYM0001c
+GI 1 0
+WVP 0 vfCCC4022mki002
+Miki: "There's no food at all in this house, so I stole some rice and miso from the neighbors."
+TP
+
+Taichi: "Aaah, Mutsumi-san didn't have much time to cook."
+//Since someone didn't get it the first time, there's no "oba" here. Don't add one. Å`IX
+TP
+
+She only buys what she needs to make stuff.
+TP
+
+GL 1 TCYM0002c
+GI 1 0
+WVP 0 vfCCC4022mki003
+Miki: "Does it hurt?"
+TP
+
+Taichi: "It huuurts."
+TP
+
+I cried.
+TP
+
+
+GL 1 TCYM0003c
+GI 1 0
+WVP 0 vfCCC4022mki004
+Miki: "Aaah, there, there. Here, have some menstrual medicine."
+//No idea what that means. Wiki turned up zilch. Å`IX
+//Medicine for period pains :P - Sheeta
+//Even I knew that one. But then again, I do have extensive knowledge in stuff like this. ;)-Spin
+TP
+
+Taichi: "I don't need that!"
+TP
+
+I threw it away.
+TP
+GL 1 TCYM0002c
+GI 1 0
+
+WVP 0 vfCCC4022mki005
+Miki: "Well...it works as a painkiller......so..."
+TP
+
+Taichi: "Ah, that's right, I'm sorry."
+TP
+
+GL 1 TCYM0000c
+GI 1 0
+WVP 0 vfCCC4022mki006
+Miki: "I cooked you some food."
+TP
+
+Taichi: "......what's this star-shaped object that looks like a giant kompeitou?"
+//Yay, another callback reference half of you have forgotten. Å`IX
+//I grepped the old scripts this time. :3 ~Bal
+TP
+
+It looked overly distorted, as if the maker was trying to create something ridiculously beautiful.
+//There's gotta be a better way to write this, but nothing's coming to me. Å`IX
+//My attempt - Sheeta
+TP
+GL 1 TCYM0003c
+GI 1 0
+
+WVP 0 vfCCC4022mki007
+Miki: "It's a rice ball."
+TP
+
+Taichi: "You entered the castle of geniuses by having too little skill."
+TP
+
+GL 1 TCYM0000c
+GI 1 0
+WVP 0 vfCCC4022mki008
+Miki: "Eh......?"
+TP
+
+Taichi: "How do you hold it to make this shape?"
+IF $tlnote == 1 (TL note: Rice balls are usually made by rolling sticky rice around in one's hands until it holds an ovoid shape.)
+TP
+
+WVP 0 vfCCC4022mki009
+Miki: "Normally."
+TP
+
+Taichi: "A mysterious rice ball indeed."
+TP
+
+I tried eating it.
+TP
+
+Taichi: "Uwa, it's good."
+TP
+
+GL 1 TCYM0003c
+GI 1 0
+WVP 0 vfCCC4022mki010
+Miki: "How do you feel?"
+TP
+
+Taichi: "......hoo."
+TP
+
+Strong seasoning.
+//Should that be "heavy"? And yikes, I have a lot of questions to ask today. Å`IX
+//It's fine. I like the alliteration ^^ - Sheeta
+TP
+
+As my body lacked blood, it permeated me.
+TP
+
+I flattened three of them immediately.
+TP
+
+I drank the miso in one gulp.
+TP
+
+Taichi: ......*siiigh*
+TP
+
+GL 1 TCYM0000c
+GI 1 0
+WVP 0 vfCCC4022mki011
+Miki: "How was it?"
+TP
+
+Taichi: "My wounds hurt, but sex is possible, Miki."
+TP
+
+WVP 0 vfCCC4022mki012
+Miki: "Please think of a question."
+TP
+
+Taichi: "......then..."
+TP
+
+GL 1 TCYM0000c
+GI 1 0
+WVP 0 vfCCC4022mki013
+Miki: "Then......?"
+TP
+
+Taichi: "Why did you let me live?"
+TP
+
+GL 1 TCYM0021c
+GI 1 0
+WVP 0 vfCCC4022mki014
+Miki: "......nnn, somehow it seemed like you weren't berserk anymore......and..."
+TP
+
+WVP 0 vfCCC4022mki015
+Miki: "I wanted to talk to Sempai after he knew everything......I guess."
+TP
+
+Taichi: "You know, before you made me pass out......"
+TP
+GL 1 TCYM0004c
+GI 1 0
+WVP 0 vfCCC4022mki016
+Miki: "Wawaaawaaa! That didn't happen!"
+TP
+
+She flapped her hands.
+TP
+
+WVP 0 vfCCC4022mki017
+Miki: "I was intending to kill you back then, I swear!"
+//Not entirely sure if this is what was meant since for some reason I'm just not following any of this.-Spin
+//Don't answer to this, you'll see why in my next two comments.-Future Spin
+TP
+
+Taichi: "......I've already heard it."
+TP
+
+GL 1 TCYM0041c
+GI 1 0
+WVP 0 vfCCC4022mki018
+Miki: "Uu, uuuuuuu..."
+TP
+
+Her face was red.
+TP
+
+Taichi: "You appear to have the emotion of shame."
+TP
+
+GL 1 TCYM0000c
+GI 1 0
+WVP 0 vfCCC4022mki019
+Miki: "Well, I do have all the basic emotions."
+TP
+
+WVP 0 vfCCC4022mki020
+Miki: "I'm just uninterested in others, hmph."
+TP
+
+Miki said 'hmph' and turned the other way.
+TP
+
+Taichi: "I thought I was just being played with."
+TP
+
+GL 1 TCYM0003c
+GI 1 0
+WVP 0 vfCCC4022mki021
+Miki: "......there's that too."
+TP
+
+There is?
+TP
+
+Taichi: "Hey......could it be, that we're the only two people alive in this world?"
+TP
+
+GL 1 TCYM0000c
+GI 1 0
+WVP 0 vfCCC4022mki022
+Miki: "Sakuraba-sempai......"
+TP
+
+Taichi: "He'll die by the roadside. Probably. He might already be dead. Maybe he fell off his bike and got hit in the head by his baggage......or something."
+TP
+
+WVP 0 vfCCC4022mki023
+Miki: "......seems likely."
+TP
+
+Taichi: "They've really all gone."
+TP
+
+WVP 0 vfCCC4022mki024
+Miki: "When next week comes, everyone will be revived again."
+//OK, I am DEFINITELY missing something here. I don't know how she found out or how Misato, Kiri, and Tomoki died.-Spin
+//Oh, did some snooping around and found out I missed a script. I'll come back to this after that then.-Spin
+//And that's why I didn't understand wtf was going on. I should get a reward for leaving three seperate comments. -Future Spin
+TP
+
+Taichi: "If I stay at the hokora, will the current me be maintained?"
+TP
+GL 1 TCYM0001c
+GI 1 0
+WVP 0 vfCCC4022mki025
+Miki: "Yes, that's right. Will you live as you are now?"
+TP
+
+Taichi: "Hmmm."
+TP
+
+Taichi: "My memories this week are a bit harsh..."
+TP
+
+Taichi: "......but somehow, a part of me feels fine even though everyone died."
+TP
+
+Miki: "............"
+TP
+
+Taichi: "My heart won't cry."
+TP
+
+Taichi: "......I think it might be nice to forget that."
+TP
+
+GL 1 TCYM0000c
+GI 1 0
+WVP 0 vfCCC4022mki027
+Miki: "That's true."
+TP
+
+Taichi: "If the world is repeating......I might go berserk and hurt people several times, right?"
+TP
+
+Taichi: "Friends, family, comrades, people I love."
+TP
+
+Taichi: "Killing over and over......to live on with those memories intact......"
+TP
+
+Taichi: "I'm sure my heart would break."
+TP
+
+Taichi: "Well, it's already breaking, but it'd probably break more."
+TP
+
+Taichi: "My heart would die."
+TP
+
+I said that much, then realized I was suggesting something to Miki.
+TP
+
+Taichi: "Ah, sorry......"
+TP
+
+GL 1 TCYM0003c
+GI 1 0
+
+WVP 0 vfCCC4022mki028
+Miki: "Iiit's fiiine."
+TP
+
+WVP 0 vfCCC4022mki029
+Miki: "That's actually happening."
+TP
+
+GL 1 TCYM0000c
+GI 1 0
+WVP 0 vfCCC4022mki030
+Miki: "There've been some horrible times...when, in order to escape from a berserk Sempai...I sacrificed everyone else."
+TP
+
+Taichi: "Aaah, sorry about that. I'm to blame."
+TP
+
+Taichi: "After all, isn't it normal to care about yourself most of all? Isn't that just fine?"
+TP
+GL 1 TCYM0001c
+GI 1 0
+
+WVP 0 vfCCC4022mki031
+Miki: "......but..."
+TP
+
+Taichi: "Well, self-sacrifice is good too, but not everyone can do something so beautiful."
+TP
+
+Taichi: "This was a world that demanded beauty, wasn't it?"
+TP
+
+Taichi: "I...in order to be accepted by the world, did my best to behave in a friendly manner......for years and years, but nothing's changed."
+TP
+GL 1 TCYM0000c
+GI 1 0
+WVP 0 vfCCC4022mki032
+Miki: "......is that so?"
+TP
+
+Taichi: "And somehow, I'm really grateful that there was someone who'd fall in love with me anyway."
+TP
+GL 1 TCYM0002c
+GI 1 0
+WVP 0 vfCCC4022mki033
+Miki: "............au."
+TP
+
+Taichi: "You remember Yuusa-chan, right?"
+TP
+
+GL 1 TCYM0000c
+GI 1 0
+WVP 0 vfCCC4022mki034
+Miki: "Yes."
+TP
+
+Taichi: "Why do you think that girl disappeared?"
+TP
+
+Her neatly arranged features changed their positions slightly, wonderfully displaying her doubt.
+TP
+GL 1 TCYM0001c
+GI 1 0
+WVP 0 vfCCC4022mki035
+Miki: "Did Sempai do something horrible to her?"
+TP
+
+Taichi: "Bingo."
+TP
+
+Taichi: "In the end, what I showed her was only a dressed-up, superficial me."
+TP
+
+Taichi: "......it must have been a shock for her."
+TP
+
+GL 1 TCYM0000c
+GI 1 0
+WVP 0 vfCCC4022mki036
+Miki: "Seven."
+TP
+
+Taichi: "Eh?"
+TP
+
+GL 1 TCYM0001c
+GI 1 0
+WVP 0 vfCCC4022mki037
+Miki: "I'm always using Kiri-chin, but that's the number of times she found out."
+TP
+
+Taichi: "......that's quite a few."
+TP
+
+
+GL 1 TCYM0001c
+GI 1 0
+WVP 0 vfCCC4022mki038
+Miki: "I blunder a lot."
+TP
+
+Taichi: "Come to think of it, your kick on Monday was sharp."
+TP
+GL 1 TCYM0003c
+GI 1 0
+WVP 0 vfCCC4022mki039
+Miki: "Ehaha."
+TP
+
+Taichi: "If you did some survival training on your own, you'd be able to use that body of yours so much better."
+TP
+GL 1 TCYM0000c
+GI 1 0
+
+WVP 0 vfCCC4022mki040
+Miki: "You're drunk from your own talent."
+TP
+
+Taichi: "......so, how did Kiri-chin react?"
+TP
+
+GL 1 TCYM0003c
+GI 1 0
+WVP 0 vfCCC4022mki041
+Miki: "Weeell..."
+TP
+
+She smiled facetiously.
+TP
+GL 1 TCYM0001c
+GI 1 0
+WVP 0 vfCCC4022mki042
+Miki: "At first she was just blankly amazed. Then......"
+TP
+
+She darkened.
+TP
+GL 1 TCYM0002c
+GI 1 0
+
+WVP 0 vfCCC4022mki043
+Miki: "......well, she was suitably dealt with."
+TP
+
+Taichi: "Was it tough?"
+TP
+
+WVP 0 vfCCC4022mki044
+Miki: "......tough......I feel like it was."
+TP
+
+GL 1 TCYM0000c
+GI 1 0
+WVP 0 vfCCC4022mki045
+Miki: "But there was also the feeling that it didn't matter."
+TP
+
+WVP 0 vfCCC4022mki046
+Miki: "But you get used to it. Until now we've always been a pair, so we'll always be a pair. That won't change."
+TP
+
+GL 1 TCYM0001c
+GI 1 0
+WVP 0 vfCCC4022mki047
+Miki: "......neither will our feelings."
+TP
+
+Taichi: "I'm similar to that in a way."
+TP
+
+GL 1 TCYM0000c
+GI 1 0
+WVP 0 vfCCC4022mki048
+Miki: "Weeell, living is......"
+TP
+
+Taichi: "Hard......"
+TP
+
+GL 1 TCYM0002c
+GI 1 0
+WVP 0 vfCCC4022mki049
+Miki: "Yes......"
+TP
+
+Doubly quiet.
+TP
+
+Taichi: "So what will you do? From now on?"
+TP
+
+GL 1 TCYM0000c
+GI 1 0
+WVP 0 vfCCC4022mki050
+Miki: "Aaah, that's right."
+TP
+
+WVP 0 vfCCC4022mki051
+Miki: "Either way, I want to be in the hokora at midday tomorrow, so..."
+TP
+
+Taichi: "I'd like to experience that world reset."
+TP
+
+GL 1 TCYM0001c
+GI 1 0
+WVP 0 vfCCC4022mki052
+Miki: "Okay, then I'll......"
+TP
+
+Miki hesitated awhile, then came closer.
+TP
+
+I evaded.
+TP
+GO 1 1
+
+WVP 0 vfCCC4022mki053
+Miki: "Gafu!"
+TP
+
+Miki fell over the bedstead.
+TP
+GL 1 TCYM0041c
+GI 1 1
+WVP 0 vfCCC4022mki054
+Miki: "Aaah......you're just..."
+TP
+
+Taichi: "Sorry, I couldn't help it."
+TP
+
+WVP 0 vfCCC4022mki055
+Miki: "Worthless......"
+TP
+GL 1 TCYM0001c
+GI 1 0
+
+WVP 0 vfCCC4022mki056
+Miki: "I'm going home. Sempai, please have sex with yourself using those perverted books in the safe over there which surpass my imagination."
+TP
+
+
+She knows!
+TP
+
+No, more importantly,
+TP
+
+Taichi: "Wait, wait,"
+TP
+
+I grabbed her wrist,
+TP
+GO 1 1
+
+And pulled her closer.
+TP
+WVP 0 vfCCC4022mki057
+Miki: "Uu!?"
+TP
+
+
+
+
+
+
+
+
+IF $nonero == 1 JMP mikiHend1
+
+JMP N_SCENE001
+:SCENE001
+WVP 1 bgm021.ogg 0 0 0
+
+:N_SCENE001
+
+GL 0 evcc0019
+$CGevcc0019 = 1
+GS 0 1
+SEF 155 1
+In my arms.
+TP
+
+Taichi: "Sorry, I couldn't help being rough."
+TP
+
+WVP 0 vfCCC4022mki058
+Miki: "......this isn't romantic at all......"
+TP
+
+Taichi: "Wildness sells."
+TP
+
+WVP 0 vfCCC4022mki059
+Miki: "It's not wild either......liar, that's false advertising."
+TP
+
+Taichi: "Don't say that."
+TP
+
+WVP 0 vfCCC4022mki060
+Miki: "......haa, romance doesn't matter any more."
+TP
+
+Taichi: "That's what this world is."
+TP
+
+Miki alone became an adult.
+TP
+
+Taichi: "Are you fine with it being dark?"
+TP
+
+WVP 0 vfCCC4022mki061
+Miki: "......obviously it's better dark......"
+TP
+
+Not that it matters to me at all.
+TP
+
+I removed her clothes.
+TP
+
+WVP 0 vfCCC4022mki062
+Miki: "Yo-you're fast but skilled......I feel like crying, but..."
+TP
+
+Taichi: "I neglect not my skills for stripping girls."
+TP
+
+WVP 0 vfCCC4022mki063
+Miki: "You're the worst......"
+TP
+
+WVP 0 vfCCC4022mki064
+Miki: "Before I'm stripped......"
+TP
+
+Taichi: "Nn."
+TP
+
+Lips.
+TP
+
+Touching each other.
+TP
+
+Rubbing against each other, without affixing or parting.
+TP
+
+WVP 0 vfCCC4022mki065
+Miki: "Nn......nn......"
+TP
+
+A light lip talk.
+TP
+
+My tongue entered, and licked around her gums.
+TP
+
+WVP 0 vfCCC4022mki066
+Miki: "Fuyaa!???"
+TP
+
+I held her mouth with my hands, and she looked bewildered.
+TP
+
+Also, she was crying a bit.
+TP
+
+Taichi: "That's how this works."
+TP
+
+WVP 0 vfCCC4022mki067
+Miki: "Is that so......"
+TP
+
+Taichi: "Stop resisting and open your mouth."
+TP
+
+Second time. I pushed against her.
+TP
+
+WVP 0 vfCCC4022mki068
+Miki: "Nnmu......ah......nn! Nnn......fuafua......nnnnn ............! Fu!"
+TP
+
+WVP 0 vfCCC4022mki069
+Miki: "Ah......I'm being stripped......"
+TP
+
+I quickly licked up the saliva that fell into Miki's mouth.
+TP
+
+And onto her neck.
+TP
+
+WVP 0 vfCCC4022mki070
+Miki: "Uhi!......Hyaaaa."
+TP
+
+Miki's upper body tightened, and she produced a ticklish voice.
+TP
+
+I passed under her arms and touched her chest as well.
+TP
+
+WVP 0 vfCCC4022mki071
+Miki: "Ah......"
+TP
+
+She seemed surprised, but there was no resistance.
+TP
+
+While caressing her neck with my lips and nose, I touched her chest.
+TP
+
+A slightly fuller chest than that of the Miki I knew.
+//"fuller" doesn't quite feel right, but the correct adjective just isn't coming to me. Å`IX
+//Seems fine to me - Sheeta
+//Fully fits the phrase perfectly. ~Bal
+TP
+
+WVP 0 vfCCC4022mki072
+Miki: "Hya......nn, nnn, that, tickles......"
+TP
+
+WVP 0 vfCCC4022mki073
+Miki: "Nn, nnn, nnnn......a......"
+TP
+
+Cute.
+TP
+
+I left kiss marks on her.
+TP
+
+WVP 0 vfCCC4022mki074
+Miki: "Ah! Owww......"
+TP
+
+After all, it's only us two (excluding Sakuraba).
+//Sounds more natural.-Spin
+TP
+
+I fondled her chest as if enveloping it.
+TP
+
+......though it didn't have enough volume for me to say that, but I warmed it up as if massaging it.
+TP
+
+WVP 0 vfCCC4022mki075
+Miki: "Nn......"
+TP
+
+Taichi: "Does it tickle?"
+TP
+
+WVP 0 vfCCC4022mki076
+Miki: "......not that......"
+TP
+
+Taichi: "You'll soon get used to it."
+TP
+
+WVP 0 vfCCC4022mki077
+Miki: "Nn, nnn!......Aan......"
+TP
+
+While softly chewing her collarbone, I made marks on Miki's pure and clear upper body.
+TP
+
+Miki must have gotten a little used to it, as she became less tense.
+TP
+
+Obediently, so as not to interfere with my movements.
+TP
+
+WVP 0 vfCCC4022mki078
+Miki: "Hiu......aan! Ah......kya......nn............nnnnn ......Sempai......"
+TP
+
+Taichi: "It's okay to hold me."
+TP
+
+When I said that, her arms grabbed onto my back.
+TP
+
+Taichi: "I'll hold onto Miki as well."
+TP
+
+WVP 0 vfCCC4022mki079
+Miki: "Kya......nnnnnnnnn!"
+TP
+
+Another kiss mark.
+TP
+
+Leaving a mark on her brought me excitement.
+TP
+
+A lust for conquest?
+TP
+
+That's yet another way to connect with people.
+TP
+
+Taichi: "How is it?"
+TP
+
+WVP 0 vfCCC4022mki080
+Miki: "......the way Sempai touches me......feels good......"
+TP
+
+WVP 0 vfCCC4022mki081
+Miki: "My neck...seems to feel really good......I......"
+TP
+
+Taichi: "Then I'll kiss you more."
+TP
+
+There's a groove between the neck and the collarbone with a refreshing line men don't have.
+TP
+
+I stuck my tongue out and ran it along that beautiful spoon.
+TP
+
+WVP 0 vfCCC4022mki082
+Miki: "Uuu! Nn! Kyan!......Nn! Haa, haan!......"
+TP
+
+My fingers moved downward.
+TP
+
+Down her stomach, which had no excess fat, and tickled her navel.
+TP
+
+WVP 0 vfCCC4022mki083
+Miki: "Aaaaaaah......aaah......no, Sempai......don't enter my navel......"
+TP
+
+She thinks I'll enter it?
+TP
+
+I held back a laugh and moved even lower.
+TP
+
+WVP 0 vfCCC4022mki084
+Miki: "Ah............"
+TP
+
+She stiffened.
+TP
+
+Taichi: "It's all right."
+TP
+
+I whispered that, and stuck my tongue in her ear.
+TP
+
+WVP 0 vfCCC4022mki085
+Miki: "Nnn!! Nn......no, stop, don't lick, that's...... nn......ah!"
+TP
+
+My fingers passed through her bush.
+TP
+
+Nn, bush.
+TP
+
+I pulled back and enjoyed that sensation.
+TP
+
+WVP 0 vfCCC4022mki086
+Miki: "Th-that's just perverted hair......aaah......aan!"
+TP
+
+Taichi: "Even this hair is perverted?"
+TP
+
+I teased her a little.
+TP
+
+WVP 0 vfCCC4022mki087
+Miki: "......you're teasiiing......"
+TP
+
+Taichi: "Hahaha."
+TP
+
+For a while, I rolled that smooth hair around with my fingers.
+TP
+
+I devoured her ear.
+TP
+
+WVP 0 vfCCC4022mki088
+Miki: "Kya!? No......no......"
+TP
+
+Goosebumps formed on her neck.
+TP
+
+Aaah, her ear?
+TP
+
+I bit.
+TP
+
+A crunchy sensation.
+TP
+
+WVP 0 vfCCC4022mki089
+Miki: "Uuuuu! Uuuuuuuuuuuuuuu!"
+TP
+
+Sweat formed on her forehead.
+TP
+
+She seems to be feeling this too well.
+TP
+
+I lightly kissed her, then returned to her chest.
+TP
+
+WVP 0 vfCCC4022mki090
+Miki: "Fua, haahaa......Sempai......Taichi......sempai..."
+TP
+
+*squeeze*
+TP
+
+The hands on my back grabbed my clothes.
+TP
+
+......I felt like my back was about to be pulled off.
+TP
+
+My fingers fell to the base of her legs.
+TP
+
+WVP 0 vfCCC4022mki091
+Miki: "......a......"
+TP
+
+The middle of my index finger covered her gap perfectly.
+TP
+
+The central line was hot and sticky.
+TP
+
+And then,
+TP
+
+Taichi: "You're wet."
+TP
+
+WVP 0 vfCCC4022mki092
+Miki: "......I am wet."
+TP
+
+I pierced it.
+TP
+
+WVP 0 vfCCC4022mki093
+Miki: "Uu! Uuuuuuu......aau!......aan!......Haaaa, you're, entering......you're......"
+TP
+
+Taichi: "Yes, I'm entering."
+TP
+
+I twisted my fingertips.
+TP
+
+Her opened membranes and fluids were mixing up.
+TP
+
+I moved my fingers like spider legs.
+TP
+GL 0 evcc0019a
+$CGevcc0019a = 1
+GS 0 1
+SEF 109 0
+
+WVP 0 vfCCC4022mki094
+Miki: "Hyau!!"
+TP
+
+Miki's kneecaps flew up and hit my stomach.
+TP
+
+WVP 0 vfCCC4022mki095
+Miki: "No, if you open it, something......will pour out!"
+TP
+
+Taichi: "That's just fine."
+TP
+
+I sucked her jaw.
+TP
+
+WVP 0 vfCCC4022mki096
+Miki: "Yan......no, don't......that all, feels...... good......"
+TP
+
+Miki's genitalia and my fingers knitted together.
+TP
+
+Five sticks stirring around the crucible.
+TP
+
+They melted and made her even stickier.
+TP
+
+WVP 0 vfCCC4022mki097
+Miki: "Ha! Ha! ! Ah, nnn......nn! Ha, you're en...... teriiing......kun!"
+TP
+
+Her legs went wild.
+TP
+
+I used my fingers even more.
+TP
+
+The fluid in her genitalia lumped up and rolled out.
+TP
+
+It landed on my palm, then dribbled onto the sheets between my fingers.
+TP
+
+WVP 0 vfCCC4022mki098
+Miki: "Aaaaa......"
+TP
+
+She gave a sigh of shame.
+TP
+
+Taichi: "Perverted leakage."
+TP
+
+WVP 0 vfCCC4022mki099
+Miki: "......uu......"
+TP
+
+Her moist eyes shot through me.
+TP
+
+Therein was permission to do many and various things.
+TP
+
+WVP 0 vfCCC4022mki100
+Miki: "Yes, I did......leak......"
+TP
+
+WVP 0 vfCCC4022mki101
+Miki: "Won't Sempai also......leak here?"
+//Delightful line!~  
+TP
+
+Taichi: "......"
+TP
+
+What to say?
+TP
+
+I kissed her.
+TP
+
+WVP 0 vfCCC4022mki102
+Miki: "Nn! Nnnnnnn! Nnfu!......Nn! *lick!*......hot...... Sempai, you're hot......*lick!*......nnnnn, nnnnnnnn......"
+TP
+
+I kissed her deeply.
+TP
+
+I started wanting to combine with Miki.
+//COMBINE INTO MEGAZORD!-Spin
+TP
+
+I thought her membranes were missing something.
+TP
+
+My fingers stirred around Miki's insides.
+TP
+
+Delicate pleats.
+TP
+
+I rubbed them lengthwise with the middles of my fingers.
+TP
+
+WVP 0 vfCCC4022mki103
+Miki: "Nnnnnnnnnnnnnnnnnnnnnn!!?"
+TP
+
+Her hips jumped.
+TP
+
+With my fingers adhered.
+TP
+
+WVP 0 vfCCC4022mki104
+Miki: "Nn! Nnmu, nnnnn, *kiss* *kiss* nnnnnnn!"
+TP
+
+Miki sucked on my tongue.
+TP
+
+I left it to her.
+TP
+
+She sucked it preciously, as if rolling around hard candy.
+TP
+
+WVP 0 vfCCC4022mki105
+Miki: "Nn, nnyu......nn! Nnn! Ha! Hafu......nn......"
+TP
+
+She silently lowered her hips.
+TP
+
+Her small haunches fell glistening onto the sheets.
+TP
+
+WVP 0 vfCCC4022mki106
+Miki: "Fua......it's cold......?"
+TP
+
+Taichi: "That's Miki's."
+TP
+
+I told her gently. I was effectively teasing her.
+TP
+
+The color of Miki's face was as if all the blood in her body had gathered in her face.
+TP
+
+WVP 0 vfCCC4022mki107
+Miki: "I'm already......falling apart."
+TP
+
+Taichi: "You're beautiful."
+TP
+
+WVP 0 vfCCC4022mki108
+Miki: "......I love you."
+TP
+
+Taichi: "Nn."
+TP
+
+I traced the inside of her vagina with my middle finger.
+TP
+
+Carefully, carefully,
+TP
+
+As if to spread around Miki's own bodily fluids.
+TP
+
+WVP 0 vfCCC4022mki109
+Miki: "Uu! Uu......fua! Aaah, nn! Kun!......"
+TP
+
+Her hips jumped.
+TP
+
+They tightened, like flower petals gasping for breath.
+TP
+
+The fluids dribbling out of her vagina leaked down to her other hole.
+TP
+
+She felt that good just from my fingers.
+TP
+
+......I myself was hardened by animal passions strong enough to make my hips ache.
+TP
+
+I used my fingers to knead her ring-shaped entrance.
+TP
+
+WVP 0 vfCCC4022mki110
+Miki: "Uwa......somehow, something's......no, stop! Something's, no!! Sempai! It's, dangerous there, fuaaaan!!"
+TP
+
+She's saying strange things.
+TP
+
+I shook my fingers rapidly.
+TP
+
+Back and forth near her rough entrance.
+TP
+
+Miki's four limbs went up.
+TP
+
+Her back drew an arc from the back of her head to her bent legs.
+TP
+
+WVP 0 vfCCC4022mki111
+Miki: "Ah! No, ah! Aaah! Nn! Han!......Aaah! Aaah!"
+TP
+
+Even so, I moved my prickly fingers.
+TP
+
+WVP 0 vfCCC4022mki112
+Miki: "........................"
+TP
+
+Miki lost her breath and her words for three seconds.
+TP
+
+And then,
+TP
+
+WVP 0 vfCCC4022mki113
+Miki: "Aaah! Ah! Ah! Ah! Aaaaa! Nn! Ah! Aaaaaaaaa!---!!"
+TP
+
+Her fingers squeezed tight.
+TP
+
+She's contracting.
+TP
+
+Enveloping, and loosening. A repetition of that.
+TP
+
+WVP 0 vfCCC4022mki114
+Miki: "Haa......ha! Haa......a............nn!......"
+TP
+
+I tried slowly piercing her.
+TP
+
+WVP 0 vfCCC4022mki115
+Miki: "Hi! Uua! Noooo......"
+TP
+
+She seriously tried to run away.
+TP
+
+I pulled out my fingers.
+TP
+
+I lightly sucked her lips, though they were busy with her rough breathing.
+TP
+
+WVP 0 vfCCC4022mki116
+Miki: "Uu......hafu......haun......"
+TP
+
+Miki desired her lips back, but that was largely meaningless.
+TP
+
+When I moved away from her face, her breathing was dejected.
+TP
+
+Miki was exhausted.
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+I lay her face down and took off her clothes.
+TP
+
+There was a mountain-shaped stain on her butt.
+TP
+
+Of sweat and vaginal fluid, in the hollow between her haunches.
+TP
+
+There's no way she isn't getting excited.
+TP
+
+WVP 0 vfCCC4022mki117
+Miki: "Haa, haa, haa......"
+TP
+
+Miki's breathing slowly fell, as she headed toward sleep.
+TP
+
+I covered her from behind.
+TP
+
+I wrapped my arms around her, and my hips rose.
+TP
+
+WVP 0 vfCCC4022mki118
+Miki: "......haa......han......Sem...pai?"
+TP
+
+She realized she was being pushed down.
+TP
+
+Taichi: "I'm here."
+TP
+
+WVP 0 vfCCC4022mki119
+Miki: "Nnn..."
+TP
+
+When I whispered to her from behind, Miki cried sweetly.
+TP
+
+I slipped inside the part of her that felt like opening after that long caress.
+TP
+GL 0 evcc0020
+$CGevcc0020 = 1
+GS 0 1
+SEF 109 0
+WVP 0 vfCCC4022mki120
+Miki: "......nnnnn!......Uuu, uuuuuuu!"
+TP
+
+She gave a resisting groan.
+TP
+
+But her wetness helped.
+TP
+
+I slid up to her core with a smooth and natural feeling.
+TP
+
+On the way, there was a slight holdup. It must have been Miki's chastity.
+TP
+
+WVP 0 vfCCC4022mki121
+Miki: "Ah, aaaaah, ah......"
+TP
+
+She's surprised.
+TP
+
+Her mouth opened wide.
+TP
+
+Her voice shook.
+TP
+
+I slid my hips back and forth.
+TP
+
+Her insides surrounded me.
+TP
+
+They tightened, leaving no room.
+TP
+
+I went down that narrow path.
+TP
+
+WVP 0 vfCCC4022mki122
+Miki: "Aau, ah! Uuu!......You're...big!"
+TP
+
+Because you're narrow.
+TP
+
+There's no doubt this feels tighter to Miki.
+TP
+
+I slowly pushed my hips deep inside.
+TP
+
+My tip touched a stiff part.
+TP
+
+Taichi: "......it's perfect. Miki and I."
+TP
+
+WVP 0 vfCCC4022mki123
+Miki: "Nooo......that's embarrassing......"
+TP
+
+My rod was wet.
+TP
+
+The secretions inside increased.
+TP
+
+Maybe the angle was good, because I got the feeling we'd connected in nearly a straight line.
+TP
+
+Up to the devoured base, I was hot and tight.
+TP
+
+I moved.
+TP
+
+Slowly at first.
+TP
+
+Then faster.
+TP
+
+With the movements of coupling rods.
+//Referring to some part of couplers between train cars. Not sure if this is clear, since I don't know that much about couplers myself. Å`IX
+TP
+
+WVP 0 vfCCC4022mki124
+Miki: "Ah......aaah, nn! Ah! Ah! Ah! Ah! Ah! Ah!......!!"
+TP
+
+She made a cute staccato as I pierced her.
+TP
+
+Her cut-off screams rose to a shrill tone.
+TP
+
+WVP 0 vfCCC4022mki125
+Miki: "Fua, ah! Ah! Ah! Ah! Aaah, nn! Hyan!......Nnnn!!!"
+TP
+
+She drooled.
+TP
+
+As the cheerful Miki fell apart, the girl's honey-sweet lust was carved into me.
+TP
+
+WVP 0 vfCCC4022mki126
+Miki: "Aaah, aaooh! Ah, ku! Aan! Aaaan!!"
+TP
+
+Her somewhat small butt caught my pelvis.
+TP
+
+It was like spanking her in a certain perverse way.
+TP
+
+Her flexible back matched my movements.
+TP
+
+Her shoulder blade pulled out as far as it could, then sunk back in.
+TP
+
+When Miki propped herself up on one arm, I moved to the left or right with the same timing.
+TP
+
+Beautiful.
+TP
+
+I tried touching.
+TP
+
+She was getting wet.
+TP
+
+Her sweat was so granular it reminded me of particles.
+TP
+
+My fingers sunk in along with her bones.
+TP
+
+WVP 0 vfCCC4022mki127
+Miki: "Kyau!!!!!!!!!"
+TP
+
+A big reaction.
+TP
+
+Her vagina reacted strongly.
+TP
+
+Tightening. Tightening. Tightening.
+TP
+
+Three times, it put pressure on me.
+TP
+
+WVP 0 vfCCC4022mki128
+Miki: "Wau! Uuaaaa......"
+TP
+
+From her overly wet parts, fruit juice formed drops and fell.
+TP
+
+The sound of dripping reached my ears.
+TP
+
+She seemed to have leaked a lot.
+TP
+
+Taichi: "Miki......"
+TP
+
+I felt like I'd become narcissistic.
+TP
+
+If she'd been hating me, she wouldn't react like this.
+TP
+
+To such a filthy me.
+TP
+
+Miki might be in love with me.
+TP
+
+The meaning of that love is probably a little different from the world's norm.
+TP
+
+However,
+TP
+
+It was an irreplaceable thing that even I could obtain.
+TP
+
+Violent emotions sprung off.
+TP
+
+I want to connect more. More!
+TP
+WVP 0 vfCCC4022mki129
+Miki: "Fuu! Ha! Han! Aan! Ah! Ah! Han! Haaan! Nn! Ku......hi, unn! Nn!......Uwaa, Sempaaai!"
+TP
+
+Miki grabbed onto the sheets.
+TP
+
+I drove into Miki like a wedge into meat.
+TP
+
+I applied my hips.
+TP
+
+I drew characters.
+TP
+
+WVP 0 vfCCC4022mki130
+Miki: "......aaooh!!?"
+TP
+
+Panting with a light vibrato.
+TP
+
+At the same time, one of Miki's legs became a straight line. It tightened.
+TP
+
+It stretched out straight, as she desired a straight line.
+TP
+
+I continued drawing characters.
+TP
+
+Along with back and forth motions.
+TP
+
+WVP 0 vfCCC4022mki131
+Miki: "Uu! Uuuuu, AH, aai! Nnnnnnn, nnnnnnnnnnnnnnnnn!!!!!"
+TP
+
+Her small butt was quivering.
+TP
+
+Up to the narrowing at her rear, she was losing herself while expanding and contracting.
+TP
+
+Miki moaned with the position of a low crouching start.
+TP
+
+As I entered, Miki broke from the weight of my hips.
+TP
+
+But, as my brushtip drew characters inside her vagina, her butt immediately pointed up and her back bent.
+TP
+
+WVP 0 vfCCC4022mki132
+Miki: "Ha! Han! Sempai, that's, dangerous, dan...... aaaaah, ah! Aaoh! Oh!......OH!"
+TP
+
+I was wringing the voice out of her lungs.
+TP
+
+Even that crushed voice was a sweet and beautiful thing to me.
+TP
+
+I wanted to hear it more.
+TP
+
+I made strong rhythmic movements.
+TP
+
+WVP 0 vfCCC4022mki133
+Miki: "Oh! Ah! Oooh!......Ki, hiii......ugu! Gu! NN! ......Nnnnnnnnnn!!"
+TP
+
+Miki bit down hard.
+TP
+
+To hold back her vulgar voice.
+TP
+
+I moved my hand under her jaw and softly held it up.
+TP
+
+WVP 0 vfCCC4022mki134
+Miki: "Fua?"
+TP
+
+She let go of the pillow.
+TP
+
+Taichi: "Let your voice out."
+TP
+
+WVP 0 vfCCC4022mki135
+Miki: "But......*hic!*"
+TP
+
+Along with that hiccup of satisfaction was a tightening in her lower limbs.
+TP
+
+Taichi: "I want to hear it."
+TP
+
+I buried my nose into Miki's head.
+TP
+
+I parted her supple hair and licked her skin.
+TP
+
+WVP 0 vfCCC4022mki136
+Miki: "That voice...it's embarrassing......"
+TP
+
+Taichi: "You can't?"
+TP
+
+WVP 0 vfCCC4022mki137
+Miki: "......okay."
+TP
+
+She resigned herself and closed her eyes.
+TP
+
+Miki herself stuck her hips out behind her.
+TP
+
+Meshing with mine as if to twist my body.
+TP
+
+Our perfectly adhered lower bodies sucked on each other with each other's sweat.
+TP
+
+Taichi: "I'll move."
+TP
+
+WVP 0 vfCCC4022mki138
+Miki: "......ah......ah, ah......"
+TP
+
+Each time coming and going at a different angle.
+TP
+
+Just from that the hair rose on the nape of Miki's neck.
+TP
+
+Can she really feel it this strongly?
+TP
+
+Miki might also......be holding the same thirst as I.
+TP
+
+Because I want to connect.
+TP
+
+WVP 0 vfCCC4022mki139
+Miki: "Fua! Han! Ah! Ah! Aaa......han! Nna!!"
+TP
+
+WVP 0 vfCCC4022mki140
+Miki: "No, stop, dangerous, II!......No, no! You can't, you caaan't!!"
+TP
+
+Not yet.
+TP
+
+We still aren't perfectly one.
+TP
+
+WVP 0 vfCCC4022mki141
+Miki: "Au! Ah, ah!Ah!Ah! Aaaaaaaa! Aaaa, nn! Nnnnnnn! Aauaaaaaaaaa!!!!"
+TP
+
+The art of lust moved toward a legato.
+TP
+
+Miki's continuous voice.
+TP
+
+During a faint pause, Miki inhaled deeply.
+TP
+
+More. More---
+TP
+WVP 0 vfCCC4022mki142
+Miki: "Uuuu, aaa, aaaaaa......ahaa! Han, ha!......Nooo, too deep......stooooop."
+TP
+
+As she lost her stamina, Miki's voice became like a groan.
+TP
+
+But her sensitivity didn't fall.
+TP
+
+WVP 0 vfCCC4022mki143
+Miki: "Hiu!!?"
+TP
+
+When I sometimes mixed hip characters into my regular movements, it was as if her whole body jumped into the air.
+TP
+
+WVP 0 vfCCC4022mki144
+Miki: "Ah, ah, ah......st!......"
+TP
+
+Her whole body suddenly convulsed.
+TP
+
+WVP 0 vfCCC4022mki145
+Miki: "Ah........................----------!!!!!"
+TP
+
+I knew from the throbbing in her back that this was different from before.
+TP
+
+One step later, the furious convulsions occurred inside as well.
+TP
+
+Taichi: "Uu......"
+TP
+
+Faint contractions undulating several times a second.
+TP
+
+Her whole body squeezed while her insides moved in confusion.
+TP
+
+I escaped Miki's control and went wild.
+TP
+
+WVP 0 vfCCC4022mki146
+Miki: "Aku!......Hia......ah!......Ha! Ha!......"
+TP
+
+For Miki, there was no choice but to accept the explosion of sensation.
+TP
+
+At long last,
+TP
+
+Miki remembered her own body weight, and began to break.
+TP
+
+I put a hand under her abdomen to support her.
+TP
+
+Her abdominal muscles were twitching at regular intervals.
+TP
+
+I moved.
+TP
+
+WVP 0 vfCCC4022mki147
+Miki: "Hi......if...you move now............I'm going to die......"
+TP
+
+I can't do anything about that.
+TP
+
+I increased the severity of the spring motions.
+TP
+
+WVP 0 vfCCC4022mki148
+Miki: "Aaaaa......"
+TP
+
+Breath of despair.
+TP
+
+She's being stimulated.
+TP
+
+However, I can't see the end.
+TP
+
+The pain of my wound had been subtly restraining me.
+TP
+
+Screams from the arrow wound as my body reverberated.
+TP
+
+But,
+TP
+
+Without cumming inside Miki, this won't end.
+TP
+
+I rubbed against her pleats.
+TP
+
+WVP 0 vfCCC4022mki149
+Miki: "No, noo, that's!......Ah! Ah! Ah! Aah!......Aaua ......no! Not too fast!"
+TP
+
+Even if you say such things...
+TP
+
+WVP 0 vfCCC4022mki150
+Miki: "Aau! Ah! Uu! Uuah!......I'm going numb!......eh ......aaaaa!"
+TP
+
+The rhythm of her voice was breaking.
+TP
+
+WVP 0 vfCCC4022mki151
+Miki: "Sempai, Sempa-! Haa, haaa, aau! Aaaaaaa."
+TP
+
+Is she uneasy because she can't see my face?
+TP
+
+WVP 0 vfCCC4022mki152
+Miki: "Sempai, Sempa-, Taichi-sempai......"
+TP
+
+I put my nose inside her hair.
+TP
+
+I told her I was right behind her.
+TP
+
+Miki's pervasive scent, and the sensation of her genitalia being tied down, made my brain harmoniously numb.
+TP
+
+I entered and left her insides with the greatest strokes.
+TP
+
+WVP 0 vfCCC4022mki153
+Miki: "I...I don't know......I just don't know!...... Aaa......no, nono, Sempai, no!"
+TP
+
+A voice like whispering.
+TP
+
+Though I want to be exhausted already, the stimulus won't let me.
+TP
+
+That's how it felt.
+TP
+
+I became more excited and continued my deep penetration.
+TP
+
+When I entered up to my base, delicate pleats rubbed all of it while enveloping it.
+TP
+
+I felt like I'd melt.
+TP
+
+Melt, disappear and flow into Miki's womb.
+TP
+
+That illusion.
+TP
+
+WVP 0 vfCCC4022mki154
+Miki: "Amazing, you're amaziiing......I'm becoming strange......"
+TP
+
+I'm already strange.
+TP
+
+Suddenly, the foothills of my genitalia ached.
+TP
+
+Pleasure rose above the pain.
+TP
+
+Taichi: "Ah......I might cum."
+TP
+
+WVP 0 vfCCC4022mki155
+Miki: "......p-lease...cum......"
+TP
+
+She said painfully.
+TP
+
+Taichi: "Miki too?"
+TP
+
+WVP 0 vfCCC4022mki156
+Miki: "Uuuu, no, I can't......"
+TP
+
+Taichi: "No, Miki will cum too."
+//He's rough. That sounds so fucking hot though.-Spin
+TP
+
+I shook left and right.
+TP
+
+WVP 0 vfCCC4022mki157
+Miki: "Hi!......no-not that movement......I won't be able to breathe......"
+TP
+
+Taichi: "You mean this?"
+TP
+
+WVP 0 vfCCC4022mki158
+Miki: "Aaah stooop!"
+TP
+
+Our union twisted, and our coupling came off.
+TP
+
+Taichi: "Ah......Miki......"
+TP
+
+The moment I came out, she fell flat on her face.
+TP
+
+I feel sorry for her, but...
+TP
+
+I rose my hips and entered once more.
+TP
+
+WVP 0 vfCCC4022mki159
+Miki: "Uuuuuu......"
+TP
+
+Her ears were red.
+TP
+
+Her whole body was sweating.
+TP
+
+Since her physical strength was different from mine, anything I did put a burden on Miki.
+TP
+
+I pushed into her with my hips.
+TP
+
+WVP 0 vfCCC4022mki160
+Miki: "Ah......uuu......"
+TP
+
+I devoured that hotly mired part of her.
+TP
+
+WVP 0 vfCCC4022mki161
+Miki: "Ah......I'm going...to cum......"
+TP
+
+Taichi: "Eh? You're cumming?"
+TP
+
+WVP 0 vfCCC4022mki162
+Miki: "I'm!......Cumm......"
+TP
+
+Her butt bent sharply.
+TP
+
+Pulling up my hips from below.
+TP
+
+I was squeezed down to the base.
+TP
+
+The pleasure is increasing, but I still can't climax.
+TP
+
+WVP 0 vfCCC4022mki163
+Miki: "Haa! Haa!......"
+TP
+
+Her breath was rough.
+TP
+
+I moved.
+TP
+
+WVP 0 vfCCC4022mki164
+Miki: "Aaa, haa......ha!......Sempa-!......Uuuuu!"
+TP
+
+I was wringing the vitality out of Miki.
+TP
+
+WVP 0 vfCCC4022mki165
+Miki: "Ah, no, no, I'm, cum---"
+TP
+
+Convulsions.
+TP
+
+By now she only had enough vitality left to shake.
+TP
+
+If her limbs didn't run wild, the satisfaction would run even wilder through her body, driving Miki even further on.
+TP
+
+WVP 0 vfCCC4022mki166
+Miki: "Ah, again, I'm cumming......"
+TP
+
+How many times has it been?
+TP
+
+Miki would no longer stop.
+TP
+
+WVP 0 vfCCC4022mki167
+Miki: "Aau......"
+TP
+
+She climaxed again without words.
+TP
+
+My satisfaction was filling little by little.
+TP
+
+I felt like I'd disgorge soon.
+TP
+
+WVP 0 vfCCC4022mki168
+Miki: "N-nooo, ah......"
+TP
+
+The drawstring was tightened.
+TP
+
+I used even that pressure as I moved.
+TP
+
+WVP 0 vfCCC4022mki169
+Miki: "Uuuuuuuuu."
+TP
+
+This is cruel treatment for Miki.
+TP
+
+However,
+TP
+
+I can't not do this.
+TP
+
+WVP 0 vfCCC4022mki170
+Miki: "......no......I'll die......I'm going to die...!!!!"
+TP
+
+Her irregular contractions increased the stimulus dozens of times.
+TP
+
+Aaah---
+TP
+
+My end came.
+TP
+
+As she shook strongly, I touched my nozzle to her core.
+TP
+
+I came.
+TP
+
+GL 5 bgcc0000e
+GL 0 evcc0020a
+$CGevcc0020a = 1
+GI 5 0
+GS 0 1
+GS 5 0
+SEF 109 0
+WVP 0 vfCCC4022mki171
+Miki: "Haaaa......a......u......"
+TP
+
+Miki's vagina swallowed it.
+TP
+
+Her tightening pleats resembled the movements of a throat.
+TP
+
+Inviting me.
+TP
+
+WVP 0 vfCCC4022mki172
+Miki: "Ha! Ha! Ha!......Hau!......Hawa!......Uuuu......"
+TP
+
+While connected, we both fell on our sides.
+TP
+
+WVP 0 vfCCC4022mki173
+Miki: "Ha, ha! Ha!......haa."
+TP
+
+We had no time to exchange words.
+TP
+
+Miki would fall asleep soon.
+TP
+
+Taichi: "......Miki."
+TP
+
+I embraced her, I kissed all the parts my lips could touch.
+TP
+
+And then......I too closed my eyes.
+//Dramatic effect again.-Spin
+TP
+
+WVS 1 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+WT 1000 0
+WT 1000 1
+
+IF $nonero != 1 JMP mikiHend2
+:mikiHend1
+
+......
+TP
+
+............
+TP
+
+........................
+TP
+//Another one where, thankfully, the game will fill in the context pretty much on its own. Å`IX
+
+:mikiHend2
+
+
+
+
+
+$SNCCC4022 = 1
+
+
+
+
+RET

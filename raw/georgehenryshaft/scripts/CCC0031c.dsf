@@ -1,0 +1,152 @@
+GL 0 bgcc0012
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+WVP 1 bgm010.ogg 0 0 0
+
+
+//桜庭がいた。
+There was Sakuraba,
+TP
+
+//ベッドに寝ていた。
+sleeping in a bed.
+//See CCA0016... but first, see CCC0025. That script touched on something of Yusa, who has more than a few parallels with Misato, as well as the hexagon thing that will return in the Misato Sendback scene. Him being asleep in the infirmary should be taken to be the reading key for the same scene in Week 1. Unfortunately, I think CCB0005 works much better, but I suppose further evidence is always good. -GHS
+TP
+
+//腹を出して、爆睡している。
+Belly out, fast asleep.
+TP
+
+WVP 0 vmCCC0031csku000
+//桜庭「……ぐおー」/（★★★いびき）
+Sakuraba: "...snooooooore."
+//"Snore". First a sound, contrast Misato's sobbing... -GHS
+TP
+
+//いびきだ。
+Snoring.
+TP
+
+//太一「桜庭？」
+Taichi: "Sakuraba?"
+TP
+
+WVP 0 vmCCC0031csku001
+//桜庭「なんだ？」
+Sakuraba: "What?"
+//...then a perfectly normal answer, contrast Misato calling Taichi back. -GHS
+TP
+
+//普通に返してくる。
+He answers normally.
+//Reading key: at least one of of these is not happening. -GHS
+TP
+
+//太一「調子悪いのか？」
+Taichi: "Feeling off?"
+TP
+
+WVP 0 vmCCC0031csku002
+//桜庭「カレーパンを食い過ぎた」
+Sakuraba: "Ate too much curry bread."
+//Ridiculous! See CCC0024 again: he came to school hungry, and this is just Tuesday. See CCC3012b: he won't get tired until Thursday, possibly evening. Like with the oddities in CCC0027, this is Taichi slowly fraying into excessive chuuni, just like in Another Story. -GHS
+TP
+
+//起きてるのか。
+Is he awake?
+TP
+
+//しかし目は閉じている。
+But his eyes are closed.
+TP
+
+WVP 0 vmCCC0031csku003
+//桜庭「四限分、カレーパンを食ったぞ」
+Sakuraba: "Been eating curry bread for four periods."
+TP
+
+//太一「アホか」
+Taichi: "You dumbass."
+TP
+
+WVP 0 vmCCC0031csku004
+//桜庭「だいぶ単位は稼いだはずだ」
+Sakuraba: "I expect to earn a considerable amount of school credit."
+TP
+
+//太一「いや、うち単位制じゃないし」
+Taichi: "Uhm, we're not on a credit system."
+TP
+
+WVP 0 vmCCC0031csku005
+//桜庭「小さいことだ。俺は気にしない」
+Sakuraba: "Tiny detail. I don't care."
+TP
+
+//太一「そこはしとけよ」
+Taichi: "You should care about that!"
+TP
+
+WVP 0 vmCCC0031csku006
+//桜庭「もう何も食えないぜ」
+Sakuraba: "I can't eat anything anymore."
+TP
+
+//太一「だろうな……」
+Taichi: "Seems so..."
+TP
+
+//太一「サンドイッチがあるんだけど」
+Taichi: "I got sandwiches though."
+TP
+
+WVP 0 vmCCC0031csku000
+//桜庭「ぐおー」/*
+Sakuraba: "Snooore."
+//PCP above -GHS
+TP
+
+//寝ていた。
+Asleep.
+TP
+
+//もしかして今までのも全部寝言か。
+Could it be that everything so far has been sleeptalk?
+//Or could it be the opposite, that this conversation has been entirely in his mind? Or a reading key for CCA0016? -GHS
+TP
+
+//太一「友情は見返りを」
+Taichi: "Friendship demands..."
+//PCP CCA0019
+TP
+
+WVP 0 vmCCC0031csku007
+//桜庭「求めない」
+Sakuraba: "Nothing in return."
+//PCP CCA0019
+TP
+
+//親指を立てた。
+We stuck our thumbs up.
+TP
+
+WVP 0 vmCCC0031csku000
+//桜庭「ぐおー」/*
+Sakuraba: "Snooore."
+//CP /*
+TP
+
+//太一「何の悩みもないのか、こいつには……」
+Taichi: "Totally untroubled this guy here..."
+TP
+
+//恐るべし。
+He's not to be underestimated.
+TP
+
+WVS 1 1
+
+RET

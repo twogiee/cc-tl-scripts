@@ -1,0 +1,113 @@
+//This appears to be the rest of Kiri's bad end. Somehow I failed to realize this when I tled the first bit of it (ccd2002a). Å`IX
+
+GL 0 bgcc0003
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+And then I ran back again.
+TP
+
+
+Failure isn't allowed.
+TP
+
+
+Not at all.
+TP
+
+
+I have to be prudent.
+TP
+
+
+Taichi: "Haa!......"
+TP
+
+
+Malice momentarily swelled up within me.
+TP
+
+
+It was similar to pubescent lust, and wasn't easy to disgorge.
+TP
+
+
+GL 0 bgcc0003c
+GS 0 1
+SEF 155 1
+I spent the remaining few days at my house.
+TP
+
+
+I didn't contact anyone.
+TP
+
+
+Because I didn't want to endanger anyone.
+TP
+
+
+And then......Sunday.
+TP
+
+
+
+GL 0 bgcc0016
+GS 0 1
+SEF 152 0
+I silently waited for time to catch up with me.
+TP
+
+
+I don't know what everyone else did after that.
+TP
+
+
+How many versions of them have been rubbed out of existence?
+//Awkward line. I tried my best with a bit of hack-and-slash... - Sheeta
+TP
+
+
+That heavy truth dazzled me.
+TP
+
+
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 109 1
+And then---
+TP
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 2
+
+
+WT 1500
+WT 1500 1
+
+
+
+$B = 1
+IF $SB_FALSE < 151 JMP L_INC
+JMP L_DODGE
+
+
+
+:L_INC
+
+$SB_FALSE + 1
+
+:L_DODGE
+IF $SB_FALSE > 149 $B = 2
+
+
+RET
+
+
+

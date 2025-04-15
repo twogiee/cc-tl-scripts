@@ -1,0 +1,108 @@
+WVP 1 bgm003.ogg 0 0 0
+
+GL 0 bgcc0003b
+GS 0 1
+GS 1 0
+GS 4 0
+SEF 152 0
+
+//夜、友貴が食料の箱を持ってきた。
+Late in the evening, Tomoki came and brought over the box of food.
+TP
+
+
+//その中から、適当に見繕って夕食とした。
+From within it, I carefully selected something suitable and made it my evening meal.
+//* something suitable = Tomoki's cucumber. -GHS
+TP
+
+
+//暗い部屋で、ベッドに寝ころんでいろいろ考える。
+In my dark room, I throw myself on the bed and think about things, many many things.
+TP
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+//ハッピーエンド探し。
+A search for the Happy Ending:
+TP
+
+
+//これはそう呼ばれる行為のはずだ。
+that is what this behavior of mine should be called.
+TP
+
+
+//一人一人の問題をある程度理解しているつもりなのに、うまく行かない。
+I act to comprehend to a certain extent the problems of these people, individual by individual, yet it isn't going well.
+TP
+
+
+//時間は一週間しかないのにだ。
+But the time is a single week and that's it.
+TP
+
+
+//誰か一人と近づくのに、一週間。
+And to get close to one single person yet takes... one week.
+//Because according to the diaries it always does. After all, one route at a time. -GHS
+TP
+
+
+//全員だったら七週間。
+For all the people it would take seven weeks.
+//Still. -GHS
+TP
+
+
+//桜庭や友貴、曜子ちゃんは抜くとしても。
+Even if I take out Sakuraba and Tomoki, as well as Youko-chan,
+//NET separation between the first two and the third, for reasons that ought be obvious. Curiously, only Tomoki should be excluded since he's a "freebie" with Misato (in reality he's of course deeply bound to her, that's all). -GHS
+TP
+
+
+//四週間。
+it's four weeks.
+TP
+
+
+//四倍の密度で行動すればいい……というものでもないだろうし。
+I should just act at four times the density then... but that's likely never going to happen.
+//His error of approach here is due to materialism: he's not seeing any possible life beyond the week. -GHS
+TP
+
+
+//太一「むず……」
+Taichi: "Harrrd..."
+//So is my... uhm... erm... "cat" -GHS
+TP
+
+
+//解決策など閃かぬまま、眠気に落ち込んでいった。
+With nothing like a solution to this having flashed into my mind yet, I gave into to sleepiness.
+//...he's delusionally hopeful, isn't he. -GHS
+TP
+WVS 1 1
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+//……………………。
+............
+TP
+
+
+//…………。
+......
+TP
+
+
+//……。
+...
+TP
+
+RET

@@ -1,0 +1,1097 @@
+
+//霧を探す。
+I search for Kiri.
+TP
+
+//なんのために。
+For some purpose.
+TP
+
+//謝罪。
+Apology.
+TP
+
+//それとも……。
+Or perhaps...
+//To have her kill him. -GHS
+TP
+
+WVS 1 1
+
+//わからない。
+I don't get it.
+//Leans towards the understanding than the knowing. -GHS
+TP
+
+//衝動に突き動かされて、校内を彷徨う。
+Moved by an impetus, I roam about the school building.
+TP
+
+GL 0 bgcc0007
+GS 0 1
+GS 1 0
+SEF 152 0
+
+WVP 1 bgm003.ogg 0 0 0
+
+//先輩と美希がいた。
+Senpai and Kiri were there.
+TP
+
+//友貴たちはまだ戻ってないらしい。
+Tomoki and the other don't seem to have come back yet.
+//Sakuraba ergo "the other" -GHS
+TP
+
+//太一「美希」
+Taichi: "Miki."
+TP
+
+GL 0 zzzrooftopzoom
+GL 1 TCYM0000
+GP 1 180 0
+GS 0 1
+GS 1 1
+SEF 109 0
+//HACK zoomed BG... and actually FADE the damn doll. -GHS
+WVP 0 vfCCC3023mki000
+//美希「あ、桐原せむぱいはどうでした？」
+Miki: "Ah, how wHas Kirihara-semhpai?"
+//Bit munched. Don't see the pun, if there's one. -GHS
+TP
+
+//心臓がかすかに跳ねる。
+My heart takes a tiny leap.
+TP
+
+//だが、その程度だった。
+But it was no more than that.
+TP
+
+//太一「……元気だったよ。元気に嫌われた」
+Taichi: "...she was full of energy. I was hated with full energy."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC3023mki001
+//美希「オス、予想通りです」
+Miki: "Oss, as I forecasted."
+//"He lied to me thinking of making me a favor, and she's dead as that's as likely as Shmion going crazy whoops did I spoil the reason why that episode was subtitled 'the highest probability' was cribbed by Cross Channel as well." -GHS
+TP
+
+//太一「俺もだ」
+Taichi: "As I did as well."
+TP
+
+//二人で笑う。
+We laugh in a duo.
+TP
+
+//太一「作業どう？」
+Taichi: "How's work?"
+TP
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC3023mki002
+//美希「なんとかかんとかです」
+Miki: "A bit like this, a bit like that."
+TP
+
+//太一「……それはいいのか悪いのか」
+Taichi: "...is that good, is that bad?"
+TP
+
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC3023mki003
+//美希「なんとかなりそうかな？という感じです」
+Miki: "It seems like we're managing somehow? Feels like that."
+TP
+
+//太一「いいね」
+Taichi: "Good then."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC3023mki004
+//美希「しかしですね、さきほど校内で爆発音があったのですよ」
+Miki: "Still, just now there was the sound of an explosion inside the school!"
+//Prolly just the student uproar as Taichi was grabbed and pulled out. -GHS
+TP
+
+//太一「ぶっ」
+Taichi: "B'uh."
+TP
+
+//そりゃ響くか……。
+That was heard faaar away...
+TP
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCC3023mki005
+//美希「わたくし、先ほどまでみみ先輩と抱き合って半泣きでガタガタ震えていたので、その分進捗遅いです」
+Miki: "This one has been, until recently, tightly hugging Mimi-senpai while half-crying and shaking with rattle and clatter both, and due to that progress has slowed."
+//Suddenly Taichi-sh. Hum, has she heard any explosion at all? -GHS
+TP
+
+//太一「うおー、可愛らしい絵だな」
+Taichi: "Woooh, ain't that a pretty image."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC3023mki006
+//美希「あれはなんだったのか……正直、トイレに行きたいのですけどこわくて校内に入れません」
+Miki: "But what was that...? Honestly, I wanted to go to the toilet but I was scared and didn't go inside the building."
+//TL: "I know this happened in the toilet." -GHS
+TP
+
+//太一「俺の目の前でしてくれるなら、簡易トイレをもってきてやろう」
+Taichi: "If you do it in front of my eyes, I'll bring in a portable toilet!"
+TP
+
+GL 1 TCYM0041
+GI 1 0
+WVP 0 vfCCC3023mki007
+//美希「うわぁ……悩ましい……」
+Miki: "Bwaaah... disturbing..."
+TP
+
+//頭を抱えた。
+She held her head, at wits' end.
+TP
+
+//というか、そんな場合じゃなかった。
+But I should say, this isn't the time for that stuff.
+TP
+
+//太一「と。実は俺の仕業なのだ」
+Taichi: "Yeah. Truth is, that was my handiwork."
+TP
+
+GL 1 TCYM0004
+//HACK surprised Miki -GHS
+GL 2 TCMM0021
+GP 1 0 0
+GP 2 340 0
+GS 2 1
+GS 1 1
+SEF 109 0
+WVP 0 vfCCC3023msa000
+//見里「そ、そうなんですか……結局、あれはなんだったんです？」
+Misato: "S-, so it was then... so in the end, what was it that happened?"
+TP
+
+//眼鏡が傾いて曇っていた。
+Glasses were tilted and clouded.
+TP
+
+//本気でビビッていたらしい。
+She seemed seriously shaken.
+TP
+
+//太一「目覚まし時計です」
+Taichi: "An alarm clock."
+//This may be literally true. -GHS
+TP
+
+GL 1 TCYM0002
+GI 1 0
+//HACK obviously suspicious Miki instead -GHS
+WVP 0 vfCCC3023mki008
+//美希「……欠陥商品ですね」
+Miki: "...defective product wasn't it."
+TP
+
+//太一「だから捨てたよ」
+Taichi: "Ergo I tossed it!"
+//Well, it's true. -GHS
+TP
+
+GL 2 TCMM0002
+GI 2 0
+WVP 0 vfCCC3023msa001
+//見里「そうだったんですか……よかった……テロとかじゃなくて」
+Misato: "So that is what it was... I am so glad... it is not terrorism or anything of the sort."
+//Oh, wouldn't this make more sense post-2001? Maybe the world has progressed that far. However, considering the 1995 Tokyo Sarin gas attacks, I guess the term can date back to then (hard to research, very little statistics on term usage in Japan in the '90s). Well, at worst it's a minor anachronism. -GHS
+TP
+
+//太一「テロする人いませんからね」
+Taichi: "There are no more people who would do terror attacks, that is why."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+//HACK normal Miki -GHS
+
+WVP 0 vfCCC3023mki009
+//美希「あ、じゃートイレに行ってきますんで！」
+Miki: "Ah, then I'm off to the toilet!"
+
+TP
+//GO 1 1
+//HACK Not here
+//鳥のようにばたばた手を振って、美希は走り去る。
+Miki leaves, flapping her arms around like a bird.
+TP
+
+GL 5 BGCC0000A
+GI 5 1
+//HACK to sky -GHS
+
+//太一「ちゃんと流せよー！」
+Taichi: "Make sure to fluuush!"
+TP
+
+WVP 0 vfCCC3023mki010
+//美希「それは言わない方向でー！」
+Miki: "That's an instruction you don't have to giiive!"
+TP
+
+//太一「大？　小？」
+Taichi: "Big? Small?"
+TP
+
+WVP 0 vfCCC3023mki011
+//美希「小さい方ですよーだ！」
+Miki: "It's the small one if-you-wanna-knooo-ow!"
+TP
+
+//舌を出して、校内に。
+She sticks out her tongue then goes into the building.
+TP
+
+//太一「……つうことで、俺もちょっくら」
+Taichi: "...and in passing, I too, just got to..."
+TP
+
+WVP 0 vfCCC3023msa002
+//見里「ぺけくん」
+Misato: "Peke-kun."
+TP
+
+//落ち着いた声音。
+In a calmer tone of voice.
+//...was she ever in a panic? See CCA0016. -GHS
+TP
+
+GL 2 TCMM0000
+GP 2 220 0
+GS 0 1
+GS 1 0
+GS 2 1
+GS 5 0
+SEF 109 0
+//Moved doll down here, centered, back to rooftop. -GHS
+
+//太一「はい？」
+Taichi: "Yes?"
+TP
+
+
+GL 2 TCMM0003
+GI 2 0
+WVP 0 vfCCC3023msa003
+//見里「……お礼を言わないと、いけないのかもしれないです、わたし」
+Misato: "...it might just be that I need to thank you, I believe."
+//Not quite clear what this is for. Perhaps for Youko helping her, and by that she means him? -GHS
+TP
+
+//太一「お礼？」
+Taichi: "Thank me?"
+TP
+
+GL 2 TCMM0002
+GI 2 0
+WVP 0 vfCCC3023msa004
+//見里「いえ、なんでもありません。どちらに？」
+Misato: "No, it is nothing. What are you doing?"
+TP
+
+//太一「はあ、霧ちんをちょっと探してきます」
+Taichi: "Sigh, I am trying to search for Kiri-chin."
+TP
+GL 2 TCMM0000
+GI 2 0
+WVP 0 vfCCC3023msa005
+//見里「またいじめましたね？」
+Misato: "You bullied her again did you?"
+TP
+
+//まるで微笑ましい出来事であるかのように。
+Just as if that had been nothing but a pleasant little event.
+//Given how she could've kicked him off seven times... and how much of a prick she's been to him... -GHS
+TP
+
+//太一「……はい、ちょっと。すいません」
+Taichi: "...yes, a bit. Sorry!"
+TP
+
+GL 2 TCMM0002
+GI 2 0
+WVP 0 vfCCC3023msa006
+//見里「いいえ、そっちの方が大切ですから、ちゃんとフォローしてあげてくださいな」
+Misato: "No, it is her that is important now, so properly follow up on that, please."
+//"but senpaaai, she's blocked me on twitter!" -GHS
+TP
+
+//太一「そうします」
+Taichi: "So I shall."
+TP
+
+//と、また俺は嘘を重ねて。
+And with that I pile up another lie.
+//Except this is not a lie, since he IS going to try to make things up... -GHS
+TP
+
+WVS 1 1
+
+
+
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+WVP 1 bgm020.ogg 0 0 0
+
+//霧の気配をたどる。
+I follow up on Kiri's presence.
+TP
+
+//こっちに歩いていったから……教室かな。
+She's walked this way, therefore... the classroom?
+TP
+
+//校舎は……出ていない、と思う。
+She hasn't left the school building... I think.
+TP
+
+//一年教室に。
+Into the first years' classroom.
+TP
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+
+
+
+//そして―――
+And then---
+TP
+
+GL 0 evcc0027
+$CGevcc0027 = 1
+GS 0 1
+SEF 152 0
+
+//いた。
+There she was.
+TP
+
+//無防備な背中は相変わらずだ。
+That defenseless back she always shows.
+//He could creep up and kill her without a problem... -GHS
+TP
+
+//とりあえず話しかける。
+First, get close and talk to her.
+//Touko. -GHS
+TP
+
+//太一「……あのー、霧ちん？」
+Taichi: "...ah, uhm, Kiri-chin?"
+TP
+
+//俺はどうしたいのだろう。
+What do I even think I want to do here?
+TP
+
+//わからない。
+I don't get it.
+TP
+
+//謝罪。
+Apologize,
+TP
+
+//破壊。
+destroy,
+TP
+
+//わからない。
+I don't get it.
+TP
+
+//わからない自分が、うとましい。
+And this me who doesn't get it is... unpleasant.
+TP
+
+//霧「……」
+Kiri: "..."
+TP
+
+GL 0 evcc0027a
+$CGevcc0027a = 1
+GS 0 1
+SEF 109 0
+//HACK CG change. This seems to have been a bug, as Kiri would never look at Taichi throughout this scene. -GHS
+
+//振り返って、霧は言った。
+Turning around, Kiri said,
+TP
+
+WVP 0 vfCCC3023kri001
+//霧「あなたは、薄汚い人殺しです」
+Kiri: "You are... a filthy rotten murderer."
+TP
+
+//絶句する。
+Speechless.
+TP
+
+//おおよそ、下級生から言われる言葉じゃない。
+As a rule, those aren't words I should be hearing from an underclassman.
+TP
+
+//太一「……ま、まあお怒りはごもっともではあろうが……ねえ？」
+Taichi: "...we-, well, you being angry is quite natural, but... right?"
+TP
+
+WVP 0 vfCCC3023kri002
+//霧「怒り？」
+Kiri: "Angry?"
+TP
+
+WVP 0 vfCCC3023kri003
+//霧「そんな簡単な感情じゃない」
+Kiri: "This isn't an emotion that simple."
+TP
+
+WVP 0 vfCCC3023kri004
+//霧「あなたは……敵です。あなたは―――」
+Kiri: "You are... the enemy. You are---"
+TP
+
+//静かな声。
+Quiet voice,
+TP
+
+//静かな面差し。
+quiet features,
+TP
+
+//静かな……告発。
+quiet... indictment.
+TP
+
+WVP 0 vfCCC3023kri005
+//霧「豊を、殺した」
+Kiri: "Yutaka's... murderer."
+TP
+
+//太一「…………」
+Taichi: "......"
+//He doesn't want her to think that. He doesn't want her to know who Yutaka was! -GHS
+TP
+
+//太一「まいったな」
+Taichi: "Fine, I give up."
+TP
+
+//太一「……どうしてそんなことを？」
+Taichi: "...what even makes you think that?"
+TP
+
+WVP 0 vfCCC3023kri006
+//霧「わたしは知ってます」
+Kiri: "Because I know."
+TP
+
+WVP 0 vfCCC3023kri007
+//霧「あなたがあの日、屋上で豊と話していたこと」
+Kiri: "On that day, you were talking to Yutaka on the rooftop."
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//知られていた。
+She had known.
+TP
+
+//知られていた、知られていた。
+She had known, she had known.
+TP
+
+//霧にあのことを知られていた。
+Kiri had known about that.
+TP
+
+//太一「あの日？」
+Taichi: "That day?"
+TP
+
+//いけない。
+That cannot be.
+TP
+
+//心が一気に。
+The heart, in a single go,
+TP
+
+//氷結していく。
+freezes entirely.
+TP
+
+WVP 0 vfCCC3023kri008
+//霧「豊が死んだ日です」
+Kiri: "The day Yutaka died."
+TP
+
+WVP 0 vfCCC3023kri009
+//霧「……ずっと、疑ってた」
+Kiri: "...I had always... suspected you."
+//See below -GHS
+TP
+
+WVP 0 vfCCC3023kri010
+//霧「けど……わからなかった」
+Kiri: "But... I didn't know."
+//She did not SEE Taichi push Yutaka down. Compare with Miki and the old man's body, or the handshake. She loves to rush to judgment. -GHS
+TP
+
+WVP 0 vfCCC3023kri011
+//霧「だからあなたには関わりたくなかった」
+Kiri: "That's why I didn't want to be involved with you in any way."
+//She suspected him, didn't know, and decided to just cut off relations instead of asking. Of course Taichi's kissing her was a very very stupid thing to do, but did that justify thinking him a murderer without evidence? In the end, the question is pointless; no one here's without blame. The question is if there'll be forgiveness. -GHS
+TP
+
+WVP 0 vfCCC3023kri012
+//霧「けど、あなたから関わってきた」
+Kiri: "But... there was involvement from you."
+TP
+
+//霧の双眼には、確信があった。
+Kiri's eyes had confidence in them.
+TP
+
+//それはもはやくすぶってはおらず、炎上し、瞳孔に攻撃的な色を宿らせている。
+An aggressive color dwells in her pupils, led there by a flame no longer smoldering or sputtering, but blazing.
+//Totally Toukoin'. -GHS
+TP
+
+//太一「ちょっと待ってよ。おかしいじゃないか」
+Taichi: "Wait up a second there! Ain't this weird?"
+TP
+
+//太一「……もし俺が豊を殺したのだとしたら、君に話しかけたりすると思う？」
+Taichi: "...let's say I even went and killed Yutaka, do you think I'd even come up and talk to you?"
+//Tooouko. -GHS
+TP
+
+WVP 0 vfCCC3023kri013
+//霧「……話しかけないと思います」
+Kiri: "...I do not think you would come talk to me,"
+TP
+
+WVP 0 vfCCC3023kri014
+//霧「普通は」
+Kiri: "normally."
+TP
+
+//太一「確かに……俺も普通じゃないけどさ」
+Taichi: "Of course... I'm not normal, no, but..."
+TP
+
+WVP 0 vfCCC3023kri015
+//霧「わたしたちはあなたの獲物でしかない」
+Kiri: "We are nothing more than game to you."
+TP
+
+WVP 0 vfCCC3023kri016
+//霧「あなたは、餓えを満たしただけ」
+Kiri: "You were only satisfying a hunger."
+TP
+
+WVP 0 vfCCC3023kri017
+//霧「人間の普通なんてどうだっていいんです。あなたはそういうものなんです」
+Kiri: "The normal of people is inconsequential. Because of the kind of thing you are."
+TP
+
+WVP 0 vfCCC3023kri018
+//霧「……人間の心を食べる、怪物なんです」
+Kiri: "...you devour human hearts, beast that you are."
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//好き放題言ってくれる。
+She just says whatever she pleases.
+//To his absolute non-reaction. She'd be dead five times over now if she was right. -GHS
+TP
+
+//太一「あのさ……俺と豊はダチだったんだよ。殺す理由がない」
+Taichi: "Say now... me and Yutaka were buds, weren't we. Got no reason to kill him."
+TP
+
+WVP 0 vfCCC3023kri019
+//霧「動機なんて不要です」
+Kiri: "No such thing as a motive needed."
+//Correction: seven times over. -GHS
+TP
+
+WVP 0 vfCCC3023kri020
+//霧「餓えに理由なんてない」
+Kiri: "Hunger is the only reason."
+TP
+
+//太一「ん～～～」
+Taichi: "Nggg～～～h."
+TP
+
+//頭をかく。
+I scratch my head.
+TP
+
+//太一「じゃあさ、どうしてわざわざ豊を獲物にしないといけなかったわけ？　仮に俺が怪物くんで、他人が獲物だとしても、男よりかは女の子の方がいいような気がするんだけど？」
+Taichi: "Well then, why would I go out of my way to intentionally pick Yutaka as game? Let's say that I'm a beast, and that I see other people as game, there's that thing how I prefer girls to men, noticed that?"
+//He's trying to AVOID having to tell her that her brother was a rapist. Acts, not words. With the ironic consequence that he is wrong to do *this*, not what he'll do later on! -GHS
+TP
+
+WVP 0 vfCCC3023kri021
+//霧「……フライドチキンの性別が気になりますか？」
+Kiri: "...are you worried about the gender of fried chicken?"
+TP
+
+//太一「ん……」
+Taichi: "Ngh..."
+TP
+
+//ああ言えばこう言う。
+A comeback for every remark.
+//Should remind of Miki. She was the one to train her, very likely. -GHS
+TP
+
+WVP 0 vfCCC3023kri022
+//霧「少なくとも……あなたがわたしを見る目は……そうでした」
+Kiri: "At the very least... the eyes you watched me with... were that."
+//Focus on eyes. -GHS
+TP
+
+//太一「あれはだからさー……そのー」
+Taichi: "I'm telling you that's not true... welll,"
+//3xl -GHS
+TP
+
+//太一「男だから、いろいろと盛り上がってしまって」
+Taichi: "I'm a man, so there's lots and lots that makes me, uhm, rise and stuff."
+//Sorta-literal seems to be "spur me on", but let's just say it's not even subtext, really. -GHS
+TP
+
+WVP 0 vfCCC3023kri023
+//霧「アレは、違う」
+Kiri: "It is different from... that."
+TP
+
+//太一「経験あんの？」
+Taichi: "You have experience with it?"
+TP
+
+WVP 0 vfCCC3023kri024
+//霧「……ありませんよ。けど、異質なものくらいはわかります」
+Kiri: "...I do not! But, I understand as far as saying that it is something heterogeneous."
+//IOW, she's saying it's not Taichi's sexual urges... which are things she knows absolutely nothing about. The girl doesn't even masturbate! Her annoyance at sexual harassment, much like everything, may just be an erroneous reaction to internal movements she doesn't understand. Her hate for Taichi is certainly nothing of the sort. -GHS
+TP
+
+//そうか、この子。
+She does, this girl here.
+TP
+
+//眼力があるんだったな。
+That was some insight.
+TP
+
+//悪意を見抜く力というか。
+Maybe it's the power to see through malice,
+TP
+
+//鋭すぎる洞察力か。
+maybe it's excessively sharp acumen.
+//Maybe it's projection. Except for the maybe. And Taichi is a whiny moron. But it is true, in the troll sense: Kiri is angry at the darkest sides of Taichi, which she sees... except they're no mo real than her behavior against Taichi is hatred. What she can't stand is Taichi's fakeness. -GHS
+TP
+
+//その目で見るなら、世界が恐いというのもうなずける。
+If seen with eyes like that, I can nod in assent: the world is frightening.
+TP
+
+//状況証拠と直感とで、疑問の余地はなくなったわけか。
+With all that circumstantial evidence and intuition, perhaps that's why all space for doubt has vanished.
+//Kiri's ultramarine if there's ever been one. Sharp, perhaps, but so damn easily convinced of ill intent. -GHS
+TP
+
+WVP 0 vfCCC3023kri025
+//霧「……ずっと疑っていた」
+Kiri: "...I've always suspected."
+//PCP above
+TP
+
+WVP 0 vfCCC3023kri026
+//霧「でも、この数日……わたしはあなたに気を許した」
+Kiri: "But, these few days... I have let my guard down around you."
+//Her plan to walk through town from the isolated spot she lives in to a place right beyond the house where your Sworn Enemy lives isn't letting your guard down, it is imbecilic in ways that border the bad writing. -GHS
+TP
+
+WVP 0 vfCCC3023kri027
+//霧「それが悔しい……」
+Kiri: "That is regrettable..."
+TP
+
+WVS 1 1
+
+WVP 0 vfCCC3023kri028
+//霧「でも」
+Kiri: "But,"
+TP
+
+WVP 0 vfCCC3023kri029
+//霧「それであなたの正体がわかりました」
+Kiri: "that is how I understood your true shape."
+TP
+
+//霧は窓の外に手を垂らした。
+Kiri sank her hand outside of the window,
+//Third floor at Suicidal Psychopath High (see the rooftop), and the window has no bars and is not locked. It's so damn blatant I'm not even sure this isn't a plot hole. -GHS
+TP
+
+WVP 0 vfCCC3023kri030
+//霧「あなたは……」
+Kiri: "You are..."
+//PCP above
+TP
+
+//引き上げる。
+dragging up,
+TP
+
+//布包み。
+a cloth parcel.
+//This is what Miki went to deliver. Technically a small one. Hum, toilet + weapon = Godfather reference? -GHS
+TP
+
+//窓枠の向こうの段差にたてかけてあったのか。
+Was it set against the step on the outside of the window?
+//Without images it's a bit tough to tell, especially since the sex CG shows little more than a sheer drop... not that it matters since this probably never happens. -GHS
+TP
+
+//布を取り払うと、
+She removes the cloth and,
+TP
+
+GL 0 evcc0024c
+$CGevcc0024c = 1
+GS 0 1
+SEF 109 1
+//This is even better seen in the 800x600 Reprint edition data, but, for what little the CGs can be trusted, the clock has no hands. Since this is a detailed version of the classroom BG, it's confirmed what can still only be sort-of made out - the clock in this generic classroom seems to not point out the time at all... -GHS
+
+WVP 0 vfCCC3023kri031
+//霧「薄汚い人殺しです」
+Kiri: "A filthy rotten murderer."
+//PCP above
+TP
+
+WVP 1 bgm008.ogg 0 0 0
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+//二つ目……つまり美希の分だったわけだ。
+A second one... in other words, Miki also had one for herself.
+TP
+
+//見事に誘い込まれた俺、という構図。
+Me, having been magnificently reeled in: that's the name of this composition.
+//見事誘い込まれた俺、という構図。
+//This random duped line's slightly different, not enough for a much different translation. -GHS
+TP
+
+WVP 0 vfCCC3023kri032
+//霧「動かないでください」
+Kiri: "Do not move, please."
+//CP CCB0022
+TP
+
+//太一「こんなことを言うのは男としてはずかちぃのだけど……曜子ちゃんが怒るぞ」
+Taichi: "This is sooo embarrassHing for a man to say, but... Youko-chan'll be angry you know."
+//Cutesy -GHS
+TP
+
+WVP 0 vfCCC3023kri033
+//霧「いいんです」
+Kiri: "That is fine."
+TP
+
+WVP 0 vfCCC3023kri034
+//霧「あなたさえ排除できれば」
+Kiri: "As long as I can just eliminate you."
+//This contradicts CCA0019A entirely. Note the implication that Youko won't be a problem if Taichi dies. See CCB0022: Miki going all "kill him" as Taichi goes into its own internal delusions would make sense in exactly this way. -GHS
+TP
+
+//太一「うーん」
+Taichi: "Oookay."
+TP
+
+WVP 0 vfCCC3023kri035
+//霧「わたしの次は誰ですか？　部長先輩？　桐原先輩？　それとも……美希？」
+Kiri: "Who will it be after me? President-senpai? Kirihara-senpai? Or maybe... Miki?"
+//She keeps assuming him not having killed her yet somehow still means he'd kill her later on. That's as odd as Youko somehow failing to kill her in a surprise attack. -GHS
+TP
+
+//太一「……誰も獲物にしたりしないよ」
+Taichi: "...I won't be making anyone my prey!"
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//尊く、自分さえ保っていてくれるなら。
+If I can just maintain my most sacred of selves.
+//(He's not referring to split personalities here, just his behaviors.) -GHS
+TP
+
+//人は人を求めるものだけど。
+People are the one thing people seek, however,
+TP
+
+//自己を相手に仮託したら、おしまいだ。
+if the partner is just used a pretext for the self, it's all over.
+//Meaning the other side seems to become all-important, but it's just projecting the self on them. See CCC3012A for the most described example on Youko. -GHS
+TP
+
+//そうなる前に、距離を取るしかないじゃないか。
+But before that happens, wouldn't you inevitably keep your distance?
+//Youko is the easiest example again, though this deals more with isolation in general. -GHS
+TP
+
+//世の中、優しくないから。
+Because, in this world, there is no kindness.
+TP
+
+//そのことを霧は理解しているはずなのに。
+And I know Kiri understands this, but,
+//See CCC3007 -GHS
+TP
+
+//この矛盾……わかってるのか、霧。
+do you understand this contradiction... Kiri?
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+WVP 0 vfCCC3023kri036
+//霧「信じる義理はありませんよね」
+Kiri: "I have no duty to believe you."
+TP
+
+//武器を構える。
+She aims the weapon.
+TP
+
+//この距離なら当たるだろう。
+At this distance I expect a direct hit.
+TP
+
+//霧が練習していた、木との距離と重なる。
+This distance and the distance with the tree Kiri practiced with overlap.
+TP
+
+//外しはすまい。
+She likely won't miss.
+TP
+
+//太一「……俺を殺せば、霧も死ぬことになっちゃうよ？」
+Taichi: "...you do realize you'll end up dead too if you kill me?"
+TP
+
+WVP 0 vfCCC3023kri037
+//霧「構わないです」
+Kiri: "I do not care."
+TP
+
+//笑う。
+She smiles.
+TP
+
+WVP 0 vfCCC3023kri038
+//霧「だって、どっちにしろ世界はもう終わりなんですから」
+Kiri: "Because either way the world has already ended."
+TP
+
+//太一「君の嫌いな人はいないのに」
+Taichi: "But the people you hate aren't anymore."
+TP
+
+WVP 0 vfCCC3023kri039
+//霧「……いなければいいというものじゃないです」
+Kiri: "...this was never about wishing them to be gone."
+//Meaning they're not necessarily gone... -GHS
+TP
+
+WVP 0 vfCCC3023kri040
+//霧「正しくあってほしかっただけです！」
+Kiri: "I only wanted for them to act correctly!"
+TP
+
+WVP 0 vfCCC3023kri041
+//霧「……あなたにも……」
+Kiri: "...even you..."
+//Dawww, she lurves him. -GHS
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//純粋な殺意。
+Pure unmixed murderous intent.
+TP
+
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　　　あやめ
+//結晶化し、小さな霧を取り巻く文目となって、彩る。
+It crystallizes, and becomes a tiny design that surrounds Kiri, coloring her.
+//Is that you, 綾? -GHS
+TP
+
+//俺が死ねば、霧も死ぬ。
+If I die, Kiri also dies.
+TP
+
+//覚悟の上で。
+A resignation to her fate,
+TP
+
+//冬子と一緒だ。
+identical to Touko's.
+//Again the crux of the matter. -GHS
+TP
+
+//それを良いと思ってしまう俺がいる。
+There is a part of me that thinks that is a very good thing.
+//Not Kiri's death, but resignation. Death for *him*. -GHS
+TP
+
+//反面、人恋しくもある。
+On the other hand, there is also a longing for others.
+TP
+
+//思い出が欲しい。
+I want memories,
+TP
+
+//記録したい。
+I want to record them,
+TP
+
+//心に刻みたい。
+I want to engrave them on my heart.
+TP
+
+//思い出さえあれば、その輝かしい宝石さえあれば―――
+If there's even just memories, if there's even just those shining jewels---
+TP
+
+//……俺は、本当に人の気持ちをエサにして生きる怪物かも知れない。
+...I might just be a beast that makes food of people's feelings, I don't know.
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+WVP 0 vfCCC3023kri042
+//霧「死ぬ前に、言い残すことはありますか？」
+Kiri: "Do you have anything left to say before you die?"
+TP
+
+//通告をする霧の手は、哀れなほど震えている。
+On notifying me of that, Kiri's hand shakes, pitifully.
+//Glasswork Kiri, that to touch is to break, who can barely lift up a TV monitor, can obviously hold that thing up single-handed for ten minutes and hit something. Sure, a CRT TV will likely weight 3+ times that crossbow, but that's obviously not the problem here... -GHS
+TP
+
+//恐いんだ。
+She's frightened.
+TP
+
+//人を殺すことが恐い。
+Murder is frightening.
+TP
+
+//精一杯に張りつめた心。
+The heart is strained with all its might.
+TP
+
+//その不安と理性の風船を割るには、わずかな刺激で事足りる。
+To burst that balloon of unease and rationality all that is needed is a tiny little stimulus.
+TP
+
+//針の先ほどの。
+Just the tip of the needle.
+TP
+
+//……助かる手はある。
+...there is a way to be saved.
+TP
+
+//死んでやろうかとも思う。
+And also the thought, shouldn't you just die you bastard?
+//死んでやろう -GHS
+TP
+
+//迷い。
+Hesitation.
+TP
+
+
+
+
+
+IF $KIRIBAD == 1 JMP RT_BAD001
+//If you didn't follow her, the choice doesn't appear. -GHS
+CSQ 0 1 1
+//　・受け入れる
+//　・受け入れない
+ - Accept it
+ - Don't accept it
+//"Agree" and "disagree" would also work... -GHS
+RET
+
+
+
+:RT_BAD001
+
+$B = 1
+
+
+RET

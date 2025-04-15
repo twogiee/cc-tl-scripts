@@ -1,0 +1,1012 @@
+//Tuesday September 8, 1998 -GHS
+
+//太一「おい、反転属性つき勝ち気娘」
+Taichi: "Hey, unyielding girl with the Reversible Character Attribute!"
+//CP CCA0014A
+TP
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfcca0014afyu000
+//冬子「はぁ……？」
+Touko: "Huh...?"
+//CP CCA0014A
+TP
+
+//太一「これをやる」
+Taichi: "I'm giving you this."
+//CP CCA0014A
+TP
+
+//朝のサンドイッチを差し出す。
+I present her with the sandwich from this morning.
+//CP CCA0014A
+TP
+GL 1 TCKT0000
+GI 1 0
+
+//ぽかんと、見つめる冬子。
+Touko gazes at it, flabbergasted.
+//CP CCA0014A
+TP
+
+WVP 0 vfcca0014afyu001
+//冬子「なに、コレ」
+Touko: "What's this, even?"
+//CP CCA0014A
+TP
+
+//太一「あんまん」
+Taichi: "Anman."
+//CP CCA0014A
+TP
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfcca0014afyu002
+//冬子「んなわけないでしょ！！　サンドイッチでしょ！」
+Touko: "'s not that at all you know!!! It's a sandwich you know!"
+//CP CCA0014A
+TP
+
+//太一「知ってるじゃないか」
+Taichi: "So you do know don't you."
+//CP CCA0014A
+TP
+
+//太一「ほれ」
+Taichi: "Have it."
+//CP CCA0014A
+TP
+
+
+//ずい
+Slid over,
+//CP CCA0014A
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfcca0014afyu003
+//冬子「……やめて」
+Touko: "...stop this."
+//CP CCA0014A
+TP
+WVP 2 se048 1 0
+
+//手を払われる。
+a swat of her hands,
+//CP CCA0014A
+TP
+
+//サンドイッチが落ちた。
+the sandwich fell,
+//CP CCA0014A
+TP
+
+//拾う。
+recovered.
+//CP CCA0014A
+TP
+
+//太一「ちゃんと食べてるのか？」
+Taichi: "Are you eating properly?"
+//CP CCA0014A
+TP
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfcca0014afyu004
+//冬子「あんたに、関係ない」
+Touko: "That's... none of yer business."
+//CP CCA0014A
+TP
+
+//そっぽを向く。
+Uncooperative.
+//CP CCA0014A
+TP
+
+//太一「自分しか、自分の心配をしてくれる人間がいないのは、つらいだろ？」
+Taichi: "Having no human alive, none outside of you, that worry about you... it's painful, right?"
+//CP CCA0014A
+TP
+
+WVP 0 vfcca0014afyu005
+//冬子「何言ってるのかわからない」
+Touko: "What's that even mean I don't know."
+//CP CCA0014A
+TP
+
+//太一「人に心配されたい」
+Taichi: "You want people to worry about you."
+//CP CCA0014A
+TP
+
+//太一「満たされたい」
+Taichi: "You want to be fulfilled."
+//CP CCA0014A
+TP
+
+WVP 0 vfcca0014afyu006
+//冬子「……」
+Touko: "..."
+TP
+
+//太一「俺、ちょっとは心配なんだけどな」
+Taichi: "And me, I'm getting somewhat worried here."
+//CP CCA0014A
+TP
+GL 1 TCKT0000
+GI 1 0
+
+//きっと俺を睨む。
+She sternly glares at me.
+//CP CCA0014A
+TP
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfcca0014afyu007
+//冬子「よく、言う」
+Touko: "Look... who's talking."
+//CP CCA0014A
+TP
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfcca0014afyu008
+//冬子「心配してるなら、どうして、どうしてっ！」
+Touko: "If you're worried, then why, why!"
+//CP CCA0014A
+TP
+
+//いきり立つ。
+She loses her temper.
+//CP CCA0014A
+TP
+
+//太一「あ、今は別に怒らせようとか思ってないんだけど」
+Taichi: "Ah, but I'm not really thinking of trying to anger you or anything right now."
+//Intentionally odd. -GHS
+TP
+WVP 2 se048 1 0
+
+
+//びたーん
+Smaaack.
+//PCP CCA0014
+TP
+GO 1 1
+
+//よろめく。
+Staggering.
+TP
+WVS 1 1
+
+//全然痛くなかった。
+That did not hurt in the slightest.
+TP
+
+WVP 0 vfccb0015bfyu000
+//冬子「……うう……」
+Touko: "...ngh..."
+TP
+
+//冬子は攻撃したあと、へたりこんでいた。
+Right after this strike, Touko collapses sitting on to the floor.
+TP
+
+//太一「もし？」
+Taichi: "You OK?"
+TP
+
+WVP 0 vfccb0015bfyu001
+//冬子「……ん…………」
+Touko: "...nh..."
+TP
+
+//目頭を押さえて、青い顔をしている。
+Holding her eyes shut, her face almost colorless.
+TP
+
+//太一「……冬子」
+Taichi: "...Touko."
+TP
+
+//そばにかがみ込む。
+I crouch next to her.
+TP
+
+WVP 0 vfccb0015bfyu002
+//冬子「呼び捨てないでよ……」
+Touko: "Don't address me without honorifics, you..."
+TP
+
+//絞り出すように言う。
+So she says as if squeezing it out.
+TP
+
+//一瞬で、額に汗が浮いていた。
+In that moment, sweat surfaces on her forehead.
+TP
+
+//太一「どこか痛むの？」
+Taichi: "Where does it hurt?"
+TP
+
+//冬子「……」
+Touko: "..."
+TP
+
+//太一「こんな状況なんだぞ。休戦だ」
+Taichi: "Things are like this, OK? Truce."
+TP
+
+//もう医者はいないのだから。
+Because there are no doctors anymore, now.
+TP
+
+//太一「冬子！」
+Taichi: "TOUKO!"
+TP
+
+WVP 0 vfccb0015bfyu004
+//冬子「目が見えない……」
+Touko: "My eyes, I can't see..."
+TP
+WVP 1 bgm007.ogg 0 0 0
+
+//失明？
+Loss of eyesight?
+TP
+
+//ぞっとする。
+She's shivering.
+TP
+
+//太一「他には？」
+Taichi: "Anything else?"
+TP
+
+WVP 0 vfccb0015bfyu005
+//冬子「気持ち悪い。ふらふらする……吐きそう」
+Touko: "I feel nauseous. I feel dizzy... like to throw up."
+TP
+
+//太一「吐くか？」
+Taichi: "Want to throw up?"
+TP
+
+WVP 0 vfccb0015bfyu006
+//冬子「……や」
+Touko: "...no!"
+TP
+
+//太一「じゃ横になりなよ」
+Taichi: "Then lie down!"
+TP
+
+//促す。
+Urgently.
+TP
+
+//冬子は抵抗しなかった。
+Touko had no resistance.
+TP
+
+//太一「目は？」
+Taichi: "Eyes?"
+TP
+
+WVP 0 vfccb0015bfyu007
+//冬子「まっくら……」
+Touko: "All dark..."
+TP
+
+//失明かな。
+Is this just loss of eyesight?
+//http://en.wikipedia.org/wiki/Hypotension looks legit -GHS
+TP
+
+//だったら、まだいい。
+If so, we're still good.
+TP
+
+//重篤な疾患や、臓器におよぶ大怪我よりはマシだ。
+Anything is preferable to serious illnesses, or external damage that reaches internal organs.
+TP
+
+//太一「冷静にね。パニックにならないで」
+Taichi: "Stay composed, OK? Don't you dare panic."
+TP
+
+WVP 0 vfccb0015bfyu008
+//冬子「…………大丈夫よ」
+Touko: "......I'm fine."
+TP
+
+//太一「ここ数日、体に異常はあった？」
+Taichi: "Was there anything out of the ordinary physically in the last few days?"
+TP
+
+WVP 0 vfccb0015bfyu009
+//冬子「ない」
+Touko: "Nothing."
+TP
+
+//太一「目に劇薬を浴びたとか」
+Taichi: "Did you get some powerful medicine or something poisonous on the eyes?"
+//Accidentally, maybe, but given it's her... -GHS
+TP
+
+WVP 0 vfccb0015bfyu010
+//冬子「ないわ」
+Touko: "None, no."
+TP
+
+//うーん。
+Okay.
+TP
+
+//本当に突然か。
+Really all of a sudden then.
+TP
+
+WVP 0 vfccb0015bfyu011
+//冬子「あ……」
+Touko: "Ah..."
+TP
+
+//太一「どうした？」
+Taichi: "What is it?"
+TP
+
+WVS 1 1
+
+WVP 0 vfccb0015bfyu012
+//冬子「ちょっと見えるようになってきた」
+Touko: "I think I'm starting to see something now."
+TP
+
+//安堵。
+Relief.
+TP
+
+//太一「じゃあ貧血だな」
+Taichi: "Then this was just anemia."
+TP
+
+WVP 0 vfccb0015bfyu013
+//冬子「貧血？」
+Touko: "Anemia?"
+TP
+
+//太一「そういう症状が出ることがあるんだ。気持ち悪いのもそのせいだな」
+Taichi: "The symptoms seem to be all there. It should also cause your feeling of nausea."
+TP
+
+WVP 0 vfccb0015bfyu014
+//冬子「そう……」
+Touko: "Right..."
+TP
+
+//太一「気持ち悪いのは？」
+Taichi: "How's your nausea?"
+TP
+
+WVP 0 vfccb0015bfyu015
+//冬子「ちょっと……楽になってきた……」
+Touko: "A bit... better I think..."
+TP
+
+//太一「……本当に、ちゃんと食べてる？」
+Taichi: "...seriously, are you eating properly?"
+//PCP above
+TP
+
+//冬子「…………」
+Touko: "......"
+TP
+
+//無言は非肯定を意味していた。
+A silence that meant denial.
+//Similar, but different, from CCA0028 -GHS
+TP
+
+//太一「食欲、ないわけ？」
+Taichi: "No appetite, is that it?"
+TP
+
+//冬子はゆっくりと上体を起こす。
+Touko slowly raises to sitting.
+TP
+
+WVP 0 vfccb0015bfyu017
+//冬子「……夏はいつもないの」
+Touko: "...never in Summer."
+TP
+
+//太一「でも貧血が起きるのはまずいよ、先生」
+Taichi: "But an attack of anemia is bad, Sensei!"
+//As she's a martial artist as well. And in pretty much the same sense he is (not at all). -GHS
+TP
+
+//太一「今日は何食べた？」
+Taichi: "What have you eaten today?"
+TP
+
+//冬子「…………」
+Touko: "......"
+TP
+WVP 1 bgm009.ogg 0 0 0
+
+//何も食べてないのか……。
+She didn't eat anything...?
+TP
+
+//太一「ほら、砂と魔女」
+Taichi: "Here, sand and witch."
+TP
+
+WVP 0 vfccb0015bfyu019
+//冬子「……え？」
+Touko: "...eh?"
+TP
+
+//太一「サンドウィッチ」
+Taichi: "Sandwich."
+TP
+
+//太一「神話の中で、砂と魔女を挟んで食べたのが由来なんだ」
+Taichi: "According to the legends, it was eaten sandwiched between sand and a witch, and that is the origin of its name."
+//Just for stupids. Actually British, the favorite food of the Earl of Sandwich so he could stay at the cards table longer without a full lunch. Wow, that was particularly useless knowledge. -GHS
+TP
+
+//由来＆語源主義的な浅薄スノッブ連中がだまされそうなナイスガセである。
+A most nice bit of nonsense to deceive the shallow etymologies & legends snobs.
+//Do keep thinking this is about Purty Words, my dear illiterates. -GHS
+TP
+
+//冬子「…………」
+Touko: "......"
+TP
+
+//冬子は目頭をこすった。
+Touko rubs around her eye sockets.
+TP
+
+//太一「目はどう？」
+Taichi: "How's the eyes?"
+TP
+
+WVP 0 vfccb0015bfyu021
+//冬子「見える」
+Touko: "I can see."
+TP
+
+//太一「ほら」
+Taichi: "Here."
+TP
+
+//冬子の手が、じりじりと水位があがるように、それをつかんだ。
+Touko's hand went up, slow and steady like the rising of the waterline, and seized it.
+//Waterline/water level will return. -GHS
+TP
+
+//太一「よしよし」
+Taichi: "Nicey nicey."
+TP
+
+WVP 0 vfccb0015bfyu022
+//冬子「ペットじゃない……」
+Touko: "I'm not some pet..."
+TP
+
+//ツッコミにも力がない。
+Even her straight-man has no strength.
+TP
+
+//太一「手作りだぞ」
+Taichi: "This is hand-made, I'll have you know."
+TP
+
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　かじ
+//わさわさとラップをむいて、小さく齧りついた。
+Fidgeting she removed the wrap, then took a little nibble.
+TP
+
+GL 0 evcc0022
+$CGevcc0022 = 1
+//MUGU, MUGU. -GHS
+GS 1 0
+GS 0 1
+SEF 155 0
+WVP 0 vfccb0015bfyu023
+//冬子「……ぱさぱさしてる」
+Touko: "...it's all dry."
+TP
+
+//太一「朝のだからな」
+Taichi: "They're this morning's."
+//Hour is undetermined. Possibly nearing noon. -GHS
+TP
+
+WVP 0 vfccb0015bfyu024
+//冬子「大きいくて食べにくい」
+Touko: "It's too big and hard to eat."
+TP
+
+//太一「俺用だったし」
+Taichi: "It was made for me."
+TP
+
+WVP 0 vfccb0015bfyu025
+//冬子「マスタード入れすぎ」
+Touko: "There's way too much mustard."
+TP
+
+//太一「辛いの大好き」
+Taichi: "I really like 'em harsh and spicy."
+//Intended to be a riff of how he likes 'em tsundere, but it's interesting considering curry is Christianity. -GHS
+TP
+
+//冬子「…………」
+Touko: "......"
+TP
+
+//太一「で、まずいと？」
+Taichi: "Well, is it bad?"
+TP
+
+WVP 0 vfccb0015bfyu027
+//冬子「…………おいしい」
+Touko: "......delicious."
+TP
+
+//太一「ならば、ゆっくり食え」
+Taichi: "Well then, eat it slowly."
+TP
+
+WVP 0 vfccb0015bfyu028
+//冬子「ぐじ」
+//Touko: "*branchiostegus!*"
+Touko: "Sob."
+TP
+
+//鼻をすすった。
+She was sniffling.
+TP
+
+//悔しかったらしい。
+Mortified, it seems.
+TP
+
+//やれやれだ。
+Dear me, dear me.
+TP
+
+WVP 0 vfccb0015bfyu029
+//冬子「うっ」
+Touko: "Ngh."
+TP
+
+//口元を押さえた。
+She clamps down her mouth.
+TP
+
+//太一「吐くか？」
+Taichi: "Need to vomit?"
+//CP above
+TP
+
+//首を振る。
+Shake of the head.
+TP
+//>　　　　　　　　　　えんげ
+//無理して、嚥下した。
+Deglutition, even if forcefully.
+//See CCA0004... -GHS
+TP
+
+WVP 0 vfccb0015bfyu030
+//冬子「……何か飲みたい」
+Touko: "...I wanna drink something."
+TP
+
+//太一「マイ水筒」
+Taichi: "My canteen."
+//My + water + pipe... dammit, that's too forced. -GHS
+TP
+
+//太一「滅亡世界の必需品」
+Taichi: "An essential in a fallen world."
+TP
+
+//渡す。
+I hand it over.
+TP
+
+//冬子「……」
+Touko: "..."
+TP
+
+//ずいぶんと迷って、
+With excessive hesitation,
+TP
+
+//直に口をつけて、
+she puts it to the mouth,
+TP
+
+//器の尻を持ち上げた。
+then raises the canteen's butt to the sky.
+TP
+
+//喉が隆起して、水分を摂取する。旺盛に。
+Her throat giving protuberance as water passes through. Vigorously.
+//HOLY SHIT SHE'S A TRAP -GHS
+TP
+
+//太一「……水分くらい補給してるわけ？」
+Taichi: "...you're not replenishing your fluids regularly?"
+TP
+
+WVP 0 vfccb0015bfyu032
+//冬子「だって、水道出ない」
+Touko: "But there's no running water."
+TP
+
+//太一「田崎商店」
+Taichi: "Tasaki Store."
+TP
+
+WVP 0 vfccb0015bfyu033
+//冬子「……行ったけど」
+Touko: "...I went, but,"
+TP
+
+WVP 0 vfccb0015bfyu034
+//冬子「帰る途中で転んで、坂の下に全部落ちた」
+Touko: "They fell on the way home, and rolled all the way to the bottom of a hill."
+//See CCA0004. I guess they broke too? -GHS
+TP
+
+//太一「不器用ちゃんか、おまえは」
+Touko: "Clumsy-chan I'm gonna call ya."
+TP
+
+//太一「店に取りに戻ればいいだろうが」
+Taichi: "You could've just returned to the store and taken more."
+TP
+
+WVP 0 vfccb0015bfyu035
+//冬子「……そしたらまたあのメモ書かないといけなくなるから」
+Touko: "...but then I would just have to write another memo and then,"
+//Flustered -GHS
+TP
+
+WVP 0 vfccb0015bfyu036
+//冬子「人に見られたら……」
+Touko: "if people were to see it..."
+TP
+
+//太一「はあ？」
+Taichi: "Huh?"
+TP
+
+//それだけで？
+Just because of that?
+TP
+
+//体面の問題だけで？
+It's only a question of honor?
+TP
+
+//太一「自分の命優先だろうが！」
+Taichi: "One's life takes precedence!"
+TP
+
+WVP 0 vfccb0015bfyu037
+//冬子「だって」
+Touko: "But..."
+TP
+
+//泣きそうになる。
+She became as if to cry.
+TP
+
+//太一「はー、桐原先生、そりゃ呆けすぎですぜ」
+Taichi: "Ohhh, Kirihara-sensei, you are acting too much like the funny man in a comedy duo you are!"
+TP
+
+WVP 0 vfccb0015bfyu038
+//冬子「デリケートなの！」
+Touko: "I am delicate!"
+TP
+
+//太一「人がいなくなったら、そんな価値観は消える」
+Taichi: "If there's no people anymore, then the recognition of values like that disappears."
+//See CCA0021 -GHS
+TP
+
+//何も許容されなくなる。
+Nothing is permitted anymore either.
+//Seems to be in the meaning of, "what gives permission is gone". -GHS
+TP
+
+//求められるのは。
+All that is demanded now,
+TP
+
+//生きる力。
+is the strength to live.
+//"And do what you will shall be the whole of the law". -GHS
+TP
+
+//それは純粋な個としての人。
+That is a person existing in pure Individuality.
+TP
+//>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　さんだつ
+//あらゆる欲望が、蔑まれさえしていた欲求に簒奪される。
+All desires are being usurped by the previously scorned wants.
+//See CCA0021 again -GHS
+TP
+
+//冬子にそれがあるとは思えない。
+I didn't think those wants were in Touko.
+TP
+
+//いや。
+No.
+TP
+
+//とうに、わかっていたことだ。
+They are something that I discovered, long ago.
+TP
+
+
+GL 2 efcc0003
+GL 1 evcc0032
+GP 1 0 0 0
+GP 2 0 0 0
+GI 2 0
+GI 1 0
+GS 2 0
+GS 1 0
+SEF 109 0
+//HACK This is erroneously onscreen for less than a fraction of a second, copied this from the otherwise 'pasta script CCD0020B. -GHS
+
+
+//冬子の凄絶な弱さを。
+Touko's violent weakness,
+TP
+
+//理解した。
+I had understood.
+TP
+
+//こいつはもう限界なんだって。
+This gal's already at the limit.
+TP
+
+//人類が滅亡して、家族もいなくなって、あの広い屋敷みたいな家で。
+Mankind fallen, her family also gone, and in that enormous castle-like mansion...
+TP
+
+//一人で。
+...her, alone.
+//That's because her parents are still on vacation. They DID leave her there for a week at camp, didn't they. Hell, they even let her go to Taichi's house. Even before this possibly metaphorical Fall she was left well enough alone. -GHS
+TP
+
+//太一「……これから、八人だけで生きていかないといけないんだぞ」
+Taichi: "...from now on, we're going to have to make do and live with only eight of us."
+TP
+
+//冬子「……………………」
+Touko: "............"
+TP
+
+//沈黙が重い。
+The silence is heavy.
+TP
+
+WVP 0 vfccb0015bfyu040
+//冬子「みんな死ぬわ」
+Touko: "Everybody'll just die."
+TP
+
+//太一「死ぬさ」
+Taichi: "Die we will."
+TP
+
+//誰にだって、逃れられない死が待ってる。
+Death is an inescapable eventuality for everyone.
+TP
+
+//太一「問題はいつ、どう死ぬかだろ」
+Taichi: "The problem is when one dies, and how."
+TP
+
+WVP 0 vfccb0015bfyu041
+//冬子「こんな……ありえないじゃない……人が……いなくなるなんて」
+Touko: "This... can't be can it... people are just... not there anymore."
+//STILL can be because she's lonely. -GHS
+TP
+
+//太一「でも現実だ」
+Taichi: "But it's reality."
+TP
+
+//突きつける。
+I thrust it before her.
+//o.O -GHS
+TP
+
+//太一「世界は人を塗りつぶした。俺たちだけが、『互い』だ」
+Taichi: "This world has painted out all people. We alone are... reciprocal."
+//Awww don't spoil iiit! -GHS
+TP
+
+WVP 0 vfccb0015bfyu042
+//冬子「私には耐えられない……」
+Touko: "This is unbearable for me..."
+TP
+
+//太一「うーむ」
+Taichi: "Hummm."
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+//この流れは……。
+This flow, it's...
+//Water-related word. Connects to many more things, but especially the concept of "game flow". -GHS
+TP
+
+//仕方、ないのかもしれない。
+There's... no other way, perhaps.
+TP
+
+//関わったのだ。望んで。
+There was involvement. A wish for it.
+//Here with Touko, but also before at the hokora. -GHS
+TP
+
+//俺が冬子と築きたかった関係は、決して蜂蜜のようなそれではなかったけれど。
+The relationship I wanted to build with Touko was never to be in any way similar to honey, but...
+//Translation: BAKAPPURU HANTAI -GHS
+TP
+
+//この壊れかけの少女を、放置するという選択はない。
+...the choice to abandon this broken girl to herself will never appear.
+//Meanwhile, in inaccessible scripts... -GHS
+TP
+
+//途中まではいい。
+Up to partway through it's fine.
+TP
+
+//けど……終端についたら？
+But... what about the very final part?
+TP
+
+//どうする？
+What to do?
+TP
+
+//俺はどうするんだ？
+What will I even do?
+TP
+
+//もう逃げ場はないに違いない。
+There are no more places to escape to, no mistake.
+TP
+
+//冬子ルートとも言うべき流れに乗って、際まで行って、そこで全てが崩壊したとしても。
+Even if I ride this flow that ought be called the Touko Route, even if I go all the way to the edge, even if nothing is there but Downfall...
+//Name drop. x2. -GHS
+TP
+
+//今度はその終焉までつきあわないといけない。
+This time, not going together to that demise will be impossible.
+TP
+
+//>らんじゅく
+//爛熟という苦痛に苛まれながら。
+While being hailed torment by the agony that is this over-ripeness.
+//So he can spell "sainamu" as well, see CCA0015C. I'm guessing it's their relationship going spoiled (in more ways than one). -GHS
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+//太一「どうしても耐えられないなら」
+Taichi: "If whatever you do it remains unbearable..."
+//He's planning on inviting her to live with him. -GHS
+TP
+
+WVP 0 vfccb0015bfyu043
+//冬子「え……？」
+Touko: "Eh...?"
+TP
+
+//敏感に冬子が反応した。
+Touko's response is sensible.
+TP
+
+//口をつぐむ。
+I clam up.
+TP
+
+WVP 0 vfccb0015bfyu044
+//冬子「……どうしても、何？」
+Taichi: "...whatever I do, what?"
+TP
+
+//太一「いや、それ、全部食べていいから」
+Taichi: "No, well, it's fine if you eat it all."
+TP
+
+//立ち上がる。
+I stand up.
+TP
+
+//太一「なあ」
+Taichi: "Say,"
+TP
+
+WVP 0 vfccb0015bfyu045
+//冬子「……んが？」
+Touko: "...mwht?"
+TP
+
+//サンドイッチを囓りながら冬子。
+Touko was still nibbling on her sandwich.
+TP
+
+//太一「どうして、人は滅びたんだと思う？」
+Taichi: "What do you think annihilated humanity?"
+TP
+GL 0 bgcc0000a
+GS 0 1
+SEF 152 0
+
+
+//窓の外を見る。
+I look outside the window.
+TP
+
+//何を期待して問うたわけでもない。
+It wasn't a question I expected an answer for.
+TP
+
+WVP 0 vfccb0015bfyu046
+//冬子「滅んだんじゃないわ」
+Touko: "This isn't annihilation, no."
+TP
+
+//とんでもなく哲学的な答えが戻ってきた。
+An unexpectedly philosophical answer returns.
+TP
+
+WVP 0 vfccb0015bfyu047
+//冬子「……薄くなって消えてしまったのよ」
+Touko: "...they've just thinned out until they were gone."
+//She's actually correct. -GHS
+TP
+
+
+WVS 1 1
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 2
+//HACK slow fade to black -GHS
+
+WT 500 0
+WT 1500 1
+RET

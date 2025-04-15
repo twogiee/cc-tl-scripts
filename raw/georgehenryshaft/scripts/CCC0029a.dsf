@@ -1,0 +1,125 @@
+
+GL 0 bgcc0006
+GS 0 1
+GS 1 0
+SEF 152 0
+WVP 1 bgm013.ogg 0 0 0
+//HACK earlier music -GHS
+
+//教室には冬子がいた。
+Touko was in the classroom.
+//Still ARAIBU DE GOZAIMASU NANO DE ARfuck I need to up my dosage of anti-weeaboo pills again. -GHS
+TP
+
+
+//杖に突っ伏して寝ている。
+//机に突っ伏して寝ている。
+Bent over the desk, sleeping.
+//staff 杖=つえ tsue, desk 机=つくえ tsukue, typo fixed in the console version. -GHS
+TP
+
+//ずっとここで座っていたのか。
+Been sitting here all along, perhaps.
+TP
+
+//みみ先輩や友貴みたく部活に逃げることも、
+She doesn't have the escape into club that Mimi-senpai and Tomoki have,
+TP
+
+//俺のような安堵の日々も、
+nor days of relief like I,
+//I take it this is "plugging his USB dongle into its cap", if you know what I mean, and if you do, please don't tell me. -GHS
+TP
+
+//曜子ちゃんのような鉄壁なエゴさえもない。
+not even the impregnable fortress of an ego like Youko-chan.
+TP
+
+//冬子には逃げる場所がないのかもしれない。
+Touko might have nowhere to escape to, perhaps.
+//See CCB2010 -GHS
+TP
+
+//それは……前も同様だ。
+This is... just like before.
+TP
+
+//人類滅亡前の世界でも。
+In the world that was before the fall of mankind,
+TP
+
+//冬子は一人だった。
+Touko was also alone.
+TP
+
+//ずっと虚勢を張って生きてきた。
+A life of endlessly pretending to be brave.
+TP
+
+//だから一度ほつれると脆かったんだ。
+That's why she was brittle, once she became frayed.
+TP
+
+//近寄って、声をかける。
+I draw near and call out.
+TP
+
+//太一「冬子」
+Taichi: "Touko."
+TP
+
+//冬子「……」
+Touko: "..."
+TP
+
+//太一「とーこ」
+Taichi: "Tooouko."
+TP
+
+WVP 0 vfCCC0029afyu001
+//冬子「……うぅん」
+Touko: "...nnngh."
+TP
+
+//身じろぐ。
+Stirring,
+TP
+
+//だが起きない。
+yet not waking.
+TP
+
+//太一「サンドイッチ食べるか？」
+Taichi: "Wanna eat sandwiches?"
+TP
+
+WVP 0 vfCCC0029afyu002
+//冬子「……食欲、ないから……」
+Touko: "...but I have... no appetite."
+//PCP CCB0021
+TP
+
+//呼吸が、すぐに寝息に戻る。
+Her breathing quickly returned to a sleeper's.
+//Hmmm, see CCC0031C. My Touko In The Infirmary theory is far from proven, I know, but this is a near-perfect parallel with Sakuraba regardless. -GHS
+TP
+
+//太一「そうか」
+Taichi: "Right."
+TP
+
+//心なしかやつれている。
+Somewhat emaciated.
+TP
+
+//ちゃんと食べてるのか、コイツ。
+This lady... is she even eating properly.
+TP
+
+//ポケットからあめ玉を取り出し、机の上に転がした。
+I take some sweets out of my pocket and let them roll out onto the desk.
+TP
+
+WVS 1 1
+
+RET

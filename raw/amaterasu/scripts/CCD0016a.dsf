@@ -1,0 +1,284 @@
+
+
+GL 0 bgcc0008
+GL 1 TCSK0001
+GP 1 220 0
+GS 0 1
+GS 1 1
+SEF 109 0
+WVP 0 vfCCD0001kri028
+Kiri: "......stare."
+TP
+
+
+Kiri was staring me down as I brushed off the dust.
+TP
+
+
+Taichi: "Kiri......"
+TP
+
+
+So, Kiri first.
+TP
+
+
+WVP 0 vfCCD0001kri029
+Kiri: "......what is it?"
+TP
+
+
+A cold reaction with cold features.
+TP
+
+
+She stood before me.
+TP
+
+
+I was a head taller than her, but she faced me with an unhesitating gaze.
+//9:1 google search result compared to unhesitant - Raide
+TP
+
+
+That's good spirit.
+TP
+
+
+Taichi: "Teyaaa."
+//PCP_S ccc3002
+TP
+
+
+GL 5 bgcc0000e
+GL 0 evcc0028
+$CGevcc0028 = 1
+WVP 2 se100 1 0
+GI 5 0
+GS 0 1
+GS 1 0
+GS 5 0
+SEF 109 0
+
+*akesukeee!*
+//PCP
+TP
+
+
+
+WVP 0 vfCCC3002kri013
+Kiri: "---???"
+TP
+
+
+
+WVP 0 vfCCC3002kri014
+Kiri: "H-huh? Huhuh?"
+//CP_F
+TP
+
+
+WVP 0 vfCCC3002kri015
+Kiri: "Wh-why won't it go back......wh-wh-wha!?"
+//CP_S
+TP
+
+
+Kiri pushed down on her fluttering skirt.
+//CP_F
+TP
+
+
+That didn't calm it down in the slightest.
+TP
+
+
+WVP 0 vfCCC3002kri016
+Kiri: "My skirt! It's......floating, wait, what is this!?"
+//CP
+TP
+
+
+WVP 0 vfCCD0001mki035
+Miki: "Mystery discovered......"
+TP
+
+
+Taichi: "The trick is in how you twist your wrist."
+TP
+
+
+WVP 0 vfCCC3002kri017
+Kiri: "Aa-aa-aaaa-aaaaa......"
+//CP
+TP
+
+
+*fluster* *fluster*
+TP
+
+
+*flutter* *flutter* *flap* *flap*
+TP
+
+
+WVP 0 vfCCD0001kri030
+Kiri: "Ku, I can't get the air out!"
+TP
+
+
+Taichi: "Now..."
+TP
+GL 0 bgcc0008
+GS 0 1
+SEF 155 0
+
+
+I looked at Miki.
+TP
+
+GL 1 TCYM0000
+GP 1 225 0
+GI 1 1
+
+WVP 0 vfCCD0001mki036
+Miki: "Gulp......"
+TP
+
+
+Taichi: "I have a slightly early Christmas present for a little girl who loves mini skirts."
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfCCD0001mki037
+Miki: "Ah......are...you going to do that to me too......?"
+TP
+
+
+She tried to back out.
+TP
+
+
+WVP 0 vfCCD0001mki038
+Miki: "Ah......no......please forgive meee."
+TP
+
+
+Taichi: "Uu."
+TP
+
+
+Ku, she's so tender.
+TP
+
+
+Taichi: "I would much prefer to let you go, but...... forgive me."
+TP
+
+
+WVP 0 vfCCD0001mki039
+Miki: "Fuwaa, Se-sempai, calm down......"
+TP
+
+
+I placed my fingers on the hem of her skirt.
+TP
+
+
+WVP 0 vfCCD0001mki040
+Miki: "Miki's beloved Sempai would never do such a thing, would he?"
+TP
+
+
+She gazed at me.
+TP
+
+
+Taichi: "......"
+TP
+
+
+The girl's cry moved my heart.
+TP
+
+
+I want to push recklessly into the back of those hips.
+TP
+
+
+I want to break her because I adore her.
+TP
+
+
+I want to harass her because I love her.
+TP
+
+
+A man's heart is complicated.
+TP
+
+
+WVP 0 vfCCD0001mki041
+Miki: "Why do people have to fight each other!?"
+TP
+
+
+Ku! So true...
+TP
+
+
+That's a completely unrelated and correct question.
+TP
+
+
+Miki's pure words opened my eyes.
+TP
+
+
+Taichi: "I understand, Miki."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+
+WVP 0 vfCCD0001mki042
+Miki: "Sempai, thank goodness."
+TP
+
+
+I lowered my head to Kiri as well.
+//He started to talking to her now.-Spin
+TP
+GO 1 1
+
+Taichi: "Well, well, Kiri, sorry!"
+TP
+
+
+GL 4 sgcc0013
+$CGsgcc0013 = 1
+WVP 2 SE003 1 0
+GI 4 0
+SEF 101 0
+
+WVP 0 vfCCD0001kri031
+Kiri: "Sorry's not good enough!!!"
+TP
+
+WVS 1 1
+
+WT 500 0
+WT 1000 1
+
+GL 0 bgcc0000d
+GS 0 1
+GS 4 0
+SEF 109 1
+
+WT 500 0
+
+
+
+RET

@@ -1,0 +1,169 @@
+
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 152 0
+
+WT 500 0
+
+GL 0 bgcc0011a
+GS 0 1
+SEF 152 0
+
+
+WVP 1 bgm018.ogg 0 0 0
+
+Taichi: "Ho......"
+TP
+
+I tried moving around in various ways.
+TP
+
+Sunday's club activities.
+TP
+
+So that, on the world's final day, everyone can join together.
+TP
+
+However......I felt hardship.
+TP
+
+To make everyone fornicate......I mean, to make everyone reconcile, puzzle pieces were currently needed.
+IF $tlnote != 0 (TL note: Kanji homonyms again.)
+TP
+
+I headed back to the hokora.
+TP
+
+GL 0 bgcc0016a
+GS 0 1
+SEF 152 0
+
+A large quantity of notebooks.
+TP
+
+More than I could finish reading.
+TP
+
+
+
+Since I violated Miki (or so it appeared), Kiri's going to become worthless.
+TP
+
+
+
+It's good to increase information.
+TP
+
+But by increasing it too much, I'll lose the time to analyze it.
+TP
+
+It's a dilemma.
+TP
+
+GL 0 bgcc0000c
+GS 0 1
+SEF 152 0
+
+
+I continued thinking about it deep into the night.
+TP
+
+WVP 0 vfCCD0001you037
+Youko: "Taichi."
+TP
+WVP 2 SE019 1 0
+A light shone on me from behind.
+TP
+
+A flashlight.
+TP
+GL 0 bgcc0016b
+GL 1 TCHY0000c
+GS 1 1
+GS 0 1
+GP 1 180 0
+SEF 109 0
+
+
+Youko-chan.
+//"And" didn't need to be there.-Spin
+TP
+
+Taichi: "Nna......too bright......"
+TP
+
+GL 1 TCHY0001c
+GI 1 0
+WVP 0 vfCCD0001you038
+Youko: "Even your eyes will go bad if you read in the dark too much."
+/she's talking about this, not just normal reading.
+TP
+
+Taichi: "Nn......sorry."
+TP
+
+GL 1 TCHY0000c
+GI 1 0
+WVP 0 vfCCD0001you039
+Youko: "Did you discover anything?"
+TP
+
+Taichi: "Nothing. I seem to be stuck thinking in circles."
+TP
+
+GL 1 TCHY0001c
+GI 1 0
+WVP 0 vfCCD0001you040
+Youko: "I see. That's a shame."
+TP
+
+Taichi: "Youko-chan, would you......"
+TP
+
+I began to ask, then shut my mouth.
+TP
+
+Was I really going to rely on her?
+//The original line was a weirdly stated question. This changes the meaning a little yea but, I can't think of anything else.-Spin
+TP
+
+Taichi: "Never mind. I'll go home."
+TP
+
+I stood up.
+TP
+
+I put the notebooks back in the hokora.
+TP
+
+I took several with me to read.
+TP
+
+GL 1 TCHY0000c
+GI 1 0
+WVP 0 vfCCD0001you041
+Youko: "......can we go home together?"
+TP
+
+Taichi: "You're always watching me anyway."
+TP
+
+GL 1 TCHY0001c
+GI 1 0
+
+WVP 0 vfCCD0001you042
+Youko: "I'm sorry......"
+TP
+
+WVS 1 1
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+WT 500 0
+
+
+
+RET

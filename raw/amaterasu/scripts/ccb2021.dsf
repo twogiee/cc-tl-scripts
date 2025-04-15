@@ -1,0 +1,206 @@
+GL 0 evcc0025
+$CGevcc0025 = 1
+GS 4 0
+GS 3 0
+GS 2 0
+GS 1 0
+GS 0 1
+SEF 10 0
+//This is how "Breakdown/Purification" ends if you choose Touko's route. Å`IX
+WVS 1 0
+
+What happened?
+TP
+
+I can't understand.
+TP
+
+Just...
+TP
+
+I was being trifled with by emotions I couldn't analyze.
+TP
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 evcc0025
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 5
+*****: "********!?"
+TP
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 evcc0025
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 5
+
+****: "****......"
+TP
+
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 evcc0025
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 5
+****: "**************"
+TP
+
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 evcc0025
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 5
+****: "************......"
+TP
+
+Countless static.
+TP
+
+I couldn't make it out.
+TP
+
+I moved.
+TP
+
+I just didn't feel like it.
+TP
+
+I felt like I should move away from the static.
+TP
+
+I touched a fence.
+//'a' fence or 'the' fence? My instinct says 'the' but I just want to check - Sheeta
+TP
+
+I pushed, and the mesh wall was slowly eliminated.
+TP
+
+Sky.
+TP
+
+'I'll go to the sky,' I thought.
+TP
+
+
+AL 4
+GL 0 efcc0001
+GS 0 1
+AL 0
+GL 0 efcc0002
+GS 0 1
+AL 0
+GL 0 evcc0025
+GS 0 1
+AL 0
+WVP 2 SE016 1 0
+SEF 99 5
+****: "************!!!"
+TP
+
+At once, a huge burst of static energy reached my back.
+TP
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 10 0
+
+WVP 1 bgm021.ogg 0 0 0
+The world was enveloped in scarlet.
+TP
+
+Color.
+TP
+
+I could see the color called scarlet.
+TP
+
+Wind in my ears.
+TP
+
+I was flying, cutting through the wind.
+TP
+
+Taichi: "......haha."
+TP
+
+I'm not flying. I'm falling.
+TP
+
+And this isn't a story.
+TP
+
+This is falling for real.
+TP
+
+Special move of the innocent teenager: Life Dive Appeal.
+//Sounds like emo kid suicide for attention. Scary. - pondrthis
+TP
+
+Though I'm not exactly trying to appeal to anyone......
+TP
+
+Honestly,
+TP
+
+Why did it all come to this?
+TP
+
+I want to do it over. Really.
+TP
+
+Really.
+TP
+
+Am I about to crash yet?
+//"Am I nearing the bottom/ground/earth?" is worth considering. - pondrthis
+TP
+
+Dammit, if someone was beside me...
+TP
+
+ÅwMy life is flashing before my eyes.Åx
+TP
+
+While spouting that sort of appropriate and cool young-adult speech, I slowly closed my eyes, displaying my manliness in order to appeal to the other side of the screen, and it wor
+//'and it wor'? I think something's missing here! - Sheeta
+TP
+GL 0 bgcc0000d
+WVS 1 0
+WVP 2 SE079 1 0
+GI 0 0
+SEF 101 0
+WT 1500 0
+WT 1000 1
+
+CALL ndemo0002
+
+
+
+RET

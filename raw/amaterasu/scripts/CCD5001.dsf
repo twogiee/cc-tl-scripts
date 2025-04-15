@@ -1,0 +1,6915 @@
+
+
+TWS 0
+
+IF $KAISOU == 0 JMP N_START001
+IF $CIA == 101 JMP SCENE001
+IF $CIA == 102 JMP SCENE002
+
+:N_START001
+
+
+
+
+GL 0 bgcc0016
+GS 0 1
+SEF 109 1
+
+
+WVP 1 bgm018.ogg 0 0 0
+
+
+And then, I woke up.
+TP
+
+I confirmed it in the depths of the undergrowth.
+TP
+
+
+I could only use this method one last time.
+TP
+
+
+There was......only one person left.
+TP
+
+
+Hasekura Youko---
+TP
+
+
+I'll have to go about it more carefully than before.
+TP
+
+
+I definitely cannot fail.
+TP
+
+
+......I can't be affected by her rebellious spirit.
+TP
+
+
+And, there's one point that's different from before.
+TP
+
+
+WVS 1 1
+
+
+Taichi: "I don't need......her memories."
+TP
+
+
+
+
+
+
+
+
+
+
+
+
+WVP 1 bgm007.ogg 0 0 0
+
+
+GL 0 bgcc0004
+GS 0 1
+SEF 152 0
+No bentou had been left out.
+TP
+
+
+The pattern was already different.
+TP
+
+
+Taichi: "......"
+TP
+
+
+It made me uneasy.
+TP
+
+
+When everyone else goes away......her actions differ.
+TP
+
+
+Taichi: "......what is that?"
+TP
+
+
+I rolled my eyes.
+TP
+
+
+Even though I'd intended to not be affected by her...
+TP
+
+
+Because she had love as her blind spot, I thought I could trick her into---
+TP
+
+
+Did I underestimate her?
+TP
+
+
+No......there were no elements that could conclude to that.
+TP
+
+
+Taichi: "Calm down."
+TP
+
+
+For now, I'll try going outside.
+TP
+
+
+
+GL 0 bgcc0002
+GS 0 1
+
+GL 1 TCHY0000
+GS 1 1
+GP 1 180 0
+SEF 152 0
+
+Youko-chan was waiting there.
+TP
+
+
+Taichi: "......!?"
+TP
+
+
+Smiling.
+TP
+
+
+Taichi: "Wh-......"
+TP
+
+
+WVP 0 vfCCD5001you000
+Youko: "Just the two of us."
+TP
+
+
+Taichi: "Eh?"
+TP
+
+GL 1 TCHY0003
+GI 1 0
+WVP 0 vfCCD5001you001
+Youko: "......huhuhu."
+TP
+
+
+WVP 0 vfCCD5001you002
+Youko: "Just the two of us, Taichi."
+TP
+
+
+I wanted to run.
+TP
+
+
+My instincts told me to.
+TP
+
+
+My pulse hastened, and any calm thought I had remaining fell away.
+TP
+
+
+So this is what's called pressure.
+TP
+
+
+Taichi: "......are you...really that happy about it?"
+TP
+
+
+If I don't maintain consciousness, my voice will cut off.
+TP
+GL 1 TCHY0001
+GI 1 0
+WVP 0 vfCCD5001you003
+Youko: "Yes. Because I've been waiting."
+TP
+
+
+Taichi: "So that's it......"
+TP
+
+
+GL 1 TCHY0004
+GI 1 0
+WVP 0 vfCCD5001you004
+Youko: "Hey, Taichi......may I kiss you?"
+TP
+
+
+Taichi: "Ah, sure."
+TP
+
+
+She walked toward me without a sound and wrapped her arms around my neck.
+TP
+
+
+I was being captured.
+TP
+
+
+I was being devoured.
+TP
+
+
+WVP 0 vfCCD5001you005
+Youko: "Nn......"
+TP
+
+
+For some time, her invading tongue devastated the inside of my mouth.
+TP
+
+
+While softly biting my upper lip, she let go.
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD5001you006
+Youko: "Bye, we'll continue later."
+TP
+GO 1 1
+
+She left.
+TP
+
+
+Taichi: "Yeah, see you...later......"
+TP
+
+
+I'll make her drop her guard.
+TP
+
+
+At this point, I'll make her,
+TP
+
+
+It doesn't matter how,
+TP
+
+
+I'll make her---
+TP
+
+
+Taichi: "Ah......"
+TP
+
+
+I realized I was holding a paper-wrapped sandwich against my chest.
+TP
+
+
+WVS 1 1
+
+
+
+
+
+
+
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+SEF 152 0
+
+Taichi: "I've come to school, but......"
+TP
+
+
+WVP 1 bgm016.ogg 0 0 0
+
+
+I scratched my head.
+TP
+
+
+There's no one here.
+TP
+
+
+But......I guess I'll go look around for a bit.
+TP
+
+
+Somehow I can't calm down around midday without going to school.
+TP
+
+
+
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152 0
+The classrooms were silent.
+TP
+
+
+No signs of life.
+TP
+
+
+A loneliness, as if the air had thinned.
+TP
+
+
+I don't have the confidence to stay here long.
+TP
+
+
+I left the classroom.
+TP
+
+
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+Being bigger than the classrooms, it felt even more tranquil here.
+TP
+
+
+
+GL 0 bgcc0010
+GS 0 1
+SEF 152 0
+I sat down in the chair I always used.
+TP
+
+
+Taichi: *sigh*
+TP
+
+
+I sighed, and had nothing to do.
+TP
+
+
+With no flowing electricity, I can't contact anyone else.
+TP
+
+
+Taichi: "I'll have to start living at a slower pace."
+TP
+
+
+But people tend to get in a hurry.
+TP
+
+
+......that's the problem.
+TP
+
+
+Taichi: "No, before that."
+TP
+
+
+I remembered my stress.
+TP
+
+
+Taichi: "......it's her."
+TP
+
+
+
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 0
+The antenna.
+TP
+
+
+An unbuilt dialogue with partial progress.
+TP
+
+
+I won't see Sempai ever again.
+TP
+
+
+She disappeared home, along with the possibility of her working on this.
+TP
+
+
+There's a dangerous place in the fence.
+TP
+
+
+Remaining unfixed, the world overlapped.
+TP
+
+
+Taichi: "......was it a drainage problem?"
+TP
+
+
+However many times it's repaired, just this one area gets damp and weakens.
+TP
+
+
+The roof is part of the school and yet not part of it.
+TP
+
+
+Here, where borders are shared with the sky, it's like another world.
+TP
+
+
+A wide skyline covered in green.
+TP
+
+
+WVS 1 1
+
+
+Taichi: "......nn?"
+TP
+
+
+Between mountains, a signal fire rose up.
+TP
+
+
+Taichi: "A ninja's?"
+TP
+
+
+Taichi: "As if."
+TP
+
+
+I hit my temporal lobe.
+TP
+
+
+It seems a few of my carefree elements have remained.
+TP
+
+
+Taichi: "A mountain fire?"
+TP
+
+
+No, considering the possibilities......
+TP
+
+
+Taichi: "Ah, is it Youko-chan?"
+TP
+
+
+Why a signal fire?
+TP
+
+
+
+
+GL 0 bgcc0015
+GS 0 1
+SEF 152 0
+Taichi: "......ha! Nn!......"
+TP
+
+
+Right after thinking that I'd live a carefree life, I dashed off.
+TP
+
+
+A laborious path.
+TP
+
+
+I entered the clearing.
+TP
+
+
+Isn't this next to the hokora?
+TP
+
+
+What would she be doing next to the hokora?
+TP
+
+
+On the other side of the bushes, a bursting sound.
+TP
+
+
+I parted through and continued on.
+TP
+
+
+Taichi: "Ah......"
+TP
+
+
+
+WVP 1 bgm008.ogg 0 0 0
+
+GL 0 evcc0070
+$CGevcc0070 = 1
+GS 0 1
+SEF 152 0
+It'd been burning.
+TP
+
+
+All of it had been burning.
+TP
+
+
+All of the records had been playing with fire.
+TP
+
+
+Even though my rationality was freezing, my body was shuddering.
+TP
+
+
+Taichi: "What......are you doing?"
+TP
+
+
+When I spoke to her, the answer that came back was so direct and honest...
+TP
+
+
+WVP 0 vfCCD5001you007
+Youko: "......I'm burning them."
+TP
+
+
+Taichi: "You're burning......"
+TP
+
+
+Is it okay to burn those?
+TP
+
+
+You know that those are the records which illuminate the fact that we're repeating the same time?
+TP
+
+
+Taichi: "It's not good to burn those."
+TP
+
+
+I said in an unthinkably calm tone, given the state of emergency.
+TP
+
+Or I should say, I was half-automatically riding my moral rail, and was actually quite aghast.
+TP
+
+
+There was no answer. Because it wasn't a question.
+TP
+
+
+Taichi: "Stop...that."
+TP
+
+
+A deaf ear.
+TP
+
+
+She was just gazing at the mountain of flames coiling around the notebooks.
+TP
+
+
+Taichi: "You know......"
+TP
+
+
+As a result, haste returned to my heart.
+TP
+
+
+I swallowed my saliva and screamed.
+TP
+
+
+Taichi: "Put it out!"
+TP
+
+
+When I did she slowly curled her body and faced me.
+TP
+
+
+WVP 0 vfCCD5001you008
+Youko: "But, they're no longer needed."
+TP
+
+
+WVP 0 vfCCD5001you009
+Youko: "There's no need for Taichi to understand."
+TP
+
+
+Taichi: "What are you saying......?"
+TP
+
+
+No need to understand?
+TP
+
+
+There's no need for me to know about the cycling world?
+TP
+
+
+Taichi: "Idiot! How could that be!? I'm putting it out!"
+TP
+
+
+I picked up a broken stick and moved to break up the mountain of fire.
+TP
+
+
+My wrist was grabbed.
+TP
+
+
+Taichi: "Ku!......Why......?"
+TP
+
+
+WVP 0 vfCCD5001you010
+Youko: "You mustn't."
+TP
+
+
+WVP 0 vfCCD5001you011
+Youko: "They're already burning to the core. It's dangerous......"
+TP
+
+
+Quite a bit of time had passed since seeing the fire.
+TP
+
+
+Most of the data had already turned to ash.
+TP
+
+
+Many scraps of charred, blackened paper had broken off and were floating upward.
+TP
+
+
+Taichi: "You idiot, doing this means......"
+TP
+
+
+WVP 0 vfCCD5001you012
+Youko: "You won't know."
+TP
+
+
+Taichi: "That's right......if I die, everything will be returned."
+TP
+
+
+It's true that I've been doing well here for a while.
+TP
+
+
+But there's no guarantee I won't die.
+TP
+
+
+An illness, an accident......suddenly going berserk.
+TP
+
+
+Even if I died, as long as there's data I can understand my own position.
+TP
+
+
+That one-in-a-million insurance had now become ash.
+TP
+
+
+I dropped my wooden stick. Because my wrist had been twisted.
+TP
+
+
+Taichi: "......uu."
+TP
+
+
+WVP 0 vfCCD5001you013
+Youko: "It's fine if I alone know what's necessary."
+TP
+
+
+Taichi: "Youko-chan......"
+TP
+
+
+Then I knew.
+TP
+
+
+Her plan...
+TP
+
+
+Taichi: "......you......knew......what I..."
+TP
+
+
+WVP 0 vfCCD5001you014
+Youko: "Yes, I know......because Taichi's simple-minded."
+TP
+
+
+Taichi: "............"
+TP
+
+
+She also knows what I was thinking of doing next.
+TP
+
+
+Taichi: "......you're thinking of reconstructing me, aren't you?"
+TP
+
+
+WVP 0 vfCCD5001you015
+Youko: "Yes."
+TP
+
+
+The current me.
+TP
+
+
+In other words, the will to live through a proper life was unneeded for her objective.
+TP
+
+
+I'm trying to carve memories into my heart and live alone.
+TP
+
+
+The fact that I was among the faces sent home......of course I'd known that.
+TP
+
+
+But I'd overlooked it.
+TP
+
+
+It's so obvious.
+TP
+
+
+Because, to her, everyone else was just in the way.
+TP
+
+
+Only I need to be here.
+TP
+
+
+But that's not the current me.
+TP
+
+
+The me that knows nothing---
+TP
+
+
+Taichi: "So, I'll shut myself up in the hokora."
+TP
+
+GL 0 bgcc0016
+
+GL 1 TCHY0000
+GP 1 180 0
+GS 0 1
+GS 1 1
+SEF 109 0
+
+WVP 0 vfCCD5001you016
+Youko: "Yes, I thought you would."
+TP
+
+
+Taichi: "If I maintain my own proper memories, it won't be hard to control myself......"
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD5001you017
+Youko: "Yes, right."
+TP
+
+
+Almost like a game of twenty questions.
+TP
+
+
+She smiled like a mannequin.
+TP
+
+
+Faintly cold.
+TP
+GL 1 TCHY0003
+GI 1 0
+
+WVP 0 vfCCD5001you018
+Youko: "I've endured a lot of Taichi's harassment. I've held it in."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+WVP 0 vfCCD5001you019
+Youko: "That's why, this time it's Taichi's turn......I guess."
+TP
+
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCD5001you020
+Youko: "But, I won't make you feel pain."
+TP
+
+
+Taichi: "Are you sure you want to reveal that?"
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD5001you021
+Youko: "Yes, I don't want to hide anything from Taichi."
+TP
+
+
+Taichi: "Even if I'm reset, I might bring the secret to light on my own at some point."
+TP
+
+
+
+WVP 0 vfCCD5001you022
+Youko: "I burned them so that won't happen."
+TP
+
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCD5001you023
+Youko: "When there's no information, the probability of Taichi noticing the hokora system by himself is low."
+TP
+
+
+Taichi: "............"
+TP
+
+
+That's true.
+TP
+
+
+She was the one who left the memo in the beginning.
+TP
+
+
+I was merely guided along.
+TP
+
+
+She's embracing me, peeking into my eyes.
+TP
+
+
+Together to the depths of our hearts.
+TP
+
+GL 1 TCHY0002
+GI 1 0
+
+WVP 0 vfCCD5001you024
+Youko: "Taichi. The world is information."
+TP
+
+
+WVP 0 vfCCD5001you025
+Youko: "You can control it with information."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD5001you026
+Youko: "Isn't that what investment is?"
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD5001you027
+Youko: "The king of information is the king of the world."
+TP
+
+GL 1 TCHY0002
+GI 1 0
+
+WVP 0 vfCCD5001you028
+Youko: "I have lived on in order to become that."
+TP
+
+
+WVP 0 vfCCD5001you029
+Youko: "......until I become that."
+TP
+
+
+Taichi: "............you can become that at any time."
+TP
+
+
+Taichi: "Why not return to the former world and become that there?"
+TP
+
+
+This is her after all.
+TP
+
+
+Since familiar faces were going away one by one, she must have reached a conclusion on what I was doing.
+TP
+GL 1 TCHY0000
+
+GI 1 0
+
+WVP 0 vfCCD5001you030
+Youko: "I just chose that because I had no other appropriate goal......I don't particularly like it."
+TP
+
+
+WVP 0 vfCCD5001you031
+Youko: "I'd prefer Taichi over such a thing."
+TP
+
+
+She caressed my cheek.
+TP
+
+
+Taichi: "......you're insane."
+TP
+GL 1 TCHY0003
+GI 1 0
+
+WVP 0 vfCCD5001you032
+Youko: "You're back to your old face. That takes me back. That makes me happy."
+TP
+
+
+WVP 0 vfCCD5001you033
+Youko: "Because Taichi's been boring lately."
+TP
+
+
+Taichi: "......you've started talking more, Youko-chan."
+TP
+
+
+I said coldly.
+TP
+
+
+Taichi: "You were also cuter back then, when you were quiet and aloof."
+TP
+
+
+
+WVP 0 vfCCD5001you034
+Youko: "......we've both changed."
+TP
+
+
+She spoke and smiled.
+TP
+
+
+Taichi: "That one-in-a-million could happen to you too. Wouldn't it be hard without information?"
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD5001you035
+Youko: "If I'm near the shrine on Sunday night I'll learn about the loop."
+TP
+
+
+WVP 0 vfCCD5001you036
+Youko: "Even without preliminary knowledge, that's not a possibility that can't occur."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD5001you037
+Youko: "That's enough for me."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD5001you038
+Youko: "And then our relationship will become a phenomenon."
+TP
+
+
+WVP 0 vfCCD5001you039
+Youko: "The phenomenon of us."
+TP
+
+
+WVP 0 vfCCD5001you040
+Youko: "For eternity---"
+TP
+
+
+With a sharp bursting sound, the force of the fire covered the pile of notebooks.
+TP
+
+
+Taichi: "You're a monster of rationality."
+TP
+
+
+With a charming smile stuck to her face, she moved her lips closer to mine.
+TP
+
+
+WVS 1 1
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+
+
+
+
+
+
+WVP 1 bgm017.ogg 0 0 0
+
+
+GL 0 bgcc0003e
+GS 0 1
+SEF 152 0
+Taichi: "......"
+TP
+
+
+I lay down on the bed and gazed at the ceiling.
+TP
+
+
+She'd made the first move.
+TP
+
+
+That Youko-chan......she's probably living in proper time.
+TP
+
+
+I get that feeling.
+TP
+
+
+But for how long?
+TP
+
+
+Are there other standstill spots? Or was she hiding near the hokora?
+TP
+
+
+Anyway, if she knows the series of mechanisms behind it, it's all the same.
+TP
+
+
+Naturally, Youko-chan knows that I've been avoiding her.
+TP
+
+
+Taichi: "Not good."
+TP
+
+
+Never being serious is one of my charm points, which I achieve by cutting my emotions away and reunifying them later. But there are many drawbacks to never being serious.
+//Note to self: Look at this again later ~Bal
+//Ehe, I did some stuff to it. It should make more sense now - Sheeta
+TP
+
+
+Taichi: "Hasekura Youko......huh?"
+TP
+
+
+The possibility of sending her back had become extremely low.
+TP
+
+
+And at this rate, the current me will be erased.
+TP
+
+
+The fact that she'd been relaxing in her room this whole time was because she made light of me.
+TP
+
+
+Making light of me? Or accurately seeing my capability?
+TP
+
+
+I'll capture her and send her back by force.
+TP
+
+
+That's nearly impossible.
+TP
+
+
+She has intuition on par with a wild animal and far more means of dealing with things than me.
+TP
+
+
+She could be secretly carrying any sort of weapon.
+TP
+
+
+Taichi: "......seriously..."
+TP
+
+
+This is really bad.
+TP
+
+
+The current me will disappear.
+TP
+
+
+It's an ÅwidentityÅx crisis. A big one.
+TP
+
+
+In other words I have to capture her and send her home within the week.
+TP
+
+
+That's the only way to live on.
+TP
+
+
+Taichi: "......that's impossible."
+TP
+
+
+Even if I was driving a tank, I probably wouldn't win.
+TP
+
+
+Taichi: "Even if......I could force her..."
+TP
+
+
+Is there a better method or schedule?
+TP
+
+
+I thought hard.
+TP
+
+
+First, the highest probability is today.
+TP
+
+
+Because I can predict that she'll become more and more wary of my actions as the weekend approaches.
+TP
+
+
+Fewer and fewer days remaining...
+TP
+
+
+ = A reduction in the possibility of the current me continuing.
+TP
+
+
+If I do the math on the greatest possibilities......today is the most appropriate for attack.
+//Greatest possibilities doesn't sit well with me. It was read really awkwardly. I don't know how to fix it, but I'd like to draw attention to it in case someone agrees -Neko
+TP
+
+
+If there's a day I can make her drop her guard, it's today.
+TP
+
+
+Taichi: "......"
+TP
+
+
+But there's not much time to prepare.
+TP
+
+
+What do I need to prepare for an attack?
+TP
+
+
+First......I need a place where I can lock her up until Sunday, when I can send her back.
+TP
+
+
+Confinement.
+TP
+
+
+Taichi: "Weapons......"
+TP
+
+
+What about weapons?
+TP
+
+
+Weapons for resisting her.
+TP
+
+
+I can't kill her.
+TP
+
+
+After I send her back, she'll live in continuous time.
+TP
+
+
+I have to return her to the other side alive.
+TP
+
+
+Taichi: "Make her powerless......hmm..."
+TP
+
+
+To make her temporarily powerless,
+TP
+
+
+Taichi: "A stun baton, or something."
+//I want to change all these to "baton." It makes sense why he would need to be so close to her later on.-Spin
+TP
+
+
+I should still have one here.
+TP
+
+
+I searched my room.
+TP
+
+
+I found it right away.
+TP
+
+
+My baton was a very silent device and could intercept an enemy's brainwaves by contacting them.
+TP
+
+
+The effectiveness varies on the individual, but it should stop anyone from moving.
+TP
+
+
+The problem is how to make it contact the enemy, but,
+TP
+
+
+There are a number of ways to confuse her.
+TP
+
+
+If I hide it on me and try to get close, she'll notice, but,
+TP
+
+
+That's why, if I come at her directly......
+TP
+
+
+Taichi: "That should work."
+TP
+
+
+I can deal with her that way.
+TP
+
+
+Since fatal weapons like crossbows are out of the question.
+TP
+
+
+Just in case, I brought spare batteries.
+TP
+
+
+It's all over if she finds me suspicious, so it's not an option to go heavily armed.
+TP
+
+
+I'll approach her, and restrain her.
+TP
+
+
+Even if I injure her significantly,
+TP
+
+
+Taichi: "......the problem is......how long it'll take to restrain her."
+TP
+
+
+Naturally, I'll be confining her for a week until sending her back.
+TP
+
+
+During that time I'll have to prepare meals on trays.
+TP
+
+
+The danger will increase in proportion to the time she's confined.
+TP
+
+
+Taichi: "But I have to do it."
+TP
+
+
+I got up.
+TP
+
+
+I have to hurry and prepare a confinement room.
+TP
+
+
+
+
+GL 0 bgcc0002c
+GS 0 1
+SEF 152 0
+Taichi: "......okay."
+TP
+
+
+Deep breathing.
+TP
+
+
+When I started toward her house,
+TP
+
+
+WVS 1 0
+
+
+In the darkness covering the road, taking one step forward,
+TP
+
+
+GL 0 bgcc0005c
+GS 0 1
+SEF 152 0
+There she was.
+TP
+
+
+WVP 1 bgm014.ogg 0 0 0
+
+
+Taichi: "......"
+TP
+
+GL 1 TCHY0000c
+GI 1 0
+Youko: "......"
+TP
+
+
+How did she display her current emotions?
+TP
+
+
+Feelings like a storm, that had become a mixture neither upset nor amazed.
+TP
+
+
+But if I broke character, I'd be finished.
+TP
+
+
+Taichi: "Hey."
+TP
+
+
+I moved closer.
+TP
+
+
+Each step was heavy.
+TP
+
+
+Mostly in the physical sense.
+TP
+
+
+Taichi: "You know, I'm kinda hungry."
+TP
+
+
+Taichi: "I was thinking you could make something for me, Youko-chan."
+TP
+
+
+Taichi: "Since your cooking is good."
+TP
+
+
+Taichi: "And something warm really is better than canned food."
+TP
+
+
+Taichi: "Everyone's gone now, so it's no longer embarrassing if I let you do that."
+TP
+
+
+Taichi: "Well, I might have been a bit cold up until now,"
+TP
+
+
+Taichi: "But, why don't we hang out more honestly from now on?"
+TP
+
+
+I moved toward her, one step at a time.
+TP
+
+
+The director was a normal, utterly unfazed me.
+TP
+
+
+Taichi: "That's right, you can come back to my place now."
+TP
+
+
+Taichi: "We'll live together now."
+TP
+
+
+Taichi: "Together like we used to, but without the despair of the past."
+TP
+
+
+Taichi: "Both of us."
+TP
+GL 0 bgcc0000c
+GS 0 1
+GS 1 0
+SEF 109 0
+
+WVS 1 1
+
+
+
+She wore a thin veil of darkness, and only her mouth shone white in the moonlight.
+TP
+
+
+A smile.
+TP
+
+
+My back felt like it'd freeze.
+TP
+
+
+Why was she here?
+TP
+
+
+I thought about the reason, I felt faint.
+TP
+
+
+If she kills the current me---
+TP
+
+
+Next week she can obtain a me that knows nothing.
+TP
+
+
+Taichi: "That's why......"
+TP
+
+
+Taichi: "For a very long time, I've..."
+TP
+
+
+Taichi: "Since I was a child..."
+TP
+
+
+
+WVP 1 bgm019.ogg 0 0 0
+
+
+That was my limit.
+TP
+
+
+I kicked the ground.
+TP
+
+
+I rushed at her.
+TP
+
+
+I pretended to fall forward and picked up a small rock.
+TP
+
+
+I threw it at her face.
+TP
+
+
+Youko-chan caught the pebble with one hand.
+TP
+
+
+But, I was already at point-blank range.
+TP
+
+
+I thrust my baton.
+TP
+
+
+The tip touched her stomach.
+TP
+
+
+I could knock her over with this force.
+TP
+
+
+I moved my body to push into her with the force from my running start.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+And then---
+TP
+
+
+I was pushed into the ground.
+TP
+
+
+She was on my back.
+TP
+
+
+It had been decided perfectly by skill.
+TP
+
+
+I couldn't move a muscle.
+TP
+
+
+I was pinned down, my left hand and face pushing into the ground.
+TP
+
+
+Taichi: "Uu......"
+TP
+
+
+WVP 0 vfCCD5001you041
+Youko: "See?......Taichi?"
+TP
+
+
+She whispered in a sweet voice, as if to a lover.
+TP
+
+
+WVP 0 vfCCD5001you042
+Youko: "I think Taichi and I go together perfectly."
+TP
+
+
+Taichi: "Uu......gugu......"
+TP
+
+
+WVP 0 vfCCD5001you043
+Youko: "Who else could survive?"
+TP
+
+
+Taichi: "What?"
+TP
+
+
+WVP 0 vfCCD5001you044
+Youko: "I can't beat you when you're serious, but......"
+TP
+
+
+WVP 0 vfCCD5001you045
+Youko: "Even if that happens, I can succeed at running away."
+TP
+
+
+WVP 0 vfCCD5001you046
+Youko: "For beasts, there are tamers."
+TP
+
+
+WVP 0 vfCCD5001you047
+Youko: "For Taichi, there is me."
+TP
+
+
+A kiss on the cheek.
+TP
+
+
+And then a hand on my neck.
+TP
+
+
+I'm being strangled. My light breathing stopped.
+TP
+
+
+A mere few seconds.
+TP
+
+
+My consciousness fell into a darkness deeper than night.
+TP
+
+
+WVS 1 1
+
+
+
+
+
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 1
+Taichi: "Nn......"
+TP
+
+
+WVP 1 bgm020.ogg 0 0 0
+
+
+Light heartburn. I woke up.
+TP
+
+
+Taichi: "......this is..."
+TP
+
+
+My room.
+TP
+
+
+The extra things for confinement have been moved out of the way.
+TP
+
+
+I'd been connected to the place I'd prepared for Youko-chan.
+TP
+
+
+Taichi: "What's the meaning of this?"
+TP
+
+
+I asked while holding back a yawn.
+TP
+
+GL 1 TCHY0000
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCD5001you048
+Youko: "......restraints, since this week's Taichi still has his memories."
+TP
+
+
+Taichi: "You really are treating me like a beast."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD5001you049
+Youko: "Bear with it for one week......"
+TP
+
+
+Taichi: "What about going to the bathroom?"
+TP
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD5001you050
+Youko: "Diapers."
+TP
+
+
+Taichi: "......seriously?"
+TP
+
+
+WVP 0 vfCCD5001you051
+Youko: "Seriously."
+TP
+
+
+My dignity as a person...
+TP
+
+GL 1 TCHY0003
+GI 1 0
+
+WVP 0 vfCCD5001you052
+Youko: "It's fine, Taichi's isn't filthy."
+TP
+
+
+Taichi: "No, don't say things like that."
+TP
+
+
+So she won't even let me go to the bathroom.
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD5001you053
+Youko: "Here's your food......"
+//She says rice in here. Why not "Here's some rice"? -Neko
+TP
+
+
+Taichi: "At least release one of my hands."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD5001you054
+Youko: "I'm sorry, I can't."
+TP
+
+
+Taichi: "............"
+TP
+
+
+There's no choice.
+TP
+
+
+I need physical strength.
+TP
+
+
+Taichi: "I can't eat like this, though..."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD5001you055
+Youko: "Aaah......"
+TP
+
+
+Taichi: "......"
+TP
+
+
+Multi-faceted humiliation.
+TP
+
+
+Well, there are no other people, so......
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+........................
+TP
+
+
+GL 0 bgcc0003e
+GS 0 1
+SEF 109 0
+
+She really did leave me alone all day.
+TP
+
+
+Taichi: "This sucks......"
+TP
+
+
+My back hurts.
+TP
+
+
+I can hardly even turn over.
+TP
+
+
+There is time to think, though......
+TP
+
+
+GL 1 TCHY0000c
+GI 1 1
+
+Youko-chan came.
+TP
+
+
+Taichi: "......what?"
+TP
+
+GL 1 TCHY0001c
+GI 1 0
+
+WVP 0 vfCCD5001you056
+Youko: "Water."
+TP
+
+
+She put a cup to my mouth.
+TP
+
+
+She put her other hand under my jaw.
+TP
+
+
+I remembered being a bit parched.
+TP
+
+
+I drank.
+TP
+
+
+Taichi: "?"
+TP
+
+
+I had a strange feeling.
+TP
+
+
+But I drank it down.
+TP
+
+
+Taichi: "Hey......is this water drugged?"
+TP
+GL 1 TCHY0001c
+GI 1 0
+
+
+WVP 0 vfCCD5001you057
+Youko: "With necessary drugs."
+TP
+
+
+She didn't deny it.
+TP
+
+
+Taichi: "What kind?"
+TP
+GL 1 TCHY0000c
+GI 1 0
+
+
+
+WVP 0 vfCCD5001you058
+Youko: "I think you wouldn't understand even if I told you."
+TP
+
+
+Taichi: "So it's nothing good."
+TP
+
+
+Without answering, she disappeared.
+TP
+
+
+Taichi: "Where's my food!?"
+TP
+
+
+Huh? Is she planning to starve me?
+TP
+
+
+That'll be tough.
+TP
+
+
+After a while she came again.
+TP
+
+
+It was meal time.
+TP
+
+
+Stew and bread.
+TP
+
+
+For this day and age, it was elaborate cooking.
+TP
+
+
+It whetted my appetite.
+TP
+
+
+Since I can't use my hands, she made me eat it.
+TP
+
+
+What spilled out of my mouth, she wiped with her own mouth.
+TP
+
+
+The scent of her body.
+TP
+
+
+My hips were itching.
+TP
+
+
+Taichi: *sigh*
+TP
+
+
+For now, a sigh.
+TP
+
+
+She doesn't seem to be starving me to rob me of strength.
+TP
+
+
+She took the utensils and disappeared again.
+TP
+
+
+When she returned, she had a bucket of hot water. And a towel.
+TP
+
+
+Taichi: "Wh-what are you......"
+TP
+
+
+My clothes were taken off.
+TP
+
+
+Taichi: "Nooo, perveeert!"
+TP
+
+
+Struggling was meaningless.
+TP
+
+
+As I was exposed, she tickled my nipples and did other things.
+TP
+
+
+Taichi: "I'm being violated!?"
+TP
+
+
+She wiped my whole body with a wrung towel.
+TP
+
+
+My face. Behind my ears.
+TP
+
+
+My arms. My sides.
+TP
+
+
+My stomach. My back.
+TP
+
+
+My haunches. My legs.
+TP
+
+
+And lastly......my penis.
+TP
+
+
+Taichi: "Uuuuuuuuu."
+TP
+
+IF $nonero == 1 JMP youkoHend1
+
+She cleaned it carefully.
+TP
+
+GL 1 TCHY0001c
+GI 1 0
+
+WVP 0 vfCCD5001you059
+Youko: "......it's getting bigger."
+TP
+
+
+Taichi: "I should tell you, that's not because of lust."
+TP
+
+GL 1 TCHY0003c
+GI 1 0
+
+WVP 0 vfCCD5001you060
+Youko: "I know. It's fine."
+TP
+
+
+She dropped the towel in the bucket.
+TP
+
+
+Youko-chan stood still there.
+TP
+
+
+Taichi: "So, is there something else?"
+TP
+
+
+She lightly touched my perfectly vertical organ.
+TP
+GL 1 TCHY0004c
+GI 1 0
+
+WVP 0 vfCCD5001you061
+Youko: "......so big."
+TP
+
+
+Her finger rushed up it from the base to the tip.
+TP
+
+
+WVP 0 vfCCD5001you062
+Youko: "Taichi's is splendid."
+TP
+
+
+Taichi: "Uu......"
+TP
+
+
+I was becoming sensitive.
+TP
+
+
+My skin was tingling.
+TP
+
+
+WVP 0 vfCCD5001you063
+Youko: "I'll use my mouth."
+TP
+
+
+She was a mixture of neither breath nor words, whose cheeks were already lightly tinted.
+TP
+
+
+She shot her gaze toward me, glowing with heat.
+TP
+
+
+My crotch suddenly ached.
+TP
+
+
+Taichi: "Normally......it's the other way around......"
+TP
+
+
+My stretched out self was raving more than usual.
+TP
+
+
+I was strangely excited.
+TP
+
+
+Both I and her.
+TP
+
+
+It's hopeless, like being violated is a given.
+TP
+
+
+
+
+JMP N_SCENE001
+:SCENE001
+WVP 1 bgm020.ogg 0 0 0
+GP 1 180 0 0
+
+:N_SCENE001
+
+
+
+
+
+
+GL 0 evcc0030a
+$CGevcc0030a = 1
+GS 0 1
+GS 1 0
+SEF 109 1
+WVP 0 vfCCD5001you064
+Youko: "......Taichi......wonderful."
+TP
+
+
+WVP 0 vfCCD5001you065
+Youko: "Nn......nnmu! Nnn! Ah, fua......nn, nnn......"
+TP
+
+
+She licked me with her tongue.
+TP
+
+
+WVP 0 vfCCD5001you066
+Youko: "*kiss*......*kiss* nn......nnn......nnn."
+TP
+
+
+A soft stimulus.
+TP
+
+
+Repeated.
+TP
+
+
+WVP 0 vfCCD5001you067
+Youko: "Ah, fua......*lick!* Nn!......*lick* *lick*......"
+TP
+
+
+When I thought my tip was inside her, she soon spat it out.
+TP
+
+
+It was making me impatient.
+TP
+
+
+Taichi: "Uuu......"
+TP
+
+
+WVP 0 vfCCD5001you068
+Youko: "Fuun......nn......nn, nnmu! Nn!"
+TP
+
+
+WVP 0 vfCCD5001you069
+Youko: "Nnn, nnku, *lick!*......aan......nnnnn."
+TP
+
+
+Her tongue and lips twisted as her face writhed.
+TP
+
+
+WVP 0 vfCCD5001you070
+Youko: "*kiss*......*kiss* *kiss*......nn! Afu......"
+TP
+
+
+Taichi: "Uuaaa......"
+TP
+
+
+A low voice leaked out.
+TP
+
+
+WVP 0 vfCCD5001you071
+Youko: "Ah......*lick*......nn, nnnnn......*kiss*"
+TP
+
+
+Lips pushed against me. Zig-zagging motions.
+TP
+
+
+From what I could see by looking straight ahead, the tip of her tongue was leaving a wet line along me.
+//Sorry, but 'my rod' made me laugh XD - Sheeta
+// Isn't 'rod' a common word in ero scenes anyway?
+TP
+
+
+WVP 0 vfCCD5001you072
+Youko: "Nnn, nnnnnn, *lick!*......*kiss*......nn!...... It's getting...sticky...Taichi."
+TP
+
+
+Taichi: "Didn't you do that?"
+TP
+
+
+I made an effort to wring out a voice.
+TP
+
+
+WVP 0 vfCCD5001you073
+Youko: "I'll lick you until you're sodden. Are you happy?"
+TP
+
+
+Taichi: "Dunno."
+TP
+
+
+To me this was just bravado.
+TP
+
+
+WVP 0 vfCCD5001you074
+Youko: *lick*......
+TP
+
+
+Her tongue came farther out.
+TP
+
+
+That pink flesh dripping with saliva licked up from the base to the tip.
+TP
+
+
+Taichi: "Uwa......!"
+TP
+
+
+My back convulsed.
+TP
+
+
+Not good.
+TP
+
+
+My happy pubescent libido is limitless.
+TP
+
+
+Her caresses repeated over and over, licking different sides.
+TP
+
+
+WVP 0 vfCCD5001you075
+Youko: "Nnn, nn! Nnfu!......Nnn......nnfu......an......"
+TP
+
+
+Taichi: "......!"
+TP
+
+
+My body shook. I couldn't stop it.
+TP
+
+
+My whole body became strangely sensitive.
+TP
+
+
+Abnormal excitement?
+TP
+
+
+WVP 0 vfCCD5001you076
+Youko: "Taichi's is shaking."
+TP
+
+
+She smiled.
+TP
+
+
+WVP 0 vfCCD5001you077
+Youko: "If you feel like cumming, tell me."
+TP
+
+
+Taichi: "............"
+TP
+
+
+WVP 0 vfCCD5001you078
+Youko: "Nn!......So hot......nn......you're getting excited, and stringy......Taichi......nnn."
+TP
+
+
+Taichi: "Ku......"
+TP
+
+
+She moved slowly upward.
+TP
+
+
+I came.
+TP
+GL 0 bgcc0003e
+GS 0 1
+SEF 109 1
+
+Then, Youko-chan got off me.
+TP
+
+
+With a steamed towel, she wiped off the saliva on my rod.
+TP
+
+
+Taichi: "......?"
+TP
+
+GL 1 TCHY0003c
+GI 1 1
+
+WVP 0 vfCCD5001you079
+Youko: "See you tomorrow."
+TP
+
+
+She smiled gracefully and left the room.
+TP
+
+
+Taichi: "......"
+TP
+
+
+Under my clothes, the dilation was like a tower.
+TP
+
+
+Taichi: "Only half-killing......"
+TP
+
+
+It really did hurt.
+TP
+
+
+Although...
+TP
+
+
+Taichi: "Eh? Harassment?"
+TP
+
+
+That evening, I was distressed until the middle of the night.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 1
+
+
+
+WVS 1 1
+
+
+
+
+$SNCCD5001_1 = 1
+
+IF $KAISOU == 0 JMP N_SCENE101
+RET
+
+
+:N_SCENE101
+IF $nonero != 1 JMP youkoHend2
+:youkoHend1
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 1
+
+That evening, I was distressed until the middle of the night.
+//I'm playing the original. This line was repeated twice as I played. Was this intentional? -Neko
+TP
+:youkoHend2
+
+WT 500 0
+WT 1000 1
+
+
+
+
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 1
+
+
+WVP 1 bgm018.ogg 0 0 0
+
+
+Taichi: "Uuuuu."
+TP
+
+
+Wednesday.
+TP
+
+
+Today, I'm thinking about my dignity as a person.
+TP
+
+
+Taichi: "Uuuuuuuuu."
+TP
+
+
+I felt like crying.
+TP
+
+
+Taichi: "Aaaa, uuaaa."
+TP
+
+
+I struggled.
+TP
+
+
+Taichi: "I'm......I'm......"
+TP
+
+
+I threw my head back.
+TP
+
+
+Taichi: "Oou, oou, oou, oou."
+TP
+
+
+I convulsed.
+TP
+
+
+Taichi: "WC!!"
+IF $tlnote != 0 (TL note: "Water Closet".)
+TP
+
+
+I disclosed the stature of my feelings.
+TP
+
+
+WC. That which I desire.
+TP
+
+
+WC. A person's dignity.
+TP
+
+
+WC. That which monopolizes nine-tenths of that which is humanly.
+TP
+
+Now I think I can understand what lies between the labor of an old nurse and the pride of an old person being nursed.
+TP
+
+
+Taichi: "Ah! Ah! I'm leakiiing!! Nooo, anything but thaaat!!"
+TP
+
+
+The door opened.
+TP
+
+GL 1 TCHY0001
+GI 1 1
+
+WVP 0 vfCCD5001you080
+Youko: "Morning."
+TP
+
+
+Taichi: "Worst timing ever!"
+TP
+
+
+And she was carrying dangerous things.
+TP
+
+
+Taichi: "Wh-what are those?"
+TP
+
+
+She held out her objects.
+TP
+
+
+A bucket and......a cylindrical enema device.
+//I hope this isn't going in the direction I think it is... - Sheeta
+TP
+
+
+Taichi: "-!? -!?"
+TP
+
+
+I shook my head left and right while crying.
+TP
+
+
+Taichi: "My rights, leave me my human rights..."
+TP
+
+
+Youko: "......"
+TP
+
+
+She looked calm, with a slight blush.
+TP
+
+
+Animal passions!?
+TP
+
+
+Taichi: "Peace to all ass! (subete no shiri ni heiwa wo). Peace to all ass! (subete no shiri ni heiwa wo)."
+TP
+
+
+She picked up the cylinder.
+TP
+
+
+Taichi: "Nooooo, you're not humaaaaan!!"
+TP
+
+GL 0 bgcc0000d
+GL 5 bgcc0000e
+GI 5 0
+GS 0 1
+GS 1 0
+GS 5 0
+SEF 109 0
+
+
+
+WT 1000 0
+WT 2000 1
+GL 0 bgcc0003
+GS 0 1
+SEF 109 1
+Taichi: "Uu! Uu!"
+TP
+
+
+Youko-chan returned with a meal.
+TP
+
+
+Taichi: "Uu! Uu! Uu......"
+TP
+
+
+I had been crying bitterly.
+TP
+
+GL 1 TCHY0003
+GI 1 1
+
+WVP 0 vfCCD5001you081
+Youko: "Here, say aaah."
+TP
+
+
+Taichi: "......"
+TP
+
+WVP 2 SE027 1 0
+
+I thought of trying to resist by fasting, but my stomach growled.
+TP
+
+
+My body's resistance.
+TP
+
+
+In the end, I was made to eat like a baby.
+TP
+
+
+It was incredibly delicious.
+TP
+
+
+And it didn't end with just breakfast.
+TP
+
+
+Her eyes flowed to my crotch.
+TP
+
+
+Naturally I was erect.
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD5001you082
+Youko: "......is this morning wood?"
+TP
+
+
+Taichi: "No, phallic fatigue."
+IF $tlnote != 0 (TL note: This is Japanese slang for the phenomenon in which total exhaustion causes an erection without any sexual stimulation.)
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD5001you083
+Youko: "Then I'll massage it."
+IF $tlnote != 0 (TL note cont: This is thought to occur either because tired nerves are more sensitive, or because your body thinks it's about to die and wants to pass on its genes.)
+//This probably garners some kind of record for weirdest or most unwarranted tl note in history. Since I couldn't find any mention of this on English sites, I may as well cite my source: http://www.enoplan.jp/seijien/tu.htm ?`IX
+//Holy wtf... ~Bal
+//That's hilarious - Sheeta
+TP
+
+IF $nonero == 1 JMP youkoHend3
+
+Taichi: "It's fine, please stop. Please don't touch my phallus. Please leave me alone."
+TP
+
+GL 0 evcc0030b
+$CGevcc0030b = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+I was gripped.
+TP
+
+
+WVP 0 vfCCD5001you084
+Youko: "......hot, as if I'll get burned......"
+TP
+
+
+Taichi: "Please do get burned."
+TP
+
+
+I was squeezed.
+TP
+
+
+Taichi: "---!"
+TP
+
+
+WVP 0 vfCCD5001you085
+Youko: "How is it?"
+TP
+
+
+Taichi: "Nice weather we're having."
+TP
+
+
+The squeezing speed increased.
+TP
+
+
+Taichi: "......uu!"
+TP
+
+
+The flames of this organ, which had been left alone yesterday, burned up at once.
+TP
+
+
+My back went numb, as if chilled.
+TP
+
+
+WVP 0 vfCCD5001you086
+Youko: "Something's coming out of the tip...... interesting......"
+TP
+
+
+She extended her long tongue and licked it off the tip.
+TP
+
+
+WVP 0 vfCCD5001you087
+Youko: *lick!*
+TP
+
+
+Taichi: "......oh!"
+TP
+
+
+She lightly fondled my testicles.
+TP
+
+
+WVP 0 vfCCD5001you088
+Youko: "......bitter."
+TP
+
+
+Taichi: "Idiot."
+TP
+
+
+She gripped strongly.
+TP
+
+
+With a man's strength.
+TP
+
+
+Taichi: "Uwawa!"
+TP
+
+
+WVP 0 vfCCD5001you089
+Youko: "You said idiot."
+TP
+
+
+Taichi: "Yes, I said it."
+TP
+
+
+WVP 0 vfCCD5001you090
+Youko: "That hurt......"
+TP
+
+
+Taichi: "You lie."
+TP
+
+
+She looked crestfallen. It was an act.
+TP
+
+
+Taichi: "May you soon stop playing with my penis and let me out of this room."
+TP
+
+
+WVP 0 vfCCD5001you091
+Youko: "This part isn't saying that."
+TP
+
+
+*kyupo* *kyupo*
+TP
+
+
+I heard that sound.
+TP
+
+
+Taichi: "My penis can't make a kyupo kyupo noise!"
+TP
+
+
+*kyupo* *kyupo* *kyupo* *kyupo!!*
+TP
+
+
+It's making it a lot.
+TP
+
+
+Taichi: "Ugaa!"
+TP
+
+
+Her squeezing motions were skilled. She was changing the angles of her wrists.
+TP
+
+
+Her grip strength varied, giving a forceful stimulus, as if milking.
+TP
+
+
+Not good, at this rate the earlier humiliations will continue, and my bodily fluids will be squeezed out again.
+TP
+
+
+I bit my lip and endured.
+TP
+
+
+Taichi: "......!"
+TP
+
+
+WVP 0 vfCCD5001you092
+Youko: "You're holding back."
+TP
+
+
+Taichi: "Am I now?"
+TP
+
+
+I played dumb.
+TP
+
+
+Even though I didn't have that much energy.
+TP
+
+
+Now, emasculation was my everything.
+TP
+
+
+WVP 0 vfCCD5001you093
+Youko: "......doesn't it feel good?"
+TP
+
+
+She writhed and rustled her fingers.
+TP
+
+
+That sense of pressure changed to ticklish pain.
+TP
+
+
+Taichi: "Uu!......"
+TP
+
+
+She attacked my urethra with the sides of her fingers.
+TP
+
+
+Taichi: "Uguu......"
+TP
+
+
+WVP 0 vfCCD5001you094
+Youko: "Like this? Or perhaps, you like it done this way?"
+TP
+
+
+Super high speed piston movements.
+TP
+
+
+This was bad.
+TP
+
+
+
+
+Like the onset of prostate fluid due to a pleasure signal sent to my lower abdominal mind through my reproductive organs from a central spinal reaction fallen into an excited state from regional stimulus to the genitalia like a stimulus to my core cerebrum--
+//I dare you to translate ^that in under five minutes. ?`IX
+TP
+
+It seems a phenomenon in which a mixed fluid with a certain kind of wonderful cell is emitted from my urethra is being triggered.
+//Hurrah for run on sentences! - Sheeta
+TP
+
+
+Taichi: "Aaah......wait, stop......!!"
+TP
+
+
+WVP 0 vfCCD5001you095
+Youko: "......understood."
+TP
+
+
+Taichi: "Eh?"
+TP
+
+IF $nonero != 1 JMP youkoHend4
+:youkoHend3
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 1
+
+
+After ending my phallic fatigue, she retired.
+TP
+:youkoHend4
+
+Taichi: "......eh?"
+TP
+
+
+Only a powerless me and leftover flames of lust remained.
+TP
+
+
+WVS 1 1
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+WVP 2 SE205 1 0
+WT 500 0
+WT 1000 1
+
+
+
+
+
+WVP 1 bgm020.ogg 0 0 0
+
+
+GL 0 bgcc0003e
+GS 0 1
+SEF 109 0
+And then it was night.
+TP
+
+
+There was no chance of escape.
+TP
+
+
+Since I'm tied down, that's natural.
+TP
+
+
+The best I can do is bite.
+TP
+
+
+However tough my teeth are, it's impossible to bite through chains.
+TP
+
+
+Time flowed on idly.
+TP
+
+
+Toward the weekend.
+TP
+
+
+Taichi: "......nn."
+TP
+
+
+My hips ached.
+TP
+
+
+My body was glowing strangely.
+TP
+
+
+As a result, my rationality seemed to be retreating.
+TP
+
+
+My power to think weakened.
+TP
+
+
+This is a bad situation.
+TP
+
+
+My room mustn't be scarce of change.
+TP
+
+
+Even though I can do nothing but think, my thoughts were too hot to go anywhere.
+TP
+
+
+It was a prison of anguish.
+TP
+
+
+Humans seem to be things that can't ever get used to boredom.
+TP
+
+
+There's also the fact that I can't move my body much.
+TP
+
+
+My heart was stretched out, frustrating me to a maddening degree.
+TP
+
+
+My stimulated libido continued to scorch my body forever.
+TP
+
+
+At this rate I'll be a smoked salmon of lust.
+TP
+
+
+Taichi: "......dammit."
+TP
+
+
+It hurts.
+TP
+
+
+It hurts so much.
+TP
+
+
+I'm sure torture isn't necessary.
+TP
+
+
+You can just tie me up and leave me alone in an empty room.
+TP
+
+
+Unchanging time is slowly but steadily hurting her.
+TP
+
+
+The door opened.
+TP
+
+
+Even if I'm unconscious, my eyes face her.
+TP
+
+
+Taichi: "Ah......"
+TP
+
+
+It was Youko-chan.
+TP
+
+
+There's no one but her left in the world.
+TP
+
+
+She had dinner on a tray.
+TP
+
+
+Hungry......yeah, I am hungry.
+TP
+
+
+Taichi: "I'm hungry......"
+TP
+
+
+A delicate voice, like someone else's, wove words.
+TP
+
+
+And then I was made to eat.
+TP
+
+
+It was curry.
+TP
+
+
+The slightly sweet flavor colored my stomach.
+TP
+
+
+And then water.
+TP
+
+
+I'm already losing my acute senses, and I'm sure there's medicine in it.
+TP
+
+
+But I don't care.
+TP
+
+
+Taichi: "......refill."
+TP
+
+
+Youko-chan brought it without a word.
+TP
+
+
+Taichi: "It's good."
+TP
+
+
+She rubbed my head.
+TP
+
+
+Like this...
+TP
+
+
+I thought,
+TP
+
+
+I'll wither for her without thinking anything,
+TP
+
+
+Throwing away next week.
+TP
+
+
+This person is no different from a stranger.
+TP
+
+
+No.
+TP
+
+
+A repulsion boiled up.
+TP
+
+
+I can't abandon the current me.
+TP
+
+
+I can succeed the will of the me that's maintained himself until now.
+TP
+
+
+The me that sent everyone back.
+TP
+
+
+Hiding numerous memories in his heart......the me like a bomb.
+TP
+
+
+I'll take care of myself.
+TP
+
+
+I'll continue to exist.
+TP
+
+
+Until the day the sky rots.
+TP
+
+
+I'll live on.
+TP
+
+
+And to do that......
+TP
+
+
+Taichi: "Thank you. You can go now."
+TP
+
+
+I said coldly.
+TP
+
+GL 1 TCHY0000c
+GI 1 0
+
+Youko: "............"
+TP
+
+
+She didn't walk away.
+TP
+
+
+She put a hand on my crotch.
+TP
+
+
+Taichi: "......don't touch."
+TP
+
+
+Naturally, it was throbbing painfully.
+TP
+
+
+Bravado.
+TP
+
+
+Bravado so as not to be emasculated.
+TP
+GL 1 TCHY0001c
+GI 1 0
+
+WVP 0 vfCCD5001you096
+Youko: "......it's swelling up, as if it'll burst."
+TP
+
+
+Taichi: "Whose fault is that?"
+TP
+
+
+The fault of her stimuli and medicine.
+TP
+
+
+I faced her with a gaze as cold as possible.
+TP
+GL 1 TCHY0000c
+GI 1 0
+
+WVP 0 vfCCD5001you097
+Youko: "Then......it looks like it'd be best not to touch here."
+TP
+
+
+She gripped the tip with her palm.
+TP
+
+
+Taichi: "......!"
+TP
+
+
+And soon let go.
+TP
+
+
+Taichi: "Are you making fun of me?"
+TP
+
+
+WVP 0 vfCCD5001you098
+Youko: "I love you."
+TP
+
+
+Her face approached mine.
+TP
+
+
+WVP 0 vfCCD5001you099
+Youko: "Stick out your tongue. I'll suck on it."
+TP
+
+
+I felt like I'd ejaculate.
+TP
+
+
+Taichi: "......no, thank you."
+TP
+
+
+I tried to look away.
+TP
+
+
+My cheeks were captured, and I was kissed.
+TP
+
+
+WVP 0 vfCCD5001you100
+Youko: "Nnnnn."
+TP
+
+
+Taichi: "Nn!......Nnmu!......"
+TP
+
+
+She had her way with my mouth.
+TP
+
+
+When my tongue ran away it was immediately arrested, and twisted around by her long tongue.
+TP
+
+
+It was squeezed up with amazing force, and the saliva was rubbed off it.
+TP
+
+
+Taichi: "Nn, nnn......!"
+TP
+
+
+Dammit, my head's swimming.
+TP
+
+
+I feel like I'll return her kiss.
+TP
+
+
+I want to resist.
+TP
+
+
+But,
+TP
+
+
+Taichi: "Nn!"
+TP
+
+
+I penetrated nonresistance.
+TP
+
+
+I...won't become...someone else's possession.
+TP
+
+
+While she sucked strongly, I pulled out of the kiss.
+TP
+
+
+Taichi: "Nnmu!"
+TP
+
+
+It felt like my tongue would come out.
+TP
+
+
+For a moment, my head went white.
+TP
+
+
+This is dangerous......
+TP
+
+
+Taichi: *spit!*
+TP
+
+
+I tried spitting.
+TP
+
+
+At least, to avoid lowering my guard.
+TP
+
+
+For that purpose, I have to resist to the utmost now.
+TP
+
+
+I can't let her see exhaustion at the end of my futile resistance.
+TP
+
+
+Once more, a kiss.
+TP
+
+
+It pierced the void.
+TP
+
+
+Taichi: "Nnmuuuu."
+TP
+
+
+GL 1 TCHY0001c
+GI 1 0
+
+
+WVP 0 vfCCD5001you101
+Youko: "Nn! Fuku!......Nn, *kiss*......*kiss*......nnn! Nn! Nnnnn!"
+TP
+
+
+An ardent fellatio.
+TP
+
+
+My hips floated in an instant.
+TP
+
+
+As if all the water content in my mouth was being sucked out.
+TP
+
+
+Her long tongue invaded my throat.
+TP
+
+
+I had no means to stop it.
+TP
+
+
+Heat poured down into my oral cavity.
+TP
+
+
+I knew the flavor of her tongue well.
+TP
+
+
+It twisted.
+TP
+
+
+Maddening, crawling and undulating like an anteater's tongue.
+TP
+
+
+WVP 0 vfCCD5001you102
+Youko: "*kiss* *kiss*......nn! *lick*......*lick* nn......nnnu, uun! Fuu..."
+TP
+
+
+Occasionally, our breath mixed.
+TP
+
+
+I got goosebumps.
+TP
+
+
+Even from her lower limbs touching my crotch, I felt something supreme.
+TP
+
+
+She sweetly bit my lips.
+TP
+
+
+Light pain accompanied that, scorching my consciousness.
+TP
+
+
+And particularly deep.
+TP
+
+
+WVP 0 vfCCD5001you103
+Youko: "Nnn, nnu! Mun......nnnnn, nna......*kiss* *kiss* *kissssss*......"
+TP
+
+
+Taichi: "......!!"
+TP
+
+
+I felt like I'd release just from being kissed.
+TP
+
+
+She sensed that and separated.
+TP
+
+
+Taichi: "Nn......"
+TP
+
+
+Her knee on my crotch pushed over my aroused penis.
+TP
+
+
+I lost sight of pleasure's domed top, as it smoldered, cycling down to my base.
+TP
+
+
+I went mad.
+TP
+
+GL 1 TCHY0000c
+GI 1 0
+
+WVP 0 vfCCD5001you104
+Youko: "You're drooling......Taichi......"
+TP
+
+
+Taichi: "......"
+TP
+
+
+I can't control my own body.
+TP
+
+GL 1 TCHY0001c
+GI 1 0
+
+WVP 0 vfCCD5001you105
+Youko: "......nn......what a waste......"
+TP
+
+
+She licked.
+TP
+
+GL 1 TCHY0000c
+GI 1 0
+
+WVP 0 vfCCD5001you106
+Youko: "Drink mine too."
+TP
+
+
+Another kiss.
+TP
+
+
+A sickening amount of saliva flowed into me.
+TP
+
+
+Taichi: "Nnn!"
+TP
+
+
+Forever, and ever.
+TP
+GL 1 TCHY0001c
+GI 1 0
+
+
+WVP 0 vfCCD5001you107
+Youko: "Nn! Nn......nnn......*kiss* nnnnn!......"
+TP
+
+
+Saliva.
+TP
+
+
+Enough to quench my dried throat.
+TP
+
+
+After being made to drink it for some time, she changed to soft caresses inside my mouth.
+TP
+
+
+WVP 0 vfCCD5001you108
+Youko: "*kiss!* aan......nn! Fun, *lick!*......nnn, nnnnnnn."
+TP
+
+
+Her tongue had changed to an eminent sexual organ.
+TP
+
+
+Taichi: "Nn......nnn......"
+TP
+
+
+I could not reject it.
+TP
+
+
+My lips were far away, and I was covered in a lonely sensation.
+TP
+
+
+WVP 0 vfCCD5001you109
+Youko: "Huhu! So cute......are you feeling it?"
+TP
+
+
+She's laughing.
+TP
+
+
+WVP 0 vfCCD5001you110
+Youko: "......your mouth......is feeling it......nnnnnnn!"
+TP
+
+
+She licked all around the inside of my mouth one last time, then stood up.
+TP
+
+
+Taichi: "Ha! Haaa......"
+TP
+
+
+Breathing.
+TP
+
+
+I was aware of how lonely that felt.
+TP
+
+
+She looked in my underwear, and after confirming I hadn't ejaculated, left with the utensils.
+TP
+//She checked, Taichi can't move. -Shikiller.
+
+
+Taichi: "......goddamn it!"
+TP
+
+
+I screamed.
+TP
+
+
+WVS 1 1
+
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 1
+
+WVP 2 SE205 1 0
+
+
+
+
+
+
+
+
+
+WVP 1 bgm014.ogg 0 0 0
+
+
+
+GL 0 bgcc0003e
+GS 0 1
+SEF 109 1
+I realized that it'd become night.
+TP
+
+
+It seems that I'd been wandering in the void.
+TP
+
+
+Taichi: "U......"
+TP
+
+
+My excrement was being dealt with, and I was being made to eat......or so it felt.
+TP
+
+
+It was unclear whether that was today, or something from yesterday.
+TP
+
+
+A room with nothing.
+TP
+
+
+Stolen freedom.
+TP
+
+
+My consciousness was going white, as if covered in mist.
+TP
+
+
+My thought power was becoming paralyzed.
+TP
+
+
+What day is today?
+TP
+
+
+Wasn't it Thursday?
+TP
+
+
+What happened...yesterday was it?
+TP
+
+
+The lack of changes was making my sense of time go mad.
+TP
+
+
+This sucks.
+TP
+
+
+My stomach growled.
+TP
+
+
+I seem to be hungry.
+TP
+
+
+The door opened.
+TP
+
+
+It was her.
+TP
+
+
+Holding a bucket of hot water.
+TP
+
+
+Aaah, bath time.
+TP
+GL 1 TCHY0000c
+GI 1 1
+
+WVP 0 vfCCD5001you111
+Youko: "Now......I'll wipe your body."
+TP
+
+
+Taichi: "......whatever."
+TP
+
+
+But even though my mouth said that, my body was honest.
+TP
+
+
+The moment I saw Youko-chan, my whole body's skin bubbled.
+TP
+
+
+I had been anticipating.
+TP
+
+
+For the fragment of intense pleasure she would give me.
+TP
+
+
+She stooped down beside me.
+TP
+
+IF $nonero == 1 JMP youkoHend5
+//This CG shows Youko grabbing Taichi's cock, and is most likely objectionable.  I've added a new set of non-ero jump
+
+GL 0 evcc0030c
+$CGevcc0030c = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+
+
+She rolled up my clothes and lightly gripped my penis.
+TP
+
+
+It was already vertical, and felt like it'd burst at any moment.
+TP
+
+
+But she's controlling the stimulus so it stays right at the edge.
+TP
+
+
+I'm being toyed with without climaxing.
+TP
+
+
+Taichi: "Uuu!......"
+TP
+
+
+Her lips sucked on my bare chest.
+TP
+
+
+Taichi: "Nn......"
+TP
+
+WVP 0 vfCCD5001you112
+Youko: "......nn......*kiss*......*lick*......"
+TP
+
+
+She carefully attacked my nipples.
+TP
+
+
+WVP 0 vfCCD5001you113
+Youko: "Nnn......nn!......Taichi's nipples...are getting hard......*kiss* nnn!......"
+TP
+
+
+Taichi: "Shut up......"
+TP
+
+
+WVP 0 vfCCD5001you114
+Youko: "Here too......hu!......Nnfu! Nn......nnnnnnn......"
+TP
+
+
+My rod was crumpled.
+TP
+
+
+In an instant.
+TP
+
+
+It won't reach a climax.
+TP
+
+
+WVP 0 vfCCD5001you115
+Youko: "......aan......nn!......Nnnnn......*lick*...... *lick!*......nnn."
+TP
+
+
+The tip of her tongue swept my chest.
+TP
+
+
+When she poked my neck, even my pelvis shook.
+TP
+
+
+WVP 0 vfCCD5001you116
+Youko: "*chuckle*......just now, you twitched......was it here?"
+TP
+
+
+Taichi: "............"
+TP
+
+
+
+WVP 0 vfCCD5001you117
+Youko: "Nnnnnnn, nnn, nnnnnnnnnnn, nnfu! Fuun, nn, nnnnn......"
+TP
+
+
+My whole body took on heat.
+TP
+
+
+But I wasn't given a chance to emit it.
+TP
+
+
+Once again, my whole body returned to her lips.
+TP
+
+
+WVP 0 vfCCD5001you118
+Youko: "Nn, nnn, uuu......nnn, *kiss*......nn, ahaa! ......Nnnnnnnnnnnnnnn."
+TP
+
+IF $nonero != 1 JMP youkoHend6
+:youkoHend5
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 1
+:youkoHend6
+
+As she proclaimed, she wiped my whole body using only her mouth.
+TP
+
+WVP 0 vfCCD5001you119
+Youko: "......you're clean now, right?"
+TP
+
+
+Taichi: "Yeah......"
+TP
+
+
+......except for one part of my body.
+TP
+
+
+But by the usual pattern, this is when---
+TP
+
+
+GL 0 bgcc0003e
+GL 1 TCHY0001c
+GS 0 1
+GS 1 1
+SEF 109 0
+
+
+WVP 0 vfCCD5001you120
+Youko: "Good night, Taichi."
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 1
+
+WT 500 0
+WT 1000 1
+
+
+
+
+GL 0 evcc0001s
+$CGevcc0001s = 1
+GS 0 1
+SEF 109 0
+
+Before my eyes, that girl was there.
+TP
+
+
+Oh august you.
+TP
+
+
+She, who'd always maintained her unchanging self, was now becoming tense.
+TP
+
+
+Taichi: "This is......bad......"
+TP
+
+
+I'm......getting stressed.
+TP
+
+
+Because when I'm approached, I feel the scent of her body.
+TP
+
+
+Taichi: "Why is this..."
+TP
+
+
+With a bewitching smile, she informed me,
+TP
+
+
+WVP 0 vfCCD5001you121
+Youko: "This is a vow......we'll carve it into our lives so that we'll die together on the same day."
+TP
+
+
+Taichi: "Carve?"
+TP
+
+
+WVP 0 vfCCD5001you122
+Youko: "We'll become one mind and body."
+TP
+
+
+And then, two small shadows overlapped.
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+........................
+TP
+
+
+WT 500 0
+WT 500 1
+GL 0 bgcc0000c
+GS 0 1
+SEF 109 2
+A dream?
+TP
+
+
+An old dream.
+TP
+
+
+So these memories remained too.
+TP
+
+
+I'm pretty sure, this was the first time I met her......
+TP
+
+
+
+WVS 1 0
+
+
+GL 0 bgcc0003e
+GS 0 1
+SEF 109 1
+My consciousness suddenly cleared.
+TP
+
+
+Taichi: "Aaah, that's right......I..."
+TP
+
+
+I'd been confined.
+TP
+
+
+I saw the night sky through the window.
+TP
+
+
+Today was Thursday, right?
+TP
+
+
+Taichi: "Escape......I have to...escape..."
+TP
+
+
+And then, just like usual,
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+WVP 2 SE205 1 0
+
+
+WT 500 0
+WT 500 1
+
+
+
+
+
+
+
+
+WVP 1 bgm018.ogg 0 0 0
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 0
+Taichi: "........................"
+TP
+
+
+Aaah, has it become morning?
+TP
+
+
+Midday......maybe?
+TP
+
+
+My sense of time was completely gone.
+TP
+
+
+I'm sure the meal periods are being thrown off each time, so I can't judge it by my stomach any more.
+TP
+
+
+Flowing away with yet another hour, another minute of the same suffering.
+TP
+
+
+I realized I was looking at the doorknob.
+TP
+
+
+Anticipating a visitor.
+TP
+
+
+And then I realized.
+TP
+
+
+After thinking, that I was in a deep solitude.
+TP
+
+
+After only a few days?
+TP
+
+
+Just by being locked up in my room?
+TP
+
+
+I was a child; I was being so optimistic.
+TP
+
+
+To think of living alone.
+TP
+
+
+To think of being able to make it alone.
+TP
+
+
+Why did I think that?
+TP
+
+
+My body was hot.
+TP
+
+
+My legs were rubbing against each other, but the pulsing in my crotch wouldn't die down.
+TP
+
+
+The doorknob turned.
+TP
+
+
+Taichi: "......!"
+TP
+
+
+I looked.
+TP
+
+
+There was no leeway.
+TP
+
+
+Change. Lust. Hunger.
+TP
+
+
+Various desires floated up like a fever.
+TP
+
+GL 1 TCHY0000
+GI 1 1
+
+Taichi: "......Youko......chan."
+TP
+
+
+My lust in particular was at its limit.
+TP
+
+
+My body felt like tearing apart.
+TP
+
+
+First I was made to drink water.
+TP
+
+
+Various things were dealt with.
+TP
+
+
+My body was wiped with a steamed towel.
+TP
+
+
+Once those were finished, her fingertips caressed my lower abdomen.
+TP
+
+
+My penis bent backward as if anticipating.
+//How many ero scenes are there in this mini-route?! T_T - Sheeta
+TP
+
+IF $nonero == 1 JMP youkoHend7
+
+
+GL 0 evcc0030b
+$CGevcc0030b = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+WVP 0 vfCCD5001you123
+Youko: "You're perky......Taichi."
+TP
+
+
+Taichi: "............"
+TP
+
+
+I didn't have the spirit to argue.
+TP
+
+
+WVP 0 vfCCD5001you124
+Youko: "It seems like it'll end......before too long......"
+TP
+
+
+WVP 0 vfCCD5001you125
+Youko: "So......just one lick."
+TP
+
+
+Taichi: "!?"
+TP
+GL 0 evcc0030
+$CGevcc0030 = 1
+GS 0 1
+GS 1 0
+SEF 109 0
+Her oral cavity covered and hid my dilation.
+TP
+
+
+WVP 0 vfCCD5001you126
+Youko: "Nn......nnnnn......*kiss* *kiss*......nnnnnnnn! Nnuu! Nn! Nn!......Nnnnnnn......!"
+TP
+
+
+Taichi: "Uwa! AH!!?"
+TP
+
+
+My lower body jumped like a sweetfish.
+TP
+
+
+I'm cumming!!
+TP
+
+GL 0 bgcc0003
+GL 1 TCHY0001
+GS 0 1
+GS 1 1
+SEF 109 0
+
+WVP 0 vfCCD5001you127
+Youko: "Okay, that's it."
+TP
+
+
+Taichi: "Uuu......"
+TP
+
+
+I moaned from the bottom of my heart.
+TP
+
+
+Half-killing. Hell.
+TP
+
+
+My body twisted, my knees rose, my forehead stayed, my teeth gritted.
+TP
+GL 1 TCHY0003
+GI 1 0
+
+
+IF $nonero != 1 JMP youkoHend8
+:youkoHend7
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 1
+
+......
+TP
+
+............
+TP
+
+........................
+TP
+
+:youkoHend8
+
+
+WVP 0 vfCCD5001you128
+Youko: "......Taichi, you're cute, I love you."
+TP
+
+
+Taichi: "Ha......n......"
+TP
+GO 1 1
+
+And then she walked out.
+TP
+
+
+A toy.
+TP
+
+
+I'm...a toy.
+TP
+
+
+No, a tool, somehow.
+TP
+
+
+Taichi: "Haha......"
+TP
+
+
+Comical doll dependency---
+TP
+
+
+And then, just like always,
+TP
+
+
+WVS 1 1
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+WVP 2 SE205 1 0
+
+
+
+
+WT 500 0
+WT 500 1
+
+
+
+
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 1
+WVP 2 SE205 1 0
+Morning came again.
+TP
+
+
+WVP 1 bgm020.ogg 0 0 0
+
+
+A morning without sparrows or cicadas.
+TP
+
+
+A morning that didn't feel real.
+TP
+
+
+True or false, skin and flesh.
+TP
+
+
+A butterfly's dream.
+IF $tlnote != 0 (TL note: A story in which a man dreams he is a butterfly, then begins to wonder whether the butterfly is the real him and the man is his dream, and then becomes that butterfly.)
+TP
+
+
+I'd been lamenting not having an unending dream.
+TP
+
+GL 0 bgcc0003e
+GS 0 1
+SEF 109 0
+
+Night.
+TP
+
+
+Since it's dark.
+TP
+
+
+It's also dark when I close my eyes.
+TP
+
+
+I mistake it for night.
+TP
+
+
+When I open my eyes, it's midday.
+TP
+
+
+During that blink the world was created and destroyed.
+TP
+
+
+I breathed.
+TP
+
+
+Tiny amounts of stress accumulated and made me do that.
+TP
+GL 1 TCHY0000c
+GI 1 1
+
+Youko: "......"
+TP
+
+
+Youko-chan was suddenly there.
+TP
+
+
+An illusion?
+TP
+
+
+The scent of a girl.
+TP
+
+
+Reality?
+TP
+GL 1 TCHY0003c
+GI 1 0
+
+WVP 0 vfCCD5001you130
+Youko: "How do you feel?"
+TP
+
+
+Feel?
+TP
+
+
+I don't know.
+TP
+
+
+I can't think.
+TP
+
+
+About feelings---
+TP
+
+
+I just think, that I want to disappear.
+TP
+
+
+I can't avoid what I think.
+TP
+
+
+
+
+IF $nonero == 1 JMP youkoHend9
+//NOOOOOOOOOOO - Sheeta
+
+
+
+
+
+JMP N_SCENE002
+:SCENE002
+WVP 1 bgm020.ogg 0 0 0
+
+
+:N_SCENE002
+
+
+
+
+GL 0 evcc0031
+$CGevcc0031 = 1
+GS 0 1
+GS 1 0
+SEF 109 1
+And then when my consciousness leaped again, I was mounted.
+TP
+
+
+WVP 0 vfCCD5001you129
+Youko: "......it's been a long time......since I connected...with Taichi."
+TP
+
+
+Taichi: "Ha, haa......haa......"
+TP
+
+
+Her hot private parts adhered with my tip.
+TP
+
+
+There was a sensation of mist.
+TP
+
+
+When I looked up, her eyes were wet and shining.
+TP
+
+
+Heatless moonlight poured over her black hair, shining back in rainbows.
+TP
+
+
+I was possessed.
+TP
+
+
+WVP 0 vfCCD5001you131
+Youko: "......see, it's going in......just a little... ......nn!"
+TP
+
+
+Like that, I penetrated a few centimeters.
+TP
+
+
+WVP 0 vfCCD5001you132
+Youko: "Ah......it's stuck......it feels stuck......"
+TP
+
+
+Taichi: "Ah, aaah......nn......"
+TP
+
+
+WVP 0 vfCCD5001you133
+Youko: "Right?"
+TP
+
+
+Taichi: "......ha, ku!......"
+TP
+
+
+I gritted my teeth and endured.
+TP
+
+
+It only had the opposite effect.
+TP
+
+
+I can't do anything else.
+TP
+
+
+And then, I didn't know why I was enduring.
+TP
+
+
+WVP 0 vfCCD5001you134
+Youko: "If I open my legs......nn......like this... ......it'll go in all the way......!"
+TP
+
+
+Scripted words faintly shook back my thoughts.
+TP
+
+
+Taichi: "You should......do that......"
+TP
+
+
+Words came out of my own mouth, and I was a little relieved.
+TP
+
+
+WVP 0 vfCCD5001you135
+Youko: "No, say you want me to."
+TP
+
+
+WVP 0 vfCCD5001you136
+Youko: "......say 'I want you.'"
+TP
+
+
+Taichi: "............"
+TP
+
+
+WVP 0 vfCCD5001you137
+Youko: "Yearn for me."
+TP
+
+
+Taichi: "......I want you."
+TP
+
+
+WVP 0 vfCCD5001you138
+Youko: "Do you want me to do it?"
+TP
+
+
+Taichi: "I want you to do it......"
+TP
+
+
+WVP 0 vfCCD5001you139
+Youko: "All the way?"
+TP
+
+
+Taichi: "All the way."
+TP
+
+
+My answers were mechanical, but she seemed satisfied.
+TP
+
+
+WVP 0 vfCCD5001you140
+Youko: "Then......I'm going......nn......nnnnn! Nn......nnnnn!!!!"
+TP
+
+
+Taichi: "Uwa......!"
+TP
+
+
+My field of vision became all white.
+TP
+
+
+The slime covering that region felt like a stimulus to my whole body.
+TP
+
+
+WVP 0 vfCCD5001you141
+Youko: "......that made...my mind...all white......nn... ......nnn!......"
+TP
+
+
+The same seems to be happening to her.
+TP
+
+
+WVP 0 vfCCD5001you142
+Youko: "So I'll go slowly, okay?"
+TP
+
+
+She dropped her hips.
+TP
+
+
+WVP 0 vfCCD5001you143
+Youko: "Nnnnn, nn!......Aaaaaaaaah."
+TP
+
+
+She brought them up.
+TP
+
+
+Dropped.
+TP
+
+
+Brought up.
+TP
+
+
+Dropped.
+TP
+
+
+Making use of her vaginal walls, she scraped thoroughly along my vertically aroused part.
+TP
+
+
+How many years has it been since I connected with her?
+TP
+
+
+I'm pretty sure Mutsumi-san caught us.
+TP
+
+
+Yeah, with my proper time, asking how many years ago it was is meaningless.
+TP
+
+
+Because the actual date isn't being counted.
+TP
+
+
+WVP 0 vfCCD5001you144
+Youko: "Aan......nn......slowly, slowly......"
+TP
+
+
+Her fleshy contractions,
+TP
+
+
+Her delicate inner walls,
+TP
+
+
+Sent a lurid satisfaction into me.
+TP
+
+
+I felt like climaxing.
+TP
+
+
+Taichi: "Uu......uuu!"
+TP
+
+
+WVP 0 vfCCD5001you145
+Youko: "......nn......no......not yet......"
+TP
+
+
+She stopped.
+TP
+
+
+WVP 0 vfCCD5001you146
+Youko: "Haa! Haa, haa......so hot......it's like my insides are burning......"
+TP
+
+
+Taichi: "Youko-chan."
+TP
+
+
+My voice betrayed me.
+TP
+
+
+With one body motion, I had a premonition of bursting.
+TP
+
+
+My stress was conveyed to her.
+TP
+
+
+WVP 0 vfCCD5001you147
+Youko: "Cum deep inside."
+TP
+
+
+She sunk her hips at once.
+TP
+
+
+I gave way.
+TP
+GL 0 evcc0031a
+$CGevcc0031a = 1
+GL 5 bgcc0000e
+GI 5 0
+GS 5 0
+GS 0 1
+SEF 109 0
+
+
+
+
+WVP 0 vfCCD5001you148
+Youko: "......nnnnnnn, ------!!!!"
+TP
+
+
+Taichi: "AH!!"
+TP
+
+
+WVP 0 vfCCD5001you149
+Youko: "Ah......"
+TP
+
+
+The discharge time continued for an abnormally long time.
+TP
+
+
+A feeling that what I'd been saving up all this time overflowed all at once.
+TP
+
+
+Thrusting through from my crotch to my brain.
+TP
+
+
+WVP 0 vfCCD5001you150
+Youko: "......ha......nn......so hooot......aan, you're still cumming......"
+TP
+
+
+With a sensation of disgorging several big blobs of semen.
+TP
+
+
+WVP 0 vfCCD5001you151
+Youko: "Nn......it seems......you're still cumming......"
+TP
+
+
+Taichi: "Haa..."
+TP
+
+
+It finally ended.
+TP
+
+
+Collapse came.
+TP
+
+
+WVP 0 vfCCD5001you152
+Youko: "......you're not even close to finished......"
+TP
+
+
+WVP 0 vfCCD5001you153
+Youko: "I'll continue......okay?"
+TP
+
+
+My body was still hot, and my other self inside her had maintained his hardness.
+TP
+
+
+Taichi: "Sure......"
+TP
+
+
+She moved.
+TP
+
+
+Since I can't use my arms, I can't straddle.
+TP
+
+
+Unable to take the initiative, I continued to enjoy it.
+TP
+
+
+I'm sure there's no time left.
+TP
+
+
+That must be why I released.
+TP
+
+
+Because if I didn't, I probably wouldn't accept her.
+TP
+
+
+WVP 0 vfCCD5001you154
+Youko: "Ha! Ha! Ah!......Aaa, nn! Nnah! Uu......nnn, ah! Haaa!"
+TP
+
+
+The sensation of both our juices had been dulling, but after moving several times her vaginal pressure had chased out the excess fluids.
+TP
+
+
+She and I. Our low, muffled breaths overlapped.
+//breathings isn't a word. -Neko
+TP
+
+
+The hand she left on my stomach tickled.
+TP
+
+
+WVP 0 vfCCD5001you155
+Youko: "Nnn, ah! Aan, nn......"
+TP
+
+
+Occasionally, I must have hit good spots, because her throat bent back and she purred.
+TP
+
+
+WVP 0 vfCCD5001you156
+Youko: "Nnnnn, nnah! Ah!......Fua, hi, aaa, kya!..."
+TP
+
+
+WVP 0 vfCCD5001you157
+Youko: "Aau......uu!......Yes!......"
+TP
+
+
+WVP 0 vfCCD5001you158
+Youko: "Ah!! Ha!...Nn......nnn!......Haa......"
+TP
+
+
+The vaginal fluid blown out drenched my lower body. It was cold.
+TP
+
+
+But that slight displeasure was being blotted out by overpowering pleasure.
+TP
+
+
+Her vagina twisted harshly.
+TP
+
+
+She'd spun her hips.
+TP
+
+
+Taichi: "Ah, uu."
+TP
+
+
+WVP 0 vfCCD5001you159
+Youko: "Taichi......will you cum, again? Do you want to cum?"
+TP
+
+
+I nodded silently.
+TP
+
+
+WVP 0 vfCCD5001you160
+Youko: "Then, I'll move quickly......so you can cum again......"
+TP
+
+
+Youko-chan moved just like she said.
+TP
+
+
+Her hair was scattering lightly, spreading out a pink color on her skin, white with the moonlight.
+TP
+
+
+She began her final spurt.
+TP
+
+
+WVP 0 vfCCD5001you161
+Youko: "Nn! Nnn! Nn! Nn! Nn! Nn! Nn---"
+TP
+
+
+The second time.
+TP
+
+
+I climaxed a bit earlier.
+TP
+
+
+Taichi: "......!"
+TP
+
+
+WVP 0 vfCCD5001you162
+Youko: "......haa......ah! I'm......cumming......!!!---!!"
+TP
+
+
+She matched up with me.
+TP
+
+
+Her body collapsed, and she kissed me.
+TP
+
+
+WVP 0 vfCCD5001you163
+Youko: "Haa, Taichi......nn......nnnnn......*kiss*......"
+TP
+
+
+WVP 0 vfCCD5001you164
+Youko: "Yaa......you overflowed......amazing......"
+TP
+
+
+My erection still wasn't finished.
+TP
+
+
+WVP 0 vfCCD5001you165
+Youko: "......looks like we can keep going......"
+TP
+
+
+This conduct continued ad infinitum.
+TP
+
+
+The dull numbness of my penis at the pinnacle moment became a natural state of being.
+TP
+
+
+How long did that last?
+TP
+
+
+WVP 0 vfCCD5001you166
+Youko: "Nnn......nn! Ha! Aha! Ha! Haaa! ......Nn......ah......cumming......I'm cumming too......again......I'm---! ------!!!"
+//Spacing issue that appeared in game. -Neko
+TP
+
+
+She rose up as a bow.
+TP
+
+
+Her vagina tightened.
+TP
+
+
+Becoming the final trigger, urging my ejaculation.
+TP
+
+
+WVP 0 vfCCD5001you167
+Youko: "Ha! Haa, haa......"
+TP
+
+
+The excitement left.
+TP
+
+
+At that moment, I was conscious of the cold, stained sheets under my butt.
+TP
+
+
+WVP 0 vfCCD5001you168
+Youko: "Are you...satisfied?"
+TP
+
+
+Taichi: "............"
+TP
+
+
+WVP 0 vfCCD5001you169
+Youko: "I've made you eager for days, so it felt good, didn't it......?"
+TP
+
+
+WVP 0 vfCCD5001you170
+Youko: "It did for me too."
+TP
+
+
+WVP 0 vfCCD5001you171
+Youko: "Nn---"
+TP
+
+IF $nonero != 1 JMP youkoHend10
+:youkoHend9
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 1
+
+And then when my consciousness leaped again, I was mounted.
+TP
+
+WVP 0 vfCCD5001you129
+Youko: "......it's been a long time......since I connected...with Taichi."
+TP
+
+........................
+TP
+
+:youkoHend10
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+........................
+TP
+
+
+WVS 1 1
+
+
+
+
+$SNCCD5001_2 = 1
+
+IF $KAISOU == 0 JMP N_SCENE102
+RET
+
+
+:N_SCENE102
+
+
+
+
+
+WVP 2 se205 1 0
+WT 500 0
+WT 1000 1
+
+
+
+
+
+
+
+
+
+
+WVP 1 bgm015.ogg 0 0 0
+
+
+
+GL 0 bgcc0003
+GS 0 1
+SEF 109 0
+I think......today is Sunday.
+//Removed apostrophe due to a slurred s that ruined the spacing between the last two words. -Neko
+TP
+
+
+My head was feeling refreshed.
+TP
+
+
+Because yesterday... Yes, yesterday...I disgorged everything.
+TP
+
+
+My passion left, and rationality returned.
+TP
+
+
+You could say that meant Youko-chan made a mistake.
+TP
+WVP 2 se205 1 0
+
+Taichi: "......can I take these off?"
+TP
+
+
+The parts of the chains connected to the bed were the most fragile.
+TP
+
+
+I put continuous force on them, but there was no sign of them coming off.
+TP
+
+
+Which means......I really do have nothing but the joker.
+//Is this an old maid reference?  Only way I can think of the joker being bad... ~Bal
+//It's a really obscure card reference, uncommon at that, but it's translated correctly, and is minor enough not to justify a change. It's read the right way, and the meaning is conveyed. -Neko
+TP
+
+
+I became melancholic.
+TP
+
+
+Someone who was once my other half.
+TP
+
+
+Would this...be a betrayal?
+TP
+
+
+But......I still......don't want to disappear.
+TP
+
+
+It'd hurt to be returned to square one after losing to myself.
+TP
+
+
+Surmounting oneself is as hard as writing 'self-denial,' but......you know...
+//PCP cca0016 Yes, I bothered to go dig up the exact week one version of this line.
+TP
+
+
+Since I hate myself.
+TP
+
+
+I don't want to lose to a guy I hate.
+TP
+
+
+I don't hate Youko-chan, but...
+TP
+
+
+I have to hurt her.
+TP
+
+
+Even she has a weak point.
+TP
+
+
+After piercing that point, she'll easily reach breakdown; it'll be a mortal wound.
+TP
+
+
+I closed my eyes, and thought.
+TP
+
+
+From the first time I met her, until now.
+TP
+
+
+My eyes opened. There's no hesitation.
+TP
+
+
+Sorry, Youko-chan.
+TP
+
+
+
+I'm going to do something unfair.
+TP
+
+
+WVS 1 1
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+........................
+TP
+
+
+
+
+And then---
+TP
+
+
+
+
+WVP 1 bgm021.ogg 0 0 0
+
+
+GL 0 bgcc0003
+GL 1 TCHY0000
+GS 0 1
+GS 1 1
+SEF 109 0
+
+WVP 0 vfCCD5001you172
+Youko: "Morning."
+TP
+
+
+Taichi: "......"
+TP
+
+
+GL 1 TCHY0001
+GI 1 0
+WVP 0 vfCCD5001you173
+Youko: "......I'll wipe your body."
+TP
+
+
+WVP 0 vfCCD5001you174
+Youko: "You want to at least be clean at the end, right?"
+TP
+
+
+Taichi: "......"
+TP
+
+
+And then, when she finished her work, she said,
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD5001you175
+Youko: "This is goodbye."
+TP
+
+
+Taichi: "......"
+TP
+
+
+WVP 0 vfCCD5001you176
+Youko: "Since we've become phenomena, useless sentimentality is unnecessary......but..."
+TP
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD5001you177
+Youko: "......Taichi......I'm sorry."
+TP
+
+
+WVP 0 vfCCD5001you178
+Youko: "There's no way to maintain all of the proper you."
+TP
+
+
+WVP 0 vfCCD5001you179
+Youko: "So......I'll say it one last time..."
+TP
+
+
+Taichi: "......"
+TP
+
+GL 1 TCHY0004
+GI 1 0
+
+WVP 0 vfCCD5001you180
+Youko: "Come with me."
+TP
+
+
+An entreaty.
+TP
+
+
+That attitude of hers surprised me a little.
+//If "attitude" sounds like "bitchiness" here the way English sometimes makes it, please mess with it. ?`IX
+TP
+
+
+WVP 0 vfCCD5001you181
+Youko: "Until our current bodies are hurt......we can spend the same time together......"
+TP
+
+
+WVP 0 vfCCD5001you182
+Youko: "It won't be eternal, but..."
+TP
+
+
+WVP 0 vfCCD5001you183
+Youko: "I think it will be valuable time for us."
+TP
+
+
+WVP 0 vfCCD5001you184
+Youko: "......Taichi?"
+TP
+
+
+I appreciate the offer, but...
+TP
+
+
+I'm......
+TP
+
+
+Taichi: "............"
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD5001you185
+Youko: "......I see."
+TP
+
+
+She took my silence as denial and made a small sigh.
+TP
+
+
+WVP 0 vfCCD5001you186
+Youko: "Bye Taichi, see you next week."
+TP
+
+
+WVP 0 vfCCD5001you187
+Youko: "Though I doubt you'll remember this."
+TP
+GO 1 1
+
+And then she left.
+TP
+
+
+I opened...my mouth.
+TP
+
+
+Taichi: "......weakling."
+TP
+
+
+She froze in place.
+TP
+
+GL 1 TCHY0000
+GI 1 1
+
+WVP 0 vfCCD5001you188
+Youko: "......eh?"
+TP
+
+
+Taichi: "I said 'weakling.'"
+TP
+
+
+Taichi: "On top of that, a traitor."
+TP
+
+
+She turned around, and her face looked like a wax figure's.
+TP
+
+WVP 0 vfCCD5001you189
+Youko: "............Taichi."
+TP
+
+
+I tried smiling.
+TP
+
+
+With a little malice.
+TP
+
+
+Taichi: "Did you think that I'd forgotten?"
+TP
+
+
+Taichi: "That my memories had flown away from the shock?"
+TP
+
+
+Taichi: "......I do remember. Everything."
+TP
+
+
+Taichi: "Or did you think that there was no way I'd touch on it?"
+TP
+
+
+Taichi: "That it wasn't possible with my way of thinking?"
+TP
+
+
+I beat up my frozen childhood friend with words.
+TP
+
+
+Taichi: "I loved you......I really did love you."
+TP
+
+
+My memory returned at once to my childhood.
+TP
+
+
+Taichi: "You, who I met in the library and never talked to."
+TP
+
+
+Taichi: "Your back was always straight, and you gazed only at yourself, not mingling with anyone."
+TP
+
+
+Taichi: "I loved you that way."
+TP
+
+
+Taichi: "But, I never wanted to get to know you."
+TP
+
+
+Taichi: "Because there was no need to contact you."
+TP
+
+
+Youko: "............"
+TP
+
+
+Taichi: "But, I couldn't do anything about being cornered by you, and destroyed."
+TP
+
+
+Taichi: "I do sympathize a little with that. I did know what happened, and I do think I was more respectable back then than I am now,"
+TP
+
+
+
+
+WVS 1 1
+
+
+Taichi: "But because you broke that tacit understanding..."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD5001you191
+Youko: "......stop."
+TP
+
+
+A voice shaking weakly.
+TP
+
+
+Taichi: "You spoke to me."
+TP
+
+
+WVP 0 vfCCD5001you192
+Youko: "Taichi."
+TP
+
+
+Taichi: "Wasn't I your one and only ally in that mansion?"
+TP
+
+
+Taichi: "That's why I suddenly became conscious of it."
+TP
+
+
+
+GL 1 TCHY0002
+GI 1 0
+WVP 0 vfCCD5001you193
+Youko: "......it doesn't matter...how things happened."
+TP
+
+
+WVP 0 vfCCD5001you194
+Youko: "I just chose Taichi."
+TP
+
+
+She'd rallied herself and made her inner fright submit in order to say that.
+TP
+
+
+Impressively, her voice was regular.
+TP
+
+
+WVP 0 vfCCD5001you195
+Youko: "I don't try to think about how to describe the inner workings of the heart."
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD5001you196
+Youko: "I love and adore you."
+TP
+
+GL 1 TCHY0002
+GI 1 0
+
+WVP 0 vfCCD5001you197
+Youko: "We are one mind and body. A bond that cannot be cut."
+TP
+
+
+WVP 0 vfCCD5001you198
+Youko: "I think...that's just fine."
+TP
+
+
+Taichi: "I don't think so."
+TP
+
+
+Taichi: "You......would have been fine with anyone."
+TP
+
+
+Taichi: "With anyone who would be a competent ally."
+TP
+
+
+Taichi: "You chose me? That's not it. It was automatic. Because there was no one other than me."
+TP
+
+
+Taichi: "What was the result of that?"
+TP
+
+
+Taichi: "You lost your independence, and I......became a monster..."
+TP
+
+
+Taichi: "And then---"
+TP
+
+GL 1 TCHY0021
+GI 1 0
+
+WVP 0 vfCCD5001you199
+Youko: "......stop!"
+//New Youko sprite gets used around here, I think it's worth seeing at least once while editing. ?`IX
+TP
+
+
+
+WVP 1 bgm023.ogg 0 0 0
+
+
+For the first time,
+TP
+
+
+She showed violent emotions.
+TP
+
+
+That's the domain of fear, Youko-chan---
+TP
+
+
+Taichi: "It's true."
+TP
+
+
+Taichi: "Not for a day have I forgotten. Because those were my roots."
+TP
+
+
+Taichi: "One mind and body. We certainly made that promise."
+TP
+
+
+Taichi: "......but being one mind and body...means completely assenting to one another."
+TP
+
+
+Youko-chan quivered one step back.
+TP
+
+
+Taichi: "That day,"
+TP
+
+
+Taichi: "The day you and I took each other's hands,"
+TP
+
+
+Taichi: "The day we elaborately contrived......planned, and tried to massacre the Shinkawas."
+TP
+
+
+Taichi: "The day of revenge!"
+TP
+
+
+Taichi: "Isn't that what you said?"
+TP
+
+
+Taichi: "Wasn't it something you tried to do?"
+TP
+
+
+Taichi: "The original Youko-chan would have tried to pull that off alone!"
+TP
+
+
+Taichi: "But you relied on me!"
+TP
+
+
+Taichi: "And then---"
+TP
+
+
+WVP 0 vfCCD5001you200
+Youko: "......no...no, no!"
+TP
+
+
+WVP 0 vfCCD5001you201
+Youko: "That's......wrong......"
+TP
+
+
+Taichi: "It's not wrong."
+TP
+
+
+I loaded my chosen words.
+TP
+
+
+Bullets sure to kill a beast.
+TP
+
+
+For myself. For me to remain myself. For tomorrow. For next week. For me to regret everything next Monday and immerse myself in nostalgic memories that Sunday. And, for me and the things I like to continue to be me and the things I like.
+TP
+
+
+For the final crossing of my life.
+TP
+
+
+I pulled the trigger---
+TP
+
+
+Taichi: "Because that day, you didn't kill a single one."
+TP
+
+
+Hasekura Youko broke into a radioactive state.
+TP
+
+
+Taichi: "......I killed them all."
+TP
+
+
+Taichi: "With traps and flames and blades."
+TP
+
+
+Taichi: "Didn't I kill them all?"
+TP
+
+
+Taichi: "Didn't you do nothing at all!?"
+TP
+
+
+WVP 0 vfCCD5001you202
+Youko: "......nooo!"
+TP
+
+
+She screamed.
+TP
+
+
+Only her scream was still strong.
+TP
+
+
+Back then, I was just the one who did it---
+TP
+
+
+I did it one-hundred percent for her.
+TP
+
+
+Taichi: "......you were just afraid."
+TP
+
+
+Taichi: "If that was it......it'd be fine."
+TP
+
+
+Taichi: "I was satisfied just by releasing and returning you to your former self."
+TP
+
+
+Taichi: "......everything ended......you looked at the returned me......"
+TP
+
+
+Taichi: "Didn't you...feel...terror?"
+TP
+
+
+Her sole deep-rooted feeling.
+TP
+
+
+Her backstory with me.
+TP
+
+
+Trauma.
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD5001you203
+Youko: "......uu......"
+TP
+
+
+Taichi: "How are we one mind and body?"
+TP
+
+
+Taichi: "How am I your everything?"
+TP
+
+
+Taichi: "You're a traitor. Mimi-sempai was cute compared to you."
+TP
+
+
+Taichi: "After I killed dozens, after I rushed into an irrevocable domain, after I broke......the half of me that should have been my sole ally......rejected me!"
+TP
+
+
+WVP 0 vfCCD5001you204
+Youko: "............no......I......"
+TP
+
+
+Taichi: "That moment, my sense of values broke down."
+TP
+
+
+Taichi: "I no longer understood anything."
+TP
+
+
+Taichi: "My heart...became far removed from a human's."
+TP
+
+
+Taichi: "......after that......I thank you for raising me back again......"
+TP
+
+
+Taichi: "Thanks to that I was able to pretend to be a person."
+TP
+
+
+Taichi: "I love and adore you. On the paperwork at least."
+TP
+
+
+Taichi: "But, why were you unable to cut me away back then?"
+TP
+
+
+Taichi: "That's my only real question."
+TP
+
+
+A question came to her eyes.
+TP
+
+
+Taichi: "Wasn't I unnecessary once you were done with me?"
+TP
+
+GL 1 TCHY0005
+GI 1 0
+
+WVP 0 vfCCD5001you205
+Youko: "But......I fell in love......with Taichi, so......"
+TP
+
+
+Taichi: "A person at the zenith like you wouldn't want such degenerate love."
+TP
+
+GL 1 TCHY0000
+GI 1 0
+
+WVP 0 vfCCD5001you206
+Youko: "......!?"
+TP
+
+
+Taichi: "If you'd gone on that way, surely you would have become something incredible. You idiot."
+TP
+
+
+Taichi: "You threw so much time at maintaining me......"
+TP
+
+
+Taichi: "What me would satisfy you?"
+TP
+
+
+Taichi: "We aren't the same as you say."
+TP
+
+
+Taichi: "I have absolutely no need of you whatsoever. And you---"
+TP
+GL 1 TCHY0021
+GI 1 0
+
+WVP 0 vfCCD5001you207
+Youko: "......stop!"
+TP
+
+
+Taichi: "You shouldn't have any need of me either."
+TP
+
+
+Taichi: "You're here...by inertia...and the momentum from that incident."
+TP
+
+
+Taichi: "And then, you pretended not to notice...that rudimentary deception."
+TP
+
+
+Taichi: "......can that be forgiven? Is that something... ...you can forgive yourself for?"
+TP
+
+
+Taichi: "Will Hasekura Youko forgive that?"
+TP
+
+
+Taichi: "Isn't the stage you're remaining on altogether too small?"
+TP
+
+
+Taichi: "......I don't think the Youko-chan I know would forgive that."
+TP
+GL 1 TCHY0005
+GI 1 0
+
+WVP 0 vfCCD5001you208
+Youko: "......Taichi, cease......I'm begging you......"
+TP
+
+
+Taichi: "You nearly got killed for trying to use me."
+TP
+
+
+Taichi: "As someone who'd be your unconditional ally until your own heart healed."
+TP
+
+
+Taichi: "As a convenient and precise pawn."
+TP
+
+
+Taichi: "And because of these eyes."
+TP
+
+
+Taichi: "To you, there was only one choice in that environment."
+TP
+
+
+Taichi: "Adults were useless. They're easy to trace."
+TP
+
+
+Taichi: "But a child..."
+TP
+
+
+Taichi: "......it would be judged that a child couldn't possibly kill dozens."
+TP
+
+
+Taichi: "The choice called me. Wasn't that the absolute right choice?"
+TP
+
+
+Taichi: "One body and one mind; a vow that should have been carved into our lives."
+TP
+
+
+Taichi: "It was a suggestion."
+TP
+
+
+Taichi: "It was pleasure and compulsive obsession."
+TP
+
+
+Taichi: "......to think that you'd shrink back."
+TP
+
+
+Taichi: "When I dismembered the first one, splattering you with brains and blood and guts, that was all it took......"
+TP
+GL 0 evcc0063
+$CGevcc0063 = 1
+GS 0 1
+GS 1 0
+SEF 109 2
+
+Taichi: "You became unable to move a muscle."
+TP
+
+
+Taichi: "......and then you stopped."
+TP
+
+
+WVP 0 vfCCD5001you210
+Youko: "......sto......p......"
+TP
+
+
+Taichi: "I continued moving. Comparatively speaking."
+TP
+
+
+Taichi: "......because I idolized you."
+TP
+
+
+Taichi: "I did my best. So much so that I became strange."
+TP
+
+
+Taichi: "And I can also conclude this:"
+TP
+
+
+Taichi: "You're not in love with me or anything."
+TP
+
+
+Taichi: "......you're afraid of me."
+TP
+GL 0 bgcc0003
+GL 1 TCHY0000
+GS 0 1
+GS 1 0
+SEF 109 1
+WVP 0 vfCCD5001you211
+Youko: "............!"
+TP
+
+
+Taichi: "When you feared me, there were only two choices."
+TP
+
+
+Taichi: "Would you disappear? Or would you assimilate?"
+TP
+
+
+Taichi: "That was the request made to a system in your heart."
+TP
+
+
+Taichi: "A safety system, different from feelings."
+TP
+
+
+Taichi: "You degraded who you once were, damaged and destroyed me, and wished for a phenomenon."
+TP
+
+
+Taichi: "What if you went back now?"
+TP
+
+
+I informed her gently.
+TP
+
+
+GL 1 TCHY0005
+GI 1 0
+WVP 0 vfCCD5001you212
+Youko: "............no......I don't......"
+TP
+
+
+WVP 0 vfCCD5001you213
+Youko: "I don't want to go back. I want to be with you."
+TP
+
+
+Taichi: "Because you have a strong, superficially excellent mind, you can't disobey a resolve once laid down."
+TP
+
+
+Taichi: "You had become automatic."
+//Removed apostrophe for powerful, absolute intensity. -Neko
+TP
+
+
+Taichi: "What would you do if you were crushed under your own weight?"
+TP
+
+
+Taichi: "That's like a scientifically analyzed monster."
+TP
+
+
+Taichi: "Remove the chains."
+TP
+
+
+Youko-chan wouldn't move.
+TP
+
+
+Taichi: "I'm telling you to remove them."
+TP
+
+
+She left the room and brought the key.
+TP
+
+
+Her shaking hands unlocked the chains.
+TP
+
+
+I was released.
+TP
+
+
+Taichi: "......I'll live, the way I am now."
+TP
+
+
+Taichi: "Will you try and stop me by force? I don't intend to lose this time."
+TP
+
+
+WVP 0 vfCCD5001you214
+Youko: "......I don't want...to resist Taichi."
+TP
+
+
+Taichi: "Then do you want to be sent back on your last legs? Or do you want to end it yourself?"
+TP
+
+GL 1 TCHY0001
+GI 1 0
+
+WVP 0 vfCCD5001you215
+Youko: "But......even if I return to a world without Taichi......"
+TP
+
+
+Taichi: "If you choose the former, I will send you back by force."
+TP
+
+
+Taichi: "And then I'll cut off all relations with you in my heart."
+TP
+
+GL 1 TCHY0005
+GI 1 0
+
+WVP 0 vfCCD5001you216
+Youko: "Aaaaah......"
+TP
+
+
+Taichi: "If you choose the latter, then I won't do that."
+TP
+
+
+WVP 0 vfCCD5001you217
+Youko: "......I don't want......either of them......"
+TP
+
+
+WVP 0 vfCCD5001you218
+Youko: "Even so, I love Taichi---"
+TP
+
+
+Taichi: "Don't use your heart as a pretense for acting against others!"
+TP
+
+
+When I yelled, she twitched.
+TP
+
+
+I put a hand on her shoulder.
+TP
+
+
+Taichi: "You'll be alone...until you die."
+TP
+
+
+I informed her gently.
+TP
+
+
+Taichi: "All people are."
+TP
+
+
+Youko: "............"
+TP
+GO 1 1
+
+She fell to her knees.
+TP
+
+
+She covered her face and sighed.
+TP
+
+
+Her voice didn't leak. She was silent.
+TP
+
+
+I pushed the corners of her eyes, as if combing her hair with my fingers.
+TP
+
+
+Is she crying or not?
+TP
+
+
+Hasekura Youko just stayed still with her face covered.
+TP
+
+
+
+
+WVS 1 1
+
+
+That was her crying out.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+
+
+
+
+
+GL 0 bgcc0016
+GS 0 1
+SEF 152 0
+And---
+TP
+
+
+
+
+WVP 1 bgm021.ogg 0 0 0
+
+
+GL 0 evcc0062
+$CGevcc0062 = 1
+GS 0 1
+SEF 109 0
+I brought her to the hokora. It was as if she'd lost her soul.
+TP
+
+
+Taichi: "I have one last thing to say."
+TP
+
+
+Taichi: "I really did love you."
+TP
+
+
+WVP 0 vfCCD5001you220
+Youko: "......Taichi."
+TP
+
+
+Taichi: "Since I was always watching you."
+TP
+
+
+WVP 0 vfCCD5001you221
+Youko: "May I ask one thing?"
+TP
+
+
+Taichi: "Nn?"
+TP
+
+
+WVP 0 vfCCD5001you222
+Youko: "......everyone, whether often or rarely, falls in love with people automatically."
+TP
+
+
+WVP 0 vfCCD5001you223
+Youko: "So......what can I do to fall in love correctly?"
+TP
+
+
+Taichi: "Don't desire rewards. That's all there is to it."
+TP
+
+
+WVP 0 vfCCD5001you224
+Youko: "............!"
+TP
+
+
+Taichi: "The moment you desire a reward, I think it becomes a business dealing."
+TP
+
+
+Taichi: "Exchange, trade."
+TP
+
+
+Taichi: "Something that can give you what's good for you."
+TP
+
+
+Taichi: "To say it another way, self-love that allows foreign trading."
+TP
+
+
+Taichi: "There's no way to deny that."
+TP
+
+
+Taichi: "But, to become a pair that way......I must be beyond hopeless."
+TP
+
+
+I forced a smile.
+TP
+
+
+Taichi: "Friendship isn't the only thing that desires nothing in return."
+TP
+
+
+Taichi: "The answer was nearby."
+TP
+
+
+WVP 0 vfCCD5001you225
+Youko: "Was it something that couldn't ever have happened?"
+TP
+
+
+WVP 0 vfCCD5001you226
+Youko: "Because I destroyed Taichi......?"
+TP
+
+
+Taichi: "Even though I didn't become of one mind and body with you......I'm sure that I saved you."
+TP
+
+
+Taichi: "And that we've come neatly to the same conclusion."
+TP
+
+
+WVP 0 vfCCD5001you227
+Youko: "What......?"
+TP
+
+
+She showed a slightly tired smile.
+TP
+
+
+WVP 0 vfCCD5001you228
+Youko: "Then......I should've...remained a princess......"
+TP
+
+
+Taichi: "That's right."
+TP
+
+
+Taichi: "But at the time, because you needed something pure to give you a shot in the arm......"
+TP
+
+
+Taichi: "The possibility of you using the nearby me really was high."
+TP
+
+
+Taichi: "You should've just cut me off after using me."
+TP
+
+
+Taichi: "Since even if you did, I probably would have continued loving you."
+TP
+
+
+WVP 0 vfCCD5001you229
+Youko: "Isn't that lonely?"
+TP
+
+
+WVP 0 vfCCD5001you230
+Youko: "Being given nothing by your other......isn't that lonely?"
+TP
+
+
+Taichi: "......I love...looking at beautiful things."
+TP
+
+
+Taichi: "That comes first. It always has."
+TP
+
+
+Taichi: "That feeling alone was my very first emotion."
+TP
+
+
+Taichi: "That's why...I'm fine."
+TP
+GL 0 evcc0062a
+$CGevcc0062a = 1
+GS 0 1
+SEF 109 0
+
+
+WVP 0 vfCCD5001you231
+Youko: "......if......Taichi ever returns to the other side......"
+TP
+
+
+WVP 0 vfCCD5001you232
+Youko: "I'll...make another attempt."
+TP
+
+
+Taichi: "Yeah."
+TP
+
+
+Taichi: "You'd better at least become the king of Japan by then, Youko-chan."
+TP
+
+
+WVP 0 vfCCD5001you233
+Youko: "......that might be too hard."
+TP
+
+
+WVP 0 vfCCD5001you234
+Youko: "Since I'd have to make it a monarchy."
+TP
+
+
+Taichi: "It wouldn't be."
+TP
+
+
+I smiled.
+TP
+
+
+She remained looking down.
+TP
+
+
+Taichi: "Goodbye, Hasekura Youko."
+TP
+
+
+Taichi: "Oh august you---"
+TP
+
+
+I lowered my head reverently.
+TP
+
+
+WVP 0 vfCCD5001you235
+Youko: "......good......by-......"
+TP
+
+
+I saw her crying face.
+TP
+
+
+With that I was immediately satisfied.
+TP
+WVS 1 0
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+I closed my eyes.
+TP
+
+WT 2000 0
+WT 2000 1
+
+GL 0 bgcc0000b
+GS 0 1
+SEF 109 1
+Youko: "............"
+TP
+
+
+Youko: "............"
+TP
+
+
+Youko: "............"
+TP
+
+
+WVP 0 vfCCD5001you239
+Youko: "............ah."
+TP
+
+
+WVP 0 vfCCD5001you240
+Youko: "......my chest...hurts......so this is a broken heart......"
+TP
+
+
+WVP 0 vfCCD5001you241
+Youko: "I never knew......"
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+WVS 2 1
+
+WT 1000 0
+WT 2000 1
+
+
+
+
+
+WVP 1 bgm015.ogg 0 0 0
+GL 0 bgcc0000a
+GS 0 1
+SEF 109 2
+Taichi: "............"
+TP
+
+
+For a while, I stayed there.
+TP
+
+
+A sense of accomplishment.
+TP
+
+
+A sense of loss.
+TP
+
+
+They were getting mixed up, and I couldn't deal with them.
+TP
+
+
+At long last---
+TP
+
+
+Taichi: "Uwaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!"
+TP
+
+
+I screamed to the sky.
+TP
+
+
+There was no meaning.
+TP
+
+
+I just threw out my emotions.
+TP
+
+
+Taichi: "It's over."
+TP
+
+
+Everything.
+TP
+
+
+I'm alone in the world.
+TP
+
+
+The place I should be.
+TP
+
+
+It's become my sanctuary.
+TP
+
+GL 0 bgcc0016
+GL 1 TCCN0100
+GS 0 1
+GS 1 1
+SEF 109
+
+WVP 0 vfCCD5001nnk000
+Nanaka: "......you did well."
+TP
+
+
+Taichi: "You again?"
+TP
+
+
+She hadn't come out for a while.
+TP
+
+
+WVP 0 vfCCD5001nnk001
+Nanaka: "Why don't I hold you?"
+TP
+
+
+Taichi: "I do kinda feel like that......but no."
+TP
+
+
+Taichi: "This week...is Youko-chan's after all."
+TP
+
+GL 1 TCCN0101
+GI 1 0
+
+WVP 0 vfCCD5001nnk002
+Nanaka: "......I see."
+TP
+
+
+For my eyes, this was probably the last time.
+TP
+
+
+They were starting to lose their tapetum function......I guess.
+TP
+
+
+The existence of the gate looked vaguer than before.
+TP
+
+
+As the function of my eyes becomes normal, they should become unable to observe.
+TP
+
+
+Unless I'm reset, of course.
+TP
+
+
+But I have no such intention.
+TP
+
+
+GL 0 bgcc0000b
+GS 0 1
+GS 1 0
+SEF 109 1
+WVP 0 vfCCD5001nnk003
+Nanaka: "It's about time."
+TP
+
+
+Taichi: "Yeah, about time."
+TP
+
+
+WVP 0 vfCCD5001nnk004
+Nanaka: "Good work."
+TP
+
+
+Taichi: "Yeah......thank you, mom."
+//WHAT?! - Sheeta
+//Might be appropriate to capitalize Mom here, since he's calling her by the name. -Neko
+TP
+
+
+WVP 0 vfCCD5001nnk005
+Nanaka: "Nahaha."
+TP
+
+
+WVP 0 vfCCD5001nnk006
+Nanaka: "See you next week then."
+TP
+
+
+Nanaka disappeared without a trace. Conspicuously.
+TP
+
+
+I realized.
+TP
+
+
+Taichi: "......did I say 'mom?'"
+TP
+
+
+
+WVS 1 1
+And then, the world's twilight---
+TP
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 2
+
+
+WT 2000 0
+CALL ndemo0001
+
+
+RET

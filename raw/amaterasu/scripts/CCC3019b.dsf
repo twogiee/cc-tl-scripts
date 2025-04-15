@@ -1,0 +1,307 @@
+
+GL 0 bgcc0010
+GS 0 1
+GS 1 0
+SEF 152 0
+
+Miki was here.
+TP
+
+Taichi: "Heeey, you, the first year."
+TP
+
+GL 1 TCYM0003
+GP 1 180 0
+GI 1 1
+
+WVP 0 vfCCC3019bmki000
+Miki: "Ah, Sempai's wearing clothes."
+TP
+
+Taichi: "Gufu!"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC3019bmki001
+Miki: "You're not exposing your thing anymore......thank goodness..."
+TP
+
+Taichi: "Speak not of my thing."
+TP
+
+Taichi: "Even I don't know why it was being exposed."
+TP
+
+GL 1 TCYM0001
+GI 1 0
+Miki: "........................"
+TP
+
+Why'd she fall silent?
+TP
+
+Taichi: "More importantly, what's this cardboard box?"
+TP
+
+GL 1 TCYM0011
+GI 1 0
+WVP 0 vfCCC3019bmki003
+Miki: "Aaah, I was thinking of playing by myself with that......but I've already been found out."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC3019bmki004
+Miki: "This is a Mikihouse."
+TP
+
+Taichi: "......"
+TP
+
+Taichi: "Is that okay?"
+TP
+
+WVP 0 vfCCC3019bmki005
+Miki: "I wonder what it is you're referring to."
+TP
+
+Taichi: "Well......various......"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC3019bmki006
+Miki: "It's Miki's house, so Mikihouse. What sort of problem is there?"
+TP
+
+Now that you mention it, that makes sense.
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC3019bmki007
+Miki: "I'll take time between my movements so as not to be spotted when I'm in enemy territory."
+TP
+
+Taichi: "That wouldn't work."
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC3019bmki008
+Miki: "Are you sure?"
+TP
+
+Taichi: "Obviously any normal young adult that saw the Mikihouse would think 『Are there any good children's clothes in here?』 and dandily peek inside."
+TP
+
+GL 1 TCYM0041
+GI 1 0
+WVP 0 vfCCC3019bmki009
+Miki: "......uuu, I'll only be able to sell what I have on me."
+TP
+
+Taichi: "How much?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC3019bmki010
+Miki: "Eh?"
+TP
+
+Taichi: "How much do you want for them?"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC3019bmki011
+Miki: "Why are you suddenly saying that with a serious face?"
+TP
+
+Taichi: "Because this is the serious generation. But that doesn't matter at all."
+TP
+
+Taichi: "Now, how much?"
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC3019bmki012
+Miki: "Nnn, I wonder..."
+TP
+
+Like a little devil, she showed me a mischievous face.
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC3019bmki013
+Miki: "Then, a million yen per outfit. This price is decided on the spot. But the price right now is for a limited time only. If you can pay it now, I wouldn't mind stripping it off and handing it to you right here. But if you can't, then I won't."
+TP
+
+I handed her ten of the coins I got from Sakuraba.
+TP
+
+Taichi: "I've decided on the spot to buy it."
+//hahaha, she got owned.-Spin
+TP
+WVP 0 vfCCC3019bmki014
+Miki: "........................eah?"
+TP
+
+Miki produced a question word matching the atmosphere of the room as her expression froze.
+TP
+
+Taichi: "......I shall have you strip right here."
+TP
+
+Taichi: "It's a shame this doesn't have a view screen, but I shall at least record your changing scene."
+TP
+
+I readied a camera. Good thing we're in the club room.
+TP
+
+Okay, the batteries are still charged.
+//Old line made me think he was asking "okay?"-Spin
+TP
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC3019bmki015
+Miki: "............ah! Umm......these are?"
+TP
+
+Taichi: "Hundred thousand yen coins. Though Miki wouldn't know about them."
+TP
+
+Taichi: "During the Shouwa period, we warred, and expanded, and became hated by the world, and yet that period lasted over sixty years."
+IF $tlnote != 0 (TL note: The Shouwa period is synonymous with Emperor Hirohito's reign, so he's referring to WWII.)
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC3019bmki016
+Miki: "Can these really be used?"
+TP
+
+Taichi: "You can't really use them, but they are official currency."
+TP
+
+Taichi: "Anyway, I made my decision on the spot. I've paid you the money. Now it's your turn."
+//"Now" stood out and also, "anyway" helps with the transition better.-Spin
+TP
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCC3019bmki017
+Miki: "Hi!......"
+TP
+
+Terror.
+TP
+
+Taichi: "If you run contrary to your promise......I'll give you a rating of 『Extremely Poor.』"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC3019bmki018
+Miki: "To a girl, such a rumor would be a danger among dangers."
+TP
+
+Taichi: "Then strip."
+TP
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCC3019bmki019
+Miki: "Ha, hawaaa, fuwa......th-that's......"
+TP
+GL 2 TCSK0001
+GP 1 0 0
+GP 2 340 0
+GS 2 1
+GS 1 1
+SEF 109 0
+WVP 0 vfCCC3019bkri000
+Kiri: "Please wait!"
+TP
+
+It was Kiri.
+TP
+
+Taichi: "Uu! You're Kiri!"
+TP
+
+I was kicked.
+TP
+
+I guarded my head.
+TP
+
+But,
+TP
+GL 2 TCSK0002
+GI 2 0
+WVP 0 vfCCC3019bkri001
+Kiri: "......I'll strip in your place."
+TP
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC3019bmki020
+Both Of Us: "Eeeeeeeeeeeh!!?"
+TP
+
+Kiri stuck her hand inside her skirt and pulled down her underwear.
+TP
+
+GL 2 TCSK0004
+GI 2 0
+WVP 0 vfCCC3019bkri002
+Kiri: *sob*......
+TP
+
+Taichi: "Okay, okay, it's fine, it's fine! I changed my mind!"
+TP
+
+WVP 0 vfCCC3019bkri003
+Kiri: "......are you sure?"
+TP
+
+Taichi: "I'm not into making maidens cry."
+TP
+
+We'd at least have to be alone......
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC3019bmki021
+Miki: "Thank youuu, Kiri-chiii!"
+TP
+
+GL 2 TCSK0006
+GI 2 0
+WVP 0 vfCCC3019bkri004
+Kiri: "Miki! I'm so glad you're safe."
+TP
+GS 1 0
+GS 2 0
+SEF 109 0
+*grab*
+TP
+
+The two embraced.
+TP
+
+......I'm the villain in this world, aren't I?
+TP
+
+WVS 1 1
+
+
+
+RET

@@ -1,0 +1,202 @@
+
+GL 0 bgcc0007
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+WVP 1 bgm012.ogg 0 0 0
+
+//屋上に来てみた。
+I tried going to the rooftop.
+TP
+
+//時刻は１０時をまわっている。
+Present time is past 10AM.
+TP
+
+//どうせ……授業があるわけでもない。
+After all... we have no classes in this situation.
+//Perfectly applicable if at least he is in Class X... perhaps everybody, given he's running around like nobody's business even in the flashbacks. -GHS
+TP
+
+//ただ学校空間に触れたかっただけだ。
+I only wanted to come into contact with the space of the school itself.
+TP
+
+//なんてことのない日常を、味わいたかっただけ。
+Just to taste the quiet normal unruffled daily life.
+TP
+
+//精神安定剤のように―――
+Like an ataractic---
+TP
+
+//屋上には誰もいない……。
+There is no one on the rooftop...
+TP
+
+//太一「ん？」
+Taichi: "Hm?"
+TP
+GL 0 evcc0005b
+$CGevcc0005b = 1
+GS 0 1
+SEF 155 0
+
+
+
+
+//でもなかった。
+I mean there wasn't.
+//亡かった -GHS
+TP
+
+//部活……ってやつか。
+Club... that's what she's here for.
+TP
+
+//アンテナを見あげる。
+I look up at the antenna.
+//CP CCA0028
+TP
+
+//世界から人が消えて。
+People have vanished from the world.
+TP
+
+//俺たちは結束することもできず、個人だった。
+And we were individuals, unable to stand in unity.
+//See CCB0022. -GHS
+TP
+
+//結束していたとしても無力さに変わりはないだろうけど。
+Though I believe this powerlessness would not change even if there had been unity.
+//See Week 1. -GHS
+TP
+
+//……個々の問題ともなればこのヘビィな状況は、心を軋ませた。
+...with these individual problems, this heavy situation would make any heart creak.
+TP
+
+//太一「…………」
+Taichi: "......"
+TP
+
+//直射日光、危ないかな。
+Won't direct sunlight exposure be dangerous?
+TP
+
+//そばに目覚まし時計が転がっていた。
+An alarm clock was casually dropped nearby.
+TP
+
+//先輩の私物だろうか。
+Seems to be Senpai's private property.
+//Emphasis should be duh at this point. -GHS
+TP
+
+//アラームを五分後にセットする。
+I set the alarm for five minutes from now.
+TP
+
+//これで起きてくれるだろう。
+This should wake her up,
+TP
+
+//みみ先輩に寝ぼすけ属性はないのだ。
+because Mimi-senpai does not have the Sleepyhead Character Attribute.
+//See CCC4019, CCD1001. She doesn't have it as Character Attribute, but that doesn't mean she doesn't oversleep. -GHS
+TP
+
+//GL 0 bgcc0007
+GL 0 zzzrooftopzoom
+//HACK zoom it. The console versions erroneously switch to a full antenna zoom here - even the 360 version, though it's harder to see since the top of the antenna isn't visible due to Top Grade Designers who evidently thought the main feature of the rooftop was the big flat pavement. -GHS
+GS 0 1
+SEF 152 0
+//落下＆自殺防止用の金網に、指にひっかけながら階段に向かう。
+Running my fingers held over the netting for fall & suicide prevention, I move towards the stairs.
+TP
+
+//太一「ん？」
+Taichi: "Hm?"
+TP
+
+//一箇所、金網が脆くなっていた。
+In one place, that one place, the wire mesh had become fragile.
+//Same where most people fall down including Yutaka, so he knows that place very well. -GHS
+TP
+
+//軽く押すと、めきめきと倒れていく。
+A light press and it gives in, conspicuously.
+TP
+
+//体重をかけたら落ちてしまいそうだ。
+If I were to put my body's weight on it I would just fall down.
+TP
+
+//太一「危ねー」
+Taichi: "Dangerooous."
+TP
+//夢幻に生きる者の多い群青では、大変な管理問題だぞ。
+In Gunjou, where so many people live in their own fantasies, that's a serious management problem.
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+//ま、今のメンバーなら平気か。
+Well, with our members we should be alright.
+TP
+
+//全員、日常生活に支障はないはずだ。
+None of our members had impediments to our normal daily life.
+//Taichi x1.5, Kiri x0.5, Misato x2 (half are the attempts/near-deaths). Plus Yutaka. Troll meter is approaching the red line. -GHS
+TP
+
+GL 0 bgcc0007
+GS 1 1
+//HACK unzoom it. Still the erroneous full antenna in the console version. And the 360 version just pauses for a second to reload the same BG. -GHS
+
+//ゆっくりと階段に向かう。
+Slowly I head towards the stairs.
+TP
+
+//扉をあける。
+I open the door.
+TP
+
+WVP 2 SE054 1 0
+//??????? what arcade cabinet did this come from? -GHS
+
+//背後から目覚ましのアラームと、
+From behind my back, I could hear the sound of the alarm clock,
+TP
+
+WVP 0 vfCCC0027msa000
+//見里「んあっ？」
+Misato: "nMah?"
+TP
+
+//先輩の奇声が聞こえた。
+and Senpai making an odd voice.
+//Because 21st Century Moekko, see CCC3016 -GHS
+TP
+
+//小さく微笑んで、背後で扉を閉めた。
+With a tiny little smile, I close the door behind my back.
+TP
+
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 1
+//HACK black screen. There's some damn persistent doll leftover here from previous scripts, so doing it like this. -GHS
+
+WVS 1 1
+
+
+RET

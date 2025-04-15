@@ -1,0 +1,64 @@
+CSQ 0 1 1 1 1 1
+//Key: 43 52 142. -GHS
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+IF $B != 3 RET
+CSQ 0 1 1 1 1 1
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+IF $B != 5 RET
+CSQ 0 1 1 1 1 1
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+IF $B != 2 RET
+CSQ 0 1 1 1 1 1
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+IF $B != 1 RET
+CSQ 0 1 1 1 1 1
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+IF $B != 4 RET
+CSQ 0 1 1 1 1 1
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+- Look at panties
+IF $B != 2 RET
+:SECRETMENU
+CSQ 1 1 1 1 1
+Welcome to the Easter Egg menu!
+- Trial Edition End Video
+- Deleted Scenes
+- View patch-only graphics
+- Back to game
+IF $B == 1 JMP TRIAL
+IF $B == 2 JMP DELSCENES
+IF $B == 3 JMP GRAPHICS
+IF $B == 4 JMP RETURN
+:TRIAL
+CALL ndemo0004
+JMP SECRETMENU
+:DELSCENES
+CALL makepwin
+JMP SECRETMENU
+:GRAPHICS
+CALL makefwin
+JMP SECRETMENU
+:RETURN

@@ -1,0 +1,430 @@
+
+Taichi: "Okay......let's go."
+TP
+
+
+I'll take a look.
+TP
+
+
+She appears to be a friendly ghost.
+TP
+
+
+So she won't do anything to harm me.
+TP
+
+
+GL 1 TCCN0100
+GI 1 0
+WVP 0 vfCCD0001nnk036
+Nanaka: "That's more like it, Taichi!"
+TP
+
+
+She snapped her fingers.
+TP
+
+
+GL 0 bgcc0015
+GS 0 1
+GS 1 0
+SEF 152 0
+We walked up the mountain path.
+TP
+
+
+I was here just yesterday.
+TP
+
+
+Taichi: "Nanaka, you okay?"
+TP
+
+GL 1 TCCN0100
+GI 1 1
+
+WVP 0 vfCCD0001nnk037
+Nanaka: "Aaah, I'm fine, I'm fine! I take pride in my fitness!"
+TP
+
+
+I see, she hasn't shed a drop of sweat.
+//not 'drop a sweat'? Moogy offered "She hasn't shed a drop of sweat" as more natural - Raide
+//I like Moogy's suggestion, so I'm changing it to that - Sheeta
+TP
+
+
+Maybe she's in a sports club?
+TP
+
+
+Taichi: "Was it around here somewhere?"
+TP
+
+WVP 0 vfCCD0001nnk038
+Nanaka: "Just a bit deeper."
+TP
+
+GL 1 TCCN0102
+GI 1 0
+
+WVP 0 vfCCD0001nnk039
+Nanaka: "Oh, don't be careless about the bushes on your side. There are traps."
+TP
+
+
+Taichi: "Traps for animals?"
+TP
+
+
+GL 1 TCCN0101
+GI 1 0
+WVP 0 vfCCD0001nnk040
+Nanaka: "Something like that. It's best that you disable them later."
+TP
+
+
+Taichi: "......dangerous..."
+TP
+
+
+GL 0 bgcc0016
+GS 0 1
+GS 1 0
+SEF 152 0
+Taichi: "There it is."
+TP
+
+
+Taichi: "So, now that we're here---"
+TP
+
+
+Nanaka had disappeared.
+TP
+
+
+Taichi: "Huh? Nanakaaa?"
+TP
+
+
+Taichi: "Heeey, Nanakaaa!"
+TP
+
+
+Taichi: "What the hell? She just left me here?"
+TP
+
+
+I didn't understand.
+TP
+
+
+For now, I've made it to the hokora......
+TP
+
+
+Guiding me somewhere just to disappear is very suggestive.
+TP
+
+
+Is she telling me to investigate the hokora?
+TP
+
+
+Taichi: "......hmm."
+TP
+
+
+It'd be hollow to come all the way here only to go home without doing anything, so I investigated.
+TP
+
+
+I opened the double doors half-heartedly.
+TP
+
+
+Packed with notebooks.
+TP
+
+
+Taichi: "......uwaa."
+TP
+
+
+I was shocked.
+TP
+
+
+In this simple dark space, there weren't any monsters or old bottles or short swords or crystal balls......
+TP
+
+
+But there were a lot of notebooks.
+TP
+
+
+
+
+
+A pile of student notebooks, without discrepancy.
+//PCP ccc0007
+TP
+
+
+Taichi: "......"
+TP
+
+
+I took some out.
+TP
+
+
+The covers were featureless, but they did have numbers written on them in magic marker.
+//CP_S
+TP
+
+
+Volume numbers?
+TP
+
+
+I tried opening the notebook titled '1'.
+TP
+
+
+
+......
+TP
+
+
+............
+TP
+
+
+........................
+//CP_F
+TP
+
+
+
+I finished skimming through it.
+TP
+
+
+Taichi: "........................haa?"
+TP
+
+
+Taichi: "Eh? What's this?"
+TP
+
+
+I arranged it all in my head.
+TP
+
+
+Taichi: "This means......"
+TP
+
+
+
+1) I had another personality that wrote them.
+//CP_S
+TP
+
+
+
+2) Stuff I write in the future shows up here.
+TP
+
+
+
+3) I was repeating the same period of time over and over.
+//CP_F
+TP
+
+
+
+Taichi: "......it's three."
+TP
+
+
+There may be something else going on entirely,
+TP
+
+
+But all of this is my handwriting.
+TP
+
+
+Taichi: "So...the world is repeating itself."
+TP
+
+
+It's utterly absurd, but that seemed a good way to understand it.
+TP
+
+
+I'm glad I'm so flexible.
+TP
+
+
+It doesn't connect to humanity's annihilation, but there's probably some relation.
+TP
+
+
+Taichi: "But......"
+TP
+
+
+In all of the notebooks I look at, I'm pretty carefree, but......
+TP
+
+
+Taichi: "Somehow, they all seem like despairing struggles."
+TP
+
+
+The repetitions aren't left in my memories.
+TP
+
+
+It's like dying every time.
+TP
+
+
+Like that game I played a long time ago.
+TP
+
+
+Taichi: "............"
+TP
+
+
+For a moment, I fell into deep thought.
+TP
+
+
+And then a number of conjectures, suspicions, guided me to the actual facts.
+//Seemed like it was supposed to be a parenthetical, and fixes the comma splice. ~Bal
+TP
+
+
+Taichi: "Hmm."
+TP
+
+
+The inside (or perhaps vicinity) of the hokora avoids the reset effect.
+TP
+
+
+For a while I tried investigating the vicinity of the hokora.
+TP
+
+
+Nothing came out.
+TP
+
+
+Taichi: "It'd be too easy if I could tell just by looking."
+TP
+
+
+There was Nanaka's existence too.
+TP
+
+
+The fact that she guided me here.
+TP
+
+
+Did that girl know too?
+TP
+
+
+If the diary's accounts are to be believed, Nanaka appears each time.
+TP
+
+
+Since she doesn't seem like a person, that might be.
+TP
+
+
+I returned the notebooks to the hokora.
+TP
+
+
+It's best to leave them here.
+TP
+
+
+Even in the unlikely event that I forget......Youko-chan should be able to reach the truth by herself.
+TP
+
+
+She should be able to arrive at the conclusion that I just thought of this instant, simply by looking at the notebooks.
+//He's saying that she will probably come to the conclusion in an instant but this line sorta makes it seem like he did it in an instant as well. Takes away from the effect that she's better you know? A little hard to explain but just trust me on this.-Spin
+TP
+
+
+Taichi: "Ah......that's right, her uniform."
+//PCP_S ccc0008b
+TP
+
+
+Nanaka's uniform.
+TP
+
+
+It was a design I'd never seen.
+//PCP_F
+TP
+
+
+It's not the one from the nearby school (there's only one on the other side of the mountain).
+TP
+
+
+If I encounter her again, I'll have to question her.
+//CP_S
+TP
+
+
+For now, what I should do,
+//PCP
+TP
+
+
+Is pass the days and write my diary.
+//PCP_F
+TP
+
+
+Living, while leaving information.
+TP
+
+
+That's what I thought.
+TP
+
+
+Taichi: "In any event, it's best to have fun."
+TP
+
+
+A lonely repeating world.
+TP
+
+
+But to me, it might be an ideal place.
+TP
+
+
+
+
+
+
+
+RET

@@ -1,0 +1,1387 @@
+GL 0 bgcc0009
+GS 0 1
+SEF 152 0
+
+
+WVP 3 se001 0 0 1
+
+
+Taichi: "Oooh, I'm inhaling the smell..."
+TP
+
+
+
+There were very few guards around.
+TP
+
+
+
+There are usually ten of them standing here, but today there were only two.
+TP
+
+
+We must be having a lot of absences at the moment because everyone's having mental problems due to the heat.
+TP
+
+
+
+Which was why the cafeteria was so nice and quiet.
+TP
+
+
+
+Thanks to that I could easily get the highly sought-after menus.
+TP
+
+
+
+No......if I used a certain connection of mine, I could get them easily anyway.
+TP
+
+
+
+But that must not be used.
+TP
+
+
+
+My forbidden secret tactic.
+TP
+
+
+
+It's a double-edged sword.
+TP
+
+
+
+Aaah, but Yuusa-chan's really cute.
+TP
+
+
+
+I bought a ticket for the B meal and waited at the counter.
+TP
+WVP 1 bgm006.ogg 0 0 0
+
+
+
+WVP 0 vfcca0022mmn000
+Voice: "Oh, you! What're you doing here!?" (98 Phon)
+IF $tlnote != 0 (TL note: Phons attempt to measure actual perceived loudness by considering sound intensity and frequency, while decibels are based only on intensity.)
+SEF 101 0
+TP
+
+
+
+Taichi: "Dowaaaa!!?"
+TP
+
+
+
+It's here!
+TP
+
+
+
+WVP 0 vfcca0022mmn001
+Voice: "Say hello now, huhuhu."
+TP
+
+
+
+That woman laughed with a muffled voice resembling an abnormally huge leader of a group of bandits one might find drinking sake in the depths of a cave in a fantasy game. (Sometimes he's larger than the cave entrance. What's with that?)
+//Fully punctuated sentences inside parentheses + full sentence outside of parentheses = period goes before parenthetical expression. - pondrthis
+TP
+
+
+
+I was afraid.
+TP
+
+
+
+Taichi: "Don't scare me, oba-chan. I'm a delicate writer."
+TP
+
+
+
+WVP 0 vfcca0022mmn002
+Oba-chan: "You think you're a writer? Don't talk in your sleep!" (118 Phon)
+IF $tlnote != 0 (TL note cont: At the frequency of the average adult female voice, phons are a little higher than decibels.)
+SEF 101 0
+TP
+
+
+
+Her angry voice traversed the cafeteria with a bang.
+TP
+
+
+
+The reinforced glass was shaking (not possible).
+TP
+
+
+
+I watched with absurd interest.
+TP
+
+
+
+Taichi: "......you're loud, oba-chan."
+TP
+
+
+
+WVP 0 vfcca0022mmn003
+Oba-chan: "I'm just talking normally. The kids here are just weak!" (94 Phon)
+SEF 101 0
+TP
+
+
+
+WVP 0 vfcca0022mmn004
+Oba-chan: "You take it easy yourself!" (115 Phon)
+SEF 101 0
+TP
+
+
+
+Taichi: "!?"
+TP
+
+
+
+Sensing danger, I took a step back.
+TP
+
+
+WVS 2 se104 1 0
+SEF 101 0
+
+A giant deformed hand passed in front of my eyes with a roar.
+TP
+
+
+
+Taichi: (Just now...) (Skinship?) (If I'd been hit......) (Death!?)
+IF $tlnote != 0 (TL note: "Skinship" refers to the concept of deepening an emotional connection to someone through physical contact.)
+TP
+
+
+
+I accidentally used the method of thought depiction from Tsutsui ****taka's Nanase Series.
+IF $tlnote != 0 (TL note: This novel trilogy is about a psychic girl named Hita Nanase trying to live with her powers, which tend to reveal dark secrets and tragic accidents.)
+TP
+
+
+
+I can't explain it, but I feel like there's a connection to Nanase (no there isn't).
+TP
+
+
+
+WVP 0 vfcca0022mmn005
+Oba-chan: "You really are persistent, aren't you!? Huhuhu."
+TP
+
+
+
+WVP 0 vfcca0022mmn006
+Oba-chan: "You want some food at least, right?"
+//sounded just a touch like "you, at least, can defeat me" i.e. you at least as opposed to jimmie-bob. This way it's more like, "you're gonna buy something, right?" - pondrthis
+TP
+
+
+
+Taichi: "Ye...yesh."
+TP
+
+
+
+I held out my meal ticket, feeling like I was giving candy to a lion.
+TP
+
+
+
+WVP 0 vfcca0022mmn007
+Oba-chan: "Since you're looking after Yuusa, I'll give you something special."
+TP
+
+
+
+Taichi: "Hahaha, thanks, hahaha."
+TP
+
+
+
+Yes.
+TP
+
+
+
+This very person was being allowed to exist as the mother of the ultimate pretty girl Yuusa-chan.
+TP
+
+
+
+So in a few decades Yuusa's going to---
+TP
+GL 0 bgcc0009
+GS 0 1
+SEF 10 0
+
+
+
+
+WVP 0 vfcca0022mmn008
+Mommy: "What's wrong? You look faint."
+TP
+
+
+
+Taichi: "Sorry, yeah, I was feeling dizzy."
+//It sounded REALLY off since he was just repeating what she said without really confirming it. Not too sure about what I added but that's the best I could think of.-Spin
+TP
+
+
+
+WVP 0 vfcca0022mmn009
+Mommy: "We can't have that now. You need more flesh and blood."
+TP
+
+
+
+Hahaue-sama made her decision.
+IF $tlnote != 0 (TL note: "Hahaue-sama" is a more formal and impersonal version of "okaa-san.")
+TP
+
+
+
+WVP 0 vfcca0022mmn010
+Mommy: "Here you go, an S meal."
+TP
+
+
+
+Taichi: "There's an S?"
+TP
+
+
+
+WVP 0 vfcca0022mmn011
+Mommy: "I made it just for you!" (118 Phon)
+SEF 101 0
+TP
+
+
+
+Spoken in a loud voice echoing throughout the cafeteria.
+TP
+
+
+
+WVP 2 SE028 1 0
+
+*whisper* *whisper*......
+TP
+
+
+
+I'm being whispered about.
+TP
+WVS 2 0
+
+
+Taichi: "......I'm very grateful Hahaue-sama, but......"
+TP
+
+
+
+WVP 0 vfcca0022mmn012
+Mommy: "Oh? Hahaue-sama? Now that's nice to hear!"
+TP
+
+
+
+My food doubled in height.
+TP
+
+
+
+WVP 0 vfcca0022mmn013
+Mommy: "Hey, you, how's it with my daughter?"
+TP
+
+
+
+Taichi: "Ha? How am I supposed to answer that?"
+TP
+
+
+
+WVP 0 vfcca0022mmn014
+Mommy: "Aren't you winning her over!?"
+TP
+
+
+
+Taichi: *cough* *cough!*
+TP
+
+
+
+WVP 0 vfcca0022mmn015
+Mommy: "A son-in-law...that'd be nice. Huhuhu."
+TP
+
+
+
+Taichi: "Son-in-law!?"
+TP
+
+
+
+And even more food!!?
+TP
+
+
+
+Taichi: "Ah, sorry, this is enough, Hahaue-sama!"
+TP
+
+
+
+WVP 0 vfcca0022mmn016
+Mommy: "No problem, don't worry about it!"
+TP
+
+
+
+She added a second plate of pork cutlet.
+TP
+
+
+
+This is......a bribe! Is it a buyoff?
+TP
+
+
+
+WVP 2 se028 1 0
+*whisper*......
+TP
+
+WVS 2 1
+Taichi: "Awawawawa."
+TP
+
+
+
+Rumors are spreading!
+TP
+
+
+
+Right now everyone's spreading incredible rumors about me!
+TP
+
+
+
+WVP 0 vfcca0022mmn017
+Mommy: "You must have a lot going on, so don't sweat the hard stuff."
+TP
+
+
+
+WVP 0 vfcca0022mmn018
+Mommy: "Leave it all to me."
+TP
+
+
+
+The miso soup which should have nothing but seaweed in it, for some reason, had whole crabs thrown in.
+IF $tlnote == 1 (TL note: "miso" is literally "fermented soybean paste.")
+//while this is cool to know... umm... who hasn't eaten miso soup? Even my mom who hates asian food and all things asian knows what miso soup is. - pondrthis
+//Nab TL note for japanese reference: validated.
+TP
+
+
+
+
+WVP 2 se028 2 0
+*whisper* *whisper* *whisper* *whisper*......
+TP
+
+
+
+WVP 0 vfcca0022gka000
+Voice: "......accepting a bribe......"
+TP
+
+
+
+WVP 0 vfcca0022gkb000
+Voice: "Golden parachute......"
+TP
+
+
+
+
+WVP 0 vfcca0022gkc000
+Voice: "......insider trading..."
+TP
+
+
+
+
+WVP 0 vfcca0022gka001
+Voice: "Something unlawful......"
+TP
+
+
+
+
+WVP 0 vfcca0022gkb001
+Voice: "......the person concerned with a question of worship......"
+TP
+
+
+
+
+
+Taichi: "Uguu!"
+TP
+
+
+
+
+Bad.
+TP
+
+
+
+
+This matter is beneath the dignity of Kurosu Taichi.
+TP
+
+
+
+
+Now I had four plates of pork cutlet.
+TP
+
+
+
+
+Taichi: "That's too many!"
+TP
+
+
+
+
+WVP 0 vfcca0022mmn019
+Mommy: "Nn? What? You're a boy. Can't you eat at least this much!?"
+TP
+
+
+
+WVS 2 se105 1 0
+SEF 101 0
+
+She slammed down on my shoulders with arms like those of a crown-of-thorns starfish devouring Okinawan coral.
+TP
+
+
+
+
+The doubling of dead weight pushed me into the floor.
+TP
+
+
+
+
+Taichi: "Guwaaaaa!"
+TP
+
+
+
+
+I fell to my knees.
+TP
+
+
+
+
+WVP 0 vfcca0022mmn020
+Mommy: "Ah, you failed! Hehaha! So you do need to eat more. Fatten up!"
+TP
+
+
+
+
+Taichi: "Uuu."
+TP
+
+
+
+Yuusa-chan......if you don't leave home soon, you'll be fattened.
+TP
+
+
+
+
+
+
+Holding over five times the provisions of a common man, I sat down in an appropriate place.
+TP
+
+GL 1 TCST0000
+GP 1 190 0
+GI 1 1
+
+WVP 0 vmcca0022yki000
+Tomoki: "I see you've got powerful connections as always."
+TP
+GL 0 bgcc1009
+GS 1 0
+GS 0 1
+SEF 109 0
+
+
+
+Tomoki, holding a tray with the C lunch, sat down beside me.
+TP
+
+
+
+
+Taichi: "Is that you, Tomoki-sensei?"
+TP
+
+
+
+
+WVP 0 vmcca0022yki001
+Tomoki: "I'd like to borrow some of that luck."
+TP
+
+
+
+
+Taichi: "Please do borrow it."
+TP
+
+
+
+
+WVP 0 vmcca0022yki002
+Tomoki: "Are you sure?"
+TP
+
+
+
+
+Taichi: "I can't eat this much."
+TP
+
+
+
+
+WVP 0 vmcca0022yki003
+Tomoki: "Then I won't hold back."
+TP
+
+
+
+
+He took the pork cutlets.
+TP
+
+
+
+
+WVP 0 vmcca0022yki004
+Tomoki: "I was eating bread with Sakuraba just now, but it wasn't filling enough."
+TP
+
+
+
+
+Taichi: "He was in sports clubs, after all."
+//Using "used to be" with a past tense verb is just plain effed. I think this form gets the same emphasis across. - pondrthis
+TP
+
+
+
+
+WVP 0 vmcca0022yki005
+Tomoki: "But he's not even doing strength training anymore."
+TP
+
+
+
+
+Taichi: "Just having muscles consumes fat. That's why muscular guys have bad mileage."
+TP
+
+
+
+
+WVP 0 vmcca0022yki006
+Tomoki: "Ehh? Then it's better to not have muscles?"
+TP
+
+
+
+
+Taichi: "Of course not. They keep your figure from gaining extra fat. It's better to just do strength training in moderation."
+TP
+
+
+
+
+WVP 0 vmcca0022yki007
+Tomoki: "I see."
+TP
+
+
+
+
+Taichi: "Is Sakuraba still having curry bread?"
+TP
+
+
+
+
+WVP 0 vmcca0022yki008
+Tomoki: "He was on his seventh when I left."
+TP
+
+
+
+
+Taichi: "Wow."
+TP
+
+
+
+
+WVP 0 vmcca0022yki009
+Tomoki: "He says the stuff they get here is his favorite curry bread."
+TP
+
+
+
+
+Taichi: "Stupid tongue of his."
+TP
+
+
+
+
+WVP 0 vmcca0022yki010
+Tomoki: "It is a stupid tongue."
+TP
+
+
+
+
+We ate.
+TP
+
+
+
+
+Taichi: "Dammit, we eat and we eat and it won't get any smaller!"
+TP
+
+
+
+
+WVP 0 vmcca0022yki011
+Tomoki: "......should I take it off your hands?"
+TP
+
+
+
+
+Taichi: "Please do."
+TP
+
+
+
+
+WVP 0 vmcca0022yki012
+Tomoki: "Hey, there are crabs in your miso!"
+TP
+
+
+
+
+Taichi: "......there are."
+TP
+
+
+
+
+WVP 0 vmcca0022yki013
+Tomoki: "What are your connections......?"
+TP
+
+
+
+
+Taichi: "The world's strongest submission, a trout hold (son-in-law engagement)."
+TP
+
+
+
+
+WVP 0 vmcca0022yki014
+Tomoki: "You're referring to that oba-chan's daughter?"
+TP
+
+
+
+
+Taichi: "Yep."
+TP
+
+
+
+
+WVP 0 vmcca0022yki015
+Tomoki: "I wonder if she looks like her mother."
+TP
+
+
+
+
+Taichi: "No, she's an amazingly cute girl with glasses. And she's attached to me. She'll believe anything I say."
+TP
+
+
+
+
+WVP 0 vmcca0022yki016
+Tomoki: "Then there's no problem."
+TP
+
+
+
+
+Taichi: "No......"
+TP
+
+
+
+
+Taichi: "I, who will likely ascend to an aggressive job of my own which will make me fit to hold a Swiss bank account, cannot be meowing after an honest girl."
+TP
+
+
+
+
+WVP 0 vmcca0022yki017
+Tomoki: "You're talking in your sleep."
+TP
+
+
+
+
+WVP 0 vmcca0022yki018
+Tomoki: "Ah, Taichi, how was your adaptation coefficient exam?"
+TP
+
+WVS 1 1
+
+
+
+Taichi: "Any way you look at it,"
+TP
+
+
+WVP 1 bgm002.ogg 0 0 0
+
+
+I gulped down the self-served wheat tea.
+TP
+
+
+
+
+Taichi: "Severely high. Unacceptable. My teacher's eyes went white when he saw it."
+TP
+
+
+
+
+WVP 0 vmcca0022yki019
+Tomoki: "How much?"
+TP
+
+
+
+
+Taichi: "......eighty-four percent."
+TP
+
+
+
+
+WVP 0 vmcca0022yki020
+Tomoki: "Uwa, if only that was a percentile."
+TP
+
+
+
+
+Taichi: "Exactly. Isn't that bad? I might become something horrible."
+TP
+
+
+
+
+WVP 0 vmcca0022yki021
+Tomoki: "You might get dissected for research purposes."
+TP
+
+
+
+
+Taichi: "Have mercy."
+TP
+
+
+
+
+I clung to his sleeve.
+TP
+
+
+
+
+WVP 0 vmcca0022yki022
+Tomoki: "Impossible......you're living in a different world from my seventeen percent."
+TP
+
+
+
+
+Taichi: "What? Hey! Why's your number the same as a normal person's!?"
+TP
+
+
+
+
+WVP 0 vmcca0022yki023
+Tomoki: "......I had external obstacles, remember?" 
+TP
+
+
+
+
+Taichi: "Ah, that's right......"
+TP
+
+
+
+
+Taichi: "I'm so stupid. I'd been thinking of us as equals."
+TP
+
+
+
+
+WVP 0 vmcca0022yki024
+Tomoki: "You shouldn't be saying that."
+TP
+
+
+
+
+Taichi: "Aaah, Raba's (Sakuraba's nickname) is pretty low as well."
+TP
+
+
+
+
+WVP 0 vmcca0022yki025
+Tomoki: "I think he was fifteen."
+TP
+
+
+
+
+Taichi: "Weren't his obstacles internal? Why did he get sent to Gunjou with that number?"
+TP
+
+
+
+
+WVP 0 vmcca0022yki026
+Tomoki: "Well, it seems he wrote Gunjou down as his preferred school."
+TP
+
+
+
+
+We looked at each other's faces.
+TP
+
+
+
+
+Both of us: "Haaaa!!?"
+TP
+
+
+
+
+Taichi: "......that makes no sense."
+TP
+
+
+
+
+WVP 0 vmcca0022yki027
+Tomoki: "......I know."
+TP
+
+
+
+
+Taichi: "National exams are pretty half-assed."
+TP
+
+
+
+
+Taichi: "Ah, on that note, you'd better make up with your onee-san."
+TP
+
+
+
+
+Taichi: "You keep saying it's too hard and that you never get around to it."
+TP
+
+
+
+
+WVP 0 vmcca0022yki028
+Tomoki: "That's because Onee-cha......Aneki would betray me......"
+IF $tlnote == 1 (TL note: "Aneki" is a more formal and impersonal version of "onee-chan.")
+TP
+
+
+
+
+Didn't this guy nearly say ÅwOnee-chanÅx just now?
+TP
+
+
+
+
+......whatever.
+TP
+
+
+
+
+Taichi: "Miyasumi-sempai would?"
+TP
+
+
+
+
+Tomoki and Mimi-sempai were siblings.
+TP
+
+
+
+
+Though their surnames are different.
+TP
+
+
+
+
+WVP 0 vmcca0022yki029
+IF $tlnote != 1 Tomoki: "I was forced into the Broadcasting Club in the first place. I'd wanted to be in the 'Going Home' Club, but she just had to say, 'Aren't you a computer nerd? Come help out.'"
+IF $tlnote == 1 Tomoki: "I was forced into the Broadcasting Club in the first place. I'd wanted to be in the 'Going Home' Club, but she just had to say, 'Aren't you a computer nerd? Come help out.'"  (TL note: "Going Home Club" is a euphemism for not having a club.)
+TP
+
+
+
+
+WVP 0 vmcca0022yki030
+Tomoki: "What do you think of the argument that I had to 'help' because I was a 'computer nerd?'"
+//The feeling I got from this is that one or both of those should have quote marks.-Spin
+TP
+
+
+
+
+Taichi: "Come on..."
+TP
+
+
+
+
+Taichi: "Does it even matter? You're practically in the Going Home Club anyway."
+TP
+
+
+
+
+WVP 0 vmcca0022yki031
+Tomoki: "Well......in any case, this place doesn't have a Basketball Club."
+TP
+
+
+
+
+Taichi: "But you can't even run."
+TP
+
+
+
+
+WVP 0 vmcca0022yki032
+Tomoki: "Well..."
+TP
+
+
+
+
+Taichi: "Give it up. It's nice not to have any annoying upperclassmen."
+//Before you ask, he didn't say sempai. He said joukyuusei. Å`IX
+//Hey isn't this supposed to be Sempai? Ixrec. Stop screwing around. ~Neko
+TP
+
+
+
+
+WVP 0 vmcca0022yki033
+Tomoki: "I was hoping to read all the manga I wanted to when I got into the Going Home Club."
+TP
+
+
+
+
+WVP 0 vmcca0022yki034
+Tomoki: "Why do I have to get into a sports club and make up with Aneki after all this time?"
+TP
+
+
+
+
+Taichi: "......your siscon is palpable."
+IF $tlnote == 1 (TL note: "Siscon" = "Sister complex." The intent is virtually identical to "lolicon" and other complexes.)
+TP
+
+
+
+
+WVP 0 vmcca0022yki035
+Tomoki: "Did you say something?"
+TP
+
+
+
+
+Taichi: "Nooo I diiiidn't."
+TP
+
+WVS 1 1
+
+WVS 3 1
+
+
+
+
+
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152 1
+
+
+All that aside, I'm helping out with the club now.
+TP
+
+
+
+
+What do I do with this part?
+TP
+
+
+
+
+Does it go here?
+TP
+
+
+
+
+Or here?
+TP
+
+
+
+
+Taichi: "......"
+TP
+
+
+
+
+I'll put it here for now. This feels like the right spot.
+TP
+
+
+
+
+WVP 0 vfcca0022msa000
+Misato: "You can tell where it goes?"
+TP
+
+
+
+
+Taichi: "Well, somehow."
+TP
+
+
+
+
+Sempai was holding the stepladder below me.
+TP
+
+
+
+
+WVP 0 vfcca0022msa001
+Misato: "It's encouraging to have a boy here."
+TP
+
+
+
+
+Taichi: "Is that so?"
+TP
+
+
+
+
+Taichi: "Anytime you are in need, I shall......"
+//To "have need" tends to require an indirect object (have need of...), even when you're talking super-fancy. - pondrthis
+TP
+
+
+
+
+Come to think of it,
+TP
+
+
+
+
+Doesn't she have a brother?
+TP
+
+
+
+
+Taichi: "......umm, are you fighting with Tomoki?"
+TP
+
+
+
+
+Sempai's face became overcast.
+TP
+
+WVP 1 bgm013.ogg 0 0 0
+
+
+
+WVP 0 vfcca0022msa002
+Misato: "Aaah, well......"
+TP
+
+
+
+
+WVP 0 vfcca0022msa003
+Misato: "There's a bit of a cold war."
+TP
+
+
+
+
+Taichi: "So even Tomoki gets in fights."
+TP
+
+
+
+
+WVP 0 vfcca0022msa004
+Misato: "Eh?"
+TP
+
+
+
+
+Taichi: "That guy doesn't get seriously mad all that often."
+TP
+
+
+
+
+It seemed Sempai received a shock from those words.
+//Gah, more MOON. flashbacks. I almost misspelled it on purpose this time. Å`IX
+TP
+
+
+
+
+WVP 0 vfcca0022msa005
+Misato: "......it might be perfectly natural."
+TP
+
+
+
+
+Taichi: "What?"
+TP
+
+
+
+
+WVP 0 vfcca0022msa006
+Misato: "He's got this, 'Dammit, life is hard!' kind of feeling."
+TP
+
+
+
+
+I didn't understand that.
+TP
+
+
+
+
+
+WVP 0 vmcca0022yki037
+Tomoki: Åw......you'll be betrayed.Åx
+//Requesting old line check here. Å`IX
+TP
+
+
+
+
+
+Taichi: "Umm, was there some kind of betrayal?"
+TP
+
+
+
+
+Her eyebrows narrowed.
+TP
+
+
+
+
+WVP 0 vfcca0022msa007
+Misato: "Did Tomoki say that?"
+TP
+
+
+
+
+Taichi: "Yeah."
+TP
+
+
+
+
+WVP 0 vfcca0022msa008
+Misato: "......"
+TP
+
+
+
+
+Taichi: "Sempai?"
+TP
+
+
+
+
+WVP 0 vfcca0022msa009
+Misato: "......nooo, nooo."
+TP
+
+
+
+
+Sempai looked like she was about to cry, and she was moaning, 'nooo, nooo.'
+TP
+
+
+
+
+Taichi: "Ummmm?"
+TP
+
+
+
+
+WVP 0 vfcca0022msa010
+Misato: "What did you say!!?"
+TP
+GL 0 bgcc0000a
+GI 0 0
+She jostled the stepladder back and forth.
+SEF 101 0
+TP
+
+
+
+
+Taichi: "Wawawa!!?"
+SEF 101 0
+TP
+
+
+
+
+WVP 0 vfcca0022msa011
+Misato: "Nothing will come of that!!!"
+SEF 101 0
+TP
+
+
+
+
+Taichi: "I'm going to fall!!!"
+SEF 101 0
+TP
+
+WVS 1 1
+
+
+
+It was a harsh club.
+TP
+
+
+
+RET 

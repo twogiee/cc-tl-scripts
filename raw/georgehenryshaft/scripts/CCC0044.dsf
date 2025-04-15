@@ -1,0 +1,236 @@
+
+//GL 0 bgcc0007
+GL 0 zzzrooftopzoom
+//HACK zoom -GHS
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//アンテナの場所。
+The place where the antenna is.
+TP
+
+//みみ先輩はいない。
+Mimi-senpai isn't here.
+TP
+
+//怪我したせいだろうか。
+It's likely because of those injuries.
+TP
+
+//彼女の部活は、中断されてしまった。
+Her club activities had been forcibly interrupted.
+TP
+
+//アンテナの根本には、機材やら工具やらが置かれている。
+At the base of the antenna, machine parts and tools and the like lie scattered about.
+TP
+
+//ノートがある。
+There's a notebook.
+TP
+
+//見てみた。
+I try looking at it.
+TP
+
+//太一「……………………」
+Taichi: "............"
+TP
+
+//なるほど。
+I see.
+TP
+
+//いろいろ苦労しながらやってたわけだ。
+She was getting things done while going through all kinds of hardships.
+//As is typical here. -GHS
+TP
+
+//ＳＯＳねぇ。
+An SOS...
+TP
+
+//アンテナを立ててＳＯＳ。これでバッチリ。
+An SOS sent via the antenna. That fits right on the mark.
+//The SOS is also hers, if it's yet not clear for some reason -GHS
+TP
+
+//みみ先輩らしい、素敵な計画である。
+A wonderful plan this, so like Mimi-senpai.
+TP
+
+//みみ先輩一人だと……終わらない作業量に思える。
+For Mimi-senpai alone however... it seems likely the amount of work would never end.
+TP
+
+//図面に赤線が引いてある。
+Red lines have been drawn on parts of the diagrams.
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+WVP 0 vfCCC0044msa000
+//『届かないよ～（泣）』
+『But I cannot reach this～! (sob)』
+TP
+
+
+GO 5 1
+//HACK back to normal -GHS
+
+//ははあ。確かに。
+Hahaha! That's for sure.
+//gurlz r short. Also see CCA0025C. SYMBOLISM!!! -GHS
+TP
+
+//仕方ない。
+Well, what can you do.
+TP
+
+//脚立を立てて、その上にのぼる。
+I erect the stepladder, and climb above.
+//... -GHS
+TP
+
+//太一「ここを……こうかな？」
+Taichi: "Over here... is it like this?"
+TP
+
+//仕上げてやった。
+And I was finished.
+TP
+
+//太一「これでよしと」
+Taichi: "This should be right."
+TP
+
+//太一「で、次はと……」
+Taichi: "Then, next up is..."
+TP
+
+//図面に視線を落とす。
+I look down at the blueprint.
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+WVP 0 vfCCC0044msa001
+//『わからないトコ（泣）』
+『Don't understand this part (sob)』
+TP
+
+WVP 0 vfCCC0044msa002
+//『保留です（泣）』
+『Leaving for later (sob)』
+TP
+
+WVP 0 vfCCC0044msa003
+//『ここ間違い（泣）』
+『This is wrong (sob)』
+TP
+
+WVP 0 vfCCC0044msa004
+//『？？？（泣）』
+『??? (sob)』
+TP
+
+WVP 0 vfCCC0044msa005
+//『間違えたカモ……あとで確認（泣）』
+『Made a mistake maybe... verify later (sob)』
+TP
+
+WVP 0 vfCCC0044msa006
+//『ワイヤー切れた、代用できるものを探さないと……（泣）』
+『A wire snapped, and I cannot look for something that could work as replacement (sob)』
+TP
+
+WVP 0 vfCCC0044msa007
+//『（泣）』
+『(sob)』
+TP
+
+WVP 0 vfCCC0044msa008
+//『（泣）』
+『(sob)』
+//CP A
+TP
+
+WVP 0 vfCCC0044msa009
+//『（泣）』
+『(sob)』
+//CP B
+//Yes, these do read like some of my analysis notes. -GHS
+TP
+
+GO 5 1
+//HACK back to normal -GHS
+
+
+//泣き言だらけじゃねぇか。
+Ain't this full of whining now.
+//You need others' help you're so troublesome. More seriously, crying + complaints -GHS
+TP
+
+WVS 1 1
+
+
+
+//太一「……みみ先輩……」
+Taichi: "...Mimi-senpai..."
+TP
+
+//アンテナを見てみる。
+I try looking at the antenna.
+TP
+
+//放送局……か。
+//I failed. Damn spot checks!
+A Broadcast Station... then.
+TP
+
+GL 5 BGCC0000A
+GI 5 1
+//HACK to sky -GHS
+WVP 1 bgm022.ogg 0 0 0
+
+
+//ＳＯＳの効果はともかく。
+Whatever the result of the SOS,
+TP
+
+//みんなで放送をするということが、妙に心を弾ませた。
+the idea of broadcasting with everyone together was a strange encouragement for my heart.
+TP
+
+//あまりにも健全すぎるから。
+Because it is excessively wholesome.
+TP
+
+//健全さからは対角に位置する俺たちの、琴線に触れるのだ。
+Wholesomeness harps on the heartstrings of us who exist on the opposite side from it.
+//どうしてそんな琴！ -GHS
+TP
+
+//こうして。
+And with this,
+TP
+
+//俺は『部活』をはじめた。
+I began Club Activities.
+//HIS club is still interaction calisthenics. AKA chatting, which is why the Broadcast Club is so damn important regardless of what they do, because conversation practice is something these guys have little of. -GHS
+TP
+
+WVS 1 1
+
+
+
+
+
+RET

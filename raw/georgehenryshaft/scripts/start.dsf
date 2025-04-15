@@ -1,0 +1,24 @@
+
+
+WCLOSE 0
+WOPEN 0 DEMO 0 0 640 480
+TS 0
+
+
+
+GL 0 bgcc0000e
+GI 0 1
+
+WOPEN 0 MOVIE 0 0 640 480
+
+MVP FS_LOGO 1
+MVS
+
+GO 0 1
+
+WCLOSE 0
+
+
+
+
+JF maketwin

@@ -1,0 +1,125 @@
+
+
+
+GL 0 bgcc0007
+GS 0 1
+SEF 152
+
+WVP 1 bgm011.ogg 0 0 0
+
+Taichi: "Hello."
+TP
+
+GL 1 TCMM0000
+GP 1 225 0
+GI 1 1
+
+WVP 0 vfCCD0001msa037
+Misato: "Aaah, good morning."
+TP
+
+
+Taichi: "How are you doing?"
+TP
+GL 1 TCMM0003
+GI 1 0
+
+WVP 0 vfCCD0001msa038
+Misato: "Not at all favorably."
+TP
+
+
+Taichi: "Must be rough."
+TP
+
+
+I looked at the antenna.
+TP
+
+
+At the base was a steel frame, wires, tools......woah, woah, don't leave your tools in such a high place.
+TP
+
+
+Taichi: "Hmmm, so this is the antenna..."
+TP
+
+
+From the top of the stepladder, I lowered the dangerous objects to the ground.
+TP
+
+GL 1 TCMM0021
+GI 1 0
+
+WVP 0 vfCCD0001msa039
+Misato: "......ummm?"
+TP
+
+
+Taichi: "Ah, that's more like it."
+TP
+
+
+All of the tools that were caught on parts of the antenna were back on the ground.
+TP
+
+
+WVP 0 vfCCD0001msa040
+Misato: "Are you fully awake?"
+TP
+
+
+Taichi: "Yes, I'm super calm."
+TP
+
+
+Taichi: "Well then, see you later."
+TP
+
+
+Sempai stared at me as I left.
+TP
+
+
+By messing up the timing, she won't get hurt ......probably.
+TP
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+Taichi: "Ah."
+TP
+
+WVS 1 1
+
+
+......won't there be no progress with her if she isn't hurt?
+//Tense problem. ~Bal
+TP
+
+
+Taichi: "But still..."
+TP
+
+
+Even so, letting an accident happen is just......
+TP
+
+
+Taichi: "Haa."
+TP
+
+
+In the end, it won't have any effect to speed up my conquest.
+TP
+
+
+
+
+
+
+
+
+RET

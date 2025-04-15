@@ -1,0 +1,157 @@
+
+
+
+
+WT 1000 0
+WT 1000 1
+
+
+GL 0 bgcc0002
+GS 0 1
+SEF 152 0
+
+WT 500 0
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+
+
+
+GL 1 TCSH0000
+GP 1 180 0
+GI 1 1
+
+
+WVP 0 vmCCC0025sku000
+Sakuraba: "Yo."
+//CP ccc0025
+TP
+
+
+Taichi: "Here."
+TP
+
+
+I handed him a surgical mask.
+//It's the fabric kind doctors wear that goes just over the mouth, is there a specific word for that? Å`IX
+//it's surgical mask
+TP
+GL 1 TCSH0000a
+GI 1 0
+
+WVP 0 vmCCd6002sku000
+Sakuraba: "Okay."
+TP
+
+
+He put it on without any questions.
+TP
+GL 1 TCSH0003a
+GI 1 0
+
+WVP 0 vmCCC0025sku001
+Sakuraba: "I'm hungry."
+//CP_S
+TP
+
+
+Taichi: "You're not eating?"
+TP
+
+GL 1 TCSH0002a
+GI 1 0
+WVP 0 vmCCC0025sku002
+Sakuraba: "I'm preparing for first period class."
+TP
+
+
+Taichi: "......is eating curry bread your class?"
+TP
+
+GL 1 TCSH0003a
+GI 1 0
+WVP 0 vmCCC0025sku003
+Sakuraba: "Until the day curry bread is no more."
+TP
+
+
+He decided coolly.
+//PCP_F
+TP
+
+
+Just like the records said.
+TP
+
+
+Taichi: "Can't you just eat instant curry?"
+//CP_S
+TP
+
+GL 1 TCSH0000a
+GI 1 0
+WVP 0 vmCCC0025sku004
+Sakuraba: "I hate curry."
+//CP_F
+TP
+
+
+Just like the records said.
+TP
+
+
+I'm accomplishing a lot.
+TP
+GL 1 TCSH0002a
+GI 1 0
+
+WVP 0 vmCCC0025sku010
+Sakuraba: *hekkusu!!*
+//CP
+SEF 101 0
+TP
+
+
+Taichi: "......a hexagonal tragedy."
+TP
+
+
+This was also in the records.
+TP
+
+
+From what I've confirmed so far, its occurrence rate was above fifteen percent.
+TP
+
+
+Which calculates to being hit with a snot bridge one out of every seven times.
+TP
+
+
+But a great person in the past (me) devised a means of evasion through equipping him with a mask.
+TP
+
+GL 1 TCSH0003a
+GI 1 0
+WVP 0 vmCCd6002sku001
+Sakuraba: "......can I take the mask off?"
+TP
+
+
+Taichi: "I cannot allow that."
+TP
+
+GL 1 TCSH0002a
+GI 1 0
+WVP 0 vmCCd6002sku002
+Sakuraba: "Life......is a harsh thing."
+TP
+
+
+Taichi: "That's what I want to say."
+TP
+
+
+
+RET

@@ -1,0 +1,743 @@
+
+Taichi: "Hey, reversely-attributed competitive girl."
+//CP_S cca0014a
+TP
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfcca0014afyu000
+Touko: "Haa......?"
+TP
+
+Taichi: "I'll give you this."
+TP
+
+I held out the sandwich from this morning.
+TP
+GL 1 TCKT0000
+GI 1 0
+
+Touko stared at it in disbelief.
+TP
+
+WVP 0 vfcca0014afyu001
+Touko: "What, is this?"
+TP
+
+Taichi: "Sweet bean bread."
+TP
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfcca0014afyu002
+Touko: "How could it be one of those!? This is a sandwich!"
+TP
+
+Taichi: "So you did know what it was."
+TP
+
+Taichi: "Here."
+TP
+
+
+*nudge*
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfcca0014afyu003
+Touko: "......stop it."
+TP
+WVP 2 se048 1 0
+
+She threw my hand off of her.
+TP
+
+The sandwich fell.
+TP
+
+I picked it up.
+TP
+
+Taichi: "Are you eating properly?"
+TP
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfcca0014afyu004
+Touko: "That's none of your business."
+TP
+
+She looked the other way.
+TP
+
+Taichi: "Isn't it painful to have no one besides yourself to worry about you?"
+TP
+
+WVP 0 vfcca0014afyu005
+Touko: "I don't understand what you're saying."
+TP
+
+Taichi: "You want people to worry about you."
+TP
+
+Taichi: "You want them to complete you."
+TP
+
+WVP 0 vfcca0014afyu006
+Touko: "......"
+TP
+
+Taichi: "And I, for one, do worry a little."
+TP
+GL 1 TCKT0000
+GI 1 0
+
+She surely despises me.
+TP
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfcca0014afyu007
+Touko: "You sure can talk."
+TP
+GL 1 TCKT0003
+GI 1 0
+
+WVP 0 vfcca0014afyu008
+Touko: "If you're really worried about me, then why, why!?"
+TP
+
+She suddenly stood up.
+//CP_F yay, the beginning of Touko's route. I was never a fan of the girl herself but I found her route to be very interesting to watch, far more so than I expected. Å`IX
+TP
+
+Taichi: "Ah, I wasn't trying to make you mad or anything."
+TP
+WVP 2 se048 1 0
+
+
+*smack*
+TP
+GO 1 1
+
+I toppled over.
+TP
+WVS 1 1
+
+It didn't hurt at all.
+TP
+
+WVP 0 vfccb0015bfyu000
+Touko: "......uuuu......"
+TP
+
+After attacking me, Touko collapsed from fatigue.
+TP
+
+Taichi: "Hello?"
+TP
+
+WVP 0 vfccb0015bfyu001
+Touko: "......nn............"
+TP
+
+She was rubbing her eyes. Her face looked pale.
+TP
+
+Taichi: "......Touko."
+TP
+
+I stooped down beside her.
+TP
+
+WVP 0 vfccb0015bfyu002
+Touko: "Don't say my name without an honorific......"
+//SOS, since for obvious reasons this is insanely hard to make natural in English. Å`IX
+//Tried 'say my name' instead. - Sheeta
+TP
+
+She seemed to be straining her voice.
+TP
+
+Her forehead was covered in sweat within moments.
+TP
+
+Taichi: "Where does it hurt?"
+TP
+
+Touko: "......"
+TP
+
+Taichi: "Look at the state you're in. Let's call a truce."
+TP
+
+Since there aren't any doctors left now.
+TP
+
+Taichi: "Touko!"
+TP
+
+WVP 0 vfccb0015bfyu004
+Touko: "I can't see......"
+TP
+WVP 1 bgm007.ogg 0 0 0
+
+Blindness?
+TP
+
+I shuddered.
+TP
+
+Taichi: "Anything else?"
+TP
+
+WVP 0 vfccb0015bfyu005
+Touko: "I feel drained. I'm dizzy......like I'm gonna hurl."
+TP
+
+Taichi: "You need to puke?"
+TP
+
+WVP 0 vfccb0015bfyu006
+Touko: "......yeah."
+TP
+
+Taichi: "Then lie on your side."
+TP
+
+I urged her.
+TP
+
+Touko didn't resist.
+TP
+
+Taichi: "Your eyes?"
+TP
+
+WVP 0 vfccb0015bfyu007
+Touko: "All black......"
+TP
+
+Is she blind?
+TP
+
+If so, that's okay.
+TP
+
+That's far better than a serious illness, or a huge wound near her heart.
+TP
+
+Taichi: "Stay calm. Don't go into a panic."
+TP
+
+WVP 0 vfccb0015bfyu008
+Touko: "............I'm fine."
+TP
+
+Taichi: "Have there been any irregularities in your health over the last few days?"
+TP
+
+WVP 0 vfccb0015bfyu009
+Touko: "No, none."
+TP
+
+Taichi: "Like pouring poison into your eyes."
+TP
+
+WVP 0 vfccb0015bfyu010
+Touko: "Nothing."
+TP
+
+Hmmm.
+TP
+
+How could this happen so quickly?
+//'Is this really sudden?' sounded like a really odd question to me - Sheeta
+TP
+
+WVP 0 vfccb0015bfyu011
+Touko: "Ah......"
+TP
+
+Taichi: "What happened?"
+TP
+
+WVS 1 1
+
+WVP 0 vfccb0015bfyu012
+Touko: "I can see now, a little bit."
+//My instinct says 'a semi-colon goes there!' so I, er, put a semi-colon there. Might be wrong though - Sheeta
+//Was this ever resolved? - pondrthis
+TP
+
+Relief.
+TP
+
+Taichi: "Then it's just low blood pressure."
+TP
+
+WVP 0 vfccb0015bfyu013
+Touko: "Low blood pressure?"
+TP
+
+Taichi: "You're exhibiting the symptoms of low blood pressure. That's why you felt drained as well."
+TP
+
+WVP 0 vfccb0015bfyu014
+Touko: "I see......"
+TP
+
+Taichi: "Do you still feel drained?"
+TP
+
+WVP 0 vfccb0015bfyu015
+Touko: "It's gotten......a bit better......"
+TP
+
+Taichi: "......are you really eating properly?"
+TP
+
+Touko: "............"
+TP
+
+Silence meant disaffirmation.
+TP
+
+Taichi: "Don't you have any appetite?"
+TP
+
+Touko slowly pulled herself back up.
+TP
+
+WVP 0 vfccb0015bfyu017
+Touko: "......I never do in the summer."
+TP
+
+Taichi: "But doctor, it's bad to let yourself become anemic."
+TP
+
+Taichi: "What did you eat today?"
+TP
+
+Touko: "............"
+TP
+WVP 1 bgm009.ogg 0 0 0
+
+She hasn't eaten anything......
+TP
+
+Taichi: "Here, sand and witch."
+TP
+
+WVP 0 vfccb0015bfyu019
+Touko: "......eh?"
+TP
+
+Taichi: "Sandwich."
+TP
+
+Taichi: "The origin is a myth in which this was eaten between sand and a witch."
+TP
+
+It's a nice image which might fool the shallow snobs that value origins and etymologies.
+TP
+
+Touko: "............"
+TP
+
+Touko rubbed her eyes.
+TP
+
+Taichi: "How are your eyes?"
+TP
+
+WVP 0 vfccb0015bfyu021
+Touko: "I can see."
+TP
+
+Taichi: "Here we go."
+TP
+
+I grabbed Touko's hand as it moved slowly, twitching like the rising tide.
+TP
+
+Taichi: "There, there."
+TP
+
+WVP 0 vfccb0015bfyu022
+Touko: "I'm not a pet......"
+//That picture that comes up 4 lines down says a different story. She eats like hamster ;) -Spin
+TP
+
+Her comebacks lacked force.
+TP
+
+Taichi: "It's handmade."
+TP
+
+The plastic wrap rustled as she removed it, and she bit down on a small corner of the sandwich.
+TP
+
+GL 0 evcc0022
+$CGevcc0022 = 1
+GS 1 0
+GS 0 1
+SEF 155 0
+WVP 0 vfccb0015bfyu023
+Touko: "......it's too fluffy."
+TP
+
+Taichi: "They were made this morning."
+//Do sandwiches inflate as the day goes on or something? I should probably know this... Å`IX
+//In my experience, my sandwiches get soggier the longer I leave them. - Sheeta
+//Guess there's tomato on it or something. If it's in plastic wrap, the only way the sandwich can become soggier is if it's getting moisture from something between the bread slices. (Okay, sounds like a retarded comment... but think about it when thinking "fluffy" and "soggy" might be equivalent.) - pondrthis
+//You guys...and girl.-Spin
+TP
+
+WVP 0 vfccb0015bfyu024
+Touko: "It's too big to eat easily."
+TP
+
+Taichi: "They were made for me."
+TP
+
+WVP 0 vfccb0015bfyu025
+Touko: "There's too much mustard."
+TP
+
+Taichi: "I like them bitter."
+TP
+
+Touko: "............"
+TP
+
+Taichi: "So, is it bad?"
+TP
+
+WVP 0 vfccb0015bfyu027
+Touko: "............it's good."
+TP
+
+Taichi: "Then take your time eating it."
+TP
+
+WVP 0 vfccb0015bfyu028
+Touko: *sniff*
+TP
+
+She was sniffling.
+TP
+
+She must find it vexing.
+TP
+
+For the love of...
+TP
+
+WVP 0 vfccb0015bfyu029
+Touko: "Uu!"
+TP
+
+She covered her mouth.
+TP
+
+Taichi: "Are you going to puke?"
+TP
+
+She shook her head.
+TP
+
+She swallowed it back down.
+TP
+
+WVP 0 vfccb0015bfyu030
+Touko: "......I want something to drink."
+TP
+
+Taichi: "My water bottle."
+TP
+
+Taichi: "A necessity for an annihilated world."
+TP
+
+I handed it to her.
+TP
+
+Touko: "......"
+TP
+
+She hesitated for quite a while,
+TP
+
+Then put it to her mouth,
+TP
+
+Then tipped the bottle's base up.
+TP
+
+Her throat protruded, and she energetically took the water into her mouth.
+TP
+
+Taichi: "......are you at least replenishing your water supply?"
+TP
+
+WVP 0 vfccb0015bfyu032
+Touko: "But the plumbing doesn't bring any."
+TP
+
+Taichi: "The Tasaki Shop."
+TP
+
+WVP 0 vfccb0015bfyu033
+Touko: "......I went there, but..."
+TP
+
+WVP 0 vfccb0015bfyu034
+Touko: "I tripped on the way back, and they all fell to the bottom of the hill."
+TP
+
+Taichi: "Are you really that clumsy?"
+TP
+
+Taichi: "Why not just go get more at the shop?"
+TP
+
+WVP 0 vfccb0015bfyu035
+Touko: "......because if I did that I'd have to write another note."
+TP
+
+WVP 0 vfccb0015bfyu036
+Touko: "If people saw that......"
+TP
+
+Taichi: "Haa?"
+TP
+
+Just that?
+TP
+
+Just a problem of saving face?
+TP
+
+Taichi: "Isn't your own life a priority!?"
+TP
+
+WVP 0 vfccb0015bfyu037
+Touko: "But..."
+TP
+
+She seemed like she was about to cry.
+TP
+
+Taichi: "Ha...Kirihara-sensei, that's just too sad."
+TP
+
+WVP 0 vfccb0015bfyu038
+Touko: "I'm delicate!"
+TP
+
+Taichi: "Now that everyone's disappeared, that way of viewing the world should as well."
+//"Has" just doesn't send the right message. Honestly, I had to reread the line to get the meaning.-Spin
+TP
+
+She was no longer being given permission to do anything.
+TP
+
+What she's wishing for...
+TP
+
+Is the strength to live.
+TP
+
+She's a person wishing to be a pure individual.
+TP
+
+Her various desires are being usurped by the biological needs she'd despised.
+TP
+
+I didn't think Touko had those desires.
+TP
+
+No.
+TP
+
+I've known it for a long time.
+TP
+
+
+GL 2 efcc0003
+GL 1 evcc0032
+GP 1 0 0 0
+GP 2 0 0 0
+GI 2 0
+GI 1 0
+GO 1 0
+GO 2 0
+
+
+Touko's lurid weakness.
+TP
+
+I understood it.
+TP
+
+This girl's already at her limit.
+TP
+
+Humanity being annihilated, her family disappearing, in that huge mansion of a house...
+TP
+
+All alone.
+TP
+
+Taichi: "......from now on, we have to live on with only the eight of us."
+//Before anyone miscounts and thinks something's wrong: Taichi, Tomoki, Sakuraba, Touko, Misato, Miki, Kiri, Youko
+//Not really a spoiler, but it might save you some time. Å`IX
+TP
+
+Touko: "........................"
+TP
+
+Her silence was heavy.
+TP
+
+WVP 0 vfccb0015bfyu040
+Touko: "Everyone will die."
+TP
+
+Taichi: "Yes, they will."
+TP
+
+There's an inescapable death waiting for everyone.
+TP
+
+Taichi: "The question is when and how."
+TP
+
+WVP 0 vfccb0015bfyu041
+Touko: "It's......impossible......for people......to just disappear."
+TP
+
+Taichi: "But it's reality."
+TP
+
+I prompted her.
+TP
+
+Taichi: "The world has blotted everyone else out. We're the only ÅwmutualÅx existences left."
+//SOS, badly.
+//Don't know if someone else already fixed this but it looks pretty good.-Spin
+TP
+
+WVP 0 vfccb0015bfyu042
+Touko: "I can't endure it......"
+TP
+
+Taichi: "Hmmm."
+TP
+
+The way this is heading......
+TP
+
+It might be unavoidable.
+TP
+
+I've gotten involved. I've wished.
+TP
+
+The relationship I wanted to build with Touko was definitely not as sweet as honey.
+TP
+
+It wasn't an option to leave this girl alone on the brink of collapse.
+TP
+
+I only have to go partway.
+TP
+
+But......what if I reached the terminus?
+TP
+
+What would happen?
+TP
+
+What would I do?
+TP
+
+It's unmistakable; there's nowhere left to run.
+TP
+
+If I capitalized on this turn of events - this so-called 'Touko route' - all the way until the end, even if everything breaks down there...
+TP
+
+This time I'll have to stay with her until her dying moment.
+TP
+
+While being tormented by the sharp pain that is highly developed culture.
+TP
+
+Taichi: "If there's nothing you can do to endure it,"
+TP
+
+WVP 0 vfccb0015bfyu043
+Touko: "Eh......?"
+TP
+
+Touko reacted sensitively.
+TP
+
+She shut her mouth.
+TP
+
+WVP 0 vfccb0015bfyu044
+Touko: "......what do you mean, 'nothing I can do?'"
+TP
+
+Taichi: "Oh no, just... you can eat all of it."
+//Ellipsis seems appropriate here imo - Sheeta
+TP
+
+I stood up.
+TP
+
+Taichi: "You know..."
+TP
+
+WVP 0 vfccb0015bfyu045
+Touko: "......nnwha?"
+TP
+
+Touko spoke while chewing the sandwich.
+TP
+
+Taichi: "How do you think humanity was destroyed?"
+TP
+GL 0 bgcc0000a
+GS 0 1
+SEF 152 0
+
+
+She looked out the window.
+TP
+
+I didn't expect to get anything out of asking her.
+TP
+
+WVP 0 vfccb0015bfyu046
+Touko: "They weren't destroyed."
+TP
+
+She returned a terribly philosophical answer.
+TP
+
+WVP 0 vfccb0015bfyu047
+Touko: "......they faded away into nothingness."
+TP
+
+
+WVS 1 1
+
+WT 500 0
+WT 1500 1
+RET

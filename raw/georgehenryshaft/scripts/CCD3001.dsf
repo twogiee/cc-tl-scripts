@@ -1,0 +1,58 @@
+
+
+
+
+
+
+GL 0 bgcc0006
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//四階。一年の教室。
+Fourth floor. First years' classroom.
+//CP CCC0011B
+TP
+
+
+//霧がいた。
+Kiri was here.
+//CP CCC0011B
+TP
+
+
+
+GL 0 evcc0027
+$CGevcc0027 = 1
+GS 0 1
+SEF 109 0
+
+//繊細な少女。
+A refined and delicate girl.
+TP
+
+
+//壊さないよう、壊れないよう。
+Do not break, do not be broken.
+//Do not break her & don't be broken by her + don't get broken so you won't break her + don't break her or you'll ruin this all. -GHS
+TP
+
+
+//……せめて、思い出を。
+...at most, memories.
+TP
+
+
+
+
+CSQ 0 1 1
+//　・接近する
+//　・声をかける
+ - Close in
+ - Greet her
+//CP CCC0011B
+//CP CCC0011B
+
+
+
+RET

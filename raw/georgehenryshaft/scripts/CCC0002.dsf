@@ -1,0 +1,463 @@
+
+TWS 7
+WVP 1 bgm020.ogg 0 0 0
+
+GO 5 0
+GL 0 bgcc0001b
+GS 0 1
+SEF 109 1
+GL 5 zzzCCC0041blend2
+GS 5 1
+GI 5 1
+//HACK tweaked so screen restores then whitens. Still looks surprisingly good. -GHS
+
+//崩壊寸前だった放送部の面々を集めて、合宿にまでこぎつけた。
+Piece by piece I gathered this Broadcast Club
+on the verge of downfall, until I had attained
+a Training Camp.
+TL
+//大変な苦労があった。
+There were an awful lot of hardship.
+TL
+//放送部の正式な部員は現在のところ、
+The official member roll of the Broadcast Club
+is, at this point in time:
+TL
+//支倉曜子
+Hasekura Youko,
+//Odd she's first. The members are not listed in an order I get (that includes the Japanese alphabetic one, after all KUrosu would go next to KIrihara). -GHS
+TL
+//宮澄見里
+Miyasumi Misato,
+TL
+//黒須太一
+Kurosu Taichi,
+TL
+//桜庭浩
+Sakuraba Hiroshi,
+TL
+//島友貴
+Shima Tomoki,
+TL
+//桐原冬子
+Kirihara Touko,
+TL
+//山辺美希
+Yamanobe Miki,
+TL
+//佐倉霧
+Sakura Kiri.
+TL
+//の八人。
+Eight people total.
+TL
+//この八人……合宿前段階で断絶の関係にあった。
+And these eight... had a severance of
+relations at a stage prior to the Camp.
+TP
+
+
+//まず曜子ちゃんは他人に興味ないので、部活になんて参加しない。
+First, Youko-Chan has no interest in other people,
+therefore she did not participate to activities.
+TL
+//桜庭はもともと放浪癖があって、定期的に部活に来るなんてのはありえない。
+Sakuraba has a vagabondist nature, so there was
+no him coming to activities on a regular basis.
+//Wanderlust for some reason reminds me of a vagrant rapist. Japanese is a bad influence, but so is German. -GHS
+TL
+//島はみみ先輩といさかいを起こして冷戦中。
+Shima was in the midst of a cold war with
+Mimi-senpai, raised by some quarrel.
+//One of the odd times he calls him by last name. -GHS
+TL
+//冬子は俺と冷戦中。
+Touko was in the midst of a cold war with me.
+TL
+//美希は愛想だけは良かったが、霧につきあって部とは距離を隔てた。
+Miki was fortunately sociable, at least, but she
+was separated from us the distance that is her
+Tagging Along with Kiri Club.
+//I'll spare the 'segregate' for this once, but that's the implied meaning. -GHS
+TL
+//霧は俺のこと嫌っているし。
+Kiri really hates me.
+TL
+//その俺もなんとなくサボっていたし。
+And I myself, for this or that reason, had
+been cutting.
+TP
+
+
+//みみ先輩が一人で、様々な処理を片づけていたらしい。
+Mimi-senpai seemed to be straightening up all
+sorts of various processes, all alone.
+//That's just this awfully vague... -GHS
+TL
+
+//HACK NEW LINES! Yay. -GHS
+//そんな彼女の姿を、よく目にしていた。
+And that figure of hers, acting that way, was
+something I saw often.
+TL
+//部室でたむろする俺たちに、何を言うこともなく。
+She didn't say one thing to us, who gathered
+in large numbers in that club room.
+//These new lines are pretty damn important. First, it was Misato (Taichi's muse, the angel) looking saddened at what was happening that pushed him to the Camp. Odd they still gathered in the room after the falling out... more odder giving that Misato hates more people in the club. (Or does she now? It's a dilemma, after all.) -GHS
+TL
+//その寡黙さは、何らかの感情の、裏返しだったのかも知れない。
+And that taciturnity may, just perhaps, have
+turned some emotion upside down.
+TP
+
+//ある時、俺の中で運動が起こった。
+There was a time when something moved inside
+of me.
+TL
+//自分の心のこととはいえ、うまく説明できない。
+Inside my heart it may have been, but I can't
+explain this well.
+//This is another running gag at this point in writing. Whether it means "I'm too lazy/uninspired to write this down" or "it's actually God's Influence" is harder to tell. In more ways than one. -GHS
+TL
+//思うに、限界が近かったのだと思う。
+In my opinion, the limit was close to being
+reached, I think.
+//This is strong evidence that he is about to explode, and in the same sense as Miyuki. And the trigger seems to be the distance of someone he likes, much like what caused him to rush to the rescue of Youko (the fool). -GHS
+TL
+//もし幸福な何かを得ることができたなら。
+Suppose I were to be able to gain a something
+blessed by happiness,
+TL
+//俺は終生、ビジョンとして記憶することができたはずだ。
+I would've been able to commit it to memory for
+all life, as a vision.
+//See CCZAS: this is a (reductive) explanation of the ending, in that he's living in a fantasy world of his imagination where everyone lives happily. And very possibly is already there, imagining everyone, having the same tension and resolution with them over and over as he randomly takes the reset, having long gone mad. I insist this is a troll: it ultimately contradicts the religious meaning of this all. It's just not an unwarranted conclusion to make, as it being a troll means it's intentionally written to mislead in that direction. -GHS
+TL
+//そんな映像的な記憶力を持っている。俺は。
+For I have a memory that movie-like. I do.
+//Look at how blatant it is! This is screaming that readers ought look at his memories (and in fact, at all he does) with the expectation that parts - perhaps large - are in fact memory leaks from his past. -GHS
+TP
+
+//ともかく。
+> 
+ 
+ 
+> 
+Regardless.
+//End new lines. -GHS
+TL
+
+//俺は奮起し、皆を集めた。
+I roused myself, and gathered everyone.
+TL
+//多少強引な手段でだ。
+With more or less coercive ways.
+TL
+//去年の海水浴も、似たような手を使った。
+I used similar ways for last year's beach
+outing as well.
+TL
+//一度引っ張り出せばこっちのものだ。
+If I drag them out once, then they are all mine.
+//Also "once I drag them out", but given the context, "if it worked once it'll always work" is more relevant. And purely delusional. -GHS
+TL
+//例年実施されていた夏合宿を敢行に至らしめた。
+And it all led to the daring establishment of the
+Mandatory Annual Summer Training Camp.
+//Since this is the first time (though some stuff about the survival games is suspicious), it's just a self-mockery of a name. -GHS
+TL
+//……大失敗だった。
+...it was a debacle.
+TL
+//教員に内緒でやったこともあるのだが。
+It was something done in secret from the
+teaching staff, but...
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+
+WVP 0 vmCCC0002yki000
+//友貴『……姉貴のせいだろ！』
+Tomoki: 『...it's all Aneki's fault!』
+TP
+
+
+WVP 0 vfCCC0002kri000
+//霧『不愉快です』
+Kiri: 『This is unpleasant.』
+TP
+
+
+WVP 0 vfCCC0002mki000
+//美希『……やめよぅよー、けんかーはー』
+Miki: 『...stooop it, no fightiiing!』
+TP
+
+
+//太一『ちょ、ちょ、だますとかだまされるとかでなくてさ！』
+Taichi: 『but-, but-, this isn't about deceiving nor about being deceived!』
+TP
+
+
+WVP 0 vfCCC0002fyu000
+//冬子『騙したんでしょ！』
+Touko: 『But you deceived did you!』
+TP
+
+
+WVP 0 vfCCC0002msa000
+//見里『だから……いやだったんです……みんなでなんて』
+Misato: 『I told you... it would not be nice... with all of us.』
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode. Yes, it's darkened this time. -GHS
+
+
+
+//揉めた。
+The frictions of dispute.
+//Yaaay 揉 once more used literally in the OTHER sense! -GHS
+TL
+//何も成し遂げられることはなかった。
+There was nothing accomplished.
+TL
+//人間関係はそのまま。
+These human relationships remained as that.
+TL
+//むしろ、はっきりと浮き彫りにされただけで。
+Rather, they were made as distinct as in a relief.
+TL
+//悲嘆と苦痛のうちに合宿は終わってしまった。
+And then the Training Camp home of sorrow and
+agony ended.
+//PCP CCC0001
+TL
+//数日間、俺たちは互いに言葉なく過ごした。
+Several days we passed with reciprocal
+words absent.
+TL
+//単体で会えば、まだ会話もできる。
+Conversation was still possible in single
+encounters apart from the rest,
+TL
+//けど複数の疎遠な人間関係が、多重になって、雰囲気は最悪だった。
+but when multiple, estranged human relationships
+overlapped, the atmosphere was terrible.
+TL
+//今回、みみ先輩の力を借りていた。
+This time, I had borrowed Mimi-senpai's strength.
+TL
+//おかげで先輩の信頼まで、なくしてしまうことになって。
+Because of this, what I lost went as far as
+Senpai's trust.
+TP
+
+
+//先輩は俺をどう思っただろうか。
+What does Senpai even think of me?
+//See CCA0006 -GHS
+TL
+//俺と、俺のやったことについて。
+Of what I've done, of what I've done to her?
+//HACK new line -GHS
+TL
+//七人は帰路に就いた。
+Seven people reached the way of return.
+//PCP CCB0001
+TL
+//俺は見たくなかった。
+I did not not want to see them.
+//CP CCC0001
+TL
+//憔悴し、倦怠し、視線を外しあって交わらせず。
+This exhaustion, this weariness, this averting
+of gazes that are never let cross.
+//CP CCC0001
+TL
+//そんな他人のようなみんなの顔を。
+Those faces of people strangers to each other.
+//CP CCC0001
+TL
+//だから先頭に立った。
+So I moved on ahead.
+//CP CCC0001
+TL
+//早足で、歩いた。
+I walked at a quick pace.
+TP
+
+GO 5 1
+GL 0 bgcc0015b
+GS 0 1
+SEF 152 0
+GI 5 1
+//HACK fade/return. This is still in NVL. -GHS
+
+//途中で日が暮れた。
+En route, the day grew darker.
+//CP CCB0001
+TL
+//ひどく長い時間、歩いていた気がする。
+There was this feeling of having walked for
+horribly long hours.
+//CP CCB0001
+TL
+//何時間も。
+A countless number of hours.
+//CP CCB0001
+TL
+//普段は一時間もかからない道だ。
+On a path that ordinarily never takes more
+than an hour.
+//CP CCB0001
+TL
+//疲労のせいか。
+Was it fatigue?
+//CP CCB0001
+TL
+//誰も何も言わなかった。
+No one said even one word.
+//CP CCB0001
+TL
+//七つの足音だけの世界だった。
+The sound of seven pairs of footsteps was
+the entire world.
+//CP CCB0001
+TL
+//異様に静かな山道。
+An unnaturally quiet mountain trail.
+//CP CCB0001
+TL
+//虫の音さえも耳に届かない。
+Not even the sound of insects reaches the ears.
+//CP CCB0001
+TL
+//空気までも冷たく感じさせる。
+A chilling sensation made by the mood alone,
+//CP CCB0001
+TL
+//夏だというのに。
+when however it is Summer.
+//CP CCB0001
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+WVS 1 1
+
+
+//その瞬間、
+That instant,
+TP
+
+
+GL 0 bgcc0015b
+GS 0 1
+SEF 10 0
+
+
+//世界がぶれたようだった。
+the world shook and blurred.
+//ぶれたよう -GHS
+TP
+
+
+//同じ風景が、違う側面から見たもののように感じられた。
+It was the same scene, but there was the feeling of it being seen from the wrong side.
+//Leaving it as 'wrong', though of course it works in both ways. The oddity is that he's nowhere near the hokora... is he? And see CCD0023: where is his *choice* of seeing this different world? This description is as if he just walks into it! -GHS
+TP
+
+
+//一度立ち止まった。
+I came to a halt once.
+TP
+
+
+//進んでいいものか、どうか。
+Should I advance on, should I not?
+TP
+
+
+//けど俺は進んだ。
+But I went on.
+TP
+
+
+WVP 0 vfCCC0002msa001
+//見里「ぺけくーん……」
+Misato: "Peke-kuuun...!"
+TP
+
+
+
+//背後から、先輩の声が追いかけてきた。
+Senpai's voice began chasing me from the back.
+//With the new line below, it's now obvious it's her voice that causes him to look back and 'involve' everyone in there. Just like his voice called him out from the Emo Darkness he was at the start. Or are the two events even separate at all? -GHS
+TP
+
+
+//けど俺は進んだ。
+But I went on.
+//CP from above
+TP
+
+
+//前向きに逃げていた。
+I fled towards what was ahead.
+TP
+
+
+//この時もし『見直して』いたら。
+If I had Taken a Better Look at that time,
+//Reviewed, revised, reflected, switched back his eyes... -GHS
+TP
+
+
+//あるいは立ち止まらなかったら。
+or perhaps if I had never come to a stop,
+TP
+
+//立ち止まって、振り返らなかったらーーー
+if I hadn't come to a stop and looked back---
+//HACK new line. This just brings it in line with CCD0023. -GHS
+TP
+
+
+//俺たちは道をあやまらずに済んだのだろうかと、考えてしまう。
+I was thinking about whether we could have ended up on the correct path without making any mistake.
+//Nice mess this one... -GHS
+TP
+
+
+
+
+
+TS 2
+SEF 109 0
+
+WT 1000 0
+
+
+
+GL 0 TITLE4
+GS 0 1
+WVP 1 seeye002 1 0 0
+SEF 10 1
+WT 5000 1
+TS 3
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+RET

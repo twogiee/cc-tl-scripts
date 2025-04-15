@@ -1,0 +1,26 @@
+And then I ran back again.
+Failure isn't allowed.
+Not at all.
+I have to be prudent.
+
+[Taichi]
+"Haa!......"
+
+Malice momentarily swelled up within me.
+It was similar to pubescent lust, and wasn't easy to disgorge.
+I spent the remaining few days at my house.
+I didn't contact anyone.
+Because I didn't want to endanger anyone.
+And then......Sunday.
+I silently waited for time to catch up with me.
+I don't know what everyone else did after that.
+How many versions of them have been rubbed out of existence?
+That heavy truth dazzled me.
+And then---
+$B = 1
+IF $SB_FALSE < 151 JMP L_INC
+JMP L_DODGE
+:L_INC
+$SB_FALSE + 1
+:L_DODGE
+IF $SB_FALSE > 149 $B = 2

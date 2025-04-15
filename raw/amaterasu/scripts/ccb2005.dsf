@@ -1,0 +1,413 @@
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+WT 500 0
+
+
+GL 0 bgcc0006
+GS 0 1
+GS 1 0
+SEF 152 0
+
+
+I entered the classroom.
+TP
+
+WVP 0 vfccb2005fyu000
+Touko: "Ah, Taichi......"
+TP
+WVP 1 bgm005.ogg 0 0 0
+GL 1 TCKT0006
+GP 1 230 0
+GI 1 1
+She ran up to me.
+TP
+
+Her attitude and vigor seemed to say, 'Will you eat now or take a bath?'
+TP
+
+Taichi: "I will eat while entering the bath."
+TP
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfccb2005fyu001
+Touko: "......fa?"
+TP
+
+Taichi: "Morning."
+TP
+
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfccb2005fyu002
+Touko: "Good...morning."
+TP
+
+Taichi: "You really came."
+TP
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfccb2005fyu003
+Touko: "Of course I did."
+TP
+
+Taichi: "......your belongings?"
+TP
+
+WVP 0 vfccb2005fyu004
+Touko: "At home."
+TP
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfccb2005fyu005
+Touko: "So will you come home with me?"
+TP
+
+Taichi: "Oooohhh."
+TP
+
+Hmmm.
+TP
+
+Ennui perhaps?
+//TL note? - pondrthis
+//Hmm, I've heard it but never seen it spelled before. Neat.-Spin
+TP
+
+This must be what it feels like to be a 22-year old playboy who hasn't played enough yet but somehow got himself married.
+TP
+
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfccb2005fyu006
+Touko: "I was wondering, 'What should I bring?' and searched all over the place."
+//"What should I bring?" would be cuter. Of course this is just personal opinion. - pondrthis
+TP
+
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfccb2005fyu007
+Touko: "And I found this old picture."
+TP
+
+She said happily.
+TP
+
+Taichi: "Hooo, an old picture."
+TP
+
+Taichi: "I still have a lot of them too, if that's what you want."
+TP
+
+WVP 0 vfccb2005fyu008
+Touko: "Really? You took that many?"
+TP
+
+Taichi: "......"
+TP
+
+
+If she meant an old (prohibited hair) picture (collection), then yes, I do have a lot.
+//Adds a better effect.-Spin
+TP
+
+
+I'm not lying.
+TP
+
+GL 1 TCKT0000
+GI 1 0
+WVP 0 vfccb2005fyu009
+Touko: "Good thing we didn't throw them away......I think I'll put them up on a wall."
+//Made it seem like she was talking about the school's wall.-Spin
+TP
+
+WVP 0 vfccb2005fyu010
+Touko: "There are enough to completely cover one."
+TP
+
+Taichi: "Ooohhh."
+TP
+
+I tried being surprised.
+TP
+
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfccb2005fyu011
+Touko: "Huhu!"
+TP
+
+She folded her arms around mine.
+TP
+
+Rapid development!!
+TP
+
+Dammit, this girl really is......
+TP
+
+I took an item out of my tool bag.
+TP
+
+*Tool Bag = Taichi's Goods. A canvas backpack also called the Taichi Bag. There are many secret tools in it.
+TP
+
+WVP 2 se100 1 0
+Without a moments delay, I "equipped" it!
+SEF 101 0
+TP
+
+Taichi: "Look at this, Kirihara."
+TP
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfccb2005fyu012
+Touko: "An armband?"
+TP
+
+The noblewoman strained her eyes.
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfccb2005fyu013
+Touko: "......I oppose......stupid couples......"
+TP
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfccb2005fyu014
+Touko: "I oppose stupid couples."
+TP
+
+Touko deciphered the words.
+//Actually, her first line was in hiragana, then her second was in kanji/katakana like it should be, while Taichi's line here says she converted [to kanji] by pressing the space bar as one does while typing in Japanese. I can't think of a way to adapt this. Å`IX
+//Sounds good.-Spin
+TP
+
+Taichi: "That's right. From my position, I see the grave influence that stupid couples exert on their surroundings, and make every effort to control their firmly unregulated attitude."
+//If it was "regulated" then he wouldn't need to control it.-Spin
+TP
+
+Taichi: "Unfold your arms."
+TP
+
+I shook her off.
+TP
+GL 1 TCKT0002
+GI 1 0
+WVP 0 vfccb2005fyu015
+Touko: "Not that this is unusual......but I don't understand what you're saying."
+TP
+
+Taichi: "Refrain from public displays of senseless affection."
+TP
+GL 1 TCKT0006
+GI 1 0
+WVP 0 vfccb2005fyu016
+Touko: "But...there aren't any people......"
+TP
+
+Taichi: "There are a few."
+TP
+
+GL 1 TCKT0002
+GI 1 0
+
+WVP 0 vfccb2005fyu017
+Touko: "Uuu."
+TP
+
+She was unsatisfied.
+TP
+
+Taichi: "Kirihara, you're good as a reverse competitive girl."
+TP
+
+GL 1 TCKT0004
+GI 1 0
+WVP 0 vfccb2005fyu018
+Touko: "Haa?"
+TP
+
+Taichi: "But you're going way too far with the sweetness! You have too much juice! Go on with a more thoroughly competitive spirit! Carefully select times to be embarrassed. That's far more moe......and it's for your sake as well, Kirihara."
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfccb2005fyu019
+Touko: "Ha? Haa......"
+TP
+
+Taichi: "You're the sort of girl who's like a precious jewel."
+TP
+
+I placed one hand on her shoulder.
+TP
+
+
+GL 1 TCKT0006
+GI 1 0
+WVP 0 vfccb2005fyu020
+Touko: "Eh?! (heartbeat)"
+TP
+
+Taichi: "That sparkle surpasses the diamond......yet it is sad, for diamonds are carbon to be burned up in flames. Goddamn! I fully understand how foolish it is to hold one's hard-earned wealth in diamonds."
+TP
+
+I pulled part of her hair up to my nose, and enjoyed the fragrance.
+TP
+
+
+GL 1 TCKT0000
+GI 1 0
+
+WVP 0 vfccb2005fyu021
+Touko: "???"
+TP
+
+Taichi: "You have good and bad points. Please understand that, my wonderful maiden."
+//"Lady" felt out of place there since it's such a common word. "Maiden" while still somewhat common, I know, should have a better connotation.-Spin
+TP
+
+GL 1 TCKT0005
+GI 1 0
+
+WVP 0 vfccb2005fyu022
+Touko: "I don't really understand...but I get it."
+//"Understand" just stuck out too much.-Spin
+TP
+
+Taichi: "So now you know?"
+TP
+
+GL 1 TCKT0006
+GI 1 0
+
+WVP 0 vfccb2005fyu023
+Touko: "......Taichi, it's embarrassing to be clingy in front of people."
+TP
+
+Taichi: "Whanii?"
+TP
+
+Her rather significant misunderstanding caused my mouth to form a question pronounced not unlike how one addresses an older brother.
+//Hmmm... Kinda loses its flair in translation. If you're willing to move away from really literal translation, maybe "whaaaaaaat" and make it sound like "hot", "at", or any other number of English words. - pondrthis
+TP
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfccb2005fyu024
+Touko: "So you do have a cute side."
+TP
+WVP 2 se029 1 0
+SEF 101 0
+She slapped my back.
+TP
+
+She finds me moe?
+TP
+
+Someone such as I, Kurosu Taichi, who happens to be plagued by Body Dysmorphic Disorder, is seen as moe!!?
+//Sorry, too lazy today to phrase this one better. Enjoy. Å`IX
+//Don't know if someone changed this one too but it seems fine to me.-Spin
+TP
+
+Can that be allowed?
+TP
+
+
+I say nay!
+TP
+
+
+Taichi: "Yai! Kirihara!"
+TP
+
+
+GL 1 TCKT0006
+GI 1 0
+*kiss*
+TP
+
+
+I was kissed.
+TP
+
+On the forehead.
+TP
+
+My excitement circuit shorted itself out.
+TP
+
+WVP 0 vfccb2005fyu025
+Touko: "......ehehe."
+TP
+
+She laughed innocently.
+TP
+
+Th...this......
+TP
+
+Dammit!
+TP
+
+She's cute!
+TP
+
+WVP 0 vfccb2005fyu026
+Touko: "Kya?"
+TP
+
+I hugged her.
+TP
+
+Ku! I've failed.
+TP
+
+But I won't be controlled anymore!
+TP
+
+WVP 0 vfccb2005fyu027
+Touko: "......purr...purr."
+TP
+
+Not I! Not by such onomatopoeic words!
+TP
+
+WVP 0 vfccb2005fyu028
+Touko: "Purrrrr...purr."
+TP
+
+Touko imitated a cat by scratching my chest.
+TP
+
+Taichi: "FuyaaaaaaÅÙ"
+TP
+
+I'm melting away...
+TP
+WVS 1 1
+
+
+And thus, a stupid couple was born.
+TP
+
+RET

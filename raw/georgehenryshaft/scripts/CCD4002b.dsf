@@ -1,0 +1,182 @@
+
+
+//太一「あー、ちょっとちょっと」
+Taichi: "Ahhh, wait waiiit!"
+//PCP CCD1001
+//Same sentence Misato used along her invitations of Taichi. -GHS
+TP
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfCCD4001mki023
+//美希「はい？」
+Miki: "Yes?"
+TP
+
+
+//太一「ここはあえて、俺と遊ぼうよ」
+Taichi: "I dare you to come play with me, right here, right now!"
+TP
+
+
+//美希は停止した。
+Miki came to a halt.
+TP
+
+
+//やはり経験値がない分、反応が鈍い。
+Expectedly from her low XP status, her responses lack sharpness.
+TP
+GL 1 TCYM0000
+GI 1 0
+
+
+WVP 0 vfCCD4001mki024
+//美希「……二人、だけで？」
+Miki: "...just... the two of us?"
+TP
+
+
+//太一「無粋なやつだな。つまりデートに誘ってるんだ」
+Taichi: "That was unromantic way of saying it, yeah. In short, I'm inviting you to a date."
+TP
+
+
+WVP 0 vfCCD4001mki025
+//美希「でーと」
+Miki: "Date."
+//I hate dates. They are almost as horrifying as avocados... and I'm pretty sure avocados are evil. -GHS
+TP
+
+
+//無意味に繰り返す。
+Meaninglessly repeating my words.
+//PCP CCA0008
+TP
+
+
+//太一「デートに第三者なんぞいらん。二人だけの閉塞した小世界でいい」
+Taichi: "We don't need no third wheels on a date. Better a tiny closed world of just the two of us."
+//NOT 'sealed space'. -GHS
+TP
+
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCD4001mki026
+//美希「なるほど……」
+Miki: "I see..."
+TP
+
+
+//圧倒されて納得したらしい。
+Seems like she's consenting due to being overwhelmed.
+//She will NOT get out of her comfort zone without being pulled along, no more than a child will grow into an adult without some measure of effort to pull him along. -GHS
+TP
+
+
+//太一「時間は取らせないぜ」
+Taichi: "I won't take too much of your time now."
+TP
+
+
+//太一「というか、霧だってたまには一人になりたい時だってあるだろうさ」
+Taichi: "Or should I say, every once in a while Kiri would want some time to be alone, I'm sure."
+TP
+
+
+WVP 0 vfCCD4001mki027
+//美希「……はい、じゃあ」
+Miki: "...yes, then..."
+TP
+
+
+//太一「よし、では学校には戻らず団地方向に行こう」
+Taichi: "Good. Well then, let's head in the direction of your apartments and not return to school."
+TP
+//GL 1 TCYM0001
+GL 1 TCYM0002
+//HACK -redisplay doll +new doll -GHS
+GI 1 0
+
+
+WVP 0 vfCCD4001mki028
+//美希「……あ、でも様子見ておきたいのですが……」
+Miki: "...ah, but I want to go look at how she's doing..."
+TP
+
+
+//太一「いーからいーから」
+Taichi: "It's fiiine, it's fiiine."
+TP
+
+//GL 1 TCYM0002
+GL 1 TCYM0004
+//HACK Gnyamyeooow -GHS
+GI 1 0
+
+WVP 0 vfCCD4001mki029
+//美希「ぎゃにゃー」
+Miki: "G'nyamyeooow!"
+//Lo, they are combined once more! -GHS
+TP
+GO 1 1
+
+//引っ張っていく。
+I haul her away.
+TP
+
+
+//今の美希は、一度沈むと取り返しがつかないだろう。
+Once she sinks into depression, Miki as she is now will likely be unrecoverable.
+//Though Kiri can... maybe. More hints that even Week 1 Miki was unlooping, since she had enough XP to show up throughout the week. -GHS
+TP
+
+
+//脆い。
+Brittle.
+//Word usually used for Kiri. -GHS
+TP
+
+
+//けど普通ってことだ。
+But that's her being normal.
+TP
+
+
+//普通の、女の子ってことだ。
+It's her being a normal girl.
+TP
+
+
+//不安なんだろう。霧がいなくて。
+Of course she's anxious. Kiri is here no more.
+TP
+
+
+//一週間、気を引ければそれでいい。
+If I can get my hooks into her in this one week, if I can attract her affection, we'll be good.
+TP
+
+
+//彼女は日常に戻る。
+She will return to her usual life.
+TP
+
+
+//けど、ただ送還するだけじゃ意味がない。
+But mere repatriation alone would be meaningless.
+TP
+
+
+//俺が彼女から、多少のものを得る必要があるんだ。
+I have a need to obtain a little thing or two from her.
+TP
+
+
+
+WVS 1 1
+
+
+
+RET

@@ -1,0 +1,18 @@
+WCLOSE 0
+WOPEN 0 NOVEL 0 0 640 480
+$loop = 0
+$loopD = 0
+$SB_FALSE = 0
+$KIRIBAD = 0
+$KIRI = 0
+$MIKI = 0
+$MISATO = 0
+$YOKO = 0
+$TOKO = 0
+$SB_KRI = 0
+$SB_MKI = 0
+$SB_MSA = 0
+$SB_YKO = 0
+$SB_TKO = 0
+$SB_SKU = 0
+JF scr

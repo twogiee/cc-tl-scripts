@@ -1,0 +1,11 @@
+# Ignore specific translation folder contents except scripts
+raw/moenovel/*
+!raw/moenovel/scripts/
+raw/amaterasu/*
+!raw/amaterasu/scripts/
+raw/georgehenryshaft/*
+!raw/georgehenryshaft/scripts/
+
+# Ignore other files in raw
+raw/*.exe
+raw/*.dll 

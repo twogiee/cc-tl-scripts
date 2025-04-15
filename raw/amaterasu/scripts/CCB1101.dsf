@@ -1,0 +1,2041 @@
+WVP 1 bgm012.ogg 0 0 0
+
+
+
+GL 1 TCMM0002c
+GI 1 1
+
+
+WVP 0 vfCCB1101msa000p
+Misato: "An-anyway, let's all calm down a bit, okay?"
+//CP_T cca0025c
+TP
+
+Taichi: "......impossible. No man can pull back after coming this far."
+TP
+
+
+GL 1 TCMM0005c
+GI 1 0
+
+
+WVP 0 vfCCB1101msa000
+Misato: "Even if you say that..."
+TP
+
+Taichi: "Back then,"
+TP
+
+
+GL 1 TCMM0000c
+GI 1 0
+
+
+WVP 0 vfCCB1101msa001
+Misato: "......eh?"
+TP
+
+Taichi: "During my first year, when I was all alone,"
+TP
+
+Taichi: "You talked to me a lot on the roof."
+TP
+
+
+
+GL 1 TCMM0003c
+GI 1 0
+
+
+WVP 0 vfCCB1101msa002
+Misato: "That's......because we saw each other a lot up there......"
+TP
+
+Taichi: "Sempai, you saved me. You pulled me out of the darkness."
+TP
+
+Taichi: "I wasn't really able to enter the Broadcasting Club, was I?"
+TP
+
+Taichi: "Because my adaptation coefficient was too high......"
+TP
+
+Taichi: "But, didn't you invite me anyway?"
+TP
+
+Taichi: "And you pulled some strings so that I could truly enter the club."
+TP
+
+WVP 0 vfCCB1101msa003
+Misato: "............"
+TP
+
+Taichi: "I know because I did some digging."
+TP
+
+WVP 0 vfCCB1101msa004
+Misato: "That's because......I was alone in the club......and it didn't seem healthy......to participate in......an empty club...yan!"
+TP
+
+Taichi: "Stop moving so I can take it off."
+TP
+
+
+
+GL 1 TCMM0004c
+GI 1 0
+
+
+WVP 0 vfCCB1101msa005
+Misato: "Don't take it off!"
+TP
+
+Taichi: "I will. Decisively."
+TP
+
+
+GL 1 TCMM0003c
+GI 1 0
+
+
+WVP 0 vfCCB1101msa006
+Misato: "Ah......I said no......no!"
+TP
+
+Taichi: "If you extend your hand to someone......there's a relationship there."
+TP
+
+Taichi: "They'll be thankful, and bear you goodwill."
+TP
+
+Taichi: "It's only natural that I......want to do it with Sempai."
+TP
+
+GL 1 TCMM0005c
+GI 1 0
+
+
+WVP 0 vfCCB1101msa007
+Misato: "Bu-but I......ah......I'm telling you, no......"
+TP
+
+Taichi: "Then......you'll reject me?"
+TP
+
+Taichi: "You can just return me to my former darkness."
+TP
+
+Taichi: "If you did that......even I wouldn't resist too strongly."
+TP
+
+Taichi: "I won't think of making another connection again."
+TP
+
+
+GL 1 TCMM0003c
+GI 1 0
+
+
+WVP 0 vfCCB1101msa008
+Misato: "......it's unfair......to say it that way......"
+TP
+
+Taichi: "Yes, it is unfair."
+TP
+
+Taichi: "I am......unfair."
+TP
+
+I took off her suspenders.
+TP
+
+I undid her buttons.
+TP
+
+
+GO 1 1
+
+IF $nonero == 1 JMP mimiHend1
+
+
+WVP 0 vfCCB1101msa009
+Misato: "No, no!"
+TP
+
+I grabbed her hand.
+TP
+
+Taichi: "Then......I'll just look."
+TP
+
+WVP 0 vfCCB1101msa010
+Misato: "Just...look?"
+TP
+
+Taichi: "I'll just look at Sempai's breasts."
+TP
+
+WVP 0 vfCCB1101msa011
+Misato: "You know I can't let you do that......"
+TP
+
+I kept undoing buttons.
+TP
+
+One by one.
+TP
+
+Taichi: "You touched me."
+TP
+
+WVP 0 vfCCB1101msa012
+Misato: "......no......no......no......"
+TP
+
+Taichi: "I'll look."
+TP
+
+I opened her blouse.
+TP
+
+WVP 0 vfCCB1101msa013
+Misato: "............nn."
+TP
+
+I laid my fingers on top of her bra.
+TP
+
+WVP 0 vfCCB1101msa014
+Misato: "No, noooo."
+TP
+
+
+
+GL 0 evcc0012
+$CGevcc0012 = 1
+GS 0 1
+SEF 109 0
+
+
+I gripped the cloth and softly pulled it up.
+TP
+
+Whiteness burst forth.
+TP
+
+Two spheres bounced.
+TP
+
+WVP 0 vfCCB1101msa015
+Misato: "Uuuuuuu."
+TP
+
+Taichi: "Beautiful."
+TP
+
+That word came out naturally.
+TP
+
+Taichi: "Aren't they beautiful?"
+TP
+
+Well-formed, voluptuous, and white.
+TP
+
+So charming it hurt.
+TP
+
+WVP 0 vfCCB1101msa016
+Misato: "......I've been told......it's over for me as a woman, if someone looks at them......"
+TP
+
+Taichi: "Those were lies."
+TP
+
+Taichi: "This isn't the end of anything."
+TP
+
+Either way, after making her show me these, I can't hold back.
+TP
+
+WVP 0 vfCCB1101msa017
+Misato: "Peke-kun......that's cruel......"
+TP
+
+Taichi: "Yes, I am cruel."
+TP
+
+Taichi: "You chose a terrible man to talk to."
+TP
+
+WVP 0 vfCCB1101msa018
+Misato: "Th-this wasn't what I......such impure......acts ......suspension......"
+TP
+
+I touched her with both hands.
+TP
+
+WVP 0 vfCCB1101msa019
+Misato: "Kya......nn......"
+TP
+
+I slowly massaged her.
+TP
+
+WVP 0 vfCCB1101msa020
+Misato: "Nn......nnnn......n......"
+TP
+
+Taichi: "This sense of mass is amazing. And it feels great."
+TP
+
+My fingers sunk into them.
+TP
+
+Each of my five fingers was covered up.
+TP
+
+Skin adhered to skin, calmly exchanging heat.
+TP
+
+WVP 0 vfCCB1101msa021
+Misato: "......a......aaah......"
+TP
+
+As I gripped lightly, they became fluffy and comfortable.
+TP
+
+My fingertips became an erogenous zone, conveying the sensation.
+TP
+
+My brain was stimulated via the spinal cord, and returning down the same path, it changed into a hazy burning around my hips.
+TP
+
+My animal passions began to rouse.
+TP
+
+I squeezed upward.
+TP
+
+Becoming mad.
+TP
+
+WVP 0 vfCCB1101msa022
+Misato: "Nn......nnnnnnn......fuku!......nn!......please don't squeeze so hard......"
+TP
+
+No, I want to squeeze hard.
+TP
+
+I wanted to squeeze them even harder.
+TP
+
+WVP 0 vfCCB1101msa023
+Misato: "St-strong......that's too strong......ha, aan......nnnn......"
+TP
+
+I pushed them together.
+TP
+
+The valley closed up, forming a dark sexy line.
+TP
+
+I pushed them even closer together.
+TP
+
+WVP 0 vfCCB1101msa024
+Misato: "......yan......"
+TP
+
+Her nipples were nearly touching.
+TP
+
+Something men could never do.
+TP
+
+My excitement grew.
+TP
+
+WVP 0 vfCCB1101msa025
+Misato: "......nnn, nn......!......uun......"
+TP
+
+Sempai's breathing was charming.
+TP
+
+I pushed the palm of my hand down.
+TP
+
+Her breasts squished flat. Yet they wouldn't flatten completely.
+TP
+
+There was the sensation that something truly existed there.
+TP
+
+WVP 0 vfCCB1101msa026
+Misato: "Don't squash theeeem......"
+TP
+
+Then, I'll pull them.
+TP
+
+While gripping them like an eagle.
+TP
+
+Her flesh stretched.
+TP
+
+WVP 0 vfCCB1101msa027
+Misato: "No, they'll tear, they're going to tear off......!"
+TP
+
+Slightly worried, her hands shot up.
+TP
+
+I kissed the back of her hand, then sucked on her finger.
+TP
+
+WVP 0 vfCCB1101msa028
+Misato: "Ah......heyyy......"
+TP
+
+Taichi: "They won't tear."
+TP
+
+I smiled.
+TP
+
+WVP 0 vfCCB1101msa029
+Misato: "......oooh......everything you say is so embarrassing......can't you be a bit more romantic......?"
+TP
+
+I fondled forcefully.
+TP
+
+Her breasts freely reshaped themselves in various directions.
+TP
+
+WVP 0 vfCCB1101msa030
+Misato: "Uu......my breasts are......like toys......"
+TP
+
+Taichi: "Isn't that a good thing? I'll take your breasts, Sempai."
+TP
+
+Taichi: "So that I can touch them whenever I like."
+TP
+
+WVP 0 vfCCB1101msa031
+Misato: "That's......"
+TP
+
+Taichi: "I'll give Sempai something in exchange."
+TP
+
+WVP 0 vfCCB1101msa032
+Misato: "?"
+TP
+
+Taichi: "But that comes later."
+TP
+
+I touched my lips to her cheek.
+TP
+
+I bit down on the bridge of her glasses and took them off.
+TP
+
+WVP 0 vfCCB1101msa033
+Misato: "Ah......no......don't take them off."
+TP
+
+Taichi: "Why not?"
+TP
+
+WVP 0 vfCCB1101msa034
+Misato: "I want to be able to see......"
+TP
+
+That makes sense.
+TP
+
+I left her glasses on.
+TP
+
+Then I continued the massage, doing it in such a way that she could see everything.
+TP
+
+WVP 0 vfCCB1101msa035
+Misato: "Uuuu......how long are you going to keep doing this...?"
+TP
+
+Taichi: "Until I get tired of it."
+TP
+
+Although I think that might never happen.
+TP
+
+A captivating, dynamic pair of hills.
+TP
+
+Because of them my flesh took on heat.
+TP
+
+Taichi: "It's warm, isn't it?"
+TP
+
+WVP 0 vfCCB1101msa036
+Misato: "........................"
+TP
+
+Taichi: "Maybe the heat of my hands transferred to you, or perhaps Sempai's breasts are getting excited."
+TP
+
+WVP 0 vfCCB1101msa037
+Misato: "My breasts are not that perverted."
+TP
+
+Taichi: "But they are sweating a little at the tips."
+TP
+
+WVP 0 vfCCB1101msa038
+Misato: "No......don't say that......I'll die......"
+TP
+
+As she said, her breasts were trembling with shame.
+TP
+
+A very small quantity of sweat lightly moistened the surface, giving them a nice luster.
+TP
+
+I tried cupping my hands around them and shaking them.
+TP
+
+The tips bounced without direction.
+TP
+
+Like small boats being thrown around on the waves.
+TP
+
+WVP 0 vfCCB1101msa039
+Misato: "......nooo......don't shake them......"
+TP
+
+I really might keep playing with them forever.
+TP
+
+But it'd be laughable to ejaculate just from fondling breasts.
+TP
+
+Taichi: "Here I go."
+TP
+
+WVP 0 vfCCB1101msa040
+Misato: "Eh? What?"
+TP
+
+I whispered as my face approached her.
+TP
+
+My mouth attached itself to her white chest.
+TP
+
+WVP 0 vfCCB1101msa041
+Misato: "Ow!"
+
+TP
+
+I used my teeth to push down on the entirety of her sensitive membranes.
+TP
+
+WVP 0 vfCCB1101msa042
+Misato: "......nnn............nn......"
+TP
+
+I sucked.
+TP
+
+WVP 0 vfCCB1101msa043
+Misato: "Uu!......kya!"
+TP
+
+It made a sound.
+TP
+
+WVP 0 vfCCB1101msa044
+Misato: "P-please stop......your mouth......is so......hiu!......kya!"
+TP
+
+Making them adhere to all of my oral cavity, I licked it all around.
+TP
+
+I made them drip with saliva.
+TP
+
+WVP 0 vfCCB1101msa045
+Misato: "Nooo......stop, that......you......pervert!"
+TP
+
+I chewed softly, tasting her flesh.
+TP
+
+WVP 0 vfCCB1101msa046
+Misato: "Uuuu, I'm being, eaten......my breasts, are being......"
+TP
+
+That might be the case.
+TP
+
+The fact that I want to combine her breasts and hips with my mouth is close to an instinct.
+TP
+
+Taichi: "And I'm going to keep eating them."
+TP
+
+WVP 0 vfCCB1101msa047
+Misato: "I'm...Peke-kun's......food......"
+TP
+
+Taichi: "And you're delicious."
+TP
+
+I ate her areolas.
+TP
+
+WVP 0 vfCCB1101msa048
+Misato: "Nn!"
+TP
+
+Her jaw jumped.
+TP
+
+Her white throat bent like a bow.
+TP
+
+With my tongue I poked at the prey captured inside my mouth.
+TP
+
+WVP 0 vfCCB1101msa049
+Misato: "Nnn! Ha! Nnnkakakaaa!!"
+TP
+
+Her body twisted.
+TP
+
+Did that tickle? She was trying to run away.
+TP
+
+I won't let her.
+TP
+
+I rolled my tongue around her protrusions.
+TP
+
+WVP 0 vfCCB1101msa050
+Misato: "Huunn! Nn, that, stop......don't!"
+TP
+
+While sucking hard, I pulled up my mouth.
+TP
+
+WVP 0 vfCCB1101msa051
+Misato: "I-I'm being sucked......sucked up......"
+TP
+
+When the plump things left my mouth, the inside of it no longer felt as if it were being stimulated by opiates.
+TP
+
+My strong vacuum only held her nipples.
+TP
+
+WVP 0 vfCCB1101msa052
+Misato: "Ah! Nnn! Ah, aaah!!"
+TP
+
+She held my head.
+TP
+
+Reflexively pulling me closer.
+TP
+
+It seemed almost as if she wanted me to suck more.
+TP
+
+Without weakening my suction, I pulled all the way back.
+TP
+
+WVP 0 vfCCB1101msa053
+Misato: "Uuuu!!"
+TP
+
+It made a splendid noise.
+TP
+
+Sempai's face was colored with shame.
+TP
+
+WVP 0 vfCCB1101msa054
+Misato: "......noooo, I want to die......"
+TP
+
+Taichi: "I'll make you want that even more."
+TP
+
+WVP 0 vfCCB1101msa055
+Misato: "Eh......Eeeh!?"
+TP
+
+I reflexively repeated the same treatment of her breasts.
+TP
+
+WVP 0 vfCCB1101msa056
+Misato: "Hya, nnn, uun......ah, ow......you'll pull them off!!"
+TP
+
+WVP 0 vfCCB1101msa057
+Misato: "Kya......noo, no, no......fua, if you lick that much......they'll wrinkle......"
+TP
+
+WVP 0 vfCCB1101msa058
+Misato: "Ah! Nn, nn!......haa, uun......I'm, going......numb......my, breasts......I have no idea......"
+TP
+
+WVP 0 vfCCB1101msa059
+Misato: "Hauuu......ag-, again, the tips......nn!!"
+TP
+
+WVP 0 vfCCB1101msa060
+Misato: "Haku! Too strong......if you suck that hard......they're, they're going to change shape!"
+TP
+
+They were rolling, softening, and transforming as I wanted.
+TP
+
+Taichi: "Sempai's breasts......they're quite sticky now, aren't they?"
+TP
+
+WVP 0 vfCCB1101msa061
+Misato: "Sticky......that's, cruel......"
+TP
+
+Taichi: "But they're mine."
+TP
+
+WVP 0 vfCCB1101msa062
+Misato: "Yours......?"
+TP
+
+Taichi: "Yes. These things of Sempai's are mine."
+TP
+
+WVP 0 vfCCB1101msa063
+Misato: "......gusu......that's......"
+TP
+
+Taichi: "Nice, isn't it?"
+TP
+
+WVP 0 vfCCB1101msa064
+Misato: "............"
+TP
+
+I twisted her nipples.
+TP
+
+Taichi: "Your answer?"
+TP
+
+WVP 0 vfCCB1101msa065
+Misato: "Kya!......ye-yes......"
+TP
+
+Taichi: "Please say it properly."
+TP
+
+WVP 0 vfCCB1101msa066
+Misato: "These are yours."
+TP
+
+Taichi: "More properly."
+TP
+
+WVP 0 vfCCB1101msa067
+Misato: "My breasts, are Peke-kun's......"
+TP
+
+Taichi: "Nicely done."
+TP
+
+Though it took her a long time.
+TP
+
+I sucked her lips.
+TP
+
+WVP 0 vfCCB1101msa068
+Misato: "Ah......"
+TP
+
+My nose touched her glasses.
+TP
+
+I continued anyway.
+TP
+
+WVP 0 vfCCB1101msa069
+Misato: "Nn......nnnn......"
+TP
+
+Gentle contact.
+TP
+
+Her body's resistance left.
+TP
+
+I deepened the kiss slightly.
+TP
+
+Flower petals pivoted on their axes.
+TP
+
+WVP 0 vfCCB1101msa070
+Misato: "Nn......"
+TP
+
+Sempai seemed a little surprised.
+TP
+
+Her eyebrows narrowed.
+TP
+
+But,
+TP
+
+She gave up and opened her mouth.
+TP
+
+I pushed in.
+TP
+
+I knocked on her gum, stepped into her oral cavity and twisted around Sempai's tongue.
+TP
+
+I pulled her mouth closer to mine as if kidnapping it.
+TP
+
+WVP 0 vfCCB1101msa071
+Misato: "Nnnnnnn! Nn! Nnnn......"
+TP
+
+Her shoulders shook, but she endured.
+TP
+
+Ignoring the drool, I licked her tongue.
+TP
+
+WVP 0 vfCCB1101msa072
+Misato: "Nn......nnhu! Nn......nnnnnn......"
+TP
+
+I released her.
+TP
+
+Our tongues curled back into place.
+TP
+
+Taichi: "No Sempai, you have to stick your tongue out."
+TP
+
+WVP 0 vfCCB1101msa073
+Misato: "Noo, such a perverted......"
+TP
+
+Taichi: "It's normal."
+TP
+
+WVP 0 vfCCB1101msa074
+Misato: "Really?"
+TP
+
+Taichi: "Everyone does it."
+TP
+
+WVP 0 vfCCB1101msa075
+Misato: "............"
+TP
+
+Taichi: "Now, stick it out so I can lick it."
+TP
+
+WVP 0 vfCCB1101msa076
+Misato: "......"
+TP
+
+Full of hesitation.
+TP
+
+I held her chin up as if to rush her, and,
+
+WVP 0 vfCCB1101msa077
+Misato: "......o......kay."
+TP
+
+She resigned, and stuck out her tongue.
+TP
+
+She extended it vertically.
+TP
+
+I licked it.
+TP
+
+WVP 0 vfCCB1101msa078
+Misato: "Nn, nnnn......nn, hya, fuhya!......"
+TP
+
+Her pink organ folded and sharpened. I made love to it.
+TP
+
+I moved my saliva into her mouth, and both our salivae flowed down to the base of her tongue.
+TP
+
+Ending with a light kiss, I pushed everything into her.
+TP
+
+WVP 0 vfCCB1101msa079
+Misato: "Huuun......"
+TP
+
+Taichi: "Did that feel good?"
+TP
+
+WVP 0 vfCCB1101msa080
+Misato: "......yes."
+TP
+
+Taichi: "Do you want to do more of that?"
+TP
+
+WVP 0 vfCCB1101msa081
+Misato: "Yes, more......with you......"
+TP
+
+Taichi: "Very well. I'll do that anytime you like."
+TP
+
+Taichi: "But, let's put it on hold for now."
+TP
+
+WVP 0 vfCCB1101msa082
+Misato: "......eh?"
+TP
+
+Taichi: "Right now---"
+TP
+
+My finger fell to her lower abdomen.
+TP
+
+I brushed aside her pubic hair and touched her private parts.
+TP
+
+WVP 0 vfCCB1101msa083
+Misato: "Wh-what?"
+TP
+
+She finally noticed that she wasn't wearing underwear.
+TP
+
+Taichi: "......I took it off while we were kissing. Didn't you notice?"
+TP
+
+WVP 0 vfCCB1101msa084
+Misato: "No, th, that's......"
+TP
+
+Taichi: "Also......you're already wet."
+TP
+
+My finger slid inside, up to the first joint.
+TP
+
+WVP 0 vfCCB1101msa085
+Misato: "Kya!!"
+TP
+
+Taichi: "Sempai, this part of you seems really lonely."
+TP
+
+WVP 0 vfCCB1101msa086
+Misato: "......wh-what are you saying......nn! No, any farther in and......"
+TP
+
+Taichi: "It's all right."
+TP
+
+A swell of unmanageable emotions.
+TP
+
+They made tears well up in Sempai's eyes.
+TP
+
+Taichi: "This time, I'll kiss you down here."
+TP
+
+WVP 0 vfCCB1101msa087
+Misato: "Aaaaaahhh......"
+TP
+
+Sempai blankly watched my face fall to the bottom of her field of vision.
+TP
+
+
+........................
+TP
+
+
+And then---
+TP
+
+
+
+I scattered Mimi-sempai.
+TP
+
+
+GL 0 evcc0013
+$CGevcc0013 = 1
+GS 0 1
+SEF 109 0
+
+
+WVP 0 vfCCB1101msa088
+Misato: "......nn! Haaa......!!!"
+TP
+
+Her hips stuck together, not moving.
+TP
+
+Sempai's insides were meaty, with coarse undulations.
+TP
+
+Taichi: "Amazing......Sempai."
+TP
+
+WVP 0 vfCCB1101msa089
+Misato: "......uah......?"
+TP
+
+As her mouth hung open, an indeterminate moan poured out from it.
+TP
+
+Taichi: "Does it hurt?"
+TP
+
+WVP 0 vfCCB1101msa090
+Misato: "......I do-......don't know."
+TP
+
+WVP 0 vfCCB1101msa091
+Misato: "Amazing......something big is......pushing me open......just that is......"
+TP
+
+Taichi: "Sempai......"
+TP
+
+WVP 0 vfCCB1101msa092
+Misato: "This is my......first time...being violated......by a boy......"
+TP
+
+That's right.
+TP
+
+I violated her, half by force.
+TP
+
+I did that to Sempai.
+TP
+
+I rubbed her butt.
+TP
+
+I'm entering in there.
+TP
+
+A sensual image.
+TP
+
+WVP 0 vfCCB1101msa093
+Misato: "Ah! No! Stop! Don't make it any bigger......"
+TP
+
+Taichi: "But Sempai..."
+TP
+
+An abnormal passion which won't come when doing it alone.
+TP
+
+WVP 0 vfCCB1101msa094
+Misato: "Ha, han, I'm, I'm being torn open."
+TP
+
+I tried moving a few times.
+TP
+
+The tip, which had enlarged beyond its limit, was being thoroughly rubbed by her vagina.
+TP
+
+So strongly that it seemed to make a rough sound.
+TP
+
+The sensuality made my hair stand on end.
+TP
+
+If I let up, I might really climax multiple times.
+TP
+
+I'd been getting sensitive.
+TP
+
+I wonder if Sempai was too.
+TP
+
+WVP 0 vfCCB1101msa095
+Misato: "Kyafu!......afu! Nn! Nnn, nnn, nn!!!"
+TP
+
+Since we're rubbing the same areas against each other, it's not strange that we feel it to the same degree.
+TP
+
+In order to extend the pleasure, I had no choice but to enter at a slow speed.
+TP
+
+WVP 0 vfCCB1101msa096
+Misato: "Aaah, aaaaah, nn, uaa, aaaah......"
+TP
+
+Rubbing, and rubbing.
+TP
+
+The stimuli increased in rings.
+TP
+
+It seemed like Sempai felt this strong sensuality in another form.
+TP
+
+WVP 0 vfCCB1101msa097
+Misato: "......uaa, ah, aaah......han, haa......"
+TP
+
+WVP 0 vfCCB1101msa098
+Misato: "It's big...too big......"
+TP
+
+Words with unheard meaning.
+TP
+
+What she wants to say I know through her body's reactions.
+TP
+
+Her back and shoulders were shaking pitifully, as she couldn't effectively avoid these stimuli.
+TP
+
+Her nails bit into the sheets.
+TP
+
+Beads of sweat formed all over her body.
+TP
+
+Taichi: "How does it feel?"
+TP
+
+WVP 0 vfCCB1101msa099
+Misato: "Fua? How...does it feel?......like something......is prying me open......I feel like I might...stop breathing."
+TP
+
+Taichi: "I'm sorry, but for me, this feels good."
+TP
+
+WVP 0 vfCCB1101msa100
+Misato: "......it feels...good?"
+TP
+
+Taichi: "Because Sempai's hot on the inside."
+TP
+
+WVP 0 vfCCB1101msa101
+Misato: "......no......"
+TP
+
+She turned away.
+TP
+
+Taichi: "Look this way."
+TP
+
+WVP 0 vfCCB1101msa102
+Misato: "......?"
+TP
+
+With our bodies twisted, I forced a kiss on her.
+TP
+
+I knocked off her glasses.
+TP
+
+WVP 0 vfCCB1101msa103
+Misato: "Nnfu."
+TP
+
+At the same time, my hips moved all the way inside her.
+TP
+
+WVP 0 vfCCB1101msa104
+Misato: "Auu......"
+TP
+
+Her muffled scream was wiped away between our mouths.
+TP
+
+Taichi: "I'm going to move, Sempai."
+TP
+
+This time, I moved not up and down, but in a circle.
+TP
+
+WVP 0 vfCCB1101msa105
+Misato: "Ah!......oh!......!!"
+TP
+
+She clung to the sheets.
+TP
+
+I kept rotating.
+TP
+
+Following the flow of her folds of skin, sharp stimuli wrapped around my rod.
+TP
+
+WVP 0 vfCCB1101msa106
+Misato: "Ha, haa, ha......nn, nnnn......"
+TP
+
+I watched her upper body turn pink.
+TP
+
+WVP 0 vfCCB1101msa107
+Misato: "Aaah, there, there---"
+TP
+
+WVP 0 vfCCB1101msa108
+Misato: "Uuuuuuu!!"
+TP
+
+Sempai's back bent.
+TP
+
+The back of her head pushed against my jaw, very strongly.
+TP
+
+Was she unable to handle this new stimuli?
+I thrust into her up, down, left and right.
+//PCP, merged lines
+//thrust is both past and present form, to replace thrusted (there's also another one below) -Raide
+TP
+
+WVP 0 vfCCB1101msa109
+Misato: "Ah, aaah!, ah, that's! NNn!......nnn!"
+TP
+
+A broken sob was squeezed out of her throat.
+TP
+
+Though it was a vulgar voice, it drove me on even more.
+TP
+
+I spun around again.
+TP
+
+WVP 0 vfCCB1101msa110
+Misato: "Aaah!!?"
+TP
+
+A truly wild scream which gained momentum at the end.
+TP
+
+As if she'd only just thought of it, she began to rotate in the opposite direction.
+TP
+
+WVP 0 vfCCB1101msa111
+Misato: "Kyaa! Nooo! Hya! Oh, NN! AAH!"
+TP
+
+WVP 0 vfCCB1101msa112
+Misato: "Haan, stop......just stoooooopp......"
+TP
+
+Amazing, Sempai......
+TP
+
+Taichi: "Your body is amazingly perverted."
+TP
+
+WVP 0 vfCCB1101msa113
+Misato: "No, that's not......"
+TP
+
+Sempai put the back of her hand to her mouth.
+TP
+
+In order to cover her voice.
+TP
+
+I kept working.
+TP
+
+The wet membranes added yet more seasoning to the peculiar sensations.
+TP
+
+This was a vagina I could climax in with only slow movements.
+TP
+
+Taichi: "You're good, Sempai."
+TP
+
+WVP 0 vfCCB1101msa114
+Misato: "Nn, nn, nn, nn......!!"
+TP
+
+I desperately held it in.
+TP
+
+......I wanted to break her.
+TP
+
+While thrust all the way in, I twisted my thighs.
+TP
+
+WVP 0 vfCCB1101msa115
+Misato: "NNAAA!!?"
+TP
+
+WVP 0 vfCCB1101msa116
+Misato: "Ah.........stop......that...stirring...shtop!!"
+TP
+
+All I could hear was a cute scream.
+TP
+
+WVP 0 vfCCB1101msa117
+Misato: "Stop, stop, stop."
+TP
+
+Taichi: "For me, this is a bit better."
+TP
+
+WVP 0 vfCCB1101msa118
+Misato: "Stooooop."
+TP
+
+Under Sempai, the sheets had a deep, person-shaped sweat stain.
+TP
+
+WVP 0 vfCCB1101msa119
+Misato: "Uaaa, ah! Agu......nn!"
+TP
+
+It seemed that, when I moved slowly to avoid cumming, it became a moderate stimulus to Sempai.
+TP
+
+Taichi: "......ah."
+TP
+
+I delicately pulled out to a shallow position.
+TP
+
+Only the tip continued to receive pressure.
+TP
+
+I can probably hold it in this way.
+TP
+
+By the way,
+TP
+
+WVP 0 vfCCB1101msa120
+Misato: "Ha, ha! Ha, ha, han! Haaan! Nn! Ah!"
+TP
+
+Delicate movements brought along delicate screams.
+TP
+
+New sweat formed on her back.
+TP
+
+WVP 0 vfCCB1101msa121
+Misato: "Ha, ha, ha! Ah! Ah, ah! Ha, ha! Nnnn!!"
+TP
+
+WVP 0 vfCCB1101msa122
+Misato: "No, stooooop."
+TP
+
+As a result, Sempai's thighs pushed against mine frantically.
+TP
+
+Taichi: "......something wrong here?"
+TP
+
+WVP 0 vfCCB1101msa123
+Misato: "Yes, I feel it too much, stop, not there...... I feel like I'll get carried along in your turning......"
+TP
+
+Sempai, who no longer knew what she was saying, had a strangely graphic expression.
+TP
+
+Taichi: "I see."
+TP
+
+WVP 0 vfCCB1101msa124
+Misato: "Nnuu......"
+TP
+
+As if to win over her butt, I kissed her again.
+TP
+
+I licked the sweat off her neck.
+TP
+
+WVP 0 vfCCB1101msa125
+Misato: "Hya......aun......"
+TP
+
+Taichi: "Sempai's sweat smells good."
+TP
+
+WVP 0 vfCCB1101msa126
+Misato: "......you're, lying."
+TP
+
+Taichi: "Can you feel me on your neck?"
+TP
+
+WVP 0 vfCCB1101msa127
+Misato: "I do-, nn! know!"
+TP
+
+WVP 0 vfCCB1101msa128
+Misato: "Peke-kun, your hand......"
+TP
+
+Taichi: "Okay."
+TP
+
+We joined hands.
+TP
+
+Held to one another.
+TP
+
+Sempai pulled in closer and licked the back of my hand.
+TP
+
+Likewise, I bit into Sempai's shoulder.
+TP
+
+WVP 0 vfCCB1101msa129
+Misato: "Haann."
+TP
+
+That was how we played with each other.
+TP
+
+Just as our thighs had, my chest and her back stuck together.
+TP
+
+Her body, wet with sweat, stuck to me with no difficulty.
+TP
+
+Taichi: "You're......very wet."
+TP
+
+WVP 0 vfCCB1101msa130
+Misato: "......yes."
+TP
+
+WVP 0 vfCCB1101msa131
+Misato: "Umm......"
+TP
+
+Taichi: "Yes?"
+TP
+
+WVP 0 vfCCB1101msa132
+Misato: "I want you, to move."
+TP
+
+WVP 0 vfCCB1101msa133
+Misato: "......I want to remember your shape......with my body."
+TP
+
+My rationality was killed.
+TP
+
+Taichi: "Sempai!"
+TP
+
+I twisted my hips.
+TP
+
+Their path twisted into a screw.
+TP
+
+WVP 0 vfCCB1101msa134
+Misato: "Hiu!!"
+TP
+
+Our whole bodies' membranes, skins and feelings.
+TP
+
+I sensed that all of us harmoniously unified.
+TP
+
+Even if that was an illusion.
+TP
+
+Even if it was an illusion of these membranes.
+TP
+
+I moved.
+TP
+
+The pace no longer mattered.
+TP
+
+The speed of honest desire.
+TP
+
+WVP 0 vfCCB1101msa135
+Misato: "Han! Haaan......am-amazing!......so fast, so faaast......aaaah!!"
+TP
+
+Our desires, scattered into thousands of pieces, came out in our movements.
+TP
+
+WVP 0 vfCCB1101msa136
+Misato: "Ah! Ah, ah! Ah! Aaah! Aaaaaah!!"
+TP
+
+WVP 0 vfCCB1101msa137
+Misato: "I'm breaking, I'm breaking! Down there I'm......!!"
+TP
+
+Taichi: "Down there?"
+TP
+
+I asked while moving.
+TP
+
+WVP 0 vfCCB1101msa138
+Misato: "......down thereee."
+TP
+
+Taichi: "I want to hear it properly."
+TP
+
+WVP 0 vfCCB1101msa139
+Misato: "My......pussy......"
+TP
+
+Despite her hesitation, she said that.
+TP
+
+Taichi: "More."
+TP
+
+Quick-fire.
+TP
+
+WVP 0 vfCCB1101msa140
+Misato: "Kya! No, no, no, nooo! My, pussy's going to......"
+TP
+
+WVP 0 vfCCB1101msa141
+Misato: "Aaan! Ah! Aaaaaan! Hyaa, I'm, twistinggg!"
+TP
+
+I bit her ear.
+TP
+
+WVP 0 vfCCB1101msa142
+Misato: "Kyaa!!"
+TP
+
+Taichi: "It's amazing how much you're feeling this, Sempai......"
+TP
+
+WVP 0 vfCCB1101msa143
+Misato: "Myyy, whole body, feels......strannnnnnge......"
+TP
+
+Taichi: "That's a good thing."
+TP
+
+It probably is.
+TP
+
+WVP 0 vfCCB1101msa144
+Misato: "Aaah, ah! Nn!......nn!......I'm losing it......nooo!"
+TP
+
+Rub, rub, slip, slip.
+TP
+
+Our membranes made sounds.
+TP
+
+WVP 0 vfCCB1101msa145
+Misato: "......ah! No, something! Nnha! Nn! Haa, something's...coming!......"
+TP
+
+Tears under her glasses.
+TP
+
+I couldn't wipe them away.
+TP
+
+I was impatient, like Sempai's heart.
+TP
+
+WVP 0 vfCCB1101msa146
+Misato: "......Aaah, ahaa, ha......ha, han, han, oah! Aaaa......"
+TP
+
+Now she'd lost all words with meaning.
+TP
+
+I penetrated Mimi-sempai with my whole body.
+TP
+
+WVP 0 vfCCB1101msa147
+Misato: "Au! Aoh! Oh! Nn!......yes......yes......that's
+...amazing."
+TP
+
+Her screams became hoarse.
+TP
+
+Taichi: "Right here?"
+TP
+
+WVP 0 vfCCB1101msa148
+Misato: "Aah, right theeerrre......aaaaah."
+TP
+
+*twitch*
+TP
+
+All four limbs drew back.
+TP
+
+Like an omen.
+TP
+
+WVP 0 vfCCB1101msa149
+Misato: "Aaah, ha! Ha! Ha! I, I......I'm!......!......!"
+TP
+
+She could no longer move a muscle.
+TP
+
+Her body just continued its minute shaking.
+TP
+
+All her fingers and toes grabbed onto the sheets.
+TP
+
+She seemed to be propping herself up in order to endure something.
+TP
+
+WVP 0 vfCCB1101msa150
+Misato: "Aaaaah......ha, ha!......aah! ah! aaah......ye......"
+TP
+
+Even my strong movements only produce low moans.
+TP
+
+I stopped my left, right and circular movements, changing to just a back-and-forth motion.
+TP
+
+The pleasure skyrocketed.
+TP
+
+Her folds pushed me on with strong contractions, sweeping along my penis.
+TP
+
+WVP 0 vfCCB1101msa151
+Misato: "Haa! Aaah! Ah!......ye-yes......I'm melting
+......I'm completely...melting......haaaaa......uuunnn!!"
+TP
+
+My speed quickened.
+TP
+
+WVP 0 vfCCB1101msa152
+Misato: "Aaah!......au! Ah, ha!......!!!! Fuwaa!......an! Hin! Aaah, so...deeppp......un! Ah, un......amazing, amazing............aaaah! Haaa."
+TP
+
+WVP 0 vfCCB1101msa153
+Misato: "......a.........aaaah......auaaaaaaah........."
+TP
+
+Convulsions.
+TP
+
+WVP 0 vfCCB1101msa154
+Misato: "Haaa......oo......aaah......hi, aaaaa............"
+TP
+
+Her gasps were no longer from her body, but forcefully pushed out from the bottom of her stomach.
+TP
+
+As my thighs struck her, her white haunches jiggled.
+TP
+
+The wet noises continued without pause.
+TP
+
+WVP 0 vfCCB1101msa155
+Misato: "Uu......uah............uuaaaaaaaah......th-this, I!"
+TP
+
+WVP 0 vfCCB1101msa156
+Misato: "Aaaaaah......aaooo......ah, ah, ha! Haaaa............ah, aaah! Hii......aaaaaa!!"
+TP
+
+WVP 0 vfCCB1101msa157
+Misato: "Ah............"
+TP
+
+There was a pause.
+TP
+
+And then,
+TP
+
+
+
+GL 5 bgcc0000e
+GL 0 evcc0013a
+$CGevcc0013a = 1
+GP 5 0 0
+GI 5 0
+GS 0 1
+GS 5 0
+SEF 109 0
+
+
+WVP 0 vfCCB1101msa158
+Misato: "Ah, aaaaaaah......aaaa......--------!!!!!"
+TP
+
+Various joints bent backward, twisting her whole body.
+TP
+
+I also used the contraction of her insides with a long piston thrust meant to extend the joy.
+TP
+
+Then I pulled out of her sticky, twisted insides.
+TP
+
+WVP 0 vfCCB1101msa159
+Misato: "Aaaann......"
+TP
+
+I touched the gun barrel to Sempai's body.
+TP
+
+Ejaculation.
+TP
+
+I felt like there was three times more than usual.
+TP
+
+It became a huge puddle, dribbling down her.
+TP
+
+WVP 0 vfCCB1101msa160
+Misato: "Aaa......it's hot......so much......"
+TP
+
+Sempai watched with fascination at the scene of her own light pink skin being tainted by semen.
+TP
+
+She took a bit of semen in her hand.
+TP
+
+Holding it up to her eyes, she squeezed it.
+TP
+
+She opened it up again, with all five sticky fingers.
+TP
+
+WVP 0 vfCCB1101msa161
+Misato: "Semen......it's white......nn......the smell......a boy's smell......nnn......"
+TP
+
+She put it in her mouth.
+TP
+
+I rubbed her hair.
+TP
+
+WVP 0 vfCCB1101msa162
+Misato: "Nn......that feels nice......"
+TP
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+
+She closed her eyes.
+TP
+
+Taichi: "......Sempai?"
+TP
+
+Her light breathing was already sounding like that of someone asleep.
+TP
+
+
+
+
+
+$SNcca0025c = 1
+
+IF $nonero != 1 JMP mimiHend2
+:mimiHend1
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+
+......
+TP
+
+............
+TP
+
+........................
+TP
+//I didn't feel there was any need to add an explanatory sentence or two here. ～IX
+
+:mimiHend2
+
+
+WT 500 0
+WT 500 1
+
+GL 0 bgcc0000c
+GS 0 1
+SEF 109 1
+
+WVP 0 vfCCB1101msa163
+Misato: "......nn......"
+TP
+
+One hour.
+TP
+
+That's how long she'd been sleeping.
+TP
+
+I'd watched her the whole time.
+TP
+
+WVP 0 vfCCB1101msa164
+Misato: "......ah......Peke-kun?"
+TP
+
+Taichi: "Hello."
+TP
+
+WVP 0 vfCCB1101msa165
+Misato: "Ah......I, fell asleep......kya."
+TP
+
+She panicked over her nakedness, and hid under the sheets.
+TP
+
+Taichi: "It felt more like you fainted."
+TP
+
+WVP 0 vfCCB1101msa166
+Misato: "......no......"
+TP
+
+She felt ashamed.
+TP
+
+Taichi: "Does it hurt?"
+TP
+
+WVP 0 vfCCB1101msa167
+Misato: "Eh......no......though I can still feel a little......"
+TP
+
+WVP 0 vfCCB1101msa168
+Misato: "Ah......it almost feels like......there's still something inside......"
+TP
+
+Taichi: "I wiped it off for you."
+TP
+
+WVP 0 vfCCB1101msa169
+Misato: "Eh......wiped what?"
+TP
+
+She looked down inside the sheets.
+TP
+
+Taichi: "I think you're completely clean."
+TP
+
+WVP 0 vfCCB1101msa170
+Misato: "Uu......such shame......"
+TP
+
+Taichi: "That's not true at all."
+TP
+
+Taichi: "Your body's perfectly clean now."
+TP
+
+WVP 0 vfCCB1101msa171
+Misato: "......uuuu."
+TP
+
+She groaned.
+TP
+
+Taichi: "Please wait a moment."
+TP
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+I went downstairs, then came back.
+GL 0 bgcc0000c
+GS 0 1
+SEF 109 0
+
+TP
+
+Taichi: "Here you go."
+TP
+
+Handmade popsicles.
+TP
+
+WVP 0 vfCCB1101msa172
+Misato: "Oh......"
+TP
+
+WVP 0 vfCCB1101msa173
+Misato: "Thank you."
+TP
+
+We both bit into them.
+TP
+
+WVP 0 vfCCB1101msa174
+Misato: "......it's cold, and delicious."
+TP
+
+Yep.
+TP
+
+She doesn't seem mad.
+TP
+
+WVP 0 vfCCB1101msa175
+Misato: "......we really did it."
+TP
+
+Taichi: "We did."
+TP
+
+WVP 0 vfCCB1101msa176
+Misato: "Of all the times to do it......"
+TP
+
+Taichi: "Self-preservation instincts go wild in crisis situations."
+TP
+
+WVP 0 vfCCB1101msa177
+Misato: "......you speak lies."
+TP
+
+Taichi: "Hahaha."
+TP
+
+Taichi: "Hey, Sempai."
+TP
+
+WVP 0 vfCCB1101msa178
+Misato: "Yes?"
+TP
+
+Taichi: "Why don't we go to the beach tomorrow?"
+TP
+
+WVP 0 vfCCB1101msa179
+Misato: "......the beach?"
+TP
+
+Taichi: "Just us."
+TP
+
+WVP 0 vfCCB1101msa180
+Misato: "That sounds nice."
+TP
+
+She might have just thought of her club.
+TP
+
+Taichi: "You need breaks too."
+TP
+
+WVP 0 vfCCB1101msa181
+Misato: "......you're right."
+TP
+
+WVP 0 vfCCB1101msa182
+Misato: "Then we'll take tomorrow off and have a blast."
+TP
+
+She was being shy.
+TP
+
+She seemed refreshed, but somewhere in her, there was still a doubt.
+TP
+
+
+
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+
+One that I'd never reach.
+TP
+
+Even by sleeping with her.
+TP
+
+RET

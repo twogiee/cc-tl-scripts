@@ -1,0 +1,146 @@
+
+
+
+
+
+GL 0 bgcc0016
+GS 0 1
+GS 1 0
+SEF 109 1
+
+
+
+
+TWS 0
+
+WVP 1 bgm001.ogg 0 0 0
+
+And then, I woke up.
+TP
+
+Just in case, I checked the depths of the bushes.
+TP
+
+Okay.
+TP
+
+Out of phase. That's what I'll call it.
+TP
+
+Only my eyes could observe the path home on the other side of it.
+TP
+
+It's the truth only for those who observe.
+TP
+
+If I pass through there, I can go home.
+TP
+
+To a world filled with people.
+TP
+
+Although, that's right.
+TP
+
+
+I'll---
+TP
+WVS 1 1
+
+
+
+
+
+
+
+
+
+
+GL 0 bgcc0002
+GS 0 1
+SEF 152 0
+
+Youko-chan's nowhere to be seen.
+TP
+
+There was just a bentou left on the table.
+TP
+
+I headed to school.
+TP
+
+
+
+
+
+WVP 1 bgm016.ogg 0 0 0
+
+
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+I walked in an uninhabited world.
+TP
+There were no signs of any people, or any other life forms.
+TP
+It didn't feel full.
+TP
+No cicadas cried.
+TP
+Unnatural space.
+TP
+Swirling contradictions at the nucleus of crossed worlds.
+TP
+A small world of only eight people.
+TP
+Taichi: "......"
+TP
+Nanaka won't come out either.
+TP
+Nanaka: "........................"
+TP
+
+WVS 1 1
+
+
+
+
+
+
+
+
+
+
+
+IF $SB_MKI == 1 JMP N_CHS001
+IF $SB_KRI == 0 JMP N_CHS001
+
+IF $SB_MSA != 1 JMP Y_CHS001
+IF $SB_TKO != 1 JMP Y_CHS001
+IF $SB_SKU != 1 JMP Y_CHS001
+JMP N_CHS002
+//To save you some time, this code means that the "Tasaki Shop" option won't be available until a Kiri-related variable changes. Å`IX
+
+:Y_CHS001
+
+CSQ 0 1 1
+  -Go to school
+  -Go to the Tasaki Shop
+
+
+
+
+RET
+
+
+:N_CHS001
+
+$B = 1
+
+RET
+
+
+:N_CHS002
+$B = 2
+
+RET

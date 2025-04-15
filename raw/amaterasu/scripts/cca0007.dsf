@@ -1,0 +1,1233 @@
+
+WVP 1 bgm002.ogg 0 0 0
+
+WVP 3 se001 0 0 1
+GL 0 bgcc0008
+GS 0 1
+GS 1 0
+SEF 152 1
+WT 500 0
+WT 500 1
+
+The cicadas are noisy.
+TP
+
+
+
+Even in this heat.
+TP
+
+
+
+Those guys are always giving it their all.
+TP
+
+
+
+Taichi: "Even so,"
+TP
+
+
+
+What am I going to do from now on?
+TP
+
+
+
+With the roasting sun above the roof, there weren't many places I could go to cool down.
+TP
+
+
+
+I tried peeking into a nearby classroom, but as I feared, there was a class in session.
+TP
+
+
+
+Year 1, Class E.
+TP
+
+
+
+Machiko-sensei teaches them.
+IF $tlnote == 1 (TL note: "Sensei" is how you address teachers and other skilled professionals in Japanese.)
+TP
+
+
+
+Satou Machiko.
+TP
+
+
+
+Her height was 173 cm, and she was the owner of a glamorous, dynamite body, yet she had no history of wearing brand name clothing. Her glasses looked great on her, and her long hair had a dark indigo luster--
+TP
+
+
+Heightening her chicness further were those captivating, glossy, plump, charming lips which, in my eyes, made her the strongest life form of all.
+TP
+
+
+
+It's her second year of employment here.
+TP
+
+
+
+She became a teacher the same year we came here.
+TP
+
+
+
+And now that woman was moving toward the blackboard.
+TP
+
+
+
+But, Machiko-sensei held deep sins.
+TP
+
+
+
+Yes, she was a sinner.
+TP
+
+
+
+One could say the lion's share of those sins lies in the bulges sticking out from within her shirt.
+TP
+
+
+
+Even though her actual body was tall and thin, her breasts were so massive they seemed ready to tear off at any moment, and I dare say it would be magnificent to see them fly away in opposite directions-- 
+TP
+
+
+
+
+
+Her classes were seductive enough to drench me in such thoughts, during which I was exponentially more useless than usual.
+TP
+
+
+
+Her buttocks were yet another heinous weapon.
+TP
+
+
+
+No less dangerous than a fourteen-year-old who'd snapped for some reason and grabbed a knife.
+TP
+
+
+
+Those rounded hips strained my nerves, and if I were ever pushed into that space all men envied within her tight skirt, I'd likely say: 『My immature flesh can't relax in these confined quarters!』
+TP
+
+
+
+
+There had been five or ten times when I'd thought of sliding a cutting knife through the center of her skirt, where it forms a bridge across her butt crack.
+TP
+
+
+
+A dangerous woman.
+TP
+
+
+
+Because of the evil principal and gang bosses, her little sister (a student who's great at academics and sports and is equally popular with boys and girls) was used in order to coerce her into satisfying their sexual desires.
+//Made it fit in 4 lines.-Spin
+TP
+
+
+
+I've always wanted to protect her from that sort of French Study-esque crisis.
+IF $tlnote != 0 (TL note: "French Study" or "Furansu Shoin" is a Japanese publisher specializing in erotic novels.)
+TP
+
+
+
+As a freshman, I used to sexually harass the then-student-teacher Machiko-sensei. Once I made her cry during class, so I went AWOL for three days. I still regret that.
+TP
+
+
+
+......then I got suspended, and Sempai got to know me as 'Suspension-kun.'
+TP
+
+
+
+Well, at least that allowed me to get closer to her.
+TP
+
+
+
+Moving on.
+TP
+
+
+
+Since then, all points of contact between Machiko-sensei and I have disappeared.
+TP
+
+
+
+In less than two years our student teacher changed, and she left my class for good.
+TP
+
+
+
+Farewell immature memories.
+TP
+
+
+
+I should've set a limit of some kind on my harassment.
+TP
+
+
+
+But if she was gonna hate me then I should've fondled her more.
+TP
+
+
+
+When I thought that, I knew it was over for me as a human being.
+TP
+
+
+
+Taichi: *sigh*
+TP
+
+
+
+Anyway, if I keep loitering in the hallways, someone's going to find me.
+TP
+
+
+
+I'll go buy a meal ticket on my way to the club room.
+TP
+
+
+
+Perfect Plan Commenced.
+TP
+
+
+
+Since meal A sells out around third period, I wanted to eat it at the end of first. Since it happened to be first period now, I set course for the cafeteria.
+TP
+
+
+
+People line up for that meal all the time.
+TP
+
+
+
+This sometimes made a few students late for second period.
+TP
+
+
+
+Whenever this starts to happen often, the school will suddenly remember to proclaim: 『No advance purchasing of meal tickets.』
+TP
+
+
+
+They should just prepare more meals for us.
+TP
+
+
+
+Everyone thinks that.
+TP
+
+
+
+But the limit on the number of available meals was an iron rule, I guess to avoid having leftovers.
+TP
+
+
+
+That's why I can't let this opportunity slip away.
+TP
+
+
+
+After all, there couldn't be a line there this early in first period.
+TP
+
+
+
+
+GL 0 bgcc0009
+GS 0 1
+SEF 152 0
+
+
+
+It was vacant.
+TP
+
+
+
+Taichi: "Oba-chan, meal Ace."
+IF $tlnote == 1 (TL note: "Oba-chan" is one way to address your aunt, or any middle-aged woman in Japanese.)
+TP
+
+
+
+I bought the meal ticket without injury.
+TP
+
+
+
+Piece of cake.
+TP
+WVS 1 1
+
+
+
+
+
+GL 0 bgcc1010
+GS 0 1
+
+WVP 2 se011 1 0
+SEF 152 1
+WVP 1 bgm004.ogg 0 0 0
+
+
+
+As I entered the club room, the boy sitting in the folding chair reading a magazine looked up at me.
+TP
+
+
+
+
+Taichi: "My oh my, if it isn't Tomoki-sensei."
+TP
+
+
+
+
+Taichi: "What a coincidence. Did you also come here to do *that*?"
+TP
+
+
+
+
+He raised his little finger.
+TP
+
+
+
+WVP 0 vmcca0007yki000
+Tomoki: "Well......"
+TP
+
+
+
+
+He responded with a puzzled face.
+TP
+
+
+
+Tomoki's the type who can't ad-lib to save his life.
+TP
+
+
+
+He's definitely the nice guy at parties, but without a doubt he'd be classified as a boring person.
+TP
+
+
+
+Taichi: "You're cutting class aren't you?"
+TP
+
+
+
+WVP 0 vmcca0007yki001
+Tomoki: "What about you?"
+TP
+
+
+
+WVP 0 vmcca0007yki002
+Tomoki: "My class became independent study."
+IF $tlnote == 1 (TL note: "Independent study" is the Japanese euphemism for giving all the students a "free period.")
+TP
+
+
+
+He returned his eyes to the magazine, and sipped his coffee-flavored milk.
+TP
+
+
+
+That makes sense.
+TP
+
+
+
+He just left class at that point to come loiter here.
+TP
+
+
+
+Even a goody two-shoes like him dares to break the rules...
+TP
+
+
+
+Taichi: "What about a meal ticket?"
+TP
+
+
+
+WVP 0 vmcca0007yki003
+Tomoki: "I bought one."
+TP
+
+
+
+Taichi: "Not bad."
+TP
+
+
+
+WVP 0 vmcca0007yki004
+Tomoki: "......"
+TP
+
+
+
+A cold shoulder?
+TP
+
+
+
+Somehow it discouraged me.
+TP
+
+
+
+After all, the Broadcasting Club divides up its labor based on character, so I couldn't expect much follow-up from Tomoki whose assigned role was 'The Stooge.'
+TP
+GL 1 bgcc0000a
+GP 1 0 0
+GS 1 1
+SEF 109 0
+
+
+
+IF $tlnote != 0 (TL note: He's referring to the stooge of the standard comedy duo, which is made up of a 'funny man' or 'comic' acting like an idiot and a 'straight man' or 'stooge' trying to correct him.)
+IF $tlnote != 0 TP
+
+
+
+I looked out the window.
+TP
+
+
+
+Strong sunbeams shone through.
+TP
+
+
+
+Taichi: "Hot again today."
+TP
+
+
+
+WVP 0 vmcca0007yki005
+Tomoki: "There's one left in the fridge."
+TP
+
+
+
+Taichi: "Eighty yen, was it?"
+TP
+
+
+
+WVP 0 vmcca0007yki006
+Tomoki: "Yeah."
+TP
+
+
+
+Taichi: "I'll take it."
+TP
+
+GO 1 1
+
+I dropped my pocket change into his outstretched hand and opened the room's refrigerator.
+TP
+
+
+
+WVP 0 vmcca0007yki007
+Tomoki: "......umm, the designs on these coins all look like the Shousouin treasure house..."
+IF $tlnote != 0 (TL note: The ten-yen coin is supposed to have the Byoudouin temple carved on it.)
+TP
+
+
+
+I ignored his implied claim and began drinking.
+TP
+
+
+
+WVP 0 vmcca0007yki008
+Tomoki: "Too late."
+TP
+
+
+
+With no further pursuit of that subject, time lazily flowed on.
+TP
+
+
+
+I looked at the long table with various monitors and machines lined up beside the window.
+TP
+
+
+
+The Broadcasting Club's equipment.
+TP
+
+
+
+The broadcasting room was next door.
+TP
+
+
+
+This is technically a storage room.
+TP
+
+
+
+But since it has its own generator, mini-refrigerator, arcade machine and battery charger all lined up in a neat row, this was the foremost lawless space within the school.
+TP
+
+
+
+Taichi: "Huh? Is this how it's supposed to be wired?"
+TP
+
+
+
+WVP 0 vmcca0007yki009
+Tomoki: "I'll be adding a new machine soon, so I reorganized it."
+TP
+
+
+
+Taichi: "Hmmm."
+TP
+
+
+
+Since Tomoki was quite the computer nerd, flowers always bloomed in conversations between him and Miki about CPUs and memory and the like.
+TP
+
+
+
+Apparently he met another cute girl from some other school through a bulletin board system.
+TP
+
+
+
+He'd met her in real life once before transferring here.
+TP
+
+
+
+She came to his house when he got sick.
+TP
+
+
+
+She said, 『Um, umm, I've been taking care of To, To-To-Tomoki-kun---』
+TP
+
+
+
+The appearance of that fiercely cute life form in a slightly different school uniform gave me a shock that still remains clear in my memory.
+TP
+
+
+
+She......Yuuka-chan had continued to take care of him diligently long after that.
+TP
+
+
+
+I'm sure that if Tomoki wanted her to, she'd be perfectly willing to take off her underwear and give it to him raw.
+TP
+
+
+
+Taichi: "........................"
+TP
+
+
+
+
+
+WVP 2 se003 1 0
+SEF 101 0
+
+
+
+
+WVP 0 vmcca0007yki010
+Tomoki: "Ow!! What're you doing!?"
+TP 
+
+
+
+Taichi: "I suddenly felt vexed......"
+TP 
+
+
+WVP 0 vmcca0007yki011
+Tomoki: "Huh? By what? That makes no sense."
+TP 
+
+
+
+Tomoki's comebacks couldn't be more boring.
+TP 
+
+
+
+It must be a mistake for such a cute girl to be clinging to this guy. It's unclean.
+TP 
+
+
+
+WVP 0 vfcca0007myk000
+Girl: ......*giggle*
+TP 
+
+
+
+I heard muffled laughter.
+TP 
+
+
+
+Taichi: "Oh, she was here?"
+TP 
+
+
+
+There was a small-bodied girl wearing glasses who probably just arrived from the broadcasting room.
+TP 
+
+
+
+WVP 0 vfcca0007myk001
+Girl: "You two never change, Sempais......"
+TP 
+
+
+
+WVP 0 vmcca0007yki012
+Tomoki: "There you are."
+TP 
+
+
+It was our kouhai, Fukuhara Miyuki.
+TP 
+
+
+
+Taichi: "Hey. How've you been?"
+TP 
+
+
+
+Taichi: "Oyaa? Oyaoyaa?"
+TP 
+
+
+
+WVP 0 vfcca0007myk002
+Miyuki: "Wh-, what is it?"
+TP 
+
+
+
+Miyuki sensed the danger and leaned back.
+TP 
+
+
+
+WVP 0 vfcca0007myk003
+Miyuki: "You're going to call me plain again, aren't you?"
+TP
+
+
+Taichi: "What a plain girl."
+TP 
+
+
+
+WVP 0 vfcca0007myk004
+Miyuki: "Aaaaahhh......"
+TP 
+
+
+
+The girl was shaking.
+TP 
+
+
+
+Taichi: "Hmmm, you really are...why are you so plain, I wonder? Why do your hairbands look so cheap? Why are your eyebrows so bushy? Why isn't your skirt any shorter?"
+TP 
+
+
+
+WVP 0 vfcca0007myk005
+Miyuki: "Kyaa, does my skirt really...?"
+TP 
+
+
+
+Taichi: "Yeees."
+TP 
+
+
+
+WVP 0 vfcca0007myk006
+Miyuki: "Please don't rub my neck, kya, don't stick your fingers in my ears!!!"
+TP 
+
+
+
+Fondle Attack.
+TP 
+
+
+
+Taichi: "Yet your body is so..."
+TP 
+
+
+
+WVP 0 vfcca0007myk007
+Miyuki: "Eh......?"
+TP 
+
+
+
+Taichi: "A waste, simply a waste."
+TP 
+
+
+
+Taichi: "It's such a waste I'll just eat it up."
+TP 
+
+
+
+WVP 0 vfcca0007myk008
+Miyuki: "Ha?"
+TP 
+
+
+
+
+*pucker*
+TP 
+
+
+
+
+I bent over and chomped onto her ear.
+TP 
+
+
+
+The scent of a girl.
+TP 
+
+
+
+
+Even in a fairy tale, this could only be interpreted as sexual harassment.
+TP 
+
+
+
+WVP 0 vfcca0007myk009
+Miyuki: "Awaaaaaaaaa!!!??"
+TP 
+
+
+
+Miyuki reached the peak of her ecstasy (lies).
+TP 
+
+
+
+WVP 0 vmcca0007yki013
+Tomoki: "......cut it out, you meanie."
+TP 
+
+
+
+Taichi: "Oh, what's this now? You already have someone but you're locking on to her too?"
+TP 
+
+
+
+WVP 0 vmcca0007yki014
+Tomoki: "That, that's not it at all!!"
+TP 
+
+
+
+Taichi: "You Lovelatio Sniper!"
+TP 
+
+
+
+I spat out.
+TP 
+
+
+
+Taichi: "But my rifle of love is always aimed at the plain little you---"
+TP 
+
+
+WVP 2 se012 1 0
+The moment I repositioned my line of sight, the broadcasting room door closed.
+TP 
+
+
+
+WVP 2 se013 1 0
+Then she locked it.
+TP 
+
+
+
+Miyuki was no longer in the room.
+TP 
+
+
+
+Taichi: "Nuu."
+TP 
+
+
+
+I glared at Tomoki while he pretended not to care by reading manga.
+TP 
+
+
+
+Taichi: "What's the secret to bringing out their kindness?"
+TP 
+
+
+
+WVP 0 vmcca0007yki015
+Tomoki: "Haa?"
+TP 
+
+
+
+Taichi: "Forget it. More importantly, what's Miyuki doing?"
+TP 
+
+
+
+WVP 0 vmcca0007yki016
+Tomoki: "......I see you have no problem addressing kouhais without honorifics."
+TP 
+
+
+
+Taichi: "She's just a kouhai after all."
+TP 
+
+
+
+Calm silence.
+TP 
+
+
+
+WVP 0 vmcca0007yki017
+Tomoki: "I respect that part of you."
+TP 
+
+
+
+WVP 0 vmcca0007yki018
+Tomoki: "......Fukuhara's class also became independent study."
+TP 
+
+
+
+Taichi: "Aah, so that's how it is."
+TP 
+
+
+
+With the mystery solved, I lost interest.
+TP 
+
+
+
+Taichi: "Think I've driven off another one?"
+TP 
+
+
+
+WVP 0 vmcca0007yki019
+Tomoki: "......probably."
+TP 
+
+
+
+He sat back down in his chair.
+TP 
+
+
+
+The summer sunbeams still didn't quite reach most of the room.
+TP 
+
+
+
+Taichi: "It's nice that the Broadcasting Club gets to use this room."
+TP 
+
+
+
+WVP 0 vmcca0007yki020
+Tomoki: "That's true."
+TP 
+
+
+
+Tomoki--still reading--answered lazily.
+TP 
+
+
+
+Taichi: "......what are you reading?"
+TP 
+
+
+
+WVP 0 vmcca0007yki021
+Tomoki: "Saikoman."
+IF $tlnote != 0 (TL note: A manga from the early 80's. Its official full title is "Ninja Hattori-kun + Paaman Superpower Wars.")
+TP 
+
+
+
+Taichi: "Hachitaba dies and the culprit is identified as Shinsaki."
+TP
+
+
+
+WVP 0 vmcca0007yki022
+Tomoki: "Don't tell me!!!"
+TP 
+
+
+
+Taichi: "Can you stop me!!?"
+TP 
+
+
+
+WVP 0 vmcca0007yki023
+Tomoki: "Just don't say anything, especially not the ending to the Demon Archipelago arc!"
+TP 
+
+
+
+Taichi: "Father Anderson saved Yoriko from the spy that kidnapped her!"
+TP 
+
+
+
+GL 4 sgcc0001
+$CGsgcc0001 = 1
+GP 4 0 0
+GI 4 5
+
+
+WVP 2 se003 1 0
+SEF 101 0
+
+
+WVP 0 vmcca0007yki024
+Tomoki: "Don't say that."
+TP 
+
+
+
+Taichi: "I oppose controlling others through words!"
+TP 
+
+
+
+WVP 0 vmcca0007yki025
+Tomoki: "You traitor!!"
+SEF 101 0
+TP 
+
+
+
+Taichi: "Epicurean!!"
+IF $tlnote != 0 (TL note: Epicurus was an ancient Greek philosopher who taught, among many other things, that pleasure and pain are the measures of what is good and bad in this life.)
+WVP 2 se003 1 0
+SEF 101 0
+TP 
+
+
+
+During that struggle,
+TP 
+
+
+
+Miyuki opened the inner door and stuck out her head, yelling softly.
+TP 
+
+
+
+WVP 0 vfcca0007myk010
+Miyuki: "Sempai! Sensei's coming!"
+TP 
+GL 0 bgcc0010
+GL 1 TCST0002
+GS 1 1
+GP 1 190 0
+GS 0 1
+GS 4 0
+SEF 109 0
+
+WVP 0 vmcca0007yki026
+Tomoki: "Eh!?"
+TP 
+
+GL 1 TCST0000
+GI 1 0
+WVP 0 vmcca0007yki027
+Tomoki: "Huh......Taichi?"
+TP 
+
+
+
+You idiot. Hide faster.
+TP 
+
+
+
+I'd already finished concealing my body in what would be a blind spot to someone looking in from the corridor.
+TP 
+
+
+
+Tomoki was rushing around in all directions.
+TP 
+
+
+
+WVP 0 vfcca0007myk011
+Miyuki: "Sempai, in here, in here!"
+TP 
+GO 1 1
+
+
+Tomoki shrank down and ran into the broadcasting room.
+TP 
+
+
+Together with Miyuki.
+TP 
+
+
+
+Ah, I should've gone in there......
+TP 
+
+
+
+Dammit, I can't let myself cry.
+TP 
+
+
+
+WVP 2 se012 1 0
+As their door closed, muscles 190 centimeters tall approached through the hallway.
+TP 
+
+
+It's Mammoth.
+TP 
+
+
+Manda Juuzou, nickname Mammoth. A genius at corporal punishment.
+TP 
+
+
+This won't end well if he sees me.
+TP 
+
+
+I once saw the guy squeeze a steel can down to the size of a ping pong ball in an instant.
+TP 
+
+
+
+Plus, his style of corporal punishment was suitable for the 21st century, so it couldn't be looked down upon.
+TP 
+
+
+
+He excelled in techniques which granted agony without leaving marks.
+TP 
+
+
+
+That was his scheme to avoid the fear of a class action lawsuit from our mothers!
+TP 
+
+
+
+Mammoth possessed dreadful, cunning, agonizing muscles which rivaled the pygmy marmoset. 
+TP 
+
+
+
+The giant gradually went past us.
+TP 
+
+
+
+Then, his gaze turned toward our room.
+TP 
+
+
+Juuzou: "......"
+TP 
+
+
+
+He walked away.
+TP 
+
+
+
+I cursed him to be hunted down by primitive man.
+TP 
+
+
+
+Taichi: "The Siberian Tundra would be a fitting graveyard for the likes of you."
+TP 
+
+
+
+I left my hiding place.
+TP 
+
+
+GL 1 TCST0005
+GP 1 190 0
+GI 1 1
+
+
+WVP 0 vmcca0007yki028
+Tomoki: "That was dangerous."
+TP 
+
+
+
+WVP 0 vfcca0007myk012
+Miyuki: "We ought to put a curtain up on the window facing the hallway."
+TP 
+
+GL 1 TCST0000
+GI 1 0
+
+
+WVP 0 vmcca0007yki029
+Tomoki: "That's prohibited. The school's onto that trick."
+TP 
+
+
+
+Taichi: "I've got an idea."
+TP 
+WVS 1 1
+
+
+
+WVP 0 vfcca0007myk013
+Miyuki: "......"
+TP 
+
+GL 1 TCST0003
+GI 1 0
+
+WVP 0 vmcca0007yki030
+Tomoki: "......"
+TP 
+
+
+
+Taichi: "Aah, I'm well aware of what you both think of me, but this is no stupid joke. This is a seriously good idea."
+TP 
+
+
+
+WVP 0 vfcca0007myk014
+Miyuki: "What is it?"
+TP 
+
+
+
+Taichi: "Tomoki, start up the machines. And get me a digital camera."
+TP 
+
+
+
+GL 1 TCST0000
+GI 1 0
+WVP 0 vmcca0007yki031
+Tomoki: "Haan?"
+TP 
+WVS 1 1
+WVS 3 1
+WT 500 0
+WT 500 1
+
+
+
+
+RET

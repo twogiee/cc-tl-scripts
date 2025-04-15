@@ -1,0 +1,342 @@
+WVP 1 bgm002.ogg 0 0 0
+
+GL 0 bgcc0007
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 152 1
+
+
+But now there is the club.
+//This helps transition the scenes better.-Spin
+TP
+
+Sempai's sketches.
+TP
+
+I will believe that resolving the problems on this list of tears will produce a structure capable of dispatch.
+TP
+
+I will believe in Sempai.
+TP
+
+Believe. That's a beautiful word.
+TP
+
+It can quench my thirst quite a bit.
+TP
+
+Begin work.
+TP
+
+I continue working under the boiling sun.
+TP
+
+I'm fantastically strong against sunstroke.
+TP
+
+Because my hair is white.
+TP
+
+Just that, makes a significant difference.
+TP
+
+So even on a midsummer's day, the work continued.
+TP
+
+Without pause.
+TP
+
+Taichi: "......nn?"
+TP
+
+Isn't that Kiri?
+TP
+
+Standing next to the fence, gazing at the scenery.
+TP
+
+Has she not noticed me?
+TP
+
+She should have. This work makes a lot of loud noises.
+TP
+
+Taichi: "Heeey, Kiriii!"
+TP
+
+I called her,
+TP
+
+Then walked over at a comfortable pace.
+TP
+
+GL 1 TCSK0000
+GP 1 220 0
+GI 1 1
+
+WVP 0 vfCCC3015kri000
+Kiri: "What is it?"
+TP
+
+Taichi: "Well......I didn't have anything in particular......"
+TP
+
+Kiri glanced up at the antenna as if she had no interest in it.
+TP
+
+GL 1 TCSK0002
+GI 1 0
+
+WVP 0 vfCCC3015kri001
+Kiri: "......you're really working for the club."
+TP
+
+Taichi: "Well, yeah."
+TP
+
+Taichi: "Although this heat makes me want to go to the beach."
+TP
+
+Taichi: "We went last year. Do you remember that?"
+TP
+
+GL 1 TCSK0000
+GI 1 0
+
+WVP 0 vfCCC3015kri002
+Kiri: "......yes."
+TP
+
+Taichi: "That was fun. Though I'm sorry about Miki."
+TP
+
+WVP 0 vfCCC3015kri003
+Kiri: "......yes."
+TP
+
+She's too honest.
+TP
+
+Actually, she's acting weird.
+TP
+
+Taichi: "......what is it?"
+TP
+
+GL 1 TCSK0002
+GI 1 0
+
+WVP 0 vfCCC3015kri004
+Kiri: "Well......Hasekura-sempai is......"
+TP
+
+Taichi: "Youko-chan's......watching you?"
+TP
+
+
+GL 1 TCSK0000
+GI 1 0
+WVP 0 vfCCC3015kri005
+Kiri: "Y-yes......"
+TP
+
+Kiri's hands were shaking.
+TP
+
+Even though she was such a tough girl.
+TP
+
+She's afraid.
+TP
+
+She was shrinking miserably.
+TP
+
+WVP 0 vfCCC3015kri006
+Kiri: "About that..."
+TP
+
+GL 1 TCSK0004
+GI 1 0
+WVP 0 vfCCC3015kri007
+Kiri: "About that......"
+TP
+
+Her voice was shaking.
+TP
+
+I can't watch this.
+TP
+
+Even though she was a girl like beautiful glasswork,
+TP
+
+Even though she was so fragile that touching her would defile her, and grabbing her would break her,
+TP
+
+This......incomplete being, what is it?
+TP
+
+I felt hatred for Youko-chan.
+TP
+
+Aaah, I'm sinking again, I thought.
+TP
+
+Times are good when I can be maintained by raising tension.
+TP
+
+At other times, my heart sinks.
+TP
+
+A deep part.
+TP
+
+An abyss where even the sun can't reach.
+//Adds better dramatic effect.-Spin
+TP
+
+A place that makes me forget the warmth of light, turning me into an individual that does nothing but live.
+TP
+
+A place where that which is called a heart is unneeded.
+TP
+
+If I stay there too long, my frozen heart will eventually degenerate into a pure will to live.
+TP
+
+I had a hallucination that I was an existence living in the deep sea.
+TP
+
+I thought that was good.
+TP
+
+Because, if the world was me and only me, then,
+TP
+
+I wouldn't have to hurt anyone.
+TP
+
+Taichi: "......Kiri, help me with the club."
+TP
+
+That sudden idea made circles out of Kiri's eyes.
+TP
+
+GL 1 TCSK0000
+GI 1 0
+WVP 0 vfCCC3015kri008
+Kiri: "The club?"
+TP
+
+Taichi: "That's right."
+TP
+
+Taichi: "......I won't be able to finish......on my own......please help me......"
+//This made mroe sense since he's trying to convince her to help him.-Spin
+TP
+
+The crying words passed on to me from Sempai, I now shoved them onto my underclassman.
+//I just felt something was missing from this.-Spin
+TP
+
+I made Kiri work on top of the stepladder, so that I could expect the good fortune of seeing Pantyland founded.
+TP
+
+Taichi: "Pantyland is great......"
+TP
+
+WVP 0 vfCCC3015kri009
+Kiri: "Did you say something?"
+TP
+
+Taichi: "This kind of antenna is called an E-type."
+TP
+
+GL 1 TCSK0001
+GI 1 0
+WVP 0 vfCCC3015kri010
+Kiri: "I heard something about a Pantyland..."
+TP
+
+Taichi: "I said nothing of the sort."
+TP
+
+I whistled.
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3015kri011
+Kiri: "......what...should I be doing?"
+TP
+
+Taichi: "Aren't you helping me?"
+TP
+
+GL 1 TCSK0000
+GI 1 0
+WVP 0 vfCCC3015kri012
+Kiri: "Isn't that an order?"
+TP
+
+Taichi: "......aaah, weeell, yeees, it iiis."
+TP
+
+WVP 0 vfCCC3015kri013
+Kiri: "I want to pay back my debt in full, so I'm helping."
+TP
+
+Taichi: "Yaaay."
+TP
+
+GL 1 TCSK0001
+GI 1 0
+WVP 0 vfCCC3015kri014
+Kiri: "However!"
+TP
+
+She spoke with a strong enough tone to cut off my words and actions.
+TP
+
+GL 1 TCSK0002
+GI 1 0
+WVP 0 vfCCC3015kri015
+Kiri: "I have absolutely no intention of reconciling."
+TP
+
+Taichi: "That's fine, that's fine."
+TP
+
+Taichi: "That's yet another part of life."
+TP
+
+WVP 0 vfCCC3015kri016
+Kiri: "Directions, please."
+TP
+
+Taichi: "Hmm, theeen, first, please look at this."
+TP
+
+I passed her a sketch.
+TP
+
+Her face tightened up sharply.
+TP
+
+One minute later, she frowned---
+TP
+
+WVS 1 1
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+WT 500 0
+WT 1000 1
+RET

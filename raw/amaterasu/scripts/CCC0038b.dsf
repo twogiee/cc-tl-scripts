@@ -1,0 +1,51 @@
+GL 0 bgcc0006
+GS 0 1
+GS 1 0
+SEF 152 0
+I left my things in the classroom.
+//CP_S ccc0038a
+TP
+
+Taichi: "Oya?"
+TP
+
+Touko wasn't there.
+TP
+
+And I thought she was coming.
+TP
+
+The usual window seat.
+TP
+GL 0 evcc0011a
+$CGevcc0011a = 1
+GS 0 1
+SEF 152 0
+
+Ojou-sama wasn't there.
+TP
+
+I felt uneasy.
+TP
+
+
+Please don't take any unusual actions.
+TP
+
+
+A wishful thought.
+TP
+
+I left my satchel there and wandered around the school.
+TP
+
+Starting the third day of ÅwusualÅx.
+//CP_F
+TP
+
+In other words, of being filled with hollow feelings.
+TP
+
+WVS 1 1
+
+RET

@@ -1,0 +1,59 @@
+
+
+WVP 1 bgm014.ogg 0 0 0
+
+GL 0 zzzCCC0013Azoom2
+GS 0 1
+SEF 109 0
+//HACK zoom -GHS
+
+//……違う。
+...wrong.
+TP
+
+
+//この選択肢は、狂気に繋がる。
+This selection is connected with madness.
+//Technically "leads to", but since the kanji's been used for connection - and with Youko as well, see CCC0000 - literal is important. -GHS
+TP
+
+
+//無邪気な悪意が、
+This innocent maliciousness,
+//That's the kind of behavior Taichi has had towards Kiri. His absolutely normal behavior, but since she can tell there's something wrong in it (though not what Taichi thinks), it'll just hurt her. -GHS
+TP
+
+
+//いけない、
+it's something that must not be.
+TP
+
+
+//下がれ、
+Fall back,
+TP
+
+
+//戻れ、
+turn away,
+TP
+
+
+//やり直しだ、
+do it all over again,
+TP
+
+GO 0 1
+WVS 1 1
+//HACK to black, earlier end music -GHS
+
+//そして―――
+and then---
+TP
+
+
+
+
+
+
+RET

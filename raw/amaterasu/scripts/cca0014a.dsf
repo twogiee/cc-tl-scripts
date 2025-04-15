@@ -1,0 +1,226 @@
+Taichi: "Hey, reversely-attributed competitive girl."
+TP
+
+
+GL 1 TCKT0001
+GI 1 0
+
+WVP 0 vfcca0014afyu000
+Touko: "Haa......?"
+TP
+
+
+
+Taichi: "I'll give you this."
+TP
+
+
+
+I held out the sandwich from this morning.
+TP
+
+
+GL 1 TCKT0000
+GI 1 0
+
+Touko stared at it in disbelief.
+TP
+
+
+
+WVP 0 vfcca0014afyu001
+Touko: "What, is this?"
+TP
+
+
+
+Taichi: "Sweet bean bread."
+TP
+
+
+
+GL 1 TCKT0003
+GI 1 0
+WVP 0 vfcca0014afyu002
+Touko: "How could it be one of those!? This is a sandwich!"
+TP
+
+
+
+Taichi: "So you did know what it was."
+TP
+
+
+
+Taichi: "Here."
+TP
+
+
+
+
+*nudge* //Technically, "zui" doesn't indicate nudging, so much as a sliding maneuver, but any direct equivalent in english implies an actual sound was produced, and more often than not the sliding was unintentional and disasterous, so I adapted this a bit. Å`IX
+TP
+
+
+
+
+GL 1 TCKT0002
+GI 1 0
+WVP 0 vfcca0014afyu003
+Touko: "......stop it."
+TP
+WVP 2 se048 1 0
+
+
+She threw my hand off of her.
+TP
+
+
+
+The sandwich fell.
+TP
+
+
+
+I picked it up.
+TP
+
+
+
+Taichi: "Are you eating properly?"
+TP
+
+
+
+GL 1 TCKT0002
+GI 1 0
+WVP 0 vfcca0014afyu004
+Touko: "That's none of your business."
+TP
+
+
+
+She looked the other way.
+TP
+
+
+
+Taichi: "Isn't it painful to have no one besides yourself to worry about you?"
+TP
+
+
+
+WVP 0 vfcca0014afyu005
+Touko: "I don't understand what you're saying."
+TP
+
+
+
+Taichi: "You want people to worry about you."
+TP
+
+
+
+Taichi: "You want them to complete you."
+TP
+
+
+
+WVP 0 vfcca0014afyu006
+Touko: "......"
+TP
+
+
+
+Taichi: "And I, for one, do worry a little."
+TP
+
+
+
+GL 1 TCKT0000
+GI 1 0
+She surely despises me.
+TP
+
+
+
+GL 1 TCKT0001
+GI 1 0
+WVP 0 vfcca0014afyu007
+Touko: "You sure can talk."
+TP
+
+
+GL 1 TCKT0003
+GI 1 0
+WVP 0 vfcca0014afyu008
+Touko: "If you're really worried about me, then why, why!?"
+TP
+
+
+
+She suddenly stood up.
+TP
+
+
+
+Taichi: "......Kirihara."
+TP
+
+
+
+WVP 0 vfcca0014afyu009
+Touko: "What!?
+TP
+
+
+
+Taichi: "Your face looks unhealthy. Is that biological?"
+TP
+
+
+
+WVP 2 se005 1 0
+
+*slap!*
+SEF 101 0
+TP
+
+
+
+
+WVP 0 vfcca0014afyu010
+Touko: "Are you an idiot!?"
+TP
+GO 1 1
+WVS 1 1
+
+
+She spat out a curse as she left.
+TP
+
+
+
+Taichi: "Ah, your sandwich......"
+TP
+
+
+
+I sighed.
+TP
+
+
+
+Taichi: "......there are better ways to kill yourself."
+TP
+
+
+
+Without a better option, I unwrapped the sandwich and bit into it myself.
+TP
+
+
+
+
+
+RET

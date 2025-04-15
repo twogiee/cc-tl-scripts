@@ -1,0 +1,412 @@
+
+Taichi: "Ah, that's right."
+//CP_T cca0026
+TP
+
+Taichi: "Sempai, please wait here a moment."
+TP
+
+WVP 0 vfcca0026msa000
+Misato: "What?"
+TP
+WVP 1 bgm012.ogg 0 0 0
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 152 0
+
+I went,
+TP
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 0
+
+And came back.
+TP
+
+I held them out in both hands.
+TP
+
+Taichi: "Handmade popsicles!"
+TP
+GL 1 TCMM0002c
+GS 1 1
+SEF 109 0
+
+WVP 0 vfcca0026msa001
+Misato: "Ah! That's amazing!"
+TP
+
+I passed one to her.
+TP
+GL 1 TCMM0000c
+GI 1 0
+WVP 0 vfcca0026msa002
+Misato: "It feels like the underlying strength of humanity."
+TP
+
+Taichi: "Huhuhu, you speak presumptuously of the one and only Kurosu Taichi."
+TP
+
+GL 1 TCMM0002c
+GI 1 0
+
+WVP 0 vfcca0026msa003
+Misato: "It's cooold and deliiiiciousÅÙ"
+TP
+
+Taichi: "Humanity banzaaai."
+TP
+
+WVP 0 vfcca0026msa004
+Misato: "Banzaaai."
+TP
+
+Many cheers for popsicles.
+TP
+
+WVP 0 vfcca0026msa005
+Misato: "What were the ingredients in these?"
+TP
+
+Taichi: "Lemon and sugar and egg whites and-"
+TP
+
+Taichi: "......my two hundred million cute little wonderful lives."
+TP
+WVS 1 0
+
+Sempai stopped cold.
+TP
+
+
+GL 4 sgcc0007
+$CGsgcc0007 = 1
+GP 4 0 0
+GS 4 1
+GS 1 0
+GS 2 0
+SEF 109 1
+For some reason her glasses suddenly fogged up.
+TP
+
+WVP 0 vfcca0026msa006
+Misato: "............"
+TP
+
+This atmosphere is bad.
+TP
+
+Taichi: "Umm, you know that's a joke, right?"
+TP
+
+WVP 0 vfcca0026msa007
+Misato: "......please exchange this for yours."
+TP
+
+Taichi: "Ah, yes."
+TP
+
+WVP 0 vfcca0026msa008
+Misato: "If you're going to say such foolish things, then you're going to have to be punished."
+TP
+
+She said that with no strange intonation.
+TP
+
+I was so scared.
+TP
+
+Taichi: "I-I'll be sure not to do that again!"
+TP
+
+WVP 0 vfcca0026msa009
+Misato: "......honestly."
+TP
+GS 4 0
+SEF 109 0
+
+The fog on her glasses cleared up in an instant.
+TP
+
+Is that voluntary?
+TP
+
+How can she control that?
+TP
+
+I was afraid.
+TP
+WVP 1 bgm012.ogg 0 0 0
+
+But, there was a benefit from that risk.
+TP
+
+
+Indirect kiss!
+TP
+
+
+On top of that, with something as sticky as a popsicle, it was a deep indirect kiss.
+TP
+
+I'm thoroughly satiated with this.
+TP
+
+GL 1 TCMM0000c
+GP 1 200 0
+GS 1 1
+SEF 109 0
+
+WVP 0 vfcca0026msa010
+Misato: "I originally came here to thank you, but ended up receiving something nice in return."
+TP
+
+Taichi: "Hu, it's nothing. Please don't fall in love with me so easily."
+TP
+
+GL 1 TCMM0002c
+GI 1 0
+
+WVP 0 vfcca0026msa011
+Misato: "That was delicious, Peke-kun. And I'm not falling in love."
+TP
+
+She has no heart.
+TP
+
+GL 1 TCMM0000c
+GI 1 0
+
+WVP 0 vfcca0026msa012
+Misato: "Thanks to that I feel refreshed."
+TP
+
+Taichi: "Since it's always hot these days."
+TP
+
+WVP 0 vfcca0026msa013
+Misato: "It is hot."
+TP
+
+Taichi: "Since it's summer, it's to be expected."
+TP
+
+
+GL 0 bgcc0000c
+GS 0 1
+GS 1 0
+SEF 109 0
+WVP 0 vfcca0026msa014
+Misato: "......I'd like to go to the beach."
+TP
+
+Sempai looked out the window.
+TP
+
+It was too dark to see the ocean, which should be in that direction.
+TP
+
+Taichi: "Then let's go there."
+TP
+
+
+GL 0 bgcc0003b
+GL 1 TCMM0000c
+GP 1 200 0
+GS 0 1
+GS 1 1
+SEF 109 0
+
+WVP 0 vfcca0026msa015
+Misato: "Eh?"
+TP
+
+Taichi: "Tomorrow at lunch we'll gather in front of the school."
+TP
+
+GL 1 TCMM0004c
+GI 1 0
+
+WVP 0 vfcca0026msa016
+Misato: "Eha?"
+TP
+
+Taichi: "We'll call everyone, of course."
+TP
+
+
+GL 1 TCMM0005c
+GI 1 0
+WVP 0 vfcca0026msa017
+Misato: "B-but in only one day......"
+TP
+
+Taichi: "It'll come about somehow!"
+TP
+
+I raised my thumb.
+TP
+
+WVP 0 vfcca0026msa018
+Misato: "But......Kiri-san, and Hasekura-san, would they come?"
+TP
+
+Taichi: "Nnn, that'll depend on my plots."
+TP
+
+Taichi: "Faith isn't needed to move the masses. You just have to hit them where they hurt. Wahaha."
+TP
+
+WVP 0 vfcca0026msa019
+Misato: "......I'd prefer it if you didn't say such cruel things with a straight face."
+TP
+
+WVP 0 vfcca0026msa020
+Misato: "Ah, but I might not fit into last year's swimsuit."
+TP
+
+Taichi: "EEH?"
+TP
+
+GL 1 TCMM0006c
+GI 1 0
+WVP 0 vfcca0026msa021
+Misato: "Hu, that's not because I've fattened up!"
+TP
+
+Taichi: "Ah, in other words, you've experienced growth?"
+TP
+
+GL 1 TCMM0000c
+GI 1 0
+WVP 0 vfcca0026msa022
+Misato: "That's right."
+TP
+
+GL 1 TCMM0006c
+GI 1 0
+WVP 0 vfcca0026msa023
+Misato: "That's really it."
+TP
+
+Taichi: "No, I wasn't doubting that."
+TP
+
+So her breasts are still getting bigger...
+TP
+
+My thoughts raced around Sempai's bust.
+TP
+
+GL 1 TCMM0004c
+GI 1 0
+Misato: "......!"
+TP
+
+She must have felt some kind of evil force, as she hid her breasts with both arms.
+TP
+
+
+GL 1 TCMM0000c
+GI 1 0
+WVP 0 vfcca0026msa025
+Misato: "And that's why I need a new......"
+TP
+
+WVP 1 bgm011.ogg 0 0 0
+
+
+GL 4 sgcc0008
+$CGsgcc0008 = 1
+GS 4 1
+GS 1 0
+GP 4 0 0
+SEF 109 0
+Taichi: "Which one?"
+TP
+
+WVP 0 vfcca0026msa026
+Misato: "You have them----!!?"
+TP
+
+Taichi: "Maybe the standard bikini strap."
+TP
+
+WVP 0 vfcca0026msa027
+Misato: "Why do you have those--------!!?"
+TP
+
+Taichi: "But your size is an 86 C-cup, so maybe this one."
+TP
+
+WVP 0 vfcca0026msa028
+Misato: "Hiki!!?"
+TP
+
+Taichi: "How about something like this shell and strap shameless ocean paradise?"
+TP
+
+WVP 0 vfcca0026msa029
+Misato: "I'll never wear that!!!"
+TP
+
+Taichi: "Then this one! A pearl white knock-out bikini."
+TP
+
+WVP 0 vfcca0026msa030
+Misato: "But you can see through it even before it gets wet......"
+TP
+
+Taichi: "It's a bit odd, but this ropeless patch is-"
+TP
+
+WVP 0 vfcca0026msa031
+Misato: "Isn't that just the front half with some adhesive!!? Are you stupid!!?"
+TP
+
+Taichi: "Or why not have fun with this one? It has see-through vinyl around the breasts so you can pretend to be topless......"
+TP
+
+WVP 0 vfcca0026msa032
+Misato: "I'm-I'm going to be raped!"
+TP
+
+Sempai covered her face.
+TP
+
+Taichi: "There's even a female loincloth here."
+TP
+
+WVP 0 vfcca0026msa033
+Misato: "Why do you have nothing besides those!!!"
+TP
+
+Taichi: "Here's something else: a swimsuit that idiots can't even see. A naked empress to test people's intellect..."
+TP
+
+WVP 0 vfcca0026msa034
+Misato: "How's that different from being naked!?"
+TP
+
+WVP 0 vfcca0026msa035
+Misato: "Rejected! Rejected-rejected-rejected-rejected-!!!"
+TP
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+SEF 109 0
+
+
+WVS 1 1
+
+WT 500 0
+
+WT 1500 0
+
+
+
+RET

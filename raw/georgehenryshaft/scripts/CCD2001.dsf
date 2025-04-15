@@ -1,0 +1,39 @@
+
+
+GL 0 bgcc0006
+GS 0 1
+SEF 152
+
+//太一「へえ、来てたんだ」
+Taichi: "Ehhh, you came."
+//CP CCB0003
+TP
+
+
+WVP 1 bgm013.ogg 0 0 0
+//This piece is removed in the console versions, but it makes the whole first part silent and it sounds odd. I suspect it's just a bug. Leaving it. -GHS
+
+
+//冬子「……」
+Touko: "..."
+TP
+
+
+//視線が窓の外に投じられる。
+Her eyesight is thrown to outside of the window.
+//PCP CCB0003
+TP
+
+
+
+
+
+
+
+
+
+
+
+
+
+RET

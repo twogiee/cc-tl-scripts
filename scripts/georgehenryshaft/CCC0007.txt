@@ -1,0 +1,480 @@
+The hokora... then.
+I twist away from the volition of going to school anyway.
+That's not something simple or easy to do.
+I think there are countless possibilities within people,
+but for the most part, a person is only controlled by their personality.
+People, in general, make the exact same selections.
+Just,
+that if the same situation were to repeat hundreds of times, it is possible they would take a statistically unlikely action.
+//But if the arrangement of particles at the start is the same, then this simply cannot happen. Yet it does. -GHS
+So I thought,
+that it's an unlikely action that I want to take.
+//And here's the point: if it's volitional, it's no longer random. Fighting against the apparent randomness is the core of the problem. -GHS
+I was going back and forth through there just days ago,
+//Continuously odd, given it's technically just the day before, although technically correct since he went down to buy stuff at Tasaki... or did he, since there's nothing posted up of his. -GHS
+together with despair.
+And now, again I am climbing the mountain.
+With the intent to go to the hokora.
+I have no goal.
+Going to the hokora may be called a goal.
+That girl... Nanaka did she say?
+I felt that the reason for her pointing there,
+could be found over here.
+//Tweaked -GHS
+Perhaps the signs of human passage have vanished a long time ago,
+that the path to the shrine seems concealed in low grass, and I can't find it.
+//Odd, since non-looping Miki must have been using this path for quite a while. And then there'd be his footsteps and more. -GHS
+Relying on intuition I advance.
+Shortly thereafter,
+
+[Taichi]
+"Found it."
+
+And my voice comes out.
+The sound had vanished from the world, together with the presence of not just the humans but of all living things.
+But what surrounds the hokora are trees and deafening silence.
+//Visuals. See CCC3003, hmmm. -GHS
+The air is solemn.
+Even the temperature feels lower.
+In this peculiar air of tension, the throat dries up,
+and I end up feeling like it is out of the question to make any sound.
+//Doesn't matter if it's a big Cathedral or a tent in the middle of the desert, nor a hokora in a forest in the mountains. -GHS
+I draw near the hokora.
+//HACK zoom the hokora (there's 2 more layers to go) -GHS
+
+[Taichi]
+"..."
+
+It was obviously strange.
+Something,
+in ways impossible to identify concretely,
+is eccentric in this place.
+Someone further deeper than rationality proclaimed,
+//何者か "NANimonoKA". No need to tell who, I hope. -GHS
+that eccentric it may be, but there are no dangers here.
+With fixed stare I survey the hokora.
+The shape is of a small shrine, installed above a tall step.
+Hinged doors, two.
+Sealed with a shimenawa.
+I must look inside.
+There does exist the possibility that some odd demonic thing is therein sealed.
+//Since monster and stuff are all taken. -GHS
+No way, how would that be...
+//Tone change -GHS
+There's no basis to even think that in the 21st Century there would do something blatant to that extent, not in this present of great praise to the destruction of the storytelling staple of the end of the century being cut short and mankind led to its Downfall.
+//Seems to connect to CCB0002 in being suitably sarcastic/denialistic. Odd, but not uncommon that Taichi would keep referring to this as the "21st century" when it's 1998, especially since the rest clearly refers to the "Year 2000 is the end of mankind" trope. Or sometime between 1998 and 2003, at least. Well, there's also another reason he would: 21=7x3. See CCZDXC. This is also further troll, since indeed this isn't a post-apocalyptic scenario but a strictly pre-apocalyptic one, and mankind is not gone at all. -GHS
+I put my hand on the doors and,
+open.
+
+[Taichi]
+"...but this..."
+
+I was astonished.
+In this plain unadorned gloomy dim space, there was no monster, and no ancient jar nor dagger nor crystal ball, but...
+//The idea of religion containing nothing but weird rituals, superstitions, and maybe some supernatural monster that hates humanity... -GHS
+Notebooks, stacked up.
+//...and what is in there instead is the history of mankind as an ever repeating loop of longing for something great, but also of consistent failure. This is very possibly Tanaka's own approach to Christianity. -GHS
+IF $loop == 2 JMP LNOTE5
+IF $loop == 3 JMP LNOTE6
+JMP LNOTE6
+//A minor plot hole, the number of notebooks never increasing beyond this. Of course it could be Youko, but it's still pretty weird. -GHS
+:LNOTE5
+Five of them.
+JMP LNOTE_E
+:LNOTE6
+Six of them.
+JMP LNOTE_E
+:LNOTE_E
+Student's notebooks of no unusuality.
+Really a mismatch though.
+I was caught by surprise.
+
+[Taichi]
+"...seriously."
+
+But from whom or from where I don't know.
+I took out a notebook.
+Carelessly, on the cover, a number is written with a magic marker.
+Volume numbers.
+//This is definitely Youko's handiwork. -GHS
+I try leafing through the notebook numbered 1.
+.........
+//HACK dim screen, BG with Touko pic. -GHS
+Monday
+Today I went to school, but cut class.
+//Someone merged these two lines in both the PS2 and 360 version... but not on the same page, on the same LINE despite the lack of punctuation. It now reads "Monday today I went to school...". I compromised and put them on the same page. -GHS
+Touko was extremely crabby and mean.
+Must be that time of the month.
+But it's not nice that she gets eight kinds of angry because of biology.
+As revenge, I'll do mean things to her in this diary.
+//HACK NVL mode -GHS
+No voices in these. -GHS
+
+[Touko]
+"No! Stop!"
+
+[Me]
+"Heh heh, no says your voice, but your body
+
+     here has evidence (snip)"
+
+[Touko]
+"Ahh, but that, no, stopit! Stopit!"
+
+[Me]
+"Not happening, when a man has come this far
+
+     there is no retreat! I can do nothing but
+     acquire lock on the target that you are with
+     the rifle of my pride!"
+
+[Touko]
+"NOOOO!!! My body, my body
+
+        you caaaaan't!!!"
+
+[Me]
+"Soon you'll come to covet this yourself!"
+
+[Touko]
+"NOOO! Have mercy!!!"
+//HACK removed many of these. Unsure how they were split, probably looking at the original script or standard page sizes. It's been changed in the console versions anyway to follow thematically instead of seemingly at random. -GHS
+
+[Me]
+"Do I look like I have ears that know how to
+
+     hear? Hyaaaa!!!"
+
+[Touko]
+"...animaaal!!!"
+//HACK ADV mode, same for SFX as above -GHS
+
+Close-up of a vase containing a red rose here. Soon afterwards, cut the flower at its base, that it falls to the ground in silence.
+//HACK whiteout -GHS
+The screen blurs, whiteout.
+                           【FIN】
+//HACK BG with Miki pic. -GHS
+I was walking down the corridor to find Miki cleaning.
+The tips of my fingers fired towards Miki's ass with the speed of lightning, but merely grazed and couldn't seize the substance.
+But Miki had been slow up until now, enough that I could touch her as much I liked.
+This is a most alarming problem, Headmaster!
+However, a pupil growing in skill is something to be honestly happy about.
+The day when she surpasses I, her mentor, grows near.
+//HACK BG with Misato pic. -GHS
+Went and had club activities for the first time in a while, and got all squishy-squishy with Senpai.
+On this day I have finally managed to reach a goal point.
+I am moved to tears, lots.
+And lots of other stuff happened, so overall it was a good day.
+//HACK away with all -GHS
+
+[Taichi]
+"But this..."
+
+It was my diary.
+I flip through the next pages.
+Monday. Tuesday. Wednesday.
+My diary and no mistake.
+But,
+
+[Taichi]
+"Odd innit."
+
+Next page.
+//HACK dim screen and, uhm... K -GHS
+Tuesday.
+//HACK NVL mode -GHS
+Make those emotions objective!
+Who was it that first took the curry out of
+the curry bread and ate that with rice?
+That is the doubt that forever hails
+difference on young little me.
+  * Hailing difference[sic]. Meaning 'to
+    torment', a logic error where a sense
+    of physical discomfort makes Taichi
+    conflate being different with the hail
+    of teases that often come as a consequence.
+    Similarly, due to having mistaken 'turtleneck'
+    for 'totalneck', to this day Taichi firmly
+    believes the name 'totalneck' must come
+    from how the sweater totally encloses
+    the neck.
+//Interesting that he apparently wrote this down, isn't it. Who'd write down notes that nobod--- wait, did I do this gag already? Damn nonlinear editing. Oh well, if you see this gag somewhere else, consider it a metareference on how it's all a continuous writing even if it looks like a loop. -GHS
+The end of these days without number spent
+repeatedly going abound and abound on these roads
+indivisible could leave nothing but the faint
+rub of a sensation of emptiness.
+  * abound and abound[sic] = around and around
+Baudelaire said this:
+                 『God is dead.』
+But to doubt the existence of God is to take
+things simply, for in a life believed to be as
+linear as the straightest of roads, where the
+days are lived giving no assent and denial
+neither to this existence, what is known as a
+Prank of God will yet with a sudden profit
+carrefours.
+  * Profit[sic] = prepare
+Ex{ae}mpli gratia in the classroom, when this
+so heirless a conversation developed with a
+most headstrong female.
+  * heirless[sic] = fruitless
+Ex{ae}mpli gratia, when in the corridor I
+simultaneously met an intimate friend and
+an estranged friend both.
+And furthermore, in the while the two fellows
+were building a most amicable relationship.
+This humble one, with regards to the both,
+whilst unable to be unfeeling of xxx (painted
+out via mosaic)'s volition of proud towering, the
+heavenlike mystery of the pair's equal endowment
+of xxxx by xxx in which approach the nose to kiss
+and xxxx's edge for which the unstinted love there
+together present xxx that xxxx with regards to the
+action to take xxx and at the end xxxxxxxxxxxxxxxx
+is xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+          『Whereof one cannot speak,
+           thereof one must be silent.』
+These are Kierkegaard's famous words.
+Allusions to Kiri-jou's modest androgyny,
+and the just ardor this one has with regards
+to the said, shall be left with this.
+For the joys of life are not merely these.
+Hence.
+A fortuitous encounter on the rooftop with the
+guide of Our life, Misato-jou, that howevermuch
+I were to write about the display of hands-on
+affection allowed by her motherlike magnanimity
+the myrrh would be most inexhaustible.
+  * myrrh[sic] = mirth.
+First, whatever I may say, her so plump
+thigh(remainder under censorship review)
+And so in my hand it remained, that
+chestcloth that so much learned of her flesh.
+On the moment of a respiratory act through the
+item already parting with that warmth by body
+induced, the faint subodorare of young woman in
+an instant whisks me into a delusional world of
+delusional delusion.
+                                            ~FIN~
+//HACK remove everything and ADV mode -GHS
+That unmistakable style I have in normal times.
+//He doesn't recognize the calligraphy, just the style. And nothing will be mentioned on this until the Youko route. How odd. -GHS
+But isn't this weird?
+Should this diary be my writing, recollections of it are yet expected to have remained.
+//This explicitly seems to ignore handwriting! -GHS
+Certainly I occasionally write in it but...
+
+[Taichi]
+"...no, this is different."
+
+There are no memories whatsoever.
+What is written in here are events that are not in my memory.
+//Given MEMORY HUNTER!!!, this is of course meaningless. See below. -GHS
+However, this is not memory loss either.
+Rather, I'm the type that even remembers the worthless.
+FSZ 17
+{}Even were I, in the tough-simmered job I will eventually have, fall in the hands of the enemy and be turned into an invalid due to truth serum injections, I would never forget things even as small as the marriage promise to a childhood friend, for that is how much of a Memory Hunter I am.
+//This is the origin of the MEMORY HUNTER!!! meme that is sweeping America and possibly threatening the space-time conteenum (not that I care, screw physics). Can't source anything specific since the drug reference is rather generic, but from what I see a truth serum could definitely cause nasty side effect. -GHS
+Well, my memory skills are good ones.
+//Yeah, look at how he recognizes Yutaka, or his mom. Troll Channel is always in session. -GHS
+Things I don't have recollections of... I'd say there's the moment of my birth.
+//See CCX0001. Whoopsie. This is a particularly interesting reading key, given how much of the specific way of trolling is given away here: the irrelevant chuuni of his Future Hard-Boiled Job tinged with a reference to Nanaka (see CCA0006A/B for why it has to be her), that leads into the superpower-level memory, and immediately after, the claim he lacks a memory that readers know they have... a memory with someone he just side-mentioned in his chuuni delusions! -GHS
+
+[Taichi]
+"Wahahah (ULOL)"
+//See CCB0008B -GHS
+
+In that sense in which the already fallen Americans would be pleased with.
+//OTOH... http://en.wikipedia.org/wiki/Hyperthymesia "Like all hyperthymestics, AJ is prone to getting lost in remembering. This can make it difficult to attend to the present or future as she is permanently living in the past." See CCX0001: what he's lost in may not be an ocean of largely unconnected words alone, especially since they're very connected by memories. -GHS
+Well then,
+I continue reading.
+Wednesday.
+Hm. Next.
+Thursday.
+And then, Friday.
+//HACK beach CG insert -GHS
+Today we went to the beach.
+Last year we had gone to the beach with everybody.
+This year, it turned into something really lonesome.
+It was awkward, but I believe there was reciprocal accumulation of enrichment, as well as attempts to touch each other in that last year.
+I was reminded of those times of nothing but fun.
+In one single year since then, we had become completely estranged.
+That respective reciprocal interest was wholly lost.
+It's because of all the things that have happened.
+But the reason is not only in that.
+...there were problems inside our hearts, as well.
+And now, in the world there is us and nothing else. What to even think about a composition so full of irony.
+//HACK rooftop insert -GHS
+At night, I went to see what Misato-senpai was doing.
+//HACK ~infinite loop~ -GHS
+Incidentally, I remembered the words of this girl named Nanaka, and went to look at the hokora.
+//See CCA0006. Heh. -GHS
+I find it easy to act at night. It's a weird genetic make-up.
+There are so many questions, but thoughts will not come to a point.
+Contrary to Nanaka's pregnant suggestion, at the hokora I did not catch sight of anything abnormal.
+//Avoiding "phenomenon" since it will be used. -GHS
+All that was there was one single scrap of paper.
+It was a note by Youko-chan.
+A brand new note.
+//This is, naturally, physically impossible. How could she know of the hokora's effect without the diaries? Did she know of the loop preservation BEFORE she knew of everything? This almost only works if Youko at least knew beforehand that the hokora would preserve time; whether it is because she's Taichi and this is part of his Settei, or because she's OMFG TEH DEVILS and knows that this religious building would preserve history forever is almost beside the point. -GHS
+           『Please save all your records here.』
+//play3rxxx.dat -GHS
+As it's always the thing with her, no explanation for the reason why.
+Because she is a human with an excessively high degree of perfection, she finds it unnecessary to come to a mutual understanding with others. Because of that, she has a tendency of being tongue-tied, uncommunicative, and to omit extraneous words.
+//Line split -GHS
+Frequently she omits excessively, so that I don't get her at all.
+However, what she says is never mistaken.
+I should definitely do this.
+And so I returned home and brought with the diary I had written until today.
+//I suppose he also added this then. -GHS
+Therefore the diary has its conclusion here.
+//HACK out with graphics -GHS
+This is how volume one ends.
+Volume two.
+Contents are nearly one and the same.
+Casual days from Monday onwards,
+then in the hokora on Saturday.
+Volume three. Volume four. Volume five.
+That repeats all over again.
+There were differences in the contents still.
+For example the timing of the meeting with the Flowers was different, and the interactions with Mimi-senpai and Touko were different.
+But in rough terms, contents appear to be traced over the exact same reiterated week.
+Just as if the exact same period of time was being repeated countless times...
+Thinking composedly, there are several possibilities indicated by these diaries.
+//HACK NVL mode -GHS
+1) There is one more personality in me that
+   is writing on its own;
+2) Something written by a future me has ended
+   up here;
+3) The same period of time is repeating over
+   and over.
+//HACK ADV mode -GHS
+Number 1) isn't it. Guaranteed.
+Because there is no such thing as giving typewriters to monkeys and them writing out Shakespeare by accident.
+//Note how this only and specifically excludes that any split personality he may have could be writing the diaries. Youko never wrote anything but that note. Remember Shakespeare, because All The World's A Stage... and we're all actors in the Great Play of God (see CS Lewis). -GHS
+Number 2), to common sense, also appears unlikely.
+//But not too much: it's something a past himself has written, which is functionally the same thing. -GHS
+Number 3)---
+At the very least, what these five diaries indicate is this possibility.
+The aforementioned note was held inside the first notebook.
+It was a hideously old note.
+It appears to be something that has been written so many years ago.
+//Meaning it's not 1998 anymore. -GHS
+All your records... then.
+//First part of note above -GHS
+I guess it means the diaries.
+Still, why do I really need to do so?
+Fundamentally, there is no record in the diaries beyond Friday.
+Volume Four, exceptionally, continues up to Saturday.
+This, in other words, means that something happens after Saturday, and all is compulsively redone from the beginning once more.
+Restart point might be Monday. Sunday is another possibility.
+Because Sunday I was feeling depressed and did not keep the diary.
+//Due to Training Camp. -GHS
+Perhaps, among these many possibilities, I would keep taking the same actions.
+No, wait a second.
+
+[Taichi]
+"Am I saying the world is repeating?"
+
+That is astonishingly ridiculous.
+But, what we have here right now...
+Let's not put the final word to this.
+//See below -GHS
+The final word is a reflection from the final destination,
+and the process of reaching it is inevitably the process of a judgment.
+For what's here, the possibility that I... no, that the world is repeating the same one week period in an endless loop is high.
+And that is where the thoughts stay.
+In this loop there seems to be a rule.
+//Rules of the Loop, a loop that is a Labyrinth and the exit only one. Where will we higurashear that in a few years? well, do contrast the end of Higurashi and the end of Cross Channel. -GHS
+That is... the erasure of subjective memories.
+Since the diaries stop at that, it is expectable that there have been at the very least five instances or more in which the world has been 'wound back'.
+//The note is years old so that can't be, you moron. This is likely a minor plot hole, though. -GHS
+At the same time, my memories are thoroughly and flawlessly wound back as well.
+This I've settled.
+//Different, much less strong than the 'final word' above. -GHS
+No part of my memory is damaged or unintelligible.
+//True. Him failing to remember doesn't mean his memory is damaged. But it's a lie by omission. -GHS
+Youko-chan, expectably of a Kunoichi, promptly became aware of this fact,
+//This is a load of bull that no sane person who understood the reading keys of Cross Channel can be expected to swallow. She just up and understands with less than zero grounds to do so. -GHS
+and then left a note behind for my sake.
+For what reason?
+Because in the end, even Youko-chan loses all her memories in the rewinding---
+Therefore, the rest of the team appears to be in the same situation.
+Mimi-senpai, Touko, Miki and Kiri, Sakuraba, Tomoki...
+
+[Taichi]
+"Indeed."
+
+I understood the difficulty of the present situation.
+Memories are reset.
+In other words,
+these memories of at last discovering the truth of things will be reset at the end of the week as well.
+In the week that (literally) follows, there will be a me living without doubts on a Monday.
+//See CCC3013. -GHS
+And I have been led to this hokora by coincidence, so that I could learn the truth once more...
+//That is the exact specific word that Miki will use to describe the killer in her route, see CCC4021. Since what he lead him here is actually Nanaka, who was pointing him to religion, the "coincidence" here is the PRovidence of God. It's no coincidence. -GHS
+
+[Taichi]
+"...whoa."
+
+This is a state of affairs where I can only fan the revolver unskillfully and hope to still hit the target.
+//From 下手な鉄砲も数撃ちゃ当たる (in a great number of unskilled gun shots there can be a lucky hit). Clear enough to use relatively literally. Given all the hard-boiled crap, he'd totally have a single-action revolver. Given Taichi and cars, he'd totally fan it... and never learn to shoot. Any other way, either. -GHS
+I felt helpless.
+There is one more rule.
+That is, this hokora is exempted from the influence of the loop, one way or another.
+Within the boundaries of this location, subjective time is preserved.
+//He's never quite clear how far the range extends. It's perhaps a hint that the range doesn't actually extend anywhere at all. -GHS
+
+[Taichi]
+"...Youko-chan, how did you even ascertain this?"
+//Still got no answer outside of meta. -GHS
+
+If there are notebooks, understanding is possible.
+But in case of there wasn't anything, how is it possible to see through to the specificity of the shrine?
+It seems unlikely to be a quest within the means of an ordinary person of roughly ordinary talents.
+However, she of course nothing like the simple straightforward ordinary person.
+//I seriously don't think any level of intelligence could lead you to figure this out in-story. Out of story, you only need to have read the Bible closely and put two and two together, but... -GHS
+
+[Taichi]
+"If anyone can do it, it's Youko-chan..."
+//I don't dislike the stock translation for this, but, it can't be helped if I stuff my vile meat poleaxe in such a small craxabutalianistic honeypot? -GHS
+
+It does seem like she is making the rounds, investigating all sorts of things.
+
+[Taichi]
+"And yet..."
+
+I think as I begin to enter inside the hokora.
+Cramped,
+that unless I folds my arms like a transforming robot, this trespass is beyond my power.
+//He must be a robot to be inside the hokora. SYMBOLISM!!! -GHS
+To begin with, this girl Nanaka - who or what is she.
+//Nanaka -> NANmono. In case someone didn't see it above. -GHS
+
+[Taichi]
+"Hmm-hm."
+
+Materials for judgment are almost nonexistent.
+All cheerful, she wears an unusual uniform, rides a bicycle, has sleek and smooth legs, firm butt, her wholly average bust so improved in value by how good she looks in her clothes...
+//Progressively delusional -GHS
+
+[Taichi]
+"Gah, cut it out."
+
+The volume has increased.
+Won't it get harder to get in the hokora with this increase in volume?!
+So I thought, but I entered without difficulty.
+//This is one of sweetest moments in the whole story if you understand the symbolism of this. He'll take him even with his monster swelling. -GHS
+
+[Taichi]
+"...sob, sob, sob."
+
+Enter I can enter, but I can make almost no movement.
+I am enveloped by the sensation of having become cuboid.
+I tried closing the doors.
+//HACK black it all -GHS
+
+[Taichi]
+"Done."
+
+But what?

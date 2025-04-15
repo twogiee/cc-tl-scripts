@@ -1,0 +1,26 @@
+
+GL 0 bgcc0011
+GS 0 1
+GS 1 0
+
+SEF 152 0
+//今日は暑かった。
+Today was hot.
+TP
+
+//海にでも行きたい気分。
+I still felt like going to the beach.
+TP
+
+//そういえば、去年はみんなで海に行った。
+Which reminds me of last year, when we went to the beach with everybody.
+//PCP CCC0007... technically. -GHS
+TP
+
+WVS 1 1
+//HACK fade music (if we're in from Week 3, this sounds pretty bad otherwise) -GHS
+
+CALL CCB0020
+//HACK If you're going to paste entire scripts, just call them and be done with it! Parts of this get as bad as Week 2, and it's nowhere near as bad as it'll be in Sendback. Even funnier when this very script is called in CCC4020. -GHS
+
+RET

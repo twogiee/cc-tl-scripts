@@ -1,0 +1,693 @@
+GL 0 bgcc0003b
+GS 0 1
+GS 1 0
+SEF 152 1
+
+WVP 1 bgm002.ogg 0 0 0
+
+//太一「……しかし」
+Taichi: "...and still."
+TP
+
+
+
+
+//原稿である。
+A script...
+TP
+
+
+
+
+//あれで没ってことは、どう攻めたらいいんだろう。
+She failed that other one, so what is a good way of attacking now?
+//"That one was rejected, so how do I attack this one" + "should I assault her somehow for saying that was rejected?" -GHS
+TP
+
+
+
+
+//手が動かない。
+The hand does not move.
+TP
+//ペンは走らない。
+The pen does not run.
+TP
+
+
+
+
+//停滞。
+Stagnation.
+TP
+
+
+
+
+//太一「うーむむむ」
+Taichi: "UhmNmNmN"
+//He's totally twirling the pen between the upper lip and the nose. -GHS
+TP
+
+
+
+//そうだ。
+Right!
+TP
+
+
+
+//タンスの中から、着流しを取り出し、着替える。
+Out of the dresser I produce a men's Kimono, and in Kinigashi style, casually dress with it.
+//http://www.kimonoguide.com/dictionary/index3.html That seems to be a wearing style, not a specific type of kimono. Seems to be specifically used for "men's kimono", which are a specific type. -GHS
+TP
+
+
+
+//太一「……文豪爆誕」
+Taichi: "...the explosive birth of a master at literature."
+//Continuing the Big Bang ref-- ehm, the metaphors. See below. -GHS
+TP
+
+
+
+//気分が大切だからな。
+Because the mood is very important,
+TP
+
+
+
+//そんなことをやっていると。
+//I have done such a thing as the one that I have just done for the purpose of what I have just done. Such. Thing.
+that is what I must do.
+TP
+
+
+
+WVP 0 vmcca0019yki000
+//友貴「おーい！」
+Tomoki: "Heeey!"
+//Following the time-honored hard-boiled tradition of having a heavy with a gun walk in whenever you have writer's block... -GHS
+TP
+
+
+
+//玄関からの声だった。
+A voice from the entrance.
+TP
+
+
+
+GL 0 bgcc0013b
+GS 0 1
+SEF 152 0
+
+
+
+//太一「なにかね？」
+Taichi: "What is it now?"
+TP
+GL 0 bgcc0013bz
+GL 1 TCST0002c
+GP 1 190 0
+GS 0 1
+GS 1 1
+SEF 109 0
+
+WVP 0 vmcca0019yki001
+//友貴「うわ……太一？」
+Tomoki: "Whoa... Taichi?"
+TP
+
+
+
+//突如とした現れた着物の男に、友貴はびびったようだった。
+Tomoki seemed to jitter in surprise at the sight of a man in Kimono materializing in front of him all of a sudden.
+TP
+
+
+
+WVP 0 vmcca0019yki002
+//友貴「なんて顔だ……」
+Tomoki: "What's that face..."
+TP
+
+
+
+//太一「ほっとけ」
+Taichi: "Vacate."
+//Pissed at his 'face' remark. -GHS
+TP
+
+GL 1 TCST0000c
+GI 1 0
+
+
+WVP 0 vmcca0019yki003
+//友貴「間違えた。なんて格好だ……」
+Tomoki: "My mistake. I mean, what's that figure..."
+//To be read literally, of course. -GHS
+TP
+
+
+
+//太一「本当に間違いなのかそれは？」
+Taichi: "Truly a mistake what you made?"
+//Hmmm. Men's Kimono tend to be dark colors http://www.kimonoguide.com/mens/index.html so what he's seeing is dark clothes and really white hair; maybe he resembles some kind of Japanese monster? Or did he confuse him for someone else? -GHS
+TP
+
+
+GL 1 TCST0004c
+GI 1 0
+
+WVP 0 vmcca0019yki004
+//友貴「ジャパニーズキモーノだな」
+Tomoki: "It's a Japanese Kimono, isn't it."
+//Gratutious English, but "キモーノ" and not the more common "キモノ". Lots of atypical transliterateing 'round Cross Channel. -GHS
+TP
+
+
+
+//太一「ジャパニーズソーセキでもある」
+Taichi: "Also the habits of the Japanese Soseki."
+//http://en.wikipedia.org/wiki/Natsume_S%C5%8Dseki (though I can't find pictures of him in anything but the most boring Early Color Period Hollywood brown jacket) + the clothes of priesthood (general), 僧籍 souseki. He's wearing the clothes of a priest in order to get inspired to write the script for his 11AM sermon: now THAT is foreshadowing. -GHS
+TP
+
+GL 1 TCST0000c
+GI 1 0
+
+
+WVP 0 vmcca0019yki005
+//友貴「ソーセキか……すごいな」
+Tomoki: "Soseki then... nice pun."
+//Making it a bit more obvious given how it's translingual and all. -GHS
+TP
+
+
+
+WVP 0 vmcca0019yki006
+//友貴「いつもそんな格好なの？」
+Tomoki: "You always dress like this?"
+TP
+
+
+
+//太一「……」
+Taichi: "..."
+TP
+
+
+
+//太一「無論だ」
+Taichi: "Assuredly."
+TP
+
+
+
+WVP 0 vmcca0019yki007
+//友貴「すごいね」
+Tomoki: "Awesome."
+//Voice doesn't sound all that amazed. -GHS
+TP
+
+
+
+//友貴はよりいっそう俺を尊敬したようだった。
+Seems Tomoki's respect for me has further grown.
+TP
+
+
+
+//着たのは二度目なのだけど。
+This is only the second time I have worn this though.
+TP
+
+
+
+//太一「で、こんな夜更けにどうした」
+Taichi: "So, what is your purpose this late in the evening?"
+//He speaks a little off-period here. -GHS
+TP
+
+GL 1 TCST0003c
+GI 1 0
+
+
+WVP 0 vmcca0019yki008
+//友貴「いや……どうしたもこうしたも……これ、太一の分」
+Tomoki: "Well... purpose, now, let's say, ah... here, Taichi, your part."
+TP
+
+
+
+//段ボール箱だ。
+It's a cardboard box.
+TP
+
+
+
+//受け取る。
+I receive it.
+//Tomoki's box is full of cucumbers. Remember this. -GHS
+TP
+
+
+
+//太一「重いな」
+Taichi: "It's heavy!"
+TP
+
+
+GL 1 TCST0000c
+GI 1 0
+
+WVP 0 vmcca0019yki009
+//友貴「詰めてあるから」
+Tomoki: "'Cause it's jam-packed."
+TP
+
+
+
+//太一「中身は……暗くてよく見えないな」
+Taichi: "What's inside... it's too dark, I can't see well."
+//Even with his eyes? -GHS
+TP
+
+
+
+WVP 0 vmcca0019yki010
+//友貴「部活のおすそわけだよ。夏場だし、無駄に抱えてても腐るしさ」
+Tomoki: "Your part of the loot from club activities. It's summertime now, so keeping this stuff around is a waste 'cause it just spoils."
+//First pass one may be intended to understand he did get it from the club room, or at least, that it's from the same club as Misato. I still believe he just goes 'round the houses and asks people if they have any leftover stuff that's ready to go bad, no need for him to steal anything. -GHS
+TP
+
+
+
+//太一「なんかの食い物？」
+Taichi: "This some sorta food?"
+TP
+
+
+
+WVP 0 vmcca0019yki011
+//友貴「そう」
+Tomoki: "Yep."
+TP
+
+
+
+//太一「悪いねぇ」
+Taichi: "Oh man, thanks."
+TP
+
+
+
+WVP 0 vmcca0019yki012
+//友貴「いいよ、だって」
+Tomoki: "It's fine, after all..."
+TP
+
+GL 1 TCST0004c
+GI 1 0
+
+
+WVP 0 vmcca0019yki013
+//友貴「友情は見返りを―――」
+Tomoki: "Friendship demands---"
+TP
+
+
+
+//太一「求めない」
+Taichi: "Nothing in return."
+//Arc words. Or so I would say, but this isn't exactly one of the most developed themes, in the end. -GHS
+TP
+
+
+
+//ぐっ
+Tahm!
+//See CCA0018B. That changes things a little, considering he was less than sincere in there. -GHS
+TP
+
+
+
+//俺たちは不敵に笑いつつ、親指を立てあった。
+We laughed fearlessly as we stuck our thumbs up.
+TP
+
+
+
+//太一「黒須太一は、青春純情ボーイ・島友貴を応援します」
+Taichi: "Kurosu Taichi shall be cheering for you, 『Boy of Pure-hearted Adolescence * Shima Tomoki!』"
+//Mostly by calling him a siscon, I guess. -GHS
+TP
+
+
+GL 1 TCST0005c
+GI 1 0
+
+
+WVP 0 vmcca0019yki014
+//友貴「いやあ」
+Tomoki: "Naaah now."
+TP
+
+GL 1 TCST0004c
+GI 1 0
+
+
+WVP 0 vmcca0019yki015
+//友貴「あ、そうだ」
+Tomoki: "Ah, right."
+TP
+
+WVS 1 0
+
+
+//顔が引き締まる。
+His face tightens.
+TP
+
+
+
+WVP 0 vmcca0019yki016
+//友貴「桐原がさ、倒れた」
+Tomoki: "Kirihara... fainted."
+TP
+
+WVP 1 bgm007.ogg 0 0 0
+
+
+//太一「……にゃにぃ？」
+Taichi: "...bwhaaaht?"
+//See CCB0002 and more -GHS
+TP
+
+
+
+WVP 0 vmcca0019yki017
+//友貴「正確には倒れていた」
+Tomoki: "Specifically, she has been fainting."
+TP
+
+
+
+//太一「あいつはハラキリ拳の使い手で、俺のカラデをもってしても倒すのは容易じゃないはずだ」
+Taichi: "That one is the master of the Harakiri Fist, that even I with my Karade do not expect to make her part with her senses!"
+//The word used here means both "to collapse" and "to [be] defeat[ed]" as in a fight. -GHS
+TP
+
+
+GL 1 TCST0000c
+GI 1 0
+
+WVP 0 vmcca0019yki018
+//友貴「その倒れた違う。それにカラデってのもわけわからないし」
+Tomoki: "Not 'fainting' because of that! And that Karade's something incomprehensible, by the way."
+//Near what his sister uses, but not quite. -GHS
+TP
+
+GL 1 TCST0004c
+GI 1 0
+
+WVP 0 vmcca0019yki019
+//友貴「そんでさ……今は桜庭が看護してるんだけど、当然役に立たないから……支倉先輩に看てもらえないかなって」
+Tomoki: "Anyway... right now Sakuraba's looking after her, but naturally he's useless, so... is Hasekura-senpai available to nurse her?"
+//Better question: why doesn't he ask in any other route? -GHS
+TP
+
+
+
+//太一「ああ、いいよ」
+Taichi: "Ahh, sure."
+TP
+
+
+
+WVP 0 vmcca0019yki020
+//友貴「すぐ頼んでもらえる？」
+Tomoki: "Could you ask her right away?"
+TP
+
+
+
+//太一「ああ、じゃちょっと行ってくるわ」
+Taichi: "Yeah, I'll be back in a while, yes."
+//Suspicious girly affectation. -GHS
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 152 0
+
+WVS 1 1
+
+//サンダルをはいて、彼女の家に向かう。
+I wear my sandals and I head towards her house.
+TP
+
+
+
+GL 0 bgcc0013bz
+GL 1 TCST0000c
+GS 1 1
+GS 0 1
+SEF 152 0
+
+//戻ってくると、まだ友貴がいた。
+When I returned back, still Tomoki was there.
+//Did he even go anywhere? -GHS
+TP
+
+
+
+//太一「いいってさ。もう行ったよ」
+Taichi: "She said OK. She's on her way already."
+TP
+
+GL 1 TCST0002c
+GI 1 0
+
+
+WVP 0 vmcca0019yki021
+//友貴「……はや」
+Tomoki: "...so quick."
+//...he just went out and came in, didn't he. -GHS
+TP
+
+
+
+WVP 0 vmcca0019yki022
+//友貴「太一の言うことだけはよく聞くんだ」
+Tomoki: "She only really does what you tell her to, Taichi."
+TP
+
+
+
+//太一「そうしないといろいろエラーが起こるからな」
+Taichi: "If she didn't, there would be many many errors happening all around."
+//Hum, this was censored in the PS2 version, not 360. May be related to Eror, see CCA0016. -GHS
+TP
+
+
+GL 1 TCST0000c
+GI 1 0
+
+WVP 0 vmcca0019yki023
+//友貴「え？」
+Tomoki: "Eh?"
+TP
+
+
+
+//太一「それより、あがって９８（キュッパチ）でゲームでもやってく？」
+Taichi: "So anyway, wanna come in and play a game with the 98 (pronounced 'kyuppachi')?"
+//So if Cross Channel is set in 1998, and Taichi has lots of computer terminology set around his split personality, and Tomoki is going to perform a disk change as he plays a game with the 98... it all makes perfect sense! -GHS
+TP
+
+
+
+//ないが。
+That I don't have.
+TP
+
+
+
+//太一「おまえ、ディスク交換担当ね」
+Taichi: "You're in charge of disk swap."
+//...well, no less than the subject suddenly changing to videogames. -GHS
+TP
+
+
+
+WVP 0 vmcca0019yki024
+//友貴「９８って何？　ウィン○ウズの？」
+Tomoki: "'98' what? You mean Wi***ws?"
+//Japanese edition released July 1998, so he'd know. -GHS
+TP
+
+WVP 1 bgm010.ogg 0 0 0
+
+
+
+//太一「嘘だと言ってくれよ、マイフレン」
+Taichi: "Mai furendo, what you just told me must be a lie."
+TP
+
+GL 1 TCST0003c
+GI 1 0
+
+
+WVP 0 vmcca0019yki025
+//友貴「……わけわかしまず」
+Tomoki: "...you tryin' to flash kick my thoughts?"
+//Captain Tsubasa reference as far as I got, wakashimazu 若島津. Young, island... almost self-referential if so. http://ja.wikipedia.org/wiki/%E8%8B%A5%E5%B3%B6%E6%B4%A5%E5%81%A5 Flash Kicker's the most 'official' Western name AFAIC. See CCZAS, there's a callback so I kept it -GHS
+TP
+
+
+
+//友貴のギャグはこんなのばかりだ。
+Tomoki's gags are all like this.
+TP
+
+
+
+//太一「本気で９８知らないのか？」
+Taichi: "You really don't know the 98?"
+TP
+
+
+
+//パソコン少年の分際で。
+When his social class is that of a PC guy!
+//Ah, this is also recurring. -GHS
+TP
+
+GL 1 TCST0004c
+GI 1 0
+
+
+WVP 0 vmcca0019yki026
+//友貴「少なくとも、今まで聞いたことはないな」
+Tomoki: "Haven't heard about it 'till now at least."
+//Now this is just odd, however. A PC user in Japan in 1998 who has never even heard of the PC-98? -GHS
+TP
+
+
+
+//太一「……そういうものなのかな……いや、俺だって世代違うけど……」
+Taichi: "...that you would say something like... nah I'm from the wrong generation too, but..."
+TP
+
+
+
+//太一「けど友貴、今の発言は昭和四十年代以降に生まれたすべてのパソコンおじさんたちを敵に回したぞ？」
+Taichi: "But Tomoki, that utterance right there just made you an enemy of every older PC user born after Showa 40, you get me?"
+//1965. I think the point is the same as with Miki having boobs, except it's more troll given what 98 means here. -GHS
+TP
+
+GL 1 TCST0000c
+GI 1 0
+
+
+WVP 0 vmcca0019yki027
+//友貴「いや……今さらぜんぜん恐くないし……」
+Tomoki: "Nah... I don't think there's annnything to be feared from them now..."
+TP
+
+
+
+WVP 0 vmcca0019yki028
+//友貴「だいたい昭和なんて古生代に生まれたオールドタイプ１００％な原始人のことまでいちいち面倒見てられないよ」
+Tomoki: "Besides, we can't take care of every single one of those 100% Old Type cavemen born in Paleozoic eras like Showa."
+//Curious his first thought is not to how there are no more around, isn't it. -GHS
+TP
+
+
+
+//太一「ッッッ！？」
+Taichi: "KHHH!?"
+//Snake? SNAAAKE! Fucking metal gears... -GHS
+TP
+
+
+
+//俺は畏怖した。
+I was frightened.
+TP
+
+
+
+//太一「そんなこと言ったらダメェ～ッッッ！！」
+Taichi: "YOU CAN'T SAY THAAA～T!!!"
+TP
+
+GL 1 TCST0003c
+GI 1 0
+
+
+WVP 0 vmcca0019yki029
+//友貴「なんでさ？」
+Tomoki: "And why?"
+TP
+
+
+
+//友貴はわりと恐いもの知らずだ。
+Tomoki is comparatively unaffected by terror.
+TP
+
+
+
+//太一「そ、それが若いってことなんだろうな？　な？　無謀な若さって本当に恐いなあ、友貴よ」
+Taichi: "Th-, that's just a thing of youth, right? Right? Reckless youths really are scary, my dear Tomoki!"
+TP
+
+
+
+WVP 0 vmcca0019yki030
+//友貴「だってさ……おじさんはおじさんコミュニティで得意のガン○ム話でも永遠にスパイラルさせておけばいいんじゃないかな？」
+Tomoki: "'cause you know... wouldn't it be better to put the older men in old men communities where they can keep those discussions about Gun**m that they're so good at spiraling on endlessly?"
+//Instead of caring for them one by one. Same term as the post-Showa 40 PC-98 users, so it's basically a direct insult. -GHS
+TP
+
+
+
+//太一「ひぃぃぃぃぃぃぃぃぃぃぃぃぃっ！？」
+Taichi: "Hyyyyyyyyyyyyyy?!"
+//Counting the one inside the 'hi', ぃx14 -GHS
+TP
+
+
+
+//寿命が縮んだ。
+My life expectancy contracted.
+TP
+
+WVS 1 1
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 152 0
+
+IF $loop == 0 RET
+//These three lines are only for non-first route. -GHS
+
+//そして思い出した。
+And then I remembered.
+TP
+
+//去年のこのぐらいの時期。
+About last year, around this time,
+TP
+
+//はじめて和服を着た日に、遊紗ちゃんが遊びに来たことを。
+when Yusa-chan came to visit, on that first day I had worn Japanese clothes.
+TP
+
+
+
+RET

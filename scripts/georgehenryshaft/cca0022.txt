@@ -1,0 +1,549 @@
+IF $loop == 0 JMP NORM
+//That's one 178 lines saved! Nice. -GHS
+HACK Flashback intro. -GHS
+JMP SCENE
+:NORM
+//This is the only flashback in W1 that uses the typical cicada sound. -GHS
+JMP SCENE
+:SCENE
+
+[Taichi]
+"Ohhh, smell that!"
+
+The number of guards is pretty low.
+There are always around ten standing around, but today it's only two.
+//Which are going to be zero in case of off-hour. -GHS
+It's gotten hot so, maybe because everybody's mentally cracking up, there's many not attending.
+//Should be more evident, on second reading, what exactly this means. Except, on further readings, this is even more suspect: this is a very good explanation for why there's no one around. More importantly, the guards themselves seem to be cracking up in the heat! -GHS
+Therefore, even the cafeteria was in many ways deserted.
+//Though it isn't totally empty. -GHS
+Thanks to that, even menus with a high rate of competition can be comfortably obtained.
+Well... using a certain 'connection', they are always easily obtained.
+//So, would Yusa's mom have much issue being overbearing to Taichi even if her daughter isn't exactly on good terms with him anymore? From the way Yusa's grown up to be completely incapable of expecting kindness, little things like Taichi trying to push her down shouldn't be much of an obstacle. -GHS
+But 'that' is something not to be used.
+It is forbidden esoterica.
+//This is how he'll describe the Parachute Death Sentence. -GHS
+A double-edged sword.
+Ahhh, but Yusa-chan's adorable ain't she.
+I buy a B-meal ticket and bring it to the counter.
+//HACK music starts later -GHS
+The voice of Yusa's mom was recast for the 360 version, as there's new lines for her in the After Story. I think they're a bit better, but not enough to bring 'em over. At least they gave her a direction other than "here's a paycheck, the script and a phone number, call us whenever and leave the script recorded on the answering machinet, no hurry" like they did for console Sakuraba, all the way to the new retakes in the 360 edition. (If that's intentional, then I confess I don't get it.) -GHS
+
+[Voice]
+"My it's YEH! What're ya doin' 'round here?!"
+
+(98 phon)
+//Remembering that phon is a subjective unit of measuring: jackhammer on concrete. -GHS
+IF $loop == 0 GL 5 zzzCCA0022phon098
+IF $loop != 0 GL 5 zzzCCB0019phon098
+//HACK phon GFX. I kept the line about phon above since it's not really clear with the graphics alone, but it was removed in the console versions. This is actually a cleaned-up screenshot, and it actually looks like complete crap. However, without the mask the actual GFX file looked even worse! It's not onscreen long enough to be noticeable except by the most eagle-eyed, I guess. -GHS
+
+[Taichi]
+"d'WAAAAH?!"
+
+She appeared!
+IF $loop == 0 GL 4 zzzCCA0022mamanNorm
+IF $loop != 0 GL 4 zzzCCB0019mamanNorm
+//HACK music + just run -GHS
+
+[Voice]
+"Whatta nice hello, guheheh!"
+
+The woman who said this then laughed with a muffled voice in that way typical of those somehow bizarrely giant bandit boss typically encountered merrymaking with alcoholics in the depths of some damp cave in your garden variety fantasy game.
+//Line split -GHS
+Let's not kid ourselves, he's totally referring to Final Fantasy or Dragon Quest et similia. -GHS
+(By the way, there have even been reported cases where their body frame is physically larger than the cave entrance. That a joke?)
+//Unfortunately too long to change via font size, as the result is far too small. -GHS
+Frightening.
+//HACK added a couple of lines from the console version. -GHS
+However, so luckily for me, I have an amicable relationship with this heel wrestler personage.
+//Wrestling keeps returning. -GHS
+However---
+//End added lines. See CCB0018 on that last one. interesting. -GHS
+
+[Taichi]
+"Don't surprise me, madam! I am but a frail man of letters!"
+//This is what Youko does. SOMEONE has a mommy problem in this VN. -GHS
+
+IF $loop == 0 GL 4 zzzCCA0022mamanSmile
+IF $loop != 0 GL 4 zzzCCB0019mamanSmile
+//HACK Yusa's mother smile -GHS
+
+[Madam]
+"Yeh, have the lettr's spirit? Even dumb asses think more about what they say!"
+
+(118 Phon)
+//Borderline hearing damage possibility. Laterally "less of your nonsense!" but of course more literally is funnier. No separate doll, so no independent shake. Curiously, a 'tamakai' is a large coral reef fish. There's plenty of fish stuff because Kinoko NASUUUUUUUUUUUUU-GHS
+IF $loop == 0 GL 5 zzzCCA0022phon118
+IF $loop != 0 GL 5 zzzCCB0019phon118
+BOOM!, that's how those harsh words echo throughout the cafeteria.
+Tremors rattled the tempered glass windows (improbable).
+I am bathed in an excess of attention.
+
+[Taichi]
+"...voice's loud, madam."
+
+IF $loop == 0 GL 4 zzzCCA0022mamanNorm
+IF $loop != 0 GL 4 zzzCCB0019mamanNorm
+//HACK Yusa's mother normal -GHS
+
+[Madam]
+"But I've been talking normally ya know. Kids here're built weak!"
+
+(94 phon)
+//Near-jackhammer -GHS
+IF $loop == 0 GL 5 zzzCCA0022phon094
+IF $loop != 0 GL 5 zzzCCB0019phon094
+//HACK phon GFX. -GHS
+
+[Madam]
+"Ye too don't be holdin' back now ya hear!"
+
+(115 phon)
+//This is nearly on the levels of people dead-set on beating Pac-Man. -GHS
+IF $loop == 0 GL 5 zzzCCA0022phon115
+IF $loop != 0 GL 5 zzzCCB0019phon115
+//HACK phon GFX. -GHS
+
+[Taichi]
+"?!"
+
+Sensing peril, I take a step back.
+The palm of an hand so gigantic one could correctly call it heteromorphic crossed right before my eyes with a 'whoff'.
+
+[Taichi]
+(That now) (skinship?) (if that had been a direct hit...) (death?!)
+
+All fluky-fluky I made use of a Tsutsui Yasut*ka's Nanase Series-like Process of Intrapsychical Expression.
+//Can't source an official translation of what I assume to be Nanase's mind-reading power. Supposing the line above is also a reference. http://en.wikipedia.org/wiki/Yasutaka_Tsutsui "unconsciously" is also written Tsuitsui, so it's a really crap pun. Have an odd word that's still close enough in meaning instead. -GHS
+For some reason I think there's a connection with Nana-se (seven - currents) (there ain't).
+//That's no lie, it's only a reference to the number seven. -GHS
+
+[Madam]
+"Yer really a quick one, ain'tcha! Guheheh!"
+[Madam]
+"So ya came here for some grub or somethin', right?"
+
+[Taichi]
+"Ye-, YESH."
+
+With the same feeling as of feeding a hungry lion, I hand over the meal ticket.
+//See CCB2002. This reminds very much of that Belly Bug scene. -GHS
+IF $loop == 0 GL 4 zzzCCA0022mamanSmile
+IF $loop != 0 GL 4 zzzCCB0019mamanSmile
+//HACK Yusa's mother smile -GHS
+
+[Madam]
+"Yer always so nice to Yusa, so lemme give ya somethin' good on the house!"
+
+[Taichi]
+"HA-HA-HA, thanks, HA-HA-HA."
+
+Yes.
+It is most assured that this milady here is the very birth mother of 『Ultimate Bishoujo * Yusa-chan』.
+//Very formal, except for 'bishoujo' of course. -GHS
+Therefore, even that girl could, in a number of years, become---
+//See CCD0021. Seeing it yet? -GHS
+IF $loop == 0 GL 0 bgcc0009
+IF $loop != 0 GL 0 bgcc0009s
+IF $loop == 0 GL 4 zzzCCA0022mamanNorm
+IF $loop != 0 GL 4 zzzCCB0019mamanNorm
+//HACK since this actually dissolves into the graphics, and there's a change right there. -GHS
+Yusa's mom: "Wassit now? Ya twitchin'."
+
+[Taichi]
+"Sooo-rry, bit of vertigo."
+
+Yusa's mom: "Tha'ss no good is it! Ya don't have enough blood in yer meat!"
+So decided our Most Esteemed Mother.
+//Like the -gata, little point in retaining this as it's neither common nor used outside this scene. -GHS
+Yusa's mom: "Here'ya go, Meal Set S!"
+
+[Taichi]
+"Does S even exist?"
+//See Taichi's internal categorization. Interesting... -GHS
+
+IF $loop == 0 GL 4 zzzCCA0022mamanSmile
+IF $loop != 0 GL 4 zzzCCB0019mamanSmile
+//HACK Yusa's mother smile -GHS
+Yusa's mom: "Ah' made it jus' for YEH!"
+(118 phon)
+//Back to good odds of hearing damage. -GHS
+IF $loop == 0 GL 5 zzzCCA0022phon118
+IF $loop != 0 GL 5 zzzCCB0019phon118
+So she said in a voice so gargantuan it resonated throughout the cafeteria.
+Psst, psst...
+I'm being psst-psst'd about.
+//And since everyone here knows Yusa's her daughter... -GHS
+
+[Taichi]
+"...this one is thankful, Most Esteemed Mother..."
+
+Yusa's mom: "My, Most Esteemed Mother didja say, that makes me so happy!"
+The serving of rice doubled.
+//Specifically rice, the rest increases afterwards. -GHS
+IF $loop == 0 GL 4 zzzCCA0022mamanNorm
+IF $loop != 0 GL 4 zzzCCB0019mamanNorm
+//HACK Yusa's mother normal -GHS
+Yusa's Mom: "So, ye, how's it goin' with my daughter?"
+
+[Taichi]
+"Ah, what could one possibly answer to that?"
+//He goes hyperpolite 'round here. She's truly terrifying. -GHS
+
+Yusa's Mom: "Aint'cha taming her with some skill now!"
+//The term's bad enough, but it's literally "hand" + "making emotionally attached". Sooo nasty. -GHS
+
+[Taichi]
+"Cough, cough!"
+
+IF $loop == 0 GL 4 zzzCCA0022mamanSmile
+IF $loop != 0 GL 4 zzzCCB0019mamanSmile
+//HACK Yusa's mother smile -GHS
+Yusa's Mom: "Son-'n-law, eh? Nice innit. Guehehehe!"
+
+[Taichi]
+"In law?!?!"
+
+The trout...?!
+//Trout hold, below. Or, "the increase", or... -GHS
+
+[Taichi]
+"Excuse me, but, do please wait, Most Esteemed Mother!"
+
+Yusa's mom: "Ye'll do fine, ya don' need worry!"
+The slices of tonkatsu became two.
+This is... bribery! An offer I can't refuse?!
+//Ｙ炉 'Y' + 'furnace'. It's pronounced wairo, like the actual word for bribery. Can't source the origin; maybe just a meme of sorts. -GHS
+Psst, psst...
+
+[Taichi]
+"AhWahWahWahWah!"
+
+I'm being rumor'd about!
+//I never knew rumor was a verb! You make up something every day. -GHS
+I am reeeally being rumor'd about right now!
+Yusa's Mom: "Ye look like ya got a lots of stuff on yer mind, but don'tcha think about all th' hard stuff now!"
+Yusa's Mom: "Ya leave ever'thing to lil' me!"
+//atashi ew ew ew ew ew ew ew -GHS
+In that Wakame that one'd expect to always be thin on ingredients, somehow, a crab got tossed in whole.
+//Must be that dreaded Myso Syrup, which is like miso soup but evil. Where'd she get a craKinoko NASUUUUU-GHS
+Psst, psst, psst, psst...
+//That's 8 psst (excluding the ones he himself used as verb). -GHS
+
+[Voice]
+"...taking bribes..."
+[Voice]
+"Crony capitalism..."
+//Literally "retired government officials taking lucrative jobs in the private sector", although there's something about golden parachuting it's obviously got nothing to do with this particular instance. Or, because SYMBOLISM!!!, "descent from heaven". -GHS
+[Voice]
+"...insider trading."
+[Voice]
+"Something unlawful going on..."
+[Voice]
+"...parties related to the issue of formal visits to the shrine of..."
+//Probably just a tone-change joke. The sentences flow into each other to an extent, but not in a way that appears obvious. -GHS
+
+[Taichi]
+"Uguu!"
+//It's that specific "noise" from Kanon. Except it's a couple years off from this scene... suppose it's close enough in a certain sense. -GHS
+
+This is bad.
+This is a problem that affects Kurosu Taichi's very own good name.
+The slices of tonkatsu became four.
+
+[Taichi]
+"It is way too much!"
+
+IF $loop == 0 GL 4 zzzCCA0022mamanNorm
+IF $loop != 0 GL 4 zzzCCB0019mamanNorm
+//HACK Yusa's mother normal -GHS
+Yusa's mom: "Hm? Whassat, inn'this 'bout how much ya eat, yer a man after all!"
+A hand so like a crown-of-thorns starfish greedily devouring coral somewhere in Okinawa struck my shoulder with a loud smack.
+The weight of about two unloaded freight trucks pushed me down to the floor.
+//It's about the doubling of his own weight, but the term's also used for empty vehicles (when it's not about self-care and prudence?) and this is both funnier and technically not (too) incorrect. See CCD0021 yet again. So not funny in retrospect. -GHS
+
+[Taichi]
+"G'waaah!!!"
+
+I go to my knees.
+IF $loop == 0 GL 4 zzzCCA0022mamanSmile
+IF $loop != 0 GL 4 zzzCCB0019mamanSmile
+//HACK Yusa's mother smile -GHS
+Yusa's mom: "My, bit rude that was! AHAHAHA! Ye really need some eatin'! So ye'll get a little weight on!"
+//Assuming she means her behavior. Noticeably different laugh. -GHS
+
+[Taichi]
+"Nggh..."
+
+Yusa-chan... if you don't hurry and leave home, all fat you'll be made to become.
+//HACK fade music, out with Yusa's mom (whew) -GHS
+With enough food for five ordinary men or more, I sit in a suitable spot.
+IF $loop == 0 GL 1 TCST0000
+IF $loop != 0 GL 1 TCST0000S
+
+[Tomoki]
+"As always, ya got some strong connections there."
+//HACK in music -GHS
+
+IF $loop == 0 GL 0 zzzCCA0022cafezoom
+IF $loop != 0 GL 0 zzzCCB0019cafezoomFB
+//HACK zoom this BG/CG -GHS
+C meal tray in hand, Tomoki sits next to me.
+
+[Taichi]
+"Ah, Tomoki-sensei."
+
+[Tomoki]
+"You sharing some of that fortune?"
+
+[Taichi]
+"Share my fortune I do."
+
+[Tomoki]
+"You sure?"
+[Tomoki]
+"I can't eat all this."
+[Tomoki]
+"Then, with your permission..."
+//See CCC0011A. Odd contradiction, isn't it? But this could just be Tomoki forgetting this part, as convenient for him. -GHS
+
+He grabbed some tonkatsu.
+
+[Tomoki]
+"I was eating bread with Sakuraba 'til like now, but that's not enough."
+//This could mean he was eating bread earlier in the day, which fits the idea that the cafeteria is less than strict on that stuff. That's why Sakuraba's first hour is Curry Bread. -GHS
+
+[Taichi]
+"Because you're ex-sports club."
+[Taichi]
+"But I'm not doing physical training or anything anymore."
+[Taichi]
+"If all you got is muscles, all they do is eat out fat. That's why muscleheads have poor fuel efficiency."
+//This isn't much followed upon, but it's still the Driving allegory. -GHS
+
+[Tomoki]
+"Ehhh? So having no muscles is better?"
+
+[Taichi]
+"Yammoron. If you got yourself a constitution that doesn't grab excess weight, it's better to only do muscle training with moderation."
+//Wouldn't want to end up with his cut tendons on manual drive? Seriously, this is kinda random. -GHS
+
+[Tomoki]
+"I get it."
+
+[Taichi]
+"Sakuraba's got curry bread again?"
+
+[Tomoki]
+"Scarfed down about seven of 'em."
+//7=7 -GHS
+
+[Taichi]
+"Eugh."
+
+[Tomoki]
+"The curry bread that the contractor of this cafeteria makes is Mai Favorite Curry Bread, he says."
+//I wonder if Tanaka just transliterates stuff himself, as he keeps using odd uncommon spellings. More common is フェイバリット -GHS
+
+[Taichi]
+"Dumb tongue, his."
+[Taichi]
+"Dumb tongue, yeah."
+
+We eat.
+
+[Taichi]
+"Dammit, I eat and I eat but it don't decrease!"
+
+[Tomoki]
+"...need some help?"
+
+[Taichi]
+"Help I need."
+
+[Tomoki]
+"Hey, they put a crab in the miso soup!"
+
+[Taichi]
+"...so they did."
+
+[Tomoki]
+"What connection's even that, man..."
+
+[Taichi]
+"It is the World's Strongest Submission, The Trout Hold (son-in-law clampdown)."
+//Anyway, the term means 'son-in-law consolidation', but also has the implication of 'pledge', so she's securing him as son-in-law via corruption. As holding a trout's hard, according to such reliable sources as random googling, then adapted so it fits both. -GHS
+
+[Tomoki]
+"You mean the daughter of that lunch lady?"
+//why are there ladies for lunch -GHS
+
+[Taichi]
+"Yah."
+
+[Tomoki]
+"Really, she's gonna look like her mother right."
+//= he doesn't know Yusa yet -GHS
+
+[Taichi]
+"Nah, she's this reeeally cute meganekko. She got kinda attached to me. She believes my words to the last, it's unbearable."
+//Japanese is to fetish term what English is to tech stuff, never forget. -GHS
+
+[Tomoki]
+"Well then, no problem."
+
+[Taichi]
+"Nah..."
+[Taichi]
+"I intend to ascend to an aggressive tough-simmered job the likes of which you need an account in a swiss bank, I can't afford to meow-meow with an honest frau."
+//That's "hard-boiled" written in kanji, which is as silly as the translation. http://vndb.org/v1 (kidding, but like 95~~~ 99.999% of the words in Japanese, nyan-nyan IS an euphemism for sex). I'm assuming he wants to be an extremely well-paid author of texts with more or less philosophical and/or pretentious overtones. Reminds me of someone, but I can't tanaka who. Original term is "[honest] kuunyan", which has nothing to do with nyan and only means "unmarried woman" (or "chinese girl"). Since there's lots of fraulein 'round here, that should work. -GHS
+
+[Tomoki]
+"I heard gibberish."
+//You and me both. -GHS
+[Tomoki]
+"Ah, say Taichi, how'd the Conformity Coefficient Test go?"
+//Since there's not much information on this, it's unclear if it's an annual thing or it's done just once or it's done on entering each school level. Given Kiri eventually leaves Gunjou, I suspect it's routine. -GHS
+
+[Taichi]
+"How the hell should I say."
+//HACK now unneeded -GHS
+
+I pour some self-service barley tea in a glass and gulp it down.
+
+[Taichi]
+"Frenzily high. Most hopeless. Teacher in charge stared at me with dead eyes that just said, man this guy's way dangerous."
+//激高 the kanji are "super" and "high", but it means "frenzied". Second is formal. -GHS
+
+[Tomoki]
+"How much?"
+
+[Taichi]
+"...84%"
+//100-84=16 1+6=7 -GHS
+
+[Tomoki]
+"Uhwah, if only those were your grades!"
+//http://en.wikipedia.org/wiki/Academic_grading_in_Japan see also CCD1001 -GHS
+
+[Taichi]
+"Indeeed, yeah. Sooo bad innit. Me, I might be turnin' into something real nasty I might."
+
+[Tomoki]
+"They might even dissect you at the research building."
+//Class X might be that, so leaving specific. -GHS
+
+[Taichi]
+"Have mercy!"
+
+I cling to him.
+//Seems sort of half-comically so? Most instances of this are. -GHS
+
+[Tomoki]
+"It's absurd... the world you live in is different from mine and my 17%."
+//What a suspiciously specific choice of words! 1+7=8. -GHS
+
+[Taichi]
+"PfWHAT?! How come you have the same score as a normal person?!"
+
+[Tomoki]
+"...told ya, I'm External Damage."
+//Gunjou lingo, though it's rarely recurring. -GHS
+
+[Taichi]
+"Ah, right..."
+[Taichi]
+"I thought that you being an incredible dolt would make us about equal."
+
+[Tomoki]
+"Yer one to talk!"
+
+[Taichi]
+"Ah, Sack (disparaging nickname for Sakuraba) should also be pretty low scoring."
+//Adapted. Original was Raba, meaning mule now it's... oh fuck... sackuraba... what have I done -GHS
+
+[Tomoki]
+"That guy was about 15 I think."
+//Hoh, this one doesn't seem to fit. Though given Sakuraba, that'd be normal. But add all three... 116=1+1+6=8. -GHS
+
+[Taichi]
+"Isn't that guy Internal Damage? Why'd he even end up in Gunjou with that score?"
+//Sakuraba entered Gunjou in high school, so this is more hints that they're first years. -GHS
+
+[Tomoki]
+"Well, seems he wrote Gunjou on his school application form."
+//HACK these lines were removed. They are nonsensical, in fact, given at least Tomoki shouldn't be shocked about this. Might have something to do with how they're unvoiced, though, see CCA0030 for another odd one. -GHS
+
+[Taichi]
+"...don't get it."
+
+[Tomoki]
+"...iii-dem."
+//Matches voice. -GHS
+
+[Taichi]
+"This countrywide testing's pretty damn half-assed."
+[Taichi]
+"Ah, that reminds me, you, get back and patch things up with your onee-san right quick."
+[Taichi]
+"It's gonna be hard but there's no other ways."
+
+[Tomoki]
+"It's just that onee-ch--- aneki betrayed me..."
+
+This guy was just about to say 'onee-chan' wasn't he?
+...well, whatever.
+
+[Taichi]
+"Miyasumi-senpai? Her?"
+
+Tomoki and Mimi-senpai are siblings,
+//Hmmm, but CCA0027 implies he doesn't have a nickname for her yet. Maybe things were just not kept quite straight. -GHS
+but last name's different.
+
+[Tomoki]
+"I joined the Broadcast Club, but you know, I was forced. I thought I'd join the Going Home Club, but she went all, 'you are a PC boy therefore you ought come to help', and all that."
+//Quote is Misato-ish. See CCA0029, then CCD1001B: Taichi'll be tossing Misato's words at him multiple times. -GHS
+[Tomoki]
+"I'm a PC boy so come help. What kind of logic is that?"
+
+[Taichi]
+"Maicching."
+//And here's the cementing reference to http://en.wikipedia.org/wiki/Miss_Machiko - this is her catchphrase. It Googles(tm) therefore kept untranslated. -GHS
+[Taichi]
+"Ain't it nice anyway. This is still sorta like a Going Home Club."
+
+[Tomoki]
+"Well, now... either way, they don't have a Basketball Club here."
+
+[Taichi]
+"Wait, you can't run wasn't it?"
+
+[Tomoki]
+"Well..."
+
+[Taichi]
+"Give it up. Life's carefree when you don't have upperclassmen annoying you."
+
+[Tomoki]
+"I thought if I was in the Going Home Club, I could read aaall the manga I like."
+//Hey, like Taichi at the end! -GHS
+[Tomoki]
+"Why do I even have to go and get all along with Aneki and have happy club activities after all that!"
+//Supposing he means their parents' divorce due to Misato. -GHS
+
+[Taichi]
+"...our siscon's a hypocrite."
+//See his behavior in CCA0007. -GHS
+
+[Tomoki]
+"Did you say something now?"
+
+[Taichi]
+"Nooo-thiiing."
+
+IF $loop == 0 RET
+//below is just for flashback exit stuff. -GHS
+               These were memories
+                from one year ago.

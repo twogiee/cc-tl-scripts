@@ -1,0 +1,323 @@
+GL 4 efcc0003
+GP 4 0 0
+GI 4 0
+SEF 109 0
+
+
+
+WVS 1 0
+
+//がくん、と体が突き押された気分だった。
+Twang, then the feeling of my body being pushed through.
+//He then speaks of blood falling down below his feet, so I don't think he collapsed yet. The entire following is probably no more than a few seconds anyway. -GHS
+TP
+
+//太一「……ん」
+Taichi: "...ngh."
+TP
+
+//そうか。と思った。
+Of course. I thought.
+TP
+
+//妙に納得してしまった。
+Oddly I have completely understood.
+TP
+
+//自分の胸を貫く、一本の矢。
+A single bolt was piercing my chest.
+TP
+
+//そうか。
+Of course.
+TP
+
+//そうかそうか。
+Of course of course.
+TP
+
+//きっと俺は動いてしまったのだ。
+I have definitely moved, indeed,
+TP
+
+//そして霧に撃たれた。
+and then I was shot by Kiri.
+TP
+
+//実にわかりやすい。
+Truly easy to understand.
+TP
+
+//＊＊「＊＊＊＊＊＊＊っっっ！？」
+???: "******!!!?!?"
+//HACK tag changed to question marks, same as CCB2021. -GHS
+TP
+
+WVP 1 bgm021.ogg 0 0 0
+
+
+
+//誰だろう。
+Who's even that.
+TP
+
+//誰が心配してくれているのかな？
+Is somebody even worrying about me?
+TP
+
+GL 5 zzzCCB0023misatoblend
+GP 5 0 0
+GI 5 1
+//HACK Misato transparent -GHS
+
+//先輩かな。
+Senpai maybe?
+TP
+
+GL 5 zzzCCB0023toukoblend
+GI 5 1
+//HACK Touko transparent -GHS
+
+//冬子かな。
+Touko maybe?
+TP
+
+GL 5 zzzCCB0023mikiblend
+GI 5 1
+//HACK Miki transparent -GHS
+
+
+//美希かな。
+Miki maybe?
+TP
+
+GL 5 zzzCCB0023sakutomoblend
+GI 5 1
+//HACK Sakuraba & Tomoki transparent -GHS
+
+
+//桜庭か友貴だったら……切ないなぁ。
+If it's Sakuraba or Tomoki... that'd huuurt.
+TP
+
+GO 5 1
+//HACK out with 'em -GHS
+
+//すまん。俺死ぬわ。
+Sorry. Me die now.
+TP
+
+//桃園の誓い……守れなかった……。
+I could not uphold... the Oath of the Peach Garden...
+//http://en.wikipedia.org/wiki/Oath_of_the_Peach_Garden see CCD0001 -GHS
+TP
+
+//って、もともと破っていたんだっけ。
+Wait, I broke that from the start haven't I.
+TP
+
+//ははは。
+Hahahah.
+TP
+
+//はははは。
+Hahahahah.
+TP
+
+//笑いたくても声が出ない。
+I wanna laugh but no voice comes out.
+//He wants to laugh x7 but he can't. -GHS
+TP
+
+//胸のあたりから、もやもやした圧迫感がこみあげてくる。
+From the center of my chest, a foggy oppressive sensation fills my heart.
+//SYMBOLISM!!! -GHS
+TP
+
+//胸元を見ると、自分の吐いた血が足下まで濡らしていた。
+On looking at the pit of my stomach, the blood I've spilled dampens me down to my feet.
+//There's no indication he's thrown up, plus most of the blood would still come from the wound so I decided it's not literal! Truly no one can stop me. -GHS
+TP
+
+//こりゃ大事だ。
+Maaan this is trouble.
+TP
+
+//やばい、マジで死ぬ。
+This looks very bolt, I'll die for real.
+//ya-bai, whereas ya=arrow/bolt -GHS
+TP
+
+//死にたくないなぁ。
+But I don't wanna die!
+TP
+
+//すごくすごく生きたいぞ。
+I wanna live so so very much!
+TP
+
+//たくさんＨなこともしたいし、テレビも見たいし、連載もののマンガだってちゃんと結末を見ておきたいし。
+And I wanna do lots of pervy things, and I wanna watch the TV, and I wanna see a real conclusion to manga serials.
+//Pffft, a manga ending. Fat chance right. -GHS
+TP
+
+//やだなぁ、死ぬの。
+Not nice, huh, getting the shaft and dying.
+//Ya-da (seriously stop that) -GHS
+TP
+
+//あー、でも俺ってヤングアダルト候補生だからなんか奇蹟の力で生き返るかな。
+Ahhh, but me's a Young Adult Cadet so I'll just come back to life by the power of a miracle or something won't I.
+//Less funny considering it's pretty much literally true. -GHS
+TP
+
+//俺の亡骸に美少女がすがりついて涙を落とすと、その雫が触れた瞬間パーッと明るく輝いてたちまち蘇生したりするのだ。
+My spoils shall be hugged and cried upon by a beautiful girl, and the instant one of her tear touches me, boom!, a brilliant white light and suddenly I will be revived.
+TP
+
+//感動だね。
+So emotional innit.
+TP
+
+//じゃ、とりあえず死に際に何かギャグをかましてみようかな。
+So, for now, what sketch should I force myself into here on the edge of death?
+//I'm guessing those were the above arrow puns. -GHS
+TP
+
+//男としてそれは格好いいことだ。
+That's the cool thing for a man to do.
+TP
+
+//喋れないし、身動きがほとんど取れないから……あまり派手なことはできない。
+Because I can't talk, and I can't take much in the way of movements... I can't do anything particularly flashy.
+TP
+
+//って、何もできねぇよ。
+Wait, then I can't do nuthin'!
+//It's not a double negative because of science. -GHS
+TP
+
+SEF 101 0
+//HACK shake screen -GHS
+
+//うわー、このまま死ぬのか！　いやじゃー！
+Bwaaah, do I just have die like this! That's waaay bad!
+//Sparing yet another arrow pun here. -GHS
+TP
+
+//誰か俺の頭に金ダライを落としてくれーっ！
+Someone make a metal pan fall on my heeead!
+//Generic Slapstick Comedy (tm) -GHS
+TP
+
+//俺に笑いを、笑いをくれ！
+Laugh, please, laugh at me!
+TP
+
+//どわあ、血がひどいな！
+D'wah, blood's nasty innit!
+TP
+
+//さっきより広がってるぞ。一面血だらけだ。
+It's spread lots more than before. I'm just one big stain of blood now.
+TP
+
+//人間ひとりからこんな血が流れるのか……奥が深いな。
+Can all this blood be spilled from a human being alone? ...this one's deep.
+//the wound and that sentence. -GHS
+TP
+
+//まっかだ。
+It's all red.
+TP
+
+//色がわかるってことは、俺は俺のままなんだな。
+I can recognize the color, meaning I still gotta be as I am.
+TP
+
+//ギリギリで『戻った』のか。
+Have I Returned at this very last moment?
+TP
+
+//うむ。
+Mh-hm.
+TP
+
+//いいことだ。
+That'd be nice.
+TP
+
+//不意に、首から上の感覚が戻った。
+Unexpectedly, the feeling returns from the neck up.
+//Probably where he's injected with a sedative to bring him to the infirmary so he can recover from this panic attack he's having. -GHS
+TP
+
+//一時的なものだろう。
+It's gotta be temporary.
+TP
+
+//ショック状態から各部の筋肉が回復しているんだ。
+Muscles all around have recovered from this state of shock.
+TP
+
+//……といっても、そんな保たないだろう。
+...but I have to add, that's not likely to last.
+TP
+
+//もう意識がもうろうとしている。
+Awareness has already grown indistinct,
+TP
+
+//呼吸も不自然に浅く細かい。
+breathing is unnaturally shallow and elaborate as well.
+TP
+
+//苦しささえわからない。
+I can't even tell if I'm in pain.
+TP
+
+//見あげた先。
+I looked up and, ahead,
+TP
+GL 0 evcc0026
+//Kiri and Misato are very visible. The one on the left has trousers, so it's either Sakuraba or Tomoki. Hand in the lower left must belong to someone not onscreen due to position, and looks male. Youko is onscreen, Taichi's the POV. Touko has a distinct dress and shoes, and provided she isn't that hand on the left, isn't onscreen at all. The last pair of female legs on the right can only be Miki's. It's not impossible for either Tomoki, Sakuraba or Touko to not be dead in that screen, but Miki has to be. -GHS
+$CGevcc0026 = 1
+GS 4 0
+GS 1 0
+GS 0 1
+SEF 109 0
+
+
+//赤はどこまでも広がっていた。
+the red had been spreading, everywhere, anywhere.
+TP
+
+
+//……やると思った。
+....it's done, I thought.
+//I refuse to do another arrow pun. -GHS
+TP
+
+WVS 1 1
+
+
+//その瞬間、俺は死んだ。
+That instant I died.
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 1
+WT 1000 0
+WT 2000 1
+
+GL 0 bgcc0000e
+GS 0 1
+SEF 109 3
+//HACK fade to white afterwards, black looks really bad with the loop video -GHS
+
+
+CALL ndemo0002
+
+WT 1000 1
+
+RET

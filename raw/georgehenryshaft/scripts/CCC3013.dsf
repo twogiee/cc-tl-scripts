@@ -1,0 +1,210 @@
+//Friday September 11, 1998 -GHS
+
+
+
+
+GS 0 0
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 0
+
+GL 0 bgcc0003b
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 152 0
+//HACK fade to black, then wipe in. -GHS
+
+//太一「金曜日、か」
+Taichi: "Friday, then."
+TP
+
+WVP 1 bgm021.ogg 0 0 0
+
+//世界が揺り戻されるまで、あと三日ほど。
+There remain three days to the swingback of the world.
+//Including this day. Uh, for those who can't do basic math, which I suspect is most of you. -GHS
+TP
+
+//記憶がなくなって全てリセットされて。
+Memories will be gone, and all will be reset.
+TP
+
+//……うそ寒い。
+...a bit chilling.
+TP
+
+//それは死ぬことと大差ないのではないかとも思う。
+That, I think, just may not be significantly different from death.
+//More hints that the week should be a day, see CCA0017A -GHS
+TP
+
+//この一週間は、誌面の記録にしか残されない。
+Of this one week there will be nothing left but a written report.
+TP
+
+//俺がそれを思い返すことはない。
+I will never be able to think again about any of this.
+//And also, to change his mind. -GHS
+TP
+
+//決して。
+Never.
+TP
+
+//太一「……」
+Taichi: "..."
+TP
+
+GL 4 BGCC0000C
+GI 4 1
+//HACK to night sky -GHS
+
+//昔。
+Once upon a time,
+//At the very least let's pay lip service to the time loop. It could be ten thousand years before for all the inattentive reader knows. -GHS
+TP
+
+//こんなゲームで遊んだ。
+there was this videogame I played.
+//Absolute first (of TWO) times he's referencing playing videogames. Despite him knowing eroge tropes perfectly. And never being shown to have the time or the inclination to play videogames at the mansion. -GHS
+TP
+
+//ロープレ。
+Role playing.
+TP
+
+TWS 7
+GL 5 zzzblackblend
+GP 5 0 0
+GI 5 1
+//HACK NVL mode -GHS
+
+//舞台は未来。
+Setting is futuristic.
+TL
+//世界は荒廃し、人々はドーム都市で生きている。
+The outside world devastated, people live
+in domed cities.
+//...hum, technically it's just domed *farmlands*, but I suppose it's irrelevant. -GHS
+TL
+//野生動物はモンスター化し、人を襲う。
+Wild animals have turned into monsters and
+attack the people.
+TL
+//主人公はモンスターハンター。
+The protagonist is a monster hunter.
+TL
+//日常的なクエストから、やがては世界を支配する存在との戦いへ。
+It starts with ordinary quests, then eventually
+ends in a fight with the being that rules the
+world.
+//See CCA0010. Likely not intended to be the same game... or is it? -GHS
+TL
+//ロープレでは普通、キャラクターが戦闘で敗北すると、魔法や科学等で蘇生させられる。
+In typical RPGs, when characters are defeated in
+battle, they can be revived with some magic or
+some technological gadget.
+TL
+//主人公は何度死のうが主人公であり、パーティーが全滅してゲームオーバーにならない限り、危機的な破滅は起こらない。
+The protagonist can die as many times as he wants,
+but he's the main character; within the limit of
+the party not being entirely eliminated, causing
+a game over, no complete failure will occur.
+TL
+//当然、主観記憶は保持される。
+Naturally, subjective memories would be preserved.
+TP
+
+
+//ところがコイツは違った。
+Turns out, this one was different.
+TL
+//主人公のみならず、キャラクターが死ぬと、それは厳然たる死なのである。
+Not just when the main character dies, but if
+any character dies, that death is the final kind.
+TL
+//他の仲間は都市まで戻り、死亡者のクローンをセーブポイントも兼ねる施設に要請する。
+The other members have to make it back to the
+city, and request a clone of the deceased from
+the facility that also serves as save point.
+TL
+//直前のセーブデータ時の主人公が、そこではポンと精製される。
+And pop, the protagonist was restored to just
+before the data was saved.
+TL
+//そして誰も何も疑問に思うことなく、冒険は続くのだ。
+And then, without even thinking to question
+anything or anyone, the adventure continues.
+TP
+
+
+//ショックだった。
+I was shocked.
+TL
+//セーブ以降の、死んだ主人公の固有時間は、まったく省みられない。
+The protagonist's eigentime after the save and
+before death was never ever re-examinable.
+//Let's start throwing in semi-credible mathematical spatial concepts... not that this doesn't fit in the big giant troll this all is, since he's literally pointing a giant spotlight on how people's memories should be erased but aren't. -GHS
+TL
+//同じ主人公なのに、違う人間なんだと思って、プレイした。
+I thought while playing that while he was the
+same protagonist, he was yet a different human.
+//Also that Tanaka ripped it off, but, well, the We Die Between Sleep And Waking Up is a very old cliche' it seems. -GHS
+TL
+//ゲームは難易度ばかりが高い、バランスの取れていないもので。
+The game had nothing to it but a high level of
+difficulty, and there was simply no balance.
+TL
+//けど鮮烈な死のイメージがつきまとい、俺は憑かれたように遊び続けた。
+But I kept playing as if possessed, chasing
+after that striking image of death.
+//Taichi likes to chase beautiful images, however difficult they are to obtain, even in videogames... except he conveniently forgets to mention how the game came with a complete walkthrough, doesn't he now. -GHS
+TL
+//結末は特攻オチだった。
+Final punchline was a Bolivian Army Ending.
+//The game's Phantasy Star II. PS2 is most famous for having one of the earliest cases of a major party character irreversibly die, which means Tanak~~ Taichi would be one of the very few people fascinated with what is an almost trivial detail all things considered. But it's consistent with his sometimes odd conclusions, see CCA0015C, CCD2002. I don't think there's a less tropistic way of saying this as quickly. There's additional material in Japan that changes this BAE, but it's nowhere near well known so its impact can be neglected here. -GHS
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+//太一「……げんなりだ」
+Taichi: "...so dejecting."
+TP
+
+//自分がそれを体験するとは思わなかった。
+I didn't think I would experience that myself.
+//And this explication is made through videogames. Especially considering how he likes to act Main Character-like. And those, of course, have memory loss. -GHS
+TP
+
+//してみると俺は何人目なのだろうか。
+If that's how it is then, I am which number of myself now?
+TP
+
+//五人目。
+Number five.
+//He's alive? -GHS
+TP
+
+//果たして本当にそうなのか。
+Is that truly what I am, really?
+TP
+
+//記録になければ、それを知る手だてはないのだ。
+If there are no records, then there is no way to know that.
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 4 0
+SEF 109 2
+//HACK slower to black -GHS
+
+RET

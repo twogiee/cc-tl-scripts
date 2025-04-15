@@ -1,0 +1,156 @@
+//太一「でも弁当だったら、机に置いておいてくれてもいいのに」
+Taichi: "But if it's just about the packed lunch, then you can leave it on the table."
+TP
+
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC0005you000
+//曜子「発電所に……行けなかったから……」
+Youko: "Because, power plant... I couldn't go..."
+TP
+
+//太一「発電施設？　に行けなかった？」
+//太一「発電所？ 行けなかった？」
+Taichi: "The power plant? You couldn't go there?"
+//HACK console version edits this sort of odd line. It was called "power generation facility" in the original line, the only time it is, and there's a 'ni' after the question mark that sounds sort of off. -GHS
+TP
+
+//意味がわからない。
+I don't understand what she means.
+//According to Tanaka, there's no deeper meaning. It possibly just means she didn't want to leave Taichi for too long, given whether she resets is unclear as far back as this scene, even more so if she's about as real as Nanaka. However, considering that Sakuraba, True Mister Exposition, can reach it basically stumbling at random - while she can't - this might actually not be meaningless regardless of Tanaka's words. It's not like I don't trust his word; just that it has a lateral meaning even if it doesn't have a literal one. Meaning his words, in that context, were still true... just not the whole of it. -GHS
+TP
+
+GL 1 TCHY0001
+GI 1 0
+//曜子「…………」
+Youko: "......"
+TP
+
+//黙った。
+Fell silent.
+TP
+
+//くそう。
+Dammit.
+TP
+
+//いつものことながら、概要しか語らない。
+Always doing the same thing, never talking beyond the summary.
+TP
+
+//自分が理解できる最低限の言葉で、語ってくるからだ。
+She speaks only the absolute minimum words to let herself understand.
+TP
+
+//問いつめることはできるが、こちらの質問や疑問を的確にしないと理解に辿り着くまで時間がかかって仕方ない。
+It's possible to press her on the issues, but if my questions and doubts are not formulated precisely it will still inevitably take a long time to reach understanding.
+//Hey, just like Nanaka. -GHS
+TP
+
+//太一「えー、つまり確認してきたんだ？　あんな遠くまで」
+Taichi: "Ehhh, in other words you went and checked it out? All the way out there?"
+//See CCA0002. Could be up to a 12 hours walk, though that might be including getting lost and being a round trip. Could be as short as 3 hours. -GHS
+TP
+
+GL 1 TCHY0000
+GI 1 0
+WVP 0 vfCCC0005you002
+//曜子「危険だったから」
+Youko: "Because it was dangerous."
+//Whether this is the reason she went or the reason she didn't go is unclear. -GHS
+TP
+
+//太一「ああ、そう……」
+Taichi: "Ah, I see..."
+TP
+
+//確かに発電所がどうこうなったら危険である。
+Certainly with the way things are the power plant would be dangerous.
+TP
+
+//太一「で、その報告に来たんだ」
+Taichi: "So, you came here to report that."
+TP
+
+//こく、と頷く。
+Bob, she nods.
+//CP CCB0008B
+TP
+
+//太一「そうか……お疲れさま」
+Taichi: "Well then... good job."
+TP
+
+//こく、と頷く。
+Bob, she nods.
+//CP CCB0008B
+TP
+
+//ちょっと嬉しそうだ。
+Seems sort of happy.
+TP
+
+//手を離す。
+I release her from my hand.
+TP
+
+//彼女の白磁の頬が、すこし赤く腫れていた。
+Her porcelain white cheeks swelled somewhat red.
+TP
+
+GL 5 zzzblackblend
+GI 5 1
+//HACK dim screen -GHS
+
+
+//にしても。
+Regardless,
+TP
+
+//行けなかった、とはどういうことだろう。
+she could not go, but what does that even mean?
+TP
+
+//崖崩れがあって物理的にたどり着けなかったとか。
+The path was broken down by a landslide, maybe, that she couldn't physically make her way there at all.
+//Man-tening the 崩 -GHS
+TP
+
+//施設の運用には必要を満たしているが、その周囲はきっちり難儀な土地だからなぁ。
+The terrain surrounding it can certainly satisfy the requirements for the purpose of the facility, but it's still veeery challenging land indeed.
+TP
+
+//でも安全と言い切るってことは……確認が取れたってことで。
+But to definitely assert that it is safe... confirmation must be acquired.
+TP
+GO 1 1
+//Yep, she goes away here still. -GHS
+
+//んー。
+Hmmm.
+TP
+
+GO 5 1
+//HACK undim screen -GHS
+
+//太一「その行けなかったってのは？」
+Taichi: "Why could you not go?"
+TP
+//いなくなっていた。
+She was nowhere to be seen.
+//Like Nanaka... -GHS
+TP
+
+//ちょっと目を離した隙に。
+Gone, in the tiny gap I took my eyes off her.
+//Theee Eeeyes. -GHS
+TP
+
+WVS 1 1
+
+//太一「はぁ……」
+Taichi: "Sigh..."
+TP
+
+RET

@@ -1,0 +1,1588 @@
+//GL 0 bgcc0003b
+GL 0 bgcc0003g
+//HACK supermessy room instead. Makes little sense he'd have the fan out, and the takeout leftovers are a little suspect, but it's not the worst clash between text and graphics here. -GHS
+GS 1 0
+GS 0 1
+SEF 152 1
+
+WVP 1 bgm003.ogg 0 0 0
+
+//太一「あー！！　疲れたー！！」
+Taichi: "Ahhh!!! So tireeed!!!"
+//Wish I were rich enough to afford six exclamation marks :-( -GHS
+TP
+
+GL 1 TCKT0000c
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfccb2009fyu000
+//冬子「……ありがとね。全部やってもらって」
+Touko: "...thank you. For everything you've done for me."
+TP
+
+//まったくだ！
+Damn straight!
+TP
+
+//怒りのまま、冬子にクレームをつける。
+Anger remains, so I file a complaint to Touko.
+TP
+
+//太一「だいたいおまえは武道家のはしくれなんだから力仕事くらいできるだろうが！　カマトトぶりやがってもう底は見えてるんだよ！　すぺぺぺぺっ！」
+Taichi: "Aren't you some leftover of a martial artist or something, you can do some physical labor too you know! I can see all through to the bottom of your feigned ignorance by the way! Ner-nernerner!"
+//Most references to that sort of line tend to flow into this: http://ja.wikipedia.org/wiki/%E6%9D%B1%E5%A4%A7%E4%B8%80%E7%9B%B4%E7%B7%9A can't see from the description of the gag how that'd fit here, can't find any scans from the manga with examples, and no official English translation seems to exist. http://www.youtube.com/watch?v=6fXIXAHr_mg this video may elucidate... maybe. Maybe. Nope. -GHS
+TP
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfccb2009fyu001
+//冬子「……女の細腕に何させようってのよ。馬鹿じゃないの」
+Touko: "...what do you want a woman's thin arms to do! Aren't you stupid."
+TP
+
+//ちょっと気分を害した様子。
+There was a little bit of offense in that.
+TP
+
+//冬子は雪だから優しくするとすぐトロトロとけるので、絶対甘い顔は見せないと決めた。
+Touko, written with the kanji for Winter and Child, is snow; therefore, when treated warmly she soon melts into a sticky syrupy mess. That is why she decided to absolutely never show her sweet side.
+TP
+
+//太一「……水風呂に入りたい」
+Taichi: "...I wanna take a cold bath."
+TP
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2009fyu002
+//冬子「入れるの！？」
+Touko: "We can?!"
+TP
+
+//ぱっと顔が輝く。
+Bam, her face shined.
+TP
+
+//だがしかし。
+However and yet,
+TP
+
+//太一「……そんな贅沢できるか。水は貴重品だぞ」
+Taichi: "...but can we afford luxuries? Water is a valuable thing now."
+TP
+
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfccb2009fyu003
+//冬子「えー……」
+Touko: "Ehhh..."
+TP
+
+//太一「と言いたいところだが、入れるのだ」
+Taichi: "That's what I'd like to say, but we should take a bath."
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2009fyu004
+//冬子「本当！？」
+Touko: "Seriously?!"
+TP
+
+//こんなに喜ぶということは……。
+If she's this much delighted then...
+TP
+
+//太一「もしかして、ずっと風呂に入ってない？」
+Taichi: "Don't tell me, you haven't taken a bath in all this?"
+TP
+GL 1 TCKT0004c
+GI 1 0
+
+WVP 0 vfccb2009fyu005
+//冬子「……そっ、そんなことないわ！」
+Touko: "...th-, that's not true, no!"
+TP
+
+//太一「本当？」
+Taichi: "Really?"
+TP
+
+//にじり寄る。
+I sidle up to her.
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfccb2009fyu006
+//冬子「な、何よっ」
+Touko: "Wha-, what now!"
+TP
+
+//にじり逃げる。
+She sidles well away from me.
+TP
+
+//太一「スメルマニアとして、確認させてもらおうか」
+Taichi: "As a Smell Fetishist, I wonder if I can confirm it?"
+TP
+
+
+GL 1 TCKT0003c
+GI 1 0
+
+WVP 0 vfccb2009fyu007
+//冬子「ちょっ、ウソでしょ、やめてよ、来ないでっ！」
+Touko: "Wha-, that's false, stop it, don't get closer!"
+TP
+
+//太一「クックック」
+Taichi: "Mwah hah hah."
+TP
+
+//鬼畜笑いを浮かべて、俺は獲物を部屋のすみに追いつめていく。
+Surfacing the laugh of a brute of a man, I drive my prey into the corner of the room.
+TP
+
+//太一「どんな素敵なプワゾンを醸しだしてくれるのかな？」
+Taichi: "What marvelous Poison (Ch*****an Di*r) could you be brewing, I wonder?"
+//http://oshiete.goo.ne.jp/qa/2161285.html Indeed, though I wonder if he's just mistaking it as the French word for "perfume". -GHS
+TP
+
+GL 1 TCKT0004c
+GI 1 0
+
+WVP 0 vfccb2009fyu008
+//冬子「……ひっ」
+Touko: "...hy!"
+TP
+
+//整った容貌が、青ざめて歪む。
+Her well-ordered features distort into paleness.
+//Ugh, this sentence. -GHS
+TP
+WVS 1 1
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2009fyu009
+//冬子「来ないで……そ、それ以上来ると……」
+Touko: "Don't get closer... if-, if you get any closer..."
+TP
+
+//太一「来ると、どうなのかね？　無力な婦女子ひとり、どう抗おうというのだね？　この生けるカラデ道・マス黒須を相手に」
+Taichi: "If I do, what then? What opposition could a helpless young fujoshi of a woman, alone, pose? As an opponent of the 『Living Karadeka * 'The Trout' Kurosu』, even!"
+//Of course he means fujoshi in the nice way, heheheh. See CCA0022, still no idea what the hell Tanaka was even thinking. -GHS
+TP
+
+//変態紳士口調で冬子に問いかける。
+So ask Touko with the tone of a gentlemen and a pervert.
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfccb2009fyu010
+//冬子「……体臭をかがれるくらいなら」
+Touko: "...if you come to smell my body, then,"
+TP
+
+WVP 2 SE074 1 0
+//チン
+Clank!
+TP
+
+//鯉口を切る音がした。
+The sound of the hilt of a sword being disconnected from the mouth of its scabbard.
+//...though it doesn't fit the actual sound effect *sigh*. -GHS
+TP
+WVP 2 SE075 1 0
+//Moving the SFX here. It overlaps the speech. -GHS
+GL 5 bgcc0000e
+GL 4 sgcc0017
+$CGsgcc0017 = 1
+GI 5 0
+GP 4 0 0
+GS 1 0
+GS 4 1
+GS 5 0
+SEF 109 0
+
+
+
+
+
+WVP 0 vfccb2009fyu011
+//冬子「斬る」
+Touko: "Slay."
+TP
+WVP 1 bgm017.ogg 0 0 0
+
+//太一「ぎゃー！！」
+Taichi: "Ghyaaa!!!"
+TP
+
+//太一「そ、それは妖刀　ハラキリ丸！？」
+Taichi: "Is-, is that the Demon Blade Harakiri?!"
+TP
+
+//荷物は検閲したのに、いつの間に持ち込んだんだ！！
+I inspected all the luggage, when did she manage to sneak it in!!!
+TP
+
+//まさか、時空間の彼方から……っ！？
+Don't tell me that it's from beyond a gap in space-time...!?!
+TP
+
+WVP 0 vfccb2009fyu012
+//冬子「失礼ね！」
+Touko: "How rude!"
+TP
+
+WVP 0 vfccb2009fyu013
+//冬子「……愛刀・今虎徹よ」
+Touko: "...it's my 『Favored Sword * Ima Kotetsu』!"
+//See CCA0030. http://en.wikipedia.org/wiki/Nagasone_Kotetsu Seems to be just named after him. Oddly, one of the name pronunciations for 今 ima "now" is Yakiniku - roast meat. It's either incredibly odd or someone is trolling EDICT. -GHS
+TP
+
+WVP 0 vfccb2009fyu014
+//冬子「無双直伝英信流……段位なし」
+Touko: "Muso Jikiden Eishin-ryu... no dan."
+//Most popular Iaido style. Not the best romanization, but this googles faster. -GHS
+TP
+
+//太一「ないのかよ」
+Taichi: "None?!"
+TP
+
+WVP 0 vfccb2009fyu015
+//冬子「取れるわけないでしょ！！」
+Touko: "Because I'm forbidden from taking any you know!!!"
+//People in Gunjou wouldn't exactly be allowed weapons, especially someone like her with a history. -GHS
+TP
+
+WVP 0 vfccb2009fyu016
+//冬子「でも刀はいいから良く切れる！」
+Touko: "But the sword is good and will cut you nicely!"
+TP
+
+//太一「居合いの理念に反するんじゃないのかそれは！」
+Taichi: "Isn't what you just did against the philosophy of unsheathe-cut-sheathe of the Iai!"
+TP
+
+//居合とは、人に斬られず人斬らず、己を責めて平らかの道……。
+Iai is a peaceful way of self-criticism where no man is slain and is slain by no man...
+TP
+
+WVP 0 vfccb2009fyu017
+//冬子「生き恥をかくぐらいならば、いっそもろとも！」
+Touko: "If a life of disgrace is what awaits, then this is better for all of us!"
+//Doesn't seem to be a quote. See sendback route. Much nastier than it seems. -GHS
+TP
+
+//太一「ウエイツ！　ウエイツ！」
+Taichi: "UEITSU! UEITSU!"
+TP
+
+//俺は一時の米国人と化して諫めた。
+I temporarily morphed into an American to remonstrate.
+//Happens. -GHS
+TP
+
+//太一「ＯＫわかった、悪戯はやめだ。そっちもその物騒なのをしまってくれ」
+Taichi: "OKIEH, I geddit, I'ma stop with the kidding. So please, drop the danger on your side too!"
+//Capeesh? -GHS
+TP
+
+WVP 0 vfccb2009fyu018
+//冬子「うー」
+Touko: "Ngggh..."
+TP
+
+//冬子はギラギラした目をしていた。
+Touko's eyes sparkled and dazzled,
+TP
+
+//まさにキチ○イに刃物。
+as if a lu**tic with a cutting implement.
+//See CCA0007. -GHS
+TP
+
+WVP 0 vfccb2009fyu019
+//冬子「……かがない？」
+Touko: "...no smelling?"
+TP
+
+//太一「かがないかがない」
+Taichi: "No smelling, no smelling!"
+TP
+
+//命ない。
+//嗅いだら命ないし。
+Smelling means no living.
+//This was quite difficult to understand in the original, as the literal is just "no life". Improved in the console versions. -GHS
+TP
+
+WVP 0 vfccb2009fyu020
+//冬子「……でも」
+Touko: "...but."
+TP
+
+//太一「あのね、ここから二軒ほど隣に行った家で、湯船に水張ってあって……それ使って水浴びできるんで」
+Taichi: "So, uhm, if you go to my neighbor two houses down, there's a bathtub filled with water... and you can take a nice cold bath with that."
+//Ah, the mystery of the bathtub. Why does the neighbor have that filled? And how does Taichi know, since he never bathes? -GHS
+TP
+
+
+//冬子「……」
+Touko: "..."
+TP
+
+
+CIN 4 0 0 -70 0
+CR 2
+//HACK look what nice command I found! -GHS
+
+//GP 4 -5 0
+//GI 4 0
+//GP 4 -10 0
+//GI 4 0
+//GP 4 -15 0
+//GI 4 0
+//GP 4 -20 0
+//GI 4 0
+//GP 4 -25 0
+//GI 4 0
+//GP 4 -30 0
+//GI 4 0
+//GP 4 -35 0
+//GI 4 0
+//GP 4 -40 0
+//GI 4 0
+//GP 4 -45 0
+//GI 4 0
+//GP 4 -50 0
+//GI 4 0
+//GP 4 -55 0
+//GI 4 0
+//GP 4 -60 0
+//GI 4 0
+//GP 4 -65 0
+//GI 4 0
+//GP 4 -70 0
+//GI 4 0
+////HACK Touko pix left to 70 pixel, 5 grain -GHS
+
+//じりじりと、冬子は扉にいざり寄った。
+Inch by inch by inch Touko shuffles towards the door.
+TP
+
+//構えは崩さない。戦国魂だ。
+Her form never collapses. Truly the Spirit of the Sengoku.
+TP
+//GO 4 1
+//HACK see below -GHS
+
+//冬子「…………」
+Touko: "......"
+TP
+
+
+//GP 4 -75 0
+//GI 4 0
+//GP 4 -80 0
+//GI 4 0
+//GP 4 -85 0
+//GI 4 0
+//GP 4 -90 0
+//GI 4 0
+//GP 4 -95 0
+//GI 4 0
+//GP 4 -100 0
+//GI 4 0
+//GP 4 -105 0
+//GI 4 0
+//GP 4 -110 0
+//GI 4 0
+////HACK Touko pix left to left 110 pixels, 5 grain -GHS
+CIN 4 -70 0 -110 0
+CR 2
+//HACK move more -GHS
+
+
+
+//後ろ向きにじりじりと廊下に出て、そのまま右にスライドしていく。
+Inching and inching she moves backwards and exits to the corridor, and with the same, she slides towards the right.
+//HER right, you idiots. -GHS
+TP
+
+//太一「い、いってらっしゃい……」
+Taichi: "Ha-, have fun..."
+TP
+//冬子「……………………」
+Touko: "............"
+TP
+
+WVS 1 1
+//HACK music stops one line later -GHS
+
+//GP 4 -200 0
+//GI 4 0
+//GP 4 -300 0
+//GI 4 0
+//GP 4 -400 0
+//GI 4 0
+//GP 4 -480 0
+//GI 4 0
+//GO 4 0
+//GP 4 0 0
+
+CIN 4 -110 0 -480 0
+CR 0
+GO 4 0
+GP 4 0 0
+
+//HACK and SHE GONE -GHS
+
+//ジト目が廊下に消えた。
+Scornful eyes disappeared down the hallway.
+TP
+
+GL 5 bgcc0000d
+GS 5 1
+SEF 109 1
+//HACK fade to black
+
+
+//三十分後。
+Thirty minutes later.
+TP
+GL 1 TCKT0021c
+GS 0 1
+GS 1 1
+GS 5 0
+SEF 109 1
+//HACK fade from black -GHS
+WVP 1 bgm010.ogg 0 0 0
+
+
+WVP 0 vfccb2009fyu024
+//冬子「たっだいまぁん♪」
+Touko: "I'm baaaack-y!♪"
+TP
+//>　　　　はつらつ
+//元気溌剌、戻ってきた。
+Peppy and perky she came back.
+TP
+
+//殺気も一緒に洗い落としたのか、ぺたぺた身を寄せてきた。
+Washed off together with the rest her bloodlust, I'm flattened flat by this sticky housemate.
+//she's more like tsundepetta, except when she's PTA. -GHS
+TP
+
+//太一「……ぉかぇり」
+Taichi: "...wELcoME baCK."
+//Odd emphasis. -GHS
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+WVP 0 vfccb2009fyu025
+//冬子「やだ、太一ちょっと汗くさい！」
+Touko: "But no, you stink of sweat Taichi!"
+TP
+
+//殺すか……このアマ。
+Should I kill her... this bitch.
+//See CCA0003. In this case it should be obvious, but since it's been kept in the console versions... -GHS
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2009fyu026
+//冬子「汗くらいふきなさいよー、もー、だらしないわね」
+Touko: "You should wipe off all that sweat at least, really, that's slovenly!"
+TP
+
+//太一「……俺はフェチっ子だからフェチ娘に手はあげないがセクハラはするぞコラ」
+Taichi: "...I am a fetishist therefore on a fetishette I shan't lay hand but sexual harassment will ensue so stop it!"
+TP
+
+GL 1 TCKT0006c
+GI 1 0
+
+WVP 0 vfccb2009fyu027
+//冬子「どうして怒っているの？」
+Touko: "Why all angry now?"
+TP
+
+//太一「怒らいでか！」
+Taichi: "Because I was made angry, what do you think?!"
+TP
+
+//太一「……も、いい。水浴びしてくる」
+Taichi: "...bah, it's fine. I will take this bath."
+TP
+
+
+
+WVP 0 vfccb2009fyu028
+//冬子「いってらっしゃい♪」
+Touko: "Have fun!♪"
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+WT 1000 0
+WT 2000 1
+
+
+GL 0 bgcc0003b
+GS 0 1
+SEF 152 1
+WT 200 0
+//戻ってくると、部屋が整頓されていた。
+On returning, my room was completely tidied up.
+TP
+
+//太一「は……？」
+Taichi: "Huh...?"
+TP
+
+GL 1 TCKT0000c
+GI 1 1
+
+WVP 0 vfccb2009fyu029
+//冬子「おかえり、太一」
+Touko: "Welcome back, Taichi."
+TP
+
+//太一「こ、これは？」
+Taichi: "Wh-, what's this?"
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfccb2009fyu030
+//冬子「キレイになったでしょう？」
+Touko: "Didn't it get all clean now?"
+TP
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2009fyu031
+//冬子「二人で暮らすんだもの。片づけておいたの」
+Touko: "Two are living together now. Things must be settled and ordered."
+//multiple meanings, duh -GHS
+TP
+
+//太一「睦美おばさんみたいなことをしてくれる……」
+Taichi: "This something so like what Mutsumi-obasan would do..."
+TP
+
+//わなわなと震えた。
+I shivered and quaked all over.
+//CP CCwhocares
+TP
+GL 1 TCKT0021c
+GI 1 0
+
+WVP 0 vfccb2009fyu032
+//冬子「あんなに汚かったのよ？　当然だわ」
+Touko: "When things were this filthy? Of course I would!"
+//Oh, and see CCA0008 -GHS
+TP
+
+//ふぁさーっとお嬢様式後ろ髪払いを繰り出した。
+In the manners of a young noblewoman, she repeatedly sweeped her long bangs with a fwasaaah,
+TP
+
+//『よくってよ』とか言いそうなオーラが満ちた。
+filled with an aura that seemed to say, 'wasn't this well done then!'
+TP
+
+//いや、そんなことはどうでもいい。
+Well, who cares about that.
+TP
+
+//太一「確かにキレイにはなったが……はっ！？」
+Taichi: "Certainly you got this very clean... huh?!"
+TP
+
+//俺はベッドの下をのぞきこんだ。
+I peeked under the bed.
+TP
+
+//ない！
+Nothing!
+TP
+WVP 1 bgm006.ogg 0 0 0
+
+//太一「私の秘本が！！」
+Taichi: "My secret books!!!"
+TP
+
+//まず見たのは、机の上だった。
+She must first have seen the ones above the desk.
+TP
+
+//えてして女というものは、そういうことをする。
+These things called women will sometimes act like that.
+TP
+
+//だが、ない。
+But, there's none.
+TP
+
+
+//太一「おい桐原、こ、ここにあった俺のヌードデッサン用の書物はどうした？」
+Taichi: "Hey, Kirihara, the nu-, nude design reference books that were here, what happened to them?"
+TP
+
+//姑息な俺だった。
+I was just temporizing.
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2009fyu033
+//冬子「ああ、写真の載ってた本？」
+Taichi: "Ah, those books with all the photos?"
+TP
+
+//太一「そう」
+Taichi: "Yep."
+TP
+
+WVP 0 vfccb2009fyu034
+//冬子「焼いたわ」
+Touko: "Burned them, yes."
+TP
+
+//太一「バンボーレ！」
+Taichi: "Le bambole!!!"
+//CP CCB0002
+TP
+WVP 2 se018 1 0
+SEF 101 0
+//俺はびーんと一直線になったまま倒れた。
+I straightened like a beam and fell down.
+TP
+
+//起きた。
+And got up.
+TP
+
+//太一「焼いた！？　捨てたとかじゃなくて……焼いた！？」
+Taichi: "Burned them?! Not thrown away... burned?!"
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfccb2009fyu035
+//冬子「なんか……見てたらそうしなくちゃっていう気持ちになって……」
+Touko: "There's... there was this feeling, that the instant I saw them, I had to do it."
+TP
+
+//太一「学術書を焼くだなんて！　おまえは秦の始皇帝か！　第三帝国か！」
+Taichi: "You burned school textbooks! You are the First Emperor of the Qin dynasty! The Third Reich!"
+TP
+
+
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfccb2009fyu036
+//冬子「でもベッドの下に押しやられていたから、いらないのかなって……それになんか俗っぽい本ばかりだったし……その……女の人のハダカとか……」
+Touko: "But I thought that if you hide them under the bed, then you don't need them... and also... it seemed sort of like a vulgar book... with those... those women all naked..."
+TP
+
+//太一「だからそれが学術だというのだ！」
+Taichi: "I'm telling you, they were study books!"
+TP
+
+GL 1 TCKT0004c
+GI 1 0
+
+WVP 0 vfccb2009fyu037
+//冬子「そ、そうなの？」
+Touko: "Is-, is that true?"
+TP
+
+//太一「人間の根元たる美を肉体に求めずしてミロヴィーが語れるか！　自らの彫った彫像の娘に恋してしまったいにしえのフィギュアオタクのことでも学んで恥じるがいい！」
+Taichi: "Could you talk about the Venus de Milo without the pursuit of the human fundamental of beauty that is in the body?! Learn of the Bishoujo Figurine Otakus of ancient times, who fell in love with the girls they themselves sculpted, and be ashamed!"
+TP
+
+//太一「そしておまえは後悔するんだ。書物が自然発火する華氏４５１度の世界でな。つまり焦熱地獄に堕ちるってことだ！　学術書を焼くってのはそういうことだ！　人類の敵め！」
+Taichi: "And now you shall repent. In the world of 451 Fahrenheit, where books spontaneously combust! In other words you are to be condemned into the fires of hell! That is the reward for roasting books of learning! You damn enemy of mankind!"
+TP
+
+//くるくるターンを切りながら、幾度となく冬子に指をつきつけた。
+I thrust the finger at Touko so many times while I spin it round and round.
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfccb2009fyu038
+/冬子「そんなポンポン言われても……それに私だって迷ったのよ」
+Touko: "You say so snappy and outspoken... but I hesitated too!"
+TP
+
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfccb2009fyu039
+//冬子「でも……なんか見てたら……すごく腹が立ってきて……」
+Touko: "But... I don't know why, but as soon as I saw them... I got really really angry..."
+TP
+
+GL 1 TCKT0005c
+GI 1 0
+
+
+WVP 0 vfccb2009fyu040
+//冬子「なんでも、俗世間にはエロ本なるものがあるって聞くわ」
+Touko: "I've heard around that in the outside world there are things known as 'pornographic books'."
+TP
+
+//太一「どき」
+Taichi: "*heartbeat skip*"
+TP
+
+WVP 0 vfccb2009fyu041
+//冬子「私はずっと女子校だったから知らないけど……その……男の人はそれを見て……そのう……妄想するって」
+Touko: "I've always been to a girls' school so I don't know really, but they say... that... males would look at them... and then... fantasize."
+TP
+
+//太一「どきどき」
+Taichi: "*heartbeat skip* *heartbeat skip*"
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+//HACK new line here, for a bigger portion below. -GHS
+WVP 0 vfzzzCCB2009tou01
+//冬子「エロビデオだけならともなく、書物にまでそんな破廉恥なことを求める……」
+Touko: "Erotic videos alone are one thing, but to seek that sort of embarrassing thing even in pictures..."
+//Using the 360 version that also has the "erotic" part explicit. -GHS
+TP
+
+//Following lines are as normal -GHS
+
+WVP 0 vfccb2009fyu042
+//冬子「でもそれって不実だわ。好きな人がいるのに、他の人を妄想するのは良くないわ」
+Touko: "But that'd be treachery, yes. When there's a person you like, having fantasies about other people is improper."
+TP
+GL 1 TCKT0005c
+GI 1 0
+
+WVP 0 vfccb2009fyu043
+//冬子「うん、良くないわ」
+Touko: "Yes, improper."
+TP
+
+//太一「ひとりで納得するなよ……」
+Taichi: "Don't agree with yourself you..."
+TP
+
+//太一「ちぇ、しょうがないな」
+Taichi: "Tsk, well, no ways around this then."
+//See CCX0001 -GHS
+TP
+
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfccb2009fyu044
+//冬子「そうね。過ぎたことだもの」
+Touko: "Right, eh. What's past is past."
+TP
+
+//犯すか……このアマ。
+Should I rape her... this bitch.
+TP
+
+//太一「犯すか……このアマ」
+Taichi: "Should I rape her... this bitch."
+TP
+
+//聖人君子のように正直な俺だった。
+I had the frankness and the integrity of a saint.
+//The irony, of course, is that it's true. -GHS
+TP
+
+
+
+
+//HACK and here come the new lines added from the console version (FX and doll changes included). Should require no comment on why these **need** to be in. -GHS
+
+//太一「だいたいどうしてそんなビデオの存在をしっているんだ」
+Taichi: "Besides, why do you even know that sort of video exists?"
+TP
+//SEF 101 0
+GL 1 TCKT0003C
+GI 1 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+
+
+WVP 0 vfzzzCCB2009tou02
+//冬子「あんたが昔、ミュージカルだとか言って私に貸したんじゃない！」
+Touko: "Because back then you told me they were musicals and lent me some, didn't you!"
+//This is epic-tier. -GHS
+TP
+
+//太一「いってえ……」
+Taichi: "I tOWWWd you that then..."
+//ugh, the pun -GHS
+TP
+
+WVP 0 vfzzzCCB2009tou03
+//冬子「家族と一緒に見ちゃったのよ！！」
+Touko: "I went and watched them together with my family!!!"
+TP
+
+//太一「すっかり忘れていたが、まさに理想の展開だ。貸して良かった」
+Taichi: "I totally forgot that, but that's an extremely ideal development. I'm glad I lent them to you!"
+//Another thing he "forgot", the Memory Hunter. -GHS
+TP
+
+//SEF 101 0
+GP 0 -40 0
+GI 0 0
+GP 0 40 0
+GI 0 0
+GP 0 -10 0
+GI 0 0
+GP 0 10 0
+GI 0 0
+GP 0 0 0
+GI 0 0
+//HACK independent BG shake -GHS
+
+GL 1 TCKT0011C
+GI 1 0
+
+WVP 0 vfzzzCCB2009tou04
+//冬子「良いわけあるか！！」
+Touko: "THAT SOUND LIKE A GOOD THING TO YOUUU!!!"
+TP
+
+//太一「ビデオデッキとか持ってるって言うんだもん」
+Taichi: "But you told me you had a videotape player!"
+TP
+
+//太一「全部データ化したんで、テープは用済みだったんだ。そしたら冬子がデッキ持ってるって言うから」
+Taichi: "I had digitalized everything, so I didn't need the tapes anymore. And then in comes Touko saying she has a tape player..."
+//1997-98 is indeed around when DVD started to take off as a format and replacing tapes. Both Youko and the Club seem like a shoe-in for having or being capable of procuring the equipment. -GHS
+TP
+
+GL 1 TCKT0005C
+GI 1 0
+
+WVP 0 vfzzzCCB2009tou05
+//冬子「……お父様がよく映画見ていたから」
+Touko: "...because Father often watches movies."
+TP
+
+//お父様と来たか。
+And to her Father this went.
+TP
+
+//太一「だいたいおまえ、人の私物を勝手に燃やした時点で俺にケチつける権利はないだろうが」
+Taichi: "The point is that you don't exactly have the right to criticize me when we're moments after you burned up people's private property without authorization!"
+TP
+
+//End new lines -GHS
+
+GL 1 TCKT0006c
+GI 1 0
+
+WVP 0 vfccb2009fyu045
+//冬子「ねえ、そろそろお腹すかない？」
+Touko: "Say, isn't it about time to fill the tummy?"
+TP
+
+//太一「聞いちゃいねぇ」
+Taichi: "You're listening to me, I see."
+//TL Note: this means she's not listening to him. -GHS
+TP
+
+//GL 1 TCKT0000c
+//GI 1 0
+//HACK no doll change -GHS
+
+WVP 0 vfccb2009fyu046
+//冬子「どうしようか？　またじゃがいもにする？」
+Touko: "What do we have? Potatoes again?"
+TP
+
+//太一「いや、今日は確か……」
+Taichi: "No, today it's gotta be..."
+TP
+
+//などとやっていると。
+And while we're doing all this,
+TP
+WVS 1 1
+
+WVP 0 vmccb2009yki000
+//友貴「おーい！」
+Tomoki: "HEEEY!"
+//No error, he said he'll do it tomorrow. Maybe he reorganized, possibly as a reward for Taichi not going with his sister. -GHS
+TP
+
+//階下から声。
+A voice from the lower floor.
+TP
+
+
+WVP 0 vfccb2009fyu047
+//冬子「あの声……島？」
+Touko: "That voice... Shima?"
+TP
+
+//太一「説明めんどいから、じっとしててくれ」
+Taichi: "Explaining'd be a pain, just stay put please."
+TP
+
+WVP 0 vfccb2009fyu048
+//冬子「あ、他の部屋見ててもいい？」
+Touko: "Ah, can I look around the other rooms?"
+TP
+
+//太一「どうぞご自由に」
+Taichi: "Please, feel free."
+TP
+
+//一階に。
+To the first floor.
+TP
+WVP 1 bgm003.ogg 0 0 0
+
+GL 0 bgcc0013bz
+GS 0 1
+GS 1 0
+SEF 152 0
+
+//友貴から荷物を受け取る。
+I accepted Tomoki's package.
+//............................... -GHS
+TP
+
+//太一「食料かー」
+Taichi: "Foooood?!"
+TP
+GL 2 TCST0000c
+GP 2 190 0
+GI 2 1
+
+WVP 0 vmccb2009yki001
+//友貴「大事に食べるように」
+Tomoki: "Eat it as if it were precious!"
+TP
+
+//太一「うむ、部活ごくろうさん。大変だろうけど、人に施す気
+//>　　　　　　　　　　　　　　　　　　ぎまん
+//持ちになれるという欺瞞がおまえを潤すだろう」
+Taichi: "Yes! Most glad for your club activities. What a shame, though, that you're so enriched by the deceit of being used to the idea of giving things to people."
+//This explains what Club is to Tomoki. -GHS
+TP
+
+//友貴、疲れた笑み。
+Tomoki gives a tired laugh.
+TP
+
+GL 2 TCST0005c
+GI 2 0
+
+WVP 0 vmccb2009yki002
+//友貴「……気が紛れることだけは確かだね」
+Tomoki: "...this's certainly just a distraction for me, innit."
+TP
+GL 0 bgcc0003b
+GS 0 1
+GS 2 0
+SEF 152 0
+WT 500 1
+
+//自室に戻る。
+I return to my room.
+TP
+
+//冬子はいなかった。
+Touko was not here.
+TP
+
+//太一「ふっふっふ」
+Taichi: "Hoooh hoh hoh."
+TP
+
+//太一「くっくっく……」
+Taichi: "Mwah hah hah..."
+TP
+
+//自然、笑みが漏れる。
+Spontaneous laughter escapes.
+TP
+WVS 1 1
+//太一「キレイな部屋だ。うむ。実にすがすがしい」
+Taichi: "What a clean room. Right. Truly refreshing."
+TP
+
+//太一「ベッドの下のエロ本と引き替えに得た秩序……だがな冬子君、君は甘すぎる」
+Taichi: "I obtained order in exchange for the books under the bed... but Touko-kun, you are much too naive!"
+TP
+
+WVP 1 bgm006.ogg 0 0 0
+
+//あれはダミーエロ本なのだ！！（ズギャーン）
+Those are my decoy porn books!!! (dun-dun-DUUUN)
+SEF 101 0
+TP
+
+//本命中の本命は……ちゃんと別の場所に隠してある。
+My favorite among favorites are... of course secreted in a different location.
+TP
+
+//見たところ、クローゼットにあるコスプレ衣装コレクションには手がつけられていないようだ。
+It appears that no hand has touched the cosplay collection that is in the closet.
+//Shouldn't it be in Youko's room, next door? -GHS
+TP
+
+//つまり冬子のペタ能力は、まだまだ拙いものだと言える。
+//※ペタ能力＝太一語。保護者ならびに教師の会式不健全感知技能。
+Meaning Touko's PTA Power can still be called shoddy as well as lacking, still.
+* PTA Power = Taichian for the skill of ceremonially
+  perceiving unwholesomeness, found in guardians
+  as well as teachers.
+//Merged lines again. See CCA0007. Fits in with that Buddhist training ritual where you have to clear your mind or you get caned. It would certainly require PTA powers. -GHS
+TP
+
+
+//女性ものの下着類は、今はあるじなきおねえちゃん部屋のタンスの中。
+The underclothes for female uses are in the closet of my onee-chan's currently masterless room.
+//That should be Youko's room, see CCC0003A. -GHS
+TP
+
+//木の葉を隠すならなんとやらだ。
+When you want to hide a tree leaf, what better place.
+//Adapted a bit. Correct proverb should be 木を隠すなら森の中 -GHS
+TP
+
+//太一「そして俺の魂の一部たる本命ブックスたちは……フッ」
+Taichi: "And therefore, the books so favorite they may well be a part of my soul... heh!"
+//That 'therefore' should let the two lines above connect a bit more to the rest. No hands on the cosplay + underwear in Youko's room untouched = she can't have found the safe. But how does he know about Youko's underwear if he's not in that room? -GHS
+TP
+
+//訓練を積んだスーパー忍者でも気づくまい！
+Not even a highly trained Super Ninja could ever notice!
+TP
+
+//見よ、壁に偽装された驚愕の隠し金庫を！！
+Behold, disguised in the wall, the shocking presence of a hidden safe!!!
+//Avoiding camouflage because of CCB0006 and CCC3009. -GHS
+TP
+
+/人類建築工学の末に生み出された極限のプライベート空間を！！
+The final product of human architectural engineering is an area at the utmost extremes of privacy!!!
+TP
+
+//以前、曜子ちゃんに誘われて外貨で一儲けした時、そのあがりで作ったのだ。
+Previously, I had been making money on foreign goods on Youko-chan's advice, and in those ascendant times I had this made.
+//Part 5, Taichi the Failed Speculator. Specifically 'goods'. -GHS
+TP
+
+//耐火耐熱　隠し金庫『秘密天国』！
+//※秘密天国＝商品名
+Fire Proof Fire Resistant Hidden Safe 『Hidden Heaven』!
+> 
+ 
+ 
+* Hidden Heaven = product name
+//Not one that seems real, though. -GHS
+TP
+
+
+//壁に埋め込まれた取っ手を、クルリと反転させた。
+I grasp the knob embedded in the wall, and give it a sharp twist.
+TP
+
+//右にスライドさせる。
+It slides to the right.
+TP
+
+//すると金庫の入り口が。
+And there, the front of the safe.
+TP
+
+//暗証番号は記録していない。
+There are no records of the required PIN.
+TP
+
+//俺の頭の中にのみある。
+It is nowhere but inside my head.
+TP
+
+//すなわち、かのルパンであっても調査不可能というわけだ。
+In other words, even if that famed Lupin were to come and search the place, there would be no chance for him.
+//See CCA0021. Oddly, CCC4010 hints it's Lupin the 3rd, when given the style I'd have also guessed the original. Hmmm, Touko-Fuyuko-Fujiko? -GHS
+TP
+
+//９９９１。
+9991.
+//ククク一？ it's 2-7 + 1 -GHS
+TP
+
+//カチリ、と鍵が開く音がした。
+Clank, resounds the lock as it is released.
+TP
+
+//この数字は、太一という名前からつけた。
+This number is derived by my name, Taichi.
+TP
+
+//太＝多い、ということで桁の上限である９９９。＋太一の一で１。
+The 'Ta' can be read as 'many', and the farthest ends of that would of course be 999. Plus the 'ichi' in Ta-ichi, that is 1.
+TP
+
+//とんちがまじっている分、誕生日よりは解析が難しいはずだ。
+So much wit is mixed there, that it should be much more difficult to derive than from a birthday.
+TP
+
+//窪みに指を入れて、正方形の扉を開いた。
+I insert a finger in the depression, and opened the square door.
+TP
+WVS 1 0
+
+
+//……からっぽだった。
+...it was empty.
+TP
+
+//太一「俺の魂ガーーーーーーッッッ！！？？」
+Taichi: "MY SOUUUUUUULLL!?!?!?"
+SEF 101 0
+TP
+
+//ガクガクガクガクッ！！
+ClatterClatterShiverShiver!!!
+SEF 101 0
+TP
+
+//痙攣した。
+CcOnVvUlLlSsSioNnNsSSSs
+//visuals here -GHS
+TP
+
+//太一「あががががががっっっ」
+Taichi: "ahGchGchGchGchGchGchhh!!"
+TP
+
+//口からなにか出た。
+//※なにか＝エクトプラズム
+Something leaves from the mouth.
+> 
+ 
+ 
+* Something = the ghost
+//This is the usual anime scene when people too shocked have their soul leave from the mouth. It sometimes can be crammed back in, as happens here. Strangely, I can't source a reason for either event to be possible except for the word "Japan". -GHS
+TP
+
+WVP 1 bgm011.ogg 0 0 0
+
+GL 1 TCKT0004c
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfccb2009fyu049
+//冬子「きゃ、どうしたの、口から白いものを出して！？」
+Touko: "Kyah! What is wrong, there's something white coming out of your mouth?!"
+TP
+
+//太一「……っは？」
+Taichi: "...hGah?"
+TP
+
+//我に返る。
+I return to my senses.
+TP
+
+//太一「ぐおおおおおっ！！」
+Taichi: "GWOOOOOH!!!"
+TP
+
+//抜けかけていたソレを、両手で地引き網の如くたぐりよせる。
+Making my hands as if a net, I haul in the escaping 'thing'.
+TP
+
+GL 1 TCKT0001c
+GI 1 0
+
+WVP 0 vfccb2009fyu050
+//冬子「……吸い込んでいく……」
+Touko: "...you're sucking it back in..."
+//ew ew ew ew ew damn fujoshi -GHS
+TP
+
+//太一「復・活！」
+Taichi: "Re * suscitation!"
+TP
+
+//ヒーローポーズを決めた。
+I settled in a Heroic Pose.
+TP
+
+//太一「やい桐原！　どういうことだ！　この隠し部屋の中身はどうした？　いやそもそもどうやって見つけた！」
+Taichi: "You! Kirihara! What is this! Where are the contents of this secreted location? No, in the first place, reveal how you discovered it!"
+TP
+
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfccb2009fyu051
+//冬子「どうって……なんか怪しいオーラを感じて……探っていたら金庫が出てきて……で太一って名前から予想できる数字を入れたら開いて……」
+Touko: "How... I felt this ominous aura... I searched around and found this safe... then I figured out the combination from the name Taichi and opened it..."
+TP
+
+//天才ペタ娘！？
+Girl PTAgenius?!
+TP
+
+//太一「中身は？」
+Taichi: "The contents?"
+TP
+
+GL 1 TCKT0003c
+GI 1 0
+
+WVP 0 vfccb2009fyu052
+//冬子「だから」
+Touko: "Told you,"
+TP
+GL 1 TCKT0002c
+GI 1 0
+
+WVP 0 vfccb2009fyu053
+//冬子「焼いたわ」
+Touko: "I burned them."
+//Now see CCD5001. Whoops, not funny anymore. -GHS
+TP
+
+//太一「全部っ！？」
+Taichi: "Allll?!"
+TP
+
+GL 1 TCKT0000c
+GI 1 0
+
+WVP 0 vfccb2009fyu054
+//冬子「ええ」
+Touko: "Yep."
+TP
+
+//太一「全部っ！？」
+Taichi: "Allll?!"
+//CP above
+TP
+
+//俺は二度聞く。
+I asked it twice.
+TP
+
+WVP 0 vfccb2009fyu055
+//冬子「え、ええ」
+Touko: "Ye, yep."
+TP
+
+//太一「こっ、こっ、こっ」
+Taichi: "Clu-, clu-, clu-,"
+TP
+
+WVP 0 vfccb2009fyu056
+//冬子「ニワトリ？」
+Touko: "Chicken?"
+TP
+
+//太一「この謎めいた小空間が、俺の自我の一部と知ってのことかー！！」
+Taichi: "Clueless you weren't that into this small mysterious area there was one part of my own seeelf!!!"
+//A bit crowbarred, I admit. -GHS
+TP
+//GL 1 TCKT0002c
+GL 1 TCKT0005c
+//HACK closed-eyes Touko instead -GHS
+GI 1 0
+
+WVP 0 vfccb2009fyu057
+//冬子「なんか……女の子が……縛られていたり……スクール水着とか着てたり……」
+Touko: "But... there were girls... tied up... or wearing school swimsuits..."
+//Ahhh, he's into bondage. -GHS
+TP
+
+WVP 0 vfccb2009fyu058
+//冬子「なんかヘンだったから、特に念入りに焼いたわ」
+Touko: "They seemed particularly weird, so I burned them with special attention, yes."
+TP
+
+GL 1 TCKT0021c
+GI 1 0
+
+WVP 0 vfccb2009fyu059
+//冬子「安心して。あんなもの、もういらないんだから」
+Touko: "Don't fret. Because you won't need those things anymore."
+TP
+
+//クスっと笑って、
+Chuckling,
+TP
+GL 1 TCKT0006c
+GI 1 0
+
+
+WVP 0 vfccb2009fyu060
+//冬子「……デッサンのモデル、私がなってあげてもいいわよ」
+Touko: "...I'm fine with becoming your design model myself, yes."
+TP
+
+//太一「はわわわわわわっ」
+Taichi: "AhWahWahWahWahWahWah!"
+TP
+
+//わかってない。
+You don't get it.
+TP
+
+//わかってねぇぇぇ！！
+Ya don't get iiiiiiit!!!
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode Is this a Tsukihime reference? BTW lining these up to match console version = epic sob -GHS
+
+//俺の魂が！（魂が！）
+> 
+ 
+ 
+> 
+My soul! (soul!)
+TP
+
+//炎に！（炎に！）
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+              In blazes! (blazes!)
+TP
+
+//俺の魂が！（魂が！）
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+                                 My soul! (soul!)
+TP
+
+//炎に！（炎に！）
+> 
+ 
+ 
+> 
+                             In blazes! (blazes!)
+TP
+
+//灰は灰に！（塵は塵に！）
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+           Ash to ash! (dust to dust!)
+TP
+
+//塵は塵に！（魂に！）
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+Dust to dust! (my soul!)
+TP
+
+//燃える燃えるぜ、俺の魂
+> 
+ 
+ 
+> 
+           Burned burned all, my soul!
+TP
+
+//今じゃ手に入らないよ、伝説、究極のＥ本Ａ本！
+> 
+ 
+ 
+> 
+ 
+ 
+ 
+        E books, A books, the legendary,
+       the ultimate, the now unobtainable!
+//I suppose it's because of the rap style. -GHS
+TP
+
+//灼ける灼けるぜ、ここは地獄の一丁目！
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+  In fire! Burning! First 'hood of Hell's here!
+//*towa, towa, flash gang sign* -GHS
+TP
+
+//俺の魂が！（魂が！）
+> 
+ 
+ 
+> 
+                My soul! (soul!)
+TP
+
+//炎に！（炎に！）
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+  
+In blazes! (in blazes!)
+TP
+
+//おまえの魂も！（魂も！）
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+                  So will your soul! (your soul!)
+TP
+
+//炎に！（炎に！）
+> 
+ 
+ 
+> 
+ 
+Be in blazes! (in blazes!)
+TP
+
+//もろともに！
+> 
+ 
+ 
+> 
+ 
+ 
+> 
+ 
+ 
+               Together with mine!
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+//太一「グッドバイ！！」
+Taichi: "Good-Bye!!!"
+//Official English translation, see below. -GHS
+TP
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+WVS 1 0
+WVP 2 se038 1 0
+SEF 101 0
+//ラップ調で絶望した挙げ句、太宰の著作のような絶叫をあげて、俺は気絶した。
+When I had at last finished my rap-style despair, I screamed the title of the final unfinished work of Dazai Osamu, and swooned.
+//http://en.wikipedia.org/wiki/Osamu_Dazai -GHS
+TP
+
+
+
+//意識の底。
+And at the bottom of my awareness,
+TP
+
+//去年の今時を、思い出した。
+//I awkwardly transitioned to a flashback.
+I remembered of last year, about this time.
+TP
+WT 500
+WT 500 1
+RET

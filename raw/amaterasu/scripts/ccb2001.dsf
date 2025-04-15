@@ -1,0 +1,311 @@
+
+
+
+Taichi: "Hey, melancholy Ojou-sama."
+TP
+
+Touko: "......"
+TP
+
+Her face was horribly pale.
+TP
+
+Taichi: "......are you eating properly?"
+TP
+
+WVP 0 vfccb2001fyu001
+Touko: "What is it with you!?" 
+TP
+
+Her mood was quickly injured.
+TP
+
+I'm seriously worried.
+TP
+
+Taichi: "You look pale."
+TP
+
+Taichi: "Even if you don't have an appetite, your body needs food."
+TP
+
+Taichi: "The body has shallower roots than the mind."
+TP
+
+WVP 0 vfccb2001fyu002
+Touko: "That's too much trouble!"
+TP
+
+Taichi: "Aren't you good at cooking?"
+TP
+
+She said that a long time ago.
+TP
+
+WVP 0 vfccb2001fyu003
+Touko: "......forget about it."
+TP
+
+She wouldn't look at my face.
+TP
+
+Taichi: "You're hopeless."
+TP
+
+Taichi: "Come on, hold out your hand."
+TP
+
+WVP 0 vfccb2001fyu004
+Touko: "......my hand?"
+TP
+
+Taichi: "Hold it out."
+TP
+
+Touko's face filled itself with a detective's suspicion.
+TP
+
+Although a real detective wouldn't show it if they suspected something.
+TP
+
+WVP 0 vfccb2001fyu005
+Touko: "......aren't you just going to make me hold something weird again?"
+TP
+
+Taichi: "Heh, you say that as if I've done it before."
+TP
+
+She spat out fictional saliva (sociability).
+TP
+
+WVP 0 vfccb2001fyu006
+Touko: "Didn't you?!"
+TP
+
+Taichi: "......eh!?"
+TP
+
+I overreacted.
+TP
+
+WVP 0 vfccb2001fyu007
+Touko: "Didn't you do it didn't you do it didn't you make me squeeze it and squeeze it!?"
+TP
+
+Taichi: "That happened...?"
+TP
+
+I spoke with the tone of a stupid kid.
+TP
+
+WVP 0 vfccb2001fyu008
+Touko: "Don't play dumb!!"
+TP
+
+Taichi: "I really don't remember it..."
+TP
+
+WVP 0 vfccb2001fyu009
+Touko: "Lies! That's definitely the face of someone who remembers!"
+TP
+
+Taichi: "What kind of face?"
+TP
+
+WVP 0 vfccb2001fyu010
+Touko: "The sensation still hasn't left my hand, and yet-!!"
+TP
+
+She was shaking.
+TP
+
+WVP 0 vfccb2001fyu011
+Touko: "To begin with, you-! Didn't you mount someone's head once?!"
+//Oh my god, Taichi's a dirty teabagger! - pondrthis
+//lmao, that's what I was thinking.-Spin
+TP
+
+Taichi: "Ah, the topknot."
+TP
+
+Forbidden secret technique: the topknot.
+//There was a week one line somewhere that mentioned topknot in a rather cryptic way, and we had no idea what to do with it then. I guess the mystery is finally solved.
+TP
+
+Taichi: "The tastes of the aristocrats."
+TP
+
+WVP 0 vfccb2001fyu012
+Touko: "Aren't those the tastes of a sexual criminal!!? Why would an aristocrat ever do such things!!!?"
+TP
+
+Taichi: "You're an erotic aristocrat yourself, you know."
+TP
+
+WVP 0 vfccb2001fyu013
+Touko: "Wh---!"
+TP
+
+Her pale face turned solid white.
+TP
+
+Taichi: "Using my fingers---"
+TP
+
+WVP 0 vfccb2001fyu014
+Touko: "Didn't you make me do that---------!!!?"
+TP
+
+GL 4 sgcc0012
+$CGsgcc0012 = 1
+GP 4 0 0
+WVS 1 0
+WVP 2 se030 1 0
+GI 4 0
+SEF 101 0
+
+*bam* *bam* *smack!*
+TP
+
+
+
+
+Taichi: "YOU WIN!"
+TP
+
+I danced.
+TP
+WVP 2 se038 1 0
+SEF 101 0
+Drawing a parabola as I fell.
+TP
+WVP 2 SE069 1 0
+Taichi: "This may be my spiritual duty, but......owww......that hurts......"
+TP
+GL 0 bgcc0006
+GS 4 0
+GS 1 0
+GS 0 1
+SEF 109 0
+
+I got up and then moved the scattered desks and chairs back into position.
+//That pause disturbed the flow of the line.-Spin
+TP
+GL 1 TCKT0001
+GP 1 220 0
+GI 1 1
+Touko: "......"
+TP
+GO 1 1
+Touko had already returned to her former posture.
+TP
+WVP 1 bgm013.ogg 0 0 0
+
+GL 0 evcc0011
+$CGevcc0011 = 1
+GS 0 1
+SEF 109 0
+
+
+Her face was made of some shape memory alloy.
+TP
+
+Aristocratic blood?
+TP
+
+Taichi: "Umm, Kirihara-shan."
+IF $tlnote != 0 (TL note: This is yet another random cutesy honorific that Taichi really shouldn't be using.)
+TP
+
+Touko: "......"
+TP
+
+A sigh.
+TP
+
+Taichi: "Okay okay, if you're going to ignore me, go right ahead."
+TP
+
+Taichi: "Now give me your hand."
+TP
+
+I took her hand by force.
+TP
+
+WVP 0 vfccb2001fyu017
+Touko: "Hey......"
+TP
+
+
+*plop* *plop* *plop*
+TP
+
+
+Taichi: "Eat mother's flavor."
+//lol, even though I came up with that one line, it still sounds so weird but funny in a way.-Spin
+TP
+
+Three round candies rolled around on the palm of her hand.
+TP
+
+WVP 0 vfccb2001fyu018
+Touko: "Ah."
+TP
+
+Taichi: "Be at ease. My two hundred million small wonderful lives aren't inside those."
+TP
+
+Taichi: "They're on vacation (alol)."
+TP
+
+WVP 0 vfccb2001fyu019
+Touko: "......of course they are."
+TP
+
+*squeeze*
+TP
+
+Touko gripped the candies.
+TP
+
+Taichi: "You should be able to live for a while with enough sugar intake."
+TP
+
+Cheap jokes should also be forgiven if done three at a time.
+TP
+
+Taichi: "Even if you don't have an appetite, make sure you practice putting things in your mouth."
+TP
+
+Touko glared at her fist.
+TP
+
+WVP 0 vfccb2001fyu020
+Touko: "......you're...always like that."
+TP
+
+WVP 0 vfccb2001fyu021
+Touko: "Pretending to be kind, being an idiot, being cold and distant, being scary."
+TP
+
+WVP 0 vfccb2001fyu022
+Touko: "I don't understand."
+TP
+
+She covered her face.
+TP
+
+WVP 0 vfccb2001fyu023
+Touko: "......I'm begging you, leave me alone."
+TP
+
+Taichi: "Ooohhh."
+TP
+WVS 1 1
+She's mad at me.
+TP
+
+
+
+
+RET

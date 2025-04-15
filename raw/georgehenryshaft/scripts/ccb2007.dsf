@@ -1,0 +1,657 @@
+
+
+
+GL 0 bgcc0005a
+GS 0 1
+SEF 152 0
+
+WVP 1 bgm005.ogg 0 0 0
+WVP 0 vfccb2007fyu000
+//冬子「……ったら！」
+Touko: "...'lling you!"
+//[I'm te] -GHS
+TP
+
+//耳元で怒鳴られて、我に返る。
+Yelled at right in the ears, I come to my senses.
+TP
+
+//太一「は、はい？」
+Taichi: "Ye-, yes?"
+TP
+
+GL 1 TCKT0003b
+GP 1 230 0
+GI 1 1
+
+WVP 0 vfccb2007fyu001
+//冬子「ぼーっとしてた。無視してた。傷ついた」
+Touko: "All spacing out. Ignoring me. That hurts!"
+TP
+
+//太一「あのなぁ」
+Taichi: "Uhmmm."
+TP
+
+//太一「俺にはぼーっとする権利もないのですか？」
+Taichi: "Don't I even have the privilege of spacing out now?"
+TP
+
+GL 1 TCKT0001b
+GI 1 0
+
+WVP 0 vfccb2007fyu002
+//冬子「……宮澄先輩のこと考えてたりとかして」
+Touko: "...were you thinking about Miyasumi-senpai maybe."
+TP
+
+//太一「男のこと考えてた」
+Taichi: "I was thinking about a guy."
+TP
+
+GL 1 TCKT0004b
+GI 1 0
+
+WVP 0 vfccb2007fyu003
+//冬子「！！？？」
+Touko: "?!?!?"
+TP
+
+//冬子は衝撃に包まれた（見た感じ）。
+Touko was engulfed in shock (visual impression).
+TP
+
+GL 1 TCKT0006b
+GI 1 0
+WVP 0 vfccb2007fyu004
+//冬子「おとこぉ……やだ……そんなの……（赤面）」
+Touko: "A guy... but no... that's so... (blushing)"
+//SHE'S INTO BL RUN -GHS
+TP
+
+//太一「なんてこった」
+Taichi: "The hell's that!"
+TP
+
+//最悪だった。
+That was really mean.
+TP
+
+//しかもあながち外れじゃない。
+And still it's not like it's all that strange.
+//Her reaction and him thinking about a guy. -GHS
+TP
+
+//太一「夢見る娘よ、あまり夢を見るなよ」
+Taichi: "Dreaming lady, don't be having too many dreams!"
+//夢見る薬？ -GHS
+TP
+
+GL 1 TCKT0005b
+GI 1 0
+WVP 0 vfccb2007fyu005
+//冬子「……３馬鹿もいつもそんな感じだったら、ちょっとは夢があるのにね」
+Touko: "...well, since you three stooges always gave that impression, of course there's a bit of a dream."
+//... -GHS
+TP
+
+//太一「ヤメレ！」
+Taichi: "STOP!"
+TP
+
+//気色悪い。
+That's revolting.
+//Contrast with CCA0018B, i.e. the script that's just ended. -GHS
+TP
+
+//あの二人を相手に純愛ラブストーリーなんて。
+A Pure Love Story with one of those two, really!
+TP
+
+
+WVS 1 1
+//GO 1 1
+GL 4 bgcc0000e
+GS 4 1
+SEF 109 2
+GL 4 bgcc0000b
+GS 4 1
+SEF 109 1
+//HACK fade to white then evening sky -GHS
+
+//太一『……』
+Taichi: 『...』
+TP
+
+CSQ 0 1 1
+//　・桜庭を誘う
+//　・友貴を誘う
+ - Invite Sakuraba
+ - Invite Tomoki
+
+IF $B == 1 JMP LSAKU
+IF $B == 2 JMP LTOMO
+
+
+
+:LSAKU
+
+//GL 5 TCSH0001
+GL 5 zzzCCB2007SackBlend
+GP 5 180 0
+GI 5 1
+//HACK different layer, semitransparent Sakuraba. Also, they had used his Day doll instead of the Dusk doll. -GHS
+
+WVP 0 vmccb2007sku000
+//桜庭『太一、俺を本気にさせるなよ』
+Sakuraba: 『Taichi, don't make me take this seriously.』
+TP
+
+JMP LBOB
+
+:LTOMO
+
+
+//GL 1 TCST0000b
+GL 5 zzzCCB2007TomokiBlend
+GP 5 200 0
+GI 5 1
+//HACK Same as above (they used the evening doll at least) -GHS
+
+WVP 0 vmccb2007yki000
+//友貴『僕はおまえのそーいうトコ、嫌いじゃないよ』
+Tomoki: 『I don't dislike that part of yours.』
+TP
+
+JMP LBOB
+
+:LBOB
+
+//GO 1 1
+GO 5 1
+//HACK different layer (still sky)
+//ぞぞぞぞぞっ！
+ShaaakeShakeShakeShakeShake!
+SEF 101 0
+TP
+
+GL 4 bgcc0000e
+GS 4 1
+GS 5 0
+SEF 109 1
+//GL 1 TCKT0005b
+//GS 0 1
+//GS 1 1
+//GP 1 230 0
+GS 4 0
+SEF 109 0
+//HACK fade to white, back to road with last Touko doll preloaded -GHS
+
+
+WVP 1 bgm005.ogg 0 0 0
+
+//太一「どーしてそー気色悪いこと考えるんだよ、友情だよ友情、普通の！」
+Taichi: "Whyyy are you thinking stuff that creeepy, it's just friendship, just friendship, it's all normal!"
+//See CCA0013. Taichi dreamed it was possibly in response to creepy stuff he wrote about Touko, as well. -GHS
+TP
+
+GL 1 TCKT0000b
+GI 1 0
+//HACK no fade -GHS
+
+WVP 0 vfccb2007fyu006
+//冬子「気色悪いないでしょー。少なくとも３馬鹿って、みてくれはそれっぽく見えるもの」
+Touko: "That's not disgusting! At least, as far as outwards you three stooges can be looked at."
+//...shouldn't this mean "that's what you three stooges look like [gay]?" But below... -GHS
+TP
+
+//太一「……俺を含めるな」
+Taichi: "...don't you include me."
+TP
+
+GL 1 TCKT0006b
+GI 1 0
+
+WVP 0 vfccb2007fyu007
+//冬子「やだ、まだ醜いアヒルの子してるの？」
+Touko: "Oh no, are you still playing ugly duckling?"
+//Oono? Ohho? Onno. Onna noh mask. -desu -GHS
+TP
+
+//太一「うるへえ！」
+Taichi: "Shaddep!"
+TP
+
+//深刻な問題だぞ。
+This is a serious problem!
+TP
+
+//自虐ネタにしてどうにか保ってるんだ。
+My self-deprecating routine is there to cover for it somehow.
+//Best explained in the ending. ...not that Taichi gets it himself... -GHS
+TP
+
+//確かに……面貌の問題ではないのかも知れないが……。
+Sure... this might not be a problem of looks at all but...
+TP
+
+//わかっていても、意識改革なんてそう簡単にはできん。
+I can understand that as much as I like, but completely changing one's way of thinking is not so simple.
+TP
+
+//だって、
+Because,
+TP
+
+//だってなぁ……。
+because, well...
+TP
+
+//太一「とにかくだ」
+Taichi: "So anyway."
+//And cuts to perversion, i.e., no change. -GHS
+TP
+
+//太一「気色悪いことを考えた罰！」
+Taichi: "Punishment for having disgusting thoughts!"
+TP
+
+
+GL 1 TCKT0000b
+GI 1 0
+
+WVP 0 vfccb2007fyu008
+//冬子「えっ？」
+Touko: "Eh?"
+TP
+GL 0 evcc0023
+GL 5 bgcc0000e
+$CGevcc0023 = 1
+GS 1 0
+GP 5 0 0
+WVP 2 se100 1 0
+GI 5 0
+GO 1 0
+GI 0 1
+GO 5 1
+SEF 101 0
+//セキララー！
+Nuditehhh!
+//赤裸々 -GHS
+TP
+
+
+//そんなオノマトペがどこからか聞こえた。
+That's the onomatopoeia that was audible from someplace.
+//Since there's serious possibilities that Taichi is having auditory hallucinations, and this is almost certainly one of them regardless, can't specify more. -GHS
+TP
+
+WVP 0 vfccb2007fyu009
+//冬子「……ッッッ！！」
+Touko: "...!!!!!"
+TP
+
+//太一「どっせーい！」
+Taichi: "Annnd UP!"
+TP
+
+//スカートのはしをつかんだまま、頭上に固定する。
+I seize the hem of the skirt, and affix it to her head.
+//I think they sell glue in Japan for that -GHS
+TP
+
+//今、冬子の辱められっぷりは、並じゃない！
+Now, the shaming of Touko is at levels incomparable!
+TP
+
+//しかも公道。
+And in public as well.
+TP
+
+//さあ、どうする冬子！
+So, what shall you do Touko!
+TP
+
+//どうするッッッ、真剣サムライ娘ッッッ！（予告風）
+Oh Samurai Girl of the True Blade, what will you doooooooo...! (next episode preview-like)
+TP
+
+
+
+//実のところ。
+As a matter of fact,
+TP
+
+//殴られるのを覚悟していたし、期待してもいた。
+I was prepared to get beaten, anticipated it even.
+TP
+
+//ところがである。
+But despite that,
+TP
+GL 0 evcc0023a
+$CGevcc0023a = 1
+GS 0 1
+SEF 109 0
+//冬子「……………………」
+Touko: "............"
+TP
+
+//ジト目で、俺を見るばかり。
+I am but stared at by reproachful eyes.
+TP
+
+//軽く朱色に染まったりなんかしちゃって。
+Her face dyes a light vermilion, that's it.
+TP
+
+//申し訳程度におさえた手に、本気でスキャンティをガードしようという意志はない。
+Holding down her hand as if in apology, there is no serious volition of guarding her Scanties.
+//http://www.weblio.jp/content/%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%86%E3%82%A3 http://www.merriam-webster.com/dictionary/scanties -GHS
+TP
+
+//つうかモロ見えてるし。
+But very much all of her frankness is visible.
+TP
+
+//太一「なん……で……怒ら……な？」
+Taichi: "How... come... not... angry?"
+TP
+
+WVP 0 vfccb2007fyu011
+//冬子「……だって、誰も見てないし……」
+Touko: "...but... there's no one looking..."
+//See CCD2002. Does she think that a good thing, or a bad one? -GHS
+TP
+
+//太一「そ！」
+Taichi: "Tha-!"
+TP
+
+//唇が震える。
+My lips tremble.
+TP
+
+//太一「そうじゃないだろう！？」
+Taichi: "That's not true you know?!"
+TP
+
+WVP 0 vfccb2007fyu012
+//冬子「どうしてめくった方が怒るの？」
+Touko: "Why would a skirt flip make me angry now?"
+TP
+
+//太一「そこはガーンと行くところだろう？」
+Taichi: "Shouldn't there have been a 'dun-dun-dunnn' there?"
+//May have termed the inversions. -GHS
+TP
+
+//太一「さあ、おまえの技を見せてくれ」
+Taichi: "Well, show me some your techniques!"
+TP
+
+WVP 0 vfccb2007fyu013
+//冬子「……離してよ、歩けないわ」
+Touko: "...let it go, I can't walk."
+TP
+
+WVP 0 vfccb2007fyu014
+//冬子「それに……恥ずかしい」
+Touko: "And it's... embarrassing."
+TP
+
+//ポッ
+Flush!
+TP
+
+//太一「ポッって……」
+Taichi: "Flushed..."
+TP
+
+//太一「それだけ？」
+Taichi: "That's it?"
+TP
+
+//こく、と少女はうなずく。
+Bob and the girl gives a nod.
+TP
+
+TS 2
+GL 5 zzzblackblend
+GP 5 0 0
+GS 5 1
+SEF 109 0
+TWS 7
+TS 1
+//HACK NVL mode -GHS
+
+
+//嗚呼。
+> 
+ 
+Alas.
+//Just bein' pretentious, really. -GHS
+TL
+//ニーチェは言った。
+Nietzsche had said it:
+//See CCA0015C -GHS
+TL
+//冬子は死んだ、と。
+"Touko is dead."
+//This line is so not funny on the second time through. -GHS
+TL
+//否。
+Nay.
+TL
+//冬子という個が死んだのではない。
+Touko, the individual, has not died.
+TL
+//冬子に見立てられていた、手の早い勝ち気娘という、大いなる最大公約数的価値観が喪失せしめられたのである。
+In the analysis of Touko's character, the
+quarrelsome, unyielding spirit that acts as an
+enormous maximum common denominator for her values
+had now been forcefully removed from her.
+TL
+//冬子の個性の一部が死んだことを意味する。
+Meaning one part of Touko's personality has died.
+TL
+//冬子はリアルになってしまった。また。
+Touko became completely realistic. Again.
+//Hint hint. -GHS
+TL
+//けど俺は、いつもカリカリしている冬子が好きなんだけどなぁ。
+But me, I like the Touko that is always
+irritably edgy.
+TL
+//だって、それが一番安定してる。
+Because that's the most equilibrated.
+TP
+
+GO 5 1
+TWS 0
+//HACK ADV mode -GHS
+
+//よし、こうなったら―――
+Well, if it has to be like this---
+TP
+
+//太一「禁断の奥義をば」
+Taichi: "Time for Forbidden Esoterica!"
+//See CCA0022 -GHS
+TP
+
+WVP 0 vfccb2007fyu015
+//冬子「もうはなしてよー……スースーして落ち着かないわ」
+Touko: "Lemme go alreadyyy... it's all breezy and it won't stop."
+//See CCA0015B -GHS
+TP
+
+//太一「もっとスースーするようにしてやる。パンツを脱いだりナプキンを押さえたりできなくしてやる」
+Taichi: "I will make it more breezy-breezy. Otherwise it's impossible for me to take off the panties or make you wear a sanitary napkin!"
+//STILL on about her being on her period. -GHS
+TP
+
+WVP 0 vfccb2007fyu016
+//冬子「……ちょっと、このまま引っ張るつもりじゃないでしょうね―――」
+Touko: "...wait, you can't exactly yank them off when I'm like this---"
+TP
+
+//太一「てやー」
+Taichi: "T'hyah!"
+TP
+
+//そして俺は、
+And then,
+TP
+
+//禁じ手を解放し、
+I unleashed the forbidden move.
+TP
+GL 0 evcc0023b
+$CGevcc0023b = 1
+GS 0 1
+SEF 109 0
+//下着をおろした。
+The underwear down slides.
+TP
+
+//足首まで。
+Until the ankle.
+TP
+
+//はやくモザイク！　はやくはやく！
+Hurry up, mosaic censoring! Quick, quick!
+TP
+
+//おっともうかかってたか、さすがに仕事がはやいぜ！
+Hoh, it already took. As typical, it works so fast!
+TP
+
+//死活問題だもんな！
+It's a question of life and death, isn't it!
+TP
+
+//太一「オゥ、トーコ！　セ　シ　ボン！（とっても素敵だ！）　セ　シ　ボン！（とっても素敵だ！）」
+Taichi: "Ah, Touko! C'est si bon! (so very good!) C'est si bon! (so very good!)"
+//Added some random French for--- no, wait, this one wasn't me. -GHS
+TP
+
+//得意のフランス語を駆使して、俺は冬子の陰部を絶賛した。
+Freely using most skilled French, I present great admiration to Touko's genitalia.
+TP
+
+//冬子「……」
+Touko: "..."
+TP
+
+//冬子「……………………」
+Touko: "............"
+TP
+
+WVP 0 vfccb2007fyu019
+//冬子「んのぉぉぉぉぉっ！！」
+Touko: "'llyyyyyy!!!"
+TP
+
+//『こんのぉ』と言っている。
+She's saying "reallyyy",
+//PCP CCA0002
+TP
+
+//舌っ足らずなのだろう。
+so that had to have been her lisp.
+//PCP CCA0002 
+//Technically it's identical, but the original line doesn't have the kanji in 'tarazu'. -GHS
+TP
+
+//キスするとよくわかる。
+It's easily understood when kissing:
+TP
+
+//ちょっと舌を吸うと、アップアップするから。
+suck a bit on her lip, and she flounders as if drowning, up, up, up.
+//アップアップ sometimes the Japanese have an actually clever sense of humor. -GHS
+TP
+
+//でも反面、彼女の口腔は炉のように熱い。
+But on the other hand, the insides of her mouth have the heat of a furnace.
+TP
+
+//舌もクリームめいて柔らかく、味わうと陶然とする。
+Her tongue too has the softness of cream. It's an intoxicating flavor.
+TP
+
+//俺は冬子とのラブラチオな日々に思いを馳せた。
+//※ラブラチオ＝太一語。口唇愛撫全般を意味する……らしい。由来不明。ラブ＋フェラチオだと思われる。
+My memories run to my lovellatious days with Touko.
+> 
+* Lovellatio = Taichian for caresses of all types to lips
+  in general... maybe. Origin unknown. Seems to be
+  love + fellatio.
+TP
+
+//と。
+And,
+TP
+
+WVP 0 vfccb2007fyu020
+//冬子「スカポンターーーーーーーーーーンッッッ！！」
+Touko: "SCAPONTAAAAAAAAAAANNNN!!!"
+//Time Bokan reference. http://d.hatena.ne.jp/keyword/%A5%B9%A5%AB%A5%DD%A5%F3%A5%BF%A5%F3 There doesn't seem to be an official translation for this, and the English transliterateing doesn't google either. I can't even find videos of this in either language. -GHS
+TP
+WVS 1 0
+GL 4 sgcc0012
+$CGsgcc0012 = 1
+GP 4 0 0
+GI 4 0
+WVP 2 se106 1 0
+//SEF 101 0
+GP 4 -40 0
+GI 4 0
+GP 4 40 0
+GI 4 0
+GP 4 -10 0
+GI 4 0
+GP 4 10 0
+GI 4 0
+GP 4 0 0
+GI 4 0
+//HACK independent CG shake -GHS
+
+
+
+//どかーん！
+Bokan!
+//Well, why not. -GHS
+TP
+
+GL 4 bgcc0000b
+GI 4 1
+//HACK to the sunset sky -GHS
+
+//太一「これこれーーーーーーっ！！」
+Taichi: "Helpy heeeeeeeeelp!!!"
+//Response to Scapontan? Without even a video... -GHS
+TP
+
+//舞いながら俺は思った。
+As I was fluttering through the air, I thought,
+TP
+
+
+
+//もういない、新川豊という男のことを。
+about Shinkawa Yutaka, the man that was no more.
+TP
+GL 0 bgcc0000d
+GS 1 0
+GS 0 1
+GS 4 0
+SEF 109 1
+
+WT 500 0
+WT 500 1
+
+
+
+RET

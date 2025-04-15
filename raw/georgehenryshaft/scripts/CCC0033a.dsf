@@ -1,0 +1,180 @@
+//太一「もぐもぐ…………はっ！？」
+Taichi: "Munch, munch...... huh?!"
+TP
+
+//太一「曜子ちゃん、もしかしてお腹すいてるの？」
+Taichi: "Youko-chan, could it be that you are hungry?"
+TP
+
+//こくこくと頷く。
+Bob bob steady nod.
+//CP CCB0002
+TP
+
+//太一「食べる？」
+Taichi: "Wanna eat?"
+TP
+
+//こくこくと頷く。
+Bob bob steady nod.
+//CP CCB0002
+TP
+
+//太一「じゃ、こっち来なよ。食べさせてあげるから」
+Taichi: "Then, come here. I will be feeding you."
+TP
+
+GL 1 zzzYoukoZoom2
+GP 1 100 0
+GI 1 1
+//HACK back too close. -GHS
+
+//大股で一歩、近づく。
+She approaches in a single long stride.
+TP
+
+//こちらのいじめを避けて離れていたが、これで至近距離だ。
+That was the distance to avoid my bullying, but this is point-blank range.
+TP
+
+//太一「はい、あーん」
+Taichi: "Say, aaaah."
+TP
+
+//口をあける。
+Mouth opens.
+TP
+
+//サンドイッチを押し進める。
+The sandwich marches onwards.
+TP
+
+//口が閉じる直前で引っ込め、自分で食った。
+The very moment before the mouth closes I pull it back and eat it myself.
+TP
+
+//太一「うまうま」
+Taichi: "Nom, nom!"
+//screw it *chug* -GHS
+TP
+//GL 1 TCHY0001
+//GI 1 1
+//HACK unneeded -GHS
+
+//曜子「…………………………………………」
+Youko: "........................"
+TP
+
+//太一「ごめんごめん、冗談だよ」
+Taichi: "Sorry, sorry, just joking."
+TP
+
+//太一「はい、今度こそ。あーん」
+Taichi: "Here, this time for real. Say aaaah."
+TP
+//GL 1 TCHY0000
+GL 1 zzzYoukoZoom1
+GI 1 0
+//HACK still zoomed -GHS
+
+
+//同じことが繰り返された。
+I repeated the same thing.
+TP
+
+
+//太一「うまうま」
+//Taichi: "Horse, horse!"
+Taichi: "Nom, nom!"
+//CP Adobe CS2 (did you know it's free now?)
+TP
+
+//曜子「……………………………………………………………………………………」
+Youko: "................................................"
+//Whoa, they're still the correct number despite it being the absolute limit of the screen before the cursor is pushed down or word wrap ensues. -GHS
+TP
+
+//プレッシャーを感じた。
+I felt pressure.
+//She's like a less hands-on Touko. ...well, she IS. -GHS
+TP
+
+//太一「うそうそ。今度こそちゃんとするよ」
+Taichi: "Kiddin', kiddin! This time it's really for real!"
+TP
+
+//太一「ほら、どーぞ」
+Taichi: "Here, haaave it."
+TP
+
+//左側に掲げる。
+I float it to the left.
+//See CCC3019A -GHS
+TP
+
+GL 1 zzzYoukoZoom2
+GP 1 -50 0
+GS 1 1
+SEF 109 0
+//HACK move left, eyes closed -GHS
+
+WVP 0 vfCCC0033ayou002
+//曜子「あ……」
+Youko: "Ah..."
+TP
+
+//曜子ちゃんがサンドイッチめがけてよろっと動く。
+Youko-chan moves in a totter, sandwich the aim.
+//Now she's Misato. -GHS
+TP
+
+//すかさず反対側に手をやる。
+Without delay I send the hand to the opposite side.
+TP
+
+GP 1 215 0
+GS 1 1
+SEF 109 0
+//HACK right side -GHS
+
+WVP 0 vfCCC0033ayou003
+//曜子「あ……」
+Youko: "Ah..."
+TP
+
+//反対側に動く。
+She moves to the opposite side.
+TP
+
+GS 0 0
+GS 1 0
+SEF 55 1
+//HACK out with everything, clock dissolve -GHS
+
+
+//六往復繰り返した。
+Six more times around and around we repeated all over again.
+//往復 again. That'd be seven times so far. And it's the seventh correct 往復 as well! -GHS
+TP
+
+//GL 1 TCHY0001
+GL 1 TCHY0000
+GP 1 180 0
+GS 0 1
+GS 1 1
+//GI 1 0
+SEF 109 0
+//HACK and back with all the changes, fade in -GHS
+
+WVP 0 vfCCC0033ayou004
+//曜子「……いい、帰ってひきこもるから」
+Youko: "...'s fine. Going home to hikikomori."
+//See CCB0007. Twice it's enemy action, there's a subtle Tomoki going on here. -GHS
+TP
+
+//太一「冗談だってば」
+Taichi: "Told you I'm joking!"
+TP
+
+
+RET

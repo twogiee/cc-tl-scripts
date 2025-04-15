@@ -1,0 +1,217 @@
+
+GL 0 bgcc0005
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+WVP 1 bgm015.ogg 0 0 0
+
+I walked home.
+TP
+
+
+Taichi: "Hmmm."
+TP
+
+In the end, I spent the day doing nothing.
+TP
+
+Maybe it's because I knew everything would be reset?
+TP
+
+I just couldn't get into it.
+TP
+
+Besides......even after going to school, I didn't feel any liveliness or prosperity.
+TP
+
+The world was becoming a shell.
+TP
+
+You can't call this a world with only eight people.
+TP
+
+An eternal summer.
+TP
+
+Are we the remains of humanity trapped in an eddy of time?
+TP
+
+Or perhaps......a different meaning...
+TP
+
+I stood still partway up the hill.
+TP
+
+The grove of trees on the side of the road.
+TP
+
+I remember.
+TP
+
+I remember......
+TP
+GL 0 bgcc0005s
+GS 0 1
+SEF 10 1
+
+
+WVP 3 se001 0 0 1
+Shinkawa Yutaka was staring at the grove of trees.
+TP
+
+I moved toward Shinkawa, and called out to him.
+TP
+
+Taichi: "What's wrong?"
+TP
+
+Shinkawa was sweating.
+TP
+
+It didn't look like summer sweat.
+TP
+
+I stepped back.
+TP
+
+A car came.
+TP
+
+Taichi: "Shinkawa!"
+TP
+
+WVP 2 SE055 1 0
+Shinkawa was run over and killed. That traumatized me.
+TP
+
+
+......nothing like that happened.
+TP
+
+Taichi: "Ah, it's the Tasaki Shop's pickup."
+TP
+
+That flashy guy passed by slowly at thirty kilometers per hour.
+TP
+
+The old man with rich facial features waved his hand at me, saying 『Thanks for everything!』
+TP
+
+Since I'm one of his customers.
+TP
+
+I turned to him.
+TP
+
+Taichi: "Thanks for all the Shouwa-era beverages!"
+TP
+
+An*sa.
+//アン○サ。
+//I cannot find this name anywhere. An*sa. No idea how accurate that romanization is or how much is covered by the *. ～IX
+//This at least needs to be in some form of English here... ~Balcerzak
+//Unless this has been fixed since then, this one shows up as gibberish to me. -VDZ
+TP
+
+Me**ow Yellow.
+TP
+
+Nepo*.
+TP
+
+Pepper Captain.
+TP
+
+Gato**de.
+TP
+
+Legendary soft drinks.
+TP
+
+As a former railway otaku, I guess it makes sense he'd be maniacal about his business.
+TP
+
+I don't know how he supplies them.
+TP
+
+Anyway, Shinkawa didn't die.
+TP
+
+He's just peachy.
+TP
+
+Taichi: "You were hovering between life and death just now. If I hadn't grabbed onto your arm like that, those gray brain cells of yours would've made a gory painting on the asphalt."
+TP
+
+Shinkawa was shaking.
+TP
+
+Taichi: "Shinkawa?"
+TP
+
+GL 1 TCSY0002s
+GP 1 180 0
+GI 1 1
+
+WVP 0 vmCCC3003shi000
+Shinkawa: "Ah......sorry."
+TP
+
+He regained his senses.
+TP
+GL 1 TCSY0000s
+GI 1 0
+WVP 0 vmCCC3003shi001
+Shinkawa: "Somehow......when I look into something like a grove of trees......I start feeling horrible......I've been like that for a long time......though I have no idea why......"
+TP
+
+He covered his face as he stood up, and looked dizzy for a while.
+TP
+
+Then he looked up at the blue sky, and sighed as if panting.
+TP
+
+Taichi: "............"
+TP
+WVP 0 vmcca0011bshi018
+Shinkawa: 『One of my legs doesn't move very well.』
+//PCP cca0011c
+TP
+
+I'd thought his obstacle was external.
+TP
+
+There aren't many in Gunjou, but there were students with long-standing external obstacles.
+TP
+
+But Yutaka's different......it might really be internal, if I think about it now.
+//I can't think of another way to make this sound better. Saying it's "internal" and then saying it "might have been internal" right next to it is weird.-Spin
+TP
+
+Within the forest,
+TP
+
+Closed space surrounded by trees.
+TP
+
+It's a weakness of mine too.
+TP
+
+A long time ago, something happened which dug into the wounds in my heart.
+TP
+
+I was able to understand Shinkawa's feelings, and therefore a little bit of my own.
+TP
+
+GL 0 bgcc0000d
+GS 0 1
+GS 1 0
+SEF 109 0
+WVS 1 1
+
+
+WVS 3 1
+
+RET

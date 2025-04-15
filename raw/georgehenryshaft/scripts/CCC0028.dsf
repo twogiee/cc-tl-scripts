@@ -1,0 +1,16 @@
+
+
+
+//さて。
+Then now,
+TP
+
+CSQ 0 1 1
+//　・二年教室に行ってみる
+//　・部室に行ってみる
+ - Try going to the Second Years' classroom
+ - Try going to the Club Room
+
+
+
+RET

@@ -1,0 +1,43 @@
+And then, I woke up.
+Just in case, I checked the depths of the bushes.
+Okay.
+Out of phase. That's what I'll call it.
+Only my eyes could observe the path home on the other side of it.
+It's the truth only for those who observe.
+If I pass through there, I can go home.
+To a world filled with people.
+Although, that's right.
+I'll---
+Youko-chan's nowhere to be seen.
+There was just a bentou left on the table.
+I headed to school.
+I walked in an uninhabited world.
+There were no signs of any people, or any other life forms.
+It didn't feel full.
+No cicadas cried.
+Unnatural space.
+Swirling contradictions at the nucleus of crossed worlds.
+A small world of only eight people.
+
+[Taichi]
+"......"
+
+Nanaka won't come out either.
+
+[Nanaka]
+"........................"
+
+IF $SB_MKI == 1 JMP N_CHS001
+IF $SB_KRI == 0 JMP N_CHS001
+IF $SB_MSA != 1 JMP Y_CHS001
+IF $SB_TKO != 1 JMP Y_CHS001
+IF $SB_SKU != 1 JMP Y_CHS001
+JMP N_CHS002
+:Y_CHS001
+CSQ 0 1 1
+  -Go to school
+  -Go to the Tasaki Shop
+:N_CHS001
+$B = 1
+:N_CHS002
+$B = 2

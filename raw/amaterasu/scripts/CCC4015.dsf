@@ -1,0 +1,946 @@
+GL 0 bgcc0019
+GS 0 1
+GS 1 0
+GS 2 0
+SEF 152 0
+
+
+WVP 1 bgm007.ogg 0 0 0
+
+Touko's house.
+TP
+
+No......her mansion.
+TP
+GL 0 bgcc0000d
+GS 0 1
+SEF 109 0
+
+When I entered her mansion, the darkness was unbroken.
+// uh? he says 'no...her mansion' and calls it house again?
+TP
+
+The windows were shut tight.
+TP
+
+I took out a flashlight and headed for Touko's room.
+TP
+
+I came here a number of times a long time ago.
+TP
+
+I was almost introduced to her father.
+TP
+
+......though I ran away.
+TP
+
+The second floor.
+TP
+
+I confirmed each of the rooms one by one.
+//CP ccc3021
+TP
+
+I'm sure it was around here......
+TP
+
+Then, when I opened one of the countless doors,
+//CP_S
+TP
+
+Light poured in.
+TP
+GL 5 bgcc0000e
+GL 0 evcc0050a
+$CGevcc0050a = 1
+GI 5 0
+GS 0 1
+GS 5 0
+SEF 109 0
+
+Taichi: "........................"
+TP
+
+The window was open all the way.
+TP
+
+The wind came in softly, revolved around the room and left.
+TP
+
+So that's why...
+TP
+
+There's no smell.
+TP
+
+Taichi: "......Touko."
+//CP_F
+TP
+
+There was a blade in her chest.
+TP
+
+I see, that's definitely a murder victim.
+TP
+
+That blade is probably something that came from this mansion.
+TP
+
+It was a decorative short sword with a gaudily engraved handle.
+TP
+
+There was blood.
+TP
+
+It had poured from her chest onto the sheets, and changed to a reddish black color.
+TP
+
+However,
+TP
+
+It was a beautiful body.
+TP
+
+I felt that it was a noble corpse, befitting of Touko.
+TP
+
+Taichi: "............"
+TP
+
+I stayed there for a while.
+TP
+
+Had time itself been shot through, along with my heart?
+//Since it's impossible to say exactly what this is intended to mean, feel free to change it to "shot through the heart?" Å`IX
+TP
+
+It was almost as if Touko had stopped.
+TP
+
+If I pulled out the short sword, she might wake up right now and impolitely revile me.
+TP
+
+That's how I felt.
+TP
+GL 0 bgcc0005
+GS 0 1
+SEF 152 0
+......who'd killed her?
+TP
+
+Unfortunately, the suspects can be counted on one hand.
+TP
+
+Kiri.
+TP
+
+Miki.
+TP
+
+Tomoki.
+Sakuraba.
+//Meant to be put together like that?-Spin
+TP
+
+Mimi-sempai.
+TP
+
+If there were any other humans hiding somewhere, it'd be different, but that's everyone.
+TP
+
+First, Kiri.
+TP
+
+I don't think it's her.
+TP
+
+She was the first to find it, but,
+TP
+
+It's hard to think she did it.
+TP
+
+Kiri's anger was the real thing, and her confusion was also the truth.
+TP
+
+Miki.
+TP
+
+There's a possibility.
+TP
+
+But I don't know what her motive would be.
+TP
+
+At this point alibis are meaningless, since I have no way of knowing for certain what Miki was doing where and when.
+TP
+
+I feel sorry for her, but she's Suspect #1.
+TP
+
+Tomoki.
+TP
+
+He's Suspect #2.
+TP
+
+Again the motive is unclear.
+TP
+
+Sakuraba.
+TP
+
+Suspect #3. Same as above.
+TP
+
+Mimi-sempai.
+TP
+
+Suspect #4. Same as above.
+TP
+
+Taichi: "Hmmm."
+TP
+
+There aren't that many clues.
+TP
+
+I'm not seeing any likely people or motives.
+TP
+
+There's not even a guarantee that the person who killed Youko-chan is the same as the one who killed Touko.
+TP
+
+......being a detective is hard.
+TP
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+Around the front gate, I found Suspect #2.
+TP
+
+I began Surprise Attack Questioning.
+//It sounded like an attack name, so I capitalised it - Sheeta
+TP
+
+Taichi: "Your age?"
+TP
+
+GL 1 TCST0000
+GP 1 190 0
+GI 1 1
+WVP 0 vmCCC4015yki000
+Tomoki: "......I can't say."
+TP
+
+Just what I'd expect from Tomoki.
+TP
+
+He seemed unfazed by my surprise attack.
+TP
+
+Taichi: "You say you can't tell me your age? Why not?"
+TP
+
+GL 1 TCST0004
+GI 1 0
+WVP 0 vmCCC4015yki001
+Tomoki: "I can't say the reason."
+TP
+
+Taichi: "You can't say the reason?"
+TP
+
+WVP 0 vmCCC4015yki002
+Tomoki: "Yes......I'm sorry."
+TP
+
+Taichi: "I'll change my question. Are you older, or younger than twenty?"
+TP
+
+GL 1 TCST0000
+GI 1 0
+WVP 0 vmCCC4015yki003
+Tomoki: "Younger?"
+TP
+
+Taichi: "Are you younger than eighteen?"
+TP
+GL 1 TCST0004
+GI 1 0
+WVP 0 vmCCC4015yki004
+Tomoki: "I can't say."
+TP
+
+Taichi: "Hmmm. Are you seventeen?"
+TP
+
+WVP 0 vmCCC4015yki005
+Tomoki: "I absolutely can't say."
+TP
+
+Taichi: "Aren't you a high school student?"
+TP
+
+GL 1 TCST0001
+GI 1 0
+WVP 0 vmCCC4015yki006
+Tomoki: "......no such thing exists in this world."
+TP
+
+Taichi: "Which is wrong: girl high student, or girl school student?"
+IF $tlnote != 0 (TL note: Each spelled with one of the two identically pronounced kanji that make up the word "koukou (high school)".)
+TP
+GL 1 TCST0004
+GI 1 0
+WVP 0 vmCCC4015yki007
+Tomoki: "I've heard they're both wrong."
+IF $tlnote != 0 (TL note cont: You're still technically supposed to use both kanji in words like that.)
+//That was a damn hard one to explain. Tell me if I got it right. Å`IX
+TP
+
+Taichi: "Might you know of something called the student handbook?"
+TP
+
+WVP 0 vmCCC4015yki006
+Tomoki: "......no such thing exists in this world."
+TP
+
+Taichi: "Your age?"
+TP
+
+GL 1 TCST0000
+GI 1 0
+WVP 0 vmCCC4015yki008
+Tomoki: "Pubescent."
+TP
+
+Taichi: "......I can't even confirm your age."
+//This one could sorta go both ways but it seems better with just the period. It's really hard to tell without the voice.-Spin
+TP
+GL 1 TCST0003
+GI 1 0
+WVP 0 vmCCC4015yki009
+Tomoki: "What am I supposed to do about it?"
+TP
+
+Questioning is hopeless. This can't be done.
+TP
+
+Taichi: "So, what's up?"
+TP
+
+GL 1 TCST0000
+GI 1 0
+WVP 0 vmCCC4015yki010
+Tomoki: "......nothing really. I just thought I'd go home."
+TP
+
+Taichi: "Weren't you just standing here? You seemed to be receiving some telepathic message."
+TP
+
+WVP 0 vmCCC4015yki011
+Tomoki: "......I'm going home. I was trying to go home."
+TP
+GO 1 1
+Tomoki left simmering.
+TP
+
+Taichi: "What's with him?"
+TP
+
+My eyes followed him from the place he'd been standing.
+TP
+
+The roof.
+TP
+
+The antenna.
+TP
+
+And then,
+TP
+
+Mimi-sempai---
+TP
+
+She seemed to be clinging to the fence as she gazed at the town.
+TP
+
+After a while, she moved away and disappeared beside the antenna.
+TP
+
+Taichi: "?"
+TP
+
+Those two were fighting, weren't they?
+TP
+
+It was hard to think they could kill someone while that was going on.
+TP
+
+GL 0 bgcc0008
+GS 0 1
+SEF 152 0
+Miki came out of the bathroom.
+TP
+
+GL 1 TCYM0000
+GP 1 180 0
+GI 1 1
+WVP 0 vfCCC4015mki000
+Miki: "Ah, Sempaaai."
+TP
+
+Taichi: "Yo! Suspect #2."
+//Stop changing this. It's 2 in the original. Å`IX
+TP
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC4015mki001
+Miki: "......EH?"
+TP
+
+Taichi: "Your age?"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4015mki002
+Miki: "I can't say."
+TP
+
+Taichi: "You say you can't tell me your age? Why not?"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4015mki003
+Miki: "I can't say the reason."
+TP
+
+Taichi: "Hmph. Then I'll change my question. Are you older, or younger than twenty?"
+TP
+
+WVP 0 vfCCC4015mki004
+Miki: "I'm younger."
+TP
+
+Taichi: "Are you younger than eighteen?"
+TP
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4015mki005
+Miki: "I've been told I look about fifteen on the outside."
+TP
+
+Taichi: "Who told you to say something subjective?"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+
+WVP 0 vfCCC4015mki006
+Miki: "Yes, I'm sorry."
+TP
+
+Taichi: "Are you younger than eighteen?"
+TP
+GL 1 TCYM0041
+GI 1 0
+WVP 0 vfCCC4015mki007
+Miki: "I have no choice. I'll tell you the truth......uu! My stomach suddenly hurts."
+TP
+
+Taichi: "Shit! What horrible timing!"
+TP
+
+Taichi: "Please tell me in your final moments. Are you not a high school student who's either a girl high student or girl school student with a school notebook?"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4015mki008
+Miki: "Those four phrases don't exist in this world."
+TP
+
+Taichi: "I see......then, will you tell me your age?"
+TP
+
+
+GL 1 TCYM0011
+GI 1 0
+WVP 0 vfCCC4015mki009
+Miki: "Ten thousand and fifteen."
+// I love how they get around to state that Miki is 15.
+TP
+
+Taichi: "Are you a tree?"
+TP
+
+Kiri came out of the bathroom.
+//Having "late" would imply that there was a certain time limit to where it was punctual for her entrance right?-Spin
+TP
+
+GL 2 TCSK0001
+GP 1 40 0 0
+GP 2 300 0 0
+GS 1 1
+GS 2 1
+SEF 109 0
+
+WVP 0 vfCCC4015kri000
+Kiri: "Kurosu Taichi!"
+TP
+
+She immediately turned up her eyes.
+TP
+
+WVP 0 vfCCC4015kri001
+Kiri: "Miki, you mustn't talk to that person!"
+TP
+
+GL 1 TCYM0021
+GI 1 0
+WVP 0 vfCCC4015mki010
+Miki: "Eeeh? But...?"
+TP
+GL 2 TCSK0002
+GI 2 0
+
+WVP 0 vfCCC4015kri002
+Kiri: "Because he's dangerous."
+TP
+
+Taichi: "Are you still saying such things?"
+TP
+
+Taichi: "I saw Touko. She definitely died."
+TP
+
+GL 2 TCSK0001
+GI 2 0
+WVP 0 vfCCC4015kri003
+Kiri: "......shameless."
+TP
+
+Taichi: "A friend of yours died. Shouldn't you have wanted to hold her in your arms before considering revenge?"
+TP
+
+GL 2 TCSK0003
+GI 2 0
+WVP 0 vfCCC4015kri004
+Kiri: "That......g-goes without saying......"
+TP
+
+......though that wasn't something I should be saying.
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4015mki011
+Miki: "So then, the culprit is......"
+TP
+
+Taichi: "All of us are suspects."
+TP
+GL 1 TCYM0021
+GI 1 0
+
+WVP 0 vfCCC4015mki012
+Miki: "......what should we do?"
+TP
+
+Taichi: "Isn't it best for all of us to be in one place?"
+TP
+
+GL 2 TCSK0021
+GI 2 0
+WVP 0 vfCCC4015kri005
+Kiri: "No!"
+TP
+
+Taichi: "......I thought so."
+TP
+
+WVP 0 vfCCC4015kri006
+Kiri: "I'll be with Miki! You can go do whatever you want by yourself. After all......you are the culprit."
+TP
+
+Taichi: "......you can stop that now."
+TP
+
+GL 2 TCSK0001
+GI 2 0
+WVP 0 vfCCC4015kri007
+Kiri: "Please don't come near Miki."
+TP
+
+Taichi: "......nnn."
+TP
+
+Taichi: "Why must you promise Kiri so much?"
+//What? This line comes out of nowhere, but I guess that happens sometimes. ~Bal
+TP
+
+GL 1 TCYM0041
+GI 1 0
+WVP 0 vfCCC4015mki013
+Miki: "Aaah, not agaaain......"
+TP
+
+Taichi: "I'll talk to whoever I want to. How the person reacts is up to them."
+TP
+
+GL 2 TCSK0002
+GI 2 0
+WVP 0 vfCCC4015kri008
+Kiri: "......don't talk to Miki."
+TP
+
+Taichi: "Is that something for Kiri to decide?"
+TP
+
+WVP 0 vfCCC4015kri009
+Kiri: "Yes, because......Miki is my first close friend."
+TP
+
+GL 2 TCSK0001
+GI 2 0
+WVP 0 vfCCC4015kri010
+Kiri: "......I won't allow anyone to be victimized in front of me."
+TP
+
+Taichi: "I'm telling you I won't eat her."
+TP
+
+GL 2 TCSK0004
+GI 2 0
+WVP 0 vfCCC4015kri011
+Kiri: "I've always...been harassed......because of that exam score......"
+TP
+
+She teared up.
+TP
+
+Uhee......
+TP
+
+I was disappointed.
+TP
+
+Taichi: "You're making that my fault......?"
+TP
+
+GL 2 TCSK0001
+GI 2 0
+WVP 0 vfCCC4015kri012
+Kiri: "That's why......I'm going to......I'm going to protect my friend!"
+TP
+
+Taichi: "......'kay."
+TP
+
+Kiri's beyond help.
+TP
+
+In many ways.
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4015mki014
+Miki: "Kiri-chin, it's all right. You're making everything out to be Sempai's fault, but what if the culprit turns out to be someone else?"
+//This matches the next lines better. ~Bal
+TP
+
+GL 2 TCSK0002
+GI 2 0
+WVP 0 vfCCC4015kri013
+Kiri: "......that won't happen."
+TP
+
+GL 1 TCYM0002
+GI 1 0
+
+WVP 0 vfCCC4015mki015
+Miki: "Can you just decide that?"
+TP
+
+Taichi: "You can't, right?"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4015mki016
+Miki: "Riiight?"
+TP
+
+Miki and I go well together.
+TP
+
+Taichi: "For now, I'll act on the theory that it's Sakuraba or Tomoki."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4015mki017
+Miki: "Male friendship is great."
+TP
+
+Taichi: "Doesn't that compliment just embarrass me?"
+TP
+
+Taichi: "......b-but if Mimi-sempai did it......she'd have to atone for her s-s-s-sins. With that sinful body."
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4015mki018
+Miki: "KyanÅÙ"
+TP
+GL 2 TCSK0004
+GI 2 0
+WVP 0 vfCCC4015kri014
+Kiri: "......stop it......"
+TP
+
+Taichi: "You be careful as well. If one of you did it......appropriate erotic things will happen."
+TP
+
+I smoked a fictional cigar.
+TP
+
+GL 2 TCSK0021
+GI 2 0
+WVP 0 vfCCC4015kri015
+Kiri: "Stop that!!"
+TP
+
+GL 1 TCYM0000
+GI 1 0
+Taichi: "......eh?"
+TP
+
+WVP 0 vfCCC4015kri016
+Kiri: "Why do you keep acting so friendly!!!?"
+TP
+
+*silence*......
+//Those dots, are they supposed to be be there?-Spin
+TP
+
+WVP 0 vfCCC4015kri017
+Kiri: "Even though-! Even though you're dangerous!!"
+TP
+
+
+GL 1 TCYM0002
+GI 1 0
+WVP 0 vfCCC4015mki019
+Miki: "No......Kiri-chin, you don't have to be that wary of him..."
+TP
+
+Taichi: "I got the feeling I shouldn't be alive......"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4015mki020
+Miki: "Kiricchi said too much."
+TP
+
+WVP 0 vfCCC4015kri018
+Kiri: "Miki, you're naive. This person is the type who'd kill his own sister."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4015mki021
+Miki: "That's......what is that?"
+TP
+
+Taichi: "It wasn't me. She'd already died."
+TP
+
+Taichi: "Besides, that wasn't even a knife wound."
+TP
+
+GL 2 TCSK0001
+GI 2 0
+WVP 0 vfCCC4015kri019
+Kiri: "How would we know that?"
+TP
+
+I sighed as if vomiting.
+TP
+
+Taichi: "Haa. Miki, save me......"
+TP
+GL 1 TCYM0001
+GI 1 0
+
+WVP 0 vfCCC4015mki022
+Miki: "Kiri-chin's wrong."
+TP
+
+*slap*
+TP
+
+GL 2 TCSK0004
+GI 2 0
+WVP 0 vfCCC4015kri020
+Kiri: "Why......I'm...for Miki......"
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4015mki023
+Miki: "If you keep saying those things...we're through."
+TP
+
+WVP 0 vfCCC4015kri021
+Kiri: "Miki......"
+TP
+
+Taichi: "You don't have to go that far."
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4015mki024
+Miki: "After all, I'm not Kiri-chin's doll."
+TP
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4015mki025
+Miki: "......isn't Sempai the one respecting me more right now?"
+TP
+
+WVP 0 vfCCC4015kri022
+Kiri: "!?"
+TP
+
+Ah, that one hit home.
+TP
+
+GL 1 TCYM0001
+GI 1 0
+WVP 0 vfCCC4015mki026
+Miki: "You have to respect your friends. Why are you trying to spread the seeds of conflict now of all times?"
+TP
+
+WVP 0 vfCCC4015kri023
+Kiri: "But...but!"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4015mki027
+Miki: "Come on, apologize to Sempai."
+TP
+
+Kiri gritted her teeth.
+TP
+
+She seemed considerably vexed.
+TP
+
+She looked up sharply at me.
+TP
+
+GL 2 TCSK0021
+GI 2 0
+WVP 0 vfCCC4015kri024
+Kiri: "......who would do such a thing to you!!!?"
+TP
+
+WVP 0 vfCCC4015mki028
+Miki: "Hey!!"
+TP
+GO 2 1
+Kiri spun on her heels and ran away.
+TP
+
+GL 1 TCYM0004
+GI 1 0
+WVP 0 vfCCC4015mki029
+Miki: "Uwa, she fled......"
+TP
+
+Taichi: "She's a good runner."
+TP
+
+We both gazed at Kiri's disappearing back.
+TP
+
+Taichi: "......by the way, Miki-pon."
+//Is there any point in repeating the "this is yet another cutesy honorific" tl note? Å`IX
+//Nah, I think they know - Sheeta
+//Should be obvious by now. ~Bal
+TP
+
+GL 1 TCYM0000
+GI 1 0
+WVP 0 vfCCC4015mki030
+Miki: "I am Miki-pon. What is it?"
+TP
+
+Taichi: "......did you...get taller?"
+TP
+
+WVP 0 vfCCC4015mki031
+Miki: "Did I? If so, I can't see it."
+TP
+
+Of course not.
+TP
+
+Taichi: "Oh, what's this? Looking closely, your chest has......"
+TP
+
+WVP 0 vfCCC4015mki032
+Miki: "You can't do that. Don't touch a dancing girl."
+TP
+
+She guarded her chest with both hands.
+TP
+
+Taichi: "Damn!"
+TP
+
+Well, whatever.
+TP
+
+Taichi: "And while we were doing that, it became evening."
+TP
+
+WVP 0 vfCCC4015mki033
+Miki: "......I guess we'll go home. Kiricchi already left by herself."
+TP
+
+Taichi: "Please go talk to her again later. There's nothing I can do......"
+TP
+
+GL 1 TCYM0003
+GI 1 0
+WVP 0 vfCCC4015mki034
+Miki: "Okaaay."
+TP
+
+Miki is strong.
+TP
+
+I didn't think she was the type to remain calm at times like these.
+TP
+
+
+It seems a human's true value shows in a time of crisis.
+TP
+
+WVS 1 1
+
+RET

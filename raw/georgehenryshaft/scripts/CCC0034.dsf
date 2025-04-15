@@ -1,0 +1,140 @@
+
+//太一「ほら」
+Taichi: "Here."
+TP
+
+//紙袋ごと渡す。
+I hand over the paper bag.
+TP
+
+//食物ごとき、自力でいくらでも調達できる人だけどなぁ。
+But as far as food goes, she's someone who can just make as much as she wants, inn'she.
+TP
+GL 1 TCHY0001
+GI 1 0
+WVP 0 vfCCC0034you000
+//曜子「ん……」
+Youko: "Mh..."
+TP
+
+//食べ始める。
+She begins to eat.
+TP
+
+//太一「じゃ、また」
+Taichi: "Well, bye."
+TP
+
+//歩き出す。
+I walk away.
+TP
+
+GL 1 TCHY0000
+GI 1 0
+//曜子「……」
+Youko: "..."
+TP
+
+//はむはむはむ
+Scarf, scarf, scarf.
+//Eating hurriedly + scarves are important in winter, make sure to dress up before going outside! -GHS
+TP
+
+//食べながらついてきた……。
+She followed while still eating...
+TP
+
+//そこで、いじめることにした。
+Therefore, I decided teasing will ensue.
+TP
+
+//太一「あ、曜子ちゃんちょっと」
+Taichi: "Ah, Youko-chan, c'mere."
+TP
+
+GL 1 zzzYoukoZoom1
+GP 1 100 0
+GI 1 1
+//HACK zoom -GHS
+
+//呼び寄せる。
+I summon her.
+TP
+
+//頭を抱えてつむじを押し込んだ。
+Grabbing her head, I push hard into her hair whorl.
+//Uhm, going with 頭を抱えて being literal. As for the second part... http://yushima-s-clinic.com/index.php?%E3%81%A4%E3%82%80%E3%81%98%E6%8A%BC%E3%81%97 <-?????????? -GHS
+TP
+//GL 1 TCHY0001
+GL 1 zzzYoukoZoom2
+//HACK still zoomed -GHS
+GI 1 0
+WVP 0 vfCCC0034you002
+//曜子「う、ううっ、それはだめ……だめ……おなかがくだるから……」
+Youko: "Ngh, ngggh, not that please... not that... it makes my belly want to empty..."
+//http://translationbykako.com/2010/12/09/10-strange-japanese-superstitions/ <- #6. And, ah, see CCA0015 I suppose. -GHS
+TP
+
+//太一「健康そのものじゃないですか、あなた」
+Taichi: "But this is health itself you know."
+//Given that uhhh two links above... -GHS
+TP
+
+//ぐいぐいと押し込む。
+Squeeze! Squeeze! I squeeze it down.
+TP
+
+GP 1 60 0
+GI 1 0
+GP 1 140 0
+GI 1 0
+GP 1 90 0
+GI 1 0
+GP 1 110 0
+GI 1 0
+GP 1 100 0
+GI 1 0
+//HACK independent doll shake. I'm using a left-right shake because otherwise the missing top of the head is visible. -GHS
+
+
+WVP 0 vfCCC0034you003
+//曜子「うう、つむじ……押さないで……てっぺんが変な感じする……」
+Youko: "Uhhh, the whorl... don't push it please... makes the top of the head feel weird..."
+TP
+
+//ゆるゆると身をよじる。
+Slowly-slow I spiral into the flesh.
+TP
+
+//逃がさない。
+She won't escape.
+TP
+
+//太一「うりうり」
+Taichi: "Rubbity rubbity!"
+//See CCC0041 -GHS
+TP
+
+GP 1 60 0
+GI 1 0
+GP 1 140 0
+GI 1 0
+GP 1 90 0
+GI 1 0
+GP 1 110 0
+GI 1 0
+GP 1 100 0
+GI 1 0
+//HACK independent doll shake -GHS
+
+WVP 0 vfCCC0034you004
+//曜子「降参、降参」
+Youko: "Uncle, uncle."
+TP
+
+//昼下がり、いじめ抜いた。
+The early afternoon bullying had been carried through.
+TP
+
+WVS 1 1
+RET

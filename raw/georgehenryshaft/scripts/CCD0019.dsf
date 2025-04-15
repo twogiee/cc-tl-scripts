@@ -1,0 +1,47 @@
+
+WVP 1 bgm002.ogg 0 0 0
+
+GL 0 bgcc0011
+GS 0 1
+SEF 152 0
+
+WT 500 0
+
+GL 0 bgcc0006
+GS 1 0
+GS 0 1
+SEF 152 0
+
+WT 500 0
+
+GL 0 evcc0011a
+GS 1 0
+GS 0 1
+SEF 155 0
+
+//Wednesday September 9, 1998 -GHS
+
+//冬子がいない。
+Touko was not here.
+TP
+
+
+//太一「……そうか」
+Taichi: "...right."
+TP
+
+
+//この時間帯はよく自宅で衰弱しているはずだ。
+In this time slot she's often found home, likely growing debilitated.
+TP
+
+CSQ 0 1 1 1
+//　・屋上
+//　・冬子の家
+//　・一年教室
+ - Rooftop
+ - Touko's house
+ - First Years' classroom
+//CP CCD0007 (1)
+//CP CCC0010A (3)
+RET

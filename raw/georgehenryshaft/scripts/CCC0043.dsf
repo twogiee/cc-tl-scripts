@@ -1,0 +1,64 @@
+
+TWS 7
+GL 0 bgcc0000e
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 109 2
+//HACK flashback exit whiteout -GHS
+
+GL 0 bgcc0006
+GS 0 1
+GS 1 0
+GS 2 0
+GS 3 0
+GS 4 0
+GS 5 0
+SEF 10 1
+TWS 0
+
+//太一「う……」
+Taichi: "Ngh..."
+TP
+
+WVP 1 bgm015.ogg 0 0 0
+
+
+
+//目が覚める。
+I was awake.
+TP
+
+//机に突っ伏して寝ていたらしい。
+Seems I had fallen prostrate on the desk and slept.
+TP
+
+//夢を見ていた。
+I had a dream,
+//PCP CCA0030 actually
+TP
+
+//懐かしいはずの夢。
+a dream that should have been nostalgic.
+TP
+
+//けど憂鬱な気分になってしまう。
+But my mood turned to melancholy.
+TP
+
+//結局人は、自分のために生きている。
+In the end, people are living for their own sake.
+TP
+
+//人と触れあうことで生じる、様々な欲望の中で。
+In the midst of so many desires produced by a meeting of touches with other people.
+TP
+
+//汗ばんだ体を冷やしに、屋上に向かう。
+To cool down my sweaty body, I head towards the rooftop.
+TP
+
+RET
