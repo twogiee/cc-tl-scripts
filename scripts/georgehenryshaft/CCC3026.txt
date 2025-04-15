@@ -1,7 +1,6 @@
 
 [Taichi]
 "That son was, of course, Yutaka."
-//HACK flashback exit whiteout, fade BG instead of pixelating in. -GHS
 
 [Kiri]
 "............"
@@ -15,7 +14,7 @@ She hadn't noticed that the tip of the bolt had strayed from me.
 
 [Taichi]
 "And, as you maybe have guessed, 'S' is also the initial of Shinkawa."
-//HACK fade the doll instead of popping in -GHS
+//...which makes it plausible there'd be plays on names (and perhaps more) where more than the kanji or the kana changes, but also Western romanizations being changed by single letters. In other words, it is perfectly valid to think a Youko/Touko association despite changes in only a letter, rather than a whole kana or kanji. -GHS
 
 [Kiri]
 "...wh-, what did you say...?"
@@ -66,7 +65,6 @@ Her voice seems to be bursting open.
 
 [Taichi]
 "Memory loss."
-//HACK actually do it. -GHS
 
 Kiri's lips closed tight on the spot.
 It felt she had become a detective, and a great one.
@@ -152,7 +150,6 @@ She had gone on the attack because that is her way.
 
 [Kiri]
 "...!!!"
-//HACK independent doll shake -GHS
 [Kiri]
 "That day... you asked me... was he happy...?"
 
@@ -199,7 +196,6 @@ Her thin slender body fills with a toxin named doubt.
 //This is why forgetting's not removing the past, and why Taichi's attempt to have his way with the time loop can't work. -GHS
 [Taichi]
 "And that is why I made him remember."
-//HACK sweatdrop Kiri -GHS
 
 [Kiri]
 "...stop this..."
@@ -209,7 +205,7 @@ Kiri goes to cover her ears.
 
 [Taichi]
 "Don't cover your ears!"
-//HACK independent doll shake -GHS
+//Indeed. She can't run away from this. But see CCD3003B: she isn't. This entire thing is in Taichi's mind. -GHS
 
 Hands stop.
 

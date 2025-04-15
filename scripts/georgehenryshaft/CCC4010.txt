@@ -1,11 +1,9 @@
 
 [Kiri]
 "You OK?"
-//HACK music straight away -GHS
 
 [Miki]
 "...hm... I'm alright..."
-//HACK dim screen -GHS
 
 Kiri had wiped off Miki's tears with her handkerchief.
 //*cue SonoHana theme* -GHS
@@ -21,7 +19,6 @@ And why... was she crying?
 Well, the private stuff is none of my business.
 On that, the hokora was close to here wasn't it.
 Should I just give a quick look?
-//HACK back to normal -GHS
 
 [Taichi]
 "Kiri, there's this place I'd like to drop by just a bit, so..."
@@ -31,7 +28,6 @@ I hand over the flashlight.
 
 [Taichi]
 "Welll see ya."
-//HACK Miki should rightfully be crapping her pants now. -GHS
 
 [Kiri]
 "Eh... ah, wait!"
@@ -56,7 +52,7 @@ My ankle bent. I go tumbling down.
 Instantaneously I latched onto a nearby tree branch the Lupin Wire built into my belt... or that's what I'd do if I was that clever, and instead fell down normally.
 //As in Lupin the Thief. -GHS
 At times like this, just up and falling down is best.
-//HACK shake screen. -GHS
+//~clever~ -GHS
 Ukemi.
 //See CCC0003B... oh, whoops, now that was replaced. Which is actually a big problem: this is Taichi falling and possibly hitting is head, like he does in CCC0003A and B - right before he sees Youko. Both those changes are new to the console version, making this extraordinarily suspicious. -GHS
 
@@ -90,7 +86,6 @@ Perhaps by me with memory loss, perhaps by someone using my shoes, but somehow t
 //Notice the lack of Youko or Miki footprints. Youko, OK, she's a ghost; Miki set up the traps. Her footprints MUST be there, period. More importantly, his first idea is memory loss... see CCC0007 -GHS
 But to do what at the hokora?
 I tried to immerse myself in thought---
-//HACK Cornholio must've been here. -GHS
 
 [Taichi]
 "...!"
@@ -119,7 +114,6 @@ Because I know the horror of being repeatedly attacked by people.
 //The only person ever heard of explicitly attacking Taichi outside of the Mansion is Sakuraba. But let's go with paranoia. -GHS
 I strained my ears.
 I make the perceptions sharper.
-//HACK whatever you please... -GHS
 I walk slowly.
 The only thing I can search for is the sense of physical discomfort.
 //There's that term again. -GHS
@@ -150,7 +144,6 @@ Does this mean there's no more?
 //The only time the warning signal ever comes for anything is for Nanaka smacking into him and Miki trying to 'bow him. The first he can never avoid and is 100% not real, the latter may well be not real as well. Whatever's happening here can't be what it looks like. -GHS
 I proceed warily nevertheless.
 //Well, you did give love a bad name. -GHS
-HACK earlier CG -GHS
 I come out of the last bush and there, as if she were concealed, Youko-chan had died.
 //Let's say she wasn't concealed by someone. Let's. Regardless, she should not be visible from far away. -GHS
 
@@ -197,7 +190,6 @@ she was just like a tiny little rabbit.
 
 [Taichi]
 "What a surprise."
-//HACK pixelate -GHS
 
 My sight clouded.
 
@@ -225,10 +217,8 @@ Half of my body had died.
 
 [Kiri]
 "...Senpai... you..."
-//HACK earlier line & SFX. Now this is odd: Youko's body is hidden, it's the dead of night, and it's a grove in the mountains. She came close enough to see Youko, but not enough to see the huge bolt wound? It's astonishing she can see Youko at all! Less mysterious is what made her come: Miki. The most amusing bit of irony, however, is that this is what makes *Kiri* mad, not Taichi. -GHS
 
 KIRI!!!
-//HACK sadder Miki -GHS
 
 [Miki]
 "..."
@@ -277,7 +267,6 @@ She spat at me.
 
 [Kiri]
 "You are insane!"
-//HACK no need -GHS
 
 [Miki]
 "......Senpai."

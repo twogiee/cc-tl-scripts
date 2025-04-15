@@ -1,7 +1,6 @@
 
 [Taichi]
 "Ah, I'll be coming too!"
-//HACK yada yada redisplay yada -GHS
 
 [Miki]
 "...yes, please do."
@@ -60,7 +59,6 @@ Miki's shoulders droop down.
 
 [Taichi]
 "Maybe we've passed by each other and didn't meet. How about we return to school?"
-//HACK fade doll -GHS
 
 [Miki]
 "She must have passed through that road, she must!"
@@ -76,7 +74,7 @@ Miki's shoulders droop down.
 "......"
 [Miki]
 "I'm sorry, I'll be searching for her!"
-//HACK out with the doll, footsteps SFX -GHS
+//I suspect this is Miki telling him to stop being a lying asshole. -GHS
 
 She dashes out.
 
@@ -84,7 +82,6 @@ She dashes out.
 "Ah, waaait!"
 [Taichi]
 "And she's gone..."
-//HACK NVL mode. Damn, gloomy. -GHS
 
 And after that, Miki continued to search for
 Kiri for three days.

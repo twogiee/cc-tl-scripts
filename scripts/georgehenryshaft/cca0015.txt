@@ -1,7 +1,6 @@
 
 [Miki]
 "Ah, Senpaaai!"
-//HACK doll arrives after first sentence -GHS
 
 [Taichi]
 "Howsit."
@@ -130,14 +129,13 @@ I felt a shiver there.
 
 [Taichi]
 "Well then Kiri, let's go on a date sometime. They're showing this interesting movie right now."
-//HACK Miki shocked seems to fit here. -GHS
 
 [Kiri]
 "...have you gone insane, Kurosu-senpai?"
 //Conveniently denying the idea of the date, not necessarily the very presence of movies. -GHS
 [Kiri]
 "Please stop with the jokes. If they continue, they will be ignored."
-//HACK back to sad Miki -GHS
+//If she DID, then she'd be relatively fine. -GHS
 
 [Taichi]
 "Oh my my."
@@ -171,7 +169,6 @@ and even that for an instant.
 
 [Taichi]
 "Does it hurt?"
-//HACK doubty Miki -GHS
 
 [Miki]
 "Ah, harmonics..."
@@ -287,7 +284,6 @@ I took a fencing stance.
 
 Ignored.
 And like that she walks away at a brisk pace.
-//HACK Miki's IN YO FACE MAN -GHS
 Miki stays behind, and with a whisper in my ear she left the words,
 
 [Miki]
@@ -295,7 +291,6 @@ Miki stays behind, and with a whisper in my ear she left the words,
 
 [Taichi]
 "It's OK."
-//HACK Happy Miki zoom -GHS
 
 [Miki]
 "And that is why Miki really likes you, Senpai."
@@ -310,13 +305,12 @@ Miki stays behind, and with a whisper in my ear she left the words,
 
 [Kiri]
 "Miki, hurry!"
-//HACK independent doll shake. I'm using a left-right shake is it works better for these zoomed dolls. -GHS
 
 Miki jolted.
 
 [Miki]
 "Uhyyy, then well then!"
-//HACK bye Miki -GHS
+//Recurringly hers. -GHS
 
 [Taichi]
 "Bai bai."

@@ -12,7 +12,7 @@ I tried peeking inside a class nearby, sure enough, a lesson was in progress.
 First Year, Class E.
 //High School. -GHS
 The class is being taught by Machiko-sensei.
-//HACK NVL mode -GHS
+//http://en.wikipedia.org/wiki/Miss_Machiko See CCA0022 for why this is 100% a reference. -GHS
 Satou Machiko.
 //Curiously 佐藤真 Satou Makoto is a documentarist, nothing I can see, but 智子 Tomoko is a character in To Heart... nah, too random, it's obviously not it. There are some people with this name, but nothing obvious unfortunately; this will be so for most names. Either they're just red herrings or they're specific people I simply have no idea how to source. -GHS
 Beguiling not just by being the possessor of
@@ -115,7 +115,7 @@ But if being hated was the result no matter what,
 then I wish I had given a further once-over to
 all that, though having those thoughts at this
 point means that I'm all but done as a person.
-//HACK ADV mode -GHS
+//"I wish I had rubbed more" + "I wish I had worried about that more". 揉 will often be used in both its meanings many many times. Say Without Saying, once again. -GHS
 
 [Taichi]
 "Sigh..."
@@ -258,11 +258,10 @@ He has a cute girlfriend from another school one year younger than him that he s
 I once met her myself when Tomoki was hospitalized.
 //When Misato cut his tendons, meaning the event dates to when Taichi and Tomoki knew each other, meaning no more than a year before. Likely it wasn't weeks before, as well, as in CCD1001 he says the event was a year before i.e. now. -GHS
 She came during visiting hours.
-//HACK dim the screen. -GHS
 
 [Girlfriend]
 『Ah, uhm, tha-, tha-tha-thank you for taking care of Tomoki-kun...!』
-//HACK restore screen -GHS
+//Generally, lines by unvoiced characters outside of Taichi gets paraphrased - Touko's maid in the finale, the Tasaki owner - but not this one for unknown reasons. See CCE0001 for the only other mention of this girl. Although never really mentioned, she sounds like she's basically Yusa. Which is basically Misato. -GHS
 
 And she bowed her head, that Ultra Kyute life form so unique just in the elegant way she wore her uniform, that my memories are still vague from the shock of meeting her.
 //He's using life-form just like with Machiko. See CCD1001 and above: beats the utterly contemptuous "female", so that's why I used the equivalent 'male' above. Also see CCD0002: he didn't always treat Tomoki with even this little respect, either. The vagueness of memories is the same as CCA0001, so his memories vaguefy from shock as well. MEMORY HUNTER!!! -GHS
@@ -293,7 +292,6 @@ It's just wrong for that cute GRRR(l) to stick to this guy. It's filthy.
 "...heheh!"
 
 I could hear a giggly laugh.
-//HACK everyone say hi to Miyuki. Yes, I have the doll files from the 360 edition; what I don't have is the damn mask files with which to cut them from the deep black background, so they're completely useless! Unfortunately the mask files seem to be that damn 'type 2' that Asmodean's spc2bmp doesn't support. -GHS
 
 [Taichi]
 "Myyy, she was here?"
@@ -316,20 +314,18 @@ She was Fukuhara Miyuki, a Kouhai of mine.
 
 [Taichi]
 "Ohhh? Oh-my-myyy?"
-//HACK Miyuki frown -GHS
 
 [Miyuki]
 "Wh-, what is it?"
 
 Miyuki leans back guardedly.
-//HACK Miyuki sad -GHS
 
 [Miyuki]
 "You're still gonna call me plain again are you?"
 
 [Taichi]
 "Why you so plain, why!"
-//HACK Miyuki frown -GHS
+//This sounds like there's a line feed missing, and indeed it's so in the console version, but the two saying this simultaneously is just so much funnier, so I didn't fix this one bug. -GHS
 
 [Miyuki]
 "Awwww..."
@@ -340,7 +336,7 @@ The girl shook with a clattering.
 
 [Taichi]
 "Yeaaah... whyyy you... whyyy you even so plain! Whyyy does the rubber of your hair bands look so cheap, hm? Why are your eyebrows all thin and faint like this? Why isn't this skirt just a little bit shorter?"
-//HACK Miyuki shock -GHS
+//Mugi (K-On!)'s the only character I found defined has having "powa-powa" eyebrows, but they don't fit Miyuki's pic now that she has one. It's not visible in these dolls, but in the 360 data files there's a set that's cut below the knee, and her skirt is the longest of all skirted characters except maybe Touko. -GHS
 
 [Miyuki]
 "Kyah! The skirt, really now..."
@@ -364,7 +360,7 @@ Attack of caresses.
 "Wasteful, so wasteful!"
 [Taichi]
 "So wasteful I wanna eat it aaall!"
-//HACK Miyuki frown -GHS
+//See CCD0021. Who was it at fault? -GHS
 
 [Miyuki]
 "Huh?"
@@ -375,7 +371,6 @@ I bent over her and bit into her ears.
 There it was, the smell of young girl.
 //See Youko now. -GHS
 I may say this in the tone of a fairy-tale, but make no mistake, this is sexual harassment.
-//HACK Miyuki shock, shake screen. Unfortunately, since the doll and the screen are not independent, I can't shake the doll alone. -GHS
 
 [Miyuki]
 "AwAaAaAaAaA!!!???"
@@ -402,7 +397,6 @@ Pah!, I spat his way.
 
 [Taichi]
 "But the Rifle of my Love always and forever aimed at plain little---"
-//HACK Miyuki will see you next route -GHS
 
 The instant I moved my sight, the Broadcast Room door shut,
 and the lock turned.
@@ -488,7 +482,7 @@ Even Tomoki's replies are listless when he's reading.
 
 [Taichi]
 "Father Anderson rescues the kidnapped Yoriko with help from a friendly spy."
-//HACK independent CG shake -GHS
+//Father Anderson -> http://en.wikipedia.org/wiki/Hellsing Began 1997, as with this scene. But I suspect that's just plausible deniability: the end of Japan, the land under the domain of Satan, is that a Christian priest, with assistance from a local (coughTanakacough), rescues the "dependent child" AKA mankind, see all the stuff about Alter Egos etc. for what is meant about "dependence". It only sounds like projecting without knowing that Cross Channel is a fundamentally Christian tale, then it's so blatantly obvious that you can see Tanaka giggling mad as he writes this, certain no one in the world would ever get it. -GHS
 
 [Tomoki]
 "Don't spoil it!"
@@ -500,12 +494,10 @@ Even Tomoki's replies are listless when he's reading.
 [Tomoki]
 "Traitor!"
 //His mouth calls him a traitor, but his actions don't put Taichi on the same level as his sister. Hypocrite. -GHS
-HACK independent CG shake -GHS
 
 [Taichi]
 "Epicurean!"
 //This sounds like a dumb overwrought insult, until considering the above as well as later: according to Wiki, "Epicurus['s] materialism led him to a general attack on superstition and divine intervention." See CCD1001B for when TEH MIRACL3S lol cures his feet. Truly, no insult worse than this for Tomoki. -GHS
-HACK independent CG shake -GHS
 
 Push, shove, jostle and struggle.
 //Though "a meeting of rubs" is sorta funny in its own way, straight isn't evocative enough. Wait, something involving Taichi and Tomoki being straight is not evoca-GHS
@@ -513,7 +505,7 @@ The inner door opens, and from Miyuki's peeking face comes a whispered shout.
 
 [Miyuki]
 "Senpai! Teacher's coming!"
-//HACK fling the fight GFX towards left of the screen. -GHS
+//Now this is interesting: shouldn't the Broadcast Room be sealed? How does she see Mammoth coming, and most importantly, how come hiding inside the room prevent Mammoth from seeing them? ...is she just breaking them up by faking this, and Taichi is playing along due to Shimura Phenomenon (i.e. he was told it's true therefore it is)? Now on this I have no answer. -GHS
 
 [Tomoki]
 "Eh?!"
@@ -535,7 +527,6 @@ Crap, don't you dare cry over something like this, me!
 Simultaneously with the closing of that door, 190cm of muscle happened to pass by in the corridor.
 //Remember that this is Japan, where the Giant Schoolgirl archetype barely touches 170cm. Machiko was just defined as tall for being 173. Hmmn, 10 surely, but 9-1 is, uhm, hmmm, erm, where's the calculator... 3. -GHS
 It's Mammoth.
-//HACK NVL mode -GHS
 Manda Shigezou.
 
 [Alias]
@@ -560,7 +551,7 @@ from that 『Women's Lawsuit Organization * PTA』!
 //http://www6.ocn.ne.jp/~rejina/cc/motoneta.html the PTA in Japan seems to be at the forefront of this kind of stuff, and it'll be even more obvious that this is the reference in CCB2009 when the PTA starts censoring Taichi's porn via Modern Tsundere archetype Touko. (There's a sentence I didn't expect to type in my life.) -GHS
 Assuredly, Mammoth has terrifyingly crafty
 agony muscles on the level of pygmy marmosets.
-//HACK ADV mode -GHS
+//http://en.wikipedia.org/wiki/Pygmy_marmoset they... are not threating at all. Supposing his "agony muscles" are metaphorical? This seems over the top dumb even for Taichi. -GHS
 His musculature goes lumbering past.
 Midway, his sight turns inside the room,
 
@@ -575,14 +566,12 @@ Go get hunted down by a caveman!, I curse him.
 //Let's start with some katakana weirdness then. Gureivuya-do is a much less popular spelling than gureibuya-do. Not that it matters, since he should've used "grave". -GHS
 
 I show myself.
-//HACK Miyuki & Tomoki -GHS
 
 [Tomoki]
 "Close so close!"
 
 [Miyuki]
 "We should just put up curtains on that corridor window."
-//HACK Miyuki & Tomoki 2 -GHS
 
 [Tomoki]
 "That was forbidden. School got wise to that already."
@@ -590,27 +579,23 @@ I show myself.
 
 [Taichi]
 "There's something we could do."
-//HACK don't fade music anymore (it made things sound off-tone sinister anyway) -GHS
-HACK Miyuki & Tomoki 3 -GHS
 
 [Miyuki]
 "..."
-//HACK Miyuki & Tomoki 4 -GHS
 
 [Tomoki]
 "..."
 
 [Taichi]
 "Ahhh, I know what you ladies think of me. But this isn't some annoying gag, I really think there's something we could do."
-//HACK Miyuki & Tomoki 5 -GHS
+//He totally means to refer them both as 'ladies'. -GHS
 
 [Miyuki]
 "What would that be?"
 
 [Taichi]
 "Tomoki, get me the machine back in working order. Also, the digital camera."
-//HACK Miyuki & Tomoki 6 (AKA 2 again) -GHS
+//This is a somewhat modern thing to have in 1998, but this is Gunjou; all the stuff here is high tech for the time. Miki will use a disposable camera with film, tying in to how the Club not having LCDs - but Youko having them - is significant. -GHS
 
 [Tomoki]
 "Huuuh?"
-//HACK disarm the Miyuki & Tomoki graphics as they'd persist through the scripts otherwise. -GHS

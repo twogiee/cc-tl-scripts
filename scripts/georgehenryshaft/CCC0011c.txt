@@ -1,7 +1,6 @@
 
 [Taichi]
 "Hmmm."
-//HACK line removed. Since there was obviously a choice there to do something else that possibly got you out of the Miki route, perhaps into Another Story (it also starts with a chase), this made no sense. -GHS
 
 I should really go with her, shouldn't I.
 
@@ -30,11 +29,9 @@ Kiri is way too excessively virgin.
 
 [Taichi]
 "Where're you going?"
-//HACK closed eyes Kiri -GHS
 
 [Kiri]
 "...none... of your business."
-//HACK new SFX -GHS
 
 She leaves at a brisk walk.
 I follow behind at a brisk walk.
@@ -43,7 +40,6 @@ so I caught up effortlessly.
 
 [Taichi]
 "Going to link up with Miki?"
-//HACK Fade doll. -GHS
 
 [Kiri]
 "Please do not follow me."
@@ -77,7 +73,6 @@ Tag chase.
 //追い駆ける (pursue)+追いかけっこ (play tag). See CCZAS, where the same is done to Misato. -GHS
 We pass through the shopping street.
 Ain't the hill road just ahead!
-//HACK Fade doll. -GHS
 
 [Kiri]
 "Stay away!"
@@ -90,13 +85,12 @@ Ain't the hill road just ahead!
 
 [Taichi]
 "Because you are running away!"
-//HACK shouty Kiri -GHS
+//Should be a variant of the more usual "joke" (painfully bad even by Japanese standards of bad joke, and that's saying something) that includes mostly the first two lines. -GHS
 
 [Kiri]
 "Do not follow meee!"
 
 I wiiill!!!
-//HACK Awesome! + new SFX -GHS
 
 [Taichi]
 "I have, been, forged by, these, hills but, how will, you survive, you bastard!"
@@ -130,7 +124,6 @@ Chaaanche!
 
 [Taichi]
 "Getcha getchaaa!"
-//HACK out CG + new SFX -GHS
 
 [Kiri]
 "...back oooff!"
@@ -138,11 +131,10 @@ Chaaanche!
 Grrr, she has unexpected reserve power.
 //See CCA0026? -GHS
 It seemed this would become a drawn-out battle.
-//HACK Awesome! + new SFX -GHS
 
 [Taichi]
 "Here we have my hooouse!"
-//HACK out CG + new SFX -GHS
+//tour guide? -GHS
 
 [Kiri]
 "SHUT UP!"
@@ -262,25 +254,23 @@ I kissed, as if I were a Kiss Thief.
 "NMHUH〜〜〜〜〜〜〜〜〜〜?!?!?"
 
 Drill.
-//HACK independent CG shake -GHS
+//See CCC3010. This is revenge! -GHS
 
 [Miki]
 "Nh, nBh, nh, pWah?!"
 
 Vibrate.
-//HACK independent CG shake -GHS
 
 [Miki]
 "Nh, NNNNNh, pch, pchrh, nBhah, nh, 〜〜〜〜!, nh, nHnHhth... hrh, hfah, nnNNNNH!!!"
 
 Vacuum.
-//HACK independent CG shake -GHS
 
 [Miki]
 "nMhMhMhMhMh, hFah, hfAahnh, nh, nNNNh, nHo, b-, breathe, can't breathe... nnnn〜〜〜〜〜h, h, hrhuh, hruhuh, npch, chphruh, ah, aGhkh, haoh, fmUUUUhnh!!!"
 
 Finishing blow is the Mik'sser (given it's Miki)
-//HACK independent CG shake -GHS
+//Miki-mixer + Miki-kisser. Curiously, Taichi here has FOUR settings, not two. So does he actually have a Violent Murderer and a Youko setting? -GHS
 
 [Miki]
 "Nnh, nNNNh, nh, uhnh, nhnh, nhuuh... hrhuh, ...ah, no, hfah... tongue, nh, ghkh... caaan't, nooo, nnnnh, NNNNNNNNh, nh, hruh... fAh..."
@@ -308,7 +298,6 @@ As this time today, you have experienced rapid growth to adulthood.
 
 That is the voice I heard from the back.
 Reaping the whirlwind indeed.
-//HACK no change in any version, and this just reloads the BG. -GHS
 
 [Taichi]
 "HohHoh!"
@@ -319,7 +308,6 @@ On this one hill, I shall regain it in a single gulp.
 Dassh'u!
 //Assuming it's a Melty Blood reference, see CCD2002 for another. -GHS
 However, as the situation finds me equipped with a chastity belt, I am endowed with a most thorough bowlegged stance.
-//HACK Awesome! + new SFX -GHS
 
 [Taichi]
 "Kiri, you think you can give me the slip with just thaaat!"
@@ -338,7 +326,6 @@ She was on the point of tears.
 
 [Kiri]
 "Stop, enough..."
-//HACK out CG (no sliding this time) + new SFX -GHS
 
 Considerably fatigued,
 she runs as if dragging her feet along, in a limp.
@@ -366,7 +353,6 @@ I concentrate on the instant. I see it in slow motion.
 What is this?
 A bicycle.
 A bicycle, but,
-//HACK independent CG shake -GHS
 
 [Nanaka]
 "YAAAAAAAH!"
@@ -443,7 +429,7 @@ It was a face like the prideful face of a top breeder of expensive pet dogs.
 * ULOL = US American-style smiley. The power that
   Americans are endowed with enabling them to provide
   laughs self-service to their own jokes.
-//HACK normal Miki -GHS
+//Sorta-different from CCB0008B. Curiously, he says it's just a "smile", and though 笑 can also mean that, it's usually translated as 'lol' in this context. So it's a smiley. -GHS
 
 [Miki]
 "Whoooa, so adult'ow〜!"
@@ -453,7 +439,6 @@ It was a face like the prideful face of a top breeder of expensive pet dogs.
 "Ehhh, did you make me wear a new pair of underpants?"
 
 I look at Miki.
-//HACK well, I guess she could pass as embarrassed. -GHS
 She's red in the face, and averting her eyes.
 
 [Taichi]
@@ -504,7 +489,7 @@ My underwear was an elephant.
 
 The front part ends in a bag, and that seems to be quite a... sharpening on its elephantism, isn't it.
 Rather than panties, this is a rod cover.
-//HACK earlier change. -GHS
+//Google insists there's nothing naughty about the term, and it's about protectors for clotheslines or somesuch. Bad google. Bad. -GHS
 Miki goes shy.
 
 [Miki]
@@ -519,7 +504,7 @@ Whyyy did you not awake right then, myself!
 
 [Taichi]
 "...I am disgusted by myself."
-//HACK Doubty Miki -GHS
+//This can, naturally, mean both "I wish I had woken up" and "I'm so tired to want to play sexual pranks of that sort". -GHS
 
 A "?" appears on Miki's face.
 
@@ -590,7 +575,6 @@ Single-minded dedication to eating.
 Ah right, Youko-chan said she would come back by noon, but,
 she should have already come by now.
 She could be,
-//HACK out with doll -GHS
 behind me!
 ...she's not there?
 //She's "dead". Pretty much simultaneously with Nanaka smashing his chastity belt. Or is it the opposite, her "death" being simultaneous with Miki coming to his house and nursing him? Hmmm, shades of Alfred Hitchcock here. -GHS
@@ -838,7 +822,7 @@ I'm being made to carry Miki's bags as her escort.
 
 [Taichi]
 "So then, we came here and that's OK, but whaddowedoo?"
-//HACK fade doll -GHS
+//This comment intentionally left blank as the translator backs away slowly. -GHS
 
 [Miki]
 "Ah, ah'm joining up with Kiri here."
@@ -863,7 +847,6 @@ She takes out the camera and makes the toughest of laughs.
 
 [Miki]
 "Then well then!"
-//HACK later doll exit, new SFX -GHS
 
 She went leaving with light steps.
 And now...
@@ -937,7 +920,6 @@ Plainly.
 
 [Taichi]
 "...ahhh, hers."
-//HACK dim screen -GHS
 
 On Sunday night,
 //And he just keeps referring to Sunday rather than "yesterday", despite it having been actually yesterday. Same with CCA0003, where he doesn't refer to the last weekend as such. And Nanaka even asks if it is was Summer vacation. All very very very interesting details to have. -GHS
@@ -955,7 +937,6 @@ Honestly, Senpai seemed a bit neurotic of late,
 and the training camp I unreasonably forced on her became the finishing blow to that.
 ...I felt what I had done was inexcusable.
 At least as much as it seemed that it would be hard to approach and talk to her.
-//HACK back to normal, doll change. -GHS
 
 [Miki]
 "This is an order. Let us get along together in the club."
@@ -969,7 +950,6 @@ Ah, whatever. I don't have objections.
 
 [Miki]
 "Kiri-chin too!"
-//HACK independent doll shake -GHS
 
 Paf, she slaps her back.
 
@@ -981,7 +961,7 @@ Is her weakness also being exploited then?
 
 [Miki]
 "If you don't do as I say... I will be posting up those photos, ya know?"
-//HACK sweatdrop Kiri. -GHS
+//See CCD0008B -GHS
 
 [Kiri]
 "Ugggh... that's insane..."
@@ -997,18 +977,16 @@ I knew it.
 
 [Taichi]
 "I'll do my best."
-//HACK closed-eyes Kiri (here instead of above, reacting to the wrong line as usual) -GHS
 
 [Kiri]
 "Toilet..."
-//HACK displeased Miki -GHS
+//lol gurlz R always in teh toiletz. -GHS
 
 [Miki]
 "Aw, come on!"
 //She sounds like Kiri should've gone on ahead already... -GHS
 
 Kiri enters the girls' toilet.
-//HACK out with her doll -GHS
 Miki follows.
 I follow as well.
 

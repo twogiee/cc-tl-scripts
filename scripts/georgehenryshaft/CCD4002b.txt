@@ -44,14 +44,12 @@ Seems like she's consenting due to being overwhelmed.
 
 [Taichi]
 "Good. Well then, let's head in the direction of your apartments and not return to school."
-//HACK -redisplay doll +new doll -GHS
 
 [Miki]
 "...ah, but I want to go look at how she's doing..."
 
 [Taichi]
 "It's fiiine, it's fiiine."
-//HACK Gnyamyeooow -GHS
 
 [Miki]
 "G'nyamyeooow!"

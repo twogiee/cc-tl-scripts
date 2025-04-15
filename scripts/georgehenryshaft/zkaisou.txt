@@ -52,7 +52,6 @@ JMP END
 :SCENE10
 $CIA = 101
 CALL ccd1001B
-//HACK as the script was split, the sex scenes are now here. For the three people who'll use scene replay... -GHS
 $CIA = 0
 JMP END
 :SCENE11

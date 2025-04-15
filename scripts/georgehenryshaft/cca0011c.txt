@@ -1,6 +1,5 @@
 IF $loop == 0 JMP NORM
 //This is one of three scripts that works both normal and sepia, for week 1 and week 2 and next. Implementation is simple: it checks whether $loop (which was originally $roop, natch) is zero or non-zero, latter meaning it's not first week, and loads the appropriate stuff. Flashback opening is skipped on same grounds. Of course, I had to dupe all the lines due to changing tags, but at least the stuff isn't on separate files. This saves 120 copypasta lines. -GHS
-HACK Flashback intro. -GHS
 JMP SCENE
 :NORM
 //Week 1 is the ONLY time when this particular cicadas sound is called. -GHS
@@ -345,7 +344,7 @@ IF $loop == 0 GL 1 TCSY0002b
 IF $loop != 0 GL 1 TCSY0002s
 IF $loop == 0 Boy: "...no, however I look at you, you are also Japanese."
 IF $loop != 0 Shinkawa: "...no, however I look at you, you are also Japanese."
-//HACK NVL mode -GHS
+//He's gonna live like as like a Japanese, even if there is no Japan. -GHS
           And this has been my meeting
              with Shinkawa Yutaka---
 //Readers are supposed to intend this was his first meeting, although of course it was nothing of the sort. -GHS

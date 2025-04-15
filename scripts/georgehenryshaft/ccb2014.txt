@@ -1,7 +1,6 @@
 Casually, I turned my head towards the entrance.
 CIN 4 -640 0 0 0
 CR 1
-//HACK slide from left instead. Using CIN as the normal sliding keeps thinking the left corner of the image needs to go to the center of the screen, but all insert CGs are actually full 640x480 pre-centered pics with the rest in alpha transparency, so it doesn't work correctly and the insert ends up way to the right. So I compensate and sometimes it works as intended so the image ends up screwed up regardless, and therefore to hell with all that. -GHS
 Glaaare.
 //7 letters total -GHS
 
@@ -27,19 +26,16 @@ Like in that masterpiece music video thriller from some years ago, I lose my min
 
 Motion of the lips.
 I could only read it:
-//HACK NVL mode -GHS
                   T R A I T O R
-//HACK ADV mode -GHS
+//no one's gonna save you from the beast about strike -GHS
 
 [Taichi]
 "HyYyYh!"
-//HACK independent BG shake -GHS
 
 They move more.
-//HACK NVL mode -GHS
             I   D O T H   B E L L O W
               F O R   R E V E N G E
-//HACK ADV mode -GHS
+//14 letters. http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1320283438 replaced wif some semi-random spear shakin'. -GHS
 I-, I'll be done in?!
 //Why would he be even remotely afraid of what Youko would do to him, at this point at least? -GHS
 I cover my face.
@@ -101,16 +97,13 @@ Since she can't see them by herself, it'd be fine leaving them there, but,
 
 [Taichi]
 "......"
-//HACK wipe to black... -GHS
 
 I go to the Art room.
-//HACK ...and back. -GHS
 I grab the paint thinner from the teacher's ready room and return.
 I diluted and soaked a rag in it.
 Wipe.
 Wipe.
 Wipe.
-//HACK now on the same page (this was likely always intended) -GHS
 With a slip and a slide I resurrect her eggy ass.
 //At least it's not 50% rebuilt from the 800x600 data, 20% PS2 emulator screenshots and 30% Xbox 360 video capture, eh? See next script for payoff. -GHS
 

@@ -1,7 +1,6 @@
 Fun school attendance with Touko.
-//HACK ADV mode returns -GHS
-Thursday September 10, 1998 -GHS
-Tou-Kou -GHS
+//Thursday September 10, 1998 -GHS
+//Tou-Kou -GHS
 However,
 Touko had become sullen.
 
@@ -54,11 +53,9 @@ Stretching over a hand, I attempt a talon grab on her chest.
 
 [Touko]
 "Yyh?!
-//HACK independent doll shake -GHS
 
 [Taichi]
 "Really, you don't have any boobs do-you-not!"
-//HACK independent CG shake -GHS
 
 [Touko]
 "KEEP SILEEEEENT!!!"
@@ -69,7 +66,6 @@ Stretching over a hand, I attempt a talon grab on her chest.
 
 FSZ 17
 {}I was comfortably revolving in a flight that drew a faint ridgeline yet the instant one part of the head contacted the earth suddenly the braking turned me into the axis of a wheel and while spinning at high velocity with a momentum comparable to a boomerang I merely pass by the landscape and break into a grove of trees.
-//HACK font size to make it fit. -GHS
 
 [Taichi]
 "Harakiri Fist... the invincible combat technique..."
@@ -106,7 +102,6 @@ But I don't know why she's angry.
 
 [Taichi]
 "Hummm. According to my data, Kirihara's menstruation should have approximately one week ahead---"
-//HACK independent BG shake -GHS
 
 !gain!
 //a-gain? Continuation of joke above? http://www.weblio.jp/content/%E3%81%92%E3%81%84%E3%82%93 <- that imperial stamp looks, odd as it might sound but not for Cross Channel, quite promising. Splitting the difference and going with oddity for its sake. -GHS
@@ -130,11 +125,10 @@ I don't care, she says...
 
 [Taichi]
 "Well, getting so ill at humor the day right after you start living with a man, of course I'd find that incomprehensible."
-//HACK doll now instead of two sentences below -GHS
+//Being an ojou-san, she would be un-gokigen, of course. -GHS
 
 Touko's visage suddenly lacquers scarlet.
 This is no shyness, this is anger.
-//HACK removed -GHS
 
 [Touko]
 "Why don't you ask that sternum of yours!?"
@@ -150,7 +144,6 @@ So, when was Touko last in a good mood?
 When she immigrated in yesterday she was certainly bright and smiling.
 //Insisting on immigration. -GHS
 Then, there was how she sentenced a part of my soul to be burned at the stake---
-//HACK quick pixel screen bump -GHS
 Thump.
 Dizziness.
 Still unbelievable.
@@ -355,7 +348,6 @@ All eaten then?
 
 A kick flew.
 With intent to kill.
-//HACK independent doll shake -GHS
 
 [Sakuraba]
 "...hu!"
@@ -380,7 +372,6 @@ He calmly stood up and said that.
 
 [Sakuraba]
 "Forgot."
-//HACK independent doll shake -GHS
 
 Punch to the Face.
 //Nothing to do with Karade, this is just a good ol' socking. -GHS
@@ -488,7 +479,6 @@ I drop a small mountain of croquette bread on Touko's desk.
 PoPoing.
 //Matching SFX -GHS
 And still, Touko's belly bug cried.
-//HACK independent doll shake -GHS
 
 [Touko]
 "Hfwhat?!"
@@ -533,7 +523,6 @@ Very happily it hadn't spoiled.
 "By the way, it's about time we reconciled."
 [Taichi]
 "...should be the moral thing to do I guess."
-//HACK different doll -GHS
 
 Touko looked stunned.
 But,
@@ -542,14 +531,12 @@ But,
 "...heh."
 
 She quickly chuckled.
-//HACK shy Touko -GHS
 
 [Touko]
 "'Class', that's the first time I've heard that word in a few days."
 
 [Taichi]
 "But aren't you coming every day. Wait, wouldn't you be having classes all alone?"
-//HACK normal Touko instead -GHS
 
 [Touko]
 "...seems so, yes."
@@ -626,7 +613,6 @@ So I said while munching with a munch-munch.
 
 [Taichi]
 "Eh, so you don't want bread anymore? I'll finish it later then."
-//HACK independent CG shake -GHS
 
 [Touko]
 "I mean that when you're eating together with someone you like it's tastier whyyy don't you ever understand what I am implying so that I need to hit youuuu!!!"
@@ -667,11 +653,9 @@ So I said while munching with a munch-munch.
 
 [Taichi]
 "If you call that something warped, then those Burusera bastards are non-terrans that dwell on Alpha Centauri."
-//HACK Tanaka must've really been in a "let's embarrass Touko as hard as possible" trip in his edits. I thought this was a direct Nanaka reference, with this it still is but not directly. Wonder if that's what she told her in her rants while she held him. Term googles. "Non-terran" returns exclusively in Another Story. -GHS
 
 [Touko]
 "Burusera?"
-//HACK new line, replaces previous one. -GHS
 
 [Taichi]
 "It's OK if you don't worry about it."
@@ -680,14 +664,12 @@ Or should I say, you really should not worry about it.
 
 [Touko]
 "Is that related to Sukuburu?"
-//HACK new line -GHS
 
 [Taichi]
 "...why do you even know about Sukuburu... well, that doesn't matter."
 
 * Sukuburu = term that indicates a general School
   Swimsuit (Sukumizu) and Buruma fetish.
-//HACK last added line. Likely due to the new stuff in CCB2009. Explained so no further notice, except... http://en.wikipedia.org/wiki/Buru_people Also, this may be awesome, this nazi here is written the same way in Japanese: http://de.wikipedia.org/wiki/Michael_Skubl -GHS
 
 [Taichi]
 "Because right now, it's all something my hands will never touch again."
@@ -783,7 +765,7 @@ Eh, then that'd be...
 "You wanted to have sex?"
 
 I made my thumbs (both) peek out from the depth of my fists.
-//HACK independent CG shake -GHS
+//I suspect he's not sticking them upwards... -GHS
 
 [Touko]
 "............"

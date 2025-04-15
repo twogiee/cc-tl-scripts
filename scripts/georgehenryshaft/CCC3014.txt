@@ -1,6 +1,5 @@
 Today was hot.
 I still felt like going to the beach.
 Which reminds me of last year, when we went to the beach with everybody.
-//HACK fade music (if we're in from Week 3, this sounds pretty bad otherwise) -GHS
+//PCP CCC0007... technically. -GHS
 CALL CCB0020
-//HACK If you're going to paste entire scripts, just call them and be done with it! Parts of this get as bad as Week 2, and it's nowhere near as bad as it'll be in Sendback. Even funnier when this very script is called in CCC4020. -GHS

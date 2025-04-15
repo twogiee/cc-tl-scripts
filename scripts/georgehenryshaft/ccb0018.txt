@@ -1,7 +1,6 @@
 
 [Taichi]
 "Cooo-ming!"
-//HACK Flashback intro. -GHS
 [Taichi]
 "Who might it be?"
 
@@ -10,7 +9,6 @@
 
 [Taichi]
 "A gangster-like surname associated with a conversely kyute voice... Yusa-chan? It's open, do come in!"
-//HACK music starts a sentence later -GHS
 
 Slowly and carefully the door opens, and there stood a beautiful girl.
 
@@ -43,8 +41,7 @@ We converse on many subjects.
 "......"
 
 This young lady has the bad habit of losing words when surprised, don't she.
-//HACK lots of new lines to fill some gaps! -GHS
-HACK NVL mode -GHS
+//Another older revision, this was slightly more formal. -GHS
 Maximum permitted dosage exceeded---
 //...of each other. -GHS
 Yes, therefore,
@@ -80,37 +77,30 @@ In the sky.
 //Until that day... -GHS
 An expected existence that one can listen to.
                    However---
-//HACK ADV mode -GHS
-end new lines -GHS
+//end new lines -GHS
 
 [Taichi]
 "Well then, let's see you home."
 
 [Yusa]
 "............!!!?!?"
-//HACK independent doll shake -GHS
 
 Her loss of words about doubled from before.
 
 [Taichi]
 "Well, it's night now, isn't it."
-//HACK line removed. -GHS
 [Taichi]
 "Shall we go?"
 
 [Yusa]
 "Ye-, yes!"
-//HACK, no that's the evening BG. Better than the day one that they used in CCD1001, but... -GHS
 
 And so, I took her home.
-//HACK The sepia doll is obviously the day doll, and they just don't fit here at all. It's possibly why they used these BGs. Sadly there's no darker sepia dolls, so I made them. Time taken: about 5 minutes. Also, different doll. -GHS
 
 [Yusa]
 "That question... you just ask me that every time, right Taichi-san?"
-//HACK darker doll, and different one too. -GHS
 [Yusa]
 "That is a bit complicated so I do not really understand but... yes!"
-//HACK darker doll -GHS
 [Yusa]
 "Trainingful then!"
 
@@ -125,7 +115,6 @@ And so, I took her home.
                Training in violence.
           Intense, turbulent, or furious
            and often destructive action.
-//HACK ADV mode -GHS
 Ahhh.
 I really love those words, don't I!
 I laugh so hard within my dream.
@@ -138,4 +127,4 @@ The plating of a pretension that reminds of the nihility of cynicism dissolves, 
 One single thought:
 an enemy is an enemy.
 If killing needs be, killing it will be.
-//HACK flashback exit whiteout -GHS
+//...though the figure of speech seems closer to "I defy you". See CCZAS. Aliens are enemy, even if aliens are Miki. -GHS

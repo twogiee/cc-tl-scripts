@@ -10,7 +10,6 @@ JMP SKIP1
 /Taichi: "Aaah, that's cutting. Prez is a cuuutteeer!"
 ///Newer script specified 'school', as technically she'd also have cut club. -GHS
 :SKIP1
-//HACK to black before BG change, away all stuff, no need to stop music (CCC0022 does it). Speaking of stuff: this older revision didn't even have the switch to the sky at the end of CCC0022. -GHS
 What development will there be with this touching of Senpai?
 //As long as it's on the boobs, who cares? -GHS
 I have familiarity:
@@ -56,14 +55,12 @@ She covers her face.
 "I have arrived here just now."
 [Taichi]
 "More importantly, sleeping over here is very dangerous!"
-//HACK what's this doing here? -GHS
 
 [Misato]
 "Ahhh, yes, I am alright, zzz..."
-//HACK zoom -GHS
 
 I lift her up,
-//HACK new lines. What, the whole script above doesn't even get brought up to the latest version, and new lines here??? Boo! -GHS
+//Hum, "I provoke her". -GHS
 
 [Taichi]
 "I said no sleeping!"
@@ -147,7 +144,6 @@ Senpai was, once more, still there,
 working, blue collar,
 even when it will soon be night,
 alone.
-//HACK Flashback intro. -GHS
 I believed that never touching people was the sole and only way, at that time---
 //Believing he can't cross predates his experiences with it. Since this is after Youko "rebuilt" him / spent years playing videogames and nothing more, this is something that's not entirely his. -GHS
 At the time I met Senpai.
@@ -164,14 +160,11 @@ At the time I met Senpai.
 "I am called Miyasumi Misato."
 [Misato]
 "Will you not have club together with me?"
-//HACK NVL mode -GHS
 
         Those are words I will never forget.
              The first Other Person.
                 The first Someone.
-//HACK flashback exit whiteout -GHS
-HACK ADV mode -GHS
-Tuesday September 8, 1998 -GHS
+//Tuesday September 8, 1998 -GHS
 I am awake.
 Sunlight was piercing through the window.
 Seems I have been hard asleep. I did not have any dreams.
@@ -179,7 +172,6 @@ The time is... 7AM.
 Going to school is necessity.
 //See same script. -GHS
 In the past, I was walking this part together with that girl.
-//HACK Flashback intro with doll. -GHS
 
 [Yusa]
 "Oh my? Taichi-san?"
@@ -190,14 +182,9 @@ In the past, I was walking this part together with that girl.
 
 [Yusa]
 "Ah, good morning, yes!"
-//HACK NVL mode -GHS
 
                     Yusa-chan---
            At that time we were friends.
-//HACK flashback exit whiteout -GHS
-HACK and zoom -GHS
-HACK different transition back -GHS
-HACK ADV mode -GHS
 Asleep.
 I pick up her alarm clock,
 it was set for noon.
@@ -205,7 +192,6 @@ She's done this up until the dead of night, has she.
 Motion until sleepiness, perhaps.
 That's just how much it hurts, perhaps.
 I change the timer setting of the alarm clock.
-//HACK zoom -GHS
 
 [Misato]
 "nAhnAh!"
@@ -232,7 +218,6 @@ She flew to her feet.
 "Aaaah... ngggh..."
 
 She rose herself with a wobble.
-//HACK different doll. Dollwork is plausibly changed, I guess. -GHS
 
 [Misato]
 "First thing, good morning!"
@@ -293,7 +278,6 @@ I lay Senpai to sleep in a free bed.
 
 [Taichi]
 "Good night, Senpai, and sweet dreams."
-//HACK zoom rooftop -GHS
 
 I continue the work.
 Through the experiences of a long Eigenlife, I was endowed with skill and knowledge.
@@ -303,7 +287,7 @@ I don't hate sweating in my work. It's pleasant.
 As my body automates, one of my recollections rises to the surface.
 //As he automates, he starts remembering. This is the other source of flashbacks as well as dreams. See CCC3004, CCC3009: he automates instead of just falling asleep like Yutaka more often does, but he can do the same. -GHS
 The stage and setting being the rooftop, the heart patterns it to the distant past, trying to recreate the impetus one more time.
-//HACK Flashback intro + cicadas buzzing (which they forgot). -GHS
+//And an admission that his heart (definitely in the sense of "mind" here, but aesthetics demand heart there) tries to reconstruct older memories by overlapping past and present. -GHS
 The escape from the guard's eyes was my daily routine.
 //And it could still be... -GHS
 That day, as well, I had laid myself on the rooftop at lunch.
@@ -342,7 +326,6 @@ Never had I experienced being contacted in this manner.
 It was a female with gigantic tits.
 //Early Taichi was sooo very rape nukige. -GHS
 & glasses.
-//HACK new line. THIS IS VERY IMPORTANT. -GHSarc
 I'm not exactly devoid of even the smallest amount of carnal desires.
 Fundamentally, I am not very capable around real females, however, I don't dislike them.
 //The suuuuuubtle implication that he's into 2D (AKA avid eroge player) is quite awesome, in retrospect. He sounds so emo. And since he has technically a waifu - Youko - this sounds even odder. -GHS
@@ -456,18 +439,13 @@ Equipping expressionlessness, I proclaim:
 
 [Taichi]
 "My apologies. Please ask of someone else."
-//HACK out... -GHS
 
 I get up and leave.
-//HACK no need -GHS
 
 [Misato]
 "Ahhh, wait waiiit!!!"
 
 ............
-//HACK flashback exit whiteout & cicadas out (which they totally forgot) -GHS
-HACK zoom rooftop -GHS
-HACK different transition back -GHS
 These are activities that I began when she invited me,
 and now,
 she was rejecting me.
@@ -477,8 +455,6 @@ To school.
 A gate to prevent desertion.
 It seems to exist less to protect students, and more to protect the outside world from us.
 That is the impression it left.
-//HACK zoom rooftop -GHS
-HACK sadder -GHS
 
 [Misato]
 "Peke-kun."
@@ -489,11 +465,9 @@ I was welcomed by a distrustful gaze.
 "Oh, President."
 [Taichi]
 "Did you not get a hangover?"
-//HACK hurt-ish, not sleepy -GHS
 
 [Misato]
 "...get I did. AwChChCh!"
-//HACK sigh. -GHS
 [Misato]
 "That is not the point, it is that I have found myself sleeping in the infirmary, and the work still progressing... we are seeing the outbreak of an inexplicable phenomenon."
 //Given Mura and Sato mean very similar things (small town, village), the Shi-Mura Phenomenon makes an odd companion to Mi-Sato. Especially shi=4 and mi=3, so that's a 7. Since Misato sees but pretends she doesn't, that's oddly appropriate. -GHS
@@ -513,7 +487,6 @@ I was welcomed by a distrustful gaze.
 
 [Taichi]
 "Ehhh, I guess it is because of intoxication, right. You have no memory of it?"
-//HACK independent doll shake -GHS
 
 [Misato]
 "Aaah..."
@@ -526,10 +499,8 @@ While I'm there, I'll put her in some gratitude.
 
 [Misato]
 "!?!?"
-//HACK independent doll shake -GHS
 
 Senpai's eyes became an [><] mark in landscape orientation.
-//HACK worried Misato -GHS
 
 [Misato]
 "AwAaAaAaH!"
@@ -538,7 +509,6 @@ Senpai's eyes became an [><] mark in landscape orientation.
 
 [Taichi]
 "It went something like this..."
-//HACK "flashback" intro, an actual background instead of headache-inducing white. Still trusting these to be real at all? -GHS
 
 [Misato]
 "Hottt, 's hottt... cannot be wearing this!"
@@ -592,8 +562,6 @@ Unfortunately a mosaic censoring there was.
 
 And these beautiful forms of Senpai I was staring at, with my wits at an end.
                                               ~THE END~
-//HACK flashback exit whiteout -GHS
-HACK different transition back -GHS
 
 [Misato]
 "...sob, sob, sob... I told you must not look, and you still looked!"
@@ -616,7 +584,6 @@ She breaks down crying.
 
 [Taichi]
 "But be at ease! This harmless young boy skillfully dealt with it, it has been cleaned up so that the public eye will never notice!"
-//HACK different doll -GHS
 
 [Misato]
 "...ahhh, so you did... thank you, very much."
@@ -637,7 +604,7 @@ The contents had been repurposed from the past ones.
 
 [Misato]
 "Hummm... this is fine, yes."
-//HACK earlier doll -GHS
+//MISATO LIKES COPYPASTA -GHS
 
 She raises her face and shows me a smile.
 
@@ -649,7 +616,6 @@ She raises her face and shows me a smile.
 "Sooo it is not failed then!"
 
 A merry laughter in two. And shortly afterwards,
-//HACK earlier doll -GHS
 Senpai's face clouds.
 
 [Misato]
@@ -659,25 +625,23 @@ Senpai's face clouds.
 "It was simply unreasonable."
 [Taichi]
 "No good staying up all night, then going about all mad during the day. It is forbidden."
-//HACK sweatdrop Misato -GHS
+//That fake tale probably struck her hard, but the problem he (justly) has is here is with her alcohol. -GHS
 
 [Misato]
 "Ngggh... the President getting a sermon by a Kouhai..."
 //becuz cross channel's's' is a bible game, taichi (who is jesas) is a priest. -GHS
 
 Senpai standing up, and simultaneously all the various tools and materials leaning about come into motion.
-//HACK and out -GHS
+//Uh-oh, the material have started to move... -GHS
 I pull her to me.
 
 [Taichi]
 "Careful!"
-//HACK no need -GHS
 
 [Misato]
 "Eh?"
 
 The stepladder, the antenna radiators, the tools... all of them,
-//HACK earlier CG -GHS
 with a discordant musical performance scattered around the floor.
 
 [Misato]
@@ -704,11 +668,10 @@ with a discordant musical performance scattered around the floor.
 
 The smell of Senpai.
 A memory gushes forth, carrying with it the realistic air of an early Summer, and faintly fills the tip of my nose.
-//HACK Flashback intro. -GHS
+//Compare him smelling her bra in CCA0015B, or being a smell fetishist really. The end of the Bathroom scene is also interesting. -GHS
 
 [Misato]
 "Good afternooon!"
-//HACK independent BG shake -GHS
 
 A cold feeling on the nape of the neck as I was dozing off.
 //According to CCD0022A, that's where "Youko" is sensitive. -GHS
@@ -846,7 +809,7 @@ They were fairly old, faint and almost vanished.
 "That is different from mine."
 [Taichi]
 "Mine is..."
-//HACK normal Misato -GHS
+//...see CCC3030. -GHS
 
 I was hugged, softly.
 
@@ -890,7 +853,6 @@ I was hugged, softly.
 
 [Taichi]
 "...owCh!"
-//HACK removed -GHS
 
 Headbutted.
 //Yes, headbutt. She's still hugging him. -GHS
@@ -955,8 +917,6 @@ I ended up laughing.
 "Waaah! I did it! I am so awesome!"
 
 "You" did it you say...
-//HACK flashback exit whiteout -GHS
-HACK different transition back -GHS
 
 [Taichi]
 "It is the opposite."
@@ -978,7 +938,6 @@ The innocence of that time is now no more.
 When hugged close, she stirs, flustered.
 That's because Senpai has become aware of my being of the opposite gender.
 That makes my heart leap a little.
-//HACK Doubty Misato instead of, yup, reloading the same doll. -GHS
 
 [Misato]
 "...I do feel something like this did happen."
@@ -1150,7 +1109,6 @@ This family of four was split in half then?
 
 [Taichi]
 "Ahhh, I've been participating to club. Senpai's club."
-//HACK less happy Tomoki -GHS
 
 [Tomoki]
 "...why again?"
@@ -1163,7 +1121,6 @@ This family of four was split in half then?
 
 [Taichi]
 "That ain't garbage."
-//HACK no need -GHS
 
 [Tomoki]
 "Well, if you're doing that, Taichi... then, well, there's gotta be a reason or something I guess."
@@ -1249,7 +1206,6 @@ That stuff's for fanatics of the Spray'n'Pray technique.
 
 [Taichi]
 "Nnnaaah, I wanna get close. I'll go all the way to where I wanna go."
-//HACK earlier doll -GHS
 
 Tomoki parts with color.
 
@@ -1387,20 +1343,17 @@ This should be the quota met.
 
 [Taichi]
 "Once you've got some breathing space on your side, won't you come to club?"
-//HACK earlier doll change and music cut -GHS
 
 And on the very moment his expression hardened.
 
 [Tomoki]
 "...I don't really want to have club activities with traitors."
-//HACK Flashback intro. -GHS
-And speaking of betrayal... -GHS
+//And speaking of betrayal... -GHS
 
 [Taichi]
 "Cooo-ming!"
 [Taichi]
 "Who might it be?"
-//HACK try asking that AFTER you're at the door, doofus. Damn early edits. -GHS
 
 [Yusa]
 "Ah, uhm, it's Doujima!"
@@ -1409,7 +1362,6 @@ And speaking of betrayal... -GHS
 "A gangster-like surname associated with a conversely kyute voice... Yusa-chan? It's open, do come in!"
 
 Slowly and carefully the door opens, and there stood a beautiful girl.
-//HACK actually display the doll. -GHS
 
 [Yusa]
 "Hello, good eve... ning."
@@ -1431,7 +1383,6 @@ We converse on many subjects.
 
 [Yusa]
 "And also, I thought, so I could hand in the exchange diary tomorrow..."
-//HACK effect was missing. -GHS
 
 [Taichi]
 "So, first of all your exchange diary, and also, this is a birthday present from me."
@@ -1446,32 +1397,25 @@ This young lady has the bad habit of losing words when surprised, don't she.
 
 [Yusa]
 "............!!!?!?"
-//HACK independent doll shake. Wait, you added this but didn't fix any damn bug??? -GHS
 
 Her loss of words about doubled from before.
 
 [Taichi]
 "Well, it's night now, isn't it."
-//HACK line removed. -GHS
 [Taichi]
 "Shall we go?"
 
 [Yusa]
 "Ye-, yes!"
-//HACK didn't remove the doll, wrong BG (sepia day instead of sepia night). I have no words. -GHS
 
 And so, I took her home.
-//HACK darker doll. At least they remembered to fade in the doll... though it's useless, as it'd be reloading the one already onscreen. -GHS
 
 [Yusa]
 "That question... you just ask me that every time, right Taichi-san?"
-//HACK darker doll, and different one too. Also fade them, so it reminds that these are not in sequence. -GHS
 [Yusa]
 "That is a bit complicated so I do not really understand but... yes!"
-//HACK darker doll, fade -GHS
 [Yusa]
 "Trainingful then!"
-//HACK NVL mode -GHS
 
               It is indeed training.
                   Calisthenics.
@@ -1482,7 +1426,6 @@ And so, I took her home.
                Training in violence.
           Intense, turbulent, or furious
            and often destructive action.
-//HACK ADV mode -GHS
 Ahhh.
 I really love those words, don't I!
 I laugh so hard within my dream.
@@ -1495,14 +1438,10 @@ One single thought:
 an enemy is an enemy.
 If killing needs be, killing it will be.
 However, all thoughts like that I... want to well and truly kill---
-//HACK flashback exit whiteout -GHS
-Thursday September 10, 1998 -GHS
-HACK zoom rooftop -GHS
+//Thursday September 10, 1998 -GHS
 *Bom* *Bem* *Bam* *Bom*
 *Bom* *Bem* *Bam* *Bom*
 This morning too, on the rooftop, club activities were proceeding strenuously.
-//HACK slow stop music, this transition sounds too bad otherwise -GHS
-HACK Flashback intro. -GHS
 I might have decided to join club, but the permission didn't come down all easy.
 Senpai had to stir up all kinds for this.
 Moving as to not be noticed by me.
@@ -1526,7 +1465,6 @@ and pulled, and pulled,
 and continuously pulled in.
 //As soon as he thought he was out... see CCX0001. -GHS
 Before long, I ended up being often found in the club room.
-//HACK Doubty Misato doubts. -GHS
 
 [Misato]
 "Uhmmm..."
@@ -1556,7 +1494,7 @@ I could not bear to watch.
 
 [Taichi]
 "...this part, yes."
-//HACK peery misato is on someones pier -GHS
+//The part about putting tab A into slot B he understands. -GHS
 
 [Misato]
 "Then, uhm, what about this?"
@@ -1580,7 +1518,6 @@ I could not bear to watch.
 
 [Taichi]
 "Careful, careful! Step aside, please!"
-//HACK oh man... -GHS
 
 [Misato]
 "Eh?"
@@ -1637,8 +1574,6 @@ Sarcasm #2.
 "That is obvious!"
 
 And I accidentally got all worked up.
-//HACK flashback exit whiteout, stop music -GHS
-HACK different transition back, zoom -GHS
 
 [Taichi]
 "Good morning."
@@ -1660,7 +1595,6 @@ Her fall stopped with a Princess Carry in my arms.
 //Still the Grateful Crane. Interesting with CCA0021. -GHS
 
 I quickly let her down.
-//HACK fade doll, music "tender grace" -GHS
 
 [Misato]
 "...th-, thanks!"
@@ -1748,7 +1682,7 @@ Pyyyy. (-ing)
 
 [Youko]
 "...espied."
-//HACK music right away -GHS
+//Speaking of old fashioned words... -GHS
 
 [Taichi]
 "Whoa, she appeared!"
@@ -1849,7 +1783,6 @@ Nod.
 
 She looks so delighted.
 ...but don't be fooled.
-//HACK here's some more fanservice for you mom fetishist. -GHS
 Cooozily.
 
 [Youko]
@@ -1896,16 +1829,12 @@ These are the terrifying specifications of the children of the next generation.
 
 CIN 4 0 0 -640 0
 CR 2
-//HACK -GHS
 CIN 4 640 0 -640 0
 CR 3
-//HACK ... -GHS
 CIN 4 640 0 -640 0
 CR 3
-//HACK ...... -GHS
 CIN 4 640 0 0 0
 CR 2
-//HACK ......... -GHS
 
 [Youko]
 "Mmmh..."
@@ -1930,10 +1859,8 @@ However it goes, I can see through her tactics.
 
 CIN 4 0 0 -640 0
 CR 2
-//HACK ............ -GHS
 CIN 4 640 0 0 0
 CR 2
-//HACK ............... -GHS
 We move around.
 Weight became heavy.
 //I really have no idea what he's carrying. Sack of potatoes maybe. Machiko-sensei maybe. Definitely it'd fit for someone adult. And possibly male... -GHS
@@ -1962,16 +1889,12 @@ And from there, I strolled her for an adequate ten minutes throughout the school
 My arms...
 CIN 4 0 0 -640 0
 CR 3
-//HACK ............... -GHS
 CIN 4 640 0 -640 0
 CR 4
-//HACK .................. -GHS
 CIN 4 640 0 -640 0
 CR 4
-//HACK ..................... -GHS
 CIN 4 640 0 0 0
 CR 3
-//HACK ........................ -GHS
 One more round of the premises.
 
 [Taichi]
@@ -1990,7 +1913,6 @@ One more round of the premises.
 
 [Taichi]
 "My arms will tear off!"
-//HACK ........................whew. -GHS
 
 Dethronement.
 //From the Princess Seat. -GHS
@@ -2074,7 +1996,6 @@ Youko-chan stands in front of me.
 
 The thighs rode on my shoulders,
 one after the other.
-//HACK ................................................some days, you see something that you have no words for except What The Cocksucking Fuck. I know it's technically "association", but "committee" is inherently funnier due to the fact that it's 360 only and not actually in the CG viewer, so it's 16:9 only. The antenna on the right, lightning bolts and all, is part of the save prompt on the 360 version. -GHShutUpTheSecondSentenceMakesSense
 And then, Reverse Piggyback implemented---
 
 [Taichi]
@@ -2087,7 +2008,6 @@ And then, Reverse Piggyback implemented---
 //x12, +5 (two lines above)=17 1+7=8 -GHS
 
 No regreeets!!!
-//HACK Flashback intro. -GHS
 If I remember correctly, Tomoki had also been in a fight with Mimi-senpai last year, too.
 //This was likely their parents' divorce. Interesting that Wacchi Taichi doesn't know about all this, though I'm leaning towards simple plot hole for this one. -GHS
 
@@ -2102,8 +2022,7 @@ Last year and now, as well.
 Twice they have gone into discord.
 //See Taichi and Yutaka on this. -GHS
 But there was a very significant difference in the nature of the these two times.
-//HACK flashback exit whiteout -GHS
-HACK different transition back -GHS
+//Meaning Tomoki forgave Misato for hurting him, even though he doesn't want much to do with her (not ununderstandably), much like Taichi and Sakuraba. -GHS
 And then today, one year later.
 //Today is the anniversary of Yutaka's death, so it seems odd it'd mean "to the day". -GHS
 Tomoki was eating his bread, alone.
@@ -2176,14 +2095,12 @@ These are Senpai's tactics.
 
 All at once the fatigue comes to the surface.
 I knew that too, so I can tell.
-//HACK dim screen -GHS
 All sorts of every single thing go into human relationships,
 //Seems just a variant of ありとあらゆる -GHS
 so that unserious, light attacks become pleasant.
 Excessive strength means harm, but,
 fundamentally, for person to touch person all methods are necessarily attacks.
 Companionship, I think, is nothing more than skillfully going easy on others.
-//HACK back to normal -GHS
 
 [Taichi]
 "But just once in a while's fine, right?"
@@ -2250,7 +2167,6 @@ But right now---
 //See CCC3004, but 'serial' works better here. Lots of stuff in series, definitely. -GHS
 
 He pounds the table.
-//HACK independent BG shake -GHS
 
 [Taichi]
 "Don't have a cow now. It's like you're in that time of the month dammit."
@@ -2263,7 +2179,7 @@ He pounds the table.
 //Part 7 and last of Taichi the Failed Speculator ~fin~ But http://diarize.blog48.fc2.com/blog-entry-12.html asks the question: since there's 小豆 (Azuki), what about 大豆 (soy) beans? One is written with kanji for small, the other for big. I don't think Tanaka used this pun, tho. Curiously, there's Youkai that's always found washing Azuki beans, which might tie it further to Youko. -GHS
 
 My trauma for eternity.
-//HACK oooh screw it, just for variety. -GHS
+//http://www.agmrc.org/commodities__products/vegetables/azuki-beans/ has a bit more. -GHS
 
 [Tomoki]
 "K'noooh!"
@@ -2272,24 +2188,19 @@ My trauma for eternity.
 [Taichi]
 "M'gaaah!"
 //"Muga" is self-renunciation. -GHS
-HACK independent CG shake,sfx -GHS
 
 [Tomoki]
 "iEyAAAH!"
-//HACK independent CG shake -GHS
 
 [Taichi]
 "Ch'eysaaah!"
 //"Chaser"? These four are a bit odd to be just random grunts, but I'm finding nothing. -GHS
-HACK independent CG shake, SFX -GHS
 
 Scratches inflicted reciprocally, with agreement at their base, become the abundance of the heart,
 //豊 -GHS
 and therefore, they satisfy.
-//HACK off music -GHS
 CALL CCA0022B
 JMP SKIP2
-//HACK oh, another convenient one! This misses two lines, I guess, but they're sort of off-tone as usual. Also disarming the CG. -GHS
 /Ooo-kay.
 ///This makes it sort of sound like he's doing this alone... -GHS
 /What's this hole here? Is it for passing a cable?
@@ -2318,7 +2229,6 @@ And then, on schedule, we eat packed lunch.
 "Delicious!"
 [Taichi]
 "You are really skilled at this Senpai!"
-//HACK stare-y Misato instead of... default, dammit they forgot dollwork in here. -GHS
 
 [Misato]
 "Am I now? But I only really started to cook recently..."
@@ -2331,9 +2241,7 @@ And then,
 
 Joining.
 I faithfully recreate the shape of this act that I have phenomenally repeated.
-//HACK original line hinted at non-forgetting, rather than at re-learning via notebooks and failed routes; this slightly tweaked one doesn't change much, but it sounds better. It does, however, remove the original ambiguity: it could've just been Taichi's experiences at the Mansion that he's repeating. -GHS
 Being so experienced in this, the agony I gave her was, likely, little.
-//HACK actually display the loaded BG -GHS
 
 [Taichi]
 "Could we still go to the beach, tomorrow?"
@@ -2352,7 +2260,6 @@ There existed a territory, one that I could not reach with the mere overlap of b
 
 There remain three days to the swingback of the world.
 Let's do what's expected of us today, as well.
-//HACK zoom rooftop -GHS
 
 [Taichi]
 "Senpai, I have been waiting for you!"
@@ -2440,7 +2347,7 @@ So I shouted, stretching my arms out wide.
 "Be unembarrassed now. Calling yourself a 'slut' is nothing but an inconceivable mistake."
 [Taichi]
 "It is merely that you are abnormally aroused by your wearing a perverted swimsuit for the first time, Senpai, nothing more."
-//HACK hoh, I was actually certain this doll was displayed on this line. Good thing the 360 version keeps all this. -GHS
+//See CCD0022, CCC4009 -GHS
 
 [Misato]
 "That is what a slut does! Also, you are an idiot!"
@@ -2464,7 +2371,6 @@ That equation has not the even the tiniest of errors.
 
 [Taichi]
 "Catch!"
-//HACK no need -GHS
 
 [Misato]
 "Ngggh..."
@@ -2483,7 +2389,7 @@ That equation has not the even the tiniest of errors.
 
 [Taichi]
 "Even when there is no one here but the two of us?"
-//HACK instead of reloading the same doll -GHS
+//September at a dormitory of a town in the middle of the mountains. Nothing strange about it. Remember how long the life guard took to get out there. -GHS
 
 [Misato]
 "That would be the gaze of the remaining person!"
@@ -2518,12 +2424,10 @@ Mentally acute person, her.
 
 [Misato]
 "Aaah, Good Pitch You Want To Very Moderately Hit Back!"
-//HACK was this doll not available in time for the beta...? -GHS
 [Misato]
 "Enough, e'hyyy!"
 
 Shake'n!
-//HACK later, independent BG shake... wait, BG??? BOO! BOOOOOO! -GHS
 ~Perfect Pretty Boobs Magical Rolling~
 //Now it's an hentai series. -GHS
 This now has become a fairly high ranking memory.
@@ -2661,7 +2565,6 @@ And with a face looking like it had aged a decade,
 "But Senpai, in the end you just seem to be running away."
 
 I walk over and pick up the ball.
-//HACK surprised Misato -GHS
 
 [Misato]
 "What's that even...!"

@@ -9,7 +9,7 @@ On the hills I bumped into a girl.
 
 [Nanaka]
 "I've liked this ever since the first time I bumped into you!"
-//HACK out -GHS
+//That'd be CCA0023, though CCB0002 to be technical. -GHS
 
 I am embraced.
 
@@ -20,7 +20,6 @@ Never seen a more stereotyped high geeear!
 
 [Taichi]
 "...I'll just come out and ask, who'd you be?"
-//HACK back -GHS
 
 [Nanaka]
 "Nanaka."
@@ -66,7 +65,6 @@ Discussion coercively averted.
 
 [Nanaka]
 "Then let me hand over to you my business card."
-//HACK ~nanaca~ (yes, the thumb looks like that overbright) -GHS
 
 I take it.
                 JOB:   Next Generation Bishuojo
@@ -78,15 +76,12 @@ I take it.
 "......"
 
 Where do I even begin to straight-man this?
-//HACK and out -GHS
 
 [Nanaka]
 "Hehe〜hn."
 
 Nanaka might just have been proud of this thing.
-//HACK NVL mode -GHS
       『Do feel free to fall in love with me!』
-//HACK ADV mode -GHS
 That is what her Fujiko-class face said as she sent a flirtatious sidelong glance towards me.
 //Same kanji as http://en.wikipedia.org/wiki/Fujiko_Mine -GHS
 
@@ -194,7 +189,6 @@ She went gloomy.
 
 [Nanaka]
 "Palate cleanser!♪"
-//HACK out instead -GHS
 
 Pchk.
 
@@ -202,7 +196,6 @@ Pchk.
 "......!"
 [Taichi]
 "Wh-, what, why?!"
-//HACK fade in now -GHS
 
 [Nanaka]
 "That's fine, that's not like that's the end of the world!"

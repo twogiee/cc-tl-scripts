@@ -4,11 +4,9 @@ At night, while writing the diary...
 "Hm?"
 
 Sounds from the outside.
-//HACK remove the candle. Doesn't look that good, tho. -GHS
 I put out the candle,
 and go to the window,
 to look outside.
-//HACK starry sky -GHS
 Someone is walking in front of the house, in the street.
 ...Kiri.
 //Her house is allll the way to the east side of town, and she's going allll the way to the countryside on the west side of town. There is absolutely no reason for her to do this... is there? -GHS
@@ -17,7 +15,6 @@ I guess I was starving for material for the diary, then.
 //That's almost as obvious as the sex scene in Misato's route, really Tanaka... -GHS
 My curiosity was piqued.
 To the lower floor.
-//HACK disarm changes above, remove useless waits -GHS
 Far in the distance I can... see... Kiri's back.
 //Nightvision "eyes", possibly, except in CCC3012a (next time he follows her) he won't have them active at this point. -GHS
 I followed.
@@ -92,7 +89,7 @@ She took notice of Kiri's behavior perhaps.
 
 If one has but money, it's comparatively easy to procure one.
 //And given they're like cousins of the Shinkawas, it's not impossible they got money. -GHS
-^??? it's there in the original script, commented out. Identical line to above. -GHS
+//^??? it's there in the original script, commented out. Identical line to above. -GHS
 After that, Kiri continued practice for a while.
 
 [Youko]
@@ -102,7 +99,6 @@ Sudden words.
 They are absorbed into the still quietness in the intervals between the periodic sound of slashed air.
 But inside my ears, they linger for a long time,
 together with their horrifying meaning.
-//HACK dim screen. Originally, it'd oddly reinsert the same BG that's already onscreen, causing a weird pause. -GHS
 
 [Youko]
 『Taichi... want it removed?』
@@ -224,4 +220,4 @@ Coming out into the open space, I examine the timber that was turned target.
 //Look at how small the pockmarks on this thing are compared to how HUGE the bolts are! There's no way this is all the damage! Of course, as usual, Graphics Can't Be Trusted... but if they could, then this'd reinforce the idea that she's using BBs. Because those would fit the holes. -GHS
 [Taichi]
 "It's OK..."
-//HACK slower fade to black, ~ooominooous~ -GHS
+//Kiri has kept it for over a year, without losing it, tossing it, misplacing it, or damaging it in any way. Compare Kana: Imouto again. Very interesting. -GHS

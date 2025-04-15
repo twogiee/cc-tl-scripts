@@ -67,7 +67,6 @@ The records are, more and more, steadily being fulfilled.
 
 [Sakuraba]
 "Heh-cks!"
-//HACK independent doll shake (though the PS2 version has BG at this point for whatever reason, it differs from CCD0012 too) -GHS
 
 [Taichi]
 "...whew, there it goes, the Tragedy of the Hexagon."
@@ -131,18 +130,15 @@ That is the impression it left.
 
 [Sakuraba]
 "Got that."
-//HACK independent doll shake -GHS
 
 [Taichi]
 "That agreement's so quick that it makes me uneasy! Are you even listening?!"
-//HACK doll -GHS
 
 [Sakuraba]
 "It's alright. If I get your permission it's OK, right?"
 
 [Taichi]
 "Didn't you get it?"
-//HACK no need -GHS
 
 [Sakuraba]
 "Are adventures included in 'travel'?"
@@ -198,7 +194,6 @@ Does he, seriously?
 
 Necknape Knifehand Strike.
 //Curiously, the correct term is 手刀打ち, 手刀 alone seems to be that gesture of politeness that looks like praying with one hand (you know the one). http://en.wikipedia.org/wiki/Knifehand_strike is the formal term for Karate Chop. Oh, and best not to strike him on the ears... -GHS
-HACK independent doll shake -GHS
 And down falls Sakuraba.
 
 [Sakuraba]
@@ -393,14 +388,12 @@ I am awake.
 
 [Taichi]
 "Let's go."
-//HACK nope -GHS
 
 [Sakuraba]
 "...where we heading to?"
 
 [Taichi]
 "Ahhh, it's a picnic."
-//HACK fade now -GHS
 
 [Sakuraba]
 "It's a very squalid picnic, innit."
@@ -563,8 +556,6 @@ I closed my eyes, and on opening them---
 "...right."
 [Sakuraba]
 "Riiight."
-//HACK disconnected. This was missing from all the routes but Misato's. -GHS
-HACK night hokora instead of the mountain path (WTF were they doing here???) -GHS
 
 The 'shift' called Sakuraba was returned back to normalcy.
 
@@ -600,6 +591,5 @@ The memories that I have stored are everything that Sakuraba is to me.
 I became oddly afraid, so I hold down my shaking knees.
 I bowed down my head and closed my eyes.
 My eyelids conveyed the invasion of the red.
-//HACK earlier end music, NVL mode -GHS
      And once again the world went around---
 //This and Miki's are the only one that are different of the Sendback routes. After all, they're the two most different characters of them all. The meaning is simple: the day's over. -GHS

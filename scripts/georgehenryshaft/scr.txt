@@ -1,6 +1,5 @@
 IF $CGevcc0065 == 0 JMP GM_LOOP
-//HACK extra scenario implementation -GHS
-Check if the last CG is unlocked. Odds anyone'll stumble on this before actually finishing the VN without knowing of this should be close enough to zero. -GHS
+//Check if the last CG is unlocked. Odds anyone'll stumble on this before actually finishing the VN without knowing of this should be close enough to zero. -GHS
 CALL ccEXTRA
 //Extra menu. -GHS
 JMP GM_LOOP

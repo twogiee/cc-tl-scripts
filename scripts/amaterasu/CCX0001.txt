@@ -115,6 +115,7 @@ Moderately harsh.
 
 [Sakuraba]
 "I very much want to go on a journey. Will you come?"
+//Awkward wording. It's either I very much so, or I want to go on a journey very much. Alternatively, why not just be safe and say I really want to go on a journey -Neko
 
 [Tomoki]
 "Don't go......"
@@ -124,6 +125,7 @@ Moderately harsh.
 
 [Sakuraba]
 "I go with whatever I have. It's the mark of a great traveler."
+//Traveller is UK - Raide
 
 [Miki]
 "I can't imagine doing something like that with my three thousand yen monthly allowance."
@@ -291,6 +293,7 @@ For some reason the phenomenon of decomposition doesn't occur here.
 I decided to stick a memo on the wall.
 Like I'm doing every week.
 『×／○ Sweet Roll, 110￥ + Cup Ramen 180￥ + Green Tea King 110￥』
+//Added three Yen glyph that won't appear at notepad with ANSI encoding - Raide
 Meaningless conduct.
 But it's nice to perform a certain amount of labor to obtain food.
 Because if I neglect even that, it'll be like leaving my body to a lax death.
@@ -323,6 +326,8 @@ I heaved a heavy sigh.
 "---"
 
 I heard those lisping, domineering words insult me.
+//I have no idea what the adjective inflection of "lisp" is, someone please check me on this. 〜IX
+//I'm not sure. For now, let's just have it as 'lisping' - Sheeta
 Only inside my ears.
 The club room.
 The place where we hung out in.
@@ -667,6 +672,7 @@ I know that people have always been staring at my eyes.
 "Sleep, sleep, sleep."
 [Taichi]
 "Sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep, sleep......"
+//Thank you ctrl+h 〜IX
 
 When I wake up, I'm alone.
 I'm solitary.
@@ -735,21 +741,29 @@ My hair lost its color from the yelling.
 The murderer skills inside me were perfected in a week.
 If I ask someone who's amazing with numbers that'd be ephemeral like Marie Antoinette!
 *Using the new technique of Real Time Monologue.
+//PCP ccc3012b And still no idea what the technique is. 〜IX
 When I was a child, I thought it was Marian Twonette.
 I also thought Angkor Wat was Anko Rutwat.
+//These lines were fun, since English spellings can (and in this case should) get butchered far worse than Japanese ones. 〜IX
 And I thought turtlenecks were totalnecks.
 And how I once wrote 'the theoretical central place of the Orkney Islands during the Neolithic Period (ookunii no shin-sekiki-jidai no chuushinchi)' entirely in katakana thinking it was the name of some magician from the dragon palace.
+//I freely admit that I have no clue what the hell I'm doing to this line. 〜IX
 This stuff doesn't matter at all.
 Yu.
+//It will make either more or less sense a few hundred lines from now. 〜IX
+//To make it clear that it's a kanji, why not use ｙｕ (weaboo typing, set to UTF-8 encoding to view it in notepad) or something? - Raide
 (TL Note: The "dragon palace" refers to the mythical undersea palace of the Japanese dragon god of the sea.)
 Anyway, the hallway.
 No one's here.
 Nothing's here.
 Nothing was moving.
+//Sounds better - Raide
+//And I improved it further ^^ - Sheeta
 Aren't cats sensitive to motion?
 That's the way.
 And, it's my way.
 The phrase 『It can't be helped』 comes from the expression 『There is no way.』
+//This is accurate in Japanese, but not in English because while "no way" is the literal for "shiyou ga nai" it's also the standard adaptation of "wake ga nai" which is an entirely different concept. Dunno if anyone cares though. 〜IX
 Meaning that without a documented way you can't get good results.
 When I said that, Tomoki used the comeback 『Don't make up lies that programmers might believe.』
 Tomoki's a good guy.
@@ -757,6 +771,7 @@ I love club activities.
 Again today, I'll go and be covered in an overpowering sense of omnipotence.
 I've got plenty of memories with Tomoki.
 The two of us--three counting Sakuraba--were always readying fun systems. (†)
+//Reading? Preparing? - Raide
 
 [Taichi]
 "......"
@@ -780,6 +795,7 @@ Except from behind.
 Club activities are falling behind.
 It's already Friday.
 I-un-der-es-ti-ma-ted-it.
+//Four Japanese syllables to eight English ones. I'm not sure this still sounds decent. 〜IX
 There I decided to work.
 As part of my new person campaign.
 
@@ -808,6 +824,7 @@ Also I want to see a white dwarf.
 I'm pretty sure that Sakuraba,
 Didn't he hit the target for being a convicted criminal unfit for the role?
 The thought criminal who was dissatisfied with his occupational field obtained a target used in archery.
+//This is so damn fun I don't even care if I'm understanding it or not anymore. 〜IX
 Please look at me.
 Ah, a branch, a branch!
 The braaanch! The braaanch!
@@ -835,6 +852,7 @@ The name I want to clear is******************.
 **************?
 ****!
 ********************************************************* ********************************************************* ********************************************************* ********************************************************* *********************************************************.
+//If you want to fill the screen here's with spaces between to avoid game crash - Raide
 **.
 And then I collapsed.
 Sorry Touko!
@@ -860,6 +878,7 @@ A monologue is supposed to be done alone, but since the nuances of the character
 I hate the words 'speak the truth.'
 It sounds kind of half-assed.
 Gyarandu is good.
+//I can't make it make sense, but throwing in random stuff like that (it is all true though) sorta makes it feel like a complete gag imo. 〜IX
 Yeah, I'll do that.
 (TL Note: "Gyarandu" is Hideki Saijou's 44th single. Hideki is most famous for singing the Japanese version of Y.M.C.A.)
 Now then,
@@ -882,6 +901,7 @@ But there's no way.
 The grenade exploded.
 We died.
 You fought well with weapon in hand, but the scorpions were many, and it was impossible to defend against all of their thrusting stingers. At long last your consciousness faded...
+//Split this line due to length. 〜IX
 And when you collapsed, the scorpions buried themselves into your body while exulting their first tasty flesh in some time. Your adventure ended.
 In order to halt the evil plans of the Warlock Morlock, you must return to paragraph 1 and do your adventure over. We pray that your next adventure has sufficient protection from the goddesses---
 I apologize for my thoughts mixing with some book I read a long time ago.
@@ -956,6 +976,7 @@ Catspeak!?
 This sucks, I haven't finished that course.
 I can't make myself understood.
 As if I'll become someone who can only look at underwear.
+//Ah, he made sense for a moment. 〜IX
 Well okay then.
 I stared at underwear for about fourteen hours.
 In terms of time it took about four seconds.
@@ -1066,6 +1087,7 @@ I tumbled and ran and passed through the gate.
 I wandered around the town.
 Searching for survivors.
 This was never more than the dregs of crossing worlds, so there may not have ever been any to begin with.
+//I think he's referring to people in this world before Taichi's group, and not that he's going insane and forgetting his friends used to be there. 〜IX
 But I can't not search for them.
 People can't not desire.
 
@@ -1093,6 +1115,7 @@ Something made me go to the mountain.
 I doubted my eyes.
 There's nothing?
 That faded, undefined, incomprehensible space had completely and utterly disappeared.
+//It's important for readers to apprehend Taichi's train of thought and conclusion starting this line. Please edit accordingly since there's a lot of incomprehensible lines - Raide
 
 [Taichi]
 "......it can't be."
@@ -1134,6 +1157,7 @@ Each and every flow was still continuing.
 This town of void I'm in......is already---
 Passed its crossing point.
 If I try imagining the letter 『Ｘ』 it makes sense.
+//I didn't want to touch this, but it appears as {,w} in game with actual hollow brackets. Disrupts the pacing. -Neko
 Two sticks. Two separate flows.
 A momentary cross. But the flow won't stop.
 Am I already riding one of the flows?
@@ -1221,6 +1245,7 @@ Which means?
 
 [Knowledge]
 Denatured consciousness. Abnormal mental state. Autonomous thoughts and emotions in the inner heart functions are displayed, and various examples of strange speech and conduct can be seen.
+//Again, line split due to length. Decided not to repeat the "Knowledge:" part for what is now the second half. 〜IX
 
 Attained an overpowering sense of omnipotence, which resulted in hallucinations close to spiritual experiences. Religious experience trip trance......etc.
 I exploded from understanding.
@@ -1392,6 +1417,8 @@ I wish for that.
 Mimi-sempai was right.
 She was fleeing, but she was right.
 I'm a person.
+//"I'm a human" sounds more powerful - Raide
+//Actually, since Taichi has been using the word 'person' as a means to identify ordinary, non-Gunjou people, I think 'I'm a person' is loaded with far more power. I say we keep it as it is. Alternatively 'I'm a normal person' - Sheeta
 Yes.
 I can't believe it.
 I'm disturbed by deep consciousness and innocently destroy people.
@@ -1444,6 +1471,7 @@ My heart acquired a tranquil transcendence.
 
 I was standing alone.
 In the forest, the existence called me, was all alone.
+//Line makes no sense :/ Maybe it's mean to lol - Sheeta
 It was silent.
 More so than I'd ever experienced.
 
@@ -1480,6 +1508,7 @@ I laughed, and cried.
 
 [Taichi]
 "Yaaahoooo!!"
+//Story should have just ended here. -Spin
 
 The next day. The roof. Club activities.
 
@@ -1528,6 +1557,7 @@ I pushed out strong words.
 
 [Taichi]
 "Is anyone alive out there?"
+//I think this whole monologue is aimed for the vn readers directly. I wonder if you should put a bit more hints either before or in between this scene, or to leave it for readers to interpret by themselves - Raide
 [Taichi]
 "If you are out there, please listen."
 [Taichi]
@@ -1542,6 +1572,7 @@ I pushed out strong words.
 "I'll say this...to all...of those people."
 [Taichi]
 "......please live."
+//To live on: Continue to live through hardship or adversity. I don't think Taichi wanted people to stagnantly exist. Given the next few lines. This lacks the power it should have -Neko
 [Taichi]
 "Just, please live on."
 [Taichi]
@@ -1606,3 +1637,4 @@ But I'll continue calling out.
 Desiring for a momentary crossing, a temporary crossing in my heart.
 Spanning many weeks.
 So that I can say 'next week.'
+//Good VN. -Spin

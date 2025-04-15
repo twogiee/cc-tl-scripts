@@ -47,7 +47,6 @@ I pick at some earwax.
 "What did you go all grouchy there?"
 [Taichi]
 "Time of the month?"
-//HACK load sky BG in another slot -GHS
 
 Right in the face!
 
@@ -71,10 +70,9 @@ Inflicting an act of name equivalent to that overly literally translated onomato
 
 [Taichi]
 "Who's there?!"
-//HACK return screen -GHS
+//How much of this flashback is actually spent with him staring vacantly at some spot, completely out of it? -GHS
 
 ............
-//HACK disarm sky screen -GHS
 
 [Touko]
 "I'm leaving!"
@@ -84,7 +82,6 @@ Inflicting an act of name equivalent to that overly literally translated onomato
 
 Gnmyow!
 //And now: http://en.wikipedia.org/wiki/Coppertone_girl IOW, Taichi's a dog. Specifically, a little poodle-thing, not the ferocious threatening bulldog he thinks he is. -GHS
-HACK independent CG shake -GHS
 
 [Touko]
 "KYAAAAH!? Where did you just grab meee?!"
@@ -99,7 +96,8 @@ HACK independent CG shake -GHS
 
 [Taichi]
 "oUUoUUoUUoUUoUU!"
-//HACK here they works -GHS
+//See CCC0025, where it'll be voiced by Sakuraba and sounds pretty much like this. Yeah, this returns... somehow. -GHS
+//Whoops, this SFX is so early it's inaudible. The visual effect's also pointless this soon. -GHS
 
 I sink into the sandy beach.
 //See CCA0002 -GHS
@@ -191,7 +189,6 @@ She was shaking her 『Iron Fist * Tekken』.
 [Tomoki]
 "YOUKO-CHAN!!!"
 //Line 'em up. Notice they're shocked at the honorific, not that the two know each other. -GHS
-HACK independent BG shake -GHS
 
 [Taichi]
 "Harmonics quartet. John!♪"
@@ -217,8 +214,7 @@ I conducted with a baton.
 
 [Miki]
 "This is Miki-Miki. Uhm, could it be that Hasekura-senpai and Kurosu-senpai are in a steady and formal relationship?"
-//HACK Somebody here seems to have simply switched the dolls around... also moved the dolls around to look better -GHS
-Think this 'doz' should mean 'douji', simultaneous. 'ji' is often romanized to 'zi'. -GHServingUpUselessTechInfo
+//Think this 'doz' should mean 'douji', simultaneous. 'ji' is often romanized to 'zi'. -GHServingUpUselessTechInfo
 
 [Touko]
 "Can't be! That absolutely can't be!"
@@ -250,10 +246,8 @@ A devilish laugh.
 
 [Misato]
 "Fwah..."
-//HACK independent BG shake -GHS
 
 Senpai fainted.
-//HACK a new line. Hum, it did feel something was missing. It's the same pun as in CCA0019. -GHS
 
 [Miki]
 "Sa-Sa-Sargeant-donooo! Miyasumi-senpai was made to swooon!"
@@ -461,7 +455,6 @@ Seems she bit her tongue.
 //The cicadas stop. Hmmm. -GHS
 
 Whisper!
-//HACK independent BG shake -GHS
 
 [Taichi]
 "...what is the meaning of this temperature that's boundlessly swinging back towards sub-zero?"
@@ -507,7 +500,6 @@ Yusa-chan is addressed directly.
 
 [Misato]
 "...fwuh."
-//HACK independent BG shake -GHS
 
 [Miki]
 "Ah, swooned again."
@@ -537,11 +529,9 @@ And while I watch these two exchange an indecisive handshake,
 //Hideous moe affectation, see CCB0002. It's a reminder of his mother, don't ruin it now. -GHS
 
 Y-, you netori bastard... he, Yusa-chan... MY Yusa-chan?
-//HACK Surveillance level 1. Unfortunately I had to magic wand select/erase to get these, so they came out only OK (better than the dolls, which are just unsalvageable without the mask). -GHS
 
 [Decision]
 subject is target of surveillance.
-//HACK out the surveillance level graphics -GHS
 
 [Taichi]
 "Well, I'm glad you could come."
@@ -724,14 +714,11 @@ towards Yusa-chan.
 No good, her specs are not much different from Miyasumi-senpai!
 //The youngins may be cute... see CCX0001, but it's all but the subtext between the two. -GHS
 I send a signal with the eyes to Great Motor Reflexes Sakura Kiri.
-//HACK dim screen -GHS
 
 [Taichi]
 (Sakura!) (Yusa-chan!) (Save her dammit!)
-//HACK normal screen -GHS
 
 An eye signal is sent back.
-//HACK dim screen -GHS
 
 [Kiri]
 (Why) (should I do) (that?)
@@ -755,7 +742,7 @@ An eye signal is sent back.
 
 [Kiri]
 (Do not care.) (One's circus) (one's monkeys.)
-//HACK normal screen -GHS
+//Sorta Schlock Mercenary reference, I know, but it works sooo well... plus it was a Polish proverb to start with anyway. Total () is 25 which is 2+5=uhmmm carry the 7... -GHS
 
 And that was sort of how our talk unfolded.
 Or maybe that was how my delusion did.
@@ -1038,9 +1025,7 @@ You are using -chan.
 Bit early isn't it?
 Could this guy be, maybe, have a Natural Netori Character Attribute?
 Definitely requires attention.
-//HACK Surveillance level 2. -GHS
 In my hearts of hearts, the surveillance level of Tomoki increased by one.
-//HACK out the surveillance level graphics -GHS
 
 [Yusa]
 "But... you are all good people. Those two, and all you Senpai."
@@ -1103,11 +1088,9 @@ In my hearts of hearts, the surveillance level of Tomoki increased by one.
 "Lay off you two... Doujima-san's getting scared!"
 
 My my, putting on airs of a white knight this guy.
-//HACK Surveillance level 3. -GHS
 Surveillance level rises to 3. If it gets to 4, we have a Netori Hazard for sure.
 //It never does, at least explicitly. 3+4 mentioned =7. -GHS
 And would I ever even allow that?!
-//HACK out the surveillance level graphics -GHS
 
 [Taichi]
 "AH!"
@@ -1125,7 +1108,6 @@ Slip!
                    Height:        172cm
                    Weight:         59kg
                    Penile length:  12cm
-//HACK reformatted for acceptable justice. Only in a nukige. No way a 16-odd year old is 170+cm in Japan! -GHS
 This organ that possesses an impact and a strength similar to that of a brontosaurus that has already welcomed the final stage of its evolution is presented to the eyes of this innocent girl via the slips (both meanings).
 //Sort of funny I guess, but the sentence itself is borderline nonsensical. 'zuru' means a cheat, but also the SFX of slipping down, see above. Now it's slip as in swimming trunks and slip as SFX, given the 'cheat' is Taichi's anyway. -GHS
 

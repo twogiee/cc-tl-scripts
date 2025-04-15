@@ -4,9 +4,11 @@ IF $KAISOU == 1 JMP SCENE001
 "Ouchhhh......"
 
 I was beaten awake by aches and pains.
+//That's how it's said.-Spin
 
 [Taichi]
 "Ha! This is my.......secret room?"
+//Without that, it seemed like he was being literal. I'm assuming he's just being normal Taichi and making a joke.-Spin
 
 Ah, the clothes I'm wearing aren't part of my uniform.
 My wounds have been dressed. And quite well.
@@ -27,6 +29,7 @@ Miki came in.
 
 [Taichi]
 "Aaah, Mutsumi-san didn't have much time to cook."
+//Since someone didn't get it the first time, there's no "oba" here. Don't add one. 〜IX
 
 She only buys what she needs to make stuff.
 
@@ -40,6 +43,9 @@ I cried.
 
 [Miki]
 "Aaah, there, there. Here, have some menstrual medicine."
+//No idea what that means. Wiki turned up zilch. 〜IX
+//Medicine for period pains :P - Sheeta
+//Even I knew that one. But then again, I do have extensive knowledge in stuff like this. ;)-Spin
 
 [Taichi]
 "I don't need that!"
@@ -57,8 +63,11 @@ I threw it away.
 
 [Taichi]
 "......what's this star-shaped object that looks like a giant kompeitou?"
+//Yay, another callback reference half of you have forgotten. 〜IX
 
 It looked overly distorted, as if the maker was trying to create something ridiculously beautiful.
+//There's gotta be a better way to write this, but nothing's coming to me. 〜IX
+//My attempt - Sheeta
 
 [Miki]
 "It's a rice ball."
@@ -91,6 +100,8 @@ I tried eating it.
 "......hoo."
 
 Strong seasoning.
+//Should that be "heavy"? And yikes, I have a lot of questions to ask today. 〜IX
+//It's fine. I like the alliteration ^^ - Sheeta
 As my body lacked blood, it permeated me.
 I flattened three of them immediately.
 I drank the miso in one gulp.
@@ -131,6 +142,7 @@ She flapped her hands.
 
 [Miki]
 "I was intending to kill you back then, I swear!"
+//Not entirely sure if this is what was meant since for some reason I'm just not following any of this.-Spin
 
 [Taichi]
 "......I've already heard it."
@@ -175,6 +187,8 @@ There is?
 
 [Miki]
 "When next week comes, everyone will be revived again."
+//OK, I am DEFINITELY missing something here. I don't know how she found out or how Misato, Kiri, and Tomoki died.-Spin
+//Oh, did some snooping around and found out I missed a script. I'll come back to this after that then.-Spin
 
 [Taichi]
 "If I stay at the hokora, will the current me be maintained?"
@@ -483,6 +497,8 @@ I passed under her arms and touched her chest as well.
 She seemed surprised, but there was no resistance.
 While caressing her neck with my lips and nose, I touched her chest.
 A slightly fuller chest than that of the Miki I knew.
+//"fuller" doesn't quite feel right, but the correct adjective just isn't coming to me. 〜IX
+//Seems fine to me - Sheeta
 
 [Miki]
 "Hya......nn, nnn, that, tickles......"
@@ -496,6 +512,7 @@ I left kiss marks on her.
 "Ah! Owww......"
 
 After all, it's only us two (excluding Sakuraba).
+//Sounds more natural.-Spin
 I fondled her chest as if enveloping it.
 ......though it didn't have enough volume for me to say that, but I warmed it up as if massaging it.
 
@@ -703,6 +720,7 @@ I kissed her.
 
 I kissed her deeply.
 I started wanting to combine with Miki.
+//COMBINE INTO MEGAZORD!-Spin
 I thought her membranes were missing something.
 My fingers stirred around Miki's insides.
 Delicate pleats.
@@ -874,6 +892,7 @@ I moved.
 Slowly at first.
 Then faster.
 With the movements of coupling rods.
+//Referring to some part of couplers between train cars. Not sure if this is clear, since I don't know that much about couplers myself. 〜IX
 
 [Miki]
 "Ah......aaah, nn! Ah! Ah! Ah! Ah! Ah! Ah!......!!"
@@ -1146,6 +1165,7 @@ She said painfully.
 
 [Taichi]
 "No, Miki will cum too."
+//He's rough. That sounds so fucking hot though.-Spin
 
 I shook left and right.
 
@@ -1270,10 +1290,12 @@ Miki would fall asleep soon.
 
 I embraced her, I kissed all the parts my lips could touch.
 And then......I too closed my eyes.
+//Dramatic effect again.-Spin
 IF $nonero != 1 JMP mikiHend2
 :mikiHend1
 ......
 ............
 ........................
+//Another one where, thankfully, the game will fill in the context pretty much on its own. 〜IX
 :mikiHend2
 $SNCCC4022 = 1

@@ -52,7 +52,6 @@ JMP LA0015
 CALL cca0015
 CALL cca0015B
 CALL cca0015C
-//HACK split file for Week 2 integration -GHS
 CALL cca0016
 IF $B == 1 JMP LA0017A
 IF $B == 2 JMP LA0017B
@@ -65,13 +64,11 @@ JMP LA0018
 :LA0018
 CALL cca0018
 CALL cca0018B
-//HACK split file for Week 2 integration -GHS
 CALL cca0019
 CALL cca0020
 CALL cca0021
 CALL cca0022
 CALL cca0022B
-//HACK split file for Week 2 integration -GHS
 CALL cca0023
 CALL cca0024
 IF $B == 1 JMP LA0025A
@@ -96,7 +93,6 @@ CALL cca0026
 CALL cca0027
 CALL cca0028
 CALL cca0028B
-//HACK split file for Week 2 integration -GHS
 :LA0029
 CALL cca0029
 CALL cca0030

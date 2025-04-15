@@ -1,7 +1,6 @@
 
 [Misato]
 "Ah-, aeEeh~..."
-//HACK leave the BG zoomed -GHS
 
 Senpai had come.
 
@@ -140,14 +139,13 @@ I take out the blueprint.
 
 [Misato]
 "No, that is not what I...!"
-//HACK dim screen -GHS
 
 I understood Senpai's real intentions.
 Club was something for her own flight alone.
 With everyone there, Senpai's aridity could not be healed.
 She was happy from the start that this would take time,
 that there existed something in inexhaustible supply she could devote herself to.
-//HACK back to normal -GHS
+//Odd that he wouldn't use something like "sink" or "immerse" here, given the "aridity" above. -GHS
 
 [Taichi]
 "Say, Senpai, when we finish here and we send the SOS, is that the end of this?"
@@ -162,7 +160,6 @@ So that it will never end.
 
 [Taichi]
 "We can send an SOS, but we will not necessarily have an immediate reply."
-//HACK sweatdrop Misato -GHS
 
 [Misato]
 "Uhhh..."
@@ -222,7 +219,6 @@ A tinge of redness on Senpai's face.
 
 [Taichi]
 "Uh-huh. If only there was a beautiful girl experienced with the mechanical."
-//HACK someone forget to display the doll change. -GHS
 
 [Misato]
 "Why did you specify gender..."
@@ -288,7 +284,6 @@ She gives a fleeting gaze to her accomplice.
 
 [Miki]
 "Abort?"
-//HACK earlier closed eyes Kiri -GHS
 
 [Kiri]
 "...yes. There are... several reasons."
@@ -330,12 +325,10 @@ She meowed.
 
 [Taichi]
 "Looks like it..."
-//HACK to sky -GHS
 
 We were terrified.
 Standing away from the corner in which the two of us shook and trembled, while Miki and Kiri were meowing with nyans and meows.
 Soon afterwards,
-//HACK back to rooftop, normal Kiri -GHS
 
 [Miki]
 "I see... so is that what there was?"
@@ -368,7 +361,7 @@ That's just like that country, isn't it...
 
 [Miki]
 "But it's so useful to have, you know."
-//HACK panicky Kiri -GHS
+//The way she refers to it is sort of odd, but works much better if remembering that Kiri's knife is supposed to be metaphorical. -GHS
 
 [Kiri]
 "Why do you even have a knife?"
@@ -376,7 +369,7 @@ That's just like that country, isn't it...
 
 [Miki]
 "Meeeow."
-//HACK eyes closed Kiri. -GHS
+//Possibly means "STFU", see CCC3002. -GHS
 
 [Kiri]
 "Ah, sorry."
@@ -399,7 +392,7 @@ What sort of grammar could it even have.
 //"I'll only happen to drop off my crossbow where she can easily find it and use it. No giving of any knives!" But if there's no knives... there may be no crossbow. -GHS
 [Miki]
 "But ooooh, Kiri-chin and Senpai have made up... it's the end of the world it is."
-//HACK not sure what this emotion is supposed to be anymore... -GHS
+//Cough? -GHS
 
 [Kiri]
 "Well, made up, it's that..."
@@ -411,7 +404,6 @@ What sort of grammar could it even have.
 "Uhhh-huh."
 [Miki]
 "Senpai, this way for a bit."
-//HACK unzoom BG as well -GHS
 
 Pulling my hand, she moves us away from the antenna,
 to a position where we can't be heard by Kiri or Senpai.
@@ -477,7 +469,6 @@ Shoulders drop.
 
 [Miki]
 "Lately, she's felt a bit neurotic, however."
-//HACK doll was loaded on the wrong layer -GHS
 [Miki]
 "...can you get along with Kiri-chin when she's like this?"
 
@@ -537,7 +528,7 @@ So Miki asked, looking uneasy.
 //See CCA0018B. What's for eating... -GHS
 [Taichi]
 "I thought that it was the face to blame for why people don't think good of me. And I don't understand why, but my eyes keep bothering me."
-//HACK doubty Miki -GHS
+//See CCA0021. These are indeed Mystic Eyes. Also CCD2002 - witches! And Miki's a witch... -GHS
 
 [Miki]
 "Eyes?"
@@ -565,7 +556,7 @@ Come on!, come on!, I remonstrate myself.
 
 [Taichi]
 "Well, on to proper business. For purposes of getting Youko-chan to withdraw, it is absolutely imperative that Kiri remain free of offensive power."
-//HACK smiley Miki -GHS
+//Suddenly formal. -GHS
 
 [Miki]
 "The conversation's so juuumpy."
@@ -583,7 +574,7 @@ Come on!, come on!, I remonstrate myself.
 
 [Miki]
 "In that case I will be joining in, too."
-//HACK fade to black -GHS
+//Since it means "I'll be messing around her"... -GHS
 
 And this,
 was how Miki also joined us.

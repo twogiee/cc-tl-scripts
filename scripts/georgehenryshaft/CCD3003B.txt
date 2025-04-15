@@ -64,7 +64,6 @@ we procured a car,
 and we headed to the beach.
 //No accidents...? Giving Miki Sendback, does this mean that Kiri can drive??? -GHS
 ............
-//HACK to black, technically a new line. -GHS
 
 [Taichi]
 "Great, nice beach style we got!"
@@ -89,14 +88,13 @@ We had bodies of moderate puberty here that yet could pass off as ones of the Pu
 
 [Miki]
 "Somehow... I feel gazed at."
-//HACK someone will pay for making me play dressup for nearly six months, by the way. -GHS
+//Might be just Youko. -GHS
 
 [Kiri]
 "I feel that too..."
 
 [Miki]
 "Anything happens you protect me, OK?"
-//HACK for some reason this variant of the doll had a spurious sweatdrop, removed in the 360 version. Conformed. -GHS
 
 [Kiri]
 "Sorry, that might be impossible."
@@ -108,11 +106,9 @@ I looked fairly decadent in my repeated bodybuilder-worthy poses.
 
 ............
 //In this scene they're playing a game without explaining much of the rules so it's a mess to understand. In other words, it's a metaphor for what happens between the three. Naturally, I knows the Tanaka: it's a mix of volleyball and water gun play; ball is served, and the side that makes a receive can fire their water gun until the other side makes a receive. It's 2 vs 1, so once eg Kiri makes a receive, Miki can fire too. ...maybe. -GHS
-HACK back, doll setup -GHS
 
 [Miki]
 "Ah, ah, ah, Kiri-chin, ball I said, the ball!"
-//HACK see, THIS doll ought have the sweatdrop, as it's in the same set. Bad face copy/paste maybe. It's pretty much impossible to see in the game, but Kiri in swimsuit also has thinner eyebrows. -GHS
 
 [Kiri]
 "Impossible, impossible, that's impossible now I told you!"
@@ -126,14 +122,12 @@ HACK back, doll setup -GHS
 
 [Miki]
 "Ahhh, the ball's coming dooown!"
-//HACK -GHS
 
 [Kiri]
 "Told you it's impossibleee!"
 
 [Taichi]
 "Whoa!"
-//HACK independent BG shake, doll -GHS
 
 [Kiri]
 "Ah, a chance... e'yh!"
@@ -146,7 +140,7 @@ HACK back, doll setup -GHS
 //Chasing the ball? -GHS
 [Taichi]
 "D'owah?!"
-//HACK independent BG shake -GHS
+//Struck by the water gun fire? -GHS
 
 [Kiri]
 "...pffft."
@@ -237,7 +231,6 @@ HACK back, doll setup -GHS
 
 [Miki]
 "Kiri-chin, combination attack!"
-//HACK at least happy Kiri's having more turns. -GHS
 
 [Kiri]
 "Ohhhkeeey!"
@@ -245,11 +238,9 @@ HACK back, doll setup -GHS
 CIN 1 0 0 160 0
 CIN 2 320 0 160 0
 CR 0
-//HACK actually do iHOT DAMN ACTUALLY DO IT. -GHS
 
 [Taichi]
 "Wah, wah, wah... soh'ryah!"
-//HACK correct Miki doll in original script c-c-combo breaker! -GHS
 
 [Miki]
 "Woaaah, he dodged them aaall!"
@@ -301,14 +292,12 @@ CR 0
 
 [Miki]
 "He stopped, snipe attaaack!"
-//HACK -GHS
 
 [Kiri]
 "Snipe attaaack!"
 
 [Taichi]
 "Uwaaah!"
-//HACK independent BG shake -GHS
 
 [Miki]
 "Team Mikiri wins!"
@@ -366,7 +355,6 @@ Kiri had come back.
 
 [Taichi]
 "Hand 'er oveeer!"
-//HACK independent doll shake -GHS
 
 [Miki]
 "Waaah, it huuurts!"
@@ -457,7 +445,6 @@ She meowed.
 "Naaago!"
 [Kiri]
 "Nyan nyaka nyan?"
-//HACK no change -GHS
 
 [Miki]
 "Meeeow..."
@@ -475,16 +462,13 @@ Miki and Kiri were meowing with nyans and meows.
 
 [Taichi]
 "Ah, aWahWah... scaaary!"
-//HACK to black -GHS
 
 Shortly afterwards,
-//HACK and back, doll changes -GHS
 
 [Miki]
 "Right. A day ends fast."
 
 Arms folded, nodding yes-yes in agreement.
-//HACK -GHS
 
 [Miki]
 "...cooome on! Don't tell him!"
@@ -527,11 +511,10 @@ Shutter click---
 "Look, my eyes shine in the dark!"
 
 The House on the Sea we are in now is sufficiently dark.
-//HACK doll's'ses -GHS
 
 [Miki]
 "Woaaah, so nostalgiiic! Look, look, Kiri-chin, it's as he says you know?"
-//HACK already done -GHS
+//He told her before, see CCC4012. Though she does sound like she's seen him change them. -GHS
 
 [Kiri]
 "That's true... they shine."
@@ -584,7 +567,7 @@ Shutter click---
 "Ah, gotta toilet..."
 
 She dashes out like a little kid.
-//HACK out -GHS
+//This is too specific to SFXize. -GHS
 
 [Taichi]
 "...me too toilet."
@@ -593,7 +576,6 @@ Snatch!
 
 [Taichi]
 "Bwoh?"
-//HACK back, centered. -GHS
 
 [Kiri]
 "......peeping is out of the question."
@@ -601,13 +583,11 @@ Snatch!
 
 [Taichi]
 "Grrr."
-//HACK nope -GHS
 
 ............
 
 [Taichi]
 "Still, Miki looks OK now."
-//HACK no fade -GHS
 
 [Kiri]
 "...taking breathers is truly necessary."
@@ -663,11 +643,10 @@ Snatch!
 
 [Taichi]
 "But I think you're a good girl, Kiri."
-//HACK doll -GHS
+//A good point to note that, so far, Taichi hasn't called her Kiri-chin outside of copypasta. -GHS
 
 [Kiri]
 "...g'boh!"
-//HACK nope -GHS
 [Kiri]
 "A-, all of a sudden blurting out weird stuff..."
 
@@ -682,7 +661,6 @@ Kiri holds down her head.
 //I suspect the point is that she just believes everything he tells him, the moron. -GHS
 [Kiri]
 "Can I touch?"
-//HACK fp;; -GHS
 [Kiri]
 "...please do not touch me with perverted feelings, OK?"
 [Kiri]
@@ -740,7 +718,7 @@ Kick and wriggle and struggle.
 Kick and wriggle and struggle: continued.
 //see CCB2019 -GHS
 And then she leaped inside.
-//HACK asgfrewtui9udcl SO LOLI -GHS
+//See CCC4012 -GHS
 
 [Taichi]
 "Wah!"
@@ -777,7 +755,6 @@ Spinning round and round she flattens against us.
 
 [Taichi]
 "Aaah, too late..."
-//HACK Even more loli! (These are a 360 exclusive BTW) -GHS
 
 You underclasswomeeen!
 //Okinawan -GHS
@@ -798,7 +775,7 @@ You underclasswomeeen!
 
 [Taichi]
 "...t-, this is the five-story pagoda you two have erecteeed! Take your responsibilityyy! And it's a perfect job, look, not one single naaail!!!"
-//HACK clock dissolve, wait a bit, different transition back -GHS
+//Seems to mean "built so well it can stand together without needing to be nailed together". -GHS
 
 [Miki]
 "That was so fuuun!"
@@ -834,7 +811,7 @@ mostly returned to good spirits.
 
 [Miki]
 "Bai-baaai!"
-//HACK SFX -GHS
+//unsure what case or situation she is talking about -GHS
 
 Miki ran off towards the apartment building.
 
@@ -954,10 +931,8 @@ I showed my face in the classroom, but only Miki was there.
 "Yeah."
 
 And so I ended up waiting.
-//HACK to black -GHS
 ............
 It became noon.
-//HACK and back -GHS
 
 [Taichi]
 "...s-, so damn late those two!!!"
@@ -1186,7 +1161,6 @@ At the word 'reset', Kiri's gap between the eyebrows grows slightly tighter.
 "...and for that... I... in the end, everybody, I..."
 
 I look at the sky,
-//HACK actually do it -GHS
 a blue sky that seemed like it would become even bluer.
 //This sounds so like "a sky that seemed about to disappear", though. -GHS
 
@@ -1195,7 +1169,6 @@ a blue sky that seemed like it would become even bluer.
 
 Yutaka, right.
 That is something hard to answer.
-//HACK back -GHS
 
 [Taichi]
 "Well, and with that said, let's have friendly fights from here on."
@@ -1421,7 +1394,6 @@ to the left.
 While looking sidelong at Miki and Kiri's mouths go 『＊』-shaped via tomato eating, I quench my thirst with my canteen.
 CIN 4 -640 0 0 0
 CR 1
-//HACK sliiide -GHS
 
 [Taichi]
 "......"
@@ -1433,7 +1405,6 @@ Her showing herself to me is the same as suspecting me... this is an insinuation
 
 [Miki]
 "What is it?"
-//HACK out later -GHS
 
 [Taichi]
 "Well... we are being monitored with the Intelligence Technique of the Ichihara Style."
@@ -1479,7 +1450,6 @@ Youko-chan's figure is not there.
 
 [Taichi]
 "It's the Shimura Feno--- Phenomenon. Miki is no longer physically capable of observing Youko-chan."
-//HACK NVL mode -GHS
 
 * Shimura Phenomenon---
 Taichian Physics. A type of observational problem
@@ -1489,7 +1459,6 @@ its Still Unseen Attribute fixed, which reflects
 on the physical world. Frequently, a drastic
 change in the situation causes this attribute
 to be lost.
-//HACK ADV mode -GHS
 
 [Kiri]
 "...ngh."
@@ -1523,7 +1492,6 @@ So she'll eat them after all?
 
 CIN 4 -300 0 0 0
 CR 2
-//HACK that'll teach ya. -GHS
 
 [Taichi]
 "Don't mind it!"
@@ -1539,7 +1507,7 @@ CR 2
 "............"
 
 Uh-huh, her sight does hurt.
-//HACK out CG -GHS
+//And then the scene ended, with nothing happening. -GHS
 And then it was the time for the talk with Kiri.
 As Miki flatly left us an opportunity, I was expectedly approached.
 //Been a while. -GHS
@@ -1627,7 +1595,7 @@ That a human this ferocious could be born...
 
 [Youko]
 "So nice that you're getting your hands on memories, Taichi."
-//HACK all out -GHS
+//Very creepy, considering her sendback. -GHS
 
 Her figure vanishes,
 her presence erases,
@@ -1809,14 +1777,12 @@ Wetting my throat with saliva, I began to speak.
 "I was just a child, therefore, my duty was to be sort of a playmate for the children of the family."
 [Taichi]
 "Youko-chan was the youngest girl there."
-//HACK whiteout into blackout -GHS
 
 ...
 ......
 ............
 CALL CCC3025
 JMP SKIP1
-//HACK Just call the damn script! Obvious older revisions translated & commented below. -GHS
 /Dressing up, enjoying tea, welcoming people in, strolling...
 ///Not different in a way appreciable in English. -GHS
 /At the tip of each month, a huge quantity of books, clothes, luxury food and consumables were being delivered.
@@ -1866,8 +1832,6 @@ JMP SKIP1
 ///Considering how much stays 'in the pen' of what he writes, it should be no surprise that this stuff is Tanaka's beta version. This sequence is just a mess. -GHS
 /repeatedly taking these attacks.
 :SKIP1
-//HACK ADV mode -GHS
-HACK flashback exit whiteout, fade BG, Kiri already there. -GHS
 
 [Kiri]
 "......"
@@ -2028,7 +1992,6 @@ All the parts inside Kiri that had been abandoned to a state of ambiguity came t
 "It's not like I immediately fired into some murderous rage."
 [Taichi]
 "It was just a thing of the past."
-//HACK doll -GHS
 
 [Kiri]
 "But then... why?"
@@ -2040,7 +2003,6 @@ All the parts inside Kiri that had been abandoned to a state of ambiguity came t
 
 [Kiri]
 "...!!!"
-//HACK independent doll shake -GHS
 [Kiri]
 "That day... you asked me... was he happy...?"
 
@@ -2057,7 +2019,7 @@ I smile.
 "This was never stained by resentment."
 [Taichi]
 "Just... I felt like I wanted to peck at all his faults, so so very much."
-//HACK moved doll later -GHS
+//This is not necessarily meant negatively. -GHS
 
 [Kiri]
 "...ngh..."
@@ -2078,10 +2040,9 @@ I smile.
 "...just, there was one thing unclear."
 [Taichi]
 "So I asked him a question:"
-//HACK Flashback intro. -GHS
 [Taichi]
 "Say, I got one question though... why don't you just die right this very instant?"
-//HACK flashback exit whiteout, return to classroom. Sped up these effects a little bit because damn it's just overkill -GHS
+//They didn't even bother to put Yutaka there? Boooo! -GHS
 [Taichi]
 "...and that's what I asked."
 
@@ -2147,7 +2108,6 @@ I have decided not to tolerate it.
 
 Kiri clung to me.
 Unconsciously... I ended up hugging her.
-//HACK zoom -GHS
 
 [Kiri]
 "I'm sorry..."
@@ -2191,7 +2151,6 @@ Guests were usually astonished.
 "Here."
 
 I pass the Tonbo mud rake.
-//HACK Eyebrow Kiri -GHS
 
 [Kiri]
 "...here, you say."
@@ -2204,21 +2163,17 @@ I pass the Tonbo mud rake.
 
 At her own risk and responsibility,
 Kiri sits in an awkward seiza in the gap made by the tonbo.
-//HACK closed eyes Kiri -GHS
 
 [Kiri]
 "...men..."
 
 [Taichi]
 "Wait up here a biiit."
-//HACK to living room -GHS
 
 I fly down to the floor below and bring tomatoes back.
-//HACK and back -GHS
 
 [Taichi]
 "Here, vitamins."
-//HACK fade in (now) -GHS
 
 [Kiri]
 "...thanks."
@@ -2312,10 +2267,8 @@ What do I do?
 
 [Taichi]
 "...theeen."
-//HACK out -GHS
 
 I come near to her lips,
-//HACK no need -GHS
 
 [Kiri]
 "...?!"
@@ -2326,7 +2279,6 @@ A Deep & Longtime would be dangerous, right. The water level lowers.
 "And with that, I've had a feast."
 
 I distance our bodies.
-//HACK fade now -GHS
 
 [Kiri]
 "Ah, uhm, uhmmm?"
@@ -2364,7 +2316,7 @@ I'm taken by the arm.
 
 [Kiri]
 "...you stupid person."
-//HACK out -GHS
+//NOW she's a sharp judge of character. -GHS
 
 [Taichi]
 "Nh... nnh?!"
@@ -2402,7 +2354,7 @@ But definitely, that last night...
 //Damn Nanakese. -GHS
 
 I had a feeling there would be.
-//HACK removed. I guess this was meant to replace him sitting down and stuff, but it reads less odd without it. -GHS
+//Spoken as if they weren't in the diary and he actually remembered. See CCC0035A: not the first time. -GHS
 
 [Kiri]
 "I only steamed them, however."
@@ -2567,7 +2519,6 @@ I burst into laughter
 
 [Taichi]
 "Huh... as soon as we get to a spot where we can take a breather I'm bullying you again."
-//HACK doll -GHS
 
 [Kiri]
 "Go on!"
@@ -2816,7 +2767,7 @@ If I switch my eyes now...
 [Kiri]
 "But I don't understand what that means...?"
 //Predictable joke here. -GHS
-That was so predictable I forgot what it was. -GHSomeTimeLater
+//That was so predictable I forgot what it was. -GHSomeTimeLater
 
 [Taichi]
 "I will pray for your struggle to be successful!"
@@ -2877,8 +2828,7 @@ I closed my eyes, and on opening---
 "AAAAAAAAAAH!"
 [Kiri]
 "Haah, haah... why... uwAAAAAAaaaaaaaaaaaaaaaH!!!"
-//HACK disconnected. This was missing from all the routes but Misato's. -GHS
-HACK night -GHS
+//Counting the 'a' in Wa, it's a total of 3x7= 21xあ in these three. -GHS
 
 [Taichi]
 "..."
@@ -2914,5 +2864,4 @@ I return to camp, and get in the tent.
 //He's just camping out his evenings at the hokora. Odd, but given Mutsumi's always out, and he's not hurting anyone, there's no reason for him not to be allowed that. -GHS
 It is time.
 I'll sleep and wake up and then...
-//HACK earlier end music, NVL mode -GHS
                See you next week---

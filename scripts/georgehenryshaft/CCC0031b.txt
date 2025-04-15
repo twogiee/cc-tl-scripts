@@ -1,9 +1,8 @@
 Miki and Kiri were there.
-//HACK to black before, so it looks less crap if the choice to go to the second years' classroom is picked before this. -GHS
 
 [Taichi]
 "...without any food, are you?"
-//HACK sadder Miki -GHS
+//Sarcastic, as this can come right after Taichi gives her food in the Kiri route. -GHS
 
 [Miki]
 "Unfortunately..."
@@ -33,7 +32,7 @@ Plainly.
 
 [Taichi]
 "Isn't there a fair amount?"
-//HACK doubty Miki -GHS
+//There is enough for three continues to suggest Miki made it, given she's trying to reconcile the two. Just like Taichi tells Miki to lie about the sandwiches he gives to her so Kiri'll have them, it's possible she tells Kiri that she'll lie about who made the lunch (or more likely viceversa), so Kiri can firmly reject his attempts at eating... -GHS
 
 [Miki]
 "There's a lot indeed."
@@ -60,7 +59,6 @@ So growls Innocence.
 //...or because she knows that'll cause this, so she can have candy without arousing Kiri's suspicion too much. Interesting he has candy even with Youko dead. -GHS
 
 The eyes of the two opened very wide.
-//HACK no need now -GHS
 
 [Miki]
 "Made by hand?"
@@ -69,7 +67,7 @@ The eyes of the two opened very wide.
 "Mh-hm. By Youko-chan though."
 [Taichi]
 "Sugar in moderation may be good for maintaining an attractive body shape. Gummies are Konjac, 'course. 0 calories."
-//HACK surprised Kiri -GHS
+//Sales pitch. Sounds like all but the middle one are false. The 0 is the loop, and 0 calories is as real as it is. -GHS
 
 [Both]
 "0 CALORIES?!"
@@ -82,11 +80,10 @@ The eyes of the two opened very wide.
 
 Barter concluded.
 //This is the second time the "Kiri happy" doll is seen, the first was in the Kiri failed route. It'll appear again below (added from the console version), then never appear again until her Sendback, and CCX0001. -GHS
-HACK both dolls at the same time -GHS
 
 [Miki]
 "It's like your mommy used to make..."
-//HACK unneeded -GHS
+//See CCA0030 -GHS
 
 [Kiri]
 "Just like."
@@ -132,14 +129,12 @@ Because I'm Japanese, after all.
 
 [Taichi]
 "Seems we are all having our problems with our diets."
-//HACK Sadder Miki -GHS
 
 [Miki]
 "Yes..."
 
 [Taichi]
 "Kiri-chin, let's get married!"
-//HACK slightly angrier Kiri -GHS
 
 [Kiri]
 "That is not possible."
@@ -149,14 +144,13 @@ Because I'm Japanese, after all.
 
 [Taichi]
 "...I was burnt."
-//HACK unneded -GHS
 
 [Kiri]
 "A cold water shower, then?"
 
 [Taichi]
 "Not another one, no."
-//HACK smiley Miki -GHS
+//More "you're kidding", but this works better in the Miki route. -GHS
 
 [Miki]
 "Are there any more sweets?"
@@ -182,14 +176,12 @@ Because I'm Japanese, after all.
 
 [Miki]
 "Miki was very interested about that too!"
-//HACK puffy Miki -GHS
 [Miki]
 "I cHan't even concHentrate on tShe eating!"
 //Stuffed. Switching back from third person because using 'she' here just sounds like she's talking about Youko. Miki's not much of a third person person anyway. -GHS
 
 [Taichi]
 "...ain't your cheeks all stuffed to the brim."
-//HACK caught! Now this part of the scene makes sense. -GHS
 
 [Miki]
 "Mugu!"
@@ -243,18 +235,14 @@ Nah, it really is suspicious.
 
 [Miki]
 "Weeee, Thousand-Year Candy!"
-//HACK Kiri at least reacts... -GHS
 
 Kiri confiscates it.
-//HACK more disappointed Miki -GHS
 
 [Miki]
 "Bwah, what are you doing!"
-//HACK unneded -GHS
 
 [Kiri]
 "Sweets only is no good."
-//HACK disappointed Miki -GHS
 
 [Miki]
 "But you ate them too dammiiit!"
@@ -282,7 +270,7 @@ Indeed.
 
 [Taichi]
 "I wanna make you have your debut!"
-//HACK sadder Miki -GHS
+//The word actually says it all. -GHS
 
 [Miki]
 "But having our debut now, well..."
@@ -295,14 +283,12 @@ Indeed.
 
 [Kiri]
 "Well then, I'll be buying two copies."
-//HACK smiley Miki -GHS
 
 [Miki]
 "Then I'll buy two too!"
 
 [Kiri]
 "Ten copies then."
-//HACK unneeded -GHS
 
 [Miki]
 "Yep, ten. Double digits."

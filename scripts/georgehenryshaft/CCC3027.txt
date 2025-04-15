@@ -4,7 +4,6 @@ IF $CIA == 101 JMP SCENE001
 IF $CIA == 102 JMP SCENE002
 IF $CIA == 103 JMP SCENE003
 :N_START001
-//HACK fade to black then back. -GHS
 Time flowed quietly for about five minutes.
 Kiri did not even cry.
 A theory says that tears are the stress that flows outside of the body.
@@ -14,7 +13,6 @@ The sediments of her feelings, accumulated at the deepest of her heart, are prec
 I waited, gently,
 in the immediate vicinity,
 for a long time.
-//HACK fade doll -GHS
 
 [Kiri]
 "...how come..."
@@ -214,7 +212,6 @@ I impatiently set my sights on the next step.
 
 [Taichi]
 "We-, well, maybe I ought to force you to some perverted stuff?"
-//HACK independent doll shake -GHS
 
 Kiri shook with a start.
 
@@ -766,7 +763,6 @@ I save them in the right pocket.
 
 [Taichi]
 "Mh-hm."
-//HACK fade doll. -GHS
 
 [Kiri]
 "But I want to... take a bath before that..."
@@ -1042,7 +1038,6 @@ I test with a finger insertion.
 
 Does it hurt?
 I release her body at once.
-//HACK this scene doesn't flow "right" technically, same as CCC0000, so I'm tweaking this segue a bit. The smelling salts are over there. -GHS
 I come out from the skirt. Kiri sighs with relief.
 Hoh, might it be a question of mood I wonder.
 //girly -GHS
@@ -1231,7 +1226,6 @@ Most certainly it is.
 "Nh... nKh, gulp..."
 
 I distance from her lips.
-//HACK Again, this doesn't flow quite 'right' so tweaking it. -GHS
 Kiri drew a looong sigh of relief.
 //319 actual lines to go ;______; -GHSigh
 IF $KAISOU == 0 JMP N_SCENE101
@@ -1246,7 +1240,6 @@ $SNCCC3027_1 = 1
 
 [Taichi]
 "'Course."
-//HACK eyebrows-up Kiri looks appropriate. -GHS
 
 [Kiri]
 "Uhm... about going to the infirmary..."
@@ -1261,12 +1254,10 @@ $SNCCC3027_1 = 1
 I expose my nethers.
 JMP N_SCENE002
 :SCENE002
-//HACK setting up the scene in the replay as above. -GHS
 :N_SCENE002
 
 [Taichi]
 "Suck it."
-//HACK panicky Kiri looks appropriate. -GHS
 
 [Kiri]
 "............what?"
@@ -1286,7 +1277,7 @@ These are lies.
 
 [Kiri]
 "Buuut that's that's a man's That and it's It because this is a This and... g'buh?!"
-//HACK earlier CG switch. -GHS
+//This is this; that is that; and it's all a penis. And that concludes my lesson on Japanese. -GHS
 
 I ram it in forcibly.
 
@@ -1932,7 +1923,6 @@ embrace tightly.
 
 Kiri's breath becomes choppy, as if coughing.
 We both end up sitting on the floor.
-//HACK Console versions rejoin here. Putting some pauses so the music can fade less abruptly. -GHS
 
 [Kiri]
 "Hy... uh, uh, uwaaah..."
@@ -1943,7 +1933,6 @@ Crying out.
 "...Kiri?"
 
 Her head turns back to me, big thick tears on it.
-//HACK Dat Eyebrow. -GHS
 
 [Kiri]
 "Yutaka... just had to die... did he?"
@@ -1964,7 +1953,7 @@ Yutaka is---
 "Senpai."
 
 A demand for a kiss comes from Kiri.
-//HACK back to the kiss CG... -GHS
+//See CCD3003. This is no sudden characterizational 180: she was always in love with him, just like she always suspected Yutaka. -GHS
 No sooner than we overlap, she presents the tongue.
 Repeating what I was doing before, I give sweet bites to the full of the lips.
 Playfully, cherishingly.

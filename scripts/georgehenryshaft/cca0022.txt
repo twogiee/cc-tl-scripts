@@ -1,6 +1,5 @@
 IF $loop == 0 JMP NORM
 //That's one 178 lines saved! Nice. -GHS
-HACK Flashback intro. -GHS
 JMP SCENE
 :NORM
 //This is the only flashback in W1 that uses the typical cicada sound. -GHS
@@ -26,8 +25,7 @@ It is forbidden esoterica.
 A double-edged sword.
 Ahhh, but Yusa-chan's adorable ain't she.
 I buy a B-meal ticket and bring it to the counter.
-//HACK music starts later -GHS
-The voice of Yusa's mom was recast for the 360 version, as there's new lines for her in the After Story. I think they're a bit better, but not enough to bring 'em over. At least they gave her a direction other than "here's a paycheck, the script and a phone number, call us whenever and leave the script recorded on the answering machinet, no hurry" like they did for console Sakuraba, all the way to the new retakes in the 360 edition. (If that's intentional, then I confess I don't get it.) -GHS
+//The voice of Yusa's mom was recast for the 360 version, as there's new lines for her in the After Story. I think they're a bit better, but not enough to bring 'em over. At least they gave her a direction other than "here's a paycheck, the script and a phone number, call us whenever and leave the script recorded on the answering machinet, no hurry" like they did for console Sakuraba, all the way to the new retakes in the 360 edition. (If that's intentional, then I confess I don't get it.) -GHS
 
 [Voice]
 "My it's YEH! What're ya doin' 'round here?!"
@@ -36,7 +34,6 @@ The voice of Yusa's mom was recast for the 360 version, as there's new lines for
 //Remembering that phon is a subjective unit of measuring: jackhammer on concrete. -GHS
 IF $loop == 0 GL 5 zzzCCA0022phon098
 IF $loop != 0 GL 5 zzzCCB0019phon098
-//HACK phon GFX. I kept the line about phon above since it's not really clear with the graphics alone, but it was removed in the console versions. This is actually a cleaned-up screenshot, and it actually looks like complete crap. However, without the mask the actual GFX file looked even worse! It's not onscreen long enough to be noticeable except by the most eagle-eyed, I guess. -GHS
 
 [Taichi]
 "d'WAAAAH?!"
@@ -44,18 +41,16 @@ IF $loop != 0 GL 5 zzzCCB0019phon098
 She appeared!
 IF $loop == 0 GL 4 zzzCCA0022mamanNorm
 IF $loop != 0 GL 4 zzzCCB0019mamanNorm
-//HACK music + just run -GHS
 
 [Voice]
 "Whatta nice hello, guheheh!"
 
 The woman who said this then laughed with a muffled voice in that way typical of those somehow bizarrely giant bandit boss typically encountered merrymaking with alcoholics in the depths of some damp cave in your garden variety fantasy game.
 //Line split -GHS
-Let's not kid ourselves, he's totally referring to Final Fantasy or Dragon Quest et similia. -GHS
+//Let's not kid ourselves, he's totally referring to Final Fantasy or Dragon Quest et similia. -GHS
 (By the way, there have even been reported cases where their body frame is physically larger than the cave entrance. That a joke?)
 //Unfortunately too long to change via font size, as the result is far too small. -GHS
 Frightening.
-//HACK added a couple of lines from the console version. -GHS
 However, so luckily for me, I have an amicable relationship with this heel wrestler personage.
 //Wrestling keeps returning. -GHS
 However---
@@ -67,7 +62,6 @@ However---
 
 IF $loop == 0 GL 4 zzzCCA0022mamanSmile
 IF $loop != 0 GL 4 zzzCCB0019mamanSmile
-//HACK Yusa's mother smile -GHS
 
 [Madam]
 "Yeh, have the lettr's spirit? Even dumb asses think more about what they say!"
@@ -85,7 +79,6 @@ I am bathed in an excess of attention.
 
 IF $loop == 0 GL 4 zzzCCA0022mamanNorm
 IF $loop != 0 GL 4 zzzCCB0019mamanNorm
-//HACK Yusa's mother normal -GHS
 
 [Madam]
 "But I've been talking normally ya know. Kids here're built weak!"
@@ -94,7 +87,6 @@ IF $loop != 0 GL 4 zzzCCB0019mamanNorm
 //Near-jackhammer -GHS
 IF $loop == 0 GL 5 zzzCCA0022phon094
 IF $loop != 0 GL 5 zzzCCB0019phon094
-//HACK phon GFX. -GHS
 
 [Madam]
 "Ye too don't be holdin' back now ya hear!"
@@ -103,7 +95,6 @@ IF $loop != 0 GL 5 zzzCCB0019phon094
 //This is nearly on the levels of people dead-set on beating Pac-Man. -GHS
 IF $loop == 0 GL 5 zzzCCA0022phon115
 IF $loop != 0 GL 5 zzzCCB0019phon115
-//HACK phon GFX. -GHS
 
 [Taichi]
 "?!"
@@ -131,7 +122,6 @@ With the same feeling as of feeding a hungry lion, I hand over the meal ticket.
 //See CCB2002. This reminds very much of that Belly Bug scene. -GHS
 IF $loop == 0 GL 4 zzzCCA0022mamanSmile
 IF $loop != 0 GL 4 zzzCCB0019mamanSmile
-//HACK Yusa's mother smile -GHS
 
 [Madam]
 "Yer always so nice to Yusa, so lemme give ya somethin' good on the house!"
@@ -148,7 +138,6 @@ IF $loop == 0 GL 0 bgcc0009
 IF $loop != 0 GL 0 bgcc0009s
 IF $loop == 0 GL 4 zzzCCA0022mamanNorm
 IF $loop != 0 GL 4 zzzCCB0019mamanNorm
-//HACK since this actually dissolves into the graphics, and there's a change right there. -GHS
 Yusa's mom: "Wassit now? Ya twitchin'."
 
 [Taichi]
@@ -165,7 +154,6 @@ Yusa's mom: "Here'ya go, Meal Set S!"
 
 IF $loop == 0 GL 4 zzzCCA0022mamanSmile
 IF $loop != 0 GL 4 zzzCCB0019mamanSmile
-//HACK Yusa's mother smile -GHS
 Yusa's mom: "Ah' made it jus' for YEH!"
 (118 phon)
 //Back to good odds of hearing damage. -GHS
@@ -184,7 +172,6 @@ The serving of rice doubled.
 //Specifically rice, the rest increases afterwards. -GHS
 IF $loop == 0 GL 4 zzzCCA0022mamanNorm
 IF $loop != 0 GL 4 zzzCCB0019mamanNorm
-//HACK Yusa's mother normal -GHS
 Yusa's Mom: "So, ye, how's it goin' with my daughter?"
 
 [Taichi]
@@ -199,7 +186,6 @@ Yusa's Mom: "Aint'cha taming her with some skill now!"
 
 IF $loop == 0 GL 4 zzzCCA0022mamanSmile
 IF $loop != 0 GL 4 zzzCCB0019mamanSmile
-//HACK Yusa's mother smile -GHS
 Yusa's Mom: "Son-'n-law, eh? Nice innit. Guehehehe!"
 
 [Taichi]
@@ -257,7 +243,6 @@ The slices of tonkatsu became four.
 
 IF $loop == 0 GL 4 zzzCCA0022mamanNorm
 IF $loop != 0 GL 4 zzzCCB0019mamanNorm
-//HACK Yusa's mother normal -GHS
 Yusa's mom: "Hm? Whassat, inn'this 'bout how much ya eat, yer a man after all!"
 A hand so like a crown-of-thorns starfish greedily devouring coral somewhere in Okinawa struck my shoulder with a loud smack.
 The weight of about two unloaded freight trucks pushed me down to the floor.
@@ -269,7 +254,6 @@ The weight of about two unloaded freight trucks pushed me down to the floor.
 I go to my knees.
 IF $loop == 0 GL 4 zzzCCA0022mamanSmile
 IF $loop != 0 GL 4 zzzCCB0019mamanSmile
-//HACK Yusa's mother smile -GHS
 Yusa's mom: "My, bit rude that was! AHAHAHA! Ye really need some eatin'! So ye'll get a little weight on!"
 //Assuming she means her behavior. Noticeably different laugh. -GHS
 
@@ -277,18 +261,16 @@ Yusa's mom: "My, bit rude that was! AHAHAHA! Ye really need some eatin'! So ye'l
 "Nggh..."
 
 Yusa-chan... if you don't hurry and leave home, all fat you'll be made to become.
-//HACK fade music, out with Yusa's mom (whew) -GHS
+//IOW, she's pretty much certain to be overfed. So when she's pushed, what's gonna come out of her is what's been put there by his own mother... -GHS
 With enough food for five ordinary men or more, I sit in a suitable spot.
 IF $loop == 0 GL 1 TCST0000
 IF $loop != 0 GL 1 TCST0000S
 
 [Tomoki]
 "As always, ya got some strong connections there."
-//HACK in music -GHS
 
 IF $loop == 0 GL 0 zzzCCA0022cafezoom
 IF $loop != 0 GL 0 zzzCCB0019cafezoomFB
-//HACK zoom this BG/CG -GHS
 C meal tray in hand, Tomoki sits next to me.
 
 [Taichi]
@@ -408,7 +390,7 @@ We eat.
 
 [Taichi]
 "How the hell should I say."
-//HACK now unneeded -GHS
+//Doomo koomo, should be どうもこうもならない doumo koumo naranai, meaning sorta It Can't Be Helped(tm), except... http://ja.wikipedia.org/wiki/%E3%81%A9%E3%81%86%E3%82%82%E3%81%93%E3%81%86%E3%82%82 some local legends says it's from this very monster (depicted on a scroll owned by a town containing the kanji 'eight', natch). Too awesome a coincidence not to be. Nothing similar, so there's some hell in there. -GHS
 
 I pour some self-service barley tea in a glass and gulp it down.
 
@@ -473,7 +455,6 @@ I cling to him.
 
 [Tomoki]
 "Well, seems he wrote Gunjou on his school application form."
-//HACK these lines were removed. They are nonsensical, in fact, given at least Tomoki shouldn't be shocked about this. Might have something to do with how they're unvoiced, though, see CCA0030 for another odd one. -GHS
 
 [Taichi]
 "...don't get it."

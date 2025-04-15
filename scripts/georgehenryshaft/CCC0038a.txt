@@ -16,4 +16,3 @@ Having laid the carryall bag, I go roam about the school.
 The beginning of the third day of The Always.
 IF $loop == 2 But in truth, I must have done this so many times.
 IF $loop != 2 And yet, what is that but being fulfilled by the hollow.
-//HACK they went to such a mess to have separate scripts... what for, even?! 11 lines saved. -GHS

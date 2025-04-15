@@ -51,7 +51,10 @@ She sucked on it.
 A happy miscalculation.
 When I slowly moved in and out, she sucked as if to keep it from escaping.
 Is this one of Touko's infantile instincts?
+//The sucking reflex in mammals is classified as either a "primitive", "infant", "infantile", or "newborn relfex". Alternatively consider "instincts" as a happy medium between what it is scientifically and what Taichi said in your TL (habit). - pondrthis
+//That's kinda disturbing.... - Sheeta
 She sucked strongly, the way one would suck their thumb.
+//Technically, not "their". "His or her". Dunno if you think it's worth the awkwardness. - pondrthis
 I've heard breast-feeding babies can suck surprisingly hard.
 That was how it felt.
 
@@ -210,9 +213,11 @@ I gently inserted it in deeply.
 
 She was getting used to these back-and-forth motions.
 Touko seemed to be matching a vacuum cleaner's cycles.
+//I know zlich about vaccuum cleaners, so I'm sure that plurality or possessiveness are wrong. 〜IX
 If I pull back, she sucks it down, but if I push in she uses her tongue.
 Truly hibernation study. Instincts banzai!
 I'd already passed seven eighths of my limit.
+//He wouldn't say "It's almost time" if he's only passed "an eighth."-Spin
 It's almost time.
 
 [Taichi]
@@ -291,6 +296,7 @@ IF $nonero != 1 JMP tokoHend4
 ............
 ........................
 ......she's really good when she's asleep......
+//Go ahead and call me a perv for thinking this is an important line. 〜IX
 :tokoHend4
 
 [Touko]

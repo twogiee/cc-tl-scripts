@@ -1,4 +1,6 @@
 Now then,
+//Far more confusing code this time. Basically, you have five locations to choose from, each sending you down a different subroute. The Tasaki Shop subroute (obviously, Miki's) can only be selected in the previous script. The other four are here, but each one is removed from the list after you complete it, via all this code. 〜IX
+At this point, cafetaria options lead to the roof. The other options are fine. - Raide
 :K_ON1
 IF $SB_KRI == 1 JMP T_ON1
 IF $SB_TKO == 0 JMP K_T_ON1

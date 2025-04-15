@@ -2,7 +2,6 @@
 [Taichi]
 "...well then."
 //Saturday September 12, 1998 -GHS
-HACK rooftop zoom -GHS
 
 Mid-morning, when the temperature is still not so high,
 I come to the rooftop, alone.
@@ -15,7 +14,7 @@ I expect Senpai will turn up in the afternoon.
 I decided to set about work, one step ahead of her.
 First of all, the heavy labor.
 Even I could do it, as long as it's just bringing in the heavy stuff.
-//HACK fade to black -GHS
+//See CCA0029 -GHS
 ...
 ......
 .........
@@ -248,7 +247,6 @@ Tomoki wiped his undereye with his arm.
 "Yeah, yeah."
 [Tomoki]
 "Well, I'll go bring up the equipment."
-//HACK stray empty line removed, same as CCA0029. -GHS
 [Tomoki]
 "...Taichi?"
 
@@ -291,7 +289,6 @@ After Tomoki had said that, his face had instantly reddened up to the physical b
 
 [Taichi]
 "If it makes you embarrassed then don'tcha say it! Seriously."
-//HACK sky -GHS
 
 I look up at the antenna.
 
@@ -305,6 +302,5 @@ For the sake of one day having that fun dream---
 Certainly.
 Forever.
 For the sake of thinking... thank you.
-//HACK fade to black -GHS
 I will be fighting.
 //Assuming this is an older revision for hopefully obvious reasons. -GHS

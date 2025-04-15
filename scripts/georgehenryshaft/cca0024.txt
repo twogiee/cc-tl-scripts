@@ -65,7 +65,6 @@ That's pretty childish of her.
 
 [Misato]
 "YEEE-ES!"
-//HACK both BG and doll are now simultaneous instead of one after the other -GHS
 [Misato]
 "Ah, a candle!♪"
 
@@ -91,14 +90,13 @@ She goes into seiza with a quiet puff.
 
 [Taichi]
 "Then, what might be the business at hand that brought you towards this domicile, ma'am?"
-//HACK whoops, they forgot to actually display this doll -GHS
+//overformal -GHS
 
 [Misato]
 "Ah, because you have been so good at helping me, I thought I would give you a treat to eat."
 //The implication is not quite feeding the dog... not *quite*. -GHS
 
 She produced a package.
-//HACK fix, fix, fix those bugs~ -GHS
 
 [Misato]
 "It is a bento."
@@ -117,7 +115,6 @@ She produced a package.
 "Delicious!"
 [Taichi]
 "You are really skilled at this Senpai!"
-//HACK stare-y Misato instead -GHS
 
 [Misato]
 "Am I now? But I only really started to cook recently..."

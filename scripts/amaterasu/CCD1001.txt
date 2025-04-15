@@ -33,6 +33,7 @@ The antenna was delivered, but then left alone for a year.
 Those were the circumstances.
 Most likely, the items requested for Gunjou FM were filled with hopes and dreams for healthy young boys and girls.
 Sorry, but Gunjou is no such thing.
+//Major confusion here. Gunjou itself at no point of time in the last two lines was described. The way I read this is: Gunjou has no such things, or: Gunjou isn't something for that. Mild flaw in subject -Neko
 You could say the result was all right.
 Misato-sempai plans to send an SOS.
 She said so on Sunday night.
@@ -138,6 +139,7 @@ Sempai values the rules highly.
 
 We frolicked together.
 This was the shortest distance between any of us right now.
+//I believe that's CP_F *is looking at ccc0022*- Sheeta
 What sort of development would occur if I touched Sempai?
 I was well aware,
 From my own experience, and their records.
@@ -226,6 +228,7 @@ She is a lady, after all.
 
 [Misato]
 "No, I'll survive."
+//To contrast with the next line, stating that she has a drive to live. That is, survive. -Neko
 
 [Taichi]
 "Your resolve is excellent."
@@ -267,6 +270,7 @@ She'd been working.
 Even though it's almost night.
 By herself.
 Back when I believed that not touching people was the one and only path---
+//Really, using touch so much is starting to get unnecessarily repetitive. I think "reaching/reach out" would be better in some instances, such as the above -Neko
 I met Sempai.
 
 [Misato]
@@ -283,12 +287,15 @@ I met Sempai.
 "Why don't we start a club together?"
 
 Those words cannot be forgotten.
+//Would suggest making this can not for stronger phonetic emphasis -Neko
 My first other.
 My first someone.
 I woke up.
 Sunlight was penetrating through the window.
 I must have been sleeping soundly. I didn't have a single dream.
 The time......7 A.M.
+//there are adverb ("let's meet at 11 A.M.") and adjective (a.m.). I'm confused which one to use since there's no consistency in the entire script - Raide
+//Remove "it's", as it's unnecessary, since 7 a.m. after "the time" implies it is. -Neko
 I have to go to school.
 I used to walk to school with that girl.
 
@@ -343,6 +350,7 @@ She staggered to her feet.
 "Good morning, Sempai."
 [Taichi]
 "Won't you die from the heat if you sleep here in the middle of the day?"
+//Might consider using what others have for this. "Heat stroke" -Neko
 
 [Misato]
 "Ah, right, that's true. I'll be more careful."
@@ -361,6 +369,7 @@ She held back a yawn while wiping her glasses.
 
 [Taichi]
 "I bet it does."
+//Can't bet in the present on something past tense. -Neko
 
 [Misato]
 "What time is it?"
@@ -380,6 +389,7 @@ Sempai must have it rough.
 
 [Taichi]
 "Well, I'll let you do as you please."
+//Do as you please sounds more fluid and compassionate -Neko
 
 [Misato]
 "ZZZ......"
@@ -394,8 +404,13 @@ I laid Sempai down on an empty bed.
 
 I continued the work.
 After living through a long proper time, I'd gathered the skills and the knowledge.
+//I don't understand the 'long proper time' part. What's 'proper' about it? - Sheeta
+//I don't really get it either.-Spin
+//Fixed lol -Neko
 I'll construct the system far more efficiently than Sempai.
+//Why system instead of antenna? System makes this sentence unnecessarily complex. He's trying to construct a single object. -Neko
 I don't mind working until I'm dripping in sweat. It's comfortable.
+//There's a centralizaed adaptation to this. But I can't remember -Neko
 My body changed automatically, and one of my old memories floated up.
 With the roof as my stage, my heart traced out the past and tried to reproduce those impulses once more.
 Avoiding the guards' eyes was a daily routine for me.
@@ -473,6 +488,7 @@ I had quite a bit of confidence in my sarcasm.
 "But you're right, I'm sorry."
 
 My sarcasm flew right over her.
+//Unless it has to be "flowed," I suggest this.-Spin
 
 [Taichi]
 "......"
@@ -504,6 +520,10 @@ She drooped.
 "If you know you're not good, you should stop."
 
 Since I wasn't used to conversation, I was using some strange formal particles in my speech.
+//I figure my only hope for this line is to assume the reader understands that Japanese has far more ways to convey formality than English and that most of them are invisible after tling. Though I'm sure there are still better ways to rephrase this. 〜IX
+//I fiddled with the line a bit. I think the player can work it out even without knowing about Japanese formality, from the way Taichi is responding to Misato. Since it's not exacly conventional. I don't know if I'm making sense ^^; but the point is, I think it's fine. - Sheeta
+//You guys and your super long comments.-Spin
+//This wording is fine. It read fluidly in game. -Neko
 
 [Misato]
 "We perpetually lack people."
@@ -526,12 +546,14 @@ I equipped an expressionless face as I informed her,
 "I'm sorry. Please ask someone else."
 
 I stood up and walked away.
+//Wasn't he standing all this time?-Spin
 
 [Misato]
 "Aaah, wait, wait!!"
 
 ........................
 Hers was the first club I'd ever been invited to.
+//"Her's" (I think) or "Her club was the first I'd", would be the solution. Needs fix -Neko
 Now,
 She's rejecting me.
 Wednesday.
@@ -549,9 +571,11 @@ She met me with a suspicious gaze.
 "Oya, president."
 [Taichi]
 "Do you have a hangover?"
+//You're kidding right? It's a 'hang over', therefore a noun. Fixed. (Nobody says "Hung over" irl, nubs) -Neko
 
 [Misato]
 "......I do. Owowowow."
+//Fixed to match the above -Neko
 [Misato]
 "It's not that, while I was sleeping in the health room, the work continued on its own......some mysterious phenomenon is occurring."
 
@@ -596,6 +620,7 @@ Sempai's eyes became a 『×』 stretched horizontally.
 "Hot...it's hooot......I can't weaaar this..."
 
 Sempai undid her necktie with her left hand, and held out her right hand three seconds later at a forty-five degree downward angle, with her index finger buried up to the second joint inside the knot for 0.62 seconds.
+//I can't picture this either. He's probably not making sense. 〜IX
 The strength of both hands conflicted, increasing the friction, and pulling out the part around her neck with a length of around thirty-two centimeters.
 Next, her right hand undid her first and second buttons, each in about two seconds, exposing her chest.
 
@@ -603,6 +628,7 @@ Next, her right hand undid her first and second buttons, each in about two secon
 "Thaaat's...pa-! Pa-! Paaa-!"
 
 She lowered her shoulder straps with both hands, and her right hand once again went for her blouse buttons, and her left hand began to undo the fastener on the side hook of her skirt.
+//And, and. Run-on sentence. -Neko
 Her blouse in 4.28 seconds, her skirt in 7.34 seconds.
 She was in her underwear.
 
@@ -610,6 +636,10 @@ She was in her underwear.
 "I'll strip my panties tooo..."
 
 At about 『my』, they fell to her ankles.
+//my? - Sheeta
+//No, hers. She was the one wearing them. 〜IX
+//It still doesn't make sense. "At about my, they fell to her ankles."-Spin
+//It does, When she got to "I'll strip my" her panties dropped to her ankles. It's clever, doesn't need to be fixed. However, could use "Around" instead of "At about" -Neko
 She stepped out of them, and as her shameful hair blew in the wind, she undid her bra hook.
 Her tight breasts pushed off their cups, and the cloth danced softly in the air. Unable to attain enough bouyancy to glide, it tumbled and fell to the ground.
 By now, Sempai's wardrobe consisted of only glasses, socks and shoes.
@@ -622,22 +652,30 @@ She stretched both arms out horizontally, and while turning to the left at one r
 
 [Misato]
 "My true mosaic-less form..."
+//Thank god I know what a "mosaic" is this time. 〜IX
 
 Unfortunately, there was a mosaic.
 
 [Misato]
 "Laaa-lalalala-laaa-laa-la-laa♪"
+//Ooo, there's comments for the voice actors on the script? How interesting... - Sheeta
+//There are a few. I think Touko's gibberish lines had comments saying "don't do this one", ie they just had a machine generate some squeaking. 〜IX
 
 As there was nothing I could do, I gazed at that beautiful form of Sempai's.
 〜END〜
 
 [Misato]
 "......*sob* *sob* *sob*......even though I said you can't look, you did..."
+//Since I don't remember her saying this, I made a wild guess about the intent. 〜IX
 
 She sat down crookedly and cried like a true Japanese woman.
+//I think true would be better here. And more hilarious -Neko
 
 [Taichi]
 "That's a crane's repayment."
+//maybe something to do with Japanese mythology? - Sheeta
+//That's what I assumed so I guess readers will also.-Spin
+//Recompense is pro here. -Neko
 
 [Misato]
 "What you just depicted so accurately is the truth, isn't it!!?"
@@ -646,6 +684,7 @@ She sat down crookedly and cried like a true Japanese woman.
 "Yes."
 
 She fell down in tears.
+//She fell into tears? What? "Dropped to her knees, sobbing." Even just changing "in tears" to sobbing wound be better, she fell down in the action of sobbing -Neko
 
 [Taichi]
 "But fear not. I dealt with it in such a manner that no one saw a thing."
@@ -665,6 +704,7 @@ She fell down in tears.
 "Yes, please look at it."
 
 I had transcribed the past manuscript to the letter.
+//Rhyming nuance here leads to awkwardness. Broke I'd -Neko
 
 [Misato]
 "Hmmm......this is good..."
@@ -692,6 +732,7 @@ Sempai's face became gloomy.
 "Uuu......a club president being lectured by her kouhai......"
 
 Sempai stood up at the same time the precarious building materials began to move.
+//The building materials were moving prior to standing up, or did they start to move after she stood up. Discrepancy here -Neko
 I pulled her toward me.
 
 [Taichi]
@@ -701,7 +742,10 @@ I pulled her toward me.
 "Eh?"
 
 Stepladder, needles, tools......all of those things,
+//Needles? She sounds like a heroin addict-Spin
+//Fucking vampires -Neko
 While playing dissonant chords, scattered across the ground.
+//Dissonant pertains to sounds, so I matched the next word to the prior. I assumed intention -Neko
 
 [Misato]
 "Ah......"
@@ -795,6 +839,7 @@ She raised a finger. Her face was serious.
 
 [Misato]
 "You have......a normalcy complex."
+//Probably the best example in the game of a line that's really, really, really easy to misinterpret, since "You have a normal complex." is the hyperliteral. 〜IX
 
 [Taichi]
 "......!"
@@ -1132,6 +1177,7 @@ So their four person family was split in half?
 
 [Tomoki]
 "By 'club,' you meant 'that' nonsense?"
+//Meant here suggests aggressive sarcasm, mean would be better if he was sincerely asking for verification -Neko
 
 [Taichi]
 "That's not nonsense."
@@ -1155,9 +1201,11 @@ So their four person family was split in half?
 
 [Taichi]
 "We call it a club to pleasure ourselves."
+//Please would be better -Neko
 
 [Tomoki]
 "......lately, I knew she'd been pushing a lot of things forward...so that was for the club..."
+//Knew suggests he still knows, I had known means that he had known in the past. -Neko
 
 I shrugged my shoulders.
 
@@ -1185,6 +1233,7 @@ He spat out.
 
 [Taichi]
 "Is not being betrayed a precondition for trust?"
+//Pretense to = Alternate wording -Neko
 
 [Tomoki]
 "That's......"
@@ -1213,6 +1262,7 @@ Do you prefer quantity to quality?
 
 [Taichi]
 "Nooo, I'll get close to her. I'm going to go where this is going."
+//The Japanese is this vague. 〜IX
 
 Tomoki went pale.
 
@@ -1246,6 +1296,7 @@ I slapped his shoulder.
 
 [Taichi]
 "Be a purer Immoral. It's for your sake."
+//Then turning immoral into a noun, vs. Proper noun -Neko
 
 [Tomoki]
 "I don't understand 95% of that."
@@ -1273,6 +1324,7 @@ Standby at the entrance.
 
 [Taichi]
 "You came. Thanks for the food."
+//Did come = Came -Neko
 
 [Tomoki]
 "Uwa! That's a surprise......you're wearing a kimono."
@@ -1311,6 +1363,8 @@ It seems Tomoki respects me all the more now.
 
 [Taichi]
 "On average, ten people in any given class are giving out EM waves......"
+//I can't shake the feeling that there might be a better way to adapt or explain this one. 〜IX
+//Perhaps just say 'best defined as 'incomprehensible'' - Sheeta
 
 [Tomoki]
 "Yeah......"
@@ -1370,6 +1424,7 @@ We conversed about many things.
 
 [Taichi]
 "Oooh? It was today?"
+//This should be it's, since today is present tense. But if it conflicts with previous scripts, it's legible and easily understood, therefore, not worth the effort. -Neko
 
 [Yuusa]
 "About that, this is......my birthday present."
@@ -1419,6 +1474,8 @@ Then, I walked her home.
 It's training.
 Training...
 Homesickness?
+//Any need to repeat the tl notes here? 〜IX
+//Might be an idea, since the original scene was a long time ago - Sheeta
 No.
 Assault.
 Assault.
@@ -1442,6 +1499,7 @@ I'd resolved to join the club, but permission wasn't granted.
 Sempai pulled a lot of strings for me.
 So that I wouldn't notice.
 ......although I caught on quickly.
+//Definitely sounds better.-Spin
 Even if I wasn't a club member, I was fine participating in club activities.
 I was swept up in a temporary mood when I'd ran my mouth off and proclaimed I'd join the club.
 I soon regretted it, and tried to take it back.
@@ -1492,6 +1550,7 @@ I couldn't watch this.
 "That one......why not buy one ready-made?"
 [Taichi]
 "Since we don't have any of the knowledge for this, let's go and buy one off the shelf."
+//"Know anything about this stuff" would be more condensed than knowledge of these things. -Neko
 
 [Misato]
 "I was thinking that this could be another part of our club activities."
@@ -1540,6 +1599,8 @@ I wasn't acquainted with him.
 
 [Misato]
 "Yes, I find young boys cute."
+//Insert appropriate cheap shot here. 〜IX
+//Misato's a shotacon! Woo - Sheeta
 
 [Taichi]
 "......"
@@ -1555,6 +1616,7 @@ Sarcasm 2.
 "That's obvious!"
 
 I was over-excited.
+//Getting ahead of myself? That's how it was read -Neko
 
 [Taichi]
 "Good morning."
@@ -1580,6 +1642,7 @@ I let her down right away.
 
 [Taichi]
 "Sempai, that way of falling was just like a fattened caterpillar."
+//You fell like a... (Condensed version) -Neko
 
 [Misato]
 "......please don't make me imagine such a thing."
@@ -1608,6 +1671,7 @@ After living in a town where I can see such things, I naturally have dreams abou
 
 [Taichi]
 "If I talked about that while eating shrimp chili in the cafeteria, I'd end up fighting against Touko, equipped only with a broken spoon."
+//Comma suggests Taichi is the person with the broken spoon, without it, it says Touko is the one with it. -Neko
 
 [Misato]
 "......hu!"
@@ -1766,6 +1830,7 @@ She was upset.
 
 [Youko]
 "More."
+//I LOVE this scene. 〜IX
 [Youko]
 "I'm still not satisfied......"
 
@@ -2013,6 +2078,7 @@ A light attack can become pleasure.
 Though if it's too strong, it'll do damage.
 Fundamentally, there are no means for people to touch people other than through attacks.
 I think of friendship as nothing more than the skill of holding back.
+//Not too sure if this changed the meaning a little more than it should but I was trying to make it flow better.-Spin
 
 [Taichi]
 "Why not once in a while?"
@@ -2029,6 +2095,8 @@ Yes, it's not like me.
 "The way they are......"
 [Taichi]
 "Y-you......want me to love you?"
+//Yes - Sheeta
+//Ew, No.-Spin
 
 [Tomoki]
 "That's just twisting my words!"
@@ -2070,6 +2138,7 @@ But now---
 
 [Tomoki]
 "A serious atmosphere!"
+//I'm assuming he's correcting Taichi - Sheeta
 
 He hit the table.
 
@@ -2089,6 +2158,7 @@ Eternal trauma.
 
 [Taichi]
 "Annoy meee!"
+//Huh, those lines aren't meant to flow into each other. A gag actually got added in translation. Wow. 〜IX
 
 [Tomoki]
 "Iieeyaaa!"
@@ -2324,6 +2394,8 @@ Sempai shook her head without any force.
 
 [Taichi]
 "There is no such thing as a non-erotic man!"
+//He's got a point... >_> 〜IX
+//I'm sure you crushed all of Sheetas dreams when she read your comment.-Spin
 
 I swung my arms out to both sides and screamed.
 
@@ -2341,6 +2413,8 @@ Sempai repeatedly cried 'I'm a slut, I'm a slut.'
 
 [Misato]
 "That's what a slut is, and you're a moron."
+//If you haven't figured it out yet, I'm using the colloquial def of "slut" to mean a woman who behaves as if they're highly promiscuous and proud of it. Tell me if that isn't quite clear. 〜IX
+//It's fine - Sheeta
 
 Hmph.
 
@@ -2393,6 +2467,7 @@ Okay, I'll give you a ball you can't receive without using both hands.
 
 Sempai used both hands.
 *boing*
+//For once I didn't have to put any thought into what the English equivalent sound effect would be. 〜IX
 
 [Taichi]
 "Oooh..."
@@ -2613,6 +2688,7 @@ Though I am too.
 
 [Misato]
 "Because......there are no people."
+//Dramatic effect.-Spin
 
 [Taichi]
 "Then what will you do?"
@@ -2624,6 +2700,7 @@ Though I am too.
 
 Her expression sank deeply, then disappeared.
 As if to allow the clear salt water to remain expressionless.
+//Finally figured out this was the intent. Still hyperliteral, so if this doesn't make sense in English, just go at it again. 〜IX
 At the bottom there's anguish.
 
 [Taichi]
@@ -2664,6 +2741,7 @@ I took her hand and brought her along.
 Without inserting a process to deal with rejection.
 Sempai did scream slightly, but she showed no resistance.
 I sat down on the porch of the beach house.
+//Google want it Beach House - Raide
 
 [Misato]
 "......what are you going to do......?"
@@ -2759,6 +2837,7 @@ With her cheek being pushed from the inside, Sempai was at a loss for what to do
 "Then please use your tongue more."
 
 I said that in a way that ignored the meaning of her conjunction, and her service became ever stronger.
+//I assume this means that the transition I tled as "Then" in the previous line is implying that she should lick more because it hurts, and he's ignoring that implication. Or something. 〜IX
 
 [Misato]
 "L-like this? ......Nn! *lick!* *lick*......"
@@ -2781,6 +2860,7 @@ And asked something cruel.
 "Nnku!......Nnmu! Nn! Nn! Nn!......Nnfu, i-it's, getting hotter......my mind is going blank."
 
 Her thought process must be streamlining, as there was no hesitation in her statement.
+//I actually ran into a word that none of my dictionaries knew. Ouch. 〜IX
 
 [Taichi]
 "Please be sure to suck it too."
@@ -2837,6 +2917,7 @@ I said strongly.
 
 [Misato]
 "Ah, yes......they're Peke-kun's......"
+//Since it's conceivable that no one's going to bother remembering details from the last hscene, this is in fact something they explicitly "agreed" on back then. 〜IX
 
 [Taichi]
 "So it's up to me how to use them."
@@ -2960,6 +3041,7 @@ I pulled her back to that.
 
 [Taichi]
 "It's called a boob job."
+//boob job = breast enhancement, so maybe we should us a different slang term? - Sheeta
 
 [Misato]
 "B-because......this boob job feels good......*kiss* *kiss*......aan......it's jumping inside my mouth......amazing......"
@@ -3318,6 +3400,7 @@ I got in her way.
 "......han! Ah, aaa......aan......a-again!? Nngi!"
 
 When she tried to bring out the last of her strength to stand up, I brought her down with a W-twist to the nipples, and Sempai collapsed, exhausted and immobile.
+//"W-twist?" I can't imagine that.-Spin
 I twisted her hips and granted her pleasure.
 
 [Misato]
@@ -3406,6 +3489,7 @@ At the same time,
 
 Sempai's bladder loosened.
 While making that blunder, she developed slightly.
+//"developed?" What developed?-Spin
 
 [Taichi]
 "Haha, your lower body is hot. And sticky."
@@ -3528,6 +3612,7 @@ I rubbed her weak point again.
 
 [Misato]
 "Uaaaa! That's!......My!......I'm...being...!......Nnnnn!!?"
+//The game crashes due to line starting from <That's> to <nn!?"> is too long. Either break it or remove most of the last <n> like this to make it work - Raide
 
 I was also getting near the end.
 Gradually building heat was lurking in my hips.
@@ -3573,6 +3658,7 @@ IF $nonero != 1 JMP mimiHend4
 ......
 ............
 ........................
+//I didn't feel there was any need to add an explanatory sentence or two here. 〜IX
 :mimiHend4
 ........................
 
@@ -3666,6 +3752,8 @@ Her words seemed somehow poignant.
 
 [Misato]
 "......Kurosu......cross......a black mark...... I know, demerit!"
+//This entire scene has meanings that are hard to preserve without making the dialogue sound unnatural. Suggestions for improvement would be most welcome. 〜IX
+//My feeble attempt - Sheeta
 
 [Taichi]
 "......I beg that you please reject that."
@@ -3756,6 +3844,7 @@ I haven't known her that long, but I understood that much.
 
 [Taichi]
 "Milk slave."
+//This is fun. Totally makes up for the difficulty of adapting "peke." 〜IX
 
 [Misato]
 "I don't understand what you mean by that......"
@@ -3766,6 +3855,9 @@ She's asking a lot.
 
 [Taichi]
 "......ero-glasses-san."
+//Is it safe to assume everyone knows "ero" by now? Or should I write this out as "erotic"? 〜IX
+//I'm pretty sure everyone knows - Sheeta
+//Even nubs know that. -Neko
 
 [Misato]
 "Veto."
@@ -4125,6 +4217,7 @@ That people mutually exchanged.
 
 [Tomoki]
 "......Aneki will sell out......her own family......"
+//Ah, now I'm on his side. This whole time I was thinking, "whatever she did couldn't have been that bad..." but now...."She's almost as bad as Kiri."-Spin
 [Tomoki]
 "That person......she wants to push her own values onto other people......"
 [Tomoki]
@@ -4134,6 +4227,7 @@ That people mutually exchanged.
 
 [Taichi]
 "What about self-injury?"
+//Infliction would be accurate and more powerful. Just a thought -Neko
 
 [Tomoki]
 "That's Aneki's attack!"
@@ -4246,6 +4340,7 @@ That's right.
 The heart is ego.
 Ego is the power to blot out the heart's boundary lines.
 Innumerable hexagons buried into the world. Each and every one of them was a heart.
+//He probably means hexes as in hexagonal spaces on a board game. As usual, if you can think of a way to make that clearer, go ahead. 〜IX
 They have to be the same size.
 They have to be the same shape.
 If they aren't......they'll receive too much pressure.
@@ -4253,6 +4348,7 @@ Most of them can't endure it.
 When one can endure it,
 It becomes a monster that hurts, destroys and devours everything around it from dawn to dusk.
 While crushing the area its neighbors occupy.
+//This one felt the hardest to me, since I'm trying to get you to imagine one of those hexagonal spaces enlarging and crushing the spaces around it. 〜IX
 
 [Misato]
 "Ah......Tomoki......that's why......"
@@ -4332,6 +4428,7 @@ It was better to be apart.
 "It's preset."
 [Taichi]
 "Whatever love might happen, or bonds there might be, it doesn't matter."
+//Love that comes to be? Makes it sound like love is situational, dilutes emotional effect -Neko
 [Taichi]
 "Something that's right in the middle of our brains makes us do that."
 [Taichi]
@@ -4349,9 +4446,11 @@ Tomoki was silent. For just one minute.
 
 [Tomoki]
 "............Taichi......too?"
+//At this point I remembered that Tomoki was one of the "normal" people and that Taichi wasn't.-Spin
 
 [Taichi]
 "What did you think I was?"
+//I'm starting to lose respect for Taichi from all of this.-Spin
 [Taichi]
 "I'm a guy over the eightieth percentile, you know?"
 
@@ -4498,11 +4597,13 @@ Why not?
 Because it was painful.
 I went to the back door.
 This one was locked too, but it was an old disk cylinder type.
+//I'm pretty sure disc = disk in American English - Sheeta
 I inserted my tools into the keyhole and moved the tumblers.
 Not long after I heard it open:
 
 [Taichi]
 "Here I come."
+//It's always fun to think up yet another way to adapt "ojamashimasu". I'm not sure if I've ever used the same one twice. 〜IX
 
 Since my objective wasn't to scare her, I announced my intrusion in a loud voice.
 I took off my shoes and entered.
@@ -4547,6 +4648,7 @@ My surname.
 "The club is over."
 [Misato]
 "Please live in whatever way you want."
+//Wording here is awkward, it's more like a passive send off "Do what you will" "Please live however you please". That is to say 'I don't have anything to do with you anymore' -Neko
 
 She said faintly.
 
@@ -4883,6 +4985,7 @@ However, tears wouldn't come out.
 This was an unfinished feeling.
 Even I disliked it.
 Tomoki came.
+//Interestingly enough, there are comments here in Japanese stating Tomoki's expression right before each sprite change. I'm guessing that means this scene was written before Tomoki had been drawn. I went ahead and deleted them out of paranoia. 〜IX
 
 [Tomoki]
 "Aneki......where is she?"
@@ -4933,6 +5036,7 @@ The coordinates...overlapped.
 "......strive to be Immoral."
 
 Tomoki was sent back.
+//The use of the colon made it look like a line of speech - Sheeta
 
 [Misato]
 "......eh......Peke-kun?"

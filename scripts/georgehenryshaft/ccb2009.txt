@@ -1,8 +1,7 @@
 
 [Taichi]
 "Ahhh!!! So tireeed!!!"
-//HACK supermessy room instead. Makes little sense he'd have the fan out, and the takeout leftovers are a little suspect, but it's not the worst clash between text and graphics here. -GHS
-Wish I were rich enough to afford six exclamation marks :-( -GHS
+//Wish I were rich enough to afford six exclamation marks :-( -GHS
 
 [Touko]
 "...thank you. For everything you've done for me."
@@ -172,11 +171,9 @@ Smelling means no living.
 
 CIN 4 0 0 -70 0
 CR 2
-//HACK look what nice command I found! -GHS
-//HACK Touko pix left to 70 pixel, 5 grain -GHS
+////HACK Touko pix left to 70 pixel, 5 grain -GHS
 Inch by inch by inch Touko shuffles towards the door.
 Her form never collapses. Truly the Spirit of the Sengoku.
-//HACK see below -GHS
 
 [Touko]
 "......"
@@ -184,7 +181,6 @@ Her form never collapses. Truly the Spirit of the Sengoku.
 
 CIN 4 -70 0 -110 0
 CR 2
-//HACK move more -GHS
 Inching and inching she moves backwards and exits to the corridor, and with the same, she slides towards the right.
 //HER right, you idiots. -GHS
 
@@ -193,14 +189,11 @@ Inching and inching she moves backwards and exits to the corridor, and with the 
 
 [Touko]
 "............"
-//HACK music stops one line later -GHS
 
 CIN 4 -110 0 -480 0
 CR 0
-//HACK and SHE GONE -GHS
 Scornful eyes disappeared down the hallway.
 Thirty minutes later.
-//HACK fade from black -GHS
 
 [Touko]
 "I'm baaaack-y!♪"
@@ -339,7 +332,6 @@ I thrust the finger at Touko so many times while I spin it round and round.
 
 [Taichi]
 "*heartbeat skip* *heartbeat skip*"
-//HACK new line here, for a bigger portion below. -GHS
 
 [Touko]
 "Erotic videos alone are one thing, but to seek that sort of embarrassing thing even in pictures..."
@@ -364,11 +356,10 @@ Should I rape her... this bitch.
 "Should I rape her... this bitch."
 
 I had the frankness and the integrity of a saint.
-//HACK and here come the new lines added from the console version (FX and doll changes included). Should require no comment on why these **need** to be in. -GHS
+//The irony, of course, is that it's true. -GHS
 
 [Taichi]
 "Besides, why do you even know that sort of video exists?"
-//HACK independent BG shake -GHS
 
 [Touko]
 "Because back then you told me they were musicals and lent me some, didn't you!"
@@ -383,7 +374,7 @@ I had the frankness and the integrity of a saint.
 
 [Taichi]
 "I totally forgot that, but that's an extremely ideal development. I'm glad I lent them to you!"
-//HACK independent BG shake -GHS
+//Another thing he "forgot", the Memory Hunter. -GHS
 
 [Touko]
 "THAT SOUND LIKE A GOOD THING TO YOUUU!!!"
@@ -408,7 +399,7 @@ And to her Father this went.
 
 [Taichi]
 "You're listening to me, I see."
-//HACK no doll change -GHS
+//TL Note: this means she's not listening to him. -GHS
 
 [Touko]
 "What do we have? Potatoes again?"
@@ -589,7 +580,7 @@ I asked it twice.
 
 [Taichi]
 "Clueless you weren't that into this small mysterious area there was one part of my own seeelf!!!"
-//HACK closed-eyes Touko instead -GHS
+//A bit crowbarred, I admit. -GHS
 
 [Touko]
 "But... there were girls... tied up... or wearing school swimsuits..."
@@ -609,7 +600,6 @@ Chuckling,
 
 You don't get it.
 Ya don't get iiiiiiit!!!
-//HACK NVL mode Is this a Tsukihime reference? BTW lining these up to match console version = epic sob -GHS
 My soul! (soul!)
               In blazes! (blazes!)
                                  My soul! (soul!)
@@ -627,7 +617,6 @@ In blazes! (in blazes!)
                   So will your soul! (your soul!)
 Be in blazes! (in blazes!)
                Together with mine!
-//HACK ADV mode -GHS
 
 [Taichi]
 "Good-Bye!!!"

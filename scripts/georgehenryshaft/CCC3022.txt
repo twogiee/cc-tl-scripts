@@ -3,7 +3,6 @@ All that aside, to club.
 I drop in to the toilet.
 Entering all natural in the girls' toilet.
 I look at the mirror.
-//HACK dim screen -GHS
 My face is reflected.
 White hair.
 Pupils with a peculiar pattern.
@@ -52,7 +51,7 @@ and that I am, right then, nothing more than something decorated.
 A weird, eerie, uncanny face.
 It made me nauseous.
 Seeing things this way means there's self hatred to blame too, likely.
-//HACK back to normal -GHS
+//No shit! As always, he knows... but that's not know-know. -GHS
 
 [Taichi]
 "..."
@@ -515,20 +514,14 @@ I look.
 Cans were flying in, spinning.
 Two.
 Two cans.
-//HACK added in the console version. -GHS
 They rebound off the wall, and fall to the ground.
-//HACK changed in the console version. -GHS
 An event that I saw in terrifying slow-motion.
-//HACK dim screen -GHS
 Consciousness accelerates at its utmost limits.
 Cans do not fly. Somebody threw it.
-//HACK splits as in the console version. This is too busy for a single screen after all. -GHS
 Who? Unnecessary to think of that at present. Thrown. Intent. Thrown with an intent.
 What aim? An effect is expected by the act of throwing the cans. Thrown cans will display an effect.
 Explosion? Thrown ordinance? Hand grenade type. Confined space. Destructive power multiplier.
-//HACK same, split -GHS
 Death? Death. Death. Area attack. Evasion impossible. Position related. I will certainly die. I will die. Certainly.
-//HACK back to normal -GHS
 And Kiri?
 Mouth open. Eyes closed.
 //Proper way to reduce flashbang effect is mouth open (pressure), eyes closed (flash) and ears covered (blast sound). However, she's doing these two because of the above, she doesn't figure out it's a flashbang before Taichi does. Above was turned into question likely to avoid this confusion. -GHS
@@ -577,7 +570,6 @@ Her... indistinct sweetness.
 
 Hasekura Youko---
 I am pulled out to the corridor.
-//HACK fade instead. Wipe looks so weird... -GHS
 
 [Taichi]
 "Ah... what was that...?"
@@ -585,7 +577,6 @@ I am pulled out to the corridor.
 My tongue had barely gotten capable of functioning.
 Body feels somewhat funny.
 A feeling like a cramp or a spasm in the hands and the feet.
-//HACK properly fade in the doll -GHS
 
 [Youko]
 "...flashbang."
@@ -735,7 +726,6 @@ Expressionless saddening.
 
 [Taichi]
 "WHAAAT?"
-//HACK actually display the doll -GHS
 
 [Kiri]
 "...ngh..."
@@ -808,7 +798,6 @@ She wedges in.
 "Sorry!"
 
 A quality of apology on par with a cheering squad, if I may boast.
-//HACK sweatdrop Kiri. -GHS
 Kiri went slackjawed for one instant. But, soon, that warped into humiliation.
 
 [Kiri]
@@ -819,10 +808,9 @@ Kiri went slackjawed for one instant. But, soon, that warped into humiliation.
 //...not "what are you two"... -GHS
 [Kiri]
 "I cannot understand, I just CANNOT understand!"
-//HACK closed eyes Kiri -GHS
+//Matching voice -GHS
 [Kiri]
 "...but... I do not care anymore..."
-//HACK new SFX -GHS
 
 Holding down the disheveled pit of her stomach, she walks away.
 
@@ -837,7 +825,6 @@ Killer silence.
 //Likely in love. -GHS
 
 As I go to follow her, I am called from behind.
-//HACK interesting how the two aren't onscreen at the same time here. -GHS
 
 [Taichi]
 "Not a problem, is it? This'll all be done over again anyway."
@@ -845,7 +832,7 @@ As I go to follow her, I am called from behind.
 "My eigentime is completely meaningless."
 [Taichi]
 "And for the sake of increasing the amount of information in the diaries, I ought do all kind of things."
-//HACK since the doll was already loaded anyway. -GHS
+//Objection! Why would he increase the amount of information in the diaries if his eigentime is then meaningless? Conversely, if he can increase the amount of information in the diaries, how is his eigentime meaningless? -GHS
 
 [Youko]
 "If this happened just because of that certainly... but Taichi is wrong here."
@@ -980,7 +967,6 @@ Tears.
 
 [Youko]
 "Apologies... I will not intrude anymore."
-//HACK out with the doll. -GHS
 
 She turns away.
 

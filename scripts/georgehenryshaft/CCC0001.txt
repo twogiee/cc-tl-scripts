@@ -1,5 +1,4 @@
      It was the Broadcast Club Training Camp.
-//HACK no need of ADV mode, BG dims instead of starting black. -GHS
     Among us the freshmen are being promoted,
     while the happy third years are retiring.
            New freshmen have joined.
@@ -33,7 +32,6 @@ Her... after all, she'll turn up quick if called.
        case scenario would be avoidable.
          I went all that far... what
            did I even want to do?
-//HACK line removed as it doesn't make much sense anymore. -GHS
       I went as far as roping in Senpai.
         Finally, this Training Camp home
          of sorrow and agony is ending.
@@ -45,8 +43,6 @@ Her... after all, she'll turn up quick if called.
              Those faces of people
             strangers to each other.
               So I moved on ahead.
-//HACK out with the dim -GHS
-HACK back to ADV mode -GHS
 En route, the day grew darker.
 There was this feeling of having walked for horribly long hours.
 A countless number of hours.
@@ -62,5 +58,4 @@ Because I could see, even if it was dark.
 Because I could see the way.
 For a long time now I have been capable of seeing through the dark.
 At the time when thoughts turned to wondering if we had gone the wrong way, we turned up in town.
-//HACK NVL mode -GHS
                Mankind had fallen.

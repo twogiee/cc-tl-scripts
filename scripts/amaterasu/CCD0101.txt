@@ -33,6 +33,7 @@ IF $SB_MSA != 1 JMP Y_CHS001
 IF $SB_TKO != 1 JMP Y_CHS001
 IF $SB_SKU != 1 JMP Y_CHS001
 JMP N_CHS002
+//To save you some time, this code means that the "Tasaki Shop" option won't be available until a Kiri-related variable changes. 〜IX
 :Y_CHS001
 CSQ 0 1 1
   -Go to school

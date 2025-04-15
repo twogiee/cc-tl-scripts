@@ -43,7 +43,6 @@ JMP LD0009
 :LD0009
 CALL ccd0009
 CALL ccd0010
-//HACK It's just a RET command, demoted to inaccessible. -GHS
 CALL ccd0012
 CALL ccd0013
 IF $B == 1 JMP LD0014A
@@ -170,11 +169,9 @@ CALL ccd5001
 $SB_YKO = 1
 CALL ccx0001
 CALL ndemo0003
-//HACK video instead of manual staff roll. -GHS
 CALL cce0001
 $END = 1
 CALL maketwin
 :BADEND
-//HACK If you're reading this, you are a cheat! Well, so am I, so: did you check CCB0007 yet? -GHS
 $END = 1
 CALL maketwin

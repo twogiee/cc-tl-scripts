@@ -1,9 +1,6 @@
 
 [Taichi]
 "Whew."
-//HACK flashback exit whiteout -GHS
-HACK different fade in due to above. -GHS
-HACK ADV mode, to restore it from the previous script (looks bad if it's done before) -GHS
 
 On the table was laid a memo.
                  『There's dinner perhaps』
@@ -28,19 +25,18 @@ OK, that was like three minutes ago.
 It's to cry.
 Anyway, to the diary.
 I open the thick diary book.
-//HACK dim BG -GHS
+//Second of three mentions of this. -GHS
 The records of life are really precious.
 I went to school.
 I believed that everyone would come, even if there were no people. Expectably, there were no classes held or anything, so I just hung out.
 Touko was extremely crabby and mean.
 She doesn't understand the situation, and seems all grumpy-grump and irritated.
-//HACK Misato rooftop pic -GHS
 On the rooftop, Mimi-senpai was having activities.
 She was putting together the antenna that had been abandoned there.
 That's not a simple assembly we're talking about here.
 It's really hard work.
 But that hard work is Senpai's salvation.
-//HACK BG with Miki pic. -GHS
+//Cough cooough. -GHS
 I was walking down the corridor to find Miki cleaning.
 Is cleaning to Miki what club is to Senpai, I wonder?
 //See CCB0007. She has read this line. -GHS
@@ -50,7 +46,4 @@ Miki at last gained one point over me.
 This is a most alarming problem, Headmaster!
 However, a pupil growing in skill is something to be honestly happy about.
 The day when she surpasses I, her mentor, grows near.
-//HACK disarm new stuff -GHS
-HACK also move the music fadeout earlier -GHS
 And lots of other stuff happened, so overall it was a good day.
-//HACK assuming it was copypastad from an earlier version of the script -GHS

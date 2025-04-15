@@ -45,7 +45,7 @@ He hesitates to say.
 "Eh, well. Got no worries in the immediate."
 [Taichi]
 "I should be fine if I can get through the one week."
-//HACK perplexed Tomoki -GHS
+//Slightly specified. -GHS
 
 [Tomoki]
 "Huh?"
@@ -55,7 +55,6 @@ He hesitates to say.
 //Tsundere -GHS
 [Taichi]
 "Got something to do in the infirmary?"
-//HACK earlier doll change -GHS
 
 Tomoki's face twitched.
 
@@ -134,7 +133,7 @@ He seriously produced some chewing gum and chocolate.
 
 [Taichi]
 "You're an amazing fella ain'tcha."
-//HACK perplexed Tomoki -GHS
+//Tomoki is an American soldier, and that's why Taichi keeps saying his club is the Peacekeeping Corps -GHS
 
 [Tomoki]
 "Eh... what? Really, you said yourself you wanted them didn't you."
@@ -164,7 +163,6 @@ Disgusted.
 "But the inference continues nonetheless."
 [Taichi]
 "Are there injuries anywhere?"
-//HACK shocked Tomoki -GHS
 
 Tomoki is somewhat surprised.
 It is immediately replaced by a face that feels sarcastic.

@@ -1,5 +1,4 @@
 So then.
-//HACK to school BG for this school-only script. -GHS
 :K_ON1
 IF $SB_KRI == 1 JMP T_ON1
 IF $SB_TKO == 0 JMP K_T_ON1

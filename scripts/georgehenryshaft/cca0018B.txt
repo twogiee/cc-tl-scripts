@@ -1,6 +1,5 @@
 IF $loop == 0 JMP NORM
 //93 lines saved. -GHS
-HACK Flashback intro. -GHS
 JMP SCENE
 :NORM
 JMP SCENE
@@ -336,4 +335,3 @@ Not much of a big deal.
 How the guy who said this will be shown to have Taepodong-class knothole eyes will become clear afterwards.
 //It's indeed the missile, which fits into the Nations of the World thing - "he has rockets big enough to threaten Japan", except it's not a sexual metaphor (somehow). but this refers to a type of creepy dolls called 'murder dolls' (殺人人形), who have eyes like knotholes. Chucky from Child's Play seems to be among the most popular, curiously. This ties to Taichi's backstory as a human doll, automatic behavior, Taichi's own eyes, and more. -GHS
 IF $loop == 0 RET
-//HACK flashback exit whiteout -GHS

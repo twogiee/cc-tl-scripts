@@ -31,7 +31,7 @@ Seems to be Senpai's private property.
 I set the alarm for five minutes from now.
 This should wake her up,
 because Mimi-senpai does not have the Sleepyhead Character Attribute.
-//HACK zoom it. The console versions erroneously switch to a full antenna zoom here - even the 360 version, though it's harder to see since the top of the antenna isn't visible due to Top Grade Designers who evidently thought the main feature of the rooftop was the big flat pavement. -GHS
+//See CCC4019, CCD1001. She doesn't have it as Character Attribute, but that doesn't mean she doesn't oversleep. -GHS
 Running my fingers held over the netting for fall & suicide prevention, I move towards the stairs.
 
 [Taichi]
@@ -52,7 +52,7 @@ In Gunjou, where so many people live in their own fantasies, that's a serious ma
 
 Well, with our members we should be alright.
 None of our members had impediments to our normal daily life.
-//HACK unzoom it. Still the erroneous full antenna in the console version. And the 360 version just pauses for a second to reload the same BG. -GHS
+//Taichi x1.5, Kiri x0.5, Misato x2 (half are the attempts/near-deaths). Plus Yutaka. Troll meter is approaching the red line. -GHS
 Slowly I head towards the stairs.
 I open the door.
 //??????? what arcade cabinet did this come from? -GHS
@@ -64,4 +64,3 @@ From behind my back, I could hear the sound of the alarm clock,
 and Senpai making an odd voice.
 //Because 21st Century Moekko, see CCC3016 -GHS
 With a tiny little smile, I close the door behind my back.
-//HACK black screen. There's some damn persistent doll leftover here from previous scripts, so doing it like this. -GHS

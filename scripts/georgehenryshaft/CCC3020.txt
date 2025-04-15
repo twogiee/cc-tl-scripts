@@ -134,7 +134,6 @@ Youko-chan knocked on the window.
 "...what?"
 
 I open the window.
-//HACK zoomed Youko -GHS
 
 [Youko]
 "Get out."
@@ -143,7 +142,6 @@ I get out.
 
 [Youko]
 "Wait here."
-//HACK and out -GHS
 
 [Taichi]
 "...'k."

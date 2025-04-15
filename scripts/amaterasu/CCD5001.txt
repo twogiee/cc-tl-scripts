@@ -457,6 +457,7 @@ Naturally, Youko-chan knows that I've been avoiding her.
 "Not good."
 
 Never being serious is one of my charm points, which I achieve by cutting my emotions away and reunifying them later. But there are many drawbacks to never being serious.
+//Ehe, I did some stuff to it. It should make more sense now - Sheeta
 
 [Taichi]
 "Hasekura Youko......huh?"
@@ -494,6 +495,7 @@ Because I can predict that she'll become more and more wary of my actions as the
 Fewer and fewer days remaining...
  = A reduction in the possibility of the current me continuing.
 If I do the math on the greatest possibilities......today is the most appropriate for attack.
+//Greatest possibilities doesn't sit well with me. It was read really awkwardly. I don't know how to fix it, but I'd like to draw attention to it in case someone agrees -Neko
 If there's a day I can make her drop her guard, it's today.
 
 [Taichi]
@@ -520,6 +522,7 @@ To make her temporarily powerless,
 
 [Taichi]
 "A stun baton, or something."
+//I want to change all these to "baton." It makes sense why he would need to be so close to her later on.-Spin
 
 I should still have one here.
 I searched my room.
@@ -724,6 +727,7 @@ So she won't even let me go to the bathroom.
 
 [Youko]
 "Here's your food......"
+//She says rice in here. Why not "Here's some rice"? -Neko
 
 [Taichi]
 "At least release one of my hands."
@@ -936,6 +940,7 @@ A low voice leaked out.
 
 Lips pushed against me. Zig-zagging motions.
 From what I could see by looking straight ahead, the tip of her tongue was leaving a wet line along me.
+//Sorry, but 'my rod' made me laugh XD - Sheeta
 
 [Youko]
 "Nnn, nnnnnn, *lick!*......*kiss*......nn!...... It's getting...sticky...Taichi."
@@ -1028,6 +1033,7 @@ IF $KAISOU == 0 JMP N_SCENE101
 IF $nonero != 1 JMP youkoHend2
 :youkoHend1
 That evening, I was distressed until the middle of the night.
+//I'm playing the original. This line was repeated twice as I played. Was this intentional? -Neko
 :youkoHend2
 
 [Taichi]
@@ -1084,6 +1090,7 @@ And she was carrying dangerous things.
 
 She held out her objects.
 A bucket and......a cylindrical enema device.
+//I hope this isn't going in the direction I think it is... - Sheeta
 
 [Taichi]
 "-!? -!?"
@@ -1138,6 +1145,7 @@ Naturally I was erect.
 
 [Youko]
 "Then I'll massage it."
+//That's hilarious - Sheeta
 (TL Note: This is Japanese slang for the phenomenon in which total exhaustion causes an erection without any sexual stimulation.)
 
 IF $nonero == 1 JMP youkoHend3
@@ -1269,6 +1277,7 @@ Super high speed piston movements.
 This was bad.
 Like the onset of prostate fluid due to a pleasure signal sent to my lower abdominal mind through my reproductive organs from a central spinal reaction fallen into an excited state from regional stimulus to the genitalia like a stimulus to my core cerebrum--
 It seems a phenomenon in which a mixed fluid with a certain kind of wonderful cell is emitted from my urethra is being triggered.
+//Hurrah for run on sentences! - Sheeta
 
 [Taichi]
 "Aaah......wait, stop......!!"
@@ -1762,6 +1771,7 @@ Various things were dealt with.
 My body was wiped with a steamed towel.
 Once those were finished, her fingertips caressed my lower abdomen.
 My penis bent backward as if anticipating.
+//How many ero scenes are there in this mini-route?! T_T - Sheeta
 IF $nonero == 1 JMP youkoHend7
 
 [Youko]
@@ -1857,6 +1867,7 @@ About feelings---
 I just think, that I want to disappear.
 I can't avoid what I think.
 IF $nonero == 1 JMP youkoHend9
+//NOOOOOOOOOOO - Sheeta
 JMP N_SCENE002
 :SCENE002
 :N_SCENE002
@@ -2047,6 +2058,7 @@ Because if I didn't, I probably wouldn't accept her.
 
 The sensation of both our juices had been dulling, but after moving several times her vaginal pressure had chased out the excess fluids.
 She and I. Our low, muffled breaths overlapped.
+//breathings isn't a word. -Neko
 The hand she left on my stomach tickled.
 
 [Youko]
@@ -2112,6 +2124,7 @@ How long did that last?
 
 [Youko]
 "Nnn......nn! Ha! Aha! Ha! Haaa! ......Nn......ah......cumming......I'm cumming too......again......I'm---! ------!!!"
+//Spacing issue that appeared in game. -Neko
 
 She rose up as a bow.
 Her vagina tightened.
@@ -2150,6 +2163,7 @@ $SNCCD5001_2 = 1
 IF $KAISOU == 0 JMP N_SCENE102
 :N_SCENE102
 I think......today is Sunday.
+//Removed apostrophe due to a slurred s that ruined the spacing between the last two words. -Neko
 My head was feeling refreshed.
 Because yesterday... Yes, yesterday...I disgorged everything.
 My passion left, and rationality returned.
@@ -2161,6 +2175,7 @@ You could say that meant Youko-chan made a mistake.
 The parts of the chains connected to the bed were the most fragile.
 I put continuous force on them, but there was no sign of them coming off.
 Which means......I really do have nothing but the joker.
+//It's a really obscure card reference, uncommon at that, but it's translated correctly, and is minor enough not to justify a change. It's read the right way, and the meaning is conveyed. -Neko
 I became melancholic.
 Someone who was once my other half.
 Would this...be a betrayal?
@@ -2599,6 +2614,7 @@ I informed her gently.
 "Because you have a strong, superficially excellent mind, you can't disobey a resolve once laid down."
 [Taichi]
 "You had become automatic."
+//Removed apostrophe for powerful, absolute intensity. -Neko
 [Taichi]
 "What would you do if you were crushed under your own weight?"
 [Taichi]
@@ -2872,6 +2888,8 @@ But I have no such intention.
 
 [Taichi]
 "Yeah......thank you, mom."
+//WHAT?! - Sheeta
+//Might be appropriate to capitalize Mom here, since he's calling her by the name. -Neko
 
 [Nanaka]
 "Nahaha."

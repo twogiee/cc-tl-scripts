@@ -51,13 +51,12 @@ Ah, dust's been accumulating.
 ...I'll sweep up a bit later.
 Apologies, Mutsumi-san.
 I withdraw with a bow.
-//HACK back to the living room. -GHS
+//Interesting aside, isn't it? It's as if he just entered her room, was told to clean things up a bit, and left with an apology for his suddenly barging in. And watch what comes up! -GHS
 So, where to next.
 There was one room that I had not searched.
 
 [Taichi]
 "It can't be."
-//HACK back to darkness -GHS
 
 I return to the second floor,
 to my room's... closest room.
@@ -106,8 +105,6 @@ Sakuraba did not release the tomato even after collapsing.
 
 [Taichi]
 "What are you doing!"
-//HACK music later -GHS
-HACK don't just pop the doll in! -GHS
 
 [Sakuraba]
 "Listen here."
@@ -188,7 +185,6 @@ I showed him to the latrine.
 
 [Taichi]
 "Here is your room."
-//HACK don't just pop the doll in dammit! The scripter must've been asleep here... -GHS
 
 [Sakuraba]
 "Inn'it small."
@@ -255,7 +251,7 @@ Having said that, however, Sakuraba...
 
 [Taichi]
 "CONFISCA-CHUUUUTE-ING!"
-//HACK independent BG shake -GHS
+//Confiscate + chute-ing http://ja.wikipedia.org/wiki/%E6%97%A5%E7%AB%8B_%E4%B8%96%E7%95%8C%E3%83%BB%E3%81%B5%E3%81%97%E3%81%8E%E7%99%BA%E8%A6%8B! (yes, the link has a ! at the end). Curiously, Boschuuto googles, but not to enough links for my liking. -GHS
 
 I revolved into a collapse.
 
@@ -364,7 +360,6 @@ We snicker together as if babbling brooklets.
 I open the wallet.
 Sure enough, there was no paper money inside.
 Inside there were fifteen gold coins, ten thousand yen each.
-//HACK to black. -GHS
 
 [Taichi]
 "Mister Yeeen!!!"
@@ -384,7 +379,6 @@ The hell's this walleeet!
 First time I see something this impossibleee!
 Looking closely, they weren't only ten thousand yen gold coins.
 //Ah, the coins are celebratory of Japan because he's extremely Japanese, connecting back to the Real Japan As Narnia reading. -GHS
-HACK NVL mode. The engine does NOT like lines that start with a single number, so those start with a space. -GHS
  8 x 100,000 yen gold coins commemorating the
 60th year of the Showa Emperor on the Throne.
 //1986-1987. This is another strong hint that this takes place in 1998, as there were 10th anniversary coins of the following Emperor just 1999. He can't have these in 1986, and it'd be odd he wouldn't have those in 2009. -GHS
@@ -399,9 +393,8 @@ International Garden and Greenery Exposition.
 //1990. -GHS
  3 x 5,000 yen silver coins commemorating the
 Wedding of the Crown Prince.
-//HACK ADV mode -GHS
+//1993 again. Curiously, the term is different, but there's no other crown prince commemorative coin on record. Also, he has a total of 7 5,000 yen coins. -GHS
 All these and no more.
-//HACK back to Sakuraba -GHS
 
 [Taichi]
 "You stupid or something!"
@@ -459,7 +452,6 @@ A presence behind me.
 
 [Taichi]
 "...Sakuraba? Already feeling like you want to leave?"
-//HACK earlier Youko -GHS
 
 [Youko]
 "Taichi..."
@@ -488,16 +480,13 @@ Youko-chan is... just like... like she was at that time...
 
 [Youko]
 "...Taichi..."
-//HACK zoomed everything -GHS
 
 I am approached.
 
 [Taichi]
 "Wa... wait...?"
-//HACK de-zoom Youko (and BG, since it looks silly otherwise) -GHS
 
 I step back.
-//HACK out with the doll. -GHS
 
 [Youko]
 "Taichi!"
@@ -515,7 +504,6 @@ I don't understand this at all.
 
 [Taichi]
 "What... do you want..."
-//HACK doll back -GHS
 
 She, however, quickly distances her body.
 
@@ -550,7 +538,6 @@ It's the response to this weak part of her, who is always so strong.
 
 [Taichi]
 "Not happening!"
-//HACK return, no change in doll -GHS
 
 [Youko]
 "But."
@@ -564,7 +551,6 @@ It's the response to this weak part of her, who is always so strong.
 //Hmmm, see CCC045A, but... -GHS
 [Taichi]
 "And I will have you keep them, too."
-//HACK other zoom. -GHS
 
 [Youko]
 "Mutsumi is no more."
@@ -602,7 +588,6 @@ The voice raises until a shout.
 
 [Youko]
 "..."
-//HACK out with the doll now -GHS
 
 Wordlessly,
 Youko-chan leaves,
@@ -612,7 +597,6 @@ And yet, inexplicably, to me she appeared to be horribly worn out.
 
 [Taichi]
 "'night."
-//HACK back for a moment. -GHS
 
 [Youko]
 "...'night, Taichi."

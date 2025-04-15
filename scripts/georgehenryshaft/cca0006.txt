@@ -97,7 +97,7 @@ I can really see her panties, and if I'd been any closer my rationality'd be in 
 //Vs. what he did with Touko just before. -GHS
 Having given plenty of prior consideration to the possibility of the strong wind giving me a show of panties, and therefore steeled myself for that beforehand,
 I was therefore still somewhat calm despite ending up witness of the well-proportioned and furthermore sensual sinful thighs of this third year girl, as well as bearing the brunt of the passion of the reverse triangle that like an eagle unopposably ensnares the male heart.
-//HACK NVL mode -GHS
+//This line was split, but the whole description's been moved to NVL. Sinful, of course, meant literally. -GHS
 * "Passion of the reverse triangle that like
    an eagle unopposably ensnares the male heart"
 //See CCZAS. We're in a Post-Babel world too, it seems, that humans have their own languages. Eagles because Tolkien (actually Bible, but let's not go into the advanced stuff). -GHS
@@ -110,7 +110,7 @@ I was therefore still somewhat calm despite ending up witness of the well-propor
   more lascivious colors are valued lowest;
   however, depending on the situation, these
   standards will change.
-//HACK ADV mode -GHS
+//Nanaka's panties are pure white, so it's more references to her. Despite Misato's being obviously white, they'll later be referred to vaguely blue. This I have nothing: maybe Taichi IS just colorblind. That last one sorta reminds of the Shimura phenomenon, but I suspect it just means "he'll drool whenever panties are in front of him regardless of color, unless he's giving random critiques". After all, he'll download Kiri's panties, too. -GHS
 Without doing that, there would be no way for stinkbugs like I to ever restrain their sexual appetites when confronted with the offenseful carnal desires induced by this third year girl's loins.
 //All the insect stuff means him being a stinkbug is also meant literally. Notice that this is meant in reaction to his steeling himself, not the standards changing. ...though I suspect ambiguity as both work, really. -GHS
 
@@ -175,7 +175,6 @@ Her face twitched.
 
 [Misato]
 "Sigh... please be patient some mooore!"
-//HACK zoom the rooftop! Get used to this. I used the 1280x960 files with no resize, just cropped to 640x480. Works nice. -GHS
 [Misato]
 "Yes, here I am now."
 
@@ -183,9 +182,8 @@ She smiles brightly, her hands overlapped in front of her.
 The exact spot where her hands met seemed to be hiding Omata.
 * Omata (kanji: small, crotch) = Taichian for the
   nether region. It somehow got anthropomorphised.
-//HACK dim the screen. -GHS
+//Went with the more famous reading of those kanji: http://ja.wikipedia.org/wiki/%E5%B0%8F%E4%BF%A3%E9%9B%85%E5%AD%90 http://ja.wikipedia.org/wiki/%E5%B0%8F%E4%BF%A3%E6%B0%8F Literally it's of course a slightly formal way to say "fanny". Many things get antropomorphised here; Taichi wishes to be one of an insect, after all. -GHS
 Launching intracranial Photosh*p (pirated copy).
-//HACK that addition is from the 360 version. Nice censorship, by the way. -GHS
 Startup completes in 0.1 seconds. That's why it's intracranial.
 //That would still make it about 1 second. -GHS
 
@@ -230,7 +228,7 @@ Yes.
 My math homework folder I know as,
              The Forbidden Secreted Holy Ground
                        〜SANCTUARY〜
-//HACK remove dim, with doll change -GHS
+//Should sound like a bad nukige title now. -GHS
 
 [Misato]
 "What has happened to your maths homework folder?"
@@ -497,18 +495,14 @@ CSQ 0 1 1 1
 IF $B == 1 JMP RESPA
 IF $B == 2 JMP RESPB
 IF $B == 3 JMP RESPC
-//HACK Original game only had an answer for option 1, this adds the rest from the console version. There's not much difference. -GHS
 :RESPA
 Making a straight-man response is impossible!!!
-//HACK independent BG shake -GHS
 JMP RESUME
 :RESPB
 Knocking her down is impossible!!!
-//HACK independent BG shake -GHS
 JMP RESUME
 :RESPC
 Making her atone is impossible!!!
-//HACK independent BG shake -GHS
 JMP RESUME
 :RESUME
 
@@ -575,7 +569,6 @@ Seems that subject has returned all of a sudden.
 An indistinct sadness came to that melon-shaped silhouette.
 //Still not sure whether he's talking about her face or her b-GHS
 Seeing something so as if to cry makes my chest tighten.
-//HACK dim screen -GHS
 That's right.
 It is her alone who can make me feel that.
 That proud, conventional, ordinary puff of the chest... an emotion.
@@ -583,17 +576,15 @@ That proud, conventional, ordinary puff of the chest... an emotion.
 Even setting aside whether or not these feelings are caused by her being of opposite gender, I think I really like this person.
 I want her to be happy,
 I don't want to be hated by her.
-//HACK disarm fade, blurred zoomed rooftop (even that? ;_;) -GHS
 
 [Misato]
 "Is there some problem?"
 
 [Taichi]
 "d'Wah?!"
-//HACK independent BG shake -GHS
 
 Senpai upped the level of proximity of her face to right under my nose.
-//HACK back to zoomed rooftop -GHS
+//See? Random English to disarm the atmosphere he can't handle. Plus he once again stopped and went into his random thoughts. -GHS
 
 [Misato]
 "Wah?"

@@ -95,6 +95,7 @@ She held up a wrapped object.
 
 [Taichi]
 "Sempai banzai."
+//Just noticed it was weird to say [Japanese word] (TL note: [Japanese word] should be tled as [English words]), so I changed the phrasing a bit. 〜IX
 (TL Note: A "bentou" is a Japanese boxed lunch. It's holistically similar to a Western picnic basket, although it's smaller, more likely to contain small vegetables and meant to be eaten with chopsticks.)
 
 [Misato]
@@ -139,6 +140,7 @@ She held up a wrapped object.
 
 [Taichi]
 "I think I miss her."
+//Original line made me think that he wasn't sure that she is missing. Wait, isn't she still alive? Change it back if she is.-Spin
 
 [Misato]
 "Peke-kun."
@@ -151,3 +153,4 @@ The candle's delicate flame shone a soft crimson light onto her cheek.
 CSQ 0 1 1
   -Approach her
   -Play it safe
+//I would love alternate suggestions for adapting these. Especially the second choice. 〜IX

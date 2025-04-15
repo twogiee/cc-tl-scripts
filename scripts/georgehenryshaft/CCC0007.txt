@@ -40,7 +40,6 @@ In this peculiar air of tension, the throat dries up,
 and I end up feeling like it is out of the question to make any sound.
 //Doesn't matter if it's a big Cathedral or a tent in the middle of the desert, nor a hokora in a forest in the mountains. -GHS
 I draw near the hokora.
-//HACK zoom the hokora (there's 2 more layers to go) -GHS
 
 [Taichi]
 "..."
@@ -99,7 +98,6 @@ Volume numbers.
 //This is definitely Youko's handiwork. -GHS
 I try leafing through the notebook numbered 1.
 .........
-//HACK dim screen, BG with Touko pic. -GHS
 Monday
 Today I went to school, but cut class.
 //Someone merged these two lines in both the PS2 and 360 version... but not on the same page, on the same LINE despite the lack of punctuation. It now reads "Monday today I went to school...". I compromised and put them on the same page. -GHS
@@ -107,8 +105,7 @@ Touko was extremely crabby and mean.
 Must be that time of the month.
 But it's not nice that she gets eight kinds of angry because of biology.
 As revenge, I'll do mean things to her in this diary.
-//HACK NVL mode -GHS
-No voices in these. -GHS
+//No voices in these. -GHS
 
 [Touko]
 "No! Stop!"
@@ -138,7 +135,6 @@ No voices in these. -GHS
 
 [Touko]
 "NOOO! Have mercy!!!"
-//HACK removed many of these. Unsure how they were split, probably looking at the original script or standard page sizes. It's been changed in the console versions anyway to follow thematically instead of seemingly at random. -GHS
 
 [Me]
 "Do I look like I have ears that know how to
@@ -147,25 +143,20 @@ No voices in these. -GHS
 
 [Touko]
 "...animaaal!!!"
-//HACK ADV mode, same for SFX as above -GHS
 
 Close-up of a vase containing a red rose here. Soon afterwards, cut the flower at its base, that it falls to the ground in silence.
-//HACK whiteout -GHS
 The screen blurs, whiteout.
                            【FIN】
-//HACK BG with Miki pic. -GHS
 I was walking down the corridor to find Miki cleaning.
 The tips of my fingers fired towards Miki's ass with the speed of lightning, but merely grazed and couldn't seize the substance.
 But Miki had been slow up until now, enough that I could touch her as much I liked.
 This is a most alarming problem, Headmaster!
 However, a pupil growing in skill is something to be honestly happy about.
 The day when she surpasses I, her mentor, grows near.
-//HACK BG with Misato pic. -GHS
 Went and had club activities for the first time in a while, and got all squishy-squishy with Senpai.
 On this day I have finally managed to reach a goal point.
 I am moved to tears, lots.
 And lots of other stuff happened, so overall it was a good day.
-//HACK away with all -GHS
 
 [Taichi]
 "But this..."
@@ -180,9 +171,7 @@ But,
 "Odd innit."
 
 Next page.
-//HACK dim screen and, uhm... K -GHS
 Tuesday.
-//HACK NVL mode -GHS
 Make those emotions objective!
 Who was it that first took the curry out of
 the curry bread and ate that with rice?
@@ -256,7 +245,6 @@ induced, the faint subodorare of young woman in
 an instant whisks me into a delusional world of
 delusional delusion.
                                             ~FIN~
-//HACK remove everything and ADV mode -GHS
 That unmistakable style I have in normal times.
 //He doesn't recognize the calligraphy, just the style. And nothing will be mentioned on this until the Youko route. How odd. -GHS
 But isn't this weird?
@@ -292,7 +280,6 @@ Wednesday.
 Hm. Next.
 Thursday.
 And then, Friday.
-//HACK beach CG insert -GHS
 Today we went to the beach.
 Last year we had gone to the beach with everybody.
 This year, it turned into something really lonesome.
@@ -304,9 +291,7 @@ It's because of all the things that have happened.
 But the reason is not only in that.
 ...there were problems inside our hearts, as well.
 And now, in the world there is us and nothing else. What to even think about a composition so full of irony.
-//HACK rooftop insert -GHS
 At night, I went to see what Misato-senpai was doing.
-//HACK ~infinite loop~ -GHS
 Incidentally, I remembered the words of this girl named Nanaka, and went to look at the hokora.
 //See CCA0006. Heh. -GHS
 I find it easy to act at night. It's a weird genetic make-up.
@@ -328,7 +313,6 @@ I should definitely do this.
 And so I returned home and brought with the diary I had written until today.
 //I suppose he also added this then. -GHS
 Therefore the diary has its conclusion here.
-//HACK out with graphics -GHS
 This is how volume one ends.
 Volume two.
 Contents are nearly one and the same.
@@ -341,14 +325,12 @@ For example the timing of the meeting with the Flowers was different, and the in
 But in rough terms, contents appear to be traced over the exact same reiterated week.
 Just as if the exact same period of time was being repeated countless times...
 Thinking composedly, there are several possibilities indicated by these diaries.
-//HACK NVL mode -GHS
 1) There is one more personality in me that
    is writing on its own;
 2) Something written by a future me has ended
    up here;
 3) The same period of time is repeating over
    and over.
-//HACK ADV mode -GHS
 Number 1) isn't it. Guaranteed.
 Because there is no such thing as giving typewriters to monkeys and them writing out Shakespeare by accident.
 //Note how this only and specifically excludes that any split personality he may have could be writing the diaries. Youko never wrote anything but that note. Remember Shakespeare, because All The World's A Stage... and we're all actors in the Great Play of God (see CS Lewis). -GHS
@@ -472,7 +454,6 @@ So I thought, but I entered without difficulty.
 Enter I can enter, but I can make almost no movement.
 I am enveloped by the sensation of having become cuboid.
 I tried closing the doors.
-//HACK black it all -GHS
 
 [Taichi]
 "Done."

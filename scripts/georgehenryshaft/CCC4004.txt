@@ -1,9 +1,7 @@
 Club activities.
-//HACK sky instead -GHS
-HACK no music -GHS
 Miki flew out from under cover.
 She cannot escape my eyes.
-//HACK new CG & Music, "Airwaves". It looks nothing like a gun fight, but... look how realistic those guns are! There's no way they'd let these people play with stuff this realistic in modern day America, let alone gunphobic Japan. More interesting the music piece: I kept wondering where that piece plays. Turns out, it never actually does! It's never called anywhere in the entire original unmodified script. This is the first time it's heard in-VN at all. -GHS
+//Focus on eyes -GHS
 I squeeze the trigger of the Uzi SMG in my hands,
 //Interesting he doesn't just yank it like most would erroneously do. He sounds at least a little trained. -GHS
 making it fire its bullets.
@@ -75,6 +73,5 @@ Miki and Kiri go for a high-five.
 "This is the fourth defeat in a row... grrr!"
 
 Club activities were going well.
-//HACK to rooftop. -GHS
 ......wait.
 //This switch is unclear and very odd. It may just be that he's realizing this is all void, as CCC4005 hints, but there's much more that's odd here. See CCC3028: he has the same reaction when he notices Miki being too mature for what she should be. It may be he's noticing the same. The simplest explanation would be to contrast this script with CCC4006, then contrast the start of CCZAS with its second part. In the first, everyone's into the joke (and I wonder if it's been toned down not to look too off tone), in the second, the game is revealed. It's similar to what goes on in Week 1 vs. Week 2, though if the parallel is to be taken that way, then there's still plenty missing that's not revealed directly. -GHS

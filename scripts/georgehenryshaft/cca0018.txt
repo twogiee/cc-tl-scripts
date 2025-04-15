@@ -45,14 +45,12 @@ The inauguration of the Gunjou Institute Broadcast Department.
 
 [Taichi]
 "The Prez."
-//HACK Tomoki astonished -GHS
 
 [Tomoki]
 "...that's it?"
 
 [Taichi]
 "Yep."
-//HACK Tomoki shocked (for some reason it used to return to the normal doll here, which is pointless) -GHS
 
 [Tomoki]
 "That ain't a club..."
@@ -98,7 +96,7 @@ Fragmentary, to say.
 
 [Tomoki]
 "The President."
-//HACK keep silence -GHS
+//Oh great it turned into metal gear again -GHS
 
 [Taichi]
 "Why?"

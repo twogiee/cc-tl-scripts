@@ -48,11 +48,10 @@ There's little more than a length of pointless distance.
 'Tis but countryside.
 //Randomly formal. See CCZAS, where Taichi lives on the far western side, in the wilderness, because he thinks himself an animal: there is no exit down that road. -GHS
 Some time ago, this guy Sakuraba from my class said:
-//HACK superimposed Sakuraba, serious face, with screen dim -GHS
 
 [Sakuraba]
 『I will prove myself by conquering the peak with this new bike. Because... I think that's what I need to do for my sake, right now.』
-//HACK vanish Sakuraba -GHS
+//This is an extremely important line, considering that he manages to head to the outside world (heaven) with the bike. Which is a tricky vehicle to use in this place, see CCA0004, but is used by Nanaka like it's nothing, see CCA0003. See CCZAS, Mad Taichi (who uses that bike like nobody's business because it's that much of a troll) will also say this line. Notice the NEW in western Kanji(sp): Sakuraba should speak American. -GHS
 
 And so he left for his journey, all while his teeth shined.
 Then,
@@ -82,7 +81,7 @@ The authorities reprimanded Sakuraba to the fullest, and his bicycle was impound
 And what's more, he became the laughingstock of the school.
 He kept monopolizing the top spot of the front page of the school newspaper for a long time.
 Particularly, the specifics of what he said as he let his mouth run off during the interview made the rounds all around.
-//HACK superimposed Sakuraba, laughing face, with screen dim -GHS
+//Interview was not necessarily on the subject of his escape. -GHS
 
 [Sakuraba]
 『Urgent newsflash! In the deep lands of Hasugatake, a mysterious man-made structure was sighted!』
@@ -92,7 +91,7 @@ Particularly, the specifics of what he said as he let his mouth run off during t
 //12 hours both ways? Unclear. -GHS
 [Sakuraba]
 『And at end of this long voyage, we can there finally see a truth so shocking that its impact could never even be imagined!』
-//HACK vanish Sakuraba -GHS
+//This whole thing makes waaay more sense if read metaphorically: the Supertechnology/nuclear power plant is what makes the world rich; in a sense, it's a gift/manifestation of God itself. The Alien is God, and the truth so shocking is, well, Cross Channel is a Christian story, and it has nothing to do with sci-fi. -GHS
 
 Total nonsense.
 In short, this idiot, while coming back home, drifted into a mountain that's not connected with the road.
@@ -100,7 +99,6 @@ In short, this idiot, while coming back home, drifted into a mountain that's not
 He probably wanted to try a shortcut.
 And then, he accidentally discovered a certain facility, and became all excited.
 After this, the interview became even more absurd:
-//HACK superimposed Sakuraba, serious face -GHS
 
 [Sakuraba]
 "In the hidden base..."
@@ -110,7 +108,7 @@ After this, the interview became even more absurd:
 "...because of armed soldiers..."
 [Sakuraba]
 "...the defiance of the conventional wisdom of humanity!"
-//HACK vanish Sakuraba -GHS
+//In one: 秘密基地が衝撃の武装した兵隊らによって人類の常識を覆す or "Humanity's conventional wisdom will be defied by the shocking presence of armed soldiers in the hidden base!" Still unsure if these are supposed to flow into each other. -GHS
 
 These are the top five words, by frequency, in the interview:
 //Super Memory is possibly what lets him remember this absurdly irrelevant trivia... except why would he remember irrelevant trivia about one of the more annoying guys he knows? -GHS
@@ -119,7 +117,6 @@ These are the top five words, by frequency, in the interview:
                 #3 "Discovery"    (x17)
                 #4 "Forbidden"     (x6)
                 #5 "Hair-raising"  (x4)
-//HACK reformatted + joined, since we have five lines now. I don't know what relationship all the sevens would have with the words themselves, if any. -GHS
 The campus newspaper suckled on the bones of the delicious game named Sakuraba until there was nothing left.
 Sakuraba understood with his flesh the cruelty of the press.
 Afterwards, his bowels loosened via stress and he had diarrhea for a week (this became an article).
@@ -190,11 +187,10 @@ A greeting with one raised hand.
 To those words so rich in esprit, a retort wealthy in wit would be suitable.
 //Accents don't work, likely Shift-JIS. -GHS
 Like...
-//HACK superimposed Touko -GHS
 
 [Girl]
 "Gwaaa〜h, whooo are you calling an Empreee〜ss! You shan't say something so stupid, shan't shan't!!!"
-//HACK vanish Touko superimposed -GHS
+//This needs to read like it walked out of some bad overwrought moege, sort of like this route really. 〜 for further cliched silliness. Shan't, see CCD0008B -GHS
 
 But there's no reply of the type expected.
 //From a Tsundere. -GHS
@@ -244,14 +240,13 @@ It was on my chin.
 It was a clean hit.
 It was too fast to dodge.
 Thrust upwards by the fist, the tip of my chin points to the heavens, the head thrown backwards.
-//HACK Kirihara Fist reimplementation. Animation runs a little fast, but it works out well all things considered. These are all PS2 screengrabs, I have no idea where the 360 edition stores the graphics for this effect. It may even be a system-generated effect, not a graphical sequence. -GHS
-fade-in is VERY slow -GHS
+//fade-in is VERY slow -GHS
 Yes, it sounds odd, but in both the PS2 and Xbox 360 versions, this SFX plays here and the rest is in silence. -GHS
 Split because there's too many frames for AL to handle in one go. It causes a very slight pause in the animation, but it's almost impossible to notice without knowing about it. -GHS
    KIRIHARA   STYLE   HIDDEN   MOTION   DIRECT   STRIKE
 //better centered but due to 5 lines it'll just never really happen. This is omitted in the console version, since the text is on screen, but the only alternative would be graphic editing that's waaay beyond my skills. -GHS
 A videogame-like Imaginary special effect danced in my mind.
-//HACK to properly fade in the screen from the new image, the old sky and Touko's new dolls must be loaded before the fade. Otherwise it looks like crap. And with this, one of the most complex hacks of the game ends. -GHS
+//It's actually "Air-" as in air-friends and air-guitars. There'll be a fair few of these, and they seem to indicate Taichi's memory leak of videogames into reality. Notice this very first one followed right after being beaten. -GHS
 
 [Touko]
 "...now come help take down the tents."
@@ -502,7 +497,7 @@ Perfectly Coordinated Hyper Pro-Level Leave-It-To-Chance Sketch.
 
 Silly and nonsensical, but pleasing:
 it's having fun, just for the moment.
-//HACK NVL mode -GHS
+//He is; the others... -GHS
             The training camp is ending.
           A new school term is beginning.
            Again normal days are coming.

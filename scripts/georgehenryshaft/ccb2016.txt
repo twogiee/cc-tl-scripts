@@ -57,7 +57,6 @@ they have the power to forget all that and look forwards to something pleasurabl
 
 [Taichi]
 "Do any indeed."
-//HACK dim screen -GHS
 
 Sakuraba's alright.
 //See CCA0011C. -GHS
@@ -67,7 +66,6 @@ Miki's OK, probably.
 Kiri's a harsh fog, but if Miki comes she should come with.
 //That was the pun anyway. -GHS
 Youko-chan's completely beside the point.
-//HACK back to normal -GHS
 
 [Taichi]
 "Some will come, I think."
@@ -95,7 +93,7 @@ And with that also considered, it seems that I might just like Touko quite a bit
 
 [Taichi]
 "Well, tomorrow we'll go with everyone, and Friday next week just with you, Touko."
-//HACK doll change a line before -GHS
+//Well, not that next week. -GHS
 
 A sudden shine in her face.
 
@@ -162,7 +160,6 @@ Well, whatever.
 
 [Touko]
 "〜♪"
-//HACK dim screen -GHS
 
 When I see a profile so filled with happiness, drenched in that sunset too red, my mischievous heart swells.
 ...a strong desire to lunge out at it all.
@@ -173,7 +170,7 @@ Sunset's not nice.
 It's a color that makes me feel the destruction of the world.
 //See CCA0017A -GHS
 Long ago I used to to think, isn't the world just being destroyed once every day?
-//HACK back to normal -GHS
+//And people say Cross Channel doesn't explain things explicitly. -GHS
 
 [Taichi]
 "...ah."
@@ -292,4 +289,3 @@ Gnaw!
 "OwChChCh! Don't gnaw my fingeeer!"
 
 For dinner we ate canned food to our heart's content.
-//HACK waiting, as usual, unneeded with the new flashback opening. -GHS

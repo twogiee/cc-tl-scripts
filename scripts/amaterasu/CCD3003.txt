@@ -53,6 +53,9 @@ She held up her pinky.
 
 [Taichi]
 "Not sure if you'd call her a koremon or a *****mon, but she is a convenient monster."
+//Since I have no idea what "koremon" actually means (well, I do, but it's not a remotely lexical meaning so there's no English for it) this was the best I could do with the gag. 〜IX
+//Supposed to be parody of Doraemon, from a popular decades-old family manga/anime series. - Raide
+//I back up Raide. Added another * to the censorship so it's not read as "Pokemon." Consider adding a "D" at the beginning to make it clearer. -Neko
 
 That could've been bad for copyright.
 
@@ -108,6 +111,7 @@ I turned my back to them.
 
 [Miki]
 "Th-thanks for the sandwiches, Sempai!"
+//This translation is far too generous. It wasn't overlooked in game -Neko
 
 I just waved my hand to the two of them behind me.
 I killed time until midday.
@@ -477,6 +481,7 @@ I was watching a happy scene.
 
 [Miki]
 "Aaah, kyaaa!?"
+//Anyone else wondering why Kiri's lines here tend to be copies and not Miki's? 〜IX
 
 While splashing around, they negotiated with water.
 So innocent.
@@ -555,6 +560,9 @@ An awkward greeting.
 A denouncement from Kiri, who still wasn't used to Gunjou Institute.
 An awkward silence.
 I spoke to Kiri about unadaptive persons.
+//Not people? - Raide
+//I don't understand this sentence O.o - Sheeta
+//I missed the explanation(assuming you gave one to Sheeta) but I'll do this anyway.-Spin
 Touching on the contradiction in Kiri's words,
 And predicted the future prospects for the girl she'd tried to protect out of that sense of justice.
 Then, I asked her a question.
@@ -1590,6 +1598,7 @@ She slowly turned around.
 "Sempai, why are you still alive?"
 
 『Hey, I have a question for you......why won't you go die already?』
+//What? Why will not you go die already? -Neko
 They overlapped.
 The past and present.
 Crossing.
@@ -1747,6 +1756,7 @@ Kiri's face turned pale.
 
 [Kiri]
 "!?"
+//Weird, this line has no voice in the source file. 〜IX
 
 [Youko]
 "Because you've been practicing to kill Taichi."
@@ -1794,6 +1804,7 @@ The revolutions fell.
 "What's so wrong about that?"
 [Taichi]
 "......isn't it fine?"
+//Interesting, he doesn't mention the reset this time. 〜IX
 
 [Youko]
 "............"
@@ -1860,6 +1871,7 @@ Youko-chan twisted her wrist.
 Kiri stuck out her head to hear our conversation.
 I held my palm up in front of her face.
 I thought the stone would hit my hand, but it missed and broke through the tree trunk behind me.
+//Now this is the sort of subtle change that makes me glad I'm going through these scripts line by line. 〜IX
 
 [Kiri]
 "Kya!!?"
@@ -1894,6 +1906,7 @@ Her shoulders shook.
 
 [Taichi]
 "You say I'm precious. You say that you love me. You push your good will onto me."
+//Goodwill is a word, but it's most commonly spaced. It's also read as if there's a space (A pronnuciative pause). The way it is now looks like a spelling error to the average eye, and there's no harm, nor change of meaning in spacing it. -Neko
 [Taichi]
 "......and yet, at times like this, you betray me."
 [Taichi]
@@ -2156,6 +2169,7 @@ Kiri looked at me as if watching something heterogeneous.
 
 [Kiri]
 "In order to deepen everyone's wounds?"
+//PCP Nice, it changed to a question. 〜IX
 
 [Taichi]
 "No."
@@ -2499,12 +2513,14 @@ Mine was a reserved pubescent body which might pass as an actor's.
 "Sorry, that might be impossible."
 
 As I struck poses like a bodybuilder, I think I appeared to be in my downfall.
+//I should mention this now: there are a number of lines below that don't make much sense to me, but I feel that is probably intentional. 〜IX
 
 [Taichi]
 "Then let's play."
 
 [Miki]
 "Aaah, aaah, aaah, Kiri-chin, the ball hurts, the ball!"
+//If the ball is a volleyball, how does it hurts? - Raide
 
 [Kiri]
 "I can't, can't, I said I can't!"
@@ -2634,6 +2650,7 @@ As I struck poses like a bodybuilder, I think I appeared to be in my downfall.
 
 [Taichi]
 "Now it's my turn! Hey, if I receive, then you lose the right to attack."
+//This is the kind of comma that's supposed to pause you for only a millisecond(not literally), like 1/4th the amount of a normal one.-Spin
 
 [Miki]
 "Ah, I'm sorry."
@@ -2752,6 +2769,7 @@ Kiri returned.
 
 [Miki]
 "Kiri-chin let go when she saw the child in pain from being pulled in both directions......that kindness is the love of a true parent."
+//Inappropriate biblical reference FTW. 〜IX
 
 [Taichi]
 "Gaaan!"
@@ -2792,6 +2810,8 @@ Both of them: "We aren't."
 
 [Taichi]
 "......that chorus irritates me."
+//Is it valid to use "chorus" as slang for people saying the same thing at the same time? It might just be my family that does that. 〜IX
+//Yeah. Example: "I'm not editing that!" They chorused together. - Sheeta
 [Taichi]
 "So should I move?"
 
@@ -3028,6 +3048,8 @@ I rubbed her head.
 
 [Taichi]
 "......it's not fluffy...but foofy."
+//Yay adaptation of Japanese onomaetopoeia trickery. 〜IX
+//Poofy could work - Raide
 
 [Kiri]
 "......I don't understand the difference......"
@@ -3061,6 +3083,7 @@ Kyo?
 
 [Miki]
 "Jealousy!!"
+//Engrish, do not edit. 〜IX
 
 She kicked and screamed.
 
@@ -4265,6 +4288,7 @@ S also liked being done by others.
 I, who was like a young girl, was made the partner of this man.
 The better half of those who did it, did it half as a joke.
 Every so often one of them would awaken. (lol)
+//Is LOL really supposed to be here?! It totally broke the tension -Neko
 Whatever mean things were done at the evening parties, they made a point of standing out.
 Something not unlike elementary school bullying took place there.
 Well, that's what group psychology is.
@@ -4487,6 +4511,7 @@ I smiled.
 "And I asked him."
 [Taichi]
 "'Hey, I have a question for you......why won't you go die already?'"
+//Same problem as above. -Neko
 [Taichi]
 "......that's what I said."
 
@@ -4506,6 +4531,7 @@ I pushed against her---
 "But......there was no way I could accept......a group that could remain healthy while attacking people."
 [Taichi]
 "Whether Yutaka was that or not...... I......really......"
+//Added a space due to awkward presentation in game (Ask me for a screen shot if you want it) -Neko
 [Taichi]
 "Now I think...since I had no grudge......things were fine the way they were."
 [Taichi]
@@ -5224,6 +5250,7 @@ I closed my eyes, and when I opened them---
 "Aaaaaaaaaa!!"
 [Kiri]
 "Haa, haa......why......uwaaaaaaaaaaaaaaaaaaaaa!!!"
+//Ok, Kiri's up there with Sakuraba as my favorite character now.-Spin
 
 [Taichi]
 "......"

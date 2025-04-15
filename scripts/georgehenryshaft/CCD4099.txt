@@ -17,7 +17,7 @@ The specifications of our convenient reset put it outside of choice at the weeke
 And these days themselves will also become a lesson, a preparation for life in the Eden that will one day come.
 //I suspect Tanaka has a very specific conception of what awaits in Heaven. If so, I agree with him. It's probably part of the reason why Cross Channel's meaning is so obvious to me. -GHS
 It is indispensable to grow into the habit, however bad, of living while expending time.
-//HACK to sky -GHS
+//This has nothing to do with wasting it, best seen in the ending. -GHS
 Casually, I look out of the window.
 Even in this world where not even the cicadas cry somewhere, someone, must be among us.
 //Renewing the idea that his messages also don't literally cross the barrier between worlds. -GHS
@@ -26,11 +26,9 @@ somewhere, someone, must be there.
 That is happiness,
 so excessively wholesome in its warmth the what is inside the chest tightened, only just a little.
 And then---
-//HACK end music -GHS
 $B = 1
 IF $SB_FALSE < 19 JMP L_INC
 JMP L_DODGE
-//HACK I've tweaked it. Watch out now. -GHS
 :L_INC
 $SB_FALSE + 1
 :L_DODGE

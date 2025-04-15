@@ -1,7 +1,5 @@
 Rooftop.
 //Saturday September 12, 1998 -GHS
-HACK rooftop zoom -GHS
-HACK this first part of the script used to be a complete copypasta from CCA0029, which has been mercifully cut in the console versions. Curiously, it now reads like a recapped flashback. Also, the non-copypasta lines are new (for what it's worth since they're all really short and to the point). -GHS
 I'm continuing work, when...
 
 [Tomoki]
@@ -30,7 +28,6 @@ I thought I would leave behind, in the diary, that a possibility like this exist
 
 [Miki]
 "Goood mooorniiing!"
-//HACK out the sky after Miki comes by -GHS
 
 [Taichi]
 "Could you go to the club room and bring me a new pair of gloves?"
@@ -76,11 +73,9 @@ She noticed.
 
 [Taichi]
 "Give me a good morning kiss."
-//HACK now it tried to display the wrong layer... -GHS
 
 [Kiri]
 "Eh............?"
-//HACK independent CG shake -GHS
 
 [Misato]
 "Coercing that kind of things is not acceptable!"
@@ -89,7 +84,7 @@ She noticed.
 "Hah'gyaaah!"
 
 It looks light but that fist was heavy.
-//HACK screen dim throughout the scene, stay on zoomed rooftop, no waits. -GHS
+//It's likely one of the many less-than-common transliterating, but like it happens several times, "heavy" is written with ヘビ(snake)+ィ instead of more common ways. Let's leave it at a "hmmm". -GHS
 
 [Miki]
 "I have fetched the gloooves!"
@@ -111,7 +106,6 @@ It looks light but that fist was heavy.
 
 [Miki]
 "Slip, slip, sliiip!"
-//HACK X Misato -GHS
 
 [Misato]
 "Wait, waaait!"
@@ -121,7 +115,7 @@ It looks light but that fist was heavy.
 //See CCA0012. -GHS
 [Miki]
 "I shall do nothing but penetrate through to the end!"
-//HACK swatdrop Misato -GHS
+//Not actually a quote, though see CCC0041. -GHS
 
 [Misato]
 "Those are very Peke-kun-ish things you say..."
@@ -150,7 +144,7 @@ It looks light but that fist was heavy.
 "Cover that up with something, reallyyy! It's making me siiick!"
 
 Noisy, noisy, loud and noisy.
-//HACK pixalate back to rooftop -GHS
+//Seems to be just an onomatope (that I can't source, natch) for loud chattering. Not the origin or connected at all... OR IS IT: http://ja.wikipedia.org/wiki/%E3%81%A8%E3%82%82%E3%81%A0%E3%81%A1%E3%81%84%E3%81%A3%E3%81%B1%E3%81%84 Voiced by Tanaka............... Mayumi. Since Tanaka, like John Smith, is very much a rare name, this is obviously connected. -GHS
 
 [Taichi]
 "...ngh, nngh..."
@@ -190,7 +184,6 @@ A sense as if the wind is piercing directly through to the skin. Did I get a fev
 
 [Taichi]
 "Uhmmm?"
-//HACK aggggg getting these three correctly positioned was a PITA... -GHS
 
 In unison, the sights of the three turned towards me.
 And then, in unison, all three were startled.
@@ -201,23 +194,21 @@ And then, in unison, all three were startled.
 //Moved the "fu!" down here -GHS
 
 I asked with gentlemanly tones and a smirk.
-//HACK and out -GHS
 
 [Trio]
 "KYAAAaaaaaaaaaah!?!"
 
 Ear-pearcing scream x 3.
 They ran away with the speed of a scared rabbit.
-//HACK to normal rooftop. -GHS
+//Normally it just means "at top speed", but... -GHS
 Therefore, I ran after them with the speed of a scared rabbit.
 
 [Taichi]
 "What has happened, nee-san?"
-//HACK don't just pop in -GHS
+//See CCA0016 -GHS
 
 [Misato]
 "Do-, don't come near pleeease! Don't get any close, noooo, disgustiiing!!!"
-//HACK out with the doll, footsteps SFX -GHS
 
 [Taichi]
 "Ehhhhhhhhhhhh!!!"
@@ -239,11 +230,9 @@ It was to cry.
 
 [Miki]
 "That is not the thing at fault at all! AHHH, don't get neaaar! Keyaaaah!"
-//HACK out with the doll, footsteps SFX -GHS
 
 [Taichi]
 "Am I that ghastlyyy?!"
-//HACK no doll -GHS
 
 [Miki]
 "Ahahahahahahahahahah!!! Kyaaah-kyaaah-kyaaah!!! It's shakiiing!!! It's totally shakiiing!!!"
@@ -255,7 +244,6 @@ She seems to be the only one having fun.
 
 [Kiri]
 "Wa, you don't, don'tdon'tdon'tdon't, you dooooOOOOOON'T!"
-//HACK out with the doll, footsteps SFX. Someone did a big mess with this SFX in the 360 version, which keeps repeating like 20 times. Maybe it's simulating running around... but it continues well beyond it making any sense. -GHS
 
 [Taichi]
 "Don't-ed so muuuch!"
@@ -317,7 +305,6 @@ I am more and more excited.
 
 [Kiri]
 "Ngh, ngh, ngh... do-, don't touch me molesteeeEEEEEER!!!"
-//HACK stop music -GHS
 
 [Taichi]
 "Gw'haaa!"
@@ -336,7 +323,7 @@ As I was getting up, the trio were vanishing inside the school building with fev
 I cried.
 //...meaning he can... -GHS
 These were the tears of humiliation.
-//HACK to sky, BGM "Fated". This is officially not intended to be funny anymore, although Taichi still isn't being serious enough. -GHS
+//...for himself. -GHS
 Is this sorrowful thing the truth then?
 Is the value of a human in the looks?
 I'm always being called 'cute' and 'adorable' and all that... are they all lies, then?
@@ -366,10 +353,9 @@ There is... but... dunno...
 
 Odd sobbing moans.
 The world was harshness, anywhere, anytime.
-//HACK to rooftop -GHS
 I hang my head.
 My p0n00 was out.
-//HACK stop music, shake screen -GHS
+//Wall of text justifying why references to Fate/Stay Night doujins are every bit as perfectly appropriate as ones to Kagetsu Tohya doujins. -GHS
 
 [Taichi]
 "What the hell is this!"
@@ -405,7 +391,7 @@ And in occasions like these: Positive Thinking!
 
 [Taichi]
 "Wasn't it because I become Full Throttle that my Martianhood was discovered?!"
-//HACK music "happy-go-lucky", Tomoki doll, and actually show the Sakuraba doll that's loaded here -GHS
+//See the beginning of this scene. That's him FT. -GHS
 
 [Sakuraba]
 "Is that because of the symbol of Mars that you have?"
@@ -466,7 +452,6 @@ The two were bringing in equipment.
 
 [Taichi]
 "Next we need a tent. The heat'll damage the equipment, and it'll get washed down if it rains."
-//HACK Yes, thanks for reloading the same doll that's displayed. -GHS
 
 [Sakuraba]
 "But if tents we need, there are three right here."
@@ -549,7 +534,6 @@ Damn, I laughed at it myself.
 
 [Tomoki]
 "Enough, stop!, stop, my abs are at the limit..."
-//HACK no need to stop music here -GHS
 
 The three of us reset our breathing.
 
@@ -567,7 +551,6 @@ The conversation returns to its origin.
 
 [Tomoki]
 "Eh?"
-//HACK stop music here -GHS
 
 [Sakuraba]
 "...the Shinkawa Yutaka accident."
@@ -644,7 +627,6 @@ In the first place, just up and making a broadcast channel would already be a cr
 
 [Taichi]
 "So, Sack's with batteries."
-//HACK smily Sakuraba (instead of reloading the same doll) -GHS
 
 [Sakuraba]
 "Yeah. Leave it to me, K."

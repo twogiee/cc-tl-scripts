@@ -1,7 +1,6 @@
 IF $KAISOU == 0 JMP N_START001
 IF $CIA == 101 JMP SCENE001
 IF $CIA == 102 JMP SCENE002
-//HACK implementing the calls for sex scene replay here, since they've moved -GHS
 :N_START001
 Me too, though.
 //He confirms. -GHS
@@ -91,7 +90,6 @@ but the bottom is agonizing worry.
 
 [Misato]
 "That... is..."
-//HACK ooookaaay... -GHS
 
 I reduce our distance by one step.
 Proximity.
@@ -100,14 +98,13 @@ Proximity.
 "Would you like me to give you that?"
 
 Automatism.
-//HACK ooookaaay 2... -GHS
+//This is possibly still what he's doing as usual, trying to connect. Very different from most sex scenes, in a sense. -GHS
 
 [Misato]
 "..."
 
 [Taichi]
 "With that, maybe things could become a little easier?"
-//HACK ooookaaay 3... -GHS
 
 [Misato]
 "That is... weird..."
@@ -117,7 +114,6 @@ Senpai grows perplexed.
 
 [Taichi]
 "Please come here."
-//HACK unzooming everything and removing doll -GHS
 
 I take her hands, leading her,
 interposing no process to manage refusal.
@@ -569,7 +565,6 @@ and stick to Senpai's nose.
 $SNCCD1001_1 = 1
 IF $KAISOU == 0 JMP N_SCENE101
 :N_SCENE101
-//HACK adding this as a better segue because zomgs trainwreck shit etc. etc. let's just get on with this. -GHS
 I feel like I want things to stay this way, always.
 My negligence in readying photographic equipment was regrettable.
 
@@ -1145,11 +1140,10 @@ there would certainly be a beautiful Trauma Counseling here.
 
 [Taichi]
 "...so difficult."
-//HACK earlier music stop -GHS
 
 I covered my face.
 I realized that I had failed.
-//HACK Flashback intro. -GHS
+//He did as he can't forgive the sins himself, but he can lead her to the way to do so. He failed because he never could do what he set himself to. ...and also because there's always the Moment of Strained Relationship in a route, isn't there. -GHS
 
 [Misato]
 "There are always informal names between close friends."
@@ -1236,7 +1230,6 @@ Seems "X" was at the base of her thinking.
 
 [Taichi]
 "...without so much as reciprocal support, like that thing they say about the Person kanji. It's just piercing through."
-//HACK minor addition at the end, lololol because sex scenes. It's very possible to understand all this without messing with the person kanji, but it's a nice (if trite) cultural detail to know. Compare 人 to X. -GHS
 
 Shake-shake, I shake my head.
 //Just kanji vs. katakana tho. -GHS
@@ -1399,8 +1392,6 @@ This is wrong, I thought, but still responded. We linked pinkys.
 "Whatever you please."
 
 I shrugged my shoulders.
-//HACK flashback exit whiteout -GHS
-HACK different transition back, zoom -GHS
 Evening.
 There Senpai was, after having expectedly took off on her own.
 Youko-chan was nowhere around.
@@ -1427,7 +1418,7 @@ But treading inside the heart is what I absolutely must do.
 It's Saturday.
 ...one more day.
 There is one more day.
-//HACK Zoom. Oddly, PS2 version uses the incomplete antenna for this, but that's obviously wrong. 360 repeats the error, as it often does. -GHS
+//Oh shit he's gonna make a pact with the devil again. -GHS
 I came as early as I could.
 From the looks of it, work was nearly finished.
 Employing Youko-chan was a good deal.
@@ -1482,7 +1473,7 @@ there absolutely must be exchange.
 If there is even only the feeling of a reciprocal touch of hearts, that will be it.
 That said, what to do to bring this to a smooth conclusion?
 I haven't a clue.
-//HACK zoom -GHS
+//It'll involve miracAls. -GHS
 I waited for so long.
 Neither Senpai nor Tomoki show up.
 
@@ -1503,7 +1494,6 @@ The sounds of destruction.
 "?!"
 
 I spring up.
-//HACK no zoom, but wrong BG there. -GHS
 I came out of the prefab.
 Tomoki was there,
 
@@ -1534,7 +1524,6 @@ He's not aware of my presence.
 The zeal of the assembly of a scale model makes one's vigilance towards the surroundings grow lax.
 //Reference to how he's totally dedicated to this; however, this sounds oddly like a completely off-place reference to Sakakibara-sensei, who's known to build scale models (though of girls). -GHS
 I approached without words, and punched him.
-//HACK shake screen before doll -GHS
 
 [Tomoki]
 "...?!"
@@ -1591,14 +1580,12 @@ Sitting astride on Tomoki, seemingly resigned and nonresistant, I begin talking.
 
 [Tomoki]
 "...?!"
-//HACK dim screen -GHS
 
 The act of knowing your real self, and attempting to conceal it.
 //The irony is in how THIS is his concealment. -GHS
 The act of willful deception.
 An opposition to the universal good conduct of showing one's honest self,
 and therefore an absolute must not.
-//HACK back to normal -GHS
 
 [Taichi]
 "And in the end, I was discovered."
@@ -1657,7 +1644,7 @@ It had became rarefied.
 "But if you accept that, then don't you stick a reason to those feelings!"
 [Taichi]
 "So that you won't end up sticking a lie to your feelings of love..."
-//HACK early stop music, zoom -GHS
+//This doesn't make much sense. Well, let's pin this down to Taichi not quite 'getting' much of this. -GHS
 
 [Tomoki]
 "...but I wanted to tell her that..."
@@ -1811,7 +1798,6 @@ rules are its wreckage.
 "...say now... Tomoki... I, well..."
 
 A tearful voice goes through me. It's headed towards Tomoki.
-//HACK more serious Tomoki -GHS
 
 [Tomoki]
 "You shut up!"
@@ -1825,7 +1811,6 @@ I was a convenient wall.
 "Father protected you, you know?"
 [Tomoki]
 "When mother wanted to toss you away, he protected you, didn't he!"
-//HACK doll -GHS
 [Tomoki]
 "And you betrayed that father... for what? I don't get it at all... I don't get the point of that."
 
@@ -1833,7 +1818,7 @@ He's crying.
 Look at you!
 You love your Aneki from the bottom of your heart, don't you?
 And yet your crying face isn't something Senpai can see.
-//HACK dollwork was changed around here, I guess. -GHS
+//Supposing "you don't show it to her" + "she's behind me and can't see". Supposing Misato is near the rooftop door, Tomoki is likely facing the antenna, with Taichi still on top of him. Guessing he's sitting on Tomoki's ass, since he can talk without problems... not that with dolls out any of this makes sense. -GHS
 
 [Tomoki]
 "And now, father will be made to make amends, and for a long time..."
@@ -1846,7 +1831,6 @@ And yet your crying face isn't something Senpai can see.
 
 [Taichi]
 "..."
-//HACK dim screen -GHS
 
 Those last words left me a deep impression.
 That's true indeed.
@@ -1864,7 +1848,6 @@ The moment it becomes tolerable,
 it becomes a monster that day and night lusts insatiably for the hurt and the destruction of all that surrounds it until nothing is left.
 //Emphasis appears to be on wanting to do, not necessarily the doing. This, after all, is a description of mankind whole. -GHS
 All while shrinking the area of whomever is next to them.
-//HACK back to normal, different doll -GHS
 
 [Misato]
 "Ah... Tomoki... that is why..."
@@ -1876,13 +1859,12 @@ Trying to smile with gentleness, she half-smiles.
 "I..."
 
 A half-smile.
-//HACK More evidence the dollwork was far from complete here. -GHS
 
 [Misato]
 "Ah...!"
 
 Trying hard beyond reason, her limps cramps up.
-//HACK later doll removal -GHS
+//...becoming a sneer, or a nihilistic smile. See above. -GHS
 My consciousness being brought back and the sound of Senpai springing into a run were simultaneous.
 //Odd term. Was he just 'manifesting' her...? -GHS
 She ran away.
@@ -1933,7 +1915,6 @@ Being apart was for the best.
 
 [Taichi]
 "I get Senpai's feelings, and well."
-//HACK this doll -GHS
 
 [Tomoki]
 "...eh."
@@ -1987,7 +1968,6 @@ Tomoki was speechless. For just one minute.
 //See CCA0022. See CCA0029: whoops. -GHS
 
 A tiny smile.
-//HACK more creeped out Tomoki -GHS
 
 [Tomoki]
 "But you're totally alright, Taichi, ain'tcha... you're making things go well for yourself, ain'tcha...?"
@@ -2031,7 +2011,7 @@ Tomoki, as I see him, appears frozen.
 //See CCX0001 -GHS
 [Taichi]
 "Maybe that father could... forgive Mimi-senpai you know."
-//HACK react damn you -GHS
+//How does he know? Even if it's part of an act, as he's lying to himself that all Sendback routes are, how does this still work? Tomoki knows his father, to accept this he'd need to know his father would forgive her. However, this is a continuation of the stuff he's done at the start: retell him what Misato told him... which he described as religious solicitation. Compare Nanaka trying to talk to Taichi about the God of the Hokora, giving up when he doesn't get it, and just telling him to go there and look inside and screw everything else. This also makes perfect sense metaphorically: capitalize the father (or replace -san with -narukami), and all is obvious. -GHS
 
 [Tomoki]
 "...!"
@@ -2045,7 +2025,7 @@ Tomoki, as I see him, appears frozen.
 "Just, as long as there's some affection it's OK. Am I wrong?"
 [Taichi]
 "...it's fine if it's a one-way flow. Seems like your father's doing just that."
-//HACK doll -GHS
+//Again, he can't know... unless the father is also the Father. -GHS
 
 [Tomoki]
 "I..."
@@ -2064,7 +2044,7 @@ Tomoki, as I see him, appears frozen.
 "'Round noon. Me and Senpai have plans to be there."
 [Taichi]
 "Also, me and Senpai had sex."
-//HACK this looks so weird in the PS2 version, where the line about sex was just cut. -GHS
+//See Yutaka and Kiri. He stole Yutaka's WAIFU, and now he NTR'd Tomoki's siscon. And yes, see CCA0016 and more - he does think of her as oneesan. -GHSoWhatDoOjisansThinkOfThis
 
 Tomoki stood in mute amazement.
 
@@ -2138,7 +2118,6 @@ I was serene after spending the night.
 
 [Taichi]
 "Let's go then."
-//HACK Nope. -GHS
 
 I come here to have a look, just in case.
 ...seems like she hasn't come.
@@ -2172,7 +2151,6 @@ There are only two bedrooms.
 One of them was vacant,
 hollow bookshelves and an empty bed, nothing else.
 Therefore...
-//HACK earlier CG, music "Crystal Clear" -GHS
 
 [Taichi]
 "...I have come."
@@ -2435,7 +2413,6 @@ Not even the body temperature comes through it, yet I could feel it.
 "I am... enough..."
 [Misato]
 "That is enough, yes..."
-//HACK earlier end music -GHS
 
 Silently the door opens.
 The two of us had no words on the way,
@@ -2597,7 +2574,6 @@ dripping wet with sweat, having come at a run.
 "Over there, she's over there."
 
 /■友貴　真剣な表情
-//HACK removed, it just reloads the same doll that's already loaded! Same message, as well. -GHS
 
 [Tomoki]
 "...what're you two doing together?"
@@ -2649,7 +2625,6 @@ Coordinates overlapped.
 //Engrish is also English for certain definitions of 'l' and 'r'. -GHS
 [Taichi]
 "...do strive to be Immoral!"
-//HACK different out (understandably, with white now for flashbacks). -GHS
 
 Tomoki is repatriated.
 //Short route... technically. -GHS
@@ -2710,7 +2685,6 @@ Tomoki is repatriated.
 [Misato]
 "...hello?"
 //Disconnected. -GHS
-HACK oddly enough it's night now. Not that it changes much if there's no loop and it's just night anyway. -GHS
 
 [Taichi]
 "...hahahah."
@@ -2723,7 +2697,6 @@ Even only to remember.
 Indescribably so.
 //http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1342764898 Hmmm, another Showa era expression? -GHS
 I leaned onto the hokora and closed my eyes.
-//HACK and out -GHS
 I am engulfed by a strange vertigo, difficult to describe.
 The world felt like it was slowly swaying from one side to the other, semicircular canals causing illusions.
 //Oh, right, the semicircular canals cause illusions... totally not like his eyes, right? -GHS
@@ -2736,5 +2709,4 @@ The world can be dismantled so easily...
 When it will end I can never know.
 And this is the place in which I go to live.
 The struggle continues.
-//HACK no need, NVL mode -GHS
                See you next week---

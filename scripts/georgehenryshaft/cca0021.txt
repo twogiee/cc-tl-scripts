@@ -22,7 +22,7 @@ she fell down.
 
 [Taichi]
 "There is safety in silence! Remember, the pheasant would have lived but for its cry."
-//HACK zoom the rooftop -GHS
+//Accepted translation of the proverb. Mixes well with the Grateful Crane in CCD1001. -GHS
 
 [Misato]
 "I-, I am not making animal calls here!"
@@ -61,7 +61,6 @@ So Senpai explained, adding full-extent gesticulation to improve the excuse.
 "Ahhh, but I told you..."
 [Misato]
 "Fine, I accept my defeat. I am sorry."
-//HACK keep music -GHS
 
 She brought up both hands.
 
@@ -75,11 +74,10 @@ She brought up both hands.
 She extends both hands forwards.
 And on those wrists,
 Clack! Snap!
-//HACK music away -GHS
+//Following audible SFX as I don't see anything here (oddly enough) -GHS
 
 [Misato]
 "...eh?"
-//HACK music starts later -GHS
 
 Ah, dammit... unconscious me.
 
@@ -137,22 +135,19 @@ She laughed.
 
 [Taichi]
 "That is because I said that."
-//HACK go straight to fogged glasses -GHS
 
 She became expressionless.
-//HACK fogged glasses moved above -GHS
 
 [Misato]
 "Right now, you stand in a position where you could not utter a word of complaint even if I were to violently assault you."
 
 [Taichi]
 "De-, depending on what that means that is Most OK!"
-//HACK independent CG shake -GHS
+//-desu. -GHS
 [Taichi]
 "Hy'ghyah!"
 
 Attacked.
-//HACK inverted last two. -GHS
 
 [Misato]
 "Why... did you do something this careless..."
@@ -178,7 +173,6 @@ Attacked.
 
 GrytGrytGryt...
 //Giri-giri. See CCC0016A, but given the SFX, works better uhmmm let's say literally. -GHS
-HACK independent CG shake -GHS
 
 [Taichi]
 "Hyesh... IMMEDIATELY!"
@@ -201,7 +195,6 @@ While in the grip of 『Burst!! * Double Iron Claw』, there exists no space for
 //...why wouldn't she stay there? This IS odd. -GHS
 
 We both return inside the school building.
-//HACK distrusting handcuffed Misato -GHS
 
 [Misato]
 "But it would be best if we are not found by anybody..."
@@ -214,7 +207,6 @@ We both return inside the school building.
 
 [Taichi]
 "If I have to say what it is, you look like you are doing a Playact."
-//HACK sweatdrop Misato. Console uses fogged glasses, but he says "something weird" instead of "play" so it would look like Misato is understanding what he's talking about here. -GHS
 
 [Misato]
 "Play...?"
@@ -233,7 +225,6 @@ Over there Miki had appeared.
 
 [Misato]
 "!!!?!?"
-//HACK independent doll shake -GHS
 
 Senpai attempted to hide the top of her hands and, flustered, failed in the act.
 The towel that covered her wrists falls gently to the floor.
@@ -283,7 +274,6 @@ Naive Senpai can't understand.
 //I still think this reads closer to a *literal* "your business is much appreciated". -GHS
 
 With a snappy bow of the head, she saw off this innocent young boy and his Senpai.
-//HACK distrusting Misato -GHS
 
 [Misato]
 "I did not really understand that conversation now."
@@ -334,8 +324,7 @@ That is why I was walking straight in the middle of the road.
 There is no one here that'd rebuke me for that.
 //He's not alone though, Youko is watching. -GHS
 But would it, really.
-//HACK NVL mode. This whitens instead of darkening. Doesn't look as bad as I feared it would, so I kept it like that. -GHS
-This is totally where he starts convincing himself he lives in a world of no humans. -GHS
+//This is totally where he starts convincing himself he lives in a world of no humans. -GHS
 For example, in a world like this,
 no matter what crime one has had stained their
 hands with, if no one rebukes you, then there
@@ -415,7 +404,7 @@ It would be a society, a world, where a sin is
 not a sin.
 These 『eyes』 we have exist for that purpose, I
 thought as if by divine revelation.
-//HACK ADV mode -GHS
+//He means more than just his Mystic Eyes. Or rather, it's the opposite. And in the end, Divine Revelation. -GHS
 I turn around.
 //And speaking of what his eyes are for, here's a nice possible hallucination of maybe his mother, maybe the devil. -GHS
 

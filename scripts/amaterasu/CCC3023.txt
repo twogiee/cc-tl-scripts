@@ -6,6 +6,7 @@ I don't know.
 Impulses were moving me, making me wander throughout the school.
 Sempai and Miki were there.
 It looks like Tomoki and Sakuraba haven't returned yet.
+//They better not be having gay car sex.....without me....-Spin
 
 [Taichi]
 "Miki."
@@ -102,6 +103,7 @@ Miki flapped her hands like a bird as she ran away.
 
 [Miki]
 "There's no need to say that!"
+//Sadly, I honestly could not figure out what she was saying here, so I guessed a bit. 〜IX
 
 [Taichi]
 "You gonna do a big one? A small one?"
@@ -212,6 +214,7 @@ A quiet......disclosure.
 "............"
 
 She knew.
+//'It had been known' just doesn't have a good dramatic impact. - Sheeta
 She knew, she knew.
 Kiri knew.
 
@@ -294,6 +297,7 @@ She says that, and then this:
 "That's because, you know......well..."
 [Taichi]
 "Since he's a guy, a lot of things would swell up."
+//No idea what he's referring to. 〜IX
 
 [Kiri]
 "That is wrong."
@@ -331,6 +335,7 @@ She pulled up.
 A bundle of cloth.
 She'd hung it from the bottom of the window frame?
 She took off the cloth, and...
+//To save you the trouble, the cg shows her holding a crossbow. 〜IX
 
 [Kiri]
 "A filthy murderer."
@@ -339,6 +344,7 @@ She took off the cloth, and...
 "......"
 
 A second one......in other words, this was Miki's.
+//Miki had one? When? And also, knowing that she can barely lift a computer monitor, there's still no way she could hold that crossbow with one hand.-Spin
 A composition of me having been splendidly lured in.
 
 [Kiri]
@@ -432,3 +438,4 @@ CSQ 0 1 1
   -Don't accept it
 :RT_BAD001
 $B = 1
+//To save you some time, the code here around the decision point means that if you chose not to follow Kiri to her second night of crossbow practice, the "Accept it" choice is made for you. 〜IX

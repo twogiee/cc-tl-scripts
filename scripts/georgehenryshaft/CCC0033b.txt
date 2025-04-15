@@ -1,7 +1,6 @@
 Munch, munch.
 Munch, munch, munch.
 Munch, munch, munch, munch.
-//HACK single page now. -GHS
 
 [Taichi]
 "Ahhh, those were tasty."
@@ -15,7 +14,7 @@ I ate up my fill.
 
 [Taichi]
 "Mh? Did you say something? Because there was something not heard right."
-//HACK Normal Youko -GHS
+//See CCC0032 -GHS
 
 [Youko]
 "...it's nothing, no."

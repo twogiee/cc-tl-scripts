@@ -1,5 +1,4 @@
 IF $KAISOU == 1 JMP SCENE001
-//HACK This is one of the most rewritten scripts in the VN, ~130 new lines!, and all but lays out one of the points of my theory: by giving in to Youko, Taichi is replicating the memory of the previous time he gave in to her, and replaying the memories of the Hasekura Massacre over the Club. Basically the only parts kept are the sex scene (it was really poorly removed) and the ending post-massacre. -GHS
 
 [Taichi]
 "Go well... for me?"
@@ -15,7 +14,6 @@ IF $KAISOU == 1 JMP SCENE001
 "Then, will you show me how you'll make things go well?"
 
 Malice pierced through my childhood friend.
-//HACK stop music, flashback intro, music "Deep Inside" -GHS
 
 [Youko]
 "It simply must go well."
@@ -89,12 +87,11 @@ Can I do this, and skillfully?
 I was crying.
 I must wreck.
 I must wreck, or I won't be able to murder people!
-//HACK flashback exit whiteout to blackout -GHS
+//This is incredibly important: Taichi needs to break BEFORE he kills. It isn't the killing that caused his break, it was him setting himself to do so. Setup which was caused directly and entirely by Youko. See way below: this will be what's played with much later. -GHS
 ............
 ......
 ...
-//HACK removing this. Since the scene is brutally removed (it fades from the flashback to the infirmary), and there's all the new stuff above, this doesn't make much sense now. -GHS
-Saturday September 12, 1998 -GHS
+//Saturday September 12, 1998 -GHS
 Saturday.
 However, from the top in my head the sense for weekdays had almost vanished.
 //And finally tossing around that 'week' with Youko pays off. -GHS
@@ -664,7 +661,7 @@ recovering the vibrator with stealth.
 I left that place carrying her on my back.
 I lay Youko-chan on a bed in the infirmary.
 Perhaps because of how much her brain had been jolted by coming, she had completely lost consciousness.
-//HACK new lines here. These make waaay more sense than the weirdass stuff below. -GHS
+//気をやった = orgasms, prettified so it's less bland. At least it's not another word for rape. -GHS
 
 [Taichi]
 "..."
@@ -692,11 +689,9 @@ I saw the instant that my fluffy tender sweet Senpai was attracted by the hard g
 //Pulling Power? See CCX0001. With the above this makes perfect sense: he's remembered how he's killed everyone, and here he is, starting with a replay of Yutaka's death. -GHS
 All my emotions at once flew into an area outside of my control.
 ............
-//HACK this effect tries to pixelate in and then out the red screen. But it's a single sheet of red and it just looks like crap, plus the text window flickers between the in and out. Now it's a simpler thing, closer to the console version. -GHS
 
 [Taichi]
 "Ngh..."
-//HACK music "Lose Control" (appropriate) -GHS
 
 Nausea.
 On the way, it felt like my gastric juices had returned to the world so many times.
@@ -718,13 +713,13 @@ All senses throughout the body grow dull. Or should I say, they're gone.
 I have a feeling like I'm sleepwalking, and I'm also aware of a dull languor as if laying sprawled.
 //Translation: he's laying in a bed in the infirmary, possibly having passed out after that mess above. -GHS
 My lecture begins.
-//HACK NVL mode, with the doll (and blending to darken it) -GHS
+//The overlap with how he killed the 14 and how he kills the 7 is even closer and ever more suspicious. -GHS
 1) Concerning Mimi-senpai.
 Did she become aware of that shameful sexual
 playact that I have inflicted on Youko-chan?
 The aforementioned query possesses
 absolutely no meaning.
-//HACK Flashback intro. You know we're in for something now. All lines within flashbacks are new. -GHS
+//She very much likely did. -GHS
 For the sake of secrecy,
 //Also "to be as a spy". -GHS
 this tiny body will become a weapon.
@@ -740,13 +735,11 @@ And the knife in my hand---
 //x12 -GHS
 In the end, was I noticed or was I not?
 The aforementioned query possesses absolutely no meaning.
-//HACK to white, black and NVL mode, doll & darkening setup. -GHS
 2) Concerning Sakuraba.
 Sakuraba did not pose resistance.
 He may just not have understood what
 was happening, perhaps.
-//HACK Flashback intro. -GHS
-7x sentences -GHS
+//7x sentences -GHS
 ††††††††††††
 Took it. A life.
 Took it, right in front of my eyes.
@@ -757,7 +750,6 @@ Blood spreading on the sheets.
 The open eyes look at us, blankly.
 //As far as I can tell, they are not together; he simply snapped. Does she just "stand still" as she follows him around? Didn't she go on ahead? And the traps? Plan makes zero sense! Becomes only slightly easier if Youko is him (or Youko is *also* him). -GHS
 He may just not have understood what was happening, perhaps.
-//HACK to white, black and NVL mode, doll & darkening setup. -GHS
 3) Concerning Kiri and Miki.
 The first thing I had to be careful about
 was that Kiri had armed herself.
@@ -772,8 +764,7 @@ to investigate the degree of battle capability
 that Miki possesses.
 //Annnd Settei. And possibly remembering that Miki calls the shots... or does she. -GHS
 The actual deed... went well.
-//HACK Flashback intro. -GHS
-8x sentences -GHS
+//8x sentences -GHS
 The two were always together.
 //Isn't this all almost ludicrously coincidental? -GHS
 They're brothers, therefore it should be natural.
@@ -783,11 +774,9 @@ first the older brother, then the younger.
 No need to worry.
 ††††††††††††
 The actual deed... went well.
-//HACK to white, black and NVL mode, doll & darkening setup. -GHS
 4) Concerning Touko.
 She had died.
-//HACK Flashback intro. -GHS
-8x sentences -GHS
+//8x sentences -GHS
 She was probably on her way to the toilet.
 //Hey, just like Kiri! -GHS
 That woman, herself, was an accomplice.
@@ -799,7 +788,6 @@ Recollections do not remain.
 When I come to notice---
 //Hello. -GHS
 She had died.
-//HACK to white, black and NVL mode, doll & darkening setup. -GHS
 5) Concerning Tomoki.
 He had died.
 The corpse had been moved and been
@@ -829,11 +817,9 @@ Remove them all!
 Lots of able-bodied had become bodies.
 //Lit. wakamono "young ones" become mono "things". Which unfortunately fits the No Massacre But Ignoring interpretation. -GHS
 And that's just that.
-//HACK to white, black and NVL mode, doll & darkening setup. -GHS
 6) Concerning Youko-chan.
 She did not pose resistance.
-//HACK Flashback intro. -GHS
-33x sentences -GHS
+//33x sentences -GHS
 One special person.
 There was a special need to 'remove' him.
 Threatened him, took him with me.
@@ -865,7 +851,6 @@ deadbody deadbody CADAVER  deadbody---
 //Tried messing with horizontal, but it just doesn't work, given the entire sequence won't fit on a single line and looks crap when split. Going for creepier. -GHS
 I remember this well.
 His laughter most extreme, sadistic as he was.
-//HACK NVL mode -GHS
                        Well.
                       Right?
                    It's alright.
@@ -882,11 +867,9 @@ His laughter most extreme, sadistic as he was.
                 and your heart...
                 Can I open it?
 //This one above is odd. First, it can't refer to how Yutaka dies, as he doesn't die at all; this may be something that Taichi says, but it may be something that he says to himself as he goes to depend on Youko - that's why I left the "help" vague. The slashing of the heart may be metaphorical, or it may well be the description of how Youko dies. -GHS
-HACK and back -GHS
 ††††††††††††
 He did not pose resistance.
-//HACK flashback exit whiteout to blackout. -GHS
-Yes, it still flashes. -GHS
+//Yes, it still flashes. -GHS
 
 [Taichi]
 "Ah..."
@@ -896,7 +879,6 @@ This had also happened before---
 ......
 ...
 //Sunday September 13, 1998 (likely) -GHS
-HACK music "Sign of Fear" -GHS
 
 [Taichi]
 "Ah..."
@@ -928,8 +910,7 @@ It's the blood of four people.
 Opening my mouth like a beast, and from the very bottom of my lungs,
 I wring out a voiceless scream.
 And the scarlet went spreading everywhere and anywhere---
-//HACK putting a bit of pause -GHS
-Music "Crystal Clear" -GHS
+//Music "Crystal Clear" -GHS
 Sunday, or so it seemed.
 I was on the rooftop, alone, standing still.
 Youko-chan posed almost no resistance.
@@ -994,8 +975,7 @@ What a squalid filthy sky there was.
 "Red---"
 
 Even from me as I was there were tears coming out.
-//HACK stop music -GHS
+//Seems to still be no tears for Yutaka, not no tears in general... or has he begun believing he's incapable of tears at all? -GHS
 ............
 ......
 ...
-//HACK putting some waitin'. -GHS

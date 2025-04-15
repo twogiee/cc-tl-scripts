@@ -100,7 +100,7 @@ Thump, and Kiri squats down.
 Grasping her leg, grinding her teeth. She must be feeling intense pain.
 The spine grew cold.
 This is Stone Throwing.
-//HACK NVL mode -GHS
+//Technique. -GHS
 In olden times, shepherds used that technique
 to guard sheep.
 //Translation: "look at our wannabe King David here". Is she planning on jumping on Kiri, grabbing her crossbow, shooting her with it, and be anointed King of the Jews? -GHS
@@ -145,7 +145,7 @@ all the time.
 The slingshot of stone throwing, so hard to
 master, she manages as if it were an extension
 of her limbs.
-//HACK ADV mode -GHS
+//She's literally tossing stones at someone who is glass, and can't even shatter her... -GHS
 No bolt is nocked in Kiri's crossbow.
 ...she must've returned fire and missed.
 That is also supposedly a fearsome weapon,
@@ -175,7 +175,6 @@ Kiri's face turns pale.
 
 [Kiri]
 "?!"
-//HACK curiously the voice file for this was missing, but it's still there in the Sendback. Not always easy to tell what's intended to be removed, unfortunately. Let's keep it. -GHS
 
 [Youko]
 "Because you are practicing to kill Taichi."
@@ -189,11 +188,10 @@ Kiri's face turns pale.
 
 There is no response to her words anymore.
 Ahhh, those are her "remove" eyes.
-//HACK dim screen -GHS
 
 [Youko]
 『What are you afraid of, then? Want me to remove what you're afraid of?』
-//HACK back to normal -GHS
+//No voice. -GHS
 
 All the things I dislike get 'removed'. By her. Always.
 They simply and completely vanish from the world.
@@ -229,7 +227,6 @@ This time it will not end simply with pain.
 Setting her crossbow in front of her face, she sobbed.
 //Kiri is not looking at what's happening. It's not certain she was even seeing anyone but Taichi. -GHS
 Is this the limit for Kiri, then?
-//HACK zoom even this? K... -GHS
 
 [Taichi]
 "That's far enough."
@@ -316,7 +313,7 @@ Youko-chan twisted her wrist.
 From the side, Kiri's head had poked out to peek into our conversation.
 //And juuust as she's about to incontrovertibly see both of them... -GHS
 I cover that face with the palm of my hand.
-//HACK uhm, shake screen instead of doing nothing -GHS
+//...he blocks her view. -GHS
 The next instant, a stone was delivered together with intense pain.
 //He could just smack his own hand with the slingshot. That's why she would just twist her wrist, not spin the slingshot. -GHS
 
@@ -548,7 +545,6 @@ And with that mumbling voice,
 
 [Kiri]
 "You mess around with people for your own enjoyment, that is why."
-//HACK shouty Kiri -GHS
 [Kiri]
 "Even when things are like this, you did not change at ALL!"
 
@@ -602,14 +598,12 @@ I stay silent.
 //This is CP'd in CCD3003 so it still fits 'why' -GHS
 
 The question came again.
-//HACK furrowbrowing-ly Kiri -GHS
 
 [Kiri]
 "You should have watched me die without helping."
 //That's the absolute most she could conclude from what she saw with Yutaka. -GHS
 [Kiri]
 "I see you as an enemy... and I believe you know that, but..."
-//HACK closed eyes Kiri -GHS
 [Kiri]
 "There is nothing you can possibly obtain by rescuing me."
 
@@ -618,7 +612,6 @@ The question came again.
 //Manga term for manga mentions. -GHS
 
 Anger swelled.
-//HACK shouty Kiri instead -GHS
 
 [Kiri]
 "I will never become a true companion to you!"
@@ -630,7 +623,6 @@ Having yet seemingly self-imposed this rule, Kiri still fired off these harsh wo
 
 [Taichi]
 "If I'm ever in a pinch..."
-//HACK closed eyes Kiri -GHS
 
 [Kiri]
 "I will not run to you!"
@@ -638,7 +630,7 @@ Having yet seemingly self-imposed this rule, Kiri still fired off these harsh wo
 
 [Taichi]
 "Hm, nice twist on it."
-//HACK more reloading the doll that's already on screen. -GHS
+//See CCC3004. -GHS
 
 [Kiri]
 "Ngh..."
@@ -647,7 +639,6 @@ She bit her lips.
 
 [Taichi]
 "Well, I came up with the reason I helped you."
-//HACK no need now -GHS
 
 [Kiri]
 "You came up with it you say..."
@@ -730,7 +721,7 @@ Kiri reflexively fired off an apology.
 
 [Taichi]
 "Ugh, owChCh, it's all tingly tingly, I feel on the verge of death due to extreme blood loss!"
-//HACK sweatdrop Kiri -GHS
+//See CCA0027, CCA0009A. Taichi's just being an ass here... or is he? -GHS
 
 [Kiri]
 "Ah, uhm..."
@@ -738,7 +729,6 @@ Kiri reflexively fired off an apology.
 
 [Taichi]
 "Please heal me gently!"
-//HACK unneeded now -GHS
 
 [Kiri]
 "Ah... wha-...???"
@@ -765,10 +755,9 @@ Indecision.
 "I... understand."
 [Kiri]
 "Because I do not want to come into debt with you."
-//HACK out with the doll -GHS
 
 With the nervousness of diffidence, the tip of her tongue touches the gash.
-//HACK this would slow fade in the doll for no reason whatsoever. -GHS
+//See CCC3022. Spoilers spoilers! -GHS
 
 [Kiri]
 "Nh... mnuh..."
@@ -866,7 +855,6 @@ Kiri's eyebrows knitted as she wiped the corners of her mouth.
 "You're weaponless now. And staying weaponless would be best."
 [Taichi]
 "If you violate that agreement, I think she might seriously assault you."
-//HACK independent doll shake -GHS
 
 [Kiri]
 "......"
@@ -944,7 +932,6 @@ Kiri threw a look at me that said she was yet discerning something heterogeneous
 
 [Taichi]
 "It's the truth."
-//HACK no doll change here -GHS
 
 [Kiri]
 "Are you saying that you intended to create a chance for reconciliation by assembling the people at the training camp?"
@@ -954,7 +941,6 @@ Kiri threw a look at me that said she was yet discerning something heterogeneous
 
 Pupils twinkle.
 The water surface shakes as if shivering.
-//HACK and no need to change back -GHS
 
 [Kiri]
 "That... I don't want to believe."
@@ -1016,7 +1002,6 @@ It's become swollen.
 
 [Kiri]
 "?!"
-//HACK wrong doll again. -GHS
 [Kiri]
 "I-, I knew it, you animal..."
 
@@ -1024,7 +1009,7 @@ Covering her shoulders, she steps back.
 
 [Taichi]
 "Come now come now, that was a joke. Don't take it so seriously."
-//HACK This Kiri. -GHS
+//That's very good advice... except it's obvious she keeps doing so, therefore it's Taichi that should be more careful with jokes. This explains the subtle but important differences between this and her Sendback route. (So subtle that nearly half of Kiri sendback isn't even new material!) -GHS
 
 [Kiri]
 "Isn't that... just what you say before doing sexual harassment to Miki and to others anyway?"
@@ -1123,7 +1108,6 @@ I start going.
 "Come now, let's go!"
 
 Unwillingly and grudgingly she comes with.
-//HACK eyes closed Kiri -GHS
 
 [Kiri]
 "OW-!"
@@ -1132,7 +1116,7 @@ Unwillingly and grudgingly she comes with.
 "I knew it, it hurts, right? Wanna piggyback?"
 
 Ten fingers wriggle and squirm while making a grabbing gesture.
-//HACK so this is her frightened...? -GHS
+//Piggyback = assrub -GHS
 
 [Kiri]
 "...stop, stay back!"
@@ -1155,7 +1139,6 @@ She became silent.
 
 [Taichi]
 "So, let's go."
-//HACK out with the doll -GHS
 
 Behind my back, the sound of light footsteps trudging along.
 I leave the bicycle and we walk the way back.

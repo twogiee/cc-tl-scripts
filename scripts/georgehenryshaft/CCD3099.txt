@@ -1,5 +1,4 @@
 And then I escaped back to where I came from.
-//HACK music "Deep Inside" -GHS
 Failures are impermissible.
 In every way.
 I must proceed carefully, without fail.
@@ -18,12 +17,10 @@ I waited for the time in silence.
 How all the ones that remained passed their time after that, I have no idea.
 How many times has everyone's individuality been erased by now?
 The weight of that truth dazzled and disoriented me.
-//HACK end music -GHS
 And then---
 $B = 1
 IF $SB_FALSE < 19 JMP L_INC
 JMP L_DODGE
-//HACK I've tweaked it. Watch out now. -GHS
 :L_INC
 $SB_FALSE + 1
 :L_DODGE

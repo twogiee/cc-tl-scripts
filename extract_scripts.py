@@ -1,14 +1,17 @@
 import os
 import re
+import codecs
 from pathlib import Path
 
 def extract_text_from_dsf(file_path, translation_name):
     """Extract text, speaker, and comments from a dsf file."""
+    # Read with Shift-JIS using codecs, replacing invalid characters
     try:
         # Try reading with Shift-JIS first
         with open(file_path, 'r', encoding='shift-jis', errors='ignore') as f:
             content = f.read()
     except UnicodeDecodeError:
+        print(f"Failed to read {file_path} with Shift-JIS, trying UTF-8")
         # Fall back to UTF-8 if Shift-JIS fails
         with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
             content = f.read()
@@ -18,6 +21,13 @@ def extract_text_from_dsf(file_path, translation_name):
     extracted_lines = []
     current_tlnote = None
     building_comment = []
+    
+    # Define the list of translator names and their possible formats
+    translator_patterns = [
+        r'- (IX|Raide|Sheeta|pondrthis|Neko|Spin|GHS.*?)$',  # Format: "- Name" with any GHS suffix
+        r'-(IX|Raide|Sheeta|pondrthis|Neko|Spin|GHS.*?)$',   # Format: "-Name" with any GHS suffix
+        r'〜(IX|Raide|Sheeta|pondrthis|Neko|Spin|GHS.*?)$',  # Format: "～Name" with any GHS suffix
+    ]
     
     for line in lines:
         # Preserve leading spaces but strip trailing spaces
@@ -32,7 +42,7 @@ def extract_text_from_dsf(file_path, translation_name):
         if line in ('TL', 'TP'):
             # If we were building a comment, attach it to previous line
             if building_comment and extracted_lines:
-                comment = '\n'.join(c[2:].strip() for c in building_comment)
+                comment = '\n//'.join(c[2:].strip() for c in building_comment)
                 extracted_lines[-1]['comment'] = comment
                 building_comment = []
             continue
@@ -48,9 +58,16 @@ def extract_text_from_dsf(file_path, translation_name):
                 current_tlnote = line.split(':', 1)[1].strip() if ':' in line else line[15:].strip()
             continue
             
-        # Handle GHS comments
-        if line.startswith('//') and not line.startswith('//CP') and '-GHS' in line:
-            building_comment.append(line)
+        # Handle translator comments
+        if line.startswith('//') and not line.startswith('//CP'):
+            # Skip HACK comments
+            if line.startswith('//HACK'):
+                continue
+                
+            for pattern in translator_patterns:
+                if re.search(pattern, line):
+                    building_comment.append(line)
+                    break
             continue
             
         # If we have a non-empty line that's not a command or comment, it's dialogue
@@ -123,7 +140,7 @@ def main():
     os.makedirs('scripts/georgehenryshaft', exist_ok=True)
     
     # Process each translation
-    process_translation('raw/amaterasu/script', 'scripts/amaterasu')
+    process_translation('raw/amaterasu/scripts', 'scripts/amaterasu')  # Fixed path
     process_translation('raw/georgehenryshaft/scripts', 'scripts/georgehenryshaft')
 
 if __name__ == "__main__":
